@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Abmahnung nach Paragraf 97a UrhG beantworten: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+6. Bearbeitung und Umgestaltung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung nach Paragraf 97a UrhG beantworten | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerurheber und Auftragswerke | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Architektur und angewandte Kunst | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auskunft, Rechnungslegung und Besichtigung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bearbeitung und Umgestaltung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweisforensik, Versionen und Hashes | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| System-Klauseln in Urheberverträgen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angemessene Vergütung und Bestseller | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verjährung, Dringlichkeit und Fristen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Musikvertrag und Release-Paket | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,17 +52,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Paragrafen 97, 97a, 98, 100, 101 UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 935, 940 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a UrhG (Abmahnung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 31 ff. UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2 UrhG (geschützte Werke): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 7 UrhG (Urheber): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 15-24 UrhG (Verwertungsrechte): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 97 UrhG (Unterlassung, Schadensersatz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 - BGH I ZR 121/08 (Sommer unseres Lebens)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abmahnung nach Paragraf 97a UrhG beantworten, Arbeitnehmerurheber und Auftragswerke, Architektur und angewandte Kunst, Auskunft, Rechnungslegung und Besichtigung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bearbeitung und Umgestaltung, Beweisforensik, Versionen und Hashes, System-Klauseln in Urheberverträgen, Angemessene Vergütung und Bestseller: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Laufzeitende und Exitplan | BGB Paragraf 311b; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Entschädigung | BGB Paragraf 311b; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 873 und Paragraf 925 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Altlasten und Rückbau | BGB Paragraf 873 und Paragraf 925; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Grundbuchstreit im Erbbaurecht | BGB Paragraf 873 und Paragraf 925; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -134,58 +134,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Laufzeitende und Exitplan
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Altlasten und Rückbau
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Change of Control beim Erbbauberechtigten
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Entschädigung
+### 15.1. Entschädigung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Grundbuchstreit im Erbbaurecht
+### 15.2. Grundbuchstreit im Erbbaurecht
 
 Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Erbbaugrundbuch lesen
+### 15.3. Fristen und Reminder
 
 Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Erbbauakte strukturieren
+### 15.4. Erbbaurechtsvertrag entwerfen
+
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Steuerliche Schnittstellen
+
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Verkaufsklauseln
+
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Laufzeitende und Exitplan
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Altlasten und Rückbau
+
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Change of Control beim Erbbauberechtigten
+
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Erbbaugrundbuch lesen
+
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Erbbauakte strukturieren
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Betreiberwechsel
+### 15.12. Betreiberwechsel
 
 Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Vorkaufsrechte im Erbbaurecht
+### 15.13. Vorkaufsrechte im Erbbaurecht
 
 Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Fristen und Reminder
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Gewerbliches Erbbaurecht
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Indexklausel und Inflation
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Investor Q&A
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Sozialimmobilie/Kita
+### 15.14. Gewerbliches Erbbaurecht
 
 Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. - Paragraf 11 ErbbauRG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

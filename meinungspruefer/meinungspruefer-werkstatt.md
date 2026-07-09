@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Reaktion auf Abmahnung oder Strafanzeige | GG Artikel 1 Absatz 1; BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | GG Artikel 1 Absatz 1; BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GG Artikel 2 Absatz 1 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Art. 5 GG - Abwägung | GG Artikel 2 Absatz 1; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beleglage bei Tatsachenbehauptungen | GG Artikel 2 Absatz 1; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,7 +69,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte |
+| BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte |
 | BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit |
 | BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung |
 | BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Volkszählung entwickelt informationelle Selbstbestimmung |
@@ -88,10 +88,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeutet nicht, dass Ehrschutz verdrängt wird. Es bedeutet: Im Normalfall muss konkret abgewogen werden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein. Art. 11 GRCh schützt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 188 StGB Fassung 22.09.2021: Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei Paragraf 188 II StGB qualifiziert: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 10 EMRK, EGMR-Guide: https://ks.echr.coe.int/documents/d/echr-ks/guideart10_eng-pdf: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 11 GRCh: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016P011: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
@@ -150,58 +153,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Reaktion auf Abmahnung oder Strafanzeige
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Art. 5 GG - Abwägung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.1. Aeusserungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Betrieb, Kantine und Arbeitgeber
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Beleglage bei Tatsachenbehauptungen
+### 15.2. Beleglage bei Tatsachenbehauptungen
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien
+### 15.3. Beweissicherung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Beweissicherung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Chronologie und Belegmatrix
+### 15.4. Chronologie und Belegmatrix
 
 Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich meinungsprüfer sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. EGMR-Art.-10-Rechtsprechung
+### 15.5. Reaktion auf Abmahnung oder Strafanzeige
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Einstieg und Routing
-
-Dieser Einstieg routet Meinungsprüfer vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - abmahnung-strafanzeige-reaktion — Abmahnung Strafanzeige Reaktion - abwägung-art-arbeitgeber-betrieb — Abwägung ART. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. EuGH und Art. 11 GRCh
+### 15.6. Art. 5 GG - Abwägung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Europarecht: EMRK und Grundrechtecharta
+### 15.7. Betrieb, Kantine und Arbeitgeber
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Gegendarstellung, Entschuldigung, Deeskalation
+### 15.8. Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. EGMR-Art.-10-Rechtsprechung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. EuGH und Art. 11 GRCh
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Europarecht: EMRK und Grundrechtecharta
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Gegendarstellung, Entschuldigung, Deeskalation
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Machtkritik und Amtsträger
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

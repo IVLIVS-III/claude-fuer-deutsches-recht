@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
 4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
 5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
-6. Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+6. Art. 78 Rechtsschutz: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung nach Paragraf 55 OWiG | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwesenheit und Entbindung Paragraf 73 OWiG | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschäftigtendaten und Betriebsrat | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art.-58-Anordnung als Verwaltungsakt | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Art. 78 Rechtsschutz | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behördenuntätigkeit und Beschwerdegegner | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behördenpost richtig lesen | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerde eines Betroffenen als Auslöser | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisrecht im Datenschutz-OWiG | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bußgeldbescheid Paragraf 65 OWiG analysieren | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Art. 47, 48, 50, 52 GRCh: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 20 und Paragraf 41 BDSG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 20/Paragraf 41 BDSG je nach Spur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 41 BDSG / OWiG-StPO-Verweise: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 20 und Paragraf 41 BDSG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
 - EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO, Anhörung nach Paragraf 55 OWiG, Anwesenheit und Entbindung Paragraf 73 OWiG, Beschäftigtendaten und Betriebsrat: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Art. 78 Rechtsschutz, Behördenuntätigkeit und Beschwerdegegner, Behördenpost richtig lesen, Beschwerde eines Betroffenen als Auslöser: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

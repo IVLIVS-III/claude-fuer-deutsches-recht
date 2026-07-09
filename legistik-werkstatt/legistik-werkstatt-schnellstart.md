@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA): Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Völkerrecht und Vertragsgesetzgebung (AA): Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA) | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EU-Grundlagen und Ratsverfahren (AA) | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Konsularrecht und Passrecht (AA) | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sanktionsumsetzung und internationale Abkommen (AA) | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Völkerrecht und Vertragsgesetzgebung (AA) | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Änderungs: Formular, Portal und Einreichungslogik | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verbändeanhörung und Ressortabstimmung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- Kernbestand des Sachfelds: GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 20 Abs. 3 GG — Gesetzesbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 76 Abs. 1 GG — Gesetzesinitiative: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 77 Abs. 1 GG — Gesetzesbeschluss: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 80 Abs. 1 GG — Verordnungsermächtigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA), EU-Grundlagen und Ratsverfahren (AA), Konsularrecht und Passrecht (AA), Sanktionsumsetzung und internationale Abkommen (AA): Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Völkerrecht und Vertragsgesetzgebung (AA), Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg, Fristen- und Risikoampel, Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

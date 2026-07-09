@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+6. ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens | Sofortmaßnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhältnis: Einfrieren von Geldern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Allgemeingenehmigung AGG Finder | Dieser Skill behandelt Allgemeingenehmigung AGG Finder als operativen Workflow für Unternehmen, Kanzleien. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BAFA Nullbescheid Azg | Dieser Skill behandelt BAFA Nullbescheid Azg als operativen Workflow für Unternehmen, Kanzleien. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass | Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Überlassung zum zollrechtlich freien Verkehr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragrafen 10-17 GwG: Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofälle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 GwG: Verdachtsmeldepflicht an FIU: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstärkte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 355 AO: Einspruchsfrist (1 Monat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- FGO Paragrafen 40-68: Finanzgerichtliche Klage bei Zollbescheiden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 BGB: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle, Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens, Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren, AEO-Bewilligung: Monitoring laufender Bedingungen.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten, BAFA Nullbescheid Azg, Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten, Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

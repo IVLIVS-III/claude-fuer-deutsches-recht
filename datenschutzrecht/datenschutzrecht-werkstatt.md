@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Customize – Praxisprofil anpassen | Datenschutz-Grundverordnung Artikel 5; EuGH, Urteil vom 16.07.2020 - C-311/18 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung | Datenschutz-Grundverordnung Artikel 5; EuGH, Urteil vom 16.07.2020 - C-311/18 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Datenschutz-Grundverordnung Artikel 6 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | Datenschutz-Grundverordnung Artikel 6; EuGH, Urteil vom 04.05.2023 - C-300/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g | Datenschutz-Grundverordnung Artikel 6; EuGH, Urteil vom 04.05.2023 - C-300/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Datenschutz-Grundverordnung Artikel 28 | Auftragsverarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 32 | Sicherheit der Verarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 33 und Artikel 34 | Meldung von Verletzungen des Schutzes personenbezogener Daten | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
-| Art. 37 Datenschutz-Grundverordnung, Paragraf 38 BDSG (DSB-Benennungspflicht) | Art. 37 Datenschutz-Grundverordnung, Paragraf 38 BDSG (DSB-Benennungspflicht) | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
+| Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken) | Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken) | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,12 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Datenschutz-Grundverordnung Artikel 32: Sicherheit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 33 und Artikel 34: Meldung von Verletzungen des Schutzes personenbezogener Daten.
-- Art. 37 Datenschutz-Grundverordnung, Paragraf 38 BDSG (DSB-Benennungspflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BDSG: Paragraf 22 (Gesundheits-/Sozialdaten), Paragraf 26 (Beschäftigtendatenschutz), Paragraf 38: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 42 BDSG Strafvorschriften bei vorsätzlicher unbefugter Offenlegung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 4 Nr. 12; Art. 33 Abs. 1; Art. 33 Abs. 3; Art. 33 Abs. 5; Art. 34 Abs. 1 Datenschutz-Grundverordnung; Paragraf 42 BDSG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 34 BDSG: Ausnahmen (z. B. Datenverbleib bei Berufsgeheimnisträgern, Strafverfolgung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO, Paragraf 50 BDSG, Paragraf 11 BORA – steuer-, handels- und berufsrechtliche Aufbewahrungspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO: 10 Jahre, 6 Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 50 BDSG: bis Zweckerreichung beendet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB i.V.m. Paragraf 199 BGB: Verjährungsablauf abwarten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO, Paragraf 50 BDSG, Paragraf 11 BORA: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 26 BDSG (Beschäftigtendaten): Erforderlichkeit für Begründung/Durchführung/Beendigung Arbeitsverhältnis; Beweislast Arbeitgeber. Bei Aufdeckung von Straftaten Abs. 1 S. 2 —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -151,58 +153,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Customize – Praxisprofil anpassen
+### 15.1. AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verteilung der Datenschutz-Grundverordnung-Haftungsrisiken zwischen Verantwortlichem und Auftragsverarbeiter; Trennung von Aussenhaftung gegenüber Betroffenen und Innenregress; Grenzen vertraglicher Haftungsbegrenzungen. Purpose (EN): Liability allocation between controller and. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anschluss-Routing
+### 15.2. Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung
 
-Dieses Anschluss-Routing für Datenschutzrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - anpassen — Anpassen - einstieg-schnelltriage-fallrouting — Anschluss - anwendungsfall-triage — Anwendungsfall Triage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, Formate, Fristen, Nachweise und Aufbewahrungsausnahmen. Purpose (EN): End-of-contract data return and deletion under Article 28 (3) (g) GDPR. - Vertragsende eines AVV steht bevor. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Datenschutz-Triage neuer Verarbeitungsvorgänge
+### 15.3. Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Besondere Kategorien Art. 9 Datenschutz-Grundverordnung im Datenschutzvorfall
+### 15.4. Beweissicherung nach Datenschutzvorfall — Chain of Custody
 
-1. Liegen Daten im Sinne Art. 9 Abs. 1 Datenschutz-Grundverordnung vor — wenn ja welche konkret? 2. Wie viele Betroffene und welche Mengen? 3. Sind die Daten im Klartext oder verschlüsselt oder pseudonymisiert? 4. Welche besondere Aufsicht (Sektorbehörde) ist zuständig? 5. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Datenschutzvorfall — Erstaufnahme als Statusinformation
+### 15.5. Bankablehnung wegen Score: Beweisplan
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Datenschutz-Grundverordnung Art. 15, 17, 21, 22, 82; BGB AGG nur falls einschlägig; ZPO Beweis. - Bank nennt keinen Grund - Score ist nur ein Faktor - Schaden nicht dokumentiert Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Auskunft: Behörden-, Gerichts- oder Registerweg
+### 15.6. Datenschutz Beschwerde Art. 77 Datenschutz-Grundverordnung — Aufsichtsbehörden-Praxis
+
+Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der Mandant Adressat einer Beschwerde ist und von der Aufsichtsbehörde angehoert wird, oder (c) eine Beschwerde durch Untaetigkeitsklage durchgesetzt werden soll. Sieben-Fragen-Diagnose: 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Beschwerde Art
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Joint-Controller-Vereinbarung Art. 26 Datenschutz-Grundverordnung – deutsche Vertragsfassung
+### 15.8. Aufsichtsbeschwerde gegen Auskunftei
 
-Klauselgerüst für eine Joint-Controller-Vereinbarung nach Art. 26 Datenschutz-Grundverordnung in deutscher Vertragssprache, mit Aufgabenverteilung, Anlaufstelle für Betroffene und Innenregress. Purpose (EN): Joint controller agreement template under Article 26 GDPR in German. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Datenschutz-Grundverordnung Art. 57, 58, 77, 78; BDSG/Landesrecht Zuständigkeit; EuGH C-26/22. - falsche Aufsicht - Beschwerde ohne konkrete Anträge - zivilrechtlicher Schaden nicht getrennt Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Auftragsverarbeitung Art. 28 Datenschutz-Grundverordnung – Grundtatbestand
+### 15.9. Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung
 
-Strukturierte Prüfung, ob ein Vertragsverhältnis dem Grundtatbestand der Auftragsverarbeitung nach Art. 28 Datenschutz-Grundverordnung unterfällt und damit ein Auftragsverarbeitungsvertrag (AVV / Data Processing Agreement, DPA) abzuschließen ist. Purpose (EN): Determine whether. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Isolation von Datenschutzmandaten in Mehrmandat-Kanzleien: Jeder Mandant erhält einen eigenen Arbeitsbereich mit eigener Mandatsdatei (mandat.md). Skills lesen das kanzlei-weite Praxisprofil (CLAUDE.md) für kanzleiweite Regeln und die mandatsspezifische Datei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. AVV-Mindestinhalte nach Art. 28 Abs. 3 Datenschutz-Grundverordnung – Klauselcheckliste
+### 15.10. Dsfa: Beweislast, Darlegungslast und Substantiierung
 
-Pflichtinhalte-Checkliste für Auftragsverarbeitungsverträge nach Art. 28 Abs. 3 Datenschutz-Grundverordnung – Klausel für Klausel mit Soll-Position, Fallback und Prüfkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause. - Beim. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. AVV-abrufen und Kontrollrechte – Art. 28 Abs. 3 lit. h Datenschutz-Grundverordnung
+### 15.11. Dsv Beweissicherung
 
-Ausgestaltung des abrufen- und Kontrollrechts des Verantwortlichen gegenüber dem Auftragsverarbeiter mit Balance zwischen wirksamer Kontrolle und Wahrung der Geschäftsablaeufe. Purpose (EN): abrufen and inspection rights under Article 28 (3) (h) GDPR. - abrufen-Klauseln im AVV. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Cloud und Sub-Auftragsverarbeitung Art. 28 Abs. 2 und Abs. 4 Datenschutz-Grundverordnung
+### 15.12. Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB
 
-Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerweise mehrstufiger Kette: Anbieter (Tier 1), Hyperscaler (Tier 2), Drittland-Support (Tier 3). Purpose (EN): Sub-processing under Article 28 (2) and (4) GDPR in cloud and SaaS deployment chains. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. EU-Kommissions-Standardvertragsklauseln Controller-Processor (Beschluss (EU) 2021/915)
+### 15.13. Dsv Sammelklagen Prävention
 
-Anwendung und Aufbau der EU-Kommissions-Standardvertragsklauseln zwischen Verantwortlichem und Auftragsverarbeiter nach Beschluss (EU) 2021/915 vom 04.06.2021. Diese Klauseln decken den AVV nach Art. 28 Datenschutz-Grundverordnung ab und sind nicht zu verwechseln. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. EU-US Data Privacy Framework (DPF) im AVV
+### 15.14. Dsv Sanktion Bescheid oder Anhörung Richtig Lesen
 
-Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizierungsprüfung und SCC-Fallback. Purpose (EN): Treatment of the EU-US Data Privacy Framework in DPAs, including self-certification check and SCC fallback. - US-Anbieter wird als Auftragsverarbeiter. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung
-
-Verteilung der Datenschutz-Grundverordnung-Haftungsrisiken zwischen Verantwortlichem und Auftragsverarbeiter; Trennung von Aussenhaftung gegenüber Betroffenen und Innenregress; Grenzen vertraglicher Haftungsbegrenzungen. Purpose (EN): Liability allocation between controller and. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

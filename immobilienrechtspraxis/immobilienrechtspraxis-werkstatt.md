@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anschluss-Routing | BGB Paragraf 311b; BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bauvertrag VOB-B / BGB | BGB Paragraf 311b; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 873 und Paragraf 925 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Bauträgerkauf: Eigentumspfad und Freistellung | BGB Paragraf 873 und Paragraf 925; BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Immo: Abschlussprodukt und Übergabe | BGB Paragraf 873 und Paragraf 925; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -67,9 +67,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil vom 15.12.2021 |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -82,18 +80,18 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GBO Paragraf 13, Paragraf 18, Paragraf 19 und Paragraf 29: Antrag, Zwischenverfügung, Bewilligung und grundbuchtauglicher Nachweis.
 - BeurkG Paragraf 13 und Paragraf 17: Niederschrift, Vorlesen, Genehmigen und notarielle Belehrungs- und Betreuungspflichten.
 - ErbbauRG Paragraf 1, Paragraf 2, Paragraf 9 und Paragraf 27: Inhalt, Vereinbarungen, Erbbauzins und Entschädigung bei Zeitablauf.
-- Paragrafen 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307, 320, 321, 650u, 650v BGB; Paragrafen 3, 7, 12 MaBV; Paragrafen 103, 106 InsO; GBO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 925 Abs. 1 BGB — Auflassung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1113 Abs. 1 BGB — Hypothek: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1191 Abs. 1 BGB — Grundschuld: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR 118/19 und BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 nur mit frei prüfbarer Quelle zitieren. Keine BeckRS
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Bauträgerkauf: Eigentumspfad und Freistellung
-
-Nutze diesen Skill, wenn ein Immobilienerwerber vom Bauträger zahlt oder zahlen soll, bevor Eigentum lastenfrei gesichert ist. Paragrafen 883, 885, 888, 925, 1113 ff., 1191 ff., 305c Abs. 2, 307, 320, 321, 650u, 650v BGB; Paragrafen 3, 7, 12 MaBV; Paragrafen 103, 106 InsO; GBO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Betriebskostenabrechnung erstellen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Betriebskostenabrechnung prüfen
+### 15.1. Bauvertrag VOB-B / BGB
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Case: Internationaler Bezug und Schnittstellen
+### 15.2. Immo: Abschlussprodukt und Übergabe
 
-Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Case Management Immobilienrecht
+### 15.3. Grundstueckskaufvertrag
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Grundstueckskaufvertrag prüfen: Paragraf 311b BGB notarielle Beurkundung, Auflassung Paragraf 925 BGB, Eintragung Auflassungsvormerkung Paragraf 883 BGB, Kaufpreiszahlung, Vollzugspflichten, Sicherheiten. Prüfraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Einstieg und Routing
-
-Dieser Einstieg routet Immobilienrechtspraxis vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - betriebskostenabrechnung-erstellen-asset-management — Betriebskostenabrechnung Erstellen Asset Management. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Gegen: Verhandlung, Vergleich und Eskalation
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Grundbuchanalyse
+### 15.4. Mietkaufvertrag
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Aufteilungsplan WEG
+### 15.5. Zwangsversteigerung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Bauliche Veränderung WEG
+### 15.6. Immobilienrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Immobilienrechtspraxis: Fristennotiz und nächster Schritt
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. ImmoR: Bauvertrag VOB BGB
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bauvertrag VOB-B / BGB
+### 15.9. ImmoR: Erbbaurecht-Vertrag
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. ImmoR: Grundstueckskaufvertrag
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Klauselschutz: Behörden-, Gerichts- oder Registerweg
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Live: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Rechtsabteilungen: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Immobilienrechtspraxis — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

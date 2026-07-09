@@ -128,7 +128,7 @@ Nachbohren: "Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung
 - § 35 VwVfG
 - § 15 StGB
 - § 1 StGB
-- § 70 VwG
+- § 70 VwGO
 - Art. 3 GG
 - § 32 StGB
 - § 16 StGB

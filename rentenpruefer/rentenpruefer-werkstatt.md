@@ -52,9 +52,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | ärzte-apotheker-architekten-versorgungswerk | SGB VI Paragraf 35; BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | auslandszeiten-ohne-abkommen-beweisstrategie | SGB VI Paragraf 35; BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB VI Paragraf 36 und Paragraf 38 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | aktenstruktur-und-dokumentenintake | SGB VI Paragraf 36 und Paragraf 38; BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | berufswechsel-angestellte-selbständige-freiberufler | SGB VI Paragraf 36 und Paragraf 38; BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -156,58 +156,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. ärzte-apotheker-architekten-versorgungswerk
+### 15.1. auslandszeiten-ohne-abkommen-beweisstrategie
 
 Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. aktenstruktur-und-dokumentenintake
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. altersrente-langjährig-besonders-langjährig
+### 15.2. berufswechsel-angestellte-selbständige-freiberufler
 
 Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Angestellten-Rentenfahrplan Erstberatung
-
-Beginne mit einem einseitigen Rentenfahrplan. Wenn noch Unterlagen fehlen, markiere Annahmen, aber liefere trotzdem eine belastbare erste Route. Frage nur nach: 1. Geburtsdatum, aktueller Beschäftigungsstatus und gewünschter Ausstieg. 2. Renteninformation, Rentenauskunft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. anwälte-versorgungswerk-spezial
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. arbeitslosigkeit-buergergeld-und-rente
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. auslandszeiten-eu-ewr-schweiz
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. auslandszeiten-ohne-abkommen-beweisstrategie
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. auslandszeiten-sozialversicherungsabkommen
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. auswanderung-rente-ins-ausland-zahlung
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. beitraege-lücken-und-nachzahlung
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. berufswechsel-angestellte-selbstaendige-freiberufler
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Bescheid Widerspruch Klage Sozialgericht
+### 15.3. Bescheid Widerspruch Klage Sozialgericht
 
 Erstelle zuerst ein Fristenblatt. Danach kommt die Fehlerhypothese. 1. Verfügungssatz, Berechnung und Begründung trennen. 2. Rechtsbehelfsbelehrung prüfen. 3. Fehlerhypothese mit Monatsraster oder medizinischem Befund verbinden. 4. Akteneinsicht und Berechnungsanlagen anfordern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Betriebsrente Anpassung Abfindung
+### 15.4. beweisnot-eidesstattliche-erklärung-zeugen
 
-Trenne drei Fragen: Muss angepasst werden, darf abgefunden werden, stimmt die Nettoauszahlung? - BetrAVG Paragraf 3: Abfindung. - BetrAVG Paragraf 16: Anpassungsprüfung laufender Leistungen. - SGB V Paragraf 229: Versorgungsbezüge. Erstelle ein Forderungs- oder Prüfschreiben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. DRV Kontenklärung Beweisersatz
+
+Liefere eine Beweislandkarte. Ziel ist nicht, „Unterlagen fehlen“ festzustellen, sondern den besten Ersatzbeleg zu finden. - SGB VI Paragraf 149: Kontenklärung. - SGB X Paragraf 20 und 21: Amtsermittlung und Beweismittel. - SGG Paragraf 103: Sachaufklärung im Gerichtsverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Private Rentenversicherung im Rentenfahrplan
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. rentenbescheid-prüfen-widerspruch
+
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. widerspruch-sozialgericht-klage
+
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. ärzte-apotheker-architekten-versorgungswerk
+
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. aktenstruktur-und-dokumentenintake
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. altersrente-langjährig-besonders-langjährig
+
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Angestellten-Rentenfahrplan Erstberatung
+
+Beginne mit einem einseitigen Rentenfahrplan. Wenn noch Unterlagen fehlen, markiere Annahmen, aber liefere trotzdem eine belastbare erste Route. Frage nur nach: 1. Geburtsdatum, aktueller Beschäftigungsstatus und gewünschter Ausstieg. 2. Renteninformation, Rentenauskunft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. anwälte-versorgungswerk-spezial
+
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. arbeitslosigkeit-buergergeld-und-rente
+
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

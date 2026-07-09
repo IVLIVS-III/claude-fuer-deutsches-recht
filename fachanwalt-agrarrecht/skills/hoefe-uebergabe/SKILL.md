@@ -1,126 +1,88 @@
 ---
 name: hoefe-uebergabe
-description: "Wenn es um Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein) in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Plant und entwirft die lebzeitige Hofübergabe im Geltungsbereich der Höfeordnung. Prüft Hofeigenschaft, Grundsteuerwert, Hoferbenberechtigung, Abfindung und Nachabfindung, Altenteil, Genehmigung, Grundbuchvollzug und Steuer-Schnittstellen und liefert Übergabematrix, Verhandlungspunkte sowie einen notariell anschlussfähigen Vertragsauftrag."
 ---
 
-# Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein)
+# Hofübergabe nach der Höfeordnung
 
+## 1. Direktstart
 
-## Arbeitsweg
+Lies zuerst Grundbuch, Hofvermerk, aktuellen Grundsteuerwertbescheid, Flurstücks- und Inventarliste, Familienübersicht, Finanzierungen und vorhandene Übergabeentwürfe. Erstelle daraus sofort eine Übergabematrix. Frage nur nach Angaben, die sich aus den Unterlagen nicht belastbar ergeben und den nächsten Schritt ändern.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Die erste Ausgabe enthält:
 
-**Fokus:** Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit.
+1. Hofstatus und anwendbares Übergangsrecht,
+2. Beteiligte und mögliche Hoferben,
+3. Vertragsgegenstand und zurückbehaltene Rechte,
+4. vorläufige Abfindungs- und Nachabfindungsrechnung,
+5. Genehmigungs-, Grundbuch- und Steuerpunkte,
+6. offene Entscheidungen für die notarielle Gestaltung.
 
-### Höfe-Übergabe
+## 2. Normen- und Stichtagskarte
 
-## Kaltstart-Rückfragen
+- HöfeO Paragraf 1: Hofeigenschaft bei mindestens 54.000 EUR Grundsteuerwert; zwischen 27.000 EUR und unter 54.000 EUR nur nach Erklärung und Eintragung des Hofvermerks.
+- HöfeO Paragraf 4 bis Paragraf 7: Sondererbfolge und Hoferbenordnung; Eignung, Ausschlussgründe und Bestimmung des Übernehmers getrennt prüfen.
+- HöfeO Paragraf 12 Absatz 2: Hofeswert grundsätzlich 60 Prozent des zuletzt festgestellten Grundsteuerwerts; erhebliche besondere Umstände können Zu- oder Abschläge rechtfertigen.
+- HöfeO Paragraf 12 Absatz 3 und Absatz 10: hofbezogene Nachlassverbindlichkeiten, Mindestboden und entsprechende Anwendung auf Pflichtteilsberechtigte, Vermächtnisnehmer und den ausgleichsberechtigten Ehegatten.
+- HöfeO Paragraf 13: zwanzigjährige Nachabfindung insbesondere bei Veräußerung, erheblicher Einzelveräußerung, gesellschaftsrechtlicher Einbringung oder gewinnbringender Nutzungsänderung; Ersatzbeschaffung und gesetzliche Abschläge mitrechnen.
+- HöfeO Paragraf 16 und Paragraf 17: Wirkung der vorweggenommenen Hoferbfolge; bei Übergabe an einen hoferbenberechtigten Abkömmling gilt der Erbfall hinsichtlich des Hofes zugunsten der anderen Abkömmlinge mit der Übertragung als eingetreten.
+- HöfeO Paragraf 18 sowie LwVfG Paragrafen 1 und 2: ausschließliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht für die dort genannten Höfesachen im ersten Rechtszug.
+- HöfeO Paragraf 19 Absatz 3: Übergangsfälle bis längstens 31.12.2026 gesondert prüfen; Grundbuchlage allein ersetzt die Stichtagsprüfung nicht.
+- BGB Paragraf 311b Absatz 1: notarielle Beurkundung der Grundstücksübertragung.
+- BGB Paragraf 1093, BGB Paragraf 1105 und BGB Paragraf 2346: Wohnungsrecht, Reallast und notarieller Erb- oder Pflichtteilsverzicht als mögliche Gestaltungsbausteine.
 
-1. In welchem Bundesland liegt der Hof (HöfeO gilt nur Hamburg, Niedersachsen, NRW, Schleswig-Holstein)?
-2. Liegt Hofeigenschaft im Grundbuch eingetragen vor (Hoffolgevermerk § 6 HöfeO)?
-3. Welche weichenden Geschwister gibt es und welche Pflichtteilsansprüche drohen?
-4. Soll die Übergabe zu Lebzeiten erfolgen oder im Erbfall geregelt werden?
-5. Welche Vorbehalte (Altenteil, Wohnrecht, Pflegevereinbarung) sind gewünscht?
+Paragraf 14 HöfeO regelt Rechte des überlebenden Ehegatten im Erbfall. Lebzeitige Altenteilsleistungen des Übergebers entstehen dagegen aus dem Übergabevertrag und den zu ihrer Sicherung bestellten dinglichen Rechten.
 
-## Anspruchsgrundlagen
+## 3. Übergabematrix
 
-- Hofeigenschaft § 1 HöfeO — land- oder forstwirtschaftliche Besitzung mit Wirtschaftsfähigkeit; Mindestwirtschaftswert (i.d.R. ab 10.000 EUR Einheitswert), Eintragung Hoffolgevermerk.
-- Anerbenfolge § 4 HöfeO — ein Hoferbe; Reihenfolge in §§ 5-7 HöfeO.
-- Hofesvertrag — Übergabe zu Lebzeiten formbedürftig nach § 311b Abs. 1 BGB (notarielle Beurkundung).
-- Hofeswert § 12 HöfeO — 1,5-facher Einheitswert (nicht Verkehrswert) — Privilegierung des Hoferben.
-- Abfindung weichende Erben § 12 Abs. 2 HöfeO nach Hofeswert.
-- Nachabfindungsanspruch § 13 HöfeO — bei Veräußerung oder Aufgabe innerhalb 20 Jahre nach Übergabe.
-- Bewirtschaftungspflicht § 17 HöfeO — keine Nachabfindung wenn nach 20 Jahren bewirtschaftet.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Prüfpunkt | Feststellung | Beleg | Risiko | Vertragsauftrag |
+| --- | --- | --- | --- | --- |
+| Hofeigenschaft | Bundesland, Hofstelle, Eigentumsform, Grundsteuerwert, Hofvermerk | Grundbuch, Bescheid | Übergangsfall oder fehlende Hofeigenschaft | Vollzugsvoraussetzung festlegen |
+| Übernehmer | Verwandtschaft, Eignung, Bewirtschaftungskonzept | Personenstand, Ausbildung, Betriebskonzept | Streit über Hoferbenberechtigung | Auswahl und Rückfall regeln |
+| Gegenstand | Flächen, Gebäude, Inventar, Rechte, Verbindlichkeiten | Anlagenverzeichnis | unvollständige Übertragung | genaue Positiv- und Negativliste |
+| Versorgung | Wohnen, Geld, Pflege, Energie, Fahrzeug, Begräbnis | Bedarfsrechnung | unbestimmte oder ungesicherte Leistung | Inhalt, Anpassung und Sicherung |
+| Weichende Erben | Quote, Vorausempfang, Verzicht, Fälligkeit | Familien- und Zuwendungsliste | spätere Abfindung oder Nachabfindung | Zahlung, Stundung, Sicherheit |
+| Vollzug | Genehmigung, Lastenfreistellung, Grundbuch, Besitzwechsel | Behörden- und Bankunterlagen | schwebender oder blockierter Vollzug | Bedingungen und Vollzugsvollmacht |
 
-## Beweislast und Frist
+## 4. Berechnung
 
-- Hoferbe trägt Beweislast für Hofeseigenschaft und Anerbenfolge.
-- Weichende Erben tragen Beweislast für Pflichtteils- und Nachabfindungsansprüche.
-- Frist Nachabfindung § 13 HöfeO: 20 Jahre ab Hofübergabe — Nachabfindung bei Veräußerung/Aufgabe.
-- Verjährung Pflichtteilsansprüche § 195 BGB drei Jahre ab Kenntnis.
+Rechne nachvollziehbar und ohne Verkehrswert-Abkürzung:
 
-## Prüfschema
+1. zuletzt festgestellter Grundsteuerwert des Betriebs,
+2. davon 60 Prozent als Ausgangs-Hofeswert,
+3. begründete Zu- oder Abschläge nach HöfeO Paragraf 12 Absatz 2 Satz 3,
+4. hofbezogene Verbindlichkeiten nach HöfeO Paragraf 12 Absatz 3,
+5. Mindestbetrag von einem Fünftel des Hofeswerts beachten,
+6. allgemeine Erbquote des Berechtigten anwenden,
+7. anrechenbare Vorausempfänge, bereits geleistete Abfindungen, Stundung und Sicherheit ausweisen.
 
-```
-1. Bundesland-Zuständigkeit (HoefeO oder Landesrecht)
-2. Hofeigenschaft und Hoffolgevermerk § 6 HoefeO
-3. Hofeswert § 12 HoefeO (1 5-facher Einheitswert) berechnen
-4. Anerbenfolge § 4 HoefeO
-5. Pflichtteils- und Abfindungsansprueche § 12 HoefeO
-6. Altenteilsleistungen § 14 HoefeO
-7. Notarieller Hofesvertrag § 311b BGB
-8. Nachabfindung § 13 HoefeO 20-Jahresfrist
-9. Steuerliche Auswirkungen ErbStG GrEStG einbeziehen
-```
+Verwende nur den tatsächlich vorliegenden Grundsteuerwertbescheid. Einheitswertmultiplikatoren gehören nicht mehr in die aktuelle Berechnung.
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## 5. Vertragsgerüst
 
-## Schreibvorlage notarieller Hofesvertrag (Eckpunkte)
+1. Parteien, Familienverhältnisse und Geschäftsfähigkeit,
+2. Grundbuchbestand, Hofvermerk und Grundsteuerwert,
+3. übertragene Grundstücke, Zubehör, Forderungen, Verträge und Verbindlichkeiten,
+4. Stichtag für Besitz, Nutzen, Lasten, Gefahr und Rechnungsabgrenzung,
+5. Wohnungsrecht, Reallast, Geldrente, Pflege- und Nebenkostenregelung,
+6. Abfindungen, Vorausempfänge, Verzichte, Fälligkeit und Sicherheiten,
+7. Umgang mit Nachabfindungstatbeständen und Informationspflichten,
+8. Rückübertragung bei Vorversterben, Insolvenz, Veräußerung oder dauerhafter Betriebsaufgabe,
+9. Genehmigungen, Rangstellen, Gläubigerzustimmungen und Vollzugsvollmacht,
+10. steuerliche Vorbehalte, Kosten, Anlagen und Schlussbestimmungen.
 
-```
-Notarieller Hofesvertrag (UR-Nr.: [...])
+## 6. Beweis- und Risikomerker
 
-I. Vertragsparteien
-1. Uebergeber: [Name Anschrift] Eigentuemer des im Grundbuch von [Ort]
- Blatt [Nr] eingetragenen Hofes Gemarkung [...] Flurstuecke [...]
-2. Uebernehmer: [Name Anschrift] — Sohn/Tochter des Uebergebers,
- Hoferbe nach § 4 HoefeO
+- Derjenige, der sich auf Hofeigenschaft, Hoferbenstellung, Abfindung, Zu- oder Abschlag oder Nachabfindung beruft, muss die jeweils tragenden Tatsachen und Stichtage belegen.
+- Nutze für jeden Wert eine Quellenzeile: Bescheid, Stichtag, Berechnungsposition und Fundstelle.
+- Behaupte keine steuerliche Begünstigung ohne gesonderte Prüfung durch den steuerlichen Berater; Ertragsteuer, Grunderwerbsteuer und Erbschaftsteuer folgen unterschiedlichen Tatbeständen.
+- Formuliere Pflege- und Altenteilsleistungen bestimmt genug für Vollzug und spätere Anpassung. Kläre Ersatzleistung, Heimunterbringung, Indexierung und Rang im Grundbuch.
 
-II. Hofesgegenstand
-Der Hof umfasst saemtliche Grundstuecke gemaess Anlage K1
-(Grundbuchauszug) sowie das lebende und tote Inventar gemaess
-Anlage K2.
+## 7. Rechtsprechungs- und Quellenstatus
 
-III. Uebergabe
-Der Uebergeber uebertraegt den Hof mit Wirkung vom [Datum] auf den
-Uebernehmer. Aufgrund der Hofeigenschaft und des Anerbenrechts erfolgt
-die Bewertung mit dem 1 5-fachen Einheitswert § 12 HoefeO.
+- BGH, Beschluss vom 23.11.2012 - BLw 12/11: historische Entscheidung zur Hofeigenschaft und Sondererbfolge; für heutige Berechnungen nur mit ausdrücklichem Hinweis auf die seit 01.01.2025 geänderten Wertmaßstäbe verwenden.
+- Gesetzesstand und Grundsteuerwert am Bearbeitungstag aus amtlicher Quelle prüfen. Gerichtsentscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und prüfbarer Fundstelle übernehmen.
 
-IV. Altenteilsleistungen § 14 HoefeO
-Der Uebernehmer gewaehrt dem Uebergeber lebenslang:
-- Wohnungsrecht im Altenteilshaus
-- monatliche Geldrente EUR [Betrag]
-- Pflege bei Krankheit und im Alter
-- standesgemaesses Begraebnis
+## 8. Ausgabe
 
-V. Abfindung weichender Geschwister § 12 HoefeO
-Die weichenden Geschwister erhalten Abfindungen gemaess Anlage K3.
-
-VI. Bewirtschaftungspflicht § 13 HoefeO
-Der Uebernehmer verpflichtet sich den Hof selbst zu bewirtschaften.
-Bei Verstoss innerhalb von 20 Jahren entsteht ein Nachabfindungs-
-anspruch der weichenden Erben.
-
-VII. Steuern und Kosten
-Saemtliche Vertragskosten traegt der Uebernehmer.
-```
-
-## Übergabe
-
-- Notarielle Beurkundung § 311b BGB beim Notar veranlassen.
-- Eintragung Hoffolgevermerk § 6 HöfeO und Grundbuchumschreibung.
-- Pflichtteilsverzichte der weichenden Erben § 2346 BGB notariell einholen.
-- Steuerberater hinzuziehen für ErbStG/GrEStG-Optimierung.
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Ergänzung
-
-§§ 1-7 HöfeO (Hofeigenschaft, Anerbenfolge) → § 12 HöfeO (Hofeswert, Abfindung weichende Erben) → § 13 HöfeO (Nachabfindung 20-Jahre-Frist) → § 14 HöfeO (Altenteilsleistungen) → § 311b Abs. 1 BGB (Formerfordernis notarielle Beurkundung) → § 2346 BGB (Pflichtteilverzicht) → ErbStG §§ 13a, 13b (land- und forstwirtschaftliches Vermögen, Steuerverschonung) → GrEStG § 3 Nr. 6 (Steuerbefreiung Übertragung auf Abkömmlinge)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Liefere je nach Auftrag Übergabematrix, Abfindungsrechnung, Verhandlungsmemo, Anlagenverzeichnis, notariellen Gestaltungsauftrag oder kommentierte Vertragsprüfung. Trenne gesicherte Feststellungen, Gestaltungsoptionen, steuerlich zu klärende Punkte und noch fehlende Belege sichtbar.

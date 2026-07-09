@@ -62,8 +62,8 @@ BGH, Urteil vom 09.04.2008 - VIII ZR 84/07, BGH, Urteil vom 09.12.2020 - VIII ZR
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 
 ### Leitentscheidungen
 

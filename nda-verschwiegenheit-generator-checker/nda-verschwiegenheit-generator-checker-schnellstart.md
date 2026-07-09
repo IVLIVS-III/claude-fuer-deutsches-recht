@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
 4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
 5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
-6. Abmahnung und Cease Desist: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
+6. Beweisprotokoll Verletzung: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung und Cease Desist | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschluss Check Vor Unterschrift | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschlussprodukt Redline Memo | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Kontrolle B2B und B2C | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Angemessene Geheimhaltungsmaßnahmen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche Mandatsgeheimnisse | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisprotokoll Verletzung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Catch All Klausel Arbeitsvertrag | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftungsbegrenzung und Carve Outs | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Laufzeit und Nachwirkungsfrist | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schadensersatz und Beweislast | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsstrafe Hamburger Brauch | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

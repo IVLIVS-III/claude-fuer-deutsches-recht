@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abrechnung und Buchauszug | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Email Chat Beweise | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,7 +61,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB | Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
@@ -83,16 +83,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87c HGB — Provisionsabrechnung und Buchauszugsanspruch des Handelsvertreters: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87 HGB — Provisionsanspruch und provisionspflichtige Geschäfte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87a HGB — Entstehung und Fälligkeit des Provisionsanspruchs: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 254 ZPO — Stufenklage (Auskunft und Leistung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87 HGB — Entstehung des Provisionsanspruchs, Kausalität: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87a HGB — Fälligkeit und Erlöschen der Provision: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 485–494a ZPO — Selbständiges Beweisverfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO — Freie Beweiswürdigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 371 ZPO — Augenscheinsbeweis bei Dateien und digitalen Daten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 416 ZPO — Privaturkunden als Beweismittel: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 87c Abs. 2 HGB — Buchauszugsanspruch als Informationsgrundlage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 823 Abs. 2 BGB — Schadensersatz bei unbefugtem Zugriff auf Beweismittel: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 89a Abs. 1 HGB — Außerordentliche Kündigung aus wichtigem Grund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB
+### 15.1. Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abrechnung und Buchauszug
+### 15.2. Email Chat Beweise
 
-Vollständigkeit, Perioden, Kunden, Aufträge, Stornos, Rabatte, Buchauszug, Einsicht und Klage. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Authentizität, Kontext, Screenshots, Export, Datenschutz, Geschäftsgeheimnisse und Anlagenlogik. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Abschlussprovision des Abschlussvertreters nach Paragrafen 87 und 87a HGB
+### 15.3. Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach Paragraf 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach Paragraf 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB
+### 15.4. Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Alleinvertreter
-
-Gebietsschutz, Kundenschutz, Mindestumsatz, Direktvertrieb, Sanktionen und Kartellrecht. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB
+### 15.5. Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89 Abs. 3 HGB
+### 15.6. Kündigungsfristen 89
+
+Vertragsdauer, gesetzliche Mindestfristen, Gleichlauf, Zugang, Form und Fristenkalender. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Nachvertragliche Provision
+
+Voranbahnung, Auftragseingang, angemessene Frist, Nachfolgerkonflikt und Abrechnung. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
+
+Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach Paragraf 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach Paragraf 87 Abs. 1 HGB und Verjährung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Provisionsanspruch nach Paragraf 87 HGB — Entstehung, Fälligkeit und Durchsetzung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Compliance und Antikorruption im Handelsvertretervertrieb
+### 15.10. Provisionsklage nach Paragrafen 87 ff. HGB — Klageschrift, Beweise und Strategie
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Arbeitnehmerähnlicher Handelsvertreter nach Paragraf 92a HGB
+### 15.11. Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Ausschlussgründe für den Ausgleichsanspruch nach Paragraf 89b Abs. 3 HGB
+### 15.12. Rechtsabteilung: Nachvertragliches Wettbewerbsverbot Paragraf 90a HGB
 
-Prüft Ausschlussgründe des Ausgleichsanspruchs nach Paragraf 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspruchserhalts bei Kündigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Ausgleich Berechnung
+### 15.13. Statuscheck Handelsvertreter nach Paragraf 84 HGB
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang
+### 15.14. Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch
 
-Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach Paragraf 613a BGB analog, Erlöschen des Ausgleichs nach Paragraf 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Berechnung des Ausgleichsanspruchs nach Paragraf 89b HGB
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -12,32 +12,120 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "scripts"))
 
-from themen_profile import profile_for  # noqa: E402
+from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 
 
-CRITICAL_ROUTES = {
-    "betreuungsrecht": "betreuung",
-    "dfg-foerderantrag": "verwaltung",
-    "einigungsvertrag-vermoegensrecht": "verwaltung",
-    "erbbaurecht-praxis": "immobilien",
-    "europarecht-kompass": "eu_recht",
-    "fachanwalt-migrationsrecht": "verwaltung",
-    "fachanwalt-transport-speditionsrecht": "international",
-    "forschungszulage-antragstellung": "steuer",
-    "grundbuchamt-praxis": "immobilien",
-    "haushaltsrecht-bho-bund-laender": "verwaltung",
-    "hoai-leistungsphasen-praxis": "hoai",
-    "immobilienrechtspraxis": "immobilien",
-    "internal-investigations-praxis": "straf",
-    "meinungspruefer": "verfass",
-    "methodenlehre-buergerliches-recht": "methodik",
-    "notariat-alltag": "immobilien",
-    "startup-hr-personalabteilung-berlin": "hr",
-    "subsumtions-pruefer": "methodik",
-    "verhaeltnismaessigkeitspruefer": "verfass",
-    "wahlkampfrecht-praxis": "verfass",
-    "weltraumrecht": "weltraum",
+CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
+
+PROMPT_ASSERTIONS: dict[str, dict[str, tuple[str, ...]]] = {
+    "fachanwalt-agrarrecht": {
+        "required": ("54.000 EUR", "60 Prozent", "BLw 12/11", "LwVfG"),
+        "forbidden": (
+            "Dreiwochenfrist",
+            "1,4-facher Einheitswert",
+            "1,5-facher Einheitswert",
+            "IV ZR 256/01",
+            "10 W 47/20",
+            "LwVG und HöfeVfO",
+            "Abfindung, Schriftform und Landwirtschaftsgericht",
+        ),
+    },
+    "fachanwalt-sportrecht": {
+        "required": ("1 BvR 2103/16", "7 AZR 312/16"),
+        "forbidden": ("Auskunft, Einkommen, Bedarf, Selbstbehalt",),
+    },
+    "juristische-presseberichterstattung": {
+        "required": ("1 BvR 573/25", "VI ZR 1241/20"),
+        "forbidden": ("Auskunft, Einkommen, Bedarf, Selbstbehalt",),
+    },
+    "jveg-kostenpruefer": {
+        "required": ("JVEG Paragraf 1 und Paragraf 2", "JVEG Paragraf 4", "dreimonatige Ausschlussfrist"),
+        "forbidden": ("Dreiwochenfrist",),
+    },
+    "schoeffen-handelsrichter-praxis": {
+        "required": (
+            "StPO Paragraf 240 Absatz 2",
+            "StPO Paragraf 261",
+            "StPO Paragraf 263",
+            "Zweidrittelmehrheit",
+            "DRiG Paragraf 43",
+        ),
+        "forbidden": ("(Geheimhaltung)", "Paragraf 76 GVG (Mitwirkung)"),
+    },
 }
+
+SOURCE_FORBIDDEN: tuple[tuple[Path, tuple[str, ...]], ...] = (
+    (
+        REPO / "fachanwalt-agrarrecht",
+        (
+            "1,4-facher Einheitswert",
+            "1,5-facher Einheitswert",
+            "1 4-facher Einheitswert",
+            "1 5-facher Einheitswert",
+            "10.000 EUR Einheitswert",
+            "Bewirtschaftungspflicht § 17",
+            "Altenteilsleistungen § 14 HöfeO",
+            "rueckkaufrecht-30-jahre",
+            "Rueckkaufrecht 30 Jahre",
+            "Rückkaufrecht 30 Jahre",
+            "Rueckkaufpreis = Wert bei Hofuebergang",
+            "Wirtschaftswert ab 10.000 EUR",
+            "Wirtschaftswert ≥ 10.000 EUR",
+            "§ 13 LPachtVG",
+            "HöfeO gilt nur in NW, NI, SH, HB",
+            "Hofvermerk im Grundbuch Pflicht",
+            "BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr",
+            "Vorpachtrecht § 588 BGB",
+            "Vorpacht / Vorpfand-Recht",
+            "Vorpacht-Recht",
+            "9 Jahre Standard-Laufzeit",
+            "Vertrag verlaengert sich um 9 Jahre",
+            "Pacht-Anpassung ohne 3-Jahres-Wartezeit",
+            "Landwirtschaftsgericht beim Amtsgericht oder Landgericht je nach Streitwert",
+            "4-facher Jahres-Pachtzins",
+            "4-facher Jahrespachtzins",
+            "Schriftform gewahrt (§ 585a BGB)?",
+            "Verlaengerung Schriftform § 585a BGB",
+            "LwVG",
+            "§ 23 LwVfG",
+            "Paragraf 23 LwVfG",
+            "Pflichtiger Schlichtungsversuch",
+            "Schlichtungsantrag nach § 23",
+            "Wert bis 5.000 EUR",
+            "§ 41 Abs. 1 ZPO",
+            "LPachtVG §§ 2, 4, 13",
+            "dreifacher Jahresmehrwert",
+            "VwGO § 70 / SGG § 84",
+        ),
+    ),
+    (
+        REPO / "testakten" / "megaprompts" / "fachanwalt-agrarrecht.md",
+        (
+            "LwVG",
+            "§ 23 LwVfG",
+            "Paragraf 23 LwVfG",
+            "Pflichtiger Schlichtungsversuch",
+            "Schlichtungsantrag nach § 23",
+        ),
+    ),
+    (
+        REPO / "juristische-presseberichterstattung" / "skills",
+        ("aktueller Suchanker zur Verdachtsberichterstattung",),
+    ),
+    (
+        REPO / "schoeffen-handelsrichter-praxis" / "skills",
+        (
+            "§ 76 GVG (Mitwirkung)",
+            "§ 263 StPO (Geheimhaltung)",
+            "§ 43 DRiG (Eid)",
+        ),
+    ),
+)
+
+GLOBAL_MD_FORBIDDEN: tuple[tuple[re.Pattern[str], str], ...] = (
+    (re.compile(r"\bVwG\b"), "VwG statt VwGO oder ausgeschriebenem Verwaltungsgericht"),
+    (re.compile(r"\bLwVG\b"), "LwVG statt LwVfG"),
+)
 
 REQUIRED_WERKSTATT = (
     "Rolle und Auftrag",
@@ -102,6 +190,27 @@ def decimal_h2_problems(text: str) -> list[str]:
     return problems
 
 
+def source_anchor_problems() -> list[str]:
+    problems: list[str] = []
+    for root, forbidden_bits in SOURCE_FORBIDDEN:
+        files = [root] if root.is_file() else sorted(root.rglob("*.md"))
+        for path in files:
+            text = path.read_text(encoding="utf-8", errors="ignore")
+            for bit in forbidden_bits:
+                if bit in text:
+                    problems.append(
+                        f"{path.relative_to(REPO)}: veralteter oder falscher Anker {bit!r}"
+                    )
+    for path in sorted(REPO.rglob("*.md")):
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        for pattern, label in GLOBAL_MD_FORBIDDEN:
+            if pattern.search(text):
+                problems.append(
+                    f"{path.relative_to(REPO)}: veraltete Gesetzesabkürzung {label}"
+                )
+    return problems
+
+
 def main() -> int:
     plugins = marketplace_plugins()
     protected = protected_slugs()
@@ -155,11 +264,25 @@ def main() -> int:
                     problems.append(f"{path.relative_to(REPO)}: Abschnitt {marker!r} fehlt")
             for issue in decimal_h2_problems(text):
                 problems.append(f"{path.relative_to(REPO)}: {issue}")
+            assertions = PROMPT_ASSERTIONS.get(slug)
+            if assertions:
+                for marker in assertions["required"]:
+                    if marker not in text:
+                        problems.append(
+                            f"{path.relative_to(REPO)}: Fachanker {marker!r} fehlt"
+                        )
+                for marker in assertions["forbidden"]:
+                    if marker in text:
+                        problems.append(
+                            f"{path.relative_to(REPO)}: fachfremder oder falscher Anker {marker!r}"
+                        )
 
-    if profile_counts["default"] > 24:
+    if profile_counts["default"]:
         problems.append(
-            f"Zu viele Plugins ohne Fachprofil: {profile_counts['default']} statt höchstens 24"
+            f"Plugins ohne Fachprofil: {profile_counts['default']} statt 0"
         )
+
+    problems.extend(source_anchor_problems())
 
     expected_file_count = len(plugins) * 2
     if checked_files != expected_file_count:

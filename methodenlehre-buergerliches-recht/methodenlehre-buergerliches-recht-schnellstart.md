@@ -22,14 +22,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
 4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
 5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
-6. Bürgerliches Abschlussprodukt und Übergabe: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
+6. Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen.: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
-| Rechtsprechung | BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung); BVerfG 2 BvR 883/14 (Wortlautgrenze) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
 | Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bürgerliches Abschlussprodukt und Übergabe | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägung: Materialauswahl und Abwägungsgrundlagen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungszuständigkeit: Welche Institution darf abwägen? | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Analogie und teleologische Reduktion (Rechtsfortbildung) | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen. | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Freiheitlicher Paternalismus-Check im Vertragsrecht | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen und Risikoampel: Integrierter Workflow | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsauslegung: Vollständiger Methodenleitfaden | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen, Form und Zuständigkeit im bürgerlichen Recht | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragraf 675 BGB — Geschäftsbesorgungsvertrag; anwaltliche Pflichten zur ordnungsgemäßen Mandatsführung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben; Aufklärungspflicht des Anwalts gegenüber dem Mandanten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 4 BRAO — Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO — Pflicht zur Aktenführung und Aufbewahrung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
-- BVerfG 2 BvR 883/14 (Wortlautgrenze)
-- BGH V ZR 250/02 (teleologische Reduktion)
+- Paragrafen 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

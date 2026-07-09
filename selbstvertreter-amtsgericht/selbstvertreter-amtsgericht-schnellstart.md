@@ -22,14 +22,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
 4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
 5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
-6. Anfänger-Amtsgericht: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
+6. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; ZPO Paragraf 138 |
-| Rechtsprechung | LG-Urteil kann mit Revision zum BGH angefochten werden |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen |
 | Beweislast | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anfänger-Amtsgericht | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Welche Norm trägt Ihren Anspruch? | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Brauche ich vor dem Amtsgericht einen Anwalt? | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Augenscheinsbeweis: Wenn das Gericht selbst sehen muss | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)? | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wer beweist was? Die Beweislast im Zivilprozess | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sammeln Sie Beweise — bevor Sie klagen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wann beginnt die Frist? Zustellung protokollieren | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen richtig berechnen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ein eigenes Fristen-Buch führen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,11 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 433 BGB — Kaufvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 631 BGB — Werkvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 535 BGB — Mietvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 BGB — Schadensersatz wegen Pflichtverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- LG-Urteil kann mit Revision zum BGH angefochten werden — aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten
+- Paragraf 371 ZPO — Augenscheinsbeweis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 371a ZPO — Elektronische Dokumente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO — Freie Beweiswürdigung; Gericht entscheidet, ob es überzeugt ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 ZPO — Wahrheitspflicht; sekundaere Darlegungslast: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

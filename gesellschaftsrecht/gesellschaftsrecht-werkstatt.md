@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Agio und Kapitalrücklage in der GmbH | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anmeldungen: Verhandlung, Vergleich und Eskalation | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beirat Haftung | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,7 +61,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | Normenradar | GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119 | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
@@ -83,16 +83,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung sondern dauerhaft (Strukturnorm). Gleichwohl ist die Aufnahme in den aktualisierten Satzungstext bei der Kapitalerhöhung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Scholz GmbHG Paragraf 3 (14. Aufl. 2027 Verlag Dr. Otto Schmidt im Erscheinen — Differenzierung nach Fälligkeit bei Kapitalerhöhung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 35-43 GmbHG — Geschäftsführung und Haftung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 46-49 GmbHG — Gesellschafterversammlung und Beschlüsse: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 93 ff. AktG — Vorstandshaftung, Business Judgment Rule: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 107 ff. AktG — Aufsichtsrat (Protokoll, Beschlüsse): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 241, 246 AktG — Nichtigkeits- und Anfechtungsklage (analog GmbH): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Abs. 4 GmbHG (Verjährung 5 Jahre) — Paragraf 93 AktG (Sorgfaltsmaßstab AG-Vorstand; analog für GmbH-GF) — Paragraf 46 Nr: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 266 StGB (Untreue) im Raum → strafrechtliche Beratung vorab; Selbstbelastungsverbot beachten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 35 und 38 sowie Paragraf 46 GmbHG: Vertretung, Abberufung und Gesellschafterzuständigkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 GmbHG: Geschäftsführerpflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -159,54 +159,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; Paragraf 3 Abs. 2 GmbHG als Anker; Paragraf 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach Paragraf 21 UmwStG; steuerliches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anmeldungen: Verhandlung, Vergleich und Eskalation
+### 15.2. Beirat Haftung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Beirat Musterklauseln
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Beirat Vergütung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Fristen: Mehrparteienkonflikt und Interessenmatrix
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen
+
+Prüfe Geschäftsführerhaftung nur anhand eines konkreten Vorwurfs: Entscheidung, Unterlassen, Zahlung, Krise, Steuer, Sozialabgaben, Compliance oder Pflicht zur Anspruchsverfolgung. Trenne Aktivseite und Verteidigung, Pflichtmaßstab, Business-Judgment-Einwand, Schaden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. GmbH: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Handelsregisteranmeldung: Fristennotiz und nächster Schritt
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Organbestellung, Abberufung und Anstellungsvertrag
+
+Nutze diesen Skill bei Geschäftsführer- oder Vorstandswechseln, Abberufungen, Kündigungen und Vertretungsfragen. Der Skill trennt gesellschaftsrechtliche Organstellung von schuldrechtlichem Dienstvertrag. 1. Welche Gesellschaftsform liegt vor? 2. Wer soll bestellt, abberufen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Personengesellschaften: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
+
+Problemfokus dieses Skills: Bleibe beim konkreten Titel Rechtsquellen: Beweislast, Darlegungslast und Substantiierung und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Anmeldungen: Verhandlung, Vergleich und Eskalation
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Praxisprofil anpassen
+### 15.14. Praxisprofil anpassen
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Gesellschaftsrecht — Allgemein
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Vorstands- und Aufsichtsratsprotokoll (AG: Paragraf 107 AktG; GmbH: Paragraf 48 GmbHG)
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Beirat Abgrenzung Aufsichtsrat
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Beirat Amtszeit und Rotation
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Beirat Bank und Sanierung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Beirat Beratungsfunktion
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Beirat Beschlussfassung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Beirat Beschlussmängel
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Beirat Bestellung und Abberufung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Beirat Budget und Businessplan
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

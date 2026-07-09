@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. Klar, fest, ohne Theater: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Erst Bescheidtyp verstehen: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Klar, fest, ohne Theater | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anzeige, nicht Erlaubnis | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflagen brauchen mehr als Bauchgefühl | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risiko realistisch, nicht panisch | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bannmeile ist Zusatzregime | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 8 auch praktisch zugänglich machen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erst Bescheidtyp verstehen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wer später Recht will, braucht Fakten | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Die 48 Stunden laufen oft vor der Bekanntgabe | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kosten nicht überschätzen, Haftung nicht ignorieren | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vor Ort ruhig und dokumentiert | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Polizei Filmen Auf Versammlungen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,15 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- Paragraf 23 KunstUrhG kann Veröffentlichungen rechtfertigen, insbesondere bei Zeitgeschehen und Versammlungen; Paragraf 23 Abs. 2 KunstUrhG verlangt aber weiter eine Interessenabwägung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 201 StGB betrifft nichtöffentlich gesprochene Worte. Auf einer öffentlichen Versammlung sprechen laute Einsatzanweisungen und für Umstehende hörbare Amtskommunikation oft: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- KunstUrhG Paragrafen 22, 23, 33; StGB Paragrafen 201, 201a; GG Art. 5, Art. 8: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 23 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 33 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 22 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
+- BVerfG, Beschluss vom 24.07.2015 - 1 BvR 2501/13
+- BVerwG, Urteil vom 28.03.2012 - 6 C 12.11
+- OLG Zweibrücken, Beschluss vom 30.06.2022 - 1 OLG 2 Ss 62/21 nur als kontextgebundenes Tonaufnahme-Risiko prüfen: Die Entscheidung ist kein pauschales Verbot, Polizeieinsätze oder Versammlungen zu filmen
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Klar, fest, ohne Theater, Anzeige, nicht Erlaubnis, Auflagen brauchen mehr als Bauchgefühl, Risiko realistisch, nicht panisch: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Erst Bescheidtyp verstehen, Wer später Recht will, braucht Fakten, Die 48 Stunden laufen oft vor der Bekanntgabe, Kosten nicht überschätzen, Haftung nicht ignorieren: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

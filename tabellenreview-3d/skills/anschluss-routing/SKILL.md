@@ -51,8 +51,8 @@ Dieses Anschluss-Routing für **Tabellenreview 3d** wählt nach dem ersten Ergeb
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 - § 29 VwVfG
 - § 1 KSchG
 - § 7 KSchG

@@ -9,7 +9,7 @@ description: "Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Agrarrecht g
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -176,7 +176,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Normenkette Erstgespräch Agrarrecht
 
-LwVG §§ 1 ff. (Zuständigkeit klären) → §§ 70, 74 VwGO (Fristen Förderbescheide sofort prüfen) → GrdstVG (Genehmigungspflicht prüfen) → §§ 10, 11 GwG (GwG-Identifizierung, bes. GbR) → §§ 3, 3a RVG (Honorarvereinbarung) → § 9 RVG (Vorschuss) → §§ 195, 199 BGB (Verjährungsstand sofort ermitteln)
+LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz klären) → VwGO Paragrafen 70 und 74 (Vorverfahren und Klagefrist bei Förderbescheiden prüfen) → GrdstVG (Genehmigungspflicht prüfen) → GwG Paragrafen 10 und 11 (Identifizierung, insbesondere bei Gesellschaften) → RVG Paragrafen 3a und 9 (Vergütungsvereinbarung und Vorschuss) → BGB Paragrafen 195 und 199 (Verjährungsstand ermitteln)
 
 ### Quellenregel
 

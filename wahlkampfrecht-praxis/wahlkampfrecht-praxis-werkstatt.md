@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 72 Stunden Sprint | GG Artikel 1 Absatz 1; BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Agenturvertrag Compliance | GG Artikel 1 Absatz 1; BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GG Artikel 2 Absatz 1 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Ad Library Transparenz | GG Artikel 2 Absatz 1; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Aktenplan und Beweisarchiv | GG Artikel 2 Absatz 1; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,7 +69,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte |
+| BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte |
 | BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit |
 | BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung |
 | BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Volkszählung entwickelt informationelle Selbstbestimmung |
@@ -91,7 +91,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
@@ -145,58 +145,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 72 Stunden Sprint
+### 15.1. Agenturvertrag Compliance
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Ad Library Transparenz
-
-Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Agenturvertrag Compliance
-
-Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Aktenplan und Beweisarchiv
+### 15.2. Aktenplan und Beweisarchiv
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Amtstraeger Ressourcen
+### 15.3. Plakat Vandalismus Beweissicherung
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Angriff Auf Wahlleitung Vermeiden
+### 15.4. Wahlvorschläge Fristen
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Arbeitsrecht Kampagnenteam
+### 15.5. 72 Stunden Sprint
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Archivierung Screenshots
+### 15.6. Ad Library Transparenz
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Asymmetrische Demobilisierung
+### 15.7. Amtsträger Ressourcen
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Barrierefreie und Mehrsprachige Information
+### 15.8. Angriff Auf Wahlleitung Vermeiden
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Barrierefreiheit und Inklusion
+### 15.9. Arbeitsrecht Kampagnenteam
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bots und Inauthentisches Verhalten
+### 15.10. Archivierung Screenshots
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Briefkasten Flyer
+### 15.11. Asymmetrische Demobilisierung
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Briefwahlkommunikation
+### 15.12. Barrierefreie und Mehrsprachige Information
+
+Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Barrierefreiheit und Inklusion
+
+Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bots und Inauthentisches Verhalten
 
 Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen Bundestagswahl. - Paragraf 18 BWahlG — Wahlvorschlagsrecht und Beteiligungsanzeige. - Paragraf 19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

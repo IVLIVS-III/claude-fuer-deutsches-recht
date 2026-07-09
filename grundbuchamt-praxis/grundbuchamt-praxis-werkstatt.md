@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abteilung I Eigentum | BGB Paragraf 311b; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Vollzugsfehler und Haftung | BGB Paragraf 311b; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 873 und Paragraf 925 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abteilung II nicht übersehen | BGB Paragraf 873 und Paragraf 925; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Auflassungsvormerkung | BGB Paragraf 873 und Paragraf 925; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abteilung I Eigentum
+### 15.1. Vollzugsfehler und Haftung
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abteilung II nicht übersehen
+### 15.2. Auflassungsvormerkung
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Abteilung III Belastungen
+### 15.3. Grundbuchbeschwerde
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Vollzugsfehler und Haftung
+### 15.4. Nichtigkeitsrisiko im Kaufvertragsvollzug
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Aufgebotsverfahren planen
+### 15.5. Kaufvertrag grundbuchseitig prüfen
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Auflassung und Umschreibung
+### 15.6. Abteilung I Eigentum
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Auflassungsvormerkung
+### 15.7. Abteilung II nicht übersehen
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Auslandsurkunden beim Grundbuchamt
+### 15.8. Abteilung III Belastungen
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Baulast neben Grundbuch
+### 15.9. Aufgebotsverfahren planen
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Grundbuchbeschwerde
+### 15.10. Auflassung und Umschreibung
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Bestandsverzeichnis verstehen
+### 15.11. Auslandsurkunden beim Grundbuchamt
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Briefrecht übertragen oder löschen
+### 15.12. Baulast neben Grundbuch
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Wegerecht prüfen
+### 15.13. Bestandsverzeichnis verstehen
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Elektronischer Grundbuchverkehr
+### 15.14. Briefrecht übertragen oder löschen
 
 Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld. - Paragraf 13 Abs. 1 GBO — Antragserfordernis. - Paragraf 19 GBO — Bewilligungsprinzip. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

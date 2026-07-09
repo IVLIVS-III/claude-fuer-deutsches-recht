@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Zuständigkeit und Guetetermin | BGB Paragraf 611a; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 02 Kündigungsschutzklage Prüfen | BGB Paragraf 611a; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Kündigungsschutzklage Prüfen | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 03 Zahlungsklage Lohn und Gehalt | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -87,14 +87,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BetrVG Paragraf 87 und Paragraf 102: Mitbestimmung und Anhörung des Betriebsrats vor Kündigung.
 - AGG Paragraf 7, Paragraf 12 und Paragraf 15: Benachteiligungsverbot, Schutzpflichten und Entschädigung.
 - ArbZG, BUrlG und EntgFG: Arbeitszeit, Erholungsurlaub und Entgeltfortzahlung im laufenden Arbeitsverhältnis.
-- Paragrafen 2, 2a, 46 und 54 ArbGG: Rechtsweg, Verfahrensart, Güteverhandlung und frühe Terminssteuerung müssen vor materieller Prüfung feststehen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 61a und 64 ArbGG: Beschleunigung und Berufungsfähigkeit sind schon bei der Terminsverfügung mitzudenken: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 12a ArbGG: Kostenerstattung erster Instanz ist arbeitsgerichtlich eigenständig und im Vergleich ausdrücklich zu regeln: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 1, 4 und 7 KSchG: Kündigungsgrund, Dreiwochenfrist und Wirksamkeitsfiktion sind strikt zu trennen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 102 BetrVG: Betriebsratsanhörung ist eigener Wirksamkeitsbaustein und nicht bloße Prozessformalie: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 611a, 612 und 614 BGB: Vergütung, Höhe und Fälligkeit des Arbeitsentgelts müssen aus Vertrag, Tarif, Übung oder Gesetz hergeleitet werden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 286 BGB: Verzugszinsen und Verzugsschaden setzen Fälligkeit, Nichtleistung und gegebenenfalls Mahnung voraus: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 138 ZPO: Erfüllung, Abrechnung, Arbeitszeit und Einwendungen gegen Entgelt sind nach Darlegungslast getrennt zu würdigen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 14, 15 und 17 TzBfG: Sachgrund, Schriftform, Laufzeit und Entfristungsklagefrist sind die tragenden Stationen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 8 und 9a TzBfG: Teilzeit- und Brückenteilzeitbegehren verlangen Antrag, Frist, Organisationsprüfung und Ablehnungsgrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB: Vorformulierte Befristungs- oder Arbeitszeitklauseln bleiben zusätzlich AGB-rechtlich kontrollfähig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -156,25 +156,25 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 01 Zuständigkeit und Guetetermin
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. 02 Kündigungsschutzklage Prüfen
+### 15.1. 02 Kündigungsschutzklage Prüfen
 
 Kündigungsschutzklage Paragraf 4 KSchG: Klagefrist 3 Wochen, Kündigungsgründe (personenbedingt verhaltensbedingt betriebsbedingt) Paragraf 1 KSchG, Sozialauswahl Paragraf 1 Abs. 3 KSchG Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht (Paragrafen 16, 17. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. 03 Zahlungsklage Lohn und Gehalt
+### 15.2. 03 Zahlungsklage Lohn und Gehalt
 
 Zahlungsklage: fälliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. 5 BGB Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. 04 Betriebsübergang und Tarif
-
-Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspruchsrecht, Informationspflichten Abs. 5; Tarifgebundenheit Paragraf 3 TVG, Tariftreue, Nachwirkung Paragraf 4 Abs. 5 Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht (Paragrafen 16. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. 05 Befristung und Teilzeit
+### 15.3. 05 Befristung und Teilzeit
 
 Befristungskontrolle TzBfG: sachgrundlose Befristung Paragraf 14 Abs. 2, Sachgrundbefristung Paragraf 14 Abs. 1, Zweckbefristung; Teilzeit Paragraf 8 TzBfG (Anspruch auf Verringerung) Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht (Paragrafen 16, 17 ArbGG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. 01 Zuständigkeit und Guetetermin
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. 04 Betriebsübergang und Tarif
+
+Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspruchsrecht, Informationspflichten Abs. 5; Tarifgebundenheit Paragraf 3 TVG, Tariftreue, Nachwirkung Paragraf 4 Abs. 5 Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht (Paragrafen 16. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. 06 AGG Diskriminierung
 

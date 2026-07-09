@@ -24,7 +24,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+### 3.1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Verl-041 · Abmahnung Buchpreisbindung | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verl-032 · Buchhandelsvertrag, Konditionen und Remission | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 15 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Verl-024 · Druckvertrag, Papierengpass und Lieferverzug | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | UrhG Paragraf 51 | Zitatrecht | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | UrhG Paragraf 97 | Unterlassung und Schadensersatz | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | KUG Paragraf 22 und Paragraf 23 | Bildnisschutz und Ausnahmen | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
-| UrhG Paragraf 79b (seit 2014) | Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Paragraf 32 UrhG | Unangemessene Unentgeltlichkeit ist nicht automatisch unwirksam; bei entsprechendem Branchenbrauch kann | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,8 +85,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - UrhG Paragraf 51: Zitatrecht.
 - UrhG Paragraf 97: Unterlassung und Schadensersatz.
 - KUG Paragraf 22 und Paragraf 23: Bildnisschutz und Ausnahmen.
-- UrhG Paragraf 79b (seit 2014): Öffentliche Einrichtungen dürfen verwaiste Werke unter bestimmten Voraussetzungen (sorgfältige Suche, Registrierung beim EUIPO) nutzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Auftragsillustration ohne schriftliche Rechteeinräumung: Mündliche Vereinbarung reicht nicht; UrhG Paragraf 31 verlangt keine Form, aber Beweis nötig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 32 UrhG: Unangemessene Unentgeltlichkeit ist nicht automatisch unwirksam; bei entsprechendem Branchenbrauch kann Unentgeltlichkeit angemessen sein: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Grenzen: Keine sittenwidrige Diskriminierung; Monopolstellung bei Leitjournalen kann Kontrahierungszwang begründen (GWB Paragrafen 18, 19): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 38 Abs. 4 UrhG: Unabdingbares Zweitveröffentlichungsrecht für wissenschaftliche Autoren nach 12 Monaten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 32a UrhG bei Bestseller: Freier Übersetzer fordert Nachvergütung für Bestseller-Übersetzung; Verlag hat keine Öffnungsklausel im Vertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Gibt es Rückruf- oder Neuverhandlungsklauseln (VerlG Paragraf 17, UrhG Paragraf 41)?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -95,10 +98,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
-- BGH „Buchpreisbindung Abmahnung" I ZR 173/09: https://www.bgh.de
-- BGH, Urt. v. 20.01.1994 – I ZR 322/91 (Miturheber Sammelwerk): https://www.bgh.de
-- BGH (I ZR 174/18 „Klauseltausch"): Missverhältnis wird angenommen, wenn tatsächliche Erträge mehr als doppelt so hoch sind wie die vereinbarte Vergütung vermuten ließ
-- BGH „Elektronische Leseplätze II", I ZR 69/11: Kontext bestätigt; nur körperlich vorhandene Exemplare dürfen gleichzeitig angezeigt werden
+- BGH, Urt. v. 29.05.2018 – I ZR 171/16 (Buchhandelsvertrag): https://www.bgh.de
+- BGH, Urt. v. 28.10.2020 – VIII ZR 141/19 (Wegfall Geschäftsgrundlage Liefervertrag): https://www.bgh.de
+- BGH „Fachzeitschrift" I ZR 44/10: https://www.bgh.de
+- BSG, Urt. v. 14.03.2018 – B 12 R 3/17 R (Scheinselbständigkeit Journalist): https://www.bundessozialgericht.de
 
 ## 9. Prüfraster
 
@@ -148,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Verl-041 · Abmahnung Buchpreisbindung
+### 15.1. Verl-032 · Buchhandelsvertrag, Konditionen und Remission
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle
+### 15.2. Verl-024 · Druckvertrag, Papierengpass und Lieferverzug
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk
+### 15.3. Verl-029 · Fachzeitschrift, Peer Review und Haftung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Verl-026 · Autorenkündigung, Bestseller und Nachvergütung
+### 15.4. Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Verl-033 · Bibliothekslizenz, E-Lending und Zugriff
+### 15.5. Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial
+### 15.6. Verlagsrecht: Redaktionsvertrag Freelancer und Arbeitnehmer
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Redaktionsvertrag Freelancer und Arbeitnehmer im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Verl-032 · Buchhandelsvertrag, Konditionen und Remission
+### 15.7. Verlagsrecht: Druckvertrag Papier Krise Lieferverzug
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Druckvertrag Papier Krise Lieferverzug im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Verl-037 · Buchmesse: Rechtehandel und NDA
+### 15.8. Verlagsrecht: Autorenkündigung Bestseller und Nachvergütung
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Autorenkündigung Bestseller und Nachvergütung im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Verl-009 · Buchpreisbindung: Ladenpreis festsetzen
+### 15.9. Verlagsrecht: Fachzeitschrift Peer Review und Haftung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Fachzeitschrift Peer Review und Haftung im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Verl-024 · Druckvertrag, Papierengpass und Lieferverzug
+### 15.10. Verlagsrecht: Buchhandelsvertrag Konditionen und Remission
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Buchhandelsvertrag Konditionen und Remission im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Verl-013 · E-Book-Preisbindung und Plattformrabatte
+### 15.11. Verlagsrecht: Hörbuch Sprechervertrag Leistungsschutzrechte
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Hörbuch Sprechervertrag Leistungsschutzrechte im Bereich Verlagsrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung
+### 15.12. Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Verl-022 · Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank
+### 15.13. Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG Paragrafen 31 ff. und VerlG sowie Rückrufrechte nach VerlG Paragrafen 7–8, UrhG Paragrafen 41–42 systematisch prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Verl-029 · Fachzeitschrift, Peer Review und Haftung
+### 15.14. Verl-041 · Abmahnung Buchpreisbindung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

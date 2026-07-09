@@ -28,11 +28,11 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalität, Ausschluss und Beweislast ordnen.
+### 3.2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
+### 3.3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Betriebshaftpflicht: Versicherungsfall und Serienschaden | VVG Paragraf 1; BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | D&O: Claims-made, Innenhaftung und Organstreit | VVG Paragraf 1; BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VVG Paragraf 19 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Betriebsunterbrechung: Sachschaden-Trigger | VVG Paragraf 19; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | DORA für Versicherer und Vermittler | VVG Paragraf 19; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VVG Paragraf 61 | Beratungspflichten des Versicherungsvermittlers | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
 | VVG Paragraf 86 | Übergang von Ersatzansprüchen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
 | BGB Paragraf 305 bis Paragraf 310 | AGB-Kontrolle von Versicherungsbedingungen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| Paragraf 1 VVG | Versicherungsvertrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO | VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,6 +85,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
 - VVG Paragraf 86: Übergang von Ersatzansprüchen.
 - BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle von Versicherungsbedingungen.
+- VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1 VVG — Versicherungsvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 19 VVG — vorvertragliche Anzeigepflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 28 VVG — Obliegenheitsverletzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -92,7 +93,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 100 VVG — Haftpflichtversicherung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 115 VVG — Direktanspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 193 VVG — Krankenversicherungspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- VVG Paragrafen 100–124; AVB/BHV; BGB Delikt/Vertrag; ZPO Streitverkündung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Betriebshaftpflicht: Versicherungsfall und Serienschaden
+### 15.1. D&O: Claims-made, Innenhaftung und Organstreit
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Betriebsunterbrechung: Sachschaden-Trigger
+### 15.2. DORA für Versicherer und Vermittler
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. BU: abstrakte und konkrete Verweisung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. BU: Berufsbild und 50-Prozent-Prüfung
+### 15.3. Rechtsschutz: Vorvertraglichkeit und Schadenereignis
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. BU: Anerkenntnis, Nachprüfung, Leistungseinstellung
+### 15.4. VAG/BaFin-Aufsicht: Beschwerde und Missstand
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Cyberversicherung: Ransomware, DORA, Sanktionen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. D&O: Claims-made, Innenhaftung und Organstreit
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Gesundheitsdaten, Schweigepflicht und Versicherer
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Deckungsprozess und Gerichtsstand Paragraf 215 VVG
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Direktanspruch
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. DORA für Versicherer und Vermittler
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. EIOPA und grenzüberschreitender Versicherungsvertrieb
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Elementarschaden: Starkregen und Überschwemmung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Betriebsschließungsversicherung und Infektionsschutz
+### 15.5. Vergleich, Abfindung und Entschädigungsquittung
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fristenkalender für Versicherungsfälle
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Versicherungsmaklerhaftung bei Deckungslücken
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Betriebshaftpflicht: Versicherungsfall und Serienschaden
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Betriebsunterbrechung: Sachschaden-Trigger
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. BU: abstrakte und konkrete Verweisung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. BU: Berufsbild und 50-Prozent-Prüfung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. BU: Anerkenntnis, Nachprüfung, Leistungseinstellung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Cyberversicherung: Ransomware, DORA, Sanktionen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Gesundheitsdaten, Schweigepflicht und Versicherer
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

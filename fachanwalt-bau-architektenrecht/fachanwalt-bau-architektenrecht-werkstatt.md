@@ -59,7 +59,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13 | BGB Paragraf 631; BGH, Urteil vom 22.02.2018 - VII ZR 46/17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 633 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abnahme des Bauwerks unter Vorbehalt von Mängeln erklären: Mängelvorbehalt | BGB Paragraf 633; BGH, Urteil vom 08.11.2007 - VII ZR 183/05 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | BGB Paragraf 633; BGH, Urteil vom 08.11.2007 - VII ZR 183/05 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -98,10 +98,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BauGB Paragraf 11 und Paragraf 12: städtebaulicher Vertrag, Durchführungsvertrag und vorhabenbezogener Bebauungsplan.
 - BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
 - BauNVO Paragrafen 1 bis 23: Art und Maß der Nutzung, Bauweise und überbaubare Grundstücksflächen.
-- 1. Welche Abnahmeform liegt vor — förmlich (Begehungsprotokoll), konkludent (Ingebrauchnahme), fiktiv (Paragraf 640 Abs. 2 BGB nach Fristablauf), VOB/B Paragraf 12?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 12 VOB/B: förmliche Abnahme, konkludente nach 12 Werktagen Nutzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 631 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 650a ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 2 BGB iVm Paragraf 286 BGB: bei Verzug Schadensersatzanspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB Inhaltskontrolle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 634a Abs. 1 Nr. 2 BGB: Verjährungsfrist für Mängelansprüche bei Bauwerk 5 Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 203, 204 BGB: Verhandlungen, Mahnverfahren, Klage, selbständiges Beweisverfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 637 BGB Selbstvornahme: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 637 Abs. 3 BGB: Erwerber kann einen Kostenvorschuss vom Bauträger fordern, ohne in Vorleistung treten zu müssen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -115,8 +119,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Der Erschließungsvertrag nach BauGB Paragraf 124 ist gegenüber BauGB Paragraf 11 die speziellere Regelung.
 - BGH 25.02.2016 VII ZR 49/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 02.06.2022 VII ZR 174/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerwG 30.06.2021 4 C 5/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 27.10.2011 VII ZR 84/09 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster
 
@@ -171,54 +176,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Auftraggeber A schweigt 4 Wochen nach Fertigstellungsanzeige des Unternehmers U. - Paragraf 640 BGB - Paragraf 4 BBodSchG - Paragraf 24 BBodSchG - Paragraf 17 BeurkG - Paragraf 9 BBodSchG - Paragraf 13 BBodSchG - Paragraf 18 BBodSchG - Paragraf 2 BBodSchG - BGH 25.02.2016 VII ZR. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abnahme mit Vorbehalt
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Abnahme Quellenkarte
-
-Diese Quellenkarte sichert im Bereich Fachanwalt Bau Architektenrecht tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab. - allgemein-bau-abnahme-nachtrag-workflow-chronologie - bauordnungsrecht-behörden-gericht-und-registerweg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Abnahme Verweigerung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Architektenhonorar HOAI Mindestsatz EuGH C 377 17
-
-Architekt verlangt nachträglich Aufstockung auf HOAI-Mindestsatz; Vertrag unterschritt diesen. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.2. Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Bau Abnahme Checkliste Workflow
+### 15.3. Bau Einführung Vertragstypen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Bau Einfuehrung Vertragstypen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. HOAI in Grundzuegen: Leistungsbilder Paragraf 34 ff
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bau Kündigung Vob Spezial
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bau Mangelhaftung Spezial Symptomtheorie
+### 15.4. Bau Mangelhaftung Spezial Symptomtheorie
 
 Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Bau Nachtrag Workflow
+### 15.5. Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Nachbar erfährt erst nach 6 Monaten von Baugenehmigung; ruegt Verschattung. - Paragraf 58 VwGO - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bau Schiedsgutachten Spezial
+### 15.6. Bauträger-Eigenkapital-Überprüfung vor Vertragsabschluss
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Bauträger Fertigstellungsfrist und Verzug
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Bauträger-Haftungsausschluss und Paragraf 307 BGB
+
+Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB
+
+Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Bauträgervertrag notarieller Prüfraster Grundlagen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Selbstvornahme und Vorschussklage gegen den Bauträger
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. WEG-Instandhaltungsrücklage zur Übergabe
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bauträgervertrag Mev Verstoß BGH Vii Zr 25 20
+
+Bauträger fordert 60 Prozent Anzahlung vor Baubeginn; Vertrag enthält Abweichung vom Ratenplan. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - BGH 27.10.2011 VII ZR 84/09 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme
+
+Nutze diesen Skill im Bau- und Architektenrecht, wenn die Akte einen Wohnungserwerb vom Bauträger, eine Schlussrate, eine Abnahme des Gemeinschaftseigentums oder einen Streit um Raten/Fertigstellung betrifft. Paragrafen 305-310, 307, 308 Nr. 4, 309 Nr. 12, Nr. 15, 311b, 633-641. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

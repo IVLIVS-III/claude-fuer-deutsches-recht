@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen.
 4. Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
 5. Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
-6. Aktenordner-Erstlektüre: Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen.
+6. FMKW: Verbraucherinkasso RDG: Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenordner-Erstlektüre | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsschriftsatz Bausteine | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegte Compliance Aktenvermerk | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Chronologie und Belegmatrix | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumente Intake | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| FMKW: Verbraucherinkasso RDG | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Werk-/Bauwerklohn-Forderung | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mietrückstands-Klage | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mietrückstand – Zahlungsklage Wohnraum | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Werklohnforderung – BGB und Bau | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen-Risikoampel | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,12 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
 - BGB Paragraf 362: Erfüllung als Einwendung.
 - BGB Paragraf 387: Aufrechnung.
+- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum):: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum:: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 18.01.2017 - VIII ZR 17/16: Substantiierter Vortrag verlangt die anspruchsbegründenden Tatsachen, nicht nur rechtliche Wertungen.
 - BGH, Urteil vom 16.07.2007 - II ZR 3/04: Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung nach Paragraf 826 BGB ein.
+- BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de
+- BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de
+- EuGH C-377/17 HOAI curia.europa.eu
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenordner-Erstlektüre, Anschluss-Routing, Anspruchsschriftsatz Bausteine, Belegte Compliance Aktenvermerk: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder FMKW: Verbraucherinkasso RDG, Werk-/Bauwerklohn-Forderung, Mietrückstands-Klage, Mietrückstand – Zahlungsklage Wohnraum: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

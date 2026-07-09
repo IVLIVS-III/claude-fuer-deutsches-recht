@@ -28,11 +28,11 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalität, Ausschluss und Beweislast ordnen.
+### 3.2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
+### 3.3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anschluss-Routing | VVG Paragraf 1; BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | VVG Paragraf 1; BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VVG Paragraf 19 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | VVG Paragraf 19; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | VVG Paragraf 19; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -155,58 +155,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt Versicherungsrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - berufsunfähigkeit-paragraf-172-vvg — Berufsunfähigkeit Paragraf 172 VVG - versr-bu-anerkennt-was-spezial —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.1. Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung
+### 15.2. Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Berufsunfähigkeit Paragraf 172 VVG
+### 15.3. Berufsunfähigkeit Paragraf 172 VVG
 
 Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 172 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht
+### 15.4. Deckungsklage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Deckungsklage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
+### 15.5. Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Deckungsprüfung Obliegenheiten Regress
+### 15.6. Berufsunfähigkeit-Klage
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU). - Berufsunfähigkeit = ] 50 % Beeintraechtigung in der letzten beruflichen Tätigkeit - Beruf wie vor Eintritt - Dauerhaft (typisch ] 6 Monate prognostiziert) - Abstrakt: alle Berufe gleichwertiger Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Do Deckungsabwehr
+### 15.7. Gebaeudeversicherung Paragraf 86 VVG
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Gebaeudeversicherung Paragraf 86 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 86 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Dokumentenintake
+### 15.8. Haftpflicht Paragraf 100 VVG
+
+Prüfe Haftpflicht Paragraf 100 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 100 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. 1 bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Hausratversicherung Paragraf 19 VVG
+
+Prüfe Hausratversicherung Paragraf 19 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 19 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. kfz Haftpflicht Paragraf 115 VVG
+
+Prüfe kfz Haftpflicht Paragraf 115 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 115 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Einfuehrung: Sonderfall und Edge-Case-Prüfung
+### 15.12. Lebensversicherung Widerruf Paragraf 152 VVG
 
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Lebensversicherung Widerruf Paragraf 152 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 152 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Anwalts-Dashboard Fachanwalt Versicherungsrecht
+### 15.13. Private Krankenversicherung Paragraf 203 VVG
 
-] Leistungsablehnung, BU, D&O, Rechtsschutz, Obliegenheiten — Bedingungen prüfen, Obliegenheit prüfen, Beweislast verteilen. ] ] Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Private Krankenversicherung Paragraf 203 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 203 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Einstieg, Schnelltriage und Fallrouting
+### 15.14. Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

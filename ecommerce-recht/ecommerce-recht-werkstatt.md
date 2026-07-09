@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abmahnung einstweilige Verfügung Sofortplan | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | E-Mail Bestellbestätigung Vertragsschluss | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abmahnung UWG Unterlassungserklärung | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fernabsatzvertrag Paragraf 312c BGB | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -92,7 +92,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 355 Abs. 1 BGB — Widerruf: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 357 BGB — Widerrufsfolgen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 434 BGB — Sachmangel: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 475 BGB — Verbrauchsgueterkauf: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 475 BGB — Verbrauchsgüterkauf: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -102,7 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 24.01.2013 - VII ZR 37/12: IT-Projektverträge verlangen klare Leistungsbeschreibung und Abnahmeprüfung.
 - BGH, Urteil vom 19.07.2012 - VII ZR 262/11: Werklohn setzt bei werkvertraglicher Prägung grundsätzlich Abnahmefähigkeit voraus.
 - EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) zur Klauselkontrolle – curia.europa.eu
-- EuGH C-249/21 (Fuhrmann-2): Buttontext muss eindeutig sein; "Buchung abschließen" nicht ausreichend
 
 ## 9. Prüfraster
 
@@ -152,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abmahnung einstweilige Verfügung Sofortplan
-
-Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 312j BGB — Button-Lösung. - Paragraf 355 Abs. 1 BGB — Widerruf. - Paragraf 357 BGB — Widerrufsfolgen. - Paragraf 434 BGB — Sachmangel. - Paragraf 475 BGB — Verbrauchsgueterkauf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Abmahnung UWG Unterlassungserklärung
+### 15.1. E-Mail Bestellbestätigung Vertragsschluss
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Abo-Falle negative option
+### 15.2. Fernabsatzvertrag Paragraf 312c BGB
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Accessibility BFSG Online-Shop
+### 15.3. Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia
+
+Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 312j BGB — Button-Lösung. - Paragraf 355 Abs. 1 BGB — Widerruf. - Paragraf 357 BGB — Widerrufsfolgen. - Paragraf 434 BGB — Sachmangel. - Paragraf 475 BGB — Verbrauchsgüterkauf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Informationspflichten vor Vertragsschluss Art. 246a EGBGB
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Logfiles Beweisführung Checkout
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Marktplatzhaftung Händler Plattform
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. AGB im Online-Shop – Einbeziehung Paragraf 305 BGB
+### 15.7. Trusted Flagger Beschwerdemanagement DSA
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Altersverifikation Jugendschutz
+### 15.8. Abmahnung einstweilige Verfügung Sofortplan
+
+Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 312j BGB — Button-Lösung. - Paragraf 355 Abs. 1 BGB — Widerruf. - Paragraf 357 BGB — Widerrufsfolgen. - Paragraf 434 BGB — Sachmangel. - Paragraf 475 BGB — Verbrauchsgüterkauf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Abmahnung UWG Unterlassungserklärung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. App-Commerce in-App-Käufe
+### 15.10. Abo-Falle negative option
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Accessibility BFSG Online-Shop
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. AGB im Online-Shop – Einbeziehung Paragraf 305 BGB
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Altersverifikation Jugendschutz
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. App-Commerce in-App-Käufe
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. B2B-Shop und Unternehmernachweis
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. B2C B2B Plattform Marktplatz Routing
-
-Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 312j BGB — Button-Lösung. - Paragraf 355 Abs. 1 BGB — Widerruf. - Paragraf 357 BGB — Widerrufsfolgen. - Paragraf 434 BGB — Sachmangel. - Paragraf 475 BGB — Verbrauchsgueterkauf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Barrierefreiheitsstärkungsgesetz ab 2025
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bewertungen löschen lassen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Button-Lösung Paragraf 312j BGB
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Buy now pay later Verbraucherkredit
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. CE-Kennzeichnung Produktrecht Schnittstelle
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

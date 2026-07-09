@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | AGB Kontrolle Factoringklauseln B2B | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abtretungsverbot Paragraf 354a HGB Handelsgeschäft | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,9 +61,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| AGB Kontrolle Factoringklauseln B2B | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -83,16 +83,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
-- Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 398 BGB: Tatbestand der Abtretung. Einigung, kein Verfügungsverbot, Bestimmbarkeit. Übergang im Zeitpunkt der Einigung, bei künftigen Forderungen bei deren Entstehung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 399 BGB: Abtretungsverbot kraft Vertrags oder kraft Natur der Leistung. Erfasst auch AGB-Klauseln im Lieferantenvertrag des Debitors: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 354a HGB: Trotz Paragraf 399 BGB ist die Abtretung wirksam, wenn die Forderung aus einem beiderseitigen Handelsgeschäft stammt oder gegen eine juristische Person: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 354a Abs. 2 HGB: Ausnahme für Darlehensforderungen von Kreditinstituten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 404, 406, 407, 409 BGB: Schuldnerschutz – Einwendungen, Aufrechnung, Leistung an Altgläubiger, Anzeige durch Altgläubiger: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BGB Paragrafen 398 bis 412, insbesondere Paragraf 399 (Abtretungsverbot) und Paragraf 404 (Einwendungen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- HGB Paragraf 354a in der Fassung des Risikobegrenzungsgesetzes (Abs. 2 zu Darlehensforderungen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a Satz 2 Nr. 9, Paragraf 32: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 305 BGB: Definition AGB – vorformuliert, gestellt, mehrfache Verwendung. Aushandeln macht die Klausel zur Individualabrede: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 305c BGB: Überraschende Klauseln werden nicht Vertragsbestandteil: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB: Inhaltskontrolle – unangemessene Benachteiligung des Vertragspartners. Im B2B-Bereich greift das Transparenzgebot (Paragraf 307 Abs. 1 S. 2 BGB): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 308, 309 BGB: Klauselverbote – im B2B nicht direkt anwendbar, aber Indizwirkung nach BGH: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 310 Abs. 1 BGB: Modifikation für B2B – Klauselverbote der Paragrafen 308, 309 gelten nicht direkt, aber im Rahmen der Angemessenheitsprüfung nach Paragraf 307: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 306 BGB: Teilnichtigkeit – unwirksame Klausel fällt, der Vertrag bleibt im Übrigen wirksam: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 BGB: Wucherische Vertragsgestaltung als äußerste Grenze: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Abtretungsverbot Paragraf 354a HGB Handelsgeschäft
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. AGB Kontrolle Factoringklauseln B2B
+### 15.1. AGB Kontrolle Factoringklauseln B2B
 
 AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a Satz 2 Nr. 9, Paragraf 32 KWG, BaFin-Merkblatt Factoring, BGB Paragrafen 398 ff., HGB Paragraf 354a, ZAG, GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. abrufenrechte Stichproben Forderungsprüfung
-
-abrufenrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a Satz 2 Nr. 9, Paragraf 32 KWG, BaFin-Merkblatt Factoring, BGB Paragrafen 398 ff., HGB Paragraf 354a, ZAG, GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Aufsichtsrechtliche Schnellampel KWG ZAG
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Auslandsfactoring Import Export Two-Factor-System
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. B2B Lieferketten Forderungsbestand und Reklamationsrisiko
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
+### 15.2. BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Beschwerde und Anhörung BaFin Factoring
+### 15.3. Beschwerde und Anhörung BaFin Factoring
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
+### 15.4. Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt
+
+Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a Satz 2 Nr. 9, Paragraf 32 KWG, BaFin-Merkblatt Factoring, BGB Paragrafen 398 ff. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Kündigung Rahmenvertrag Exit und Rückübertragung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Checkliste Forderungsdatenraum Factoring
+### 15.6. Output Vertragsentwurf Memo Anzeige
+
+Entscheidende Weiche: Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. - Arbeitsprodukt: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Datenschutz Debitorendaten Datenschutz-Grundverordnung Informationspflichten
+### 15.8. Abtretungsverbot Paragraf 354a HGB Handelsgeschäft
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Debitorenbrief höflich aber rechtssicher
+### 15.9. abrufenrechte Stichproben Forderungsprüfung
 
-Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a Satz 2 Nr. 9, Paragraf 32 KWG, BaFin-Merkblatt Factoring, BGB Paragrafen 398 ff., HGB Paragraf 354a, ZAG, GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+abrufenrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG Paragraf 1 Abs. 1a Satz 2 Nr. 9, Paragraf 32 KWG, BaFin-Merkblatt Factoring, BGB Paragrafen 398 ff., HGB Paragraf 354a, ZAG, GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Debitorenkommunikation und Abtretungsanzeige
+### 15.10. Aufsichtsrechtliche Schnellampel KWG ZAG
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Auslandsfactoring Import Export Two-Factor-System
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. B2B Lieferketten Forderungsbestand und Reklamationsrisiko
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Checkliste Forderungsdatenraum Factoring
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistung und Verhalten: Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen.
 4. Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
 5. Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen.
-6. Auslassungen vermeiden: Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden.
+6. BAG-Leitentscheidungen zur Beweislast: Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden.
 
 ## 4. Fallkarte
 
@@ -39,8 +39,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Auslassungen vermeiden | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BAG-Leitentscheidungen zur Beweislast | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslassungen vermeiden | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BAG-Leitentscheidungen zu Notenstufen | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beendigungsgrund formulieren | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Belastbarkeit-Formeln | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

@@ -87,7 +87,7 @@ description: "Wenn es um Ambulantes Operieren Paragraf 115b SGB V in Krankenhaus
 - § 1-23 KHG
 - § 17a-17d KHG
 - § 18a KHG
-- § 80 VwG
+- § 80 VwGO
 - § 5c IfSG
 - § 17 KHEntgG
 - § 14 ApoG

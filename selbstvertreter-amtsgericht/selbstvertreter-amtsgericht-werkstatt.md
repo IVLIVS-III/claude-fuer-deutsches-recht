@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anfänger-Amtsgericht | ZPO Paragraf 253; LG-Urteil kann mit Revision zum BGH angefochten werden | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Augenscheinsbeweis: Wenn das Gericht selbst sehen muss | ZPO Paragraf 253; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; LG-Urteil kann mit Revision zum BGH angefochten werden | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Wer beweist was? Die Beweislast im Zivilprozess | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -67,9 +67,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| LG-Urteil kann mit Revision zum BGH angefochten werden | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -82,18 +80,18 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
 - ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
 - GVG Paragraf 23 und Paragraf 71: sachliche Zuständigkeit von Amts- und Landgericht.
-- Paragraf 433 BGB — Kaufvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 631 BGB — Werkvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 535 BGB — Mietvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 280 BGB — Schadensersatz wegen Pflichtverletzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 281 BGB — Schadensersatz statt Leistung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 311a BGB — Schadensersatz bei anfänglicher Unmöglichkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 311 II BGB i. V. m. Paragraf 280 BGB — Schadensersatz aus c.i.c: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 677 ff. BGB — Geschäftsführung ohne Auftrag (GoA): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 371 ZPO — Augenscheinsbeweis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 371a ZPO — Elektronische Dokumente: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO — Freie Beweiswürdigung; Gericht entscheidet, ob es überzeugt ist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 ZPO — Wahrheitspflicht; sekundaere Darlegungslast: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 I 2 BGB, Paragraf 7 II StVG, Paragraf 836 BGB — Beispiele Beweislast-Umkehr: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 433 II BGB (Kaufpreis):: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 823 I BGB (Delikt):: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 812 BGB (Bereicherung):: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- LG-Urteil kann mit Revision zum BGH angefochten werden — aber nur, wenn vom LG zugelassen (Paragraf 543 ZPO). Sehr selten
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anfänger-Amtsgericht
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt
-
-Wenn Sie Beweisstuecke (Anlagen) einreichen, sollten diese einheitlich beschriftet sein, damit der Richter und der Gegner sie auf einen Blick finden. Diese Skill zeigt Ihnen, wie Sie das machen: welche Schriftart, welche Groesse, wo genau die Beschriftung hingehoert und wie Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Welche Norm trägt Ihren Anspruch?
-
-Jede Klage braucht eine Anspruchsgrundlage — eine Norm im BGB oder Spezialgesetz, die Ihren Anspruch rechtfertigt. Ohne Anspruchsgrundlage ist die Klage unschlüssig (= sie scheitert schon an sich, ohne dass das Gericht in den Sachvortrag einsteigt). Diese Skill führt Sie durch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Brauche ich vor dem Amtsgericht einen Anwalt?
-
-Vor dem Amtsgericht können Sie sich grundsätzlich selbst vertreten. Das nennt sich "Postulationsfähigkeit" — Sie dürfen vor Gericht Anträge stellen und Schriftsätze einreichen. Vor dem Landgericht (LG), Oberlandesgericht (OLG) und dem Bundesgerichtshof (BGH) ist das anders: Dort. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
+### 15.1. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
 
 Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht. Eine Sache (Auto, Wohnung, Foto) wird "in Augenschein genommen" — das Gericht sieht selbst. Diese Form ist nicht haeufig, aber bei konkreten Beobachtungs-Fragen wertvoll. - Es geht um den Zustand. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Wann ist das Amtsgericht immer zuständig (egal wie hoch der Streitwert)?
-
-Manche Streitarten gehoeren immer ans Amtsgericht — auch wenn es um 200.000 EUR Mietnebenkosten geht. Das spart in der Praxis erhebliche Kosten, weil das LG nicht angerufen werden muss und kein Anwaltszwang besteht. Aber Vorsicht: Wenn Sie eine Forderung versehentlich beim LG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Mahnen Sie zuerst — bevor Sie klagen
-
-Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt sich Mahnung. Ohne Mahnung gibt es i. d. R. keinen Verzug — und ohne Verzug bekommen Sie keine Verzugszinsen, keinen Verzugsschaden, oft auch keine Anwaltskosten erstattet. Eine Mahnung ist außerdem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Beratungshilfe: Anwalt vor Klage (fast) umsonst
-
-Bevor Sie klagen, kann ein Anwaltsgespraech viel klären: Habe ich Erfolgsaussichten? Wie formuliere ich den Antrag? Welche Beweise? Wenn Sie bedürftig sind, können Sie Beratungshilfe nach dem Beratungshilfegesetz (BerHG) bekommen — der Anwalt wird vom Staat bezahlt, Sie zahlen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Berufung gegen AG-Urteil: Was geht und was nicht
-
-Wenn Sie ein AG-Urteil für falsch halten, können Sie Berufung einlegen. Berufungsgericht ist das Landgericht (LG). Aber Achtung: Vor LG herrscht Anwaltszwang (Paragraf 78 ZPO). Sie können die Berufung selbst einlegen (Paragraf 78 III ZPO), aber die Begründung muss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Berufungs-Zulassung bei Beschwer bis 1.000 EUR
-
-Wenn Ihre Beschwer 1.000 EUR oder weniger beträgt, ist Berufung grundsätzlich nicht statthaft (Paragraf 511 II Nr. 1 ZPO, Fassung seit 01.01.2026). Eine Berufung ist in dieser Konstellation nur möglich, wenn das Amtsgericht selbst die Berufung in seinem Urteil ausdrücklich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Wer beweist was? Die Beweislast im Zivilprozess
+### 15.2. Wer beweist was? Die Beweislast im Zivilprozess
 
 Im Zivilprozess gilt eine klare Grundregel: Wer eine Norm zu seinen Gunsten geltend macht, muss ihre Voraussetzungen beweisen. Wer das nicht kann, verliert. Diese Regel klingt einfach, ist aber in der Praxis oft unklar. Diese Skill ordnet die Beweislast und zeigt Ausnahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Sammeln Sie Beweise — bevor Sie klagen
+### 15.3. Sammeln Sie Beweise — bevor Sie klagen
 
 Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen können (Beweislast). Bevor Sie Klage einreichen, sollten Sie Ihre Beweise zusammenstellen und sortieren. Eine systematische Sammlung beschleunigt die Klageschrift, vermeidet luckenhaften Vortrag und macht Ihnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App
+### 15.4. Wann beginnt die Frist? Zustellung protokollieren
 
-Das Gericht erwartet heute fast immer PDF-Dateien. Diese Skill zeigt Ihnen, wie Sie aus Word, LibreOffice, gescannten Papieren oder Smartphone-Fotos saubere PDFs machen, die das Gericht und die Gegenseite gut lesen können. - Sie haben Ihre Klage am Computer geschrieben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Die meisten Prozessfristen beginnen mit der Zustellung eines Schriftstuecks (Klage, Urteil, Beschluss). Sie müssen also wissen, wann genau zugestellt wurde — sonst kennen Sie das Frist-Ende nicht. Diese Skill zeigt, wie Zustellung dokumentiert wird. - Sie haben ein Schriftstueck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Dolmetscher im Verfahren
+### 15.5. Fristen richtig berechnen
 
-Verfahrenssprache ist Deutsch (Paragraf 184 GVG). Wenn Sie nicht ausreichend Deutsch können, hat das Verfahren ein Sprach-Problem. Paragraf 185 GVG sieht Dolmetscher vor. Die Kosten trägt der Staat — bei Bedarf. Diese Skill zeigt, wann und wie Sie Dolmetscher beantragen. - Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fristen sind das größte Risiko für Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der Paragrafen 187, 188 BGB. - Sie haben eine Frist und wollen das genaue Ende-Datum. - Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Ein eigenes Fristen-Buch führen
+
+Anwaltskanzleien führen Fristenkalender mit Mehrfach-Kontrollen, weil Versäumnisse fatale Folgen haben. Als Selbstvertreter brauchen Sie das auch — wenn auch in einfacherer Form. Diese Skill zeigt, wie Sie Ihre Fristen sauber verwalten. - Sie wollen verhindern, dass eine Frist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Eine Frist verlaengern: Antrag richtig stellen
+
+Manche Fristen können Sie verlaengern lassen — andere nicht. Notfristen sind grundsätzlich nicht verlaengerbar. Richterliche Fristen und manche gesetzliche Fristen können Sie auf Antrag verlaengern. Diese Skill zeigt, wie Sie den Antrag stellen. - Sie schaffen die Frist nicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Was passiert, wenn Sie eine Tatsache nicht beweisen können?
+
+Im Zivilprozess gilt: Wer beweispflichtig ist und nicht beweist, verliert in dieser Tatsache. Das nennt sich Beweislast-Niederlage. Wenn diese Tatsache anspruchsbegründend ist, scheitert die ganze Klage. Diese Skill warnt Sie vor diesem Risiko und zeigt, wie Sie schon vor Klage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Streitwert
+
+Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskosten und entscheidet über die sachliche Zuständigkeit (AG vs. LG). Sie müssen ihn in der Klage angeben (Paragraf 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Bei anderen Klagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Vereinfachtes Verfahren bis 1.000 EUR (Paragraf 495a ZPO)
+
+Bei Streitwerten bis 1.000 EUR (Stand 2026) kann das Amtsgericht das Verfahren nach billigem Ermessen gestalten — sprich: vereinfachte Form, oft schriftlich ohne muendliche Verhandlung, geringere Förmlichkeit. Das spart Zeit und Geld. Aber: Sie verlieren ein Stueck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Klage komplett zusammenstellen — Schritt für Schritt
+
+Sie haben Ihre Klageschrift fertig geschrieben und alle Beweisstuecke gesammelt. Jetzt geht es darum, daraus ein vollständiges Klage-Bundle zu machen, das Sie beim Amtsgericht einreichen können — gut sortiert, klar benannt, in der richtigen Reihenfolge und in der richtigen Zahl. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Klage und Anlagen als komplettes Paket für das Amtsgericht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Klageerwiderung: jeden Punkt der Klage beantworten
+
+In Ihrer Klageerwiderung müssen Sie systematisch auf jeden erheblichen Punkt der Klage eingehen. Was Sie nicht ausdrücklich bestreiten, gilt als zugestanden (Paragraf 138 III ZPO). Das ist eine der haerteren Regeln des Zivilprozesses — und der haeufigste Anfängerfehler. Diese. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Sie sind verklagt: Welche Fristen laufen?
+
+Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das Gericht ordnet zwischen zwei Verfahrenswegen ein: schriftliches Vorverfahren (Paragraf 276 ZPO) oder früher erster Termin (Paragraf 275 ZPO). In beiden Fällen müssen Sie reagieren — und zwar. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

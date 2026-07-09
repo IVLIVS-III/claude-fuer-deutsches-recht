@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA) | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Völkerrecht und Vertragsgesetzgebung (AA) | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | EU-Grundlagen und Ratsverfahren (AA) | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Art. 20 Abs. 3 GG | Gesetzesbindung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Kernbestand des Sachfelds | GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,6 +85,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
+- Kernbestand des Sachfelds: GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 20 Abs. 3 GG — Gesetzesbindung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 76 Abs. 1 GG — Gesetzesinitiative: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 77 Abs. 1 GG — Gesetzesbeschluss: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -92,7 +93,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Art. 84 Abs. 1 GG — Verwaltungsvollzug: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 42 Abs. 1 GGO — Gesetzgebungsvorhaben: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43 Abs. 1 GGO — Ressortabstimmung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 44 Abs. 1 GGO — Gesetzesfolgen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA)
+### 15.1. Völkerrecht und Vertragsgesetzgebung (AA)
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Arbeitsfokus: Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 1 Datenschutz-Grundverordnung — Datenschutzgrundsätze. - Art. 6 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich legistik-werkstatt sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk
+
+Arbeitsfokus: Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 20 Abs. 3 GG — Gesetzesbindung. - Art. 76 Abs. 1 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Verbändeanhörung und Ressortabstimmung
+
+Arbeitsfokus: Verbändeanhörung und Ressortabstimmung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 20 Abs. 3 GG — Gesetzesbindung. - Art. 76 Abs. 1 GG — Gesetzesinitiative. - Art. 77 Abs. 1 GG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA)
 
 ] Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld. - Auftragsblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. EU-Grundlagen und Ratsverfahren (AA)
+### 15.8. EU-Grundlagen und Ratsverfahren (AA)
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa EU Bmi. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Konsularrecht und Passrecht (AA)
+### 15.9. Konsularrecht und Passrecht (AA)
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa Konsular Bmas. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Sanktionsumsetzung und internationale Abkommen (AA)
+### 15.10. Sanktionsumsetzung und internationale Abkommen (AA)
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Völkerrecht und Vertragsgesetzgebung (AA)
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Änderungs: Formular, Portal und Einreichungslogik
+### 15.11. Änderungs: Formular, Portal und Einreichungslogik
 
 Arbeitsfokus: Änderungs: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 20 Abs. 3 GG — Gesetzesbindung. - Art. 76 Abs. 1 GG — Gesetzesinitiative. - Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anschluss-Routing
-
-Dieses Anschluss-Routing für Legistik Werkstatt wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - aa-ausfuhrkontrolle — AA Ausfuhrkontrolle - aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension — AA Ausfuhrkontrolle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Baut Quellenkarte
-
-Diese Quellenkarte sichert im Bereich Legistik Werkstatt tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab. - allgemein-workflow-chronologie-workflow-fristen-legw-bmleh - begründung-allgemein-und-besonders. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Begründung allgemein und besonders
+### 15.12. Begründung allgemein und besonders
 
 ] Eine gute Begründung erleichtert Auslegung und Vollzug, eine schlechte führt zu Streit. Was soll erreicht werden? Warum ist eine Regelung erforderlich? In zehn bis zwanzig Sätzen den Kern des Entwurfs darstellen. Welche Alternativen wurden erwogen, warum verworfen? Verweis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Arbeitsrecht und Arbeitsschutz (BMAS)
+### 15.13. Arbeitsrecht und Arbeitsschutz (BMAS)
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Arbeitsschutz und Arbeitssicherheit (BMAS)
+### 15.14. Arbeitsschutz und Arbeitssicherheit (BMAS)
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Rente und Altersvorsorgerecht (BMAS)
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Sozialversicherungsrecht (SGB) (BMAS)
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Teilhaberecht (SGB IX) (BMAS)
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmas Teilhabe Bmbfsfj. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

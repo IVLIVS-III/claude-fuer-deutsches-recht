@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Anschluss-Routing: Dieses Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht wählt nach dem ersten Ergebnis.
+6. Embargo: Fristennotiz und nächster Schritt: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Dieses Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht wählt nach dem ersten Ergebnis |
+| Tatbestand | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | Dieses Anschluss-Routing für Fachanwalt Internationales Wirtschaftsrecht wählt nach dem ersten Ergebnis. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti Dumping Zoll eu Grundverordnung | Prüfe Anti Dumping Zoll eu Grundverordnung von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aussenhandel: Zahlen, Schwellenwerte und Berechnung | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Brüssel: Risikoampel, Gegenargumente und Verteidigungslinien | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| China Shipping Bills of Lading | Prüfe China Shipping Bills of Lading von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cisg: Dokumentenmatrix, Lückenliste und Nachforderung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Embargo: Fristennotiz und nächster Schritt | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch. | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schiedsspruch Aufhebung Paragraf 1059 zpo | Prüfe Schiedsspruch Aufhebung Paragraf 1059 zpo von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Trade: Beweislast, Darlegungslast und Substantiierung | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,14 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragraf 1025 Abs. 1 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1059 Abs. 2 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anschluss-Routing, Anti Dumping Zoll eu Grundverordnung, Aussenhandel: Zahlen, Schwellenwerte und Berechnung, Brüssel: Risikoampel, Gegenargumente und Verteidigungslinien: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Embargo: Fristennotiz und nächster Schritt, Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch., Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage, Schiedsspruch Aufhebung Paragraf 1059 zpo: Kurzvermerk, Prüfmatrix, Entwurf.
 
 ## 8. Stop
 

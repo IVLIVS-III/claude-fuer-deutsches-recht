@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Allgemeine: Sonderfall und Edge-Case-Prüfung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Berufliche: Fristennotiz und nächster Schritt | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anrede und Grußformeln | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Allgemeine: Sonderfall und Edge-Case-Prüfung
+### 15.1. Berufliche: Fristennotiz und nächster Schritt
 
 Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anrede und Grußformeln
+### 15.2. Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. E-Mail-Umformulierer Berufsrecht — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Frist und Mahnung höflich formulieren
+
+Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis. Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristsetzungen bereit. Auch rechtlich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich email-umformulierer-berufsrecht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Notare: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Allgemeine: Sonderfall und Edge-Case-Prüfung
+
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Anrede und Grußformeln
 
 Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis. Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in beruflicher Korrespondenz. Die richtige. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Mandantennachricht oder Entscheidungsvorlage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Berufliche: Fristennotiz und nächster Schritt
-
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
+### 15.10. Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bora: Internationaler Bezug und Schnittstellen
+### 15.11. Bora: Internationaler Bezug und Schnittstellen
 
 Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. BORA-Konformitätsprüfung
+### 15.12. BORA-Konformitätsprüfung
 
 Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis. Prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für Rechtsanwälte (BORA). Die BORA. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Brao: Mehrparteienkonflikt und Interessenmatrix
+### 15.13. Brao: Mehrparteienkonflikt und Interessenmatrix
 
 Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. BRAO-Konformitätsprüfung
+### 15.14. BRAO-Konformitätsprüfung
 
 Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis. Prüft Ausgangsschreiben von Rechtsanwälten auf Einklang mit den Berufspflichten der Bundesrechtsanwaltsordnung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Chronologie und Belegmatrix
-
-Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich email-umformulierer-berufsrecht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Einstieg und Routing
-
-Dieser Einstieg routet Email Umformulierer Berufsrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - allgemeine-sonderfall-edge-case — Allgemeine Sonderfall Edge Case - anrede-und-grussformeln — Anrede. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Allgemeine Berufliche Korrespondenz
-
-Entscheidende Weiche: Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis. Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die keinem spezifischen Berufsrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg
-
-Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Eingangsprüfung Zuständigkeit | ZPO Paragraf 253; BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 05 Beweisaufnahme Kleine Zivilkammer | ZPO Paragraf 253; BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Streitwert und Gerichtskosten | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 07 Urteilsentwurf Paragraf 313 | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -84,8 +84,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
 - ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
 - GVG Paragraf 23 und Paragraf 71: sachliche Zuständigkeit von Amts- und Landgericht.
-- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 313, 313a, 313b ZPO; Paragrafen 91 ff. ZPO für Kosten; Paragrafen 708, 711 ZPO für vorläufige Vollstreckbarkeit beim Amtsgericht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -147,33 +147,33 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 01 Eingangsprüfung Zuständigkeit
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. 02 Streitwert und Gerichtskosten
-
-Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220), vorläufige Streitwertfestsetzung, GKG-Vorschuss Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen nach Paragraf 23 Nummer 2a. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. 03 Akte Erstdurchsicht
-
-Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrundlagen sammeln, Beweismittel listen, Streitstand isolieren Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen nach Paragraf 23. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. 04 Relation Zivilrecht Klein
-
-Echte Relation: Klägerstation (Schlüssigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. 05 Beweisaufnahme Kleine Zivilkammer
+### 15.1. 05 Beweisaufnahme Kleine Zivilkammer
 
 Beweisbeschluss formulieren (Paragrafen 358-360 ZPO), Zeugenladung, Sachverständigenauswahl, Beweistermin protokollieren, Beweiswürdigung Paragraf 286 ZPO Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. 06 Tenor und Kostenentscheidung
-
-Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO), Beschwer berechnen Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. 07 Urteilsentwurf Paragraf 313
+### 15.2. 07 Urteilsentwurf Paragraf 313
 
 Urteilsentwurf nach Paragraf 313 ZPO: Rubrum, Tenor, Tatbestand (gestraffter Vortrag), Entscheidungsgründe (Begründetheit, Hauptpunkt, Beweiswürdigung), Nebenentscheidungen, Rechtsmittelbelehrung Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. 01 Eingangsprüfung Zuständigkeit
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. 02 Streitwert und Gerichtskosten
+
+Streitwertbestimmung Paragrafen 3-9 ZPO, GKG-Anlage 1 (KV 1210 und 1211 und 1220), vorläufige Streitwertfestsetzung, GKG-Vorschuss Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen nach Paragraf 23 Nummer 2a. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. 03 Akte Erstdurchsicht
+
+Strukturierte Erstdurchsicht: Parteien, Antrag, Lebenssachverhalt, Anspruchsgrundlagen sammeln, Beweismittel listen, Streitstand isolieren Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen nach Paragraf 23. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. 04 Relation Zivilrecht Klein
+
+Echte Relation: Klägerstation (Schlüssigkeit der Anspruchsgrundlage), Beklagtenstation (Erheblichkeit der Einwendungen), Beweisstation (beweisbedürftige Tatsachen + Beweislast), schriftliches Votum Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. 06 Tenor und Kostenentscheidung
+
+Tenor formulieren (Hauptsache, Nebenforderungen, Zinsen, Kosten Paragraf 91 ZPO, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO), Beschwer berechnen Werkstatt-Assistent für den Zivilrichter am Amtsgericht (Paragraf 23 GVG: bis 10.000 Euro Streitwert, Wohnraummietsachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. 08 Versäumnisurteil und Anerkenntnis
 

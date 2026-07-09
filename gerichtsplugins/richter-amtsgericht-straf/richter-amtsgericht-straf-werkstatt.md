@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Akte Erstdurchsicht Strafsache | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 04 Beweisaufnahme und Beweisanträge | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Zuständigkeit und Eröffnungsbeschluss | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 05 Beweiswürdigung Strafrecht | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -150,37 +150,37 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 01 Akte Erstdurchsicht Strafsache
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. 02 Zuständigkeit und Eröffnungsbeschluss
-
-Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichteröffnung oder Ablehnung mit Begründung Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. 03 Hauptverhandlung Vorbereiten
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. 04 Beweisaufnahme und Beweisanträge
+### 15.1. 04 Beweisaufnahme und Beweisanträge
 
 Beweisaufnahme nach Paragrafen 244-256 StPO, Umgang mit Beweisanträgen, Praesenzvermutung Paragraf 244 Abs. 6, Wahrunterstellung, Ablehnungsgründe Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. 05 Beweiswürdigung Strafrecht
+### 15.2. 05 Beweiswürdigung Strafrecht
 
 Beweiswürdigung Paragraf 261 StPO: Indizien, Aussage gegen Aussage, Glaubhaftigkeit, In-dubio-pro-reo, Sachverständigenkritik Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. 06 Strafzumessung Paragraf 46 Stgb
+### 15.3. 06 Strafzumessung Paragraf 46 Stgb
 
 Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewährungsauflagen Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. 07 Tenor und Rechtsmittelbelehrung Straf
-
-Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewährung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf 465 StPO, Rechtsmittelbelehrung Berufung und Revision Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. 08 Urteilsbegründung Paragraf 267 Stpo
+### 15.4. 08 Urteilsbegründung Paragraf 267 Stpo
 
 Urteilsgründe: Persönliche Verhältnisse, Feststellungen zum Tatgeschehen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Nebenentscheidungen Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. 01 Akte Erstdurchsicht Strafsache
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. 02 Zuständigkeit und Eröffnungsbeschluss
+
+Zuständigkeit Strafrichter oder Schöffengericht (Paragraf 25 oder 28 GVG), Eröffnung Paragrafen 199-203 StPO, Nichteröffnung oder Ablehnung mit Begründung Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. 03 Hauptverhandlung Vorbereiten
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. 07 Tenor und Rechtsmittelbelehrung Straf
+
+Tenor: Schuldspruch, Strafausspruch, Nebenstrafen, Bewährung, Einziehung Paragraf 73 StGB, Kostenentscheidung Paragraf 465 StPO, Rechtsmittelbelehrung Berufung und Revision Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. 09 Strafbefehl und Beschleunigtes Verfahren
 

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
 4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
 5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
-6. Anwenden Quellenkarte: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
+6. Beweisbedarf und Belege erfassen: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anwenden Quellenkarte | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweisbedarf und Belege erfassen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Darlegungs- und Beweislast verteilen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einreden: Compliance-Dokumentation und Aktenvermerk | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einschlägige Normen vorschlagen — Deutsches Recht | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Output: Antrag, Beschwerde, Klageschrift | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

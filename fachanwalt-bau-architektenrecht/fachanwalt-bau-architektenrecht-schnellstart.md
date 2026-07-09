@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13 | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abnahme des Bauwerks unter Vorbehalt von Mängeln erklären: Mängelvorbehalt, Sicherungsrechte | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abnahme Quellenkarte | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abnahme des Bauwerks verweigern: wesentliche Mängel als Verweigerungsgrund, Begründungspflicht | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Architektenhonorar HOAI Mindestsatz EuGH C 377 17 | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bau- und Architektenrecht einführend: Bauvertrag Paragraf 650a BGB, Verbraucherbauvertrag Paragraf 650i BGB. | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezialfall Symptomtheorie BGH zur Mangelrüge: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht. | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19 | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauträger-Eigenkapital-Überprüfung vor Vertragsabschluss | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,19 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 633: Sach- und Rechtsmängel des Werkes.
 - BGB Paragraf 634: Rechte des Bestellers bei Mängeln.
 - BGB Paragraf 640: Abnahme.
-- 1. Welche Abnahmeform liegt vor — förmlich (Begehungsprotokoll), konkludent (Ingebrauchnahme), fiktiv (Paragraf 640 Abs. 2 BGB nach Fristablauf), VOB/B Paragraf 12?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 12 VOB/B: förmliche Abnahme, konkludente nach 12 Werktagen Nutzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 631 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 650a ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 2 BGB iVm Paragraf 286 BGB: bei Verzug Schadensersatzanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB Inhaltskontrolle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
 - BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
 - BGH 25.02.2016 VII ZR 49/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13, Abnahme des Bauwerks unter Vorbehalt von Mängeln erklären: Mängelvorbehalt, Sicherungsrechte, Abnahme Quellenkarte, Abnahme des Bauwerks verweigern: wesentliche Mängel als Verweigerungsgrund, Begründungspflicht: Kurzvermerk, Prüfmatrix, Entwurf.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13, Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage, Bau- und Architektenrecht einführend: Bauvertrag Paragraf 650a BGB, Verbraucherbauvertrag Paragraf 650i BGB., Spezialfall Symptomtheorie BGH zur Mangelrüge: Beschreibung Symptom.
 
 ## 8. Stop
 

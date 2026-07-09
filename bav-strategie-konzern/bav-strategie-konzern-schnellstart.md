@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Boutique: Fristennotiz und nächster Schritt | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PSV — Pensionssicherungsverein und Haftungsketten | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Restrukturierung: Beweislast, Darlegungslast und Substantiierung | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | bAV: CTA Treuhand | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: Fünftelregelung Auszahlung | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: Grenzüberschreitende Mobilität | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: Konzern-Design | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,7 +61,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg, Anschluss-Routing, bAV: CTA Treuhand, bAV: Fünftelregelung Auszahlung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg, Boutique: Fristennotiz und nächster Schritt, Fristen- und Risikoampel, PSV — Pensionssicherungsverein und Haftungsketten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

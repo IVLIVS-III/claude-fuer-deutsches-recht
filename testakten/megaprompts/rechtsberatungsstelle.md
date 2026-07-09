@@ -1279,7 +1279,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - § 4 KSchG
 - § 84 SGG
 - § 74 AsylG
-- § 70 VwG
+- § 70 VwGO
 - § 8 RDG
 - Art. 30 DSGVO
 - Art. 28 DSGVO
@@ -1300,4 +1300,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

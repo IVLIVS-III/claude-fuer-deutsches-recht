@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Berufsrecht System-Vertragsprüfung — Allgemein | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anbietern Belehrung Sonderfall Edge | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristen- und Risikoampel | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Art. 5 Abs. 3 Satz 1 GG | Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Paragraf 203 StGB | Strafvorschrift zum Schutz von Privatgeheimnissen; erfasst Berufsgeheimnisraeger wie Anwälte, Ärzte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 70 Abs. 1 VwGO — Widerspruchsfrist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 123 Abs. 1 VwGO — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO — Berufsrecht läuft parallel: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 203, 204 StGB — Strafrecht: Verschwiegenheitspflicht als Straftatbestand: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 203 StGB — Strafvorschrift zum Schutz von Privatgeheimnissen; erfasst Berufsgeheimnisraeger wie Anwälte, Ärzte und Steuerberater: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43e BRAO — Rechtsanwalt: Inanspruchnahme von Dienstleistern: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 39c PAO — Patentanwalt: Inanspruchnahme von Dienstleistern: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 26a BNotO — Notar: Inanspruchnahme von Dienstleistern: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 1 Abs. 3 Abs. 4 und Abs. 6 StGB — Verletzung von Privatgeheimnissen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 204 StGB — Verwertung fremder Geheimnisse: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 53a 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Datenschutz-Grundverordnung Art. 5, 6, 9, 22, 25, 32, 35; UrhG Paragrafen 44b, 60d, 69a ff.; GeschGehG Paragrafen 2, 4: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anbietern Belehrung Sonderfall Edge
-
-Empfehlung in 3 Optionen: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren. - Jede Option mit Risikoampel und Begründung. Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anmaßend — Anbieter reagieren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot
-
-Art. 50 Regulierungsrahmen ist für Kanzleien vor allem eine Transparenz- und Kommunikationsfrage. Nicht jeder interne System-Entwurf muss nach außen markiert werden. Anders sieht es aus, wenn Nutzer mit einem Chatbot sprechen oder synthetische Inhalte veröffentlicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. AVV-Grenzprüfung Datenschutz
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Belehrung: Abschlussprodukt und Übergabe
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Berufsrecht: Sonderfall und Edge-Case-Prüfung
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Bnoto: Mehrparteienkonflikt und Interessenmatrix
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Berufsrecht digitale Werkzeuge-Vertragsprüfung — Allgemein
+### 15.1. Berufsrecht digitale Werkzeuge-Vertragsprüfung — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Brao: Zahlen, Schwellenwerte und Berechnung
+### 15.2. Fristen- und Risikoampel
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich berufsrecht-ki-vertragsprüfung sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. BRKI: Anbieter-Due-Diligence
+### 15.3. Vertragsprüfung: Fristennotiz und nächster Schritt
 
-1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termine, Fristen, eilbedürftige Schritte? 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. BRKI: EU-US-DPF Transfer
+### 15.4. Klauseln: Beweislast, Darlegungslast und Substantiierung
 
-1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termine, Fristen, eilbedürftige Schritte? 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Klauselvorschläge — Bausteine
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Strafrechtliche Tatbestand Beweis und Belege
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Vorprüfung: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. europäischer Technikregulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Anbietern Belehrung Sonderfall Edge
+
+Empfehlung in 3 Optionen: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren. - Jede Option mit Risikoampel und Begründung. Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anmaßend — Anbieter reagieren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot
+
+Art. 50 Regulierungsrahmen ist für Kanzleien vor allem eine Transparenz- und Kommunikationsfrage. Nicht jeder interne System-Entwurf muss nach außen markiert werden. Anders sieht es aus, wenn Nutzer mit einem Chatbot sprechen oder synthetische Inhalte veröffentlicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. AVV-Grenzprüfung Datenschutz
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Belehrung: Abschlussprodukt und Übergabe
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

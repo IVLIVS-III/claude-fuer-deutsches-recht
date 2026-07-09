@@ -56,7 +56,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 90 BVerfGG: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung und Subsidiarität: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 23 und Paragraf 92 BVerfGG: substantiiertes Vorbringen und Begründungslast: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 93a BVerfGG: Annahmegründe sauber von Begründetheit trennen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 - BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen
 

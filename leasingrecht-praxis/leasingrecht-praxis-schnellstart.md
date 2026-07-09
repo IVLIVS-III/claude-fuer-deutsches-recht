@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. AGB-Kontrolle im Leasingvertrag: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+6. Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGB-Kontrolle im Leasingvertrag | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asset Tracking und Eigentumskennzeichnung im Leasing | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leasing von Netzwerkequipment: Router, Switches, Access Points | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16 | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenschutz und Telematik im Fahrzeugleasing | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leasingrecht: AGB-Klauseln im Leasingvertrag prüfen | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leasingrecht: Leasingvertrag Redline für Anbieter | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leasingrecht: Leasingvertrag Redline für Leasingnehmer | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,19 +52,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 305 BGB: Einbeziehungsvoraussetzungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305c BGB: Überraschende und mehrdeutige Klauseln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: Generalklausel (unangemessene Benachteiligung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 108, 109 InsO: Insolvenzverwalter kann Vertrag fortführen oder kündigen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 535–548 BGB: Mietrecht analog: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 506–509 BGB: Verbraucherleasing: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 398 BGB: Abtretung der Gewährleistungsansprüche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
-- BGH VIII ZR 71/93 (Gefahrtragung Finanzierungsleasing): https://www.bgh.de
-- BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (Abtretungsklausel): https://www.bgh.de
-- BGH, Urteil vom 14.03.2007 - VIII ZR 68/06 (Schadensersatz nach Kündigung): https://www.bgh.de
+- BGH VIII ZR 172/05: Minderwertklausel muss klar unterscheiden zwischen normaler Abnutzung und übermäßigem Verschleiß
+- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie): https://www.bgh.de
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB-Kontrolle im Leasingvertrag, Asset Tracking und Eigentumskennzeichnung im Leasing, Leasing von Netzwerkequipment: Router, Switches, Access Points, Leasingbilanzierung: HGB, Paragraf 39 AO und IFRS 16: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe, Leasingrecht: AGB-Klauseln im Leasingvertrag prüfen, Leasingrecht: Fahrzeugleasing Kilometervertrag Restwertvertrag Rückgabe, Leasingrecht: Leasingvertrag Redline für Anbieter: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
 ## 8. Stop
 

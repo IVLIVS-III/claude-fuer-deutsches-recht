@@ -43,13 +43,13 @@ Diese Quellenkarte sichert im Bereich **Fachanwalt Medizinrecht** tragende Norme
 ### Kuratierte Normen-Bibliothek
 
 - § 86b SGG
-- § 80 VwG
+- § 80 VwGO
 - § 4b AMG
 - § 87 SGG
 - § 51 SGG
 - § 84 SGG
-- § 70 VwG
-- § 74 VwG
+- § 70 VwGO
+- § 74 VwGO
 - § 203 StGB
 - § 3a RVG
 - § 229 StGB

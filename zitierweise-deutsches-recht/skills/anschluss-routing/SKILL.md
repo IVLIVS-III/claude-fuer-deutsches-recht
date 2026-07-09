@@ -61,7 +61,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ### Kuratierte Normen-Bibliothek
 
 - § 51 UrhG
-- § 117 VwG
+- § 117 VwGO
 - § 1 GVG
 - § 63 UrhG
 - § 97 UrhG

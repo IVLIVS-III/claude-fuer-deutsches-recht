@@ -42,13 +42,13 @@ description: "Wenn es um Fachanwalt für Agrarrecht — Orientierung in Fachanwa
 - **Hofübergabe** Hofbezugnahme nach Erbfall — siehe Höfeordnung Anerbenrechte.
 - **Landpachtkündigung** § 585 BGB iVm Landpachtvertrag (oft jaehrlich zu festgelegten Terminen).
 - **GrdstVG** Genehmigungsverfahren läuft über Landwirtschaftsbehörde.
-- **Widerspruch gegen Förderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
+- Widerspruch gegen Förderbescheid: VwGO Paragraf 70 nur bei eröffnetem Vorverfahren; Klagefrist nach VwGO Paragraf 74, Rechtsbehelfsbelehrung und einschlägiges Landes- oder Fachrecht gesondert prüfen.
 
 ## Hauptforen
 
-- **Landwirtschaftsgericht** (beim AG / LG je Bundesland — Landwirtschaftsverfahren-Gesetz LwVG).
-- **Verwaltungsgericht** bei öffentlich-rechtlichen Förderbescheiden.
-- **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
+- Landwirtschaftsgericht: nach LwVfG Paragraf 2 ausschließlich das Amtsgericht im ersten Rechtszug, Oberlandesgericht im zweiten und Bundesgerichtshof im dritten Rechtszug.
+- Verwaltungsgericht bei öffentlich-rechtlichen Förderbescheiden, soweit kein abweichender Rechtsweg eröffnet ist.
+- Bundesgerichtshof, Senat für Landwirtschaftssachen.
 - **EuGH** bei GAP-Vorabentscheidungen.
 
 ## Quellenregel
@@ -78,7 +78,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Paragrafenkette (Überblick Agrarrecht)
 
-BGB §§ 581-597 (Landpacht) → LPachtVG (Pachtverkehr, Genehmigung) → GrdstVG (Grundstücksverkehr) → HöfeO §§ 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → VO (EU) 2021/2115 + 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG i.V.m. DüV (Düngerecht) → BNatSchG §§ 13 ff. (Naturschutz, Eingriffsregelung) → § 35 BauGB (Außenbereich landwirtschaftliche Privilegierung) → TierSchG, TierGesG → LwVG (Verfahren Landwirtschaftsgericht)
+BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
 
 ### Quellenregel
 

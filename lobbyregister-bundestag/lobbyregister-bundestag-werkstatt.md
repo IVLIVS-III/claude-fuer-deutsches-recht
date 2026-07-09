@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Portal-Account und Rollen | LobbyRG Paragraf 1; BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristen- und Quartalsmonitor | LobbyRG Paragraf 1; BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | LobbyRG Paragraf 2 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Adressatenkreis Bundestag und Bundesregierung | LobbyRG Paragraf 2; BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Portal-Account und Rollen | LobbyRG Paragraf 2; BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr | Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -137,58 +137,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Portal-Account und Rollen
+### 15.1. Fristen- und Quartalsmonitor
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Adressatenkreis Bundestag und Bundesregierung
+### 15.2. Portal-Account und Rollen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Unverzuegliche Aktualisierung
+### 15.3. Adressatenkreis Bundestag und Bundesregierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anonymisierung und Schutzantrag
+### 15.4. Unverzügliche Aktualisierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Auftraggeber ermitteln
+### 15.5. Anonymisierung und Schutzantrag
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Ausnahmen Bundesregierung
+### 15.6. Auftraggeber ermitteln
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Ausnahmen Bundestag
+### 15.7. Ausnahmen Bundesregierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Benachrichtigungskonto Monitor
+### 15.8. Ausnahmen Bundestag
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Bestätigungsdokument und Freigabe
+### 15.9. Benachrichtigungskonto Monitor
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Bestätigungsdokument und Freigabe
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Betraute Personen
+### 15.11. Betraute Personen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Bussgeld und Prüfverfahren
+### 15.12. Bussgeld und Prüfverfahren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Datenschutz und nicht öffentliche Angaben
+### 15.13. Datenschutz und nicht öffentliche Angaben
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Dokumentationsakte und Revisionsspur
+### 15.14. Dokumentationsakte und Revisionsspur
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Drehtuer-Angaben
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

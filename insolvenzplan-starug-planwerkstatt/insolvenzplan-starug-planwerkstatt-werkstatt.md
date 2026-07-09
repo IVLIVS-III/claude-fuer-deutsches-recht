@@ -73,7 +73,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist |
-| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen |
+| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnähe kann Anfechtungsrisiken begrenzen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -88,11 +88,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 7-39 StaRUG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen 220-221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235-244: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 229 InsO Pflichtanlagen: Vermögensübersicht, Ergebnis- und Finanzplan für Planlaufzeit (idR 3–5 Jahre), Vergleichsrechnung Plan vs. Liquidation: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 230 InsO weitere Anlagen: Erklärungen der Planbetroffenen (z. B. neue Kreditzusagen, Forderungsverzichte, Patronatserklärungen) — Anlagen wirken als Vertragsverpflichtung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 7 StaRUG entspricht: Vergleichende Aufstellung, Finanzplan, Sanierungskonzept als Anlagen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten übertragen werden sollen. Paragrafen 311b 398 BGB Paragrafen 27 ff. MarkenG Paragraf 15 PatG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragraf 245 InsO: Obstruktionsverbot greift, wenn (a) Mehrheit der abstimmenden Gruppen zugestimmt hat, (b) ablehnende Gruppe wirtschaftlich nicht schlechter steht (Paragraf 245: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestätigung, Vollzug): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 244 und 245 InsO — Abstimmungsmehrheiten und Obstruktionsverbot (Cramdown): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 251 InsO — Minderheitenschutz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 261 und 268 InsO — Planüberwachung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 1 bis 93 StaRUG — Restrukturierungsplan (Planinhalt, Gruppenbildung, Abstimmung, Cramdown, Bestätigung, Sanierungsmoderation): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -100,9 +100,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
-- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
+- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnähe kann Anfechtungsrisiken begrenzen.
 - BVerfG 1 BvR 418/25 vom 28.02.2025 (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung eines StaRUG-Restrukturierungsplans unzulässig; Bedeutung für Mehrheiten: Eingriffe in Aktionärsrechte
-- BGH, Beschluss vom 23.04.2026 — IX ZB 18/25 (ECLI:DE:BGH:2026:230426BIXZB18.25.0; erste höchstrichterliche Entscheidung zum StaRUG; das amtliche Beschluss-PDF liegt im Repo der Testakte
 
 ## 9. Prüfraster
 
@@ -160,50 +159,50 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anlagen: Mehrparteienkonflikt und Interessenmatrix
+### 15.3. Insolvenzplan und StaRUG-Planwerkstatt — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anlagenpaket
+### 15.4. Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Anlagen: Mehrparteienkonflikt und Interessenmatrix
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Anlagenpaket
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Asset Deals im Plan Grundstuecke Marken Kundendaten
+### 15.8. Asset Deals im Plan Grundstuecke Marken Kundendaten
 
 Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten übertragen werden sollen. Paragrafen 311b 398 BGB Paragrafen 27 ff. MarkenG Paragraf 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Cram: Formular, Portal und Einreichungslogik
+### 15.9. Cram: Formular, Portal und Einreichungslogik
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Cram-down und Obstruktion
+### 15.10. Cram-down und Obstruktion
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Darstellender Quellenkarte
-
-Diese Quellenkarte sichert für Insolvenzplan / StaRUG jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert. - Paragrafen 217-269 InsO Insolvenzplan — amtlichen Stand vor tragender Aussage prüfen - StaRUG Paragrafen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Darstellender Teil
+### 15.11. Darstellender Teil
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Datenraum und Dokumentenregister
+### 15.12. Datenraum und Dokumentenregister
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Down: Red-Team und Qualitätskontrolle
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Einstieg und Routing
+### 15.14. Gestaltender Teil
 
-Dieser Einstieg routet Insolvenzplan StaRUG Planwerkstatt vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - abstimmung-anlagen-interessen-cram — Abstimmung Anlagen Interessen Cram. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

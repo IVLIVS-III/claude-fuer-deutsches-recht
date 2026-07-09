@@ -56,7 +56,7 @@ Dieses Anschluss-Routing für **Fortbestehensprognose** wählt nach dem ersten E
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
+- § 70 VwGO
 
 ### Leitentscheidungen
 

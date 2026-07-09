@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anwalts-Dashboard Lizenzvertragsersteller | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Insolvenz-Fortbestand der Lizenz ($ 103 InsO) | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -80,11 +80,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene Vergütung); Paragraf 69a ff. (Software); Paragraf 137l UrhG (unbekannte Nutzungsarten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- MarkenG Paragrafen 30 (Lizenz), 27 (Übertragung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- DesignG Paragrafen 31 ff.; GebrMG Paragrafen 22 ff: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragraf 103 (Wahlrecht des Verwalters bei gegenseitigen Verträgen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 AEUV - Kartellverbot: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
@@ -144,54 +139,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Lizenzgeber liefert Software/SaaS; Lizenznehmer ist Verantwortlicher; Lizenzgeber Auftragsverarbeiter. → Pflicht-AVV nach Art. 28 III Datenschutz-Grundverordnung. Beide Parteien bestimmen gemeinsam Zweck und Mittel der Verarbeitung; typisch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anwalts-Dashboard Lizenzvertragsersteller
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Escrow / Quellcode-Verwahrer-Vereinbarung
-
-Lizenznehmer macht sich von der Software des Lizenzgebers abhängig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzufuehren. Lösung: Drei-Parteien-Escrow-Vertrag. ` +---------------+. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Exportkontrolle — Dual-Use und Lizenz
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Insolvenz-Fortbestand der Lizenz ($ 103 InsO)
+### 15.2. Insolvenz-Fortbestand der Lizenz ($ 103 InsO)
 
 Wird der Lizenzgeber insolvent, hat der Insolvenzverwalter nach $ 103 InsO das Wahlrecht: - Erfüllung verlangen (Lizenz besteht fort) oder - Erfüllung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung). Praxis: Verwalter wählen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. IP-Identifikation und Bestandsaufnahme
-
-Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A des Vertrags. ` ` Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veröffentlichungen die Patentschutz gefährden. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Kartellrecht — TT-GVO (EU) 316/2014
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Klausel Exklusivitaet — sole, exclusive, non-exclusive
-
-] $ 4 Exklusivitaet. ] ] Option A — Ausschließliche Lizenz: ] Der Lizenzgeber raeumt dem Lizenznehmer eine ausschließliche Lizenz ein. Der Lizenzgeber verzichtet auf eigene Nutzung des Lizenzgegenstands im Lizenzgebiet während der Vertragslaufzeit; er wird auch keinen Dritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Klausel Haftung, Gewaehrleistung, Indemnification
+### 15.3. Klausel Haftung, Gewaehrleistung, Indemnification
 
 Lizenzgeber garantiert, dass: 1. Lizenzgegenstand existiert 2. Lizenzgeber alleiniger / berechtigter Inhaber ist 3. Keine Drittrechte entgegen stehen 4. Keine schwebenden Klagen / Aufhebungsverfahren ] "$ 8 Garantien des Lizenzgebers. ] (1) Der Lizenzgeber garantiert, dass er. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Klausel Lizenzgegenstand + Anlage A
+### 15.4. Klausel Vergütung — Pauschale, Royalty, Tiered
+
+A. Pauschale: ] "$ 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, fällig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers." B. Running Royalty: ] "Der Lizenznehmer zahlt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Klausel Vertragsdauer und Kündigung
+
+A. Feste Laufzeit: ] "$ 11 Vertragsdauer. ] (1) Dieser Vertrag hat eine Laufzeit von [N] Jahren ab dem [Wirksamkeitsdatum]. Er endet automatisch mit Ablauf der Laufzeit, ohne dass es einer Kündigung bedarf." B. Rollover: ] "(2) Die Laufzeit verlaengert sich um jeweils [M] Jahre. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Output: Lizenzvertrag
+
+1. Eingangsdaten sammeln (Parteien, IP, Vergütungsmodell, Rechtswahl) - siehe Skills A-D. 2. Pro Klausel den passenden Baustein-Skill aufrufen. 3. Vertrag aus dem unten stehenden Gerüst zusammensetzen. 4. Anlagen A-E aus den entsprechenden Skills einfuegen. 5. Prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Output: Licence Agreement
+
+International deal with non-German party - Governing law not German (e.g., English, NY, Swiss) - Arbitration in English-speaking forum - Parent-company headquartered abroad ``` LICENCE AGREEMENT between [Licensor], [address], represented by [representative] - the "Licensor". Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Escrow / Quellcode-Verwahrer-Vereinbarung
+
+Lizenznehmer macht sich von der Software des Lizenzgebers abhängig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzuführen. Lösung: Drei-Parteien-Escrow-Vertrag. ` +---------------+. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Exportkontrolle — Dual-Use und Lizenz
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. IP-Identifikation und Bestandsaufnahme
+
+Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A des Vertrags. ` ` Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veröffentlichungen die Patentschutz gefährden. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Kartellrecht — TT-GVO (EU) 316/2014
+
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Klausel Exklusivitaet — sole, exclusive, non-exclusive
+
+] $ 4 Exklusivitaet. ] ] Option A — Ausschließliche Lizenz: ] Der Lizenzgeber raeumt dem Lizenznehmer eine ausschließliche Lizenz ein. Der Lizenzgeber verzichtet auf eigene Nutzung des Lizenzgegenstands im Lizenzgebiet während der Vertragslaufzeit; er wird auch keinen Dritten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Klausel Lizenzgegenstand + Anlage A
 
 Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehörigkeit. ` ANLAGE A — LIZENZGEGENSTAND ========================== A.1 Patente A.2 Marken A.3 Software A.4 Know-how ] $ 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Klausel Lizenzumfang — Territorium, Zeit, Feld
+### 15.14. Klausel Lizenzumfang — Territorium, Zeit, Feld
 
 Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen. ] $ 3 Lizenzumfang. ] ] (1) Raeumlich umfasst die Lizenz das Territorium [Mitgliedstaaten der Europäischen Union /. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Klausel Mindestlizenzen, Meldungen, abrufen
-
-Untergrenze pro Periode (Jahr, Quartal). Schuetzt den Lizenzgeber vor passiven Lizenznehmern bei ausschließlicher Lizenz. ] "Pro Kalenderjahr beträgt die Mindestlizenzgebuehr [Betrag] EUR. Die Mindestlizenzgebuehr wird auf Running Royalties angerechnet. Unterschreitet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Klausel Rechtswahl, Gerichtsstand, Schiedsklausel
-
-A. Standard Deutsches Recht / DIS-Schiedsgericht: ] "$ 15 Rechtswahl und Streitbeilegung. ] (1) Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG) sowie der IPR-Vorschriften. ] (2) Alle Streitigkeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Klausel Unterlizenzen (Sub-Licensing)
-
-$ 35 UrhG - Einräumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel) - $ 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht - $ 15 PatG analog - Patentlizenz mit Sublizenzrecht zulässig. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

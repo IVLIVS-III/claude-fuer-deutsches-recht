@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abo-Falle und Kündigung | BGB Paragraf 104 bis Paragraf 185; BGH, Urteil vom 27.04.2021, XI ZR 26/20 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Behördenformular verstehen | BGB Paragraf 104 bis Paragraf 185; BGH, Urteil vom 27.04.2021, XI ZR 26/20 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abo-Kündigung Fitness und Streaming | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH, Urteil vom 19.11.2024, XI ZR 139/23 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bescheid oder Brief verstehen | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH, Urteil vom 19.11.2024, XI ZR 139/23 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -147,58 +147,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abo-Falle und Kündigung
+### 15.1. Behördenformular verstehen
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abo-Kündigung Fitness und Streaming
+### 15.2. Bescheid oder Brief verstehen
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Arztrechnung GOÄ für Laien
+### 15.3. Fristen- und Zuständigkeitscockpit
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Bankentgelte und Zustimmungsfiktion
+### 15.4. Fristkalender für Laien
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Baubehörde und Nachbarbrief
+### 15.5. Gerichtlicher Mahnbescheid für Laien
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Behördenformular verstehen
+### 15.6. Kindergeld und Kinderzuschlag Bescheid
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bescheid oder Brief verstehen
+### 15.7. Quellen- und Rechtsprechungscheck
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Datenschutz Auskunft und Löschung
+### 15.8. Vertrag unterschrieben und bereut
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Dokumentenintake und Aktenlog
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. E-Commerce Kauf und Widerruf
+### 15.9. Abo-Falle und Kündigung
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Entscheidungsvorlage
+### 15.10. Abo-Kündigung Fitness und Streaming
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Fahrradreparatur und kleine Dienstleistungen
+### 15.11. Arztrechnung GOÄ für Laien
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Fahrradreparatur und Nachbesserung
+### 15.12. Bankentgelte und Zustimmungsfiktion
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Fake-Shop und Chargeback
+### 15.13. Baubehörde und Nachbarbrief
+
+Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Datenschutz Auskunft und Löschung
 
 Paragraf 13 BGB — Verbraucherbegriff. - Paragraf 14 BGB — Unternehmerbegriff. - Paragraf 312c BGB — Fernabsatzvertrag. - Paragraf 312d BGB — Informationspflichten. - Paragraf 355 Abs. 1 BGB — Widerrufsrecht. - Paragraf 357 BGB — Rechtsfolgen des Widerrufs. - Paragraf 434 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

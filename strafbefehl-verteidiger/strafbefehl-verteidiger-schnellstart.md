@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Aktenanlage Fehlerkatalog: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
+6. Deal: Beweislast, Darlegungslast und Substantiierung: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Fallkarte
 
@@ -39,11 +39,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Deal: Beweislast, Darlegungslast und Substantiierung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Strafbefehl-Verteidiger — Allgemein | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Frist und Einspruch nach Paragraf 410 StPO | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenanlage Fehlerkatalog | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Akteneinsicht: Behörden-, Gerichts- oder Registerweg | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deal: Beweislast, Darlegungslast und Substantiierung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 1 StGB — Keine Strafe ohne Gesetz. - Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit. - Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum. - Paragraf 17 StGB — Verbotsirrtum. - Paragraf: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 StGB — Keine Strafe ohne Gesetz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Normen-/Verfahrensanker: StPO Paragrafen 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153 StPO Einstellung wegen Geringfuegigkeit (ohne Auflagen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153a StPO Einstellung gegen Auflagen (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - oft strategisch besser als Verständigung, weil keine Verurteilung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 154 StPO Teilstellung bei Tatmehrheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenanlage Fehlerkatalog, Akteneinsicht: Behörden-, Gerichts- oder Registerweg, Anschluss-Routing, Deal: Beweislast, Darlegungslast und Substantiierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Deal: Beweislast, Darlegungslast und Substantiierung, Strafbefehl-Verteidiger — Allgemein, Frist und Einspruch nach Paragraf 410 StPO, Aktenanlage Fehlerkatalog: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

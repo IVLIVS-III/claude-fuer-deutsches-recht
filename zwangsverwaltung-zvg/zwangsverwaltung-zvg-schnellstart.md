@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Antrag: Gerichtsvollzieherauftrag, Pfändungs- und Überweisungsbeschluss, Drittauskunft, Verhaftungsauftrag oder Vollstreckungsschutz passgenau ausfüllen.
 4. Schuldnerschutz und Rang: Pfändungsgrenzen, P-Konto, Vorpfändung, Priorität, Insolvenz, Drittwiderspruch und Erinnerung kontrollieren.
 5. Arbeitsprodukt: Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Schuldneranschreiben, Erinnerung oder Schutzantrag erstellen.
-6. Aktenanlage und Objektcockpit: Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen.
+6. Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg: Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenanlage und Objektcockpit | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berichte: Schriftsatz-, Brief- und Memo-Bausteine | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berichtswesen an das Vollstreckungsgericht | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Konten, Kasse und Buchführung | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Miet- und Pachtverwaltung | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zwangsverwaltung ZVG — Allgemein | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenanlage und Objektcockpit | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
 - ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
 - ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
-- Paragraf 152 ZVG (Pflichten Zwangsverwalter) → Paragraf 153 ZVG (Nutzungen) → Paragrafen 2-5 ZwVwV (Aufgaben Verwalter) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 536 Abs. 1 BGB — Minderung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 155 ZVG — Einnahmen und Ausgaben; Verteilung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

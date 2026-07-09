@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Prüfung: Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen.
 4. Rechtsschutz: nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen.
 5. Arbeitsprodukt: Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein erstellen.
-6. Anrufung: Red-Team und Qualitätskontrolle: Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen.
+6. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anrufung: Red-Team und Qualitätskontrolle | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Europarecht-Kompass — Allgemein | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beihilfen: Compliance-Dokumentation und Aktenvermerk | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Charta Quellenkarte | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| EuGH-Klagearten und Rechtsschutz | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsverletzung und Durchsetzung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsquellen: Beweislast, Darlegungslast und Substantiierung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Europarecht-Kompass — Allgemein | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - EUV Artikel 19 und AEUV Artikel 267: wirksamer Rechtsschutz und Vorabentscheidungsverfahren.
 - AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49, Artikel 56 und Artikel 63: Diskriminierungsverbot und Grundfreiheiten.
 - AEUV Artikel 101, Artikel 102 und Artikel 107: Kartellverbot, Missbrauchskontrolle und Beihilfenverbot.
-- Art. 267 AEUV — Vorlageverfahren; Vorabentscheidung des EuGH: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 258 und 260 AEUV — Vertragsverletzungsverfahren der Kommission: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 263 und 265 AEUV — Nichtigkeitsklage und Untaetigkeitsklage vor EuGH/EuG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 288 AEUV — Rechtsquellen: Verordnung, Richtlinie, Beschluss, Empfehlung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 263 AEUV — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 265 AEUV — Untaetigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 268 AEUV iVm Art. 340 AEUV — Amtshaftungsklage; hinreichend qualifizierter Rechtsverstoß; Schaden; Kausalität: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 267 AEUV — Vorabentscheidungsverfahren als indirekter Rechtsschutz-Weg für Private: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 05.02.1963 - 26/62: Van Gend en Loos zur unmittelbaren Wirkung hinreichend klarer und unbedingter unionsrechtlicher Bestimmungen.
 - EuGH, Urteil vom 15.07.1964 - 6/64: Costa gegen ENEL zum Vorrang des Unionsrechts gegenüber entgegenstehendem nationalem Recht.
 

@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| agentische-datenbank-recherche | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Depatisnet: Verhandlung, Vergleich und Eskalation | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Epue: Beweislast, Darlegungslast und Substantiierung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| prüfungsbescheid-vorbereiten | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentrecherche — Allgemein | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Taetigkeit: Fristennotiz und nächster Schritt | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Anschlussweichen identifizieren: drohende Frist (EPO R. 36 Teilanmeldung, PatG Paragraf 41 Priorität 12 Monate, USPTO Provisional 12 Monate), notwendige Dokumente (Recherchebericht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Eilfristen isolieren: EPO R. 36 Teilanmeldung, PatG Paragraf 41 Priorität 12 Monate, USPTO Provisional 12 Monate: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Fachpfad wählen: zentrale Anker im Patentrecherche und FTO sind PatG Paragrafen 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen. Anhand des Sachverhalts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Diese Quellenkarte sichert für Patentrecherche (FTO, Validity, Family-Watch) jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 45 PatG. DPMA-Prüfungsbescheid: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 47 PatG. Anhörung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 1-5 PatG — Patentierbarkeit (Neuheit, erfinderische Taetigkeit, gewerbliche Anwendbarkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 3 PatG — Neuheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg, agentische-datenbank-recherche, Anschluss-Routing, Depatisnet: Verhandlung, Vergleich und Eskalation: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg, Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine, Epue: Beweislast, Darlegungslast und Substantiierung, prüfungsbescheid-vorbereiten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

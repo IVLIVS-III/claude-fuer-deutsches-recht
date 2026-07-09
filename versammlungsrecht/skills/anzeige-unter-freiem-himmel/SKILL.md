@@ -51,8 +51,8 @@ Behandle die Anmeldung als Anzeige- und Kooperationsinstrument, nicht als Bitte 
 - § 23 KunstUrhG
 - § 201a StGB
 - § 33 KunstUrhG
-- § 80 VwG
-- § 123 VwG
+- § 80 VwGO
+- § 123 VwGO
 - Art. 5 GG
 - § 22 KunstUrhG
 - § 14 VersG

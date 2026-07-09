@@ -190,8 +190,8 @@ Bundle: bundle_047.json
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 
 ### Leitentscheidungen
 

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Amtlicher Formkern BGB/ZPO | BGB Paragraf 104 bis Paragraf 185; ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB | BGB Paragraf 104 bis Paragraf 185; ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Red-Team Qualitygate | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -86,14 +86,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- Paragraf 125 BGB — Nichtigkeit wegen Formmangels: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 812 Abs. 1 S. 1 BGB — Bereicherungsanspruch: ohne Rechtsgrund erlangt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 818 BGB — Umfang des Bereicherungsanspruchs: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB i.V.m. Paragrafen 311 Abs. 2, 241 Abs. 2 BGB — Schadensersatz aus c.i.c: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 16 TzBfG — Entfristung bei formwidrigem Befristungsvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 985 BGB — Herausgabeanspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 125 S. 1 BGB nichtig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 14 Abs. 4 TzBfG — Befristung des Arbeitsvertrags: schriftliche Vereinbarung zwingend (vor Beginn der Arbeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 623 BGB — Kündigung und Aufhebungsvertrag des Arbeitsverhältnisses: Schriftform zwingend: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 126 Abs. 3 BGB i.V.m. Paragraf 126a BGB — Ersatz durch qES theoretisch, aber Spezialrecht beachten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 125 BGB — Nichtigkeitsfolge bei Formverstoß: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 16 TzBfG — Folge formwidrig befristeter Arbeitsvertrag: gilt als unbefristet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 46c, Paragraf 46g, Paragraf 46h ArbGG — elektronischer Rechtsverkehr und arbeitsgerichtliche Formfiktion für klare Willenserklärungen in elektronischen vorbereitenden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 14 Abs. 4 TzBfG verlangt Schriftform; über Paragraf 126 Abs. 3 BGB kann diese Schriftform durch elektronische Form nach Paragraf 126a BGB ersetzt werden, soweit keine: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -151,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Amtlicher Formkern BGB/ZPO
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anspruchsformulierungen bei Formverstoß
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB
+### 15.1. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB
 
 Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft Paragraf 14 Abs. 4 TzBfG, Paragraf 623 BGB, Paragraf 126 BGB, qES bei Befristung, direkte elektronische Form, Paragraf 46h ArbGG, Paragraf 174 BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Red-Team Qualitygate
+### 15.2. Red-Team Qualitygate
 
 Dieser Arbeitsgang macht Red-Team Qualitygate im Bereich schriftform-und-textform-bgb sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Befristungsabrede — qES-Rechtsprechung Stand 2026
+### 15.3. Befristungsabrede — qES-Rechtsprechung Stand 2026
 
 Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach Paragraf 14 Abs. 4 TzBfG. Prüft Scan, einfache E-Signatur, echte qES, ArbG-Gera-Linie, Paragraf 623 BGB, Paragraf 46h ArbGG als Sonderpfad und Mandantenhinweise für Arbeitgeber und Arbeitnehmer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. BGB: Mehrparteienkonflikt und Interessenmatrix
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bürgschaft, Verbraucherdarlehen und andere strenge Formen
-
-Mandant hat Bürgschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. Paragrafen 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Bürgschaft Paragraf 766 BGB Schriftform (Ausnahme Kaufmann. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Checklisten: Schriftsatz-, Brief- und Memo-Bausteine
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Dokumentations- und Beweisarchitektur
+### 15.4. Dokumentations- und Beweisarchitektur
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Einstieg und Routing
-
-Dieser Einstieg routet Schriftform Und Textform Bgb vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - amtlicher-formkern-bgb-zpo-check — Amtlicher Formkern BGB ZPO Check - anspruchsformulierungen-formverstoß —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur
+### 15.5. Form-Checker — Vertrag oder Willenserklärung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Dokumentation: Verhandlung, Vergleich und Eskalation
+### 15.6. Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Maklervertrag Paragraph 656a BGB Textform BGH I Zr 202 25
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. - Paragraf 656a BGB — Textform für Maklervertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Schriftform und Textform im BGB — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Amtlicher Formkern BGB/ZPO
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Anspruchsformulierungen bei Formverstoß
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. BGB: Mehrparteienkonflikt und Interessenmatrix
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bürgschaft, Verbraucherdarlehen und andere strenge Formen
+
+Mandant hat Bürgschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. Paragrafen 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Bürgschaft Paragraf 766 BGB Schriftform (Ausnahme Kaufmann. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

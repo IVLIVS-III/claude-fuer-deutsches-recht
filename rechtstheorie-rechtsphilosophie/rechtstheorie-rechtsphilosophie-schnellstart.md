@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Rechtstheorie Rechtsphilosophie ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus unsortiertem Material eine belastbare juristische Frage, Subsumtion und sofort nutzbare Textfassung entwickeln.
 
 # Rechtstheorie Rechtsphilosophie — Schnellstart
 
@@ -17,48 +17,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abwägung und Rationalität: Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
-2. Adressatenwürde und Rechtssteuerung: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-3. Besitz und Law & Economics: Transaktionskosten: Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
-4. Besitz, Rechtsrealismus und praktische Bedürfnisse: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste.
-5. Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast.: Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung. - Art. 20 Abs. 3 GG — Gesetzesbindung.
-6. Besitzdogmatik, historische Schule und Systemdenken: Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur.
+1. Auftrag und Adressat: Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen.
+2. Sachverhalt: Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen.
+3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
+4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
+5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
+6. Fallnarrativ, Tatsachen, Beweis: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Art. 1 Abs. 1 GG; Art. 20 Abs. 3 GG; Art. 19 Abs. 4 GG |
+| Normenanker | GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157; ZPO Paragraf 138 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen |
+| Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abwägung und Rationalität | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adressatenwürde und Rechtssteuerung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besitz und Law & Economics: Transaktionskosten | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besitz, Rechtsrealismus und praktische Bedürfnisse | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehlerliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast. | Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung. - Art. 20 Abs. 3 GG — Gesetzesbindung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besitzdogmatik, historische Schule und Systemdenken | Normen: die einschlägigen Normen dieses Sachgebiets. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fallnarrativ, Tatsachen, Beweis | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abwägung und Rationalität | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Adressatenwürde und Rechtssteuerung | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besitz und Law & Economics: Transaktionskosten | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besitz, Rechtsrealismus und praktische Bedürfnisse | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast. | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
+- GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
+- BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
+- ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
+- ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
 - Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 20 Abs. 3 GG — Gesetzesbindung und Rechtsbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 19 Abs. 4 GG — effektiver Rechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 97 Abs. 1 GG — richterliche Unabhängigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 133 BGB — Auslegung von Willenserklärungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 157 BGB — Vertragsauslegung nach Treu und Glauben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Korrektiv der Rechtsausübung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abwägung und Rationalität, Adressatenwürde und Rechtssteuerung, Besitz und Law & Economics: Transaktionskosten, Besitz, Rechtsrealismus und praktische Bedürfnisse: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis; Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
 
 ## 8. Stop
 

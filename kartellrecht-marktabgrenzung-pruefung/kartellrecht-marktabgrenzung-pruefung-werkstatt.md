@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Paragraf 1 GWB Kartellverbot nationale Prüfung | GWB Paragraf 1; EuGH, Urteil vom 04.06.2009 - C-8/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition | GWB Paragraf 1; EuGH, Urteil vom 04.06.2009 - C-8/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GWB Paragraf 18 bis Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Paragraf 19a GWB überragende marktübergreifende Bedeutung | GWB Paragraf 18 bis Paragraf 20; EuGH, Urteil vom 30.01.2020 - C-307/18 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Follow-on Klage Bindungswirkung | GWB Paragraf 18 bis Paragraf 20; EuGH, Urteil vom 30.01.2020 - C-307/18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | GWB Paragraf 81 | Bußgeldvorschriften | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
 | AEUV Artikel 101 | Verbot wettbewerbsbeschränkender Vereinbarungen | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
 | AEUV Artikel 102 | Missbrauch marktbeherrschender Stellung | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
-| Paragraf 1 GWB Kartellverbot nationale Prüfung | prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
+| Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende | Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen: | Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen | Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -73,7 +73,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | EuGH, Urteil vom 30.01.2020 - C-307/18 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Generics grenzt potenziellen Wettbewerb und bezweckte Wettbewerbsbeschränkung bei Vergleichsvereinbarungen ab |
 | BGH, Urteil vom 28.06.2011 - KZR 75/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | ORWI strukturiert Kartellschadensersatz, Vorteilsausgleich und Darlegung im Abnehmerverhältnis |
 | BGH, Urteil vom 11.12.2018 - KZR 26/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Schienenkartell stärkt die schadensrechtliche Gesamtwürdigung bei Kartellbetroffenheit |
-| EuGH C-413/14 P (Intel, Treuerabatte) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH C-413/14 P (Intel, Treuerabatte) |
+| EuGH, Urt. v. 21.02.1973 — Rs. 6/72 (Continental Can / Kommission) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Art. 102 AEUV-Anwendung. Drei getrennte Märkte |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,6 +85,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GWB Paragraf 81: Bußgeldvorschriften.
 - AEUV Artikel 101: Verbot wettbewerbsbeschränkender Vereinbarungen.
 - AEUV Artikel 102: Missbrauch marktbeherrschender Stellung.
+- Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen:: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB Paragrafen 1: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 AEUV (Kartellverbot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 102 AEUV (Marktbeherrschung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -92,7 +93,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragrafen 18-21 GWB (Marktbeherrschung, Behinderungsverbot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 19 GWB (Missbrauchsverbot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 19a GWB (Plattformregulierung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 32, 33 GWB (Abstellungsverfügung, Schadensersatz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -100,8 +100,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 30.01.2020 - C-307/18: Generics grenzt potenziellen Wettbewerb und bezweckte Wettbewerbsbeschränkung bei Vergleichsvereinbarungen ab.
 - BGH, Urteil vom 28.06.2011 - KZR 75/10: ORWI strukturiert Kartellschadensersatz, Vorteilsausgleich und Darlegung im Abnehmerverhältnis.
 - BGH, Urteil vom 11.12.2018 - KZR 26/17: Schienenkartell stärkt die schadensrechtliche Gesamtwürdigung bei Kartellbetroffenheit.
+- EuGH, Urt. v. 21.02.1973 — Rs. 6/72 (Continental Can / Kommission): Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Art. 102 AEUV-Anwendung. Drei getrennte Märkte für Fleischkonserven
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands / Kommission): Bananen als eigener sachlicher Markt, da spezifische Eigenschaften für bestimmte Verbrauchergruppen (Kleinkinder, Kranke, ältere
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche / Kommission): Separate Märkte für einzelne Vitamingruppen (A, B1, B2, B6, C usw.), da Kreuzpreiselastizitäten zwischen Gruppen niedrig
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Facebook): Eilrechtsschutz; bestätigt vorläufig die kartellbehördliche Anordnung des Bundeskartellamts gegen Facebook. Bestätigung der enger definierten
 - EuGH C-413/14 P (Intel, Treuerabatte)
-- EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
 
 ## 9. Prüfraster
 
@@ -151,58 +154,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Paragraf 1 GWB Kartellverbot nationale Prüfung
+### 15.1. EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Follow-on Klage Bindungswirkung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Franchise-Vertrag Kartellrecht
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Paragraf 19a GWB überragende marktübergreifende Bedeutung
+### 15.4. Geschäftsleiterhaftung Kartellverstoß
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Relative Marktmacht und Economic Dependence
+### 15.5. Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Aeuv: Behörden-, Gerichts- oder Registerweg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Algorithmic Collusion und digitale Werkzeuge Pricing
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Alleinvertrieb Kundengruppen Gebietsschutz
+### 15.6. Kartellrechtliche Vertragsklausel-Redline
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Alternative Marktdefinition — Enger
+### 15.7. Paragraf 18 GWB — Marktbeherrschung: Prüfung
 
-Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen Paragraf 18 GWB Art. 102 AEUV EU-Bekanntmachung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Alternative Marktdefinition — Weiter
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Angebotsumstellung: Zahlen, Schwellenwerte und Berechnung
+### 15.8. Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Anmeldepflicht Joint Venture
+### 15.9. Prüfinstanz: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Sammelklagen Abtretungsmodelle Kartellschaden
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Paragraf 1 GWB Kartellverbot nationale Prüfung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Kartellrecht-Marktabgrenzungs-Prüfer — Allgemein
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Art 101 AEUV Kooperationsprüfung Einstieg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Art 102 AEUV Marktbeherrschung Missbrauch
+### 15.13. Paragraf 19a GWB überragende marktübergreifende Bedeutung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Relative Marktmacht und Economic Dependence
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

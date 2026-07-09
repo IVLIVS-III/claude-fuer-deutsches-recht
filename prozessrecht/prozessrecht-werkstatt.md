@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Amtlicher ZPO-Verfahrenscheck | ZPO Paragraf 253; BGH, Beschluss vom 25.02.2025 - VI ZB 19/24 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anspruchstabelle | ZPO Paragraf 253; BGH, Urteil vom 18.04.2013 - III ZR 156/12 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Aufbewahrungspflicht und Beweissicherung | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; BGH, Beschluss vom 13.12.2006 - XII ZB 71/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,8 +69,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH, Beschluss vom 25.02.2025 - VI ZB 19/24 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Ersatzeinreichung nach Paragraf 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit |
-| BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei behauptetem Internet-/Routerproblem muss die Glaubhaftmachung erkennen lassen, dass der Ausfall wirklich |
+| BGH, Urteil vom 18.04.2013 - III ZR 156/12 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche |
+| BGH, Beschluss vom 13.12.2006 - XII ZB 71/04 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Wer nach Rechtshängigkeit trotz nachträglicher Zahlung die Klage zurücknimmt, kann kostenrechtlich in die falsche Spur |
+| BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -83,19 +84,20 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
 - ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
 - GVG Paragraf 23 und Paragraf 71: sachliche Zuständigkeit von Amts- und Landgericht.
-- Paragraf 253 ZPO für Klageantrag und bestimmten Streitgegenstand: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 138, 282, 296 ZPO für Vortrag, Wahrheitspflicht und Praeklusion: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 286, 287 ZPO für Beweiswürdigung und Schadensschaetzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 91 ff. ZPO für Kostenrisiko: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 195, 199, 204 BGB für Verjährung und Hemmung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (Paragraf 274 StGB) bei vorsätzlicher Vernichtung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 4 BRAO — Anwaltliche Fortbildungs- und Berichterstattungspflicht gegenüber dem Mandanten; regelmäßige Rückmeldung der externen Bevollmächtigten ist Teil: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 667 BGB — Auskunftspflicht des Beauftragten; der externe Bevollmächtigte hat dem Auftraggeber auf Verlangen Auskunft zu erteilen; die wöchentliche Statusanfrage ist Ausfluss: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 2 BRAO — Vertraulichkeit; die Statuskorrespondenz mit externen Bevollmächtigten ist durch die gemeinsame Verschwiegenheitspflicht geschützt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 49b BRAO; Paragrafen 2 ff. RVG — Vergütung; Budgetanfragen und Kostenkontrollen im Statusschreiben orientieren sich am vereinbarten Honorar und etwaigen Vergütungsrahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Beschluss vom 25.02.2025 - VI ZB 19/24: Eine Ersatzeinreichung nach Paragraf 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit aus sich heraus verständlich, geschlossen
-- BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25: Bei behauptetem Internet-/Routerproblem muss die Glaubhaftmachung erkennen lassen, dass der Ausfall wirklich technischer Natur war und nicht auf Bedienungs
+- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht
+- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Wer nach Rechtshängigkeit trotz nachträglicher Zahlung die Klage zurücknimmt, kann kostenrechtlich in die falsche Spur geraten; Zeitpunkt der Rechtshängigkeit
+- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung nach Paragraf 269 Abs. 3 Satz 2 ZPO
 
 ## 9. Prüfraster
 
@@ -145,58 +147,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Amtlicher ZPO-Verfahrenscheck
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-Dieses Anschluss-Routing für Prozessrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - amtlicher-zpo-proz-bauleiter-eilverfahren — Amtlicher ZPO Proz Bauleiter Eilverfahren - anspruchstabelle-beweislast —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anspruchstabelle im Zivilprozess
-
-Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwiderung, Replik oder Vergleichsstrategie vorbereitet. Er eignet sich für Zahlungs-, Leistungs-, Feststellungs- und Unterlassungssachen, wenn mehrere Ansprüche, Gegenansprüche oder Einwendungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anspruchstabelle
+### 15.1. Anspruchstabelle
 
 Systematische Prüfung und Visualisierung aller Tatbestandsmerkmale eines zivilrechtlichen Anspruchs oder einer Einrede (z. B. Paragraf 280 Abs. 1, 3, Paragraf 281 BGB; Paragraf 823 Abs. 1 BGB; Paragraf 1 UWG) oder einer patentrechtlichen Verletzungsanalyse (Anspruchsmerkmal. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk
+### 15.2. Aufbewahrungspflicht und Beweissicherung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Statusabfrage Externe Bevollmächtigte
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden
+
+Dieser Skill greift, wenn nach Klageeinreichung der ursprüngliche Antrag nicht mehr sinnvoll aufrechterhalten werden kann: Die Gegenseite zahlt, rechnet auf, erhebt eine dauerhafte Einrede, die Leistung wird unmöglich oder das Rechtsschutzbedürfnis fällt weg. In solchen Fällen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Mahnverfahren – Paragrafen 688 ff. ZPO
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Mahnbescheid: Dokumentenmatrix, Lückenliste und Nachforderung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Mandate: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Proz: Beweismittel
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Proz: Mediation Gueteverfahren
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Mandatsworkspace, Kontexttrennung und Fristensteuerung
+
+Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen Prozessmandaten. Ein Mandatsarbeitsbereich hält den Kontext eines Mandats strikt von allen anderen getrennt. Dieser Skill verwaltet diese Arbeitsbereiche. Lädt bei Anfragen zur Mandatsverwaltung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Prozessrecht — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Amtlicher ZPO-Verfahrenscheck
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Anspruchstabelle im Zivilprozess
+
+Dieser Skill baut aus einer Akte eine Anspruchstabelle, die Klage, Klageerwiderung, Replik oder Vergleichsstrategie vorbereitet. Er eignet sich für Zahlungs-, Leistungs-, Feststellungs- und Unterlassungssachen, wenn mehrere Ansprüche, Gegenansprüche oder Einwendungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)
-
-Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a BRAO, Paragraf 203 StGB, Paragraf 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Argumentationsverbesserung und Red Team
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. beA, Ersatzeinreichung und Wiedereinsetzung
-
-Nutze diesen Skill, wenn ein fristgebundener Schriftsatz wegen beA-, Internet-, Kanzlei- oder Gerichtsserverproblemen nicht rechtzeitig elektronisch eingereicht wurde oder eine Ersatzeinreichung per Fax/Post/Nachtbriefkasten verteidigt werden muss. - ZPO Paragrafen 130a, 130d. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Aufbewahrungspflicht und Beweissicherung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Sachverhalts-Chronologie
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Einstieg und Routing
-
-Dieser Einstieg routet Prozessrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - amtlicher-zpo-proz-bauleiter-eilverfahren — Amtlicher ZPO Proz Bauleiter Eilverfahren - anspruchstabelle-beweislast —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Einstweilige Verfügung – Paragrafen 935. 940 ZPO
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

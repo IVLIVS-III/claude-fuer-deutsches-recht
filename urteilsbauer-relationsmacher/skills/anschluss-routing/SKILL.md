@@ -51,8 +51,8 @@ Dieses Anschluss-Routing für **Urteilsbauer Relationsmacher** wählt nach dem e
 - Art. 3 DSGVO
 - Art. 9 DSGVO
 - Art. 6 DSGVO
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 - § 71 GVG
 - § 63 GKG
 - Art. 103 GG

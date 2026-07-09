@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 315C: Internationaler Bezug und Schnittstellen | StVG Paragraf 7, Paragraf 17 und Paragraf 18; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Blitzer Messung Paragraf 3 StVO | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGH 22.06.2022 IV ZR 25/21 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 249, Paragraf 251 und Paragraf 253 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | BGB Paragraf 249, Paragraf 251 und Paragraf 253; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll | BGB Paragraf 249, Paragraf 251 und Paragraf 253; BVerwG 26.04.2020 3 C 25/19 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -67,7 +67,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BGH 22.06.2022 IV ZR 25/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
+| BVerwG 26.04.2020 3 C 25/19 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -83,13 +86,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 115 Abs. 1 VVG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 249 Abs. 1 und 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 253 Abs. 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 69 StGB — Entziehung Fahrerlaubnis; Wiedererteilungssperre Paragraf 69a: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 316 StGB — Trunkenheit im Verkehr: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 115 VVG — Direktanspruch gegen KH-Versicherer: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 115 VVG — Direktanspruch des Geschädigten gegen den Haftpflichtversicherer des Schädigers; Einreden des Versicherers nach Paragrafen 116, 117 VVG begrenzt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 249 Abs. 2 BGB — Schadensersatz durch Wiederherstellung; Geldersatz nach Wahl des Geschädigten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 BGB — Schmerzensgeld bei Verletzung von Körper, Gesundheit, Freiheit, sexueller Selbstbestimmung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 254 BGB — Mitverschulden des Geschädigten; Quote nach Verursachungsbeitrag; Schadensminderungspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 116 SGB X — Übergang des Schadensersatzanspruchs auf Sozialversicherungsträger (Kranken-, Rentenversicherung, BG): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+- BGH 22.06.2022 IV ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerwG 26.04.2020 3 C 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster
 
@@ -139,58 +145,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 315C: Internationaler Bezug und Schnittstellen
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Autonom: Abschlussprodukt und Übergabe
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Bezüge: Behörden-, Gerichts- oder Registerweg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Blitzer Messung Paragraf 3 StVO
+### 15.1. Blitzer Messung Paragraf 3 StVO
 
 Prüfe Blitzer Messung Paragraf 3 StVO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 3 StVO - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bussgeld Einspruch Prüfen
+### 15.2. Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bussgeld: Zahlen, Schwellenwerte und Berechnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Dieselskandal Paragraf 826 BGB
+### 15.3. Dieselskandal Paragraf 826 BGB
 
 Prüfe Dieselskandal Paragraf 826 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 826 BGB - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Dokumentenintake
+### 15.4. Bußgeldbescheid prüfen
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welche Tat liegt zugrunde — Geschwindigkeitsüberschreitung, Rotlichtverstoß, Abstandsverstoß, Handyverstoß, Alkohol Paragraf 24a StVG, Drogen? 2. Wann war die Tatzeit und wann wurde der Bußgeldbescheid zugestellt? Einspruchsfrist Paragraf 67 Abs. 1 OWiG zwei Wochen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Einstieg
+### 15.5. Tempo-Messung Beweisanfechtung
+
+Verteidigung bei OWi wegen Geschwindigkeitsüberschreitung. - Physikalisch-Technische Bundesanstalt-Zulassung - Bei zugelassenem Gerät: Standardisiertes Messverfahren - Beweis-Erleichterung - Bei Geschwindigkeit [ 100 km/h: 3 km/h Abzug - Bei ] 100 km/h: 3 % Abzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fahrerlaubnis Entzug Paragraf 3 StVG
+
+Prüfe Fahrerlaubnis Entzug Paragraf 3 StVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 3 StVG - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Haftpflicht Paragraf 115 VVG
+
+Prüfe Haftpflicht Paragraf 115 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 115 VVG - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Kaskoversicherung Paragraf 81 Vvg BGH Iv Zr 25 21
+
+Versicherter verlaesst Unfallort; Kaskoschaden. - Paragraf 81 VVG - Paragraf 7 StVG - Paragraf 18 StVG - Paragraf 24a StVG - Paragraf 4 StVG - BGH 22.06.2022 IV ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. kfz Handel Paragraf 434 BGB
+
+Prüfe kfz Handel Paragraf 434 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 434 BGB - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Personenschaden Paragraf 249 BGB
+
+Prüfe Personenschaden Paragraf 249 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 249 BGB - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Punkte Fahrerlaubnis Paragraf 4 Stvg BVerwG 3 C 25 19
+
+Fahrer hat 8 Punkte; Entzug droht. - Paragraf 4 STVG - Paragraf 7 StVG - Paragraf 18 StVG - Paragraf 24a StVG - Paragraf 4 StVG - Paragraf 81 VVG - BVerwG 26.04.2020 3 C 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Schmerzensgeld Paragraf 253 BGB
+
+Prüfe Schmerzensgeld Paragraf 253 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 253 BGB - Paragraf 7 Abs. 1 StVG - Paragraf 17 Abs. 1 und 2 StVG - Paragraf 18 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Anwalts-Dashboard Fachanwalt Verkehrsrecht
-
-] Bußgeld, Fahrerlaubnis, Unfallregulierung, Trunkenheitsfahrt — drei Aktenbündel, oft parallel: OWi/Straf, FE-Behörde, Versicherer. ] ] Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Einstieg, Schnelltriage und Fallrouting
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Erstgespraech Mandatsannahme
+### 15.14. Mandant bestreitet korrekte Geschwindigkeitsmessung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

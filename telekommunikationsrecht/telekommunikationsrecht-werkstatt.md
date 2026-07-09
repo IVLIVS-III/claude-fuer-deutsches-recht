@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Überwachungsschnittstellen und Behördenauskünfte | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | BNetzA-Beschwerde-Dashboard | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abmahnung nach UWG/TKG | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beweisplan: Messung, Störung, Protokoll | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 631 | Werkvertragliche Pflichten bei Projektleistungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 634 | Rechte bei Mängeln des Werkes | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 280 | Schadensersatz wegen Pflichtverletzung | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat) | GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat) | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| TKG Kundenschutz; BGB Paragrafen 309, 312k, 314; TDDDG bei Onlineabschluss | TKG Kundenschutz; BGB Paragrafen 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - BGB Paragraf 634: Rechte bei Mängeln des Werkes.
 - BGB Paragraf 280: Schadensersatz wegen Pflichtverletzung.
+- TKG Kundenschutz; BGB Paragrafen 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Zivilrecht: Paragrafen 241, 280, 281, 323, 314, 536a analog nur vorsichtig, Paragrafen 305 ff. BGB für AGB-/Providerklauseln; ZPO Paragrafen 253, 256, 286, 940 ff. bei Klage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 823, 280; TKG Infrastruktur; Straßen-/Baurecht; ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 80, 80a, 123; TKG; VwVfG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- GWB; AEUV Art. 101/102; TKG; Fusionskontrolle bei Transaktionen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- TKG Kundenschutz; BGB Paragrafen 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Überwachungsschnittstellen und Behördenauskünfte
+### 15.1. BNetzA-Beschwerde-Dashboard
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abmahnung nach UWG/TKG
+### 15.2. Beweisplan: Messung, Störung, Protokoll
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Mindestlaufzeit, Verlängerung, Kündigung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme
+
+TKG: Paragraf 2 TKG (Regulierungsziele), Paragraf 52 TKG (Streitbeilegung/Informationspflichten im Endnutzerkontext), Paragraf 68 TKG (Schlichtung bei der BNetzA), Paragraf 125 TKG (Wegerecht), Paragraf 127 TKG (Zustimmung des Wegebaulastträgers). - Verwaltungsrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Umzug und Telekommunikationsvertrag
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Zivilklage: Entgelt, Schaden, Vertrag
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Überwachungsschnittstellen und Behördenauskünfte
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Abmahnung nach UWG/TKG
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anbieterwechsel und Rufnummernmitnahme
+### 15.9. Anbieterwechsel und Rufnummernmitnahme
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anschlussbereitstellung und Verzug
+### 15.10. Anschlussbereitstellung und Verzug
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Kabelschaden durch Bauarbeiten
+### 15.11. Kabelschaden durch Bauarbeiten
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Behördenkommunikation mit BNetzA
+### 15.12. Behördenkommunikation mit BNetzA
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. BNetzA-Beschwerde-Dashboard
+### 15.13. BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Beweisplan: Messung, Störung, Protokoll
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Werbeanrufe und Callcenter
+### 15.14. Werbeanrufe und Callcenter
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Campusnetze und private 5G-Netze
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Cloud-Telefonie und VoIP
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Cookies, Telemedien und TDDDG-Schnittstelle
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Datacenter Connectivity und Carrier Meet-Me
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

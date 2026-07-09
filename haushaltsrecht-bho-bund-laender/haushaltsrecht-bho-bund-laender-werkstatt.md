@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Bürgergeld Krankenversicherung Dashbo | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Selbstbewirtschaftungsmittel Brh Frage | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Globaler Minderausgabe Dashboard Bauen | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Selbstbewirtschaftungsmittel Dashboard | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Art. 109 Abs. 3 GG | Haushaltsdisziplin | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Art. 114 Abs. 2 GG | Rechnungsprüfung durch Bundesrechnungshof | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
+- Art. 114 Abs. 2 GG — Rechnungsprüfung durch Bundesrechnungshof: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 109 Abs. 3 GG — Haushaltsdisziplin: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 110 Abs. 1 GG — Haushaltsplan: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 112 GG — über-/außerplanmäßige Ausgaben: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 115 Abs. 2 GG — Kreditaufnahme: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 112 GG — Notbewilligungsrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 110 Abs. 1 GG — Bindung an Haushaltsplan/Haushaltsgesetz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -154,58 +154,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Bürgergeld Krankenversicherung Dashbo
+### 15.1. Selbstbewirtschaftungsmittel Brh Frage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Globaler Minderausgabe Dashboard Bauen
+### 15.2. Selbstbewirtschaftungsmittel Dashboard
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Bho 65 Beteiligung Unternehmen Praktis
+### 15.3. Selbstbewirtschaftungsmittel Deckung F
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Selbstbewirtschaftungsmittel Parlament
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Selbstbewirtschaftungsmittel Risiko Ma
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Selbstbewirtschaftungsmittel Sperre Be
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Selbstbewirtschaftungsmittel Szenario
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Selbstbewirtschaftungsmittel Titel Pru
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Selbstbewirtschaftungsmittel Umschicht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Selbstbewirtschaftungsmittel Vollzug T
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Bürgergeld Krankenversicherung Dashbo
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Globaler Minderausgabe Dashboard Bauen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bho 65 Beteiligung Unternehmen Praktis
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Verpflichtungsermächtigung Prüfen
+### 15.14. Verpflichtungsermächtigung Prüfen
 
 Verpflichtungsermächtigung Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Deckungsfähigkeit Prüfen
-
-Deckungsfähigkeit Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output. 1. Rolle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Erlaeuterung Rechtlich Bewerten
-
-Erlaeuterung Rechtlich Bewerten wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Nachtragshaushalt Prüfen
-
-Nachtragshaushalt Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output. 1. Rolle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bho 58 Änderung Verträge Praktisch A
-
-Bho 58 Änderung Verträge Praktisch A wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bho 63 Vermögenserwerb Praktisch Anwe
-
-Bho 63 Vermögenserwerb Praktisch Anwe wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Bho 89 Brh Prüfung Praktisch Anwenden
-
-Bho 89 Brh Prüfung Praktisch Anwenden wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bho 90 Inhalt Prüfung Praktisch Anwen
-
-Bho 90 Inhalt Prüfung Praktisch Anwen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bho 97 Prüfungsergebnis Praktisch Anw
-
-Bho 97 Prüfungsergebnis Praktisch Anw wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Verteidigungsausgaben Titel Prüfen
-
-Verteidigungsausgaben Titel Prüfen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Sondervermögen Bundeswehr Titel Prüf
-
-Sondervermögen Bundeswehr Titel Prüf wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Haushaltsrecht BHO Bund und Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

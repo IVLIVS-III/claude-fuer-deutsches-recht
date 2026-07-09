@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Berufsrecht System-Vertragsprüfung — Allgemein: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anbietern Belehrung Sonderfall Edge | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anbietern: Schriftsatz-, Brief- und Memo-Bausteine | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AVV-Grenzprüfung Datenschutz | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufsrecht System-Vertragsprüfung — Allgemein | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsprüfung: Fristennotiz und nächster Schritt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klauseln: Beweislast, Darlegungslast und Substantiierung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klauselvorschläge — Bausteine | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Strafrechtliche Tatbestand Beweis und Belege | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 203 StGB — Strafvorschrift zum Schutz von Privatgeheimnissen; erfasst Berufsgeheimnisraeger wie Anwälte, Ärzte und Steuerberater: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43e BRAO — Rechtsanwalt: Inanspruchnahme von Dienstleistern: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 39c PAO — Patentanwalt: Inanspruchnahme von Dienstleistern: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 26a BNotO — Notar: Inanspruchnahme von Dienstleistern: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Regulierungsrahmen-Rollen: Kanzlei als Betreiberin, Anbieterin oder API-Orchestratorin, Anbietern Belehrung Sonderfall Edge, Anbietern: Schriftsatz-, Brief- und Memo-Bausteine, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Berufsrecht System-Vertragsprüfung — Allgemein, Fristen- und Risikoampel, Vertragsprüfung: Fristennotiz und nächster Schritt, Klauseln: Beweislast, Darlegungslast und Substantiierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

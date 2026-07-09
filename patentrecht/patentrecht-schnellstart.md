@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Patentabmahnung verteidigen: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+6. EPÜ: Einspruch, Beschwerde und Beschränkung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Patentabmahnung verteidigen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschreibung und Zeichnungen prüfen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einspruch und Nichtigkeit | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstieg und Routing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| EPÜ: Einspruch, Beschwerde und Beschränkung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentlizenzvertrag DE/EN | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentlizenzvertrag prüfen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patentprozess: Besichtigung und Beweissicherung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
+- Paragraf 15 PatG: Übertragung und Lizenz; Lizenz ist sukzessionsfest, wenn dinglich bestellt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 44 PatG Prüfungsantrag: Beim DPMA Prüfungsantrag binnen 7 Jahren ab Anmeldung; sonst gilt Anmeldung als zurückgenommen. EPA: Prüfungsantrag binnen 6 Monaten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 45 PatG Bescheid: Prüfungsbescheid mit Frist (idR 4 Monate, verlängerbar); auf Bescheid nicht antworten = Zurückweisung (Paragraf 48 PatG): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 9 PatG: Allein- und Mitbenutzungsrecht; Verletzungstatbestand: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 14 PatG / Art. 69 EPÜ + Protokoll: Schutzbereich richtet sich nach den Patentansprüchen; Beschreibung und Zeichnungen sind heranzuziehen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 139 PatG: Unterlassungs- und Schadensersatzanspruch (Schadensersatz dreistufig: konkret, Lizenzanalogie, Gewinnabschöpfung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 140a PatG: Vernichtung; Paragraf 140b PatG: Auskunftsanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Patentabmahnung verteidigen, Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung, Beschreibung und Zeichnungen prüfen, Dokumentenintake: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder EPÜ: Einspruch, Beschwerde und Beschränkung, Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage, Patentanmeldung: Fristen, Form, Zuständigkeit und Rechtsweg, Patentlizenzvertrag DE/EN: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

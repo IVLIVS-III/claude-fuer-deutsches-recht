@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Amtlicher BGB-BT-Normcheck | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Workflow: Anspruchslandkarte BGB BT | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Workflow: Anfängercoach Schuldrecht BT | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Arbeitsnaher Dienstvertrag im BGB | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -80,14 +80,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
+- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche - Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 631 ff. BGB: Werkvertragliche Ansprüche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 812 ff. BGB: Bereicherungsrechtliche Ansprüche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 823 ff. BGB: Deliktsrechtliche Ansprüche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 3 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 4 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 8 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 2 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 10 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 9 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 433 ff. BGB: Kaufrecht (Grundfall für alle Schuldrecht-BT-Themen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Amtlicher BGB-BT-Normcheck
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Workflow: Anfängercoach Schuldrecht BT
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Workflow: Anspruchslandkarte BGB BT
+### 15.1. Workflow: Anspruchslandkarte BGB BT
 
 Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche - Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche - Paragrafen 631 ff. BGB: Werkvertragliche Ansprüche - Paragrafen 812 ff. BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Arbeitsnaher Dienstvertrag im BGB
+### 15.2. Arbeitsnaher Dienstvertrag im BGB
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Auftrag und unentgeltliche Tätigkeit
+### 15.3. Bauvertrag und Verbraucherbauvertrag
 
 Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bauvertrag und Verbraucherbauvertrag
-
-Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Bereicherungsrecht: Entreicherung und Saldotheorie
-
-Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bereicherungsrecht: Leistungskondiktion
-
-Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bereicherungsrecht: Nichtleistungskondiktion
-
-Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Workflow: Beweislast und Belegmatrix
+### 15.4. Workflow: Beweislast und Belegmatrix
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Beweislast Belegmatrix; Arbeitsfeld: BGB BT Prüfer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. BT-Fristen, Erklärungen und Zugang
+### 15.5. BT-Fristen, Erklärungen und Zugang
 
 Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. BT-Vertragsentwurf und Modellvertrag
+### 15.6. BT-Vertragsentwurf und Modellvertrag
 
 Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Bürgschaft: Einreden und Akzessorietät
+### 15.7. Delikt-Vertrag Konkurrenz
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Dienstvertrag und Behandlungsvertrag
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Workflow: Output Gutachten, Klage und Brief
+
+ZPO Paragraf 253: Inhalt der Klageschrift - BRAO Paragraf 43a: Berufspflichten (sachlich, sorgfältig) - BORA Paragraf 11: Schriftverkehr mit der Gegenseite - Paragrafen 126 ff. BGB: Formanforderungen für schriftliche Erklärungen - Was ist das gewünschte Output-Format. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Kaufrecht: Abweichungsvereinbarung objektive Anforderungen Paragraf 476 BGB
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Kaufrecht: Beweislast, Verjährung und digitale Elemente
 
 Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bürgschaft: Form und Verbraucherbürge
+### 15.13. Kaufvertrag Grundschema Paragraf 433 BGB
 
 Entscheidende Weiche: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Maklervertrag und Provision Paragrafen 652 ff. BGB
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

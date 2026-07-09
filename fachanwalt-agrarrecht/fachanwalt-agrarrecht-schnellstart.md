@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fachanwalt Agrarrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du Pacht, Hofnachfolge, Grundstücksverkehr, Förderung oder agrarrechtliche Aufsicht nach Fläche, Betrieb, Frist, Behörde und Beleg bearbeiten.
 
 # Fachanwalt Agrarrecht — Schnellstart
 
@@ -17,49 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch.: Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft.
-2. Agrarrecht: Rechtsquellen: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
-3. GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
-4. Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kündigungsgründe, Wildschaden.: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-5. Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofübergabe, Förderung, Genehmigungsverfahren.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen.
-6. Spezialfall Pächterbetrieb: Verhältnis Verpächter-Pächter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des.: Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah.
+1. Betrieb und Fläche: Eigentum, Pacht, Hofvermerk, Grundsteuerwert, Bewirtschafter, Nutzungsart und Förderjahr erfassen.
+2. Vertrags- und Erbfolgeweg: Landpacht, Hofübergabe, Hoferbenstellung, Abfindung, Form und Übergangsrecht sowie Landwirtschaftsgericht trennen.
+3. Genehmigung und Förderung: Antrag, Flächenregister, Bewirtschaftungsauflage, Kontrolle, Anhörung, Bescheid und Rechtsbehelf chronologisch ordnen.
+4. Fachaufsicht: Tierhaltung, Düngung, Pflanzenschutz, Immissionen, Natur- und Forstrecht mit Betriebsvorgang und Messbeleg verbinden.
+5. Arbeitsprodukt: Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf erstellen.
+6. Landpacht: Vertrag, Textform und Übergangsrecht, Anzeige, Pachtanpassung, Kündigung, Flächenübergabe und Landwirtschaftsgericht anhand der Vertragsakte prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragrafen 585 ff. BGB; Paragraf 1922 Abs. 1 BGB; Paragraf 1922 Abs. 1 BGB |
-| Rechtsprechung | BGH 22.05.2002 IV ZR 256/01; OLG Hamm 12.03.2021 10 W 47/20 |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | HöfeO Paragraf 1; HöfeO Paragraf 12 Absatz 2; BGB Paragraf 585 bis Paragraf 597 |
+| Rechtsprechung | BGH, Urteil vom 06.11.2020 - LwZR 5/19; BGH, Beschluss vom 23.11.2012 - BLw 12/11 |
+| Tatbestand | Vertrag, Textform und Übergangsrecht, Anzeige, Pachtanpassung, Kündigung, Flächenübergabe und Landwirtschaftsgericht anhand der Vertragsakte prüfen |
+| Beweislast | Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung |
+| Rechtsfolge | Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch. | Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agrarrecht: Rechtsquellen | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kündigungsgründe, Wildschaden. | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofübergabe, Förderung, Genehmigungsverfahren. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezialfall Pächterbetrieb: Verhältnis Verpächter-Pächter, Höhepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des. | Pacht, Höfeordnung, GrdstVG-Genehmigung, GAP-Förderung, Bescheidfrist und Bewirtschaftungsnachweis aktennah prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Landpacht | Vertrag, Textform und Übergangsrecht, Anzeige, Pachtanpassung, Kündigung, Flächenübergabe und Landwirtschaftsgericht anhand der Vertragsakte prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Hofnachfolge | Hofstatus, Grundsteuerwert, Hoferbenberechtigung, Abfindung, Nachabfindung und Übergangsrecht in einer Stichtagsmatrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Landwirtschaftlicher Grundstücksverkehr | Genehmigungspflicht, Versagungsgrund, leistungsfähigen Landwirt, Kaufpreis und gerichtlichen Antrag belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GAP und Direktzahlungen | Förderjahr, Fläche, Konditionalität, Kontrolle, Kürzung, Rückforderung und Rechtsbehelf zeilenweise nachweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Betriebsbezogene Fachaufsicht | Tierhaltung, Düngung, Pflanzenschutz, Natur-, Immissions- und Forstrecht dem konkreten Betriebsvorgang zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertrag, Antrag und Widerspruch | Adressat, Frist, Tatbestand, Beleg, Gegenposition und vollzugsfähigen Antrag zu einem versandfertigen Produkt verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragrafen 585 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1922 Abs. 1 BGB — Gesamtrechtsnachfolge. - Paragraf 1937 BGB — Testament. - Paragraf 1942 BGB — Anfall und Ausschlagung. - Paragraf 1953 BGB — Wirkung der Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1922 Abs. 1 BGB — Gesamtrechtsnachfolge: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1937 BGB — Testament: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1942 BGB — Anfall und Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1953 BGB — Wirkung der Ausschlagung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1967 BGB — Erbenhaftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH 22.05.2002 IV ZR 256/01 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- HöfeO Paragraf 1: Hofeigenschaft ab 54.000 EUR Grundsteuerwert sowie Erklärungsbereich von 27.000 EUR bis unter 54.000 EUR.
+- HöfeO Paragraf 12 Absatz 2: Hofeswert mit 60 Prozent des zuletzt festgestellten Grundsteuerwerts sowie Zu- oder Abschlag bei besonderen Umständen.
+- BGB Paragraf 585 bis Paragraf 597: Landpachtvertrag, Form, Erhaltung, Kündigung und Rückgabe.
+- LPachtVG Paragraf 2, Paragraf 4, Paragraf 7 und Paragraf 8 sowie LwVfG Paragraf 2: Anzeige, Beanstandung und ausschließliche erstinstanzliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht.
+- BGH, Urteil vom 06.11.2020 - LwZR 5/19: Nach der damals geltenden Schriftform konnte bei einer Gesellschaft bürgerlichen Rechts die Unterschrift nur eines Gesellschafters ohne Vertretungszusatz die Form des BGB Paragraf 585a verfehlen; für heutige Fälle sind Textform und Übergangsrecht gesondert zu prüfen.
+- BGH, Beschluss vom 23.11.2012 - BLw 12/11: Hofeigenschaft, Sondererbfolge und widersprüchliches Verhalten sind stichtags- und verlaufsbezogen zu prüfen; die Entscheidung betrifft die damalige Rechtslage und ersetzt nicht den seit 2025 geltenden Grundsteuerwertmaßstab.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kürzung Direktzahlungen, Widerspruch., Agrarrecht: Rechtsquellen, GAP-Strategieplan Deutschland und EU-Förderung einführend: Direktzahlungen Einkommensgrundstützung., Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Agraraktenblatt: Betrieb, Fläche, Nutzungsart, Eigentum, Pacht, Hofstatus, Förderjahr, Behörde, Frist und Beleg; Hofnachfolgematrix: Stichtag, Hofeigenschaft, Grundsteuerwert, Hoferbe, Abfindungsberechtigte, Hofeswert, Zu- oder Abschlag und Nachabfindung.
 
 ## 8. Stop
 

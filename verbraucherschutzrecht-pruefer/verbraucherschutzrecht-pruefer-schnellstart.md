@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Online Shop Beschwerde Schreiben | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitale Inhalte Widerruf Formulieren | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitale Inhalte Schlichtung Wählen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Agb Redlinen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Anspruch Prüfen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abo Falle Behördenmeldung Prüfen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Beschwerde Schreiben | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Beweise Sichern | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Frist Berechnen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abo Falle Klagepfad Skizzieren | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Digitale Inhalte Beweise Sichern | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

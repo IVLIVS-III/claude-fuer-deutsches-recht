@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Beweislast: grober Fehler, Befunderhebungsfehler, Aufklärung, hypothetische Einwilligung und Dokumentationslücke gesondert prüfen.
 4. Verfahren: Gutachten, MD/MDK, Schlichtungsstelle, Kasse, Behörde, Sozialgericht oder Zivilgericht richtig routen.
 5. Arbeitsprodukt: Gutachterfragen, Anspruchsschreiben, Klage, Widerspruch, Eilantrag, Abrechnungsprüfung oder Behördenantwort erstellen.
-6. GOÄ Paragraf 5b Standardtarif PKV: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
+6. Fälligkeit Verzug Mahnung Honorarklage: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| GOÄ Paragraf 5b Standardtarif PKV | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abrechnung Telemedizin Videosprechstunde GOÄ | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschnitt A Beratungen und Untersuchungen | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschnitt B Grundleistungen Zuschläge | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschnitt C nichtgebietsbezogene Sonderleistungen | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abtretung Factoring Arzthonorar Datenschutz | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fälligkeit Verzug Mahnung Honorarklage | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GOÄ Paragraf 9 Reiseentschädigung | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GOÄ Paragraf 7 Entschädigungen | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| IGeL Aufklärung Kosteninformation | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klageerwiderung Honorarprozess | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

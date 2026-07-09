@@ -74,7 +74,7 @@ Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen
 - § 35 VwVfG
 - § 15 StGB
 - § 1 StGB
-- § 70 VwG
+- § 70 VwGO
 - Art. 3 GG
 - § 32 StGB
 - § 16 StGB
@@ -982,4 +982,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

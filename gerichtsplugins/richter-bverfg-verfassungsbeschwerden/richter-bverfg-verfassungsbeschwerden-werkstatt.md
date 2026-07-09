@@ -69,7 +69,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte |
+| BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte |
 | BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit |
 | BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung |
 | BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Volkszählung entwickelt informationelle Selbstbestimmung |
@@ -94,7 +94,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
@@ -184,7 +184,7 @@ Strukturiertes Votum: Sachverhalt verkürzt, Prüfungspunkte Zulässigkeit (Fris
 
 ### 15.9. 09 Nichtannahmebeschluss Entwurf
 
-Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausfuehrlicher Begründung; Wirkung Paragraf 93d Abs. 1 S. 2 (kein Rechtsmittel) Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausführlicher Begründung; Wirkung Paragraf 93d Abs. 1 S. 2 (kein Rechtsmittel) Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. 10 Entscheidungsvorschlag Kammer BVerfG
 

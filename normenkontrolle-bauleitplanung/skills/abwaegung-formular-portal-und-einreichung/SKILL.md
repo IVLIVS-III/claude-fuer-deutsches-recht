@@ -46,7 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ### Kuratierte Normen-Bibliothek
 
-- § 47 VwG
+- § 47 VwGO
 - § 215 BauGB
 - § 1 BauGB
 - § 214 BauGB

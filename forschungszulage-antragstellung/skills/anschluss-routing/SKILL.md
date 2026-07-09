@@ -67,7 +67,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - § 4 FZulG
 - § 6 FZulG
 - § 1 FZulG
-- § 70 VwG
+- § 70 VwGO
 - § 7 FZulG
 - § 9 FZulG
 - § 28 VwVfG

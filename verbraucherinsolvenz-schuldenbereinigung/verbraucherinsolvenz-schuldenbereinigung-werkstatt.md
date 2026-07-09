@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bürgschaften und Mithaftung: Ehepartner, Bankdarlehen, Sittenwidrigkeitseinwand | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -73,7 +73,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist |
-| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen |
+| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnähe kann Anfechtungsrisiken begrenzen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -90,7 +90,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 305; ZPO-Fristen analog über InsO Paragraf 4. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - InsO Paragraf 304; AO Paragrafen 69, 34; Paragraf 266a StGB; Paragraf 15a InsO. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - InsO Paragraf 305 Abs. 1 Nr. 3; InsO Paragrafen 174, 175. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragrafen 304-314, 286-303; ZPO Paragrafen 850 ff.; SGB-Schnittstellen. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 850k ff.; SGB I, II, XII Schnittstellen. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - InsO Paragraf 109; BGB Mietkaution; Genossenschaftsrecht. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
@@ -100,7 +99,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
-- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
+- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnähe kann Anfechtungsrisiken begrenzen.
 
 ## 9. Prüfraster
 
@@ -150,39 +149,39 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abschluss und Neustart
+### 15.1. Bürgschaften und Mithaftung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anlagenpaket für Gericht
+### 15.2. Abschluss und Neustart
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Antrag Insolvenzgericht
+### 15.3. Anlagenpaket für Gericht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Arbeit Wechsel und Mehrverdienst
+### 15.4. Antrag Insolvenzgericht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Arbeit Wechsel und Mehrverdienst
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Ausland und EU Schulden
+### 15.6. Ausland und EU Schulden
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Außergerichtlicher Einigungsversuch
+### 15.7. Außergerichtlicher Einigungsversuch
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Auto und Arbeitsweg
+### 15.8. Auto und Arbeitsweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Bescheinigung 305 Inso
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bürgschaften und Mithaftung
+### 15.9. Bescheinigung 305 Inso
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 

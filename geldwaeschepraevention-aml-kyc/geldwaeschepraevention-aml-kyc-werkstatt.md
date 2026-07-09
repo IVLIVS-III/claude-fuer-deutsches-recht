@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | AML: Krypto Travel Rule | GwG Paragraf 2; EuGH, Urteil vom 26.06.2007 - C-305/05 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Geldwaeschepräventition AML/KYC — Allgemein | GwG Paragraf 2; EuGH, Urteil vom 26.06.2007 - C-305/05 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GwG Paragraf 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Geldwaeschepräventition AML/KYC — Allgemein | GwG Paragraf 5; EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage | GwG Paragraf 5; EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr | Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -146,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. AML: Krypto Travel Rule
+### 15.1. Geldwaeschepräventition AML/KYC — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Testlauf: Beweislast, Darlegungslast und Substantiierung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. AML: Krypto Travel Rule
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Geldwaeschepräventition AML/KYC — Allgemein
+### 15.5. AML: Trade-Based
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. AML: Trade-Based
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. AML: FIU-Verdachtsmeldung
+### 15.6. AML: FIU-Verdachtsmeldung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Awareness: Zahlen, Schwellenwerte und Berechnung
+### 15.7. Awareness: Zahlen, Schwellenwerte und Berechnung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.8. Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Einstieg und Routing
-
-Dieser Einstieg routet Geldwaescheprävention Aml Kyc vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - aml-kryptotransaktionen-mica-spezial — AML Kryptotransaktionen Mica Spezial. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. abrufen und interne Revision
+### 15.9. abrufen und interne Revision
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Aufsicht, Prüfung und Behördenverfahren
+### 15.10. Aufsicht, Prüfung und Behördenverfahren
 
 Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmenbescheiden. Anwendungsfall Aufsichtsbehörde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen Paragraf 51 GwG Aufsichtsrecht Paragraf 52 GwG Bußgelder Paragraf 43 GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bußgeld, Haftung und Reputation
+### 15.11. Bußgeld, Haftung und Reputation
 
-1. Liegt ein BaFin-Bußgeldverfahren, eine Staatsanwaltschaftliche Ermittlung oder eine Presseanfrage vor? 2. Wer ist verantwortliche Person: Geldwäschebeauftragter, Geschäftsfuehrer oder Verwaltungsrat? 3. Welche Remediation-Maßnahmen wurden bereits eingeleitet? 4. Gibt es eine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Liegt ein BaFin-Bußgeldverfahren, eine Staatsanwaltschaftliche Ermittlung oder eine Presseanfrage vor? 2. Wer ist verantwortliche Person: Geldwäschebeauftragter, Geschäftsführer oder Verwaltungsrat? 3. Welche Remediation-Maßnahmen wurden bereits eingeleitet? 4. Gibt es. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Datenqualität, Register und Screening-Tools
+### 15.12. Datenqualität, Register und Screening-Tools
 
 Prüft Datenqualität im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen Paragraf 11 GwG Identifizierungspflicht Paragraf 20 GwG Transparenzregister Paragraf 23a GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Gruppenweite Compliance und Outsourcing
+### 15.13. Gruppenweite Compliance und Outsourcing
 
 Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen Paragraf 9 GwG Gruppenweite Pflichten Paragraf 25n KWG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Immobilien, Güterhandel und Nichtfinanzsektor
+
+AML/KYC-Prüfung für Immobilienmakler Güterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Güterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen Paragraf 2 Abs. 1 Nr. 14 GwG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

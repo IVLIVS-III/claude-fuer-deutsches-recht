@@ -40,8 +40,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | 01 Zulässigkeit Sozialklage | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 02 Amtsermittlung Sozialgericht | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 03 Eilrechtsschutz Paragraf 86B | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 02 Amtsermittlung Sozialgericht | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 04 Krankenversicherung Prüfung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 05 Rentenversicherung Prüfung | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 06 Unfallversicherung Prüfung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -63,7 +63,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 01 Zulässigkeit Sozialklage, 02 Amtsermittlung Sozialgericht, 03 Eilrechtsschutz Paragraf 86B, 04 Krankenversicherung Prüfung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 01 Zulässigkeit Sozialklage, 03 Eilrechtsschutz Paragraf 86B, 02 Amtsermittlung Sozialgericht, 04 Krankenversicherung Prüfung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

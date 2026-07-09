@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistung und Verhalten: Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen.
 4. Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
 5. Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen.
-6. Aeussere Form und Briefkopf prüfen: Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden.
+6. Beweislast nach BAG 9 AZR 584.13: Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Beweislast nach BAG 9 AZR 584.13 | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klagestrategie und Vollstreckung | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aeussere Form und Briefkopf prüfen | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ampel-Einschaetzung pro Satz | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufforderungsschreiben Berichtigung | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Auslassungen erkennen | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beendigungsgrund prüfen | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweislast nach BAG 9 AZR 584.13 | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

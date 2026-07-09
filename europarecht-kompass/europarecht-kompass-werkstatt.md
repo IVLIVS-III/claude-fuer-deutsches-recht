@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anrufung: Red-Team und Qualitätskontrolle | EUV Artikel 4 Absatz 3 und Artikel 5; EuGH, Urteil vom 05.02.1963 - 26/62 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | EUV Artikel 4 Absatz 3 und Artikel 5; EuGH, Urteil vom 05.02.1963 - 26/62 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | EUV Artikel 19 und AEUV Artikel 267 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Europarecht-Kompass — Allgemein | EUV Artikel 19 und AEUV Artikel 267; EuGH, Urteil vom 15.07.1964 - 6/64 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | EuGH-Klagearten und Rechtsschutz | EUV Artikel 19 und AEUV Artikel 267; EuGH, Urteil vom 15.07.1964 - 6/64 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -84,14 +84,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - AEUV Artikel 258 bis Artikel 260: Vertragsverletzungsverfahren und Folgen der Nichtbefolgung.
 - AEUV Artikel 288: Handlungsformen der Union und Bindungswirkung von Verordnung, Richtlinie und Beschluss.
 - GRCh Artikel 51 und Artikel 52: Anwendungsbereich, Tragweite und Schranken der Unionsgrundrechte.
-- Art. 267 AEUV — Vorlageverfahren; Vorabentscheidung des EuGH: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 258 und 260 AEUV — Vertragsverletzungsverfahren der Kommission: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 263 und 265 AEUV — Nichtigkeitsklage und Untaetigkeitsklage vor EuGH/EuG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 288 AEUV — Rechtsquellen: Verordnung, Richtlinie, Beschluss, Empfehlung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 289 und 294 AEUV — Ordentliches Gesetzgebungsverfahren und Trilog: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 290 und 291 AEUV — Delegierte Rechtsakte und Durchfuehrungsrechtsakte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 34 und 36 AEUV — Warenverkehrsfreiheit und Rechtfertigungsgründe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 107 und 108 AEUV — Beihilfeverbot und Notifizierungspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 263 AEUV — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 265 AEUV — Untaetigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 268 AEUV iVm Art. 340 AEUV — Amtshaftungsklage; hinreichend qualifizierter Rechtsverstoß; Schaden; Kausalität: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 267 AEUV — Vorabentscheidungsverfahren als indirekter Rechtsschutz-Weg für Private: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 278 AEUV — Vorlaufiger Rechtsschutz beim EuGH (Antrag auf Aussetzung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 258 AEUV — Vertragsverletzungsverfahren durch Kommission; Vorverfahren; EuGH-Klage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 259 AEUV — Mitgliedstaat-Klage gegen Mitgliedstaat (sehr selten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 260 AEUV — Zwangsgeld und Pauschalstrafe bei Nichtbefolgung des ersten Urteils: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -147,37 +147,37 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anrufung: Red-Team und Qualitätskontrolle
+### 15.1. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Europarecht-Kompass — Allgemein
+### 15.2. EuGH-Klagearten und Rechtsschutz
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Beihilfen: Compliance-Dokumentation und Aktenvermerk
+### 15.3. Vertragsverletzung und Durchsetzung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich europarecht-kompass sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Europarecht-Kompass — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Beihilfen: Compliance-Dokumentation und Aktenvermerk
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Charta Quellenkarte
-
-Diese Quellenkarte sichert im Bereich Europarecht Kompass tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab. - allgemein-anschluss-router-workflow-chronologie - beihilfen-drafting-europarecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.8. Drafting: Internationaler Bezug und Schnittstellen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Drafting: Internationaler Bezug und Schnittstellen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Einstieg und Routing
-
-Dieser Einstieg routet Europarecht Kompass vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - anrufung-red-team-und-qualitätskontrolle — Anrufung RED Team und Qualitätskontrolle - anschluss-router — Anschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Europarecht: Vorlageverfahren Art. 267
 

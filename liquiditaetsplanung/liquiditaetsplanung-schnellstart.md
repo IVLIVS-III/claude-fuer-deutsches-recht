@@ -20,9 +20,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 1. Datenraum: Bankkonten, offene Posten, Lohnsteuer, Sozialabgaben, Kreditlinien, Sicherheiten und Fälligkeiten einsammeln.
 2. Dreizehn-Wochen-Plan: Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abfluesse und freie Linien wochenweise darstellen.
 3. Stressszenarien: Zahlungsverzug von Kunden, Covenant-Bruch, Lieferantenstopp, Lohnlauf und Steuern separat simulieren.
-4. Insolvenznaehe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
+4. Insolvenznähe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
 5. Anschlussentscheidung: Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren.
-6. Ampel: Zahlen, Schwellenwerte und Berechnung: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
+6. Ausgabengruppen: Fristennotiz und nächster Schritt: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ampel: Zahlen, Schwellenwerte und Berechnung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ausgabengruppen: Fristennotiz und nächster Schritt | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liqui: Ausgabengruppen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liqui: drohende ZU | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liqui: eingetretene ZU | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel Liquiditätsplanung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Interessen Verifikation Beweislast Vorschau | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Start, Chronologie und Fristen Liquiditätsvorschau | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verifikation: Beweislast, Darlegungslast und Substantiierung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,15 +53,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 19: Überschuldung bei juristischen Personen.
 - StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
 - Normen-/Quellenanker: InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Ordne alle Liquiditätsdaten so, dass ein Dritter den Krisenverlauf nachvollziehen kann. Starte mit Stichtagen, Bankauszügen, OP-Listen, Mahnungen, Stundungen, Darlehenslinien: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- InsO Paragrafen 17, 18, 19, 15a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HGB Paragrafen 238, 242, 252 zur Buchführungs-/Abschlusslogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragrafen 17-19, Paragraf 15a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit wird regelmäßig anhand einer erheblichen Liquiditätslücke beurteilt.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiter müssen Krisenentscheidungen und Zahlungsverbote nachvollziehbar dokumentieren.
+- BGH IX ZR 129/22 vom 18.04.2024 ist als Pflichtanker zu prüfen, wenn ein Liquiditätsstatus gegenüber einem außenstehenden Dritten verwendet wird. Die Erklärungslast der Gegenseite steigt nur
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ampel: Zahlen, Schwellenwerte und Berechnung, Anschluss-Routing, Ausgabengruppen: Fristennotiz und nächster Schritt, Liqui: Ausgabengruppen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ausgabengruppen: Fristennotiz und nächster Schritt, Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage, Fristen- und Risikoampel Liquiditätsplanung, Interessen Verifikation Beweislast Vorschau: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

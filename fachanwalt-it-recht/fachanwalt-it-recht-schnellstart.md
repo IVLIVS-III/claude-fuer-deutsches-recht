@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
 4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
 5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. Regulierungsrahmen Art 6 Hochrisiko algorithmische Systeme: Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen.
+6. Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren.: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
 | Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
-| Tatbestand | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen |
+| Tatbestand | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren |
 | Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Regulierungsrahmen Art 6 Hochrisiko algorithmische Systeme | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bdsg: Schriftsatz-, Brief- und Memo-Bausteine | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cloud Act Vs Datenschutz-Grundverordnung Art 48 Datenschutz-Grundverordnung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sofortmaßnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren. | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| IT-Vertrag-Verhandlung / EU-ODR | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| SaaS-Vertrag — Prüfung und Verhandlung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsstrafe prüfen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,17 +52,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- Paragraf 32 BSIG n. F. — Meldepflichten erheblicher Sicherheitsvorfälle für wichtige und besonders wichtige Einrichtungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 202a StGB — Ausspähen von Daten (Freiheitsstrafe bis 3 Jahre): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 202b StGB — Abfangen von Daten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 202c StGB — Vorbereiten des Ausspähens (Hacker-Tools): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 26 BDSG Mitarbeiterdatenverarbeitung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 5 Abs. 2; Art. 32; Art. 33 Abs. 5 Datenschutz-Grundverordnung; Paragraf 26 BDSG; Paragraf 3 TTDSG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 1 StGB Verletzung von Privatgeheimnissen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 3 Satz 2 StGB mitwirkende Personen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
-- EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- EuGH C-311/18 Schrems II (Urteil 16.07.2020)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Regulierungsrahmen Art 6 Hochrisiko algorithmische Systeme, Anschluss-Routing, Bdsg: Schriftsatz-, Brief- und Memo-Bausteine, Cloud Act Vs Datenschutz-Grundverordnung Art 48 Datenschutz-Grundverordnung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren., Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB, Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren.
 
 ## 8. Stop
 

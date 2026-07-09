@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Bürgerliches Abschlussprodukt und Übergabe | GG Artikel 20 Absatz 3; BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 133 und Paragraf 157 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | BGB Paragraf 133 und Paragraf 157; BVerfG 2 BvR 883/14 (Wortlautgrenze) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Freiheitlicher Paternalismus-Check im Vertragsrecht | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,15 +63,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | ZPO Paragraf 139 | richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 | ZPO Paragraf 253 | bestimmter Antrag und hinreichend bestimmter Streitgegenstand | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 | ZPO Paragraf 286 | freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Paragraf 675 BGB | Geschäftsbesorgungsvertrag; anwaltliche Pflichten zur ordnungsgemäßen Mandatsführung | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
+| Paragrafen 186 bis 193 BGB | Fristberechnung; Beginn, Ende und Verlängerung von Fristen | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung) |
-| BVerfG 2 BvR 883/14 (Wortlautgrenze) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerfG 2 BvR 883/14 (Wortlautgrenze) |
-| BGH V ZR 250/02 (teleologische Reduktion) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH V ZR 250/02 (teleologische Reduktion) |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -83,20 +79,18 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
 - ZPO Paragraf 253: bestimmter Antrag und hinreichend bestimmter Streitgegenstand.
 - ZPO Paragraf 286: freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs.
-- Paragraf 675 BGB — Geschäftsbesorgungsvertrag; anwaltliche Pflichten zur ordnungsgemäßen Mandatsführung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben; Aufklärungspflicht des Anwalts gegenüber dem Mandanten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 4 BRAO — Verschwiegenheitspflicht; Grenzen der Mandatsdokumentation: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO — Pflicht zur Aktenführung und Aufbewahrung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelverjährung; relevant für Hinweise auf noch offene Ansprüche nach Mandatsende: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 20 Abs. 3 GG (Gesetzesbindung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 97 GG (richterliche Unabhängigkeit, Gesetzesbindung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 133 BGB (Auslegung Willenserklärung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 23, 71 GVG — Sachliche Zuständigkeit nach Streitwert: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 12, 29, 32 ZPO — Allgemeiner und besonderer Gerichtsstand: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 2 Abs. 1 GG — Vertragsfreiheit als Grundrecht, das staatliche Eingriffe rechtfertigungspflichtig macht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 BGB — Sittenwidrigkeit als Eingriffsermächtigung, aber begrenzt durch Schutzbedürfnis der schwächeren Partei: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BVerfG 1 BvR 730/04 (verfassungskonforme Auslegung)
-- BVerfG 2 BvR 883/14 (Wortlautgrenze)
-- BGH V ZR 250/02 (teleologische Reduktion)
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -146,58 +140,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Bürgerliches Abschlussprodukt und Übergabe
+### 15.1. Bürgerlichen Fristen Form und Zuständigkeit
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Freiheitlicher Paternalismus-Check im Vertragsrecht
+
+Normen: Paragraf 307 BGB, Paragraf 138 Abs. 2 BGB, Paragraf 138 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Fristen und Risikoampel: Integrierter Workflow
+
+Normen: Paragraf 4 KSchG, Paragrafen 195, Paragraf 204 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Vertragsauslegung: Vollständiger Methodenleitfaden
+
+Normen: Paragraf 133 BGB, Paragrafen 133, Paragraf 157 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Fristen, Form und Zuständigkeit im bürgerlichen Recht
+
+Normen: Paragraf 125 BGB, Paragraf 568 Abs. 1 BGB, Paragrafen 23. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Rechtsanwendung Tatbestand Beweis und Belege
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Bürgerlichen: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Dieser Skill ist ein konkreter Fachbaustein für methodenlehre-buergerliches-recht. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Dieser Skill ist ein konkreter Fachbaustein für methodenlehre-buergerliches-recht. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung
+
+Dieser Skill ist ein konkreter Fachbaustein für methodenlehre-buergerliches-recht. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Verjährung: Fristennotiz und nächster Schritt
+
+Dieser Skill ist ein konkreter Fachbaustein für methodenlehre-buergerliches-recht. Ausgangspunkt ist: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive. Gutachtenstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Unionsrechtskonforme Beweislast und Darlegungslast
+
+Normen: Paragraf 477 BGB, Art. 11, Paragraf 651i BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Verjährung, Fristennotiz und nächste Schritte
+
+Normen: Paragrafen 195, Paragraf 438 BGB, Paragraf 203 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bürgerliches Abschlussprodukt und Übergabe
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
+### 15.14. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
 
 Normen: Paragraf 626 BGB, Paragraf 903 BGB, Paragraf 906 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Abwägung: Materialauswahl und Abwägungsgrundlagen
-
-Normen: Paragraf 307 BGB, Paragraf 253 BGB, Paragraf 133 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
-
-Normen: Paragraf 830 BGB, Paragraf 138 BGB, Paragraf 363 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Abwägungszuständigkeit: Welche Institution darf abwägen?
-
-Normen: Art. 20 Abs. 3 GG, Art. 97 GG, Paragraf 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Analogie und teleologische Reduktion (Rechtsfortbildung)
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Anschluss-Routing
-
-Dieses Anschluss-Routing für Methodenlehre Bürgerliches Recht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - abschlussprodukt-übergabe — Abschlussprodukt Übergabe - abwägung-gewichtung-intensitaet — Abwägung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Anspruchsgrundlagen Behörden Gericht und Registerweg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Anwaltsperspektive Dokumentenmatrix und Lückenliste
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
-
-Normen: Paragraf 181 BGB, Paragraf 311 Abs. 1 BGB, Paragraf 657 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Argumentum-Figuren im deutschen Zivilrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Auslegung versus Rechtsfortbildung: Grenzprotokoll
-
-Normen: Paragraf 242 BGB, Paragraf 133 BGB, Paragraf 157 BGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Auslegung Verhandlung Vergleich und Eskalation
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Begründung, Anhörung und Adressatenfähigkeit
-
-Normen: Paragraf 139 ZPO, Art. 103 Abs. 1 GG. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

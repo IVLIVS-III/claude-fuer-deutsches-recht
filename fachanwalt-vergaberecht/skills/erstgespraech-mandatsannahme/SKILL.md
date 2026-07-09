@@ -255,7 +255,7 @@ Naechster Schritt: [Ruege / NPA / Klage § 181 GWB]
 - § 106 VwVfG
 - § 2 BSIG
 - § 8b BSIG
-- § 123 VwG
+- § 123 VwGO
 - Art. 28 DSGVO
 - Art. 46 DSGVO
 - § 29 VwVfG

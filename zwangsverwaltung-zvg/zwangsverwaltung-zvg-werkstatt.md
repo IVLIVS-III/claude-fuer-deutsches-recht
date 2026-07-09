@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenanlage und Objektcockpit | ZPO Paragraf 704 bis Paragraf 750; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg | ZPO Paragraf 704 bis Paragraf 750; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 753 bis Paragraf 802l | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | ZPO Paragraf 753 bis Paragraf 802l; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Konten, Kasse und Buchführung | ZPO Paragraf 753 bis Paragraf 802l; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag | Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -80,14 +80,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 850 ff.: Pfändungsschutz bei Arbeitseinkommen und Konten.
 - ZPO Paragraf 765a: Vollstreckungsschutz bei sittenwidriger Härte.
 - ZVG und InsO Paragraf 89: Grundstücksvollstreckung und Vollstreckungsverbot nach Insolvenzeröffnung.
-- Paragraf 152 ZVG (Pflichten Zwangsverwalter) → Paragraf 153 ZVG (Nutzungen) → Paragrafen 2-5 ZwVwV (Aufgaben Verwalter) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 536 Abs. 1 BGB — Minderung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 558 Abs. 1 BGB — Mieterhoehung bis ortsuebliche Vergleichsmiete: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 155 ZVG — Einnahmen und Ausgaben; Verteilung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 161 ZVG — Rechnungslegungspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 10 ZVG — Rangklassen im ZVG-Verfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 74a ZVG — Geringstes Gebot und Wertgrenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 81 ZVG — Sicherheitsleistung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenanlage und Objektcockpit
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Berichte: Schriftsatz-, Brief- und Memo-Bausteine
-
-Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung. - Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Berichtswesen an das Vollstreckungsgericht
-
-Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach Paragrafen 153 154 ZVG. Anwendungsfall Zwangsverwalter muss Besitzerlangungsbericht Sachstandsbericht Monatsbericht oder Entscheidungsvorlage erstellen. Normen Paragraf 153 ZVG Pflichten Paragraf 155 ZVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.1. Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart
+### 15.2. Konten, Kasse und Buchführung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Miet- und Pachtverwaltung
+
+Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsübernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter übernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen Paragraf 152 ZVG Mieteinzug Paragrafen 535 ff. BGB Mietrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Zwangsverwaltung ZVG — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Aktenanlage und Objektcockpit
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Berichte: Schriftsatz-, Brief- und Memo-Bausteine
+
+Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung. - Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Berichtswesen an das Vollstreckungsgericht
+
+Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach Paragrafen 153 154 ZVG. Anwendungsfall Zwangsverwalter muss Besitzerlangungsbericht Sachstandsbericht Monatsbericht oder Entscheidungsvorlage erstellen. Normen Paragraf 153 ZVG Pflichten Paragraf 155 ZVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Red-Team Qualitygate
+### 15.10. Red-Team Qualitygate
 
 Dieser Arbeitsgang macht Red-Team Qualitygate im Bereich zwangsverwaltung-zvg sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Besitz: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.11. Besitz: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Besitzerlangung und Objektaufnahme
+### 15.12. Besitzerlangung und Objektaufnahme
 
 Besitzerlangung über das Zwangsverwaltungsobjekt nach Paragraf 150 ZVG. Anwendungsfall Zwangsverwalter nimmt erstmals Besitz am Objekt und muss alle Tatsachen dokumentieren. Normen Paragraf 150 ZVG Besitzübernahme Paragraf 151 ZVG Rechte und Pflichten Paragraf 535 BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Bestellung und Beschlagnahme
+### 15.13. Bestellung und Beschlagnahme
 
 Prüft Bestellungsbeschluss und Beschlagnahme am Anfang einer Zwangsverwaltung nach Paragrafen 146-149 ZVG. Anwendungsfall Anordnungsbeschluss des Vollstreckungsgerichts liegt vor und Bestellung muss rechtlich geprüft werden. Normen Paragraf 146 ZVG Anordnung Paragraf 148 ZVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Betriebskosten, Hausgeld und laufende Objektkosten
+### 15.14. Betriebskosten, Hausgeld und laufende Objektkosten
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bieterangebot Bewerten
-
-Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung. Anwendungsfall Investor erwaeegt Kauf in Zwangsversteigerung und benötigt strukturierte Wertbewertung. Normen Paragraf 74a ZVG geringstes Gebot Paragraf 81 ZVG Sicherheitsleistung Paragrafen 44 ff. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Bieterangebote: Compliance-Dokumentation und Aktenvermerk
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

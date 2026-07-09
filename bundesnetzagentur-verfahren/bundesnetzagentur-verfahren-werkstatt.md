@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anhörung, Auskunftsbeschluss, Fristenplan | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | DSA-Beschwerde gegen eine Online-Plattform | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Paragraf 29 VwVfG (allgemeine Akteneinsicht im Verwaltungsverfahren) | Paragraf 29 VwVfG (allgemeine Akteneinsicht im Verwaltungsverfahren) | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Paragraf 80 GWB (zivile Verbandsklage als Parallelweg) | Paragraf 80 GWB (zivile Verbandsklage als Parallelweg) | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
-- Paragraf 29 VwVfG (allgemeine Akteneinsicht im Verwaltungsverfahren): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 99 VwGO (in-camera-Verfahren bei Vorlageverweigerung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 339 AEUV (unionsrechtliches Berufsgeheimnis), Art. 5 DSA-VO, Art. 84 TK-Kodex-RL: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 80 GWB (zivile Verbandsklage als Parallelweg): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35-37, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 80, 80a, 113 (Anfechtungsklage, Vollzugsfolgen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 28 VwVfG (allgemeine Anhörung vor Verwaltungsakt; Heilung nach Paragraf 45 Abs. 1 Nr. 3 VwVfG, Unbeachtlichkeit nach Paragraf 46 VwVfG nur bei klarer Alternativlosigkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 17 OWiG, nemo tenetur, Paragraf 136 StPO analog: Schutz vor Selbstbelastung in bußgeldnahen Verfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 47 GRCh, Art. 6 EMRK (faires Verfahren, Selbstbelastungsschutz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln, Untätigkeitsklage): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 19, 20 GWB (Diskriminierungs- und Behinderungsverbote als Parallelweg): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 44 VwVfG — Nichtigkeit Verwaltungsakt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 80 Abs. 5 VwGO — Eilrechtsschutz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 123 Abs. 1 VwGO — einstweilige Anordnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -153,58 +153,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anhörung, Auskunftsbeschluss, Fristenplan
+### 15.1. Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
+### 15.2. DSA-Beschwerde gegen eine Online-Plattform
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Algorithmen und Empfehlungssysteme nach dem Digital Services Act
+### 15.3. Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA
+### 15.4. Energie: Energieverbraucher Beschwerde
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Dark Patterns: DSA-, UWG- und Datenschutz-Grundverordnung-Schnittstelle
+### 15.5. Energie Messstellenbetrieb Smart Meter Fristen Bescheid
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Datenzugang für Forschung nach Art. 40 DSA
+### 15.6. Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
+### 15.7. Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. DSA-Beschwerde gegen eine Online-Plattform
+### 15.8. Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Melde- und Abhilfeverfahren (\"Notice and Action\") nach Art. 16 DSA
+### 15.9. Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Nationale Koordinierung der DSA-Behörden
+### 15.10. Energie-Regulierungsakte: Ladesäulen Elektromobilität — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA
+### 15.11. Energie-Regulierungsakte: NABEG Planfeststellung — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Trusted Flagger: Anerkennung nach Art. 22 DSA
+### 15.12. Energie-Regulierungsakte: Netzanschluss Gas — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA
+### 15.13. Energie-Regulierungsakte: Netzanschluss Strom — Fristen- und Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Energie-Regulierungsakte: Netzentgelte Gas — Fristen- und Bescheidanalyse
+
+Paragraf 29 EnWG — Festlegung und Genehmigung durch Regulierungsbehörde. - Paragraf 65 EnWG — Aufsichtsmaßnahmen. - Paragraf 75 EnWG — Beschwerde gegen Entscheidungen der Regulierungsbehörde. - Paragraf 80 EnWG — Rechtsbeschwerde. - Paragraf 67 TKG — Anordnungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

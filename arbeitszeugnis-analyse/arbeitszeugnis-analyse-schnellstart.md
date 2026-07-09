@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistung und Verhalten: Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen.
 4. Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
 5. Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen.
-6. Ampelsystem-Tabellenausgabe: Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden.
+6. Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage: Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel Arbeitszeugnis | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klagestrategie Zeugnisberichtigung | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ampelsystem-Tabellenausgabe | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Codeworte: Compliance-Dokumentation und Aktenvermerk | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Gruen: Behörden-, Gerichts- oder Registerweg | Zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 630: Zeugnisanspruch im Dienstverhältnis.
 - BGB Paragraf 241 Absatz 2: Rücksichtnahme auf berufliches Fortkommen und redliche Zeugniserteilung.
 - BGB Paragraf 242: Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten.
-- Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 626 Abs. 1 BGB — fristlose Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 195, 199: regelmäßige Verjährung; Beginn erst bei Anspruchsentstehung und Kenntnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 241 Abs. 2, 280: Rücksichtnahme- und Schadensersatzrisiken bei unrichtigem Zeugnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ArbGG Paragrafen 61a, 64, 66: arbeitsgerichtlicher Ablauf und Rechtsmittelkontext: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 195, 199 BGB — Verjährung drei Jahre; beginnt mit Schluss des Ausstellungsjahres: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Zur vollen Zufriedenheit ist die durchschnittliche Schlussnote; eine bessere Bewertung muss der Arbeitnehmer darlegen und beweisen.
 - BAG, Urteil vom 15.11.2011 - 9 AZR 386/10: Zeugnisklarheit wird nach objektivem Empfängerhorizont beurteilt; einzelne Wendungen sind nicht losgelöst als Geheimcode zu behandeln.
-- BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung
 
 ## 7. Antwortform
 

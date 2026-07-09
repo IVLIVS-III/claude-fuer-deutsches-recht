@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
 4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
 5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. Abnahme: Formular, Portal und Einreichungslogik: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abnahme: Formular, Portal und Einreichungslogik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agentur, Abnahme, Vergabe | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufen: Schriftsatz-, Brief- und Memo-Bausteine | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Automatisierter abrufen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Barrierefreiheit Fehlerkatalog | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BITV: Dokumentenmatrix, Lückenliste und Nachforderung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Checkout: Beweislast, Darlegungslast und Substantiierung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schulung: Fristennotiz und nächster Schritt | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Barrierefreiheit Web Checker — Allgemein | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
+- Paragraf 12a BGG Voraussetzung: barrierefreie Gestaltung von Websites, mobilen Anwendungen, Intranet, Dokumenten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abnahme: Formular, Portal und Einreichungslogik, Agentur, Abnahme, Vergabe, Anschluss-Routing, abrufen: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage, Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg, BITV: Dokumentenmatrix, Lückenliste und Nachforderung, Checkout: Beweislast, Darlegungslast und Substantiierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
 ## 8. Stop
 

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
 4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
 5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
-6. Anschluss-Routing: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
+6. Haftungsrisiko-Memo: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antworten: Mehrparteienkonflikt und Interessenmatrix | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausführungen: Formular, Portal und Einreichungslogik | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Due-Diligence-Rechtsmemo | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstieg und Routing | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftungsrisiko-Memo | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Memo: Fristen und Sofortmaßnahmen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsentscheidungs-Memo | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Optional: Beweislast, Darlegungslast und Substantiierung | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

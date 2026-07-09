@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Annahmen: Behörden-, Gerichts- oder Registerweg | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Annahmen plausibilisieren | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | InsO Paragraf 129 bis Paragraf 147 | Insolvenzanfechtung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | InsO Paragraf 174 | Forderungsanmeldung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | StaRUG Paragraf 1 | Krisenfrüherkennungspflichten | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| Paragraf 535 Abs. 1 BGB | Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
+| Paragraf 241 Abs. 2 BGB | Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -73,7 +73,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist |
-| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen |
+| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnähe kann Anfechtungsrisiken begrenzen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
-- Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 536 Abs. 1 BGB — Minderung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 558 Abs. 1 BGB — Mieterhoehung bis ortsuebliche Vergleichsmiete: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 559 Abs. 1 BGB — Modernisierungsmieterhoehung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -100,8 +100,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
-- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
-- BGH, Urteil vom 13.07.2021 - II ZR 84/20: weiche Patronatserklärung verhindert rechnerische Überschuldung nicht und trägt eine Fortbestehensprognose in der Krise nur ausnahmsweise bei belastbarer
+- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnähe kann Anfechtungsrisiken begrenzen.
 
 ## 9. Prüfraster
 
@@ -151,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Annahmen: Behörden-, Gerichts- oder Registerweg
-
-Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung. - Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Annahmen plausibilisieren
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Annahmen sammeln (Fortführung)
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fortbestehensprognose wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - annahmen-behörden-gericht-und-registerweg — Annahmen Behörden Gericht und Registerweg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Auslösendes Ereignis erfassen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Bilanzieller Status aufnehmen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Comfortletter: Internationaler Bezug und Schnittstellen
+### 15.1. Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Comfortletter (weich)
+### 15.2. InsO: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Negativer: Fristennotiz und nächster Schritt
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Fortbestehensprognose — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Dokumentenintake
+### 15.5. StaRUG: Beweislast, Darlegungslast und Substantiierung
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Einstieg und Routing
+### 15.6. Annahmen: Behörden-, Gerichts- oder Registerweg
 
-Dieser Einstieg routet Fortbestehensprognose vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - annahmen-behörden-gericht-und-registerweg — Annahmen Behörden Gericht und Registerweg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung. - Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Eskalation: Sonderfall und Edge-Case-Prüfung
+### 15.7. Annahmen plausibilisieren
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Annahmen sammeln (Fortführung)
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Auslösendes Ereignis erfassen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Bilanzieller Status aufnehmen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Bilanzstatus: Risikoampel, Gegenargumente und Verteidigungslinien
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Comfortletter: Internationaler Bezug und Schnittstellen
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Comfortletter (weich)
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Eskalation: Sonderfall und Edge-Case-Prüfung
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. FBP: Bankenkommunikation Waiver
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. FBP: Integrierte Planung Bauleiter
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

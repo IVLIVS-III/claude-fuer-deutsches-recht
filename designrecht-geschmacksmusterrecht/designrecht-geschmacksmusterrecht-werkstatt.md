@@ -24,7 +24,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+### 3.1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abmahnung Designrecht | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bestimmung Informierter Benutzer | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 15 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Aufgeschobene Bekanntmachung | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beweissicherung Designvergleich | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -146,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abmahnung Designrecht
+### 15.1. Bestimmung Informierter Benutzer
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Aufgeschobene Bekanntmachung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Automotive Design und Ersatzteile
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Bestimmung Informierter Benutzer
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Beweissicherung Designvergleich
+### 15.2. Beweissicherung Designvergleich
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Design Due Diligence Ma
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Design und Patent Gebrauchsmuster Abgrenzung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Design und Markenrecht Formmarke
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Design und Urheberrecht Angewandte Kunst
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Design und Uwg Nachahmungsschutz
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Designlizenz Vertrag
+### 15.3. Designlizenz Vertrag
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Designnichtigkeit Dpma
+### 15.4. Designverletzung Klageanträge
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Designportfolio Startup
+### 15.5. Nationale Widerklage Nichtigkeit
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Designrecherche Dpmaregister EUIPO Wipo
+### 15.6. Offenbarung Neuheitsschonfrist Prioritaet
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Registerstand Fristen Verlaengerung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Abmahnung Designrecht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Aufgeschobene Bekanntmachung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Automotive Design und Ersatzteile
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Design Due Diligence Ma
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Design und Patent Gebrauchsmuster Abgrenzung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Design und Markenrecht Formmarke
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Design und Urheberrecht Angewandte Kunst
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

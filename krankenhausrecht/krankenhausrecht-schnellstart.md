@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Beweislast: grober Fehler, Befunderhebungsfehler, Aufklärung, hypothetische Einwilligung und Dokumentationslücke gesondert prüfen.
 4. Verfahren: Gutachten, MD/MDK, Schlichtungsstelle, Kasse, Behörde, Sozialgericht oder Zivilgericht richtig routen.
 5. Arbeitsprodukt: Gutachterfragen, Anspruchsschreiben, Klage, Widerspruch, Eilantrag, Abrechnungsprüfung oder Behördenantwort erstellen.
-6. Ambulantes Operieren Paragraf 115b SGB V: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
+6. Dokumentation Aufbewahrung Beweislast: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ambulantes Operieren Paragraf 115b SGB V | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitszeit Bereitschaftsdienst Rufdienst | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Dokumentation Aufbewahrung Beweislast | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Barrierefreiheit Krankenhauskommunikation | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegarzt Honorar und Krankenhausvertrag | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Blutprodukte Transfusionsrecht Dokumentation | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geburtshilfe Haftung Hebammen Schnittstelle | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klage gegen Budgetbescheid oder Schiedsstellenentscheidung | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klinikakten und Bescheide sortieren | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Output Vorstandsvorlage Behördenbrief Klage | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Patientenbeschwerde und Risikomanagement | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 280, Paragraf 823 und Paragraf 253: Schadensersatz, deliktische Haftung und Schmerzensgeld.
 - SGB V Paragraf 27, Paragraf 39, Paragraf 73, Paragraf 92 und Paragraf 135: Krankenbehandlung, Krankenhaus, Vertragsarzt und Methodenbewertung.
 - SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
-- Paragraf 115b SGB V eröffnet Krankenhaeusern die Möglichkeit, ambulante Operationen im Rahmen des AOP-Katalogs zu erbringen. Seit 2023 gilt ein erweiterter Katalog mit Kontextfaktoren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB V Paragraf 115b Ambulantes Operieren am Krankenhaus, AOP-Vertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB V Paragraf 115f Hybrid-DRG für haeufige Eingriffe (Schnittstelle ambulant/stationaer): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB V Paragrafen 115b, 115f: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollständig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 630h Abs. 3 Beweislastumkehr bei Dokumentationsfehlern (vermutet: nicht durchgeführt): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- SGB X Paragraf 84 Aufbewahrung sozialrechtliche Unterlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 630a-630h: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

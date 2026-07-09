@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwalts-Dashboard Lizenzvertragsersteller | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Escrow / Quellcode-Verwahrer-Vereinbarung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Exportkontrolle — Dual-Use und Lizenz | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Insolvenz-Fortbestand der Lizenz ($ 103 InsO) | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| IP-Identifikation und Bestandsaufnahme | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klausel Haftung, Gewaehrleistung, Indemnification | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klausel Vergütung — Pauschale, Royalty, Tiered | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klausel Vertragsdauer und Kündigung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Output: Lizenzvertrag in deutscher Sprache | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- UrhG Paragrafen 31, 32, 32a (Urheberrechtslizenzen, angemessene Vergütung); Paragraf 69a ff. (Software); Paragraf 137l UrhG (unbekannte Nutzungsarten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- PatG Paragrafen 9, 15 (Lizenz); Paragraf 24 (Zwangslizenz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- MarkenG Paragrafen 30 (Lizenz), 27 (Übertragung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- DesignG Paragrafen 31 ff.; GebrMG Paragrafen 22 ff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 101 AEUV - Kartellverbot: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

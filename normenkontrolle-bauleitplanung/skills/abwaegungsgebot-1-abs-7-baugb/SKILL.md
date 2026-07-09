@@ -162,7 +162,7 @@ Konkrete Entscheidungen vor Verwendung per bverwg.de mit Datum verifizieren.
 
 ### Kuratierte Normen-Bibliothek
 
-- § 47 VwG
+- § 47 VwGO
 - § 215 BauGB
 - § 1 BauGB
 - § 214 BauGB

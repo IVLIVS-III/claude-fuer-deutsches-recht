@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Markenrechtliche Abmahnung und Unterlassungserklärung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Absolute Schutzhindernisse | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AGB im Händlervertrag für Luxus-Selektivvertrieb | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alicante: Schriftsatz-, Brief- und Memo-Bausteine | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anmeldestrategie & Markenportfolio für Luxus-Modehäuser | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anti-System-Marken und Authentizitätskennzeichen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtserhaltende Benutzung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweissicherung, Testkauf und Screenshot | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -58,10 +58,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 97a UrhG (analog): Abmahnungserfordernis als Obliegenheit vor Klage (auch im Markenrecht üblicher Usus): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+- EuGH, Urteil vom 22.12.2022 - C-148/21 und C-184/21; MarkenG Paragrafen 14 ff
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Markenrechtliche Abmahnung und Unterlassungserklärung, Absolute Schutzhindernisse, AGB im Händlervertrag für Luxus-Selektivvertrieb, Alicante: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Markenrechtliche Abmahnung und Unterlassungserklärung, AGB im Händlervertrag für Luxus-Selektivvertrieb, Anti-System-Marken und Authentizitätskennzeichen, Rechtserhaltende Benutzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

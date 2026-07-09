@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -61,7 +61,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | BGB-Gesellschaftsrecht, GmbHG, HGB-Personengesellschaftsrecht (insb. Paragrafen | BGB-Gesellschaftsrecht, GmbHG, HGB-Personengesellschaftsrecht (insb. Paragrafen 161 ff. HGB | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
@@ -83,7 +83,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - BGB-Gesellschaftsrecht, GmbHG, HGB-Personengesellschaftsrecht (insb. Paragrafen 161 ff. HGB Kommanditgesellschaft), KAGB-Begriffe (Paragraf 1 KAGB AIF-Definition, Paragraf 1 Abs. 19: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 161 ff. HGB Kommanditgesellschaft; Paragrafen 705 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.

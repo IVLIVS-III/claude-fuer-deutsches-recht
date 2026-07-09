@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Eingang und Besetzung | ZPO Paragraf 253; BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 03 Frühe Erste Verfügung Paragraf 139 | ZPO Paragraf 253; BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Große Relation Zivilrecht | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 04 Beweisbeschluss und Sachverständiger | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; BGH, Urteil vom 18.04.2013 - III ZR 156/12, NJW 2013, 2201 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -147,33 +147,33 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 01 Eingang und Besetzung
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. 02 Große Relation Zivilrecht
-
-Vollständige zivilrechtliche Relation: Schlüssigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung Werkstatt-Assistent für den Vorsitzenden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. 03 Frühe Erste Verfügung Paragraf 139
+### 15.1. 03 Frühe Erste Verfügung Paragraf 139
 
 Hinweisverfügung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen zur Substantiierung, Ergaenzung des Vortrags, Beweisangebote, Fristsetzung; Verfahrensbeschleunigung Paragrafen 282 296 Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. 04 Beweisbeschluss und Sachverständiger
+### 15.2. 04 Beweisbeschluss und Sachverständiger
 
 Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des Sachverständigen, Sachverständigenfragen, Vorschuss, Würdigung des Gutachtens Paragraf 286 Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. 05 Zeugenbeweis und Parteivernehmung
+### 15.3. 05 Zeugenbeweis und Parteivernehmung
 
 Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubhaftigkeit, Parteivernehmung Paragrafen 445-455 ZPO, Aussagewert Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. 06 Urteil Großes Zivilurteil
-
-Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher Tatbestand, gegliederte Entscheidungsgründe (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung), Nebenentscheidungen, vorläufige Vollstreckbarkeit Paragrafen 708-711 Werkstatt-Assistent. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. 07 Berufungsverfahren Paragraf 511 Ff
+### 15.4. 07 Berufungsverfahren Paragraf 511 Ff
 
 Berufungsverfahren: Zulässigkeit Paragraf 511, Berufungsbegründung Paragraf 520, Prüfungsumfang Paragraf 529, Zurückweisungsbeschluss Paragraf 522 Abs. 2, Berufungsurteil Paragraf 540 Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. 01 Eingang und Besetzung
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. 02 Große Relation Zivilrecht
+
+Vollständige zivilrechtliche Relation: Schlüssigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung Werkstatt-Assistent für den Vorsitzenden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. 06 Urteil Großes Zivilurteil
+
+Urteilsentwurf nach Paragraf 313 ZPO bei größerem Streitwert: ausführlicher Tatbestand, gegliederte Entscheidungsgründe (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung), Nebenentscheidungen, vorläufige Vollstreckbarkeit Paragrafen 708-711 Werkstatt-Assistent. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. 08 Kostenentscheidung und Streitwert
 

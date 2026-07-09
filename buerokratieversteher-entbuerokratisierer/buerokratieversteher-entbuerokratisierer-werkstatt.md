@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenzeichen und Vorgangsnummer | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anhörung vor Bescheid | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anhörung vor Bescheid | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Aufsichts- und Dienstaufsichtsbeschwerde | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -90,6 +90,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwVfG Paragraf 46 Aufhebbarkeit bei Verfahrensfehlern: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - SGB X Paragraf 24 entsprechende Vorschrift für Sozialverwaltungsverfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 45, 46: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- VwVfG Paragraf 31 Berechnung Fristen; Paragraf 41 Bekanntgabe; Paragraf 41 Abs. 2 Zugangsfiktion + 3 Werktage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- VwGO Paragrafen 58, 70, 74 Rechtsbehelfsbelehrung, Widerspruchs-/Klagefrist; Paragraf 58 Abs. 2 Jahresfrist bei fehlender oder fehlerhafter Belehrung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- SGG Paragraf 66 und AO Paragraf 356 entsprechende Vorschriften für Sozial-/Steuersachen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -147,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenzeichen und Vorgangsnummer
+### 15.1. Anhörung vor Bescheid
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Aufsichts- und Dienstaufsichtsbeschwerde
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Automatisierter Bescheid
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anhörung vor Bescheid
+### 15.4. Berufsanerkennung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Aufsichts- und Dienstaufsichtsbeschwerde
+### 15.5. Bescheid ohne Rechtsbehelfsbelehrung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Ausländerbehörde
+### 15.6. Fotos und Screenshots als Belege
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Automatisierter Bescheid
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Bafoeg
+### 15.7. Fördermittel-Bescheid
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bauantrag
+### 15.8. Frist Sofortcheck
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Bauordnungsamt-Anordnung
+### 15.9. Gebührenbescheid
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Behörde oder Gericht erkennen
+### 15.10. Grundsteuerbescheid für Laien
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Beratungshilfe und PKH
+### 15.11. Kita-Antrag
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Berufsanerkennung
+### 15.12. Klage Verwaltungsgericht einfach
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bescheid ohne Rechtsbehelfsbelehrung
+### 15.13. Kommunikationstagebuch
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Betreuung und Vorsorgevollmacht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Fotos und Screenshots als Belege
+### 15.14. Krankenkasse-Bescheid
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

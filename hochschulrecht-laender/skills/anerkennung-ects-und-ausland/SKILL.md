@@ -93,8 +93,8 @@ Erzeuge bevorzugt: Anerkennungsmemo. Am Ende immer drei Zeilen: **Frist**, **feh
 
 ### Kuratierte Normen-Bibliothek
 
-- § 123 VwG
-- § 70 VwG
+- § 123 VwGO
+- § 70 VwGO
 - § 4 HRG
 - § 15 HRG
 - § 16 HRG

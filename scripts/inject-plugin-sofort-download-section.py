@@ -31,6 +31,7 @@ SKIP_TESTAKTEN_DIRS = {
 
 MARKER_BEGIN = "<!-- BEGIN plugin-sofort-download-section (autogen) -->"
 MARKER_END = "<!-- END plugin-sofort-download-section (autogen) -->"
+DIRECT_MARKER_BEGIN = "<!-- BEGIN direkt-loslegen (autogen) -->"
 TESTAKTEN_MARKER_BEGIN = "<!-- BEGIN plugin-testakten-section (autogen) -->"
 
 RELEASE_BASE = (
@@ -202,6 +203,8 @@ def inject_section(readme: Path, plugin_name: str, akten_slugs: list[str], plugi
     if not readme.exists():
         return "SKIPPED"
     text = readme.read_text(encoding="utf-8")
+    if DIRECT_MARKER_BEGIN in text and MARKER_BEGIN not in text:
+        return "SKIPPED"
     new_block = build_section(plugin_name, akten_slugs, plugin_dir)
 
     def insert_after_h1(current_text: str) -> str:

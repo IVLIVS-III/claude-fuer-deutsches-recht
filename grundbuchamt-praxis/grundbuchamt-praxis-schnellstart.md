@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen.
 4. Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen.
 5. Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen.
-6. Abteilung I Eigentum: Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden.
+6. Vollzugsfehler und Haftung: Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abteilung I Eigentum | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abteilung II nicht übersehen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abteilung III Belastungen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vollzugsfehler und Haftung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufgebotsverfahren planen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auflassung und Umschreibung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auflassungsvormerkung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Grundbuchbeschwerde | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nichtigkeitsrisiko im Kaufvertragsvollzug | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kaufvertrag grundbuchseitig prüfen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abteilung I Eigentum | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

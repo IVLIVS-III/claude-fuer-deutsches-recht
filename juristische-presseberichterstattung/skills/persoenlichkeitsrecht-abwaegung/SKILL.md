@@ -26,7 +26,7 @@ Beginne mit einem Arbeitsprodukt: Entwurf, Matrix, Headline-Set, Fragenliste, Ri
 - KUG Paragraf 22 und Paragraf 23: Bildnis, Einwilligung, Zeitgeschichte und Schutzinteressen.
 - BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung.
 - Pressekodex: Wahrhaftigkeit, Sorgfalt, Schutz der Persönlichkeit und Unschuldsvermutung.
-- BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: aktueller Suchanker zur Verdachtsberichterstattung im Wirtschaftsverfahren.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
 
 ## 5. Ausgabeformat
 

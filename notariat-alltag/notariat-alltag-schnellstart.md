@@ -22,14 +22,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen.
 4. Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen.
 5. Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen.
-6. Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit: Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden.
+6. Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung, Pflegeklausel: Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 311b; BGB Paragraf 873 und Paragraf 925; BGB Paragraf 883 bis Paragraf 888 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Rechtsprechung | BGH Kernbereichslehre |
 | Tatbestand | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden |
 | Beweislast | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte |
 | Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit, Auflassungsvormerkung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer Bestellung, Abberufung, Vertretungsmacht | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert, Kostenschuldner | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung, Pflegeklausel | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage, Eskalation | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich, Belehrung | Objekt, Grundbuchstand, Rechtsgeschäft, Form, Bewilligung, Nachweis, Rang und Vollzugsschritt in einer Aktenlinie verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
 - BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
 - BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
-- GwG-Screening erst nach Urkundsaufnahme – das verstößt gegen Paragrafen 10–11 GwG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 181 BGB-Befreiung: Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GwG-Prüfung erst nach Beurkundung → Verstoß gegen Paragraf 10 GwG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 528 BGB – Rückforderung wegen Verarmung: Schenker kann Geschenk zurückfordern, wenn er nach der Schenkung verarmt. Beschenkte muss nur den noch vorhandenen Wert zurückgeben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 530 BGB – Widerruf wegen groben Undanks: Widerruf innerhalb 1 Jahr nach Kenntnis des Undanks: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH Kernbereichslehre: https://www.bgh.de (BGH XII ZR 265/02)
 
 ## 7. Antwortform
 

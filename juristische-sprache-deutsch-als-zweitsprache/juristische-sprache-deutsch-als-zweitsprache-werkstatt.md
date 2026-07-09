@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Prüfung Vor Absenden | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Behördenpflichten Mitwirkung | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 133 und Paragraf 157 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Aktenzeichen und Betreff | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bescheid in Einfacher Sprache | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -131,58 +131,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Prüfung Vor Absenden
+### 15.1. Behördenpflichten Mitwirkung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Aktenzeichen und Betreff
+### 15.2. Bescheid in Einfacher Sprache
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Amtssprache Entschlüsseln
+### 15.3. Frist und Datum Verstehen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anhörung Verstehen
+### 15.4. Keine Falschen Zugestaendnisse
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anlagenliste Verstehen
+### 15.5. Klage Einfach Formulieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Antrag Stellungnahme Erklärung
+### 15.6. Negativer Bescheid Emotional
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anwaltstermin Vorbereiten
+### 15.7. Notfallmodus Frist Heute
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Arbeitsrecht Warnwoerter
+### 15.8. Vertrag Einfach Verstehen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Ausländerrecht Warnwoerter
-
-Dieser Skill markiert Warnwoerter im Ausländerrecht (Aufenthaltsrecht, Asyl). Falsche Erklärungen können Aufenthaltstitel kosten oder Abschiebung beschleunigen. Er hilft Menschen mit Deutsch als Zweitsprache, ihre Rechte zu verstehen. - Ausreiseaufforderung: Pflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Barrierefreie Erklärung
+### 15.9. Prüfung Vor Absenden
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Behördenpflichten Mitwirkung
-
-Dieser Skill unterstützt bei Behördenpflichten Mitwirkung, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfähige Person und erklärt nur die sprachlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bescheid in Einfacher Sprache
+### 15.10. Aktenzeichen und Betreff
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Chronologie Erstellen
+### 15.11. Amtssprache Entschlüsseln
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Datenschutz und Akteneinsicht
+### 15.12. Anhörung Verstehen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Anlagenliste Verstehen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Antrag Stellungnahme Erklärung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit deutscher Zweitsprache, Dolmetscher, beeidigter Übersetzer, Gericht, Behörde, Anwalt, Sprachendienst. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Beglaubigte Übersetzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

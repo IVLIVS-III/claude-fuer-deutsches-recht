@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Akteneinsicht Verletzter Paragraf 406e StPO: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
+6. Beweismatrix: Tatsache, Meinung, Vermutung: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Beweismatrix: Tatsache, Meinung, Vermutung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Internationale Anzeigen und EU-Bezug | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klageerzwingung Paragraf 172 StPO | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Opferschutz, Nebenklage, Adhäsion | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Strafantrag Form, Frist, Rücknahme | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Akteneinsicht Verletzter Paragraf 406e StPO | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfangsverdacht nach Paragrafen 152, 160 StPO | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagenverzeichnis und Hashlog | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antragsdelikte und Drei-Monats-Frist | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wann zwingend Anwalt einschalten? | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- StPO Paragraf 406e; Datenschutz-Grundverordnung; Persönlichkeitsrechte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 406e StPO (Akteneinsicht Verletzter): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 475 StPO (Akteneinsicht Dritter): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 406e Abs. 1 StPO (berechtigtes Interesse): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- StPO Paragraf 158; StGB Paragraf 164; ZPO Beweisgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 158 StPO (Strafanzeige, Strafantrag): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 152 Abs. 2 StPO (Anfangsverdacht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 160 StPO (Erforschungspflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Akteneinsicht Verletzter Paragraf 406e StPO, Anfangsverdacht nach Paragrafen 152, 160 StPO, Anlagenverzeichnis und Hashlog, Antragsdelikte und Drei-Monats-Frist: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beweismatrix: Tatsache, Meinung, Vermutung, Internationale Anzeigen und EU-Bezug, Klageerzwingung Paragraf 172 StPO, Opferschutz, Nebenklage, Adhäsion: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

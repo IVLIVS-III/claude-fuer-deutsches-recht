@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Vergabeentscheidung rügen und das Nachprüfungsverfahren fristgerecht fuehren.
+Wenn du das hier öffnest, willst du eine Vergabeentscheidung rügen und das Nachprüfungsverfahren fristgerecht führen.
 
 # Fachanwalt Vergaberecht — Schnellstart
 
@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Rüge: erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren.
 4. Nachprüfung: Antragsbefugnis, Rügepraeklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen.
 5. Arbeitsprodukt: Rügeschreiben, Nachprüfungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen.
-6. Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben.: Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort.
+6. Ausschluss Bieter Paragraf 124 GWB: Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben. | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Architektenrecht: Compliance-Dokumentation und Aktenvermerk | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufklärung, Nachforderung und Angebotsaufklärung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auftragswert, Lose, Optionen, Verlaengerungen, Rahmenvereinbarungen und Umgehungsrisiken berechnen. | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ausschluss Bieter Paragraf 124 GWB | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung. | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulässige. | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt. | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eignungskriterien Paragraf 122 GWB | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| De-facto-Vergabe-Klage | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sofortige Beschwerde OLG-Vergabesenat | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GWB Paragraf 134: Informations- und Wartepflicht vor Zuschlag.
 - GWB Paragraf 160: Nachprüfungsantrag und Rügeobliegenheit.
 - VgV Paragraf 57: Ausschluss von Angeboten.
+- Paragraf 97 Abs. 1 und 2 GWB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 160 Abs. 2 und 3 GWB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 11.01.2005 - C-26/03: Stadt Halle begrenzt vergabefreie Inhouse-Vergaben.
 - EuGH, Urteil vom 13.10.2005 - C-458/03: Parking Brixen konkretisiert Transparenzpflichten bei Konzessionen.
 - EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns): Begriff des öffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen öffentlichen Rechts. Quelle: curia.europa.eu (CELEX
@@ -64,7 +64,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei, Frist, Nebenangebote, Preisangaben., Architektenrecht: Compliance-Dokumentation und Aktenvermerk, Aufklärung, Nachforderung und Angebotsaufklärung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ausschluss Bieter Paragraf 124 GWB, De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulässige., De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt., Eignungskriterien Paragraf 122.
 
 ## 8. Stop
 

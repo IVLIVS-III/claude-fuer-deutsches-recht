@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
 4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
 5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
-6. Aktenanlage und Verfahrenscockpit: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
+6. Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg: Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| IV-integrierte Abstimmung und Mehrheiten | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul. | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zahlungsklagen nach Paragraf 15b InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenanlage und Verfahrenscockpit | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Insolvenzanfechtung Paragrafen 129 ff. InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsrecht, Personal und Insolvenzgeld | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berichte an Gericht und Gläubigerorgane | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| IV Cross-Border Assets — Trustee, DIP, Registervollzug | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eigenverwaltung und Sachwaltung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,18 +53,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 27, 28 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 56 InsO (Bestellung IV) → Paragraf 60 InsO (Haftung) → Paragraf 61 InsO (persönliche Haftung Massegläubigeransprüche) → Paragraf 66 InsO (Rechnungslegung) → Paragraf 69 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 113 InsO als zu prüfende Norm: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 22 InsO Sicherungsmaßnahmen: ab Bestellung sofort (in der Praxis: erste 24–72 Stunden): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 156 InsO Berichtstermin: ca. 6 Wochen bis 3 Monate nach Eröffnung — Verwalter berichtet zu Lage, Fortführung/Stilllegung, Vergleichsoptionen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 158 InsO Stilllegung: vor Berichtstermin nur mit Zustimmung Gläubigerausschuss oder bei Massearmut: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung Vorsatzanfechtung; aus bloßer Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO
 - BVerfG 1 BvR 418/25 vom 28.02.2025 (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen
-- BGH IX ZR 229/22 vom 23.01.2025 — Objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte fällige Forderungen
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenanlage und Verfahrenscockpit, Insolvenzanfechtung Paragrafen 129 ff. InsO, Arbeitsrecht, Personal und Insolvenzgeld, Berichte an Gericht und Gläubigerorgane: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Insolvenzverwalter: Fristen, Form, Zuständigkeit und Rechtsweg, IV-integrierte Abstimmung und Mehrheiten, Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul., Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Kurzvermerk, Prüfmatrix.
 
 ## 8. Stop
 

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Adhaesion: Formular, Portal und Einreichungslogik | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Adhaesionsverfahren Paragraf 403 StPO im Strafverfahren vorbereiten | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Reaktion auf Anklageerhebung nach Paragraf 199 StPO und Eroefffnungsverfahren | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Paragraf 147 Abs. 1 StPO | umfassendes Akteneinsichtsrecht des Verteidigers | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| GG | Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
-- Paragraf 147 Abs. 1 StPO — umfassendes Akteneinsichtsrecht des Verteidigers: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 147 Abs. 2 StPO — Versagungsground: Gefährdung des Untersuchungszwecks: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 147 Abs. 2 S. 2 StPO — Ausnahme bei Untersuchungshaft: haftrelevante Teile immer zugänglich: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 147 Abs. 4 StPO — eigenes Akteneinsichtsrecht des nicht verteidigten Beschuldigten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 147 Abs. 5 StPO — Rechtsbehelf: Antrag auf gerichtliche Entscheidung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 32f StPO — elektronische Akten; digitale Bereitstellung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 406e StPO — Akteneinsicht für Verletzte / Nebenklaeger (beschraenkt): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 136 StPO Beschuldigtenbelehrung — Schweigerecht Verteidiger-Hinzuziehung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II (nulla: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- EMRK: Art. 5 (Freiheit), 6 (faires Verfahren, Aussage- und Verteidigungsrechte), 7 (nulla poena), 8 (Privatsphaere): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 395 Abs. 1 Nr. 3, 396 Abs. 1 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 406e Abs. 4 StPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Adhaesion: Formular, Portal und Einreichungslogik
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Adhaesionsverfahren
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
+### 15.1. Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Akteneinsicht Paragraf 147 StPO: Verteidigerrecht nach Abs
+### 15.2. Anklage Reaktion
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Strukturierte Auswertung der Strafakte nach Akteneinsicht Paragraf 147 StPO
+### 15.3. Rechtsquellen: Fristennotiz und nächster Schritt
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Anklage Reaktion
+### 15.4. Nebenklage und Opfervertretung im Strafverfahren
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Die Nebenklage gibt der verletzten Person eine eigenständige Rolle im Strafverfahren – mit Rechten, die über bloße Zeugenaussagen weit hinausgehen. Gleichzeitig ist sie keine vollwertige Parteistellung. Die Kunst liegt darin, die Mandantschaft zu schützen, ohne den Prozess. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anschluss-Routing
+### 15.5. Freiheitsstrafe Paragraf 57 StGB
 
-Dieses Anschluss-Routing für Fachanwalt Strafrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - workflow-redteam-qualitygate — Adhaesionsverfahren Ermittlungsverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Freiheitsstrafe Paragraf 57 StGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 57 StGB - Paragraf 32 StGB - Paragraf 46 StGB - Paragraf 73 StGB - Paragraf 263. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Chatcontrol Csam Anwaltsgeheimnis 53 StPO
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen Paragraf 136 StPO
+### 15.6. Nebenklage: Compliance-Dokumentation und Aktenvermerk
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Anwalts-Dashboard Fachanwalt Strafrecht
-
-] Vorladung, Durchsuchung, U-Haft, Anklage, Revision — Verfahrensphase entscheidet alles. Identität des Beschuldigten zuerst klären. ] ] Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Einstieg, Schnelltriage und Fallrouting
+### 15.7. Nebenklage Opfervertretung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Ergaenzt: Mandantenkommunikation und Entscheidungsvorlage
+### 15.8. Notwehr Paragraf 32 StGB
+
+Prüfe Notwehr Paragraf 32 StGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 32 StGB - Paragraf 46 StGB - Paragraf 57 StGB - Paragraf 73 StGB - Paragraf 263 StGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Rauschgift Paragraf 29 BtMG
+
+Prüfe Rauschgift Paragraf 29 BtMG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 29 BtMG - Paragraf 32 StGB - Paragraf 46 StGB - Paragraf 57 StGB - Paragraf 73 StGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Revisionsbegründung Paragraf 344 StPO
+
+Prüfe Revisionsbegründung Paragraf 344 StPO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 344 StPO - Paragraf 32 StGB - Paragraf 46 StGB - Paragraf 57 StGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Strafprozess Aktenlog Fristen und Wiedervorlagen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
+### 15.12. Strafprozess Antragslog Beweisanträge und Widerspruch
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Strafprozess Rechtsmittel und Notfristencockpit
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Strafprozess Verhandlungslog Sta Gericht Nebenklage
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
 4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, außergewöhnlicher Umstand oder Mitverschulden prüfen.
 5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
-6. Ausnahmegenehmigung Beantragen: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
+6. Bewohnerparken Beweis Sichern: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Ausnahmegenehmigung Beantragen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Baustellenverkehrsrecht | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Anordnung Angreifen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Antrag Schreiben | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewohnerparken Behörde Anschreiben | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bewohnerparken Beweis Sichern | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Busspur Beweis Sichern | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fahrradstrasse Beweis Sichern | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haltverbot Beweis Sichern | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ladezone Beweis Sichern | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schulstrasse Beweis Sichern | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

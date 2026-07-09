@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
 4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
 5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
-6. 01 Eingangsprüfung Zuständigkeit: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
+6. 05 Beweisaufnahme Kleine Zivilkammer: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| 05 Beweisaufnahme Kleine Zivilkammer | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 07 Urteilsentwurf Paragraf 313 | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 01 Eingangsprüfung Zuständigkeit | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 02 Streitwert und Gerichtskosten | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 03 Akte Erstdurchsicht | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 04 Relation Zivilrecht Klein | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 05 Beweisaufnahme Kleine Zivilkammer | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 06 Tenor und Kostenentscheidung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,8 +52,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 313, 313a, 313b ZPO; Paragrafen 91 ff. ZPO für Kosten; Paragrafen 708, 711 ZPO für vorläufige Vollstreckbarkeit beim Amtsgericht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird

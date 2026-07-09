@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5; VO (EU) 2024/1689 Art. 6 mit Anhang I und III |
 | Rechtsprechung | EuGH, Urteil vom 07.12.2023 - C-634/21; EuGH, Urteil vom 27.02.2025 - C-203/22 |
-| Tatbestand | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen |
+| Tatbestand | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Fristen- und Risikoampel | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| System-Haftung und Versicherung | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Triage: Fristen, Form, Zuständigkeit und Rechtsweg | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Werbung: Beweislast, Darlegungslast und Substantiierung | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anbieter: Mehrparteienkonflikt und Interessenmatrix | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | /anpassen | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| System-Governance — Allgemein | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| System-Anwendungsfall-Triage | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Case: Tatbestandsmerkmale, Beweisfragen und Beleglage | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

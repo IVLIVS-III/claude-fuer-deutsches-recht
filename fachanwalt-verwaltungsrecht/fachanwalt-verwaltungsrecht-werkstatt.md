@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Amtshaftung Paragraf 839 BGB art 34 GG | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anfechtungsklage nach Paragraf 42 Abs | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -89,10 +89,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 35 Satz 1 VwVfG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 5 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 113 Abs. 1 und 5 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 74 VwGO Klagefrist 1 Mon: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 80 V VwGO eA: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 28 Abs. 1 VwVfG — Anhörung vor belastender Verwaltungsentscheidung. - Paragraf 37 Abs. 1 VwVfG — Bestimmtheit des Verwaltungsakts. - Paragraf 39 Abs. 1 VwVfG —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 28 Abs. 1 VwVfG — Anhörung vor belastender Verwaltungsentscheidung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 68 Abs. 1 Satz 1 VwGO — Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 73 Abs. 1 Satz 2 Nr. 1 VwGO — Den Widerspruchsbescheid erlässt die nächsthöhere Behörde, soweit nicht durch Gesetz eine andere höhere Behörde bestimmt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 80 Abs. 2 Satz 1 Nr. 1 VwGO — Die aufschiebende Wirkung entfällt bei der Anforderung von öffentlichen Abgaben und Kosten. Der Widerspruch gegen den Gebührenbescheid hemmt die: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 28, 39 VwVfG — Anhörung vor belastendem Verwaltungsakt und Begründungspflicht. Bei Abschleppfällen wird die Anhörung typischerweise erst im Widerspruchsverfahren nachgeholt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -103,6 +103,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
 - BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr —
 - BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen
+- BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung
+- BVerfG, Beschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. (Klimaschutzbeschluss) — bundesverfassungsgericht.de
+- BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster
 
@@ -156,54 +159,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Prüfe Amtshaftung Paragraf 839 BGB art 34 GG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 839 BGB ART 34 GG - Art. 34 GG - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
+### 15.2. Anfechtungsklage nach Paragraf 42 Abs
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anfechtungsklage nach Paragraf 42 Abs
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anhörung Paragraf 28 VwVfG
+### 15.3. Anhörung Paragraf 28 VwVfG
 
 Prüfe Anhörung Paragraf 28 VwVfG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG - Paragraf 37 VwVfG - Paragraf 39 VwVfG - Paragraf 40. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anordnung Quellenkarte
-
-Diese Quellenkarte sichert für Fachanwalt Verwaltungsrecht jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert. - VwGO — amtlichen Stand vor tragender Aussage prüfen - VwVfG — amtlichen Stand vor tragender Aussage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt Verwaltungsrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - amtshaftung-paragraf-839-bgb-art-34-gg — Amtshaftung Paragraf 839 BGB ART 34 GG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Beamten Disziplinarverfahren
-
-Paragraf 28 Abs. 1 VwVfG — Anhörung vor belastender Verwaltungsentscheidung. - Paragraf 37 Abs. 1 VwVfG — Bestimmtheit des Verwaltungsakts. - Paragraf 39 Abs. 1 VwVfG — Begründungspflicht. - Paragraf 40 VwVfG — Ermessensausübung und Ermessensfehler. - Paragraf 70 Abs. 1 VwGO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Drittanfechtung Umwelt
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Eilrechtsschutz nach Paragraf 80 Abs
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Eilrechtsschutz Paragraf 80 VwGO
+### 15.4. Eilrechtsschutz Paragraf 80 VwGO
 
 Prüfe Eilrechtsschutz Paragraf 80 VwGO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 80 VwGO - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG - Paragraf 37 VwVfG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.5. Ermessen Paragraf 40 VwVfG
+
+Prüfe Ermessen Paragraf 40 VwVfG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 40 VwVfG - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG - Paragraf 37 VwVfG - Paragraf 39. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Einstieg und Routing
+### 15.7. Anfechtungsklage
 
-Dieser Einstieg routet Fachanwalt Verwaltungsrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - amtshaftung-paragraf-839-bgb-art-34-gg — Amtshaftung Paragraf 839 BGB ART 34 GG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Liegt Widerspruchsbescheid vor oder ist Vorverfahren entbehrlich (z. B. Bundes- oder Landesregelung)? Wann wurde der Bescheid zugestellt? 2. Welche Beschwer und Klagebefugnis ist gegeben — Adressat oder Drittbetroffener, eigene subjektive Rechtsverletzung erforderlich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Klimaklage gegen Bundesländer — KSG / BVerfG 2021
+
+Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. - Bundesland (jedes hat eigenes Klima-Gesetz, z. B. Bayern, NRW, Berlin). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Klagefrist Paragraf 58 VwGO BVerwG 4 C 1 19
+
+Rechtsbehelfsbelehrung fehlt; Klagefrist? - Paragraf 58 VwGO - Paragraf 35 VwVfG - Paragraf 40 VwGO - Paragraf 42 VwGO - Paragraf 80 VwGO - BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Klimaklage Bundesländer Ksg BVerfG
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Kommunalrecht Paragraf 2 go
+
+Prüfe Kommunalrecht Paragraf 2 go von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 2 GO - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG - Paragraf 37 VwVfG - Paragraf 39. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Polizeirecht Paragraf 9 Polg
+
+Prüfe Polizeirecht Paragraf 9 Polg von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 9 POLG - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG - Paragraf 37 VwVfG - Paragraf 39. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Rücknahme Rest Paragraf 48 VwVfG
+
+Prüfe Rücknahme Rest Paragraf 48 VwVfG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 48 VwVfG - Paragraf 28 VwVfG - Paragraf 35 Satz 1 VwVfG - Paragraf 37 VwVfG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

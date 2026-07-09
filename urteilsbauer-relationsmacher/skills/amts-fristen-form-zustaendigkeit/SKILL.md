@@ -49,8 +49,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Art. 3 DSGVO
 - Art. 9 DSGVO
 - Art. 6 DSGVO
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 - § 71 GVG
 - § 63 GKG
 - Art. 103 GG

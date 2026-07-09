@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Antrag: Gerichtsvollzieherauftrag, Pfändungs- und Überweisungsbeschluss, Drittauskunft, Verhaftungsauftrag oder Vollstreckungsschutz passgenau ausfüllen.
 4. Schuldnerschutz und Rang: Pfändungsgrenzen, P-Konto, Vorpfändung, Priorität, Insolvenz, Drittwiderspruch und Erinnerung kontrollieren.
 5. Arbeitsprodukt: Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Schuldneranschreiben, Erinnerung oder Schutzantrag erstellen.
-6. 765a Fehlerkatalog: Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen.
+6. Mahn: Fristen, Form, Zuständigkeit und Rechtsweg: Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 765a Fehlerkatalog | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 802L: Verhandlung, Vergleich und Eskalation | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schuldnerabwehr in der Zwangsvollstreckung | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeit: Schriftsatz-, Brief- und Memo-Bausteine | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bank: Behörden-, Gerichts- oder Registerweg | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mahn: Fristen, Form, Zuständigkeit und Rechtsweg | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mahnbescheid: Fristennotiz und nächster Schritt | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mahnbescheid online | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zwangsvollstreckung — Allgemein | Titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
 - ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
 - ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
-- Symptom: Normzitat ohne Fassungsprüfung (ZPO Paragrafen 704-945 (Vollstreckung)): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 765a ZPO – Vollstreckungsschutz, Härtefall: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 766 ZPO – Erinnerung gegen Art und Weise der Vollstreckung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 767 ZPO – Vollstreckungsabwehrklage (materielle Einwendungen nach Schluss der mündlichen Verhandlung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 688 ZPO — Statthaftigkeit des Mahnverfahrens: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 689 ZPO — Zuständigkeit (zentrales Mahngericht im jeweiligen Bundesland): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 690 ZPO — Antragsinhalt (Individualisierung der Forderung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 692 ZPO — Erlass des Mahnbescheids; Zustellung von Amts wegen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

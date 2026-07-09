@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anlage Fehlerkatalog | ZPO Paragraf 253; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anlagen zu Schriftsätzen — Allgemein | ZPO Paragraf 253; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anlage: Red-Team und Qualitätskontrolle | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -80,14 +80,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
 - ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
 - GVG Paragraf 23 und Paragraf 71: sachliche Zuständigkeit von Amts- und Landgericht.
-- Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 130a Abs. 1 ZPO — elektronisches Dokument: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 131 Abs. 1 ZPO — Beifügung von Abschriften/Anlagen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 133 Abs. 1 ZPO — Abschriften für Zustellung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 138 Abs. 1 ZPO — Tatsachenvortrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 ZPO — Klageinhalt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 299 Abs. 1 ZPO — Akteneinsicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 Abs. 2 ZPO — Erklärungslast: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 Nr. 2 ZPO — bestimmter Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 284 ZPO — Beweisaufnahme: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 371 Abs. 1 ZPO — Augenschein: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 416 ZPO — Beweiskraft privater Urkunden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 420 ZPO — Vorlegung durch Beweisführer: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 142 Abs. 1 ZPO — Urkundenvorlegung durch Partei/Dritte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anlage Fehlerkatalog
+### 15.1. Anlagen zu Schriftsätzen — Allgemein
+
+Arbeitsfokus: Anlagen zu Schriftsätzen — Allgemein. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag. - Paragraf 138 Abs. 2 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Beweislast, Darlegungslast und Anlagen
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Baut Beweislast Benennt Bereits Excel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Berufung, Beschwerde und neue Anlagen
+
+Arbeitsfokus: Berufung, Beschwerde und neue Anlagen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 520 Abs. 3 ZPO — Berufungsbegründung. - Paragraf 529 Abs. 1 ZPO — Tatsachengrundlage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Beweisangebot über Anlagen (Zeugen)
+
+Arbeitsfokus: Beweisangebot über Anlagen (Zeugen). Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag. - Paragraf 138 Abs. 2 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Excel-Tabellen und Zahlenbeweis
+
+Arbeitsfokus: Excel-Tabellen und Zahlenbeweis. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag. - Paragraf 138 Abs. 2 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Frist, Eilversand und Anlagenband im Schiedsverfahren
+
+Bereite einen Anlagenversand unter Zeitdruck so vor, dass Gericht, Schiedsgericht, Gegner und Mandant dieselbe belastbare Anlagenlogik erhalten. Der Skill ist für Eilfälle gedacht: Frist läuft, Anlagenband ist groß, Nummerierung muss sitzen. - ZPO Paragrafen 130a, 130d, 131. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Frist und Eilversand Anlagenpaket
+
+Arbeitsfokus: Frist und Eilversand Anlagenpaket. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 294 Abs. 1 ZPO — Glaubhaftmachung. - Paragraf 920 Abs. 2 ZPO — Verfügungsanspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich anlagen-zu-schriftsätzen sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Arbeitsfokus: Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. OCR, Scanqualität und Lesbarkeit
+
+Arbeitsfokus: OCR, Scanqualität und Lesbarkeit. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag. - Paragraf 138 Abs. 2 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Prüfmodus, Fristennotiz und nächster Schritt
+
+Arbeitsfokus: Prüfmodus, Fristennotiz und nächster Schritt. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Anlage Fehlerkatalog
 
 Dieser Fehlerkatalog prüft Arbeitsergebnisse für Anlagen zu Schriftsätzen vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anlage: Red-Team und Qualitätskontrolle
+### 15.14. Anlage: Red-Team und Qualitätskontrolle
 
 Arbeitsfokus: Anlage: Red-Team und Qualitätskontrolle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO — elektronisches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Übergabe an Assistenz und Legal Tech
-
-Arbeitsfokus: Übergabe an Assistenz und Legal Tech. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO — elektronisches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Datenraum und SharePoint als Anlagenquelle
-
-Arbeitsfokus: Datenraum und SharePoint als Anlagenquelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO — elektronisches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Anlagen aus IT-Systemen
-
-Arbeitsfokus: Anlagen aus IT-Systemen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO — elektronisches Dokument. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Anlagen aus Mandantenmaterial
-
-Arbeitsfokus: Anlagen aus Mandantenmaterial. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO — elektronisches Dokument. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Anlagen bei Berufung Revision
-
-Arbeitsfokus: Anlagen in Berufung/Revision. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 520 Abs. 3 ZPO — Berufungsbegründung. - Paragraf 529 Abs. 1 ZPO — Tatsachengrundlage Berufung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Anlagen bei Eilantrag und Arrest
-
-Arbeitsfokus: Anlagen bei Eilantrag und Arrest. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 294 Abs. 1 ZPO — Glaubhaftmachung. - Paragraf 920 Abs. 2 ZPO — Verfügungsanspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Anlagen Berufung Revision Eilantrag EU Bilder
-
-Arbeitsfokus: Anlagen in Berufung/Revision. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 294 Abs. 1 ZPO — Glaubhaftmachung. - Paragraf 920 Abs. 2 ZPO — Verfügungsanspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Bilder/Screenshots als Anlagen
-
-Arbeitsfokus: Bilder/Screenshots als Anlagen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen. - Paragraf 130a Abs. 1 ZPO — elektronisches Dokument. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Anlagen: Quality-Check vor Zustellung
-
-Arbeitsfokus: Anlagen: Quality-Check vor Zustellung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 1 lit. c Datenschutz-Grundverordnung — Datenminimierung. - Art. 6 Abs. 1 lit. f. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Duplikate, Fassungen und Hashlog
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Anlagen: elektronische Dokumente
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Anlagen: Format und Dateinamen
-
-Arbeitsfokus: Anlagen: Format und Dateinamen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130a Abs. 1 ZPO — elektronisches Dokument. - Paragraf 130a Abs. 3 ZPO — Signatur/sicherer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

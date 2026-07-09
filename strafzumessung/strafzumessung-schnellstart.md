@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Einstellung gegen Auflage — Paragraf 153a StPO: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
+6. Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Fallkarte
 
@@ -39,8 +39,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einstellung gegen Auflage — Paragraf 153a StPO | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Besonders: Formular, Portal und Einreichungslogik | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Strafaussetzung zur Bewährung — Paragraf 56 StGB | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Auflagen und Weisungen — Paragrafen 56b, 56c StGB | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
+- Paragraf 55-StGB-Disziplin: Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 1 StPO — Vorläufige Einstellung mit Auflagen durch die Staatsanwaltschaft (mit Zustimmung des Gerichts, ab dem Zwischenverfahren bereits Gerichts-Zustimmung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 2 StPO — Einstellung durch das Gericht in jedem Stadium: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 153a Abs. 3 StPO — Auflagenkatalog:: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Einstellung gegen Auflage — Paragraf 153a StPO, Anschluss-Routing, Besonders: Formular, Portal und Einreichungslogik, Strafaussetzung zur Bewährung — Paragraf 56 StGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage, Einstellung gegen Auflage — Paragraf 153a StPO, Besonders: Formular, Portal und Einreichungslogik, Strafaussetzung zur Bewährung — Paragraf 56 StGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

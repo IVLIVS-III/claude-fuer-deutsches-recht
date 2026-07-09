@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
 4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
 5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
-6. 01 Eingang und Besetzung: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
+6. 03 Frühe Erste Verfügung Paragraf 139: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 01 Eingang und Besetzung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 02 Große Relation Zivilrecht | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 03 Frühe Erste Verfügung Paragraf 139 | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 04 Beweisbeschluss und Sachverständiger | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 05 Zeugenbeweis und Parteivernehmung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 06 Urteil Großes Zivilurteil | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 07 Berufungsverfahren Paragraf 511 Ff | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 01 Eingang und Besetzung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 02 Große Relation Zivilrecht | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

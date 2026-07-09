@@ -46,7 +46,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ### Kuratierte Normen-Bibliothek
 
-- § 47 VwG
+- § 47 VwGO
 - § 352 FamFG
 
 ### Leitentscheidungen

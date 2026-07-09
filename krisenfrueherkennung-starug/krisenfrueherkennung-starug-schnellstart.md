@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Ampelsystem: Beweislast, Darlegungslast und Substantiierung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berater: Verhandlung, Vergleich und Eskalation | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cross-Class-Cram-Down und Absolute Priority — Paragraf 26 StaRUG | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krisenstadien: Fristennotiz und nächster Schritt | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geschäftsführerhaftung: Livequellen- und Rechtsprechungscheck | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -53,16 +53,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - Paragraf 49-59 StaRUG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 102 StaRUG: Wirtschaftsprüfer, Steuerberater, Rechtsanwälte und vereidigte Buchprüfer sind verpflichtet, ihre Mandantin auf das Vorliegen eines möglichen Insolvenzgrunds: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 26 StaRUG (Planbestätigung gegen ablehnende Gruppen — Cross-Class-Cram-Down): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25 StaRUG (Gruppenquorum: ¾-Mehrheit je Gruppe): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 93 Abs. 2 S. 2 AktG (Beweislastumkehr): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BVerfG 1 BvR 418/25 vom 28.02.2025 (VARTA AG) — Verfassungsbeschwerde gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss
+- BGH IV ZR 66/25 vom 19.11.2025 — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; Paragraf 15a / Paragraf 15b InsO nicht koppelbar. Stärkt
+- BGH IX ZR 229/22 vom 23.01.2025 — Zahlungsunfähigkeit als objektiver Zustand; streitige nicht titulierte Verbindlichkeiten nach objektiver Rechtslage, vorläufig vollstreckbarer Titel bei eingeleiteter
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ampelsystem: Beweislast, Darlegungslast und Substantiierung, Anschluss-Routing, Berater: Verhandlung, Vergleich und Eskalation, Cross-Class-Cram-Down und Absolute Priority — Paragraf 26 StaRUG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ampelsystem: Beweislast, Darlegungslast und Substantiierung, Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise, Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist, Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: Kurzvermerk.
 
 ## 8. Stop
 

@@ -61,9 +61,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abwägung: Formular, Portal und Einreichungslogik | BauGB Paragraf 1 Absatz 3; BVerwG, Urteil vom 25.11.2005 - 4 C 15.04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bayvgh: Verhandlung, Vergleich und Eskalation | BauGB Paragraf 1 Absatz 3; BVerwG, Urteil vom 25.11.2005 - 4 C 15.04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BauGB Paragraf 1 Absatz 7 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abwägungsgebot Paragraf 1 Abs. 7 BauGB | BauGB Paragraf 1 Absatz 7; BVerwG, Urteil vom 29.01.2009 - 4 C 15.07 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bekanntmachung: Beweislast, Darlegungslast und Substantiierung | BauGB Paragraf 1 Absatz 7; BVerwG, Urteil vom 29.01.2009 - 4 C 15.07 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung | Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -102,7 +102,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
 - BauGB Paragraf 214 und Paragraf 215: Planerhaltung und Rügefrist.
 - BauNVO Paragrafen 1 bis 23: Art und Maß der baulichen Nutzung, Bauweise und überbaubare Grundstücksflächen.
-- VwGO Paragraf 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Abs. 1 Nr. 2 VwGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -110,6 +109,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -120,11 +120,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Eine Festsetzung braucht eine passende Rechtsgrundlage im BauGB-Festsetzungskatalog oder in zugelassenem Landesrecht.
 - BVerwG, Beschluss vom 20.06.2017 - 4 BN 30.16: BauGB Paragraf 13a setzt eine echte Maßnahme der Innenentwicklung voraus.
 - BVerwG, Urteil vom 25.06.2020 - 4 CN 5.18: Das beschleunigte Verfahren verlangt eine eigenständige Prüfung der Innenentwicklungsqualität.
-- BVerwG, Urteil vom 12.12.1969 – 4 C 105.66
-- BVerwG, Urteil vom 12.12.1969 – 4 C 105.66 (Vier-Stufen-Lehre)
-- BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
-- BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Ermittlungspflicht Paragraf 2 Abs. 3)
-- BVerwG, Urteil vom 22.9.2010 – 4 CN 2.10 (Offensichtlichkeit)
+- BVerwG, Urteil vom 25.01.2021 - 9 C 1.19, Fundstelle ECLI:DE:BVerwG:2021:250121U9C1.19.0: Der Durchführungsvertrag nach Paragraf 12 BauGB bezieht sich auf die Einzelerschließung und Durchführung
+- BVerwG, Beschluss vom 02.05.2018 - 4 BN 7.18, Fundstelle ECLI:DE:BVerwG:2018:020518B4BN7.18.0: Der Vorhaben- und Erschließungsplan muss zusammen mit dem Durchführungsvertrag die Kubatur des Vorhabens
+- BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (Bekanntmachung)
+- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
+- BVerwG 17.06.2020, 4 CN 6.18: Anforderungen an die Bekanntmachung von Bebauungsplaenen — Anstossfunktion und Fristbeginn Paragraf 47 Abs. 2 VwGO. Quelle: bverwg.de
 
 ## 9. Prüfraster
 
@@ -163,64 +163,60 @@ Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein 
 
 Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
 
-## 13. Qualitätskontrolle und Abschluss
+## 13. Materienbezogene Arbeitsfelder
 
-Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
-
-## 14. Materienbezogene Arbeitsfelder
-
-### 15.1. Abwägung: Formular, Portal und Einreichungslogik
-
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Abwägungsgebot Paragraf 1 Abs. 7 BauGB
-
-Bei der Aufstellung der Bauleitpläne sind die öffentlichen und privaten Belange gerecht gegeneinander und untereinander abzuwägen - Bei der Aufstellung sind die Belange, die für die Abwägung von Bedeutung sind, zu ermitteln und zu bewerten - Ermittlungspflicht Paragraf 2 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Allgemeine Satzungsnormenkontrolle 47 Vwgo
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.1. Bayvgh: Verhandlung, Vergleich und Eskalation
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anpassungsgebot — Flächennutzungsplan
-
-Bebauungspläne enthalten die rechtsverbindlichen Festsetzungen für die städtebauliche Ordnung - Bebauungspläne sind aus dem Flächennutzungsplan zu entwickeln - Vor dem Flächennutzungsplan kann ein Bebauungsplan aufgestellt werden, wenn dringende Gründe es erfordern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Antragsbefugnis Paragraf 47 Abs. 2 VwGO
-
-Antragsbefugt ist jede natürliche oder juristische Person, die geltend macht, durch die Rechtsvorschrift oder deren Anwendung in ihren Rechten verletzt zu sein oder in absehbarer Zeit verletzt zu werden - Es genügt, dass eine Rechtsverletzung möglich erscheint - Kein. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Antragsbefugnis Fehlerkatalog
-
-Dieser Fehlerkatalog prüft Arbeitsergebnisse für Normenkontrolle Bauleitplanung vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen (Paragraf 47. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Antragsbefugnis: Red-Team und Qualitätskontrolle
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Artenschutz und Naturschutz
-
-Bürger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. Paragraf 44 BNatSchG Zugriffsverbote Paragraf 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Maßnahmen Eingriffsregelung Paragraf 1a Abs. 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Aufstellungsbeschluss und Bekanntmachung
-
-1. Aufstellungsbeschluss Paragraf 2 Abs. 1 BauGB 2. Frühzeitige Beteiligung Öffentlichkeit Paragraf 3 Abs. 1 BauGB 3. Frühzeitige Beteiligung Behörden Paragraf 4 Abs. 1 BauGB 4. Erarbeitung Planentwurf 5. Förmliche Beteiligung Öffentlichkeit Paragraf 3 Abs. 2 BauGB (Auslegung). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage
+### 15.2. Bekanntmachung: Beweislast, Darlegungslast und Substantiierung
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix
+### 15.3. Konflikt zwischen Festsetzung und städtebaulichem Vertrag
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill prüft Fälle, in denen der Vertrag mehr, weniger oder anderes verspricht als der Bebauungsplan normativ festsetzt. - BauGB Paragraf 9: Festsetzungen als Satzungsrecht. - BauGB Paragraf 11: städtebaulicher Vertrag ohne Ersatz der Abwägung. - BauGB Paragraf 12. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Fristen- und Risikoampel
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Jahresfrist Paragraf 47 Abs. 2 VwGO
+
+Der Antrag kann innerhalb eines Jahres nach Bekanntmachung der Rechtsvorschrift gestellt werden - Vor dem 1.1.2007 zwei Jahre - Durch Gesetz vom 22.12.2006 auf ein Jahr verkürzt - Übergangsfristen längst abgelaufen - Der Beschluss als Satzung ist ortsüblich bekanntzumachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren
+
+Prüfe sofort, ob ein Normenkontrollantrag oder eine inzidente Planrüge noch zeitlich und materiell offen ist. Nicht allgemein redteamen, sondern Bekanntmachung, Fristbeginn, Rügeobliegenheit und Fehlerart präzise auseinanderhalten. - VwGO Paragraf 47 Abs. 2: Antragsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Kausalität und Angemessenheit im städtebaulichen Vertrag
+
+Dieser Skill ist der Belastungstest für Vertragsleistungen: Er fragt, ob die verlangte Leistung dem Vorhaben zurechenbar ist, ob die Höhe vertretbar ist und ob der Vertrag ein verdecktes Planungsentgelt enthält. - BauGB Paragraf 1 Absatz 3: städtebauliche Erforderlichkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Durchführungsvertrag nach BauGB Paragraf 12
+
+Dieser Skill prüft den Vertrag, der den vorhabenbezogenen Bebauungsplan trägt: Was genau wird gebaut, bis wann, auf wessen Kosten und mit welcher Bindung an Vorhaben- und Erschließungsplan. - BauGB Paragraf 12 Absatz 1: Bereitschaft und Fähigkeit zur Durchführung auf Grundlage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Erschließungsvertrag nach BauGB Paragraf 124
+
+Dieser Skill trennt echte Erschließungsverträge von Folgekosten- und sonstigen städtebaulichen Verträgen und prüft, ob die Gemeinde die Erschließung einem zulässigen Dritten übertragen darf. - BauGB Paragraf 124: Erschließungsvertrag mit Drittem und Kostenübernahme. - BauGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept
+
+Dieser Skill prüft Verträge, mit denen Folgekosten für Schulen, Kindertagesstätten, Verkehr, Grün, Entwässerung oder soziale Infrastruktur auf Vorhabenträger oder Grundstückseigentümer verlagert werden. - BauGB Paragraf 1 Absatz 3: städtebauliche Erforderlichkeit der Planung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Formfehler und Nichtigkeit städtebaulicher Verträge
+
+Dieser Skill prüft, ob ein städtebaulicher Vertrag an Schriftform, Beurkundung, fehlender Rechtsgrundlage, unzulässiger Kopplung oder unangemessener Leistung scheitert. - BauGB Paragraf 11 Absatz 3: Schriftform des städtebaulichen Vertrags. - BGB Paragraf 311b: notarielle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11
+
+Dieser Skill prüft, ob eine gemeindliche Vereinbarung wirklich ein städtebaulicher Vertrag ist und ob Leistung, Gegenleistung, Planungsbezug und Verfahrensbindung rechtlich tragfähig zusammenspielen. - BauGB Paragraf 1 Absatz 3: städtebauliche Erforderlichkeit der Planung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Rechtsschutz und Streit über städtebauliche Verträge
+
+Dieser Skill ordnet Streitigkeiten über Abschluss, Durchführung, Rückzahlung oder Nichtigkeit städtebaulicher Verträge prozessual und materiell. - VwGO Paragraf 40: Verwaltungsrechtsweg bei öffentlich-rechtlichem Vertrag. - VwGO Paragraf 43: Feststellungsklage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Normenkontrolle Bauleitplanung — Allgemein
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beweislast und Offenlegung in der Robotik-Produkthaftung | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Agile Entwicklung und Compliance-Gates in der Robotik | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beweismatrix und Logauswertung | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 631 | Werkvertragliche Pflichten bei Projektleistungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 634 | Rechte bei Mängeln des Werkes | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 280 | Schadensersatz wegen Pflichtverletzung | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| Paragraf 1 ProdHaftG / VO (EU) 2024/2853 neue Produkthaftungs-RL (Inkrafttreten | Software und algorithmische Systeme sind Produkte, Beweiserleichterungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| ProdHaftG (national, vor 09.12.2026) | Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,13 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - BGB Paragraf 634: Rechte bei Mängeln des Werkes.
 - BGB Paragraf 280: Schadensersatz wegen Pflichtverletzung.
-- Paragraf 1 ProdHaftG / VO (EU) 2024/2853 neue Produkthaftungs-RL (Inkrafttreten 09.12.2026): Software und algorithmische Systeme sind Produkte, Beweiserleichterungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 1-19 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 3 BRAO Sachlichkeitsgebot, kein unwahrer Vortrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 138 ZPO Wahrheitspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 263, 269 StGB als äußerste Grenze: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 3 BRAO; Paragraf 138 ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BetrVG Paragraf 87 Abs. 1 Nr. 6 technische Überwachung, Nr. 7 Arbeits- und Gesundheitsschutz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs. 2: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB Auskunft als Nebenpflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 254 ZPO Stufenklage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 99 PatG / Paragraf 145a MarkenG für Geschäftsgeheimnisschutz im Disclosure-Verfahren (GeschGehG): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- 6. Sachverständigenbeweis ZPO Paragrafen 402 ff.: Robotik-Sachverständiger mit Forensik-Expertise: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 142, 144, 286, 402 ff., 421-432: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -149,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Accuracy, Robustness, Cybersecurity bei digitale Werkzeuge im Roboter
+### 15.1. Beweislast und Offenlegung
 
-Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Hochrisiko-System-Systeme in Robotern (Anhang III der Regulierungsrahmen, z. B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Agile Entwicklung und Compliance-Gates
+### 15.2. Beweismatrix und Logauswertung
 
-Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, System. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entscheidende Weiche: Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument /. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anwaltliche Quellenhygiene Robotik
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Arbeitsschutz und BetrSichV
+### 15.3. Datenverlust und digitaler Schaden
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Arbeitswelt Cobot Check
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Art. 3 digitale Werkzeuge-System Robotik
+### 15.4. Deliktische Haftung Paragraf 823 BGB
 
 Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Fachmodul im Plugin robotik-recht. Nutze ihn, wenn der Fall Robotik, autonome. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Art. 6 Hochrisiko Robotik
+### 15.5. Haftung Arzt Klinik Hersteller
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Fachmodul im Plugin robotik-recht. Nutze ihn, wenn der Fall Robotik, autonome. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Autonome Lieferroboter im öffentlichen Raum
+### 15.6. Art. 6 Hochrisiko Robotik
 
-Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Fachmodul im Plugin robotik-recht. Nutze ihn, wenn der Fall Robotik, autonome. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Barrierefreiheit und Inklusion bei Robotern
+### 15.7. Robot-as-a-Service-Vertrag
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), System-Aufsicht (BNetzA-Stelle). - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Fachmodul im Plugin robotik-recht. Nutze ihn, wenn der Fall Robotik, autonome. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern
+### 15.8. Abschlussqualität und Red-Team
 
-Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bau- und Inspektionsroboter
-
-Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schweiß. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Beschäftigtendatenschutz bei Cobot-Einsatz
-
-Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Cobots erfassen regelmäßig Beschäftigtendaten: Pickrate je Schicht, Standortdaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Beschaffung Robotik
+### 15.9. Haftungsampel
 
 Entscheidende Weiche: Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen. - Arbeitsprodukt: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument /. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Anhang III Robotik Use Cases
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Robotik Ki Anhang Iii Artikel System. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Versicherung und Regress
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Versicherungs Regressakte Vertrags. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Vertrags- und Lieferkettenintake
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Wartungs- und Servicevertrag
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Accuracy, Robustness, Cybersecurity bei digitale Werkzeuge im Roboter
+
+Entscheidende Weiche: Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht. Hochrisiko-System-Systeme in Robotern (Anhang III der Regulierungsrahmen, z. B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

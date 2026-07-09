@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Eröffnungsverfahren Strafkammer | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 03 Beweisanträge und Ablehnung | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Hauptverhandlung Große Strafkammer | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 04 Beweiswürdigung Strafkammer | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -150,33 +150,33 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 01 Eröffnungsverfahren Strafkammer
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. 02 Hauptverhandlung Große Strafkammer
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. 03 Beweisanträge und Ablehnung
+### 15.1. 03 Beweisanträge und Ablehnung
 
 Beweisanträge Paragraf 244 StPO, Ablehnungsgründe, Wahrunterstellung, Hilfsbeweisanträge, Konnexitaet, Beweisaufnahme im Selbstleseverfahren Paragraf 249 Abs. 2 Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. 04 Beweiswürdigung Strafkammer
+### 15.2. 04 Beweiswürdigung Strafkammer
 
 Beweiswürdigung Paragraf 261 StPO bei komplexen Sachverhalten, Aussage gegen Aussage, Indizienprozess, In-dubio-pro-reo, Behandlung von Sachverständigengutachten, Glaubhaftigkeitsfaktoren Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. 05 Strafzumessung Große Strafkammer
+### 15.3. 06 Maßnahmen Paragraf 61 Stgb
 
-Strafzumessung Paragrafen 46-49 StGB: Strafzumessungstatsachen, Strafrahmenverschiebung, besondere gesetzliche Milderungsgründe, Strafaussetzung Paragraf 56 (Bewährungsentscheidung), Verwarnung mit Strafvorbehalt Paragraf 59 Werkstatt-Assistent für den Vorsitzenden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Führungsaufsicht Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. 06 Maßnahmen Paragraf 61 Stgb
-
-Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Fuehrungsaufsicht Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. 07 Urteilsbegründung Paragraf 267 Lg
+### 15.4. 07 Urteilsbegründung Paragraf 267 Lg
 
 Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persönliche Verhältnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. 01 Eröffnungsverfahren Strafkammer
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. 02 Hauptverhandlung Große Strafkammer
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. 05 Strafzumessung Große Strafkammer
+
+Strafzumessung Paragrafen 46-49 StGB: Strafzumessungstatsachen, Strafrahmenverschiebung, besondere gesetzliche Milderungsgründe, Strafaussetzung Paragraf 56 (Bewährungsentscheidung), Verwarnung mit Strafvorbehalt Paragraf 59 Werkstatt-Assistent für den Vorsitzenden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. 08 Berufung Strafkammer
 

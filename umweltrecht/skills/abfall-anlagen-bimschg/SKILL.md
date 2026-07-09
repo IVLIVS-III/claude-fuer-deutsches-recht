@@ -55,15 +55,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ### Kuratierte Normen-Bibliothek
 
 - § 4 BImSchG
-- § 70 VwG
+- § 70 VwGO
 - § 10 BImSchG
 - § 2 UmwRG
 - § 24 BBodSchG
-- § 74 VwG
+- § 74 VwGO
 - § 4 BBodSchG
 - § 34 BNatSchG
 - § 17 BImSchG
-- § 47 VwG
+- § 47 VwGO
 - § 44 BNatSchG
 - § 4 KrWG
 

@@ -56,7 +56,7 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 - § 87 AktG
 - § 4 FinDAG
 - § 28 VwVfG
-- § 80 VwG
+- § 80 VwGO
 - § 24 KWG
 
 ### Leitentscheidungen

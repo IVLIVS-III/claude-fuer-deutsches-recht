@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
 4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
 5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+6. Beweislast und Offenlegung in der Robotik-Produkthaftung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agile Entwicklung und Compliance-Gates in der Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltliche Quellenhygiene Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsschutz und BetrSichV in der Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitswelt Cobot Check | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweislast und Offenlegung in der Robotik-Produkthaftung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweismatrix und Logauswertung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenverlust und digitaler Schaden | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Deliktische Haftung Paragraf 823 BGB | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftung Arzt Klinik Hersteller | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 6 Hochrisiko Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- Paragraf 1 ProdHaftG / VO (EU) 2024/2853 neue Produkthaftungs-RL (Inkrafttreten 09.12.2026): Software und algorithmische Systeme sind Produkte, Beweiserleichterungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1-19 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 3 BRAO Sachlichkeitsgebot, kein unwahrer Vortrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 138 ZPO Wahrheitspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs. 2: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB Auskunft als Nebenpflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Accuracy, Robustness, Cybersecurity bei algorithmische Systeme im Roboter, Agile Entwicklung und Compliance-Gates in der Robotik, Anschluss-Routing, Anwaltliche Quellenhygiene Robotik: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beweislast und Offenlegung in der Robotik-Produkthaftung, Beweismatrix und Logauswertung, Datenverlust und digitaler Schaden, Deliktische Haftung Paragraf 823 BGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

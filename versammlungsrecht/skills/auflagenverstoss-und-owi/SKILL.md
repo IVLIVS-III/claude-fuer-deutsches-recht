@@ -51,8 +51,8 @@ Unterscheide Veranstalter, Leiter, Ordner, Teilnehmer, Störer und Außenstehend
 - § 23 KunstUrhG
 - § 201a StGB
 - § 33 KunstUrhG
-- § 80 VwG
-- § 123 VwG
+- § 80 VwGO
+- § 123 VwGO
 - Art. 5 GG
 - § 22 KunstUrhG
 - § 14 VersG

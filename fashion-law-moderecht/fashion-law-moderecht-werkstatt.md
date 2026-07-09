@@ -24,7 +24,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+### 3.1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Brand Enforcement Abmahnung | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Litigation und Eilverfahren Fashion | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 15 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Brand und Markenportfolio | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Produkt Haftung Defective Garment | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -146,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Brand Enforcement Abmahnung
+### 15.1. Litigation und Eilverfahren Fashion
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Produkt Haftung Defective Garment
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Brand und Markenportfolio
+### 15.3. Brand Enforcement Abmahnung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Confidentiality Design Leak
+### 15.4. Brand und Markenportfolio
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Counterfeit Investigation
+### 15.5. Confidentiality Design Leak
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Counterfeit Investigation
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Crm Loyalty Datenschutz
+### 15.7. Crm Loyalty Datenschutz
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Designrecht und Muster
+### 15.8. Designrecht und Muster
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. E Commerce Widerruf Fashion
+### 15.9. E Commerce Widerruf Fashion
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Employment Creatives Fashion
+### 15.10. Employment Creatives Fashion
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Espr Digitaler Produktpass
+### 15.11. Espr Digitaler Produktpass
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Fashion Week Event
+### 15.12. Fashion Week Event
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Forced Labour und Importstop
+### 15.13. Forced Labour und Importstop
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Foto Video Campaign Rights
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Franchise Shop in Shop
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Freelancer Designer Ip
+### 15.14. Foto Video Campaign Rights
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

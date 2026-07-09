@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Admin Offboarding | BSIG Paragraf 8a; BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fahrer Telematik | BSIG Paragraf 8a; BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BSIG Paragraf 8b | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Airtags Lkw Tracking | BSIG Paragraf 8b; EuGH, Urteil vom 16.07.2020 - C-311/18 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Forensik Beweissicherung | BSIG Paragraf 8b; EuGH, Urteil vom 16.07.2020 - C-311/18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Risikomanagementplan, Incident-Meldung, Nachweisordner, Maßnahmenplan, Lieferkettenauflage oder Bußgeldverteidigung | Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -135,58 +135,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Admin Offboarding
+### 15.1. Fahrer Telematik
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Airtags Lkw Tracking
+### 15.2. Forensik Beweissicherung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. API Security
+### 15.3. Management Haftung Board Duties
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Arbeitnehmerüberwachung It
+### 15.4. Admin Offboarding
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Asset Inventory Cmdb
+### 15.5. Airtags Lkw Tracking
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. abrufen Nachweisordner
+### 15.6. API Security
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Aufsichtsverfahren BSI
+### 15.7. Arbeitnehmerüberwachung It
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Backup Ransomware Resilience
+### 15.8. Asset Inventory Cmdb
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Banking Dual Control
+### 15.9. abrufen Nachweisordner
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Besonders Wichtige Wichtige Einrichtung
+### 15.10. Aufsichtsverfahren BSI
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Betriebsrat Mitbestimmung
+### 15.11. Backup Ransomware Resilience
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. BSI C5 Cloud Check
+### 15.12. Banking Dual Control
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. BSI Grundschutz Schutzbedarf
+### 15.13. Besonders Wichtige Wichtige Einrichtung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. BSI Meldestelle Formular
+### 15.14. Betriebsrat Mitbestimmung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

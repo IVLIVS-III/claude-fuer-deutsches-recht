@@ -56,9 +56,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Akteneinsicht 25 Sgb X | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB X Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Das Gericht ermittelt für Sie — Paragraf 103 SGG | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bafoeg Bescheide Widerspruch | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -97,14 +97,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - SGB V Paragraf 31 und Paragraf 35a: Arzneimittelversorgung und Nutzenbewertung bei neuen Wirkstoffen.
 - SGB V Paragraf 33: Hilfsmittelversorgung nach funktionellem Behinderungsausgleich.
 - SGB XI Paragraf 40 Absatz 4: wohnumfeldverbessernde Maßnahmen der Pflegekasse.
-- Paragraf 25 Abs. 1 SGB X gibt Beteiligten Recht auf Akteneinsicht, soweit das Wissen vom Akteninhalt zur Geltendmachung oder Verteidigung rechtlicher Interessen erforderlich ist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 54 Abs. 1 SGG — Anfechtungsklage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 87 SGG — Klagefrist 1 Monat nach Widerspruchsbescheid: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 92 SGG — Inhalt der Klage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 95 SGG — Streitgegenstand: der Bescheid in Gestalt des Widerspruchsbescheids: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1 SGG (Sachliche Zuständigkeit Sozialgerichte): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 51-55 SGG (Klagearten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 73, 73a SGG (Prozessbevollmächtigte, PKH): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 105 SGG (Gerichtsbescheid): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 109 SGG (Sachverständiger nach Wahl): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 131 SGG (Urteilsformen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -164,58 +164,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Akteneinsicht 25 Sgb X
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Das Gericht ermittelt für Sie — Paragraf 103 SGG
-
-Normen: Paragraf 103 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anfänger-Sozialgericht
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG
+### 15.1. Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG
 
 Normen: Paragraf 54 Abs. 1 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anhörung im sozialverwaltungsverfahren nach Paragraf 24 SGB X
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Anhörung im Sozialverwaltungsverfahren 24 Sgb X
+### 15.2. Bafoeg Bescheide Widerspruch
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anlagen zur Klage — sortieren und bezeichnen
+### 15.3. Bescheid Lesen Tenor Begründung Belehrung
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Anlagen zur Klage richtig bezeichnen sortieren und nummerieren
-
-Akteneinsicht SGB Amtsermittlungsgrundsatz ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach Paragraf 25 SGB X, Das Gericht ermittelt für Sie Paragraf 103 SGG, Die Anfechtungsklage nach Paragraf 54 Abs. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Anwaltskosten erstattet bekommen
+### 15.4. Beweismittel am Sozialgericht — Überblick
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Brauchen Sie einen Anwalt? Der Paragraf 73 SGG
-
-Normen: Paragraf 73 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Arbeitslosengeld I — Streit mit der Arbeitsagentur
+### 15.5. Soziales Entschaedigungsrecht — SGB XIV
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Arbeitsunfall Bg Anerkennung Anzeige
+### 15.6. Die Feststellungsklage — Paragraf 55 SGG
+
+Normen: Paragraf 55 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Die wichtigsten Fristen im SG-Verfahren
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Arzt-Atteste richtig nutzen
+### 15.8. Fristen sicher führen — für Bürger
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Aufrechnung Laufende Leistungen 51 Sgb I
+### 15.9. Fristverlaengerung im SG-Verfahren
 
 Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Klage auf der Geschäftsstelle diktieren — Paragraf 90 SGG
+
+Normen: Paragraf 90 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Die Klage als komplettes Paket zusammenstellen
+
+Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Welche Klage passt? — Überblick
+
+Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. So begründen Sie Ihre Klage — für Laien
+
+Normen: Paragraf 7, Paragraf 7a, Paragrafen 20. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Die Leistungsklage — Paragraf 54 Abs. 5 SGG
+
+Normen: Paragraf 54 Abs. 5 SGG, Paragraf 7, Paragraf 7a. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

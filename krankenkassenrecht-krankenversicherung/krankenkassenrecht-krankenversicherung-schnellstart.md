@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abrechnung GOÄ/GOZ und Erstattung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asylbewerberleistungsgesetz und Gesundheitsversorgung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslandsbehandlung: EU, S2-Formular und Notfall | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beamtenanfänger: Pauschale Beihilfe, Ländercheck | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beitragsbemessung: Kapitalauszahlung und Betriebsrente | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kassenaufsicht: Beschwerde und BMG/BAS | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kassenwahl: Kündigung, Bindungsfrist und Wahltarif | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kaltstart: Krankenversicherung – Bescheid, Rechnung und Frist | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klagebegründung Sozialgericht: Gesundheitsakte | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PKV-Ombudsmann und Beschwerdestrategie | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,18 +52,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
 - SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
 - SGG Paragraf 87: Klagefrist.
-- Paragraf 27 Abs. 1 SGB V – Anspruch auf Krankenbehandlung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 31 SGB V – Arznei- und Verbandmittel; Ausschlüsse: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 34 SGB V – Ausgeschlossene Arznei-, Heil- und Hilfsmittel (Lifestyle-Ausschluss: Paragraf 34 Abs. 1 Satz 7-8): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 35 SGB V – Festbetragsgruppen (Gemeinsamer Bundesausschuss): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87 SGB IV – Aufsicht über Sozialversicherungsträger: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 88 SGB IV – Maßnahmen der Aufsichtsbehörde: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 89 SGB IV – Verpflichtungsklage gegen Aufsichtsbehörde: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 90 SGB IV – Schließung von Krankenkassen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
-- BGH III ZR 17/18 (GOÄ-Abrechnung, Steigerungsfaktor), BGH III ZR 62/18
-- BVerfG 1 BvR 2084/05 (GOÄ und PKV-Erstattung)
+- BGH IV ZR 91/14 (Anzeigepflichtverletzung, Kausalität), BGH IV ZR 311/14
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abrechnung GOÄ/GOZ und Erstattung, Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung, Asylbewerberleistungsgesetz und Gesundheitsversorgung, Auslandsbehandlung: EU, S2-Formular und Notfall: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Kassenaufsicht: Beschwerde und BMG/BAS, Kassenwahl: Kündigung, Bindungsfrist und Wahltarif, Kaltstart: Krankenversicherung – Bescheid, Rechnung und Frist, Klagebegründung Sozialgericht: Gesundheitsakte: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Ampelsystem: Beweislast, Darlegungslast und Substantiierung | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -73,7 +73,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist |
-| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen |
+| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnähe kann Anfechtungsrisiken begrenzen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -86,13 +86,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
 - Paragraf 49-59 StaRUG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 102 StaRUG: Wirtschaftsprüfer, Steuerberater, Rechtsanwälte und vereidigte Buchprüfer sind verpflichtet, ihre Mandantin auf das Vorliegen eines möglichen Insolvenzgrunds: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 26 StaRUG (Planbestätigung gegen ablehnende Gruppen — Cross-Class-Cram-Down): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25 StaRUG (Gruppenquorum: ¾-Mehrheit je Gruppe): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 27 StaRUG (Bestätigungsvoraussetzungen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 29 StaRUG (Versagungsgründe): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 30 StaRUG (Schlechterstellungsverbot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 31 StaRUG (Obstruktionsverbot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 93 Abs. 2 S. 2 AktG (Beweislastumkehr): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 15a InsO (Insolvenzantragspflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 15b InsO (Zahlungsverbote nach Insolvenzreife): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1 StaRUG (Krisenfrüherkennungspflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die "Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. Paragraf 93 Abs. 1 AktG formuliert für den Vorstand: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -100,10 +100,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
-- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
+- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnähe kann Anfechtungsrisiken begrenzen.
+- BGH IV ZR 66/25 vom 19.11.2025 — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; Paragraf 15a / Paragraf 15b InsO nicht koppelbar. Stärkt
+- BGH IX ZR 229/22 vom 23.01.2025 — Zahlungsunfähigkeit als objektiver Zustand; streitige nicht titulierte Verbindlichkeiten nach objektiver Rechtslage, vorläufig vollstreckbarer Titel bei eingeleiteter
 - BVerfG 1 BvR 418/25 vom 28.02.2025 (VARTA AG) — Verfassungsbeschwerde gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderungen
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber außenstehenden Dritten konkret mit Einzelposten und Belegen darlegen; pauschale Summen bleiben angreifbar
 
 ## 9. Prüfraster
 
@@ -157,54 +157,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anschluss-Routing
+### 15.2. Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG
 
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: Paragraf 43 GmbHG (Sorgfaltspflicht), Paragraf 93 AktG (Vorstandshaftung), Paragraf 93 Abs. 2 S. 2 AktG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Berater: Verhandlung, Vergleich und Eskalation
+### 15.3. Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Insolvenzantragspflicht nach Paragraf 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: Paragraf 15a InsO (Antragspflicht), Paragraf 15a Abs. 4 InsO (Strafbarkeit), Paragraf 18 InsO (drohende ZU als StaRUG-Tor), Paragraf 1 StaRUG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Cross-Class-Cram-Down und Absolute Priority — Paragraf 26 StaRUG
-
-Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: Paragraf 26 StaRUG (Cram-Down-Voraussetzungen), Paragraf 30 StaRUG (Schlechterstellungsverbot), Paragraf 31 StaRUG (Obstruktionsverbot). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse
+### 15.4. Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Dokumentenintake
+### 15.5. Krisenstadien: Fristennotiz und nächster Schritt
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Drohende: Zahlen, Schwellenwerte und Berechnung
+### 15.6. Geschäftsführerhaftung: Livequellen- und Rechtsprechungscheck
+
+Dieser Skill ist ein konkreter Fachbaustein für krisenfrüherkennung-starug. Ausgangspunkt ist: Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach Paragraf 1 StaRUG, Paragraf 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Krisenfrüherkennung und StaRUG-Management — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Berater: Verhandlung, Vergleich und Eskalation
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Cross-Class-Cram-Down und Absolute Priority — Paragraf 26 StaRUG
+
+Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: Paragraf 26 StaRUG (Cram-Down-Voraussetzungen), Paragraf 30 StaRUG (Schlechterstellungsverbot), Paragraf 31 StaRUG (Obstruktionsverbot). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Drohende: Zahlen, Schwellenwerte und Berechnung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Drohende Zahlungsunfähigkeit — Paragraf 18 InsO
+### 15.13. Drohende Zahlungsunfähigkeit — Paragraf 18 InsO
 
 Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: Paragraf 18 InsO (drohende ZU), Paragraf 17 InsO (aktuelle ZU), Paragraf 19 InsO (Überschuldung), Paragraf 1 StaRUG (Zugangsberechtigung). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Einstieg und Routing
-
-Dieser Einstieg routet Krisenfrüherkennung StaRUG vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - ampelsystem-beweislast-und-darlegungslast — Ampelsystem Beweislast und Darlegungslast. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
+### 15.14. Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Frühwarnsystem: Behörden-, Gerichts- oder Registerweg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Geschäftsführerhaftung Quellenkarte Check
-
-Diese Quellenkarte sichert für Krisenfrüherkennung StaRUG jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert. - StaRUG Paragraf 1 Krisenfrüherkennung — amtlichen Stand vor tragender Aussage prüfen - Paragraf 18 InsO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG
-
-Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: Paragraf 43 GmbHG (Sorgfaltspflicht), Paragraf 93 AktG (Vorstandshaftung), Paragraf 93 Abs. 2 S. 2 AktG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

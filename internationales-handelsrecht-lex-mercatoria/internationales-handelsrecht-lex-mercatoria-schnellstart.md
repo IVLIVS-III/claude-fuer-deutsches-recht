@@ -22,15 +22,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Abschlussmemo Internationales Handelsrecht: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+6. Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44): Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
-| Rechtsprechung | BGH VIII ZR 304/00 v. 25.11.2002 |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abschlussmemo Internationales Handelsrecht | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Handelsvertreter, Vertriebsvertrag und Franchise | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akkreditiv nach UCP 600 | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Korruption: FCPA und UK Bribery Act | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antidumping und Ausgleichszölle | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisrecht in der internationalen Schiedsgerichtsbarkeit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44) | Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CISG Vertragsschluss (Art. 14-24) | Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wesentliche Vertragsverletzung (CISG Art. 25) | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CISG Vertragsschluss | Dieser Skill bearbeitet CISG Vertragsschluss im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CISG Wesentliche Vertragsverletzung | Dieser Skill bearbeitet CISG Wesentliche Vertragsverletzung im Plugin Internationales Handelsrecht und Lex. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CISG Fristen und Notices | Dieser Skill bearbeitet CISG Fristen Und Notices im Plugin Internationales Handelsrecht und Lex Mercatoria. Er. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,15 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- HGB Paragraf 84: Handelsvertreter-Definition (selbständig, ständig beauftragt, fremde Geschäfte): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- HGB Paragraf 89b: Ausgleichsanspruch — 1 Jahresprovision als Maximum: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- StGB Paragrafen 331-335a: Deutsches Korruptionsstrafrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1042 Abs. 4 ZPO: Deutsches Schiedsrecht — Tribunal bestimmt Verfahren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH VIII ZR 304/00 v. 25.11.2002: Deutsches Recht ohne expliziten CISG-Ausschluss lässt CISG bestehen
+- Paragraf 313 BGB: Störung der Geschäftsgrundlage — nationales Pendant zu Hardship: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 308 Nr. 4 BGB: AGB-Änderungsvorbehalte — Grenzen im deutschen Recht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- HGB Paragraf 453: Speditionsvertrag — Definition: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- HGB Paragraf 454: Pflichten des Spediteurs (Beförderung, Versicherung, Zoll, Benachrichtigung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abschlussmemo Internationales Handelsrecht, Handelsvertreter, Vertriebsvertrag und Franchise, Akkreditiv nach UCP 600, Anti-Korruption: FCPA und UK Bribery Act: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44), CISG Vertragsschluss (Art. 14-24), Wesentliche Vertragsverletzung (CISG Art. 25), CISG Vertragsschluss: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

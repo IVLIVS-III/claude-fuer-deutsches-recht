@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abschlussmitteilung | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Arbeitsgericht Klage | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anonyme Meldung | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Arbeitsvertrag Klauseln | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,7 +61,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | Primärer Anker | HinSchG; BRAO; StGB Paragraf 203 | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
@@ -83,7 +83,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Primärer Anker: HinSchG; BRAO; StGB Paragraf 203: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
@@ -143,58 +143,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abschlussmitteilung
+### 15.1. Arbeitsgericht Klage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anonyme Meldung
+### 15.2. Arbeitsvertrag Klauseln
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Antwortschreiben Hinweisgeber
+### 15.3. Beschwerde Management
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anwaltliche Meldestelle
+### 15.4. Betriebsrat Mitbestimmung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Arbeitsgericht Klage
+### 15.5. Beweislastumkehr
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Arbeitsschutz
+### 15.6. Eingangsfrist 7 Tage
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Fristenkalender
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Gerichtliche Rechtsprechung Livecheck
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Geschützte Verstoesse Paragraf2
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Löschfristen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Settlement und Aufhebungsvertrag
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Arbeitsvertrag Klauseln
+### 15.12. Vorstandshaftung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. abrufen Nachweis
+### 15.13. Abschlussmitteilung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Aufsichtsbehördenkommunikation
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Aufsichtsrat Reporting
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Barrierefreiheit Meldekanal
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Beschäftigtenzahl Konzern
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Beschuldigtenrechte
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Beschwerde Management
+### 15.14. Anonyme Meldung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hinweisgeber, interne Meldestelle, externe Meldestelle (BfJ), Compliance-Officer, Arbeitgeber, Datenschutzbeauftragter, Aufsichtsrat. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Meldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

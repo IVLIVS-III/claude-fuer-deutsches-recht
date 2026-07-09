@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristen- und Risikoampel | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 133 und Paragraf 157 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Literatur: Formular, Portal und Einreichungslogik | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | ZPO Paragraf 139 | richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 | ZPO Paragraf 253 | bestimmter Antrag und hinreichend bestimmter Streitgegenstand | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 | ZPO Paragraf 286 | freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
-| Paragraf 130 Nr. 6 ZPO | verantworteter Schriftsatz | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
+| Paragraf 51 UrhG | Zitatrecht | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -79,14 +79,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
 - ZPO Paragraf 253: bestimmter Antrag und hinreichend bestimmter Streitgegenstand.
 - ZPO Paragraf 286: freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs.
-- Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 138 Abs. 1 ZPO — Wahrheit und Vollständigkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 ZPO — bestimmter Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 51 UrhG — Zitatrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 63 UrhG — Quellenangabe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 2 Abs. 1 Nr. 1 UrhG — Sprachwerke: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 97 UrhG — Unterlassung/Schadensersatz bei Rechtsverletzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 138 Abs. 1 ZPO — Wahrheitspflicht im Tatsachenvortrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 ZPO — Substantiierung im Schriftsatz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 313 Abs. 3 ZPO — Entscheidungsgründe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 540 Abs. 1 ZPO — Berufungsurteil: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 267 Abs. 1 StPO — strafgerichtliche Urteilsgründe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 117 Abs. 2 VwGO — verwaltungsgerichtliche Urteilsgründe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 51 UrhG — zulässiges Zitieren fremder Texte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit als Kontext, nicht als Zitierfreibrief: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -140,58 +140,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine
-
-Arbeitsfokus: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-Dieses Anschluss-Routing für Zitierweise Deutsches Recht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - aktenzeichen-schriftsatz-brief-und-memo-bausteine — Aktenzeichen Schriftsatz Brief und Memo Bausteine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aufsatz: Mehrparteienkonflikt und Interessenmatrix
-
-Arbeitsfokus: Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 51 UrhG — Zitatrecht. - Paragraf 63 UrhG — Quellenangabe. - Paragraf 2 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Beckrs: Zahlen, Schwellenwerte und Berechnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Blindzitate: Internationaler Bezug und Schnittstellen
-
-Arbeitsfokus: Blindzitate: Internationaler Bezug und Schnittstellen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 51 UrhG — Zitatrecht. - Paragraf 63 UrhG — Quellenangabe. - Paragraf 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Chronologie und Belegmatrix
-
-Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich zitierweise-deutsches-recht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Datum: Behörden-, Gerichts- oder Registerweg
-
-Arbeitsfokus: Datum: Behörden-, Gerichts- oder Registerweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO — Wahrheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Einstieg und Routing
-
-Dieser Einstieg routet Zitierweise Deutsches Recht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - aktenzeichen-schriftsatz-brief-und-memo-bausteine — Aktenzeichen Schriftsatz Brief und Memo Bausteine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien
-
-Arbeitsfokus: Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Fristen- und Risikoampel
+### 15.1. Fristen- und Risikoampel
 
 Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich zitierweise-deutsches-recht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Gericht: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.2. Literatur: Formular, Portal und Einreichungslogik
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitsfokus: Literatur: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 51 UrhG — Zitatrecht. - Paragraf 63 UrhG — Quellenangabe. - Paragraf 2 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.3. Live: Beweislast, Darlegungslast und Substantiierung
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitsfokus: Live: Beweislast, Darlegungslast und Substantiierung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Juristische: Erstprüfung, Rollenklärung und Mandatsziel
+### 15.4. Rechtsprechung ohne amtl. Fundstelle
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitsfokus: Rechtsprechung ohne amtl. Fundstelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO — Wahrheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Zitierweise Deutsches Recht — Allgemein
+
+Arbeitsfokus: Zitierweise Deutsches Recht — Allgemein. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO — Wahrheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Zitierweise: Fristennotiz und nächster Schritt
+
+Arbeitsfokus: Zitierweise: Fristennotiz und nächster Schritt. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO — Wahrheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Arbeitsfokus: Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Arbeitsfokus: Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine
+
+Arbeitsfokus: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Aufsatz: Mehrparteienkonflikt und Interessenmatrix
+
+Arbeitsfokus: Aufsatz: Mehrparteienkonflikt und Interessenmatrix. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 51 UrhG — Zitatrecht. - Paragraf 63 UrhG — Quellenangabe. - Paragraf 2 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Beckrs: Zahlen, Schwellenwerte und Berechnung
+
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Blindzitate: Internationaler Bezug und Schnittstellen
+
+Arbeitsfokus: Blindzitate: Internationaler Bezug und Schnittstellen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 51 UrhG — Zitatrecht. - Paragraf 63 UrhG — Quellenangabe. - Paragraf 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Chronologie und Belegmatrix
+
+Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich zitierweise-deutsches-recht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Datum: Behörden-, Gerichts- oder Registerweg
+
+Arbeitsfokus: Datum: Behörden-, Gerichts- oder Registerweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 130 Nr. 6 ZPO — verantworteter Schriftsatz. - Paragraf 138 Abs. 1 ZPO — Wahrheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -72,8 +72,8 @@ Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anm
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 - Art. 32 DSGVO
 
 ### Leitentscheidungen

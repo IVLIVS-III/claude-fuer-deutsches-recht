@@ -22,14 +22,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Quote und Nachlass: Aktivvermögen, Schulden, Zugewinnschnittstelle, Ausgleichung, Anrechnung und Erbquoten berechnen.
 4. Pflichtteil: Berechtigte, Quote, fiktiver Nachlass, Schenkungen, Abschmelzung, Auskunft und Wertermittlung prüfen.
 5. Arbeitsprodukt: Erbquotentabelle, Pflichtteilsrechnung, Auskunftsschreiben, Erbscheinsantrag, Klage oder Vergleichsvorschlag erstellen.
-6. Anschluss-Routing: Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen.
+6. BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar.: Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 1922 bis Paragraf 1936; BGB Paragraf 2064 bis Paragraf 2086; BGB Paragraf 2147 ff |
-| Rechtsprechung | BGH 12.07.2018 III ZR 183/17 |
+| Rechtsprechung | OLG Muenchen 14.04.2020 31 Wx 275/19; BGH 12.10.2011 IV ZR 318/13 |
 | Tatbestand | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen |
 | Beweislast | Anspruchsteller für Verwandtschaft, Verfügung, Nachlasswert und Schenkung; Gegner für Erfüllung, Anrechnung, Ausgleichung und Ausschluss |
 | Rechtsfolge | Erbquotentabelle, Pflichtteilsrechnung, Auskunft, Erbscheinsantrag, Klage oder Auseinandersetzungsvergleich |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berater: Mehrparteienkonflikt und Interessenmatrix im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Digitaler Nachlass Facebook BGH Iii Zr 183 17 | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erbrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19 | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass überschuldet ist | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nachlassinsolvenz Paragraf 1980 BGB BGH Ix Zb 118 17 | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,7 +56,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragrafen 2303 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 2353 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1922 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH 12.07.2018 III ZR 183/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- OLG Muenchen 14.04.2020 31 Wx 275/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 12.10.2011 IV ZR 318/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 23.05.2012 IV ZR 250/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 

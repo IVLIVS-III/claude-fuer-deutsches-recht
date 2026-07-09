@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Unionsamtshaftung | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| e-Curia Einreichung und Zustellung | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einstweiliger Rechtsschutz | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Nichtigkeitsklage nach Art. 263 AEUV | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorabentscheidung nach Art. 267 AEUV | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EUIPO vor Beschwerdekammer, EuG und EuGH | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen und Verfahrenssprache | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klagebefugnis Privater | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Untätigkeitsklage nach Art. 265 AEUV | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsverletzungsverfahren | Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

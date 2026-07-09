@@ -501,6 +501,65 @@ PROSE_REPLACEMENTS = (
     ("faell", "fäll"),
     ("Staerk", "Stärk"),
     ("staerk", "stärk"),
+    ("Fuehr", "Führ"),
+    ("fuehr", "führ"),
+    ("Hoehe", "Höhe"),
+    ("hoehe", "höhe"),
+    ("Naehe", "Nähe"),
+    ("naehe", "nähe"),
+    ("Begruend", "Begründ"),
+    ("begruend", "begründ"),
+    ("Abschaetz", "Abschätz"),
+    ("abschaetz", "abschätz"),
+    ("Gruen", "Grün"),
+    ("gruen", "grün"),
+    ("Verspaet", "Verspät"),
+    ("verspaet", "verspät"),
+    ("Pfaend", "Pfänd"),
+    ("pfaend", "pfänd"),
+    ("Erhoeh", "Erhöh"),
+    ("erhoeh", "erhöh"),
+    ("Groess", "Größ"),
+    ("groess", "größ"),
+    ("Auskuenft", "Auskünft"),
+    ("auskuenft", "auskünft"),
+    ("Beiraet", "Beirät"),
+    ("beiraet", "beirät"),
+    ("Adhaesion", "Adhäsion"),
+    ("adhaesion", "adhäsion"),
+    ("Zulaes", "Zuläs"),
+    ("zulaes", "zuläs"),
+    ("Woert", "Wört"),
+    ("woert", "wört"),
+    ("Verbaend", "Verbänd"),
+    ("verbaend", "verbänd"),
+    ("Justitiabilitaet", "Justitiabilität"),
+    ("justitiabilitaet", "justitiabilität"),
+    ("Subsidiaer", "Subsidiär"),
+    ("subsidiaer", "subsidiär"),
+    ("Haeuser", "Häuser"),
+    ("haeuser", "häuser"),
+    ("Klaeger", "Kläger"),
+    ("klaeger", "kläger"),
+    ("Aktionaer", "Aktionär"),
+    ("aktionaer", "aktionär"),
+    ("Flaeche", "Fläche"),
+    ("flaeche", "fläche"),
+    ("Woerter", "Wörter"),
+    ("woerter", "wörter"),
+    ("Vorschlaeg", "Vorschläg"),
+    ("vorschlaeg", "vorschläg"),
+    ("Traeger", "Träger"),
+    ("traeger", "träger"),
+    ("Gueter", "Güter"),
+    ("gueter", "güter"),
+    ("Staendig", "Ständig"),
+    ("staendig", "ständig"),
+    ("Schoeff", "Schöff"),
+    ("schoeff", "schöff"),
+    ("Unverzueg", "Unverzüg"),
+    ("unverzueg", "unverzüg"),
+    ("Lueth", "Lüth"),
 )
 
 
@@ -524,6 +583,7 @@ TERM_REPLACEMENTS = {
     "Hr": "HR",
     "Hoai": "HOAI",
     "Euipo": "EUIPO",
+    "Jveg": "JVEG",
     "Oepp": "ÖPP",
 }
 
@@ -684,6 +744,111 @@ SOURCE_NOISE_BITS = (
 )
 
 
+CURATED_PROFILE_KEYS = {
+    "agrar",
+    "dokumentenworkflow",
+    "ehrenamtliche_richter",
+    "jveg",
+    "kanzleibetrieb",
+    "kirchenrecht",
+    "presse",
+    "rechtsgeschichte",
+    "selbststaendige",
+    "sport",
+}
+
+CURATED_NORM_PROFILE_KEYS = CURATED_PROFILE_KEYS | {"technikregulierung"}
+CURATED_CASE_PROFILE_KEYS = CURATED_PROFILE_KEYS | {
+    "betreuung",
+    "hoai",
+    "technikregulierung",
+}
+
+
+PROFILE_FIELD_OVERRIDES: dict[str, tuple[tuple[str, str], ...]] = {
+    "presse": (
+        ("Entscheidungsmeldung", "Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen"),
+        ("Verdachtsberichterstattung", "Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen"),
+        ("Gerichts- und Sitzungsbericht", "Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen"),
+        ("Bild, Name und Anonymisierung", "KUG, Privatheit, Prangerwirkung, Wiedererkennbarkeit und Informationswert in Text, Überschrift und Bild konsistent abwägen"),
+        ("Interview und Stellungnahme", "konkrete Fragen, angemessene Antwortfrist, Antwortauswertung und dokumentierten Veröffentlichungsentscheid vorbereiten"),
+        ("Korrektur und Nachtrag", "Unwahrheit, ausgeräumten Verdacht, Gegendarstellung, Richtigstellung, Nachtrag und Reichweitenfolge getrennt prüfen"),
+    ),
+    "agrar": (
+        ("Landpacht", "Vertrag, Textform und Übergangsrecht, Anzeige, Pachtanpassung, Kündigung, Flächenübergabe und Landwirtschaftsgericht anhand der Vertragsakte prüfen"),
+        ("Hofnachfolge", "Hofstatus, Grundsteuerwert, Hoferbenberechtigung, Abfindung, Nachabfindung und Übergangsrecht in einer Stichtagsmatrix verbinden"),
+        ("Landwirtschaftlicher Grundstücksverkehr", "Genehmigungspflicht, Versagungsgrund, leistungsfähigen Landwirt, Kaufpreis und gerichtlichen Antrag belegen"),
+        ("GAP und Direktzahlungen", "Förderjahr, Fläche, Konditionalität, Kontrolle, Kürzung, Rückforderung und Rechtsbehelf zeilenweise nachweisen"),
+        ("Betriebsbezogene Fachaufsicht", "Tierhaltung, Düngung, Pflanzenschutz, Natur-, Immissions- und Forstrecht dem konkreten Betriebsvorgang zuordnen"),
+        ("Vertrag, Antrag und Widerspruch", "Adressat, Frist, Tatbestand, Beleg, Gegenposition und vollzugsfähigen Antrag zu einem versandfertigen Produkt verdichten"),
+    ),
+    "sport": (
+        ("Verbandsentscheidung", "Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen"),
+        ("Dopingverfahren", "Probe, Kette des Gewahrsams, Substanz, Verschuldensgrad, Sanktion, Rechtsmittel und Wettkampfkalender verbinden"),
+        ("Athleten- und Trainervertrag", "Befristung, Vergütung, Einsatz, Verletzung, Bildrechte, Freistellung und Beendigung redlinen"),
+        ("Transfer und Spielberechtigung", "Registrierung, Transferfenster, Ausbildungsentschädigung, Freizügigkeit und vorläufige Teilnahme klären"),
+        ("Schiedsverfahren und Eilrechtsschutz", "Schiedsklausel, interne Ausschöpfung, Frist, Panel, Öffentlichkeit, Antrag und Aufhebungskontrolle planen"),
+        ("Sponsoring und Vermarktung", "Exklusivität, Moralklausel, Kennzeichnung, Verbandsrechte, Leistungsstörung und Exit-Szenario verhandeln"),
+    ),
+    "jveg": (
+        ("Ausschlussfrist", "Heranziehung und tätigkeitsabhängigen Beginn der dreimonatigen Frist mit Eingangs- und Abschlussnachweisen bestimmen"),
+        ("Zeit und Honorargruppe", "Auftrag, Beweisfragen, Tätigkeitsprotokoll, Fachkunde, Zeitansatz und gesetzliche Honorargruppe plausibilisieren"),
+        ("Besondere Vergütung", "Einverständnis, gerichtliche Zustimmung und ausreichende Einzahlung nach JVEG Paragraf 13 getrennt prüfen"),
+        ("Fahrt und sonstige Aufwendungen", "Erforderlichkeit, Strecke, Abwesenheit, Beleg, Pauschale, Hilfskraft, Kopie und Umsatzsteuer einzeln berechnen"),
+        ("Zeugen und ehrenamtliche Richter", "Zeitversäumnis, Haushalt, Verdienstausfall, Höchstbetrag und Nachweis nach Berechtigtenrolle zuordnen"),
+        ("Festsetzung und Beschwerde", "bezifferten Antrag, Zuständigkeit, Kürzungspunkt, Beschwerdewert, Zulassung und Einreichungsweg aufbauen"),
+    ),
+    "ehrenamtliche_richter": (
+        ("Rolle und Besetzung", "Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen"),
+        ("Neutralität und Selbstanzeige", "persönlichen oder sachlichen Vorbezug ohne eigene Vorentscheidung unverzüglich gegenüber dem Vorsitz offenlegen"),
+        ("Beweisaufnahme und Fragerecht", "offene Tatsachenfrage, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt sitzungsbezogen notieren"),
+        ("Beratung und Mehrheit", "Schuld-, Rechtsfolgen- und Nebenfrage trennen, gesetzliche Mehrheit bestimmen und abweichende Sicht sachlich einbringen"),
+        ("Teilnahmefähigkeit", "Müdigkeit, Hören, Sprache, Verständnis oder Unterbrechungsbedarf sofort anzeigen und verfahrensfest behandeln"),
+        ("Beratungsgeheimnis und Medien", "Hauptverhandlungsöffentlichkeit, nichtöffentliche Beratung, Aktenwissen, Eigenrecherche und Medienkontakt strikt trennen"),
+    ),
+    "rechtsgeschichte": (
+        ("Quellenkritik", "Textzeuge, Ausgabe, Fassung, Sprache, Übersetzung, Datum und Rechtsraum vor jeder Aussage sichern"),
+        ("Norm und Anwendungspraxis", "historischen Tatbestand, Rechtsfolge, Institution und tatsächliche Durchsetzung aus getrennten Quellen rekonstruieren"),
+        ("Privatrechtsgeschichte", "Eigentum, Vertrag, Delikt, Familie und Erbe entlang der maßgeblichen Kodifikations- und Rezeptionsstufen vergleichen"),
+        ("Verfassungs- und Verwaltungsgeschichte", "Institution, Kompetenz, Herrschaftspraxis, Rechtsbruch und Kontinuität ohne heutige Rückprojektion untersuchen"),
+        ("Rechtsüberleitung", "Fortgeltung, Aufhebung, intertemporales Recht und Überleitungsnorm mit Verkündung und Stichtag belegen"),
+        ("Historische Fallanalyse", "zeitgenössischen Maßstab, Gegenquelle, damalige Rechtsfolge und heutige Anschlussfrage sichtbar trennen"),
+    ),
+    "kirchenrecht": (
+        ("Zuständigkeit und Rechtsquelle", "Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen"),
+        ("Kirchliches Verwaltungsverfahren", "Antrag, Anhörung, Dekret, Zustellung, hierarchische Beschwerde, Frist und Vollzug chronologisch ordnen"),
+        ("Eheverfahren", "Zuständigkeit, Klagegrund, Parteistellung, Urkunden, Zeugen, Ehebandverteidiger und Rechtsmittel erfassen"),
+        ("Kirchliches Strafverfahren", "Voruntersuchung, Schutzmaßnahmen, Zuständigkeit, Verteidigung, Beweis, Dekret oder Gerichtsweg trennen"),
+        ("Register und Urkunden", "Taufe, Ehe, Austritt, Korrektur, Archiv, Ausfertigung und Offenlegung nach Beweiszweck bearbeiten"),
+        ("Staatliche Schnittstelle", "kirchliche Wirkung, Arbeitsrecht, Personenstand, Datenschutz und staatlichen Rechtsschutz gesondert prüfen"),
+    ),
+    "kanzleibetrieb": (
+        ("Mandatsannahme", "Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern"),
+        ("Fristenkontrolle", "Auslöser, Bekanntgabe, Kalenderberechnung, Eintrag, Gegenkontrolle, Verantwortlicher und Vertretung dokumentieren"),
+        ("Bearbeitung und Freigabe", "Arbeitsauftrag, Aktenstand, offene Entscheidung, Vieraugenkontrolle, Budget und Freigabefassung führen"),
+        ("Elektronischer Versand", "Empfänger, Dateiformat, Signatur, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen"),
+        ("Abrechnung und Fremdgeld", "Gebührentatbestand, Gegenstandswert, Vereinbarung, Vorschuss, Fremdgeld, Rechnung und Zahlungslauf abstimmen"),
+        ("Mandatsabschluss", "Ergebnis, Restfristen, Vollstreckung, Rückgabe, Aufbewahrung, Schlussrechnung und Wiedervorlage festhalten"),
+    ),
+    "selbststaendige": (
+        ("Status und Anmeldung", "Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen"),
+        ("Angebot und Auftrag", "Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Nutzungsrechte und Haftung verständlich vereinbaren"),
+        ("Rechnung und Steuern", "Pflichtangaben, Umsatzsteuerstatus, Fälligkeit, Ausgabe, Beleg, Abgabe und Rücklage ordnen"),
+        ("Zahlungsausfall", "Leistungsnachweis, Fälligkeit, Verzug, Mahnung, Einwendung, Mahn- oder Klageweg und Vollstreckbarkeit bestimmen"),
+        ("Versicherung und Haftung", "Tätigkeitsrisiko, Deckung, Ausschluss, Schadenanzeige, Selbstbehalt und Haftungsbegrenzung abgleichen"),
+        ("Liquidität und Krise", "offene Forderungen, Abgaben, fixe Kosten, Reserve, Fortführungsentscheidung und nächsten sicheren Schritt berechnen"),
+    ),
+    "dokumentenworkflow": (
+        ("Inventur und Version", "Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen"),
+        ("Fundstellenlinie", "jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen"),
+        ("Vergleich und Redline", "Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren"),
+        ("Tabellen- und Rechenprüfung", "Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren"),
+        ("Entwurf und Format", "Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen"),
+        ("Übergabe und Nachweis", "Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren"),
+    ),
+}
+
+
 def is_source_noise(line: str) -> bool:
     lowered = line.lower()
     return any(bit in lowered for bit in SOURCE_NOISE_BITS)
@@ -724,11 +889,43 @@ def skill_body_excerpt(text: str) -> str:
     return clean(" ".join(lines), 900)
 
 
+META_SKILL_BITS = (
+    "anschluss-routing",
+    "dokumente-intake",
+    "einstieg-routing",
+    "erstgespraech",
+    "erstpruefung",
+    "kaltstart",
+    "kommandocenter",
+    "livecheck",
+    "mandat-triage",
+    "orientierung",
+    "output-waehlen",
+    "qualitygate",
+    "quellenkarte",
+    "red-team",
+    "unterlagen-luecken",
+    "workflow-",
+)
+
+
+def skill_directory_priority(path: Path) -> tuple[int, int, str]:
+    """Bevorzugt Fachskills, ohne Meta- und Routing-Skills zu verwerfen."""
+
+    slug = path.name
+    meta_hits = sum(bit in slug for bit in META_SKILL_BITS)
+    legal_signal = 0 if re.search(
+        r"(?:paragraf|artikel|vertrag|klage|beschwerde|bescheid|haftung|"
+        r"beweis|frist|abstimmung|pacht|doping|verguetung|entschaedigung)",
+        slug,
+    ) else 1
+    return (meta_hits, legal_signal, slug)
+
+
 def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
     items = []
-    for sd in sorted((plugin_dir / "skills").glob("*")):
-        if not sd.is_dir():
-            continue
+    skill_dirs = [sd for sd in (plugin_dir / "skills").glob("*") if sd.is_dir()]
+    for sd in sorted(skill_dirs, key=skill_directory_priority)[:30]:
         slug = sd.name
         skill_file = sd / "SKILL.md"
         desc = slug.replace("-", " ")
@@ -756,8 +953,6 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
         else:
             heading = ""
         items.append({"slug": slug, "desc": desc, "body": body, "raw": text if skill_file.exists() else "", "heading": heading})
-        if len(items) >= 30:
-            break
     return items
 
 
@@ -1046,6 +1241,17 @@ def skill_fields(skill_material: list[dict[str, str]], max_items: int = 6) -> li
     return fields
 
 
+def profile_fields(
+    profile: ThemenProfil,
+    skill_material: list[dict[str, str]],
+    max_items: int = 6,
+) -> list[tuple[str, str]]:
+    overrides = PROFILE_FIELD_OVERRIDES.get(profile.key)
+    if overrides:
+        return [(title, clean(detail, 180)) for title, detail in overrides[:max_items]]
+    return skill_fields(skill_material, max_items)
+
+
 def detail_question(detail: str) -> str:
     detail = clean(detail, 115).lstrip("- ").rstrip(". -")
     for _ in range(3):
@@ -1070,6 +1276,8 @@ def detail_question(detail: str) -> str:
 
 def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
     hay = f"{profile.key} {field} {detail}".lower()
+    if profile.key in PROFILE_FIELD_OVERRIDES and detail:
+        return clean(detail, 180).rstrip(" .")
     if profile.key == "eu_prozess":
         return "Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern"
     if profile.key == "zeugnis":
@@ -1130,6 +1338,26 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen"
     if profile.key == "weltraum":
         return "Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden"
+    if profile.key == "presse":
+        return "Aussagetyp, Beweistatsachen, Stellungnahme, Identifizierbarkeit, Bildrecht, Verfahrensstatus und veröffentlichungsfähige Fassung abgleichen"
+    if profile.key == "agrar":
+        return "Betrieb, Fläche, Pacht oder Hofstatus, Grundsteuerwert, Förderjahr, Spezialbehörde, Frist und Bewirtschaftungsbeleg verbinden"
+    if profile.key == "sport":
+        return "Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, Schieds- oder Gerichtsweg, Eilbedarf und Wettkampfbeleg sichern"
+    if profile.key == "jveg":
+        return "Heranziehung, Rolle, Ausschlussfrist, Zeitansatz, Honorargruppe, Auslagen, Kürzung und Rechtsbehelf rechnerisch prüfen"
+    if profile.key == "ehrenamtliche_richter":
+        return "Rolle, Spruchkörper, Besetzung, Neutralität, offene Beweisfrage, Beratung, Mehrheit und Beratungsgeheimnis trennen"
+    if profile.key == "rechtsgeschichte":
+        return "Textzeuge, Fassung, Datum, Rechtsraum, Übersetzung, Normfunktion, Anwendungspraxis und Rezeptionsspur quellenkritisch ordnen"
+    if profile.key == "kirchenrecht":
+        return "zuständige Autorität, Canon, Partikularrecht, Urkunde, kirchlichen Verfahrensweg, Frist und staatliche Schnittstelle bestimmen"
+    if profile.key == "kanzleibetrieb":
+        return "Mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern"
+    if profile.key == "selbststaendige":
+        return "Tätigkeit, Status, Vertrag, Leistung, Rechnung, Abgabe, Beleg, Zahlung und nächstes Geschäfts- oder Behördendokument ordnen"
+    if profile.key == "dokumentenworkflow":
+        return "maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden"
     if profile.key in {"arbeits", "hr"}:
         if any(bit in hay for bit in ("kündigung", "befristung", "abmahnung", "aufheb", "betriebsrat")):
             return "Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen"
@@ -1185,13 +1413,13 @@ def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) 
     if profile.key != "default" or not skill_material:
         out = [clean(station, 230) for station in profile.stationen[:6]]
         if skill_material and len(out) < 6:
-            for field, detail in skill_fields(skill_material, 6):
+            for field, detail in profile_fields(profile, skill_material, 6):
                 out.append(f"{field}: {quick_grip(profile, field, detail)}.")
                 if len(out) >= 6:
                     break
         return out[:6]
     out: list[str] = []
-    for field, detail in skill_fields(skill_material, 6):
+    for field, detail in profile_fields(profile, skill_material, 6):
         out.append(f"{field}: {quick_grip(profile, field, detail)}.")
     if len(out) < 4:
         out.extend(profile.stationen)
@@ -1259,6 +1487,16 @@ BEWEISLAST_MERKER = {
     "betreuung": "Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen.",
     "hoai": "Planer für beauftragte und erbrachte Leistung sowie Honorarparameter; Auftraggeber für Mangel, Änderungsanordnung, Zahlung und mitwirkungsbedingte Störung.",
     "weltraum": "Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung.",
+    "presse": "Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe.",
+    "agrar": "Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung.",
+    "sport": "Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung.",
+    "jveg": "Berechtigter für Heranziehung, Fristwahrung, Zeit, Honorargruppe und Auslage; Staatskasse für Kürzungstatbestand, Überschreitung und Einwendung.",
+    "ehrenamtliche_richter": "Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung.",
+    "rechtsgeschichte": "Bearbeiter für Textzeuge, Fassung, Übersetzung und Rezeptionsbeleg; offene Quellenlage wird als solche ausgewiesen und nicht durch Rückprojektion geschlossen.",
+    "kirchenrecht": "Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage.",
+    "kanzleibetrieb": "Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben.",
+    "selbststaendige": "Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung.",
+    "dokumentenworkflow": "Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert.",
     "default": "Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.",
 }
 
@@ -1308,6 +1546,16 @@ RECHTSFOLGE_MERKER = {
     "betreuung": "Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan.",
     "hoai": "Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht.",
     "weltraum": "Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk.",
+    "presse": "veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag.",
+    "agrar": "Pachtprüfung, Hofnachfolgematrix, Förderwiderspruch, Genehmigungsantrag, Behördenstellungnahme oder Vertragsentwurf.",
+    "sport": "Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk.",
+    "jveg": "Abrechnung, Festsetzungsantrag, Kürzungserwiderung, Beschwerde, Vorschussantrag oder Zeugenentschädigung.",
+    "ehrenamtliche_richter": "Sitzungsblatt, offene Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz.",
+    "rechtsgeschichte": "Quellenkarte, Textsynopse, Epochenmemo, Rezeptionslinie oder historische Fallanalyse.",
+    "kirchenrecht": "Supplik, Antrag, Dekretentwurf, Eheverfahrensmatrix, Aktenvermerk oder Schnittstellenstellungnahme.",
+    "kanzleibetrieb": "Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt.",
+    "selbststaendige": "Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck.",
+    "dokumentenworkflow": "Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk.",
     "default": "Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.",
 }
 
@@ -1502,12 +1750,12 @@ def build_werkstatt(plugin_dir: Path) -> str:
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen)
     extracted_norms = extract_norm_anchors(skill_material, 8)
     extracted_cases = extract_case_anchors(skill_material, 5)
-    if profile.key == "technikregulierung":
+    if profile.key in CURATED_NORM_PROFILE_KEYS:
         extracted_norms = []
-    if profile.key in {"technikregulierung", "betreuung", "hoai"}:
+    if profile.key in CURATED_CASE_PROFILE_KEYS:
         extracted_cases = []
     extracted_cases = dedupe_cases(profile_cases, extracted_cases)
-    fields = skill_fields(skill_material, 7)
+    fields = profile_fields(profile, skill_material, 7)
     norm_pool = (profile_norms + extracted_norms)[:8]
     case_pool = (profile_cases + extracted_cases)[:5]
 
@@ -1657,27 +1905,34 @@ def build_werkstatt(plugin_dir: Path) -> str:
     for item in skeletons:
         lines.append(f"- {item}")
 
-    # Make narrow prompts less skeletal by adding issue catalog derived from skills.
-    if skill_material:
+    # Make narrow prompts less skeletal by adding a profile- or skill-derived issue catalog.
+    if fields:
         lines += ["", "## 15. Materienbezogene Arbeitsfelder", ""]
-        seen_fields: set[str] = set()
-        idx = 0
-        for item in skill_material:
-            desc = item["desc"] or item["body"]
-            if not desc:
-                continue
-            title = field_title(desc, item["slug"])
-            key = re.sub(r"\W+", "", title.lower())
-            if key in seen_fields:
-                continue
-            seen_fields.add(key)
-            idx += 1
-            lines.append(f"### 15.{idx}. {title}")
-            lines.append("")
-            lines.append(f"{field_detail(desc, item.get('body', ''), title)}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
-            lines.append("")
-            if idx >= 14:
-                break
+        if profile.key in PROFILE_FIELD_OVERRIDES:
+            for idx, (title, detail) in enumerate(fields, 1):
+                lines.append(f"### 15.{idx}. {title}")
+                lines.append("")
+                lines.append(f"{detail}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
+                lines.append("")
+        else:
+            seen_fields: set[str] = set()
+            idx = 0
+            for item in skill_material:
+                desc = item["desc"] or item["body"]
+                if not desc:
+                    continue
+                title = field_title(desc, item["slug"])
+                key = re.sub(r"\W+", "", title.lower())
+                if key in seen_fields:
+                    continue
+                seen_fields.add(key)
+                idx += 1
+                lines.append(f"### 15.{idx}. {title}")
+                lines.append("")
+                lines.append(f"{field_detail(desc, item.get('body', ''), title)}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
+                lines.append("")
+                if idx >= 14:
+                    break
 
     text = "\n".join(lines).strip() + "\n"
     if len(text.encode("utf-8")) < 12 * 1024 and "Ausgabeformate für schnelle Lieferung" not in text:
@@ -1745,15 +2000,15 @@ def build_schnellstart(plugin_dir: Path) -> str:
     context = " ".join([mf.get("description", ""), first_readme_paragraph(plugin_dir)] + [s["desc"] for s in skill_material[:20]])
     profile = profile_for(slug, context)
     title = title_for(slug, mf, profile)
-    fields = skill_fields(skill_material)
+    fields = profile_fields(profile, skill_material)
     stations = quick_stations(profile, skill_material)
     norm_limit = 7 if profile.key == "default" else 4
     case_limit = 4 if profile.key == "default" else 3
     extracted_norms = extract_norm_anchors(skill_material, norm_limit)
     extracted_cases = extract_case_anchors(skill_material, case_limit)
-    if profile.key == "technikregulierung":
+    if profile.key in CURATED_NORM_PROFILE_KEYS:
         extracted_norms = []
-    if profile.key in {"technikregulierung", "betreuung", "hoai"}:
+    if profile.key in CURATED_CASE_PROFILE_KEYS:
         extracted_cases = []
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])

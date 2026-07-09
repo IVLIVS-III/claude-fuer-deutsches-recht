@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Account: Internationaler Bezug und Schnittstellen | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | DSA: Dark Patterns abrufen | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | DMA: Fristen, Form, Zuständigkeit und Rechtsweg | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 631 | Werkvertragliche Pflichten bei Projektleistungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 634 | Rechte bei Mängeln des Werkes | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 280 | Schadensersatz wegen Pflichtverletzung | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| Paragrafen 935, 940 ZPO | einstweilige Verfügung auf Wiederherstellung des Zugangs / Reichweitenfreigabe | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Art. 263 Abs. 4 AEUV | Nichtigkeitsklage; 2-Monatsfrist | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - BGB Paragraf 634: Rechte bei Mängeln des Werkes.
 - BGB Paragraf 280: Schadensersatz wegen Pflichtverletzung.
+- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage gegen Designierungsbeschluss: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 19a GWB — Unterhalb DMA-Schwellen: ergaenzende nationale Regulierung besonders marktmaechtiger Unternehmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 935, 940 ZPO — einstweilige Verfügung auf Wiederherstellung des Zugangs / Reichweitenfreigabe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 307, 241 Abs. 2 BGB — AGB-Kontrolle und Rücksichtnahmepflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 935, 940 ZPO — Einstweilige Verfügung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 11 GRCh — Meinungsfreiheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 1 Abs. 6 DMA: DMA gilt unbeschadet der Anwendung von Art. 101/102 AEUV und nationaler Wettbewerbsregeln, die einseitiges Verhalten regeln (z. B. Paragraf 19a GWB): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 19a GWB: ex-ante-light, nur für Unternehmen mit marktübergreifender Bedeutung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 19a GWB an BKartA: erfasst zT mehr Verhaltensweisen, BKartA hat eigene Designations-Verfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 102 AEUV: klassisch, schwerere Beweislast, Schadensersatz nach Paragraf 33a GWB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +148,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Account: Internationaler Bezug und Schnittstellen
+### 15.1. DSA: Dark Patterns abrufen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
+### 15.2. DMA: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. DSA und DMA: Bussgeldverteidigung
+### 15.3. DSA: Internes Beschwerdesystem
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. DSA: Dark Patterns abrufen
+### 15.4. Kernplattformdienste: Sonderfall und Edge-Case-Prüfung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Data: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.5. Klage gegen Designations-Beschluss — Art. 263 AEUV
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Schnittstellen — DSA, DMA, Datenschutz-Grundverordnung, P2B-VO und Paragraf 19a GWB
-
-Schnittstellen zwischen DSA/DMA und Datenschutz-Grundverordnung, P2B-VO und Paragraf 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen Datenschutz-Grundverordnung), Art. 1 Abs. 5 DMA, P2B-VO (EU). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. DMA: Anti-Steering App-Store
+### 15.6. Klagewege: Mandantenkommunikation und Entscheidungsvorlage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. DMA: Business-User-Zugang
+### 15.7. DSA DMA und Digitalregulierung EU — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. DMA: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.8. Schwellen: Verhandlung, Vergleich und Eskalation
+
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Transparenzbericht: Fristennotiz und nächster Schritt
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. DMA — Gatekeeper-Schwellen und Kernplattformdienste
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. DMA: Messenger-Interoperabilitaet
+### 15.10. Vertreter: Beweislast, Darlegungslast und Substantiierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. DMA: Pflichtenübersicht
+### 15.11. DSA: Werbearchiv Art. 39
 
-Pflichtenübersicht DMA für benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Account: Internationaler Bezug und Schnittstellen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. DSA und DMA: Bussgeldverteidigung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer. - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

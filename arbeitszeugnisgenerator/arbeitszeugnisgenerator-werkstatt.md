@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Auslassungen vermeiden | GewO Paragraf 109; BAG, Urteil vom 18.11.2014 - 9 AZR 584/13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | BAG-Leitentscheidungen zur Beweislast | GewO Paragraf 109; BAG, Urteil vom 18.11.2014 - 9 AZR 584/13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 630 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | BAG-Leitentscheidungen zur Beweislast | BGB Paragraf 630; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Auslassungen vermeiden | BGB Paragraf 630; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -141,13 +141,13 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Auslassungen vermeiden
-
-Sicherstellen, dass alle für die jeweilige Position relevanten Aussagen im Zeugnis enthalten sind. Was nicht gesagt wird, wird als negativer Hinweis gelesen. Im qualifizierten Zeugnis wirkt das Schweigen über eine positionsrelevante Eigenschaft wie eine negative Aussage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. BAG-Leitentscheidungen zur Beweislast
+### 15.1. BAG-Leitentscheidungen zur Beweislast
 
 Die Beweislast-Situation korrekt kommunizieren, damit der Nutzer realistische Erwartungen hat. Erste grundlegende Entscheidung zur Beweislastverteilung: - Note 3 (zur vollen Zufriedenheit) ist die durchschnittliche Leistung. - Wer eine bessere Beurteilung als Note 3 verlangt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Auslassungen vermeiden
+
+Sicherstellen, dass alle für die jeweilige Position relevanten Aussagen im Zeugnis enthalten sind. Was nicht gesagt wird, wird als negativer Hinweis gelesen. Im qualifizierten Zeugnis wirkt das Schweigen über eine positionsrelevante Eigenschaft wie eine negative Aussage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. BAG-Leitentscheidungen zu Notenstufen
 

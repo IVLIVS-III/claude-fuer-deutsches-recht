@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abgrenzung: Compliance-Dokumentation und Aktenvermerk | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | FZ: Auftragsforschung gestalten | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AO Paragraf 88 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Ablehnung, Nachbesserung, Einspruch | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beihilfen: Beweislast, Darlegungslast und Substantiierung | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | EStG Paragraf 2 | Einkunftsarten und Einkommensermittlung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | EStG Paragraf 49 | beschraenkte Steuerpflicht | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | FGO Paragraf 76 | Sachaufklärung im Finanzgerichtsverfahren | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
-| Paragraf 90 Abs. 1 AO | Mitwirkung und Belege | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| Art. 107 Abs. 1 AEUV | Beihilfebegriff | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - EStG Paragraf 49: beschraenkte Steuerpflicht.
 - FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
-- Paragraf 90 Abs. 1 AO — Mitwirkung und Belege: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- AO Paragrafen 347 bis 367 (Einspruchsverfahren) und Paragraf 355 AO (Frist) — vom Antragsteller mit konsolidierter Fassung zu prüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- FGO Paragraf 47 (Klagefrist): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 107 Abs. 1 AEUV — Beihilfebegriff: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 46 AO — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 1 InsO — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 94 InsO — Aufrechnungslage vor Verfahrenseröffnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 96 InsO — unzulässige Aufrechnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 107, 108 AEUV: Beihilferahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 155 Abs. 1 AO — Steuerbescheid/Festsetzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 164 AO — Vorbehalt der Nachprüfung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abgrenzung: Compliance-Dokumentation und Aktenvermerk
-
-Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Ablehnung, Nachbesserung, Einspruch
-
-Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable Schwächen in der Projektbeschreibung oder der Belegfähigkeit. Dieser Skill trennt sauber die beiden Ebenen (BSFZ vs. Finanzamt), führt durch den Reparaturprozess. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung
-
-Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anschluss-Routing
-
-Dieses Anschluss-Routing für Forschungszulage Antragstellung wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - abgrenzung-adaptiver-antrag — Abgrenzung Adaptiver Antrag - abgrenzung-compliance — Abgrenzung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Antrag: Zahlen, Schwellenwerte und Berechnung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anspruchsberechtigtes Unternehmen, Bescheinigungsstelle Forschungszulage (BSFZ), Finanzamt (Festsetzung/Verrechnung), Wirtschaftsprüfer/Steuerberater. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 7 FZulG — Kumulierung und Beihilfebezug. - Art. 107 Abs. 1 AEUV. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. FZ: Auftragsforschung gestalten
+### 15.1. FZ: Auftragsforschung gestalten
 
 Arbeitsfokus: FZ: Auftragsforschung gestalten. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 7 FZulG — Kumulierung und Beihilfebezug. - Art. 107 Abs. 1 AEUV — Beihilfebegriff. - Art. 25. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Auszahlung: Internationaler Bezug und Schnittstellen
-
-Arbeitsfokus: Auszahlung: Internationaler Bezug und Schnittstellen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Beihilfen: Beweislast, Darlegungslast und Substantiierung
+### 15.2. Beihilfen: Beweislast, Darlegungslast und Substantiierung
 
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Bemessungsgrundlage 2026
-
-Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von den ansatzfähigen Aufwendungen und dem Höchstbetrag der Bemessungsgrundlage (BMG). Liefere die Berechnungslogik, die Personalkostenformel, die Behandlung von Auftragsforschung und Eigenleistung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix
-
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. FZ: Bescheidung und Rechtsmittel
+### 15.3. FZ: Bescheidung und Rechtsmittel
 
 Arbeitsfokus: FZ: Bescheidung und Rechtsmittel. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 5 FZulG — Antrag auf Forschungszulage. - Paragraf 10 FZulG — Festsetzung und Auszahlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. FZ: Betriebsprüfungs-Strategie
+### 15.4. Fristen- und Risikoampel
 
-Arbeitsfokus: FZ: Betriebsprüfungs-Strategie. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes F&E-Vorhaben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich forschungszulage-antragstellung sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bsfz: Behörden-, Gerichts- oder Registerweg
+### 15.5. FZulG: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Arbeitsfokus: Bsfz: Behörden-, Gerichts- oder Registerweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 2 Abs. 1 FZulG — begünstigtes Forschungs- und Entwicklungsvorhaben. - Paragraf 6. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Mehrjahresroadmap: Fristennotiz und nächster Schritt
+
+Arbeitsfokus: Mehrjahresroadmap: Fristennotiz und nächster Schritt. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Forschungszulage — Allgemein
+
+Arbeitsfokus: Forschungszulage — Allgemein. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes F&E-Vorhaben. - Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Arbeitsfokus: Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Abgrenzung: Compliance-Dokumentation und Aktenvermerk
+
+Arbeitsfokus: Abgrenzung: Compliance-Dokumentation und Aktenvermerk. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Ablehnung, Nachbesserung, Einspruch
+
+Ablehnungen und Nachforderungen kommen vor — die häufigsten Gründe sind nicht "verlorene Fälle", sondern reparable Schwächen in der Projektbeschreibung oder der Belegfähigkeit. Dieser Skill trennt sauber die beiden Ebenen (BSFZ vs. Finanzamt), führt durch den Reparaturprozess. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung
+
+Arbeitsfokus: Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Antrag: Zahlen, Schwellenwerte und Berechnung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anspruchsberechtigtes Unternehmen, Bescheinigungsstelle Forschungszulage (BSFZ), Finanzamt (Festsetzung/Verrechnung), Wirtschaftsprüfer/Steuerberater. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Auszahlung: Internationaler Bezug und Schnittstellen
+
+Arbeitsfokus: Auszahlung: Internationaler Bezug und Schnittstellen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1 FZulG — Anspruchsberechtigung. - Paragraf 2 Abs. 1 FZulG — begünstigtes. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bemessungsgrundlage 2026
+
+Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von den ansatzfähigen Aufwendungen und dem Höchstbetrag der Bemessungsgrundlage (BMG). Liefere die Berechnungslogik, die Personalkostenformel, die Behandlung von Auftragsforschung und Eigenleistung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

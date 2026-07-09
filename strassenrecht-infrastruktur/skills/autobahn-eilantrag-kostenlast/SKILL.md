@@ -52,7 +52,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - § 17 FStrG
 - § 17a FStrG
 - § 74 VwVfG
-- § 80 VwG
+- § 80 VwGO
 - Art. 90 GG
 
 ### Leitentscheidungen

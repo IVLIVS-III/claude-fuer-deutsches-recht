@@ -1147,4 +1147,3 @@ Dieser Skill ordnet den sozialgerichtlichen Streitstoff nach Bescheid, Widerspru
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

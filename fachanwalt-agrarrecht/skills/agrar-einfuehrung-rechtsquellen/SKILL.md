@@ -53,17 +53,17 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ### Kuratierte Normen-Bibliothek
 
-- § 2 LPachtVG
-- § 45a BNatSchG
-- § 23 LwVG
-- § 80 VwG
-- § 70 VwG
-- § 45 BNatSchG
-- § 4 LPachtVG
-- § 4 BImSchG
-- § 74 VwG
+- LPachtVG Paragraf 2
+- BNatSchG Paragraf 45a
+- LwVfG Paragraf 1 Nummer 1a und Paragraf 2
+- VwGO Paragraf 80
+- VwGO Paragraf 70
+- BNatSchG Paragraf 45
+- LPachtVG Paragraf 4
+- BImSchG Paragraf 4
+- § 74 VwGO
 - § 67 OWiG
-- § 68 VwG
+- § 68 VwGO
 - § 10 BImSchG
 
 ### Leitentscheidungen

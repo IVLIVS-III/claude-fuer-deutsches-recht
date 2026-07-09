@@ -890,7 +890,7 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 - § 7 BUrlG
 - Art. 32 DSGVO
 - § 65d SGG
-- § 55a VwG
+- § 55a VwGO
 - Art. 35 DSGVO
 - Art. 21 DSGVO
 
@@ -1819,4 +1819,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

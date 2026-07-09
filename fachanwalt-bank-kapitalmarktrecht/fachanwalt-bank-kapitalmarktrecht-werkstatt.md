@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen | KWG Paragraf 32; BGH, Urteil vom 19.12.2006 - XI ZR 56/05 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage | KWG Paragraf 32; BGH, Urteil vom 19.12.2006 - XI ZR 56/05 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | KWG Paragraf 25a | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege | KWG Paragraf 25a; BGH, Urteil vom 27.04.2021 - XI ZR 26/20 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bausparvertrag Zinsanpassung BGH Xi Zr 78 22 | KWG Paragraf 25a; BGH, Urteil vom 27.04.2021 - XI ZR 26/20 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 675f | Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 | BGB Paragraf 675u und Paragraf 675v | Haftung bei nicht autorisierten Zahlungsvorgängen | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 | BGB Paragraf 765 und Paragraf 766 | Bürgschaft und Schriftform | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
-| Paragraf 1 Abs. 1 KWG | Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
+| Paragrafen 1, 32 KWG | Paragrafen 1, 32 KWG | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
 - BGB Paragraf 675u und Paragraf 675v: Haftung bei nicht autorisierten Zahlungsvorgängen.
 - BGB Paragraf 765 und Paragraf 766: Bürgschaft und Schriftform.
+- Paragrafen 1, 32 KWG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 63 ff. WpHG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 491 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 675c ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 1 Abs. 1 KWG — Bankgeschäfte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 44 Abs. 1 KWG — Auskunfts- und Prüfungsrechte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 Abs. 1 ZAG — Zahlungsdienste: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 10 Abs. 1 ZAG — Erlaubnis Zahlungsinstitut: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 16 DORA — vereinfachter IKT-Risikomanagementrahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,6 +101,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 28.10.2014 - XI ZR 348/13: formularmäßige Bearbeitungsentgelte in Verbraucherdarlehen sind kontrollfähig und regelmäßig unwirksam.
 - EuGH, Urteil vom 09.09.2021 - C-33/20, C-155/20 und C-187/20: Verbraucherkreditinformationen müssen klar, verständlich und für den Fristlauf belastbar sein.
 - BGH 11.07.2023 XI ZR 78/22 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 06.10.2021 XI ZR 234/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 14.05.2019 XI ZR 345/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 14.03.2017 XI ZR 442/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 27.10.2009 XI ZR 338/08 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster
 
@@ -150,58 +154,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anlageberatung Fehlerhaft
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anlageberatungsfehler Prüfen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt Bank Kapitalmarktrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - anlageberatung-fehlerhaft — Anlageberatung Fehlerhaft Cybertrading - anlageberatungsfehler-prüfen —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.1. Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Bankaufsicht Erlaubnis und Vertrieb
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Bankrecht Akkreditiv Standby Lc Dokumentenstreit
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Bankrecht Bürgschaft Auf Erste Anforderung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bankrecht Bürgschaft Aval Garantie Routing
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bankrecht Garantieabruf Eilrechtsschutz
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Bankrecht Kaufmaennische Bürgschaft HGB 349 350
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bankrecht Privatbürgschaft Sittenwidrigkeit
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bankrecht Regress nach Avalzahlung
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Bausparvertrag Zinsanpassung BGH Xi Zr 78 22
+### 15.2. Bausparvertrag Zinsanpassung BGH Xi Zr 78 22
 
 Bausparkasse senkt Bonuszins ohne Bindung an Referenzzins; Sparer wehrt sich. - Paragrafen 1, 32 KWG - Paragrafen 63 ff. WpHG - Paragrafen 491 ff. BGB - Paragrafen 675c ff. BGB - Art. 17 MAR - BGH 11.07.2023 XI ZR 78/22 — nur verwenden, wenn die Fundstelle über ein amtliches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
+### 15.3. Beratungshaftung: Zahlen, Schwellenwerte und Berechnung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Bk Bafin Beschwerdeverfahren Workflow
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Bk Emissionsprospekt Haftung Spezial
+
+Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG — Auskunfts- und Prüfungsrechte. - Paragraf 1 Abs. 1 ZAG — Zahlungsdienste. - Paragraf 10 Abs. 1 ZAG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fehlerhaft: Fristennotiz und nächster Schritt
+
+Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG — Auskunfts- und Prüfungsrechte. - Paragraf 1 Abs. 1 ZAG — Zahlungsdienste. - Paragraf 10 Abs. 1 ZAG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Haftung: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG — Auskunfts- und Prüfungsrechte. - Paragraf 1 Abs. 1 ZAG — Zahlungsdienste. - Paragraf 10 Abs. 1 ZAG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG — Auskunfts- und Prüfungsrechte. - Paragraf 1 Abs. 1 ZAG — Zahlungsdienste. - Paragraf 10 Abs. 1 ZAG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Praemiensparvertrag Zinsanpassung BGH Xi Zr 234 20
+
+Sparkasse hat 1992 bis 2019 Zinsen nach intransparenter Klausel gesenkt; Sparer fordert Nachzahlung. - Paragrafen 1, 32 KWG - Paragrafen 63 ff. WpHG - Paragrafen 491 ff. BGB - Paragrafen 675c ff. BGB - Art. 17 MAR - BGH 06.10.2021 XI ZR 234/20 — nur verwenden, wenn. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Prospekthaftung Inflationsanleihe BGH Xi Zr 442 16
+
+Anleger zeichnet inflationsindexierte Anleihe; Prospekt nennt Hyperinflation nicht als Risiko. - Paragrafen 1, 32 KWG - Paragrafen 63 ff. WpHG - Paragrafen 491 ff. BGB - Paragrafen 675c ff. BGB - Art. 17 MAR - BGH 14.03.2017 XI ZR 442/16 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Anlageberatung Fehlerhaft
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Anlageberatungsfehler Prüfen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bankaufsicht Erlaubnis und Vertrieb
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bankrecht Akkreditiv Standby Lc Dokumentenstreit
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

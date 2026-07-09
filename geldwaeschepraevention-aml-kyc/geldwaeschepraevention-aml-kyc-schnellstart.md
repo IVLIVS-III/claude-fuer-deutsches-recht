@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Monitoring und Meldung: Auffälligkeit, Verdachtsschwelle, Dokumentation, FIU-Weg, Tipping-off und Sperren abgrenzen.
 4. Transparenzregister: wirtschaftlich Berechtigte, Mitteilungen, Unstimmigkeit, Einsicht und Datenschutzgrenzen prüfen.
 5. Arbeitsprodukt: KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen.
-6. AML: Krypto Travel Rule: Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen.
+6. Geldwaeschepräventition AML/KYC — Allgemein: Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AML: Krypto Travel Rule | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geldwaeschepräventition AML/KYC — Allgemein | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Testlauf: Beweislast, Darlegungslast und Substantiierung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AML: Krypto Travel Rule | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AML: Trade-Based | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AML: FIU-Verdachtsmeldung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Awareness: Zahlen, Schwellenwerte und Berechnung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,7 +61,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AML: Krypto Travel Rule, Geldwaeschepräventition AML/KYC — Allgemein, AML: Trade-Based, AML: FIU-Verdachtsmeldung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Geldwaeschepräventition AML/KYC — Allgemein, GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage, Testlauf: Beweislast, Darlegungslast und Substantiierung, AML: Krypto Travel Rule: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aeussere Form und Briefkopf prüfen | GewO Paragraf 109; BAG, Urteil vom 18.11.2014 - 9 AZR 584/13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beweislast nach BAG 9 AZR 584.13 | GewO Paragraf 109; BAG, Urteil vom 18.11.2014 - 9 AZR 584/13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 630 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Ampel-Einschaetzung pro Satz | BGB Paragraf 630; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Klagestrategie und Vollstreckung | BGB Paragraf 630; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -141,57 +141,57 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aeussere Form und Briefkopf prüfen
-
-Ein Arbeitszeugnis muss den im Geschäftsleben ueblichen Anforderungen genügen. Der Prüfer untersucht die aeussere Form unabhängig von Noten und Formulierungen, weil formale Mängel eigene Berichtigungspunkte sind und das Zeugnis in der Praxis entwerten können, selbst wenn. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Ampel-Einschaetzung pro Satz
-
-Die satzweise Einschaetzungsmatrix ist das methodische Kernwerkzeug der Zeugnisprüfung. Für jeden notenrelevanten Satz werden fünf Informationen erhoben und in einer Tabellenzeile zusammengefasst. Das Ergebnis ist eine nachvollziehbare, rechtsprechungsbasierte Bewertung aller. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aufforderungsschreiben Berichtigung
-
-Das außergerichtliche Aufforderungsschreiben ist das erste formale Instrument der Berichtigungsstrategie. Es erfullt drei Funktionen: Es gibt dem Arbeitgeber eine faire Korrekturgelegenheit, es schaerft die Streitpunkte und es schafft die Grundlage fur Fristsetzung und Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Auslassungen erkennen
-
-Schweigen ist im Arbeitszeugnis kein neutraler Zustand. Wenn ein Zeugnis zu einer für die Position erwarteten Eigenschaft schweigt, schließt der kundige Leser darauf, dass die Eigenschaft nicht vorhanden oder problematisch war. Der Prüfer prüft systematisch, welche Aussagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Beendigungsgrund prüfen
-
-Der Beendigungsabschnitt nennt, wie das Arbeitsverhaltnis endete. Er ist rechtlich nicht zwingend Bestandteil des Zeugnisses, ist aber in der Praxis fast immer vorhanden und trägt eigene Signale. Der Prüfer liest ihn gegen den im Intake ermittelten tatsächlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Beweislast nach BAG 9 AZR 584.13
+### 15.1. Beweislast nach BAG 9 AZR 584.13
 
 Die Beweislastverteilung im Zeugnisstreit ist zwingend zu kommunizieren, bevor ein Mandant eine Berichtigungsstrategie entwickelt. Das BAG hat die Grundregel in mehreren Entscheidungen gefestigt: Note 3 ist der Ausgangspunkt. Wer eine bessere Bewertung als Note 3 verlangt, trägt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Doppelboeden und Verneinungen erkennen
+### 15.2. Klagestrategie und Vollstreckung
+
+Wenn das Aufforderungsschreiben fruchtlos bleibt oder der Arbeitgeber nur unzureichend reagiert, ist die Klage auf Zeugnisberichtigung der nächste Schritt. Sie ist eine Leistungsklage beim Arbeitsgericht auf Verurteilung des Arbeitgebers zur Erteilung eines Zeugnisses. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Aeussere Form und Briefkopf prüfen
+
+Ein Arbeitszeugnis muss den im Geschäftsleben ueblichen Anforderungen genügen. Der Prüfer untersucht die aeussere Form unabhängig von Noten und Formulierungen, weil formale Mängel eigene Berichtigungspunkte sind und das Zeugnis in der Praxis entwerten können, selbst wenn. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Ampel-Einschaetzung pro Satz
+
+Die satzweise Einschaetzungsmatrix ist das methodische Kernwerkzeug der Zeugnisprüfung. Für jeden notenrelevanten Satz werden fünf Informationen erhoben und in einer Tabellenzeile zusammengefasst. Das Ergebnis ist eine nachvollziehbare, rechtsprechungsbasierte Bewertung aller. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Aufforderungsschreiben Berichtigung
+
+Das außergerichtliche Aufforderungsschreiben ist das erste formale Instrument der Berichtigungsstrategie. Es erfullt drei Funktionen: Es gibt dem Arbeitgeber eine faire Korrekturgelegenheit, es schaerft die Streitpunkte und es schafft die Grundlage fur Fristsetzung und Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Auslassungen erkennen
+
+Schweigen ist im Arbeitszeugnis kein neutraler Zustand. Wenn ein Zeugnis zu einer für die Position erwarteten Eigenschaft schweigt, schließt der kundige Leser darauf, dass die Eigenschaft nicht vorhanden oder problematisch war. Der Prüfer prüft systematisch, welche Aussagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Beendigungsgrund prüfen
+
+Der Beendigungsabschnitt nennt, wie das Arbeitsverhaltnis endete. Er ist rechtlich nicht zwingend Bestandteil des Zeugnisses, ist aber in der Praxis fast immer vorhanden und trägt eigene Signale. Der Prüfer liest ihn gegen den im Intake ermittelten tatsächlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Doppelboeden und Verneinungen erkennen
 
 Doppelte Verneinungen und versteckte Abschwaecher gehoeren zu den raffinierteren Techniken negativer Zeugniscodierung. Sie klingen beim fluchtigen Lesen positiv, enthalten aber eine sprachliche Einschränkung, die der kundige Empfaenger sofort registriert. Der Prüfer prüft jeden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Einfuehrung
+### 15.9. Einführung
 
 klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Frequenzadverbien prüfen
+### 15.10. Frequenzadverbien prüfen
 
 Frequenzadverbien geben an, wie oft etwas geschieht, nicht wie gut. In der Zeugnissprache werden sie dennoch zur Notensteuerung eingesetzt und können eine Bewertungsaussage abschwaechen, wenn sie einen eigentlich positiven Satz einschränken. Der Prüfer prüft Frequenzadverbien. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Fuehrungskraft-Verhalten prüfen
+### 15.11. Führungskraft-Verhalten prüfen
 
-Zeugnisse für Fuehrungskraefte unterliegen erhoehten Prüfanforderungen. Neben den Standardachsen Leistung, Verhalten und Engagement muss das Zeugnis explizit Aussagen zur Mitarbeiterfuehrung und zur Loyalitaet gegenüber dem Unternehmen enthalten. Fehlen diese Aussagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zeugnisse für Führungskraefte unterliegen erhöhten Prüfanforderungen. Neben den Standardachsen Leistung, Verhalten und Engagement muss das Zeugnis explizit Aussagen zur Mitarbeiterführung und zur Loyalitaet gegenüber dem Unternehmen enthalten. Fehlen diese Aussagen, ist das ein. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Geheimcodes-Katalog
+### 15.12. Geheimcodes-Katalog
 
 Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulässig. Der Prüfer identifiziert diese Codes, benennt die riskante Lesart und markiert jeden Code als orangen oder roten Befund. Wichtige Einschränkung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Intake und Stammdaten prüfen
+### 15.13. Intake und Stammdaten prüfen
 
 Der Prüfer erfasst die Stammdaten unmittelbar aus dem vorliegenden Zeugnis, nicht per Interview. Was fehlt oder unklar ist, wird als gekennzeichnete Annahme geführt. Rückfragen sind nur bei echtem Verstaendnisblocker zulässig (zum Beispiel unleserlicher Text, zwei verschiedene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Klagestrategie und Vollstreckung
-
-Wenn das Aufforderungsschreiben fruchtlos bleibt oder der Arbeitgeber nur unzureichend reagiert, ist die Klage auf Zeugnisberichtigung der nächste Schritt. Sie ist eine Leistungsklage beim Arbeitsgericht auf Verurteilung des Arbeitgebers zur Erteilung eines Zeugnisses. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Mandantenbericht erstellen
 

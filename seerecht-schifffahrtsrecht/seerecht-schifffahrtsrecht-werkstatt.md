@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Offshore-Schiff – Arrest vorbereiten | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Binnenschiff – Kaufvertrag scopen | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Rom-I-VO Artikel 3 und 4 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Auslandsflagge und Local Counsel – Flaggenstaat-Compliance | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Binnenschiff – Klagepfad wählen | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | CISG Artikel 1 und 6 | Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74 | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | New Yorker Übereinkommen Artikel II und V | Schiedsvereinbarung und Anerkennungsversagungsgründe | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | ZPO Paragraf 293 | Ermittlung ausländischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht bestimmen | 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht bestimmen | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| 5. Gewaehrleistungsklauseln | BGB Paragrafen 433-479 oder as-is-Ausschluss? | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -79,14 +79,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
 - ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
-- 3. LG am Liegeplatz (ZPO Paragraf 919) als zuständiges Gericht bestimmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- ZPO Paragrafen 916-945 Arrest; ZPO Paragraf 929 Vollziehungsfrist; SchRegO Paragraf 67; ISAC 1952 Art. 1: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Besteht Risiko des ZPO Paragraf 945-Schadensersatzes bei unberechtigtem Arrest?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- ZPO Paragraf 945-Schadensersatz bei unberechtigtem Arrest kann erheblich sein: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- [ ] Zuständiges Gericht bestimmt (LG am Liegeplatz; ZPO Paragraf 919): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- [ ] Arrestantrag (ZPO Paragraf 920) vollständig vorbereitet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BGH zur Haftung aus ungerechtfertigtem Arrest nach ZPO Paragraf 945: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- ZPO Paragraf 916: dinglicher Arrest; Voraussetzungen; Arrestanspruch; Arrestgrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- 5. Gewaehrleistungsklauseln: BGB Paragrafen 433-479 oder as-is-Ausschluss?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnenschiffe; BinSchRegO; BGB Paragrafen 433-479 Kaufgewaehrleistung; SchRG Paragraf 2 Eigentumsübergang; SchRegO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- [ ] Gewährleistung (BGB Paragrafen 433-479) oder Ausschluss (as-is) klar vereinbart: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragraf 433: Kaufvertrag; Pflichten des Verkäufers: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 434-442: Sachmangel; Rechtsmangel; Haftungsausschluss: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 437-441: Mängelrechte des Käufers; Nacherfüllung; Rücktritt; Minderung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragrafen 480-482: Schiffslieferung im Kontext des Handelsrechts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -140,58 +140,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Offshore-Schiff – Arrest vorbereiten
+### 15.1. Binnenschiff – Kaufvertrag scopen
+
+Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgüterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG Paragrafen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Binnenschiff – Klagepfad wählen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
+### 15.3. Charterparty – Kaufvertrag scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Bergung und Wrack – Bergungslohn und Beseitigungspflicht
+### 15.4. Charterparty – Klagepfad wählen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken
+### 15.5. Containerschiff – Kaufvertrag scopen
+
+Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag für Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. HGB Paragrafen 481-526. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Containerschiff – Klagepfad wählen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Binnenschiff – Arrest vorbereiten
+### 15.7. Konnossement – Kaufvertrag scopen
+
+Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag für Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. HGB Paragrafen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Konnossement – Klagepfad wählen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Binnenschiff – Closing planen
+### 15.9. Kreuzfahrtschiff – Kaufvertrag scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Binnenschiff – Schiffshypothek bestellen
-
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Binnenschiff – Kaufvertrag scopen
-
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG Paragrafen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Binnenschiff – Klagepfad wählen
+### 15.10. Kreuzfahrtschiff – Klagepfad wählen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Binnenschiff – Local Counsel instruieren
+### 15.11. Offshore-Schiff – Klagepfad wählen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Binnenschiff – Registerprüfung
+### 15.12. Offshore-Schiff – Closing planen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Binnenschiff – Risiko-Memo schreiben
+### 15.13. Schiffbauvertrag Werft – Risikoprüfung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Binnenschiff – Schadensfall bei Versicherung melden
+### 15.14. Schiffbauwerk – Kaufvertrag scopen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Binnenschiff – Wrackbeseitigungspflicht prüfen
-
-Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG Paragrafen 1-12 für gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag für Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG Paragrafen 76-104 Schiffbauwerkshypothek. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

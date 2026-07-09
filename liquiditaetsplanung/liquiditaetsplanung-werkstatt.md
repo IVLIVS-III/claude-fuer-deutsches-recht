@@ -36,7 +36,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
-### 3.4. Insolvenznaehe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
+### 3.4. Insolvenznähe: Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Ampel: Zahlen, Schwellenwerte und Berechnung | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Ausgabengruppen: Fristennotiz und nächster Schritt | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,7 +61,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | InsO Paragraf 18 | drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
 | InsO Paragraf 19 | Überschuldung bei juristischen Personen | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
 | StaRUG Paragraf 1 | Krisenfrüherkennung und Krisenmanagement | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
-| GmbHG Paragraf 43 | Sorgfaltspflichten der Geschäftsfuehrung | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
+| GmbHG Paragraf 43 | Sorgfaltspflichten der Geschäftsführung | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
 | AktG Paragraf 91 Absatz 2 | Überwachungssystem für bestandsgefährdende Entwicklungen | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
 | Normen-/Quellenanker | InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen | Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an | Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp |
 
@@ -83,16 +83,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal.
 - InsO Paragraf 19: Überschuldung bei juristischen Personen.
 - StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
-- GmbHG Paragraf 43: Sorgfaltspflichten der Geschäftsfuehrung.
+- GmbHG Paragraf 43: Sorgfaltspflichten der Geschäftsführung.
 - AktG Paragraf 91 Absatz 2: Überwachungssystem für bestandsgefährdende Entwicklungen.
 - Normen-/Quellenanker: InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Ordne alle Liquiditätsdaten so, dass ein Dritter den Krisenverlauf nachvollziehen kann. Starte mit Stichtagen, Bankauszügen, OP-Listen, Mahnungen, Stundungen, Darlehenslinien: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragrafen 17, 18, 19, 15a: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- HGB Paragrafen 238, 242, 252 zur Buchführungs-/Abschlusslogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- GmbHG Paragraf 43, AktG Paragraf 93: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- AO Paragrafen 140 ff., 147; GoBD als Dokumentationsrahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 InsO — Ziele des Insolvenzverfahrens. - Paragraf 13 InsO — Insolvenzantrag. - Paragraf 15a InsO — Antragspflicht juristischer Personen. - Paragraf 17 InsO —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 InsO — Ziele des Insolvenzverfahrens: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- InsO Paragrafen 17-19, Paragraf 15a: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GmbHG Paragraf 43, AktG Paragraf 93 sowie ggf. Paragraf 64 GmbHG a.F. für Altfälle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Starte nicht mit allgemeinen Fragen, sondern mit dem Zahlenraum: heutiger Bankstand, freie Linien, OP Debitoren/Kreditoren, Löhne, Sozialversicherung, Steuern, Mieten, Darlehen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- InsO Paragrafen 17, 18, 19: Liquiditätsstatus und Prognose: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- InsO Paragraf 15a: Antragspflicht; Fristbeginn dokumentieren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,6 +101,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 26.01.2017 - IX ZR 285/14: Liquiditätsstatus und Zahlungsstockung sind nicht durch Hoffnung auf spaetere Mittelzuflüsse zu ersetzen.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Indizien für Zahlungsunfähigkeit und Gläubigerkenntnis sind im Zusammenhang zu würdigen.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Tragfähige Sanierungsbemuehungen setzen ein belastbares Konzept und erkennbare Finanzierung voraus.
+- BGH IX ZR 129/22 vom 18.04.2024 ist als Pflichtanker zu prüfen, wenn ein Liquiditätsstatus gegenüber einem außenstehenden Dritten verwendet wird. Die Erklärungslast der Gegenseite steigt nur
 
 ## 9. Prüfraster
 
@@ -150,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Ampel: Zahlen, Schwellenwerte und Berechnung
+### 15.1. Ausgabengruppen: Fristennotiz und nächster Schritt
 
 Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Ausgabengruppen: Fristennotiz und nächster Schritt
+### 15.2. Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Liqui: Ausgabengruppen
+### 15.3. Fristen- und Risikoampel Liquiditätsplanung
 
-Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erzeuge aus einer Liquiditätsakte eine rote/gelbe/grüne Fristenliste. Entscheidend sind nicht nur Prozessfristen, sondern Zahlungstage und Krisenschwellen: Löhne, SV, Lohnsteuer/USt, Mieten, Leasing, Kreditraten, Covenants, Lieferantenstopps. - InsO Paragrafen 17-19. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Liqui: drohende ZU
-
-Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Liqui: eingetretene ZU
-
-Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Cash-Pooling im Konzern
-
-Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Chronologie und Belegmatrix Liquiditätsplanung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Deutschem Dokumentationspaket Excel
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Liqui Drohender Zahlungsunfähigkeit
+### 15.4. Interessen Verifikation Beweislast Vorschau
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Liqui: Eingangsdaten-Checkliste
+### 15.5. Start, Chronologie und Fristen Liquiditätsvorschau
+
+Starte nicht mit allgemeinen Fragen, sondern mit dem Zahlenraum: heutiger Bankstand, freie Linien, OP Debitoren/Kreditoren, Löhne, Sozialversicherung, Steuern, Mieten, Darlehen, Covenants und geplante Sondereffekte. - InsO Paragrafen 17, 18, 19: Liquiditätsstatus und Prognose. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Verifikation: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 1 InsO — Ziele des Insolvenzverfahrens. - Paragraf 13 InsO — Insolvenzantrag. - Paragraf 15a InsO — Antragspflicht juristischer Personen. - Paragraf 17 InsO — Zahlungsunfähigkeit. - Paragraf 18 InsO — drohende Zahlungsunfähigkeit. - Paragraf 19 InsO — Überschuldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Wochen: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung. - Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Ampel: Zahlen, Schwellenwerte und Berechnung
+
+Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Liqui: Ausgabengruppen
 
 Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Liqui: drohende ZU
+
+Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Liqui: eingetretene ZU
+
+Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Cash-Pooling im Konzern
+
+Entscheidende Weiche: Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Chronologie und Belegmatrix Liquiditätsplanung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Deutschem Dokumentationspaket Excel
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

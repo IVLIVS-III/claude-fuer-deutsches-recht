@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Normstruktur: Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen.
 4. Subsumtion und Gegenprobe: für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen.
 5. Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren.
-6. Anfrage-Eingang-Parser: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
+6. Einwilligungshinweis: Fristennotiz und nächster Schritt: Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Einwilligungshinweis: Fristennotiz und nächster Schritt | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandantenanfragen-Assistent — Allgemein | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Transkription: Beweislast, Darlegungslast und Substantiierung | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfrage-Eingang-Parser | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anrede: Verhandlung, Vergleich und Eskalation | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anrede-Übernehmen | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bietet Fehlerkatalog | Rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
+- Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 203 StGB — Verletzung von Privatgeheimnissen (Grenze anwaltlicher Schweigepflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 49b Abs. 5 BRAO — Kostenbelehrungspflicht: vor Mandatsannahme über voraussichtliche Kosten informieren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG — Allgemeines Persönlichkeitsrecht: korrekte Namens- und Titelanrede ist Teil des Persönlichkeitsschutzes: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 BRAO — Sorgfaltspflicht: fehlerfreie Kommunikation als Bestandteil anwaltlicher Berufspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

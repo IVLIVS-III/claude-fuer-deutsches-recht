@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Kanzlei Management ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Kanzleivorgang von Mandatsannahme und Frist bis Freigabe, Versand, Abrechnung und Nachkontrolle zuverlässig abarbeiten.
 
 # Kanzlei Management — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. algorithmische Systeme und Legal Ops in der Kanzlei: Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4.
-2. Associate-Kündigungswelle: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
-3. Associates nicht vergraulen: Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4.
-4. Associate-Retention-Radar: Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4.
-5. beA und ERV Risiko: Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4.
-6. Benchmarking und Marktvergleich: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
+1. Mandat eröffnen: Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung sichern.
+2. Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren.
+3. Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen.
+4. Versand und Nachweis: Signatur, Dateiformat, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen.
+5. Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage dokumentieren.
+6. Mandatsannahme: Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 43 BRAO; Paragraf 43 BRAO; Paragraf 43a Abs. 2 BRAO |
+| Normenanker | BRAO Paragraf 43a Absatz 2 und Absatz 4; BRAO Paragraf 43e; BRAO Paragraf 31a sowie ZPO Paragraf 130a |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern |
+| Beweislast | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben |
+| Rechtsfolge | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| algorithmische Systeme und Legal Ops in der Kanzlei | Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Associate-Kündigungswelle | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Associates nicht vergraulen | Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Associate-Retention-Radar | Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA und ERV Risiko | Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Benchmarking und Marktvergleich | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsannahme | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenkontrolle | Auslöser, Bekanntgabe, Kalenderberechnung, Eintrag, Gegenkontrolle, Verantwortlicher und Vertretung dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bearbeitung und Freigabe | Arbeitsauftrag, Aktenstand, offene Entscheidung, Vieraugenkontrolle, Budget und Freigabefassung führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Elektronischer Versand | Empfänger, Dateiformat, Signatur, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung und Fremdgeld | Gebührentatbestand, Gegenstandswert, Vereinbarung, Vorschuss, Fremdgeld, Rechnung und Zahlungslauf abstimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsabschluss | Ergebnis, Restfristen, Vollstreckung, Rückgabe, Aufbewahrung, Schlussrechnung und Wiedervorlage festhalten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 BRAO — allgemeine Berufspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 4 BRAO — Interessenkollision: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO — Vergütungsrechtliche Grenzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO — Handakten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 4 RVG — Vergütungsvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragraf 43a Absatz 2 und Absatz 4: Verschwiegenheit und Verbot widerstreitender Interessen.
+- BRAO Paragraf 43e: Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit.
+- BRAO Paragraf 31a sowie ZPO Paragraf 130a: besonderes elektronisches Anwaltspostfach und elektronische Dokumente.
+- GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder algorithmische Systeme und Legal Ops in der Kanzlei, Associate-Kündigungswelle, Associates nicht vergraulen, Associate-Retention-Radar: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt; Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
 
 ## 8. Stop
 

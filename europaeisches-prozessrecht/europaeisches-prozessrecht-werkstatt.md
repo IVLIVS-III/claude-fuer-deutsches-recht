@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Unionsamtshaftung | EUV Artikel 19; EuGH, Urteil vom 15.07.1963 - 25/62 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AEUV Artikel 256 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | e-Curia Einreichung und Zustellung | AEUV Artikel 256; EuGH, Urteil vom 06.10.1982 - 283/81 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Nichtigkeitsklage nach Art. 263 AEUV | AEUV Artikel 256; EuGH, Urteil vom 06.10.1982 - 283/81 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie | Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -145,54 +145,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden, Kausalität und Bezifferung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle.
-
-Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle und Empfangsprüfung vor EuGH und Gericht der Europäischen Union. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni.
-
-Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni iuris, Interessenabwägung und Belegpflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte
+### 15.2. Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte
 
 Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist, anfechtbarer Akt, Klagegründe, Anlagenlogik und Antragssatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV.
-
-Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusive Entscheidungserheblichkeit, acte clair, acte éclairé und Vorlagepflicht letzter Instanzen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof.
-
-Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof mit Fristen, Prüfungsumfang und Anfechtungszielen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Berechnet unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne.
+### 15.3. Berechnet unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne.
 
 Berechnet unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne Review-Termine für EuGH- und EuG-Verfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen
-
-Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen: Interesse am Ausgang, Frist, Rolle, Schriftsatzgrenzen, Vertraulichkeit und Koordination mit Hauptpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Routet unionsprozessuale Mandate schnell auf Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung.
-
-Routet unionsprozessuale Mandate schnell auf Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiligen Rechtsschutz oder Rechtsmittel und liefert sofort Fristen-, Zuständigkeits- und Dokumentenplan. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie.
+### 15.4. Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie.
 
 Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt, Durchführungsmaßnahmen und Belegstrategie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster.
+### 15.5. Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung.
+
+Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung zum Tätigwerden, Fristenkontrolle, Rechtsschutzbedürfnis und Antragsfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV
+
+Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV: Kommissionsbeschwerde, Vorverfahren, mit Gründen versehene Stellungnahme, Klage, Zwangsgeld und strategische Parallelverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge.
+
+Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern. Aktivieren bei e-Curia-Einreichung, Art.-103-Vertraulichkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle.
+
+Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle und Empfangsprüfung vor EuGH und Gericht der Europäischen Union. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni.
+
+Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni iuris, Interessenabwägung und Belegpflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV.
+
+Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusive Entscheidungserheblichkeit, acte clair, acte éclairé und Vorlagepflicht letzter Instanzen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof.
+
+Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof mit Fristen, Prüfungsumfang und Anfechtungszielen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen
+
+Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen: Interesse am Ausgang, Frist, Rolle, Schriftsatzgrenzen, Vertraulichkeit und Koordination mit Hauptpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster.
 
 Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster, reputationssensibler Punkte und Folgeentscheidungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bereitet mündliche Verhandlung, Richterfragen, Minutenplan, Sprachfassung, Replikpunkte und Entscheidungsbitten.
+### 15.14. Bereitet mündliche Verhandlung, Richterfragen, Minutenplan, Sprachfassung, Replikpunkte und Entscheidungsbitten.
 
 Bereitet mündliche Verhandlung, Richterfragen, Minutenplan, Sprachfassung, Replikpunkte und Entscheidungsbitten vor, ohne die schriftliche Linie zu verlassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Prüft Rechtsmittel gegen Urteile des Gerichts der Europäischen Union
-
-Prüft Rechtsmittel gegen Urteile des Gerichts der Europäischen Union: Rechtsfragen, Zulässigkeit, Klagegründe, keine neue Tatsacheninstanz, Frist und Antrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Erstellt Klage, Klagebeantwortung, Streithilfeschriftsatz, Rechtsmittel, Antrag auf einstweilige Anordnung.
-
-Erstellt Klage, Klagebeantwortung, Streithilfeschriftsatz, Rechtsmittel, Antrag auf einstweilige Anordnung und mündliche Notes im Stil der Unionsgerichte. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

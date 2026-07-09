@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenführung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beschwerdemanagement | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Notare: amtsenthebung vermögensverfall - Kammerantwort mit Verfahrensstrategie | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -92,7 +92,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 40 GmbHG — Gesellschafterliste: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 14 BNotO (Amtspflichten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 95 BNotO (Disziplinarmaßnahmen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 26 BNotO (Geschäftsstelle): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 65 BNotO (Notarkammer): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenführung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Amtsenthebung Vermögensverfall
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Amtsenthebung Vermögensverfall Organisationspflicht
+### 15.1. Beschwerdemanagement
 
 Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Amtsenthebung Vermögensverfall Rechtsprechungscheck
+### 15.2. Dienstaufsicht Beschwerde
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anderkonto und Verwahrung Kammerantwort und Verfahrensst
+### 15.3. Dienstaufsicht Beschwerde Kammerantwort und Verfahrensst
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Anderkonto und Verwahrung Organisationspflicht und Praev
+### 15.4. Dienstaufsicht Beschwerde Organisationspflicht und Praev
+
+Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Erbvertrag Testament Belehrung Kammerantwort und Verfahr
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Erbvertrag Testament Belehrung Organisationspflicht
+
+Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Erbvertrag Testament Belehrung Rechtsprechungscheck
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Fristen- und Zuständigkeitscockpit
+
+Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Fristenkontrolle
+
+Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Honorar, Gebühren und Vergütung
+
+Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Kostenrechnung Gnotkg Beschwerde
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Kostenrechnung Gnotkg Beschwerde Organisationspflicht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anderkonto und Verwahrung Rechtsprechungscheck und Red T
+### 15.13. Aktenführung
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Anderkonto Verwahrung Faktenmatrix
-
-Normenanker: BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht. - Institutionen: Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen. - Spezialspur: Anderkonto nur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Auszahlungsanweisung Faktenmatrix
-
-Normenanker: BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht. - Institutionen: Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen. - Spezialspur: Leite aus dem. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Auszahlungsanweisung Konflikt Kammerantwort und Verfahren
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Auszahlungsanweisung Konflikt Organisationspflicht und P
-
-Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Auszahlungsanweisung Konflikt Rechtsprechungscheck und R
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Belehrungspflicht und Verbraucher Organisationspflicht U
-
-Paragraf 14 Abs. 1 BNotO — notarielle Amtspflichten. - Paragraf 17 Abs. 1 BeurkG — Belehrung und Erforschung des Willens. - Paragraf 13 BeurkG — Vorlesen, Genehmigen, Unterschreiben. - Paragraf 40 BeurkG — Beglaubigung einer Unterschrift. - Paragraf 53 BeurkG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Belehrungspflicht Verbraucher
+### 15.14. Amtsenthebung Vermögensverfall
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

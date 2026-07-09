@@ -44,7 +44,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ### Kuratierte Normen-Bibliothek
 
 - § 11 BGG
-- § 58 VwG
+- § 58 VwGO
 - § 14 BGG
 - § 184 GVG
 - § 186 GVG
@@ -52,7 +52,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - § 35 VwVfG
 - § 37 VwVfG
 - § 187 GVG
-- § 73 VwG
+- § 73 VwGO
 - § 12a BGG
 - § 29 VwVfG
 

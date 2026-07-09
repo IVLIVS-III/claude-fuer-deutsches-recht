@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abmahnung Reagieren | BGB Paragraf 104 bis Paragraf 185; BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Agb Anwaltsvertrag und Allg Mandatsbedingungen | BGB Paragraf 104 bis Paragraf 185; BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abnahme Testing | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Formulararbeitsvertrag | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,10 +69,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis bei Datenschutz-/UWG-Verstößen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis bei Datenschutz-/UWG-Verstößen |
-| BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter Nutzerentscheidung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter Nutzerentscheidung |
+| BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung |
 | BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) |
+| BGH I ZR 7/16 (Planet49 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle) |
 | BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln) |
+| BGH I ZR 186/17 (App-Zentrum/Meta | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,21 +86,22 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- 1. Normenstand sichern: Vor tragenden Aussagen BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 305-310 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BRAO Paragrafen 43, 49b zur Honorarvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 305 BGB (Einbeziehung von AGB): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 305c BGB (überraschende und mehrdeutige Klauseln): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 307 BGB (Inhaltskontrolle, Transparenzgebot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 308 BGB (Klauselverbote mit Wertungsmöglichkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 309 BGB (Klauselverbote ohne Wertungsmöglichkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 310 BGB (Anwendungsbereich, B2B-Modifikation): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis bei Datenschutz-/UWG-Verstößen
-- BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter Nutzerentscheidung
+- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung
 - BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
+- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
 - BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
+- BGH I ZR 186/17 (App-Zentrum/Meta: Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß)
 
 ## 9. Prüfraster
 
@@ -149,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abmahnung Reagieren
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Abnahme Testing
-
-Klauselproblem (Abnahme Testing): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Abtretung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Adversarial Test AGB
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Änderungsvorbehalt 308
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Agb Anwaltsvertrag und Allg Mandatsbedingungen
+### 15.1. Agb Anwaltsvertrag und Allg Mandatsbedingungen
 
 Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klärt die AGB-rechtliche Prüfung typischer Mandatsbedingungen Vergütungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Agb Arbeitnehmerüberlassung Aueg
+### 15.2. Formulararbeitsvertrag
 
-Klauselproblem (Agb Arbeitnehmerüberlassung Aueg): AGB bei Arbeitnehmerüberlassung (AUeG). Skill klärt die AGB-rechtliche Prüfung der Standardverträge zwischen Verleiher Entleiher und Leiharbeitnehmer Equal-Pay-Klauseln Branchenzuschlaege Verleihbarkeitsausschluss. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Formulararbeitsvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. 1 S. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. abrufenrechte
+### 15.3. Agb für Vereinsausschluss und Haftung
 
-Klauselproblem (abrufenrechte): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Für Vereinsausschluss Und Haftung): AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skill klärt die AGB-rechtliche Prüfung von Ausschlussklauseln in Vereinssatzungen und Beitrittsformularen das Verhältnis zur Vereinsautonomie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. AGB Begriff Vorformuliert 305
+### 15.4. Agb Haftung Erfüllungsgehilfen
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Agb Begriff Vorformuliert 305. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Haftung Erfüllungsgehilfen): AGB-Haftung für Erfüllungsgehilfen. Skill klärt die AGB-rechtliche Behandlung von Haftungsausschlüssen für Erfüllungsgehilfen (Paragraf 278 BGB) und die Wechselwirkung mit Paragraf 309 Nr. 7 BGB. Behandelt die BGH-Linie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Agb bei Digitalen Produkten 327F Update
+### 15.5. Agb im Arbeitsvertrag 310 Abs 4 Vertieft
 
-Paragrafen 327-327u BGB (in Kraft 01.01.2022). - Digitale-Inhalte-Richtlinie (EU) 2019/770. - Digitale-Inhalte-und-Dienste-Richtlinie (EU) 2019/771 (Waren mit digitalen Elementen). - Verkaeufer/Anbieter muss Updates bereitstellen, "die für den Erhalt der Vertragsmäßigkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 310 Abs. 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle. - Paragraf 310 Abs. 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen. - Klausel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Agb bei Iso Verträgen International
+### 15.6. Agb im Bankvertrag Sparkassen und Banken
 
-Klauselproblem (Agb Bei Iso Verträgen International): AGB bei internationalen ISO-Verträgen. Skill behandelt die AGB-rechtliche Prüfung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klärt die Wechselwirkung mit Rom-I und ordre public. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Im Bankvertrag Sparkassen Und Banken): AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschäftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Änderungen einseitige Vertragsanpassung BGH-Linie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Agb bei Kreditverträgen Verbraucherdarlehen
+### 15.7. Agb im Bauvertrag Vob B 2024
 
-Klauselproblem (Agb Bei Kreditverträgen Verbraucherdarlehen): AGB bei Verbraucherdarlehensverträgen. Skill behandelt AGB im Kontext der Paragrafen 491 ff. BGB Vorvertragliche Information Widerrufsrecht effektiver Jahreszins Sondervorschriften zu Restschuldversicherung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Im Bauvertrag Vob B 2024): AGB-Kontrolle der VOB-B im Bauvertrag. Skill klärt die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter Paragraf 310 Abs. 1 BGB Erlass des Paragraf 308. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Agb bei Plattformnutzung App Stores
+### 15.8. Agb im Leasingvertrag Fortwirkung
 
-Klauselproblem (Agb Bei Plattformnutzung App Stores): AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klärt die AGB-rechtlichen Kontrollfaktoren der Standardverträge Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhältnis zur P2B-Verordnung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Im Leasingvertrag Fortwirkung): AGB im Leasingvertrag. Skill klärt AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Mängelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Agb bei Vereinen und Verbaenden
+### 15.9. Kardinalpflichten
 
-Klauselproblem (Agb Bei Vereinen Und Verbaenden): AGB bei Vereinen und Verbaenden. Skill klärt die AGB-rechtliche Prüfung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhältnis zwischen Vereinsautonomie (Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Kardinalpflichten): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Konzernklausel
+
+Klauselproblem (Konzernklausel): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Lagerbedingungen
+
+Klauselproblem (Lagerbedingungen): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. 1 S. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Subunternehmer
+
+Klauselproblem (Subunternehmer): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Agb Vertragsstrafe 309 Nr 6
+
+Klauselproblem (Agb Vertragsstrafe 309 Nr 6): AGB-Vertragsstrafe nach Paragraf 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klärt Höchstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Annahmefrist Leistungsfrist 308
+
+Klauselproblem (Annahmefrist Leistungsfrist 308): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

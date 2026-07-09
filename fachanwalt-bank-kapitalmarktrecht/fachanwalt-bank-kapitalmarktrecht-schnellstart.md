@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Pflichten und Aufsicht: Erlaubnis, Organisation, Aufklärung, Dokumentation, Geeignetheit, Autorisierung und Meldepflichten prüfen.
 4. Haftung und Beweis: Beratungsfehler, Rückvergütung, Fehlüberweisung, Missbrauch, Marktinformation und Kausalität belegen.
 5. Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
-6. Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen, Nutzerangaben, Fristen, Belege.: Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte.
+6. Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage: Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen, Nutzerangaben, Fristen, Belege. | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung. | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt. | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies. | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bausparvertrag Zinsanpassung BGH Xi Zr 78 22 | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratungshaftung: Zahlen, Schwellenwerte und Berechnung | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Maßnahme | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklärung, fehlerhafte. | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fehlerhaft: Fristennotiz und nächster Schritt | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,17 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
 - WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
 - BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-- Paragraf 1 Abs. 1 KWG — Bankgeschäfte. - Paragraf 32 Abs. 1 KWG — Erlaubnispflicht. - Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation. - Paragraf 44 Abs. 1 KWG —: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 Abs. 1 KWG — Bankgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 32 Abs. 1 KWG — Erlaubnispflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25a Abs. 1 KWG — ordnungsgemäße Geschäftsorganisation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 1, 32 KWG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 63 ff. WpHG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 491 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 675c ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 19.12.2006 - XI ZR 56/05: Rückvergütungen in der Anlageberatung müssen offen gelegt werden, wenn sie für den Kunden einen Interessenkonflikt verdecken.
 - BGH, Urteil vom 27.04.2021 - XI ZR 26/20: Zustimmungsfiktionen in Banken-AGB genügen der Inhaltskontrolle nicht, wenn sie wesentliche Vertragsänderungen ermöglichen.
 - BGH 11.07.2023 XI ZR 78/22 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 06.10.2021 XI ZR 234/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 14.05.2019 XI ZR 345/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fachanwalt Bank Kapitalmarktrecht Anlageberatung Fehlerhaft: ordnet Normen, Nutzerangaben, Fristen, Belege., Anlageberatungsfehler Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung., Anschluss-Routing, Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage, Bausparvertrag Zinsanpassung BGH Xi Zr 78 22, Beratungshaftung: Zahlen, Schwellenwerte und Berechnung, BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Maßnahme: Kurzvermerk, Prüfmatrix, Entwurf.
 
 ## 8. Stop
 

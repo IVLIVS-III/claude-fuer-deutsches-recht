@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Normenkontrollrat-NKR — Einstieg und Routing | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | NKR-Evaluierung, Befristung, Sunset-Klausel | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Normenkontrollrat-NKR — Einstieg und Routing | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Paragraf 44 Abs. 1 Nr. 4 GGO | Prüfpflicht "Alternativen" | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Paragraf 44 GGO | Evaluierungspflicht in Begründung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,12 +85,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
+- Paragraf 44 GGO — Evaluierungspflicht in Begründung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 44 Abs. 1 Nr. 4 GGO — Prüfpflicht "Alternativen": im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 44 Abs. 1 Nr. 4 GGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 44, 45, 62 GGO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 44 GGO — Folgen-Prüfung umfasst auch Digitales: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 44 GGO, NKRG Paragraf 4 (Prüfungsgegenstand): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) Paragraf 4 Abs. 3 (Digitalcheck) i.V.m. Paragraf 9 (Anwendbarkeit ab 1. Januar 2023): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -148,58 +147,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Normenkontrollrat-NKR — Einstieg und Routing
+### 15.1. NKR-Evaluierung, Befristung, Sunset-Klausel
+
+Der NKR empfiehlt regelmäßig Evaluierungs- und Befristungsklauseln, wenn Wirksamkeit, Aufwand oder Zielereichung unsicher sind. Befristung (Sunset) heisst: das Gesetz tritt nach X Jahren automatisch außer Kraft, wenn nicht verlaengert. - Vorhaben mit hoher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Normenkontrollrat-NKR — Einstieg und Routing
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug
+### 15.3. NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. NKR-Aufgabe und Kompetenz nach NKRG
+### 15.4. NKR-Aufgabe und Kompetenz nach NKRG
 
 Skill, der den rechtlichen und institutionellen Rahmen des NKR aufrollt. Wird gebraucht, wenn intern oder gegenüber einem Ressort zu klären ist, was der NKR prüfen darf, muss und nicht darf. - Streit zwischen NKR und Ressort, ob ein Vorhaben befassungspflichtig ist - Anfrage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
+### 15.5. NKR-Buerokratieabbau-Katalog — konkrete Vorschläge
 
 Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederkehrender Muster. Dieser Skill sammelt sie als Standardrepertoire für Empfehlungen in NKR-Stellungnahmen und für One-in-one-out-Gegenrechnung. - Stellungnahme mit konkreten Änderungsempfehlungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. NKR-Buerokratiekosten vs. Erfüllungsaufwand
+### 15.6. NKR-Buerokratiekosten vs. Erfüllungsaufwand
 
 Bis 2011 prüftes der NKR nur Buerokratiekosten (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er seit 2011 den umfassenderen Erfüllungsaufwand. Die Begriffe werden in der Praxis weiter durcheinandergeworfen. - Ressort verwendet beide Begriffe synonym - Schulung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit
+### 15.7. NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
+### 15.8. NKR-Digitalcheck und Onlinezugangsgesetz (OZG)
 
 Das Onlinezugangsgesetz (OZG) verpflichtet Bund und Länder, Verwaltungsleistungen digital anzubieten. Der Digitalcheck (BMI / NKR; gesetzliche Grundlage Paragraf 4 Abs. 3 NKRG, ab dem 1. Januar 2023 anzuwenden gemäß Paragraf 9 NKRG) prüft, ob Bundesregelungsvorhaben digital. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. NKR-Einmalig vs. jaehrlich laufend
+### 15.9. NKR-Einmalig vs. jaehrlich laufend
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. NKR-Erforderlichkeitsprüfung — Warum überhaupt regeln
+### 15.10. NKR-Erforderlichkeitsprüfung — Warum überhaupt regeln
 
 Leitsatz des NKR: "Wenn nicht noetig, dann nicht regeln." Bevor methodische Aufwandsberechnung kommt, prüft der NKR systematisch, ob die Regelung überhaupt erforderlich ist. - Erster Prüfschritt jeder Stellungnahme - Ressort begründet Vorhaben mit "politischem Wunsch". Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. NKR-Erfüllungsaufwand für Bürger, Wirtschaft und Verwaltung
+### 15.11. NKR-Erfüllungsaufwand für Bürger, Wirtschaft und Verwaltung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. NKR-Erfüllungsaufwand — Grundbegriff
+### 15.12. NKR-Erfüllungsaufwand — Grundbegriff
 
 Erfüllungsaufwand ist der zentrale Prüfgegenstand des NKR. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Liefere die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen. - Anfängerschulung - Stellungnahme braucht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. NKR-EU-Ebene und Better Regulation
+### 15.13. NKR-EU-Ebene und Better Regulation
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung
+### 15.14. NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung
 
 Bei EU-Richtlinienumsetzung gilt das Prinzip der 1:1-Umsetzung als Leitlinie der Bundesregierung. Goldplating (nationale Verschaerfung über EU-Vorgabe hinaus) erzeugt zusaetzlichen Erfüllungsaufwand und ist nur mit qualifizierter Begründung zulässig. Der NKR prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. NKR-Evaluation und Jahresbericht
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

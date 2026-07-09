@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Word Legal Ai Plugin And Skill For German Lawyers ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Dokumentenbestand schnell in verlässliche Versionen, Fundstellen, Lücken und ein unmittelbar nutzbares Arbeitsprodukt überführen.
 
 # Word Legal Ai Plugin And Skill For German Lawyers — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. AGB-konforme Klauseln nach Paragrafen 305-310 BGB: Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff.
-2. Anspruchsgrundlage und Rechtsfolgen-Klauseln: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-3. Anwaltsschreiben außergerichtlich: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-4. Argumentationsarchitektur Schreiben: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-5. B2B vs. B2C Klauselstrategie: Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB.
-6. Fristen- und Risikoampel: Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich word-legal-ai-plugin-and-skill-for-german-lawyers.
+1. Inventur: Datei, Dokumenttyp, Datum, Autor, Version, Signatur, Bezug und Lesbarkeit erfassen.
+2. Fundstellenlinie: jede Aussage, Zahl, Klausel und Frist mit Dokument, Seite, Zelle oder Nachricht verbinden.
+3. Konsistenzprüfung: Dublette, Widerspruch, fehlende Anlage, Rechenabweichung, Copy-Paste-Fehler und Versionsbruch markieren.
+4. Bearbeitung: Zielstruktur, Priorität, Redline, Tabelle, Entwurf oder Exportformat bestimmen und reproduzierbar ausführen.
+5. Übergabe: Ergebnis, Quellen, offene Lücken, geprüfte Version, Dateinamen und nächste Handlung dokumentieren.
+6. Inventur und Version: Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 305c BGB; Paragraf 306 BGB; Paragraf 306a BGB |
+| Normenanker | BGB Paragraf 126, Paragraf 126a und Paragraf 126b; ZPO Paragraf 130a; ZPO Paragraf 138 und Paragraf 253 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen |
+| Beweislast | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert |
+| Rechtsfolge | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGB-konforme Klauseln nach Paragrafen 305-310 BGB | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsgrundlage und Rechtsfolgen-Klauseln | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwaltsschreiben außergerichtlich | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Argumentationsarchitektur Schreiben | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| B2B vs. B2C Klauselstrategie | Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich word-legal-ai-plugin-and-skill-for-german-lawyers. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Übergabe und Nachweis | Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 305c BGB: Überraschende Klauseln (Überrumpelungsschutz) werden nicht Vertragsbestandteil; mehrdeutige Klauseln gehen zulasten des Verwenders: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 306 BGB: Rechtsfolge der Unwirksamkeit. Nur die Klausel fällt weg, der Vertrag bleibt im Übrigen wirksam. Keine geltungserhaltende Reduktion (h. M.): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 306a BGB: Umgehungsverbot: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: Generalklausel. Unangemessene Benachteiligung entgegen Treu und Glauben; vermutet bei unklarer und unverständlicher Klausel (Transparenzgebot, Paragraf 307 I 2 BGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit (Annahme- und Leistungsfristen, fingierte Erklärungen, Zugang fingiert, Rücktritt usw.). Im B2B grundsätzlich nicht direkt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 309 BGB: Klauselverbote ohne Wertungsmöglichkeit (Preiserhöhungen kurzfristig, Aufrechnungs- und Zurückbehaltungsausschluss, Haftung für grobe Fahrlässigkeit, Vertragsstrafe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 310 BGB: Ausnahmen vom Anwendungsbereich: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
+- ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
+- ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
+- ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB-konforme Klauseln nach Paragrafen 305-310 BGB, Anspruchsgrundlage und Rechtsfolgen-Klauseln, Anwaltsschreiben außergerichtlich, Argumentationsarchitektur Schreiben: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
 
 ## 8. Stop
 

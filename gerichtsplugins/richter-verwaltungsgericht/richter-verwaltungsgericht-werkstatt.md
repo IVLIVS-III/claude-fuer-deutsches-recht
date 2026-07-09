@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | 01 Zulässigkeit Verwaltungsklage | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Amtsermittlung und Sachverhaltsfeststellung | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 03 Begründetheit Anfechtungsklage | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -155,33 +155,33 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. 02 Amtsermittlung und Sachverhaltsfeststellung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. 03 Begründetheit Anfechtungsklage
+### 15.2. 03 Begründetheit Anfechtungsklage
 
 Begründetheit Paragraf 113 Abs. 1 VwGO: Rechtmäßigkeit des Verwaltungsakts (Rechtsgrundlage, formelle und materielle Rechtmäßigkeit), subjektives Recht des Klägers Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. 04 Begründetheit Verpflichtungsklage
+### 15.3. 04 Begründetheit Verpflichtungsklage
 
 Verpflichtungsklage Paragraf 113 Abs. 5 VwGO: Anspruch auf Erlass des begehrten VA, Bescheidungsurteil, Spruchreife, Beurteilungszeitpunkt Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. 05 Eilrechtsschutz Paragraf 80 Abs 5
+### 15.4. 05 Eilrechtsschutz Paragraf 80 Abs 5
 
 Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwägung, Erfolgsaussichten der Hauptsache, öffentliches Interesse Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. 06 Eilrechtsschutz Paragraf 123
+### 15.5. 06 Eilrechtsschutz Paragraf 123
 
 Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, Anordnungsanspruch und -grund, Vorwegnahme der Hauptsache (Ausnahme) Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. 07 Beweisaufnahme Verwaltungsgericht
+### 15.6. 07 Beweisaufnahme Verwaltungsgericht
 
 Beweisaufnahme Paragraf 96 VwGO i.V.m. ZPO: Sachverständigenbeweis, Zeugen, Augenschein, Urkunden, Beweiswürdigung Paragraf 108 VwGO Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. 08 Urteilsentwurf Paragraf 117 Vwgo
+### 15.7. 08 Urteilsentwurf Paragraf 117 Vwgo
 
 Urteilsentwurf Paragraf 117 VwGO: Tenor, Tatbestand (Sachverhalt), Entscheidungsgründe (Zulässigkeit, Begründetheit), Nebenentscheidungen Paragraf 154 VwGO, Streitwert Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. 02 Amtsermittlung und Sachverhaltsfeststellung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. 09 Rechtsmittel Vwgo
 

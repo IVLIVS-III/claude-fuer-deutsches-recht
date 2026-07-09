@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung, Auskunftsbeschluss, Fristenplan | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Algorithmen und Empfehlungssysteme nach dem Digital Services Act | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dark Patterns: DSA-, UWG- und Datenschutz-Grundverordnung-Schnittstelle | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DSA-Beschwerde gegen eine Online-Plattform | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Energie: Energieverbraucher Beschwerde | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Fristen- und Bescheidanalyse | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Fristen- und Bescheidanalyse | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Paragraf 29 VwVfG (allgemeine Akteneinsicht im Verwaltungsverfahren): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 99 VwGO (in-camera-Verfahren bei Vorlageverweigerung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 339 AEUV (unionsrechtliches Berufsgeheimnis), Art. 5 DSA-VO, Art. 84 TK-Kodex-RL: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 80 GWB (zivile Verbandsklage als Parallelweg): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - VwVfG Paragrafen 28, 35-37, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- VwGO Paragrafen 42, 80, 80a, 113 (Anfechtungsklage, Vollzugsfolgen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln, Untätigkeitsklage): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 12.18 (BNetzA-Entgeltgenehmigung)
@@ -64,7 +64,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur, Anhörung, Auskunftsbeschluss, Fristenplan, Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband, Algorithmen und Empfehlungssysteme nach dem Digital Services Act: Kurzvermerk, Prüfmatrix, Entwurf.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband, DSA-Beschwerde gegen eine Online-Plattform, Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG, Energie: Energieverbraucher Beschwerde: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
 ## 8. Stop
 

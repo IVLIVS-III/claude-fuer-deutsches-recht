@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Beweislast: grober Fehler, Befunderhebungsfehler, Aufklärung, hypothetische Einwilligung und Dokumentationslücke gesondert prüfen.
 4. Verfahren: Gutachten, MD/MDK, Schlichtungsstelle, Kasse, Behörde, Sozialgericht oder Zivilgericht richtig routen.
 5. Arbeitsprodukt: Gutachterfragen, Anspruchsschreiben, Klage, Widerspruch, Eilantrag, Abrechnungsprüfung oder Behördenantwort erstellen.
-6. 630A: Dokumentenmatrix, Lückenliste und Nachforderung: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
+6. Apothekenrecht Arzneimittel Paragraf 78 AMG: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 630A: Dokumentenmatrix, Lückenliste und Nachforderung | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ärzte Quellenkarte | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode. | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung. | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anästhesie Hochrisiko-Aufklärung: moderner Medizinrechts-Skill für Narkoserisiko, ASA, Aspirationsgefahr. | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Apothekenrecht Arzneimittel Paragraf 78 AMG | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arzthaftung Aufklärung BGB | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufklärung: Beweislast, Darlegungslast und Substantiierung | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufklärungsfehler Beweisstrategie: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung. | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufklärungspflicht Paragraf 630e BGB | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 280, Paragraf 823 und Paragraf 253: Schadensersatz, deliktische Haftung und Schmerzensgeld.
 - SGB V Paragraf 27, Paragraf 39, Paragraf 73, Paragraf 92 und Paragraf 135: Krankenbehandlung, Krankenhaus, Vertragsarzt und Methodenbewertung.
 - SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
-- Normen-/Quellenanker: BGB Paragrafen 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 630a Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 630c Abs. 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 630d Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 630e Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

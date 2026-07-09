@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Begleitet: Erstprüfung, Rollenklärung und Mandatsziel: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+6. Bilinguale Vertragserstellung DE/EN: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Begleitet: Erstprüfung, Rollenklärung und Mandatsziel | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beurkundungserfordernis-Prüfung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beurkundungsprüfung Quellenkarte Check | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilingual: Schriftsatz-, Brief- und Memo-Bausteine | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bilinguale Vertragserstellung DE/EN | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cap-Table Update – Pre-Money und Post-Money | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Chronologie und Belegmatrix | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einsprachige Vertragsfassung (nur DE) | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragserstellung: Behörden-, Gerichts- oder Registerweg | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollständigen: Tatbestandsmerkmale, Beweisfragen und Beleglage | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 70 Abs. 1 VwGO — Widerspruchsfrist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 126b BGB (Textform – ausreichend für Vertragsschluss): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 126 BGB (Schriftform – auf Verlangen zusätzlich): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 128 BGB (Notarielle Beurkundung – nur falls erforderlich): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Begleitet: Erstprüfung, Rollenklärung und Mandatsziel, Beurkundungserfordernis-Prüfung, Beurkundungsprüfung Quellenkarte Check, Bilingual: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bilinguale Vertragserstellung DE/EN, Chronologie und Belegmatrix, Einsprachige Vertragsfassung (nur DE), Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

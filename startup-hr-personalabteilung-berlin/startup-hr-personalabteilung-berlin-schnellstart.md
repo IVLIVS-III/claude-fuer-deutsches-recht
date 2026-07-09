@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Laufender Betrieb: Zeiterfassung, Urlaub, Krankheit, Entgelt, Benefit, Weisung, Personalaktenbeleg und Mitbestimmung ordnen.
 4. Beschwerde und Konflikt: Meldung, Schutzpflicht, Anhörung, Untersuchung, Beweisgewinnung, Vertraulichkeit, Abmahnung und Gleichbehandlung trennen.
 5. Trennung und Output: Beteiligung, Form, Zugang, Frist, Zeugnis, Rückgabe, Payroll-Abschluss und Vertrags-, Memo- oder Prozessprodukt erstellen.
-6. Angebotsschreiben Offer Letter: Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen.
+6. Abmahnung Entwurf und Risiko: Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 611a und NachwG Paragraf 2; ArbZG Paragraf 3, Paragraf 5 und Paragraf 16; BUrlG Paragraf 1, Paragraf 3 und Paragraf 7 sowie EntgFG Paragraf 3 |
 | Rechtsprechung | BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21; BAG, Urteil vom 27.07.2017 - 2 AZR 681/16 |
-| Tatbestand | Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen |
+| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
 | Beweislast | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung |
 | Rechtsfolge | Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung oder Austrittscheck |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Angebotsschreiben Offer Letter | Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwalt und Steuerberater Briefing | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerüberlassung AÜG Risk | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitserlaubnis Blue Card Nicht EU | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsschutz Psychische Gefährdungsbeurteilung | Meldung, Schutzpflicht, Anhörung, Vertraulichkeit, Beleg, Maßnahme und Benachteiligungsrisiko in einer Fallakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abmahnung Entwurf und Risiko | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsvertrag Befristung TzBfG | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsvertrag Englisch Deutsch Bilingual | Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsvertrag Founder Nahe Schlüsselrolle | Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsvertrag Remote Hybrid Berlin | Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsvertrag Standard Unbefristet | Vertragstyp, Tätigkeit, Vergütung, Arbeitsort, Beginn, Befristung, Nachweis und Unterschriftsweg versandfertig ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

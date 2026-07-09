@@ -54,14 +54,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - § 33 EEG
 - § 75 EnWG
 - § 31 EnWG
-- § 80 VwG
+- § 80 VwGO
 - § 17 EnWG
 - § 8 EEG
 - § 41 EnWG
 - § 13a EnWG
 - § 46 EnWG
 - § 13 EnWG
-- § 123 VwG
+- § 123 VwGO
 - § 21 EEG
 
 ### Leitentscheidungen

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Registerinhalt: Mandant, Regelungsvorhaben, Finanzangaben, Zuwendungen, Auftraggeberkette und Aktualisierung prüfen.
 4. Verhalten und Nachweis: Kodex, Kontaktvermerk, Unterlagen, Freigabe, interne Verantwortlichkeit und Fristen sichern.
 5. Arbeitsprodukt: Registermatrix, Aktualisierungstext, Fristenblatt, Vorstandsmemo oder Bußgeldverteidigung erstellen.
-6. Portal-Account und Rollen: Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen.
+6. Fristen- und Quartalsmonitor: Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Fristen- und Quartalsmonitor | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Portal-Account und Rollen | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Adressatenkreis Bundestag und Bundesregierung | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Unverzuegliche Aktualisierung | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Unverzügliche Aktualisierung | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anonymisierung und Schutzantrag | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Auftraggeber ermitteln | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausnahmen Bundesregierung | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -59,7 +59,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Portal-Account und Rollen, Adressatenkreis Bundestag und Bundesregierung, Unverzuegliche Aktualisierung, Anonymisierung und Schutzantrag: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fristen- und Quartalsmonitor, Portal-Account und Rollen, Adressatenkreis Bundestag und Bundesregierung, Unverzügliche Aktualisierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

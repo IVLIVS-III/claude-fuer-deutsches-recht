@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anhörung und Erwiderung | SGB IV Paragraf 7; BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beitragsnachforderung und Haftung | SGB IV Paragraf 7; BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB IV Paragraf 7a | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Freier Mitarbeiter Anwalt | SGB IV Paragraf 7a; BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bescheidanalyse Status/Beiträge | SGB IV Paragraf 7a; BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | SGB IV Paragraf 28e | Beitragsschuld des Arbeitgebers | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
 | SGB VI Paragraf 2 | Versicherungspflicht bestimmter Selbständiger | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
 | SGG Paragraf 86b und Paragraf 87 | Eilrechtsschutz und Klagefrist | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
-| SGB VI Paragraf 2 je Lehrtätigkeit | SGB VI Paragraf 2 je Lehrtätigkeit | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
+| BGB Paragrafen 611a/631 | BGB Paragrafen 611a/631 | Rentenversicherung oder Einzugsstelle für Gesamtbild und Beitragsforderung; Auftraggeber und Erwerbstätiger für Vertrag, Eingliederung, Weisungen und Unternehmerrisiko | Statusfeststellungsantrag, Anhörungserwiderung, Beitragsabwehr, Nachzahlungsplan, Widerspruch oder Klage |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -84,7 +84,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - SGB IV Paragraf 28e: Beitragsschuld des Arbeitgebers.
 - SGB VI Paragraf 2: Versicherungspflicht bestimmter Selbständiger.
 - SGG Paragraf 86b und Paragraf 87: Eilrechtsschutz und Klagefrist.
-- SGB VI Paragraf 2 je Lehrtätigkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 611a/631: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anhörung und Erwiderung
+### 15.1. Beitragsnachforderung und Haftung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Freier Mitarbeiter Anwalt
+### 15.2. Bescheidanalyse Status/Beiträge
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Arbeitnehmerüberlassung Abgrenzung
+### 15.3. Dienst-/Werkvertrag im Statusrecht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Arbeitsmittel und Equipment
+### 15.4. Honorarvertrag Realitätscheck
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. abrufen-Selbsttest Unternehmen
+### 15.5. Kurzfristige Beschäftigung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Ausland Remote EU A1
+### 15.6. Paragraf 7 SGB IV Grundabgrenzung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Außenauftritt und Marktchance
+### 15.7. Paragraf 7a SGB IV Statusfeststellung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Beitragsbeginn und Vertrauensschutz
+### 15.8. Rahmenvertrag und Einzelauftrag
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Beitragsnachforderung und Haftung
+### 15.9. Selbständige Lehrer Paragraf 2 SGB VI
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Berater und Consultant
+### 15.10. Sozialgerichtliche Klage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Berufsständische Versorgung Anwälte
+### 15.11. Statusbescheid und Bestandskraft
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bescheidanalyse Status/Beiträge
+### 15.12. Stimmbindung und Nebenvertrag
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Betriebsprüfung Paragraf 28p SGB IV
+### 15.13. Vergütung Zeit oder Erfolg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Coach Trainer Seminarleiter
+### 15.14. Vertragswirklichkeit vs. gelebte Praxis
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

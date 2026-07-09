@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | 01 Zulässigkeit Finanzgerichtsklage | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AO Paragraf 88 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Amtsermittlung Finanzgericht | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 04 Steuerbescheid Prüfen | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -86,13 +86,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EStG Paragraf 49: beschraenkte Steuerpflicht.
 - FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
 - Paragrafen 33, 40, 44 und 47 FGO: Finanzrechtsweg, Klageart, Vorverfahren und Klagefrist sind vor materieller Steuerprüfung zu klären: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 118, 119, 121 und 157 AO: Verwaltungsakt, Bestimmtheit, Begründung und Steuerfestsetzung tragen die Bescheidprüfung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 169 bis 171 AO: Festsetzungsverjährung, Ablaufhemmung und Änderungssperren sind gesondert zu prüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 172 bis 177 AO: Änderungsnorm, Vertrauensschutz und Saldierung bestimmen die Änderbarkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 68 FGO: Änderungsbescheid wird unter den gesetzlichen Voraussetzungen Gegenstand des Klageverfahrens: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 76 FGO: Finanzgericht erforscht den Sachverhalt von Amts wegen, bleibt aber an Mitwirkungslasten und Beweisnähe gebunden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 79 FGO: Aufklärungsverfügungen müssen auf entscheidungserhebliche Tatsachen zielen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 90, 93, 97 und 162 AO: Mitwirkung, Auskunft, Urkundenvorlage und Schätzung sind in Steuerakten getrennt zu würdigen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 96 FGO: Entscheidung beruht auf dem Gesamtergebnis des Verfahrens und verlangt nachvollziehbare Überzeugungsbildung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 69 FGO: Aussetzung der Vollziehung setzt ernstliche Zweifel oder unbillige Härte voraus: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 361 AO: Behördliche AdV und gerichtliche AdV sind verfahrensrechtlich zu trennen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 114 FGO: Beschwerde gegen AdV-Beschluss ist nur nach Zulassung eröffnet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -156,17 +156,17 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. 02 Amtsermittlung Finanzgericht
+### 15.2. 04 Steuerbescheid Prüfen
+
+Prüfung des angegriffenen Steuerbescheids: formelle Rechtmäßigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. 02 Amtsermittlung Finanzgericht
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. 03 Aussetzung Der Vollziehung
+### 15.4. 03 Aussetzung Der Vollziehung
 
 Aussetzung der Vollziehung Paragraf 69 FGO bzw. Paragraf 361 AO: ernstliche Zweifel an der Rechtmäßigkeit, unbillige Haerte, Sicherheitsleistung, Verfahren Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. 04 Steuerbescheid Prüfen
-
-Prüfung des angegriffenen Steuerbescheids: formelle Rechtmäßigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. 05 ESt Prüfungsschema
 

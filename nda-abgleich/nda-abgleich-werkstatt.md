@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Änderungsmodus: Compliance-Dokumentation und Aktenvermerk | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Ausgabe: Mandantenkommunikation und Entscheidungsvorlage | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Ampelmatrix: Internationaler Bezug und Schnittstellen | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Docx: Beweislast, Darlegungslast und Substantiierung | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Änderungsmodus: Compliance-Dokumentation und Aktenvermerk
+### 15.1. Ausgabe: Mandantenkommunikation und Entscheidungsvorlage
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Docx: Beweislast, Darlegungslast und Substantiierung
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Ampelmatrix: Internationaler Bezug und Schnittstellen
+### 15.3. Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich nda-abgleich sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 535 Abs. 1 BGB — Hauptpflichten des Mietvertrags. - Paragraf 536 Abs. 1 BGB — Minderung. - Paragraf 543 Abs. 1 BGB — außerordentliche Kündigung. - Paragraf 556 Abs. 1 BGB — Betriebskostenvereinbarung. - Paragraf 556 Abs. 3 BGB — Abrechnung und Einwendungsfrist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. NDA: Vertragsstrafe prüfen
+
+1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termine, Fristen, eilbedürftige Schritte? 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. NDA: Standardklauseln Bauleiter
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. NDA Abgleich — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Tracked: Fristennotiz und nächster Schritt
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anschluss-Routing
+### 15.10. Änderungsmodus: Compliance-Dokumentation und Aktenvermerk
 
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
+### 15.11. Ampelmatrix: Internationaler Bezug und Schnittstellen
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Ausgabe: Mandantenkommunikation und Entscheidungsvorlage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Changes: Abschlussprodukt und Übergabe
+### 15.13. Changes: Abschlussprodukt und Übergabe
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Chirurgisch Quellenkarte
-
-Diese Quellenkarte sichert im Bereich Nda Abgleich tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab. - allgemein-workflow-chronologie-workflow-fristen - ausgabe-changes-docx-beweislast - durch-interessen-echten-sonderfall-eigenen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Chronologie und Belegmatrix
+### 15.14. Chronologie und Belegmatrix
 
 Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich nda-abgleich sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Docx: Beweislast, Darlegungslast und Substantiierung
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Mehrparteienkonflikt und Interessenmatrix (NDA)
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Echten: Sonderfall und Edge-Case-Prüfung
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

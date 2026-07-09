@@ -41,10 +41,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Abstimmung: Internationaler Bezug und Schnittstellen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abstimmung und Mehrheiten | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Insolvenzplan und StaRUG-Planwerkstatt — Allgemein | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anlagen: Mehrparteienkonflikt und Interessenmatrix | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagenpaket | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,15 +55,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 7-39 StaRUG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen 220-221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235-244: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 229 InsO Pflichtanlagen: Vermögensübersicht, Ergebnis- und Finanzplan für Planlaufzeit (idR 3–5 Jahre), Vergleichsrechnung Plan vs. Liquidation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestätigung, Vollzug): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BVerfG 1 BvR 418/25 vom 28.02.2025 (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung eines StaRUG-Restrukturierungsplans unzulässig; Bedeutung für Mehrheiten: Eingriffe in Aktionärsrechte
-- BGH, Beschluss vom 23.04.2026 — IX ZB 18/25 (ECLI:DE:BGH:2026:230426BIXZB18.25.0; erste höchstrichterliche Entscheidung zum StaRUG; das amtliche Beschluss-PDF liegt im Repo der Testakte
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abstimmung: Internationaler Bezug und Schnittstellen, Abstimmung und Mehrheiten, Anlagen: Mehrparteienkonflikt und Interessenmatrix, Anlagenpaket: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abstimmung: Internationaler Bezug und Schnittstellen, Abstimmung und Mehrheiten, Insolvenzplan und StaRUG-Planwerkstatt — Allgemein, Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

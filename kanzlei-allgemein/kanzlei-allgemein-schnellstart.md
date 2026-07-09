@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Kanzlei Allgemein ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Kanzleivorgang von Mandatsannahme und Frist bis Freigabe, Versand, Abrechnung und Nachkontrolle zuverlässig abarbeiten.
 
 # Kanzlei Allgemein — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Abwesenheiten, Urlaub, Krankheit: Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen.
-2. Akte, Konfliktcheck und Mandatsanlage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-3. Aktenbestandspflege: Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen.
-4. Aktenzeichen und Verknüpfungen: Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief.
-5. beA-Nachrichtenjournal und EB-Workflow: Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang.
-6. beA-Versand prüfen: Prüft den beA-Versand nach Pflichten des Paragraf 130a ZPO Paragraf 32d StPO Paragraf 65d SGG Paragraf 55a VwGO.
+1. Mandat eröffnen: Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung sichern.
+2. Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren.
+3. Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen.
+4. Versand und Nachweis: Signatur, Dateiformat, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen.
+5. Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage dokumentieren.
+6. Mandatsannahme: Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 51 BRAO; Paragraf 253 Abs. 2 Nr. 1 ZPO; Paragraf 319 ZPO |
+| Normenanker | BRAO Paragraf 43a Absatz 2 und Absatz 4; BRAO Paragraf 43e; BRAO Paragraf 31a sowie ZPO Paragraf 130a |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern |
+| Beweislast | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben |
+| Rechtsfolge | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abwesenheiten, Urlaub, Krankheit | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akte, Konfliktcheck und Mandatsanlage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenbestandspflege | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenzeichen und Verknüpfungen | Erkennung Normalisierung und Verknüpfung von Aktenzeichen in der Kanzlei. Anwendungsfall beA-Nachricht oder Brief. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA-Nachrichtenjournal und EB-Workflow | Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| beA-Versand prüfen | Prüft den beA-Versand nach Pflichten des Paragraf 130a ZPO Paragraf 32d StPO Paragraf 65d SGG Paragraf 55a VwGO. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsannahme | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenkontrolle | Auslöser, Bekanntgabe, Kalenderberechnung, Eintrag, Gegenkontrolle, Verantwortlicher und Vertretung dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bearbeitung und Freigabe | Arbeitsauftrag, Aktenstand, offene Entscheidung, Vieraugenkontrolle, Budget und Freigabefassung führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Elektronischer Versand | Empfänger, Dateiformat, Signatur, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung und Fremdgeld | Gebührentatbestand, Gegenstandswert, Vereinbarung, Vorschuss, Fremdgeld, Rechnung und Zahlungslauf abstimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsabschluss | Ergebnis, Restfristen, Vollstreckung, Rückgabe, Aufbewahrung, Schlussrechnung und Wiedervorlage festhalten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 51 BRAO — Berufshaftpflicht des Rechtsanwalts; Aktenzeichen-Fehler als Pflichtverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 Nr. 1 ZPO — Bezeichnungspflicht der Parteien und Sache in der Klageschrift: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 319 ZPO — Berichtigung offensichtlicher Unrichtigkeiten in Urteilen (auch Aktenzeichen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 130a ZPO — Pflichtangaben beim elektronischen Dokument, inkl. Aktenzeichen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 173 Abs. 2 ZPO — Zustellung per beA: Zustelldatum ist der Tag des EB-Klicks: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 31a BRAO — Pflicht zur Einrichtung und Nutzung des beA: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragraf 43a Absatz 2 und Absatz 4: Verschwiegenheit und Verbot widerstreitender Interessen.
+- BRAO Paragraf 43e: Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit.
+- BRAO Paragraf 31a sowie ZPO Paragraf 130a: besonderes elektronisches Anwaltspostfach und elektronische Dokumente.
+- GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abwesenheiten, Urlaub, Krankheit, Akte, Konfliktcheck und Mandatsanlage, Aktenbestandspflege, Aktenzeichen und Verknüpfungen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt; Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
 
 ## 8. Stop
 

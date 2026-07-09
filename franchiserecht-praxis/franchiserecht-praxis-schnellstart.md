@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
 4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
 5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+6. Franchiserecht: Franchisevertrag AGB-Redline: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Bau- und Ladenbau-Pflichten | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Franchisevertrag AGB-Redline | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchiserecht: Mystery Shopping Beweis und Datenschutz | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchise Kündigung und Nachvertragliche Wettbewerb | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchise Vergütungsmodelle Initial Laufend | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchise Vertragsstruktur Master Unit | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Franchise Vorvertragliche Aufklärung BGH | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 242 BGB: Kooperationspflicht bei der Vertragsabwicklung (Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB: Schadensersatz bei verzögerter oder mangelhafter Abwicklung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 14 ff. MarkenG: Pflicht zur Einstellung der Markennutzung nach Vertragsende: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 812 ff. BGB: Rückabwicklung ungerechtfertigter Bereicherung (z. B. zu viel gezahlte Gebühren): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff.: Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- HGB Paragraf 90a nur als Orientierung für nachvertragliche Wettbewerbsverbote, wenn Schutzbedürfnis, Dauer, Raum und Entschädigung tatsächlich vergleichbar sind: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
 - BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
+- BGH VIII ZR 233/02 zur Aufklärung beim Franchisesystem
+- BGH XII ZR 197/03 zur Marketingunterstützung
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende, Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise, Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten, Franchiserecht: Bau- und Ladenbau-Pflichten: Kurzvermerk, Prüfmatrix, Entwurf.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Franchiserecht: Franchisevertrag AGB-Redline, Franchiserecht: Mystery Shopping Beweis und Datenschutz, Franchise Kündigung und Nachvertragliche Wettbewerb, Franchise Vergütungsmodelle Initial Laufend: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

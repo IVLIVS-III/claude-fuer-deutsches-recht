@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Abgabe Frist Upload | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abschlussarbeit Betreuung | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristverlängerung Prüfungsleistung | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -152,54 +152,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abschlussarbeit Betreuung
+### 15.2. Fristverlängerung Prüfungsleistung
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Akteneinsicht Prüfungsakte
+### 15.3. Korrekturfrist und Verzögerung
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Notenbekanntgabe und Friststart
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Rechtsbehelfsbelehrung Prüfungsbescheid
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Abschlussarbeit Betreuung
+
+Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Akteneinsicht Prüfungsakte
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Vollständige Akteneinsicht
+### 15.8. Vollständige Akteneinsicht
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anerkennung von Prüfungsleistungen
+### 15.9. Anerkennung von Prüfungsleistungen
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Anonymisierung der Klausur
+### 15.10. Anonymisierung der Klausur
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anwesenheitspflicht
+### 15.11. Anwesenheitspflicht
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Anwesenheitspflicht im Modul
+### 15.12. Anwesenheitspflicht im Modul
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Attestanforderungen Hochschule
+### 15.13. Attestanforderungen Hochschule
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Auslandsanerkennung Prüfungsleistung
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bachelorarbeit Abgabe
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Befangenheit Prüfer
-
-Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Begründung Der Note
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Beisitzerrolle mündliche Prüfung
+### 15.14. Auslandsanerkennung Prüfungsleistung
 
 Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG — Aufgaben der Hochschulen. - Paragraf 4 HRG — Freiheit von Forschung, Lehre und Studium. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

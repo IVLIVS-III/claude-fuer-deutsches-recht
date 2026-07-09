@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+6. Spezial: DPMA – Fristen, Form und Zuständigkeit: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Urheberrechtliche Abmahnung – Paragraf 97a UrhG | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezial: Anmeldung – Behörden, Gerichte und Registerwege | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Gewerblicher Rechtsschutz: Plugin anpassen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: DPMA – Fristen, Form und Zuständigkeit | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| EV-Vollzug 001: Vollziehungsfrist und Parteizustellung (Paragraf 929 Abs. 2 ZPO) | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: Fristen – Abschlussprodukt und Übergabe | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GewR: Einstweilige Verfügung – Eilverfahren Spezial | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Spezial: Schutzrechts-Fristennotiz und nächster Schritt | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Paragraf 97 UrhG – Unterlassungs- und Schadensersatzanspruch bei Urheberrechts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 1 UrhG – Abmahnung als notwendige Voraussetzung für: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 2 UrhG – Mindestinhalt: Abgemahnter, Rechteinhaber,: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 3 UrhG – Kostendeckelung bei privater Erstnutzung auf 100 €: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 929 Abs. 2 ZPO – Vollziehungsfrist: Der Arrestbefehl und die einstweilige Verfügung verlieren ihre Kraft, wenn die Vollziehung nicht binnen eines Monats nach Verkündung bzw: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 922 Abs. 2 ZPO – Zustellung der Beschlussverfügung durch den Antragsteller (Parteizustellung); Gegensatz zur Amtszustellung bei Urteilen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 191 ZPO i.V.m. Paragrafen 192–195 ZPO – Parteizustellung durch Gerichtsvollzieher; Form- und Nachweisanforderungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 936 ZPO – Verweisung auf Arrestvorschriften; Paragraf 929 ZPO gilt für EV entsprechend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung, Urheberrechtliche Abmahnung – Paragraf 97a UrhG, Spezial: Anmeldung – Behörden, Gerichte und Registerwege, Gewerblicher Rechtsschutz: Plugin anpassen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Spezial: DPMA – Fristen, Form und Zuständigkeit, EV-Vollzug 001: Vollziehungsfrist und Parteizustellung (Paragraf 929 Abs. 2 ZPO), Spezial: Fristen – Abschlussprodukt und Übergabe, GewR: Einstweilige Verfügung – Eilverfahren Spezial: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
 ## 8. Stop
 

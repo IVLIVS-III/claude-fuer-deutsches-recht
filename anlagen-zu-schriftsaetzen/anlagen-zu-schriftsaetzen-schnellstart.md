@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
 4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
 5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
-6. Anlage Fehlerkatalog: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
+6. Anlagen zu Schriftsätzen — Allgemein: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anlage Fehlerkatalog | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlage: Red-Team und Qualitätskontrolle | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Übergabe an Assistenz und Legal Tech | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenraum und SharePoint als Anlagenquelle | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen aus IT-Systemen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen aus Mandantenmaterial | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagen zu Schriftsätzen — Allgemein | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweislast, Darlegungslast und Anlagen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufung, Beschwerde und neue Anlagen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisangebot über Anlagen (Zeugen) | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Excel-Tabellen und Zahlenbeweis | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 130 Nr. 6 ZPO — Schriftsatzanforderungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 130a Abs. 1 ZPO — elektronisches Dokument: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 131 Abs. 1 ZPO — Beifügung von Abschriften/Anlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 133 Abs. 1 ZPO — Abschriften für Zustellung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 Abs. 2 ZPO — Erklärungslast: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 Nr. 2 ZPO — bestimmter Klagegrund: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 284 ZPO — Beweisaufnahme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

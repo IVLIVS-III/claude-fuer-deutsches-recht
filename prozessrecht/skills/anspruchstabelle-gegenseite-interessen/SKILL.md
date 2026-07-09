@@ -61,7 +61,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur RÃ
 - Paragraf 97a UrhG
 - Paragraf 23 RVG
 - Paragraf 4a RVG
-- Paragraf 74 VwG
+- Paragraf 74 VwGO
 - Paragraf 17 StVG
 
 ### Leitentscheidungen

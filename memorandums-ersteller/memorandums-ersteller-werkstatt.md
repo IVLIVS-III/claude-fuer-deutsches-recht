@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anschluss-Routing | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Haftungsrisiko-Memo | GG Artikel 20 Absatz 3; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 133 und Paragraf 157 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Antworten: Mehrparteienkonflikt und Interessenmatrix | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg | BGB Paragraf 133 und Paragraf 157; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -131,58 +131,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anschluss-Routing
-
-Dieses Anschluss-Routing für Memorandums Ersteller wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - antworten-interessen-ausführungen-fragen — Antworten Interessen Ausführungen Fragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Antworten: Mehrparteienkonflikt und Interessenmatrix
+### 15.1. Haftungsrisiko-Memo
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Ausführungen: Formular, Portal und Einreichungslogik
+### 15.2. Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Due-Diligence-Rechtsmemo
+### 15.3. Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Einstieg und Routing
-
-Dieser Einstieg routet Memorandums Ersteller vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - antworten-interessen-ausführungen-fragen — Antworten Interessen Ausführungen Fragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Fragen: Compliance-Dokumentation und Aktenvermerk
+### 15.4. Memo: Fristen und Sofortmaßnahmen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Gliederung: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.5. Vertragsentscheidungs-Memo
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Haftungsrisiko-Memo
+### 15.6. Optional: Beweislast, Darlegungslast und Substantiierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.7. Prozessstrategie-Memo
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Memo: Laenge und Formate
+### 15.8. Questions: Fristennotiz und nächster Schritt
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Schnell-Memo Mandantenanfrage
+### 15.9. Memorandums Ersteller — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Mandantenkommunikation
+### 15.10. Antworten: Mehrparteienkonflikt und Interessenmatrix
 
-Dieser Arbeitsgang macht Mandantenkommunikation im Bereich memorandums-ersteller sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.11. Ausführungen: Formular, Portal und Einreichungslogik
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Due-Diligence-Rechtsmemo
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Fragen: Compliance-Dokumentation und Aktenvermerk
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Gliederung: Schriftsatz-, Brief- und Memo-Bausteine
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

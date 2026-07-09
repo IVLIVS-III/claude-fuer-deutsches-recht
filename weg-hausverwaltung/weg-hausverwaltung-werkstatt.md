@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abrechnung, Ist/Plan und Mieterschnittstelle | BGB Paragraf 535; BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Eigentümerkommunikation und Beschwerden | BGB Paragraf 535; BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 536 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum | BGB Paragraf 536; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Einladung, Tagesordnung und Fristen | BGB Paragraf 536; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 573 | berechtigtes Interesse an ordentlicher Wohnraumkündigung | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 | GVG Paragraf 23 Nummer 2a | Wohnraummietsachen streitwertunabhängig beim Amtsgericht | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 | WEG Paragraf 18 und Paragraf 44 | Verwaltung, Beschlussklage und gerichtliche Kontrolle | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
-| Paragraf 556 BGB | mietrechtliche Abrechnung, Frist und Einwendungen | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
+| BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG | BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG Paragrafen 18-28, 43-45; ZPO | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,8 +85,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
 - GVG Paragraf 23 Nummer 2a: Wohnraummietsachen streitwertunabhängig beim Amtsgericht.
 - WEG Paragraf 18 und Paragraf 44: Verwaltung, Beschlussklage und gerichtliche Kontrolle.
-- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG Paragrafen 18-28, 43-45; ZPO bei Räumung/Eilrechtsschutz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Normenradar: BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG Paragrafen 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 242, 305, 307, 633 ff., 634a, 640 BGB; Paragraf 9a WEG; Paragrafen 203, 204 BGB; Paragrafen 485 ff. ZPO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
@@ -147,58 +148,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abrechnung, Ist/Plan und Mieterschnittstelle
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum
+### 15.1. Eigentümerkommunikation und Beschwerden
 
 Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft
+### 15.2. Einladung, Tagesordnung und Fristen
+
+Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich weg-hausverwaltung sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Hausverwaltungs Fristen Form und Zuständigkeit
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Barrierefreie Einladungen, Protokolle und Abrechnungen
+### 15.5. Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Weg Tatbestand Beweis und Belege
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. WEGh: Verwalterhaftung
+
+Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Abrechnung, Ist/Plan und Mieterschnittstelle
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Bauliche Formular Portal und Einreichung
+### 15.10. Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum
+
+Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG
+### 15.12. Barrierefreie Einladungen, Protokolle und Abrechnungen
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bauliche Formular Portal und Einreichung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG
 
 Normen: Paragraf 20 Abs. 2 Nr. 2 WEG, Paragrafen 535, Paragrafen 18. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bauliche Veränderungen nach Paragraf 20 WEG
-
-Normen: Paragraf 20 WEG, Paragrafen 535, Paragrafen 18. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bauträger-Altanlage: Abnahme, Mängel und GdWE
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Beirat: Controlling und Verwalterbegleitung
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Beschlüsse Dokumentenmatrix und Lückenliste
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Beschlussanfechtung Risiko
-
-Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Beschlusssammlung und Protokoll
-
-Normen: Paragrafen 535, Paragrafen 18, Paragraf 16 Abs. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Beschlusssammlung Schriftsatz Brief und Memo Bausteine
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

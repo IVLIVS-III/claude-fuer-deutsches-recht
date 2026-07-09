@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis | Weltraumvertrag Artikel I und Artikel II; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Weltraumvertrag Artikel VI | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung | Weltraumvertrag Artikel VI; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge | Weltraumvertrag Artikel VI; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Missionsrechtsmatrix, Genehmigungsfahrplan, Registermeldung, Haftungsmemo, Startvertragsklausel oder Frequenzvermerk | Anspruchsteller oder Staat für Gegenstand, Ereignis, Schaden und Kausalität; Betreiber und Startstaaten für Genehmigung, Aufsicht, Registrierung und Entlastung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -81,6 +81,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Registrierungsübereinkommen Artikel II und Artikel IV: nationales Register und Übermittlung der Identifikationsdaten an die Vereinten Nationen.
 - VO (EU) 2021/696: Weltraumprogramm der Union, Komponenten, Betrieb, Sicherheit und Governance.
 - SatDSiG und TKG: hochauflösende Erdfernerkundung, Frequenzzuteilung und nationale Aufsicht je nach Mission.
+- Das Rechtsgebiet berührt folgende Kernthemen: Haftung Raketenstufe, LIAB Art. II, Deliktsrecht, Beweislast. Relevante Normen: LIAB Art. II, BGB Paragraf 823, StPO Beweissicherung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -138,54 +139,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung
+### 15.2. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anti-Satellite-Test-Ban und Orbital-Debris-Pledge
+### 15.3. Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit
+### 15.4. Weltraumrecht: DLR-Projektvertrag: IP und Haftung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen
+### 15.5. Weltraumrecht: ESA-Vertrag: Programmbeiträge und industrielle Rückflüsse
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge
+### 15.6. Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen
+### 15.7. Weltraumrecht: Haftung für herabfallende Raketenstufen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Weltraumrecht: Ballonmission Stratosphäre: Genehmigung
+### 15.8. Weltraumrecht: Haftungsbegrenzung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Weltraumrecht: Bergung fremder Weltraumgegenstände: Fundrecht und Völkerrecht
+### 15.9. Haftungsübereinkommen Absoluter Bodenschaden und Vers
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten
+### 15.10. Weltraumrecht: Mars Sample Return: Haftung, Quarantäne und Importrecht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung
+### 15.11. Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Weltraumrecht: Bodeneigentümer Startplatz: Lärm, Erschütterung, Nachbarrecht
+### 15.12. Weltraumrecht: Nutzlastvertrag: Payload Integration und Schnittstellen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur
+### 15.13. Weltraumrecht: Raumfahrt im Krieg: Neutralität und Sanktionen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang
+### 15.14. Weltraumrecht: Raumfahrtvertrag mit Startdienstleister: Launch Services Agreement
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

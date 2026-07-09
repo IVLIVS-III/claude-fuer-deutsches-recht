@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akteneinsicht 25 Sgb X | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Das Gericht ermittelt für Sie — Paragraf 103 SGG | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfänger-Sozialgericht | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung im sozialverwaltungsverfahren nach Paragraf 24 SGB X | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anhörung im Sozialverwaltungsverfahren 24 Sgb X | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bafoeg Bescheide Widerspruch | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bescheid Lesen Tenor Begründung Belehrung | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweismittel am Sozialgericht — Überblick | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Soziales Entschaedigungsrecht — SGB XIV | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Die Feststellungsklage — Paragraf 55 SGG | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,17 +52,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
 - SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
 - SGG Paragraf 87: Klagefrist.
-- Paragraf 25 Abs. 1 SGB X gibt Beteiligten Recht auf Akteneinsicht, soweit das Wissen vom Akteninhalt zur Geltendmachung oder Verteidigung rechtlicher Interessen erforderlich ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 SGG (Sachliche Zuständigkeit Sozialgerichte): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 51-55 SGG (Klagearten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 73, 73a SGG (Prozessbevollmächtigte, PKH): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 54 Abs. 1 SGG — Anfechtungsklage: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87 SGG — Klagefrist 1 Monat nach Widerspruchsbescheid: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 92 SGG — Inhalt der Klage: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 95 SGG — Streitgegenstand: der Bescheid in Gestalt des Widerspruchsbescheids: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
 - BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Akteneinsicht 25 Sgb X, Das Gericht ermittelt für Sie — Paragraf 103 SGG, Anfänger-Sozialgericht, Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Die Anfechtungsklage — Paragraf 54 Abs. 1 SGG, Bafoeg Bescheide Widerspruch, Bescheid Lesen Tenor Begründung Belehrung, Beweismittel am Sozialgericht — Überblick: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

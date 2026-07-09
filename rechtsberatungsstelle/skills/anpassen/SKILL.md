@@ -127,7 +127,7 @@ Am Ende der `CLAUDE.md` einen Änderungseintrag hinzufügen:
 - § 4 KSchG
 - § 84 SGG
 - § 74 AsylG
-- § 70 VwG
+- § 70 VwGO
 - § 8 RDG
 - Art. 30 DSGVO
 - Art. 28 DSGVO

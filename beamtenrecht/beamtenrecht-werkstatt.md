@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | AGG Gleichstellung und Frauenvertretung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Besold Mehrarbeit Vergütung Freizeitausgleich Beamte | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Art. 33 GG (hergebrachte Grundsätze des Berufsbeamtentums) | Art. 33 GG (hergebrachte Grundsätze des Berufsbeamtentums) | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Art. 33 Abs. 2 GG | Bestenauslese nach Eignung, Befähigung und fachlicher Leistung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,12 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
+- Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder außer Amts gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstoesst, kann: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 98 Abs. 5 GG ermöglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 97 GG, Art. 98 GG, Art. 101 GG, Paragraf 21e GVG sowie DRiG Paragrafen 25, 26, 39, 61 ff. als Kernnormen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 33 GG (hergebrachte Grundsätze des Berufsbeamtentums): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - VwGO Paragrafen 42, 75, 113 (Verpflichtungsklage, Untätigkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 24 AGG erstreckt das AGG auf Beamtinnen und Beamte mit Modifikationen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 22 AGG: Indizienbeweis genügt; der Dienstherr muss bei Indizien beweisen, dass kein Verstoß vorlag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -99,11 +101,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhältnismaessigkeit zu messen.
 - BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestände.
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
-- BVerfG 2 BvR 1738/12 (Beamtenstreikverbot)
-- BVerwG 2 C 32.10 (amtsangemessene Alimentation)
-- BVerwG 2 C 33.20 (Disziplinarmaßnahme Verhältnismäßigkeit)
-- BVerwG 2 C 4.18 (Konkurrentenstreitverfahren)
 - BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen
+- BVerfG, 05.05.2015 - 2 BvL 17/09 u.a.: R-Besoldung Sachsen-Anhalt; Parameterprüfung zur amtsangemessenen Alimentation
+- BVerfG, 04.05.2020 - 2 BvL 4/18: R-Besoldung Berlin; Mindestabstand und Alimentation
+- BVerfG, 04.05.2020 - 2 BvL 6/17 u.a.: kinderreiche Richterfamilien und Familienzuschlag
+- BVerfG, 17.09.2025 - 2 BvL 20/17 u.a.: Berliner A-Besoldung; Prekaritätsschwelle und Dreischritt
 
 ## 9. Prüfraster
 
@@ -153,58 +155,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. AGG Gleichstellung und Frauenvertretung
+### 15.1. Besold Mehrarbeit Vergütung Freizeitausgleich Beamte
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
+### 15.2. Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte
+
+Dieser Skill bearbeitet Mehrarbeit Vergütung Freizeitausgleich Beamte im Bereich Beamtenrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Fristen und Sofortmaßnahmen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Mehrarbeitsvergütung nach Paragraf 88 BBG
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Richteranklage Art. 98 GG
+
+Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klärt die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Widerspruch Klage Vwgo
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. AGG Gleichstellung und Frauenvertretung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
 
 Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach Paragraf 9 BBG bzw. Paragraf 9 BeamtStG. Klärt Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Aktenstruktur und Dokumentenintake
+### 15.10. Aktenstruktur und Dokumentenintake
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell
+### 15.11. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell
 
-Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw. Paragraf 9 BeamtStG i.V.m. den Landesregelungen. Klärt die zwei Modelle Teilzeitmodell und Blockmodell die Bezügehoehe während Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw. Paragraf 9 BeamtStG i.V.m. den Landesregelungen. Klärt die zwei Modelle Teilzeitmodell und Blockmodell die Bezügehöhe während Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Amtsangemessene Alimentation
+### 15.12. Amtsangemessene Alimentation
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Amtsangemessene Alimentation — Prüfschema BVerfG
+### 15.13. Amtsangemessene Alimentation — Prüfschema BVerfG
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Amtsangemessene Beschäftigung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Anfänger Modus Beamtenrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Anforderungsprofil — konstitutiv oder deklaratorisch
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Anrechnung Renten nach Paragraf 55 BeamtVG
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Anwaltliche Mandatsstrategie Beamtenrecht
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Arbeitszeit Mehrarbeit und Ruhezeiten
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Auslandsdienstbezüge nach BBesG
+### 15.14. Amtsangemessene Beschäftigung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat). - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

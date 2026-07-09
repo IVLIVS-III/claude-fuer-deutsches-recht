@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
 4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
 5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
-6. 72 Stunden Sprint: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+6. Agenturvertrag Compliance: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 72 Stunden Sprint | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ad Library Transparenz | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Agenturvertrag Compliance | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenplan und Beweisarchiv | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtstraeger Ressourcen | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Angriff Auf Wahlleitung Vermeiden | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Plakat Vandalismus Beweissicherung | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wahlvorschläge Fristen | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 72 Stunden Sprint | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ad Library Transparenz | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,12 +55,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lueth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 72 Stunden Sprint, Ad Library Transparenz, Agenturvertrag Compliance, Aktenplan und Beweisarchiv: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Agenturvertrag Compliance, Aktenplan und Beweisarchiv, Plakat Vandalismus Beweissicherung, Wahlvorschläge Fristen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

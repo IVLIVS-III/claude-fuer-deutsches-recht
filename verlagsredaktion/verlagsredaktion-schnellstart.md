@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Verlagsredaktion ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus Gerichts- oder Behördenmaterial eine veröffentlichungsfähige, faire und rechtlich belastbare Meldung mit sauberem Quellen- und Statusnachweis erstellen.
 
 # Verlagsredaktion — Schnellstart
 
@@ -17,48 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Chronologie und Belegmatrix: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix.
-2. Abstimmung Lektorat / Redaktion (Format-Klärung): entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-3. Abstimmung mit Autorin (Feedback-Kanal): ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie.
-4. Abstimmung Produktion / Satz / Druck: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort.
-5. Inhouse-Legal-Check vor Veröffentlichung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort.
-6. Abstimmung mit Vertrieb / Marketing: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Redaktionsauftrag: Medium, Zielgruppe, Format, Länge, Redaktionsschluss, Veröffentlichungsort und gewünschte Aussage bestimmen.
+2. Quellenmatrix: jede Tatsachenbehauptung, ihren Aktenfund, Quellenstatus, Gegenquelle und offene Lücke zeilenweise sichern.
+3. Aussageprüfung: Tatsache, Verdacht, Werturteil, Zitat, Gerichtsposition und eigene Einordnung strikt trennen.
+4. Schutzprüfung: Stellungnahme, Identifizierbarkeit, Unschuldsvermutung, Privat- oder Sozialsphäre, Bildrecht und Prangerwirkung abwägen.
+5. Arbeitsprodukt: Meldung, Sitzungsbericht, Pressemitteilung, Headline-Set, Fragenkatalog, Quellenmatrix oder Nachtrag veröffentlichungsfertig ausgeben.
+6. Entscheidungsmeldung: Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragrafen 280, 286, 323 (Verzug, Rücktritt); UrhG Paragrafen 31 ff. zu Nutzungsrechten; UrhG Paragrafen 31 ff. für Schriftnutzungsrechte |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1; BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog |
+| Rechtsprechung | BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25; BGH, Urteil vom 16.11.2021 - VI ZR 1241/20 |
+| Tatbestand | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen |
+| Beweislast | Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe |
+| Rechtsfolge | veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Chronologie und Belegmatrix | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung Lektorat / Redaktion (Format-Klärung) | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung mit Autorin (Feedback-Kanal) | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung Produktion / Satz / Druck | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Inhouse-Legal-Check vor Veröffentlichung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung mit Vertrieb / Marketing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entscheidungsmeldung | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verdachtsberichterstattung | Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gerichts- und Sitzungsbericht | Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bild, Name und Anonymisierung | KUG, Privatheit, Prangerwirkung, Wiedererkennbarkeit und Informationswert in Text, Überschrift und Bild konsistent abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Interview und Stellungnahme | konkrete Fragen, angemessene Antwortfrist, Antwortauswertung und dokumentierten Veröffentlichungsentscheid vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Korrektur und Nachtrag | Unwahrheit, ausgeräumten Verdacht, Gegendarstellung, Richtigstellung, Nachtrag und Reichweitenfolge getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragrafen 280, 286, 323 (Verzug, Rücktritt): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- UrhG Paragrafen 31 ff. zu Nutzungsrechten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- UrhG Paragrafen 31 ff. für Schriftnutzungsrechte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 823, 824, 1004 analog - Schutz des allgemeinen Persönlichkeitsrechts und der Kreditgefährdung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- StGB Paragrafen 185-187 - Beleidigung, üble Nachrede, Verleumdung als strafrechtliche Grenze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 5 GG - Meinungs- und Pressefreiheit als Abwägungsmassstab: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- UrhG Paragrafen 51, 51a - Zitatrecht, Karikatur/Parodie/Pastiche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GG Artikel 5 Absatz 1 und Absatz 2: Meinungs- und Pressefreiheit sowie ihre Schranken.
+- GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1: Schutz des allgemeinen Persönlichkeitsrechts.
+- BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog: Unterlassung, Beseitigung und Ersatz bei Persönlichkeitsrechtsverletzungen.
+- KUG Paragraf 22 und Paragraf 23: Einwilligung, Bildnisse aus dem Bereich der Zeitgeschichte und berechtigte Interessen.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+- BGH, Urteil vom 16.11.2021 - VI ZR 1241/20: Identifizierende Verdachtsberichterstattung verlangt Mindestbestand an Beweistatsachen, offene Statussprache, öffentliches Interesse und regelmäßig Gelegenheit zur Stellungnahme.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Chronologie und Belegmatrix, Abstimmung Lektorat / Redaktion (Format-Klärung), Abstimmung mit Autorin (Feedback-Kanal), Abstimmung Produktion / Satz / Druck: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung; Entscheidungsmeldung: Anlass, Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und Quelle in dieser Reihenfolge.
 
 ## 8. Stop
 

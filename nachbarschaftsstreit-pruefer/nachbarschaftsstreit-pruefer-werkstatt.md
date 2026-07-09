@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aeste: Risikoampel, Gegenargumente und Verteidigungslinien | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Aufforderung: Mandantenkommunikation und Entscheidungsvorlage | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Akten- und Grundstücksaufnahme | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beweissicherung, Ortstermin und Fotos | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -137,58 +137,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aeste: Risikoampel, Gegenargumente und Verteidigungslinien
+### 15.1. Aufforderung: Mandantenkommunikation und Entscheidungsvorlage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Akten- und Grundstücksaufnahme
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Nachbarschaftsstreit-Prüfer — Allgemein
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anspruchslandkarte BGB-Nachbarrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Aufforderung: Mandantenkommunikation und Entscheidungsvorlage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Aufforderungsschreiben an den Nachbarn
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Beweise: Red-Team und Qualitätskontrolle
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Beweissicherung, Ortstermin und Fotos
+### 15.2. Beweissicherung, Ortstermin und Fotos
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Drohender Einsturz und gefährliche Anlage
+### 15.3. Einstweilige Verfügung und Klage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Einfriedung, Zaun, Mauer und Hecke
+### 15.4. Prüfer: Fristennotiz und nächster Schritt
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Einstieg und Routing
-
-Dieser Einstieg routet Nachbarschaftsstreit Prüfer vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - aeste-risikoampel-und-gegenargumente — Aeste Risikoampel und Gegenargumente - akten-und-grundstuecksaufnahme —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Einstweilige Verfügung und Klage
+### 15.5. Klage: Beweislast, Darlegungslast und Substantiierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Prüfer: Fristennotiz und nächster Schritt
+### 15.6. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich nachbarschaftsstreit-prüfer sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Überbau: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Aeste: Risikoampel, Gegenargumente und Verteidigungslinien
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Akten- und Grundstücksaufnahme
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Nachbarschaftsstreit-Prüfer — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Anspruchslandkarte BGB-Nachbarrecht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Aufforderungsschreiben an den Nachbarn
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Drohender Einsturz und gefährliche Anlage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

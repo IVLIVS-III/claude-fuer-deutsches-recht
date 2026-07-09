@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Ki Richtlinie Kanzleien ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Kanzleivorgang von Mandatsannahme und Frist bis Freigabe, Versand, Abrechnung und Nachkontrolle zuverlässig abarbeiten.
 
 # Ki Richtlinie Kanzleien — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anonymisierung und Pseudonymisierung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung.
-2. Anschluss-Routing: Dieses Anschluss-Routing für Ki Richtlinie Kanzleien wählt nach dem ersten Ergebnis die passende Vertiefung.
-3. Anwälten: Behörden-, Gerichts- oder Registerweg: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast.
-4. Auftragsverarbeitungsvertrag prüfen: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast.
-5. Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-6. Berufsrecht-Bausteine: Berufsrechtliche Textbausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt.
+1. Mandat eröffnen: Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung sichern.
+2. Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren.
+3. Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen.
+4. Versand und Nachweis: Signatur, Dateiformat, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen.
+5. Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage dokumentieren.
+6. Mandatsannahme: Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 43a Abs. 2 BRAO; Paragraf 203 StGB; Paragraf 241 Abs. 2 BGB |
+| Normenanker | BRAO Paragraf 43a Absatz 2 und Absatz 4; BRAO Paragraf 43e; BRAO Paragraf 31a sowie ZPO Paragraf 130a |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern |
+| Beweislast | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben |
+| Rechtsfolge | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anonymisierung und Pseudonymisierung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisionsprüfung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Ki Richtlinie Kanzleien wählt nach dem ersten Ergebnis die passende Vertiefung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälten: Behörden-, Gerichts- oder Registerweg | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auftragsverarbeitungsvertrag prüfen | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufsrecht-Bausteine | Berufsrechtliche Textbausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsannahme | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenkontrolle | Auslöser, Bekanntgabe, Kalenderberechnung, Eintrag, Gegenkontrolle, Verantwortlicher und Vertretung dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bearbeitung und Freigabe | Arbeitsauftrag, Aktenstand, offene Entscheidung, Vieraugenkontrolle, Budget und Freigabefassung führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Elektronischer Versand | Empfänger, Dateiformat, Signatur, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abrechnung und Fremdgeld | Gebührentatbestand, Gegenstandswert, Vereinbarung, Vorschuss, Fremdgeld, Rechnung und Zahlungslauf abstimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandatsabschluss | Ergebnis, Restfristen, Vollstreckung, Rückgabe, Aufbewahrung, Schlussrechnung und Wiedervorlage festhalten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 203 StGB — Berufsgeheimnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragraf 43a Absatz 2 und Absatz 4: Verschwiegenheit und Verbot widerstreitender Interessen.
+- BRAO Paragraf 43e: Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit.
+- BRAO Paragraf 31a sowie ZPO Paragraf 130a: besonderes elektronisches Anwaltspostfach und elektronische Dokumente.
+- GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anonymisierung und Pseudonymisierung, Anschluss-Routing, Anwälten: Behörden-, Gerichts- oder Registerweg, Auftragsverarbeitungsvertrag prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt; Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
 
 ## 8. Stop
 

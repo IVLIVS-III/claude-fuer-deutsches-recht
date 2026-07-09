@@ -9,7 +9,7 @@ description: "Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agra
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -55,13 +55,13 @@ description: "Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agra
 - **Hofübergabe** Hofbezugnahme nach Erbfall — siehe Höfeordnung Anerbenrechte.
 - **Landpachtkündigung** § 585 BGB iVm Landpachtvertrag (oft jaehrlich zu festgelegten Terminen).
 - **GrdstVG** Genehmigungsverfahren läuft über Landwirtschaftsbehörde.
-- **Widerspruch gegen Förderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
+- Widerspruch gegen Förderbescheid: VwGO Paragraf 70 nur bei eröffnetem Vorverfahren; Klagefrist nach VwGO Paragraf 74, Rechtsbehelfsbelehrung und einschlägiges Landes- oder Fachrecht gesondert prüfen.
 
 ## Hauptforen
 
-- **Landwirtschaftsgericht** (beim AG / LG je Bundesland — Landwirtschaftsverfahren-Gesetz LwVG).
-- **Verwaltungsgericht** bei öffentlich-rechtlichen Förderbescheiden.
-- **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
+- Landwirtschaftsgericht: nach LwVfG Paragraf 2 ausschließlich das Amtsgericht im ersten Rechtszug, Oberlandesgericht im zweiten und Bundesgerichtshof im dritten Rechtszug.
+- Verwaltungsgericht bei öffentlich-rechtlichen Förderbescheiden, soweit kein abweichender Rechtsweg eröffnet ist.
+- Bundesgerichtshof, Senat für Landwirtschaftssachen.
 - **EuGH** bei GAP-Vorabentscheidungen.
 
 ## Berufsverband
@@ -88,7 +88,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Paragrafenkette (Überblick Agrarrecht)
 
-BGB §§ 581-597 (Landpacht) → LPachtVG (Pachtverkehr, Genehmigung) → GrdstVG (Grundstücksverkehr) → HöfeO §§ 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → VO (EU) 2021/2115 + 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG i.V.m. DüV (Düngerecht) → BNatSchG §§ 13 ff. (Naturschutz, Eingriffsregelung) → § 35 BauGB (Außenbereich landwirtschaftliche Privilegierung) → TierSchG, TierGesG → LwVG (Verfahren Landwirtschaftsgericht)
+BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
 
 ### Quellenregel
 

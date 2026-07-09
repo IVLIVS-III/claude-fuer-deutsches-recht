@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO | Datenschutz-Grundverordnung Artikel 5; EuGH, Urteil vom 16.07.2020 - C-311/18 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Art. 78 Rechtsschutz | Datenschutz-Grundverordnung Artikel 5; EuGH, Urteil vom 16.07.2020 - C-311/18 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Datenschutz-Grundverordnung Artikel 6 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anhörung nach Paragraf 55 OWiG | Datenschutz-Grundverordnung Artikel 6; EuGH, Urteil vom 04.05.2023 - C-300/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Behördenuntätigkeit und Beschwerdegegner | Datenschutz-Grundverordnung Artikel 6; EuGH, Urteil vom 04.05.2023 - C-300/21 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Datenschutz-Grundverordnung Artikel 28 | Auftragsverarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 32 | Sicherheit der Verarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 33 und Artikel 34 | Meldung von Verletzungen des Schutzes personenbezogener Daten | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
-| Art. 47, 48, 50, 52 GRCh | Art. 47, 48, 50, 52 GRCh | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
+| Paragraf 20/Paragraf 41 BDSG je nach Spur | Paragraf 20/Paragraf 41 BDSG je nach Spur | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,9 +85,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Datenschutz-Grundverordnung Artikel 32: Sicherheit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 33 und Artikel 34: Meldung von Verletzungen des Schutzes personenbezogener Daten.
-- Art. 47, 48, 50, 52 GRCh: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 20 und Paragraf 41 BDSG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 20/Paragraf 41 BDSG je nach Spur: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 41 BDSG / OWiG-StPO-Verweise: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 20 und Paragraf 41 BDSG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -146,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anhörung nach Paragraf 55 OWiG
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anwesenheit und Entbindung Paragraf 73 OWiG
-
-Erscheinenspflicht, Entbindung und Vertretung von Unternehmen und Organen im Termin steuern. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Beschäftigtendaten und Betriebsrat
-
-HR-Systeme, Monitoring, Betriebsrat, Paragraf 26 BDSG und Beschäftigteneinwilligung verteidigen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Art.-58-Anordnung als Verwaltungsakt
-
-Anordnung, Verwarnung, Verbot, Löschung und Transferstopp als verwaltungsgerichtliche Streitigkeit prüfen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Art. 78 Rechtsschutz
+### 15.1. Art. 78 Rechtsschutz
 
 Effektiven Rechtsschutz gegen Aufsichtsentscheidungen und Untätigkeit aus Sicht von Verantwortlichen oder Betroffenen ordnen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Art. 83 Abs. 2 Kriterien einzeln prüfen
+### 15.2. Behördenuntätigkeit und Beschwerdegegner
 
-Alle Bußgeldkriterien einzeln mit Tatsachen, Entlastung und Gegenrechnung bearbeiten. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Untätigkeit der Aufsicht und Rechte des Beschwerdegegners im Art.-77/78-Kontext bearbeiten. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Regulierte Branchen Bank Gesundheit Energie
+### 15.3. Behördenpost richtig lesen
 
-Datenschutzaufsicht mit BaFin, Krankenhausaufsicht, BNetzA, BSI und Sozialdatenschutz koordinieren. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Auskunftsverlangen, Beschwerdeweiterleitung, Anhörung, Verwarnung, Anordnung, Zwangsgeldandrohung und Bußgeldbescheid voneinander unterscheiden. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Anordnung plus Bußgeld Doppelspur
+### 15.4. Beschwerde eines Betroffenen als Auslöser
 
-Verwaltungsgerichtliche und OWiG-Verteidigung bei gleicher Tatsachengrundlage widerspruchsfrei koordinieren. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art.-77-Beschwerde, Behördenprüfung, Betroffenenkommunikation und Art.-82-Folgerisiko sauber steuern. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Antwortschreiben an Aufsichtsbehörde
+### 15.5. Beweisrecht im Datenschutz-OWiG
 
-Behördenschreiben präzise, beweisgestützt, nicht überschießend und mit klaren Vorbehalten formulieren. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Strafprozessuale Beweislogik auf Datenschutz-Grundverordnung-Vorwürfe übertragen, ohne zivilrechtliche Darlegungslast zu simulieren. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Auskunftsverlangen Art. 58 Abs. 1 Datenschutz-Grundverordnung beantworten
+### 15.6. Bußgeldbescheid Paragraf 65 OWiG analysieren
 
-Auskunfts-, Vorlage- und Prüfverlangen beantworten, ohne spätere Bußgeldverteidigung zu beschädigen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Ausländische Mutter und deutsche Tochter
+### 15.7. Datenlöschung vs. Beweissicherung
 
-Adressat, Zustellung, Verantwortlicher, Niederlassung, Konzernumsatz und wirtschaftliche Einheit in Auslandsfällen prüfen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Löschpflicht, Aufbewahrung, Zweckwechsel, Litigation Hold und minimierte Beweissicherung austarieren. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Behördenkommunikation mit Reputationsschutz
+### 15.8. Einspruch Paragraf 67 OWiG Frist und Form
 
-Ton, Timing, Presse, Veröffentlichung, Kundenkommunikation und Verteidigungsrechte koordinieren. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zweiwochenfrist sichern und fristwahrenden Einspruch ohne unnötige Begründung einlegen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Kooperation oder Schweigen strategisch wählen
+### 15.9. Einstellung vor Bescheid anregen
 
-Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tatbestand, Verschulden, Bemessung, Maßnahmenplan und Verhältnismäßigkeit für Einstellung oder Verwarnung bündeln. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Fristenzentrale Zustellung und Wiedervorlage
+
+Zustellung, Bekanntgabe, Rechtsbehelfsbelehrung, Einspruchsfrist, Behördenfrist und gerichtliche Eilfrist absichern. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Fristverlängerung gegenüber Aufsicht
+
+Fristverlängerung und Teilantwort beantragen, ohne Verzögerung oder Pflichtverletzung einzuräumen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Frühstellungnahme vor Bußgeldbescheid
+
+Vor Bescheid mit gesicherten Tatsachen Einstellung, Verwarnung oder milde Maßnahme erreichen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Logfiles und technische Beweise
+
+SIEM, Access Logs, Admin-Aktivitäten, Zeitstempel, Retention und Integrität als Beweise bewerten. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Parallelverfahren Art. 82 Datenschutz-Grundverordnung und Massenklagen
+
+Bußgeldverteidigung mit Schadensersatzabwehr, Massenklagen und Anerkenntnisrisiken abstimmen. Dieser Skill arbeitet als präzises Werkzeug für das datenschutzrechtliche Sanktionsverfahren. Er trennt Aufsichtsverfahren, Bußgeldverfahren und Verwaltungsrechtsweg, prüft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

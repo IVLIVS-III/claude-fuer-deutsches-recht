@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anschluss-Routing | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Common Law: Vertragsklauseln | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Rom-I-VO Artikel 3 und 4 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Begriffs- und Übersetzungswerkstatt | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Drafting: Mehrparteienkonflikt und Interessenmatrix | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,6 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | CISG Artikel 1 und 6 | Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74 | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | New Yorker Übereinkommen Artikel II und V | Schiedsvereinbarung und Anerkennungsversagungsgründe | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | ZPO Paragraf 293 | Ermittlung ausländischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Art. 267 AEUV | Vorabentscheidungsverfahren (Abgrenzung EU- zu nationalem Recht) | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -78,6 +79,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
 - ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+- Art. 267 AEUV — Vorabentscheidungsverfahren (Abgrenzung EU- zu nationalem Recht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 305 ff. BGB — AGB-Recht (Abgrenzung zu Common-Law-Boilerplate): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -131,58 +134,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anschluss-Routing
+### 15.1. Common Law: Vertragsklauseln
 
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Begriffs- und Übersetzungswerkstatt
+### 15.2. Drafting: Mehrparteienkonflikt und Interessenmatrix
 
 UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Bilingual Contract Review
+### 15.3. Explainer: Beweislast, Darlegungslast und Substantiierung
+
+UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. False: Fristen, Form, Zuständigkeit und Rechtsweg
+
+UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Common-Law-Kompass — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
+
+UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Begriffs- und Übersetzungswerkstatt
+
+UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Bilingual Contract Review
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Bilinguale: Compliance-Dokumentation und Aktenvermerk
+### 15.10. Bilinguale: Compliance-Dokumentation und Aktenvermerk
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Common Law: Discovery-Spezial
+### 15.11. Common Law: Discovery-Spezial
 
 UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Common Law: Mandantenübersicht EN
+### 15.12. Common Law: Mandantenübersicht EN
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Common Law: Each-party-bears-own
+### 15.13. Common Law: Each-party-bears-own
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Common Law: Precedent gegen Statute
-
-UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Common Law: Vertragsklauseln
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Mandanten-Erklärer
-
-UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Client: Mandantenkommunikation und Entscheidungsvorlage
-
-UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Commercial: Sonderfall und Edge-Case-Prüfung
-
-UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Common: Erstprüfung, Rollenklärung und Mandatsziel
-
-UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Consideration: Behörden-, Gerichts- oder Registerweg
+### 15.14. Common Law: Precedent gegen Statute
 
 UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC Paragraf 2-314 — implied warranty of merchantability. - Restatement (Second) of Contracts Paragraf 17 — formation by bargain. - Restatement (Second) of Contracts Paragraf 71. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

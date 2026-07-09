@@ -17,12 +17,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Urheberrechtliche Abmahnung Paragraf 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung.: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+6. Lizenzvertrag-Verhandlung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
 | Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
+| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
 | Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Urheberrechtliche Abmahnung Paragraf 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung. | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abmahnung: Sonderfall und Edge-Case-Prüfung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bild: Behörden-, Gerichts- oder Registerweg | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzvertrag-Verhandlung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Filesharing Stoererhaftung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Filmrecht Paragraf 89 UrhG | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Link Haftung Paragraf 7 tmg | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzvertrag: Fristennotiz und nächster Schritt | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzverträge für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Paragraf 97a UrhG — Abmahnpflicht und -kosten im Urheberrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97 Abs. 1, 2 UrhG — Unterlassung und Schadensersatz lizenzanalog: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG — Persönlichkeitsrechtsverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 195, 199 BGB — Verjährung 3 Jahre; Paragraf 102 UrhG spezielle Verjährungsregel: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 97 Abs. 1 und 2 UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 22 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 23 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 823 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+- EuGH 22.06.2021 C-682/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Urheberrechtliche Abmahnung Paragraf 97a UrhG Voraussetzungen Inhalt Aktivlegitimation Anspruchsberechtigung., Abmahnung: Sonderfall und Edge-Case-Prüfung, Anschluss-Routing, Bild: Behörden-, Gerichts- oder Registerweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Lizenzvertrag-Verhandlung, Filesharing Stoererhaftung, Filmrecht Paragraf 89 UrhG, Link Haftung Paragraf 7 tmg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

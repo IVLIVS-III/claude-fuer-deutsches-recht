@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abfall: Dokumentenmatrix, Lückenliste und Nachforderung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abfallrecht und Circular Economy | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Diligence: Compliance-Dokumentation und Aktenvermerk | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -101,6 +101,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Nebenbestimmungen sind an ihrer gesetzlichen Grundlage und Verhältnismaessigkeit zu messen.
 - BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Rücknahme und Widerruf verlangen strikte Trennung der gesetzlichen Tatbestände.
 - BVerwG, Urteil vom 20.10.1989 - 7 C 87.87: Verwaltungsvollstreckung setzt wirksamen Grundverwaltungsakt und vollziehbare Pflicht voraus.
+- BVerwG 30.11.2023, 8 C 7.22 (Klage DUH/BUND auf Klimaschutz-Sofortprogramm Paragraf 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach Paragraf 3 UmwRG anerkannten Umweltvereinigungen
+- EuGH 08.11.2016, C-243/15 (Lesoochranárske): Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbände; nationales Recht muss unionsrechtskonform ausgelegt werden. Quelle
+- EuGH 20.12.2017, C-664/15 (Protect): Umweltverband muss zumindest objektive Rechtsverletzungen rügen können; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu
+- BVerwG 17.12.2020, 4 C 5.19: Umweltverband muss substanziiert darlegen, dass das Vorhaben gegen umweltbezogene Vorschriften verstoesst; bloss formale Beanstandungen genügen nicht. Quelle: bverwg.de
+- BVerwG 18.07.2019, 7 C 26.17: Anforderungen an UVP-Pflichtigkeit und Nachholbarkeit von Verfahrensfehlern; Aufhebung nur bei kausalen Verfahrensmängeln. Quelle: bverwg.de
 
 ## 9. Prüfraster
 
@@ -150,58 +155,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abfall: Dokumentenmatrix, Lückenliste und Nachforderung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Abfallrecht und Circular Economy
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anlagen: Abschlussprodukt und Übergabe
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anschluss-Routing
-
-Dieses Anschluss-Routing für Umweltrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - abfall-anlagen-bimschg — Abfall Anlagen Bimschg - abfall-circular-economy — Abfall Circular Economy. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.1. Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Boden: Behörden-, Gerichts- oder Registerweg
+### 15.2. Diligence: Compliance-Dokumentation und Aktenvermerk
 
 Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bussgeld, Sanktionen und Anhörung im Umweltrecht
+### 15.3. ESG, CSRD und Greenwashing-Verteidigung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Greenwashing: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Klimaklagen: Mehrparteienkonflikt und Interessenmatrix
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Klimaklagen und Verbandsklagen nach UmwRG
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Umweltrecht — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Stoerfall: Fristennotiz und nächster Schritt
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Abfall: Dokumentenmatrix, Lückenliste und Nachforderung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Abfallrecht und Circular Economy
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Anlagen: Abschlussprodukt und Übergabe
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Boden: Behörden-, Gerichts- oder Registerweg
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Bussgeld, Sanktionen und Anhörung im Umweltrecht
 
 Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG Paragrafen 55 67 68 BImSchG Paragrafen 62 64 KrWG Paragrafen 69 70 WHG Paragraf 103 BNatSchG Paragrafen 69 71a Bußgeld bis 100000 EUR. Prüfraster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Bussgeld Quellenkarte
-
-Diese Quellenkarte sichert für Umweltrecht jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert. - BImSchG, BNatSchG, WHG, BBodSchG — amtlichen Stand vor tragender Aussage prüfen - UVPG — amtlichen Stand vor tragender. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Compliance, Beauftragte und Schulung im Umweltrecht
+### 15.14. Compliance, Beauftragte und Schulung im Umweltrecht
 
 Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresabrufen-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG Paragrafen 53-58 KrWG Paragrafen 59 60 WHG Paragrafen 64 65. Prüfraster Schulungspflichten Dokumentationspflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Csddd: Mandantenkommunikation und Entscheidungsvorlage
-
-Paragraf 1353 Abs. 1 BGB — eheliche Lebensgemeinschaft. - Paragraf 1360 BGB — Familienunterhalt. - Paragraf 1565 Abs. 1 BGB — Scheidung. - Paragraf 1570 BGB — Betreuungsunterhalt. - Paragraf 1601 BGB — Verwandtenunterhalt. - Paragraf 1626 Abs. 1 BGB — elterliche Sorge. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Csrd: Sonderfall und Edge-Case-Prüfung
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Diligence: Compliance-Dokumentation und Aktenvermerk
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Einstieg und Routing
-
-Dieser Einstieg routet Umweltrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - abfall-anlagen-bimschg — Abfall Anlagen Bimschg - abfall-circular-economy — Abfall Circular Economy. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

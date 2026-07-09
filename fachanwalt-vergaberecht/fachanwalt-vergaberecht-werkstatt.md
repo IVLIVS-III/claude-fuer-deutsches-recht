@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Vergabeentscheidung rügen und das Nachprüfungsverfahren fristgerecht fuehren.
+Wenn du das hier öffnest, willst du eine Vergabeentscheidung rügen und das Nachprüfungsverfahren fristgerecht führen.
 
 # Fachanwalt Vergaberecht — Werkstatt-Prompt
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Angebot, Formfehler, Preisblatt und Ausschlussrisiken prüfen: Signatur, Datei | GWB Paragraf 97; EuGH, Urteil vom 11.01.2005 - C-26/03 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Ausschluss Bieter Paragraf 124 GWB | GWB Paragraf 97; EuGH, Urteil vom 11.01.2005 - C-26/03 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GWB Paragraf 134 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Architektenrecht: Compliance-Dokumentation und Aktenvermerk | GWB Paragraf 134; EuGH, Urteil vom 13.10.2005 - C-458/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen | GWB Paragraf 134; EuGH, Urteil vom 13.10.2005 - C-458/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VgV Paragraf 57 | Ausschluss von Angeboten | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
 | VgV Paragraf 58 | Zuschlag und Wertung | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
 | GWB Paragraf 168 | Entscheidung der Vergabekammer | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
-| Paragraf 241 Abs. 2 BGB | Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
+| Paragraf 97 Abs. 1 und 2 GWB | Paragraf 97 Abs. 1 und 2 GWB | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VgV Paragraf 57: Ausschluss von Angeboten.
 - VgV Paragraf 58: Zuschlag und Wertung.
 - GWB Paragraf 168: Entscheidung der Vergabekammer.
+- Paragraf 97 Abs. 1 und 2 GWB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 160 Abs. 2 und 3 GWB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -154,58 +154,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Angebotsoeffnung Formfehler Preisblatt
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Architektenrecht: Compliance-Dokumentation und Aktenvermerk
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aufklärung Nachforderung 56 Vgv
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Auftragswert Losbildung Rechner
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Ausschluss Bieter Paragraf 124 GWB
+### 15.1. Ausschluss Bieter Paragraf 124 GWB
 
 Prüfe Ausschluss Bieter Paragraf 124 GWB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 124 GWB - Paragraf 97 Abs. 1 und 2 GWB - Paragraf 122 GWB - Paragraf 123 GWB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bieterfragen Antworten Management
+### 15.2. De Facto Vergabe 135 Gwb Fristen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bieterstrategie Go No Go
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. De Facto Vergabe 135 Gwb Fristen
+### 15.3. De Facto Vergabe Klage
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. De Facto Vergabe Klage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Eforms Ted Bekanntmachung Check
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Eignung Referenzen Umsatz Nachunternehmer
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Eignungskriterien Paragraf 122 GWB
+### 15.4. Eignungskriterien Paragraf 122 GWB
 
 Prüfe Eignungskriterien Paragraf 122 GWB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 122 GWB - Paragraf 97 Abs. 1 und 2 GWB - Paragraf 123 GWB - Paragraf 124 GWB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Eignungsprüfung
+### 15.5. Sofortige Beschwerde OLG-Vergabesenat
+
+Bereite eine sofortige Beschwerde gegen eine Vergabekammer-Entscheidung vor oder verteidige sie. Frist zwei Wochen ab Zustellung ist nicht verlaengerbar. Aufschiebende Wirkung muss separat beantragt werden. 1. Wer hat verloren? (Bieter, Auftraggeber, Beigeladener) 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Nachprüfungsverfahren Paragraf 160 GWB
+
+Prüfe Nachprüfungsverfahren Paragraf 160 GWB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 160 GWB - Paragraf 97 Abs. 1 und 2 GWB - Paragraf 122 GWB - Paragraf 123 GWB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Nebenabrede Paragraf 58 VgV
+
+Prüfe Nebenabrede Paragraf 58 VgV von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 58 VgV - Paragraf 97 Abs. 1 und 2 GWB - Paragraf 122 GWB - Paragraf 123 GWB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Olg Sofortige Beschwerde
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Olg Vergabesenat Beschwerdebriefing
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Vergaberecht Anti Korruption Paragraf 123 GWB
+
+Prüfe Vergaberecht Anti Korruption Paragraf 123 GWB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 123 GWB - Paragraf 97 Abs. 1 und 2 GWB - Paragraf 122 GWB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Vergaberueg Paragraf 160 GWB
+
+Prüfe Vergaberueg Paragraf 160 GWB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 160 GWB - Paragraf 97 Abs. 1 und 2 GWB - Paragraf 122 GWB - Paragraf 123 GWB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Vertragsänderung 132 Gwb Change Control
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

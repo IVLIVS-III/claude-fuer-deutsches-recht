@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abwägung: Formular, Portal und Einreichungslogik | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abwägungsgebot Paragraf 1 Abs. 7 BauGB | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Allgemeine Satzungsnormenkontrolle nach Paragraf 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen. | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anpassungsgebot — Flächennutzungsplan | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bayvgh: Verhandlung, Vergleich und Eskalation | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bekanntmachung: Beweislast, Darlegungslast und Substantiierung | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Konflikt zwischen Festsetzung und städtebaulichem Vertrag | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Jahresfrist Paragraf 47 Abs. 2 VwGO | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,15 +52,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BauGB Paragraf 1 Absatz 7: Abwägungsgebot für Plan, Festsetzung und Vertragsfolgen.
 - BauGB Paragraf 2 Absatz 3: Ermittlung und Bewertung des Abwägungsmaterials.
 - BauGB Paragraf 9: textliche und zeichnerische Festsetzungen des Bebauungsplans.
-- VwGO Paragraf 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Abs. 1 Nr. 2 VwGO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerwG, Urteil vom 25.11.2005 - 4 C 15.04: Kostenübernahme in städtebaulichen Verträgen braucht zurechenbaren städtebaulichen Bezug und darf nicht nicht delegierbare Gemeindeaufgaben verlagern.
 - BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
-- BVerwG, Urteil vom 12.12.1969 – 4 C 105.66
-- BVerwG, Urteil vom 12.12.1969 – 4 C 105.66 (Vier-Stufen-Lehre)
-- BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
+- BVerwG, Urteil vom 25.01.2021 - 9 C 1.19, Fundstelle ECLI:DE:BVerwG:2021:250121U9C1.19.0: Der Durchführungsvertrag nach Paragraf 12 BauGB bezieht sich auf die Einzelerschließung und Durchführung
+- BVerwG, Beschluss vom 02.05.2018 - 4 BN 7.18, Fundstelle ECLI:DE:BVerwG:2018:020518B4BN7.18.0: Der Vorhaben- und Erschließungsplan muss zusammen mit dem Durchführungsvertrag die Kubatur des Vorhabens
+- BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (Bekanntmachung)
 
 ## 7. Antwortform
 

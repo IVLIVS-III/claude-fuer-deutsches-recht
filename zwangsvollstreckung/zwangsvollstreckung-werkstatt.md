@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 765a Fehlerkatalog | ZPO Paragraf 704 bis Paragraf 750; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Mahn: Fristen, Form, Zuständigkeit und Rechtsweg | ZPO Paragraf 704 bis Paragraf 750; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 753 bis Paragraf 802l | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 802L: Verhandlung, Vergleich und Eskalation | ZPO Paragraf 753 bis Paragraf 802l; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Mahnbescheid: Fristennotiz und nächster Schritt | ZPO Paragraf 753 bis Paragraf 802l; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag | Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -80,14 +80,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - ZPO Paragraf 850 ff.: Pfändungsschutz bei Arbeitseinkommen und Konten.
 - ZPO Paragraf 765a: Vollstreckungsschutz bei sittenwidriger Härte.
 - ZVG und InsO Paragraf 89: Grundstücksvollstreckung und Vollstreckungsverbot nach Insolvenzeröffnung.
-- Symptom: Normzitat ohne Fassungsprüfung (ZPO Paragrafen 704-945 (Vollstreckung)): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 765a ZPO – Vollstreckungsschutz, Härtefall: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 766 ZPO – Erinnerung gegen Art und Weise der Vollstreckung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 767 ZPO – Vollstreckungsabwehrklage (materielle Einwendungen nach Schluss der mündlichen Verhandlung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 768 ZPO – Klauselgegenklage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 769 ZPO – einstweilige Einstellung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 771 ZPO – Drittwiderspruchsklage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 850c-l ZPO – Pfändungsfreigrenze, Paragraf 850k ZPO P-Konto-Freigabe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 688 ZPO — Statthaftigkeit des Mahnverfahrens: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 689 ZPO — Zuständigkeit (zentrales Mahngericht im jeweiligen Bundesland): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 690 ZPO — Antragsinhalt (Individualisierung der Forderung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 692 ZPO — Erlass des Mahnbescheids; Zustellung von Amts wegen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 694 ZPO — Widerspruchsfrist (2 Wochen ab Zustellung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 204 Abs. 1 Nr. 3 BGB — Verjährungshemmung durch Zustellung des Mahnbescheids: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 167 ZPO — Rückwirkung der Zustellung bei "demnächst"-Zustellung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 688 ZPO – Statthaftigkeit: Geldforderungen aus Vertrag, gerichtlich oder schiedsgerichtlich nicht bereits erhoben, Forderung nicht von Gegenleistung abhängig (Ausnahme: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 765a Fehlerkatalog
+### 15.1. Mahn: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Mahnbescheid: Fristennotiz und nächster Schritt
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Mahnbescheid online
+
+Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. Paragrafen 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung Paragraf 204 Abs. 1 Nr. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Zwangsvollstreckung — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung
+
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Vollstreckungsbescheid und Folgeverfahren
+
+Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. Paragraf 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch Paragraf 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. 765a Fehlerkatalog
 
 Dieser Fehlerkatalog prüft Arbeitsergebnisse für Zwangsvollstreckung vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen (Erinnerung Paragraf 766. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. 802L: Verhandlung, Vergleich und Eskalation
+### 15.11. 802L: Verhandlung, Vergleich und Eskalation
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Schuldnerabwehr
+### 15.12. Schuldnerabwehr
 
-Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. Paragrafen 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung Paragraf 766 formale Mängel Vollstreckungsabwehrklage Paragraf 767 materielle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfändungs-Beschluss erhalten. Paragrafen 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung Paragraf 766 formale Mängel Vollstreckungsabwehrklage Paragraf 767 materielle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.13. Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bank: Behörden-, Gerichts- oder Registerweg
+### 15.14. Bank: Behörden-, Gerichts- oder Registerweg
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Einstieg und Routing
-
-Dieser Einstieg routet Zwangsvollstreckung vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - 765a-fehlerkatalog — 765a Fehlerkatalog - 802l-verhandlung-vergleich-und-eskalation — 802l Verhandlung Vergleich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Elektronische Zustellung
-
-Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das im Bundesgesetzblatt 2026 I Nr. 152 verkündete Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung. Prüfraster: elektronischer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014)
-
-Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorläufig sichern. EuKtPVO VO (EU) 655/2014 Paragrafen 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Haertefall: Mandantenkommunikation und Entscheidungsvorlage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. InsO: Internationaler Bezug und Schnittstellen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Zwangsvollstreckung – Kommandocenter
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken
-
-Nutze diesen Skill, wenn der Gläubiger ein Bankkonto des Schuldners pfänden will. Der Skill erzeugt eine prüffähige Antragsroute für den Pfändungs- und Überweisungsbeschluss, trennt Antrag an das Vollstreckungsgericht von Zustellung durch den Gerichtsvollzieher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

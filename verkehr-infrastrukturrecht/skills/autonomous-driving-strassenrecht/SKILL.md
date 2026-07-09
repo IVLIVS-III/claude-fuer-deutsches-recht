@@ -56,12 +56,12 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - § 67 WHG
 - § 28 PBefG
 - § 73 VwVfG
-- § 42 VwG
+- § 42 VwGO
 - § 74 VwVfG
 - § 16 StrWG
 - § 17 FStrG
-- § 80 VwG
-- § 70 VwG
+- § 80 VwGO
+- § 70 VwGO
 - § 9 PBefG
 - § 8 FStrG
 - § 18 AEG

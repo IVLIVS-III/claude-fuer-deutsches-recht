@@ -136,7 +136,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -197,7 +197,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -258,7 +258,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -319,7 +319,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -439,7 +439,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -500,7 +500,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -561,7 +561,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -622,7 +622,7 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 Konkret zu prüfen:
 
 - §§ 31-45 GVG (Schöffen)
-- § 76 GVG (Mitwirkung)
+- GG Artikel 101 Absatz 1 Satz 2 (gesetzlicher Richter und ordnungsgemäße Besetzung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
 
@@ -634,4 +634,3 @@ Konkret zu prüfen:
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

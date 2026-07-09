@@ -54,7 +54,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | SGB VI Paragraf 35; BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB VI Paragraf 36 und Paragraf 38 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | SGB VI Paragraf 36 und Paragraf 38; BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Boutique: Fristennotiz und nächster Schritt | SGB VI Paragraf 36 und Paragraf 38; BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,9 +96,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragrafen 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03. des Folgejahres an Pensions-Sicherungs-Verein: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 30f, 30g BetrAVG: Übergangsvorschriften alte Zusagen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 613a BGB (Betriebsübergang — Eintritt Erwerber in Arbeitsverhältnisse und Nebenleistungen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 613a Abs. 2 BGB (gesamtschuldnerische Haftung Veräußerer/Erwerber — ein Jahr nach Übergang): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 1, 16 BetrAVG (Versorgungsanwartschaften, Anpassungspflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 7–15 BetrAVG (Insolvenzsicherung: Schutzumfang, Beitragspflicht, PSV): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 7 Abs. 1 BetrAVG (Schutzumfang: Arbeitnehmers Ansprüche bei Insolvenz des Arbeitgebers): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 7 Abs. 1 S. 2 BetrAVG (Ausnahmen: Direktversicherung mit unwiderruflichem Bezugsrecht; Pensionsfonds mit Beitragszusage): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -160,54 +160,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. bAV: CTA Treuhand
+### 15.2. Boutique: Fristennotiz und nächster Schritt
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. bAV: Fünftelregelung Auszahlung
+### 15.3. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich bav-strategie-konzern sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. PSV — Pensionssicherungsverein und Haftungsketten
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. bAV: Grenzüberschreitende Mobilität
+### 15.5. Restrukturierung: Beweislast, Darlegungslast und Substantiierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. bAV: Konzern-Design
+### 15.6. bAV: CTA Treuhand
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. bAV: Pensionsfonds-Rückdeckung
+### 15.7. bAV: Fünftelregelung Auszahlung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Benefits: Mandantenkommunikation und Entscheidungsvorlage
+### 15.8. bAV: Grenzüberschreitende Mobilität
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.9. bAV: Konzern-Design
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. bAV: Pensionsfonds-Rückdeckung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Benefits: Mandantenkommunikation und Entscheidungsvorlage
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Boutique: Fristennotiz und nächster Schritt
+### 15.13. Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Pension Buyout im M&A-Deal — Asset vs. Share Deal
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Buyouts Quellenkarte
-
-Diese Quellenkarte sichert für Betriebliche Altersversorgung im Konzern jede tragende Aussage ab: Norm, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor Ausgabe verifiziert. - BetrAVG — amtlichen Stand vor tragender Aussage prüfen - Paragraf 1 BetrAVG Zusage —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Country-by-Country Benefits-Matrix für Konzerne
+### 15.14. Country-by-Country Benefits-Matrix für Konzerne
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

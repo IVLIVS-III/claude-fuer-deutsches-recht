@@ -105,8 +105,8 @@ Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 123 VwGO
 - § 29 VwVfG
 - § 1 KSchG
 - § 7 KSchG

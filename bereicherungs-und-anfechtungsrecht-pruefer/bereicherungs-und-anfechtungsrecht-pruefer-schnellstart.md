@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
 4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
 5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
-6. Abgetretene Forderung und Zession: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
+6. Anfechtungsklage AnfG — Prozessuales: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgetretene Forderung und Zession | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung nach Paragraf 142 BGB und Rückabwicklung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfechtungsklage AnfG — Prozessuales | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Fristen und Anfechtungszeitraum — AnfG | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einreden und Verteidigung des Anfechtungsgegners — AnfG | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AnfG-Grundtatbestand und Anfechtungsberechtigte | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweise und Darlegungslast im Bereicherungsrecht | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entreicherung: Beweislast und Substantiierung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klageantrag: Zahlung, Herausgabe, Zug um Zug | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 404 BGB Einwendungserhalt: Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 23 71 GVG — Sachliche Zuständigkeit (AG unter EUR 5.000 / LG über EUR 5.000): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 813 BGB (Leistung trotz Einrede): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 814 BGB (Kenntnis der Nichtschuld): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
 - BGH VIII ZR 91/04 (Saldotheorie)
 - BGH V ZR 215/11 (Nichteintritt des Erfolges)

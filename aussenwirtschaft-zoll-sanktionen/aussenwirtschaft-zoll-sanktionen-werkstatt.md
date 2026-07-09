@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Rom-I-VO Artikel 3 und 4 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | BAFA Nullbescheid Azg | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | CISG Artikel 1 und 6 | Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74 | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | New Yorker Übereinkommen Artikel II und V | Schiedsvereinbarung und Anerkennungsversagungsgründe | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | ZPO Paragraf 293 | Ermittlung ausländischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| Paragrafen 10-17 GwG | Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofälle | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Paragraf 355 AO | Einspruchsfrist (1 Monat) | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -79,9 +79,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
 - ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
-- Paragrafen 10-17 GwG: Kundensorgfaltspflichten, UBO-Ermittlung, Hochrisikofälle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43 GwG: Verdachtsmeldepflicht an FIU: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstärkte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 355 AO: Einspruchsfrist (1 Monat): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- FGO Paragrafen 40-68: Finanzgerichtliche Klage bei Zollbescheiden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 BGB: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 119 BGB: Anfechtung bei Irrtum über Genehmigungspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 347 AO: Einspruchsrecht gegen Zollbescheide: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 23 VwVfG: Verwaltungsverfahren und Antragstellung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -135,58 +139,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle
+### 15.1. ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens
+### 15.2. BAFA Nullbescheid Azg
+
+Dieser Skill behandelt BAFA Nullbescheid Azg als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Fälle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass
+
+Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Überlassung zum zollrechtlich freien Verkehr und Sondertatbestände (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmöglichkeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Asset Freeze: Sofortmaßnahmen beim Einfrieren sanktionierten Vermögens
 
 Sofortmaßnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhältnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren
+### 15.9. Abfallverbringung: Grenzüberschreitende Entsorgung und Notifizierungsverfahren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten
+### 15.10. AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung
+### 15.11. Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Allgemeingenehmigung AGG Finder
+### 15.12. Allgemeingenehmigung AGG Finder
 
 Dieser Skill behandelt Allgemeingenehmigung AGG Finder als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Fälle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. AML/KYC und Sanktionen: Risikobasierte Kundenprüfung und Sanktionsscreening
+### 15.13. AML/KYC und Sanktionen: Risikobasierte Kundenprüfung und Sanktionsscreening
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. AML, KYC und Sanktions-Compliance
+### 15.14. AML, KYC und Sanktions-Compliance
 
 Dieser Skill baut ein integriertes Kontrollsystem für internationale Geschäftsmodelle. - wenn Waren, Software, Technologie, Dienstleistungen, Zahlungen oder Beteiligte einen Auslandsbezug haben - wenn Exportkontrolle, Sanktionen, Embargos, Zoll, Verbrauchsteuer, CBAM, AWV. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Antidumping-Erstattung und Review: Margenkorrektur und Rückforderung
-
-Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfahren nach Art. 11 VO (EU) 2016/1036: Rückerstattungsantrag (Art. 11 Abs. 8), Interim-Review und Sunset-Review. Prüft Fristen beim Hauptzollamt und EU-Kommission. Fallkonstellation: Importeur hat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. TARIC-Maßnahmen: Antidumping und Ausgleichszoelle
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Asset Freeze Sofortmaßnahmen
-
-Dieser Skill behandelt Asset Freeze Sofortmaßnahmen als operativen Workflow für Unternehmen, Kanzleien und Rechtsabteilungen. Er ist für Fälle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. ATLAS-Ausfuhranmeldung: Qualitätscheck und Fehlerkorrektur
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

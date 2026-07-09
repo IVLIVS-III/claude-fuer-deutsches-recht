@@ -78,7 +78,7 @@ Prüft die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von
 - § 87 AktG
 - § 4 FinDAG
 - § 28 VwVfG
-- § 80 VwG
+- § 80 VwGO
 - § 24 KWG
 
 ### Leitentscheidungen
@@ -230,7 +230,7 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 - § 87 AktG
 - § 4 FinDAG
 - § 28 VwVfG
-- § 80 VwG
+- § 80 VwGO
 - § 24 KWG
 
 ### Leitentscheidungen
@@ -510,4 +510,3 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

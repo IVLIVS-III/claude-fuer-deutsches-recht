@@ -46,7 +46,7 @@ Dieses Anschluss-Routing für **Fachanwalt Migrationsrecht** wählt nach dem ers
 ### Kuratierte Normen-Bibliothek
 
 - Art. 3 EMRK
-- § 80 VwG
+- § 80 VwGO
 - § 36 AsylG
 - § 71 AsylG
 - § 74 AsylG
@@ -54,7 +54,7 @@ Dieses Anschluss-Routing für **Fachanwalt Migrationsrecht** wählt nach dem ers
 - Art. 8 EMRK
 - § 81 AufenthG
 - § 60a AufenthG
-- § 123 VwG
+- § 123 VwGO
 - § 5 AufenthG
 - § 10 StAG
 

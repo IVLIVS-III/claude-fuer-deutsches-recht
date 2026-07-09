@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenordner-Erstlektüre | BGB Paragraf 241 und Paragraf 280; BGH, Urteil vom 18.01.2017 - VIII ZR 17/16 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | FMKW: Verbraucherinkasso RDG | BGB Paragraf 241 und Paragraf 280; BGH, Urteil vom 18.01.2017 - VIII ZR 17/16 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 286 und Paragraf 288 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | BGB Paragraf 286 und Paragraf 288; BGH, Urteil vom 16.07.2007 - II ZR 3/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Werk-/Bauwerklohn-Forderung | BGB Paragraf 286 und Paragraf 288; BGH, Urteil vom 16.07.2007 - II ZR 3/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,6 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 387 | Aufrechnung | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
 | ZPO Paragraf 253 | Mindestinhalt der Klageschrift | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
 | ZPO Paragraf 138 | Erklärungslast und Wahrheitspflicht | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
+| Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum) | Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum): | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -71,6 +72,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 18.01.2017 - VIII ZR 17/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Substantiierter Vortrag verlangt die anspruchsbegründenden Tatsachen, nicht nur rechtliche Wertungen |
 | BGH, Urteil vom 16.07.2007 - II ZR 3/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung nach Paragraf 826 BGB ein |
 | BGH, Urteil vom 17.09.2001 - II ZR 178/99 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bremer Vulkan steht für die Entwicklung der Haftung bei existenzvernichtenden Eingriffen |
+| BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de |
+| BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -82,12 +85,23 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 387: Aufrechnung.
 - ZPO Paragraf 253: Mindestinhalt der Klageschrift.
 - ZPO Paragraf 138: Erklärungslast und Wahrheitspflicht.
+- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum):: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum:: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 9 VOB/B Kündigung Auftragnehmer (nur aus wichtigem Grund): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 13 VOB/B Mängelhaftung (Frist 4 Jahre bei Bauwerken): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 14 VOB/B Schlussrechnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 17 VOB/B Sicherheitsleistung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BGH, Urteil vom 18.01.2017 - VIII ZR 17/16: Substantiierter Vortrag verlangt die anspruchsbegründenden Tatsachen, nicht nur rechtliche Wertungen.
 - BGH, Urteil vom 16.07.2007 - II ZR 3/04: Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung nach Paragraf 826 BGB ein.
 - BGH, Urteil vom 17.09.2001 - II ZR 178/99: Bremer Vulkan steht für die Entwicklung der Haftung bei existenzvernichtenden Eingriffen.
+- BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de
+- BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de
+- EuGH C-377/17 HOAI curia.europa.eu
 
 ## 9. Prüfraster
 
@@ -137,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenordner-Erstlektüre
-
-Dieser Skill ist der erste Griff, wenn eine Forderungsakte bereits als Ordner, ZIP, PDF-Buendel, E-Mail-Stapel oder Dateisammlung vorliegt. Er startet nicht mit einem allgemeinen Interview, sondern mit einer Aktenlekture: erst sehen, dann fragen. Wenn der Nutzer einen Ordner. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungsschritt. Er liefert nicht das ganze Universum sondern genau zwei oder drei Folgeoptionen. - ZPO 688 Mahnverfahren - ZPO 794 Vollstreckungstitel-Katalog - ZPO 808 Sachpfaendung - InsO 174. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anspruchsschriftsatz Bausteine
-
-Jeder substantiierte Schriftsatz besteht aus etwa zwölf Modulen. Dieser Skill haelt sie als Bausteine bereit. ` Die Beklagte wird verurteilt an die Klaegerin einen Betrag von [Hauptsumme] Euro nebst Zinsen in Hoehe von neun Prozentpunkten über dem Basiszinssatz seit [Datum]. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Belegte Compliance Aktenvermerk
-
-Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenvermerk. Das schuetzt Mandant Mandantin und Kanzlei. 1. Sachverhalt knapp 2. Prüfraster mit Norm-Pinpoints 3. Aussichtsbewertung mit Begründung 4. Mandantenhinweis und Belehrung 5. Mandantenentscheidung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Chronologie und Belegmatrix
-
-Jeder Schriftsatz steht und fällt mit der Belegkette. Diese Matrix verbindet Ereignisse mit Beweisen. - K eins K zwei Anlagen der Klägerin - B eins B zwei Anlagen der Beklagten - BK Beweisanlagen kombiniert - Im Text immer Bezugnahme z B Anlage K vier - ZPO 138 Wahrheitspflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Dokumente Intake
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Erstprüfung Rollen und Mandatsziel
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Fällige Zahlen und Schwellen
-
-Zentrale Sammelstelle für Betraege Schwellen Zinsen und Gebühren in Forderungssachen. Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller Stand zum 1.1.2026 ist beim BMF abrufbar. Veröffentlichung im Bundesanzeiger. Werte gerundet ohne Auslagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Fehlerkatalog Forderungsmanagement
-
-Eine Sammlung der haeufigsten Fehler aus der Praxis. - ZPO 130d 167 689 690 850c - BGB 197 286 - InsO 89. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. FMKW: Mahnverfahren Bauleiter
-
-Bauleiter automatisiertes Mahnverfahren Paragrafen 688 ff. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. FMKW: Saumselig Streitig
-
-Spezialfall saeumiges Verfahren und streitiges Verfahren nach Widerspruch: prozessuale Weichen, Beweislast, Schriftsätze. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. FMKW: Titulierung Streckung
-
-Leitfaden Titulierung mit Ratenzahlung und Streckung: Anerkenntnis, Schuldanerkenntnis, Ratenvereinbarung mit Vollstreckungsmöglichkeit. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. FMKW: Verbraucherinkasso RDG
+### 15.1. FMKW: Verbraucherinkasso RDG
 
 Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Anwaltshonorar nach RVG
+### 15.2. Werk-/Bauwerklohn-Forderung
 
-Geltendmachung des Vergueetungsanspruchs des Rechtsanwalts gegen den Mandanten. RVG ist Rahmengesetz, VV-RVG enthält die Gebührentatbestände. Pflicht-Formerfordernisse: 1. Schriftform (auch elektronisch mit qeS, Paragraf 126a BGB). 2. Bezeichnung als "Vergueetungsvereinbarung". Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Forderung aus Werk-/Bauvertrag: Fälligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungsprüfung, Sicherungseinbehalt, Mängelrechte als Einwendung. Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug für forderungsmanagement-klagewerkstatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Mietrückstands-Klage
+
+Mietrückstand: Zahlungsklage parallel zur Räumungsklage wegen Zahlungsverzugs nach Paragraf 543 Absatz 2 Satz 1 Nummer 3 BGB. Dieser Skill ist ein Arbeitswerkzeug für Mietrückstände im Forderungsmanagement. Er trennt zuerst Wohnraum von Gewerberaum, weil die Zuständigkeit anders. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Mietrückstand – Zahlungsklage Wohnraum
+
+Zwei Wege: reine Zahlungsklage auf rückständige Miete oder kombinierte Zahlungs- und Raeumungsklage nach außerordentlicher Kündigung. - Wohnraum Fälligkeit kalendermaessig (Paragraf 556b BGB) → Verzug ohne Mahnung (Paragraf 286 Abs. 2 Nr. 1 BGB). - Geschäftsraum: Vertrag prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Werklohnforderung – BGB und Bau
+
+Geltendmachung von Werklohn aus Werkvertrag (Paragrafen 631 ff. BGB) und Bauvertrag (Paragrafen 650a ff. BGB), berücksichtigt insb. die Abnahme als Fälligkeitsausloeser. Grundsatz Paragraf 641 Abs. 1 BGB: Werklohn ist bei Abnahme fällig. Abnahmevarianten: Wichtig: Vor Abnahme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fristen-Risikoampel
+
+Fristverletzungen sind eine der haeufigsten Haftungsquellen. Diese Ampel hilft beim Früherkennen. Rote Ampel verlangt Sofortbearbeitung und Aktennotiz. - Tag des Ereignisses zaehlt nicht mit außer bei Stunden- oder Geburtsfristen - Tag des Endes wenn Sonn- oder Feiertag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Inkasso-Zahlungsklage-Ersteller
+
+1. Liegt ein vollständiger Mahnvorlauf vor (Rechnung mit Fälligkeit, mindestens eine Mahnung mit Fristsetzung)? 2. Ist die Hauptforderung noch nicht vor Klageeinreichung vollständig bezahlt (Erfüllungskontrolle)? 3. Sind Schuldner-Anschrift. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Klagewerkstatt — Laufzeit aus eigenem Skill
+
+1. Ist das hauseigene Klage-Plugin (klagewerkstatt-[kanzlei]) installiert — enthält es assets/vorlagen-leer/standardklage.md und references/hausregeln.json? 2. Sind Sachverhalt, Parteien, Forderungshöhe und Beklagtenanschrift vollständig bekannt? 3. Welche sachliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Klage-Einreichungslogik
+
+Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die Einreichung Schritt für Schritt durch. Seit 1.1.2022 müssen Rechtsanwaeltinnen Schriftsätze elektronisch einreichen. Verstoß führt zu Unwirksamkeit. Ausnahme nur bei vorübergehender technischer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Klagefreigabe belegte Forderung
+
+Bevor Klage eingereicht wird durchläuft die Forderung ein Pflicht-Prüfraster. Liefere das Raster und das Freigabe-Vermerksmuster. ` Klagefreigabe Forderungssache [Schuldner] - Akte [...] 1. Anspruchsgrund [Norm und Sachverhalt] 2. Fälligkeit Fällig seit [Datum] aus Paragraph. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Klagewerkstatt — Lernlauf aus eigenen Mustern
+
+Dieser Skill ist der Lernlauf der Klagewerkstatt. Er macht in einem Durchgang vier Dinge: 1. Aus eigenen Klagemustern, Urteilen, Kommentaren, Aufsätzen und Formatvorlagen wird eine hauseigene generische Standardklage-Vorlage destilliert (Markdown + DOCX, mit Platzhaltern). 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Kostenfeststellungsklage nach Zahlung auf die Forderung
+
+Dieser Skill gehört in jede Zahlungsklage-Akte, sobald nach Klageeinreichung etwas passiert, das die Hauptforderung erledigt: Zahlung, Aufrechnung, Stundungseinwand, dauerhafte Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses. Dann geht es meist nur noch um. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Mahnbescheid online
+
+Strategische und technische Anleitung zum gerichtlichen Mahnverfahren Paragrafen 688-703d ZPO als kostenguenstige Alternative zur Klage. - Anspruch auf Zahlung bestimmten Geldbetrages in Euro. - Forderung ist nicht von Gegenleistung abhängig oder Gegenleistung erbracht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Mahnbescheid (Online-MB)
+
+Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen Paragraf 690 ZPO, zuständiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch führt in streitiges Verfahren. Dieser Skill ist kein allgemeiner. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Betreuungsrecht — Allgemein | BGB Paragraf 1814 und Paragraf 1815; BGH, Beschluss vom 06.07.2011 - XII ZB 80/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristen- und Risikoampel | BGB Paragraf 1814 und Paragraf 1815; BGH, Beschluss vom 06.07.2011 - XII ZB 80/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 1821 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | BGB Paragraf 1821; BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage | BGB Paragraf 1821; BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan | Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -84,14 +84,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 1848 ff.: Genehmigungen in Vermögensangelegenheiten und Grundstücksgeschäften.
 - FamFG Paragraf 26, Paragraf 278 und Paragraf 280: Amtsermittlung, persönliche Anhörung und Sachverständigengutachten.
 - BtOG: Registrierung, Eignung, Qualität und Aufgaben der Betreuungsbehörde und Betreuungsvereine.
-- Paragraf 1814 BGB — Voraussetzungen der Betreuung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 1816 ff. BGB — Auswahl und Eignung des Betreuers: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1821 BGB — Pflichten des Betreuers und Wünsche der betreuten Person: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 1835 ff. BGB — Vermögensverzeichnis und Rechnungslegung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1863 BGB — Anfangsbericht, Jahresbericht und Schlussbericht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 1848 ff. BGB — Genehmigungspflichtige Rechtsgeschäfte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1815 Abs. 1 BGB — Aufgabenkreis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1823 BGB — Vertretungsmacht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1835 BGB — Aufwendungsersatz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1838 BGB — Vermögenssorge: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1848 BGB — Rechnungslegung/Vermögensübersicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1863 BGB — Berichtspflichten gegenüber dem Betreuungsgericht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 292 FamFG — Rechnungslegung und gerichtliche Kontrolle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 299 FamFG — Akteneinsicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -147,58 +147,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Betreuungsrecht — Allgemein
+### 15.1. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich betreuungsrecht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Arbeitsfokus: Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Kalender, Reminder und Fristenmanagement
+
+Arbeitsfokus: Kalender, Reminder und Fristenmanagement. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. 1 BGB —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Kontodaten- und Vertragsverdacht-Prüfung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Dieser Skill ist ein konkreter Fachbaustein für betreuungsrecht. Ausgangspunkt ist: Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB. Er führt durch Fristen, Form, Zuständigkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung
+
+Arbeitsfokus: Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Betreuungsrecht — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aufgabenkreise festlegen
+### 15.8. Aufgabenkreise festlegen
 
 Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Erforderlichkeit der Betreuung. - Paragraf 1815 Abs. 1 BGB — Aufgabenkreis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Bericht: Mandantenkommunikation und Entscheidungsvorlage
+### 15.9. Bericht: Mandantenkommunikation und Entscheidungsvorlage
 
 Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Betreuer als Erbe und Beschenkter
+### 15.10. Betreuer als Erbe und Beschenkter
 
 Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten oder dessen Angehörige durch Verfügung von Todes wegen (Erbe, Vermächtnis, Auflage) oder durch lebzeitige Zuwendung bedacht werden darf, und welche zivil. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung
+### 15.11. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung
 
 Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer unterscheiden, oder wie die Registrierung als beruflicher Betreuer nach Paragrafen 23 ff. BtOG abläuft. Auch wenn die Frage nur scheinbar berufsrechtlich klingt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Betreuer: Zahlen, Schwellenwerte und Berechnung
+### 15.12. Betreuer: Zahlen, Schwellenwerte und Berechnung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Betreuerpflichten: Formular, Portal und Einreichungslogik
+### 15.13. Betreuerpflichten: Formular, Portal und Einreichungslogik
 
 Arbeitsfokus: Betreuerpflichten: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Betreuerpflichten, Genehmigung und Berichtswesen
+### 15.14. Betreuerpflichten, Genehmigung und Berichtswesen
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Betreuung: Anwaltskosten
-
-Arbeitsfokus: Betreuung: Anwaltskosten. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. 1 BGB — Aufgabenkreis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Betreuung bei Demenz
-
-Arbeitsfokus: Betreuung bei Demenz. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. 1 BGB — passender Aufgabenkreis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Betreuer als Erbe
-
-Arbeitsfokus: Betreuer als Erbe. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen. - Paragraf 1823 BGB — Vertretungsmacht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Betreuung erwachsener Kinder
-
-Arbeitsfokus: Betreuung erwachsener Kinder. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. 1 BGB — Aufgabenkreis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Grenzüberschreitende Betreuung
-
-Arbeitsfokus: Grenzüberschreitende Betreuung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. 1 BGB — Aufgabenkreis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

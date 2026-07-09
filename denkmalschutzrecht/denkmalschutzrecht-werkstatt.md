@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Art. 14 GG — Eigentum und Denkmalschutz | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Enteignung, Übernahme und Entschädigung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Widerspruch und Klagewege im Denkmalrecht | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -151,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Art. 14 GG — Eigentum und Denkmalschutz
+### 15.1. Enteignung, Übernahme und Entschädigung
+
+1. Inhalts- und Schrankenbestimmung mit Ausgleich: Wird die Erhaltungspflicht im Einzelfall unzumutbar, sehen die meisten Landesgesetze einen Ausgleichsanspruch vor (finanzielle Hilfe, Verlängerung der Eintragungswirkung, denkmalverträgliche Nutzungsänderung). 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Widerspruch und Klagewege im Denkmalrecht
+
+Widerspruch: Paragrafen 68 ff. VwGO, soweit das jeweilige Land ein Widerspruchsverfahren noch vorsieht. Einige Länder (etwa Niedersachsen, Bayern in Teilen) haben das Vorverfahren weitgehend abgeschafft; dann führt die Klage unmittelbar zum Verwaltungsgericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Art. 14 GG — Eigentum und Denkmalschutz
 
 Der Skill erklärt, warum die Eintragung und die Erlaubnispflichten verfassungsrechtlich Inhalts- und Schrankenbestimmung sind, wo die Zumutbarkeitsgrenze liegt und wann eine ausgleichspflichtige Inhaltsbestimmung oder eine Enteignung in Betracht kommt. Tragender Anker. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz
+### 15.4. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz
 
 Der Föderalismus erklärt, warum es sechzehn Landesgesetze gibt und warum es kein Bundesdenkmalschutzgesetz gibt. Dieser Skill ordnet die Zuständigkeitslage und zeigt, welche bundesrechtlichen Überlagerungen trotzdem mitzudenken sind. - Art. 70 GG Grundregel: Wo der Bund keine. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Sachgesamtheiten und Gesamtanlagen
+### 15.5. Sachgesamtheiten und Gesamtanlagen
 
 Baden-Württemberg kennt mit der Gesamtanlage eine Schutzform für zusammenhängende Bauensembles. Die Wirkung greift auch für einzelne, für sich nicht denkmalwerte Bauten, wenn sie das geschützte Ortsbild prägen. Verfahrenspraxis: Anhörung aller Eigentuemerinnen, gemeinsame. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Bauordnungsrechtliche Schnittstelle
+### 15.6. Bauordnungsrechtliche Schnittstelle
 
 1. Konzentrationswirkung der Baugenehmigung: In den meisten Bundesländern entscheidet die Bauaufsichtsbehörde im Genehmigungsverfahren nach Landesbauordnung über denkmalrechtliche Belange mit; das Landesamt für Denkmalpflege ist als Fachbehörde zwingend zu beteiligen. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Bodendenkmäler und Grabungsgenehmigung
+### 15.7. Bodendenkmäler und Grabungsgenehmigung
 
-Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergaenge in Verdachtsflaechen sind genehmigungspflichtig nach Art. 7 BayDSchG. Funde unterliegen dem Schatzregal nach Art. 8 BayDSchG, das Eigentum geht in vielen Konstellationen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergaenge in Verdachtsflächen sind genehmigungspflichtig nach Art. 7 BayDSchG. Funde unterliegen dem Schatzregal nach Art. 8 BayDSchG, das Eigentum geht in vielen Konstellationen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Schlösser, Gutsanlagen und Restitution
+### 15.8. Schlösser, Gutsanlagen und Restitution
 
 Brandenburg verzeichnet rund 600 Schlösser und Gutsanlagen, viele in unklarer oder mehrstufig restituierter Eigentumslage. Mandatsfälle vereinen das Vermögensgesetz (VermG) als Restitutionsgrundlage, das BbgDSchG als Erhaltungs- und Erlaubnisregime und die Förderprogramme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bussgeld- und Ordnungswidrigkeitsverfahren
+### 15.9. Bussgeld- und Ordnungswidrigkeitsverfahren
 
 Bussgeldtatbestände der Landesgesetze: Jede Landesregelung enthält einen Katalog mit Geldbussen bis zu sechsstelligen Betraegen für schwere Verstoesse. Bezug nehmen die Tatbestände typischerweise auf unerlaubte Veränderung, unerlaubte Beseitigung, unerlaubte Verbringung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Denkmaleigenschaft feststellen
+### 15.10. Denkmaleigenschaft feststellen
 
 Trotz unterschiedlicher Formulierungen kommen praktisch alle sechzehn Landesgesetze auf denselben dreigliedrigen Tatbestand: 1. Sache — bewegliche oder unbewegliche Sache, Gebäude, Bauteil, Anlage, Bodenfund, Sachgesamtheit. 2. Wertkategorie — künstlerisch, geschichtlich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Denkmalschutz Baden-Württemberg (DSchG-BW)
+### 15.11. Denkmalschutz Baden-Württemberg (DSchG-BW)
 
 Baden-Württemberg unterscheidet Kulturdenkmale und besondere Kulturdenkmale; die Eintragung in das Denkmalbuch ist nachrichtlich für Kulturdenkmale und konstitutiv für besondere Kulturdenkmale. Die Bearbeitung führt von der Objektkategorie über die zuständige untere. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Denkmalschutz Bayern (BayDSchG)
+### 15.12. Denkmalschutz Bayern (BayDSchG)
 
 Bayern hat das älteste flächendeckende Denkmalschutzgesetz der Bundesrepublik (in Kraft seit 1973). Die Denkmaleigenschaft besteht kraft Gesetzes; die Bayerische Denkmalliste ist nachrichtliches Verzeichnis. Der Skill ordnet die Verfahrenswege und die zuständigen Behörden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Denkmalschutz Berlin (DSchG-Bln)
+### 15.13. Denkmalschutz Berlin (DSchG-Bln)
 
 Berlin als Stadt-Land verbindet kommunale und staatliche Denkmalpflege in einem Verwaltungsbau. Die Denkmalliste Berlin ist öffentlich einsehbar; die Eintragung wirkt nachrichtlich. Skill ordnet die spezifischen Wege zwischen Landesdenkmalamt und Bezirksämtern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Stadtmauer Berlin und Berliner Mauerweg als Denkmal
+### 15.14. Stadtmauer Berlin und Berliner Mauerweg als Denkmal
 
 Berlin verbindet historische Stadtmauer (mittelalterlich, vereinzelt erhalten) und Berliner Mauer (1961-1989) als doppeltes Denkmalerbe. Beide Spuren sind in der Denkmalliste teilweise erfasst (East Side Gallery, Bernauer Strasse, Gedenkstaetten Hohenschoenhausen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Denkmalschutz Brandenburg (BbgDSchG)
-
-Brandenburg hat ein landesweit hohes Denkmalaufkommen (Schlösser, Gutshäuser, Industriebauten der Bergbau- und Glasregion). Das BbgDSchG arbeitet mit nachrichtlicher Eintragung; das Landesamt für Denkmalpflege koordiniert mit der archäologischen Landesfachbehörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Denkmalschutz Bremen (DSchG-Brem)
-
-Die Hansestadt Bremen hat als Zwei-Städte-Bundesland eigene Behörden in Bremen und Bremerhaven. Das Denkmalschutzgesetz greift in beiden Stadtgebieten; die Denkmalliste ist öffentlich. - Gesetzesbezeichnung: Bremisches Denkmalschutzgesetz - Abkürzung: DSchG-Brem (bremisches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

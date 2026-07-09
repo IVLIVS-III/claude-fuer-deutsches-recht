@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abnahme und Acceptance Tests | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beweissicherung Code Repository | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Agile/Scrum-Vertrag | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | On-Premise-Lizenzvertrag | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abnahme und Acceptance Tests
-
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Agile/Scrum-Vertrag
-
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. digitale Werkzeuge Code Generation IP
-
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. digitale Werkzeuge Pair Programming im Arbeitsverhältnis
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. API- und SDK-Lizenz
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Arbeitnehmer-Software Paragraf 69b UrhG
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. abrufen-Klauseln
-
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Beta Pilot PoC Termsheet
-
-Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Beweissicherung Code Repository
+### 15.1. Beweissicherung Code Repository
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Bonus Equity Devs Non-Compete
+### 15.2. On-Premise-Lizenzvertrag
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. SaaS-Vertrag B2B
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Werkvertrag oder Dienstvertrag Software
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Abnahme und Acceptance Tests
 
 Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Change Requests und Scope Creep
+### 15.7. Agile/Scrum-Vertrag
 
 Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Global Software Compliance Matrix
+### 15.8. digitale Werkzeuge Code Generation IP
 
 Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Computerprogramm-Schutz Paragraf 69a UrhG
+### 15.9. digitale Werkzeuge Pair Programming im Arbeitsverhältnis
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Contributor License Agreement
+### 15.10. API- und SDK-Lizenz
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Arbeitnehmer-Software Paragraf 69b UrhG
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. abrufen-Klauseln
+
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Beta Pilot PoC Termsheet
+
+Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Bonus Equity Devs Non-Compete
 
 Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung. - Paragraf 69e UrhG — Dekompilierung. - Paragraf 31 UrhG — Einräumung von Nutzungsrechten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

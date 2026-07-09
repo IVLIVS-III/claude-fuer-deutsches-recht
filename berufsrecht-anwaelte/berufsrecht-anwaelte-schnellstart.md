@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Berufsausübungsgesellschaft: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
 | Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
 | Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenführung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention, Team-Anweisung. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwälte: aktenherausgabe und zurückbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufsausübungsgesellschaft | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: beschwerde bei rechtsanwaltskammer - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: beschwerde bei rechtsanwaltskammer - Organisationspflichten, Prävention, Team-Anweisung. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: beschwerde bei rechtsanwaltskammer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwälte: beschwerde bei rechtsanwaltskammer - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerdemanagement | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Paragraf 43 BRAO (allgemeine Berufspflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a BRAO (Grundpflichten – Sachlichkeit, Verschwiegenheit, Interessenkollision): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 113 ff. BRAO (anwaltsgerichtliches Verfahren): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 675 BGB i.V.m. Paragraf 667 BGB (Herausgabepflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 4 BRAO — Interessenkollision: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz, Aktenführung, Anwälte: aktenherausgabe und zurückbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Anwälte: aktenherausgabe und zurückbehaltung - Organisationspflichten, Prävention.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Berufsausübungsgesellschaft, Anwälte: beschwerde bei rechtsanwaltskammer - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan, Anwälte: beschwerde bei rechtsanwaltskammer - Organisationspflichten, Prävention, Team-Anweisung., Anwälte: beschwerde bei rechtsanwaltskammer.
 
 ## 8. Stop
 

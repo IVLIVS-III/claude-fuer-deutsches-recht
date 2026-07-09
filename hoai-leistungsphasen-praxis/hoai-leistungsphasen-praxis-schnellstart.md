@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Honorar und Nachtrag: Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, Umbauzuschlag, Nebenkosten, Abschläge und Änderungsleistung berechnen.
 4. Haftung und Überwachung: Planungsfehler, Koordination, Vergabe, Bauüberwachung, Kostenfortschreibung, Mängelverfolgung, Kausalität und Mitverantwortung trennen.
 5. Arbeitsprodukt: Leistungsstandsmatrix, Honorarprüfung, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk, Projektbericht oder Anspruchsschreiben erstellen.
-6. HOAI Querschnitt: Plant technische vorabnahme: Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen.
+6. HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken: Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| HOAI Querschnitt: Plant technische vorabnahme | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Erstellt abschlussbericht | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Leitet zu freianlagen | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anrechenbare Kosten, DIN 276 und Kostengruppen | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Koordiniert rollen ohne verantwortungsvermischung | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| HOAI Querschnitt: Prüft planungsgrundlage | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kostenobergrenze, Budget und Haftung | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| LPH 1 Grundlagenermittlung: Identifiziert typische haftungsrisiken und beweisvorsorge | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| LPH 1 Grundlagenermittlung: Ordnet vertrag | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| LPH 2 Vorplanung: Identifiziert typische haftungsrisiken und beweisvorsorge | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

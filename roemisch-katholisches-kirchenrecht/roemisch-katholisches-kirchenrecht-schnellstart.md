@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Römisch Katholisches Kirchenrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen kirchenrechtlichen Vorgang nach Zuständigkeit, kirchlichem Verfahren, Urkunde und staatlicher Schnittstelle bearbeiten.
 
 # Römisch Katholisches Kirchenrecht — Schnellstart
 
@@ -17,42 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal.
-2. Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
-3. Arabische Pastoralantworten: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
-4. Archive, Register und Datenschutz: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
-5. Auslegung von Canones und aequitas canonica: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
-6. Beichtgeheimnis und Seelsorgegeheimnis: CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96.
+1. Person und Forum: Gläubiger, Amtsträger, Pfarrei, Diözese, Ordinarius, Offizialat, Gericht und staatliche Stelle bestimmen.
+2. Rechtsquelle: CIC-Fassung, Partikularrecht, Dekret, Statut, Instruktion, Registereintrag und authentische Übersetzung ordnen.
+3. Verfahren: Antrag, Zuständigkeit, Parteistellung, Frist, Beweis, Anhörung, Dekret, Urteil und Rechtsmittel chronologisch abbilden.
+4. Schnittstelle: kirchliche Rechtsfolge, staatliche Wirkung, Arbeitsrecht, Personenstand, Register und Vertraulichkeit getrennt prüfen.
+5. Arbeitsprodukt: Supplik, Antrag, Dekretentwurf, Aktenvermerk, Eheverfahrensmatrix, Stellungnahme oder Pastoralschreiben erstellen.
+6. Zuständigkeit und Rechtsquelle: Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | aus Akte und belastbarer Quelle ableiten |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | CIC Canon 16 und Canon 17; CIC Canon 1400 ff. und Canon 1501 ff; CIC Canon 1671 ff |
+| Rechtsprechung | EuGH, Urteil vom 17.04.2018 - C-414/16; EuGH, Urteil vom 11.09.2018 - C-68/17 |
+| Tatbestand | Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen |
+| Beweislast | Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage |
+| Rechtsfolge | Supplik, Antrag, Dekretentwurf, Eheverfahrensmatrix, Aktenvermerk oder Schnittstellenstellungnahme |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenaufnahme in Pfarrei, Ordinariat und Offizialat | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arabische Pastoralantworten | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Archive, Register und Datenschutz | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslegung von Canones und aequitas canonica | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beichtgeheimnis und Seelsorgegeheimnis | CIC can. 7 — Inkrafttreten kirchlicher Gesetze. - CIC can. 11 — Adressaten rein kirchlicher Gesetze. - CIC can. 96. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zuständigkeit und Rechtsquelle | Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kirchliches Verwaltungsverfahren | Antrag, Anhörung, Dekret, Zustellung, hierarchische Beschwerde, Frist und Vollzug chronologisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eheverfahren | Zuständigkeit, Klagegrund, Parteistellung, Urkunden, Zeugen, Ehebandverteidiger und Rechtsmittel erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kirchliches Strafverfahren | Voruntersuchung, Schutzmaßnahmen, Zuständigkeit, Verteidigung, Beweis, Dekret oder Gerichtsweg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Register und Urkunden | Taufe, Ehe, Austritt, Korrektur, Archiv, Ausfertigung und Offenlegung nach Beweiszweck bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Staatliche Schnittstelle | kirchliche Wirkung, Arbeitsrecht, Personenstand, Datenschutz und staatlichen Rechtsschutz gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.
+- CIC Canon 16 und Canon 17: authentische Auslegung und Auslegung kirchlicher Gesetze.
+- CIC Canon 1400 ff. und Canon 1501 ff.: Streitgegenstände, Gerichtszuständigkeit und Einleitung des kirchlichen Verfahrens.
+- CIC Canon 1671 ff.: Zuständigkeit und Verfahren in Ehenichtigkeitssachen.
+- CIC Canon 1717 ff.: Voruntersuchung und weitere Schritte bei einem kirchlichen Straftatverdacht.
+- EuGH, Urteil vom 17.04.2018 - C-414/16: Eine konfessionsbezogene berufliche Anforderung muss wesentlich, rechtmäßig, gerechtfertigt und gerichtlich wirksam überprüfbar sein.
+- EuGH, Urteil vom 11.09.2018 - C-68/17: Unterschiedliche Loyalitätsanforderungen wegen der Konfession können unzulässige Diskriminierung darstellen, wenn sie keine wesentliche, rechtmäßige und gerechtfertigte berufliche Anforderung sind.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenaufnahme in Pfarrei, Ordinariat und Offizialat, Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage, Arabische Pastoralantworten, Archive, Register und Datenschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Kirchenrechtsakte: Person, Status, Autorität, Canon, Partikularrecht, Urkunde, Frist, Antrag und Rechtsbehelf; Verfahrensmatrix: Schritt, Zuständiger, Rechtsgrundlage, Beweis, Anhörung, Entscheidung, Zustellung und Rechtsmittel.
 
 ## 8. Stop
 

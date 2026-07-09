@@ -12,10 +12,10 @@ Dieser Vollprüfung enthaelt top-10 von 78 Skills des Plugins `fachanwalt-agrarr
 4. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
 5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
 6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Agrarrecht geht: klärt Rolle, Ziel, Fris…
-7. **gap-direktzahlungen-antrag** — Wenn es um Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023 in Fachanwalt Agrarrecht geht: erstell…
-8. **milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg** — Wenn es um Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg in Fachanwalt Agrarrecht geht: ordnet Sachverhalt…
-9. **tierhaltung-genehmigung** — Wenn es um Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten in Fachanwalt Agrarrecht geht: rec…
-10. **landpachtrecht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Agrarrecht geht: erstellt den passenden…
+7. **hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung** — Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsverst…
+8. **hoefe-uebergabe** — Plant und entwirft die lebzeitige Hofübergabe im Geltungsbereich der Höfeordnung. Prüft Hofeigenschaft, Grundsteuerwert,…
+9. **landpacht-und-hoferbfolge-pruefen** — Prüft Landpacht und Hofnachfolge in zwei getrennten, anschließend verzahnten Spuren. Erfasst Textform, Anzeige, Beanstan…
+10. **agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung** — Berechnet und begründet Abfindungs- und Pflichtteilspositionen bei einem Hof nach der Höfeordnung. Trennt Erbfall und le…
 
 ---
 
@@ -73,7 +73,7 @@ _Wenn es um Mandat Triage Agrarrecht in Fachanwalt Agrarrecht geht: klärt Rolle
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -227,7 +227,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Normen-Ergänzung Triage-Routing
 
-LwVG §§ 1 ff. (Zuständigkeit Landwirtschaftsgericht) → § 70 VwGO (Widerspruch Förderbescheid) → §§ 195, 199 BGB (Verjährung Pacht, Abfindung) → § 203 BGB (Hemmung durch Verhandlungen) → GrdstVG (Grundstücksverkehr-Genehmigung) → LPachtVG § 2 (Pachtanzeige-Frist)
+LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz) → VwGO Paragrafen 70 und 74 (Vorverfahren und Klagefrist bei Förderbescheiden) → BGB Paragrafen 195, 199 und 203 (Verjährung und Verhandlungshemmung) → GrdstVG (Genehmigung im Grundstücksverkehr) → LPachtVG Paragraf 2 (Anzeige binnen eines Monats)
 
 ### Quellenregel
 
@@ -278,13 +278,13 @@ _Wenn es um Fachanwalt für Agrarrecht — Orientierung in Fachanwalt Agrarrecht
 - **Hofübergabe** Hofbezugnahme nach Erbfall — siehe Höfeordnung Anerbenrechte.
 - **Landpachtkündigung** § 585 BGB iVm Landpachtvertrag (oft jaehrlich zu festgelegten Terminen).
 - **GrdstVG** Genehmigungsverfahren läuft über Landwirtschaftsbehörde.
-- **Widerspruch gegen Förderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
+- Widerspruch gegen Förderbescheid: VwGO Paragraf 70 nur bei eröffnetem Vorverfahren; Klagefrist nach VwGO Paragraf 74, Rechtsbehelfsbelehrung und einschlägiges Landes- oder Fachrecht gesondert prüfen.
 
 ## Hauptforen
 
-- **Landwirtschaftsgericht** (beim AG / LG je Bundesland — Landwirtschaftsverfahren-Gesetz LwVG).
-- **Verwaltungsgericht** bei öffentlich-rechtlichen Förderbescheiden.
-- **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
+- Landwirtschaftsgericht: nach LwVfG Paragraf 2 ausschließlich das Amtsgericht im ersten Rechtszug, Oberlandesgericht im zweiten und Bundesgerichtshof im dritten Rechtszug.
+- Verwaltungsgericht bei öffentlich-rechtlichen Förderbescheiden, soweit kein abweichender Rechtsweg eröffnet ist.
+- Bundesgerichtshof, Senat für Landwirtschaftssachen.
 - **EuGH** bei GAP-Vorabentscheidungen.
 
 ## Quellenregel
@@ -314,7 +314,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Paragrafenkette (Überblick Agrarrecht)
 
-BGB §§ 581-597 (Landpacht) → LPachtVG (Pachtverkehr, Genehmigung) → GrdstVG (Grundstücksverkehr) → HöfeO §§ 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → VO (EU) 2021/2115 + 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG i.V.m. DüV (Düngerecht) → BNatSchG §§ 13 ff. (Naturschutz, Eingriffsregelung) → § 35 BauGB (Außenbereich landwirtschaftliche Privilegierung) → TierSchG, TierGesG → LwVG (Verfahren Landwirtschaftsgericht)
+BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
 
 ### Quellenregel
 
@@ -351,7 +351,7 @@ _Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agrarrecht geht: 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -397,13 +397,13 @@ _Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agrarrecht geht: 
 - **Hofübergabe** Hofbezugnahme nach Erbfall — siehe Höfeordnung Anerbenrechte.
 - **Landpachtkündigung** § 585 BGB iVm Landpachtvertrag (oft jaehrlich zu festgelegten Terminen).
 - **GrdstVG** Genehmigungsverfahren läuft über Landwirtschaftsbehörde.
-- **Widerspruch gegen Förderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
+- Widerspruch gegen Förderbescheid: VwGO Paragraf 70 nur bei eröffnetem Vorverfahren; Klagefrist nach VwGO Paragraf 74, Rechtsbehelfsbelehrung und einschlägiges Landes- oder Fachrecht gesondert prüfen.
 
 ## Hauptforen
 
-- **Landwirtschaftsgericht** (beim AG / LG je Bundesland — Landwirtschaftsverfahren-Gesetz LwVG).
-- **Verwaltungsgericht** bei öffentlich-rechtlichen Förderbescheiden.
-- **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
+- Landwirtschaftsgericht: nach LwVfG Paragraf 2 ausschließlich das Amtsgericht im ersten Rechtszug, Oberlandesgericht im zweiten und Bundesgerichtshof im dritten Rechtszug.
+- Verwaltungsgericht bei öffentlich-rechtlichen Förderbescheiden, soweit kein abweichender Rechtsweg eröffnet ist.
+- Bundesgerichtshof, Senat für Landwirtschaftssachen.
 - **EuGH** bei GAP-Vorabentscheidungen.
 
 ## Berufsverband
@@ -430,7 +430,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Paragrafenkette (Überblick Agrarrecht)
 
-BGB §§ 581-597 (Landpacht) → LPachtVG (Pachtverkehr, Genehmigung) → GrdstVG (Grundstücksverkehr) → HöfeO §§ 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → VO (EU) 2021/2115 + 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG i.V.m. DüV (Düngerecht) → BNatSchG §§ 13 ff. (Naturschutz, Eingriffsregelung) → § 35 BauGB (Außenbereich landwirtschaftliche Privilegierung) → TierSchG, TierGesG → LwVG (Verfahren Landwirtschaftsgericht)
+BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
 
 ### Quellenregel
 
@@ -467,7 +467,7 @@ _Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Agrarrecht geht: prüft F
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -634,7 +634,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Normenkette Erstgespräch Agrarrecht
 
-LwVG §§ 1 ff. (Zuständigkeit klären) → §§ 70, 74 VwGO (Fristen Förderbescheide sofort prüfen) → GrdstVG (Genehmigungspflicht prüfen) → §§ 10, 11 GwG (GwG-Identifizierung, bes. GbR) → §§ 3, 3a RVG (Honorarvereinbarung) → § 9 RVG (Vorschuss) → §§ 195, 199 BGB (Verjährungsstand sofort ermitteln)
+LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz klären) → VwGO Paragrafen 70 und 74 (Vorverfahren und Klagefrist bei Förderbescheiden prüfen) → GrdstVG (Genehmigungspflicht prüfen) → GwG Paragrafen 10 und 11 (Identifizierung, insbesondere bei Gesellschaften) → RVG Paragrafen 3a und 9 (Vergütungsvereinbarung und Vorschuss) → BGB Paragrafen 195 und 199 (Verjährungsstand ermitteln)
 
 ### Quellenregel
 
@@ -669,7 +669,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
+- Fristen und Eilrisiken zuerst markieren: Bekanntgabe, Vertragsschluss, Förderjahr, Kontrollereignis und konkretes Pachtjahr bestimmen; BGB Paragraf 594a Absatz 1 verlangt bei unbestimmter Landpacht die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs.
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -697,520 +697,347 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `gap-direktzahlungen-antrag`
+## Skill: `hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung`
 
-_Wenn es um Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023 in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Prüft Nachabfindungsansprüche nach HöfeO Paragraf 13 bei Veräußerung, Teilverkauf, Gesellschaftseinbringung, Zwangsversteigerung, Enteignung oder gewinnbringender Nutzungsänderung innerhalb von zwanzig Jahren. Berechnet Erlös, Erbquote, Vorabfindung, Ersatzbeschaffung, Abgaben, Eigenleistung und Zeitabschläge und liefert Auskunftsverlangen oder Erwiderung._
 
-# Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023
+# Nachabfindung nach HöfeO Paragraf 13
 
+## 1. Direktstart
 
-## Arbeitsweg
+Lies zuerst Erbfall- oder Übergabeunterlagen, Grundbuch, Hofvermerk, Veräußerungs- oder Nutzungsvertrag, Zahlungsbelege, Grundsteuerwertbescheid, frühere Abfindungen, Ersatzbeschaffung und Familienübersicht. Erstelle sofort eine Ereignis- und Erlösmatrix. Frage nur nach einem fehlenden Dokument, wenn ohne dieses die Anspruchsroute nicht bestimmt werden kann.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Anspruchsweiche
 
-**Fokus:** Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Änderung. Vorprüfung Risiko-Check Antragstellung Einspruch.
+1. Ausgangsereignis bestimmen: Erbfall oder vorweggenommene Hoferbfolge. Bei Übergabe an einen hoferbenberechtigten Abkömmling HöfeO Paragraf 17 Absatz 2 beachten.
+2. Zwanzigjahresfenster vom maßgeblichen Ereignis bis zur Veräußerung oder Verwertung taggenau prüfen.
+3. Anspruchsauslöser zuordnen: Gesamtverkauf, Teilverkauf über der gesetzlichen Schwelle, Gesellschaftseinbringung, Zubehörverwertung, dauerhafte landwirtschaftsfremde Nutzung mit erheblichem Gewinn, Zwangsversteigerung oder Enteignung.
+4. Anspruchsberechtigten nach HöfeO Paragraf 12 und seiner allgemeinen Erbquote bestimmen.
+5. Tatsächlichen oder gesetzlich fingierten Erlös, Abzüge, Anrechnungen und Zeitabschläge berechnen.
 
-### Sammelantrag GAP-Direktzahlungen
+Der Anspruch ist kein Rückkaufrecht. Der Berechtigte erwirbt grundsätzlich keinen Anspruch auf Rückübertragung des Hofes, sondern einen Geldanspruch auf anteilige Herausgabe der gesetzlichen Nachabfindungsgrundlage.
 
-## 1) Eingangs-Abfrage
+## 3. Normenanker
 
-1. Welche Betriebsgroesse (ha) und Bewirtschaftungsform?
-2. Welche Kulturen — Acker, Grünland, Sonderkulturen, Dauerkulturen?
-3. Ist der Betrieb **Junglandwirt** (max. 40 Jahre, Hofübernahme < 5 Jahre)?
-4. Sind **Oeko-Regelungen** (z.B. Vielfaeltige Kulturen, Bluehstreifen, Agroforst) geplant?
-5. Vorjahres-Bescheid und Sanktionen?
-6. Tierhaltung mit gekoppelter Stuetzung (Mutterkuh, Mutterschaf, Mutterziege)?
+- HöfeO Paragraf 13 Absatz 1: Veräußerung innerhalb von zwanzig Jahren; bei Einzelverkäufen gilt die Schwelle von insgesamt mehr als einem Zehntel des Hofeswerts, soweit die Veräußerung nicht zur Erhaltung des Hofes erforderlich war.
+- HöfeO Paragraf 13 Absatz 1 Satz 3 und Satz 4: Eine weitere vorweggenommene Hoferbfolge ist keine Veräußerung; bei Einbringung in eine Gesellschaft gilt der Verkehrswert im Einbringungszeitpunkt als Erlös.
+- HöfeO Paragraf 13 Absatz 2 und Absatz 3: angemessene Ersatzbeschaffung innerhalb von zwei Jahren vor oder nach Anspruchsentstehung, mögliche Stundung und grundbuchbezogene Fristwahrung.
+- HöfeO Paragraf 13 Absatz 4: Verwertung wesentlichen Hofeszubehörs oder nicht land- oder forstwirtschaftliche Nutzung mit erheblichem Gewinn.
+- HöfeO Paragraf 13 Absatz 5: öffentliche Abgaben, betriebsfremde Belastung, treuwidrig nicht erzielter Erlös, Eigenleistung und Billigkeit; ein Viertel Abzug nach mehr als zehn Jahren, die Hälfte nach mehr als fünfzehn Jahren.
+- HöfeO Paragraf 13 Absatz 7 und Absatz 8: Folgeerwerber sowie Gleichstellung von Zwangsversteigerung und Enteignung.
+- HöfeO Paragraf 13 Absatz 9: Verjährung mit Ablauf des dritten Jahres nach Kenntnis, spätestens dreißig Jahre nach dem Erbfall; diese Frist erweitert das zwanzigjährige Tatbestandsfenster nicht.
+- HöfeO Paragraf 13 Absatz 10: unverzügliche Mitteilung sowie Auskunft über die Berechnungsumstände.
+- HöfeO Paragraf 18 sowie LwVfG Paragrafen 1 und 2: ausschließliche erstinstanzliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht für Streitigkeiten über Ansprüche aus HöfeO Paragraf 13.
 
-## 2) Konditionalitaet (GLOEZ-Standards)
+## 4. Rechtsprechungsanker
 
-Die Direktzahlung setzt Einhaltung der **9 GLOEZ-Standards** voraus (Anhang III GAP-DirektZV):
+- BGH, Beschluss vom 22.11.2000 - BLw 11/00: Eine betriebsfremde Belastung kann Nachabfindung auslösen; maßgeblich ist nicht der Nominalbetrag des Grundpfandrechts, sondern der außerhalb ordnungsgemäßer Bewirtschaftung erzielte wirtschaftliche Gewinn.
+- BGH, Beschluss vom 24.04.2009 - BLw 21/08: Die entgeltliche Bereitstellung von Hofgrundstücken für Windenergie ist landwirtschaftsfremde Nutzung; bei dauerhaftem Wegfall des höferechtlichen Zwecks und erheblichem Gewinn kann HöfeO Paragraf 13 Absatz 4 eingreifen, auch wenn eine landwirtschaftliche Teilnutzung bleibt.
+- BGH, Beschluss vom 28.04.2017 - BLw 5/15: Ausgangspunkt ist der tatsächlich zugeflossene Gegenwert. Ein fiktiver Erlös wird nur in den gesetzlich geregelten Ausnahmefällen angesetzt; eine bloße Freistellungsverpflichtung genügt nicht.
 
-- **GLOEZ 1**: Erhaltung von Dauergrünland
-- **GLOEZ 2**: Moorboeden / Feuchtgebiete-Schutz
-- **GLOEZ 3**: Verbot Stoppelverbrennung
-- **GLOEZ 4**: Gewaesserrandstreifen 3 m
-- **GLOEZ 5**: Erosionsschutz Hanglagen
-- **GLOEZ 6**: Mindestbodenbedeckung Winter
-- **GLOEZ 7**: Fruchtwechsel (durch VO (EU) 2024/1468 — GAP-Vereinfachungsverordnung — geänderter Ausnahmekatalog ab Antragsjahr 2025)
-- **GLOEZ 8**: Mindestanteil nicht-produktiver Flächen (durch GAP-Vereinfachungsverordnung 2024 abgesenkt/teilweise als Öko-Regelung in die freiwillige Förderung verschoben — länderspezifisch ab 2025)
-- **GLOEZ 9**: Verbot Landschaftselement-Beseitigung
+Prüfe vor Verwendung Entscheidungsform, Datum, Aktenzeichen, Randnummer, Gesetzesfassung und amtliche Fundstelle.
 
-**Anpassungen ab Antragsjahr 2025/2026:** Umverteilungs-Mittel an die 2. Säule der GAP steigen stufenweise — 2025: 12,5 %, 2026: 15 %. Eco-Schemes wurden mit dem Antragsjahr 2025 vereinfacht; je Bundesland und Antragsjahr Einheitsbeträge (Bekanntmachung BMLEH vom 21.08.2025 für 2025). Verifikation der konkreten Einheitsbeträge im laufenden Mandat über [bmleh.de](https://www.bmleh.de/DE/themen/landwirtschaft/eu-agrarpolitik-und-foerderung/direktzahlung/direktzahlungen.html).
+## 5. Ereignis- und Erlösmatrix
 
-## 3) Antragsfristen und Präklusion
+| Punkt | Feststellung | Beleg | Rechtsfolge oder Einwand |
+| --- | --- | --- | --- |
+| Ausgangsereignis | Erbfall oder Übergabe am [Datum] | Erbschein, Vertrag, Grundbuch | Beginn des zwanzigjährigen Fensters |
+| Vorgang | Verkauf, Einbringung, Nutzung oder Verwertung | Vertrag, Register, Zahlung | Tatbestand nach Absatz 1, 4, 7 oder 8 |
+| Erlös | tatsächlich zugeflossener Gegenwert | Konto, Kaufpreisabrechnung | Ausgang der Nachabfindung |
+| fiktiver Erlös | nur gesetzlicher Ausnahmefall | Bewertung, Belastung, Treuwidrigkeit | begründete Hinzurechnung |
+| Ersatzbeschaffung | Art, Wert, Vertrag und Frist | Notarvertrag, Grundbuchantrag | angemessener Abzug oder Stundung |
+| weitere Abzüge | Abgaben, Eigenleistung, Billigkeit | Bescheid, Leistungsnachweis | bereinigte Grundlage |
+| Zeitabschlag | mehr als zehn oder fünfzehn Jahre | Zeitachse | ein Viertel oder die Hälfte abziehen |
+| Berechtigtenquote | allgemeiner Erbteil | Personenstand, Verfügung | anteiliger Anspruch |
+| Vorabfindung | bereits empfangener Betrag | Vertrag, Zahlungsbeleg | Anrechnung |
 
-- **Hauptantrag**: 15. Mai des Antragsjahres
-- **Verspätungs-Frist**: 9. Juni mit 1 % Abzug pro Werktag
-- **Änderungs-Frist**: 30. September für Korrekturen
-- **Höhere-Gewalt-Anzeige**: 15 Werktage nach Kenntnis
+## 6. Berechnungsweg
 
-## 4) Sanktionen
+1. tatsächlichen Erlös oder gesetzlich zulässigen fiktiven Erlös bestimmen,
+2. öffentliche Abgaben und angemessene Ersatzbeschaffung abziehen,
+3. betriebsfremde Erlösminderungen oder treuwidrig unterlassenen Erlös hinzurechnen,
+4. nachgewiesene Eigenleistungen und weitere Billigkeitsabzüge absetzen,
+5. Zeitabschlag nach mehr als zehn oder fünfzehn Jahren anwenden,
+6. allgemeine Erbquote des Berechtigten multiplizieren,
+7. bereits empfangene Abfindung und nachweisbare Erfüllung anrechnen,
+8. Zinsen, Fälligkeit und Verjährung gesondert prüfen.
 
-| Verstoß | Folge |
-|---|---|
-| GLOEZ-Verstoß leichte Fahrlaessigkeit | 1-5 % Kürzung |
-| GLOEZ-Verstoß grobe Fahrlaessigkeit | 5-15 % Kürzung |
-| Vorsatz | 15-100 % Kürzung, Ausschluss |
-| Falsche Flächen-Angabe | Differenz-Kürzung + Sanktion 0,75x bis 1,5x |
-| Cross-Compliance-Verstoß | Stufenweise Kürzung |
+Jede Rechenzeile erhält Betrag, Rechtsgrund, Beleg und Streitstatus. Verkehrswert, Kaufpreis und zugeflossener Erlös dürfen nicht gleichgesetzt werden.
 
-## 5) Oeko-Regelungen (freiwillig, zusätzlich)
+## 7. Gegenpositionen
 
-- **OEko-Regelung 1**: Vielfalt im Ackerbau (4-6 Kulturen)
-- **OEko-Regelung 2**: Bluehstreifen
-- **OEko-Regelung 3**: Belassen von Altgrasstreifen
-- **OEko-Regelung 4**: Agroforst-Systeme
-- **OEko-Regelung 5**: Extensivierung Dauergrünland
-- **OEko-Regelung 6**: Bewirtschaftung Mooren
-- **OEko-Regelung 7**: Bewirtschaftung Schutzgebieten
+- Der Vorgang liegt außerhalb des zwanzigjährigen Tatbestandsfensters.
+- Ein Teilverkauf bleibt unter einem Zehntel des Hofeswerts oder war zur Hoferhaltung erforderlich.
+- Es floss kein tatsächlicher Gegenwert zu und kein Fall eines fiktiven Erlöses ist erfüllt.
+- Die Nutzung bleibt landwirtschaftlich oder führt weder dauerhaft zum Wegfall des höferechtlichen Zwecks noch zu erheblichem Gewinn.
+- Ersatzbeschaffung, Abgaben, Eigenleistung oder Zeitabschlag mindern die Grundlage.
+- Der Anspruchsteller ist nicht berechtigt, hat eine Abfindung erhalten oder wahrt die kenntnisabhängige Verjährung nicht.
 
-Praemien je Hektar variabel; Antrag mit Auswahl OEko-Regelung.
+## 8. Ausgabe
 
-## 6) Querprüfung mit HIT-Datenbank
-
-Bei Tierhaltungs-Praemien: HIT-Datenbank (Herkunfts- und Informationssystem Tier) muss vor Antragstellung aktualisiert sein. Differenzen führen zu Kürzungen.
-
-## 7) Workflow
-
-### Schritt 1 — Vorprüfung
-
-- Vorjahres-Bescheid lesen, Auflagen identifizieren
-- Risikobereiche (GLOEZ 7 Fruchtwechsel, GLOEZ 8 4 %-Regel) eruieren
-- Bei Junglandwirt: Hofübernahme-Dokumente bereithalten
-
-### Schritt 2 — Antragstellung
-
-- Online über das jeweilige Land (z.B. AAA in BW, iBALIS in BY, INVEKOS-Online in NRW)
-- Sammelantrag mit Flächen-Skizze
-- OEko-Regelungen separat ankreuzen
-
-### Schritt 3 — Bescheid-Prüfung
-
-- Bei Kürzung: **Widerspruch binnen 1 Monat** (§ 70 VwGO iVm Landes-AusfG)
-- Bei groberen Sanktionen: anwaltliche Prüfung der Verschuldensbeurteilung
-
-## 8) Typische Mandats-Konstellationen
-
-- **Flächendifferenz**: Vor-Ort-Kontrolle ergibt 0,7 ha weniger als beantragt — Quotenkürzung droht
-- **GLOEZ-Verstoß**: Lkw fährt durch Gewaesserrandstreifen — Sanktion 5-15 %
-- **Junglandwirt-Praemie versagt**: Behörde erkennt Hofübernahme nicht an — Widerspruch mit Notar-Urkunde
-- **Oeko-Regelung-Anerkennung verweigert**: Bluehstreifen zu schmal — Kompromiss-Verhandlung
-
-## 9) Honorar-Hinweis
-
-Bei laufender Antragsbegleitung: Rahmenvereinbarung empfohlen. Bei Widerspruch / Klage: Streitwert nach Differenzbetrag (entgangene Direktzahlung). RVG-Honorare nach Streitwert berechnet.
-
-## Anschluss
-
-- `fachanwalt-agrarrecht-orientierung` — Triage Mandatsarten
-- `fachanwalt-agrarrecht-pachtvertrag-streitig` — bei Pacht-Konflikten
-- `landpacht-und-hoferbfolge-pruefen` — bei Generationenwechsel
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Ergänzung
-
-VO (EU) 2021/2115 Art. 14-17 (GLÖZ-Standards, Konditionalität) → VO (EU) 2021/2116 Art. 84-87 (Sanktionen) → Art. 3 VO (EU) 2021/2116 (höhere Gewalt) → GAPDirektZahlV (deutsches Durchführungsrecht) → § 70 VwGO (Widerspruchsfrist) → § 80 Abs. 5 VwGO (einstweiliger Rechtsschutz bei Rückforderung)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Liefere je nach Rolle ein gestuftes Auskunftsverlangen, eine bezifferte Zahlungsaufforderung, einen Antrag an das Landwirtschaftsgericht oder eine Erwiderung. Füge Ereignismatrix, Rechenblatt, Belegliste, Verjährungszeile und stärkstes Gegenargument bei.
 
 ---
 
-## Skill: `milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg`
+## Skill: `hoefe-uebergabe`
 
-_Wenn es um Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg in Fachanwalt Agrarrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Plant und entwirft die lebzeitige Hofübergabe im Geltungsbereich der Höfeordnung. Prüft Hofeigenschaft, Grundsteuerwert, Hoferbenberechtigung, Abfindung und Nachabfindung, Altenteil, Genehmigung, Grundbuchvollzug und Steuer-Schnittstellen und liefert Übergabematrix, Verhandlungspunkte sowie einen notariell anschlussfähigen Vertragsauftrag._
 
-# Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg
+# Hofübergabe nach der Höfeordnung
 
-## Einsatzlage
+## 1. Direktstart
 
-Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufen der EU-Milchquotenregelung mahnt die Bundesanstalt für Landwirtschaft und Ernaehrung BLE 2024 Rueckforderungen aus angeblicher Ueberlieferung 2013/14 an. Wer haftet?
+Lies zuerst Grundbuch, Hofvermerk, aktuellen Grundsteuerwertbescheid, Flurstücks- und Inventarliste, Familienübersicht, Finanzierungen und vorhandene Übergabeentwürfe. Erstelle daraus sofort eine Übergabematrix. Frage nur nach Angaben, die sich aus den Unterlagen nicht belastbar ergeben und den nächsten Schritt ändern.
 
-## Normenanker
+Die erste Ausgabe enthält:
 
-- § 14 MARKTORDG
-- §§ 585 ff. BGB
-- § 9 GrdstVG
-- § 16a TierSchG
-- § 13a DüV
-- § 906 BGB
+1. Hofstatus und anwendbares Übergangsrecht,
+2. Beteiligte und mögliche Hoferben,
+3. Vertragsgegenstand und zurückbehaltene Rechte,
+4. vorläufige Abfindungs- und Nachabfindungsrechnung,
+5. Genehmigungs-, Grundbuch- und Steuerpunkte,
+6. offene Entscheidungen für die notarielle Gestaltung.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 2. Normen- und Stichtagskarte
 
-- EuGH 25.10.2007 C-275/05 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- BVerwG 27.04.2017 3 C 38/06 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- HöfeO Paragraf 1: Hofeigenschaft bei mindestens 54.000 EUR Grundsteuerwert; zwischen 27.000 EUR und unter 54.000 EUR nur nach Erklärung und Eintragung des Hofvermerks.
+- HöfeO Paragraf 4 bis Paragraf 7: Sondererbfolge und Hoferbenordnung; Eignung, Ausschlussgründe und Bestimmung des Übernehmers getrennt prüfen.
+- HöfeO Paragraf 12 Absatz 2: Hofeswert grundsätzlich 60 Prozent des zuletzt festgestellten Grundsteuerwerts; erhebliche besondere Umstände können Zu- oder Abschläge rechtfertigen.
+- HöfeO Paragraf 12 Absatz 3 und Absatz 10: hofbezogene Nachlassverbindlichkeiten, Mindestboden und entsprechende Anwendung auf Pflichtteilsberechtigte, Vermächtnisnehmer und den ausgleichsberechtigten Ehegatten.
+- HöfeO Paragraf 13: zwanzigjährige Nachabfindung insbesondere bei Veräußerung, erheblicher Einzelveräußerung, gesellschaftsrechtlicher Einbringung oder gewinnbringender Nutzungsänderung; Ersatzbeschaffung und gesetzliche Abschläge mitrechnen.
+- HöfeO Paragraf 16 und Paragraf 17: Wirkung der vorweggenommenen Hoferbfolge; bei Übergabe an einen hoferbenberechtigten Abkömmling gilt der Erbfall hinsichtlich des Hofes zugunsten der anderen Abkömmlinge mit der Übertragung als eingetreten.
+- HöfeO Paragraf 18 sowie LwVfG Paragrafen 1 und 2: ausschließliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht für die dort genannten Höfesachen im ersten Rechtszug.
+- HöfeO Paragraf 19 Absatz 3: Übergangsfälle bis längstens 31.12.2026 gesondert prüfen; Grundbuchlage allein ersetzt die Stichtagsprüfung nicht.
+- BGB Paragraf 311b Absatz 1: notarielle Beurkundung der Grundstücksübertragung.
+- BGB Paragraf 1093, BGB Paragraf 1105 und BGB Paragraf 2346: Wohnungsrecht, Reallast und notarieller Erb- oder Pflichtteilsverzicht als mögliche Gestaltungsbausteine.
 
-## Prüfprogramm
+Paragraf 14 HöfeO regelt Rechte des überlebenden Ehegatten im Erbfall. Lebzeitige Altenteilsleistungen des Übergebers entstehen dagegen aus dem Übergabevertrag und den zu ihrer Sicherung bestellten dinglichen Rechten.
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+## 3. Übergabematrix
 
-## Arbeitsergebnis
+| Prüfpunkt | Feststellung | Beleg | Risiko | Vertragsauftrag |
+| --- | --- | --- | --- | --- |
+| Hofeigenschaft | Bundesland, Hofstelle, Eigentumsform, Grundsteuerwert, Hofvermerk | Grundbuch, Bescheid | Übergangsfall oder fehlende Hofeigenschaft | Vollzugsvoraussetzung festlegen |
+| Übernehmer | Verwandtschaft, Eignung, Bewirtschaftungskonzept | Personenstand, Ausbildung, Betriebskonzept | Streit über Hoferbenberechtigung | Auswahl und Rückfall regeln |
+| Gegenstand | Flächen, Gebäude, Inventar, Rechte, Verbindlichkeiten | Anlagenverzeichnis | unvollständige Übertragung | genaue Positiv- und Negativliste |
+| Versorgung | Wohnen, Geld, Pflege, Energie, Fahrzeug, Begräbnis | Bedarfsrechnung | unbestimmte oder ungesicherte Leistung | Inhalt, Anpassung und Sicherung |
+| Weichende Erben | Quote, Vorausempfang, Verzicht, Fälligkeit | Familien- und Zuwendungsliste | spätere Abfindung oder Nachabfindung | Zahlung, Stundung, Sicherheit |
+| Vollzug | Genehmigung, Lastenfreistellung, Grundbuch, Besitzwechsel | Behörden- und Bankunterlagen | schwebender oder blockierter Vollzug | Bedingungen und Vollzugsvollmacht |
 
-1. Quoteninhaber 2013/14 = formell Eingetragener.
-2. Verpachtungsvertrag prüfen: Klausel zur Superabgabe vorhanden?
-3. Wenn ja: Innenregress gegen Paechter aus Vertrag.
-4. Wenn nein: Prüfe Paragraf 313 BGB Wegfall der Geschäftsgrundlage; Quotenmarkt 2015 weggefallen.
-5. Verjaehrung: 3 Jahre Paragraf 195 BGB ab Ueberlieferungsjahr.
+## 4. Berechnung
 
-## Belege und Aktenlücken
+Rechne nachvollziehbar und ohne Verkehrswert-Abkürzung:
 
-- Lieferzettel Molkerei.
-- Quotenbescheid 2013/14.
-- Pachtvertrag mit Datum.
+1. zuletzt festgestellter Grundsteuerwert des Betriebs,
+2. davon 60 Prozent als Ausgangs-Hofeswert,
+3. begründete Zu- oder Abschläge nach HöfeO Paragraf 12 Absatz 2 Satz 3,
+4. hofbezogene Verbindlichkeiten nach HöfeO Paragraf 12 Absatz 3,
+5. Mindestbetrag von einem Fünftel des Hofeswerts beachten,
+6. allgemeine Erbquote des Berechtigten anwenden,
+7. anrechenbare Vorausempfänge, bereits geleistete Abfindungen, Stundung und Sicherheit ausweisen.
+
+Verwende nur den tatsächlich vorliegenden Grundsteuerwertbescheid. Einheitswertmultiplikatoren gehören nicht mehr in die aktuelle Berechnung.
+
+## 5. Vertragsgerüst
+
+1. Parteien, Familienverhältnisse und Geschäftsfähigkeit,
+2. Grundbuchbestand, Hofvermerk und Grundsteuerwert,
+3. übertragene Grundstücke, Zubehör, Forderungen, Verträge und Verbindlichkeiten,
+4. Stichtag für Besitz, Nutzen, Lasten, Gefahr und Rechnungsabgrenzung,
+5. Wohnungsrecht, Reallast, Geldrente, Pflege- und Nebenkostenregelung,
+6. Abfindungen, Vorausempfänge, Verzichte, Fälligkeit und Sicherheiten,
+7. Umgang mit Nachabfindungstatbeständen und Informationspflichten,
+8. Rückübertragung bei Vorversterben, Insolvenz, Veräußerung oder dauerhafter Betriebsaufgabe,
+9. Genehmigungen, Rangstellen, Gläubigerzustimmungen und Vollzugsvollmacht,
+10. steuerliche Vorbehalte, Kosten, Anlagen und Schlussbestimmungen.
+
+## 6. Beweis- und Risikomerker
+
+- Derjenige, der sich auf Hofeigenschaft, Hoferbenstellung, Abfindung, Zu- oder Abschlag oder Nachabfindung beruft, muss die jeweils tragenden Tatsachen und Stichtage belegen.
+- Nutze für jeden Wert eine Quellenzeile: Bescheid, Stichtag, Berechnungsposition und Fundstelle.
+- Behaupte keine steuerliche Begünstigung ohne gesonderte Prüfung durch den steuerlichen Berater; Ertragsteuer, Grunderwerbsteuer und Erbschaftsteuer folgen unterschiedlichen Tatbeständen.
+- Formuliere Pflege- und Altenteilsleistungen bestimmt genug für Vollzug und spätere Anpassung. Kläre Ersatzleistung, Heimunterbringung, Indexierung und Rang im Grundbuch.
+
+## 7. Rechtsprechungs- und Quellenstatus
+
+- BGH, Beschluss vom 23.11.2012 - BLw 12/11: historische Entscheidung zur Hofeigenschaft und Sondererbfolge; für heutige Berechnungen nur mit ausdrücklichem Hinweis auf die seit 01.01.2025 geänderten Wertmaßstäbe verwenden.
+- Gesetzesstand und Grundsteuerwert am Bearbeitungstag aus amtlicher Quelle prüfen. Gerichtsentscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und prüfbarer Fundstelle übernehmen.
+
+## 8. Ausgabe
+
+Liefere je nach Auftrag Übergabematrix, Abfindungsrechnung, Verhandlungsmemo, Anlagenverzeichnis, notariellen Gestaltungsauftrag oder kommentierte Vertragsprüfung. Trenne gesicherte Feststellungen, Gestaltungsoptionen, steuerlich zu klärende Punkte und noch fehlende Belege sichtbar.
 
 ---
 
-## Skill: `tierhaltung-genehmigung`
+## Skill: `landpacht-und-hoferbfolge-pruefen`
 
-_Wenn es um Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten in Fachanwalt Agrarrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Prüft Landpacht und Hofnachfolge in zwei getrennten, anschließend verzahnten Spuren. Erfasst Textform, Anzeige, Beanstandung, Anpassung, Kündigung und Fortsetzung sowie Hofstatus, Grundsteuerwert, Hoferbenordnung, Abfindung und Nachabfindung und liefert Vertragsprüfung, Fristenblatt, Hofnachfolgematrix oder bezifferte Anspruchsanlage._
 
-# Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten
+# Landpacht und Hofnachfolge prüfen
 
+## 1. Direktstart
 
-## Arbeitsweg
+Lies zuerst Pachtvertrag und Nachträge, Flächen- und Übergabeprotokolle, Anzeige- oder Beanstandungsakte, Kündigung, Grundbuch, Hofvermerk, Grundsteuerwertbescheid, Verfügung von Todes wegen, Erbschein oder Übergabevertrag und Familienübersicht. Erstelle zwei Spuren:
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. Landpacht: Parteien, Fläche, Laufzeit, Form, Anzeige, Pachtjahr, Kündigung, Bewirtschaftung und Streitpunkt.
+2. Hofnachfolge: Bundesland, Stichtag, Eigentumsform, Hofstelle, Grundsteuerwert, Hofvermerk, Hoferbe, weichende Erben und Verwertungsvorgänge.
 
-**Fokus:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhörung Buergerbeteiligung. Widerspruch Klage Eilantrag.
+Verbinde beide Spuren erst danach, etwa bei Tod des Verpächters, Hofübergabe während laufender Pacht, Kündigung durch den Hoferben oder Zuordnung von Pachtforderungen und Betriebsmitteln.
 
-### Tierhaltungs-Genehmigung
+## 2. Landpachtspur
 
-## Mandantenfragen — Kaltstart
+### 2.1 Vertrag und Form
 
-1. **Welche Tierart und wie viele Tierplätze?** — Bestimmt den Schwellenwert (4. BImSchV Anhang) für immissionsschutzrechtliches oder Bau-Genehmigungsverfahren.
-2. **Neubau oder Erweiterung?** — Bei Erweiterung UVP-Vorprüfung wegen kumulativer Wirkung mit Bestandsanlage; Bestandsschutz nur für genehmigte Teile.
-3. **Lage: Innen- oder Außenbereich?** — Im Außenbereich nur privilegiertes Vorhaben nach § 35 Abs. 1 BauGB; Massentierhaltung ohne Futterbasis oft nicht privilegiert.
-4. **Abstand zu Wohngebieten?** — TA Luft-Vorgaben + GIRL-Richtwerte; Geruchsgutachten erforderlich.
-5. **FFH- oder Vogelschutzgebiet in der Nähe?** — § 34 BNatSchG Verträglichkeitsprüfung; erhöhte Anforderungen bei Schutzgebiet in 1–5 km-Radius.
-6. **Besteht Bürgerinitiative oder Nachbarwiderspruch?** — Im förmlichen Verfahren zwingend Öffentlichkeitsbeteiligung; im vereinfachten Verfahren nicht.
-7. **Ist die Futtergrundlage im eigenen Betrieb vorhanden?** — BGH-Linie: BauGB-Privilegierung nur bei überwiegender Futterbasis auf eigenen Flächen; Massentierhaltung mit Zukauf-Futter oft nicht privilegiert.
-8. **Tierschutzstandards im Neubau geplant?** — TierSchNutztV-Mindestnormen sind seit Planungsbeginn einzuhalten; Nachbesserungen im Verfahren kosten Zeit und Geld.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- BGB Paragraf 585: überwiegende landwirtschaftliche Nutzung und Abgrenzung zu allgemeiner Pacht, Gewerbemiete oder bloßer Flächennutzung.
+- BGB Paragraf 585a: Ein Vertrag für längere Zeit als zwei Jahre, der nicht in Textform geschlossen ist, gilt als auf unbestimmte Zeit geschlossen.
+- EGBGB Artikel 229 Paragraf 70 Absatz 2: Für vor dem 01.01.2025 entstandene Landpachtverhältnisse galt die frühere Schriftform grundsätzlich bis einschließlich 01.07.2026 fort; Änderungen ab 01.01.2025 unterlagen bereits der neuen Fassung. Bei historischen Formfragen die jeweils geltende Fassung taggenau bestimmen.
+- BGB Paragraf 586 und Paragraf 596: Erhaltung durch den Verpächter, ordnungsmäßige Bewirtschaftung durch den Pächter und Rückgabezustand.
 
-## Rechtsgrundlagen
+Prüfe Dokumentation und Vollständigkeit der Vertragsabrede auch dann streng, wenn Textform genügt. Fläche, Pachtgegenstand, Dauer und Vertragsleistungen müssen einer dauerhaften Wiedergabe und eindeutigen Zuordnung zugänglich sein.
 
-### Immissionsschutzrecht
+### 2.2 Anzeige und Beanstandung
 
-- **§ 4 Abs. 1 BImSchG** — Genehmigungspflicht für Anlagen nach Anhang 1 zur 4. BImSchV.
-- **§ 10 BImSchG** — Förmliches Genehmigungsverfahren: Öffentlichkeitsbeteiligung, Auslegung, Erörterungstermin.
-- **§ 19 BImSchG** — Vereinfachtes Verfahren für kleinere Schwellenwerte: ohne Öffentlichkeitsbeteiligung.
-- **§ 5 Abs. 1 Nr. 1 BImSchG** — Schutzzweck: keine schädlichen Umwelteinwirkungen.
-- **TA Luft 2021** — Technische Anleitung zur Reinhaltung der Luft; Geruchs-, Staub-, Bioaerosol-Immissionen.
-- **4. BImSchV Anhang 1** — Schwellenwerte für Tierhaltungsanlagen.
+- LPachtVG Paragraf 2: Anzeige durch den Verpächter binnen eines Monats; auch der Pächter ist anzeigeberechtigt. Änderungen von Pachtsache, Pachtdauer oder Vertragsleistungen können erneut anzeigepflichtig sein.
+- LPachtVG Paragraf 3: familiäre, verfahrensbezogene und landesrechtlich bestimmte Ausnahmen prüfen.
+- LPachtVG Paragraf 4 und Paragraf 5: ungesunde Verteilung, unwirtschaftliche Aufteilung, unangemessenes Verhältnis zum nachhaltig erzielbaren Ertrag und Härteklausel.
+- LPachtVG Paragraf 7: Beanstandungsbescheid grundsätzlich binnen eines Monats nach Anzeige; rechtzeitiger Zwischenbescheid kann auf zwei Monate verlängern.
+- LPachtVG Paragraf 9: Antrag nach BGB Paragraf 593 Absatz 4 auf gerichtliche Vertragsänderung ist bei anzeigepflichtigem Vertrag nur nach Anzeige zulässig.
+- LPachtVG Paragraf 13 ist weggefallen und begründet kein gesetzliches Pächtervorkaufsrecht.
 
-### Bauplanungsrecht
+### 2.3 Anpassung, Ende und Fortsetzung
 
-- **§ 35 Abs. 1 Nr. 1 BauGB** — Privilegierung im Außenbereich: landwirtschaftliches Vorhaben mit Standortgebundenheit.
-- **§ 201 BauGB** — Landwirtschaft-Begriff: bodenbezogene Bodennutzung; Tierhaltung nur wenn überwiegende Futterbasis aus eigenen Flächen.
+- BGB Paragraf 593: nachträgliche wesentliche und dauerhafte Veränderung der für Vertragsleistung maßgeblichen Verhältnisse, Unzumutbarkeit unveränderter Bindung, Anpassungsverlangen und Landwirtschaftsgericht.
+- BGB Paragraf 594: befristetes Ende und formgebundene Fortsetzungsanfrage im drittletzten Pachtjahr.
+- BGB Paragraf 594a Absatz 1: Bei unbestimmter Pacht Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs; im Zweifel ist das Kalenderjahr Pachtjahr.
+- BGB Paragraf 594c und Paragraf 594e: Berufsunfähigkeit oder Tod des Pächters mit eigenen Voraussetzungen und Fristen von sonstigen Kündigungsrechten trennen.
+- BGB Paragraf 595: Härtefortsetzung, Ausschlüsse, Textform des Verlangens sowie gerichtlicher Antrag grundsätzlich spätestens neun Monate vor Ende; bei kurzer Kündigungsfrist Sonderfrist beachten.
 
-### Tierschutzrecht
+### 2.4 Landpachtrechtsprechung
 
-- **§ 2 TierSchG** — Grundpflichten: artgerechte Ernährung, Bewegungsfreiheit, Vermeidung von Schmerzen.
-- **TierSchNutztV** — Mindestflächen je Tierplatz, Beleuchtung, Lüftung, Auslauf; gilt ab Neubau / Umbau ohne Bestandsschutz.
+- BGH, Urteil vom 06.11.2020 - LwZR 5/19: Bei einer Gesellschaft bürgerlichen Rechts als Partei eines langfristigen Vertrags konnte die Unterschrift nur eines Gesellschafters ohne Vertretungszusatz die damalige Schriftform verfehlen. Für heutige Verträge die geänderte Textform und für Altfälle das Übergangsrecht voranstellen.
+- BGH, Beschluss vom 29.04.2016 - LwZB 2/15: Ein anzeigepflichtiger Landpachtvertrag kann wegen ungesunder Verteilung der Bodennutzung beanstandet und gerichtlich aufgehoben werden; die gerichtliche Prüfung wird nicht durch eine behauptete anderweitige Unwirksamkeit überflüssig.
+- BGH, Urteil vom 28.04.2017 - LwZR 4/16: Bei als Ackerland verpachteten Flächen kann ordnungsmäßige Bewirtschaftung verlangen, die Ackerlandeigenschaft durch rechtzeitigen Umbruch zu erhalten; ein Mitverschulden des sachkundigen Verpächters ist gesondert zu prüfen.
 
-### Umweltprüfung
+## 3. Hofnachfolgespur
 
-- **§ 5 UVPG** i.V.m. Anlage 1 — UVP-Pflicht ab Schwellenwerten; bei Erweiterungen Vorprüfung nach § 9 UVPG.
-- **§ 34 BNatSchG** — FFH-Verträglichkeitsprüfung bei Projekten in oder nahe Schutzgebieten.
+### 3.1 Anwendbarkeit
 
-### Leitentscheidungen
+- Die Höfeordnung gilt in Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein.
+- HöfeO Paragraf 1: Hofeigenschaft grundsätzlich ab 54.000 EUR zuletzt festgestelltem Grundsteuerwert. Zwischen 27.000 EUR und unter 54.000 EUR entsteht sie erst durch Erklärung und Eintragung des Hofvermerks.
+- HöfeO Paragraf 19 Absatz 3: Abweichungen zwischen alter und neuer Hofeigenschaft können bis längstens 31.12.2026 fortwirken. Stichtag und Grundbuchverlauf ausdrücklich prüfen.
+- Ein fehlender Hofvermerk schließt Hofeigenschaft nicht in jeder Konstellation aus. Eigentumsform, geeignete Hofstelle, Grundsteuerwert, Erklärungslage und Löschungstatbestand gemeinsam prüfen.
 
-| Gericht | Aktenzeichen | Kernaussage |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+### 3.2 Hoferbe und Ansprüche
 
-## Schwellenwerte BImSchG vs. Baugenehmigung
+- HöfeO Paragraf 4 bis Paragraf 7: Sondererbfolge, gesetzliche Hoferbenordnung, Wirtschaftsfähigkeit und Bestimmung durch den Eigentümer. Keine geschlechtsbezogene Faustregel verwenden.
+- HöfeO Paragraf 12: Geldabfindung der nicht zum Hoferben gewordenen Miterben; Ausgangswert sind 60 Prozent des Grundsteuerwerts, korrigierbar bei erheblichen besonderen Umständen, danach hofbezogene Verbindlichkeiten und allgemeine Erbquote.
+- HöfeO Paragraf 13: Nachabfindung bei den gesetzlich bestimmten Verwertungs- und Nutzungsereignissen innerhalb von zwanzig Jahren; kein Rückkaufrecht und keine pauschale Differenzrechnung zwischen Verkaufspreis und Hofeswert.
+- HöfeO Paragraf 16 Absatz 2: höferechtlicher Wertansatz bei der Pflichtteilsberechnung.
+- HöfeO Paragraf 17: Wirkungen des Übergabevertrags; bei Übergabe an einen hoferbenberechtigten Abkömmling gilt der Erbfall hinsichtlich des Hofes zugunsten der anderen Abkömmlinge mit der Übertragung als eingetreten.
+- BGB Paragraf 311b Absatz 1: notarielle Form der Grundstücksübertragung. Altenteil, Wohnungsrecht und Reallast folgen aus Vertrag und dinglicher Sicherung, nicht pauschal aus HöfeO Paragraf 14.
 
-### Genehmigung nach § 4 BImSchG (4. BImSchV Anhang 1)
+## 4. Verzahnungsmatrix
 
-| Tierart | Förmlich (§ 10) | Vereinfacht (§ 19) |
-|---|---|---|
-| Mastrinder | 1.500 Tierplätze | 600–1.500 |
-| Mastschweine | 3.000 Tierplätze | 1.500–3.000 |
-| Zuchtsauen | 750 Tierplätze | 300–750 |
-| Ferkel | 6.000 Tierplätze | 3.000–6.000 |
-| Mastgeflügel (Huhn) | 85.000 Tierplätze | 40.000–85.000 |
-| Puten | 60.000 Tierplätze | 30.000–60.000 |
-| Legehennen | 60.000 Tierplätze | 40.000–60.000 |
+| Frage | Landpachtbeleg | Hofnachfolgebeleg | Arbeitsfolge |
+| --- | --- | --- | --- |
+| Wer ist Vertragspartner nach dem Stichtag? | Vertrag, Anzeige, Nachtrag | Erbschein, Übergabevertrag, Grundbuch | Rechtsnachfolge und Adressat klären |
+| Welche Flächen gehören zu Pacht und Hof? | Flurstücksanlage, Besitzprotokoll | Hofbestand, Hofeszubehör | Überschneidung und Lücken markieren |
+| Welche Zahlung steht wem zu? | Fälligkeit, Pachtkonto | Stichtag, Nachlass- oder Übergaberegel | zeitanteilige Zuordnung rechnen |
+| Kann gekündigt oder fortgesetzt werden? | Pachtjahr, Zugang, Härte | Person des neuen Verpächters | Frist und Antrag sichern |
+| Verändert die Pacht den Hofeswert? | Ertrag, Dauer, Konditionen | Grundsteuerwert, besondere Umstände | nur begründeten Zu- oder Abschlag prüfen |
+| Löst eine Nutzung Nachabfindung aus? | Nutzungszweck, Entgelt | HöfeO Paragraf 13 | Dauer, Gewinn und höferechtlichen Zweck prüfen |
 
-**Unterhalb aller Schwellen:** Nur Baugenehmigung nach Landes-Bauordnung; immissionsschutzrechtliche Nebenbestimmungen dennoch möglich.
+## 5. Beweis- und Fristenblatt
 
-## Prüfschema Tierhaltungs-Genehmigung
+| Punkt | Darlegung und Beleg | Frist oder Stichtag |
+| --- | --- | --- |
+| Textform | dauerhaft lesbare, zuordenbare Erklärungen und Nachträge | Vertragsschluss und jede Änderung |
+| Anzeige | Anzeigeinhalt und Eingang bei zuständiger Behörde | ein Monat nach Vereinbarung |
+| Beanstandung | Bescheid oder Zwischenbescheid und Bekanntgabe | ein oder zwei Monate nach Anzeige |
+| Kündigung | Pachtjahr, Zugang und gesetzlicher Tatbestand | nach BGB Paragraf 594a ff. |
+| Fortsetzung | Existenzgrundlage, Härte, Interessen und rechtzeitiger Antrag | BGB Paragraf 595 Absatz 5 und Absatz 7 |
+| Hofstatus | Stichtag, Grundsteuerwert, Eigentumsform, Hofstelle und Hofvermerk | Erbfall oder Übertragung |
+| Abfindung | Quote, Grundsteuerwert, Korrektur, Hofschulden und Vorausempfang | HöfeO Paragraf 12 |
+| Nachabfindung | Ereignis, Erlös, Abzug, Kenntnis und Mitteilung | zwanzigjähriges Fenster; Verjährung gesondert |
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+## 6. Gegenpositionen
 
-| Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
-|---|---|---|---|
-| 1 | Schwellenwert: BImSchG oder LBO? | 4. BImSchV Anhang 1 | Falsches Verfahren = Versagung |
-| 2 | UVP-Pflicht oder Vorprüfung? | § 5 UVPG, Anlage 1 | Verfahrensfehler; Bescheid anfechtbar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 4 | Geruchs-Gutachten nach GIRL | TA Luft 2021 Nr. 5.4.7 | Nachbar-Klage; Auflagen |
-| 5 | Bioaerosol-Gutachten | TA Luft 2021 Nr. 5.4.7.1 | Auflagen oder Versagung |
-| 6 | FFH-Verträglichkeit im Umkreis | § 34 BNatSchG | Versagung bei Erheblichkeit |
-| 7 | TierSchNutztV-Mindestflächen eingehalten? | § 2 TierSchG, TierSchNutztV | Tierschutz-Beanstandung; Betriebsversagung |
-| 8 | Öffentlichkeitsbeteiligung (förmlich)? | § 10 BImSchG | Formfehler, Nichtigkeit Bescheid |
-| 9 | Sicherheitsleistung Rückbau-Pflicht? | § 5 Abs. 3 BImSchG | Persönliche Haftung Betreiber |
-| 10 | Bürger-Stellungnahmen beantwortet? | § 10 Abs. 7 BImSchG | Einwend.-Präklusion; Klagerecht Dritter |
+- Es liegt keine Landpacht, sondern allgemeine Pacht oder bloße Nutzungsüberlassung vor.
+- Die Textform ist gewahrt oder der Formmangel führt nur zur unbestimmten Laufzeit, nicht zur Nichtigkeit.
+- Anzeige war ausgenommen; Beanstandung war verspätet oder materiell unbegründet.
+- Eine Pachtanpassung scheitert an fehlender dauerhafter Veränderung oder zumutbarer Risikozuweisung.
+- Kündigung oder Fortsetzungsantrag verfehlt Pachtjahr, Form oder Frist.
+- Der Besitz ist am Stichtag kein Hof oder fällt unter das Übergangsrecht.
+- Abfindungsrechnung verwendet falschen Wert, falsche Quote oder nicht hofbezogene Verbindlichkeiten.
+- Ein behaupteter Nachabfindungsvorgang erfüllt Tatbestand, Erlös- oder Verjährungsvoraussetzungen nicht.
 
-## Immissionsschutz — Geruch und Bioaerosole
+## 7. Ausgabe
 
-### TA Luft 2021
-
-- **Geruchs-Richtwerte** (GIRL): 0,10 (10 % der Jahresstunden) für Wohngebiet, 0,15 für Mischgebiet, 0,25 für Dorfgebiet.
-- **VDI 3894**: Mindestabstände Orientierungswerte je nach Tierart und Bestandsgröße.
-- **Bioaerosole § 5.4.7.1 TA Luft**: Bei Anlagen > 85.000 Geflügelplätzen oder > 2.000 Mastschweineplätzen: Bioaerosol-Gutachten; Emissionen ≤ 100 KBE/m³ am Immissionsort.
-
-### Geruchsgutachten-Anforderungen
-
-- Ausbreitungsrechnung mit AUSTAL2000/AUSTAL3000 (Windstatistik des lokalen Wetterdienstes)
-- Mindestabstände prüfen
-- Bestandsquellen einbeziehen (kumulative Betrachtung)
-
-## Tierschutzrechtliche Mindestanforderungen (TierSchNutztV — Auswahl)
-
-| Tierart | Mindestfläche | Sonstiges |
-|---|---|---|
-| Mastschwein 85–110 kg | 0,75 m² / Tier | Beschäftigungsmaterial |
-| Zuchtsau (Einzelhaltung) | 5,0 m² / Sau | Bewegung tägl. |
-| Legehenne | 750 cm² / Tier + Nest | Wintergarten ab 2025 |
-| Masthähnchen | 33 kg/m² Bestandsdichte | Tageslicht |
-
-## Genehmigungsverfahren
-
-### Schritt 1 — Vorbereitung
-
-- Standort-Prüfung BauGB (Flächennutzungsplan, Bebauungsplan, Außenbereich-Privilegierung)
-- UVP-Vorprüfung (schriftlicher Antrag an Landesamt)
-- Schalltechnisches, geruchstechnisches und Bioaerosol-Gutachten in Auftrag geben
-- TierSchNutztV-Konformitätsprüfung der Stallplanung
-
-### Schritt 2 — Antrag
-
-- Antrag bei zuständiger Immissionsschutzbehörde (Bezirksregierung in NW, Landratsamt in BY, Regierungspräsidium in BW)
-- Vollständige Antragsunterlagen nach § 10 Abs. 1 BImSchG: Antragsformular, UVP-Bericht, Gutachten, Bauunterlagen, TierSchNutztV-Nachweis
-
-### Schritt 3 — Öffentlichkeitsbeteiligung (förmliches Verfahren)
-
-- Auslegung der Unterlagen 1 Monat (§ 10 Abs. 3 BImSchG)
-- Stellungnahmen der Öffentlichkeit und Träger öffentlicher Belange
-- Erörterungstermin bei erheblichen Einwendungen
-
-### Schritt 4 — Entscheidung
-
-- Bescheid mit Nebenbestimmungen/Auflagen
-- Bei Ablehnung: Widerspruch binnen 1 Monat (§ 68 VwGO)
-
-### Schritt 5 — Klage bei Ablehnung (Antragsteller)
-
-- Verpflichtungsklage beim Verwaltungsgericht
-- Einstweiliger Rechtsschutz § 123 VwGO auf vorläufige Zulassung bei Eilbedürftigkeit
-
-### Dritter-/Nachbar-Anfechtungsklage
-
-- Dritte (Nachbarn, Verbände) können Bescheid anfechten
-- Klagebefugnis: Beeinträchtigung in eigenen Rechten (Geruch, Lärm, Wasser)
-- Aufschiebende Wirkung § 80 VwGO — Betrieb erst nach Rechtskraft oder Anordnung der sofortigen Vollziehung
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Neuantrag Tierhaltungsgenehmigung BImSchG | Genehmigungsverfahren-Schema unten |
-| Variante A — Erweiterung unter BImSchG-Schwellenwert | Nur Baugenehmigungsverfahren; BImSchV nicht noetig |
-| Variante B — Nachbarn klagen wegen Immissionen | Verwaltungsrechtlichen Schutz und ggf. Anpassungsauflage prüfen |
-| Variante C — Bestandsanlage soll veraendert werden | Änderungsgenehmigung § 15 BImSchG; Wesentlichkeitsschwelle prüfen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbaustein — Widerspruch Antragsteller
-
-```
-An: [Genehmigungsbehörde]
-Datum: [Datum]
-
-Widerspruch gegen den Bescheid vom [Datum], Az. [Nr.]
-Mandant: [Name, Betrieb]
-
-Der oben genannte Bescheid wird vollständig angefochten.
-
-Begründung:
-
-1. BauGB-Privilegierung
- Die Futtergrundlage des Betriebs beläuft sich auf
- [ha], was [%] des Jahresbedarfs deckt. Damit ist
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Der Bescheid verkennt die Berechnung.
-
-2. UVP-Vorprüfung
- Die Vorprüfung ist fehlerhaft, weil [konkrete
- Fehler, z.B. kumulative Wirkung falsch berechnet].
- Ergebnis der korrekten Vorprüfung: keine UVP-Pflicht.
-
-3. Geruchsgutachten
- Das Geruchs-Gutachten der Behörde weist Fehler auf:
- [konkret: falsche Windstatistik, Ausgangsdaten].
- Wir legen unser Gegengutachten [Sachverständiger]
- bei, das an der Immissionsadresse 0,08 Jahres-
- geruchsstunden ermittelt (GIRL-Grenze: 0,10).
-
-Wir beantragen,
-den Bescheid aufzuheben und die Genehmigung zu erteilen.
-
-[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Beweislast und Darlegungslast
-
-- **Antragsteller** muss alle Voraussetzungen durch Gutachten belegen; Behörde entscheidet auf Basis der vorgelegten Unterlagen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bei UVP-Fehler: Verfahrensfehler ist selbstständiger Aufhebungsgrund nach § 4 UmwRG ohne Kausalitätsnachweis.
-
-## Fristen
-
-| Frist | Dauer | Rechtsgrundlage |
-|---|---|---|
-| Auslegung Öffentlichkeitsbeteiligung | 1 Monat | § 10 Abs. 3 BImSchG |
-| Widerspruch gegen Bescheid | 1 Monat ab Zustellung | § 68 VwGO |
-| Klage nach Widerspruchsbescheid | 1 Monat | § 74 VwGO |
-| Nachbar-Klage gegen Baugenehmigung | 1 Jahr (Kenntnis) / Verwirkung | § 74 VwGO + Rspr. |
-
-## Gegenargumente und Reaktion
-
-| Gegenargument | Reaktion |
-|---|---|
-| Keine Privilegierung (fehlende Futterbasis) | Flächen-Nachweis, Futter-Berechnung mit Agrarsachverständigen |
-| Geruch übersteigt GIRL-Richtwert | Gegengutachten mit korrekter Ausbreitungsberechnung |
-| UVP-Pflicht ausgelöst | Vollständigen UVP-Bericht nachreichen; alternativ: Neuantrag ohne kritische Schwellenwert-Überschreitung |
-| Tierschutzmängel | Stallplan anpassen; TierSchNutztV-Checkliste durch Veterinärbehörde vorab prüfen lassen |
-| FFH-Verträglichkeit nicht nachgewiesen | Gutachten nach Stickstoffdepositionen und Habitatschutz-Anforderungen beauftragen |
-
-## Streitwert und Kosten
-
-- **Antragsteller-Klage**: Wert des Investitionsvorhabens als Streitwert (§ 52 GKG), typisch 100.000–2.000.000 EUR.
-- **Nachbar-Klage**: Immissionsminderungsinteresse des Klägers als Wert, deutlich niedriger.
-- **Gutachtenkosten**: Geruch 3.000–8.000 EUR; Bioaerosol 2.000–5.000 EUR; UVP 10.000–50.000 EUR.
-- **RVG**: Anwalt nach Gegenstandswert § 13 RVG; Fachanwalts-Mehrgebühr nach § 14 RVG.
-
-## Strategische Empfehlung
-
-| Konstellation | Empfehlung |
-|---|---|
-| Neubau ohne UVP-Pflicht, gute Gutachtenlage | Vereinfachtes Verfahren anstreben; Güteabwägung mit Nachbarn |
-| Erweiterung mit UVP-Vorprüfung | Kumulationsberechnung sorgfältig; eigene Vorprüfung einreichen |
-| Massive Bürgerinitiative | Frühzeitig Dialog suchen; technische Verbesserungen (Biofilter, Abluftreinigung) anbieten |
-| Nachbar klagt gegen Genehmigung | Aufschiebende Wirkung widersprechen (§ 80a VwGO); Betrieb sichern bis zur VG-Entscheidung |
-
-## Anschluss-Skills
-
-- `sammelantrag-gap-checkliste` — bei verbundener Tierprämienförderung
-- `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` — bei naturschutzrechtlichen Parallelfragen
-- `fachanwalt-verwaltungsrecht-widerspruch` — allgemeines Widerspruchsrecht
-
-## Quellen
-
-- BImSchG §§ 4, 5, 10, 19
-- 4. BImSchV Anhang 1
-- TA Luft 2021
-- UVPG §§ 5, 9, Anlage 1
-- BauGB §§ 35, 201
-- TierSchG § 2
-- TierSchNutztV
-- § 34 BNatSchG (FFH-Verträglichkeit)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Jarass BImSchG-Kommentar; Koch/Pache Immissionsschutzrecht
-
-## Ergänzung — Aktuelle Rechtsprechung 2022-2024
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-<!-- AUDIT 27.05.2026 -->
+Liefere je nach Auftrag eine Vertrags-Redline, Anzeige- und Beanstandungsmatrix, Kündigungs- oder Fortsetzungsprüfung, Hofnachfolgematrix, Abfindungsrechnung oder Nachabfindungsanlage. Trenne beide Rechtsgebiete sichtbar und füge erst zum Schluss einen gemeinsamen Maßnahmenplan mit Adressat, Frist, Beleg und nächstem Dokument an.
 
 ---
 
-## Skill: `landpachtrecht-schriftsatz-brief-und-memo-bausteine`
+## Skill: `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung`
 
-_Wenn es um Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Berechnet und begründet Abfindungs- und Pflichtteilspositionen bei einem Hof nach der Höfeordnung. Trennt Erbfall und lebzeitige Übergabe, bestimmt Hofstatus, Grundsteuerwert, Quoten, Verbindlichkeiten, Vorausempfänge und Nachabfindung und liefert Rechenblatt, Auskunftsverlangen oder Anspruchserwiderung mit Beweisplan._
 
-# Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
+# Abfindung und Pflichtteil beim Hof
 
+## 1. Direktstart
 
-## Normenanker
+Lies zuerst Erbschein oder Verfügung von Todes wegen, Grundbuch, Hofvermerk, Grundsteuerwertbescheid, Nachlassverzeichnis, Darlehen, Familienstandsurkunden, frühere Zuwendungen und einen etwaigen Übergabevertrag. Erstelle unmittelbar ein Stichtags- und Rechenblatt; frage nur nach fehlenden Werten, die das Ergebnis ändern.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; landesrechtliche Wald-, Jagd-, Naturschutz- und Landwirtschaftsregeln live ergänzen, wenn sie den konkreten Auftrag tragen:
+## 2. Fallweichen
 
-- `§ 581 Abs. 1 BGB` — Pachtvertrag als Grundtyp.
-- `§ 585 Abs. 1 BGB` — Landpachtvertrag.
-- `§ 594a Abs. 1 BGB` — Kündigung und Fristen im Landpachtrecht.
-- `§ 1 GrdstVG` — Genehmigungspflicht im landwirtschaftlichen Grundstücksverkehr.
-- `§ 9 GrdstVG` — Versagungsgründe.
-- `§ 1 HöfeO` — Hofeigenschaft.
-- `§ 5 HöfeO` — Hoferbenstellung und Wirtschaftsfähigkeit live prüfen.
-- `§ 9 BWaldG` — Waldumwandlung.
-- `§ 11 BWaldG` — ordnungsgemäße Bewirtschaftung des Waldes.
-- `§ 14 BWaldG` — Betreten des Waldes.
+1. Erbfall oder lebzeitige Übergabe bestimmen.
+2. Hofeigenschaft am maßgeblichen Stichtag nach HöfeO Paragraf 1 und bei Übergangsfällen nach HöfeO Paragraf 19 Absatz 3 prüfen.
+3. Hoferbe, sonstige Erben, Pflichtteilsberechtigte, Vermächtnisnehmer und ausgleichsberechtigten Ehegatten getrennt erfassen.
+4. Allgemeine Erbquote, höferechtliche Abfindungsquote und Pflichtteilsquote nicht vermischen.
+5. Ergänzungsansprüche wegen lebzeitiger Zuwendungen nach allgemeinem Pflichtteilsrecht gesondert von Abfindung und Nachabfindung behandeln.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+## 3. Normenanker
 
-## Arbeitsweg
+- HöfeO Paragraf 12 Absatz 1: nicht zum Hoferben gewordene Miterben erhalten grundsätzlich eine Geldabfindung anstelle eines Hofanteils.
+- HöfeO Paragraf 12 Absatz 2: Ausgangswert sind 60 Prozent des zuletzt festgestellten Grundsteuerwerts; erhebliche besondere Umstände können einen Zu- oder Abschlag nach billigem Ermessen tragen.
+- HöfeO Paragraf 12 Absatz 3: hofbezogene Nachlassverbindlichkeiten abziehen; der verbleibende Betrag darf den gesetzlichen Mindestboden nicht unterschreiten und wird nach den allgemeinen Erbquoten verteilt.
+- HöfeO Paragraf 12 Absatz 4 bis Absatz 10: Vorausempfänge, Stundung, Minderjährige und entsprechende Anwendung auf Pflichtteilsberechtigte, Vermächtnisnehmer sowie bestimmte Ehegattenpositionen.
+- HöfeO Paragraf 16 Absatz 2: Für den Pflichtteil der übrigen Erben ist der höferechtliche Erbteil maßgeblich; der Hof wird mit dem Wert nach HöfeO Paragraf 12 Absatz 2 angesetzt.
+- HöfeO Paragraf 17: Bei Übergabe an einen hoferbenberechtigten Abkömmling gilt der Erbfall hinsichtlich des Hofes zugunsten der anderen Abkömmlinge mit der Übertragung als eingetreten.
+- HöfeO Paragraf 13: Nachabfindung bei den gesetzlich bestimmten Verwertungs- und Nutzungsereignissen innerhalb von zwanzig Jahren.
+- BGB Paragraf 2303, Paragraf 2311, Paragraf 2314, Paragraf 2315 und Paragraf 2325: allgemeiner Pflichtteil, Nachlasswert, Auskunft, Anrechnung und Pflichtteilsergänzung für nicht höferechtlich privilegierte Vermögensteile oder gesonderte Ergänzungsfragen.
+- BGB Paragraf 2316: Ausgleichungspflicht bei der Pflichtteilsberechnung; nur anwenden, wenn eine ausgleichungspflichtige Zuwendung nach BGB Paragraf 2050 ff. tatsächlich vorliegt.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 4. Rechenblatt
 
-**Fokus:** Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine.
+| Position | Betrag | Rechtsgrund | Beleg | Streit |
+| --- | ---: | --- | --- | --- |
+| letzter Grundsteuerwert | [Betrag] | HöfeO Paragraf 12 Absatz 2 | Bescheid vom [Datum] | Stichtag oder Zuordnung |
+| 60 Prozent Ausgangswert | [Betrag] | HöfeO Paragraf 12 Absatz 2 | Rechenweg | keiner |
+| Zu- oder Abschlag | [Betrag] | besondere Umstände | Gutachten und Betriebsdaten | Erheblichkeit und Höhe |
+| hofbezogene Verbindlichkeiten | [Betrag] | HöfeO Paragraf 12 Absatz 3 | Valuten und Zweck | Hofbezug |
+| Mindestboden | [Betrag] | ein Fünftel des Hofeswerts | Rechenweg | Anwendung |
+| Anteil nach allgemeiner Erbquote | [Betrag] | HöfeO Paragraf 12 Absatz 3 | Erbfolge | Quote |
+| Vorausempfang oder frühere Abfindung | [Betrag] | HöfeO Paragraf 12 Absatz 4 | Vertrag und Zahlung | Anrechnung |
+| bereits geleistet | [Betrag] | Erfüllung | Kontoauszug | Tilgungszweck |
+| verbleibender Anspruch | [Betrag] | Ergebnis | Summenprobe | Fälligkeit und Stundung |
 
-## Spezialwissen: Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
+Berechne hoffreies Vermögen separat nach allgemeinem Erbrecht. Stelle anschließend Abfindung, allgemeinen Pflichtteil, Pflichtteilsergänzung und Nachabfindung in vier getrennten Ergebniszeilen dar.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## 5. Beweis- und Einwendungsplan
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+- Anspruchsteller: Verwandtschaft, Erb- oder Pflichtteilsquote, Hofstatus, Grundsteuerwert, behauptete besondere Umstände, Vorausempfänge und Nachabfindungsauslöser konkret darlegen.
+- Hoferbe: hofbezogene Verbindlichkeiten, Erfüllung, Anrechnung, Stundungsgründe, Ersatzbeschaffung und gesetzliche Abschläge belegen.
+- Für Auskunft und Bewertung jedes verlangte Dokument mit Zweck und Zeitraum benennen; kein pauschales „vollständiges Vermögen“ ohne Anspruchsbezug.
+- Verkehrswertgutachten kann für einen Zu- oder Abschlag oder eine Nachabfindungstatsache relevant sein, ersetzt aber nicht automatisch den gesetzlichen Hofeswert.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Landpachtrecht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 6. Rechtsprechungs- und Quellenstatus
+
+- BGH, Beschluss vom 23.11.2012 - BLw 12/11: historische Entscheidung zu Hofeigenschaft und Sondererbfolge; bei heutiger Anwendung den seit 01.01.2025 geltenden Grundsteuerwertmaßstab und das Übergangsrecht ausdrücklich voranstellen.
+- Keine Entscheidung allein wegen eines Schlagworts übernehmen. Vor Verwendung Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage, Gesetzesfassung und prüfbare Primärquelle kontrollieren.
+
+## 7. Arbeitsprodukte
+
+Liefere je nach Rolle ein beziffertes Anspruchsschreiben, ein gestuftes Auskunftsverlangen, eine Erwiderung mit Einwendungen, einen Stundungsantrag oder eine Rechenanlage für das Landwirtschaftsgericht. Jede Zahl erhält Rechenweg und Beleg; offene Rechts- oder Tatsachenfragen werden als Varianten ausgewiesen.
 
 ---
 
@@ -1220,4 +1047,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. Den eigentlichen juristischen Fall beschreiben.
 3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
 4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
-

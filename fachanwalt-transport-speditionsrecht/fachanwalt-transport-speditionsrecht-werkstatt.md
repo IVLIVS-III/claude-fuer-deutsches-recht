@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Adsp: Internationaler Bezug und Schnittstellen | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Rom-I-VO Artikel 3 und 4 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | CMR Haftung art 17 CMR | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | CISG Artikel 1 und 6 | Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74 | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | New Yorker Übereinkommen Artikel II und V | Schiedsvereinbarung und Anerkennungsversagungsgründe | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | ZPO Paragraf 293 | Ermittlung ausländischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| Paragraf 1 ProdHaftG | Paragraf 1 ProdHaftG | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Paragraf 425 Abs. 1 HGB | Paragraf 425 Abs. 1 HGB | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -79,14 +79,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
 - ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
-- Paragraf 1 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 3 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 425 Abs. 1 HGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -140,58 +140,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Adsp: Internationaler Bezug und Schnittstellen
+### 15.1. CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt Transport Speditionsrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - transport-autonome-lkw-konvois-haftung-1d-stvg — Autonome LKW CMR Schadensregulierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. CMR Haftung art 17 CMR
+### 15.2. CMR Haftung art 17 CMR
 
 Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Art. 17 CMR - Paragraf 425 Abs. 1 HGB - Paragraf 431 HGB - Paragraf 449 HGB - Paragraf 452 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Cotif: Schriftsatz-, Brief- und Memo-Bausteine
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Einstieg und Routing
-
-Dieser Einstieg routet Fachanwalt Transport Speditionsrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - transport-autonome-lkw-konvois-haftung-1d-stvg — Autonome LKW CMR Schadensregulierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Einstieg, Schnelltriage und Fallrouting
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Erstgespraech Mandatsannahme
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. ADR-Gefahrgut-Transport
-
-Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoß. - Straßengueter-Transport - Internationale und nationale Strecke - Pflicht ab kleinen Mengen je nach Klasse - Klasse 1: Explosivstoffe - Klasse 2: Gase - Klasse 3: Entzündliche Fluessigkeiten - Klasse 4.1: Entzündliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR
+### 15.3. Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR
 
 Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehicle) – ist technisch Realität und rechtlich noch weitgehend ungeklärt. Paragraf 1d StVG (eingefügt 2021) schafft einen Rahmen für hochautomatisiertes und vollautomatisiertes Fahren in Deutschland. Die. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. CMR-Schadensregulierung
-
-Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Beförderungsvertrag im internationalen Straßengueterverkehr). - Straßentransport - International (von / nach Vertragsstaat) - Gegen Entgelt - Eingeschlossen: kombiniert (Straße + Schiff) - Beweis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Speditions-Haftung Paragrafen 453 ff. HGB
+### 15.4. Speditions-Haftung Paragrafen 453 ff. HGB
 
 Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen. - Vermittlung Frachtvertrag - Spediteur ist nicht selbst Frachtführer - Haftung nur für Sorgfaltspflichten - Spediteur führt selbst aus - Haftung wie Frachtführer (HGB / CMR) - Sammlung mehrerer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. CMR-Haftung – Grenzüberschreitender Straßengüterverkehr
+
+Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreitenden Straßengüterverkehr. Sie gilt kraft Gesetzes – nicht weil die Parteien sie vereinbart haben. Ihr Haftungssystem ist strenger als das HGB: keine Möglichkeit der Abweichung nach unten (Art. 41. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Frachtführerhaftung: Fristennotiz und nächster Schritt
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Frachtführerhaftung Paragraf 425 HGB
+
+Prüfe Frachtführerhaftung Paragraf 425 HGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 425 HGB - Paragraf 425 Abs. 1 HGB - Paragraf 431 HGB - Paragraf 449 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Gefahrgut adr Paragraf 9 Gefstoffvo
+
+Prüfe Gefahrgut adr Paragraf 9 Gefstoffvo von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 9 GEFSTOFFVO - Paragraf 425 Abs. 1 HGB - Paragraf 431 HGB - Paragraf 449 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Kabotage: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Multimodaler Transport Paragraf 452 HGB
+
+Prüfe Multimodaler Transport Paragraf 452 HGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 452 HGB - Paragraf 425 Abs. 1 HGB - Paragraf 431 HGB - Paragraf 449 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Paketdienst Haftung Paragraf 449 HGB
+
+Prüfe Paketdienst Haftung Paragraf 449 HGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 449 HGB - Paragraf 425 Abs. 1 HGB - Paragraf 431 HGB - Paragraf 452 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Seerecht Handelsgesetzbuch Paragraf 485 HGB
+
+Prüfe Seerecht Handelsgesetzbuch Paragraf 485 HGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 485 HGB - Paragraf 425 Abs. 1 HGB - Paragraf 431 HGB - Paragraf 449 HGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

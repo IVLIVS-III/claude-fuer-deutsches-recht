@@ -49,7 +49,7 @@ Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen
 - § 35 VwVfG
 - § 15 StGB
 - § 1 StGB
-- § 70 VwG
+- § 70 VwGO
 - Art. 3 GG
 - § 32 StGB
 - § 16 StGB

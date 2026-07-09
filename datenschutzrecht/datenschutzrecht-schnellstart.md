@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
 4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
 5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
-6. Customize – Praxisprofil anpassen: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
+6. AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung: Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Customize – Praxisprofil anpassen | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenschutz-Triage neuer Verarbeitungsvorgänge | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besondere Kategorien Art. 9 Datenschutz-Grundverordnung im Datenschutzvorfall | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenschutzvorfall — Erstaufnahme als Statusinformation | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auskunft: Behörden-, Gerichts- oder Registerweg | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweissicherung nach Datenschutzvorfall — Chain of Custody | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bankablehnung wegen Score: Beweisplan | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenschutz Beschwerde Art. 77 Datenschutz-Grundverordnung — Aufsichtsbehörden-Praxis | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Art. 37 Datenschutz-Grundverordnung, Paragraf 38 BDSG (DSB-Benennungspflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BDSG: Paragraf 22 (Gesundheits-/Sozialdaten), Paragraf 26 (Beschäftigtendatenschutz), Paragraf 38: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 42 BDSG Strafvorschriften bei vorsätzlicher unbefugter Offenlegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO, Paragraf 50 BDSG, Paragraf 11 BORA – steuer-, handels- und berufsrechtliche Aufbewahrungspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO: 10 Jahre, 6 Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
 - EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
 - EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
@@ -63,7 +63,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Customize – Praxisprofil anpassen, Anschluss-Routing, Datenschutz-Triage neuer Verarbeitungsvorgänge, Besondere Kategorien Art. 9 Datenschutz-Grundverordnung im Datenschutzvorfall: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung, Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung, Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage, Beweissicherung nach Datenschutzvorfall — Chain of Custody: Kurzvermerk.
 
 ## 8. Stop
 

@@ -249,7 +249,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - § 35 VwVfG
 - § 15 StGB
 - § 1 StGB
-- § 70 VwG
+- § 70 VwGO
 - Art. 3 GG
 - § 32 StGB
 - § 16 StGB

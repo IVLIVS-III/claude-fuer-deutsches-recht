@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
 4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
-6. Abgrenzung: Compliance-Dokumentation und Aktenvermerk: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
+6. FZ: Auftragsforschung gestalten: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgrenzung: Compliance-Dokumentation und Aktenvermerk | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ablehnung, Nachbesserung, Einspruch | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag: Zahlen, Schwellenwerte und Berechnung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| FZ: Auftragsforschung gestalten | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beihilfen: Beweislast, Darlegungslast und Substantiierung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| FZ: Bescheidung und Rechtsmittel | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| FZulG: Fristen, Form, Zuständigkeit und Rechtsweg | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mehrjahresroadmap: Fristennotiz und nächster Schritt | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - AO Paragraf 88: Amtsermittlung.
 - AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
-- Paragraf 90 Abs. 1 AO — Mitwirkung und Belege: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AO Paragrafen 347 bis 367 (Einspruchsverfahren) und Paragraf 355 AO (Frist) — vom Antragsteller mit konsolidierter Fassung zu prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- FGO Paragraf 47 (Klagefrist): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 107 Abs. 1 AEUV — Beihilfebegriff: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 46 AO — Abtretung/Verpfändung von Steuererstattungs- und Vergütungsansprüchen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 80 Abs. 1 InsO — Verwaltungs- und Verfügungsbefugnis des Insolvenzverwalters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 94 InsO — Aufrechnungslage vor Verfahrenseröffnung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abgrenzung: Compliance-Dokumentation und Aktenvermerk, Ablehnung, Nachbesserung, Einspruch, Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder FZ: Auftragsforschung gestalten, Beihilfen: Beweislast, Darlegungslast und Substantiierung, FZ: Bescheidung und Rechtsmittel, Fristen- und Risikoampel: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

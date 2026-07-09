@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Forschungsdaten: Fristennotiz und nächster Schritt | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristen- und Risikoampel | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Art. 5 Abs. 3 Satz 1 GG | Wissenschaftsfreiheit | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Art. 5 Abs. 3 Satz 1 GG | Wissenschaftsfreiheit als Ausgangspunkt | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 91b Abs. 1 GG — Forschungsförderung im Bund-Länder-System: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 48 Abs. 1 VwVfG — Rücknahme rechtswidriger Bewilligungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 49 Abs. 1 VwVfG — Widerruf rechtmäßiger Bewilligungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 91b Abs. 1 GG — Bund-Länder-Kooperation in der Forschungsförderung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit als Ausgangspunkt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 27 Abs. 1 BDSG — Datenverarbeitung zu wissenschaftlichen Forschungszwecken: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 69a UrhG — Computerprogramme als Schutzgegenstand bei Forschungssoftware: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BDSG Paragraf 27 (Sonderfall Forschung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 5 Abs. 3 Satz 1 GG — wissenschaftsadäquate Begutachtung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 28 Abs. 1 VwVfG — Anhörungslogik als Mindeststandard bei belastenden Förderentscheidungen, soweit Verwaltungsverfahrensrecht anwendbar ist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 39 Abs. 1 VwVfG — Begründungslogik für angreifbare Förderentscheidungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 48 Abs. 1 VwVfG — Rücknahme rechtswidriger Bewilligungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.1. Forschungsdaten: Fristennotiz und nächster Schritt
+
+Arbeitsfokus: Forschungsdaten: Fristennotiz und nächster Schritt. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit als Ausgangspunkt. - Art. 89 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Fristen- und Risikoampel
+
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Profi: Behörden-, Gerichts- oder Registerweg
+
+Arbeitsfokus: Profi: Behörden-, Gerichts- oder Registerweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — wissenschaftsadäquate Begutachtung. - Paragraf 28 Abs. 1 VwVfG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Reviewer: Beweislast, Darlegungslast und Substantiierung
+
+Arbeitsfokus: Reviewer: Beweislast, Darlegungslast und Substantiierung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — wissenschaftsadäquate Begutachtung. - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Arbeitsfokus: Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. DFG-Förderantrag — Allgemein
+
+Arbeitsfokus: DFG-Förderantrag — Allgemein. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG — Forschungsförderung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung
 
 Arbeitsfokus: Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien
+### 15.8. Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien
 
 Arbeitsfokus: Anfänger: Risikoampel, Gegenargumente und Verteidigungslinien. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anschluss-Routing
-
-Dieses Anschluss-Routing für Dfg Förderantrag wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - adaptive-dokumentenmatrix-lückenliste — Adaptive Dokumentenmatrix Lückenliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anträge: Zahlen, Schwellenwerte und Berechnung
+### 15.9. Anträge: Zahlen, Schwellenwerte und Berechnung
 
 Arbeitsfokus: Anträge: Zahlen, Schwellenwerte und Berechnung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 7 Abs. 1 BHO — Wirtschaftlichkeit, Sparsamkeit und plausibler Mitteleinsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Chronologie und Belegmatrix
+### 15.10. Chronologie und Belegmatrix
 
 Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich dfg-förderantrag sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. DFG-Antrag bis 200.000 Euro
+### 15.11. DFG-Antrag bis 200.000 Euro
 
 Anträge bis 200.000 Euro Gesamtsumme können verfahrenspraktisch schlanker laufen — die DFG-FAQ zur Begutachtung lässt für solche Anträge ausnahmsweise ein einzelnes aussagekräftiges Gutachten zu (statt regelmäßig zwei). Das ist ein erheblicher Zeit- und Reibungsvorteil — wenn. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Eigenanteil und Grundausstattung
+### 15.12. Eigenanteil und Grundausstattung
 
 Arbeitsfokus: Eigenanteil und Grundausstattung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 7 Abs. 1 BHO — Wirtschaftlichkeit, Sparsamkeit und plausibler Mitteleinsatz. - Paragraf 23 BHO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. DFG: Eigene Vorarbeiten
+### 15.13. DFG: Eigene Vorarbeiten
 
 Arbeitsfokus: DFG: Eigene Vorarbeiten. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG — Forschungsförderung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Erstantragsteller-Sondercheck
+### 15.14. Erstantragsteller-Sondercheck
 
 Arbeitsfokus: Erstantragsteller-Sondercheck. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG — Forschungsförderung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. DFG: Erstprüfung, Rollenklärung und Mandatsziel
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Finanzplan und Module
-
-Der Finanzplan ist ein wissenschaftliches Argument in Zahlen. Jede Position muss sichtbar machen, welches Arbeitspaket ohne sie schwächer oder unmöglich wäre. Reviewer und Hauptausschuss können kürzen — wer keine AP-Funktion pro Position hat, wird gekürzt. Wer überzogene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. DFG-Förderstrategie: schnell, schlank oder groß?
-
-Dieser Skill verhindert den typischen Erstantragsfehler, aus jedem guten Forschungsprojekt sofort einen zu großen Antrag zu machen. Er liefert die strategische Wegentscheidung: Welche Programmschiene passt zur Projektreife, zum Karrierestand und zum Zeithorizont? Was. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. DFG: Grossgeraete und Cluster
-
-Arbeitsfokus: DFG: Grossgeraete und Cluster. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 7 Abs. 1 BHO — Wirtschaftlichkeit, Sparsamkeit und plausibler Mitteleinsatz. - Paragraf 23 BHO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Grundsystem DFG-Förderlinien
-
-Arbeitsfokus: Grundsystem DFG-Förderlinien. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 91b Abs. 1 GG — Forschungsförderung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

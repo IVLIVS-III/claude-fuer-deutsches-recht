@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Schulbau ÖPP Beihilfe Markieren | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Autobahnprojekt Vertrag Scopen | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Schulbau ÖPP Haushalt Anbinden | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Breitband Vertrag Scopen | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -146,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Schulbau ÖPP Beihilfe Markieren
+### 15.1. Autobahnprojekt Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Schulbau ÖPP Haushalt Anbinden
+### 15.2. Breitband Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Autobahnprojekt Red Flags Listen
+### 15.3. Krankenhausgesellschaft Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Autobahnprojekt Beihilfe Markieren
+### 15.4. Messegesellschaft Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Autobahnprojekt Haushalt Anbinden
+### 15.5. Parkhaus Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Autobahnprojekt Kommunikation Schreibe
+### 15.6. Schulbau ÖPP Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Autobahnprojekt Kontrolle Sichern
+### 15.7. Stadtwerke Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Autobahnprojekt Organisationsform Prue
+### 15.8. Wohnungsbau Vertrag Scopen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Autobahnprojekt Risiko Verteilen
+### 15.9. Schulbau ÖPP Beihilfe Markieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Autobahnprojekt Vergabeweg Wählen
+### 15.10. Schulbau ÖPP Haushalt Anbinden
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Autobahnprojekt Vertrag Scopen
+### 15.11. Autobahnprojekt Red Flags Listen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Autobahnprojekt Wirtschaftlichkeit Rec
+### 15.12. Autobahnprojekt Beihilfe Markieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Beihilfe Check EU
+### 15.13. Autobahnprojekt Haushalt Anbinden
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Breitband Beihilfe Markieren
+### 15.14. Autobahnprojekt Kommunikation Schreibe
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Kommune, kommunales Unternehmen, Aufsichtsrat, Kommunalaufsicht, Vergabekammer, EU-KOM (DG COMP), Rechnungshof. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergabevermerk, Konzessionsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

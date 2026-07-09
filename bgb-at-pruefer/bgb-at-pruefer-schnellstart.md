@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
 4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
 5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
-6. Abgabe der Willenserklärung — Tatbestand und Zeitpunkt: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
+6. Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abgabe der Willenserklärung — Tatbestand und Zeitpunkt | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Agb Einbeziehung Schnittstelle Paragraphen 305 310 | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtlicher BGB/ZPO-Normcheck | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bedingung und Befristung — Paragrafen 158 bis 163 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Culpa in contrahendo — Vorvertragliche Pflichten Paragrafen 280 und 311 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ergänzende Vertragsauslegung — Paragrafen 133 und 157 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenberechnung — Paragrafen 186 bis 193 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 130 BGB: Zugang unter Abwesenden; Wirksamkeit der Willenserklärung ab Zugang: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 116 ff. BGB: Allgemeine Vorschriften zur Willenserklärung und ihren Mängeln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 120 BGB: Haftung bei Übermittlungsfehlern durch Boten oder Übermittlungseinrichtung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 164 BGB: Handeln im fremden Namen; abzugrenzen vom Boten ohne eigene Willenserklärung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 119 BGB: Irrtumsanfechtungsgrundlage für Paragraf 121 BGB-Frist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

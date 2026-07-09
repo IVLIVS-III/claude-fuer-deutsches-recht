@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Fachanwalt Sportrecht ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Verbands-, Vertrags-, Doping- oder Schiedsfall nach Regelwerk, Instanzenzug, Frist und sofortigem Rechtsschutz ordnen.
 
 # Fachanwalt Sportrecht — Schnellstart
 
@@ -17,48 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan.
-2. Athletenvertrag: Fristennotiz und nächster Schritt: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB).
-3. Athletenwerbung Paragraf 3 uwg: Prüfe Athletenwerbung Paragraf 3 uwg von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache.
-4. Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne.: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB).
-5. Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert: Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB).
-6. Code: Compliance-Dokumentation und Aktenvermerk: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+1. Regelwerk und Beteiligte: Athlet, Verein, Verband, Liga, Veranstalter, Saison, Fassung, Unterwerfung und Zustellung erfassen.
+2. Instanzenzug und Eilbedarf: internes Rechtsmittel, DIS oder CAS, staatliches Gericht, Frist, Sperre, Wettkampfkalender und vorläufigen Rechtsschutz bestimmen.
+3. Materielle Prüfung: Vertrag, Spielberechtigung, Transfer, Dopingvorwurf, Verbandsstrafe, Auswahlentscheidung oder Hausverbot tatbestandlich zerlegen.
+4. Kontrollmaßstab: Satzung, Transparenz, Gleichbehandlung, Verhältnismäßigkeit, Marktmacht, Verfahrensfairness und Unionsrecht prüfen.
+5. Arbeitsprodukt: Berufungsanzeige, Eilantrag, Schiedsschriftsatz, Vertragsredline, Verbandsbeschwerde oder Sponsoringvermerk erstellen.
+6. Verbandsentscheidung: Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 280 Abs. 1 BGB; Paragraf 823 Abs. 1 BGB; Paragraf 1025 Abs. 1 ZPO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | BGB Paragraf 25 ff; BGB Paragraf 242 und Paragraf 315; ZPO Paragraf 1025, Paragraf 1032 und Paragraf 1059 |
+| Rechtsprechung | BVerfG, Beschluss vom 03.06.2022 - 1 BvR 2103/16; BAG, Urteil vom 16.01.2018 - 7 AZR 312/16 |
+| Tatbestand | Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen |
+| Beweislast | Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung |
+| Rechtsfolge | Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Athletenvertrag: Fristennotiz und nächster Schritt | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Athletenwerbung Paragraf 3 uwg | Prüfe Athletenwerbung Paragraf 3 uwg von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne. | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert | Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Code: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verbandsentscheidung | Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dopingverfahren | Probe, Kette des Gewahrsams, Substanz, Verschuldensgrad, Sanktion, Rechtsmittel und Wettkampfkalender verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Athleten- und Trainervertrag | Befristung, Vergütung, Einsatz, Verletzung, Bildrechte, Freistellung und Beendigung redlinen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Transfer und Spielberechtigung | Registrierung, Transferfenster, Ausbildungsentschädigung, Freizügigkeit und vorläufige Teilnahme klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schiedsverfahren und Eilrechtsschutz | Schiedsklausel, interne Ausschöpfung, Frist, Panel, Öffentlichkeit, Antrag und Aufhebungskontrolle planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sponsoring und Vermarktung | Exklusivität, Moralklausel, Kennzeichnung, Verbandsrechte, Leistungsstörung und Exit-Szenario verhandeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 280 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 823 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1025 Abs. 1 ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 25 ff. — amtlichen Stand vor tragender Aussage prüfen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 25 ff.: Satzung, Mitgliedschaft, Organ und vereinsrechtliche Bindung.
+- BGB Paragraf 242 und Paragraf 315: Billigkeits- und Kontrollmaßstab bei Verbandsentscheidungen und Leistungsbestimmung.
+- ZPO Paragraf 1025, Paragraf 1032 und Paragraf 1059: Schiedsvereinbarung, Einrede und Aufhebungsantrag.
+- GWB Paragraf 19 und Paragraf 20: Marktmacht und Missbrauch bei monopolartig organisiertem Verbandszugang.
+- BVerfG, Beschluss vom 03.06.2022 - 1 BvR 2103/16: Die Pechstein-Entscheidung des BGH verletzte den Justizgewährungsanspruch, weil die dortige Anwendung der Schiedseinrede den Anspruch auf öffentliche Verhandlung nicht hinreichend berücksichtigte.
+- BAG, Urteil vom 16.01.2018 - 7 AZR 312/16: Die Befristung eines Arbeitsvertrags mit einem Lizenzspieler der ersten Fußball-Bundesliga kann regelmäßig durch die Eigenart der Arbeitsleistung sachlich gerechtfertigt sein.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anschluss-Routing, Athletenvertrag: Fristennotiz und nächster Schritt, Athletenwerbung Paragraf 3 uwg, Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne.: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Sportfallkarte: Beteiligter, Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, externe Instanz, Frist, Eilantrag und Beleg; Verbandsangriff: Satzungsgrundlage, Tatbestand, Verfahrensfehler, Gleichbehandlung, Verhältnismäßigkeit, Antrag und Sicherungsmaßnahme.
 
 ## 8. Stop
 

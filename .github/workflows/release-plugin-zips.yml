@@ -62,7 +62,6 @@ jobs:
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py
           python3 scripts/inject-megaprompt-section.py
-          python3 scripts/inject-plugin-sofort-download-section.py
           python3 scripts/inject-direkt-loslegen-section.py
           python3 scripts/generate-skills-overview.py
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py

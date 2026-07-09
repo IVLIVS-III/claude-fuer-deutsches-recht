@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Solo Selbststaendige Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Vorgang aus dem Alltag eines Solo-Selbstständigen nach Vertrag, Status, Rechnung, Abgabe und Beleg praktisch lösen.
 
-# Solo Selbststaendige Praxis — Schnellstart
+# Solo Selbstständige Praxis — Schnellstart
 
 Ziel: Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -17,51 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen: Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen.
-2. Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag: Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen.
-3. Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung: Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen.
-4. Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur: Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen.
-5. Sozialversicherung und Vorsorge: Erstellt vorsorgeplan für solo-einkommen mit liquiditätsrealismus: Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen.
-6. Kaltstart und Orientierung: Erklärt begriffe wie freiberuf: Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen.
+1. Tätigkeit und Rolle: Leistung, Kunde, Dauer, Weisungen, Eingliederung, Preis und Unternehmerrisiko erfassen.
+2. Vertrag und Angebot: Leistungsumfang, Abnahme, Mitwirkung, Nutzungsrechte, Haftung, Kündigung und Zahlung verständlich regeln.
+3. Rechnung und Abgabe: Pflichtangaben, Umsatzsteuerstatus, Beleg, Fälligkeit, Aufbewahrung und Kalender sichern.
+4. Risiko und Schutz: Statusfeststellung, Berufsgenossenschaft, Versicherung, Zahlungsausfall, Beschwerde und Krise priorisieren.
+5. Arbeitsprodukt: Angebot, Auftrag, Rechnung, Mahnung, Behördenantwort, Statusmatrix oder Monatscheck erstellen.
+6. Status und Anmeldung: Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragrafen 1, 2 BRAO (Rechtsanwaltsberuf, Unabhängigkeit); Paragraf 3 BRAO (Vertretung in Rechtsangelegenheiten); Paragrafen 43, 43a BRAO (Allgemeine Berufspflichten) |
-| Rechtsprechung | BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (Beraterhaftung und Vertrag; BVerfG 1 BvR 1474/12 (Anwaltswerbung) |
-| Tatbestand | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | BGB Paragraf 611a und Paragraf 631; HGB Paragraf 84; SGB IV Paragraf 7 und Paragraf 7a |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen |
+| Beweislast | Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung |
+| Rechtsfolge | Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sozialversicherung und Vorsorge: Erstellt vorsorgeplan für solo-einkommen mit liquiditätsrealismus | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kaltstart und Orientierung: Erklärt begriffe wie freiberuf | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Status und Anmeldung | Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Angebot und Auftrag | Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Nutzungsrechte und Haftung verständlich vereinbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechnung und Steuern | Pflichtangaben, Umsatzsteuerstatus, Fälligkeit, Ausgabe, Beleg, Abgabe und Rücklage ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zahlungsausfall | Leistungsnachweis, Fälligkeit, Verzug, Mahnung, Einwendung, Mahn- oder Klageweg und Vollstreckbarkeit bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Versicherung und Haftung | Tätigkeitsrisiko, Deckung, Ausschluss, Schadenanzeige, Selbstbehalt und Haftungsbegrenzung abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Liquidität und Krise | offene Forderungen, Abgaben, fixe Kosten, Reserve, Fortführungsentscheidung und nächsten sicheren Schritt berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragrafen 1, 2 BRAO (Rechtsanwaltsberuf, Unabhängigkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 3 BRAO (Vertretung in Rechtsangelegenheiten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 43, 43a BRAO (Allgemeine Berufspflichten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO (Vergütungsabsprachen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 51 BRAO (Berufshaftpflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 59f BRAO (Berufsausübungsgesellschaften): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1-4 RVG, RVG-VV Nr. 2300-2503 (Vergütung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (Beraterhaftung und Vertrag mit Schutzwirkung zugunsten Dritter)
-- BVerfG 1 BvR 1474/12 (Anwaltswerbung)
-- EuGH C-431/20 (Anwaltsgeheimnis)
+- BGB Paragraf 611a und Paragraf 631: Abgrenzung von Arbeits-, Dienst- und Werkvertrag.
+- HGB Paragraf 84: selbstständiger Handelsvertreter und Abgrenzung nach freier Tätigkeitsgestaltung.
+- SGB IV Paragraf 7 und Paragraf 7a: Beschäftigung und Statusfeststellungsverfahren.
+- GewO Paragraf 14: Anzeige des selbstständigen Gewerbebetriebs.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen, Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag, Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung, Wachstum Zusammenarbeit und Rechtsform: Prüft.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Auftragsblatt: Kunde, Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Rechte, Haftung und Zahlung; Statusmatrix: Weisung, Eingliederung, Arbeitsort, Arbeitszeit, Vertretung, Unternehmerrisiko, Marktauftritt und Beleg.
 
 ## 8. Stop
 

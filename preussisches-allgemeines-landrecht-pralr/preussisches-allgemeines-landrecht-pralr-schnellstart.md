@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Preussisches Allgemeines Landrecht Pralr ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du eine historische Rechtsquelle in ihrer Fassung, Epoche, Funktion und Wirkung erschließen, ohne sie mit geltendem Recht zu vermischen.
 
 # Preussisches Allgemeines Landrecht Pralr — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-2. Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ: Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu.
-3. Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
-4. PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren.
-5. PrALR: Erster Teil Titel 1 Personen und Stand: Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren.
-6. PrALR: Erster Teil Titel 2 Sachen und Rechte: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie.
+1. Quelle bestimmen: Urheber, Textzeuge, Edition, Sprache, Datum, Rechtsraum und institutionellen Kontext erfassen.
+2. Textkritik: Original, Übersetzung, Rekonstruktion, spätere Glosse, Kommentar und heutige Paraphrase kennzeichnen.
+3. Normfunktion: Adressat, Tatbestand, Rechtsfolge, Verfahren, soziale Funktion und tatsächliche Durchsetzung rekonstruieren.
+4. Rezeption: Übernahme, Umdeutung, Bruch, Fortgeltung und heutige dogmatische Spur voneinander trennen.
+5. Arbeitsprodukt: Quellenkarte, Synopse, Epochenmemo, Rezeptionslinie oder historische Fallanalyse mit Fundstellennachweis erstellen.
+6. Quellenkritik: Textzeuge, Ausgabe, Fassung, Sprache, Übersetzung, Datum und Rechtsraum vor jeder Aussage sichern.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 241 Abs. 2 BGB; Paragraf 242 BGB; Paragraf 280 Abs. 1 BGB |
+| Normenanker | Zwölftafelüberlieferung, Digesten, Institutionen, justinianische; Allgemeines Landrecht für die Preußischen Staaten von 1794; Reichsgesetzblatt, Preußische Gesetzsammlung, Bundesgesetzblatt |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Textzeuge, Ausgabe, Fassung, Sprache, Übersetzung, Datum und Rechtsraum vor jeder Aussage sichern |
+| Beweislast | Bearbeiter für Textzeuge, Fassung, Übersetzung und Rezeptionsbeleg; offene Quellenlage wird als solche ausgewiesen und nicht durch Rückprojektion geschlossen |
+| Rechtsfolge | Quellenkarte, Textsynopse, Epochenmemo, Rezeptionslinie oder historische Fallanalyse |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| PrALR: Normnavigator jede PrALR-Norm als Karte erschließen | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze | Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PrALR: Erster Teil Titel 1 Personen und Stand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PrALR: Erster Teil Titel 2 Sachen und Rechte | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Quellenkritik | Textzeuge, Ausgabe, Fassung, Sprache, Übersetzung, Datum und Rechtsraum vor jeder Aussage sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Norm und Anwendungspraxis | historischen Tatbestand, Rechtsfolge, Institution und tatsächliche Durchsetzung aus getrennten Quellen rekonstruieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Privatrechtsgeschichte | Eigentum, Vertrag, Delikt, Familie und Erbe entlang der maßgeblichen Kodifikations- und Rezeptionsstufen vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfassungs- und Verwaltungsgeschichte | Institution, Kompetenz, Herrschaftspraxis, Rechtsbruch und Kontinuität ohne heutige Rückprojektion untersuchen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsüberleitung | Fortgeltung, Aufhebung, intertemporales Recht und Überleitungsnorm mit Verkündung und Stichtag belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Historische Fallanalyse | zeitgenössischen Maßstab, Gegenquelle, damalige Rechtsfolge und heutige Anschlussfrage sichtbar trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — regelmäßige Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Zwölftafelüberlieferung, Digesten, Institutionen, justinianische Kaiserkonstitutionen und Novellen: Textzeuge, Rekonstruktion und spätere Bearbeitung getrennt ausweisen.
+- Allgemeines Landrecht für die Preußischen Staaten von 1794: Teil, Titel, Paragraf, Ausgabe und zeitlicher Geltungsbereich exakt bestimmen.
+- Reichsgesetzblatt, Preußische Gesetzsammlung, Bundesgesetzblatt und Gesetzblätter der DDR: Verkündung, Inkrafttreten und Fassungsfolge belegen.
+- BGB und EGBGB: Entstehungsmaterialien, Übergangsrecht und spätere Gesetzesfassungen voneinander trennen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder PrALR: Normnavigator jede PrALR-Norm als Karte erschließen, Pralr Normnavigator Jede Pralr Norm Als Karte Erschließ, Pralr Textzeugenvergleich 1794 1804 Ausgabe und Ocr, PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Quellenkarte: Werk, Textstelle, Fassung, Datum, Sprache, Edition, Übersetzung, institutioneller Kontext und Verlässlichkeit; Rezeptionslinie: Ausgangsregel, Zwischenstufe, Übernahme oder Bruch, heutige Spur und Beleg.
 
 ## 8. Stop
 

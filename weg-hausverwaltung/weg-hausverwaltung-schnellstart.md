@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Mangel und Nutzung: Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen.
 4. Kündigung und Raeumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
 5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
-6. Abrechnung, Ist/Plan und Mieterschnittstelle: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
+6. Eigentümerkommunikation und Beschwerden: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abrechnung, Ist/Plan und Mieterschnittstelle | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026). | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Barrierefreie Einladungen, Protokolle und Abrechnungen | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauliche: Formular, Portal und Einreichungslogik im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eigentümerkommunikation und Beschwerden | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einladung, Tagesordnung und Fristen | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,8 +52,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
 - BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
-- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG Paragrafen 18-28, 43-45; ZPO bei Räumung/Eilrechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Normenradar: BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG Paragrafen 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 242, 305, 307, 633 ff., 634a, 640 BGB; Paragraf 9a WEG; Paragrafen 203, 204 BGB; Paragrafen 485 ff. ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
 - BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
@@ -62,7 +63,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abrechnung, Ist/Plan und Mieterschnittstelle, Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum, Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026)., Barrierefreie Einladungen, Protokolle und Abrechnungen: Kurzvermerk.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Eigentümerkommunikation und Beschwerden, Einladung, Tagesordnung und Fristen, Fristen- und Risikoampel, Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes.: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
 ## 8. Stop
 

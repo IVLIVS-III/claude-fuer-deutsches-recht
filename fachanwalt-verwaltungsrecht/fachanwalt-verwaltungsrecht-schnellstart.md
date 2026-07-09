@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Amtshaftung Paragraf 839 BGB art 34 GG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfechtungsklage nach Paragraf 42 Abs | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anhörung Paragraf 28 VwVfG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anordnung Quellenkarte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eilrechtsschutz Paragraf 80 VwGO | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ermessen Paragraf 40 VwVfG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fa VwGO Widerspruchsbescheid Abschleppen Oepnv: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte. | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,10 +60,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
 - BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr —
 - BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen
+- BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtshaftung Paragraf 839 BGB art 34 GG, Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien, Anfechtungsklage nach Paragraf 42 Abs, Anhörung Paragraf 28 VwVfG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Amtshaftung Paragraf 839 BGB art 34 GG, Anfechtungsklage nach Paragraf 42 Abs, Anhörung Paragraf 28 VwVfG, Eilrechtsschutz Paragraf 80 VwGO: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

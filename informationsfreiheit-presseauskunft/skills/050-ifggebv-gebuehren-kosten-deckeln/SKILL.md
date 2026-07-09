@@ -51,9 +51,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - § 6 IFG
 - § 7 IFG
 - § 10 IFG
-- § 70 VwG
-- § 74 VwG
-- § 123 VwG
+- § 70 VwGO
+- § 74 VwGO
+- § 123 VwGO
 - Art. 5 GG
 - Art. 10 EMRK
 

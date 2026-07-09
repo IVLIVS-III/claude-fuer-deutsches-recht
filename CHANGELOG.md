@@ -1,3 +1,17 @@
+# v429.16.0 — Fachprofile, Spezialnormen und Schnellstart-Routen vervollständigt
+
+- Die letzten 21 allgemeinen Auffangrouten wurden durch zehn kuratierte Fachprofile ersetzt. Alle 234 Plugins starten nun mit einem passenden fachlichen Prüfweg; die 468 Werkstatt- und Schnellstart-Prompts enthalten dazu konkrete Normen, Beweislast, Rechtsfolgen, Outputvarianten und belastbare Fallanker.
+- Presseberichterstattung, Agrarrecht, Sportrecht, JVEG-Kostenprüfung, ehrenamtliche Richter, Rechtsgeschichte, Kirchenrecht, Kanzleibetrieb, Solo-Selbstständigkeit und Dokumentenbearbeitung erhielten eigene Kernfelder. Die Schnellstarts führen dadurch unmittelbar zu fachtypischen Arbeitsprodukten statt zu allgemeinen Meta- oder Routinghinweisen.
+- Zentrale Agrarskills wurden grundlegend berichtigt: Hofeigenschaft ab 54.000 EUR Grundsteuerwert, Erklärungsbereich ab 27.000 EUR, Hofeswert mit 60 Prozent des Grundsteuerwerts, Übergangsrecht bis längstens 31.12.2026 sowie Abfindung, Nachabfindung und lebzeitige Altenteilssicherung sind nun sauber getrennt. Der Landpachtweg berücksichtigt Textform und Übergangsrecht, Anzeige und Beanstandung, Anpassung, Kündigung, Fortsetzung, Beweislast, Landwirtschaftsgericht und Streitwert; ein vermeintliches Rückkaufrecht, das weggefallene Pächtervorkaufsrecht und ein zu Unrecht behaupteter Schlichtungszwang nach dem weggefallenen LwVfG Paragraf 23 wurden entfernt.
+- Das Schöffen- und Handelsrichter-Plugin ordnet StPO Paragraf 263 nun zutreffend den Mehrheitserfordernissen und DRiG Paragraf 43 dem Beratungsgeheimnis zu. Falsche Sammelverweise auf GVG Paragraf 76 wurden in den betroffenen Skills beseitigt.
+- Die Presseskills verarbeiten `BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25` mit seiner fallbezogenen Sorgfalts- und Abwägungsaussage. Der JVEG-Prüfer erläutert `X ZR 95/11` zum plausiblen Zeitaufwand und `X ZR 139/07` zur besonderen Vergütung und ausreichenden Einzahlung präzise.
+- Repo-weit wurden 353 falsch abgekürzte Normzitate in 172 Dateien auf `VwGO` berichtigt. Ein globaler Regressionstest verhindert diese Fehlbezeichnung und veraltete Gesetzeskürzel in Landwirtschaftssachen in künftigen Markdown-Inhalten.
+- Der Prompt-Generator bevorzugt in großen Skillsets jetzt substanzielle Fachskills und verwendet für die neuen Fachprofile kuratierte Einsatzfelder. Zusätzliche Regressionsprüfungen verhindern allgemeine Auffangrouten, fachfremde Anker, alte HöfeO-Werte, falsche Schöffen-Normetiketten und zurückkehrende Umlautumschriften.
+- Der Release-Lauf spart einen überholten README-Zwischenschritt aus; das ältere Sofort-Download-Skript erkennt den kanonischen Direktstart-Block und erzeugt keine anschließend wieder zu ersetzenden Zwischenstände mehr.
+- Einzelprompts, Vollprüfungs-Sammlungen, Skillübersichten, Asset-Index, Marketplace und Plugin-Manifeste wurden auf v429.16.0 synchronisiert.
+
+---
+
 # v429.15.0 — Fachrouten, Rechtsprechungsanker und Prompt-Hygiene geschärft
 
 - Werkstatt- und Schnellstart-Prompts erhalten eigene Fachprofile für Immobilien-, Grundbuch- und Notarrecht, Europarecht, juristische Methodik, Betreuungsrecht, HOAI- und Planervertragsrecht, HR-Operations sowie Weltraumrecht. Dadurch sank die Zahl der bewusst allgemeinen Auffangrouten von 55 auf 21 Plugins.

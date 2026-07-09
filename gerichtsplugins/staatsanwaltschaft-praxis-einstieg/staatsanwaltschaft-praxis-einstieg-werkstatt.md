@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Finale Entscheidung als Volltext (Abschlussverfügung Staatsanwaltschaft) | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anklageschrift aufbauen | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abschlussverfügung: Anfängerfehler vermeiden | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anklageschrift zur großen Wirtschaftsstrafkammer | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO | Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,7 +84,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
-- Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -147,58 +145,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Finale Entscheidung als Volltext (Abschlussverfügung Staatsanwaltschaft)
+### 15.1. Anklageschrift aufbauen
 
-Dieser Skill erzeugt die staatsanwaltschaftliche Abschlussentscheidung nicht als bloßen Vorschlag, sondern als zeichnungsreifen Volltext. Er baut Anklageschrift, Strafbefehlsantrag, Einstellungsverfügung oder Abschlussverfügung mit Verfahrensdaten, Tatvorwurf, Beweisstand. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht? 2. Frist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abschlussverfügung: Anfängerfehler vermeiden
+### 15.2. Anklageschrift zur großen Wirtschaftsstrafkammer
 
 Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Vertraulichkeit und digitale Werkzeuge-Nutzung
+### 15.3. Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Aufsichtsbeschwerde, Dienstweg und sachliche Antwort
+
+Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Berufung der Staatsanwaltschaft einlegen und begrenzen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife
+
+Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Beweisanträge nach Paragraf 244 StPO: Reaktion der StA
+
+Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Beweisverwertungsverbote aus Sicht der StA
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anfangsverdacht und Verfahrenseinleitung
+### 15.9. EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff
+
+Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Fristen- und Zuständigkeitscockpit
 
 Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht? 2. Frist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anklageschrift aufbauen
-
-Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht? 2. Frist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Anklageschrift zur großen Wirtschaftsstrafkammer
+### 15.11. Fristenkalender im Dezernat
 
 Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Arbeitsstrafrecht: Paragraf 266a StGB, MiLoG und Scheinselbständigkeit
+### 15.12. Häusliche Gewalt: Opferschutz, Aussage und Beweis
+
+Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Aufsichtsbeschwerde, Dienstweg und sachliche Antwort
+### 15.14. Internationaler Beweisimport und Verwertung
 
 Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Befangenheitsantrag gegen Richter: StA-Perspektive
-
-Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Befangenheit von Richtern und Schöffen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. OK-Verfahren: Strukturermittlung ohne Tunnelblick
-
-Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Berufung der Staatsanwaltschaft einlegen und begrenzen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Beschleunigtes Verfahren nach Paragraf 418 StPO
-
-Entscheidende Weiche: Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung. 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Beschuldigtenvernehmung und Anhörung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

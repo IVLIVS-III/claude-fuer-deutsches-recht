@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Vertragsmarkup und Key Issues | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Automationen und Monitoring | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,7 +61,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | Normenradar | GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragrafen 76, 93, 111, 119 | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
@@ -83,16 +83,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Normenradar: GmbHG Paragrafen 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragrafen 76, 93, 111, 119, 130, 243 ff.; HGB Paragrafen 105 ff., 161 ff: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BRAO Paragraf 43a, BORA Paragraf 3 und BRAO Paragraf 49b für Verschwiegenheit, Konflikt und Honorar: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- GwG Paragrafen 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BGB Paragrafen 611a, 675 und 280 für Beratungs- und Haftungsrahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 41 GWB — Vollzugsverbot; Monitoring der Freigabe-Fristen zwingend: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 158 BGB — Bedingungseintritt; CP-Erfüllung; Fristen-Monitoring: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 17, 18 MAR; Paragraf 41 GWB; Paragraf 56 AWV; Art. 5, 25 Datenschutz-Grundverordnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 49b BRAO — Vergaberrecht; Erfolgshonorar; Sittenwidrigkeits-Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GmbHG Paragrafen 15 und 16 für Anteilsübertragung und Gesellschafterliste: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- AktG Paragrafen 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 305-310 BGB — AGB-Kontrolle; Klauseln können bei unangemessener Benachteiligung unwirksam sein: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB — Generalklausel; Transparenzgebot; unklar formulierte Klauseln Kaeufer-nachteilig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 444 BGB — Arglist; keine Freizeichnung möglich: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -155,58 +155,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Agio und Kapitalerhöhungsstruktur
+### 15.1. Vertragsmarkup und Key Issues
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Agio und Kapitalerhöhungsstruktur
 
 Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Automationen und Monitoring
+### 15.3. Automationen und Monitoring
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Automation Monitoring; Arbeitsfeld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+### 15.4. GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 
 Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Corporate Billing Narratives
+### 15.5. Corporate Billing Narratives
 
 Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Board Paper und Business Judgment
+### 15.6. Board Paper und Business Judgment
 
 Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Board Paper: Rechtsprechungsradar GmbH-Governance
+### 15.7. Board Paper: Rechtsprechungsradar GmbH-Governance
 
 Nutze diesen Skill, wenn ein Board Paper, Partner-Memo oder Deal-Risikovermerk eine aktuelle gesellschaftsrechtliche Entscheidung nicht nur zitieren, sondern für Signing, Closing, Register, Organhaftung und Verhandlungsposition nutzbar machen soll. - GmbHG Paragrafen 35, 37, 38. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Closing Bible und Archiv
+### 15.8. Closing Bible und Archiv
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Konflikt-, GwG- und Sanktionscheck
+### 15.9. Konflikt-, GwG- und Sanktionscheck
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Corporate: Erstprüfung, Rollenklärung und Mandatsziel
+### 15.10. Corporate: Erstprüfung, Rollenklärung und Mandatsziel
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Multijurisdiktionale Übersetzungen und Dokumente
+### 15.11. Multijurisdiktionale Übersetzungen und Dokumente
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Datenqualität und Qualitätskontrolle im M&A-Mandat
+### 15.12. Datenqualität und Qualitätskontrolle im M&A-Mandat
 
 Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Datenraum-Aufbau
+### 15.13. Datenraum-Aufbau
 
 Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Datenraum Gap-Analyse und Clean Room
+### 15.14. Datenraum Gap-Analyse und Clean Room
 
 Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Deal-Intake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

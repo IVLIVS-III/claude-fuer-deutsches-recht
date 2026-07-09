@@ -53,9 +53,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abgrenzung: Konventionelle Software versus System-System | VO (EU) 2024/1689 Art. 2 und Art. 3; EuGH, Urteil vom 07.12.2023 - C-634/21 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Hochschule: System-Täuschung und Anscheinsbeweis | VO (EU) 2024/1689 Art. 2 und Art. 3; EuGH, Urteil vom 07.12.2023 - C-634/21 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VO (EU) 2024/1689 Art. 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Regulierungsrahmen-OWi und interne Untersuchung | VO (EU) 2024/1689 Art. 5; EuGH, Urteil vom 27.02.2025 - C-203/22 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Provider-Deployer-Vertragsmatrix | VO (EU) 2024/1689 Art. 5; EuGH, Urteil vom 27.02.2025 - C-203/22 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -148,58 +148,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System
+### 15.1. Hochschule: digitale Werkzeuge-Täuschung und Anscheinsbeweis
+
+Der Skill hilft bei Fällen, in denen eine Hochschule eine Prüfungsleistung wegen angeblicher System-Nutzung beanstandet oder eine Studentin sich gegen einen solchen Vorwurf verteidigt. Es geht nicht darum, System-Nutzung zu verharmlosen, sondern darum, den Vorwurf beweisbar. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Provider-Deployer-Vertragsmatrix
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Strafverfolgung: digitale Werkzeuge und Beweisbewertung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Strafverfolgung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Zeitlicher Geltungsbereich und Übergangsfristen — europäischer Technikregulierungsrahmen
+
+Die Regulierungsrahmen ist am 1. August 2024 in Kraft getreten (20 Tage nach Veröffentlichung im Amtsblatt der EU am 12. Juli 2024). Noch nicht anwendbar: Die meisten inhaltlichen Pflichten. Es gelten ab diesem Zeitpunkt: - Beginn der institutionellen Aufbauphase (Europäisches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. europäischer Technikregulierungsrahmen-OWi und interne Untersuchung
+### 15.6. europäischer Technikregulierungsrahmen-OWi und interne Untersuchung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Algorithmische Kollusion und Pricing-digitale Werkzeuge
+### 15.7. Algorithmische Kollusion und Pricing-digitale Werkzeuge
 
 Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter für mehrere Wettbewerber. - System-gestützte Rabatt- oder Ausschreibungsstrategie. - Art. 101 AEUV und GWB Paragraf 1 für abgestimmtes Verhalten, Kartelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen
+### 15.8. Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen
 
 Wer ein Hochrisiko-System-System oder GPAI-Modell unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt, wird Anbieter — unabhängig davon, ob er das System selbst entwickelt hat. Prüffragen: - Bringen Sie ein fremdes System-System unter Ihrem eigenen Namen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck
+### 15.9. Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-algorithmische Systeme-Office, algorithmische Systeme Board. - Dokumente und Beweismittel sammeln und auf Lücken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm
+### 15.10. Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm
 
 Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63 Regulierungsrahmen: System-System, Anbieter, Betreiber, GPAI. - Art. 6, Art. 26, Art. 27, Art. 50 Regulierungsrahmen: Folgepflichten je nach Einsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. europäischer Technikregulierungsrahmen und Datenschutz-Grundverordnung Art. 22
+### 15.11. europäischer Technikregulierungsrahmen und Datenschutz-Grundverordnung Art. 22
 
 Ein System-System kann nach Regulierungsrahmen nicht Hochrisiko sein und trotzdem datenschutzrechtlich hochproblematisch. Umgekehrt ersetzt Regulierungsrahmen-Compliance keine Datenschutz-Grundverordnung-Prüfung. 1. Werden personenbezogene Daten verarbeitet? 2. Gibt es. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen
+### 15.12. Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen
 
 Anwendungsbereich: Anbieter von System-Systemen, die direkt mit natürlichen Personen interagieren (Chatbots, virtuelle Assistenten). Pflicht: Sicherstellen, dass natürliche Personen darüber informiert werden, dass sie mit einem System-System interagieren — es sei denn, dies ist. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
+### 15.13. Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen
+### 15.14. Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen
 
 Unternehmen oder Behörde setzt ein Hochrisiko-System-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 Regulierungsrahmen: bestimmungsgemäße Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bevollmächtigter und Produkthersteller — Art. 22 und 25 europäischer Technikregulierungsrahmen
-
-Anbieter von Hochrisiko-System-Systemen, die nicht in der EU niedergelassen sind, müssen vor dem Inverkehrbringen oder der Inbetriebnahme in der EU schriftlich einen Bevollmächtigten in der EU benennen. Prüffragen: - Ist der Anbieter des Systems in der EU oder einem Drittland. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bildung und Prüfungsrecht nach Anhang III
-
-Prüft System-Systeme in: - Hochschulzulassung und Studienplatzvergabe. - Prüfungsaufsicht, Proctoring, Täuschungs- und Plagiatserkennung. - Bewertung von Prüfungen, Essays, Portfolios oder mündlichen Leistungen. - Lernstandsdiagnostik, Kurszuweisung, Förderbedarfsprognose. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Biometrie, Emotionserkennung und Polizeigrenzen
-
-Prüfe bei biometrischen Systemen nicht nur „erlaubt/verboten“, sondern Zweck, Ort, Echtzeit/Nachhinein, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug, menschliche Kontrolle und Rechtsgrundlage. - VO (EU) 2024/1689 Art. 5: verbotene System-Praktiken, insbesondere. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Verhaltenskodizes, harmonisierte Normen und ISO-Standards
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

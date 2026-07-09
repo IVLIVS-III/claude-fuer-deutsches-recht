@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abschlussmemo Internationales Handelsrecht | Brüssel-Ia-VO Artikel 4, 7 und 25; BGH VIII ZR 304/00 v. 25.11.2002 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44) | Brüssel-Ia-VO Artikel 4, 7 und 25; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Rom-I-VO Artikel 3 und 4 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Handelsvertreter, Vertriebsvertrag und Franchise | Rom-I-VO Artikel 3 und 4; BGH VIII ZR 304/00 v. 25.11.2002 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | CISG Vertragsschluss (Art. 14-24) | Rom-I-VO Artikel 3 und 4; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,13 +63,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | CISG Artikel 1 und 6 | Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74 | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | New Yorker Übereinkommen Artikel II und V | Schiedsvereinbarung und Anerkennungsversagungsgründe | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | ZPO Paragraf 293 | Ermittlung ausländischen Rechts durch das Gericht | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
-| HGB Paragraf 84 | Handelsvertreter-Definition (selbständig, ständig beauftragt, fremde Geschäfte) | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
+| Paragraf 313 BGB | Störung der Geschäftsgrundlage — nationales Pendant zu Hardship | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH VIII ZR 304/00 v. 25.11.2002 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Deutsches Recht ohne expliziten CISG-Ausschluss lässt CISG bestehen |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -81,16 +79,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
 - New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
 - ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
-- HGB Paragraf 84: Handelsvertreter-Definition (selbständig, ständig beauftragt, fremde Geschäfte): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- HGB Paragraf 89b: Ausgleichsanspruch — 1 Jahresprovision als Maximum: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- StGB Paragrafen 331-335a: Deutsches Korruptionsstrafrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1042 Abs. 4 ZPO: Deutsches Schiedsrecht — Tribunal bestimmt Verfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 19 AktG: Konzernprüfungsrecht (für Konzernverbund): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 305-310 BGB: AGB-Einbeziehung im deutschen Recht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 313 BGB: Störung der Geschäftsgrundlage — nationales Pendant zu Hardship: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 308 Nr. 4 BGB: AGB-Änderungsvorbehalte — Grenzen im deutschen Recht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragraf 453: Speditionsvertrag — Definition: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragraf 454: Pflichten des Spediteurs (Beförderung, Versicherung, Zoll, Benachrichtigung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragraf 459 Abs. 1: Selbsteintritt als Frachtführer: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragraf 461: Haftung des Spediteurs — HGB-Frachtrecht gilt entsprechend: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragrafen 498-530: Deutsches Seetransportrecht (HVR-Umsetzung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH VIII ZR 304/00 v. 25.11.2002: Deutsches Recht ohne expliziten CISG-Ausschluss lässt CISG bestehen
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -140,58 +139,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abschlussmemo Internationales Handelsrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Handelsvertreter, Vertriebsvertrag und Franchise
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Akkreditiv nach UCP 600
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anti-Korruption: FCPA und UK Bribery Act
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Antidumping und Ausgleichszölle
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Beweisrecht in der internationalen Schiedsgerichtsbarkeit
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. abrufen-Rechte gegenüber Lieferanten
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bankgarantien nach URDG 758
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Battle of Forms International
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. CFR, CIF, CPT, CIP: C-Klauseln
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. CISG Anwendungsbereich (Art. 1-13)
-
-Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG. Arbeite entlang dieser konkreten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. CISG-Ausschluss und Rechtswahl
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Rechtsbehelfe des Käufers (CISG Art. 45-52)
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44)
+### 15.1. Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44)
 
 Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn der Prüffrist, Anforderungen an die Rüge (Spezifizierungspflicht), Zwei-Jahres-Frist Art. 39 Abs. 2 und Entschuldigungsgründe Art. 44. Arbeite entlang dieser konkreten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. CISG Vertragsschluss (Art. 14-24)
+
+Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19). Arbeite entlang dieser konkreten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Wesentliche Vertragsverletzung (CISG Art. 25)
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. CISG Vertragsschluss
+
+Dieser Skill bearbeitet CISG Vertragsschluss im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. CISG Wesentliche Vertragsverletzung
+
+Dieser Skill bearbeitet CISG Wesentliche Vertragsverletzung im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. CISG Fristen und Notices
+
+Dieser Skill bearbeitet CISG Fristen Und Notices im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband, Investor. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Unidroit Principles Als Vertragsrecht
+
+Dieser Skill bearbeitet Unidroit Principles Als Vertragsrecht im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Transportvertrag See
+
+Dieser Skill bearbeitet Transportvertrag See im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Transportvertrag Luft
+
+Dieser Skill bearbeitet Transportvertrag Luft im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Transportvertrag Strasse Cmr
+
+Dieser Skill bearbeitet Transportvertrag Strasse Cmr im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband, Investor. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Spediteur und Logistikvertrag
+
+Dieser Skill bearbeitet Spediteur Und Logistikvertrag im Plugin Internationales Handelsrecht und Lex Mercatoria. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output. 1. Rolle: Kanzlei, Unternehmen, Behörde, Verband, Investor. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Langfristige Lieferverträge (LSA)
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Lufttransportrecht: Montrealer Übereinkommen 1999
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Seetransportrecht: Haag-Visby, Hamburg, Rotterdam
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

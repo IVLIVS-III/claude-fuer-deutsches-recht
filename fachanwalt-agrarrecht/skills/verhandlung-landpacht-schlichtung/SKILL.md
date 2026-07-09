@@ -1,250 +1,118 @@
 ---
 name: verhandlung-landpacht-schlichtung
-description: "Wenn es um Verhandlung Landpacht Schlichtung in Fachanwalt Agrarrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Bereitet eine außergerichtliche Lösung im Landpachtstreit aktennah vor. Trennt Anpassung, Beendigung, Fortsetzung, Bewirtschaftung und Beanstandung, berechnet den Verhandlungskorridor und liefert Anschreiben, Gesprächsplan und vollziehbaren Vergleich, ohne einen nicht bestehenden Schlichtungszwang zu unterstellen."
 ---
 
-# Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und müssen Einigung außergerichtlich versuchen
+# Landpachtstreit verhandeln und beilegen
 
+## 1. Direktstart
 
-## Arbeitsweg
+Lies zuerst Pachtvertrag, Nachträge, Flurstücksliste, Übergabeprotokoll, Anzeige, Bescheide, Kündigungen, Zahlungs- und Bewirtschaftungsbelege sowie die bisherige Korrespondenz. Liefere danach ohne Abfragekaskade:
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. Streitkern und Mandantenziel in fünf Sätzen,
+2. Fristen- und Zugangsblatt,
+3. Verhandlungskorridor mit Beleg und Gegenargument,
+4. versandfertiges Eröffnungsschreiben oder Vergleichsblatt.
 
-**Fokus:** Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und müssen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren.
+Frage nur nach einem Punkt, wenn ohne ihn Frist, Anspruchsweg, Vergleichsvollzug oder wirtschaftliche Untergrenze nicht bestimmt werden kann.
 
-### Verhandlung und Schlichtung im Agrarrecht
+## 2. Streitspur festlegen
 
-## Mandantenfragen — Kaltstart
+| Spur | Tragende Prüfung | Nicht vermischen mit |
+| --- | --- | --- |
+| Vertragsänderung | BGB Paragraf 593: nachhaltige Veränderung, grobes Missverhältnis, Zweijahressperre, Pachtjahr | bloßer Wunsch nach Marktanpassung |
+| Laufzeit und Kündigung | BGB Paragrafen 585a, 594 und 594a; Pachtjahr, Textform, Übergangsrecht, Zugang | vermeintlicher Neunjahresautomatik |
+| Fortsetzung | BGB Paragraf 595: Lebensgrundlage, Angewiesenheit, Härte, Ausschluss und Fristen | freie Billigkeitsverlängerung |
+| Bewirtschaftung | BGB Paragrafen 588 bis 591a sowie 596; Sollzustand, Einwilligung, Maßnahme, Schaden | öffentlich-rechtlicher Genehmigung allein |
+| Anzeige und Beanstandung | LPachtVG Paragrafen 2 bis 9; Ausnahme, Bescheid, Frist und agrarstruktureller Grund | zivilrechtlicher Wirksamkeit allein |
+| Hofnachfolge | HöfeO, Hofübergabevertrag, Abfindung, Nachabfindung und Vollzug | gewöhnlicher Flächenpacht ohne Hofbezug |
 
-1. **Was ist das Streitziel — Vertragsbeendigung oder Fortführung?** — Fundamentaler Unterschied in der Strategie; bei Fortführungswillen ist Schlichtung zwingend voranzustellen.
-2. **Wie lange bestehen die Vertragsbeziehungen?** — Langjährige Pacht- und Familien­beziehungen verlangen behutsame Kommunikation; harte Konfrontation zerstört langfristige Kooperation.
-3. **Gibt es eine Schiedsklausel im Pachtvertrag?** — Schiedsvertrag bindet die Parteien; VG-Klageweg ausgeschlossen.
-4. **Wurde bereits LWK-Schlichtung beantragt?** — § 23 LwVG-Pflichtversuch vor Klage; ggf. Klage unzulässig ohne Nachweis.
-5. **Was ist das wirtschaftliche Interesse des Mandanten?** — Jährliche Pachtdifferenz x verbleibende Laufzeit = Barwert des Streits; Kosten-Nutzen vor Klage prüfen.
-6. **Haben Dritte (Kinder, Geschwister) Interesse am Hof?** — Hofstreitigkeiten in Erbengemeinschaft erfordern notarielle Auseinandersetzungs-Vereinbarung.
-7. **Laufen parallele Förderverfahren?** — Bei laufenden ELER-Verpflichtungen Streit um Pacht­preis mit Rückforderungsrisiko verknüpft; Koordination nötig.
-8. **Ist ein Herdenschutzstreit (Wolf) parallel anhängig?** — Entschädigungs-Verhandlung mit dem Land läuft über andere Behörden als Pachtrecht.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+Ein Antrag nach BGB Paragraf 593 Absatz 4 ist bei einem anzeigepflichtigen, aber nicht angezeigten Vertrag nach LPachtVG Paragraf 9 unzulässig. Sichere deshalb die Anzeige, bevor mit einem gerichtlichen Änderungsantrag gedroht wird.
 
-## Rechtlicher Rahmen
+## 3. Kein erfundener Schlichtungszwang
 
-- **§ 593 BGB** — Pachtzins-Anpassung: beidseitig; Maßstab ortsübliche Pacht, LWK-Statistik als Anhaltspunkt.
-- **§ 2 LPachtVG** — Anzeigepflicht Pachtvertrag.
-- **§ 4 LPachtVG** — Beanstandungsrecht der LWK; schützt vor ungesunder Bodenverteilung.
-- **§ 13 LwVG** — Landwirtschaftsgericht beim Amtsgericht: ausschließliche Zuständigkeit für Pacht- und Höfe-Sachen.
-- **§ 23 LwVG** — Pflichtiger Schlichtungsversuch: Klage unzulässig ohne vorherigen Schlichtungsversuch.
-- **§ 278 ZPO** — Güteverhandlung; gilt auch im Landwirtschaftsgericht.
-- **§ 24 BBodSchG** — Kostenausgleich bei Bodensanierung; relevant bei Kontext Altlasten-Streit.
+LwVfG Paragraf 23 ist weggefallen. Das Bundesrecht verlangt für einen Landpachtstreit keinen allgemeinen Schlichtungsversuch vor Klage oder Antrag. Bezeichne deshalb weder Landwirtschaftskammer noch Landwirtschaftsgericht pauschal als obligatorische Vorinstanz.
 
-### Leitentscheidungen
+Prüfe stattdessen konkret:
 
-| Gericht | Aktenzeichen | Kernaussage |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+1. Enthält der Vertrag eine wirksame Mediations-, Schlichtungs- oder Schiedsvereinbarung?
+2. Bietet die regional zuständige Landwirtschaftskammer, ein Verband oder eine anerkannte Gütestelle ein freiwilliges Verfahren für diesen Streit an?
+3. Welche Verjährungs-, Kündigungs-, Antrags- oder Bescheidfrist muss unabhängig von Gesprächen gewahrt werden?
+4. Soll eine Hemmungsvereinbarung geschlossen oder die Hemmung durch Verhandlungen nach BGB Paragraf 203 dokumentiert werden?
+5. Wie wird das Ergebnis vollstreckbar: gerichtlicher Vergleich, Anwaltsvergleich nach ZPO Paragrafen 796a ff. oder notarielle Urkunde nach ZPO Paragraf 794 Absatz 1 Nummer 5?
 
-## Kommunikations-Pfade
+Eine Schiedsvereinbarung ist nach ZPO Paragrafen 1029 und 1030 gesondert auf Zustandekommen, Reichweite und objektive Schiedsfähigkeit zu prüfen. Sie eröffnet nicht den Verwaltungsrechtsweg und macht eine öffentlich-rechtliche Beanstandung nicht disponibel.
 
-### Pfad 1 — Landwirtschaftskammer-Schlichtungsstelle
+## 4. Verhandlungskorridor berechnen
 
-- In den meisten Bundesländern eingerichtet (LWK Niedersachsen, NRW, RLP, BW)
-- Außergerichtliche Schlichtung in Pacht- und Förder-Sachen
-- Vorteil: agrarpolitisch erfahrene Schlichter, oft Landwirte oder Berater
-- Kosten: Kammergebühren 100–500 EUR
-- Typische Dauer: 4–8 Wochen bis Einigung oder Protokoll des Scheiterns
+Baue die Rechnung aus der Akte auf:
 
-### Pfad 2 — Bauernverband-Vermittlung
+| Position | Rechenbasis | Beleg | Risikoabschlag |
+| --- | --- | --- | --- |
+| rückständige Pacht | Fälligkeit je Pachtjahr minus Zahlung | Konto, Vertrag, Aufstellung | Aufrechnung, Mangel, Verjährung |
+| begehrte Anpassung | belastbarer Ausgangswert und nachhaltige Änderung | Buchführung, Vergleichsdaten, Gutachten | kein grobes Missverhältnis, eigene Bewirtschaftung |
+| Übergabezeitpunkt | Ernte, Bestellung, Prämien, Ersatzfläche | Schlagkartei, Förderakte, Betriebsplan | Witterung, Genehmigung, Drittvertrag |
+| Wiederherstellung | konkreter Sollzustand und erforderliche Maßnahme | Übergabeprotokoll, Fotos, Angebot, Gutachten | Einwilligung, Vorteilsausgleich, Mitverschulden |
+| Verfahrenskosten | realistischer außergerichtlicher und gerichtlicher Weg | Gebührenberechnung, Gutachterangebot | Dauer und Beweisrisiko |
 
-- Bei innerverbandlichen Konflikten oder zwischen Verbandsmitgliedern
-- Informell; Vorteil: persönliches Vertrauen, grundsätzlich kostenlos
-- Keine Vollstreckung des Einigungsergebnisses ohne notarielle Urkunde
+Der Vergleichswert ist kein pauschaler Mittelwert. Nenne Mindestziel, realistisches Ziel, belastbare Obergrenze und Abbruchpunkt jeweils mit Tatsachengrund.
 
-### Pfad 3 — Pachtrichter und Landwirtschaftsgericht § 23 LwVG
+## 5. Anpassung nach BGB Paragraf 593 verhandeln
 
-- Pflichtiger Schlichtungsversuch vor Klage in Pacht- und Höfe-Sachen
-- Landwirtschaftsgericht beim AG (mit ehrenamtlichen landwirtschaftlichen Beisitzern § 2 LwVG)
-- Vergleich vor Pachtrichter ist vollstreckbarer Titel (§ 794 Abs. 1 Nr. 1 ZPO)
-- Verfahren: Schriftlicher Antrag → Ladung beider Parteien → Schlichtungstermin → Protokoll
-- Bei Scheitern: Bescheinigung für Klage-Zulässigkeit
+Prüfe vor einem Zahlenangebot:
 
-### Pfad 4 — Mediation Hofübergabe
+1. Welche Verhältnisse waren für die ursprünglichen Leistungen maßgeblich?
+2. Was hat sich seit Vertragsschluss oder der letzten Änderung nachhaltig verändert?
+3. Warum führt dies zu einem groben Missverhältnis der gegenseitigen Verpflichtungen?
+4. Beruht die Ertragsänderung auf der Bewirtschaftung des Pächters und ist deshalb grundsätzlich auszuklammern?
+5. Sind seit Beginn oder letzter Änderung zwei Jahre vergangen, sofern kein verwüstendes, üblicherweise nicht versichertes Naturereignis eingreift?
+6. Für welches Pachtjahr kann das erklärte Verlangen frühestens wirken?
 
-- Familieninterne Mediation bei Hofnachfolge; Mediator oft aus LWK-Beratungsdienst oder freier Mediator (§§ 1 ff. MediationsG)
-- Gesprächsstruktur: Bedürfnisse der Übernehmer, der weichenden Erben, der Übergeber
-- Ergebnis: Hofübergabe-Vertrag notariell mit Altenteil, Wohnrecht, Rückforderungsklauseln, Pflichtteilsverzicht
-- Steuervorteil: Befreiung § 13 Abs. 1 Nr. 4a ErbStG bei Betriebsübernahme
+Eine regionale Pachtstatistik kann Vergleichsmaterial sein, beweist aber allein weder die nachhaltige Veränderung der ursprünglichen Kalkulationsgrundlage noch das grobe Missverhältnis.
 
-### Pfad 5 — BLE / Landwirtschaftsamt-Korrespondenz
+## 6. Vergleichsarchitektur
 
-- Bei Förder-Streitigkeiten (GAP, ELER, Cross-Compliance-Kürzung)
-- Widerspruch → Widerspruchsbescheid → VG-Klage
-- Viele Fälle sind außergerichtlich einigungsfähig bei konkreter Sachverhalts-Darlegung
+Ein Landpachtvergleich regelt mindestens:
 
-## Workflow
+1. Vertrag und Flurstücke,
+2. Pachtzins, Rückstände, Fälligkeit und Steuer,
+3. Laufzeit, Pachtjahr und Beendigungsdatum,
+4. Bewirtschaftung, Ernte, Bestellung und Zahlungsansprüche,
+5. Zustand, Rückgabe, Inventar und Maßnahmen,
+6. Anzeige einer Vertragsänderung nach LPachtVG,
+7. Sicherheiten, Aufrechnung und Erledigung,
+8. Kosten, Vollstreckbarkeit und Folgen eines Verzugs.
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+Bei Hofübergabe, Grundstücksübertragung, dinglicher Sicherung oder Erb- und Pflichtteilsverzicht ist notarielle Form gesondert einzuplanen. Eine bloße Gesprächsnotiz ersetzt den formgerechten Vollzug nicht.
 
-### Phase 1 — Sachverhalts-Klärung mit Mandant
+## 7. Gerichtliche Rückfallposition
 
-- Konflikthistorie (oft jahrelange Beziehung)
-- Wirtschaftliche Tragweite (Hof-Existenz vs. einmaliger Schaden)
-- Beziehungs-Diagnose (Können Parteien künftig kooperieren?)
-- Gewünschtes Ergebnis (Anpassung vs. Beendigung)
+Bestimme vor dem letzten Angebot den richtigen Verfahrensweg:
 
-### Phase 2 — Vorgerichtliche Korrespondenz
+- BGB Paragraf 593 gehört zu den Verfahren nach LwVfG Paragraf 1 Nummer 1; nach LwVfG Paragraf 9 gelten grundsätzlich die FamFG-Vorschriften sinngemäß. Formuliere einen gerichtlichen Antrag, keine gewöhnliche Zahlungsklage.
+- Bürgerliche Landpachtstreitigkeiten im Übrigen fallen unter LwVfG Paragraf 1 Nummer 1a. Im ersten Rechtszug ist nach LwVfG Paragraf 2 ausschließlich das Amtsgericht als Landwirtschaftsgericht zuständig.
+- Für Verfahren nach LwVfG Paragraf 1 Nummer 1 bestimmt Paragraf 10 die örtliche Zuständigkeit grundsätzlich nach Hofstelle oder Lage der Grundstücke.
+- Bei Streit über Bestand, Dauer oder Räumung ist für den gerichtlichen Wert GKG Paragraf 41 zu prüfen; ein pauschales Mehrfaches der Jahrespacht ist unzulässig.
 
-- Anwaltsschreiben an Gegenseite: Sachverhaltsdarstellung ohne Vorwürfe
-- Vergleichs-Angebot mit konkreter Zahl + Frist (typisch 21 Tage)
-- Androhung Schlichtungsantrag + ggf. Klage
+Die freiwillige Einigung darf keinen Fristverlust verursachen. Sichere bei Bedarf parallel Kündigung, gerichtlichen Antrag, Rechtsbehelf oder Verjährungshemmung.
 
-### Phase 3 — Schlichtungsversuch § 23 LwVG
+## 8. Rechtsprechungs-Fallkarte
 
-- Schriftlicher Antrag beim Landwirtschaftsgericht (oder LWK)
-- Vorab: Sachverhalts-Kurzdarstellung + Angebot
-- Anhörung beider Parteien durch Pachtrichter
-- Vergleichsvorschlag durch Pachtrichter
-- Protokoll bei Scheitern (Voraussetzung Klage-Zulässigkeit)
+- BGH, Urteil vom 6. November 2020 - LwZR 5/19: Die Entscheidung zur früheren Schriftform bei Unterzeichnung für eine Gesellschaft bürgerlichen Rechts ist in Altfällen nur zusammen mit EGBGB Artikel 229 Paragraf 70 Absatz 2 zu verwenden; heute gilt grundsätzlich Textform.
+- BGH, Urteil vom 24. November 2017 - LwZR 5/16: Ein formularmäßiges Vorpachtrecht ohne inhaltliche Ausgestaltung ist intransparent. Ein Vergleich muss Reichweite, Ausübungsfall, Verfahren und Frist eindeutig regeln.
+- BGH, Beschluss vom 29. April 2016 - BLw 2/15: Im Beanstandungsverfahren kann das Landwirtschaftsgericht den Vertrag unabhängig von der behördlichen Begründung prüfen und trotz angenommener zivilrechtlicher Unwirksamkeit aufheben.
+- BGH, Urteil vom 28. April 2017 - LwZR 4/16: Bei Nutzungs- und Zustandsstreit sind Vertragszustand, Verschulden, Schaden und mögliches Mitverschulden getrennt zu verhandeln.
 
-### Phase 4 — Klage (bei Scheitern)
+Verifiziere Aktenzeichen, Datum, tragende Aussage und Fortgeltung vor externer Verwendung an einer amtlichen Quelle.
 
-- Klage Landwirtschaftsgericht (Wert bis 5.000 EUR: AG; darüber: LG mit Kammer für Handelssachen — nein; Landwirtschaftssache: AG-Landwirtschaftsgericht als Sonderkammer)
-- Beweisaufnahme (ortsübliche Pacht durch LWK-Statistik + Sachverständiger)
-- Zwischenurteil bei Frist-Fragen
+## 9. Lieferformat
 
-### Phase 5 — Vollstreckung / Umsetzung
+Liefere:
 
-- Vergleichs-Vollstreckung über § 794 ZPO
-- Bei Hofübergabe: notarielle Beurkundung des Übergabevertrags
+1. Verhandlungsvermerk mit Ziel und Rückfallposition,
+2. bezifferte Korridortabelle,
+3. Gesprächsagenda mit Reihenfolge und Zugeständnissen,
+4. ausformuliertes Eröffnungsschreiben,
+5. Vergleichstermsheet mit Vollzugs- und Fristenkontrolle.
 
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Landpachtkonflikt verhandeln | Fuenfstufiger Pfad-Überblick; Schriftsatzbausteine unten |
-| Variante A — beide Seiten einigungsbereit | Direkter Pfad 1 (Schlichtungsstelle) ohne Gericht |
-| Variante B — Pachtverhaeltnis sehr festgefahren | Gerichtlicher Weg § 23 LwVG vorbereiten |
-| Variante C — Hofuebergabe involviert | Pfad 4 Mediation Hofuebergabe; familienrechtliche Aspekte beachten |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatz-Bausteine
-
-### Außergerichtliches Anpassungs-Schreiben § 593 BGB
-
-```
-[Kanzlei] [Ort, Datum]
-
-[Gegenseite]
-[Anschrift]
-
-Pachtvertrag vom [Datum], Flur [Bezeichnung]
-Anpassungs-Verlangen § 593 BGB
-
-Sehr geehrte Damen und Herren,
-
-aus dem Pachtvertrag vom [Datum] ueber [ha] [Kulturart]
-machen wir namens und in Vollmacht unserer Mandantschaft
-den Anpassungs-Anspruch nach § 593 BGB geltend.
-
-Seit Vertragsschluss ist die ortsübliche Vergleichspacht
-in der Region [Region] von [Betrag EUR/ha] auf
-[Betrag EUR/ha] gestiegen (LWK-Pachtstatistik [Jahr],
-Gutachterausschuss-Beschluss [Nr.]). Die Differenz beträgt
-[EUR/ha × ha × Laufzeit = Gesamtbetrag].
-
-Wir bitten um Zustimmung zur Anpassung auf
-EUR [neuer Betrag] je Hektar ab [Datum].
-
-Im Falle keiner Einigung binnen [21 Tage] werden wir
-Schlichtungsversuch nach § 23 LwVG beim Landwirtschafts-
-gericht [Ort] anregen.
-
-[Rechtsanwalt/-anwaeltin, Fachanwalt für Agrarrecht]
-```
-
-### Schlichtungsantrag § 23 LwVG
-
-```
-An das Landwirtschaftsgericht beim AG [Ort]
-Schlichtungsantrag nach § 23 LwVG
-
-Antragsteller: [Mandant]
-Antragsgegner: [Gegenseite]
-
-Streitgegenstand: Pachtpreisanpassung § 593 BGB
-Pachtvertrag vom [Datum], Objekt [Bezeichnung]
-
-Sachverhalt:
-[Kurze neutrale Darstellung des Konflikts]
-
-Angebot:
-[Konkretes Anpassungs-Angebot]
-
-Wir bitten um Anberaumung eines Schlichtungstermins.
-
-[Rechtsanwalt/-anwaeltin]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Strategie und Taktik
-
-| Konstellation | Empfehlung |
-|---|---|
-| Familien-Hofstreit | Mediation vorrangig; Zerstörung der Eltern-Kind-Beziehung oft schlimmer als Rechtsverlust |
-| Pächter will Hof zurückgeben | Kündigungs-Zeitplan prüfen; bei Verstoß gegen Bewirtschaftungs-Pflicht vorzeitige außerordentliche Kündigung möglich |
-| Verpächter will höhere Pacht | LWK-Statistik-Gutachten einholen; Klage erst wenn Vergleich eindeutig scheitert |
-| Förder-Streit mit Behörde | Sachverhalts-Klarstellung mit Belegen; oft einfach lösbar außergerichtlich |
-| Wolfsriss-Entschädigung | Riss-Protokoll + Marktwert-Gutachten als Verhandlungs-Grundlage; Verhandlung mit Landwirtschafts-Ministerium |
-
-## Beweislast und Darlegungslast
-
-- Bei § 593 BGB-Anpassung: Verlangende Partei legt Verhältnisänderung dar (LWK-Statistik, Bodenrichtwert).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Im Schlichtungsverfahren: kein formelles Beweisverfahren; Glaubhaftmachung und Unterlagen genügen.
-
-## Fristen
-
-| Frist | Dauer | Rechtsgrundlage |
-|---|---|---|
-| Reaktionsfrist bei außergerichtlichem Schreiben | 14–21 Tage (Praxis) | Eigene Fristsetzung |
-| Schlichtungsantrag vor Klage | Keine starre Frist; vor Klageerhebung | § 23 LwVG |
-| Kündigung ordentlich | 2 Jahre vor Pachtjahresende | § 594a BGB |
-| Klage nach Schlichtungs-Scheitern | Keine Ausschluss-Frist; Verjährung § 195 BGB (3 Jahre) | §§ 195, 199 BGB |
-
-## Streitwert und Kosten
-
-- Pacht-Anpassungs-Klage: dreifacher Jahresmehrwert der begehrten Anpassung (§ 41 Abs. 1 ZPO).
-- Schlichtungsverfahren: Kammergebühr LWK ca. 100–300 EUR + Reisekosten Rechtsanwalt.
-- Klage Landwirtschaftsgericht: GKG-Tabelle; Anwalt nach RVG.
-- Wirtschaftlichkeitsprüfung immer: Bei Pachtdifferenz < 500 EUR/Jahr übersteigen Kosten oft den Nutzen.
-
-## Anschluss-Skills
-
-- `landpacht-und-hoferbfolge-pruefen` — Tiefenprüfung des Pachtvertrags
-- `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` — Behörden-Kommunikation Wolf
-- `sammelantrag-gap-checkliste` — GAP-Förder-Widerspruchsverfahren
-
-## Quellen
-
-- BGB §§ 585–597 (Landpacht), §§ 195, 199 (Verjährung)
-- LPachtVG §§ 2, 4, 13
-- LwVG §§ 2, 13, 23
-- MediationsG §§ 1 ff.
-- ZPO §§ 278, 794
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Ergänzung — Aktuelle Rechtsprechung 2022-2024
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Kennzeichne freiwillige Verfahren als freiwillig. Erfinde weder Kammerzuständigkeit noch Gebühren, Dauer, Pflichtvorverfahren oder Vergleichsdaten.

@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Sonderrollen: Geschäftsführer, Familienangehöriger, Lehrkraft, Plattformarbeiter, Freiberufler und arbeitnehmerähnlicher Selbständiger getrennt prüfen.
 4. Verfahren: Statusantrag, Anhörung, Betriebsprüfung, Säumniszuschläge, Beitragsbescheid, Widerspruch und Eilverfahren abbilden.
 5. Arbeitsprodukt: Statusmatrix, Anhörungserwiderung, Beitragsrisikorechnung, Widerspruch oder Klageentwurf erstellen.
-6. Anhörung und Erwiderung: Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten.
+6. Beitragsnachforderung und Haftung: Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anhörung und Erwiderung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Freier Mitarbeiter Anwalt | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerüberlassung Abgrenzung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsmittel und Equipment | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufen-Selbsttest Unternehmen | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausland Remote EU A1 | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beitragsnachforderung und Haftung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bescheidanalyse Status/Beiträge | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dienst-/Werkvertrag im Statusrecht | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Honorarvertrag Realitätscheck | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kurzfristige Beschäftigung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 7 SGB IV Grundabgrenzung | Tätigkeit, Zeitraum, Weisung, Eingliederung, Unternehmerrisiko, Vertragswirklichkeit, Beiträge und Frist gewichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SGB IV Paragraf 7a: Statusfeststellungsverfahren.
 - SGB IV Paragraf 28p: Betriebsprüfung durch Rentenversicherungsträger.
 - SGB IV Paragraf 28e: Beitragsschuld des Arbeitgebers.
-- SGB VI Paragraf 2 je Lehrtätigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 611a/631: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R: Lehrkräfte und Dozenten sind nach dem konkreten Gesamtbild der Tätigkeit einzuordnen.
 - BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R: Auch bei Piloten oder Freelancern entscheiden Eingliederung, Weisungen und Unternehmerrisiko im Einzelfall.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anhörung und Erwiderung, Freier Mitarbeiter Anwalt, Arbeitnehmerüberlassung Abgrenzung, Arbeitsmittel und Equipment: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beitragsnachforderung und Haftung, Bescheidanalyse Status/Beiträge, Dienst-/Werkvertrag im Statusrecht, Honorarvertrag Realitätscheck: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

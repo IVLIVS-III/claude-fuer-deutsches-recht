@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Ambulantes Operieren Paragraf 115b SGB V | BGB Paragraf 630a bis Paragraf 630h; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Dokumentation Aufbewahrung Beweislast | BGB Paragraf 630a bis Paragraf 630h; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 280, Paragraf 823 und Paragraf 253 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Arbeitszeit Bereitschaftsdienst Rufdienst | BGB Paragraf 280, Paragraf 823 und Paragraf 253; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Geburtshilfe Haftung Hebammen Schnittstelle | BGB Paragraf 280, Paragraf 823 und Paragraf 253; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort | Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | SGB X Paragraf 20 und Paragraf 25 | Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren | Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung | Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort |
 | SGG Paragraf 86b und Paragraf 87 | Eilrechtsschutz und Klagefrist | Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung | Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort |
 | ApBetrO, AMG und BtMG | Apothekenbetrieb, Arzneimittelverkehr und Betäubungsmittelbezug je nach Fall | Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung | Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort |
-| Paragraf 115b SGB V eröffnet Krankenhaeusern die Möglichkeit, ambulante | Paragraf 115b SGB V eröffnet Krankenhaeusern die Möglichkeit, ambulante Operationen im Rahmen | Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung | Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort |
+| BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft | BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollständig | Patient oder Versicherter für Befund, Schaden und Kausalität; Behandler oder Träger für Aufklärung, Dokumentation, Standard und Entlastung | Gutachterfragen, Anspruchsschreiben, Widerspruch, Eilantrag, Klage, Abrechnungsprüfung oder Behördenantwort |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -79,14 +79,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
 - SGG Paragraf 86b und Paragraf 87: Eilrechtsschutz und Klagefrist.
 - ApBetrO, AMG und BtMG: Apothekenbetrieb, Arzneimittelverkehr und Betäubungsmittelbezug je nach Fall.
-- Paragraf 115b SGB V eröffnet Krankenhaeusern die Möglichkeit, ambulante Operationen im Rahmen des AOP-Katalogs zu erbringen. Seit 2023 gilt ein erweiterter Katalog mit Kontextfaktoren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- SGB V Paragraf 115b Ambulantes Operieren am Krankenhaus, AOP-Vertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- SGB V Paragraf 115f Hybrid-DRG für haeufige Eingriffe (Schnittstelle ambulant/stationaer): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- SGB V Paragrafen 115b, 115f: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 107-114 SGB V (Krankenhaus): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollständig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragraf 630h Abs. 3 Beweislastumkehr bei Dokumentationsfehlern (vermutet: nicht durchgeführt): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - SGB X Paragraf 84 Aufbewahrung sozialrechtliche Unterlagen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 630a-630h: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 630a-630h BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- SGB V Paragraf 109 Versorgungsauftrag, Versorgungsvertrag: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- VwGO Paragrafen 40, 42, 80, 113 Verwaltungsrechtsweg: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- SGG Paragrafen 51, 54, 86b Sozialgerichtsweg, einstweiliger Rechtsschutz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -140,58 +140,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Ambulantes Operieren Paragraf 115b SGB V
+### 15.1. Dokumentation Aufbewahrung Beweislast
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Arbeitszeit Bereitschaftsdienst Rufdienst
+### 15.2. Geburtshilfe Haftung Hebammen Schnittstelle
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Dokumentation Aufbewahrung Beweislast
+### 15.3. Klage gegen Budgetbescheid oder Schiedsstellenentscheidung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Barrierefreiheit Krankenhauskommunikation
+### 15.4. Klinikakten und Bescheide sortieren
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Belegarzt Honorar und Krankenhausvertrag
+### 15.5. Output Vorstandsvorlage Behördenbrief Klage
+
+Entscheidende Weiche: Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen. - Arbeitsprodukt: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Patientenbeschwerde und Risikomanagement
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Blutprodukte Transfusionsrecht Dokumentation
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Compliance-System Klinik Einkauf Forschung Spenden
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Datenschutz Krankenhaus Patientenakte Forschung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. DORA und IT-Dienstleister soweit einschlägig
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Entlassmanagement Paragraf 39 Abs. 1a SGB V
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Forschung Studien Ethikkommission Datenschutz
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Geburtshilfe Haftung Hebammen Schnittstelle
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Gewaltschutz Sicherheitsdienst Hausverbot
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Haftpflichtfall Krankenhaus Gutachtenstrategie
+### 15.7. Patientenrechte Behandlungsvertrag Aufklärung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Planfeststellungsbescheid Rechtsbehelf und Eilrechtsschutz
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Vorhaltevergütung Leistungsgruppen Krankenhausreform
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Zuweiservergütung Antikorruption Paragrafen 299a 299b StGB
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Ambulantes Operieren Paragraf 115b SGB V
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Arbeitszeit Bereitschaftsdienst Rufdienst
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Barrierefreiheit Krankenhauskommunikation
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Belegarzt Honorar und Krankenhausvertrag
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

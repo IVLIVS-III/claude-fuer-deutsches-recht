@@ -18,11 +18,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 ## 3. Kernroute
 
 1. Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
-2. Versicherungsfall: Eintritt, Anzeige, Schadenhoehe, Kausalität, Ausschluss und Beweislast ordnen.
-3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhoehung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
+2. Versicherungsfall: Eintritt, Anzeige, Schadenhöhe, Kausalität, Ausschluss und Beweislast ordnen.
+3. Obliegenheiten: vorvertragliche Anzeige, Gefahrerhöhung, Schadenanzeige, Mitwirkung und Rechtsfolgenbelehrung prüfen.
 4. Deckung und Regulierung: Leistungsentscheidung, Quote, Regress, Verjährung und Prozessrisiko ausarbeiten.
 5. Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreiben, Vergleichsvorschlag oder Klageentwurf formulieren.
-6. Betriebshaftpflicht: Versicherungsfall und Serienschaden: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+6. D&O: Claims-made, Innenhaftung und Organstreit: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Betriebshaftpflicht: Versicherungsfall und Serienschaden | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betriebsunterbrechung: Sachschaden-Trigger | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BU: abstrakte und konkrete Verweisung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BU: Berufsbild und 50-Prozent-Prüfung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BU: Anerkenntnis, Nachprüfung, Leistungseinstellung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cyberversicherung: Ransomware, DORA, Sanktionen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| D&O: Claims-made, Innenhaftung und Organstreit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DORA für Versicherer und Vermittler | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsschutz: Vorvertraglichkeit und Schadenereignis | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| VAG/BaFin-Aufsicht: Beschwerde und Missstand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vergleich, Abfindung und Entschädigungsquittung | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenkalender für Versicherungsfälle | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VVG Paragraf 19: vorvertragliche Anzeigepflicht und Rechtsfolgen.
 - VVG Paragraf 28: Obliegenheitsverletzung nach Vertragsschluss.
 - VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
+- VVG Paragrafen 100 ff.; GmbHG Paragraf 43; AktG Paragrafen 93, 116; InsO Paragraf 15a; AVB D&O: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1 VVG — Versicherungsvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 19 VVG — vorvertragliche Anzeigepflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 28 VVG — Obliegenheitsverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 86 VVG — Legalzession: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
 - BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Betriebshaftpflicht: Versicherungsfall und Serienschaden, Betriebsunterbrechung: Sachschaden-Trigger, BU: abstrakte und konkrete Verweisung, BU: Berufsbild und 50-Prozent-Prüfung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder D&O: Claims-made, Innenhaftung und Organstreit, DORA für Versicherer und Vermittler, Rechtsschutz: Vorvertraglichkeit und Schadenereignis, VAG/BaFin-Aufsicht: Beschwerde und Missstand: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

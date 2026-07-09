@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Regulierungsrahmen Art 6 Hochrisiko algorithmische Systeme | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass | BGB Paragraf 327; EuGH, Urteil vom 03.07.2012 - C-128/11 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 327e | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 | BGB Paragraf 327e; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 631 | Werkvertragliche Pflichten bei Projektleistungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 634 | Rechte bei Mängeln des Werkes | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 | BGB Paragraf 280 | Schadensersatz wegen Pflichtverletzung | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
-| Paragraf 32 BSIG n. F | Meldepflichten erheblicher Sicherheitsvorfälle für wichtige und besonders wichtige Einrichtungen | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Paragraf 26 BDSG Mitarbeiterdatenverarbeitung | Paragraf 26 BDSG Mitarbeiterdatenverarbeitung | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
 - BGB Paragraf 634: Rechte bei Mängeln des Werkes.
 - BGB Paragraf 280: Schadensersatz wegen Pflichtverletzung.
-- Paragraf 32 BSIG n. F. — Meldepflichten erheblicher Sicherheitsvorfälle für wichtige und besonders wichtige Einrichtungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 202a StGB — Ausspähen von Daten (Freiheitsstrafe bis 3 Jahre): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 202b StGB — Abfangen von Daten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 202c StGB — Vorbereiten des Ausspähens (Hacker-Tools): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 202d StGB — Datenhehlerei: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 263a StGB — Computerbetrug: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 303a StGB — Datenveränderung; Qualifikation Paragraf 303b StGB Computersabotage (bis 5 Jahre): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 269 StGB — Fälschung beweiserheblicher Daten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 26 BDSG Mitarbeiterdatenverarbeitung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 5 Abs. 2; Art. 32; Art. 33 Abs. 5 Datenschutz-Grundverordnung; Paragraf 26 BDSG; Paragraf 3 TTDSG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 1 StGB Verletzung von Privatgeheimnissen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 3 Satz 2 StGB mitwirkende Personen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 4 StGB Offenbarungstatbestände: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 2 BRAO anwaltliche Verschwiegenheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 203 Abs. 1; Paragraf 203 Abs. 3; Paragraf 203 Abs. 4 StGB; Art. 33 Datenschutz-Grundverordnung; Paragraf 43a Abs. 2 BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 309 BGB AGB-Klauselverbote: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,7 +101,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 04.03.2010 - III ZR 79/09: Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt.
 - BGH, Urteil vom 24.01.2013 - VII ZR 37/12: IT-Projektverträge verlangen klare Leistungsbeschreibung und Abnahmeprüfung.
 - BGH, Urteil vom 19.07.2012 - VII ZR 262/11: Werklohn setzt bei werkvertraglicher Prägung grundsätzlich Abnahmefähigkeit voraus.
-- EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- EuGH C-311/18 Schrems II (Urteil 16.07.2020)
 
 ## 9. Prüfraster
 
@@ -151,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge
-
-System-System für Kreditvergabe wird eingeführt. - Art. 6 HOCHRISIKO - Art. 33 Datenschutz-Grundverordnung - Art. 34 Datenschutz-Grundverordnung - Art. 9 Datenschutz-Grundverordnung - Art. 56 Datenschutz-Grundverordnung - Art. 32 Datenschutz-Grundverordnung - Paragraf 32 BSIG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt It Recht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - ai-act-art-6-hochrisiko-ki — algorithmische Systeme ACT ART 6 Hochrisiko algorithmische Systeme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.1. Dsv Beweissicherung
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Cloud Act Vs Datenschutz-Grundverordnung Art 48 Datenschutz-Grundverordnung
-
-US-Cloud-Anbieter wird vom DOJ aufgefordert Daten herauszugeben. - Art. 48 Datenschutz-Grundverordnung - Art. 33 Datenschutz-Grundverordnung - Art. 34 Datenschutz-Grundverordnung - Art. 9 Datenschutz-Grundverordnung - Art. 56 Datenschutz-Grundverordnung - Art. 32. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Cyber Incident Response 72h
+### 15.2. Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack
+### 15.3. Dsv Sammelklagen Prävention
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Datenschutz-Folgenabschaetzung DSFA nach Art
+### 15.4. IT-Vertrag-Verhandlung / EU-ODR
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. SaaS-Vertrag — Prüfung und Verhandlung
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Vertragsstrafe prüfen
+
+1. Steht die Vertragsstrafenklausel in AGB oder in einer Individualvereinbarung? 2. Welche konkrete Pflicht (Liefertermin, Datenschutz, Geheimhaltung, Wettbewerbsverbot) soll abgesichert werden? 3. Ist die Strafe pro Tag, pro Verstoß oder einmalig vereinbart? Existiert. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Hacking Haftung Paragraf 823 BGB it Sicherheit
+
+Prüfe Hacking Haftung Paragraf 823 BGB it Sicherheit von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 823 BGB IT SICHERHEIT - Paragraf 305 Abs. 2 BGB - Paragraf 307 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Datenschutz-Due-Diligence für Cloud-Verträge
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Datenschutzrecht Fehlerkatalog
-
-Dieser Fehlerkatalog prüft Arbeitsergebnisse für Fachanwalt IT-Recht vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen (Mängelfristen Software). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. DMA: Compliance-Dokumentation und Aktenvermerk
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. DSA: Zahlen, Schwellenwerte und Berechnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Datenschutz-Grundverordnung: Behörden-, Gerichts- oder Registerweg
+### 15.10. Datenschutzklauseln im IT-Vertrag prüfen und gestalten
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Datenschutz-Grundverordnung Bussgeld Art 83 EuGH C 807 21
+### 15.11. IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen
 
-Aufsicht verhängt 14.5 Mio EUR Bussgeld gegen Tochter; Mutterkonzern haftet? - Art. 83 EUGH - Art. 5 Datenschutz-Grundverordnung - Art. 6 Datenschutz-Grundverordnung - Art. 28 Datenschutz-Grundverordnung - Art. 44 ff. Datenschutz-Grundverordnung - VO (EU) 2024/1689 - EuGH. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Dsv Art 9 Besondere Kategorien
+### 15.12. Itil sla Vertragsstrafe
+
+Prüfe Itil sla Vertragsstrafe von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 305 Abs. 2 BGB - Paragraf 307 Abs. 1 und 2 BGB - Paragraf 535 Abs. 1 BGB - Paragraf 543 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Itr Ki Systeme Vertragsklausel Leitfaden
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Itr Saas Vertrag Bauleiter
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

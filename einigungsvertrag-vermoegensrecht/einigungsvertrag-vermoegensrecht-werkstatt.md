@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Volkseigener Betrieb Berechtigte Ermit | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Ausschlussfristen und Bestandskraft | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Alte Ddr Unterlagen Auswerten | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bodenreformland Fristproblem Markieren | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Volkseigener Betrieb Berechtigte Ermit
+### 15.1. Ausschlussfristen und Bestandskraft
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Alte Ddr Unterlagen Auswerten
+### 15.2. Bodenreformland Fristproblem Markieren
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Art 21 und Art 22 Vermögen Trennen
+### 15.3. Bodenreformland Klage Skizzieren
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Klage skizzieren
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Landwirtschaftliche Fläche Anspruchsp
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Kommunalvermögen Akte Anfordern
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Ausschlussfristen und Bestandskraft
+### 15.7. Treuhandprivatisierung Akte Anfordern
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Kommunalvermögen Fristproblem Markier
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Behörde und Archiv Finden
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Bodenreform Grundbuch Lesen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Bodenreformland Akte Anfordern
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bodenreformland Anspruchspfad Prüfen
+### 15.9. Kommunalvermögen Klage Skizzieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Bodenreformland Behördenbrief Schreib
+### 15.10. Landwirtschaftliche Fläche Klage Skiz
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Bodenreformland Berechtigte Ermitteln
+### 15.11. Mauergrundstueck Fristproblem Markiere
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Bodenreformland Chronologie Bauen
+### 15.12. Mauergrundstueck Klage Skizzieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Bodenreformland Fristproblem Markieren
+### 15.13. Parteivermögen Fristproblem Markieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Bodenreformland Grundbuch Auswerten
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Bodenreformland Klage Skizzieren
+### 15.14. Parteivermögen Klage Skizzieren
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale Dienste und offene Vermögensfragen), Landesämter zur Regelung offener Vermögensfragen (LARoV), VG, OVG, BVerwG, Verfügungsberechtigter. - Dokumente und Beweismittel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

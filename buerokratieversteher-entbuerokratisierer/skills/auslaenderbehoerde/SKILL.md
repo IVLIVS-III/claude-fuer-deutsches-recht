@@ -49,14 +49,14 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ### Kuratierte Normen-Bibliothek
 
-- § 70 VwG
-- § 80 VwG
+- § 70 VwGO
+- § 80 VwGO
 - § 28 VwVfG
-- § 123 VwG
+- § 123 VwGO
 - Art. 3 GG
-- § 60 VwG
+- § 60 VwGO
 - § 5 VIG
-- § 75 VwG
+- § 75 VwGO
 - § 40 VwVfG
 - § 10 StAG
 - § 86b SGG

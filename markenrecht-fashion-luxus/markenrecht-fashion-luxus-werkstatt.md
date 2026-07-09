@@ -24,7 +24,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+### 3.1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -50,7 +50,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Markenrechtliche Abmahnung und Unterlassungserklärung | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 15 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Absolute Schutzhindernisse | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | AGB im Händlervertrag für Luxus-Selektivvertrieb | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -101,6 +101,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
+- EuGH, Urteil vom 22.12.2022 - C-148/21 und C-184/21; MarkenG Paragrafen 14 ff
 
 ## 9. Prüfraster
 
@@ -154,54 +155,54 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: Paragraf 14 MarkenG (Verletzungsansprüche), Paragraf 8 UWG (Unterlassung). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Absolute Schutzhindernisse
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. AGB im Händlervertrag für Luxus-Selektivvertrieb
+### 15.2. AGB im Händlervertrag für Luxus-Selektivvertrieb
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Alicante: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.3. Anti-digitale Werkzeuge-Marken und Authentizitätskennzeichen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
+### 15.4. Rechtserhaltende Benutzung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Anti-digitale Werkzeuge-Marken und Authentizitätskennzeichen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Rechtserhaltende Benutzung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Beweissicherung, Testkauf und Screenshot
+### 15.5. Beweissicherung, Testkauf und Screenshot
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Bildmarke und Wort-Bild-Marke für Couture-Logos
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Bösgläubige Anmeldung und Sperrmarke
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.6. Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Erschöpfung, Graumarkt und Brezelmann-Strategie
+### 15.7. EUIPO-Beschwerde und EU-Gerichte
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Dokumentenintake
+### 15.8. Sichert EUIPO-Widerspruchsfristen, Gebühren, Substantiierung älterer Rechte, Übersetzungen, Verfahrenssprache.
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Sichert EUIPO-Widerspruchsfristen, Gebühren, Substantiierung älterer Rechte, Übersetzungen, Verfahrenssprache, Anlagen und Wiedervorlage im Alicante-Workflow. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. DPMA, BPatG und BGH
+### 15.9. Klageanträge im Markenrecht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Luxus: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Chronologie und Belegmatrix
+
+Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich markenrecht-fashion-luxus sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Absolute Schutzhindernisse
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Alicante: Schriftsatz-, Brief- und Memo-Bausteine
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

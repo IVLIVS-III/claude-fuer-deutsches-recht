@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Entscheidung und Genehmigung: Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen.
 4. Rechnungs- und Berichtswesen: Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen.
 5. Arbeitsprodukt: Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen.
-6. Betreuungsrecht — Allgemein: Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen.
+6. Fristen- und Risikoampel: Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Betreuungsrecht — Allgemein | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufgabenkreise festlegen | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bericht: Mandantenkommunikation und Entscheidungsvorlage | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betreuer als Erbe und Beschenkter | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kalender, Reminder und Fristenmanagement | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kontodaten- und Vertragsverdacht-Prüfung | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 1821: Pflichten des Betreuers, Wunschbefolgung und unterstützte Entscheidungsfindung.
 - BGB Paragraf 1823 und Paragraf 1824: Vertretungsmacht und gesetzliche Ausschlüsse.
 - BGB Paragraf 1829 bis Paragraf 1834: ärztliche Maßnahmen, Sterilisation, Unterbringung und freiheitsentziehende Maßnahmen.
-- Paragraf 1814 BGB — Voraussetzungen der Betreuung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1816 ff. BGB — Auswahl und Eignung des Betreuers: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1821 BGB — Pflichten des Betreuers und Wünsche der betreuten Person: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1835 ff. BGB — Vermögensverzeichnis und Rechnungslegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1823 BGB — Vertretungsmacht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1835 BGB — Aufwendungsersatz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1838 BGB — Vermögenssorge: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
 - BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Das Selbstbestimmungsrecht prägt die Betreuerauswahl; auch ein aus Außensicht unvernünftiger Wunsch darf nicht allein deshalb übergangen werden.
 

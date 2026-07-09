@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Incident: Zeitpunkt, Klassifizierung, Meldeschwelle, Belege, Forensik, Kommunikation und Fristen sichern.
 4. Aufsicht und Nachweis: BSI, BaFin, Kunde, Versicherer, Vertragspartner und interne Governance trennen.
 5. Arbeitsprodukt: Incident-Meldung, Maßnahmenplan, Vorstandsvorlage, Nachweisordner oder Bußgeldverteidigung erstellen.
-6. Admin Offboarding: Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen.
+6. Fahrer Telematik: Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Fahrer Telematik | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forensik Beweissicherung | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Management Haftung Board Duties | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Admin Offboarding | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Airtags Lkw Tracking | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | API Security | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitnehmerüberwachung It | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Asset Inventory Cmdb | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| abrufen Nachweisordner | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Admin Offboarding, Airtags Lkw Tracking, API Security, Arbeitnehmerüberwachung It: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fahrer Telematik, Forensik Beweissicherung, Management Haftung Board Duties, Admin Offboarding: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

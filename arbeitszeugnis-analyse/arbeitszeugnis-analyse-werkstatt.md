@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Ampelsystem-Tabellenausgabe | GewO Paragraf 109; BAG, Urteil vom 18.11.2014 - 9 AZR 584/13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage | GewO Paragraf 109; BAG, Urteil vom 18.11.2014 - 9 AZR 584/13 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 630 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung | BGB Paragraf 630; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristen- und Risikoampel Arbeitszeugnis | BGB Paragraf 630; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 242 | Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
 | ZPO Paragraf 888 | Vollstreckung titulierten Anspruchs auf Zeugniserteilung oder konkrete Zeugnisfassung | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
 | ArbGG Paragraf 2 | Rechtsweg für Zeugnisansprüche aus dem Arbeitsverhältnis | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
-| Paragraf 611a Abs. 1 BGB | Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
+| BGB Paragrafen 195, 199 | regelmäßige Verjährung; Beginn erst bei Anspruchsentstehung und Kenntnis | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 242: Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten.
 - ZPO Paragraf 888: Vollstreckung titulierten Anspruchs auf Zeugniserteilung oder konkrete Zeugnisfassung.
 - ArbGG Paragraf 2: Rechtsweg für Zeugnisansprüche aus dem Arbeitsverhältnis.
+- BGB Paragrafen 195, 199: regelmäßige Verjährung; Beginn erst bei Anspruchsentstehung und Kenntnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 241 Abs. 2, 280: Rücksichtnahme- und Schadensersatzrisiken bei unrichtigem Zeugnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ArbGG Paragrafen 61a, 64, 66: arbeitsgerichtlicher Ablauf und Rechtsmittelkontext: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 195, 199 BGB — Verjährung drei Jahre; beginnt mit Schluss des Ausstellungsjahres: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Verwirkung: Zeitmoment (mehrere Jahre) + Umstandsmoment: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 626 Abs. 1 BGB — fristlose Kündigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 Abs. 2 KSchG — soziale Rechtfertigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 4 Satz 1 KSchG — Klagefrist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 7 KSchG — Fiktionswirkung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 102 Abs. 1 BetrVG — Betriebsratsanhörung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,7 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BAG, Urteil vom 27.04.2021 - 9 AZR 262/20: Ein qualifiziertes Zeugnis verlangt eine zusammenhängende Leistungs- und Verhaltensbeurteilung; bloße tabellarische Schulnoten genügen regelmäßig nicht.
 - BAG, Teilurteil vom 18.06.2025 - 2 AZR 96/24 (B): Auf ein qualifiziertes Zeugnis kann vor Beendigung des Arbeitsverhältnisses nicht wirksam für die Zukunft verzichtet werden.
 - BAG, Beschluss vom 07.05.2026 - 8 AZB 25/25: Eine Zeugnisregelung mit Arbeitnehmerentwurf und Abweichung nur aus wichtigem Grund kann vollstreckbar sein.
-- BAG 5.7.2018 – 9 AZR 244/17 Anspruch entstehung
 
 ## 9. Prüfraster
 
@@ -151,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Ampelsystem-Tabellenausgabe
+### 15.1. Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.2. Fristen- und Risikoampel Arbeitszeugnis
+
+Ordne eine Zeugnisakte sofort nach Frist, Risiko und nächstem sicheren Schritt. Lies zuerst Zeugnis, Änderungswunsch, Arbeitsvertrag, Beendigungsdokument, Vergleich, E-Mail-Verkehr und etwaige Ausschlussfristen. Frage nur nach, wenn Datum, Zugang oder Vertragsgrundlage fehlen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Klagestrategie Zeugnisberichtigung
+
+Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Ampelsystem-Tabellenausgabe
+
+Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung
 
 Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2 KSchG — soziale Rechtfertigung. - Paragraf 4 Satz 1 KSchG — Klagefrist. - Paragraf 7 KSchG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Codeworte: Compliance-Dokumentation und Aktenvermerk
+### 15.6. Codeworte: Compliance-Dokumentation und Aktenvermerk
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine
+### 15.7. Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine
 
 Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2 KSchG — soziale Rechtfertigung. - Paragraf 4 Satz 1 KSchG — Klagefrist. - Paragraf 7 KSchG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Gruen: Behörden-, Gerichts- oder Registerweg
+### 15.8. Grün: Behörden-, Gerichts- oder Registerweg
 
 Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2 KSchG — soziale Rechtfertigung. - Paragraf 4 Satz 1 KSchG — Klagefrist. - Paragraf 7 KSchG —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Negative: Zahlen, Schwellenwerte und Berechnung
+### 15.9. Negative: Zahlen, Schwellenwerte und Berechnung
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Orange: Risikoampel, Gegenargumente und Verteidigungslinien
+### 15.10. Orange: Risikoampel, Gegenargumente und Verteidigungslinien
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Schaufenster: Verhandlung, Vergleich und Eskalation
+### 15.11. Schaufenster: Verhandlung, Vergleich und Eskalation
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.12. Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Aufforderungsschreiben an den Arbeitgeber
+### 15.13. Aufforderungsschreiben an den Arbeitgeber
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Ausbildungszeugnis-Analyse (Azubi-Zeugnis)
-
-Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Bereichs-Drift-Detektor (Schaufenster-Pattern)
-
-Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Branchenspezifische Formulierungen
+### 15.14. Ausbildungszeugnis-Analyse (Azubi-Zeugnis)
 
 Normen: Paragrafen 611a, Paragrafen 1, Paragrafen 14. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

@@ -154,7 +154,7 @@ description: "Wenn es um Anpassungsgebot — Flächennutzungsplan in Normenkontr
 
 ### Kuratierte Normen-Bibliothek
 
-- § 47 VwG
+- § 47 VwGO
 - § 215 BauGB
 - § 1 BauGB
 - § 214 BauGB

@@ -61,16 +61,16 @@ Dieser Dokumenten-Intake für **Subsumtions Prüfer** ordnet Anlagen, Registerda
 ### Kuratierte Normen-Bibliothek
 
 - Art. 267 AEUV
-- § 70 VwG
-- § 74 VwG
+- § 70 VwGO
+- § 74 VwGO
 - § 93 BVerfGG
-- § 40 VwG
+- § 40 VwGO
 - § 2 StGB
 - § 21 OWiG
 - § 22 AGG
 - § 13 GVG
 - § 71 GVG
-- § 80 VwG
+- § 80 VwGO
 - § 2 ArbGG
 
 ### Leitentscheidungen

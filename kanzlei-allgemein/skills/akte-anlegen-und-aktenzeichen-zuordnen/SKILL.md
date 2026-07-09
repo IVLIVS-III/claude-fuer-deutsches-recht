@@ -87,7 +87,7 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 - § 7 BUrlG
 - Art. 32 DSGVO
 - § 65d SGG
-- § 55a VwG
+- § 55a VwGO
 - Art. 35 DSGVO
 - Art. 21 DSGVO
 

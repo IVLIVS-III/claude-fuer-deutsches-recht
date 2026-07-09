@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
 4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
 5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
-6. Amtlicher Formkern BGB/ZPO: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
+6. Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Amtlicher Formkern BGB/ZPO | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruchsformulierungen bei Formverstoß | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Red-Team Qualitygate | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Befristungsabrede — qES-Rechtsprechung Stand 2026 | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dokumentations- und Beweisarchitektur | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Form-Checker — Vertrag oder Willenserklärung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klauselgenerator — Formvorbehalt und Änderungsvorbehalt | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 125 BGB — Nichtigkeit wegen Formmangels: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 812 Abs. 1 S. 1 BGB — Bereicherungsanspruch: ohne Rechtsgrund erlangt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 818 BGB — Umfang des Bereicherungsanspruchs: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB i.V.m. Paragrafen 311 Abs. 2, 241 Abs. 2 BGB — Schadensersatz aus c.i.c: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 14 Abs. 4 TzBfG — Befristung des Arbeitsvertrags: schriftliche Vereinbarung zwingend (vor Beginn der Arbeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 623 BGB — Kündigung und Aufhebungsvertrag des Arbeitsverhältnisses: Schriftform zwingend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 126 Abs. 3 BGB i.V.m. Paragraf 126a BGB — Ersatz durch qES theoretisch, aber Spezialrecht beachten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an
 - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
 - ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools

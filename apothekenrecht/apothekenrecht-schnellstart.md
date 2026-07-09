@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Beweislast: grober Fehler, Befunderhebungsfehler, Aufklärung, hypothetische Einwilligung und Dokumentationslücke gesondert prüfen.
 4. Verfahren: Gutachten, MD/MDK, Schlichtungsstelle, Kasse, Behörde, Sozialgericht oder Zivilgericht richtig routen.
 5. Arbeitsprodukt: Gutachterfragen, Anspruchsschreiben, Klage, Widerspruch, Eilantrag, Abrechnungsprüfung oder Behördenantwort erstellen.
-6. AMTS Medikationsanalyse Beratungspflicht: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
+6. Beschwerdemanagement Patient Kunden: Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Beschwerdemanagement Patient Kunden | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Heimversorgung Versorgungsvertrag | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mietvertrag Apothekenstandort Konkurrenzschutz | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Substitution Rabattvertrag Aut-idem | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AMTS Medikationsanalyse Beratungspflicht | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Apothekenbetrieb Dokumentenintake | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Apothekenbetriebsordnung Grundpflichten | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Apothekenerlaubnis ApoG persönliche Voraussetzungen | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Apothekenrevision Vorbereitung Antwort | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Apothekenübliche Waren Abgrenzung | Befund, Indikation, Standard, Aufklärung, Dokumentation, Beweislast, Gutachtenfrage und Verfahren zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 280, Paragraf 823 und Paragraf 253: Schadensersatz, deliktische Haftung und Schmerzensgeld.
 - SGB V Paragraf 27, Paragraf 39, Paragraf 73, Paragraf 92 und Paragraf 135: Krankenbehandlung, Krankenhaus, Vertragsarzt und Methodenbewertung.
 - SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
-- SGB V Paragraf 360: E-Rezept-Pflicht seit 01.01.2024: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB V Paragraf 360 zur E-Rezept-Pflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 28 VwVfG: Anhörung vor belastendem VA: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 80 VwGO: Sofortvollzug und Widerspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 33 SGB XI: Pflegeheimbetreuung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 299a, 299b StGB: Antikorruption: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- StGB Paragrafen 299a, 299b: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 129 SGB V: Rahmenvertrag, Aut-idem-Substitution, Rabattvertragsregeln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

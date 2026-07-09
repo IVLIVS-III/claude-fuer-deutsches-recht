@@ -37,14 +37,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ### Kuratierte Normen-Bibliothek
 
 - § 4 KSchG
-- § 80 VwG
+- § 80 VwGO
 - § 86b SGG
-- § 74 VwG
-- § 124 VwG
+- § 74 VwGO
+- § 124 VwGO
 - § 64 ArbGG
 - § 72 ArbGG
-- § 132 VwG
-- § 123 VwG
+- § 132 VwGO
+- § 123 VwGO
 - § 103 SGG
 - § 151 SGG
 - § 66 ArbGG

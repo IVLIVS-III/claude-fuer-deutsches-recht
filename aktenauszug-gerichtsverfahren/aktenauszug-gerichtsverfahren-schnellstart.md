@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
 4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
 5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
-6. Akten: Mandantenkommunikation und Entscheidungsvorlage: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
+6. Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Akten: Mandantenkommunikation und Entscheidungsvorlage | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug Erstellen — Hauptworkflow | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenauszug — Strukturprüfung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrensidentifikation | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AkzG: Aktenauszug Bauleiter | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweismittel — Gegenüberstellung | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweismittel: Mehrparteienkonflikt und Interessenmatrix | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erstellen: Fristennotiz und nächster Schritt | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen und Terminkalender | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragrafen 128-134 ZPO — Schriftliches und mündliches Verfahren, Schriftsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 253-261 ZPO — Klageerhebung und Verfahrenseinleitung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 355-455 ZPO — Beweisaufnahme (Sachverständige, Zeugen, Augenschein, Urkunden): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 495a, 522, 540 ZPO — Vereinfachtes Verfahren, Berufungsverwerfung, Berufungsurteil: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 371 ff. ZPO — Augenscheinsbeweis (Besichtigung, Fotos, Videoaufnahmen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 373 ff. ZPO — Zeugenbeweis (Ladung, Vernehmung, Eid, Aussageverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 402 ff. ZPO — Sachverständigenbeweis (Bestellung, Gutachtenerstattung, Ablehnung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 415 ff. ZPO — Urkundenbeweis (öffentlich/privat, Echtheit, Beweiskraft): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

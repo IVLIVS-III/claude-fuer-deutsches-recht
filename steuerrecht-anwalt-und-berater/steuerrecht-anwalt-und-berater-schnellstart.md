@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
 4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
-6. Addison BWA-Konfiguration: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
+6. Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG): Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Addison BWA-Konfiguration | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht in Steuerakten | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aussenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG) | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Steuerrechtliche Fristen — der Überblick | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenbuch Steuerrecht | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GF-Haftung Paragraf 69 AO für nicht abgeführte Lohn-/Umsatzsteuer | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| GrESt: Asset Deal und Kaufvertrag | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,17 +52,16 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - AO Paragraf 88: Amtsermittlung.
 - AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
-- Paragraf 8 AO (Wohnsitz, Aufenthalt): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 42 AO (Gestaltungsmissbrauch): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 169-171 AO (Festsetzungsverjährung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 32b EStG — Progressionsvorbehalt für freigestellte ausländische Einkünfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 34c EStG — Anrechnung ausländischer Steuern, alternativ Abzug, Pauschalierung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 34d EStG — Definition ausländische Einkünfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 50d Abs. 8 EStG — Subject-to-Tax bei Arbeitseinkünften: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Addison BWA-Konfiguration, Akteneinsicht in Steuerakten, Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist, Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG), Steuerrechtliche Fristen — der Überblick, Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO, Fristenbuch Steuerrecht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 
 ## 8. Stop
 

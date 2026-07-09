@@ -163,7 +163,7 @@ Bevor losgelegt wird, klaere:
 - § 7 HRG
 - § 15 HRG
 - § 16 HRG
-- § 70 VwG
+- § 70 VwGO
 
 ### Leitentscheidungen
 

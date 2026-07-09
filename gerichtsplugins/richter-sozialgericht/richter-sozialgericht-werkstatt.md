@@ -58,7 +58,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | 01 Zulässigkeit Sozialklage | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB X Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Amtsermittlung Sozialgericht | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 03 Eilrechtsschutz Paragraf 86B | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -170,13 +170,13 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. 02 Amtsermittlung Sozialgericht
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. 03 Eilrechtsschutz Paragraf 86B
+### 15.2. 03 Eilrechtsschutz Paragraf 86B
 
 Einstweiliger Rechtsschutz Paragraf 86b SGG: Anordnung der aufschiebenden Wirkung Abs. 1, einstweilige Anordnung Abs. 2 (Anordnungsanspruch und -grund), Existenzsicherung in Eilfällen Werkstatt-Assistent für den Sozialrichter am Sozialgericht (Kammer mit zwei ehrenamtlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. 02 Amtsermittlung Sozialgericht
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. 04 Krankenversicherung Prüfung
 

@@ -170,7 +170,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines.append('3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.')
     lines.append('4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.')
     lines.append('')
-    return '\n'.join(lines) + '\n'
+    return '\n'.join(lines).rstrip() + '\n'
 
 
 def main() -> int:

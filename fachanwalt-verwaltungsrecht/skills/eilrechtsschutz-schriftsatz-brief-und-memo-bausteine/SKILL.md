@@ -39,17 +39,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ### Kuratierte Normen-Bibliothek
 
-- § 80 VwG
-- § 123 VwG
-- § 74 VwG
-- § 42 VwG
-- § 70 VwG
+- § 80 VwGO
+- § 123 VwGO
+- § 74 VwGO
+- § 42 VwGO
+- § 70 VwGO
 - § 28 VwVfG
 - § 52 GKG
-- § 68 VwG
-- § 146 VwG
-- § 47 VwG
-- § 106 VwG
+- § 68 VwGO
+- § 146 VwGO
+- § 47 VwGO
+- § 106 VwGO
 - § 55 VwVfG
 
 ### Leitentscheidungen

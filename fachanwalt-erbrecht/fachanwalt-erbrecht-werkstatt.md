@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anschluss-Routing | BGB Paragraf 1922 bis Paragraf 1936; BGH 12.07.2018 III ZR 183/17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich | BGB Paragraf 1922 bis Paragraf 1936; OLG Muenchen 14.04.2020 31 Wx 275/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 2064 bis Paragraf 2086 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Belegmatrix: Sonderfall und Edge-Case-Prüfung im Erbrecht: fachlich vertieftes | BGB Paragraf 2064 bis Paragraf 2086; BGH 12.07.2018 III ZR 183/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht | BGB Paragraf 2064 bis Paragraf 2086; BGH 12.10.2011 IV ZR 318/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Erbquotentabelle, Pflichtteilsrechnung, Auskunft, Erbscheinsantrag, Klage oder Auseinandersetzungsvergleich | Anspruchsteller für Verwandtschaft, Verfügung, Nachlasswert und Schenkung; Gegner für Erfüllung, Anrechnung, Ausgleichung und Ausschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,7 +69,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH 12.07.2018 III ZR 183/17 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
+| OLG Muenchen 14.04.2020 31 Wx 275/19 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
+| BGH 12.10.2011 IV ZR 318/13 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
+| BGH 23.05.2012 IV ZR 250/11 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
+| BGH 29.06.2016 IV ZR 387/15 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
+| BGH 16.04.2014 IV ZR 201/13 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Erbquotentabelle, Pflichtteilsrechnung, Auskunft, Erbscheinsantrag, Klage oder Auseinandersetzungsvergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -92,7 +96,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BGH 12.07.2018 III ZR 183/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- OLG Muenchen 14.04.2020 31 Wx 275/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 12.10.2011 IV ZR 318/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 23.05.2012 IV ZR 250/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 29.06.2016 IV ZR 387/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 16.04.2014 IV ZR 201/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster
 
@@ -142,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt Erbrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - berater-mehrparteien-konflikt-und-interessen — Berater Interessen Beweislast Darlegungslast. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Belegmatrix Sonderfall Edge Case
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Berater Mehrparteien Konflikt und Interessen
+### 15.1. BGB Fristen Form und Zuständigkeit
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. BGB Fristen Form und Zuständigkeit
+### 15.2. Chronologie Beweislast und Darlegungslast
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Chronologie Beweislast und Darlegungslast
+### 15.3. Erbrecht Tatbestand Beweis und Belege
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19
+
+Erbschein nennt A als Alleinerben; später taucht Testament für B auf. - Paragraf 2361 BGB - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO - OLG Muenchen 14.04.2020 31 Wx 275/19 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Nachlassinsolvenz Erbenhaftung Begrenzen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Digitaler Nachlass Facebook BGH Iii Zr 183 17
+### 15.6. Nachlassinsolvenz Paragraf 1980 BGB BGH Ix Zb 118 17
 
-Eltern verlangen Zugriff auf Facebook-Konto der verstorbenen Tochter; Plattform verweigert. - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO - BGH 12.07.2018 III ZR 183/17 — nur verwenden, wenn die Fundstelle über ein. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erbe verzoegert Nachlassinsolvenzantrag; Gläubiger erleidet Schaden. - Paragraf 1980 BGB - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO - Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Dokumentenintake
+### 15.7. Pflegevermaechtnis Paragraf 2057a BGB BGH Iv Zr 318 13
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tochter pflegte Mutter 6 Jahre; Geschwister wollen gleichen Erbanteil. - Paragraf 2057a BGB - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO - BGH 12.10.2011 IV ZR 318/13 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Ehegattentestament Bindungswirkung
-
-Prüfe Ehegattentestament Bindungswirkung von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 1922 Abs. 1 BGB - Paragraf 1937 BGB - Paragraf 1942 Abs. 1 BGB - Paragraf 1953. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Anwalts-Dashboard Fachanwalt Erbrecht
-
-] Erbfall, Pflichtteil, Erbschein, Erbengemeinschaft, Testament — Ausschlagungsfrist tickt ab Kenntnis. Wer beerbt wen, wann? ] ] Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Einstieg, Schnelltriage und Fallrouting
+### 15.8. Pflichtteilsergaenzung Frist Nächster Schritt
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Erbfolge-System einführend: gesetzliche Erbfolge Paragrafen 1924 ff
+### 15.9. Pflichtteilsergaenzung Zehnjahresfrist BGH Iv Zr 249 15
+
+Erblasser hat 4 Jahre vor Tod Immobilie an Sohn S verschenkt; Tochter T pflichtteilsberechtigt. - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO - BGH 23.05.2012 IV ZR 250/11 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Chronologie: Beweislast, Darlegungslast und Substantiierung
+
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-erbrecht. Ausgangspunkt ist: Plugin Fachanwalt für Erbrecht. BGB Erbrecht Paragrafen 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Erbrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-erbrecht. Ausgangspunkt ist: Plugin Fachanwalt für Erbrecht. BGB Erbrecht Paragrafen 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Pflichtteilsergaenzung: Fristennotiz und nächster Schritt
+
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-erbrecht. Ausgangspunkt ist: Plugin Fachanwalt für Erbrecht. BGB Erbrecht Paragrafen 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Testamentsvollstrecker Kontrolle Haftung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Erb Erbschaftsteuer Progressionsoptimierung Spezial
+### 15.14. Vor und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Erb Erstgespraech Checkliste
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Erb Internationales Erbrecht Spezial
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vorerbin V verkauft Immobilie aus Erbe; Nacherbe N widerspricht. - Paragraf 2113 BGB - Paragraf 1922 BGB - Paragraf 1937 BGB - Paragrafen 2303 ff. BGB - Paragrafen 2353 ff. BGB - Art. 21 EuErbVO - BGH 16.04.2014 IV ZR 201/13 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

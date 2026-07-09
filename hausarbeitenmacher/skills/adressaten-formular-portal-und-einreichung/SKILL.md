@@ -55,14 +55,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - § 242 StGB
 - § 24 StGB
 - § 263 StGB
-- § 40 VwG
+- § 40 VwGO
 - Art. 20 GG
 - § 22 StGB
 - Art. 5 GG
-- § 74 VwG
+- § 74 VwGO
 - § 15 StGB
 - § 211 StGB
-- § 70 VwG
+- § 70 VwGO
 
 ### Leitentscheidungen
 

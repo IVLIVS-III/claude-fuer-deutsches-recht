@@ -56,9 +56,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abrechnung GOÄ/GOZ und Erstattung | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Kassenaufsicht: Beschwerde und BMG/BAS | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB X Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Kassenwahl: Kündigung, Bindungsfrist und Wahltarif | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -97,14 +97,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - SGB V Paragraf 31 und Paragraf 35a: Arzneimittelversorgung und Nutzenbewertung bei neuen Wirkstoffen.
 - SGB V Paragraf 33: Hilfsmittelversorgung nach funktionellem Behinderungsausgleich.
 - SGB XI Paragraf 40 Absatz 4: wohnumfeldverbessernde Maßnahmen der Pflegekasse.
-- Paragraf 27 Abs. 1 SGB V – Anspruch auf Krankenbehandlung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 31 SGB V – Arznei- und Verbandmittel; Ausschlüsse: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 34 SGB V – Ausgeschlossene Arznei-, Heil- und Hilfsmittel (Lifestyle-Ausschluss: Paragraf 34 Abs. 1 Satz 7-8): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 35 SGB V – Festbetragsgruppen (Gemeinsamer Bundesausschuss): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 35a SGB V – Nutzenbewertung (AMNOG-Verfahren): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 92 SGB V – Arzneimittel-Richtlinie (AM-RL) des G-BA: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 2 AsylbLG – Analoge Leistungen nach SGB XII (nach 18 Monaten AsylbLG-Bezug): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 264 SGB V – Übernahme der Krankenbehandlung durch GKV-Kassen für AsylbLG-Berechtigte (auf kommunale Anfrage): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 87 SGB IV – Aufsicht über Sozialversicherungsträger: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 88 SGB IV – Maßnahmen der Aufsichtsbehörde: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 89 SGB IV – Verpflichtungsklage gegen Aufsichtsbehörde: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 90 SGB IV – Schließung von Krankenkassen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 175 SGB V – Ausübung des Kassenwahlrechts, Bindungsfrist, Kündigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 53 SGB V – Wahltarife: Selbstbehalt, Beitragsrückgewähr, Kostenerstattung, Tarifsonderbedingungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 173 SGB V – Wahlrecht, offene Kassen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 174 SGB V – Einschränkungen des Wahlrechts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -113,9 +113,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
 - BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R: Unterkunftskosten sind am konkreten Bedarf und an einem schlüssigen Konzept zu messen.
 - BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R: sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen.
-- BGH III ZR 17/18 (GOÄ-Abrechnung, Steigerungsfaktor), BGH III ZR 62/18
-- BVerfG 1 BvR 2084/05 (GOÄ und PKV-Erstattung)
-- BVerfG 1 BvR 100/15 – Verfassungsbeschwerde Doppelverbeitragung (abgewiesen; aber Reform eingeleitet)
+- BGH IV ZR 91/14 (Anzeigepflichtverletzung, Kausalität), BGH IV ZR 311/14
 
 ## 9. Prüfraster
 
@@ -166,58 +164,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abrechnung GOÄ/GOZ und Erstattung
+### 15.1. Kassenaufsicht: Beschwerde und BMG/BAS
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung
+### 15.2. Kassenwahl: Kündigung, Bindungsfrist und Wahltarif
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Asylbewerberleistungsgesetz und Gesundheitsversorgung
+### 15.3. Kaltstart: Krankenversicherung – Bescheid, Rechnung und Frist
+
+Steuert den Erstkontakt mit einem Krankenversicherungsproblem. Er stellt sicher, dass vor jeder inhaltlichen Prüfung die operativen Grundfragen geklärt sind: Wer ist betroffen, welches Dokument liegt vor, welche Frist läuft und was muss heute entschieden werden. Erst danach. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Klagebegründung Sozialgericht: Gesundheitsakte
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Auslandsbehandlung: EU, S2-Formular und Notfall
+### 15.5. PKV-Ombudsmann und Beschwerdestrategie
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Beamtenanfänger: Pauschale Beihilfe, Ländercheck
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Beitragsbemessung: Kapitalauszahlung und Betriebsrente
+### 15.6. PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Beitragsschuld, Säumniszuschlag und Ruhen der Leistung
+### 15.7. Untätigkeitsklage, Krankenkasse und Akteneinsicht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Betriebliche Krankenversicherung und Datenschutz
+### 15.8. Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber
+### 15.9. Krankenversicherung: Long Covid Post Vac und Beweisprobleme
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Long Covid Post Vac und Beweisprobleme im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung
+### 15.10. Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Kassenwahl Kündigung Bindungsfrist Wahltarif im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Eilverfahren Sozialgericht: Medizinische Dringlichkeit
+### 15.11. Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Widerspruch gegen Leistungsablehnung Frist und Begründung im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Elektronische Patientenakte: Zugriffsrechte
+### 15.12. Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Untätigkeitsklage Krankenkasse und Akteneinsicht im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Erstattungsstreit zwischen Leistungsträgern
+### 15.13. Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Familienversicherung: Einkommensgrenze und Minijob
+### 15.14. Krankenversicherung: Selbstständige Mindestbeitrag und Einkommensteuerbescheid
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill bearbeitet Selbstständige Mindestbeitrag und Einkommensteuerbescheid im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

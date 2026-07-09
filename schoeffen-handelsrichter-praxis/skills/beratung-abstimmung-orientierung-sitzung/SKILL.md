@@ -38,6 +38,6 @@ description: "Wenn es um Beratung und Abstimmung in Schöffen und Handelsrichter
 
 Konkret zu prüfen:
 
-- § 263 StPO (Geheimhaltung)
-- § 43 DRiG (Eid)
+- StPO Paragraf 263 (Mehrheitserfordernisse bei Schuld- und Rechtsfolgenfragen)
+- DRiG Paragraf 43 (Beratungsgeheimnis)
 - § 45 DRiG

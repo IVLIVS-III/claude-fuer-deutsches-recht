@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen.
 4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
-6. Abstand Quellenkarte: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
+6. Alkohol und Drogen — Paragraf 24a StVG: Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abstand Quellenkarte | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Akteneinsicht: Internationaler Bezug und Schnittstellen | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alkohol: Compliance-Dokumentation und Aktenvermerk | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Alkohol und Drogen — Paragraf 24a StVG | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| VerkehrsOWi-Verteidiger — Allgemein | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Standardisiertes Messverfahren und Beweisverwertung | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,16 +52,18 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 49 OWiG i.V.m. Paragraf 147 StPO umfassend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 316 StGB — Trunkenheitsfahrt: BAK ab 1.1 Promille (absolute Fahruntauglichkeit) oder ab 0.3 Promille mit Ausfallerscheinungen (relative Fahruntauglichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 315c StGB — Gefährdung des Strassenverkehrs unter Alkohol: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 81a StPO — Blutentnahme durch Arzt; richterlicher Anordnungsvorbehalt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
+- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Recht des Betroffenen auf Zugang zu vorhandenen Mess- und Begleitdaten als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Pflicht zur Speicherung von Rohmessdaten beim standardisierten Verfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abstand Quellenkarte, Akteneinsicht: Internationaler Bezug und Schnittstellen, Alkohol: Compliance-Dokumentation und Aktenvermerk, Alkohol und Drogen — Paragraf 24a StVG: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Alkohol und Drogen — Paragraf 24a StVG, Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage, Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg, VerkehrsOWi-Verteidiger — Allgemein: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

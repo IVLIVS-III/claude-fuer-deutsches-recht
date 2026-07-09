@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abgabe der Willenserklärung — Tatbestand und Zeitpunkt | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 | BGB Paragraf 104 bis Paragraf 185; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -80,14 +80,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- Paragraf 130 BGB: Zugang unter Abwesenden; Wirksamkeit der Willenserklärung ab Zugang: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 116 ff. BGB: Allgemeine Vorschriften zur Willenserklärung und ihren Mängeln: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 120 BGB: Haftung bei Übermittlungsfehlern durch Boten oder Übermittlungseinrichtung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 164 BGB: Handeln im fremden Namen; abzugrenzen vom Boten ohne eigene Willenserklärung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB: Treu und Glauben — Empfänger kann sich nicht auf Nichtzugang berufen, wenn er ihn vereitelt hat: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 291 bis 302 StGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 305 Abs. 1 BGB: Definiton der AGB als einseitig gestellte Vertragsbedingungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 305 Abs. 2 BGB: Einbeziehungsvoraussetzungen — Hinweis und Kenntnisnahmemöglichkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 119 BGB: Irrtumsanfechtungsgrundlage für Paragraf 121 BGB-Frist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 123 BGB: Anfechtungsgrundlage für Paragraf 124 BGB-Frist: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 130 BGB: Zugang der Anfechtungserklärung als Zeitpunkt für Fristwahrung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 121 BGB (unverzüglich nach Kenntnis): Grundsätzlich gilt eine kurze Zeitspanne von einigen Tagen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 124 BGB (bei Paragrafen 123 und 124 BGB): Ein Jahr ab Entdeckung der Täuschung oder Ende der Zwangslage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +141,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abgabe der Willenserklärung — Tatbestand und Zeitpunkt
-
-Mandant verschickt eine Kündigung per E-Mail, zieht sie kurz danach zurück — war die Erklärung schon abgegeben? - Arbeitgeber beauftragt einen Boten mit der Übermittlung eines Vertragsangebots; Bote verliert den Brief — Abgabe oder nicht? - Klausurkonstellation. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB
-
-Prüft AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln Paragraf 305c BGB, Inhaltskontrolle Paragrafen 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette. Arbeite. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Agb Einbeziehung Schnittstelle Paragraphen 305 310
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Amtlicher BGB/ZPO-Normcheck
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB
-
-Mandant hat Vertrag geschlossen und bemerkt nachträglich einen Irrtum über eine wesentliche Eigenschaft der Kaufsache — Anfechtung nach Paragraf 119 Abs. 2 BGB? - Käufer wurde durch arglistige Täuschung zum Vertragsschluss bewogen — Paragraf 123 Abs. 1 Alt. 1 BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung
-
-Student hat in einer Probeklausur die Anfechtung vor der Auslegung geprüft und Punkte verloren — wie ist die richtige Reihenfolge? - Mandant möchte anfechten, weil er die Erklärung falsch formuliert hat — reicht ergänzende Auslegung? - Klausurkonstellation: Partei behauptet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Anfechtungsfolgen — Paragrafen 142 und 122 BGB
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Anfechtungsfolgen Paragraphen 142. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB
+### 15.1. Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB
 
 Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach Paragraf 121 BGB (unverzüglich) und bei arglistiger Täuschung nach Paragraf 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach Paragraf 144 BGB als Ausschlussgrund. Arbeite entlang dieser. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB
+### 15.2. Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB
 
 Mandant erhält ein schriftliches Angebot und antwortet nach drei Wochen — ist der Vertrag zustande gekommen? - Käufer nimmt Angebot rechtzeitig an, Annahmeerklärung geht aber wegen Poststreiks verspätet ein. - Klausurkonstellation: Antragende Seite zeigt Verspätung nicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil
-
-Student der Rechtswissenschaften bereitet Examen vor und sucht eine klare Aufbaustruktur für BGB-AT-Klausurfälle. - Mandant schildert komplexen Sachverhalt — welche Ansprüche kommen in Betracht, in welcher Reihenfolge prüfen? - Klausurkonstellation: Sachverhalt mit mehreren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Auslegung von Willenserklärungen und Verträgen — Paragrafen 133 und 157 BGB
-
-Mandant und Vertragspartner streiten über Bedeutung eines Vertragsbegriffs — was war der gemeinsame Wille? - Kaufvertrag über 'Haakjöringsköd': falsa demonstratio non nocet — der wirkliche gemeinsame Wille zählt. - Klausurkonstellation: Schweigen oder unklare Formulierung —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Bedingung und Befristung — Paragrafen 158 bis 163 BGB
+### 15.3. Bedingung und Befristung — Paragrafen 158 bis 163 BGB
 
 Mandant schließt Kaufvertrag unter der Bedingung, dass er seinen alten Wagen verkauft — Wirkung bei Eintritt oder Ausbleiben der Bedingung? - Vertragspartei vereitelt arglistig den Bedingungseintritt — Paragraf 162 BGB Rechtsfolge? - Klausurkonstellation: Vertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Anfechtung erst nach Auslegung
+### 15.4. Cic Vorvertragliche Pflichten Schnittstelle
 
-Dieser Skill führt nicht schematisch durch Anfechtung erst nach Auslegung, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. - Objektiven Erklärungsinhalt nach Paragrafen 133, 157. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mandant hat auf Grund falscher Angaben des Vertragspartners in Verhandlungen einen nachteiligen Vertrag geschlossen — cic-Anspruch? - Verhandlungen wurden kurz vor Abschluss abgebrochen — kann Mandant Aufwendungsersatz fordern? - Klausurkonstellation. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Ergänzende Vertragsauslegung — Paragrafen 133 und 157 BGB
+
+Langzeitvertrag schweigt zur Preisanpassung bei außergewöhnlicher Kostenentwicklung — ergänzende Auslegung? - Partnerschaftsvertrag enthält keine Regelung zur Kündigung — lückenlos ausgelegt oder gesetzliche Norm? - Klausurkonstellation: AGB-Klausel ist unwirksam (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Fristenberechnung — Paragrafen 186 bis 193 BGB
+
+Mandant fragt, ob seine Anfechtungserklärung vom letzten Freitag noch rechtzeitig war. - Verjährungsfrist endet auf einen Sonntag — verlängert sich die Frist nach Paragraf 193 BGB? - Klausurkonstellation: Angebotsfrist von zwei Wochen — konkreter Anfang und Ende berechnen. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Vertragsschluss — Antrag und Annahme Paragrafen 145 bis 156 BGB
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Abgabe der Willenserklärung — Tatbestand und Zeitpunkt
+
+Mandant verschickt eine Kündigung per E-Mail, zieht sie kurz danach zurück — war die Erklärung schon abgegeben? - Arbeitgeber beauftragt einen Boten mit der Übermittlung eines Vertragsangebots; Bote verliert den Brief — Abgabe oder nicht? - Klausurkonstellation. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB
+
+Prüft AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln Paragraf 305c BGB, Inhaltskontrolle Paragrafen 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette. Arbeite. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Agb Einbeziehung Schnittstelle Paragraphen 305 310
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Amtlicher BGB/ZPO-Normcheck
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Anfechtung — Routing und Gesamtprüfung Paragrafen 119 bis 124 BGB
+
+Mandant hat Vertrag geschlossen und bemerkt nachträglich einen Irrtum über eine wesentliche Eigenschaft der Kaufsache — Anfechtung nach Paragraf 119 Abs. 2 BGB? - Käufer wurde durch arglistige Täuschung zum Vertragsschluss bewogen — Paragraf 123 Abs. 1 Alt. 1 BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung
+
+Student hat in einer Probeklausur die Anfechtung vor der Auslegung geprüft und Punkte verloren — wie ist die richtige Reihenfolge? - Mandant möchte anfechten, weil er die Erklärung falsch formuliert hat — reicht ergänzende Auslegung? - Klausurkonstellation: Partei behauptet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Anfechtungsfolgen — Paragrafen 142 und 122 BGB
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Anfechtungsfolgen Paragraphen 142. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

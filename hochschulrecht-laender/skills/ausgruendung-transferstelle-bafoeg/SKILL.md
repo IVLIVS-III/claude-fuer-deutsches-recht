@@ -95,8 +95,8 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ### Kuratierte Normen-Bibliothek
 
-- § 123 VwG
-- § 70 VwG
+- § 123 VwGO
+- § 70 VwGO
 - § 4 HRG
 - § 15 HRG
 - § 16 HRG

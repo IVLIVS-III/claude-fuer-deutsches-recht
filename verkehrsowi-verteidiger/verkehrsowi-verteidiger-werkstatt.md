@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abstand Quellenkarte | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Alkohol und Drogen — Paragraf 24a StVG | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Akteneinsicht: Internationaler Bezug und Schnittstellen | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Paragraf 49 OWiG i.V.m. Paragraf 147 StPO umfassend | Paragraf 49 OWiG i.V.m. Paragraf 147 StPO umfassend | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| Paragraf 24a Abs. 1a StVG | THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274) | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
-- Paragraf 49 OWiG i.V.m. Paragraf 147 StPO umfassend: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 316 StGB — Trunkenheitsfahrt: BAK ab 1.1 Promille (absolute Fahruntauglichkeit) oder ab 0.3 Promille mit Ausfallerscheinungen (relative Fahruntauglichkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 315c StGB — Gefährdung des Strassenverkehrs unter Alkohol: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 81a StPO — Blutentnahme durch Arzt; richterlicher Anordnungsvorbehalt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 69 Abs. 2 StGB — Regelungeeignetheit bei Paragraf 316 StGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 316 StGB: Trunkenheit (analog auch Drogen) bei relativer / absoluter Fahruntuechtigkeit; Drogen: regelmäßig Wirkstoffspiegel + Ausfallerscheinungen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 315c I Nr. 1a StGB: Gefährdung StraVerkehr bei Drogen + konkrete Gefahr für Leib / Leben / fremde Sachen erheblichen Werts: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 33 OWiG i.V.m. Paragrafen 177-182 ZPO — Zustellungsvorschriften: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 71 OWiG i.V.m. Paragraf 261 StPO — Freie Beweiswürdigung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 103 Abs. 1 GG — Rechtliches Gehoer: Betroffener muss Beweise angreifen können: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,6 +101,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken und Widersprüche offenlassen.
 - BVerfG, Beschluss vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 28.11.2018 - 5 StR 566/18: Strafzumessung muss schuldangemessen begründet werden.
+- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Recht des Betroffenen auf Zugang zu vorhandenen Mess- und Begleitdaten als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Pflicht zur Speicherung von Rohmessdaten beim standardisierten Verfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle
 
 ## 9. Prüfraster
 
@@ -150,58 +152,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abstand Quellenkarte
-
-Diese Quellenkarte sichert im Bereich Verkehrsowi Verteidiger tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab. - alkohol-drogen-beweisverwertung-standardisiert-verkehrsowi - allgemein-workflow-chronologie-workflow-fristen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Akteneinsicht: Internationaler Bezug und Schnittstellen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Alkohol: Compliance-Dokumentation und Aktenvermerk
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Alkohol und Drogen — Paragraf 24a StVG
+### 15.1. Alkohol und Drogen — Paragraf 24a StVG
 
 Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: Paragraf 24a Abs. 1 StVG (0.5-Promille-Grenze), Paragraf 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), Paragraf 81a StPO (Blutprobe). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.2. Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Dokumentenintake
+### 15.3. Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill ist ein konkreter Fachbaustein für verkehrsowi-verteidiger. Ausgangspunkt ist: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Drogen: Mehrparteienkonflikt und Interessenmatrix
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Einstieg und Routing
-
-Dieser Einstieg routet Verkehrsowi Verteidiger vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - abstand-quellenkarte — Abstand Quellenkarte - akteneinsicht-internationaler-bezug-und-schnittstellen — Akteneinsicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Fahrverbot: Behörden-, Gerichts- oder Registerweg
+### 15.4. VerkehrsOWi-Verteidiger — Allgemein
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Geschwindigkeit: Verhandlung, Vergleich und Eskalation
+### 15.5. Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhörungsbogen oder Bußgeldbescheid erhalten. Normen: Paragraf 55 OWiG (Anhörung, Schweigerecht), Paragraf 66 OWiG (Pflichtinhalt Bußgeldbescheid), Paragraf 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Standardisiertes Messverfahren und Beweisverwertung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Einspruchsfrist und Einspruch — Paragraf 67 OWiG
+
+Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: Paragraf 67 OWiG (Einspruch 2 Wochen ab Zustellung), Paragrafen 33 OWiG, 177-182 ZPO (Zustellungsfiktion), Paragraf 52 OWiG (Wiedereinsetzung), Paragraf 74 OWiG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Rechtsbeschwerde im OWi-Verfahren — Paragraf 79 OWiG
+
+Rechtsbeschwerde im OWi-Verfahren nach Paragraf 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: Paragraf 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), Paragraf 80 OWiG (Zulassungsbeschwerde), Paragraf 344 StPO i.V.m. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Verteidiger: Beweislast, Darlegungslast und Substantiierung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. VOWi: Bussgeldbescheid-Prüfung
+
+Bauleiter Prüfung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Höhe, Rechtsfolgen Punkte und Fahrverbot. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. VOWi: Tempomessverfahren
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Akteneinsicht: Internationaler Bezug und Schnittstellen
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Alkohol: Compliance-Dokumentation und Aktenvermerk
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

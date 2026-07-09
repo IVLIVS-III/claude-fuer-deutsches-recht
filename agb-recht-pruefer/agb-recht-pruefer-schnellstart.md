@@ -22,14 +22,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
 4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
 5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
-6. Abmahnung Reagieren: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
+6. Agb Anwaltsvertrag und Allg Mandatsbedingungen: Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis; BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter |
+| Rechtsprechung | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung; BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) |
 | Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
 | Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abmahnung Reagieren | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abnahme Testing | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abtretung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adversarial Test AGB | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Änderungsvorbehalt 308 | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Agb Anwaltsvertrag und Allg Mandatsbedingungen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Formulararbeitsvertrag | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb für Vereinsausschluss und Haftung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb Haftung Erfüllungsgehilfen | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb im Arbeitsvertrag 310 Abs 4 Vertieft | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agb im Bankvertrag Sparkassen und Banken | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- 1. Normenstand sichern: Vor tragenden Aussagen BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 305-310 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragrafen 43, 49b zur Honorarvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 305 BGB (Einbeziehung von AGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305c BGB (überraschende und mehrdeutige Klauseln): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH I ZR 186/17 zur Reichweite der Verbandsklagebefugnis bei Datenschutz-/UWG-Verstößen
-- BGH I ZR 7/16 (Planet49) zu Cookie-Einwilligung und transparenter Nutzerentscheidung
+- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung
 - BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
+- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
 
 ## 7. Antwortform
 

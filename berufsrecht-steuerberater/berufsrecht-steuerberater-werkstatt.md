@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenführung | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beschwerdemanagement | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AO Paragraf 88 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Steuerberater: angestellter steuerberater nebentaetigkeit | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristen- und Zuständigkeitscockpit | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -89,8 +89,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 153 AO — Berichtigungspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 370 AO — Steuerhinterziehung als Risikogrenze: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 203 Abs. 1 Nr. 3 StGB — Verschwiegenheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 392 ff. AO (Steuerberater-Bevollmächtigung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 203 StGB (Schweigepflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -99,9 +97,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BFH, Urteil vom 21.06.2012 - V R 20/11: Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug.
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 - EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11: Mahageben und David begrenzen überzogene Nachweispflichten beim Vorsteuerabzug.
-- BFH, Urteil vom 23.02.2010 - VII R 24/09 (Fachberater-Bezeichnung und Paragraf 43 StBerG)
-- BVerfG, Beschluss vom 26.10.2004 - 1 BvR 981/00 (Steuerberaterwerbung und Art. 12 GG)
-- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (drittschützende Beraterhaftung bei Insolvenzreifeprüfung)
 
 ## 9. Prüfraster
 
@@ -151,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenführung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Angestellter Nebentaetigkeit
+### 15.1. Beschwerdemanagement
 
 Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Angestellter Steuerberater Nebentaetigkeit Kaltst
+### 15.2. Fristen- und Zuständigkeitscockpit
 
 Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Angestellter Steuerberater Nebentaetigkeit Kammer
+### 15.3. Fristenkontrolle
+
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Honorar, Gebühren und Vergütung
+
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Kammerbeschwerde Organisationspflic Ki
+
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Kammerbeschwerde Steuerberater Kammerantwort
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Angestellter Steuerberater Nebentaetigkeit Rechtsprechungscheck
+### 15.7. Kammerbeschwerde Steuerberater Rechtsprechungsche
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Auslagerung An Freie
-
-Normenanker: StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren. - Institutionen: Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden. - Spezialspur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Auslagerung An Freie Mitarbeiter Kammerantwort
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Auslagerung An Freie Mitarbeiter Organisationspfl
+### 15.8. Lohnbuchhaltung Fristenversäumnis
 
 Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Auslagerung An Freie Mitarbeiter Rechtsprechungsc
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Auslandsmandant Steuerdaten
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Auslandsmandant Steuerdaten Faktenmatrix
-
-Normenanker: StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren. - Institutionen: Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden. - Spezialspur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Auslandsmandant und Steuerdaten Organisationspflicht
+### 15.9. Lohnbuchhaltung Fristenversäumnis Organisationsp
 
 Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Auslandsmandant und Steuerdaten Rechtsprechungscheck
+### 15.10. Lohnbuchhaltung Fristenversäumnis Rechtsprechung
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Belegvernichtung Aufbewahrung F
+### 15.11. Mandatskündigung Vor Frist Kammerantwort und Ver
 
-Normenanker: StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren. - Institutionen: Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden. - Spezialspur. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Mandatskündigung Vor Frist Organisationspflicht
+
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Mandatskündigung Vor Frist Rechtsprechungscheck
+
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Qualitätsmanagement Fristen Organisationspflicht
+
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. - Paragraf 80 AO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

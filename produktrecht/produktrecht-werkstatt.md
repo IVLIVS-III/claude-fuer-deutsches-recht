@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | /anpassen | ProdHaftG Paragraf 1; BGH, Urteil vom 16.06.2009 - VI ZR 107/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristen- und Risikoampel | ProdHaftG Paragraf 1; BGH, Urteil vom 16.06.2009 - VI ZR 107/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ProdHaftG Paragraf 3 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Produktrecht — Allgemein | ProdHaftG Paragraf 3; BGH, Urteil vom 05.02.2013 - VI ZR 1/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Greenwashing-Verteidigung | ProdHaftG Paragraf 3; BGH, Urteil vom 05.02.2013 - VI ZR 1/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | GPSR Artikel 5 | allgemeine Sicherheitsanforderung | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 | GPSR Artikel 9 und Artikel 14 | Hersteller- und Händlerpflichten | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 | BGB Paragraf 823 Absatz 1 | deliktische Produzentenhaftung | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
-| Paragrafen 312 ff. BGB (Verbraucherschutzrecht, Informationspflichten) — | Paragrafen 1-4 ProdHaftG (Produkthaftung) — Paragrafen 3, 3a UWG (Wettbewerbsrecht | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
+| Paragraf 12 ProdHaftG Verjährung | 3 Jahre kenntnisabhängig (Verletzung, Schaden, Hersteller); Paragraf 13 ProdHaftG: 10 Jahre absolute | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -83,14 +83,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GPSR Artikel 5: allgemeine Sicherheitsanforderung.
 - GPSR Artikel 9 und Artikel 14: Hersteller- und Händlerpflichten.
 - BGB Paragraf 823 Absatz 1: deliktische Produzentenhaftung.
-- Paragrafen 312 ff. BGB (Verbraucherschutzrecht, Informationspflichten) — Paragrafen 1-4 ProdHaftG (Produkthaftung) — Paragrafen 3, 3a UWG (Wettbewerbsrecht, Marktverhaltensregel) —: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1-4 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 ProdHaftG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1353 Abs. 1 BGB — eheliche Lebensgemeinschaft. - Paragraf 1360 BGB — Familienunterhalt. - Paragraf 1565 Abs. 1 BGB — Scheidung. - Paragraf 1570 BGB — Betreuungsunterhalt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1353 Abs. 1 BGB — eheliche Lebensgemeinschaft: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1360 BGB — Familienunterhalt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1565 Abs. 1 BGB — Scheidung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1570 BGB — Betreuungsunterhalt: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 12 ProdHaftG Verjährung: 3 Jahre kenntnisabhängig (Verletzung, Schaden, Hersteller); Paragraf 13 ProdHaftG: 10 Jahre absolute Erlöschen ab Inverkehrbringen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 9 ProdSG Meldepflicht: Unverzüglich bei Kenntnis von Risiko an BAuA über Safety Business Gateway; Verstoß Paragraf 39 ProdSG bis 100.000 EUR Bußgeld: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -146,58 +146,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. /anpassen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Produktrecht — Allgemein
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Bewertungen: Behörden-, Gerichts- oder Registerweg
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. CE-Kennzeichnung Routenplan
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Chronologie: Red-Team und Qualitätskontrolle
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Dual-Use im Produktrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Einstieg und Routing
-
-Dieser Einstieg routet Produktrecht vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - anpassen — Anpassen - anschluss-router — Anschluss Router - belegmatrix-mandantenkommunikation-entscheidungsvorlage —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. EU Produktsicherheitsverordnung Feature
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Feature-Risikobewertung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Fristen- und Risikoampel
+### 15.1. Fristen- und Risikoampel
 
 Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich produktrecht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Impressumspflicht (Paragrafen 5. 6 DDG, Paragraf 18 MStV)
+### 15.2. Greenwashing-Verteidigung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Impressumspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.3. ProdR: Produkthaftung Bauleiter
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Produkthaftung für Software und digitale Komponenten
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Produktsicherheit GPSR richtig routen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Produkthaftung: Reparatur, Update und Lifecycle
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Produktlaunch: Beweislast, Darlegungslast und Substantiierung
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Review: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. /anpassen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Produktrecht — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. CE-Kennzeichnung Routenplan
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

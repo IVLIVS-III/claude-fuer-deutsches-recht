@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen | UrhG Paragraf 87a; EuGH, Urteil vom 09.11.2004 - C-203/02 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | UrhG Paragraf 87a; EuGH, Urteil vom 09.11.2004 - C-203/02 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 87b | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung | UrhG Paragraf 87b; EuGH, Urteil vom 09.10.2008 - C-304/07 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit | UrhG Paragraf 87b; EuGH, Urteil vom 09.10.2008 - C-304/07 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | UrhG Paragraf 44b | Text- und Data-Mining als Schranke mit Nutzungsvorbehalt | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
 | GeschGehG Paragraf 2 und Paragraf 4 | Geschäftsgeheimnis und rechtswidrige Erlangung | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
 | BGB Paragraf 307 | AGB-Kontrolle von API-, Plattform- und Datenklauseln | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
-| Paragraf 87a Abs. 2 UrhG | Herstellereigenschaft des Abmahnenden — muss er Inhaber des Rechts sein? | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
+| Paragraf 280 Abs. 1 BGB | Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -84,14 +84,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - UrhG Paragraf 44b: Text- und Data-Mining als Schranke mit Nutzungsvorbehalt.
 - GeschGehG Paragraf 2 und Paragraf 4: Geschäftsgeheimnis und rechtswidrige Erlangung.
 - BGB Paragraf 307: AGB-Kontrolle von API-, Plattform- und Datenklauseln.
-- Paragraf 87a Abs. 2 UrhG: Herstellereigenschaft des Abmahnenden — muss er Inhaber des Rechts sein?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87b UrhG: Verletzungstatbestand — ist eine Entnahme wesentlicher Teile tatsächlich nachweisbar?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 87c UrhG: Erlaubte Handlungen als Einwand gegen Abmahnung (z. B. TDM-Schranke, rechtmäßige Nutzung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 97a Abs. 4 UrhG: Kostenerstattung bei unberechtigter Abmahnung — Gegenanspruch des Abgemahnten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 102 UrhG: Verjährung — 3 Jahre ab Kenntnis von Verletzung und Verletzer: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 339 BGB: Vertragsstrafe in der Unterlassungserklärung — Höhe auf Verhältnismäßigkeit prüfen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB: Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 97 UrhG: Unterlassung und Schadensersatz bei Urheberrechtsverletzung — Lizenzanalogie als Berechnungsmethode: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 97a UrhG: Abmahnung als Voraussetzung für Erstattung von Rechtsanwaltsgebühren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 87a-87e UrhG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: Inhaltskontrolle — Klausel unwirksam bei unangemessener Benachteiligung oder fehlender Transparenz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO: Freie Beweiswürdigung — technische Protokolle und Abruflauf-Ergebnisse als Augenscheinsbeweis verwertbar: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -148,58 +148,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen
-
-Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (Paragraf 87a Abs. 2 UrhG), Verletzungstatbestand (Paragraf 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (Paragraf 339 BGB). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
+### 15.1. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit
+### 15.2. Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — Paragraf 97a UrhG
+### 15.3. Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke
+
+Datenbankrecht im Urhebervertragsrecht: Paragrafen 31-44 UrhG für Datenbankwerke (Paragraf 4 Abs. 2 UrhG) — Einräumung und Rückruf von Nutzungsrechten, angemessene Vergütung (Paragraf 32 UrhG), Bestseller-Klausel (Paragraf 32a UrhG) und Verlagsrecht. Abgrenzung zur Übertragung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern
+
+Haftung und Gewährleistung für Datenbankqualität: Paragrafen 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (Paragraf 823 BGB) bei falschen Einträgen, Datenschutz-Grundverordnung-Berichtigungspflichten (Art. 16 Datenschutz-Grundverordnung). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch
+
+Dieser Skill bearbeitet API-Nutzung Rate Limits und Vertragsbruch im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Datenbankrecht: Preisvergleich-Abrufwerkzeuge und Plattformvertrag
+
+Dieser Skill bearbeitet Preisvergleich-Abrufwerkzeuge und Plattformvertrag im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag
+
+Dieser Skill bearbeitet Lizenzanalogie und Unterlassungsvertrag im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Datenbankrecht: Datenbankrecht und Urhebervertragsrecht
+
+Dieser Skill bearbeitet Datenbankrecht und Urhebervertragsrecht im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Datenbankrecht: Datenqualität Haftung und Gewährleistung
+
+Dieser Skill bearbeitet Datenqualität Haftung und Gewährleistung im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug
+
+Dieser Skill bearbeitet Beweissicherung durch Testabruf-Werkzeug im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
+
+Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach Paragraf 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach Paragraf 339 BGB) als Alternative zur Klage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen
+
+Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (Paragraf 87a Abs. 2 UrhG), Verletzungstatbestand (Paragraf 87b UrhG), Vollständigkeitscheck der Unterlassungserklärung, Verjährung, Vertragsstrafe-Angemessenheit (Paragraf 339 BGB). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht
-
-Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu Paragrafen 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber
+### 15.14. Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Datenbank
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot
-
-Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: Paragraf 87b UrhG bei Datenexport, GeschGehG Paragraf 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (Paragraf 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Datenbankherstellerrecht: Wesentliche Investition nachweisen
-
-Analysiert das sui-generis-Datenbankherstellerrecht nach Paragrafen 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

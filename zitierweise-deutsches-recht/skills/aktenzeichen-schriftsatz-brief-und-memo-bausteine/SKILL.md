@@ -59,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ### Kuratierte Normen-Bibliothek
 
 - § 51 UrhG
-- § 117 VwG
+- § 117 VwGO
 - § 1 GVG
 - § 63 UrhG
 - § 97 UrhG

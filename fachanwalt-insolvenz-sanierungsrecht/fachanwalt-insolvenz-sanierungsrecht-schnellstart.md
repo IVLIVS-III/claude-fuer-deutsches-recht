@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Absonderungsrecht Paragraf 50 InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16 | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenz- und Sanierungsrecht: fachlich vertieftes. | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berater: Red-Team und Qualitätskontrolle im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul. | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eigenverwaltung Schutzschirm Paragraf 270b InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anfechtungsklage des Insolvenzverwalters | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 6 InsO (Sofortige Beschwerde) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen. | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -64,7 +64,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Absonderungsrecht Paragraf 50 InsO, Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16, Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, Anschluss-Routing: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Absonderungsrecht Paragraf 50 InsO, Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16, Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, Eigenverwaltung Schutzschirm Paragraf 270b InsO: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
 
 ## 8. Stop
 

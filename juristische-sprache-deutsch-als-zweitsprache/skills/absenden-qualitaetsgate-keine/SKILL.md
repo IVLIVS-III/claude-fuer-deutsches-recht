@@ -55,8 +55,8 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 - § 185 GVG
 - § 4 KSchG
-- § 70 VwG
-- § 74 VwG
+- § 70 VwGO
+- § 74 VwGO
 - § 55 OWiG
 - § 59 StGB
 - § 187 GVG

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Regulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Berufsausübungsgesellschaft | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Aktenführung | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anwälte: beschwerde bei rechtsanwaltskammer - Kammerantwort | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VwGO Paragraf 42 | Anfechtungs- und Verpflichtungsklage | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 80 Absatz 5 | Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 | VwGO Paragraf 123 | einstweilige Anordnung | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
-| Paragraf 43 BRAO (allgemeine Berufspflicht) | Paragraf 43 BRAO (allgemeine Berufspflicht) | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Paragraf 43 BRAO | allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
 - VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
 - VwGO Paragraf 123: einstweilige Anordnung.
-- Paragraf 43 BRAO (allgemeine Berufspflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43a BRAO (Grundpflichten – Sachlichkeit, Verschwiegenheit, Interessenkollision): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 113 ff. BRAO (anwaltsgerichtliches Verfahren): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 675 BGB i.V.m. Paragraf 667 BGB (Herausgabepflicht): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 73 BRAO (Aufgaben der Kammer): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 76 BRAO (Vorstand): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 113 ff. BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 60-91 BRAO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — allgemeine Berufspflicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 2 BRAO — Verschwiegenheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 4 BRAO — Interessenkollision: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 49b BRAO — Vergütungsrechtliche Grenzen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 50 BRAO — Handakten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 4 RVG — Vergütungsvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 10 RVG — Abrechnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. europäischer Technikregulierungsrahmen-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz
+### 15.1. Berufsausübungsgesellschaft
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Aktenführung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Aktenherausgabe und Zurückbehaltung Kammerantwort
+### 15.2. Beschwerde bei Rechtsanwaltskammer Kammerantwort und V
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Aktenherausgabe und Zurückbehaltung Organisationspflicht
+### 15.3. Beschwerde bei Rechtsanwaltskammer Organisationspflich
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Aktenherausgabe und Zurückbehaltung Rechtsprechungscheck
+### 15.4. Beschwerde bei Rechtsanwaltskammer Rechtsprechungschec
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Aktenherausgabe Zurückbehaltung Faktenmatrix
+### 15.5. Beschwerde Rechtsanwaltskammer Fakte
 
 Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren. - Institutionen: Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden. - Spezialspur: Leite. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Anwälte Anwaltsgerichtliche Anschuldigung Kaltstart und Fakten
+### 15.6. Beschwerdemanagement
 
-Fokus: anwaltsgerichtliche anschuldigung; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Anwälte 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren. 3. Aktenbasis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Anwälte Geldwaesche Risikoanalyse Kanzlei Rechtsprechungscheck
+### 15.7. Beweisführung Berufsverfahren
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Anwälte Ki Tool in Der Kanzlei Kammerantwort und Verfahrensstr
+### 15.8. Beweisführung Berufsverfahren Fremdgeld
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Anwälte Vermögensverfall und Zulassungswiderruf Kaltstart und
+### 15.9. Beweisführung im Berufsverfahren Kammerantwort
 
-Fokus: vermögensverfall und zulassungswiderruf; kaltstart mit faktenmatrix, risikoampel und fehlenden unterlagen im Berufsrecht der Anwälte 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren. 3. Aktenbasis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Anwälte Vermögensverfall und Zulassungswiderruf Kammerantwort
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Anwälte Vermögensverfall und Zulassungswiderruf Organisations
-
-Fokus: vermögensverfall und zulassungswiderruf; organisationspflichten, prävention, team-anweisung und fristenkontrolle im Berufsrecht der Anwälte 1. Rolle, Ziel und Entscheidungsdruck klären. 2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren. 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Anwälte Vermögensverfall und Zulassungswiderruf Rechtsprechun
+### 15.10. Beweisführung im Berufsverfahren Rechtsprechungscheck
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Anwaltliche Nebentaetigkeit
+### 15.11. Fristen- und Zuständigkeitscockpit
 
-Normenanker: BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren. - Institutionen: Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden. - Spezialspur: Leite. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Fristenkontrolle
+
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Fristversäumnis und Wiedereinsetzung Kammerantwort
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Fristversäumnis und Wiedereinsetzung Organisationspfl
+
+Paragraf 43 BRAO — allgemeine Berufspflicht. - Paragraf 43a Abs. 2 BRAO — Verschwiegenheit. - Paragraf 43a Abs. 4 BRAO — Interessenkollision. - Paragraf 49b BRAO — Vergütungsrechtliche Grenzen. - Paragraf 50 BRAO — Handakten. - Paragraf 2 BORA — Verschwiegenheit. - Paragraf 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

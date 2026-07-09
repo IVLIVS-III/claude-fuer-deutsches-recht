@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit | BGB Paragraf 311b; Rechtsprechung nur mit sicherer Fundstelle | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung | BGB Paragraf 311b; BGH Kernbereichslehre | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 873 und Paragraf 925 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig | BGB Paragraf 873 und Paragraf 925; Rechtsprechung nur mit sicherer Fundstelle | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige | BGB Paragraf 873 und Paragraf 925; BGH Kernbereichslehre | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -67,7 +67,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| BGH Kernbereichslehre | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | https://www.bgh.de (BGH XII ZR 265/02) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -80,16 +82,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GBO Paragraf 13, Paragraf 18, Paragraf 19 und Paragraf 29: Antrag, Zwischenverfügung, Bewilligung und grundbuchtauglicher Nachweis.
 - BeurkG Paragraf 13 und Paragraf 17: Niederschrift, Vorlesen, Genehmigen und notarielle Belehrungs- und Betreuungspflichten.
 - ErbbauRG Paragraf 1, Paragraf 2, Paragraf 9 und Paragraf 27: Inhalt, Vereinbarungen, Erbbauzins und Entschädigung bei Zeitablauf.
-- GwG-Screening erst nach Urkundsaufnahme – das verstößt gegen Paragrafen 10–11 GwG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 181 BGB-Befreiung: Ist sie in der Satzung vorgesehen oder Gesellschafterbeschluss nötig?: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 181 BGB-Befreiung nicht beurkundet/beschlossen, aber in Anmeldung behauptet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- GwG-Prüfung erst nach Beurkundung → Verstoß gegen Paragraf 10 GwG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 528 BGB – Rückforderung wegen Verarmung: Schenker kann Geschenk zurückfordern, wenn er nach der Schenkung verarmt. Beschenkte muss nur den noch vorhandenen Wert zurückgeben: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 530 BGB – Widerruf wegen groben Undanks: Widerruf innerhalb 1 Jahr nach Kenntnis des Undanks: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+- BGH Kernbereichslehre: https://www.bgh.de (BGH XII ZR 265/02)
 
 ## 9. Prüfraster
 
@@ -139,58 +137,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit
+### 15.1. Schenkungsvertrag Niessbrauch Wohnrecht Rückforder
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage, Eskalation
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Ehevertrag Scheidungsfolgenvereinbarung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Belehrung
+
+Dieser Skill bearbeitet Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung im Bereich Notariat im Alltag. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Notariat im Alltag: Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel
+
+Dieser Skill bearbeitet Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel im Bereich Notariat im Alltag. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Notariat im Alltag: Verbrauchervertrag Wartefrist und Entwurfsversand
+
+Dieser Skill bearbeitet Verbrauchervertrag Wartefrist und Entwurfsversand im Bereich Notariat im Alltag. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Notariat im Alltag: Bauträgervertrag MaBV Ratenplan und Abnahmefallen
+
+Dieser Skill bearbeitet Bauträgervertrag MaBV Ratenplan und Abnahmefallen im Bereich Notariat im Alltag. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Notariat im Alltag: Familiengesellschaft Poolvertrag und Minderjährige
+
+Dieser Skill bearbeitet Familiengesellschaft Poolvertrag und Minderjährige im Bereich Notariat im Alltag. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscockpit
 
 Steuert den Kaltstart eines neuen notariellen Vorgangs. Er sortiert die praktische Lage, bevor irgendein Entwurf entsteht: Wer handelt, in welcher Funktion, mit welchen Dokumenten, unter welchen Fristen, vor welcher Behörde und mit welchem Ergebnisziel. Das Vollzugscockpit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen
+### 15.13. Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Handelsregisteranmeldung Geschäftsführer Bestellu
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert, Kostenschuldner
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Geldwaescheprüfung Immobilientransaktion Wirtschaf
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Schenkungsvertrag Niessbrauch Wohnrecht Rückforder
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz, Registerportal
+### 15.14. Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

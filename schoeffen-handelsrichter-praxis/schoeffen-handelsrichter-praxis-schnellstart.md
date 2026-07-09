@@ -1,6 +1,6 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Schoeffen Handelsrichter Praxis ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du deine Rolle als Schöffe, Handelsrichter oder ehrenamtlicher Richter für Sitzung, Fragen, Beratung und Abstimmung rechtssicher vorbereiten.
 
-# Schoeffen Handelsrichter Praxis — Schnellstart
+# Schöffen Handelsrichter Praxis — Schnellstart
 
 Ziel: Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
@@ -17,48 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag): Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern.
-2. Befangenheit Selbstanzeige: Orientierung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-3. Befangenheit Selbstanzeige: Sitzungspraxis: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-4. Befangenheit und Selbstanzeige: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-5. Beratung und Abstimmung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-6. Beratung und Abstimmung: Orientierung: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+1. Rolle bestimmen: Schöffe, Jugendschöffe, Handelsrichter oder ehrenamtlicher Richter, Gericht, Spruchkörper und Verfahrensart festhalten.
+2. Sitzung vorbereiten: Ladung, Besetzung, Verfahrensstand, Gegenstand, Aktenkenntnis, eigene Vorinformationen und körperliche Einsatzfähigkeit prüfen.
+3. Beweisaufnahme begleiten: offene Frage, Antwort, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt und zulässigen Frageweg notieren.
+4. Neutralität und Beratung: Selbstanzeige, Befangenheitsanlass, Verfahrensverständnis, Abstimmungsfrage, Mehrheit und Beratungsgeheimnis trennen.
+5. Arbeitsprodukt: Sitzungsblatt, Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz ohne Vorfestlegung erstellen.
+6. Rolle und Besetzung: Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragrafen 30, 33 GVG für Schöffen; Paragrafen 105 ff. GVG; Paragrafen 24, 26 StPO; Paragraf 338 Nr. 3 StPO |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | GVG Paragraf 30; StPO Paragraf 24, Paragraf 30 und Paragraf 31; StPO Paragraf 240 Absatz 2 |
+| Rechtsprechung | BGH, Beschluss vom 02.02.2022 - 5 StR 153/21; BGH, Beschluss vom 14.10.2020 - 1 StR 616/19 |
+| Tatbestand | Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen |
+| Beweislast | Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung |
+| Rechtsfolge | Sitzungsblatt, offene Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag) | Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit Selbstanzeige: Orientierung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit Selbstanzeige: Sitzungspraxis | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Befangenheit und Selbstanzeige | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratung und Abstimmung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratung und Abstimmung: Orientierung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rolle und Besetzung | Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Neutralität und Selbstanzeige | persönlichen oder sachlichen Vorbezug ohne eigene Vorentscheidung unverzüglich gegenüber dem Vorsitz offenlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisaufnahme und Fragerecht | offene Tatsachenfrage, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt sitzungsbezogen notieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratung und Mehrheit | Schuld-, Rechtsfolgen- und Nebenfrage trennen, gesetzliche Mehrheit bestimmen und abweichende Sicht sachlich einbringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Teilnahmefähigkeit | Müdigkeit, Hören, Sprache, Verständnis oder Unterbrechungsbedarf sofort anzeigen und verfahrensfest behandeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beratungsgeheimnis und Medien | Hauptverhandlungsöffentlichkeit, nichtöffentliche Beratung, Aktenwissen, Eigenrecherche und Medienkontakt strikt trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragrafen 30, 33 GVG für Schöffen; Paragrafen 105 ff. GVG für Handelsrichter; Paragrafen 263, 265 StPO für Strafsachen; Paragrafen 313 ZPO für Zivilsachen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 24, 26 StPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 338 Nr. 3 StPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 263 StPO (Geheimhaltung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 31-45 GVG (Schöffen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 76 GVG (Mitwirkung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 105-109 GVG (Handelsrichter): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GVG Paragraf 30: Schöffen üben das Richteramt während der Hauptverhandlung in vollem Umfang und mit gleichem Stimmrecht aus.
+- StPO Paragraf 24, Paragraf 30 und Paragraf 31: Ablehnung, Selbstanzeige und entsprechende Anwendung auf Schöffen.
+- StPO Paragraf 240 Absatz 2: Beisitzende Richter dürfen nach Gestattung durch den Vorsitz Fragen stellen; StPO Paragraf 261 bindet die Überzeugungsbildung an den Inbegriff der Hauptverhandlung.
+- StPO Paragraf 263: Für Schuld- und Rechtsfolgenentscheidungen zulasten des Angeklagten gilt die gesetzliche Zweidrittelmehrheit; DRiG Paragraf 43 schützt das Beratungsgeheimnis.
+- BGH, Beschluss vom 02.02.2022 - 5 StR 153/21: Eine Schöffin darf wegen Besorgnis der Befangenheit nicht ohne den gesetzlich vorgesehenen Antrag oder eine tragfähige Selbstanzeige von Amts wegen ausgeschlossen werden.
+- BGH, Beschluss vom 14.10.2020 - 1 StR 616/19: Schläft ein Schöffe während eines wesentlichen Teils der Hauptverhandlung, kann das Gericht vorschriftswidrig besetzt und der absolute Revisionsgrund erfüllt sein.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Finale Entscheidung als Volltext (Beratungs-Votum mit Tenor-Vorschlag), Befangenheit Selbstanzeige: Orientierung, Befangenheit Selbstanzeige: Sitzungspraxis, Befangenheit und Selbstanzeige: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Sitzungsblatt: Rolle, Spruchkörper, Gegenstand, Besetzung, Beweisfragen, offene Punkte, Neutralitätshinweis und nächster Verfahrensschritt; Fragenliste: Beweisthema, offene Frage, Erkenntnisziel, Anschlussfrage, unzulässige Vorannahme und Ergebnisnotiz.
 
 ## 8. Stop
 

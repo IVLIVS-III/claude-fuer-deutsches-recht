@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Anschluss-Routing: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares.
+6. Common Law: Vertragsklauseln: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anschluss-Routing | klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Begriffs- und Übersetzungswerkstatt | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilingual Contract Review | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bilinguale: Compliance-Dokumentation und Aktenvermerk | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Common Law: Discovery-Spezial | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Common Law: Mandantenübersicht EN | entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungslinie. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Common Law: Vertragsklauseln | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Drafting: Mehrparteienkonflikt und Interessenmatrix | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Explainer: Beweislast, Darlegungslast und Substantiierung | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| False: Fristen, Form, Zuständigkeit und Rechtsweg | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Common-Law-Kompass — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
+- Art. 267 AEUV — Vorabentscheidungsverfahren (Abgrenzung EU- zu nationalem Recht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 305 ff. BGB — AGB-Recht (Abgrenzung zu Common-Law-Boilerplate): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anschluss-Routing, Begriffs- und Übersetzungswerkstatt, Bilingual Contract Review, Bilinguale: Compliance-Dokumentation und Aktenvermerk: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Common Law: Vertragsklauseln, Drafting: Mehrparteienkonflikt und Interessenmatrix, Explainer: Beweislast, Darlegungslast und Substantiierung, False: Fristen, Form, Zuständigkeit und Rechtsweg: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

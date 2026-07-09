@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Tabellenreview 3D ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Dokumentenbestand schnell in verlässliche Versionen, Fundstellen, Lücken und ein unmittelbar nutzbares Arbeitsprodukt überführen.
 
 # Tabellenreview 3D — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. /tabellenreview-3d:risikoampel-aggregation: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
-2. Anschluss-Routing: Dieses Anschluss-Routing für Tabellenreview 3d wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation.
-3. /tabellenreview-3d:arbeitsblatt-perspektiven-definieren: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-4. Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB —.
-5. /tabellenreview-3d:abrufen-trail-protokoll: 1. Für welches Mandat / Projekt wird der abrufen-Trail geführt? (M&A-DD / Immobilien / Vendor) 2. Wer.
-6. /tabellenreview-3d:belegkette-rückverfolgung: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt.
+1. Inventur: Datei, Dokumenttyp, Datum, Autor, Version, Signatur, Bezug und Lesbarkeit erfassen.
+2. Fundstellenlinie: jede Aussage, Zahl, Klausel und Frist mit Dokument, Seite, Zelle oder Nachricht verbinden.
+3. Konsistenzprüfung: Dublette, Widerspruch, fehlende Anlage, Rechenabweichung, Copy-Paste-Fehler und Versionsbruch markieren.
+4. Bearbeitung: Zielstruktur, Priorität, Redline, Tabelle, Entwurf oder Exportformat bestimmen und reproduzierbar ausführen.
+5. Übergabe: Ergebnis, Quellen, offene Lücken, geprüfte Version, Dateinamen und nächste Handlung dokumentieren.
+6. Inventur und Version: Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 611a Abs. 1 BGB; Paragraf 611a Abs. 1 BGB; Paragraf 241 Abs. 2 BGB |
+| Normenanker | BGB Paragraf 126, Paragraf 126a und Paragraf 126b; ZPO Paragraf 130a; ZPO Paragraf 138 und Paragraf 253 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen |
+| Beweislast | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert |
+| Rechtsfolge | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /tabellenreview-3d:risikoampel-aggregation | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Tabellenreview 3d wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /tabellenreview-3d:arbeitsblatt-perspektiven-definieren | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /tabellenreview-3d:abrufen-trail-protokoll | 1. Für welches Mandat / Projekt wird der abrufen-Trail geführt? (M&A-DD / Immobilien / Vendor) 2. Wer. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /tabellenreview-3d:belegkette-rückverfolgung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Übergabe und Nachweis | Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung. - Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten. - Paragraf 626 Abs. 1 BGB — fristlose Kündigung. - Paragraf 1 Abs. 2: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 611a Abs. 1 BGB — Arbeitsvertrag und Weisungsbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahmepflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 626 Abs. 1 BGB — fristlose Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 Abs. 2 KSchG — soziale Rechtfertigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 4 Satz 1 KSchG — Klagefrist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 7 KSchG — Fiktionswirkung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
+- ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
+- ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
+- ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder /tabellenreview-3d:risikoampel-aggregation, Anschluss-Routing, /tabellenreview-3d:arbeitsblatt-perspektiven-definieren, Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
 
 ## 8. Stop
 

@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenanlage Fehlerkatalog | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Deal: Beweislast, Darlegungslast und Substantiierung | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Akteneinsicht: Behörden-, Gerichts- oder Registerweg | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Strafbefehl-Verteidiger — Allgemein | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Paragraf 1 StGB | Keine Strafe ohne Gesetz. - Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit. - Paragraf 16 Abs. 1 StGB — | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| Normen-/Verfahrensanker | StPO Paragrafen 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
-- Paragraf 1 StGB — Keine Strafe ohne Gesetz. - Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit. - Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum. - Paragraf 17 StGB — Verbotsirrtum. - Paragraf: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1 StGB — Keine Strafe ohne Gesetz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 17 StGB — Verbotsirrtum: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 46 Abs. 1 StGB — Strafzumessung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 152 Abs. 2 StPO — Legalitätsprinzip/Anfangsverdacht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 160 Abs. 2 StPO — Ermittlung auch entlastender Umstände: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Normen-/Verfahrensanker: StPO Paragrafen 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 153 StPO Einstellung wegen Geringfuegigkeit (ohne Auflagen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 153a StPO Einstellung gegen Auflagen (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - oft strategisch besser als Verständigung, weil keine Verurteilung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 154 StPO Teilstellung bei Tatmehrheit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 407-412 StPO — Strafbefehlsverfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 409 StPO — Pflichtinhalt des Strafbefehls: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 410 StPO — Einspruch, Frist und beschraenkter Einspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 411 StPO — Hauptverhandlung nach Einspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,25 +150,25 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenanlage Fehlerkatalog
-
-Dieser Fehlerkatalog prüft Arbeitsergebnisse für Strafbefehl-Verteidigung vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen (Paragraf 410 StPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Akteneinsicht: Behörden-, Gerichts- oder Registerweg
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Deal: Beweislast, Darlegungslast und Substantiierung
+### 15.1. Deal: Beweislast, Darlegungslast und Substantiierung
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Dokumentenintake
+### 15.2. Strafbefehl-Verteidiger — Allgemein
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Frist und Einspruch nach Paragraf 410 StPO
+
+Sichert die Einspruchsfrist nach Paragraf 410 StPO (2 Wochen ab Zustellung) und erstellt Einspruchsentwuerfe. Berechnung Zustellungsfiktion Paragraf 418 ZPO i.V.m. Paragraf 37 StPO. Unbeschraenkter oder beschraenkter Einspruch Paragraf 410 Abs. 2 StPO. Wiedereinsetzung Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Aktenanlage Fehlerkatalog
+
+Dieser Fehlerkatalog prüft Arbeitsergebnisse für Strafbefehl-Verteidigung vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen (Paragraf 410 StPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Akteneinsicht: Behörden-, Gerichts- oder Registerweg
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -186,22 +186,22 @@ entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert ein
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Einstieg und Routing
-
-Dieser Einstieg routet Strafbefehl Verteidiger vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - aktenanlage-fehlerkatalog — Aktenanlage Fehlerkatalog - akteneinsicht-behörden-gericht-und-registerweg —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage
+### 15.10. Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage
 
 Paragraf 1 StGB — Keine Strafe ohne Gesetz. - Paragraf 15 StGB — Vorsatz/Fahrlaessigkeit. - Paragraf 16 Abs. 1 StGB — Tatbestandsirrtum. - Paragraf 17 StGB — Verbotsirrtum. - Paragraf 46 Abs. 1 StGB — Strafzumessung. - Paragraf 152 Abs. 2 StPO —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Hauptverhandlung: Internationaler Bezug und Schnittstellen
+### 15.11. Hauptverhandlung: Internationaler Bezug und Schnittstellen
 
 entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Mandantenkommunikation
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Nebenfolgen Fahrerlaubnis im Strafbefehl
+### 15.12. Nebenfolgen Fahrerlaubnis im Strafbefehl
 
 Fahrerlaubnisentzug Paragraf 69 StGB und Fahrverbot Paragraf 44 StGB im Strafbefehl. Regelentziehung Paragraf 69 Abs. 2 StGB bei Paragrafen 315c 316 142 StGB. Sperrfrist Paragraf 69a StGB. Vorzeitige Aufhebung Paragraf 69a Abs. 7 StGB. Abgrenzung Paragraf 25 StVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Nebenfolgen: Verhandlung, Vergleich und Eskalation
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Rechtsmittel nach Urteil im Strafbefehlsverfahren
+
+Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung Paragraf 312 StPO (Frist 1 Woche schriftlich). Revision Paragraf 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung Paragraf 345 StPO 1 Monat. Absolute Revisionsgründe Paragraf 338. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

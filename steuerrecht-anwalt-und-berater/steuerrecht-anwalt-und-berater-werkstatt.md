@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Addison BWA-Konfiguration | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c | AO Paragraf 85; BFH, Urteil vom 04.11.2021 - VI R 22/19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AO Paragraf 88 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Akteneinsicht in Steuerakten | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Steuerrechtliche Fristen — der Überblick | AO Paragraf 88; BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | EStG Paragraf 2 | Einkunftsarten und Einkommensermittlung | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | EStG Paragraf 49 | beschraenkte Steuerpflicht | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 | FGO Paragraf 76 | Sachaufklärung im Finanzgerichtsverfahren | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
-| Paragraf 8 AO (Wohnsitz, Aufenthalt) | Paragraf 8 AO (Wohnsitz, Aufenthalt) | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
+| Paragraf 32b EStG | Progressionsvorbehalt für freigestellte ausländische Einkünfte | Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise | Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
 - EStG Paragraf 49: beschraenkte Steuerpflicht.
 - FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
-- Paragraf 8 AO (Wohnsitz, Aufenthalt): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 33, 34 AO (Steuerpflichtiger, gesetzliche Vertreter): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 42 AO (Gestaltungsmissbrauch): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 169-171 AO (Festsetzungsverjährung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 233a, 235 AO (Verzinsung, Hinterziehungszinsen): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 370 AO (Steuerhinterziehung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 153, 371 AO (Berichtigungserklärung, Selbstanzeige): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 15, 32a EStG (Einkünfte aus Gewerbebetrieb, Tarif): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 32b EStG — Progressionsvorbehalt für freigestellte ausländische Einkünfte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 34c EStG — Anrechnung ausländischer Steuern, alternativ Abzug, Pauschalierung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 34d EStG — Definition ausländische Einkünfte: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 50d Abs. 8 EStG — Subject-to-Tax bei Arbeitseinkünften: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 50d Abs. 9 EStG — generelle Subject-to-Tax-Klausel mit Wechsel zur Anrechnung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 50d Abs. 10 EStG — Klarstellung Sondervergaben Personengesellschafter: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 26 KStG — Anrechnung im KStG-Bereich: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 50d Abs. 9 Satz 1 Nr. 1 vs. Nr. 2 EStG sauber abgrenzen: Nr. 1 (Qualifikationskonflikt) und Nr. 2 (Subject-to-Tax in dubio) haben unterschiedliche Voraussetzungen. Prüfer: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,7 +101,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BFH, Urteil vom 21.06.2012 - V R 20/11: Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug.
 - EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
 - EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11: Mahageben und David begrenzen überzogene Nachweispflichten beim Vorsteuerabzug.
-- EuGH C-280/10 (Vorsteuerabzug bei wirtschaftlicher Tätigkeit)
 
 ## 9. Prüfraster
 
@@ -151,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Addison BWA-Konfiguration
+### 15.1. Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG)
 
-Normen: Paragraf 6a, Paragraf 146 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Problemfokus dieses Skills: Bleibe beim konkreten Titel Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG) und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Akteneinsicht
+### 15.2. Steuerrechtliche Fristen — der Überblick
 
-Normen: Paragraf 6a, Paragraf 364 AO, Paragraf 78. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welches Schriftstueck löst die Frist aus (Bescheid, Einspruchsentscheidung, Urteil, Verfügung)? 2. Wann ist die Zustellung bewirkt (Paragraf 122 Abs. 2 AO Drei-Tages-Fiktion; Paragraf 122a AO Bereitstellung im ELSTER-Postfach)? 3. Fällt das Fristende auf Wochenende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anteilstausch — Paragraf 21 UmwStG Voraussetzungen und Sperrfrist
+### 15.3. Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO
 
-Normen: Paragraf 21, Paragraf 6a, Paragraf 21 Abs. 1 S. 2. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 78, Paragraf 6a, Paragraf 45. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
+### 15.4. Fristenbuch Steuerrecht
 
-Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverhältnissen — drei verschiedene Konzepte mit unterschiedlichen Voraussetzungen: 1. Ertragsteuerliche Organschaft (KSt + GewSt) — verlangt Gewinnabführungsvertrag mindestens 5 Jahre 2. Umsatzsteuerliche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 355 Abs. 1 AO, Paragraf 47 Abs. 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Stundung Paragraf 222 AO / Erlass Paragraf 227 AO / Vollstreckungsaufschub Paragraf 258 AO
+### 15.5. GF-Haftung Paragraf 69 AO für nicht abgeführte Lohn-/Umsatzsteuer
 
-Anwaltliche Beratung und Antragstellung beim Finanzamt zur Streckung der Zahlungspflicht, wenn der Mandant fällige Steuern oder Bescheidforderungen vorübergehend oder dauerhaft nicht aufbringen kann. Drei abgestufte Instrumente — Stundung (Aufschub), Erlass (Verzicht). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 69 AO, Paragraf 6a, Paragraf 266a StGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Aussenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung
+### 15.6. GrESt: Asset Deal und Kaufvertrag
 
-Normen: Paragraf 6a, Paragraf 171 Abs. 4 AO, Paragraf 193 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 1 Abs. 1 Nr. 1, Paragraf 8 Abs. 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Außenprüfung — Strategien und Begleitung
+### 15.7. GrESt: Bescheid, Einspruch, AdV und Paragraf 16
 
-Normen: Paragraf 6a, Paragraf 196 AO, Paragrafen 193. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 16, Paragraf 6a, Paragraf 1 Abs. 1. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Aussenwirtschaftsrecht — AWG und Sanktionen
+### 15.8. GrESt: Signing, Closing und Doppelfestsetzung
 
-Normen: Paragraf 6a, Paragraf 17, Paragraf 18. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsgeschäft und dingliche Anteilsübertragung, doppelte Festsetzung nach Paragraf 1 Abs. 2b und Paragraf 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Aussetzung der Vollziehung (AdV)
+### 15.9. Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO
 
-Normen: Paragraf 6a, Paragraf 361 AO, Paragraf 69 Abs. 3. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 69 AO, Paragraf 71 AO, Paragraf 191 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Belegtransfer über DATEV Unternehmen Online
+### 15.10. Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach Paragrafen 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht Paragraf 15a InsO drei Wochen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Betriebsausgaben Werbungskosten — Prüfraster
+### 15.11. Bestandskonten-Abstimmung zum Jahresabschluss
 
-Normen: Paragraf 6a, Paragraf 13 EStG, Paragraf 4 Abs. 4 EStG. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 240 HGB, Paragraf 252 HGB. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Aussenprüfung und Strafverfahren — Paragraf 393 AO nemo tenetur
+### 15.12. Klage zum Finanzgericht
 
-Normen: Paragraf 393 AO, Paragraf 6a, Paragraf 397 AO. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 44, Paragraf 46. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG
+### 15.13. Arbeitsvertrag aus lohnrelevanter Sicht prüfen
 
-Normen: Paragrafen 176, Paragraf 6a, Paragraf 198. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene: references/quellenhygiene.md. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bilanzberichtigung und Bilanzänderung — Paragraf 4 Abs. 2 EStG
+### 15.14. DRV-Prüfung, Lohnsteuer-Aussenprüfung, StB-Haftung
 
-Normen: Paragraf 4 Abs. 2 EStG, Paragraf 6a, Paragraf 4 Abs. 2 S. 1 EStG. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragraf 6a, Paragraf 280 BGB, Paragraf 28p SGB IV. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. - Quellenhygiene. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

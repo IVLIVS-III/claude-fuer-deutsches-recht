@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Franchiserecht: Franchisevertrag AGB-Redline | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Franchiserecht: Mystery Shopping Beweis und Datenschutz | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,9 +61,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Paragraf 242 BGB | Kooperationspflicht bei der Vertragsabwicklung (Treu und Glauben) | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff | Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -83,16 +83,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
-- Paragraf 242 BGB: Kooperationspflicht bei der Vertragsabwicklung (Treu und Glauben): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB: Schadensersatz bei verzögerter oder mangelhafter Abwicklung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 14 ff. MarkenG: Pflicht zur Einstellung der Markennutzung nach Vertragsende: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 812 ff. BGB: Rückabwicklung ungerechtfertigter Bereicherung (z. B. zu viel gezahlte Gebühren): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 611a BGB: Arbeitnehmerbegriff; Weisungsgebundenheit als Hauptmerkmal: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 84 HGB: Selbstständige Handelsvertreter; arbeitnehmerähnliche Person: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 7 SGB IV: Beschäftigungsverhältnis; Vermutungsregelung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 7a SGB IV: Statusfeststellungsverfahren bei der DRV Bund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff.: Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- HGB Paragraf 90a nur als Orientierung für nachvertragliche Wettbewerbsverbote, wenn Schutzbedürfnis, Dauer, Raum und Entschädigung tatsächlich vergleichbar sind: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 305 ff., besonders Paragrafen 307 bis 309: Transparenz, unangemessene Benachteiligung, überraschende Klauseln, einseitige Leistungsänderung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 138, 242, 311 Abs. 2, 280: Übervorteilung, Treu und Glauben, vorvertragliche Aufklärung, Schadensersatz bei unrealistischen Rentabilitätsangaben: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 bei Preisbindung, Bezugsbindung, Gebietsschutz, Onlinevertrieb und Wettbewerbsverboten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 311 Abs. 2 BGB iVm Paragraf 241 Abs. 2 BGB Schuldverhältnis mit Schutzpflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -101,6 +101,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.05.2016 - II ZR 342/14: Gesellschafterliste und Legitimationswirkung sind für GmbH-Rechte zentral.
 - BGH, Urteil vom 20.09.2011 - II ZR 234/09: Beschlussmängel in der GmbH folgen eigenständiger gesellschaftsrechtlicher Dogmatik.
 - BGH, Urteil vom 26.01.2009 - II ZR 260/07: Treuepflichten begrenzen gesellschaftsrechtliche Rechtsausübung.
+- BGH VIII ZR 233/02 zur Aufklärung beim Franchisesystem
+- BGH XII ZR 197/03 zur Marketingunterstützung
 
 ## 9. Prüfraster
 
@@ -150,58 +152,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
+### 15.1. Franchiserecht: Franchisevertrag AGB-Redline
+
+Dieser Skill bearbeitet Franchisevertrag AGB-Redline im Bereich Franchiserecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Franchiserecht: Mystery Shopping Beweis und Datenschutz
+
+Dieser Skill bearbeitet Mystery Shopping Beweis und Datenschutz im Bereich Franchiserecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Franchise Kündigung und Nachvertragliche Wettbewerb
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
+### 15.4. Franchise Vergütungsmodelle Initial Laufend
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
+### 15.5. Franchise Vertragsstruktur Master Unit
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Franchiserecht: Bau- und Ladenbau-Pflichten
+### 15.6. Franchise Vorvertragliche Aufklärung BGH
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
+### 15.7. Franchiserecht: Nachvertragliches Wettbewerbsverbot
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach Paragraf 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht. Arbeite entlang dieser konkreten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Franchise: CRM-Daten und gemeinsame Verantwortlichkeit
+### 15.8. Franchise: Nachvertragliches Wettbewerbsverbot im Franchise
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
+### 15.9. Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Franchiserecht: Disclosure-Dokument für internationale Investoren
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht
+### 15.11. Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen
+### 15.12. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee
+### 15.13. Franchiserecht: Bau- und Ladenbau-Pflichten
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

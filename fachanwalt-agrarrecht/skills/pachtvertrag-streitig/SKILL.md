@@ -1,146 +1,103 @@
 ---
 name: pachtvertrag-streitig
-description: "Wenn es um Landpachtvertrags-Streitigkeiten LPachtVG in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Bearbeitet streitige Landpachtmandate vom Aktenbestand bis zum gerichtsfesten Entwurf. Prüft Vertragsqualifikation, Form und Übergangsrecht, Anzeige und Beanstandung, Anpassung, Kündigung, Fortsetzung, Beweislast, Zuständigkeit und Streitwert; liefert Fristenblatt, Anspruchsmatrix und Schriftsatzkern."
 ---
 
-# Landpachtvertrags-Streitigkeiten LPachtVG
+# Streitigen Landpachtvertrag bearbeiten
 
+## 1. Sofort in die Akte
 
-## Arbeitsweg
+Lies zuerst alle vorhandenen Verträge, Nachträge, Flurstückslisten, Anzeigen, Bescheide, Kündigungen, Zustellnachweise, Zahlungsbelege, Bewirtschaftungsnachweise und Korrespondenzen. Frage nur nach Tatsachen, ohne die der nächste belastbare Arbeitsschritt nicht möglich ist.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GrdstVG Genehmigung 1 Monat (verlängerbar), GAP-Antrag bis 15.05. jährlich (Mehrfachantrag), BGB § 594a Landpacht-Kündigung 2. Werktag im 3. Pachtjahr.
-- Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Erstelle unmittelbar:
 
-**Fokus:** Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage.
+1. eine Chronologie mit Pachtjahren und Zugangsdaten,
+2. ein Fristenblatt mit Rechtsfolge und Sicherungsmaßnahme,
+3. eine Anspruchs- und Einwendungsmatrix,
+4. den sinnvollsten nächsten Entwurf.
 
-### Pachtvertrags-Streitigkeiten
+## 2. Vertrag und Regelungsregime bestimmen
 
-## 1) Eingangs-Abfrage
+Prüfe nicht vorschnell nur den Dokumenttitel. Ordne ein:
 
-1. Pachtgegenstand: nur Acker/Grünland oder mit Gebauden / Hofstelle?
-2. Pachtdauer und Beginn?
-3. Pachtzins (Euro/ha) und Index-Klausel?
-4. Schriftform gewahrt (§ 585a BGB)?
-5. **Pachtanzeige** beim Landwirtschaftsamt erfolgt (§ 2 LPachtVG)?
-6. Verlängerungs-Option oder befristet auslaufend?
-7. Beidseitige Bewirtschaftungslage (Ertragsanstieg/-rueckgang seit Vertragsschluss)?
+| Frage | Tatsachen | Rechtsanker | Folge |
+| --- | --- | --- | --- |
+| Landpacht | Grundstück oder Betrieb überwiegend landwirtschaftlich genutzt | BGB Paragraf 585 | Sonderregeln der Paragrafen 585 bis 597 BGB |
+| Pachtgegenstand | Flur, Flurstück, Größe, Nutzungsart, Gebäude, Inventar, Zahlungsansprüche | Vertrag, Anlagen, Kataster, Übergabeprotokoll | Bestimmtheit, Rückgabeumfang, Beweis |
+| Laufzeit | Beginn, Pachtjahr, Befristung, Optionen, Nachträge | BGB Paragrafen 585a, 594, 594a | Ende, Kündigungsfenster, Formfolge |
+| Partei und Vertretung | Eigentümer, Erbengemeinschaft, Gesellschaft, Vollmacht | Vertrag, Grundbuch, Register | Aktiv- und Passivlegitimation |
+| Öffentlich-rechtliche Kontrolle | Anzeige, Ausnahme, Beanstandung | LPachtVG Paragrafen 2 bis 9 | Bestand, Änderung oder Aufhebung |
 
-## 2) Pachtanzeige § 2 LPachtVG
+Seit dem 1. Januar 2025 verlangt BGB Paragraf 585a für Verträge von mehr als zwei Jahren Textform. Bei vor diesem Tag entstandenen Verträgen ist das Übergangsrecht in EGBGB Artikel 229 Paragraf 70 Absatz 2 nach dem Datum des streitigen Vorgangs zu prüfen: Die frühere Schriftform galt grundsätzlich bis einschließlich 1. Juli 2026 weiter; eine ab dem 1. Januar 2025 vereinbarte Änderung zog bereits ab der Änderung das neue Recht nach sich. Formmangel bedeutet keine Nichtigkeit, sondern grundsätzlich eine Pacht auf unbestimmte Zeit.
 
-- Anzeige binnen **1 Monat** nach Vertragsschluss beim Landwirtschaftsamt
-- Bei Versäumnis: **Vertrag bleibt wirksam**, aber Bußgeld
-- Behörde prüft auf Beanstandungsgründe (§ 4 LPachtVG): grobe Disparitaet Pachtzins, Verschlechterung Agrarstruktur, unbillige Bedingungen
+## 3. Anzeige und Beanstandung sauber trennen
 
-### Beanstandungsgrund: ungesunde Verteilung Bodennutzung
+1. Prüfe die Anzeigepflicht nach LPachtVG Paragraf 2 und jede landesrechtlich bestimmte Ausnahme nach Paragraf 3.
+2. Der Verpächter muss den Abschluss oder eine anzeigepflichtige Änderung binnen eines Monats anzeigen; der Pächter darf ebenfalls anzeigen.
+3. Eine unterbliebene Anzeige macht den Vertrag nicht allein deshalb zivilrechtlich unwirksam. Sie kann aber ordnungsrechtliche Folgen haben und sperrt nach LPachtVG Paragraf 9 den Antrag auf Vertragsänderung nach BGB Paragraf 593 Absatz 4, solange der anzeigepflichtige Vertrag nicht angezeigt ist.
+4. Ordne einen Beanstandungsbescheid exakt den Gründen des LPachtVG Paragraf 4 zu: ungesunde Verteilung der Bodennutzung, unwirtschaftliche Aufteilung oder unangemessenes Verhältnis von Pacht und nachhaltig erzielbarem Ertrag.
+5. Prüfe Bekanntgabe, Zwischenbescheid, Entscheidungsfrist und die im Bescheid gesetzte Änderungs- oder Aufhebungsfrist nach LPachtVG Paragraf 7. Ein Antrag auf gerichtliche Entscheidung muss vor der im Bescheid bezeichneten Aufhebungswirkung eingehen.
 
-Wenn Verpaechter bereits über 2 ha verpachtet und Paechter mit deutlich juengerer Existenz bevorzugt waere — Beanstandung möglich.
+BGH, Beschluss vom 29. April 2016 - BLw 2/15: Das Landwirtschaftsgericht ist im Verfahren nach LPachtVG Paragrafen 7 und 8 nicht an die rechtliche Begründung der Behörde gebunden. Ein agrarstrukturell schädlicher Vertrag kann im Beanstandungsverfahren auch aufgehoben werden, wenn er zivilrechtlich unwirksam oder nichtig ist.
 
-## 3) Pachtzins-Anpassung § 593 BGB
+## 4. Anspruchs- und Einwendungsmatrix
 
-### Voraussetzungen
+| Streitkern | Anspruch oder Einwendung | Darzulegen und zu beweisen | Typischer Output |
+| --- | --- | --- | --- |
+| Pachtzins | Vertrag, Fälligkeit, Zahlung, Aufrechnung, Minderung | Vertragsinhalt, Flächenumfang, Zahlungslauf, Mangelanzeige | Zahlungsaufstellung und Antrag |
+| Vertragsänderung | BGB Paragraf 593 | nachhaltige Änderung, grobes Missverhältnis, Ursache außerhalb der eigenen Bewirtschaftung | Anpassungsverlangen oder Erwiderung |
+| Erhaltung und Verbesserung | BGB Paragraf 588 | Maßnahme, Erforderlichkeit, Härte, Aufwand, Ertragswirkung | Duldungs- und Ausgleichsmatrix |
+| Überlassung an Dritte | BGB Paragraf 589 | tatsächlicher Nutzer, Zustimmung, Gesellschaftsidentität, Abmahnung | Kündigungsprüfung |
+| Nutzungsänderung | BGB Paragraf 590 | Vertragszustand, Einwilligung, Genehmigungen, Schaden | Unterlassung, Wiederherstellung, Ersatz |
+| Beendigung | BGB Paragrafen 594 bis 594e | Befristung, Pachtjahr, Kündigungsgrund, Abmahnung, Zugang | Kündigungs- und Räumungsprüfung |
+| Fortsetzung | BGB Paragraf 595 | Lebensgrundlage, betriebliche Angewiesenheit, Härte, Gegeninteressen, Ausschlüsse | Fortsetzungsverlangen oder Abwehr |
 
-- **Wesentliche Änderung der Verhältnisse** seit Vertragsschluss (Klima, Markt, Subventionen)
-- **Erst nach 3 Jahren** seit Vertragsschluss oder letzter Anpassung
-- Änderung muss zu unbilliger Vorenthaltung der Änderungs-Pflicht führen
+BGB Paragraf 593 erlaubt eine Änderung erst zwei Jahre nach Beginn oder Wirksamwerden der letzten Änderung. Erforderlich sind eine nachhaltige Veränderung und ein grobes Missverhältnis; eine Ertragsänderung aus der eigenen Bewirtschaftung des Pächters trägt den Anspruch grundsätzlich nicht. Das Änderungsverlangen wirkt frühestens für das Pachtjahr seiner Erklärung.
 
-### Praxis
+Für unbestimmte Landpacht verlangt BGB Paragraf 594a Absatz 1 die Kündigung spätestens am dritten Werktag eines Pachtjahrs zum Schluss des nächsten Pachtjahrs. Es gibt weder eine allgemeine neunjährige Mindestlaufzeit noch eine automatische Verlängerung um neun Jahre.
 
-- Anpassung meist nach **Pachtpreisspiegel** des Landwirtschaftsamtes
-- Bei Streit: Sachverständiger zur Ertragslage
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Ein Fortsetzungsverlangen nach BGB Paragraf 595 ist ein Härtefallinstrument, kein Automatismus. Prüfe Textform, das Verlangen grundsätzlich mindestens ein Jahr vor Vertragsende, den gerichtlichen Antrag grundsätzlich spätestens neun Monate vor Vertragsende sowie sämtliche Ausschlüsse und Sonderfristen der Absätze 3, 5 und 7.
 
-## 4) Verlängerung des Pachtvertrags § 595 BGB
+## 5. Beweisstation
 
-- **9 Jahre Standard-Laufzeit** bei Landpacht ohne abweichende Vereinbarung (§ 585a BGB)
-- Kündigung mit **2-Jahres-Frist** bei laenger als 9-jaehriger Laufzeit (§ 594a BGB)
-- Bei Versäumnis fristgerechte Kündigung: **Vertrag verlaengert sich um 9 Jahre**
+Ordne jedem Tatbestandsmerkmal eine Quelle und ein Ausfallrisiko zu:
 
-## 5) Vorpachtrecht § 588 BGB
+| Beweisfrage | Vorrangige Beweismittel | Angriffspunkt |
+| --- | --- | --- |
+| Inhalt und Umfang | Vertrag, Nachträge, Flurstückskarten, Übergabeprotokoll | Anlagenbezug, Vertretung, Widersprüche |
+| Zugang einer Erklärung | Empfangsbekenntnis, Einschreibenbeleg, Botenvermerk, elektronische Versanddaten | Zugangstag, Vollständigkeit, Adressat |
+| Nutzungszustand | datierte Fotos, Schlagkartei, Bodenprobe, Zeuge, Sachverständiger | Ausgangszustand und Kausalität |
+| Ertrags- und Pachtverhältnis | Buchführung, Ernte- und Preisreihen, regionale Vergleichsdaten, Gutachten | Vergleichbarkeit und nachhaltige Entwicklung |
+| Betriebliche Härte | Flächenbilanz, Deckungsbeitrag, Ersatzflächenprüfung, Finanzierungsunterlagen | bloße Unbequemlichkeit statt Existenzbezug |
 
-- Bei Veraeusserung des Pachtgegenstands hat **Paechter Vorpfand-Recht**
-- Frist: 2 Monate ab Mitteilung des Kaufvertrags
-- Bei Mehrere Paechter: anteilig
+BGH, Urteil vom 28. April 2017 - LwZR 4/16: Bei einem Streit über als Ackerland verpachtete, später als Dauergrünland behandelte Flächen sind Vertragszustand, Verschulden und ein mögliches Mitverschulden des sachkundigen Verpächters getrennt zu prüfen. Der Skill darf deshalb Nutzungsart und Schadensursache nicht aus der aktuellen Bewirtschaftung ableiten.
 
-## 6) Hofübergabe-Konstellationen
+## 6. Rechtsprechungsanker richtig verwenden
 
-### Konstellation 1: Verpachtung an Altenteiler
+- BGH, Urteil vom 6. November 2020 - LwZR 5/19: Die Entscheidung betrifft die frühere Schriftform und die Unterzeichnung für eine Gesellschaft bürgerlichen Rechts. Nutze sie für Altfälle nur zusammen mit dem Übergangsrecht und nicht als Aussage, dass heute generell Schriftform gilt.
+- BGH, Urteil vom 24. November 2017 - LwZR 5/16: Ein formularmäßig eingeräumtes Vorpachtrecht ohne inhaltliche Ausgestaltung ist wegen Intransparenz unwirksam. BGB Paragraf 588 selbst begründet kein Vorpachtrecht; er regelt Erhaltungs- und Verbesserungsmaßnahmen.
+- BGH, Beschluss vom 29. April 2016 - BLw 2/15: Beanstandung und gerichtliche Aufhebung nach LPachtVG eigenständig prüfen, auch neben zivilrechtlichen Einwendungen.
+- BGH, Urteil vom 28. April 2017 - LwZR 4/16: Vertragsgemäße Nutzungsart, Verschulden, Kausalität und Mitverschulden in getrennten Beweisstationen behandeln.
 
-- Hofnachfolger übernimmt Hof
-- Altbauern bleiben auf Hofstelle, verpachten Flächen an Sohn
-- Klassische Konstellation, oft Schriftform-Problem
+Verifiziere vor externer Verwendung Datum, Aktenzeichen, einschlägige Randnummer und Fortgeltung in einer amtlichen Quelle. Übertrage keinen Leitsatz auf einen anderen Streitgegenstand.
 
-### Konstellation 2: Verpachtung an Dritten
+## 7. Gericht, Antrag und Wert
 
-- Hof an externen Paechter
-- Hoeferecht / BGB-Erbrecht Konstellation prüfen
-- BFH-Linie zu Hofnachfolge-Pacht
+Für bürgerliche Landpachtstreitigkeiten ist im ersten Rechtszug ausschließlich das Amtsgericht als Landwirtschaftsgericht zuständig; zweite Instanz ist das Oberlandesgericht, dritte Instanz der Bundesgerichtshof. Rechtsanker ist LwVfG Paragraf 2.
 
-## 7) Streit-Fall
+Formuliere den Antrag passend zum Rechtsschutzziel: Zahlung, Feststellung des Fortbestands oder Endes, Räumung und Herausgabe, Einwilligung in eine Vertragsänderung, Duldung, Unterlassung oder gerichtliche Entscheidung gegen eine Beanstandung. Trenne Haupt- und Hilfsanträge und gleiche jeden Antrag mit Vollstreckbarkeit und Flurstücksbezeichnung ab.
 
-### Schritt 1 — Bestandsaufnahme
+Setze den Streitwert nicht schematisch mit einem Mehrfachen der Jahrespacht an. Bei Streit über Bestehen oder Dauer ist nach GKG Paragraf 41 Absatz 1 das Entgelt für die streitige Zeit, höchstens regelmäßig das Jahresentgelt, maßgeblich; bei Räumung gilt grundsätzlich das Jahresentgelt nach Absatz 2. Für andere Anträge ist die jeweils einschlägige Wertnorm gesondert zu bestimmen.
 
-- Pachtvertrag, Pachtanzeige, Bewirtschaftungs-Nachweise
-- Vorjahres-Buchhaltung (Schwarz-Buch / Steuererklärung)
-- Pachtpreisspiegel der Region
+## 8. Lieferformat
 
-### Schritt 2 — Verhandlung
+Liefere in dieser Reihenfolge:
 
-- Außergerichtliche Lösung typisch über Landwirtschafts-Schiedsstelle (LWA-Vorprüfung)
-- Sachverständiger bei Streit über Ertragslage
+1. Ergebnis in höchstens fünf Sätzen,
+2. Fristen- und Risikoampel,
+3. Anspruchs- und Einwendungsmatrix,
+4. Beweis- und Anlagenplan,
+5. ausformulierter nächster Entwurf,
+6. offene Punkte, die das Ergebnis tatsächlich ändern können.
 
-### Schritt 3 — Klage
-
-- **Sachliche Zuständigkeit**: **Landwirtschaftsgericht** beim Amtsgericht oder Landgericht je nach Streitwert
-- Klage- oder Eilantrag (z.B. Pacht-Zwangsversteigerung verhindern)
-- Streitwert: kapitalisierter Pacht-Streit (4-facher Jahres-Pachtzins, § 9 ZPO analog)
-
-## 8) Typische Fehler
-
-1. **Pachtanzeige übersehen** — Bußgeld, kein Vertrags-Mangel
-2. **Schriftform § 585a BGB nicht beachtet** — Verlängerung droht
-3. **Pacht-Anpassung ohne 3-Jahres-Wartezeit** — Klage scheitert
-4. **Vorpacht-Recht zu spaet ausgeueubt** — verjaehrt nach 2 Monaten
-
-## 9) Honorar
-
-- RVG nach Streitwert (4-facher Jahres-Pachtzins als Klagewert)
-- Bei Verhandlung: Geschäftsgebuehr 1,3
-- Klage: Verfahrens- und Terminsgebuehr je 1,3
-
-## Anschluss
-
-- `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` — bei Direktzahlungs-Streit
-- `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei verbundenen Genehmigungen
-- `landpacht-und-hoferbfolge-pruefen` — bei Generationen-Konstellation
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Paragrafenkette
-
-§§ 581-584 BGB (allgemeines Pachtverhältnis) → §§ 585-597 BGB (Landpachtrecht, Sonderregeln) → § 593 BGB (Pachtzins-Anpassung bei wesentlicher Änderung) → § 594a BGB (Kündigungsfristen) → § 594e BGB (fristlose Kündigung wichtiger Grund) → LPachtVG §§ 1-8 (Pachtanzeige, Aufhebungsrecht, Genehmigung) → GrdstVG (Grundstücksverkehr, Vorkaufsrecht) → LwVG (Zuständigkeit Landwirtschaftsgericht) → § 9 ZPO (Streitwert Dauerpacht)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen-Übersicht
-
-| Situation | Frist | Norm |
-|---|---|---|
-| Pachtanzeige beim Landwirtschaftsamt | 1 Monat nach Vertragsschluss | § 2 LPachtVG |
-| Kündigung Landpacht (9-Jahr-Vertrag) | 2 Jahre vor Ablauf | § 594a BGB |
-| Pachtzins-Anpassungsklage | frühestens 3 Jahre nach letzter Anpassung | § 593 BGB |
-| Verjährung Pachtzinsansprüche | 3 Jahre | §§ 195, 199 BGB |
-| Streitwert Pachtzinsstreit | 4-facher Jahrespachtzins | § 9 ZPO analog |
+Kennzeichne Tatsachenlücken und ungeprüfte Rechtsstände. Erfinde weder Aktenzeichen noch Behördenpraxis noch landesrechtliche Schwellenwerte.

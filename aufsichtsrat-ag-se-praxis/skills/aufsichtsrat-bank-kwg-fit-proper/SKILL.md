@@ -58,7 +58,7 @@ Prüft die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von
 - § 87 AktG
 - § 4 FinDAG
 - § 28 VwVfG
-- § 80 VwG
+- § 80 VwGO
 - § 24 KWG
 
 ### Leitentscheidungen

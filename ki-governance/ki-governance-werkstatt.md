@@ -53,9 +53,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anbieter: Mehrparteienkonflikt und Interessenmatrix | VO (EU) 2024/1689 Art. 2 und Art. 3; EuGH, Urteil vom 07.12.2023 - C-634/21 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristen- und Risikoampel | VO (EU) 2024/1689 Art. 2 und Art. 3; EuGH, Urteil vom 07.12.2023 - C-634/21 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VO (EU) 2024/1689 Art. 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | /anpassen | VO (EU) 2024/1689 Art. 5; EuGH, Urteil vom 27.02.2025 - C-203/22 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | System-Haftung und Versicherung | VO (EU) 2024/1689 Art. 5; EuGH, Urteil vom 27.02.2025 - C-203/22 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -148,58 +148,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Anbieter: Mehrparteienkonflikt und Interessenmatrix
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. /anpassen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. digitale Werkzeuge-Governance — Allgemein
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. digitale Werkzeuge-Anwendungsfall-Triage
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Case: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Dpia: Risikoampel, Gegenargumente und Verteidigungslinien
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Drift: Verhandlung, Vergleich und Eskalation
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Datenschutz-Grundverordnung: Erstprüfung, Rollenklärung und Mandatsziel
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Einstieg und Routing
-
-Dieser Einstieg routet Ki Governance vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - anbieter-mehrparteien-konflikt-und-interessen — Anbieter Mehrparteien Konflikt und Interessen - anpassen — Anpassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Fristen- und Risikoampel
+### 15.1. Fristen- und Risikoampel
 
 Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich ki-governance sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Governance: Compliance-Dokumentation und Aktenvermerk
+### 15.2. digitale Werkzeuge-Haftung und Versicherung
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. GPAI: Systemic-Risk-Modelle
+### 15.3. Triage: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Werbung: Beweislast, Darlegungslast und Substantiierung
 
 zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Inventar: Dokumentenmatrix, Lückenliste und Nachforderung
+### 15.5. Anbieter: Mehrparteienkonflikt und Interessenmatrix
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. /anpassen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. digitale Werkzeuge-Governance — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. digitale Werkzeuge-Anwendungsfall-Triage
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Case: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Dpia: Risikoampel, Gegenargumente und Verteidigungslinien
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, System-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer abrufenor, betroffene Personen. - Dokumente und Beweismittel sammeln und auf Lücken prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Drift: Verhandlung, Vergleich und Eskalation
+
+entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Datenschutz-Grundverordnung: Erstprüfung, Rollenklärung und Mandatsziel
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Governance: Compliance-Dokumentation und Aktenvermerk
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. GPAI: Systemic-Risk-Modelle
+
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

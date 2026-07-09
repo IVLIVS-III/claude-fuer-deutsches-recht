@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Aktenlektuere: Fristennotiz und nächster Schritt | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Aktenaufbereiter Strafrecht | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anklageschrift zerlegen | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,6 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG | Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -84,6 +85,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
+- Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 257 StPO Widerspruch in Hauptverhandlung gegen Beweisverwertung Belehrungsmängel-Beweise: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -141,58 +144,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel
+### 15.1. Aktenlektuere: Fristennotiz und nächster Schritt
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Aktenaufbereiter Strafrecht
+### 15.2. Anklageschrift zerlegen
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Akteneinsicht-Übersicht
+### 15.3. Beweismittel-Katalog
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Aktenlektuere: Fristennotiz und nächster Schritt
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Aktenvorblatt-Erstellung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Anklageschrift zerlegen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Anschluss-Routing
-
-Dieses Anschluss-Routing für Aktenaufbereiter Strafrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - aktenaufbereiter-erstprüfung-und-mandatsziel — Aktenaufbereiter Erstprüfung und Mandatsziel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Aussageanalyse Aussagepsychologie
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Beweismittel-Katalog
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Beweisverwertungsverbote prüfen
+### 15.4. Beweisverwertungsverbote prüfen
 
 Beweisverwertungsverbote prüfen: Paragraf 136a StPO (verbotene Vernehmungsmethoden), Paragraf 252 StPO (Aussageverweigerung Angehoeriger), Paragraf 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler Paragraf 136 StPO, Zufallsfunde Paragraf 108 StPO, Kernbereich privater. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Beziehungen: Zahlen, Schwellenwerte und Berechnung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Beziehungsmatrix Personen/Taten
+### 15.5. Fristen: Mehrparteienkonflikt und Interessenmatrix
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Chronologie: Compliance-Dokumentation und Aktenvermerk
+### 15.6. Fristenliste Strafverfahren
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fristenliste für ein Strafverfahren: Einspruch gegen Strafbefehl Paragraf 410 StPO, Berufung Paragraf 314 StPO, Revision Paragraf 341 sowie Paragraf 345 StPO, Rechtsmittel Paragraf 311 StPO, Wiedereinsetzung Paragraf 44 StPO, Untersuchungshaft-Prüfung Paragraf 117. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Aktenaufbereiter Strafrecht — Allgemein
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. U-Haft-Fristenwacht
+
+U-Haft-Fristen überwachen: 6-Monats-Prüfung Paragraf 121 StPO durch das OLG, Haftprüfung Paragraf 117 StPO und Haftbeschwerde Paragraf 117 Abs. 1 StPO, Aussetzung gegen Auflagen Paragraf 116 StPO. Prüfraster: dringender Tatverdacht, Haftgrund, Verhältnismäßigkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Widersprüche: Beweislast, Darlegungslast und Substantiierung
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Aktenaufbereiter Strafrecht
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Akteneinsicht-Übersicht
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Aktenvorblatt-Erstellung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

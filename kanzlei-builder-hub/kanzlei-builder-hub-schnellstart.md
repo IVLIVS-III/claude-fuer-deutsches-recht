@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Kanzlei Builder Hub ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du einen Dokumentenbestand schnell in verlässliche Versionen, Fundstellen, Lücken und ein unmittelbar nutzbares Arbeitsprodukt überführen.
 
 # Kanzlei Builder Hub — Schnellstart
 
@@ -17,48 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. /anpassen — Kanzleiprofil und Einstellungen anpassen: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-2. Kanzlei-Builder-Hub — Allgemein: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-3. /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
-4. Builder: Übersicht Einsteiger: Einführender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren.
-5. Builder: Zahlen, Schwellenwerte und Berechnung: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen.
-6. Community: Fristen, Form, Zuständigkeit und Rechtsweg: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
+1. Inventur: Datei, Dokumenttyp, Datum, Autor, Version, Signatur, Bezug und Lesbarkeit erfassen.
+2. Fundstellenlinie: jede Aussage, Zahl, Klausel und Frist mit Dokument, Seite, Zelle oder Nachricht verbinden.
+3. Konsistenzprüfung: Dublette, Widerspruch, fehlende Anlage, Rechenabweichung, Copy-Paste-Fehler und Versionsbruch markieren.
+4. Bearbeitung: Zielstruktur, Priorität, Redline, Tabelle, Entwurf oder Exportformat bestimmen und reproduzierbar ausführen.
+5. Übergabe: Ergebnis, Quellen, offene Lücken, geprüfte Version, Dateinamen und nächste Handlung dokumentieren.
+6. Inventur und Version: Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Paragraf 43a BRAO; Paragraf 43e BRAO — Dienstleister-Regelung; Paragraf 43a Abs. 2 BRAO |
+| Normenanker | BGB Paragraf 126, Paragraf 126a und Paragraf 126b; ZPO Paragraf 130a; ZPO Paragraf 138 und Paragraf 253 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Tatbestand | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen |
+| Beweislast | Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert |
+| Rechtsfolge | Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| /anpassen — Kanzleiprofil und Einstellungen anpassen | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kanzlei-Builder-Hub — Allgemein | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Builder: Übersicht Einsteiger | Einführender Überblick für Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Builder: Zahlen, Schwellenwerte und Berechnung | rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Community: Fristen, Form, Zuständigkeit und Rechtsweg | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Übergabe und Nachweis | Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Paragraf 43a BRAO — Allgemeine Berufspflichten des Rechtsanwalts (Sorgfalt, Verschwiegenheit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43e BRAO — Dienstleister-Regelung: Berufsrechtliche Anforderungen an IT-Dienstleister der Kanzlei: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht; unkontrollierte Skill-Updates können Mandatsdaten gefährden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO — Pflicht zur Aktenführung; das Installationsprotokoll dokumentiert alle Versionsänderungen als Teil der Kanzleiorganisation: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 2 BRAO (Verschwiegenheit; Sicherheit eingesetzter Werkzeuge): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO (Aktenführung; Versionsprotokollierung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50 BRAO — Pflicht zur Aktenführung; jede Statusänderung eines installierten Skills ist als Teil der Kanzleiorganisation zu protokollieren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
+- ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
+- ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
+- ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder /anpassen — Kanzleiprofil und Einstellungen anpassen, Kanzlei-Builder-Hub — Allgemein, /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review, Builder: Übersicht Einsteiger: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
 
 ## 8. Stop
 

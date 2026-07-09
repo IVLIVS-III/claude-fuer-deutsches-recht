@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Verfahrensrecht: Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten.
 4. Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen.
 5. Arbeitsprodukt: Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen.
-6. Aktenführung: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
+6. Beschwerdemanagement: Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenführung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Steuerberater: angestellter steuerberater nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Steuerberater: angestellter steuerberater nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Steuerberater: angestellter steuerberater nebentaetigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Steuerberater: angestellter steuerberater nebentaetigkeit - Rechtsprechungscheck, stärkste Gegenansicht. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Steuerberater: auslagerung an freie mitarbeiter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerdemanagement | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Zuständigkeitscockpit | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristenkontrolle | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Honorar, Gebühren und Vergütung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Steuerberater: kammerbeschwerde steuerberater - Organisationspflichten, Prävention, Team-Anweisung. | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Steuerberater: kammerbeschwerde steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -58,13 +58,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 203 Abs. 1 Nr. 3 StGB — Verschwiegenheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
-- BFH, Urteil vom 23.02.2010 - VII R 24/09 (Fachberater-Bezeichnung und Paragraf 43 StBerG)
-- BVerfG, Beschluss vom 26.10.2004 - 1 BvR 981/00 (Steuerberaterwerbung und Art. 12 GG)
-- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (drittschützende Beraterhaftung bei Insolvenzreifeprüfung)
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Aktenführung, Steuerberater: angestellter steuerberater nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung., Steuerberater: angestellter steuerberater nebentaetigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden., Steuerberater: angestellter steuerberater.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beschwerdemanagement, Fristen- und Zuständigkeitscockpit, Fristenkontrolle, Honorar, Gebühren und Vergütung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

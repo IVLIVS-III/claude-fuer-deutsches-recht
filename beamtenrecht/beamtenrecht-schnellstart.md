@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
 4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
 5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
-6. AGG Gleichstellung und Frauenvertretung: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
+6. Besold Mehrarbeit Vergütung Freizeitausgleich Beamte: Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| AGG Gleichstellung und Frauenvertretung | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenstruktur und Dokumentenintake | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsangemessene Alimentation | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Amtsangemessene Alimentation — Prüfschema BVerfG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besold Mehrarbeit Vergütung Freizeitausgleich Beamte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen und Sofortmaßnahmen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mehrarbeitsvergütung nach Paragraf 88 BBG | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Richteranklage Art. 98 GG | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,19 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Art. 33 GG (hergebrachte Grundsätze des Berufsbeamtentums): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragrafen 42, 75, 113 (Verpflichtungsklage, Untätigkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 24 AGG erstreckt das AGG auf Beamtinnen und Beamte mit Modifikationen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 22 AGG: Indizienbeweis genügt; der Dienstherr muss bei Indizien beweisen, dass kein Verstoß vorlag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder außer Amts gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstoesst, kann: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 98 Abs. 5 GG ermöglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
 - BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
-- BVerfG 2 BvR 1738/12 (Beamtenstreikverbot)
-- BVerwG 2 C 32.10 (amtsangemessene Alimentation)
-- BVerwG 2 C 33.20 (Disziplinarmaßnahme Verhältnismäßigkeit)
+- BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen
+- BVerfG, 05.05.2015 - 2 BvL 17/09 u.a.: R-Besoldung Sachsen-Anhalt; Parameterprüfung zur amtsangemessenen Alimentation
+- BVerfG, 04.05.2020 - 2 BvL 4/18: R-Besoldung Berlin; Mindestabstand und Alimentation
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGG Gleichstellung und Frauenvertretung, AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren, Aktenstruktur und Dokumentenintake, Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Besold Mehrarbeit Vergütung Freizeitausgleich Beamte, Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte, Fristen und Sofortmaßnahmen, Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

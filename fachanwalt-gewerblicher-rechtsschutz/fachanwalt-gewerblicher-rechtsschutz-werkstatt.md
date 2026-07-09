@@ -24,7 +24,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Werkart, Schöpfungshoehe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
+### 3.1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
 
 Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Designeintragung Neuheit Paragraf 3 Designg EuGH | UrhG Paragraf 2; EuGH, Urteil vom 16.07.2009 - C-5/08 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 15 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | UWG-Abmahnung prüfen versenden oder auf Eingang reagieren | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Patent-Nichtigkeitsklage | UrhG Paragraf 15; EuGH, Urteil vom 13.02.2014 - C-466/12 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | UrhG Paragraf 51 | Zitatrecht | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | UrhG Paragraf 97 | Unterlassung und Schadensersatz | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | KUG Paragraf 22 und Paragraf 23 | Bildnisschutz und Ausnahmen | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
-| Paragraf 174 BGB-Rüge | Unverzüglich nach Empfang der Abmahnung erheben, wenn keine Vollmacht beigefügt; ansonsten ist die Rüge | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Paragraf 22 PatG | Klagegrunde Nichtigkeit | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,14 +85,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - UrhG Paragraf 51: Zitatrecht.
 - UrhG Paragraf 97: Unterlassung und Schadensersatz.
 - KUG Paragraf 22 und Paragraf 23: Bildnisschutz und Ausnahmen.
-- Paragraf 174 BGB-Rüge: Unverzüglich nach Empfang der Abmahnung erheben, wenn keine Vollmacht beigefügt; ansonsten ist die Rüge verspätet: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 14 MarkenG — Markenverletzung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 97a UrhG — Abmahnung im Urheberrecht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 339-345 BGB — Vertragsstrafe: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1066 ZPO — Vollstreckbarkeit Schiedsspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 14 MarkenG / Paragraf 3 UWG → Paragraf 8 UWG (Unterlassungsanspruch) → Paragraf 13 Abs. 3 UWG (Kostenerstattung) → Paragrafen 339-345 BGB (Vertragsstrafe) → Paragraf 8c UWG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 21 DesignG: Bekanntmachung kann bis zu 30 Monate aufgeschoben werden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 33 Abs. 3 DesignG: Nichtigkeitseinrede im Verletzungsprozess möglich: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 22 PatG — Klagegrunde Nichtigkeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 1 PatG — Patentfahigkeit (technische Erfindung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 3 PatG — Neuheit (StdT-Begriff): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 4 PatG — Erfinderische Taetigkeit (nicht naheliegend): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 21 Abs. 1 Nr. 2 PatG — Unzureichende Offenbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 81 PatG — Nichtigkeitsklage vor BPatG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 65 PatG — Beschraenkung des Patentanspruchs durch Inhaber: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 110 PatG — Berufung zum BGH (Nichtigkeitssenat X. ZS): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -102,7 +102,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
 - EuGH 13.11.2019 C-32/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- EuGH 21.09.2017 C-361/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 02.05.2022 I ZB 91/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH 25.06.2020 I ZR 209/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 9. Prüfraster
 
@@ -152,58 +153,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abmahnung Formular Portal und Einreichung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. UWG-Abmahnung prüfen versenden oder auf Eingang reagieren
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Anschluss-Routing
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Bezüge Zahlen Schwellen und Berechnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Designeintragung Neuheit Paragraf 3 Designg EuGH
+### 15.1. Designeintragung Neuheit Paragraf 3 Designg EuGH
 
 Wettbewerber zeigt vor Anmeldung Design auf Messe; Eintragung löschen? - Paragraf 3 DESIGNG - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - EuGH 13.11.2019 C-32/18 — nur verwenden, wenn die Fundstelle über ein amtliches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. DesignG: Behörden, Gerichte und Registerwege
+### 15.2. Patent-Nichtigkeitsklage
+
+1. Patent-Art: DE-Patent (DPMA), EP-Patent klassisch (vor BPatG) oder Einheitspatent EPG/UPC? 2. Strategische Rolle: Offensiv (fremdes Patent raumen) oder defensiv (Verletzungsklage abwehren)? 3. Stand der Technik: Existiert konkrete Entgegenhaltung (Vorveröffentlichung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Faevvollzug Neu 006 Abschlussschreiben Kosten und Frist
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Designrecht Praxis Grundlagen
+### 15.4. Gewerblichen Tatbestand Beweis und Belege
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Designschutz EU Gemeinschaftsgeschmacksmuster EuGH C 419 13
-
-Konkurrent kopiert Sitzbezug-Design; Streit über Schutzumfang. - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - EuGH 21.09.2017 C-361/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren
+### 15.5. Lizenzanaloger Fristennotiz und Nächster Schritt
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Designverletzung Fehlerkatalog
+### 15.6. Markenrecht Löschungsantrag Paragraf 49 Markeng BGH I Zb 91 21
 
-Dieser Fehlerkatalog prüft Arbeitsergebnisse für Fachanwalt Gewerblicher Rechtsschutz vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung. - Symptom: Frist falsch berechnet oder übersehen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Markeninhaber benutzt Marke seit 6 Jahren nicht; Löschungsantrag durch Wettbewerber. - Paragraf 49 MARKENG - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - BGH 02.05.2022 I ZB 91/21 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Dokumentenintake
+### 15.7. Rechtsschutz Fristen Form und Zuständigkeit
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Domainrecht Löschung BGH I Zr 138 19
+### 15.8. Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-Markeninhaber verlangt Löschung der Domain konkurrent-marke.de. - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Dpma Mehrparteien Konflikt und Interessen
+### 15.9. Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg
+
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Verfügung: Beweislast, Darlegungslast und Substantiierung
+
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Verletzungsklage: Sonderfall und Edge-Case-Prüfung
+
+Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Urheberrecht Abmahnung Paragraf 97a Urhg BGH I Zr 9 18
+
+Filesharing-Abmahnung mit Gegenstandswert 5.000 EUR; Privatperson. - Paragraf 97a URHG - Paragraf 14 MarkenG - Paragraf 4 UWG - Paragraf 97 UrhG - Paragraf 9 DesignG - Paragraf 139 PatG - BGH 12.05.2016 I ZR 1/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Einstweilige Verfügung: Beweislast und Darlegungslast
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Verletzungsklage: Sonderfälle und Edge Cases
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

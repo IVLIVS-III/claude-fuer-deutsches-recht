@@ -50,7 +50,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - § 4 FZulG
 - § 6 FZulG
 - § 1 FZulG
-- § 70 VwG
+- § 70 VwGO
 - § 7 FZulG
 - § 9 FZulG
 - § 28 VwVfG

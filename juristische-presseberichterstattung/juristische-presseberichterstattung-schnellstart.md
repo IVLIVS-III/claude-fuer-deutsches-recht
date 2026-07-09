@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, soll zuerst vorhandenes Material zum Thema Juristische Presseberichterstattung ausgewertet und daraus ein verwertbarer Erststand gebaut werden.
+Wenn du das hier öffnest, willst du aus Gerichts- oder Behördenmaterial eine veröffentlichungsfähige, faire und rechtlich belastbare Meldung mit sauberem Quellen- und Statusnachweis erstellen.
 
 # Juristische Presseberichterstattung — Schnellstart
 
@@ -17,44 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Anonymisierung und Identifizierbarkeit: entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen.
-2. Bildunterschrift und Foto KUG: prüft Fotoauswahl, Bildunterschrift, Einwilligung, Zeitgeschichte, Beiwerk und Schutz unbeteiligter Personen.
-3. Entscheidung Meldung und Urteilsbericht: macht aus Urteil, Beschluss oder Pressemitteilung eine Meldung mit Tenor, Gründen, Folgen und Rechtsmittelstatus.
-4. Faktencheck Quellenmatrix: baut eine Quellenmatrix für jede Tatsachenbehauptung, priorisiert Lücken und markiert Formulierungsrisiken.
-5. Diskrete Berichterstattung Familienrecht und Erbrecht: Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen.
-6. FAQ und Explainer Rechtsfrage: erklärt juristische Streitfragen als FAQ oder Hintergrundstück mit klarer Sprache und ohne Scheinsicherheit.
+1. Redaktionsauftrag: Medium, Zielgruppe, Format, Länge, Redaktionsschluss, Veröffentlichungsort und gewünschte Aussage bestimmen.
+2. Quellenmatrix: jede Tatsachenbehauptung, ihren Aktenfund, Quellenstatus, Gegenquelle und offene Lücke zeilenweise sichern.
+3. Aussageprüfung: Tatsache, Verdacht, Werturteil, Zitat, Gerichtsposition und eigene Einordnung strikt trennen.
+4. Schutzprüfung: Stellungnahme, Identifizierbarkeit, Unschuldsvermutung, Privat- oder Sozialsphäre, Bildrecht und Prangerwirkung abwägen.
+5. Arbeitsprodukt: Meldung, Sitzungsbericht, Pressemitteilung, Headline-Set, Fragenkatalog, Quellenmatrix oder Nachtrag veröffentlichungsfertig ausgeben.
+6. Entscheidungsmeldung: Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | Artikel 5 GG; BGB Paragraf 823 und Paragraf 1004 analog |
-| Rechtsprechung | BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25 |
-| Tatbestand | entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
+| Normenanker | GG Artikel 5 Absatz 1 und Absatz 2; GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1; BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog |
+| Rechtsprechung | BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25; BGH, Urteil vom 16.11.2021 - VI ZR 1241/20 |
+| Tatbestand | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen |
+| Beweislast | Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe |
+| Rechtsfolge | veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Anonymisierung und Identifizierbarkeit | entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bildunterschrift und Foto KUG | prüft Fotoauswahl, Bildunterschrift, Einwilligung, Zeitgeschichte, Beiwerk und Schutz unbeteiligter Personen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entscheidung Meldung und Urteilsbericht | macht aus Urteil, Beschluss oder Pressemitteilung eine Meldung mit Tenor, Gründen, Folgen und Rechtsmittelstatus. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Faktencheck Quellenmatrix | baut eine Quellenmatrix für jede Tatsachenbehauptung, priorisiert Lücken und markiert Formulierungsrisiken. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Diskrete Berichterstattung Familienrecht und Erbrecht | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| FAQ und Explainer Rechtsfrage | erklärt juristische Streitfragen als FAQ oder Hintergrundstück mit klarer Sprache und ohne Scheinsicherheit. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entscheidungsmeldung | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verdachtsberichterstattung | Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gerichts- und Sitzungsbericht | Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bild, Name und Anonymisierung | KUG, Privatheit, Prangerwirkung, Wiedererkennbarkeit und Informationswert in Text, Überschrift und Bild konsistent abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Interview und Stellungnahme | konkrete Fragen, angemessene Antwortfrist, Antwortauswertung und dokumentierten Veröffentlichungsentscheid vorbereiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Korrektur und Nachtrag | Unwahrheit, ausgeräumten Verdacht, Gegendarstellung, Richtigstellung, Nachtrag und Reichweitenfolge getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- Artikel 5 GG: Presse- und Berichterstattungsfreiheit als Ausgangspunkt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragraf 823 und Paragraf 1004 analog: Persönlichkeitsrecht, Unterlassung und Folgenbeseitigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: aktueller Suchanker zur Verdachtsberichterstattung im Wirtschaftsverfahren
+- GG Artikel 5 Absatz 1 und Absatz 2: Meinungs- und Pressefreiheit sowie ihre Schranken.
+- GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1: Schutz des allgemeinen Persönlichkeitsrechts.
+- BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog: Unterlassung, Beseitigung und Ersatz bei Persönlichkeitsrechtsverletzungen.
+- KUG Paragraf 22 und Paragraf 23: Einwilligung, Bildnisse aus dem Bereich der Zeitgeschichte und berechtigte Interessen.
+- BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+- BGH, Urteil vom 16.11.2021 - VI ZR 1241/20: Identifizierende Verdachtsberichterstattung verlangt Mindestbestand an Beweistatsachen, offene Statussprache, öffentliches Interesse und regelmäßig Gelegenheit zur Stellungnahme.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Anonymisierung und Identifizierbarkeit, Bildunterschrift und Foto KUG, Entscheidung Meldung und Urteilsbericht, Faktencheck Quellenmatrix: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung; Entscheidungsmeldung: Anlass, Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und Quelle in dieser Reihenfolge.
 
 ## 8. Stop
 

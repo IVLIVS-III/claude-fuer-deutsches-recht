@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Einstellung gegen Auflage — Paragraf 153a StPO | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anschluss-Routing | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Einstellung gegen Auflage — Paragraf 153a StPO | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,7 +63,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen | Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| Paragraf 55-StGB-Disziplin | Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -85,6 +85,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
+- Paragraf 55-StGB-Disziplin: Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a StPO erlaubt die Einstellung des Verfahrens gegen Auflagen oder Weisungen, wenn das öffentliche Interesse an der Strafverfolgung beseitigt werden kann und die Schwere: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 1 StPO — Vorläufige Einstellung mit Auflagen durch die Staatsanwaltschaft (mit Zustimmung des Gerichts, ab dem Zwischenverfahren bereits Gerichts-Zustimmung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a Abs. 2 StPO — Einstellung durch das Gericht in jedem Stadium: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -92,7 +93,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 153 StPO — Einstellung ohne Auflage bei Geringfuegigkeit (Bagatelle): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153a StPO ist keine Strafe; daher kein BZRG-Eintrag, kein Vorstrafenstatus. Aber:: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 153 StPO bei Bagatellen; ohne Auflage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 153a StPO bei mittlerer Schwere mit Auflage: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -150,13 +150,13 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Einstellung gegen Auflage — Paragraf 153a StPO
+### 15.1. Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
+
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Einstellung gegen Auflage — Paragraf 153a StPO
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anschluss-Routing
-
-Dieses Anschluss-Routing für Strafzumessung wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - 153a-stpo-iii-bewährung-stgb — 153a STPO III Bewährung STGB - besonders-formular-portal-und-einreichung — Besonders. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Besonders: Formular, Portal und Einreichungslogik
 
@@ -178,30 +178,30 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Einstieg und Routing
-
-Dieser Einstieg routet Strafzumessung vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt. - 153a-stpo-iii-bewährung-stgb — 153a STPO III Bewährung STGB - besonders-formular-portal-und-einreichung — Besonders Formular. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk
+### 15.8. Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Freiheitsstrafe ohne Bewährung — Vollstreckung
+### 15.9. Freiheitsstrafe ohne Bewährung — Vollstreckung
 
 Freiheitsstrafe ohne Bewährung. Anrechnung Untersuchungshaft und Auslieferungshaft Paragraf 51 StGB. Vollstreckungsplanung Reststrafenaussetzung Paragraf 57 StGB Halbstrafe Drittel. Lebenslang Paragraf 57a StGB. Strafaufschub Paragraf 456 StPO. Strafunterbrechung Paragraf 455. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Freiheitsstrafe — Strafmass prüfen
+### 15.10. Freiheitsstrafe — Strafmass prüfen
 
 Konkrete Zumessung der Freiheitsstrafe nach Paragrafen 38 39 46 StGB. Strafrahmen prüfen, Strafhöhe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewährung (Paragraf 56 StGB) und Aussetzung des Strafrests (Paragraf 57 StGB). Faustwerte für typische Tatbestände. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Geldstrafe: Zahlen, Schwellenwerte und Berechnung
+### 15.11. Geldstrafe: Zahlen, Schwellenwerte und Berechnung
 
 rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Tagessatzanzahl der Geldstrafe — Paragraf 40 Abs. 1 StGB
+
+Bestimmung der Tagessatzanzahl der Geldstrafe nach Paragraf 40 Abs. 1 StGB. 5 bis 360 Tagessätze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessätze. Die Anzahl bildet die Schuldkomponente und folgt Paragraf 46 StGB. Abgrenzung zur Tagessatzhöhe, die das Nettoeinkommen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Geldstrafe vs. Freiheitsstrafe — Paragraf 47 StGB
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Gesamtstrafenbildung — Paragrafen 53 und 54 StGB
+
+Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz Paragrafen 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der höchsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhöhung. Obergrenze Paragraf 54 Abs. 2 StGB. Sondergrenzen Geldstrafe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

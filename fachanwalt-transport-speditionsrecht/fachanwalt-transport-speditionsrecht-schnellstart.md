@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Anwendbares Recht: Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen.
 4. Materielle Prüfung nach dem berufenen Recht: bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.
 5. Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.
-6. Adsp: Internationaler Bezug und Schnittstellen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
+6. CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Adsp: Internationaler Bezug und Schnittstellen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Dieses Anschluss-Routing für Fachanwalt Transport Speditionsrecht wählt nach dem ersten Ergebnis die passende. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | CMR Haftung art 17 CMR | Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Cotif: Schriftsatz-, Brief- und Memo-Bausteine | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dokumentenintake | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR | Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehicle) – ist technisch Realität. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Speditions-Haftung Paragrafen 453 ff. HGB | Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen. - Vermittlung Frachtvertrag - Spediteur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CMR-Haftung – Grenzüberschreitender Straßengüterverkehr | Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreitenden Straßengüterverkehr. Sie gilt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Frachtführerhaftung: Fristennotiz und nächster Schritt | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,14 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragraf 1 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 3 ProdHaftG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 425 Abs. 1 HGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Adsp: Internationaler Bezug und Schnittstellen, Anschluss-Routing, CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen, CMR Haftung art 17 CMR: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen, CMR Haftung art 17 CMR, Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR, Speditions-Haftung Paragrafen 453 ff. HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

@@ -22,14 +22,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
 4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, außergewöhnlicher Umstand oder Mitverschulden prüfen.
 5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
-6. 315C: Internationaler Bezug und Schnittstellen: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
+6. Blitzer Messung Paragraf 3 StVO: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; PflVG Paragraf 115 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Rechtsprechung | BGH 22.06.2022 IV ZR 25/21; BVerwG 26.04.2020 3 C 25/19 |
 | Tatbestand | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren |
 | Beweislast | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände |
 | Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| 315C: Internationaler Bezug und Schnittstellen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anschluss-Routing | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Autonom: Abschlussprodukt und Übergabe | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bezüge: Behörden-, Gerichts- oder Registerweg | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Blitzer Messung Paragraf 3 StVO | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bussgeld Einspruch Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer. | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dieselskandal Paragraf 826 BGB | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bußgeldbescheid prüfen | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tempo-Messung Beweisanfechtung | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fahrerlaubnis Entzug Paragraf 3 StVG | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,7 +55,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 115 Abs. 1 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 249 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 253 Abs. 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 69 StGB — Entziehung Fahrerlaubnis; Wiedererteilungssperre Paragraf 69a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 115 VVG — Direktanspruch des Geschädigten gegen den Haftpflichtversicherer des Schädigers; Einreden des Versicherers nach Paragrafen 116, 117 VVG begrenzt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH 22.06.2022 IV ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerwG 26.04.2020 3 C 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 
 ## 7. Antwortform
 

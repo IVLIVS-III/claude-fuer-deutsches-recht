@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | AGB-Klauselkontrolle Bank | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerdemanagement | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Organhaftung | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechnungsreview Kanzlei | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AnzV/KWG-Anzeigenkalender BaFin und Bundesbank | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| APP-Fraud Bank | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichtsrat und Ausschüsse | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,7 +61,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB-Klauselkontrolle Bank, Rechnungsreview Kanzlei, Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien, AnzV/KWG-Anzeigenkalender BaFin und Bundesbank: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB-Klauselkontrolle Bank, Beschwerdemanagement, Organhaftung, Rechnungsreview Kanzlei: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 
 ## 8. Stop
 

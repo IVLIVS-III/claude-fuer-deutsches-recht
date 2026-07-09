@@ -73,7 +73,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist |
-| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen |
+| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnähe kann Anfechtungsrisiken begrenzen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -100,7 +100,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
-- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnaehe kann Anfechtungsrisiken begrenzen.
+- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnähe kann Anfechtungsrisiken begrenzen.
 - BGH 17.10.2017 IX ZR 65/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
 - BGH IX ZR 129/22 vom 18.04.2024 — Bestätigung der Neuausrichtung der Vorsatzanfechtung; konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung darzulegen; einfaches Bestreiten des außenstehenden
 - BGH IX ZR 239/22 vom 18.04.2024 — Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung (Paragraf 135 InsO)
@@ -166,46 +166,46 @@ Insolvenzverwalter ficht Zahlung 4 Jahre vor Eröffnung an. - Paragraf 133 InsO 
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anschluss-Routing
-
-Dieses Anschluss-Routing für Fachanwalt Insolvenz Sanierungsrecht wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung. - absonderungsrecht-paragraf-50-inso — Absonderungsrecht Paragraf 50 Inso. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Antragspflicht Schriftsatz Brief und Memo Bausteine
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Berater Red Team und Qualitätskontrolle
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Chronologie Abschlussprodukt und Übergabe
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Dokumentenintake
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Eigenverwaltung Schutzschirm Paragraf 270b InsO
+### 15.4. Eigenverwaltung Schutzschirm Paragraf 270b InsO
 
 Prüfe Eigenverwaltung Schutzschirm Paragraf 270b InsO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 270b InsO - Paragraf 17 Abs. 1 und 2 InsO - Paragraf 19 Abs. 2 InsO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht
+### 15.5. Anfechtungsklage des Insolvenzverwalters
 
-] Antragspflicht, Eigenverwaltung, Anfechtung, Restrukturierung — die 3-Wochen-Frist Paragraf 15a InsO ist der Taktgeber. ] ] Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welche Rechtshandlungen sollen eingeklagt werden, einzeln mit Datum, Betrag und Empfänger? 2. Ist der Zeitpunkt nach Paragraf 140 InsO geklärt oder nur das Buchungsdatum bekannt? 3. Welche Norm trägt jede einzelne Handlung: Paragraf 130, Paragraf 131, Paragraf 132. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Einstieg, Schnelltriage und Fallrouting
+### 15.6. Inso P006 Sofortige Beschwerde
+
+Inso P003e Unternehmensgruppe P004b ordnet den Fall über die tragenden Prüfungslinien: Paragraf 3e InsO (Unternehmensgruppe) im Mandat prüfen, Paragraf 4b InsO (Rückzahlung und Anpassung der gestundeten, Paragraf 4c InsO (Aufhebung der Stundung) im Mandat prüfen. Arbeite zuerst. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Inso P043 Haftung Mehrerer Personen
+
+Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Inso P060 Haftung Des Insolvenzverwalters
+
+Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Inso P071 Haftung Der Mitglieder Des Glaubigerausschusses
+
+Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Inso P093 Personliche Haftung Der Gesellschafter
+
+Inso P092 Gesamtschaden P093 Personliche P227 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 92 InsO (Gesamtschaden) im Mandat prüfen, Paragraf 93 InsO (Persönliche Haftung der Gesellschafter) im, Paragraf 227 InsO (Haftung des Schuldners) im Mandat prüfen. Arbeite. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Inso P104 Fixgeschafte Finanzleistungen Vertragliches Liquidatio
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Eröffnung Behörden Gericht und Registerweg
+### 15.12. Inso P109 Schuldner Als Mieter oder Pachter
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Erstgespraech Mandatsannahme
+### 15.13. Inso P110 Schuldner Als Vermieter oder Verpachter
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Erstprüfung und Mandatsziel
+### 15.14. Inso P111 Veraußerung Des Miet oder Pachtobjekts
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

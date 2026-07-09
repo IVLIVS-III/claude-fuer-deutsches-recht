@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abgetretene Forderung und Zession | BGB Paragraf 104 bis Paragraf 185; BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anfechtungsklage AnfG — Prozessuales | BGB Paragraf 104 bis Paragraf 185; BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anfechtung nach Paragraf 142 BGB und Rückabwicklung | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH VIII ZR 91/04 (Saldotheorie) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristen und Anfechtungszeitraum — AnfG | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH VIII ZR 91/04 (Saldotheorie) | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -86,14 +86,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- Paragraf 404 BGB Einwendungserhalt: Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 23 71 GVG — Sachliche Zuständigkeit (AG unter EUR 5.000 / LG über EUR 5.000): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 813 BGB (Leistung trotz Einrede): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 814 BGB (Kenntnis der Nichtschuld): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 815 BGB (Nichteintritt des Erfolges): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 817 BGB (Verstoß gegen Verbotsgesetz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 818 BGB (Umfang des Bereicherungsanspruchs): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 819 BGB (verschärfte Haftung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -151,58 +151,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abgetretene Forderung und Zession
-
-Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.2. Anfechtung nach Paragraf 142 BGB und Rückabwicklung
-
-Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches Spezialregime. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Anfechtungsklage AnfG — Prozessuales
+### 15.1. Anfechtungsklage AnfG — Prozessuales
 
 1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist nach Paragrafen 195 199 BGB (3 Jahre) noch nicht abgelaufen? 3. Ist der Streitwert für AG (bis EUR 5.000) oder LG (über EUR 5.000)? 4. Wird Duldung (Regelfall). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Fristen und Anfechtungszeitraum — AnfG
+### 15.2. Fristen und Anfechtungszeitraum — AnfG
 
-Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: Paragrafen 3 4 AnfG, Paragrafen 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Wann wurde die anfechtbare Rechtshandlung vorgenommen (Datum)? 2. Wird Vorsatzanfechtung (Paragraf 3 AnfG, 10 Jahre) oder unentgeltliche Leistung (Paragraf 4 AnfG, 4 Jahre) geltend gemacht? 3. Wann hat der Gläubiger von der Rechtshandlung und dem Anfechtungsgrund Kenntnis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Einreden und Verteidigung des Anfechtungsgegners — AnfG
+### 15.3. Beweise und Darlegungslast im Bereicherungsrecht
 
-1. Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4 AnfG)? 2. Liegt echte Unentgeltlichkeit vor oder wurde eine Gegenleistung erbracht? 3. Hatte der Anfechtungsgegner tatsächlich Kenntnis vom Benachteiligungsvorsatz des. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. AnfG-Grundtatbestand und Anfechtungsberechtigte
+### 15.4. Entreicherung: Beweislast und Substantiierung
 
-Das Anfechtungsgesetz (AnfG) ermöglicht Gläubigern außerhalb des Insolvenzverfahrens, Vermögensverschiebungen des Schuldners rückgängig zu machen, die ihre Befriedigung vereiteln oder erschweren. Zentraler Unterschied zur Insolvenzanfechtung (Paragrafen 129 ff. InsO): hier. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: wenn Paragraf 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Was war. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Mittelbare Benachteiligung und Kongruenz — AnfG
+### 15.5. Klageantrag: Zahlung, Herausgabe, Zug um Zug
 
-1. Handelt es sich um unmittelbare oder mittelbare Benachteiligung? 2. Entsprach die Leistung dem vertraglich Geschuldeten (kongruent) oder nicht (inkongruent)? 3. Ist ein Bargeschäft (gleichwertiger Austausch) denkbar, das Benachteiligung entfallen lässt? 4. Kausalzusammenhang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches praktische Ziel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Rechtsfolge: Rückgewähr — Paragraf 11 AnfG
+### 15.6. Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV
 
-1. Ist der Gegenstand noch beim Anfechtungsgegner vorhanden? (Duldungsklage möglich) 2. Wurde der Gegenstand weiterveräußert oder verbraucht? (Wertersatz nach Paragraf 11 Abs. 2 AnfG) 3. War der Anfechtungsgegner bösgläubig? (verschärfte Haftung für Nutzungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Besteht ein wirksamer Vertrag mit eigenem Rückabwicklungsregime (Paragrafen 346 ff. BGB bei Rücktritt) — verdrängt dieser Paragraf 812 BGB? 2. Ist der Vertrag nichtig (Paragrafen 134, 138, 142 BGB) — fehlt damit der Rechtsgrund für Paragraf 812 BGB? 3. Soll Schadensersatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Unentgeltliche Leistung — Paragraf 4 AnfG
+### 15.7. Miet- und pachtrechtliche Rückabwicklung
 
-1. Erhielt der Schuldner eine gleichwertige Gegenleistung? (Verneinung → unentgeltlich) 2. Liegt eine gemischte Schenkung vor? (dann nur teilweise Anfechtung) 3. Wann erfolgte die Leistung — innerhalb der Vier-Jahres-Frist? 4. Handelt es sich um eine Erfüllung einer sittlichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Vorsatzanfechtung — Paragraf 3 Abs. 1 AnfG
+### 15.8. Nichtiger Vertrag nach Paragrafen 134 und 138 BGB
 
-1. Hatte der Schuldner Benachteiligungsvorsatz (zumindest dolus eventualis)? 2. Kannte der Anfechtungsgegner den Benachteiligungsvorsatz zum Zeitpunkt der Handlung? 3. Ist der Anfechtungsgegner eine nahestehende Person i.S.d. Paragraf 138 InsO (analog)? (Vermutungsregel!) 4. Lag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches Spezialregime steht neben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Anspruchsziel und Rückabwicklungsarchitektur
+### 15.9. Output: Anfechtungsklage nach AnfG
 
-Anwendungsfall: das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Liegt ein vollstreckbarer Titel des Gläubigers gegen den Schuldner vor (Paragraf 2 AnfG — Voraussetzung)? 2. Hat die Zwangsvollstreckung in das Schuldnervermögen nicht zur vollen Befriedigung geführt (Fruchtlosigkeit)? 3. Welcher Anfechtungstatbestand ist einschlägig —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Anweisungsfall: Deckungs- und Valutaverhältnis
+### 15.10. Output: Klageschrift Bereicherungsklage
 
-Anwendungsfall: ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welcher Bereicherungsanspruch ist einschlägig (Paragraf 812 Abs. 1 S. 1 Alt. 1 Leistungskondiktion, Alt. 2 Nichtleistungskondiktion, Paragraf 816 BGB, Paragraf 822 BGB)? 2. Was konkret ist herauszugeben (Geld, Sache, Nutzung) — Naturalrestitution oder Wertersatz (Paragraf 818. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Arbeitsrechtliche Überzahlung
+### 15.11. Verjährung: Bereicherung, AnfG und InsO-Anfechtung
 
-Anwendungsfall: arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Wann ist der Bereicherungs- oder Anfechtungsanspruch entstanden, und wann hatte der Gläubiger Kenntnis? 2. Ist die dreijährige Regelverjährung (Paragraf 195 BGB) bereits abgelaufen? 3. Welche BGB-Höchstfrist ist einschlägig, und ab welchem Zeitpunkt läuft sie wirklich? 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Ausschluss nach Paragraf 814 BGB — Kenntnis der Nichtschuld
+### 15.12. Verschärfte Haftung — Paragraf 819 BGB bei Bösgläubigkeit
 
-1. Hat der Leistende im Zeitpunkt der Leistung alle tatsächlichen Umstände gekannt, die zur Nichtschuld führen? 2. Lag nur ein Rechtsirrtum vor (Tatsachen bekannt, rechtliche Wertung fehlt)? 3. Beruhte die Leistung auf bloßem Zweifel oder Verdacht (kein Paragraf 814-Ausschluss)?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Verteidigung gegen Bereicherungsklage
+
+Anwendungsfall: eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches praktische Ziel soll. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Abgetretene Forderung und Zession
+
+Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

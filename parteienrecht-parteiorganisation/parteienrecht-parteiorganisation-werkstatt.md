@@ -17,7 +17,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 ## 2. Stop-Kriterien
 
 - Notarielle Form oder Registerfrist ist ungeklärt.
-- Organhaftung, Insolvenznaehe oder Interessenkonflikt steht im Raum.
+- Organhaftung, Insolvenznähe oder Interessenkonflikt steht im Raum.
 - Gesellschafterliste, Vollmacht oder Beschlussfassung ist widersprüchlich.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein entscheidungsreifer Entwurf mit offen markierten Prüfpunkten ausgegeben.
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abgeordnetengesetz Bund | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Fristkalender Partei | BGB Paragraf 705; BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abgeordnetengesetze Länder | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Geheime Abstimmung | HGB Paragraf 105; BGH, Urteil vom 04.07.2005 - II ZR 354/03 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -61,9 +61,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | HGB Paragraf 105 | offene Handelsgesellschaft | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 13 | Rechtsnatur der GmbH | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | GmbHG Paragraf 15 | Übertragung von Geschäftsanteilen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| GmbHG Paragraf 43 | Sorgfalt und Verantwortlichkeit der Geschäftsführer | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 | AktG Paragraf 93 | Sorgfaltspflicht und Verantwortlichkeit des Vorstands | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
-| Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG | Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG (Indemnität, Immunität | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Art. 21 GG (Parteien) | Art. 21 GG (Parteien) | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -83,12 +83,12 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsfuehrer.
+- GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
+- Art. 21 GG (Parteien): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG (Indemnität, Immunität, Behinderungsverbot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 137 I GG ermöglicht Inkompatibilitätsregelungen (Beamte, Soldaten): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 108e StGB Abgeordnetenbestechung: subjektiver Tatbestand erfordert "Auftrag" (Stimme/Handeln) als Gegenleistung; bloß Wahlkampfspende reicht nicht: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 21 GG (Parteien): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -146,57 +146,57 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abgeordnetengesetz Bund
+### 15.1. Fristkalender Partei
 
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Abgeordnetengesetze Länder
-
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.3. Bundeswahlleiter-Kommunikation
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.4. Befangenheit und Sitzungsleitung
-
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.5. Beitragsordnung Partei
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.6. Beschlussvorlagen Partei
-
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Bewerberzustimmung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Daten und Parteiwechsel
-
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Europawahl
-
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Schnittstelle Fraktion/Partei
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Fristkalender Partei
-
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Gebietsgliederung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Geheime Abstimmung
+### 15.2. Geheime Abstimmung
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geheime. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Abgeordnetengesetz Bund
+
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.4. Abgeordnetengesetze Länder
+
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.5. Bundeswahlleiter-Kommunikation
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.6. Befangenheit und Sitzungsleitung
+
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.7. Beitragsordnung Partei
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.8. Beschlussvorlagen Partei
+
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Bewerberzustimmung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.10. Daten und Parteiwechsel
+
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.11. Europawahl
+
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. Welche Rolle hat die betroffene Person oder Organisation? 2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum? 3. Welche Behörde, welches Gericht, welches Register, welcher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.12. Schnittstelle Fraktion/Partei
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Gebietsgliederung
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG). - Dokumente. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Geschäftsordnung Parteitag
 

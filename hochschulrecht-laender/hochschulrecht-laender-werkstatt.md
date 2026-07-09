@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Akkreditierung: Programm und System | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Lehrbeauftragte Status und Vergütung | VwVfG Paragraf 35; BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Akkreditierung und Qualität | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Wisszeitvg und Befristung | VwVfG Paragraf 28; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -150,58 +150,58 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Akkreditierung: Programm und System
+### 15.1. Lehrbeauftragte Status und Vergütung
+
+Arbeitsfokus: Lehrbeauftragte Status und Vergütung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.2. Wisszeitvg und Befristung
+
+Arbeitsfokus: Wisszeitvg Und Befristung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang. - Art. 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.3. Akkreditierung: Programm und System
 
 Arbeitsfokus: Akkreditierung: Programm und System. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Akkreditierung und Qualität
+### 15.4. Akkreditierung und Qualität
 
 Arbeitsfokus: Akkreditierung Und Qualität. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang. - Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Alumni, Stiftung und Spenden-Compliance
+### 15.5. Alumni, Stiftung und Spenden-Compliance
 
 Arbeitsfokus: Alumni, Stiftung und Spenden-Compliance. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungszugang. - Art. 3 Abs. 1 GG — Gleichbehandlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Anerkennung ECTS und Ausland
+### 15.6. Anerkennung ECTS und Ausland
 
 Arbeitsfokus: Anerkennung ECTS Und Ausland. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang. - Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Ausgründung und Transferstelle
+### 15.7. Ausgründung und Transferstelle
 
 Arbeitsfokus: Ausgründung und Transferstelle. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungszugang. - Art. 3 Abs. 1 GG — Gleichbehandlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. BAföG und Hochschulstatus
+### 15.8. BAföG und Hochschulstatus
 
 Arbeitsfokus: BAföG Und Hochschulstatus. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungszugang. - Art. 3 Abs. 1 GG — Gleichbehandlung im Zugang/Status. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Barrierefreiheit Campus und digital
+### 15.9. Barrierefreiheit Campus und digital
 
 Arbeitsfokus: Barrierefreiheit Campus und digital. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Berufungsvereinbarung und Ausstattung
+### 15.10. Berufungsvereinbarung und Ausstattung
 
 Arbeitsfokus: Berufungsvereinbarung und Ausstattung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 33 Abs. 2 GG — Bestenauslese. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Berufungsverfahren Professur
+### 15.11. Berufungsverfahren Professur
 
 Arbeitsfokus: Berufungsverfahren Professur. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 33 Abs. 2 GG — Bestenauslese bei Professuren/Ämtern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Beurlaubung und Hochschulstatus
+### 15.12. Beurlaubung und Hochschulstatus
 
 Arbeitsfokus: Beurlaubung und Hochschulstatus. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungszugang. - Art. 3 Abs. 1 GG — Gleichbehandlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Campusbau und Flächenmanagement
+### 15.13. Campusbau und Flächenmanagement
 
 Arbeitsfokus: Campusbau und Flächenmanagement. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Ausbildungs- und Berufszugang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Datenschutz Hochschule
+### 15.14. Datenschutz Hochschule
 
 Arbeitsfokus: Datenschutz Hochschule. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Forschungsfreiheit. - Paragraf 25 HRG — Forschung mit Mitteln Dritter. - Art. 89 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Dekanat und Organstreit
-
-Arbeitsfokus: Dekanat und Organstreit. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — institutionelle Wissenschaftsfreiheit. - Art. 20 Abs. 3 GG — Gesetzesbindung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Digitallehre und Satzungsgrundlage
-
-Arbeitsfokus: Digitallehre und Satzungsgrundlage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Art. 5 Abs. 3 Satz 1 GG — Forschungsfreiheit. - Paragraf 25 HRG — Forschung mit Mitteln Dritter. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

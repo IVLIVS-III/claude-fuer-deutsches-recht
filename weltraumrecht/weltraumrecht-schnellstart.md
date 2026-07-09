@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Satellite-Test-Ban und Orbital-Debris-Pledge | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: DLR-Projektvertrag: IP und Haftung | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: ESA-Vertrag: Programmbeiträge und industrielle Rückflüsse | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität | Mission, Weltraumgegenstand, Betreiber, Startstaat, Registerstaat, Genehmigung, Frequenz, Haftung und Telemetriebeleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,6 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Weltraumvertrag Artikel VI: internationale Verantwortung für staatliche und private Tätigkeiten sowie Genehmigung und fortlaufende Aufsicht.
 - Weltraumvertrag Artikel VII und Artikel VIII: Haftungsanknüpfung, Registrierung, Hoheitsgewalt, Kontrolle und Eigentum am Weltraumgegenstand.
 - Weltraumvertrag Artikel IX: Rücksichtnahme, Vermeidung schädlicher Kontamination und Konsultation bei potenziell schädlicher Störung.
+- Das Rechtsgebiet berührt folgende Kernthemen: Haftung Raketenstufe, LIAB Art. II, Deliktsrecht, Beweislast. Relevante Normen: LIAB Art. II, BGB Paragraf 823, StPO Beweissicherung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
