@@ -97,6 +97,49 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 
 Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
+## Cowork-App mit kleinem Claude-Plan: Schritt für Schritt
+
+Du hast einen kleinen Claude-Plan (also keinen Max- oder Team-Tarif) und die Cowork-App auf deinem Rechner installiert? Dann geht die Einrichtung so:
+
+### Variante A: Einzelnes Plugin als ZIP hochladen (empfohlen)
+
+Das ist der leichteste Weg. Du lädst nur das Plugin herunter, das du wirklich brauchst — nicht die kompletten 234 Plugins.
+
+- Öffne das [aktuelle Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) auf GitHub.
+- Scrolle bis zu den Anhängen (Assets) ganz unten am Release.
+- Suche das Plugin, das du brauchst — zum Beispiel `arbeitsrecht-kuendigung.zip`, `liquiditaetsplanung.zip` oder `relationstechnik-zivilrecht.zip`.
+- Klicke auf den Dateinamen. Die ZIP wird in deinen Download-Ordner geladen.
+- Öffne die **Cowork-App**.
+- Klicke unten links oder oben rechts (je nach Version) auf **Customize** oder das Zahnrad-Symbol.
+- Wähle im Menü **Skills** oder **Plugins**.
+- Klicke auf **Upload** oder **Plugin hinzufügen**.
+- Ziehe die heruntergeladene ZIP in das Fenster — oder klicke auf **Datei auswählen** und such die ZIP aus deinem Download-Ordner.
+- Warte, bis Cowork die ZIP entpackt hat. Das dauert ein paar Sekunden.
+- Fertig. Das Plugin steht im Chat zur Verfügung. Du kannst es zum Beispiel mit `/plugin` aufrufen oder einfach eine passende Frage stellen.
+
+### Variante B: Den kompletten Marketplace einbinden
+
+Das ist bequemer, wenn du viele Plugins gleichzeitig ausprobieren willst. Der Download ist aber mehrere hundert Megabyte gross und dauert beim ersten Mal ein paar Minuten.
+
+- Öffne die **Cowork-App**.
+- Klicke in ein Chat-Fenster.
+- Tippe folgenden Befehl ein und drücke Enter:
+  ```
+  /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+  ```
+- Warte ab, bis Cowork das Repository geladen hat. Zwei bis drei Minuten sind normal.
+- Danach kannst du einzelne Plugins aus dem Marketplace installieren:
+  ```
+  /plugin install arbeitsrecht-kuendigung@klotzkette-german-legal-skills
+  ```
+- Statt `arbeitsrecht-kuendigung` kannst du jeden anderen Plugin-Namen aus [Was ist drin?](#was-ist-drin) einsetzen.
+
+### Wenn etwas nicht funktioniert
+
+- Stell sicher, dass deine Cowork-App auf der neuesten Version ist.
+- Bei Mac-Problemen (Gatekeeper, Rechte, ZIP entpackt sich automatisch) gibt es eine ausführliche Anleitung in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
+- Wenn du gar nichts installieren willst, kannst du jedes Plugin auch als reinen Text-Prompt nutzen: In jedem Plugin-Ordner liegt eine `-werkstatt.md` und eine `-schnellstart.md`. Beide lassen sich direkt in Cowork, ChatGPT, Claude Web oder jedes andere Tool kopieren.
+
 ## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
 
 **Lesen, bevor irgendetwas davon eingesetzt wird.** Dieses Repository ist ausschließlich ein technisches Experiment. Es trifft **keinerlei Aussage** darüber, ob der Einsatz dieser Skills in einer konkreten Praxisumgebung berufs-, datenschutz- oder KI-rechtlich zulässig ist. Alle nachstehenden Fragen muss **jeder Nutzer in eigener Verantwortung** vor der ersten Nutzung prüfen – das Repository, sein Autor und alle Mitwirkenden übernehmen dafür keinerlei Verantwortung oder Haftung:
