@@ -42,7 +42,6 @@ description: "Wenn es um Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO 
 
 | Stufe | Prüfkriterium | Hinweis |
 |-------|---------------|---------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | Waren-/Dienstleistungsaehnlichkeit | Nizza-Klassifikation; funktionale Austauschbarkeit |
 | 3 | Bekanntheitsgrad aeltere Marke | Steigernd auf Verwechslungsgefahr |
 | 4 | Wechselwirkung | Niedriger Wert Stufe 1 kann durch hohen Wert Stufe 3 kompensiert werden |

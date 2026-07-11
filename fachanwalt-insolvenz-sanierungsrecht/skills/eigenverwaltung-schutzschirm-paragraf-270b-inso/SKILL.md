@@ -1,34 +1,31 @@
 ---
 name: eigenverwaltung-schutzschirm-paragraf-270b-inso
-description: "Wenn es um Eigenverwaltung Schutzschirm Paragraf 270b InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Wenn es um vorläufige Eigenverwaltung nach Paragraf 270b InsO oder den Schutzschirm nach Paragraf 270d InsO geht: trennt Zugang, Eigenverwaltungsplanung, Bescheinigung, Planfrist und Abbruchrisiken; liefert eine belastbare Antrags- und Entscheidungsmappe."
 ---
 
-# Eigenverwaltung Schutzschirm § 270b InsO
+# Vorläufige Eigenverwaltung und Schutzschirm
 
 ## Worum es geht
 
-Prüfe **Eigenverwaltung Schutzschirm § 270b InsO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Der Verzeichnisname bleibt aus Kompatibilitätsgründen bestehen. Materiell sind zwei Verfahren strikt zu trennen: Paragraf 270b InsO regelt die Anordnung der vorläufigen Eigenverwaltung; Paragraf 270d InsO regelt die Vorbereitung einer Sanierung unter einem Schutzschirm.
 
 ## Normenanker
 
-- § 270b InsO
-- § 17 Abs. 1 und 2 InsO
-- § 19 Abs. 2 InsO
-- § 21 Abs. 1 und 2 InsO
-- § 35 Abs. 1 InsO
-- § 38 InsO
-- § 47 InsO
-- § 50 InsO
-- § 80 Abs. 1 InsO
-- § 129 Abs. 1 InsO
+- Paragraf 270a InsO: Antrag und vollständige Eigenverwaltungsplanung, insbesondere sechsmonatiger Finanzplan.
+- Paragraf 270b InsO: Anordnung der vorläufigen Eigenverwaltung bei vollständiger, schlüssiger und tatsachengerechter Planung.
+- Paragraf 270c InsO: Befugnisse und Maßnahmen im vorläufigen Eigenverwaltungsverfahren.
+- Paragraf 270d InsO: Schutzschirm bei drohender Zahlungsunfähigkeit oder Überschuldung, aber nicht bei Zahlungsunfähigkeit; Bescheinigung und Planvorlagefrist von höchstens drei Monaten.
+- Paragraf 270e und 270f InsO: Aufhebung der vorläufigen Eigenverwaltung und Anordnung der Eigenverwaltung im eröffneten Verfahren.
+- Paragraf 15a, 17 und 19 InsO: objektiver Insolvenzgrund, unverzügliche Antragspflicht und Höchstfristen.
 
 ## Prüfpfad
 
-1. **Rolle und Ziel klären:** Angriff, Verteidigung, Beratung, Behördenkontakt, Registervorgang oder gerichtliches Verfahren bestimmen.
-2. **Tatbestandsmerkmale zerlegen:** Jedes Merkmal mit Aktenstelle, Beleg, Beweisangebot, Gegentatsache und offener Recherchefrage verbinden.
-3. **Fristen und Zuständigkeit sichern:** Rechtsbehelfsfrist, Ausschlussfrist, Verjährung, Gerichtsstand, Behördenzuständigkeit und Verfahrensart vorab fixieren.
-4. **Beweislast und Darlegungslast trennen:** Wahrscheinliche Wahrheit genügt nicht; entscheidend ist, wer sie wann wie beweisen muss.
-5. **Risikoampel bilden:** Grün bei Norm + Tatsache + Beleg; Gelb bei Wertungsspielraum; Rot bei Frist-, Form-, Zuständigkeits- oder Beweislastbruch.
+1. **Insolvenzgrund stichtagsgenau bestimmen:** Zahlungsunfähigkeit schließt den Schutzschirm aus, nicht aber zwingend die vorläufige Eigenverwaltung. Überschuldung und drohende Zahlungsunfähigkeit getrennt belegen.
+2. **Verfahrensziel wählen:** Nur vorläufige Eigenverwaltung oder zusätzlich Schutzschirm mit Insolvenzplan? Die Entscheidung mit Gläubigerstruktur, Finanzierung und Sanierungskonzept begründen.
+3. **Eigenverwaltungsplanung prüfen:** Sechsmonats-Finanzplan, Verfahrenskonzept, Verhandlungsstand, Compliance-Vorkehrungen und Mehr-/Minderkosten nach Paragraf 270a InsO vollständig ablegen.
+4. **Schutzschirmbescheinigung prüfen:** Ausstellerqualifikation, Unabhängigkeit, Insolvenzgrund und fehlende offensichtliche Aussichtslosigkeit nach Paragraf 270d Absatz 1 InsO dokumentieren.
+5. **Gerichtliche Weichen vorbereiten:** Vorschlag des vorläufigen Sachwalters, Gläubigerausschuss, Masseverbindlichkeiten, Vollstreckungsschutz und Planvorlagefrist in einer Antragsmatrix zusammenführen.
+6. **Abbruchrisiken überwachen:** Eintritt der Zahlungsunfähigkeit unter dem Schutzschirm unverzüglich anzeigen; Mängel der Planung, Gläubigernachteile und Aufhebungsgründe mit Verantwortlichem und Kontrolltermin versehen.
 
 ## Entscheidungs- und Quellenhygiene
 
@@ -38,6 +35,6 @@ Prüfe **Eigenverwaltung Schutzschirm § 270b InsO** von der ersten Aktenordnung
 
 ## Arbeitsprodukt
 
-- Kurzvermerk mit Normenanker, Tatsachenmatrix, Fristen, Belegen und Risikoampel.
-- Mandantenfähige Handlungsempfehlung mit nächstem Schritt, benötigten Unterlagen und Eskalationsoption.
-- Optional: Schriftsatz-, Behörden-, Gegner- oder Gerichtstext im Ton des jeweiligen Verfahrens.
+- Vergleichsmatrix `vorläufige Eigenverwaltung / Schutzschirm / Regelverfahren / StaRUG` mit Zugangsvoraussetzungen und Ausschlussgründen.
+- Vollständigkeitsprüfung der Eigenverwaltungsplanung und der Schutzschirmbescheinigung.
+- Antragsmappe mit Finanzplan, Sanierungskonzept, Sachwaltervorschlag, Gläubigerbild, Planmeilensteinen und gerichtsfähigem Belegverzeichnis.

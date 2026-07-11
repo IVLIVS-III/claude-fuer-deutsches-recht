@@ -289,8 +289,6 @@ Aktueller Stand Mai 2026:
 
 ---
 
-<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
--->
 
 
 ## Qualitäts-Hardening

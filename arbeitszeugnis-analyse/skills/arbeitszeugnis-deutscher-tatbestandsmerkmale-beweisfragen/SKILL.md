@@ -7,7 +7,7 @@ description: "Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Belegl
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -29,4 +29,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Beweislastverteilung (BAG ständige Rechtsprechung):** Note "befriedigend" (3) ist Mittelmaß; bessere Note muss Arbeitnehmer darlegen und beweisen, schlechtere Note der Arbeitgeber. Beweislastregel ändert sich nicht durch Branchen-Durchschnittsnote oberhalb von 3.
 4. **Belege sammeln:** Mitarbeitergespräche, Zielvereinbarungen, Bonusabrechnungen, schriftliches Lob (E-Mail, Karte), Beförderungen, Auszeichnungen, Kundenstimmen, Beurteilungen Dritter (Vorgesetzte, Projektleiter). Negativbelege: Abmahnungen, Krankenstand, Versetzungen, Konfliktdokumentation.
 5. **Anschluss:** Aufforderungsschreiben mit Beleg-Anhang, dann Klage; alternativ Vergleich mit Notenkompromiss und Standard-Schlussformel.
-

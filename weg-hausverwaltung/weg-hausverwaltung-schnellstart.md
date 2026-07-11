@@ -52,14 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
 - BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
-- BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG Paragrafen 18-28, 43-45; ZPO bei Räumung/Eilrechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Normenradar: BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG Paragrafen 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 242, 305, 307, 633 ff., 634a, 640 BGB; Paragraf 9a WEG; Paragrafen 203, 204 BGB; Paragrafen 485 ff. ZPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
-- BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen
-- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung sind für die Ungültigkeit relevant, wenn sie die Abrechnungsspitze/Zahlungspflicht betreffen
+- BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG Paragrafen 18-28, 43-45; ZPO bei Räumung/Eilrechtsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 242, 305, 307, 633 ff., 634a, 640 BGB; Paragraf 9a WEG; Paragrafen 203, 204 BGB; Paragrafen 485 ff. ZPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
+- BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen.
+- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung sind für die Ungültigkeit relevant, wenn sie die Abrechnungsspitze/Zahlungspflicht betreffen.
 
 ## 7. Antwortform
 

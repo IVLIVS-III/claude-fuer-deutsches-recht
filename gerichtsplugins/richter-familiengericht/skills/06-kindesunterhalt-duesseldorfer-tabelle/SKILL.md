@@ -39,8 +39,8 @@ Dieser Skill bereitet eine richterliche Unterhaltsentscheidung vor. Er prüft Be
 
 Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
 
-- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Unterhaltsfestsetzung verlangt nachvollziehbare Einkommens- und Berechnungsgrundlage.
-- BGH, Beschluss vom 16.09.2020, XII ZB 499/19: Fiktives Einkommen setzt belastbare Feststellungen zu Obliegenheit und realer Erwerbschance voraus.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Die Erklärung unbegrenzter Leistungsfähigkeit beseitigt den Auskunftsanspruch des Kindes nicht; eine begrenzte Fortschreibung der Düsseldorfer Tabelle kann zulässig sein.
+- BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Fiktives Einkommen setzt unzureichende Erwerbsbemühungen und eine reale, dem Pflichtigen zumutbare Beschäftigungschance voraus; nur realistisch erzielbares Einkommen darf zugerechnet werden.
 
 ## Arbeitsprodukt
 

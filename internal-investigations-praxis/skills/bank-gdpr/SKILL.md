@@ -62,7 +62,7 @@ Strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Internal Investigat
 ### 7. Organhaftung und persönliche Konsequenzen
 - § 36 KWG: BaFin kann Abberufung eines Geschäftsleiters verlangen, wenn er für Mängel verantwortlich ist.
 - § 56 KWG: Bußgelder für Organmitglieder bei schwerwiegenden Verstößen.
-- § 93 AktG i. V. m. BGH II ZR 234/09: Vorstand haftet intern bei schuldhafter Nichtbehebung von Compliance-Mängeln.
+- Eine interne Organhaftung setzt konkrete Pflichtverletzung, Verschulden, Schaden und Kausalität voraus; bei einer Aktiengesellschaft die Darlegungs- und Beweislastregel des Paragraf 93 Absatz 2 Satz 2 AktG gesondert prüfen.
 - D&O-Versicherung: Deckungsschutz für Untersuchungskosten und Abwehrmaßnahmen prüfen.
 
 ## Normenregister

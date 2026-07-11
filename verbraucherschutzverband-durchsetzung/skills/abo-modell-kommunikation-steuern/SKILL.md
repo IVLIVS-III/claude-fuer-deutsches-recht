@@ -1,59 +1,36 @@
 ---
 name: abo-modell-kommunikation-steuern
-description: "Wenn es um Abo Modell Kommunikation Steuern in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Steuert die Kommunikation eines Verbandsfalls zu Abo, Probeabo und automatischer Verlängerung: trennt Abmahnung, Verbraucherinformation, Datennachforderung, Unternehmensdialog, Registertext und Presse, hält Rechtsprechung und Fallgruppen konsistent und liefert adressatengerechte Entwürfe ohne Vorverurteilung oder unbelegte Reichweitenbehauptung."
 ---
 
-# Abo Modell Kommunikation Steuern
+# Kommunikation bei Abo-Verfahren steuern
 
-## Arbeitsweg
+## 1. Kommunikationszweck bestimmen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Fallgruppen, Beweislage, Verfahrensstand, Fristen und bereits veröffentlichte Aussagen. Bestimme für jedes Dokument Adressat, Ziel, rechtliche Wirkung, Vertraulichkeit und Freigabe. Eine Abmahnung, Verbraucherinformation und Presseauskunft dürfen nicht denselben Text verwenden.
 
-## Normenanker
+## 2. Kommunikationsmatrix
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+| Dokument | Ziel | notwendiger Inhalt | darf nicht hinein |
+| --- | --- | --- | --- |
+| Abmahnung | konkrete Praxis beenden | Wortlaut, Rechtsverletzung, Forderung, Frist | ungeprüfte Fallzahl |
+| Verbrauchernachforderung | Beweislücke schließen | genaues Dokument und Zeitraum | Rechtsversprechen |
+| Unternehmensdialog | Klärung oder Vergleich | Streitpunkte, Daten, Lösungskorridor | interne Prozessstrategie |
+| Registerinformation | gesetzlicher Verfahrenszweck | freigegebene Kerndaten | nicht erforderliche Personendaten |
+| Presseantwort | sachliche Öffentlichkeit | bestätigte Tatsachen, Verfahrensstand | Vorverurteilung und vertrauliche Akte |
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 3. Rechtsprechung richtig kommunizieren
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+`C-249/21` erklärt die Buttonbeschriftung; `C-565/22` erklärt das Widerrufsrecht bei Probeabo und Verlängerung. Nenne Entscheidung, Datum, Aktenzeichen und den tatsächlich einschlägigen Arbeitssatz. Stelle weder eine Vorlageentscheidung noch einen Einzelfall als automatischen Erfolg jeder Verbrauchergruppe dar.
 
-## Prüfroutine
+## 4. Verbrauchertexte
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+Fordere nur die Belege an, die das Cluster entscheiden: Bestätigung, Bestellstrecke, Vertragsfassung, Kündigungsversuch, Abbuchung und Erstattung. Erkläre Frist und nächsten Schritt in klaren Sätzen. Mache deutlich, ob der Verband nur Informationen sammelt, außergerichtlich handelt oder bereits ein gerichtliches Verfahren führt.
 
-## Normen und Rechtsprechung
+## 5. Freigabegate
 
-### Kuratierte Normen-Bibliothek
+Gleiche Zahlen, Anbieterbezeichnung, Vertragsfassung, Buttonwortlaut und Verfahrensstand mit der Fallgruppenmatrix ab. Rechtlich streitige Wertungen werden als solche bezeichnet. Presseveröffentlichungen externer Stellen dürfen als Hinweis dienen, aber nicht die Primärquelle oder eigene Beweisprüfung ersetzen.
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
+## 6. Output
 
-### Leitentscheidungen
-
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+Liefere je nach Auftrag Abmahnung, Beleganforderung, Verbraucher-FAQ, Vergleichsnachricht, Registertext oder Presseantwort sowie eine Freigabetabelle mit Tatsachenquelle, Rechtsanker, Empfänger und Veröffentlichungsstatus.

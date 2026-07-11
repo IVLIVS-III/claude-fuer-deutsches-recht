@@ -40,7 +40,7 @@ Ein Franchisegeber oder ein Franchisenehmer tritt erstmals an die Kanzlei heran.
 ## Fallstricke
 
 - Franchise- und Handelsvertretervertrag werden verwechselt; die Abgrenzung entscheidet über den Ausgleichsanspruch nach § 89b HGB.
-- Die 14-tägige Bedenkfrist vor Vertragsschluss (ethischer Standard des DFV) ist keine gesetzliche Pflicht, kann aber Aufklärungspflicht nach § 311 Abs. 2 BGB begründen.
+- Eine in einem Verbandskodex empfohlene Bedenkzeit ist keine gesetzliche Frist und begründet für sich allein keine Pflicht nach Paragraf 311 Absatz 2 BGB. Entscheidend bleiben die konkreten Angaben, der erkennbare Informationsvorsprung und der Schutzbedarf im Einzelfall.
 - Systemhandbücher werden als blosse Anlage übergangen, obwohl sie vertragsrelevante Pflichten und AGB enthalten.
 - Marktdaten in der Rentabilitätsprognose werden unkritisch übernommen, ohne die Haftungsgrundlage zu prüfen.
 
@@ -57,18 +57,16 @@ Ein Franchisegeber oder ein Franchisenehmer tritt erstmals an die Kanzlei heran.
 
 Franchiserecht ist kein eigener gesetzlich geregelter Vertragstyp im BGB. Es handelt sich um ein Dauerschuldverhältnis mit typengemischten Elementen aus Lizenzrecht (Marke, Know-how), Dienstleistungsrecht (Schulung, Unterstützung) und Kaufrecht (Warenbezug). Das hat unmittelbare Folgen für die Rechtsanwendung: Lücken im Franchisevertrag werden durch analoge Anwendung der am nächsten liegenden gesetzlichen Regelung geschlossen.
 
-Die BGH-Rechtsprechung hat klargestellt, dass der Franchisegeber eine umfassende vorvertragliche Informationspflicht hat, die über allgemeine Aufklärungspflichten hinausgeht (BGH NJW 2003 S. 743). Grundlage ist das besondere Vertrauen, das der Franchisegeber als Systeminhaber mit überlegenem Systemwissen beim Franchisenehmer erweckt.
+Eine umfassende Sonderaufklärungspflicht folgt nicht allein aus der Bezeichnung als Franchisevertrag. Für jede behauptete Pflicht ist zu bestimmen, welche konkrete Tatsache für den Vertragsschluss wesentlich war, wer darüber einen erkennbaren Wissensvorsprung hatte und welche Information der künftige Franchisenehmer nach den Umständen erwarten durfte. BGH, Urteil vom 13.12.2005 - KZR 12/04 zeigt zudem, dass eine Wirtschaftlichkeitsberechnung nicht automatisch eine Rentabilitätsgarantie oder einen selbständigen Beratungsvertrag begründet.
 
 ## Praxishinweise
 
 - Bei Erstgespräch stets ein Aktendeckblatt mit Parteirollen, Vertragsdaten und identifizierten Fristen anlegen.
 - Systemhandbuch sofort als AGB-Dokument lesen; einseitige Änderungsklauseln markieren.
-- Disclosure-Dokument auf Vollständigkeit nach DFV-Code of Ethics prüfen.
+- Einen herangezogenen Verbandskodex in seiner aktuellen Fassung prüfen, als unverbindliche Branchenquelle kennzeichnen und strikt vom gesetzlichen Pflichtenkreis trennen.
 - Bei Unsicherheit über Vertragstyp (Franchise vs. Handelsvertreter) immer § 89b HGB-Ausgleichsanspruch vorsorglich prüfen.
 - Keine Bewertung von Rentabilitätsprognosen aus dem Kopf heraus; eigene Recherche oder Sachverständiger erforderlich.
 
 ## Abgrenzung und Einordnung
 
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
-## Abgrenzung und Einordnung
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

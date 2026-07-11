@@ -22,6 +22,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+## Verifizierter Rechtsprechungsanker
+
+- BVerfG, Beschluss vom 26.10.2004 - 1 BvR 981/00: Berufliche Werbung eines Steuerberaters ist durch Artikel 12 Absatz 1 GG geschützt. Weder ein auffälliger Werbeträger noch eine bislang unübliche Form genügt allein für ein Verbot; maßgeblich sind Inhalt, Sachlichkeit und eine konkret belegte Gefährdung berufsrechtlicher Schutzgüter. Übertrage den Fall nicht schematisch auf irreführende oder einzelfallbezogene Mandatswerbung.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

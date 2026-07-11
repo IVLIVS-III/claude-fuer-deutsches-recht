@@ -151,5 +151,3 @@ Nach 3+ Sitzungen: Wiederkehrende Schwächen benennen:
 Zitierhinweise in diesem Feedback folgen den gängigen deutschen Zitierkonventionen (Byrd/Lehmann, Zitierfibel für Juristen, 3. Aufl. 2022). Inhaltliche Angaben zu Rechtsnormen und Rechtsprechung sind mit `[PRÜFEN]` markiert, wenn keine Quellenverifikation möglich ist. Vor Einreichung alle Nachweise gegen aktuelle Quellen abgleichen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-<!-- AUDIT 27.05.2026: BGH VI ZR 116/12 (WRONG_TOPIC: echtes Thema Straßenverkehrsunfall NJW 2013, 1679, nicht Schriftsatzanforderungen NJW 2013, 1682 Rn. 12) korrigiert; Fundstelle auf NJW 2013, 1679 berichtigt und Beschreibung an echten Urteilsinhalt angepasst. -->

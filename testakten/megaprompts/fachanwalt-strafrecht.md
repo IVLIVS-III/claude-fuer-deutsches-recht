@@ -2,18 +2,55 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 240 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-strafrecht`.
+Diese Vollprüfung enthält top-8 von 241 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-strafrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Strafrecht in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-2. **mandat-triage-strafrecht** — Wenn es um Strukturierte Eingangs-Abfrage für Strafmandate in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unte…
-3. **fachanwalt-strafrecht-orientierung** — Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
-4. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zu…
-5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
-7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Fris…
-8. **strafr-wirtschaftsstrafrecht-leitfaden** — Wenn es um Leitfaden Wirtschaftsstrafrecht: Untreue Paragraf 266 StGB, Betrug Paragraf 263, Bilanzdelikte Paragrafen 331…
+1. **strafprozessuale-versandmappe-endfertigen** — Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest …
+2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Strafrecht in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+3. **mandat-triage-strafrecht** — Wenn es um Strukturierte Eingangs-Abfrage für Strafmandate in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unte…
+4. **fachanwalt-strafrecht-orientierung** — Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
+5. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zu…
+6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
+8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Fris…
+
+---
+
+## Skill: `strafprozessuale-versandmappe-endfertigen`
+
+_Endfertigt Verteidiger-, Nebenklage- und Adhäsionsschriftsätze, Haftbeschwerde, Revision und Revisionsbegründung: liest Urteil, Protokoll, Zustellungen und Aktenfundstellen zuerst, prüft Erklärungstyp und zwingende elektronische Form nach StPO, trennt Beweisanträge von Anlagen, schützt sensible Daten und liefert eine kontrollierte beA-Mappe ohne unzulässiges K-/B-Schema._
+
+# Strafprozessuale Versandmappe endfertigen
+
+## 1. Erklärungstyp zuerst
+
+Lies Schriftsatz, Urteil oder Beschluss, Sitzungsprotokoll, Zustellungsnachweise, Vollmacht, Aktenauszüge und vorhandene Anlagen. Bestimme, ob Revision, Revisionsbegründung, Berufung, deren Begründung, Privatklage, Nebenklageanschluss, Adhäsionsantrag, Haftbeschwerde, Beweisantrag oder sonstige Erklärung vorliegt. StPO Paragraf 32d erfasst nicht jede Erklärung gleichermaßen.
+
+## 2. Strafprozessuale Kontrolle
+
+1. Gericht, Spruchkörper, Aktenzeichen, Beschuldigter oder Angeklagter und Verfahrensstadium abgleichen.
+2. Bei Revision Verkündung, Zustellung, Einlegungs- und Begründungsfrist sowie Form nach StPO Paragrafen 341, 344 und 345 getrennt dokumentieren.
+3. Verfahrensrüge mit Tatsachenvortrag, Protokollfundstelle und erforderlichen Anlagen vollständig halten.
+4. Beweisanträge nach Beweistatsache, Beweismittel und Konnexität prüfen; kein Dokument bloß als Anlage statt als Antrag einreichen.
+5. Nebenklage- und Adhäsionsunterlagen nach Anschlusserklärung, Berechtigung, Antrag und Schadensbeleg ordnen.
+
+## 3. Anlagen und Vertraulichkeit
+
+Übernimm den vorhandenen gerichtlichen oder kanzleiinternen Anlagenkreis. Erfinde kein K-/B-Schema, wenn die Strafakte andere Bezeichnungen nutzt. Stemple nur einzureichende Anlagen und jede ihrer Seiten rechts oben. Vermeide Namen von Geschädigten, Gesundheitsdaten, Tatvorwürfe oder Haftorte in Dateinamen; nutze etwa `02_20260710_Anlage2_Nachweis.pdf`.
+
+## 4. Formanker
+
+- StPO Paragraf 32a regelt elektronische Dokumente; StPO Paragraf 32d enthält die zwingend elektronisch zu übermittelnden Erklärungen.
+- BGH, Beschluss vom 9. August 2023, 6 StR 210/23: Telefax wahrt die Form der schriftlichen Revision eines Verteidigers nicht.
+- BGH, Beschluss vom 10. Juni 2025, 6 StR 146/25: Ohne gleichzeitigen Hinweis auf eine technische Störung bleibt die Faxrevision formunwirksam.
+- BGH, Urteil vom 31. August 2023, 5 StR 447/22: Die Pflicht des StPO Paragrafen 32d Satz 2 gilt nicht schematisch für die Staatsanwaltschaft; dort StPO Paragraf 32b prüfen.
+
+Bei einfacher Signatur muss der verantwortende Anwalt selbst versenden. Anlagen einzeln als PDF übermitteln, nicht als ZIP. Eingang und Anhänge anhand der gerichtlichen Bestätigung kontrollieren.
+
+## 5. Auslieferung
+
+Liefere Hauptdokument, Einzelanlagen, Fristenblatt, Aktenfundstellen- und Rügenmatrix, Vertraulichkeitscheck, Manifest und Eingangskontrolle. Stoppe bei unklarem Erklärungstyp, fehlender Urteilszustellung, unvollständiger Verfahrensrüge, sensiblen Dateinamen oder ungeklärtem Signaturweg.
 
 ---
 
@@ -786,66 +823,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `strafr-wirtschaftsstrafrecht-leitfaden`
-
-_Wenn es um Leitfaden Wirtschaftsstrafrecht: Untreue Paragraf 266 StGB, Betrug Paragraf 263, Bilanzdelikte Paragrafen 331 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff. HGB / § 400 AktG, Compliance-Verteidigung. Prüfraster Wirtschaftsstrafkammer.
-
-### StrafR: Wirtschaftsstrafrecht
-
-## Spezialwissen: StrafR: Wirtschaftsstrafrecht
-- **Normen-/Quellenanker:** HGB, AktG.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

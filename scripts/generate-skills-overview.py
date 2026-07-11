@@ -102,14 +102,14 @@ def build_overview(plugin_dir: Path) -> str:
         "## Alle Skills im Überblick",
         "",
         f"Automatisch generierte Komplett-Liste aller {len(skills)} Skills in diesem Plugin. "
-        "Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.",
+        "Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.",
         "",
         "| Skill | Beschreibung |",
         "| --- | --- |",
     ]
     for s in skills:
         desc = read_description(skills_dir / s / "SKILL.md")
-        lines.append(f"| `{s}` | {desc} |")
+        lines.append(f"| [`{s}`](skills/{s}/SKILL.md) | {desc} |")
     lines.append("")
     lines.append(END)
     return "\n".join(lines)

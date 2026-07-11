@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- 5. Gewaehrleistungsklauseln: BGB Paragrafen 433-479 oder as-is-Ausschluss?: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnenschiffe; BinSchRegO; BGB Paragrafen 433-479 Kaufgewaehrleistung; SchRG Paragraf 2 Eigentumsübergang; SchRegO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [ ] Gewährleistung (BGB Paragrafen 433-479) oder Ausschluss (as-is) klar vereinbart: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 433-479 oder as-is-Ausschluss?; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 433-479 Kaufgewaehrleistung; SchRG Paragraf 2 Eigentumsübergang; SchRegO. ADN-Gefahrgut Binnenwasserstrassen; RheinSchPersV; CESNI-Standards; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 433-479); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 433-479) oder Ausschluss (as-is) klar vereinbart; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

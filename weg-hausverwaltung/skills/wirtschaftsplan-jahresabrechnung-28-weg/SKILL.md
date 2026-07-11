@@ -74,4 +74,7 @@ Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollie
 
 ## Quellenpflicht
 
+- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Ein Fehler der zugrunde liegenden Jahresabrechnung trägt die Ungültigerklärung des Beschlusses nach Paragraf 28 Absatz 2 Satz 1 WEG nur, wenn er sich auf Abrechnungsspitze und Zahlungspflicht auswirkt.
+- BGH, Urteil vom 14.02.2025 - V ZR 128/23: Paragraf 16 Absatz 2 Satz 2 WEG verleiht Beschlusskompetenz auch für die Änderung des Verteilungsschlüssels bei Zuführungen zur Erhaltungsrücklage; Bestimmtheit und ordnungsmäßige Verwaltung bleiben gesondert zu prüfen.
+
 `rechtsstand-mai-2026-faktenbank` zwingend laden. Rechtsprechungsaussagen nur mit Gericht, Datum, Aktenzeichen und offen prüfbarer Quelle.

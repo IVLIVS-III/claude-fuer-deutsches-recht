@@ -2,20 +2,42 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 86 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
+Diese Vollprüfung enthält top-10 von 87 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-2. **mandat-triage-bank-kapitalmarktrecht** — Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unt…
-3. **fachanwalt-bank-kapitalmarktrecht-orientierung** — Wenn es um Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Fr…
-4. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigk…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rec…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle…
-7. **ombudsmann-bafin-schlichtung** — Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen in Fachanwalt Bank …
-8. **mica-stablecoin-art-16-bafin** — Wenn es um Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin in Fachanwalt Bank Kapitalma…
-9. **fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung** — Wenn es um Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung in Fachanwalt Bank Kapitalmarktrecht geht: erstellt …
-10. **spezial-bankaufsicht-erlaubnis-und-vertrieb** — Wenn es um Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken in Fachanwalt Bank Kapitalmarktrecht geht: …
+1. **bankprozess-versandmappe-endfertigen** — Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Berat…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
+3. **mandat-triage-bank-kapitalmarktrecht** — Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unt…
+4. **fachanwalt-bank-kapitalmarktrecht-orientierung** — Wenn es um Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Fr…
+5. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigk…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rec…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle…
+8. **widerrufsjoker-immobiliendarlehen** — Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassu…
+9. **cum-ex-beihilfe-bgh-1-str-519-20** — Analysiert straf- und einziehungsrechtliche Risiken konkreter Cum-Ex-Abläufe. Ordnet Steueranmeldung, nicht einbehaltene…
+10. **immobiliardarlehen-widerruf-altvertrag-pruefen** — Prüft den Widerruf eines älteren Immobilien- oder Immobiliar-Verbraucherdarlehens strikt nach Abschlussdatum und damalig…
+
+---
+
+## Skill: `bankprozess-versandmappe-endfertigen`
+
+_Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Beratungsdokumentation, Konto- und Transaktionsdaten, Prospekt, Widerruf und Abrechnung zuerst, prüft Antrag, Aktivlegitimation, Verjährung und Rechenweg, bündelt Serienanlagen kontrolliert und liefert beA-Einzeldateien mit Betrags- und Eingangskontrolle._
+
+# Bankprozess-Versandmappe endfertigen
+
+## 1. Anspruchsakte lesen
+
+Lies Klage oder Erwiderung, Vertrag, Pflichtinformationen, Beratungsprotokoll, Prospekt, Kontoauszüge, Zahlungsfreigaben, Widerruf, Kündigung, Abrechnung und Korrespondenz. Stelle Anspruch, Transaktion oder Anlage, Datum, Betrag, Einwendung und Beleg in einer Matrix dar.
+
+## 2. Schlusskontrolle
+
+Prüfe Kontoinhaber oder Anleger, Vertragspartner, Abtretung, Antrag, Zinslauf, Vorteilsausgleich, Nutzungen, Verjährung und Berechnung. Bei Phishing oder Zahlungskartenmissbrauch Autorisierung, Authentifizierung, Warnungen, Sperranzeige und Erstattung chronologisch belegen. Bei Serienfällen darf eine Musteranlage den individuellen Vertrag oder Schaden nicht ersetzen.
+
+## 3. Anlagenproduktion
+
+Führe K/B fort. Vertrag, Pflichtinformation, Transaktionsliste, Einzelbeleg, Prospekt und Berechnung bleiben nachvollziehbar. Tabellen zusätzlich als visuell kontrollierte PDF; Formeln und Summen in einem internen Rechenblatt prüfen. Konto- und Kartennummern in Dateinamen vermeiden.
+
+Prüfe ZPO Paragrafen 130a und 130d, Signaturweg und Eingangsbestätigung. Liefere Schriftsatz, Einzelanlagen, Anspruchs- und Betragsmatrix, Serienfall-Abweichungsblatt, Manifest und Eingangskontrolle. Stoppe bei ungeklärter Autorisierung, fehlendem Originalvertrag, nicht aufgehendem Rechenweg oder vermischten Mandantenanlagen.
 
 ---
 
@@ -280,10 +302,6 @@ Folge-Skill: [SKILL-NAME]
 Naechster Schritt: [MASSNAHME] bis [DATUM] durch [PERSON]
 =========================================
 ```
-
-## Audit-Hinweis (27.05.2026)
-
-Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgerichtshof.de, dejure.org, curia.europa.eu) verifiziert. Frühere Modellwissen-Platzhalter sind durch belegte Aktenzeichen ersetzt. Vor Versand vom Anwalt erneut zu prüfen.
 
 ---
 
@@ -794,694 +812,186 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `ombudsmann-bafin-schlichtung`
+## Skill: `widerrufsjoker-immobiliendarlehen`
 
-_Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassung und Richtlinienregime, vergleicht Pflichtangaben mit Originalvertrag und Muster, trennt Widerruf von BGB Paragraf 502, ordnet EuGH- und BGH-Rechtsprechung ohne Übertragung auf Autokredite ein und liefert Wirtschaftlichkeitsrechnung und Anspruchsschreiben._
 
-# Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen
+# Immobiliardarlehen: Widerruf und Vorfälligkeitsentschädigung
 
+## 1. Direktstart mit dem Originalvertrag
 
-## Arbeitsweg
+Lies zuerst Vertrag, Europäisches Standardisiertes Merkblatt, Widerrufsinformation, Nachträge, Ablöseabrechnung und Zahlungsbelege. Ohne Vertragsdatum und konkreten Wortlaut gibt es keine abschließende Prüfung. Liefere dennoch sofort eine Klauselmatrix und markiere nur die fehlenden Originalseiten.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Stichtags- und Regimekarte
 
-**Fokus:** Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-prüfen (Klageroute) und schriftsatzkern-substantiierung (Klage).
+Ermittle für jeden Vertrag:
 
-### Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
+1. Datum des Vertragsschlusses und etwaige Neuvereinbarung.
+2. Verbraucher- und Immobiliarbezug nach der damals geltenden Fassung von BGB Paragraf 491.
+3. anwendbare Fassung von BGB Paragraf 495 und Paragraf 356b sowie Artikel 247 EGBGB.
+4. Gesetzlichkeitsfiktion eines verwendeten Musters und jede Abweichung vom maßgeblichen Muster.
+5. historische Überleitungs- und Erlöschensregeln.
 
-## Eingaben
+Verwende keine pauschale Aussage, alle Verträge vor einem bestimmten Datum seien unbefristet widerrufbar. Das Ergebnis hängt von Vertragsart, Gesetzesfassung, Belehrung, Pflichtangaben, Musterübernahme und Übergangsrecht ab.
 
-- Mandanten-Status (Verbraucher / Unternehmer)
-- Streit-Bank (private Bank, Sparkasse, Volksbank, Direktbank, FinTech)
-- Streitgegenstand (Anlageberatung, Kontoführung, Kredit, Wertpapiergeschäfte, Schufa)
-- Streitwert (Verbraucherschlichtung bis 5.000 EUR / 10.000 EUR)
-- Bisherige Bank-Korrespondenz
-- Bestehende Schiedsklausel im Vertrag
+## 3. Anspruchswege trennen
 
-## Rechtlicher Rahmen
+| Weg | Prüfgegenstand | mögliche Folge |
+| --- | --- | --- |
+| Widerruf | Beginn und Ablauf der Widerrufsfrist, Pflichtangaben, Muster | Rückgewähr nach anwendbarer Gesetzesfassung |
+| BGB Paragraf 502 Absatz 2 Nummer 2 | ordnungsgemäße Angaben zur Berechnung der Vorfälligkeitsentschädigung | Ausschluss des Entschädigungsanspruchs |
+| Vertrags- oder Berechnungsfehler | konkrete Ablöseabrechnung | Rückzahlung eines überhöhten Betrags |
 
-- **§ 14 UKlaG** — Schlichtungsstellen-Verzeichnis
-- **§ 4b FinDAG** — BaFin-Verbraucherbeschwerde
-- **§ 14 WpHG** — Schiedsstelle bei DSW
-- **VSBG (Verbraucherstreitbeilegungsgesetz)** — Pflicht für FinDL ab 1.4.2017
-- **EU-ODR-VO (EU) 524/2013** — Online-Streitbeilegung
-- **§ 246 VVG** — bei Versicherungs-Anlage
-- **§§ 32a-32e KapMuG** — Musterverfahren bei Kapitalanleger-Streit
+Eine unzureichende Information nach BGB Paragraf 502 kann den Anspruch auf Vorfälligkeitsentschädigung ausschließen, ohne dass dafür ein Widerruf konstruiert werden muss.
 
-## Schlichtungsstellen-Übersicht
+## 4. Klauselmatrix
 
-| Stelle | Zuständigkeit |
-|---|---|
-| **Ombudsmann private Banken** (Bankenverband) | private Banken (Deutsche Bank, Commerzbank, HypoVereinsbank etc.) |
-| **Ombudsmann Sparkassen** (DSGV) | Sparkassen |
-| **Ombudsmann Genossenschaftsbanken** (BVR) | Volks-/Raiffeisenbanken |
-| **Ombudsmann öffentliche Banken** (VÖB) | Landesbanken, KfW |
-| **BaFin-Verbraucherbeschwerde** | aufsichtsrechtliche Fragen |
-| **DSW** (Deutsche Schutzvereinigung) | WpHG-Streit, Anlegerberatung |
-| **EU-ODR-Plattform** | online geschlossene Verträge |
+| Pflichtangabe | Vertragswortlaut | damalige Norm | Musterwortlaut | Abweichung | Rechtsfolge |
+| --- | --- | --- | --- | --- | --- |
+| Beginn Widerrufsfrist | wörtlich | konkrete Fassung | konkrete Fassung | ja oder nein | offen |
+| Berechnung Vorfälligkeitsentschädigung | wörtlich | BGB Paragraf 502 | nicht pauschal | Parameter fehlen oder vorhanden | Anspruch möglich oder ausgeschlossen |
 
-## Workflow
+Zitiere den Vertragswortlaut wörtlich und mit Seitenfundstelle. Eine Etikettierung als `Kaskadenverweis` ersetzt den Vergleich nicht.
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+## 5. Verifizierte Entscheidungsanker
 
-### Phase 1 — Vorgerichtliche Bank-Korrespondenz
+- EuGH, Urteil vom 26. März 2020, C-66/19, Kreissparkasse Saarlouis: Eine bloße Kaskadenverweisung kann die nach der Verbraucherkreditrichtlinie verlangte klare und prägnante Information zum Beginn der Widerrufsfrist verfehlen. Für den konkreten deutschen Immobiliarvertrag sind Anwendungsbereich, Umsetzung und Musterwirkung gesondert zu prüfen.
+- EuGH, Urteil vom 9. September 2021, verbundene Rechtssachen C-33/20, C-155/20 und C-187/20: Die Entscheidung betrifft Verbraucherkredite zur Fahrzeugfinanzierung, Pflichtangaben und Einwände gegen den Widerruf. Sie darf nicht ohne Prüfung auf Immobiliar-Verbraucherdarlehen unter der Wohnimmobilienkreditrichtlinie übertragen werden.
+- BGH, Urteil vom 3. Dezember 2024, XI ZR 75/23: Für BGB Paragraf 502 Absatz 2 Nummer 2 müssen die wesentlichen Parameter der Berechnungsmethode in groben Zügen benannt werden; eine finanzmathematische Formel ist nicht erforderlich. Der BGH lehnt eine automatische Übertragung der EuGH-Autokreditlinie auf die Wohnimmobilienkreditrichtlinie ab.
+- BGH, Urteil vom 20. Mai 2025, XI ZR 22/24: Bei der Aktiv-Passiv-Methode gehört die Differenz zwischen entgehenden Vertragszinsen und der Rendite laufzeitkongruenter Wiederanlage zu den wesentlichen Parametern. Fehlt diese nachvollziehbare Grundstruktur, ist die Information unzureichend und der Anspruch auf Vorfälligkeitsentschädigung nach BGB Paragraf 502 Absatz 2 Nummer 2 ausgeschlossen.
 
-- Erstes Anschreiben mit Sachverhalt + Anspruch
-- Fristsetzung 4 Wochen
-- Bei Verweigerung: Ombudsmann-Antrag
+## 6. Wirtschaftlichkeitsrechnung
 
-### Phase 2 — Ombudsmann-Antrag
+| Position | Betrag | Quelle |
+| --- | --- | --- |
+| Restvaluta | Betrag | Ablöseabrechnung |
+| bereits gezahlte Vorfälligkeitsentschädigung | Betrag | Kontoauszug |
+| Vertragszins und Restlaufzeit | Werte | Vertrag |
+| Refinanzierungs- oder Anschlusskosten | Betrag | konkretes Angebot |
+| Prozesskostenrisiko | Betrag | Streitwertberechnung |
 
-- Online-Antrag auf jeweiliger Ombudsmann-Seite
-- Streitwert-Limits beachten (typisch bis 5.000 EUR Spruch bindend für Bank; bis 10.000 EUR bei privaten Banken)
-- 6-Monats-Frist nach Bank-Ablehnung
-- Verfahrensdauer 3-6 Monate
+Berechne getrennt den rechtlichen Anspruch und den wirtschaftlichen Nutzen. Ein Widerruf kann bei günstiger Altverzinsung wirtschaftlich nachteilig sein. Eine Rückforderung nach BGB Paragraf 502 kann dagegen ohne vollständige Vertragsrückabwicklung sinnvoll sein.
 
-### Phase 3 — Bei Verbraucher mit Streitwert > 10.000 EUR
+## 7. Beweis- und Einwendungsplan
 
-- Direkte Klage AG/LG je Streitwert
-- Bei systematischen Fragen: KapMuG-Musterverfahren prüfen
-- Verbandsklage über VZBV / DSW
+Der Darlehensnehmer legt Vertrag, Pflichtangaben, Ablöseabrechnung und Zahlung vor. Die Bank kann Musterwirkung, Vollständigkeit der Angaben, ordnungsgemäße Nachbelehrung, Verjährung und fehlende Anspruchsberechtigung einwenden. Prüfe Einwände einzeln; behaupte Verwirkung oder Rechtsmissbrauch nicht schematisch.
 
-### Phase 4 — Vergleichs-Verhandlung mit Bank-Rechtsabteilung
+## 8. Quellenstatus
 
-- Bei substantieller Anspruchsbasis: Bank verhandelt schnell außergerichtlich
-- Vergleich oft 60-80 % des geltend gemachten Schadens
-- Schriftliche Erledigungs-Klausel
+Presseveröffentlichungen von Gansel Rechtsanwälte zu C-66/19 und den Autokreditentscheidungen dienten als Recherchehinweis. Maßgeblich sind die amtlichen Entscheidungen:
 
-### Phase 5 — Klage bei Scheitern
+- https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=de&num=C-66/19
+- https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=de&num=C-33/20
+- https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2024&Gericht=bgh&Seite=7&Sort=3&anz=3204&pos=229
+- https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Gericht=bgh&Seite=2028&Sort=6&anz=63896&nr=90093&pos=60846
+- https://www.gansel-rechtsanwaelte.de/presse
 
-- LG-Streit für > 5.000 EUR
-- Sachverständigen-Beweis (Bankgutachten BdSt, BaFin-Beratungs-Standards)
-- ggf. Mediation § 278a ZPO
+## 9. Output
 
-## Strategie und Taktik
-
-- **Ombudsmann zuerst**: kostengünstig, oft Vergleichsdruck auf Bank
-- **BaFin parallel**: bei systematischen Verstößen (Beratungsfehler, MiFID-Pflichten)
-- **Beweislast-Erleichterungen** § 280 BGB i.V.m. WpHG-Beratungspflichten dokumentieren
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **MiFID-Beratungsdokumentation** rügen: Bank muss vollständig dokumentieren
-
-## Quellen und Updates
-
-Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-Open-Finance-Reform 2026 aktualisieren.
-
-## Vertiefung: Rechtsprechung und Normen
-
-### Leitsaetze zum Ombudsmann und ADR-Verfahren
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Kette ADR-Schlichtung
-- § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
-- § 4b FinDAG — BaFin-Verbraucherbeschwerde (kein Hemmungseffekt!)
-- §§ 14, 15 UKlaG — Schlichtungsstellen-Anforderungen
-- VSBG §§ 1 ff. — Verbraucherstreitbeilegungsgesetz (ADR-Umsetzung)
-- § 278a ZPO — Gerichtliche Mediation als prozessuale Ergaenzung
-- §§ 32a-32e KapMuG — Kapitalanleger-Musterverfahren bei Serienstreitigkeiten
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Triage ADR-Verfahren
-
-Bevor losgelegt wird, klaere:
-1. Mandant Verbraucher oder Unternehmer? → Verbraucher: VSBG Schlichtung möglich; Unternehmer: nur wenn Bank-AGB Schiedsklausel.
-2. Welche Bank? → Zustaendige Schlichtungsstelle (private Bank/Sparkasse/Volksbank) identifizieren.
-3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
-4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
-5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Schlichtungsantrag beim Ombudsmann stellen | Vollstaendiger Antrag nach Template unten |
-| Variante A — geringe Schadenshoehe (unter 5.000 EUR) | Ombudsmann-Verfahren; guenstigere Alternative zur Klage |
-| Variante B — BaFin-Aufsichtsmassnahme sinnvoller | Beschwerde bei BaFin statt Schlichtung |
-| Variante C — parallele Klage noetig | Schlichtung und Klage koordinieren; Unterbrechungswirkung beachten |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-### Output-Template Ombudsmann-Antrag
-**Adressat:** Ombudsmann der Privaten Banken (oder Sparkassen/Volksbanken) — Tonfall: sachlich, verstaendlich
-
-```
-Ombudsmann der Privaten Banken
-Postfach 04 03 07
-10062 Berlin
-
-Schlichtungsantrag nach VSBG
-
-Antragsteller: [NAME MANDANT], [ADRESSE]
-Antragsgegner: [BANK], [ANSCHRIFT]
-Kontonummer: [NR.]
-Streitwert: EUR [BETRAG]
-
-Sachverhalt (kurz):
-Am [DATUM] empfahl die Bank meiner Mandantschaft das
-Produkt [BEZEICHNUNG WKN/ISIN]. [Fehler: keine anleger-
-gerechte Beratung / fehlende Kickback-Aufklaerung etc.]
-
-Begehren:
-Ich begehre Zahlung von EUR [BETRAG] Schadensersatz wegen
-[BERATUNGSFEHLER].
-
-Bisherige Kontaktaufnahme:
-[Datum] schriftliche Anspruchsstellung; [Datum] Ablehnung
-durch Bank (Anlage 1).
-
-Anlagen:
-1 - Ablehnungsschreiben Bank vom [DATUM]
-2 - Kontoauszuege / Kauf-Abrechnung
-3 - Beratungsprotokoll (soweit vorliegend)
-
-[Rechtsanwalt/-anwaeltin für [NAME MANDANT]]
-```
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)
-Ersatz: BGH III ZR 60/19, NJW 2021, 153 (verifiziert auf dejure.org)
-Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Schlichtungs-Kontext
--->
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Liefere Stichtagskarte, Klauselmatrix mit Seitenzitaten, getrennte Anspruchsprüfung, Verjährungs- und Einwendungsampel, Wirtschaftlichkeitsrechnung und ein ausformuliertes Anspruchsschreiben. Stelle offen dar, wenn die höchstrichterliche Linie für den konkreten Vertragswortlaut keine eindeutige Antwort gibt.
 
 ---
 
-## Skill: `mica-stablecoin-art-16-bafin`
+## Skill: `cum-ex-beihilfe-bgh-1-str-519-20`
 
-_Wenn es um Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Analysiert straf- und einziehungsrechtliche Risiken konkreter Cum-Ex-Abläufe. Ordnet Steueranmeldung, nicht einbehaltene Kapitalertragsteuer, Handels- und Bescheinigungskette, Tatbeitrag, Vorsatz, Beihilfe, berufstypisches Verhalten und Einziehung und erstellt Transaktionsmatrix, Beweisplan und Verteidigungs- oder Ermittlungsvermerk._
 
-# Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin
+# Cum-Ex-Tatbeitrag und Einziehung prüfen
 
+## Einsatzlage
 
-## Arbeitsweg
+Ein Bankmitarbeiter, Händler, Berater, Fondsverantwortlicher oder Dienstleister war an Transaktionen beteiligt, in deren Folge tatsächlich nicht einbehaltene Kapitalertragsteuer angerechnet oder erstattet wurde. Die Prüfung darf Cum-Ex nicht pauschal als Betrug bezeichnen, sondern muss Steuerhinterziehung, Beteiligungsform und Einziehung konkret subsumieren.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Normenanker
 
-**Fokus:** Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüfraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Prüfdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung).
+- Paragraf 370 Absätze 1, 3 und 4 AO: Steuerhinterziehung, besonders schwerer Fall und ungerechtfertigter Steuervorteil.
+- Paragrafen 25 bis 27 StGB: Täterschaft und Beihilfe; konkreter Tatbeitrag und doppelter Gehilfenvorsatz.
+- Paragrafen 73 bis 73e StGB und einschlägiges Übergangsrecht: Einziehung von Taterträgen bei Täter und Dritten.
+- Paragraf 36 Absatz 2 EStG und die weiteren steuerrechtlichen Vorschriften in der Fassung des jeweiligen Veranlagungszeitraums.
+- Paragrafen 94, 95, 102, 110 und 147 StPO: Sicherung, Durchsuchung, Durchsicht und Akteneinsicht.
 
-### MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin)
+## Rechtsprechungsanker
 
-## Mandantenfragen — Kaltstart
+- BGH, Urteil vom 28. Juli 2021 - 1 StR 519/20: Die Geltendmachung tatsächlich nicht einbehaltener Kapitalertragsteuer zur Anrechnung oder Erstattung aufgrund der dort festgestellten Cum-Ex-Leerverkaufsgeschäfte war eine unrichtige Angabe nach Paragraf 370 Absatz 1 Nummer 1 AO und führte bei positiver Bescheidung zu ungerechtfertigten Steuervorteilen. Der BGH bestätigte auch die Einziehung trotz steuerlicher Zahlungsverjährung nach dem anwendbaren Übergangsrecht.
+- Die Entscheidung trägt keine automatische Strafbarkeit jedes Beteiligten an einer Handels-, Abwicklungs- oder Bescheinigungskette. Für Beihilfe müssen geförderte Haupttat, objektiver Förderbeitrag und Vorsatz des konkreten Beteiligten belegt werden.
 
-1. **Was ist der geplante Token-Typ — ART oder EMT?** — ART = Wert mehrerer Referenzwerte (Währungskorb, Rohstoff-Korb); EMT = 1:1-Anbindung an eine einzelne Fiat-Währung. Grundlegende Weichenstellung für das Lizenzregime.
-2. **Besteht bereits eine Bank- oder E-Geld-Lizenz?** — Kreditinstitute und E-Geld-Institute nach CRD/EZDG/ZAG haben vereinfachte MiCA-Zulassung; keine vollständige Art. 16-Prüfung nötig.
-3. **Wie hoch ist das geplante Emissionsvolumen?** — Schwelle für "signifikante" ART/EMT: ≥ 10 Mio. Token oder Marktwert ≥ 5 Mio. EUR (Art. 43 MiCA); erhöhte Pflichten.
-4. **Wo ist die emittierende Gesellschaft registriert?** — EU-Sitz Pflicht; für Non-EU-Emittenten kein Pass-Porting.
-5. **Wie ist die Reserve-Aktiva strukturiert?** — Min. 30 % bei Kreditinstituten, diversifiziert; mindestens 3 verschiedene CRD-Banken.
-6. **Gibt es bereits einen Whitepaper-Entwurf?** — Basis des BaFin-Antrags; ESMA-Leitlinien für Inhalt sind zu beachten.
-7. **Plant der Emittent grenzüberschreitend tätig zu sein?** — EU-Pass nach Zulassung; Notifizierung an ESMA-Register erforderlich.
-8. **Sind Staking, Lending oder DeFi-Komponenten vorgesehen?** — Zusätzliche Regulierungsebenen (MiFID, AIFMD, ggf. MiCA Art. 50); gesonderte Einschätzung nötig.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+## Prüfprogramm
 
-## Rechtlicher Rahmen
+1. Jede Transaktion mit Handelstag, Dividendenstichtag, Lieferkette, Stückequelle, Kompensationszahlung, Steuerbescheinigung, Antrag und Erstattung abbilden.
+2. Historische steuerrechtliche Normfassung und tatsächlichen Einbehalt feststellen; Buchungs- oder Bescheinigungsvorgang nicht mit Steuerzahlung gleichsetzen.
+3. Haupttaten nach Antrag, Behörde, Veranlagungszeitraum, Betrag und verantwortlichem Erklärenden strukturieren.
+4. Beitrag des Betroffenen für jede Haupttat prüfen: Lieferung, Strukturierung, Bescheinigung, Finanzierung, Antrag, Kommunikation oder bloße berufstypische Tätigkeit.
+5. Vorsatz anhand Wissensstand zum fehlenden Einbehalt, Transaktionszweck, Warnungen, internen Gutachten, Tarnhandlungen und wirtschaftlicher Plausibilität bestimmen. Rückschauwissen nicht als damalige Kenntnis ausgeben.
+6. Konkurrenz und Zahl der Beihilfetaten nach Zuordenbarkeit der Beiträge prüfen; eine einheitliche Handlung kann mehrere Haupttaten fördern, ohne automatisch mehrere Beihilfetaten zu bilden.
+7. Einziehungsadressat, Erlangtes, Abzugsverbot, Drittbegünstigung, Entreicherungsausschlüsse und Übergangsrecht gesondert berechnen.
+8. Entlastende und belastende Beweise gleichrangig sichern und einen rollenbezogenen Ermittlungs- oder Verteidigungsvermerk erstellen.
 
-### MiCA-VO (EU) 2023/1114
+## Arbeitsergebnis
 
-| Artikel | Inhalt |
-|---|---|
-| Art. 3 | Begriffsbestimmungen: ART, EMT, CASP, Krypto-Wert |
-| Art. 16 | Zulassung als ART-Emittent: Antrag bei zuständiger nationaler Behörde |
-| Art. 17 | Prüfverfahren: 180 Tage Entscheidungsfrist; Vollständigkeitsprüfung nach 25 Arbeitstagen |
-| Art. 18 | Versagungsgründe: fehlendes Eigenmittel, unzureichende Reserve, ungeeignete Geschäftsführer |
-| Art. 19 | Whitepaper-Pflichten: Inhaltsvorgaben, Vorabnotifizierung, Veröffentlichung |
-| Art. 25 | Marketing-Mitteilungen: konsistent mit Whitepaper, nicht irreführend |
-| Art. 35 | Eigenmittel: max(350.000 EUR; 2 % durchschnittliche Reserve-Aktiva) |
-| Art. 36 | Reserve-Aktiva: vollständige Deckung der Token-Verbindlichkeit |
-| Art. 37 | Verwaltung Reserve: diversifiziert, hochliquide, geringes Risiko |
-| Art. 38 | Verwahrung Reserve: mind. 30 % bei CRD-Kreditinstituten; mehrere Institute |
-| Art. 43–58 | "Signifikante" ART: erhöhte Eigenmittel (3 %), Stresstest, EBA-Aufsicht |
-| Art. 45–50 | EMT-spezifisch: 1:1-Deckung, Rückkaufrecht, Zinsverbot |
-| Art. 64–67 | Passporting nach Zulassung; EU-weite Geltung |
+Liefere Transaktions- und Haupttatenmatrix, Rollenkarte, Vorsatzchronologie, Konkurrenzprüfung und Einziehungsrechnung. Jede Feststellung erhält Aktenfundstelle; offene Zuordnung wird als Beweislücke markiert und nicht durch eine Branchenvermutung geschlossen.
 
-### Nationales Rahmenrecht Deutschland
+## Belege und Aktenlücken
 
-- **KWG** — Kreditwesengesetz: bei Schnittstelle zu Einlagengeschäft oder Kreditgeschäft
-- **ZAG** — Zahlungsdiensteaufsichtsgesetz: bei E-Geld-Token
-- **WpIG** — Wertpapierinstitutsgesetz: falls Token Wertpapiercharakter hat
-- **GwG** — Geldwäschegesetz: AML/KYC-Pflichten für MiCA-Emittenten (§ 2 Abs. 1 Nr. 10 GwG)
-- **BaFin-Merkblatt** (2024): Anforderungen für Antrag nach Art. 16 MiCA
-
-### ESMA- und EBA-Leitlinien (Stand Mai 2026)
-
-- **ESMA/EBA Joint Guidelines** zu signifikanten ART und EMT
-- **EBA Final Guidelines** zu Eigenmittel-Anforderungen Art. 35
-- **ESMA Q&A** zu MiCA (laufend aktualisiert; wichtigste Auslegungsquelle)
-- **BaFin-Merkblatt vom 3.1.2025** zu Zulassungsanforderungen ART und EMT nach MiCAR (Quelle: bafin.de/SharedDocs/Veroeffentlichungen/DE/Merkblatt/mb_030125_zulassung_art_emt.html)
-- **Interaktives Informationsblatt zu Kryptowerten** der ESA / BaFin vom 6.10.2025 (Quelle: bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2025/neu/meldung_2025_10_06_kryptowerte_informationsblatt.html)
-- **Bundesbank/BaFin MiCAR-Workshop 2025** (BaFinTech-Praesentation 7.7.2025; bundesbank.de)
-
-## Prüfschema Lizenzierung
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-| Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
-|---|---|---|---|
-| 1 | Token-Klassifikation: ART / EMT / Utility / Security? | Art. 3 MiCA | Falsches Regime; ggf. WpPG-Prospekt nötig |
-| 2 | EU-Sitz der emittierenden Gesellschaft? | Art. 16 Abs. 1 MiCA | Antrag unzulässig |
-| 3 | Eigenmittel ≥ 350.000 EUR oder 2 % Reserve? | Art. 35 MiCA | Zulassungsversagung |
-| 4 | Reserve-Aktiva vollständig vorhanden? | Art. 36–37 MiCA | Zulassungsversagung |
-| 5 | Reserve bei ≥ 3 CRD-Banken verwahrt? | Art. 38 MiCA | Zulassungsversagung |
-| 6 | Whitepaper vollständig nach Art. 19? | Art. 19 MiCA | Rückfrage-Loop; Verzögerung |
-| 7 | Governance: geeignete Geschäftsführer, Vier-Augen-Prinzip? | Art. 16 Abs. 2 lit. e | Geeignetheitsproblem |
-| 8 | AML/KYC-Compliance nach GwG? | § 2 GwG | Bußgeld; separates Verfahren |
-| 9 | Signifikant-Schwelle geprüft? | Art. 43 MiCA | Erhöhte Pflichten ab Schwellenwert |
-| 10 | Notifizierung ESMA nach Zulassung? | Art. 64 MiCA | Kein EU-Pass |
-
-## Lizenzierung
-
-### Phase 1 — Token-Klassifikation (4–6 Wochen)
-
-1. Token-Design-Analyse: Wertbindung, Rechte, Konsensmechanismus
-2. Klassifikations-Memo ART vs. EMT vs. Utility vs. Security-Token
-3. Abstimmung mit BaFin (FinTech Hub-Anfrage) bei Unklarheit
-
-### Phase 2 — Antragsvoraussetzungen Art. 16 MiCA
-
-Checkliste (Pflichtangaben Art. 16 Abs. 2 MiCA):
-
-| Anforderung | Inhalt | Beleg |
-|---|---|---|
-| EU-Sitz | Gesellschaftsvertrag, Handelsregister | HR-Auszug |
-| Mindestkapital | Eigenkapital-Nachweis | Jahresabschluss oder Gründungskapital |
-| Geschäftsplan | 3-Jahres-Planung, Technik, Marktanalyse | Dokument |
-| Governance-Struktur | Organigramm, Qualifikation Geschäftsführer | CVs, Zertifikate |
-| Risikomanagement | Schriftliches Handbuch | Dokument |
-| Reserve-Investitionspolitik | Anlagegrundsätze, Custodian-Verträge | Dokumente |
-
-### Phase 3 — Whitepaper Art. 19 MiCA
-
-Pflichtinhalte:
-
-```
-1. Identität Emittent und Geschäftsführer
-2. Token-Beschreibung (Typ, Rechte, Pflichten)
-3. Technologiebeschreibung (Blockchain, Konsens)
-4. Rechte der Token-Inhaber (Rückkauf, Stimmrecht)
-5. Risikofaktoren (Markt, Technik, regulatorisch)
-6. Beschreibung der Reserve-Aktiva
-7. Rückkaufrecht-Modalitäten (bei ART)
-8. Klimafolgen-Abschätzung
-9. Wichtige Hinweise / Disclaimer
-
-Länge: typisch 40–80 Seiten
-Sprache: Deutsch + mindestens eine andere EU-Sprache
-Notifizierung bei BaFin vor Veröffentlichung
-```
-
-### Phase 4 — BaFin-Antrag
-
-- Einreichung über BaFin-Portal (digitale Antragsstrecke seit 2024)
-- **25 Arbeitstage**: BaFin prüft Vollständigkeit; bei Unvollständigkeit: Nachforderung hält Frist nicht an
-- **180 Tage**: gesetzliche Entscheidungsfrist ab Vollständigkeit des Antrags (Art. 17 MiCA)
-- Konsultation: bei signifikanten ART auch EBA; ESMA kann BaFin-Entscheidung anfechten
-
-### Phase 5 — Nach Zulassung
-
-- Notifizierung ESMA-Register (für EU-Pass Art. 64)
-- Whitepaper-Veröffentlichung (Website)
-- Laufende Berichtspflichten (vierteljährlich an BaFin)
-- Bei Erreichen "signifikant"-Schwelle: Meldung + erhöhte Pflichten
-
-## Eigenmittel- und Reservestruktur
-
-```
-Eigenmittel-Pflicht Art. 35:
-= max(350.000 EUR; 2 % × Ø Reserve-Aktiva der letzten 6 Monate)
-
-Beispiel:
-Ø Reserve-Aktiva = 50.000.000 EUR
-2 % = 1.000.000 EUR > 350.000 EUR
-→ Eigenmittelpflicht: 1.000.000 EUR
-
-Reserve-Aktiva Art. 36:
-- 100 % der Token-Verbindlichkeit
-- Hochliquide (Staatsanleihen AA+, Cash)
-- Niedriges Risiko (keine Krypto-Aktiva in der Reserve)
-- Segregiert von eigenen Mitteln
-
-Verwahrung Art. 38:
-- Mindestens 30 % bei CRD-Kreditinstituten
-- Diversifizierung auf mindestens 3 verschiedene Institute
-- Custodian-Verträge mit Nachweis Anleger-Schutz bei Insolvenz
-
-Signifikante ART/EMT (Art. 43):
-- Eigenmittel 3 % (statt 2 %)
-- Stresstest halbjährlich
-- EBA als Mitaufsicht neben BaFin
-```
-
-## Risiken und Red Flags
-
-| Konstellation | Bewertung | Empfehlung |
-|---|---|---|
-| Reserve nicht bei CRD-Banken | Zulassung verweigert | Sofort Custodian-Verträge abschließen |
-| Token mit Wertpapier-Merkmalen | WpPG-Prospektpflicht parallel | Klassifikation klären; Prospektpflicht rechtzeitig prüfen |
-| Whitepaper unvollständig | BaFin stellt Antrag zurück | Vollständigkeits-Check durch BaFin-erfahrenen Anwalt vor Einreichung |
-| Vermarktung vor Zulassung | § 32 BaFin-Sanktion + MiCA Art. 16 | Keine Token-Ausgabe vor Zulassung |
-| DeFi-Integration ohne Lizenz | Regulierungsgrauzone; Risiko steigt | ESMA-Position zu DeFi 2025 abwarten |
-| Drittstaaten-Sitz | Nicht-MiCA-konform | EU-Tochtergesellschaft gründen |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — MiCA Art. 16-Zulassung für Stablecoin beantragen | Antragsbausteine nach Template unten |
-| Variante A — Emittent bereits BaFin-reguliert (E-Geld-Institut) | Vereinfachter Zulassungsweg Art. 17 MiCA prüfen |
-| Variante B — Token uebersteigt Schwellenwert (signifikant) | Kategorie signifikanter EMT; EBA-Aufsicht beachten |
-| Variante C — Pilot-Emission vor vollstaendiger MiCA-Zulassung | Sandbox-Regimes prüfen; Rechtsrisiko dokumentieren |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbaustein — Widerspruch gegen BaFin-Versagung
-
-```
-An: Bundesanstalt für Finanzdienstleistungsaufsicht
-Datum: [Datum]
-
-Widerspruch gegen den Bescheid vom [Datum], Az. [Nr.]
-Mandant: [Gesellschaft]
-
-Wir legen Widerspruch ein und beantragen Aussetzung der
-Vollziehung.
-
-Begründung:
-
-1. Eigenmittelprüfung:
- Die BaFin hat EUR [Betrag] als unzureichend erachtet.
- Die korrekte Berechnung nach Art. 35 MiCA ergibt:
- Ø Reserve = EUR [Betrag]; 2 % = EUR [Betrag].
- Die Eigenmittel von EUR [Betrag] genügen.
-
-2. Reserve-Verwahrung:
- Der Custodian-Vertrag mit [Bank] weist die 30 %-Quote
- der Art. 38 MiCA nach (Anlage [Nr.]).
-
-3. Whitepaper-Vollständigkeit:
- Die BaFin rügt fehlende Klimafolgenabschätzung nach
- Art. 19 Abs. 1 lit. j MiCA. Diese ist als Anlage [Nr.]
- beigefügt und wurde im Ursprungsantrag als Anhang 12
- eingereicht. Beleg: Antrag-Einreichungsprotokoll v.
- [Datum], Seite [X].
-
-[Rechtsanwalt/-anwaeltin]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Fristen
-
-| Frist | Dauer | Rechtsgrundlage |
-|---|---|---|
-| BaFin-Vollständigkeitsprüfung | 25 Arbeitstage ab Eingang | Art. 17 Abs. 2 MiCA |
-| BaFin-Entscheidungsfrist | 180 Tage ab Vollständigkeit | Art. 17 Abs. 4 MiCA |
-| Widerspruch gegen Versagung | 1 Monat | § 68 VwGO |
-| Laufende Berichterstattung | Quartalsweise | Art. 22 MiCA |
-
-## Anschluss-Skills
-
-- `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — bei Token-Betrug
-- `fachanwalt-hgr-dlt-pilotregime-token` — bei Handelssystem für Token
-- `geldwaeschepraevention-aml-kyc` — AML/KYC für Token-Emittent
-
-## Quellen (Stand Mai 2026)
-
-- MiCA-VO (EU) 2023/1114 (ART/EMT ab 30.6.2024; CASP ab 30.12.2024)
-- KWG, ZAG, WpIG, GwG
-- EBA Final Guidelines zu Art. 35 MiCA (2024)
-- ESMA/EBA Joint Guidelines zu signifikanten ART (2024)
-- ESMA Q&A zu MiCA (laufend)
-- BaFin-Merkblatt vom 3.1.2025 zu ART und EMT nach MiCAR — bafin.de
-- BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
-- BaFin Aufsicht ZK 1 für ART/EMT — bafin.de/EN/Aufsicht/MiCAR
+- Trade- und Settlement-Daten einschließlich Stückekette
+- Steuerbescheinigungen, Anträge, Bescheide und Zahlungsnachweise
+- E-Mails, Chats, Gesprächsnotizen und Freigaben
+- Struktur-, Rechts- und Steuergutachten mit Verteiler und Datum
+- Vergütungsflüsse, Fonds- und Bankbuchungen sowie Einziehungsunterlagen
 
 ---
 
-## Skill: `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung`
+## Skill: `immobiliardarlehen-widerruf-altvertrag-pruefen`
 
-_Wenn es um Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung in Fachanwalt Bank Kapitalmarktrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Prüft den Widerruf eines älteren Immobilien- oder Immobiliar-Verbraucherdarlehens strikt nach Abschlussdatum und damaliger Normfassung. Kontrolliert Vertragstyp, Belehrung oder Information, Musterfiktion, Pflichtangaben, Frist, Übergangsrecht, Nachbelehrung, Verwirkung und Rückabwicklung und erstellt Fristen- und Zahlungsmodell._
 
-# Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
+# Widerruf eines älteren Immobiliardarlehens prüfen
 
-## Zweck
+## Einsatzlage
 
-Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktrecht. Spezifika: **Ombudsmann der privaten Banken** (BVR, Bankenverband), **BaFin-Beschwerden**, **WpHG-Schiedsstelle DSW**, **EU-ODR-Plattform**. In den meisten Bank-/Anlagestreitigkeiten ist eine Klage erst nach Schlichtungsversuch sinnvoll.
+Ein Verbraucher will einen lange zuvor geschlossenen oder bereits beendeten Immobilienkredit widerrufen. Der Begriff „Widerrufsjoker“ ersetzt nicht die zeitlich gestufte Prüfung; insbesondere erfasst die gesetzliche Erlöschensregel von 2016 nur bestimmte Verträge aus 2002 bis 2010.
 
-## Eingaben
+## Normenanker
 
-- Mandanten-Status (Verbraucher / Unternehmer)
-- Streit-Bank (private Bank, Sparkasse, Volksbank, Direktbank, FinTech)
-- Streitgegenstand (Anlageberatung, Kontoführung, Kredit, Wertpapiergeschäfte, Schufa)
-- Streitwert (Verbraucherschlichtung bis 5.000 EUR / 10.000 EUR)
-- Bisherige Bank-Korrespondenz
-- Bestehende Schiedsklausel im Vertrag
+- Paragrafen 355, 495 und 492 BGB sowie Artikel 247 EGBGB in der am Abschlussdatum geltenden Fassung.
+- Paragraf 356b BGB für Verträge im heutigen Anwendungsbereich und in der jeweils einschlägigen zeitlichen Fassung.
+- Artikel 229 Paragraf 38 EGBGB: Übergangsrecht; Absatz 3 betrifft bestimmte zwischen 1. September 2002 und 10. Juni 2010 geschlossene Immobiliardarlehen.
+- Paragrafen 346 bis 348 BGB und das zeitlich anwendbare Rückabwicklungsrecht.
+- Paragraf 242 BGB: Verwirkung und unzulässige Rechtsausübung anhand konkreter Umstände.
 
-## Rechtlicher Rahmen
+## Rechtsprechungsanker
 
-- **§ 14 UKlaG** — Schlichtungsstellen-Verzeichnis
-- **§ 4b FinDAG** — BaFin-Verbraucherbeschwerde
-- **§ 14 WpHG** — Schiedsstelle bei DSW
-- **VSBG (Verbraucherstreitbeilegungsgesetz)** — Pflicht für FinDL ab 1.4.2017
-- **EU-ODR-VO (EU) 524/2013** — Online-Streitbeilegung
-- **§ 246 VVG** — bei Versicherungs-Anlage
-- **§§ 32a-32e KapMuG** — Musterverfahren bei Kapitalanleger-Streit
+- BGH, Urteil vom 12. Juli 2016 - XI ZR 564/15: Die Formulierung, die Widerrufsfrist beginne „frühestens“ mit Erhalt der Belehrung, genügte für sich genommen nicht dem Deutlichkeitsgebot. Gesetzlichkeitsfiktion, wirksame Belehrung und eine mögliche Verwirkung sind getrennt zu prüfen.
+- BGH, Beschluss vom 23. Januar 2018 - XI ZR 298/17: Das Widerrufsrecht bei Altverträgen kann verwirken; Zeit- und Umstandsmoment sind nach den Besonderheiten des einzelnen Vertrags und seiner Abwicklung zu würdigen.
+- BGH, Urteil vom 15. Oktober 2024 - XI ZR 39/24: Für Allgemein-Verbraucherdarlehen wurde die frühere Linie zur Kaskadenverweisung nach den einschlägigen EuGH-Entscheidungen geändert. Diese Aussage darf nicht ohne Prüfung von Vertragstyp und Richtlinienbereich auf grundpfandrechtliche Altverträge übertragen werden.
 
-## Schlichtungsstellen-Übersicht
+## Prüfprogramm
 
-| Stelle | Zuständigkeit |
-|---|---|
-| **Ombudsmann private Banken** (Bankenverband) | private Banken (Deutsche Bank, Commerzbank, HypoVereinsbank etc.) |
-| **Ombudsmann Sparkassen** (DSGV) | Sparkassen |
-| **Ombudsmann Genossenschaftsbanken** (BVR) | Volks-/Raiffeisenbanken |
-| **Ombudsmann öffentliche Banken** (VÖB) | Landesbanken, KfW |
-| **BaFin-Verbraucherbeschwerde** | aufsichtsrechtliche Fragen |
-| **DSW** (Deutsche Schutzvereinigung) | WpHG-Streit, Anlegerberatung |
-| **EU-ODR-Plattform** | online geschlossene Verträge |
+1. Abschlussdatum, Darlehenszweck, Grundpfandrecht, Konditionen, Verbraucherstatus und verbundene Geschäfte feststellen; Vertrag in die richtige Gesetzesphase einordnen.
+2. Originalbelehrung oder Widerrufsinformation einschließlich Layout, Hervorhebung und aller Gestaltungshinweise mit dem damals geltenden gesetzlichen Muster vergleichen.
+3. Musterfiktion prüfen: vollständige inhaltliche und gestalterische Übernahme, zulässige Auswahltexte und schädliche Zusätze. Ein Fehler außerhalb des fristauslösenden Pflichtenkatalogs hält die Frist nicht automatisch offen.
+4. Vertragsschluss, Aushändigung, Pflichtangaben, Nachbelehrung und Fristlauf chronologisch belegen.
+5. Übergangsrecht prüfen. Das Erlöschen nach Artikel 229 Paragraf 38 Absatz 3 EGBGB nicht auf einen 2012 geschlossenen Vertrag anwenden; für diesen gilt seine eigene Normphase.
+6. Verwirkung anhand Zeitablauf und zusätzlichem Vertrauenstatbestand prüfen, insbesondere vollständige Ablösung, Aufhebungsvereinbarung, Freigabe von Sicherheiten und Dispositionen der Bank. Zeitablauf allein genügt nicht.
+7. Rückabwicklung nach dem für Vertrag und Widerruf geltenden Recht rechnen; Valuta, Zins, Tilgung, Nutzungen, Wertersatz, Aufhebungsentgelt und Sicherheiten getrennt ausweisen.
+8. Prozessziel, Feststellungsinteresse, Zug-um-Zug-Leistung und wirtschaftliches Ergebnis vor Klageerhebung bestimmen.
 
-## Workflow
+## Arbeitsergebnis
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+Erstelle Normphasen- und Fristenkarte, Wortlautvergleich mit Muster, Verwirkungsmatrix und vollständige Rückabwicklungsrechnung. Danach folgt eine Widerrufserklärung, ein Zahlungs- oder Feststellungsantrag oder eine begründete Negativempfehlung.
 
+## Belege und Aktenlücken
 
-### Phase 1 — Vorgerichtliche Bank-Korrespondenz
-
-- Erstes Anschreiben mit Sachverhalt + Anspruch
-- Fristsetzung 4 Wochen
-- Bei Verweigerung: Ombudsmann-Antrag
-
-### Phase 2 — Ombudsmann-Antrag
-
-- Online-Antrag auf jeweiliger Ombudsmann-Seite
-- Streitwert-Limits beachten (typisch bis 5.000 EUR Spruch bindend für Bank; bis 10.000 EUR bei privaten Banken)
-- 6-Monats-Frist nach Bank-Ablehnung
-- Verfahrensdauer 3-6 Monate
-
-### Phase 3 — Bei Verbraucher mit Streitwert > 10.000 EUR
-
-- Direkte Klage AG/LG je Streitwert
-- Bei systematischen Fragen: KapMuG-Musterverfahren prüfen
-- Verbandsklage über VZBV / DSW
-
-### Phase 4 — Vergleichs-Verhandlung mit Bank-Rechtsabteilung
-
-- Bei substantieller Anspruchsbasis: Bank verhandelt schnell außergerichtlich
-- Vergleich oft 60-80 % des geltend gemachten Schadens
-- Schriftliche Erledigungs-Klausel
-
-### Phase 5 — Klage bei Scheitern
-
-- LG-Streit für > 5.000 EUR
-- Sachverständigen-Beweis (Bankgutachten BdSt, BaFin-Beratungs-Standards)
-- ggf. Mediation § 278a ZPO
-
-## Strategie und Taktik
-
-- **Ombudsmann zuerst**: kostengünstig, oft Vergleichsdruck auf Bank
-- **BaFin parallel**: bei systematischen Verstößen (Beratungsfehler, MiFID-Pflichten)
-- **Beweislast-Erleichterungen** § 280 BGB i.V.m. WpHG-Beratungspflichten dokumentieren
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **MiFID-Beratungsdokumentation** rügen: Bank muss vollständig dokumentieren
-
-## Querverweise
-
-- `fachanwalt-bank-kapitalmarktrecht-orientierung` — Triage
-- `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — Anlagebetrug
-- `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` — Krypto-Sonderfall
-
-## Quellen und Updates
-
-Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-Open-Finance-Reform 2026 aktualisieren.
-
-## Vertiefung: Rechtsprechung und Normen
-
-### Leitsaetze zum Ombudsmann und ADR-Verfahren
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Normen-Kette ADR-Schlichtung
-- § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
-- § 4b FinDAG — BaFin-Verbraucherbeschwerde (kein Hemmungseffekt!)
-- §§ 14, 15 UKlaG — Schlichtungsstellen-Anforderungen
-- VSBG §§ 1 ff. — Verbraucherstreitbeilegungsgesetz (ADR-Umsetzung)
-- § 278a ZPO — Gerichtliche Mediation als prozessuale Ergaenzung
-- §§ 32a-32e KapMuG — Kapitalanleger-Musterverfahren bei Serienstreitigkeiten
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Triage ADR-Verfahren
-
-Bevor losgelegt wird, klaere:
-1. Mandant Verbraucher oder Unternehmer? → Verbraucher: VSBG Schlichtung moeglich; Unternehmer: nur wenn Bank-AGB Schiedsklausel.
-2. Welche Bank? → Zustaendige Schlichtungsstelle (private Bank/Sparkasse/Volksbank) identifizieren.
-3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
-4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
-5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Schlichtungsantrag beim Ombudsmann stellen | Vollstaendiger Antrag nach Template unten |
-| Variante A — geringe Schadenshoehe (unter 5.000 EUR) | Ombudsmann-Verfahren; guenstigere Alternative zur Klage |
-| Variante B — BaFin-Aufsichtsmassnahme sinnvoller | Beschwerde bei BaFin statt Schlichtung |
-| Variante C — parallele Klage noetig | Schlichtung und Klage koordinieren; Unterbrechungswirkung beachten |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-### Output-Template Ombudsmann-Antrag
-**Adressat:** Ombudsmann der Privaten Banken (oder Sparkassen/Volksbanken) — Tonfall: sachlich, verstaendlich
-
-```
-Ombudsmann der Privaten Banken
-Postfach 04 03 07
-10062 Berlin
-
-Schlichtungsantrag nach VSBG
-
-Antragsteller:     [NAME MANDANT], [ADRESSE]
-Antragsgegner:     [BANK], [ANSCHRIFT]
-Kontonummer:       [NR.]
-Streitwert:        EUR [BETRAG]
-
-Sachverhalt (kurz):
-Am [DATUM] empfahl die Bank meiner Mandantschaft das
-Produkt [BEZEICHNUNG WKN/ISIN]. [Fehler: keine anleger-
-gerechte Beratung / fehlende Kickback-Aufklaerung etc.]
-
-Begehren:
-Ich begehre Zahlung von EUR [BETRAG] Schadensersatz wegen
-[BERATUNGSFEHLER].
-
-Bisherige Kontaktaufnahme:
-[Datum] schriftliche Anspruchsstellung; [Datum] Ablehnung
-durch Bank (Anlage 1).
-
-Anlagen:
-1 - Ablehnungsschreiben Bank vom [DATUM]
-2 - Kontoauszuege / Kauf-Abrechnung
-3 - Beratungsprotokoll (soweit vorliegend)
-
-[Rechtsanwalt/-anwaeltin fuer [NAME MANDANT]]
-```
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)
-Ersatz: BGH III ZR 60/19, NJW 2021, 153 (verifiziert auf dejure.org)
-Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Schlichtungs-Kontext
--->
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `spezial-bankaufsicht-erlaubnis-und-vertrieb`
-
-_Wenn es um Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken
-
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `fachanwalt-bank-kapitalmarktrecht`. Kontext des Plugins: Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.
-
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
-
-## Kaltstart
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
-- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
-- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
-- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+- unterschriebene Vertragsurkunde mit sämtlichen Anlagen
+- Widerrufsbelehrung oder Widerrufsinformation im Original-Layout
+- Nachbelehrungen und Zugangsnachweise
+- Zahlungs-, Ablösungs- und Sicherheitenunterlagen
+- Aufhebungsvereinbarung, Korrespondenz und Widerrufserklärung
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

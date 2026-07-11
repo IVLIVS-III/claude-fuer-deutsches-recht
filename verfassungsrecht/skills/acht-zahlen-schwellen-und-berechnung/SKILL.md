@@ -47,26 +47,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 93 BVerfGG
-- § 32 BVerfGG
-- § 90 BVerfGG
-- Art. 82 GG
-- Art. 73 GG
-- Art. 100 GG
-- Art. 79 GG
-- § 92 BVerfGG
-- Art. 93 GG
-- Art. 74 GG
-- § 93a BVerfGG
-- Art. 76 GG
-
-### Leitentscheidungen
-
-- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51 (Lüth) — Wechselwirkungslehre.
-- BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56 (Apothekenurteil) — Drei-Stufen-Theorie der Berufsfreiheit.
-- BVerfG, Beschluss vom 23.09.2025, 1 BvR 2284/23 (Triage II) — Schutzpflicht und Art. 3 Abs. 3 Satz 2 GG.

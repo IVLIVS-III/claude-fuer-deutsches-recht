@@ -48,25 +48,3 @@ Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterw
 ## Qualitaetsgate
 
 Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 185 GVG
-- § 4 KSchG
-- § 70 VwGO
-- § 74 VwGO
-- § 55 OWiG
-- § 59 StGB
-- § 187 GVG
-- § 84 SGG
-- § 87 SGG
-- § 183 SGG
-- § 86b SGG
-- § 159 FamFG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

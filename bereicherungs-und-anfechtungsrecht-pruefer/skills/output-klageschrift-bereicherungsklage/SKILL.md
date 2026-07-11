@@ -11,7 +11,7 @@ description: "Wenn es um Output: Klageschrift Bereicherungsklage in bereicherung
 2. Was konkret ist herauszugeben (Geld, Sache, Nutzung) — Naturalrestitution oder Wertersatz (§ 818 Abs. 2 BGB)?
 3. Greift Entreicherung (§ 818 Abs. 3 BGB), und ist der Beklagte bösgläubig (§ 819 BGB)?
 4. Greift § 814 BGB oder § 817 S. 2 BGB als Ausschlussgrund?
-5. Welches Gericht ist zuständig (Amtsgericht bis 5.000 EUR Streitwert, Landgericht ab 5.001 EUR)?
+5. Welches Gericht ist zuständig (Amtsgericht bis einschließlich 10.000 Euro Streitwert, Landgericht darüber; Sonderzuweisungen und Übergangsrecht prüfen)?
 
 ## Zentrale Normen
 

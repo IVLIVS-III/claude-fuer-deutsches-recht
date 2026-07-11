@@ -124,4 +124,4 @@ Mit freundlichen Gruessen
 4. **Schadensberechnung:** Eingesetztes Kapital minus aktueller Wert + entgangene 4 %-Verzinsung.
 5. **Ausforderungsschreiben** an Bank mit 4-Wochen-Frist, Schadensaufstellung, Klageandrohung.
 6. **Ombudsmann** einschalten (hemmt Verjaebrung § 204 BGB).
-7. **Klage** bei Ablehnung: LG (§ 23 GVG Streitwert ab EUR 5.000).
+7. Klage bei Ablehnung: sachliche Zuständigkeit nach Spezialzuweisung und Streitwert prüfen; sonst Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber (Paragrafen 23 Nummer 1, 71 Absatz 1 GVG).

@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 138 Skills (gekuerzt fuer Chat-Fenster) des Plugins `selbstvertreter-sozialgericht`.
+Diese Vollprüfung enthält top-8 von 138 Skills (gekürzt für das Arbeitsfenster) des Plugins `selbstvertreter-sozialgericht`.
 
 ## Inhaltsverzeichnis
 
 1. **kaltstart-triage** — Wenn es um Kaltstart Triage in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
 2. **orientierung-selbstvertreter-sozialgericht** — Wenn es um Orientierung — Sich selbst vertreten am Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, For…
-3. **untaetigkeitsklage-88-sgg** — Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erste…
-4. **eilantrag-krankenkassen-leistung** — Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstel…
-5. **anlagen-bezeichnen-und-sortieren-sozialgericht** — Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in selbstvertreter-sozialgericht geht: erstell…
-6. **oertliche-zustaendigkeit-57-sgg** — Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist,…
-7. **wann-doch-anwalt-grenzfaelle-sozialgericht** — Wenn es um Wann sollten Sie doch einen Anwalt einschalten? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, No…
-8. **wohngeld-und-sozialhilfe-grenzfaelle** — Wenn es um Wohngeld und Sozialhilfe — wo gehoeren Sie hin? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, No…
+3. **buergergeld-sanktionen-31a-sgb-ii** — Prüft Leistungsminderungen im SGB II nach dem seit 1. Juli 2026 geltenden Recht und trennt Pflichtverletzung, Meldeversä…
+4. **untaetigkeitsklage-88-sgg** — Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erste…
+5. **eilantrag-krankenkassen-leistung** — Wenn es um Eilantrag gegen die Krankenkasse — wenn Sie nicht warten können in selbstvertreter-sozialgericht geht: erstel…
+6. **anlagen-bezeichnen-und-sortieren-sozialgericht** — Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in selbstvertreter-sozialgericht geht: erstell…
+7. **oertliche-zustaendigkeit-57-sgg** — Wenn es um Welches Sozialgericht in welcher Stadt? — Paragraf 57 SGG in selbstvertreter-sozialgericht geht: prüft Frist,…
+8. **wann-doch-anwalt-grenzfaelle-sozialgericht** — Wenn es um Wann sollten Sie doch einen Anwalt einschalten? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, No…
 
 ---
 
@@ -23,8 +23,6 @@ _Wenn es um Kaltstart Triage in selbstvertreter-sozialgericht geht: klärt Rolle
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Selbstvertreter Sozialgericht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -359,6 +357,52 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. B
 
 ---
 
+## Skill: `buergergeld-sanktionen-31a-sgb-ii`
+
+_Prüft Leistungsminderungen im SGB II nach dem seit 1. Juli 2026 geltenden Recht und trennt Pflichtverletzung, Meldeversäumnis, willentliche Arbeitsverweigerung und Übergangsfall. Liefert Bescheidmatrix, Fristenblatt, bezifferte Differenz sowie Widerspruchs- oder Eilantragsbaustein._
+
+# Leistungsminderung im SGB II prüfen
+
+## Einsatzlage
+
+Der Nutzer legt Anhörung, Meldeaufforderung oder Minderungsbescheid vor. Lies diese Unterlagen zuerst. Frage nur nach Datum der Pflichtverletzung, Zugang der Belehrung, wichtigem Grund und akutem Zahlungsbedarf, soweit die Akte das nicht beantwortet.
+
+## Normen- und Zeitanker
+
+- Paragraf 31 SGB II: Pflichtverletzung und wichtiger Grund.
+- Paragraf 31a SGB II in der seit 1. Juli 2026 geltenden Fassung: Regelfolge, Anhörung, außergewöhnliche Härte, Kappung und Sonderfall der willentlichen Arbeitsverweigerung.
+- Paragraf 31b SGB II: Feststellung binnen sechs Monaten, Beginn und Dauer.
+- Paragraf 32 SGB II: wiederholtes Meldeversäumnis.
+- Paragraf 65a Absatz 2 SGB II: Für Pflichtverletzungen und Meldeversäumnisse vor dem 1. Juli 2026 gilt das bis 30. Juni 2026 geltende Recht weiter.
+- Paragraf 24 SGB X sowie Paragrafen 84, 86b SGG: Anhörung, Widerspruch und Eilrechtsschutz.
+
+## Rechtsfolgen ab 1. Juli 2026
+
+1. Eine Pflichtverletzung nach Paragraf 31 SGB II mindert das Grundsicherungsgeld grundsätzlich um 30 Prozent des maßgebenden Regelbedarfs. Der Minderungszeitraum beträgt drei Monate; nach Pflichterfüllung oder ernsthafter nachhaltiger Bereitschaft ist die Minderung nach mindestens einem Monat aufzuheben.
+2. Bei einem wiederholten Meldeversäumnis nach Paragraf 32 SGB II beträgt die Minderung 30 Prozent für einen Monat. Meldeaufforderung, zulässiger Meldezweck, konkrete Rechtsfolgenbelehrung, Zugang und wichtiger Grund sind jeweils gesondert zu prüfen.
+3. Nach Paragraf 31a Absatz 7 SGB II kann der Anspruch in Höhe des Regelbedarfs entfallen, wenn eine tatsächlich und unmittelbar mögliche zumutbare Arbeit willentlich nicht aufgenommen wird. Die Sonderfolge ist nach einem Monat aufzuheben, wenn die Arbeitsmöglichkeit weggefallen ist, spätestens nach zwei Monaten.
+4. Unterkunft und Heizung dürfen durch eine Leistungsminderung rechnerisch nicht verringert werden. Außergewöhnliche Härte, persönliche Anhörung und die Kappungsregeln sind eigenständig zu prüfen.
+
+## Rechtsprechungsanker
+
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Das menschenwürdige Existenzminimum, die Verhältnismäßigkeit, eine Härtefallprüfung und die Möglichkeit vorzeitiger Beendigung bilden verfassungsrechtliche Leitplanken. Die Entscheidung betraf früheres Recht und bestätigt nicht automatisch die seit 1. Juli 2026 geltenden Tatbestände oder Rechtsfolgen.
+
+## Prüfworkflow
+
+1. Ereignisdatum bestimmen und über Paragraf 65a Absatz 2 SGB II die anwendbare Fassung festlegen.
+2. Verwaltungsakt, Anhörung, Pflicht oder Meldeaufforderung, Rechtsfolgenbelehrung und Zustellnachweise chronologisch ordnen.
+3. Tatbestand prüfen: konkrete Pflicht, Zumutbarkeit, tatsächlich mögliche Arbeitsaufnahme oder wiederholtes Meldeversäumnis. Einen wichtigen Grund und fehlendes Verschulden anhand der Belege würdigen.
+4. Verfahren prüfen: Zuständigkeit, persönliche Anhörung, Bestimmtheit, Sechsmonatsfrist und Bekanntgabe.
+5. Rechtsfolge exakt berechnen: Prozentsatz, Regelbedarf, Beginn, Mindest- und Höchstdauer, Kappung, Unterkunftskosten und Aufhebungszeitpunkt.
+6. Außergewöhnliche Härte und verfassungsrechtliche Einwände fallbezogen begründen; das Urteil 1 BvL 7/16 nicht als schematische Altfall-Prozentregel verwenden.
+7. Widerspruchsfrist notieren und bei konkreter Unterdeckung parallel einen Antrag nach Paragraf 86b SGG mit Kontoauszügen, Fixkosten und drohendem Nachteil vorbereiten.
+
+## Arbeitsprodukt
+
+Liefere zuerst eine Bescheidmatrix mit Tatbestandsmerkmal, Aktenbeleg, Einwand und Rechtsfolge. Danach folgen bezifferte Leistungsdifferenz, Fristenblatt und ein versandfertiger Widerspruchs- oder Eilantragsbaustein. Offene Tatsachen und offene Rechtsfragen getrennt kennzeichnen.
+
+---
+
 ## Skill: `untaetigkeitsklage-88-sgg`
 
 _Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
@@ -689,8 +733,6 @@ _Wenn es um Anlagen zur Klage richtig bezeichnen sortieren und nummerieren in se
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anlagen zur Klage — sortieren und bezeichnen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -1023,115 +1065,9 @@ Stand: 05/2026. Praxisempfehlung.
 
 ---
 
-## Skill: `wohngeld-und-sozialhilfe-grenzfaelle`
-
-_Wenn es um Wohngeld und Sozialhilfe — wo gehoeren Sie hin? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Wohngeld und Sozialhilfe — wo gehoeren Sie hin?
-
-## Fachlicher Anker
-
-- **Normen:** § 7, § 7a, §§ 20.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Worum geht es?
-
-Wohngeld und Sozialhilfe sind verschieden. Auch das zuständige Gericht ist verschieden. Diese Skill hilft Ihnen, das richtige Verfahren zu finden.
-
-## In einfacher Sprache
-
-Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsgericht. Sozialhilfe ans Sozialgericht. Wir helfen Ihnen, das richtige Gericht zu finden.
-
-## Wann brauchen Sie diese Skill?
-
-- Streit über Wohngeld-Höhe.
-- Streit über Sozialhilfe-Bewilligung.
-- Sie wissen nicht, welches Gericht zuständig ist.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Wohngeld** (WoGG): Zuschuss zur Miete für Personen mit geringem Einkommen.
-- **Sozialhilfe** (SGB XII): Lebensunterhalt-Sicherung.
-- **Wohngeldbehoerde**: meist die Stadt oder der Kreis.
-- **Sozialamt**: Behörde für SGB XII.
-
-## Rechtsgrundlagen
-
-- **Wohngeldgesetz (WoGG)** — Anspruch und Höhe.
-- **§ 7 SGB II** — Buergergeld.
-- **§ 41 SGB XII** — Grundsicherung im Alter / bei dauerhafter EM.
-- **§ 51 SGG** — Sozialgerichts-Zuständigkeit.
-- **§ 40 VwGO** — Verwaltungsgerichts-Zuständigkeit.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Was ist was?
-
-| Leistung | Behörde | Gericht |
-|---|---|---|
-| Wohngeld | Wohngeldbehoerde (Stadt) | Verwaltungsgericht |
-| Buergergeld | Jobcenter | Sozialgericht |
-| Sozialhilfe / Grundsicherung | Sozialamt | Sozialgericht |
-| KdU als Teil Buergergeld | Jobcenter | Sozialgericht |
-
-### Schritt 2 — Abgrenzung Wohngeld zu Buergergeld
-
-- **Wohngeld**: Wenn Sie genug Geld zum Leben haben, aber die Miete zu hoch ist.
-- **Buergergeld + KdU**: Wenn Sie auch Geld für den Lebensunterhalt brauchen.
-
-In manchen Faellen können Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermögens-Prüfung wie bei Buergergeld.
-
-### Schritt 3 — Wohngeld-Streit
-
-Bei Streit über Wohngeld:
-
-- Widerspruch (an die Wohngeldbehoerde)
-- Falls Widerspruch in den jeweiligen Bundeslaendern noch erforderlich (variiert)
-- Klage am **Verwaltungsgericht** (NICHT am Sozialgericht!)
-
-**Achtung**: Vor dem VG fallen Gerichtskosten an. Anders als SG. PKH möglich.
-
-### Schritt 4 — Sozialhilfe-Streit
-
-Bei Streit um Sozialhilfe / Grundsicherung:
-
-- Widerspruch (Sozialamt)
-- Klage am **Sozialgericht** (kostenfrei nach § 183 SGG)
-
-### Schritt 5 — Im Zweifel beide prüfen
-
-Wenn Sie nicht sicher sind, ob Sie Wohngeld oder Sozialhilfe / Buergergeld brauchen:
-
-- Antrag bei beiden Behörden
-- § 16 SGB I sichert Frist: ein Antrag gilt für alle
-- Behörden klären intern
-
-### Schritt 6 — Folge: Falsche Klage
-
-Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG analog). Aber Sie verlieren Zeit.
-
-## Worauf Sie besonders achten müssen
-
-- **Wohngeld geht ans Verwaltungsgericht**, nicht ans SG.
-- **Wohngeld-Reform 2023 (Wohngeld-Plus)**: deutlich erhoeht. Prüfen Sie aktuellen Stand.
-- **Mehrfach beantragen**: bei mehreren moeglichen Leistungen prüfen Sie alle.
-
-## Typische Fehler
-
-- Wohngeld-Klage ans SG geschickt → Verweisung
-- Sozialhilfe-Klage ans VG → Verweisung
-- Beide Antraege vergessen → § 16 SGB I nutzen
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Prüfen Sie aktuelle Werte unter www.bmwsb.bund.de.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

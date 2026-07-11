@@ -47,7 +47,6 @@ description: "Wenn es um Zustellung Und Vertreter Art 13 Dsa Art 37 Dma in DSA, 
 |---|---|
 | Verbraucher klagt Plattform | Art. 17 ff. Brüssel-Ia: Wohnsitz Verbraucher |
 | Gewerblicher Nutzer | Art. 7 Nr. 1: Erfüllungsort (idR Sitz Plattform) |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Plattform außerhalb EU | nationale Auffangregeln (§ 23 ZPO Vermögensgerichtsstand bei Vermögen im Inland) |
 
 ## Zustellungswege

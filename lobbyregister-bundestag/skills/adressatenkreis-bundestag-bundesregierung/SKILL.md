@@ -30,27 +30,6 @@ description: "Wenn es um Adressatenkreis Bundestag und Bundesregierung in Lobbyr
 
 Reformfassung des LobbyRG durch das Gesetz zur Aenderung des Lobbyregistergesetzes vom 15.01.2024, in Kraft seit 01.03.2024. Wesentliche Neuerung: Kontakte zu Bundesministerien werden bereits ab Referatsleiterebene erfasst (§ 1 Abs. 3 Nr. 2 LobbyRG n.F.). Uebergangsfrist für Bestandsregistrierungen lief bis 30.06.2024.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 LobbyRG
-- § 5 LobbyRG
-- § 2 LobbyRG
-- § 4 LobbyRG
-- § 1 LobbyRG
-- § 7 LobbyRG
-- § 6 LobbyRG
-- § 1 GeschGehG
-- Art. 21 GG
-- § 28 VwVfG
-- § 1 bis 7 LobbyRG
-- § 6b BMinG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ## Quellenanker
 

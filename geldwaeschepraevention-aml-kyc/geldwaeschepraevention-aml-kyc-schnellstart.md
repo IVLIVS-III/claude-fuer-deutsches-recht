@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GwG Paragraf 5: Risikoanalyse.
 - GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung.
 - GwG Paragraf 12: Überprüfung der Identität.
-- Paragrafen 1-4 GwG (Begriffsbestimmungen, Risikobasierter Ansatz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2 GwG (Verpflichtete): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 3 GwG (Wirtschaftlich Berechtigte): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 5-8 GwG (Risikoanalyse, Risikomanagement, interne Sicherungsmaßnahmen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 1-4 GwG (Begriffsbestimmungen, Risikobasierter Ansatz); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2 GwG (Verpflichtete); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 3 GwG (Wirtschaftlich Berechtigte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 5-8 GwG (Risikoanalyse, Risikomanagement, interne Sicherungsmaßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 26.06.2007 - C-305/05: Ordre des barreaux begrenzt und bestätigt Geldwäschemeldepflichten im Lichte anwaltlicher Berufsausübung.
 - EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20: Öffentlicher Zugriff auf Transparenzregisterdaten wirtschaftlich Berechtigter bedarf strenger Grundrechtsbegrenzung.
 

@@ -142,5 +142,3 @@ Stand: 05/2026.
 - ZUGFeRD-Spezifikation (FeRD), aktuelle Profile prüfen.
 - ViDA (VAT in the Digital Age) — Beschluss Rat der EU v. 11.03.2025; ABl. EU v. 25.03.2025; in Kraft getreten 14.04.2025; stufenweise Umsetzung bis 2035; Digital Reporting Requirements (DRR) ab 01.07.2030 für grenzueberschreitende B2B-Lieferungen.
 - Hinweis: alle Werte und Fristen laufend gegen BMF-Newsletter und bzst.de abgleichen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BMF-Schreiben 15.10.2024 bestaetigt), 3 ersetzt (DATEV-Programmpfad auf Onlinehilfe verwiesen; KoSIT XRechnung-Spezifikation 3.0.2 Winter 2025/26 bestaetigt; ViDA Ratsbeschluss 11.03.2025 bestaetigt) -->

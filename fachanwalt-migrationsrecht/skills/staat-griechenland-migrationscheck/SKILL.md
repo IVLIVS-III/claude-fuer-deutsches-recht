@@ -34,6 +34,8 @@ description: "Wenn es um Staat Griechenland Migrationscheck in Fachanwalt Migrat
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
 ## Quellen- und Sicherheitsregel
+- BVerwG, Urteil vom 16.04.2025 - 1 C 18.24 betrifft nur volljährige, männliche, erwerbsfähige und nichtvulnerable Schutzberechtigte, denen Griechenland bereits internationalen Schutz zuerkannt hat. Die Aussage zu fehlender beachtlicher Wahrscheinlichkeit extremer materieller Not darf weder auf vulnerable Personen noch auf Dublin-Aufnahmebedingungen oder andere Personengruppen übertragen werden.
+- Für die aktuelle Lage zusätzlich BVerwG, Urteil vom 23.10.2025 - 1 C 11.25 und neuere amtliche Erkenntnismittel prüfen; Personengruppe, Stichtag und tatsächliche Unterstützungszugänge ausdrücklich festhalten.
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.

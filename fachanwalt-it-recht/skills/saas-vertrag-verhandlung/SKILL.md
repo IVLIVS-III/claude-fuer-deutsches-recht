@@ -212,7 +212,6 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 |---|---|
 | AVV fehlt vollständig | Eigenständige Datenschutzverletzung; DSGVO-Meldepflicht prüfen; AVV sofort nachfordern |
 | Server außerhalb EU ohne SCC | SCC 2021 (Moduldaten) + TIA beifügen; alternativ EU-Cloud-Anbieter |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Preisanpassungsrecht einseitig | § 308 Nr. 4 BGB — unwirksam ohne sachlichen Grund und Widerspruchsrecht |
 | Datenmigration nach Kündigung nur gegen Aufpreis | Verhandeln: kostenloses 90-Tage-Exportfenster als Standard |
 | US-Anbieter ohne DPF-Zertifizierung | Selbst TIA-Bewertung + SCC; alternativ: Anbieter ohne US-Nexus |

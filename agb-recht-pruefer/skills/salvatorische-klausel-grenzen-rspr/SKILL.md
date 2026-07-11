@@ -19,9 +19,9 @@ description: "Wenn es um Salvatorische Klausel Grenzen Rspr in AGB-Recht-Prüfer
 
 ## BGH-Linie
 
-- BGH XII ZR 110/06: Salvatorische Klausel kann in B2B-AGB wirksam sein.
-- In B2C grundsätzlich problematisch: kein "Reparieren" durch Klausel auf Kosten des Verbrauchers.
-- "Geltungserhaltende Reduktion" ist im AGB-Recht grundsätzlich unzulaessig — BGH staendige Rspr. seit BGHZ 100, 360.
+- Eine Ersetzungsklausel darf die gesetzliche Rechtsfolge des Paragraf 306 BGB nicht in eine inhaltliche Reparatur der unwirksamen Klausel umkehren.
+- BGH, Urteil vom 06.10.2021 - XI ZR 234/20, Randnummer 51, und BGH, Urteil vom 24.03.2022 - III ZR 263/20, Randnummer 35: Eine geltungserhaltende Reduktion unangemessener AGB kommt nicht in Betracht.
+- BGH, Urteil vom 13.03.2025 - III ZR 426/23, Randnummer 46: Beim Blue-Pencil-Test bleibt ein Klauselteil nur erhalten, wenn nach dem Streichen eine selbständige, verständliche Regelung mit eigenem sinnvollem Gehalt bestehen bleibt.
 
 ## Wirkung im B2B
 
@@ -31,7 +31,7 @@ description: "Wenn es um Salvatorische Klausel Grenzen Rspr in AGB-Recht-Prüfer
 ## Geltungserhaltende Reduktion
 
 - Inhaltskontrolle ist Alles-oder-Nichts: eine Klausel ist entweder wirksam oder nicht.
-- Reduktion auf das wirksame Mass ist verboten — BGH I ZR 7/16 zur Werbung.
+- Eine unteilbare unangemessene Regelung darf nicht auf ein gerade noch zulässiges Maß zurückgeführt werden.
 - Ausnahme: teilbare Klauseln (Blue-Pencil-Test).
 
 ## Blue-Pencil-Test

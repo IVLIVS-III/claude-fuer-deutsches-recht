@@ -52,14 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 22 InsO Sicherungsmaßnahmen: ab Bestellung sofort (in der Praxis: erste 24–72 Stunden): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 156 InsO Berichtstermin: ca. 6 Wochen bis 3 Monate nach Eröffnung — Verwalter berichtet zu Lage, Fortführung/Stilllegung, Vergleichsoptionen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 158 InsO Stilllegung: vor Berichtstermin nur mit Zustimmung Gläubigerausschuss oder bei Massearmut: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung Vorsatzanfechtung; aus bloßer Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO
-- BVerfG 1 BvR 418/25 vom 28.02.2025 (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen
+- Paragraf 22 InsO Sicherungsmaßnahmen: ab Bestellung sofort (in der Praxis: erste 24–72 Stunden); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 156 InsO Berichtstermin: ca. 6 Wochen bis 3 Monate nach Eröffnung — Verwalter berichtet zu Lage, Fortführung/Stilllegung, Vergleichsoptionen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 158 InsO Stilllegung: vor Berichtstermin nur mit Zustimmung Gläubigerausschuss oder bei Massearmut; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 176 InsO Prüfungstermin: Frist zur Anmeldung (regelmäßig 4–6 Wochen) endet vor diesem Termin; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

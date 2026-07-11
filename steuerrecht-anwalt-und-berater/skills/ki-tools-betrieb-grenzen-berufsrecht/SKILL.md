@@ -115,5 +115,3 @@ Stand: 05/2026.
 - RDG § 5.
 - BStBK-/DStV-Hinweise zur KI-Nutzung.
 - Hinweis: KI-VO Anwendungsstufen — verbotene Praktiken ab 02.02.2025, General Purpose AI ab 02.08.2025, Hochrisiko-KI-Pflichten im Wesentlichen ab 02.08.2026; delegierte Rechtsakte laufend über eur-lex.europa.eu abrufen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Output-Verantwortungs-Satz ohne Marker neu formuliert; KI-VO-Anwendungsstufen mit konkreten Daten aus VO 2024/1689 belegt) -->

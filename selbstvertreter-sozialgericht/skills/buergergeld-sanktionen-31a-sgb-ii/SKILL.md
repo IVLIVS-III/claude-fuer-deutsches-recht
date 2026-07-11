@@ -1,49 +1,44 @@
 ---
 name: buergergeld-sanktionen-31a-sgb-ii
-description: "Wenn es um Buergergeld Sanktionen 31A Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Leistungsminderungen im SGB II nach dem seit 1. Juli 2026 geltenden Recht und trennt Pflichtverletzung, Meldeversäumnis, willentliche Arbeitsverweigerung und Übergangsfall. Liefert Bescheidmatrix, Fristenblatt, bezifferte Differenz sowie Widerspruchs- oder Eilantragsbaustein."
 ---
 
-# Buergergeld Sanktionen 31A Sgb Ii
+# Leistungsminderung im SGB II prüfen
 
-## Fachlicher Anker
+## Einsatzlage
 
-- **Normen:** § 7, § 7a, §§ 20.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Der Nutzer legt Anhörung, Meldeaufforderung oder Minderungsbescheid vor. Lies diese Unterlagen zuerst. Frage nur nach Datum der Pflichtverletzung, Zugang der Belehrung, wichtigem Grund und akutem Zahlungsbedarf, soweit die Akte das nicht beantwortet.
 
-## Sanktionstatbestaende
+## Normen- und Zeitanker
 
-### Pflichtverletzung § 31 SGB II
-- Eingliederungsvereinbarung nicht erfuellt.
-- Arbeitsangebot nicht angenommen.
-- Maßnahmen nicht angetreten.
+- Paragraf 31 SGB II: Pflichtverletzung und wichtiger Grund.
+- Paragraf 31a SGB II in der seit 1. Juli 2026 geltenden Fassung: Regelfolge, Anhörung, außergewöhnliche Härte, Kappung und Sonderfall der willentlichen Arbeitsverweigerung.
+- Paragraf 31b SGB II: Feststellung binnen sechs Monaten, Beginn und Dauer.
+- Paragraf 32 SGB II: wiederholtes Meldeversäumnis.
+- Paragraf 65a Absatz 2 SGB II: Für Pflichtverletzungen und Meldeversäumnisse vor dem 1. Juli 2026 gilt das bis 30. Juni 2026 geltende Recht weiter.
+- Paragraf 24 SGB X sowie Paragrafen 84, 86b SGG: Anhörung, Widerspruch und Eilrechtsschutz.
 
-### Meldeversaeumnis § 32 SGB II
-- Termin nicht eingehalten.
+## Rechtsfolgen ab 1. Juli 2026
 
-## Sanktionshoehe nach aktueller Gesetzeslage
+1. Eine Pflichtverletzung nach Paragraf 31 SGB II mindert das Grundsicherungsgeld grundsätzlich um 30 Prozent des maßgebenden Regelbedarfs. Der Minderungszeitraum beträgt drei Monate; nach Pflichterfüllung oder ernsthafter nachhaltiger Bereitschaft ist die Minderung nach mindestens einem Monat aufzuheben.
+2. Bei einem wiederholten Meldeversäumnis nach Paragraf 32 SGB II beträgt die Minderung 30 Prozent für einen Monat. Meldeaufforderung, zulässiger Meldezweck, konkrete Rechtsfolgenbelehrung, Zugang und wichtiger Grund sind jeweils gesondert zu prüfen.
+3. Nach Paragraf 31a Absatz 7 SGB II kann der Anspruch in Höhe des Regelbedarfs entfallen, wenn eine tatsächlich und unmittelbar mögliche zumutbare Arbeit willentlich nicht aufgenommen wird. Die Sonderfolge ist nach einem Monat aufzuheben, wenn die Arbeitsmöglichkeit weggefallen ist, spätestens nach zwei Monaten.
+4. Unterkunft und Heizung dürfen durch eine Leistungsminderung rechnerisch nicht verringert werden. Außergewöhnliche Härte, persönliche Anhörung und die Kappungsregeln sind eigenständig zu prüfen.
 
-- Regelminderung gestuft: erste Pflichtverletzung 10 v. H. für einen Monat, weitere Verletzungen 20 v. H. bzw. 30 v. H. — die genauen Dauerregelungen sind nach den Reformen 2023/2024 differenziert und nicht mehr pauschal "3 Monate" bei jeder Stufe. Aktuellen Wortlaut § 31a SGB II vor Anwendung prüfen.
-- § 31a Abs. 7 SGB II: vollstaendiger Wegfall des Regelbedarfs in der Sonderkonstellation der bewussten Verweigerung einer zumutbaren Arbeit ("Totalentzug") trotz BVerfG 1 BvL 7/16 zulässig, weil eng begrenzt und mit Mitwirkungsobliegenheit verknuepft — vor Anwendung im Mandat live verifizieren.
-- BVerfG 1 BvL 7/16 vom 05.11.2019 verbietet nur generelle Sanktionen über 30 v. H. und 100-v.-H.-Totalentzug. Im engen Sonderbereich des Abs. 7 hat der Gesetzgeber das Instrument unter strengen Voraussetzungen reaktiviert.
+## Rechtsprechungsanker
 
-## BVerfG-Linie
+- BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Das menschenwürdige Existenzminimum, die Verhältnismäßigkeit, eine Härtefallprüfung und die Möglichkeit vorzeitiger Beendigung bilden verfassungsrechtliche Leitplanken. Die Entscheidung betraf früheres Recht und bestätigt nicht automatisch die seit 1. Juli 2026 geltenden Tatbestände oder Rechtsfolgen.
 
-- BVerfG Beschluss vom 05.11.2019 (Az 1 BvL 7/16): Sanktionen über 30 Prozent verfassungswidrig.
-- Gesetzgeber hat 2023 reagiert.
+## Prüfworkflow
 
-## Verteidigung
+1. Ereignisdatum bestimmen und über Paragraf 65a Absatz 2 SGB II die anwendbare Fassung festlegen.
+2. Verwaltungsakt, Anhörung, Pflicht oder Meldeaufforderung, Rechtsfolgenbelehrung und Zustellnachweise chronologisch ordnen.
+3. Tatbestand prüfen: konkrete Pflicht, Zumutbarkeit, tatsächlich mögliche Arbeitsaufnahme oder wiederholtes Meldeversäumnis. Einen wichtigen Grund und fehlendes Verschulden anhand der Belege würdigen.
+4. Verfahren prüfen: Zuständigkeit, persönliche Anhörung, Bestimmtheit, Sechsmonatsfrist und Bekanntgabe.
+5. Rechtsfolge exakt berechnen: Prozentsatz, Regelbedarf, Beginn, Mindest- und Höchstdauer, Kappung, Unterkunftskosten und Aufhebungszeitpunkt.
+6. Außergewöhnliche Härte und verfassungsrechtliche Einwände fallbezogen begründen; das Urteil 1 BvL 7/16 nicht als schematische Altfall-Prozentregel verwenden.
+7. Widerspruchsfrist notieren und bei konkreter Unterdeckung parallel einen Antrag nach Paragraf 86b SGG mit Kontoauszügen, Fixkosten und drohendem Nachteil vorbereiten.
 
-1. Anhörung prüfen — war sie ordnungsgemaess?
-2. Sanktionsgrund war ueberhaupt einschlaegig?
-3. Wichtiger Grund (§ 31 Abs. 1 Satz 2 SGB II)?
-4. Verhältnismäßigkeit?
-5. Mehrfachsanktion?
+## Arbeitsprodukt
 
-## Prüfraster
-
-1. Welche Pflichtverletzung?
-2. Anhörung erfolgt?
-3. Wichtiger Grund?
-4. Sanktionshoehe rechtskonform?
-5. Widerspruch innerhalb 1 Monat?
+Liefere zuerst eine Bescheidmatrix mit Tatbestandsmerkmal, Aktenbeleg, Einwand und Rechtsfolge. Danach folgen bezifferte Leistungsdifferenz, Fristenblatt und ein versandfertiger Widerspruchs- oder Eilantragsbaustein. Offene Tatsachen und offene Rechtsfragen getrennt kennzeichnen.

@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-Serbien/Montenegro (Nachfolge Jugoslawi
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Serbien/Montenegro (Nachfolge Jugoslawien)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -160,5 +158,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Jugo
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Jugoslawien 26.03.1987, BGBl. 1988 II S. 744, in Kraft 01.01.1989. Fortgeltung für Serbien: BGBl. 1997 II S. 961; für Montenegro: BGBl. 2011 II S. 745. Dividenden (Art. 11) 15%, Zinsen (Art. 12) 0%, Lizenzen (Art. 13) 10%. MLI: nicht anwendbar (keine Unterzeichner).
-
-<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1988 II S. 744 bestaetigt (BMF-DBA-Stand 01.01.2026, NWB); Notenwechsel Serbien BGBl. 1997 II S. 961 und Montenegro BGBl. 2011 II S. 745 bestaetigt (BMF); BFH I R 81/13 gestrichen (Urteil betrifft anderes DBA); BMF Nachfolge allgemein gefasst; Quellensteuer Art. 11/12/13 bestaetigt (doppelbesteuerung.eu); MLI-Ausschluss bestaetigt (BMF-DBA-Stand) -->

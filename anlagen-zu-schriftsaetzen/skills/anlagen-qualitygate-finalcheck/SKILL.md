@@ -1,84 +1,48 @@
 ---
 name: anlagen-qualitygate-finalcheck
-description: "Wenn es um Anlagen-Qualitygate vor Versand in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Führt die letzte unabhängige Gegenprüfung einer gerichtlichen Versandmappe durch: vergleicht jede Tatsachen- und Anlagenreferenz mit der finalen Datei, prüft Nummernfolge, Seitenstempel, Lesbarkeit, Schwärzung, Dateinamen, Signaturweg, Empfänger, Frist und Eingangsreserve und liefert Stop-Liste oder ausformulierten Freigabevermerk."
 ---
 
 # Anlagen-Qualitygate vor Versand
 
-## Normenanker
+## 1. Vier-Augen-Auftrag
 
-Arbeitsfokus: **Anlagen-Qualitygate vor Versand**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Prüfe ausschließlich die finalen Versanddateien gegen die freigegebene Schriftsatzfassung. Verlasse dich nicht auf frühere Arbeitslisten. Wenn eine Datei nach dem letzten Hashlauf geändert wurde, beginnt ihre technische Prüfung neu.
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenschein.
+## 2. Inhaltsabgleich
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Jede Anlagenreferenz im Schriftsatz hat genau eine passende Datei.
+2. Jede Versandanlage wird im Schriftsatz genannt oder ihre Einreichungsfunktion wird ausdrücklich erklärt.
+3. Datum, Aussteller, Betrag und Beweisthema stimmen mit der Behauptung überein.
+4. Entscheidender Vortrag steht im Schriftsatz selbst.
+5. Anträge, Rubrum, Gericht und Aktenzeichen sind final.
 
-## Mindestinput
+## 3. Technischer Abgleich
 
-- Finaler Schriftsatz.
-- Finales Anlagenverzeichnis.
-- Dateiliste/Ordner.
-- Frist und Versandweg.
+1. Jede Datei öffnet ohne Kennwort oder Reparaturhinweis.
+2. Jede Anlagenseite trägt oben rechts die richtige Bezeichnung.
+3. Nummernfolge und Dateifolge sind lückenlos; Replik und Duplik setzen fort.
+4. OCR, Drehung, Seitenrand und Vollständigkeit wurden visuell kontrolliert.
+5. Keine eingebetteten Dateien, aktiven Skripte oder unbeabsichtigten Metadaten.
+6. Dateinamen entsprechen dem dokumentierten Gerichtsprofil.
+7. Datei- und Nachrichtengrenzen sind aus den finalen Dateien berechnet.
 
-## Arbeitsablauf
+## 4. Form- und Versandabgleich
 
-1. Vergleiche alle Anlagenzitate mit Dateien.
-2. Prüfe Nummernlücken, Doppelte und Überhänge.
-3. Prüfe Lesbarkeit/OCR, Stempel, Dateinamen, Schwärzung und Paketgröße.
-4. Erstelle Ampel: Stop, vor Versand beheben, nach Versand kontrollieren.
-5. Formuliere Freigabevermerk.
+1. Einschlägige Verfahrensordnung und Nutzungspflicht bestimmt.
+2. Qualifizierte Signatur oder persönliche Übermittlung über den sicheren Weg eindeutig festgelegt.
+3. Empfänger und gerichtliches Aktenzeichen kontrolliert.
+4. Zeitreserve für Übertragung, Eingangsbestätigung und erneuten Versand vorhanden.
+5. Verantwortlicher für Abruf und Prüfung der Eingangsbestätigung benannt.
 
-## Ausgabe
+## 5. Ampel
 
-- Stop-Liste.
-- Korrekturen vor Versand.
-- Freigabevermerk.
-- Versandbegleitnotiz.
+| Stufe | Bedeutung | Folge |
+| --- | --- | --- |
+| Rot | Form, Frist, Empfänger, Hauptdokument oder Anlage nicht belastbar | kein Versand |
+| Gelb | technisch bearbeitbar, aber Sicht- oder Quellenprüfung offen | konkrete Aufgabe und Verantwortlicher |
+| Grün | alle Prüfpositionen belegt und anwaltlich freigegeben | Freigabevermerk, danach manueller Versand |
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 6. Freigabevermerk
 
-## Typische Fehler, die du aktiv suchst
-
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
-
-## Anschluss-Skills
-
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
-## Vertiefter Anlagen-Workflow
-
-Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Beweisfunktion sichern, dann technische Einreichbarkeit prüfen.
-
-1. **Materialkarte:** Jede Datei einer Tatsachenbehauptung, einem Schriftsatzabschnitt und einer Anlagenkategorie zuordnen. Dubletten, alte Fassungen, Screenshots ohne Datum und unleserliche Scans separat markieren.
-2. **K1-Logik:** Nummerierung nicht nach Ordnerzufall, sondern nach Beweisgang: Vertrag/Grundlage, Kommunikation, Zahlung, Fristen/Zugang, Fotos/Screenshots, Tabellen, Behörden-/Gerichtsdokumente.
-3. **Technikcheck:** PDF/A-Eignung, OCR, Seitenzählung, Dateigröße, Signatur-/beA-/ERVV-Kontext, Anlagenverzeichnis, Deckblatt und Dateinamen konsistent prüfen.
-4. **Prozessrisiko:** Nichts Entscheidendes nur in der Anlage verstecken. Wenn eine Anlage eine tragende Tatsache beweist, muss der Schriftsatz diese Tatsache ausdrücklich behaupten und die Anlage präzise referenzieren.
-5. **Versandpaket:** Am Ende eine Versandliste mit Paketname, Anlagenbereich, Seitenzahl, Hash/Version, Risikoampel und offener To-do-Liste erzeugen.
-
-## Ergebnisqualität
-
-- Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
-- Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
-- Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+Nutze `assets/freigabevermerk-bea-versandmappe.md`. Nenne Schriftsatzstand, Anzahl der Anlagen, Nummernkreis, Profil, Gesamtgröße, Signaturweg, Frist, Verantwortlichen und Zeitpunkt der geplanten Eingangskontrolle. Ein automatischer Versand ist ausgeschlossen.

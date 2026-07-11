@@ -127,5 +127,3 @@ Stand: 05/2026.
 - IDW S 1, DRS 17.
 - BBE-Branchenkennzahlen.
 - Coenenberg, Jahresabschluss und Jahresabschlussanalyse.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->

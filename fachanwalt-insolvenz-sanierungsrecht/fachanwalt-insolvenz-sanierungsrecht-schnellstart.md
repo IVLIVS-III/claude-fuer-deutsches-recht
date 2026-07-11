@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Absonderungsrecht Paragraf 50 InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16 | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eigenverwaltung Schutzschirm Paragraf 270b InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorläufige Eigenverwaltung und Schutzschirm | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anfechtungsklage des Insolvenzverwalters | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Paragraf 6 InsO (Sofortige Beschwerde) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen. | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge. | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,19 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Paragraf 17 Abs. 1 und 2 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19 Abs. 2 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 21 Abs. 1 und 2 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 35 Abs. 1 InsO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BGH 17.10.2017 IX ZR 65/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH IX ZR 72/20 vom 06.05.2021 — Aus der bloßen Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO
-- BGH IX ZR 129/22 vom 18.04.2024 — Bestätigung der Neuausrichtung der Vorsatzanfechtung; konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung darzulegen; einfaches Bestreiten des außenstehenden
+- Paragraf 17 Abs. 1 und 2 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 19 Abs. 2 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 21 Abs. 1 und 2 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 35 Abs. 1 InsO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+- BGH IX ZR 72/20 vom 06.05.2021 — Aus der bloßen Zahlungsunfähigkeit allein kein Schluss auf Vorsatz iSd Paragraf 133 Abs. 1 InsO.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach.
+- BGH IX ZR 239/22 vom 18.04.2024 — Deckungslücke, Zahlungseinstellung und Benachteiligungsvorsatz konkret beweisen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Absonderungsrecht Paragraf 50 InsO, Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16, Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, Eigenverwaltung Schutzschirm Paragraf 270b InsO: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Absonderungsrecht Paragraf 50 InsO, Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung, Vorläufige Eigenverwaltung und Schutzschirm, Anfechtungsklage des Insolvenzverwalters: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
 
 ## 8. Stop
 

@@ -58,7 +58,7 @@ BGH-Entscheidungen haben grundsätzlich Vorrang; OLG-Rechtsprechung nur relevant
 
 ### Schritt 5 — Zitierweise
 - Gericht + Entscheidungsform + Datum + Aktenzeichen + Fundstelle
-- Beispiel: BGH, Urteil v. TT.MM.JJJJ, Az. X ZR 123/45, dejure.org [Prüfpunkt: live verifiziert?]
+- Zitiermuster: [Gericht], [Entscheidungsform] vom [Datum], [Aktenzeichen], [amtliche URL] [Prüfpunkt: Volltext und tragende Aussage live verifiziert?]
 
 ## Wann reicht das Systemwissen?
 

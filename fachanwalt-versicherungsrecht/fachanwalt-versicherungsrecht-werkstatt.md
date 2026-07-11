@@ -10,9 +10,9 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
 ## 2. Stop-Kriterien
 
@@ -48,9 +48,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | VVG Paragraf 1; BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg | VVG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VVG Paragraf 19 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | VVG Paragraf 19; BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | VVG Paragraf 19 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,17 +63,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | VVG Paragraf 61 | Beratungspflichten des Versicherungsvermittlers | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
 | VVG Paragraf 86 | Übergang von Ersatzansprüchen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
 | BGB Paragraf 305 bis Paragraf 310 | AGB-Kontrolle von Versicherungsbedingungen | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
-| Paragraf 241 Abs. 2 BGB | Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
+| Paragraf 241 Abs. 2 BGB | Rücksichtnahme-, Schutz- und Organisationspflichten | Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung | Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung |
-| BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen |
-| BGH, Urteil vom 07.05.2014 - IV ZR 76/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen |
-| BGH, Urteil vom 25.05.2016 - IV ZR 205/15 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung |
-| BGH, Urteil vom 18.07.2018 - IV ZR 68/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus |
+| BGH, Urteil vom 10.03.2016 - I ZR 147/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen |
+| BGH, Urteil vom 30.11.2017 - I ZR 143/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende |
+| BGH, Urteil vom 22.06.2011 - IV ZR 225/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei grob fahrlässiger Herbeiführung des Versicherungsfalls kann die Kürzung nach Paragraf 81 Absatz 2 VVG ausnahmsweise |
+| BGH, Urteil vom 12.03.2014 - IV ZR 306/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei arglistiger Verletzung der vorvertraglichen Anzeigepflicht kann der Versicherer trotz fehlender Belehrung |
+| BGH, Urteil vom 07.05.2014 - IV ZR 76/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei nicht ordnungsgemäß belehrten Altverträgen der Lebens- und Rentenversicherung nach dem Policenmodell konnte |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,27 +85,27 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - VVG Paragraf 61: Beratungspflichten des Versicherungsvermittlers.
 - VVG Paragraf 86: Übergang von Ersatzansprüchen.
 - BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle von Versicherungsbedingungen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — regelmäßige Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — regelmäßige Verjährung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 199 Abs. 1 BGB — Beginn der regelmäßigen Verjährung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 ZPO — Bestimmtheit von Antrag und Klagegrund; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Beratungspflichten im Versicherungsvertrieb verlangen anlassbezogene, dokumentierbare Bedarfsermittlung.
-- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Obliegenheitsverletzungen sind nach Kausalität, Verschulden und Belehrung zu prüfen.
-- BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Versicherungsbedingungen sind aus Sicht eines durchschnittlichen Versicherungsnehmers auszulegen.
-- BGH, Urteil vom 25.05.2016 - IV ZR 205/15: Rücktritt wegen Anzeigepflichtverletzung verlangt saubere Risikofragen und Belehrung.
-- BGH, Urteil vom 18.07.2018 - IV ZR 68/17: Leistungsfreiheit setzt konkrete vertragliche Obliegenheit und Rechtsfolgenbelehrung voraus.
-- BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de
-- BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
-- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach Paragraf 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel
-- BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung. Quelle: juris.bundesgerichtshof.de (Volltext vor Versand
-- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab. Quelle: bundesgerichtshof.de (Volltext-Verifikation Pflicht)
+- BGH, Urteil vom 10.03.2016 - I ZR 147/14: Der Versicherungsmakler muss das konkrete Risiko analysieren und eine sachgerechte Entscheidungsgrundlage schaffen; eine uninformierte sachwidrige Weisung darf er nicht einfach hinnehmen.
+- BGH, Urteil vom 30.11.2017 - I ZR 143/16: Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen.
+- BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Bei grob fahrlässiger Herbeiführung des Versicherungsfalls kann die Kürzung nach Paragraf 81 Absatz 2 VVG ausnahmsweise bis auf null reichen; erforderlich ist eine Einzelfallabwägung.
+- BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Bei arglistiger Verletzung der vorvertraglichen Anzeigepflicht kann der Versicherer trotz fehlender Belehrung nach Paragraf 19 Absatz 5 VVG zurücktreten.
+- BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Bei nicht ordnungsgemäß belehrten Altverträgen der Lebens- und Rentenversicherung nach dem Policenmodell konnte das Widerspruchsrecht trotz der damaligen Jahresfrist fortbestehen; die Rückabwicklung berücksichtigt den genossenen Versicherungsschutz.
+- BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de.
+- BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de.
+- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach Paragraf 164 Abs. 1 VVG unzulässig.
+- BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung.
+- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab. Quelle: bundesgerichtshof.de (Volltext-Verifikation Pflicht).
 
 ## 9. Prüfraster
 
@@ -157,19 +157,19 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Berufsunfähigkeit: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Berufsunfähigkeit Paragraf 172 VVG
 
-Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 172 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Berufsunfähigkeit Paragraf 172 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 172 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Deckungsklage
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Deckungsklage: Mehrparteienkonflikt und Interessenmatrix
 
@@ -181,32 +181,32 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU). - Ber
 
 ### 15.7. Gebaeudeversicherung Paragraf 86 VVG
 
-Prüfe Gebaeudeversicherung Paragraf 86 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 86 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Gebaeudeversicherung Paragraf 86 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 86 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Haftpflicht Paragraf 100 VVG
 
-Prüfe Haftpflicht Paragraf 100 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 100 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. 1 bis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Haftpflicht Paragraf 100 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 100 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Hausratversicherung Paragraf 19 VVG
 
-Prüfe Hausratversicherung Paragraf 19 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 19 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Hausratversicherung Paragraf 19 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 19 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. kfz Haftpflicht Paragraf 115 VVG
 
-Prüfe kfz Haftpflicht Paragraf 115 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 115 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe kfz Haftpflicht Paragraf 115 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 115 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG - Paragraf 28 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. - bester nächster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Lebensversicherung Widerruf Paragraf 152 VVG
 
-Prüfe Lebensversicherung Widerruf Paragraf 152 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 152 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Lebensversicherung Widerruf Paragraf 152 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 152 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Private Krankenversicherung Paragraf 203 VVG
 
-Prüfe Private Krankenversicherung Paragraf 203 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 203 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. 1 bis 4 VVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Private Krankenversicherung Paragraf 203 VVG von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 203 VVG - Paragraf 1 Satz 1 VVG - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. 1 BGB — Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

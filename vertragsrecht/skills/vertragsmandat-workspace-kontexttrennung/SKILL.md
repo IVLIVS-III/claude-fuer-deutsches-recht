@@ -302,8 +302,3 @@ Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.1998&Aktenzeichen=IX+ZR+196%2F97
-Bundle: bundle_047.json
--->

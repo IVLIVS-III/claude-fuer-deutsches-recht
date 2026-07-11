@@ -23,7 +23,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -67,9 +66,7 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Scheidungsantrag
 
@@ -83,7 +80,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 | 4 | Scheitern der Ehe feststellbar? | Paragraf 1565 Abs. 1 BGB | Unwiderlegbar bei Paragraf 1566 Abs. 1 oder 2 BGB; sonst Einzelfallprüfung |
 | 5a | Trennungsjahr abgelaufen (> 1 Jahr)? | Paragraf 1566 Abs. 1 BGB | Bei beiderseitigem Antrag: Zerrüttung unwiderlegbar |
 | 5b | Drei Jahre Trennung? | Paragraf 1566 Abs. 2 BGB | Auch einseitig möglich; Zerrüttung unwiderlegbar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Härteklausel Versagung? | Paragraf 1568 BGB | Ausnahme: Kindeswohl oder schwere Folgen für Ehegatten; praktisch selten |
 | 7 | Verbundsachen? | Paragraf 137 FamFG | Versorgungsausgleich von Amts wegen; andere Folgesachen auf Antrag |
 | 8 | Versorgungsausgleich ausschließbar? | Paragraf 6 VersAusglG | Nur durch notarielle Vereinbarung oder Gerichtsentscheid |
@@ -352,12 +348,3 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 - VersAusglG: https://www.gesetze-im-internet.de/versausglg/
 - BGH XII ZB 277/12: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20277/12
 - BGH XII ZB 607/15: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20607/15
-
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 1
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC + falsches Datum
-und betrifft ehebedingte Nachteile nach Paragraf 1578b BGB (nachehelicher Unterhalt) – nicht
-Abtrennung des Versorgungsausgleichs nach Paragraf 142 FamFG.
-Maßnahme: Zeile aus Leitentscheidungen-Tabelle gelöscht.
-Hinweis: Die Abtrennung von Folgesachen ist in Paragraf 140 FamFG geregelt (nicht Paragraf 142 FamFG).
--->

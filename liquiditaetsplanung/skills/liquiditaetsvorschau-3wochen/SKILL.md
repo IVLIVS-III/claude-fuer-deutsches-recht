@@ -91,7 +91,7 @@ Erst nach Auslieferung der Vorschau anbieten:
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 9 — Eskalation**
-Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und — falls Steuerberatermandat — den Hinweis nach § 102 StaRUG textbausteinartig formulieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung des Plans.
+Bei Rot: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und bei einschlägigem Beratermandat Paragraf 102 StaRUG prüfen. Die Dreiwochenfrist des Paragrafen 15a InsO ist nur die Höchstfrist bei Zahlungsunfähigkeit; die Pflicht besteht ohne schuldhaftes Zögern ab objektivem Eintritt und nicht erst ab Kenntnis oder Planerstellung.
 
 ## Rechtlicher Rahmen
 
@@ -99,7 +99,7 @@ Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` u
 
 - **§ 17 InsO** Zahlungsunfähigkeit.
 - **§ 18 InsO** drohende Zahlungsunfähigkeit (24-Monats-Prognose, Hinweisfunktion).
-- **§ 15a InsO** Antragspflicht (3 Wochen).
+- **Paragraf 15a InsO** Antragspflicht ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
 - **§ 1 StaRUG** Krisenfrüherkennungspflicht der Geschäftsleitung.
 - **§ 102 StaRUG** Hinweispflicht beratender Berufe.
 
@@ -112,7 +112,7 @@ Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` u
 5. **BGH II ZR 112/21 vom 28.06.2022** (ZIP 2022 S. 1606; NZI 2022 S. 787; GmbHR 2022 S. 1036) — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus (Bugwellenrechtsprechung); Liquiditätsbilanz nicht zwingend. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf`.
 6. **BGH IX ZR 48/21 vom 28.04.2022** (ZIP 2022 S. 1341; GmbHR 2022 S. 908) — Bestätigung der 10-%-Schwelle; geordnete Gegenüberstellung erforderlich (Liquiditätsbilanz oder Finanzplan). Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf`.
 7. **BGH II ZR 88/16 vom 19.12.2017** (BGHZ 217 S. 129; ZIP 2018 S. 283; NJW 2018 S. 1089) — Passiva II zwingend einzubeziehen; Absage an die Bugwellentheorie; Symmetrie- und Gläubigerschutzargument; Substantiierung beim Bestreiten durch den Geschäftsführer. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf`.
-8. **BGH II ZR 296/05 vom 24.05.2005** — Klassisches Prüfraster für Liquiditätsstockung versus Zahlungsunfähigkeit; Drei-Wochen-Schließbarkeit der Lücke. Vor Übernahme über die BGH-Datenbank verifizieren (Aktenzeichensuche II ZR 296/05).
+8. **BGH IX ZR 123/04 vom 24.05.2005** - Klassisches Prüfraster für Zahlungsstockung und Zahlungsunfähigkeit. Eine innerhalb von drei Wochen nicht geschlossene Lücke unter 10 Prozent spricht regelmäßig gegen Zahlungsunfähigkeit, sofern nicht bald mehr als 10 Prozent zu erwarten sind. Ab 10 Prozent besteht regelmäßig Zahlungsunfähigkeit, sofern die Lücke nicht mit an Sicherheit grenzender Wahrscheinlichkeit bald fast vollständig geschlossen wird und das Zuwarten für die Gläubiger zumutbar ist.
 
 Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), keine US-stare-decisis-Logik, keine pretrial discovery.
 
@@ -142,14 +142,14 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren. Die 3-Wochen-Frist § 15a InsO läuft ab tatsächlichem Eintritt.
+**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei einschlägigem Beratermandat Hinweis nach Paragraf 102 StaRUG dokumentieren. Antragspflicht ohne schuldhaftes Zögern ab objektivem Eintritt; Dreiwochenfrist nur als Höchstfrist bei Zahlungsunfähigkeit.
 
 ## Typische Fehler
 
 - **Voll ausgeschöpften Kontokorrent als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
-- **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab Eintritt der Zahlungsunfähigkeit.
+- **Dreiwochen-Höchstfrist statisch ab Planerstellung oder Kenntnis rechnen:** Maßgeblich ist der objektive Eintritt der Zahlungsunfähigkeit; die Höchstfrist darf nicht ausgeschöpft werden, wenn eine rechtzeitige Beseitigung nicht ernsthaft zu erwarten ist.
 - **SV- und Lohnsteuer-Rückstände kleinreden**: Starke Indizien und persönlich haftungsauslösend.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorlage verändern**: Die Excel-Vorlage hat eine vorgegebene Form (Kategorien-Zeilen × KW-Spalten). Nicht in ein anderes Layout umbauen.

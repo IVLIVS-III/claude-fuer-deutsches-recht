@@ -111,7 +111,3 @@ Vergleichspotential: [Einschätzung]
 - **Veraltete mandat.md:** Ohne regelmäßige Updates per `/mandat-update` liefert das Briefing einen falschen Stand; nach jeder Entwicklung updaten.
 - **Fristversäumnis-Risiko:** Das Briefing ersetzt nicht den Fristenkalender; jede Frist muss separat in das Kanzlei-Fristbuch eingetragen werden.
 - **Vertraulichkeit des Briefings:** Das Briefing enthält Mandatsgeheimnisse; Empfängerkreis sorgfältig wählen (Paragraf 43a Abs. 2 BRAO); nicht per unverschlüsselter E-Mail versenden.
-
-<!-- AUDIT 27.05.2026
-Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
--->

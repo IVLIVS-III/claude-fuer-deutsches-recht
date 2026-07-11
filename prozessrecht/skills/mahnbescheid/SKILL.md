@@ -130,5 +130,3 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Rn.). Kommentare mit Bearbeiter, Werk, Aufl., Paragraf, Rn. Keine allgemeinen Pauschalverweise.
 
 ---
-
-<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemäß dejure.org-Prüfung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->

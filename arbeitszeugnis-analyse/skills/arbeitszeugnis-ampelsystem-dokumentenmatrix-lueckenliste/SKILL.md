@@ -23,7 +23,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -91,24 +91,4 @@ Typische Nachforderungen an den Arbeitgeber:
 ## Praktiker-Tipp
 
 Bei Note 3 trägt Arbeitnehmer die Beweislast für bessere Note (BAG ständige Rechtsprechung). Daher Klage auf Note 2 nur bei vollständig dokumentierten Beurteilungsbeiträgen. Sonst lieber Vergleich in der Güteverhandlung: typisches Kompromisspaket: "stets zur vollen Zufriedenheit", "stets einwandfrei", warme Schlussformel.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Paragraf 16 BBiG
-- Paragraf 46 ArbGG
-- Paragraf 1 KSchG
-- Paragraf 7 KSchG
-- Paragraf 102 BetrVG
-- Paragraf 2 NachwG
-- Paragraf 42 GKG
-- Paragraf 29 VwVfG
-- Paragraf 11 ArbGG
-- Paragraf 13 BBiG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 

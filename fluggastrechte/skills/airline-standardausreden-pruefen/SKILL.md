@@ -141,27 +141,3 @@ Diesen Katalog vor jedem Mahnungsschreiben durchgehen — Standardausreden mit P
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 71 GVG
-- § 29 VwVfG
-- § 2 HRG
-- § 4 HRG
-- § 7 HRG
-- § 15 HRG
-- § 16 HRG
-- § 70 VwGO
-- § 123 VwGO
-- Art. 13 DSGVO
-- § 14 UKlaG
-
-### Leitentscheidungen
-
-- EuGH C-402/07
-- EuGH C-549/07
-- EuGH C-204/08
-- EuGH C-394/23
-- EuGH C-188/20

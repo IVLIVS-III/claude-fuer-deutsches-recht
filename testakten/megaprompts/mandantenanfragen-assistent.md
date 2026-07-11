@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 58 Skills des Plugins `mandantenanfragen-assistent`.
+Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `mandantenanfragen-assistent`.
 
 ## Inhaltsverzeichnis
 
@@ -475,7 +475,6 @@ Die Verschwiegenheitspflicht gilt ab dem Moment, in dem ein Rechtssuchender sich
 | Anonyme Erstanfrage per E-Mail (kein Mandatsverhältnis) | Allgemeine berufliche Diskretion; § 43a Abs. 2 BRAO greift, sobald Berufsausübung erkennbar |
 | Telefonisches Erstgespräch | Ab Beginn des Gesprächs gilt Verschwiegenheitspflicht über das Besprochene |
 | Schriftliche Mandatserteilung | Vollumfängliche Verschwiegenheitspflicht über alle Informationen im Zusammenhang mit dem Mandat |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Praxis-Hinweis für das Sekretariat
 
@@ -730,33 +729,16 @@ Dieses Anschluss-Routing für **Mandantenanfragen Assistent** wählt nach dem er
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- Art. 13 DSGVO
-- Art. 28 DSGVO
-- Art. 9 DSGVO
-- § 203 StGB
-- § 4 KSchG
-- § 356 StGB
-- § 29 VwVfG
-- Art. 6 DSGVO
-- § 5 TMG
-- § 263 StGB
-- Art. 32 DSGVO
-- Art. 15 DSGVO
-
-### Leitentscheidungen
-
-- BGH VI ZR 7/20
-- BGH VI ZR 246/19
+Für Eingang, Weiterleitung und Antwort einer Mandantenanfrage zuerst Mandatsstatus, Interessenkollision, Verschwiegenheit, Datenschutz und laufende Fristen bestimmen. Paragraf 43a BRAO, Paragraf 2 BORA, Paragraf 203 StGB und Artikel 5, 6 und 32 DSGVO nur nach konkreter Datenverarbeitung anwenden. Rechtsprechung gehört nur dann in das Arbeitsergebnis, wenn ihre tragende Aussage die konkrete Anfrage tatsächlich entscheidet.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

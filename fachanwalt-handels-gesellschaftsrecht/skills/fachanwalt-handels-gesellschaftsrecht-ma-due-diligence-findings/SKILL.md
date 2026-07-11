@@ -261,12 +261,3 @@ EMPFEHLUNG
 OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
-
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 4
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC
-Erdgaspreiserhöhungen (keine stillschweigende Zustimmung bei vorbehaltloser Zahlung,
-§ 4 AVBGasV) – nichts mit M&A, Disclosure Schedules oder § 442 BGB zu tun.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Maßnahme: Leitsatz-Zitat aus Abschnitt "Vertiefung – Aktuelle Rechtsprechung" gelöscht.
--->

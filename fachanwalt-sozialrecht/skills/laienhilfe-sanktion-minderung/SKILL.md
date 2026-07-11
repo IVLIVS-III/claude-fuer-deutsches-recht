@@ -10,7 +10,7 @@ description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Sanktion Min
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Nur das im Skill betroffene Sozialgesetzbuch und die konkrete Verfahrensnorm heranziehen. Widerspruchsfrist nach Paragraf 84 SGG, Klagefrist nach Paragraf 87 SGG und einstweiliger Rechtsschutz nach Paragraf 86b SGG strikt trennen; Rechtsweg, Statthaftigkeit, aufschiebende Wirkung und Rechtsmittel gesondert prüfen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -20,8 +20,6 @@ description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Sanktion Min
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Sanktion Minderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -74,17 +72,11 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
 ## Sanktion / Minderung - Themenspezifika
-- **Rechtsgrundlage SGB II:** §§ 31-32 SGB II (Pflichtverletzungen, Sanktionen); § 31a (Höhe Minderung); § 31b SGB II (Dauer); § 32 SGB II (Meldeversaeumnis).
-- **BVerfG-Rechtsprechung 2019 (1 BvL 7/16):** Sanktionen über 30 % verfassungswidrig wegen Verletzung Existenzminimum (Art. 1, 20 GG); Neuregelung 2023 angepasst; **Vollsanktion (100 % der Regelbedarfsstufe) nicht mehr zulässig** ausser bei mehrfach wiederholten Pflichtverletzungen unter engen Voraussetzungen.
-- **Sanktionsabstufung § 31a SGB II (Stand 2023):** 1. Pflichtverletzung 10 %, 2. innerhalb Jahresfrist 20 %, 3. innerhalb Jahresfrist 30 %; Dauer regelmaessig 1 Monat.
-- **Meldeversaeumnis § 32 SGB II:** 10 %; auch bei mehrfach wiederholtem Meldeverstoss.
-- **Anhörung § 24 SGB X zwingend** vor Sanktion - **Verletzung Anhörungspflicht = Bescheid rechtswidrig**.
-- **Wichtiger Grund** § 31 I SGB II:
- - Krankheit (Attest prüfen, AU sofort einreichen).
- - Kinderbetreuung (Schliesstage Kita, Krankheit Kind).
- - Pflege Angehoeriger.
- - Verkehrshindernis ohne Verschulden.
- - Wirtschaftliche Existenzgefaehrdung durch zumutbare Arbeit (z. B. nicht kostendeckende Vergutung).
-- **Eilantrag § 86b II SGG:** bei Existenzgefaehrdung Sanktion durch hoehere als 30 % oder bei Aussetzung KdU - Anordnungsanspruch (rechtswidrige Sanktion) + Anordnungsgrund (Existenzgefaehrdung).
-- **Widerspruch § 84 SGG 1 Monat:** Anhörung prüfen, wichtigen Grund vortragen, Verhältnismäßigkeit prüfen (Atypischer Fall? Persoenliche Verhältnisse?).
-- **Praxis-Tipp:** Bei wiederholten Sanktionen Aktivierungsplan in Frage stellen (Geeignetheit, Zumutbarkeit § 10 SGB II); bei psychischer Erkrankung Stellungnahme Hausarzt einholen.
+- **Zeitfassung zuerst:** Paragraf 65a Absatz 2 SGB II trennt Ereignisse vor und ab dem 1. Juli 2026. Das Datum der Pflichtverletzung oder des Meldeversäumnisses entscheidet über die anzuwendende Fassung.
+- **Pflichtverletzung ab 1. Juli 2026:** Paragraf 31a Absatz 1 SGB II sieht grundsätzlich 30 Prozent für drei Monate vor. Nach Pflichterfüllung oder ernsthafter nachhaltiger Bereitschaft ist nach mindestens einem Monat aufzuheben.
+- **Meldeversäumnis ab 1. Juli 2026:** Paragraf 32 SGB II verlangt ein wiederholtes Versäumnis und sieht 30 Prozent für einen Monat vor. Meldezweck, Belehrung, Zugang und wichtiger Grund einzeln prüfen.
+- **Willentliche Arbeitsverweigerung:** Paragraf 31a Absatz 7 SGB II kann bei einer tatsächlich und unmittelbar möglichen zumutbaren Arbeit zum Entfall des Anspruchs in Höhe des Regelbedarfs führen. Tatbestand, Härte und Höchstdauer besonders streng prüfen.
+- **Verfassungsanker:** BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 setzt Leitplanken für Existenzminimum, Verhältnismäßigkeit, Härte und vorzeitige Beendigung. Es ist keine Bestätigung des seit 1. Juli 2026 geltenden Rechts.
+- **Verfahren:** Anhörung nach Paragraf 24 SGB X, konkrete Rechtsfolgenbelehrung, Bestimmtheit, Bekanntgabe und Sechsmonatsfrist prüfen. Ein Anhörungsmangel kann nach Paragraf 41 SGB X heilbar sein und macht den Bescheid nicht ausnahmslos endgültig unwirksam.
+- **Eilrechtsschutz:** Bei konkreter Unterdeckung Antrag nach Paragraf 86b SGG mit aktuellem Kontostand, Fixkosten, Unterkunftsrisiko und medizinischen oder familiären Folgen begründen.
+- **Arbeitsprodukt:** Bescheid in einfacher Sprache erklären, Differenz beziffern und danach Widerspruch sowie bei Bedarf Eilantrag formulieren.

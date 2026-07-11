@@ -40,9 +40,7 @@ description: "Wenn es um Mietkauf und Leasing: Abgrenzung und Eigentumsübergang
 
 ## BGH-Rechtsprechung
 
-**BGH VIII ZR 26/03**: Kaufoption zu einem Preis, der weit unter dem zu erwartenden Restwert liegt, begründet wirtschaftliches Eigentum des LN → steuerlich Mietkauf, nicht Leasing.
-
-**BGH VIII ZR 220/08**: Automatischer Eigentumsübergang bei vollständiger Ratenzahlung = Mietkauf; § 433 BGB (Kaufrecht) anwendbar, nicht nur Mietrecht.
+Die Einordnung folgt nicht aus der Vertragsüberschrift, sondern aus dem vollständigen Regelungsprogramm: automatischer Eigentumsübergang, wirtschaftlich zwingende Kaufoption, Laufzeit, Amortisation, Restwertrisiko und Kündigungsfolgen sind zusammen zu würdigen. Zivilrechtliche Vertragstypologie und steuerliches wirtschaftliches Eigentum nach Paragraf 39 Absatz 2 Nummer 1 AO getrennt prüfen; aus einer günstigen Kaufoption allein folgt keine pauschale Einordnung.
 
 ## Steuerliche Konsequenzen
 
@@ -108,4 +106,3 @@ description: "Wenn es um Mietkauf und Leasing: Abgrenzung und Eigentumsübergang
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

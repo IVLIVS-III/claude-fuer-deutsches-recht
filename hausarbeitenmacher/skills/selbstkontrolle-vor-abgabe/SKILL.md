@@ -257,7 +257,3 @@ Wenn nicht — überarbeite noch eine Stunde.
 
 - Abgabe — Du hast es geschafft.
 - Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
-
-<!-- AUDIT 27.05.2026 — Bundle 033 —
- nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
--->

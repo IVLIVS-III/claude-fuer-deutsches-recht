@@ -118,6 +118,8 @@ Automatisch generierte Gesamtübersicht aller **{total_skills} Skills** in **{to
 
 Stand: `{version}`.
 
+[Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
+
 ## Alle Skills auf einmal herunterladen
 
 | Paket | Inhalt | Download |
@@ -193,14 +195,13 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     werkstatt_md = f"{GH_RAW}/{_source_rel}/{name}-werkstatt.md"
     schnellstart_md = f"{GH_RAW}/{_source_rel}/{name}-schnellstart.md"
     md_zip = f"{GH_RELEASE}/alle-skills-markdown.zip"
-    plugin_readme = f"{GH_BLOB}/{_source_rel}/README.md"
+    plugin_readme = f"../{_source_rel}/README.md"
     lines = [
         f"# {name}",
         "",
         f"**{len(skills)} Skills** · Stand `{version}`",
         "",
-        f"- [← Zurück zur Gesamtübersicht](../SKILLS.md)",
-        f"- [Plugin-README]({plugin_readme})",
+        f"[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README]({plugin_readme}) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)",
         "",
         "## Downloads",
         "",
@@ -218,12 +219,12 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.",
         "- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.",
         "- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen, entpacken, gewünschte `SKILL.md` als Anhang in den Chatbot ziehen oder kopieren.",
-        "- **Im Browser lesen:** in der Tabelle unten `[Markdown]` klicken — die `SKILL.md` öffnet sich auf GitHub. Inhalt mit `Strg+A` / `Cmd+A` kopieren und einfügen.",
-        "- **`[Raw .md]`** zeigt den Rohtext direkt — als echter Download.",
+        "- **Im Browser lesen:** in der Tabelle unten auf `im Browser öffnen` klicken; die `SKILL.md` öffnet sich mit Vorschau.",
+        "- **Als Datei laden:** daneben auf `SKILL.md` klicken; der Link ist als echter Markdown-Direktdownload ausgezeichnet.",
         "",
         "## Skills in diesem Plugin",
         "",
-        "| Skill | Beschreibung | Browser-Ansicht |",
+        "| Skill | Beschreibung | Browser und Download |",
         "| --- | --- | --- |",
     ]
     for s in skills:
@@ -233,7 +234,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         blob_url = f"{GH_BLOB}/{rel_md}"
         raw_url = f"{GH_RAW}/{rel_md}"
         lines.append(
-            f"| [`{s}`]({blob_url}) | {desc} | [Markdown]({blob_url}) · [Raw .md]({raw_url}) |"
+            f"| [`{s}`]({blob_url}) | {desc} | [im Browser öffnen]({blob_url}) · <a href=\"{raw_url}\" download><code>SKILL.md</code></a> |"
         )
     lines.append("")
     return "\n".join(lines)
@@ -248,7 +249,7 @@ def write_detail_index(plugins: list[tuple[str, list[str]]], version: str) -> st
         "",
         "Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstürzt oder die Seite endlos neu lädt.",
         "",
-        "- [← Zurück zur Gesamtübersicht](../SKILLS.md)",
+        "[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)",
         "",
         "## Alle Detailseiten",
         "",

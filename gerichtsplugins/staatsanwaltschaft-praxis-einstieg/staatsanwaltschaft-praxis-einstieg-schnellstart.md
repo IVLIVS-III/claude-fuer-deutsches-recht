@@ -54,9 +54,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten verlangen Prüfung von Europäischer Ermittlungsanordnung, Zuständigkeit, Verteidigungsrechten und Zugang zum Beweismaterial.
+- BGH, Beschluss vom 02.03.2022 - 5 StR 457/21, BGHSt 67, 29: EncroChat-Daten können verwertbar sein; die konkrete Herkunft, Übermittlung und Relevanz bleiben aktenbezogen zu prüfen.
+- BVerfG, Beschluss vom 01.11.2023 - 2 BvR 1832/22, frei nachweisbar über bundesverfassungsgericht.de/dejure: Verfassungsbeschwerden gegen EncroChat-Verwertung scheitern nicht an abstrakter Skepsis, sondern.
 
 ## 7. Antwortform
 

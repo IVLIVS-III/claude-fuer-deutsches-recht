@@ -118,5 +118,3 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - BMF v. 28.11.2019 zu GoBD.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 1 bestaetigt (SV-Beitragssaetze Stand 2025 eingesetzt), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->

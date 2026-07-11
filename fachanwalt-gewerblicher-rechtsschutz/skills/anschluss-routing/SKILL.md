@@ -1,67 +1,45 @@
 ---
 name: anschluss-routing
-description: "Wenn es um Anschluss-Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill. Trennt Schutzrecht, Rechtsbestand, Verletzung, Eilverfahren und Amtsweg und liefert eine begründete nächste Arbeitsstation statt einer unverbundenen Liste von Normen oder Entscheidungen."
 ---
 
-# Anschluss-Routing
+# 1. Anschluss-Routing im gewerblichen Rechtsschutz
 
-## Einsatzlage
+## 1.1 Startregel
 
-Dieses Anschluss-Routing für **Fachanwalt Gewerblicher Rechtsschutz** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+Lies das bisherige Ergebnis und alle vorhandenen Unterlagen. Route nicht neu, wenn bereits ein verwertbares Arbeitsprodukt begonnen wurde; führe es mit dem passenden Fachskill fort.
 
-## Fachlandkarte dieses Plugins
+## 1.2 Pflichtweichen
 
-- `abmahnung-formular-portal-und-einreichung` — Abmahnung Bezuege Designg
-- `workflow-chronologie-und-belegmatrix` — Chronologie Belegmatrix Fristen Risikoampel
-- `designeintragung-neuheit-paragraf-3-designg-eugh` — Designeintragung Neuheit Paragraf 3 Designg Eugh
-- `designschutz-eu-gemeinschaftsgeschmacksmuster-eugh-c-419-13` — Designschutz EU Gemeinschaftsgeschmacksmuster Eugh C 419 13
-- `designverletzung-fehlerkatalog` — Designverletzung Fehlerkatalog
-- `designverletzung` — Designverletzung Marken Widerspruch
-- `domainrecht-loeschung-bgh-i-zr-138-19` — Domainrecht Loeschung BGH I ZR 138 19
-- `dpma-mehrparteien-konflikt-und-interessen` — Dpma Interessen Einstweilige Euipo
-- `erstgespraech-mandatsannahme` — Erstgespraech Mandatsannahme Abmahnung UWG
-- `eu-warenmarke-loeschung-eugh-c-541-18` — EU Warenmarke Loeschung Eugh C 541 18
-- `einstieg-schnelltriage-fallrouting` — FA Gewerblicher RS GR Abmahnung Portfolio
-- `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gebrmg
-- `workflow-redteam-qualitygate` — Faevvollzug Abschlussschreiben Lizenzanaloger
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+1. Welches Schutzrecht trägt den Vorgang: Marke, Design, Patent, Gebrauchsmuster, Geschäftsgeheimnis, Urheberrecht oder Lauterkeitsrecht?
+2. Geht es um Entstehung, Register, Rechtsbestand, Verletzung, Lizenz, Eilverfahren oder Vollstreckung?
+3. Welche Frist läuft tatsächlich und aus welchem Dokument folgt sie?
+4. Welche territoriale Ebene gilt: Deutschland, EU, EPÜ, internationale Registrierung oder Drittstaat?
+5. Welches Arbeitsprodukt wird als Nächstes gebraucht?
 
-## Arbeitsweg
+## 1.3 Fachrouten
 
-- Ergebnis sichten: Welche Fachanwalt Gewerblicher Rechtsschutz-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
-- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
-- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+| Fallkern | Folgeskill | Warum |
+| --- | --- | --- |
+| Designanmeldung, DPMA, EUIPO oder Nichtigkeit | `designg-behoerden-gericht-und-registerweg` | trennt Amts- und Gerichtsweg sowie alten und neuen EU-Rechtsstand |
+| Neuheit, Offenbarung oder Formenschatz | `design-neuheit-offenbarung-pruefen` | baut einen belegbaren Offenbarungskalender |
+| Designverletzung | `designverletzung` | vergleicht Ansichten, Gesamteindruck und Einreden |
+| Markenanmeldung oder Kollision | `markenanmeldung-dpma-und-euipo` oder der konkret passende Markenskill | verbindet Registerstand, Warenverzeichnis, Benutzung und Verwechslungsgefahr |
+| Domainkonflikt | `domainrecht-loeschung-bgh-i-zr-138-19` | trennt Kennzeichenrecht, Namensrecht und Domainstatus |
+| Abmahnung und einstweiliger Rechtsschutz | `abmahnung-formular-portal-und-einreichung` | sichert Anspruch, Dringlichkeit, Antrag und Zustellung |
+| Unklare Akte | `einstieg-schnelltriage-fallrouting` | erzeugt Schutzrechts-, Fristen- und Belegmatrix |
+| Qualitätskontrolle | `workflow-redteam-qualitygate` | prüft Gegenargument, Antrag, Beweis und Vollzug |
 
-## Qualitätsanker
+Wenn ein genannter Slug nicht vorhanden ist, wähle aus der aktuellen Skillübersicht den fachlich nächsten vorhandenen Skill und dokumentiere die Abweichung.
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+## 1.4 Verfahrenssicherung
 
-## Normen und Rechtsprechung
+1. Sichere amtlichen Registerauszug und angegriffene Entscheidung.
+2. Berechne Fristen aus Zustellung und einschlägiger Verfahrensnorm; übernimm keine Frist aus einem anderen Schutzrecht.
+3. Trenne Amt, Beschwerdekammer, Bundespatentgericht, Gericht der Europäischen Union und Verletzungsgericht.
+4. Weise Entscheidungen nur der Aussage zu, die sie tatsächlich tragen. Eine bloße Aktenzeichenliste ist kein Routingkriterium.
+5. Gib als Ergebnis genau einen Hauptskill und höchstens zwei notwendige Nebenspuren aus.
 
-### Kuratierte Normen-Bibliothek
+## 1.5 Ausgabe
 
-- § 8c UWG
-- § 14 MarkenG
-- § 8 UWG
-- § 12 UWG
-- § 13 UWG
-- § 5a UWG
-- § 139 PatG
-- § 42 DesignG
-- § 42 MarkenG
-- § 26 MarkenG
-- § 2 DesignG
-- § 24 MarkenG
-
-### Leitentscheidungen
-
-- EuGH C-541/18
-- BGH II ZR 189/12
-- BGH I ZR 138/19
-- BGH I ZB 117/19
-- BGH I ZR 167/19
+Erstelle eine kurze Routingkarte mit Fallkern, Hauptskill, Frist, benötigten Unterlagen, erwartetem Arbeitsprodukt und einem Satz zur Auswahlentscheidung.

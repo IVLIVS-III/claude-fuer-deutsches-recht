@@ -15,7 +15,7 @@ description: "Wenn es um Remediation-Plan nach Internal Investigation in Interna
 
 ## Rechtlicher Rahmen
 
-Ein Remediation-Plan ist nach einer Internal Investigation aus mehreren Gründen rechtlich geboten: (1) § 130 OWiG setzt voraus, dass das Unternehmen Aufsichtspflichten erfüllt; eine fehlende Reaktion auf festgestellte Mängel ist erneut ein Verstoß ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html)). (2) DOJ und SEC bewerten Remediation als wesentlichen Kooperationsfaktor. (3) BGH II ZR 234/09 (Siemens/Neubürger, [openjur.de](https://openjur.de/o/577696.html)) verlangt ein effektives Compliance-Management-System. (4) Behörden (BaFin, Bundeskartellamt) erwarten konkrete, fristgebundene Maßnahmen.
+Ein Remediation-Plan ist rechtlich geboten, soweit eine festgestellte Organisations- oder Aufsichtslücke fortwirkt und die konkret einschlägige Organ-, Aufsichts- oder Sektornorm Abhilfe verlangt. Paragraf 130 OWiG ist kein pauschaler Maßnahmenkatalog. Für jede Maßnahme sind Befund, Rechtsgrund, Risikoverringerung, Verantwortlicher, Frist, Wirksamkeitsnachweis, Beschäftigtenrechte und Datenschutzfolgen auszuweisen.
 
 ## Ziel dieses Skills
 
@@ -80,7 +80,6 @@ Erstellt einen strukturierten, priorisierten und nachverfolgbaren Remediation-Pl
 | § 130 OWiG | Aufsichtspflichtverletzung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html) |
 | § 93 AktG | Sorgfaltspflicht Vorstand | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__93.html) |
 | Art. 83 DSGVO | DSGVO-Bußgelder (Kooperation) | [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 
@@ -99,4 +98,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

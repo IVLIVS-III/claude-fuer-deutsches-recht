@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 52 Skills des Plugins `lobbyregister-bundestag`.
+Diese Vollprüfung enthält top-15 von 52 Skills des Plugins `lobbyregister-bundestag`.
 
 ## Inhaltsverzeichnis
 
@@ -376,27 +376,6 @@ _Wenn es um Adressatenkreis Bundestag und Bundesregierung in Lobbyregister Bunde
 
 Reformfassung des LobbyRG durch das Gesetz zur Aenderung des Lobbyregistergesetzes vom 15.01.2024, in Kraft seit 01.03.2024. Wesentliche Neuerung: Kontakte zu Bundesministerien werden bereits ab Referatsleiterebene erfasst (§ 1 Abs. 3 Nr. 2 LobbyRG n.F.). Uebergangsfrist für Bestandsregistrierungen lief bis 30.06.2024.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 LobbyRG
-- § 5 LobbyRG
-- § 2 LobbyRG
-- § 4 LobbyRG
-- § 1 LobbyRG
-- § 7 LobbyRG
-- § 6 LobbyRG
-- § 1 GeschGehG
-- Art. 21 GG
-- § 28 VwVfG
-- § 1 bis 7 LobbyRG
-- § 6b BMinG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ## Quellenanker
 
@@ -587,27 +566,6 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffe
 4. `lastUpdateDate`, `validFromDate`, `fiscalYearUpdate.updateMissing`, `refusedAnything`, Regelungsvorhaben, Stellungnahmen, Personen und Finanzdaten prüfen.
 5. Abweichungen in `assets/templates/registerexport-diff.md` dokumentieren.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 LobbyRG
-- § 5 LobbyRG
-- § 2 LobbyRG
-- § 4 LobbyRG
-- § 1 LobbyRG
-- § 7 LobbyRG
-- § 6 LobbyRG
-- § 1 GeschGehG
-- Art. 21 GG
-- § 28 VwVfG
-- § 1 bis 7 LobbyRG
-- § 6b BMinG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ## Quellenanker
 
@@ -715,27 +673,6 @@ _Wenn es um Anonymisierung und Schutzantrag in Lobbyregister Bundestag geht: ers
 - **Rechtsweg gegen Ablehnung**: nicht zum BVerwG, sondern VG Berlin (1. Instanz Verwaltungsgerichtsbarkeit).
 - **Verhältnismäßigkeit**: Antrag muss erforderlich und geeignet sein; weniger einschneidende Mittel (z. B. teilweise Beschränkung) zuerst prüfen.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 LobbyRG
-- § 5 LobbyRG
-- § 2 LobbyRG
-- § 4 LobbyRG
-- § 1 LobbyRG
-- § 7 LobbyRG
-- § 6 LobbyRG
-- § 1 GeschGehG
-- Art. 21 GG
-- § 28 VwVfG
-- § 1 bis 7 LobbyRG
-- § 6b BMinG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ## Quellenanker
 
@@ -1165,7 +1102,7 @@ Nach dem Portal-Upload soll der Skill eine Nachkontrolle anlegen: öffentlichen 
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

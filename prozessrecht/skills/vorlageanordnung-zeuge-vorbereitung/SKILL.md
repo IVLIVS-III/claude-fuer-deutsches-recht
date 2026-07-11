@@ -287,10 +287,3 @@ Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und intern
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-<!-- AUDIT 27.05.2026
-behandelt aber Abschiebungsanordnung nach Paragraf 58a AufenthG gegen algerischen Islamisten (WRONG_TOPIC),
-nicht das behauptete Thema "Auskunftsverweigerungsrecht Paragraf 99 VwGO / behoerdliches
-Geheimhaltungsinteresse". Das im Skill genannte Datum 15.02.2018 existiert auf dejure.org
-ebenfalls nicht. Halluzinierte Referenz geloescht. Keine Ersatzquelle ergaenzt.
--->

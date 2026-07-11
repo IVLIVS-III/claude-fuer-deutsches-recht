@@ -29,7 +29,6 @@ description: "Wenn es um Marken-Widerspruchsverfahren in Fachanwalt Gewerblicher
 
 | Stufe | Pruefkriterium | Hinweis |
 |-------|---------------|---------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | Waren-/Dienstleistungsaehnlichkeit | Nizza-Klassifikation; funktionale Austauschbarkeit |
 | 3 | Bekanntheitsgrad aeltere Marke | Steigernd auf Verwechslungsgefahr |
 | 4 | Wechselwirkung | Niedriger Wert Stufe 1 kann durch hohen Wert Stufe 3 kompensiert werden |

@@ -39,7 +39,6 @@ Die Verschwiegenheitspflicht gilt ab dem Moment, in dem ein Rechtssuchender sich
 | Anonyme Erstanfrage per E-Mail (kein Mandatsverhältnis) | Allgemeine berufliche Diskretion; § 43a Abs. 2 BRAO greift, sobald Berufsausübung erkennbar |
 | Telefonisches Erstgespräch | Ab Beginn des Gesprächs gilt Verschwiegenheitspflicht über das Besprochene |
 | Schriftliche Mandatserteilung | Vollumfängliche Verschwiegenheitspflicht über alle Informationen im Zusammenhang mit dem Mandat |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Praxis-Hinweis für das Sekretariat
 

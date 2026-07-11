@@ -141,7 +141,3 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 | Vorkaufsrecht Gemeinde | §§ 24 ff. BauGB | 2 Monate nach Mitteilung |
 | Mietkaution-Abrechnung | § 551 Abs. 3 BGB | Ca. 6 Monate nach Auszug |
 | Verjährung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
-
-<!-- AUDIT 27.05.2026 — Bundle 033 —
- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

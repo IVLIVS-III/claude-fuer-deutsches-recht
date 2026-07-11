@@ -35,7 +35,7 @@ Dieser Skill macht aus Anzeige, Polizeivorgang oder Aktenvermerk eine sachleiten
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Beweiswürdigung muss tragfähig und widerspruchsfrei sein.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Wird bei einer entscheidenden Zeugenaussage aussagepsychologische Sachkunde benötigt, muss die Begutachtung hypothesengeleitet vorgehen und alternative Entstehungshypothesen prüfen. Den Anker nicht als allgemeine Beweiswürdigungsformel verwenden.
 - BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Konstellationen verlangen besondere Sorgfalt bei Entstehung, Konstanz und Belastungsmotiv.
 
 ## Arbeitsprodukt

@@ -33,7 +33,7 @@ Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachv
 - § 253 Abs. 3 ZPO: Wert des Streitgegenstands soll angegeben werden, wenn der Anspruch nicht auf eine bestimmte Geldsumme gerichtet ist.
 - § 130 ZPO: Allgemeine Anforderungen an vorbereitende Schriftsätze (Parteien, Anträge, Tatsachen, Beweismittel, Urkunden, Unterschrift).
 - § 3 ZPO: Streitwertfestsetzung durch das Gericht nach freiem Ermessen.
-- §§ 23, 71 GVG: Sachliche Zuständigkeit AG bis 5000 Euro, sonst LG.
+- Paragrafen 23 Nummer 1, 71 Absatz 1 GVG: sachliche Zuständigkeit grundsätzlich Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber; wertunabhängige Sonderzuweisungen vorab prüfen.
 - §§ 12 ff. ZPO: Örtliche Zuständigkeit.
 - §§ 78 ff. ZPO: Anwaltszwang vor Landgericht und höheren Instanzen.
 - Methodik: Urteilsstil. Knapp, indikativ, ohne Lehrbuchprosa.

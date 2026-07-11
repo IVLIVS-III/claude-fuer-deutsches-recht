@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `verkehr-infrastrukturrecht`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `verkehr-infrastrukturrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -356,27 +356,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 67 WHG
-- § 28 PBefG
-- § 73 VwVfG
-- § 42 VwGO
-- § 74 VwVfG
-- § 16 StrWG
-- § 17 FStrG
-- § 80 VwGO
-- § 70 VwGO
-- § 9 PBefG
-- § 8 FStrG
-- § 18 AEG
-
-### Leitentscheidungen
-
-- BGH VI ZR 281/13
 
 ---
 
@@ -880,7 +859,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

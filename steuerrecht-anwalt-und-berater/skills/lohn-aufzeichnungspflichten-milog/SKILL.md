@@ -104,5 +104,3 @@ Stand: 05/2026.
 - SchwarzArbG § 2a.
 - ArbZG § 16.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Prüfungshinweis neu formuliert ohne Marker) -->

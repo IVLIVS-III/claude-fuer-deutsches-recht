@@ -47,25 +47,7 @@ Anspruchsmatrix: Neukunden, wirtschaftlicher Vorteil, Billigkeit, Datenverfügba
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Materien- und Quellenkontrolle
 
-- Art. 101 AEUV
-- Art. 26 DSGVO
-- Art. 28 DSGVO
-- Art. 9 DSGVO
-- § 30 MarkenG
-- Art. 17 DSGVO
-- Art. 6 DSGVO
-- § 14 MarkenG
-- § 5 UWG
-- § 5a UWG
-- Art. 8 DSGVO
-- Art. 32 DSGVO
-
-### Leitentscheidungen
-
-- BGH I ZR 90/20
-- BGH VIII ZR 233/02
-- BGH XII ZR 197/03
+Franchiseverträge verbinden je nach Klausel Elemente des Dienst-, Miet-, Kauf-, Darlehens-, Lizenz- und Vertriebsrechts. Wettbewerbsrecht, Kartellrecht, Markenrecht, Datenschutz und Statusrecht nur für die konkret betroffene Pflicht hinzunehmen. Rechtsprechung zu Werbung, gewöhnlichem Mietrecht oder anderen Dauerschuldverhältnissen ist kein pauschaler Franchiseanker; eine Übertragung muss anhand von Vertragsstruktur, Schutzrichtung und Tatbestandsmerkmal begründet werden.

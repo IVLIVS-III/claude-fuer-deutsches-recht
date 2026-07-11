@@ -72,7 +72,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 ## Praktikertipps für Verteidigung Verband
 
 - **Compliance-Defence dokumentieren.** Bei Anlasstat eines Mitarbeiters Verbandsverantwortung reduzieren durch Nachweis wirksamen Compliance-Programms (ISO 37301).
-- **Internal Investigations** durchfuehren — aber strikt trennen zwischen Verteidigung der Leitungsperson und Verband. BGH 27.07.2010 — 2 BvR 882/09 zu Anwaltsdurchsuchungen und BVerfG 27.06.2018 — 2 BvR 1287/17 (Jones-Day-Entscheidung) zur Beschlagnahmefaehigkeit Internal-Investigations-Unterlagen beachten; Aktenzeichen jeweils vor Verwendung verifizieren.
+- Interne Untersuchungen durchführen, aber die Verteidigung der Leitungsperson und des Verbands strikt trennen. Für Durchsuchung, Sicherstellung und Beschlagnahmeschutz die BVerfG-Beschlüsse vom 27.06.2018 - 2 BvR 1287/17 und 2 BvR 1583/17 - zur Jones-Day-Untersuchung mit ihrem konkreten Mandats- und Verfahrensbezug prüfen.
 - **Selbstanzeige § 47 OWiG / § 153a StPO** strategisch prüfen.
 - **Sanktion-Mitigation** durch Kooperation, Wiedergutmachung, Beendigung struktureller Defizite.
 - **Vorgehen Datenraum**, Anwaltliche Verschwiegenheit § 53 StPO bei Internal-Investigations-Unterlagen — Schutz vor Beschlagnahme.

@@ -65,7 +65,6 @@ bekannt und akzeptiert ist.
 | ABl. EU / EUR-Lex | EU-Rechtsakte, konsolidierter Bestand |
 | BaFin (bafin.de/RSS) | Rundschreiben, Merkblätter, Allgemeinverfügungen |
 | BSI (bsi.bund.de) | Technische Richtlinien, Kritis-Warnungen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 | BMJ | Referentenentwürfe, Pressemitteilungen |
 | Bundesrat | Drucksachen, Stellungnahmen |
 | Bundesanzeiger | Behördenbekanntmachungen |
@@ -163,25 +162,3 @@ Quellenkennung und ggf. Kommentierungsfrist. Zitierweise Rechtsprechung:
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zitierweise Kommentare:
 `Sachs/Sachs, GG, 10. Aufl. 2021, Art. 20 Rn. 78`
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 18 UStG
-- § 25a KWG
-- § 4 RDGEG
-- § 13d RDG
-- § 203 StGB
-- Art. 288 AEUV
-- § 25b KWG
-- § 1 ZAG
-- § 13 RDG
-- § 10 ZAG
-- Art. 80 AEUV
-- § 17 UStG
-
-### Leitentscheidungen
-
-- EuGH C-6/64
-- EuGH C-117/20

@@ -146,24 +146,7 @@ Bevor die Abmahnung abgeschickt wird, kläre:
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 14 MarkenG
-- § 19 MarkenG
-- Art. 101 AEUV
-- § 8 MarkenG
-- § 49 MarkenG
-- § 66 MarkenG
-- § 18 MarkenG
-- § 107 MarkenG
-- § 42 MarkenG
-- § 25a ZollVG
-- § 1 PatG
-- § 50 MarkenG
-
-### Leitentscheidungen
-
-- BGH I ZB 22/20
-- BGH I ZR 149/14
+Deutsche Marke und Unionsmarke getrennt prüfen. Für absolute Schutzhindernisse insbesondere Paragraf 8 Markengesetz und Artikel 7 UMV, für Widerspruch und Verletzung die jeweils einschlägigen Tatbestände, Benutzungsschonfrist und Verfahrensregeln verwenden. Entscheidungen von Bundesgerichtshof, Bundespatentgericht, Gericht der Europäischen Union oder Gerichtshof der Europäischen Union nur mit konkretem Prüfmerkmal und verifizierter tragender Aussage zuordnen.

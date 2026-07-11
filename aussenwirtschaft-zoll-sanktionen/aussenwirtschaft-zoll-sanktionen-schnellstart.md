@@ -41,7 +41,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BAFA Nullbescheid Azg | Dieser Skill behandelt BAFA Nullbescheid Azg als operativen Workflow für Unternehmen, Kanzleien. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Exportkontrollklauseln im Vertrag: Gestaltung und Prüfung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass | Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Überlassung zum zollrechtlich freien Verkehr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragraf 355 AO: Einspruchsfrist (1 Monat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- FGO Paragrafen 40-68: Finanzgerichtliche Klage bei Zollbescheiden: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 BGB: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 355 AO: Einspruchsfrist (1 Monat); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- FGO Paragrafen 40-68: Finanzgerichtliche Klage bei Zollbescheiden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 BGB: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

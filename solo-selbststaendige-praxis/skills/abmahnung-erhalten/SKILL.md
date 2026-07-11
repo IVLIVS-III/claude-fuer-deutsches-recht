@@ -8,8 +8,8 @@ description: "Wenn es um Abmahnung Erhalten in Solo-Selbstständige Praxis geht:
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -26,31 +26,8 @@ description: "Wenn es um Abmahnung Erhalten in Solo-Selbstständige Praxis geht:
 - Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
 
-## Normen und Rechtsprechung
+## Fallbezogene Rechtsanker
 
-### Kuratierte Normen-Bibliothek
-
-- §§ 1, 2 BRAO (Rechtsanwaltsberuf, Unabhängigkeit)
-- § 3 BRAO (Vertretung in Rechtsangelegenheiten)
-- §§ 43, 43a BRAO (Allgemeine Berufspflichten)
-- § 49b BRAO (Vergütungsabsprachen)
-- § 51 BRAO (Berufshaftpflicht)
-- § 59f BRAO (Berufsausübungsgesellschaften)
-- §§ 1-4 RVG, RVG-VV Nr. 2300-2503 (Vergütung)
-- §§ 7-7e UStG (Kleinunternehmer)
-- §§ 4 Abs. 3, 4 EStG, § 16 EStG (Gewinnermittlung, Veräußerung)
-- DSGVO Art. 6, 28 (Mandantendaten, AV-Verträge)
-
-### Leitentscheidungen
-
-- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (Beraterhaftung und Vertrag mit Schutzwirkung zugunsten Dritter)
-- BVerfG 1 BvR 1474/12 (Anwaltswerbung)
-- BGH AnwSt (R) 5/19 (Anwaltsberufsgericht)
-- BFH VIII R 27/17 (Freiberufler-Gewinnermittlung)
-- EuGH C-431/20 (Anwaltsgeheimnis)
-
-### Anwendung im Skill
-
-- Berufshaftpflicht § 51 BRAO als Existenzschutz, nicht als Pflichtuebung behandeln; Hoechstsumme an Mandatsstruktur anpassen.
-- RVG-Vergueterungsvereinbarung § 3a BRAO schriftlich; bei Verbrauchern strenge Formvorgaben.
-- Kleinunternehmerregelung § 19 UStG strategisch waehlen; Vorsteuerverzicht beim Praxisstart oft nachteilig.
+- Zuerst Anspruchsrichtung trennen: Lauterkeitsrecht nach den Paragrafen 3, 5, 5a, 8 und 13 UWG, Urheberrecht nach Paragraf 97a UrhG, Kennzeichenrecht nach den Paragrafen 14 und 15 MarkenG sowie Datenschutzrecht nach Artikel 82 DSGVO folgen unterschiedlichen Anspruchsinhabern, Kostenregeln und Verteidigungslinien.
+- BGH, Urteil vom 28.05.2020 - I ZR 7/16, Planet49, nur bei Einwilligungs- und Cookie-Fragen verwenden; BGH, Urteil vom 27.03.2025 - I ZR 186/17, App-Zentrum III, nur für die Verbandsklagebefugnis bei bestimmten Datenschutzverstößen.
+- Keine Unterlassungserklärung ungeprüft unterschreiben: Aktivlegitimation, konkrete Verletzungsform, Wiederholungsgefahr, Reichweite, Vertragsstrafe, Gegenstandswert und Kostendeckel getrennt prüfen.

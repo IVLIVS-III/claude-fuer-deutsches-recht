@@ -18,8 +18,6 @@ description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Ges
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -49,7 +47,6 @@ description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Ges
 | § 93 Abs. 2 S. 2 AktG | Beweislastumkehr: Vorstand / Geschäftsführer muss Pflichterfüllung und fehlendes Verschulden darlegen |
 | § 93 Abs. 2 S. 3 AktG | D&O-Selbstbehalt: zwingend 10 % des Schadens, mindestens bis 1,5-faches der Festvergütung |
 | § 93 Abs. 3 AktG | Qualifizierte Sonderhaftungstatbestände: verbotene Kapitalrückzahlung, Bezahlung eigener Aktien, verbotene Kreditgewährung |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 46 Nr. 8 GmbHG | Gesellschafterbeschluss zur Geltendmachung von Schadensersatz gegen Geschäftsführer |
 | § 15a InsO | Insolvenzantragspflicht: spätestens 6 Wochen nach Zahlungsunfähigkeit; 8 Wochen nach Überschuldung |
 | § 15b InsO | Zahlungsverbot bei Insolvenzreife (seit 1.1.2021 rechtsformneutral; ersetzt § 64 GmbHG und § 92 Abs. 2 AktG aF) |
@@ -63,7 +60,6 @@ description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Ges
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Geschäftsführerhaftung
 
@@ -78,7 +74,6 @@ description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Ges
 | 5 | Kausalität? | Conditio-sine-qua-non | Würde pflichtgemäßes Handeln Schaden verhindert haben? |
 | 6 | Verschulden? | Beweislastumkehr § 93 Abs. 2 S. 2 AktG | GF/Vorstand muss exculpieren |
 | 7 | Sonderhaftungstatbestände? | § 43 Abs. 3 GmbHG; § 15a, § 15b InsO; § 69 AO; § 266a StGB | Verschärfte Haftung ohne Business Judgement Rule |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Gesellschafterbeschluss zur Klage gefasst? (GmbH) | § 46 Nr. 8 GmbHG | Ohne Beschluss: GF kann einwenden, Klage ohne Befugnis |
 
 ## Sonderhaftungstatbestände im Detail
@@ -250,7 +245,6 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 |--------------|---------|----------|
 | "Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
 | "Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
 | "Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
 | "Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |

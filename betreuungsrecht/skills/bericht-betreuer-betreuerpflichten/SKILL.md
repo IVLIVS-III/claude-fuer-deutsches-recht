@@ -48,24 +48,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 278 FamFG
-- § 5 BtOG
-- § 274 FamFG
-- § 280 FamFG
-- § 30 BtOG
-- § 23 BtOG
-- § 8 BtOG
-- § 293 FamFG
-- § 292 FamFG
-- § 299 FamFG
-- § 312 FamFG
-- § 319 FamFG
-
-### Leitentscheidungen
-
-- BGH XII ZB 174/18

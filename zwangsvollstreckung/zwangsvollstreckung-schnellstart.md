@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
 - ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
 - ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
-- Paragraf 688 ZPO — Statthaftigkeit des Mahnverfahrens: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 689 ZPO — Zuständigkeit (zentrales Mahngericht im jeweiligen Bundesland): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 690 ZPO — Antragsinhalt (Individualisierung der Forderung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 692 ZPO — Erlass des Mahnbescheids; Zustellung von Amts wegen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 688 ZPO — Statthaftigkeit des Mahnverfahrens; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 689 ZPO — Zuständigkeit (zentrales Mahngericht im jeweiligen Bundesland); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 690 ZPO — Antragsinhalt (Individualisierung der Forderung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 692 ZPO — Erlass des Mahnbescheids; Zustellung von Amts wegen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

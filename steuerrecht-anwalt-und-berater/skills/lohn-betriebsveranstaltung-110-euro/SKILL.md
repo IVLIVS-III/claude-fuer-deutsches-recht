@@ -121,5 +121,4 @@ Stand: 05/2026.
 - BFH v. 27.03.2024 — VI R 5/22.
 - Steueraenderungsgesetz 2025 (BGBl. 2025 I, verkuendet 23.12.2025, in Kraft 01.01.2026) — Klarstellung zur Offenheit bei § 40 Abs. 2 S. 1 Nr. 2 EStG.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BMF-Datum 14.10.2015 und GZ recherchiert), 1 ersetzt (Prüfhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | BFH VI R 5/22 (27.03.2024) und Steueraenderungsgesetz 2025 ergaenzt -->

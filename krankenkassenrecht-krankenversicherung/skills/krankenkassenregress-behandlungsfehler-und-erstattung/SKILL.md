@@ -25,7 +25,7 @@ Wenn ein Behandlungsfehler Zusatzkosten für die GKV verursacht, kann die Kasse 
 - **§ 630a ff. BGB** – Behandlungsvertrag; Schadensersatz bei Behandlungsfehlern
 - **§ 291a SGB V** – Patientendaten-Schutz-Gesetz (Dokumentation)
 - **PatRechteG 2013** – Patientenrechtegesetz (§ 630a–h BGB)
-- BSG B 1 KR 26/07 R (Regressanspruch GKV), BGH VI ZR 91/17 (Schadensersatz und Regresskoordination)
+- Paragraf 116 SGB X ordnet den gesetzlichen Anspruchsübergang auf den Sozialleistungsträger an. Haftungsgrund, Kausalität, übergegangene Schadensposition, sachliche und zeitliche Kongruenz sowie Quotenvorrecht sind anhand des konkreten Behandlungsfalls getrennt zu prüfen; kein Aktenzeichen ohne verifizierte tragende Aussage verwenden.
 
 ## Regressstruktur § 116 SGB X
 
@@ -82,7 +82,7 @@ Wenn ein Behandlungsfehler Zusatzkosten für die GKV verursacht, kann die Kasse 
 
 - [§ 116 SGB X – Anspruchsübergang](https://www.gesetze-im-internet.de/sgb_10/__116.html)
 - [§ 630a BGB – Behandlungsvertrag](https://www.gesetze-im-internet.de/bgb/__630a.html)
-- [BSG B 1 KR 26/07 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [BGH VI ZR 91/17](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Entscheidungsdatenbank des Bundessozialgerichts](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Entscheidungsdatenbank des Bundesgerichtshofs](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 116 SGB X](https://dejure.org/gesetze/SGB_X/116.html)
 - [Bundesärztekammer Behandlungsfehler](https://www.bundesaerztekammer.de)

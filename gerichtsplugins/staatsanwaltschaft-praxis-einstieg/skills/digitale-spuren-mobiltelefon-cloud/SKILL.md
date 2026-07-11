@@ -27,10 +27,9 @@ description: "Wenn es um Digitale Spuren: Mobiltelefon, Cloud, Chat und Standort
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
+- Zuerst Herkunft und Eingriffspfad jeder Datengruppe bestimmen: offene Übergabe, Durchsuchung und Beschlagnahme, Telekommunikationsüberwachung, Verkehrsdaten, Bestandsdaten, Cloud-Abruf oder Rechtshilfe. Erst danach Eingriffsnorm und Verwertungsfrage zuordnen.
+- BVerfG, Urteil vom 27. Februar 2008, 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Nur bei heimlichem Zugriff auf ein informationstechnisches System oder vergleichbar intensiver Systemausforschung heranziehen. Für eine offene Gerätebeschlagnahme nicht als Ersatz für die konkret einschlägigen StPO-Normen verwenden.
+- Ausgabe als Datenherkunftsprotokoll: `Datensatz / Quelle / Erhebungszeit / Eingriffsnorm / Anordnung / Hashwert oder Integritätsbeleg / Zuordnung / Verteidigungszugang / Lösch- oder Sperrpflicht`.
 
 ## Prüf- und Arbeitslogik
 

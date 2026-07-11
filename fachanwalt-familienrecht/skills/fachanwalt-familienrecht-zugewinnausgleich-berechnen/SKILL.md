@@ -38,8 +38,8 @@ Dieser Skill verwandelt Vermögenslisten, Kontoauszüge, Immobilienwerte und Unt
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Vermögensbewertung im Familienrecht verlangt nachvollziehbare Tatsachengrundlage und Stichtagsbezug.
-- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Rechenentscheidungen müssen jeden Wert und jeden Abzug nachvollziehbar machen.
+- BGH, Beschluss vom 25.09.2024 - XII ZB 508/23: Die Auskunft nach BGB Paragraf 1379 umfasst die Vermögenszusammensetzung am Stichtag einschließlich wertbildender Faktoren; eine selbst erstellte Forderungsliste ist Teil der Auskunft und kein Beleg.
+- BGH, Urteil vom 08.11.2017 - XII ZR 108/16: Bei der Unternehmensbewertung im Zugewinnausgleich sind Ertragswert, konkret angemessener Unternehmerlohn und die sekundäre Darlegungslast des außerhalb des Geschehens stehenden Ausgleichsgläubigers sauber zu behandeln.
 
 ## Arbeitsprodukt
 

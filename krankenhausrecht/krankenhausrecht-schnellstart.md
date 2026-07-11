@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 280, Paragraf 823 und Paragraf 253: Schadensersatz, deliktische Haftung und Schmerzensgeld.
 - SGB V Paragraf 27, Paragraf 39, Paragraf 73, Paragraf 92 und Paragraf 135: Krankenbehandlung, Krankenhaus, Vertragsarzt und Methodenbewertung.
 - SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
-- BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollständig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragraf 630h Abs. 3 Beweislastumkehr bei Dokumentationsfehlern (vermutet: nicht durchgeführt): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB X Paragraf 84 Aufbewahrung sozialrechtliche Unterlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 630a-630h: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 630f Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollständig; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 630h Abs. 3 Beweislastumkehr bei Dokumentationsfehlern (vermutet: nicht durchgeführt); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- SGB X Paragraf 84 Aufbewahrung sozialrechtliche Unterlagen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 630a-630h; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

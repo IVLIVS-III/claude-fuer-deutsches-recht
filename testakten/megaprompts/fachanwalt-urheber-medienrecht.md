@@ -2,20 +2,54 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 77 Skills des Plugins `fachanwalt-urheber-medienrecht`.
+Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-urheber-medienrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pas…
-2. **mandat-triage-urheber-medienrecht** — Wenn es um Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen in Fachanwalt Urheber Medie…
-3. **fachanwalt-urheber-medienrecht-orientierung** — Wenn es um Fachanwalt fuer Urheber- und Medienrecht — Orientierung in Fachanwalt Urheber Medienrecht geht: prüft Frist, …
-4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen in Fachanwalt Urhe…
-5. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Z…
-6. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordne…
-7. **urheber-abmahnung-pruefen** — Wenn es um Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen in Fachanwalt Urheber M…
-8. **urhmr-leistungsschutzrecht-presse-spezial** — Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, B…
-9. **gegendarstellung-presse** — Wenn es um Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren in Fachanwalt Urheber Medien…
-10. **presserecht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Presserecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Urheber Medienrecht geht: erstellt den pas…
+1. **urheber-medienprozess-versandmappe-endfertigen** — Endfertigt urheber- und medienrechtliche Abmahn-, Verfügungs- und Hauptsacheunterlagen: sichert Veröffentlichung, Werkfa…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pas…
+3. **mandat-triage-urheber-medienrecht** — Wenn es um Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen in Fachanwalt Urheber Medie…
+4. **fachanwalt-urheber-medienrecht-orientierung** — Wenn es um Fachanwalt fuer Urheber- und Medienrecht — Orientierung in Fachanwalt Urheber Medienrecht geht: prüft Frist, …
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen in Fachanwalt Urhe…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Z…
+7. **youtube-uploader-paragraf-97-urhg-eugh-c-682-18** — Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Tr…
+8. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordne…
+9. **urheber-abmahnung-pruefen** — Wenn es um Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen in Fachanwalt Urheber M…
+10. **urhmr-leistungsschutzrecht-presse-spezial** — Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, B…
+
+---
+
+## Skill: `urheber-medienprozess-versandmappe-endfertigen`
+
+_Endfertigt urheber- und medienrechtliche Abmahn-, Verfügungs- und Hauptsacheunterlagen: sichert Veröffentlichung, Werkfassung, Rechtekette, Dringlichkeit und Reichweite, trennt öffentliche und vertrauliche Anlagen und liefert eine beA-fertige Versandmappe mit Screenshot-, Lizenz-, Äußerungs- und Vollziehungscheck._
+
+# Urheber- und Medienprozess-Versandmappe endfertigen
+
+## 1. Veröffentlichung und Ziel fixieren
+
+Lies Entwurf, angegriffene Veröffentlichung, Werk- oder Aufnahmefassung, Rechtekette, Abmahnung, Zustellungen und Reaktionen zuerst. Bestimme, ob Unterlassung, Gegendarstellung, Berichtigung, Auskunft, Schadensersatz, einstweilige Verfügung, Schutzschrift oder Hauptsache verfolgt wird. Wortlaut, Bildausschnitt und konkrete Verletzungsform müssen feststehen.
+
+## 2. Frist- und Tatbestandskontrolle
+
+1. Kenntniszeitpunkt, Erst- und Folgeveröffentlichung, Abrufbarkeit und Reichweite dokumentieren.
+2. Tatsachenbehauptung, Werturteil, Bildnutzung und Werkübernahme getrennt beurteilen.
+3. Urheberschaft, Nutzungsrechtskette, Lizenzgebiet, Medienart und Laufzeit belegen.
+4. Dringlichkeit, Abmahnung, Reaktion und Vollziehungsfrist einer Verfügung in ein Fristenblatt aufnehmen.
+5. Antrag und konkrete Verletzungsform so verbinden, dass Reichweite und Verbotskern erkennbar bleiben.
+
+## 3. Medienanlagen beweissicher ordnen
+
+Screenshots enthalten vollständigen relevanten Inhalt, URL, Datum, Uhrzeit und Kontext; Video- oder Audiobelege erhalten Transkript und genaue Zeitmarken. Originaldateien, Veröffentlichungsfassungen, Lizenzverträge, Reichweitenbelege und Korrespondenz werden getrennt bezeichnet. Nichtöffentliche Informanten-, Gesundheits- oder Geschäftsangaben erfordern eine Schutzprüfung und gegebenenfalls bereinigte Fassung.
+
+## 4. Rechts- und Versandanker
+
+- ZPO Paragrafen 935, 936 und 929 bei Eilantrag, Glaubhaftmachung und Vollziehung gemeinsam kontrollieren.
+- UrhG Paragrafen 97 und 97a, KUG Paragrafen 22 und 23 sowie die äußerungsrechtliche Abwägung nur passend zum konkreten Streitgegenstand einsetzen.
+- Bei deutscher Gerichtseinreichung Hauptdokument und Einzelanlagen als PDF ausliefern; eine Onlinefundstelle ersetzt weder die gesicherte konkrete Verletzungsform noch einen lesbaren Beleg.
+
+## 5. Auslieferung
+
+Liefere Hauptdokument, Einzelanlagen, Veröffentlichungs- und Rechtekettenmatrix, Dringlichkeits- und Vollziehungsblatt, vertrauliche Fassung falls nötig, Manifest und Eingangscheck. Stoppe bei ungesichertem Wortlaut, fehlender Rechtekette, ungeklärter Dringlichkeit, unbestimmtem Antrag oder sensibler ungeschützter Anlage.
 
 ---
 
@@ -331,7 +365,6 @@ Standard-Streitwerte im Urheber- und Medienrecht:
 |---------|---------------------|------|
 | Einzel-Foto Verletzung | 6.000-10.000 EUR | BGH marions-kochbuch.de |
 | Filesharing Film/Musik | 1.000-10.000 EUR | § 97a Abs. 3 UrhG |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Gegendarstellung Presse | 10.000-30.000 EUR | OLG-Rspr. |
 | Software Open Source | 5.000-50.000 EUR | Marktbedeutung |
 
@@ -422,12 +455,6 @@ Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
 - `fachanwalt-urheber-medienrecht-gegendarstellung-presse` — Gegendarstellung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
 
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 483/17 (NOT_FOUND auf dejure.org)
-Ersatz: BGH VI ZR 439/17, NJW 2019, 1881 (verifiziert auf dejure.org)
-Thema: Persönlichkeitsrecht Online-Archiv Berichterstattung — thematisch passend für Persönlichkeitsrecht-Kontext
--->
-
 ---
 
 ## Skill: `erstpruefung-und-mandatsziel`
@@ -465,6 +492,53 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `youtube-uploader-paragraf-97-urhg-eugh-c-682-18`
+
+_Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Trennt Alt- und Neurecht, öffentliche Wiedergabe, UrhDaG, Kenntnis, Blockierung, Nutzerrechte, Auskunft und Schaden und liefert Notice, Klage und Verteidigung._
+
+# Plattformhaftung für Nutzeruploads prüfen
+
+## 1. Einsatzlage
+
+Ein Nutzer lädt geschützte Inhalte auf eine Video-, Audio- oder Filesharing-Plattform. Zuerst ist zu bestimmen, ob das UrhDaG gilt und wann die Handlung stattfand; die zu Altfällen ergangene Plattformrechtsprechung darf nicht schematisch auf das seit 1. August 2021 geltende System übertragen werden.
+
+## 2. Normenanker
+
+- Paragrafen 15, 19a, 51, 51a, 97, 97a und 101 UrhG: Verwertungsrecht, Schranken, Unterlassung, Abmahnung und Auskunft.
+- Paragrafen 1 bis 14 und 18 bis 22 UrhDaG: erfasster Diensteanbieter, Lizenzerwerb, Blockierung, erlaubte und mutmaßlich erlaubte Nutzung, Beschwerde und Missbrauch.
+- Artikel 17 der Richtlinie (EU) 2019/790: unionsrechtlicher Rahmen für Online-Inhaltediensteanbieter.
+- Artikel 6, 8 und 9 DSA für Vermittlerprivilegien, Anordnungen und freiwillige Untersuchungen, soweit das UrhDaG nicht vorrangig regelt.
+
+## 3. Rechtsprechungsanker
+
+- EuGH, Urteil vom 22. Juni 2021 - verbundene Rechtssachen C-682/18 und C-683/18, YouTube und Cyando: Für die damalige Rechtslage war zu prüfen, ob der Plattformbetreiber über die bloße Bereitstellung hinaus in voller Kenntnis der Folgen zur rechtswidrigen öffentlichen Wiedergabe beitrug und ob das Haftungsprivileg eingriff.
+- BGH, Urteil vom 2. Juni 2022 - I ZR 140/15, YouTube II: Setzt die Vorgaben der Vorabentscheidung für den Altfall um und konkretisiert unter anderem, dass rein reaktive Such- und Meldemittel keine glaubwürdige und wirksame Bekämpfung von Rechtsverletzungen ersetzen.
+- EuGH, Urteil vom 26. April 2022 - C-401/19, Polen gegen Parlament und Rat: Artikel 17 der Richtlinie ist nur mit wirksamen Schutzvorkehrungen für erlaubte Inhalte und Meinungsfreiheit vereinbar; rechtmäßige Nutzungen dürfen nicht systematisch blockiert werden.
+
+## 4. Prüfprogramm
+
+1. Werk, Rechteinhaber, Rechtekette, Upload, URL, Zeitpunkt, Gebiet und Reichweite beweissicher dokumentieren.
+2. Uploader, Plattformtyp und Rollen bestimmen. Prüfen, ob die Definition des Diensteanbieters nach Paragraf 2 UrhDaG erfüllt ist oder allgemeines Urheber- und Diensteanbieterrecht gilt.
+3. Erlaubnis prüfen: Lizenz, Zitat, Karikatur, Parodie, Pastiche oder andere Schranke. Inhalt und Nutzungskontext statt bloßer Übereinstimmung bewerten.
+4. Für Handlungen seit 1. August 2021 Pflichten nach dem UrhDaG prüfen: Lizenzerwerb, einfache oder qualifizierte Blockierung, Kennzeichnung, Beschwerde, Missbrauch und Vergütung.
+5. Nur für den passenden Altfall die Kriterien aus C-682/18 und I ZR 140/15 anwenden. Kenntnis, Geschäftsmodell, technische Maßnahmen und Reaktion auf konkrete Hinweise feststellen.
+6. Notice so konkret formulieren, dass Werk, Rechtsinhaberschaft, Fundstelle und Rechtsverletzung ohne eigene Ermittlungen erkennbar sind. Overblocking und Nutzergegenrechte mitdenken.
+7. Ansprüche adressatengenau ordnen: Unterlassung, Entfernung, Verhinderung erneuter Uploads, Auskunft, Schadensersatz, Kosten und gegebenenfalls gerichtliche Anordnung.
+
+## 5. Arbeitsergebnis
+
+Erstelle Rechteketten- und Rechtsstandsmatrix, beweissichere Fundstellendokumentation, qualifizierten Hinweis, Beschwerde- oder Gegenhinweis, Klageantrag und Schadensmodell. Alt- und Neurecht werden nicht vermischt.
+
+## 6. Belege und Aktenlücken
+
+- Originalwerk, Rechtekette und Lizenzverträge
+- URL, Uploadzeit, Screenshots und technische Sicherung
+- Plattformbedingungen und Einordnung nach Paragraf 2 UrhDaG
+- Notices, Antworten, Blockierungen und erneute Uploads
+- Reichweiten-, Erlös- und Schadensdaten
 
 ---
 
@@ -513,10 +587,8 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | US District Court NY (Reuters vs. Ross) | US District Court, 11.02.2025 | Fair Use abgelehnt: Training eines KI-Recherchetools mit Rechtsartikeln ist keine transformative Nutzung; kommerzieller Zweck schadet |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -707,7 +779,6 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 | Opt-out vorhanden zum Trainings-Zeitpunkt | Rechteinhaber; Nachweis durch Wayback Machine, Server-Logs, zeitgestempelte Zertifizierung |
 | TDM-Handlung des KI-Anbieters | Rechteinhaber muss Verwendung im Datenset nachweisen (LAION-Explorer, Output-Test, Datensatz-Audit); § 101 UrhG-Auskunftsanspruch hilft |
 | KI-VO Art. 53 Transparenzpflicht | KI-Anbieter muss Trainingsdaten-Zusammenfassung veröffentlichen; Verletzung davon kann Beweisvermutung begründen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -727,9 +798,7 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 | Gegenargument | Erwiderung |
 |---|---|
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
 
 ---
@@ -867,7 +936,6 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -878,11 +946,9 @@ Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empf�
 | 1 | Werkqualität: Werkart prüfen (§ 2 UrhG); persönliche geistige Schöpfung vorhanden? Kleine Münze ausreichend | § 2 UrhG |
 | 2 | Aktivlegitimation: Ist Abmahner Urheber, Inhaber ausschließlicher Lizenz oder VG-Wahrnehmungsberechtigter? Lizenzkette dokumentiert? | §§ 7, 31 UrhG |
 | 3 | Verletzungshandlung: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Zeitpunkt und Umfang der Handlung? | §§ 16, 17, 19a UrhG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Schranken prüfen: Zitatrecht § 51, Parodie § 51a, Privatkopie § 53, Panoramafreiheit § 59? | §§ 51, 51a, 53, 59 UrhG |
 | 6 | Formelle Abmahnprüfung: § 97a Abs. 2 UrhG – Werk benannt, Verletzung konkret, Frist gesetzt, Vollmacht vorgelegt? | § 97a Abs. 2 UrhG |
 | 7 | Verbraucher-Abmahnung: § 97a Abs. 3 UrhG – Streitwert begrenzt auf EUR 1.000 bei einfach gelagerter Verletzung | § 97a Abs. 3 UrhG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Unterlassungserklärung prüfen: Ist die vorformulierte Erklärung zu weit gefasst? Modifizierung nötig? | § 97a UrhG |
 | 10 | Verjährung prüfen: 3 Jahre ab Kenntnis (§ 102 UrhG i.V.m. § 195 BGB); Restschadensersatz 10 Jahre | § 102 UrhG |
 | 11 | Strategie festlegen: modifizierte UE, Zurückweisung, Vergleich, negative Feststellungsklage | § 256 ZPO |
@@ -1035,7 +1101,6 @@ ODER
 | Werkqualität | Abmahner trägt Schutzwürdigkeit; bei bekanntem Werktyp (Foto, Text) vermutet; bei sehr kurzem Text: bestreiten möglich |
 | Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig |
 | Verletzungshandlung (Filesharing) | Abmahner trägt IP-Adressen-Zuordnung und Zeitpunkt; Anschlussinhaber bedient sekundäre Darlegungslast |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schranke (Zitatrecht, Parodie) | Nutzer/Beklagte trägt Voraussetzungen der Schranke |
 
 ---
@@ -1056,9 +1121,7 @@ ODER
 | Gegenargument | Erwiderung |
 |---|---|
 | "Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -1068,7 +1131,6 @@ ODER
 |---|---|
 | Abmahnkosten (Verbraucher, einfach gelagert) | § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 → ca. EUR 124 Anwaltsgebühr (VV-RVG 2300, 1,3) |
 | Abmahnkosten (Unternehmen, gewerblich) | Streitwert EUR 6.000–50.000 je nach Werk und Reichweite; EUR 500–2.000 Anwaltskosten |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verletzeraufschlag | Umstritten; BGH lässt bis 100 % zu; in der Praxis oft 50–100 % |
 | Unberechtigte Abmahnung | § 97a Abs. 4 UrhG: Kostenerstattung; Streitwert = Abmahnforderung |
 
@@ -1116,11 +1178,6 @@ Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 026:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->
 
 ---
 
@@ -1181,355 +1238,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ---
 
-## Skill: `gegendarstellung-presse`
-
-_Wenn es um Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren
-
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Online-Gegendarstellungen nach TMG oder DSA.
-
-### Gegendarstellung nach Pressegesetz
-
-## Kernsachverhalt & Mandantenfragen
-
-Das Recht auf Gegendarstellung ist ein Sonderrecht der Pressegesetzgebung: Es ermöglicht der betroffenen Person, falsche Tatsachenbehauptungen ohne Umweg über ein Gerichtsverfahren korrigieren zu lassen. Das Verfahren ist schnell, präventiv und öffentlichkeitswirksam. Die Herausforderung liegt in der präzisen Abgrenzung von Tatsachen und Meinungen sowie in der Einhaltung strenger Formvorschriften.
-
-**8 Kaltstart-Rückfragen:**
-
-1. In welchem Medium wurde die beanstandete Aussage veröffentlicht (Tageszeitung, Online-Artikel, Rundfunk, Social Media einer Redaktion)?
-2. Lässt sich die beanstandete Aussage als Tatsachenbehauptung qualifizieren – oder ist es eher ein Werturteil oder eine Meinungsäußerung?
-3. Ist der Mandant persönlich oder unmittelbar von der Aussage betroffen?
-4. Wann war die Veröffentlichung und ist die Frist zur Einreichung der Gegendarstellung (typisch 2 Wochen) noch nicht abgelaufen?
-5. Hat die Redaktion bereits freiwillig Korrekturen oder Nachfragen erhalten und wie hat sie reagiert?
-6. Welche konkreten Folgen hat die falsche Behauptung: berufliche, wirtschaftliche, persönliche Nachteile?
-7. Soll die Gegendarstellung allein stehen oder werden parallel Unterlassung/Schadensersatz geltend gemacht?
-8. Ist das Medium bundesweit verbreitet oder regional; wer ist die zuständige Landespressebehörde?
-
----
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-| Norm | Inhalt |
-|---|---|
-| LPG der Bundesländer (z.B. § 11 LPG NRW, Art. 10 BayPrG, § 11 LPG HH) | Gegendarstellungsanspruch; je nach Bundesland leicht unterschiedliche Fristregeln |
-| MStV § 20 | Gegendarstellung in journalistischen Online-Angeboten (Telemedien) |
-| MStV § 19 | Sorgfaltspflichten der Presse und Rundfunk; Berichtigungsanspruch |
-| BGB § 823 Abs. 1 | Persönlichkeitsrechtsverletzung: Schadensersatz bei ehrverletzenden Behauptungen |
-| BGB § 1004 analog | Unterlassungsanspruch bei fortdauernder Persönlichkeitsrechtsverletzung |
-| GG Art. 1, Art. 2 | Allgemeines Persönlichkeitsrecht als Grundrecht |
-| GG Art. 5 | Meinungs- und Pressefreiheit; Abwägung mit Persönlichkeitsrecht |
-| ZPO § 935 | Einstweilige Verfügung bei Verweigerung der Gegendarstellungsveröffentlichung |
-| ZPO § 940 | Einstweilige Verfügung zur Regelung eines vorläufigen Zustands |
-
----
-
-## Leitentscheidungen
-
-| Aktenzeichen | Gericht / Datum | Leitsatz |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-
----
-
-## Prüfschema Gegendarstellung
-
-| Schritt | Inhalt | Grundlage |
-|---|---|---|
-| 1 | Medientyp: Periodische Presse, Rundfunk, Online-Telemedien (journalistisch redaktionell)? Soziale Medien privat = kein Gegendarstellungsanspruch | LPG, MStV § 20 |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 3 | Betroffenheit prüfen: Mandant namentlich oder individuell bestimmbar genannt? Kollektiv: nur bei kleinem abgrenzbaren Personenkreis | LPG |
-| 4 | Fristwahrung: Veröffentlichungsdatum feststellen; Antragsfrist beim Medium prüfen (typisch 2 Wochen; länder-/medienspezifisch) | § 11 LPG NRW u.a. |
-| 5 | Form der Gegendarstellung: Schriftlich, Original-Unterschrift, sachlich, eigene Tatsachenbehauptung, nicht länger als beanstandeter Beitrag | LPG |
-| 6 | Inhaltliche Anforderungen: Nur Tatsachen, keine Wertungen, kein Angriff auf Redaktion, direkter Bezug zur gerügten Aussage | LPG |
-| 7 | Einreichung beim Medium: Schriftlich, per Einschreiben, Original-Unterschrift | LPG |
-| 8 | Reaktion des Mediums: Veröffentlichung, Ablehnung oder Schweigen? Fristen prüfen | LPG |
-| 9 | Bei Verweigerung: einstweilige Verfügung beim zuständigen Landgericht | §§ 935, 940 ZPO |
-| 10 | Parallele Ansprüche prüfen: Unterlassung § 1004 BGB, Schadensersatz § 823 BGB, Geldentschädigung bei schwerer Verletzung | § 823, § 1004 BGB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 12 | Verwirkung: Sehr späte Einreichung kann Rechtsmissbrauch begründen wenn Aktualität fehlt | § 242 BGB |
-
----
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Gegendarstellung Presse einfordern | Gegendarstellungsschreiben; Template unten |
-| Variante A — Falschmeldung bereits geloescht | Erklaerung Loeschung genuegt ggf.; erneute Gegendarstellung ueberdacht |
-| Variante B — Online-Recht statt Presserecht | Art. 17 DSGVO Loeschungsanspruch; Skill Medienrecht |
-| Variante C — Strafanzeige wegen uebler Nachrede | Strafrecht § 186 StGB parallel zur Gegendarstellung |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbausteine
-
-### Baustein 1 – Gegendarstellungstext (Muster)
-
-```
-GEGENDARSTELLUNG gemäß § [N] [LPG des Bundeslandes]
-(z.B. § 11 LPG NRW / Art. 10 BayPrG / § 11 LPG HH)
-
-In der Ausgabe vom [Datum] von [Medienname], Seite [N],
-unter der Überschrift [Titel], wird Folgendes behauptet:
-
-"[Wörtliches Zitat der beanstandeten Tatsachenbehauptung]"
-
-Dazu erkläre ich:
-
-[Knapp formulierte, sachliche, gegenläufige Tatsachen-
-aussage: z.B. "Ich war am [Datum] nicht Anwesender bei
-dem in Rede stehenden Treffen. Ich befand mich nachweislich
-in [Ort]. Fotos und Dokumente belegen meinen Aufenthaltsort."]
-
-[Ort, Datum]
-
-[Eigenhändige Original-Unterschrift]
-[Name des Betroffenen]
-```
-
-### Baustein 2 – Anschreiben an die Redaktion
-
-```
-An die Chefredaktion [Medium]
-Redaktion [Name]
-[Anschrift]
-– Per Einschreiben mit Rückschein –
-
-[Ort, Datum]
-
-Gegendarstellungsverlangen gemäß § [N] LPG [Bundesland]
-
-Sehr geehrte Damen und Herren,
-
-wir zeigen die anwaltliche Vertretung von [Name des Betroffenen]
-an.
-
-In Ihrer Ausgabe/Ihrem Online-Beitrag vom [Datum] (Anlage K1:
-Screenshot/Zeitungsseite) wird über unseren Mandanten behauptet:
-"[Zitat der falschen Tatsachenbehauptung]"
-
-Diese Behauptung ist unrichtig. Wir übersenden beigefügt die
-Gegendarstellung unseres Mandanten nach § [N] LPG [Bundesland]
-mit dem Verlangen, diese in der nächsten regulären Ausgabe
-in gleicher Aufmachung (Sektion, Schriftgröße, Sichtbarkeit)
-zu veröffentlichen.
-
-Die Original-Unterschrift liegt bei.
-
-Bei ausbleibender Veröffentlichung in der nächsten Ausgabe
-werden wir einstweiligen Rechtsschutz beantragen.
-
-Wir bitten um Empfangsbestätigung binnen 24 Stunden.
-
-[Ort, Datum]
-[Kanzlei, Unterschrift]
-```
-
-### Baustein 3 – Antrag auf einstweilige Verfügung (Muster)
-
-```
-AN DAS LANDGERICHT [...]
-
-Antragsteller: [Name]
-Antragsgegnerin: [Verlag/Medium]
-
-Streitwert: EUR [15.000–30.000 typisch]
-
-ANTRAG AUF EINSTWEILIGE VERFÜGUNG
-gemäß §§ 935, 940 ZPO
-
-Es wird beantragt,
-
-der Antragsgegnerin durch einstweilige Verfügung aufzugeben,
-die beigefügte Gegendarstellung des Antragstellers in ihrer
-nächsten regulären Ausgabe (Print/Online) zu veröffentlichen,
-und zwar in gleicher Aufmachung wie der beanstandete Artikel
-ohne kommentierende Zusätze.
-
-Eilbedürftigkeit:
-Die beanstandete Behauptung wurde am [Datum] veröffentlicht.
-Die Verletzung ist aktuell und die nächste Ausgabe erscheint
-am [Datum]. Ohne sofortigen Erlass besteht keine Möglichkeit
-mehr, zeitnah Gegendarstellung zu veröffentlichen.
-
-Verfügungsanspruch:
-§ [N] LPG [Bundesland]: Gegendarstellungsanspruch ist gegeben
-[Kurzbegründung].
-
-Beweis: Anlage K1: beanstandeter Artikel; Anlage K2: Gegendarstellungsschreiben; Anlage K3: Einschreiben-Rückschein; Anlage K4: Ablehnungsschreiben/Protokoll.
-
-[Ort, Datum, Unterschrift]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
----
-
-## Beweislast
-
-| Konstellation | Beweislast |
-|---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Betroffenheit | Antragsteller; bei namentlicher Nennung offensichtlich; bei Kollektivbezeichnung durch Eingrenzung des Kreises |
-| Unrichtigkeit der Behauptung | Antragsteller muss im Gegendarstellungstext eigene gegenläufige Tatsache formulieren; nicht: nachweisen, dass Medium falsch liegt |
-| Fristwahrung | Antragsteller muss Eingang beim Medium innerhalb der Frist nachweisen (Einschreiben, Zugangsbestätigung) |
-| Qualität der Veröffentlichungspflicht | Medium muss Entsprechung in Aufmachung nachweisen; Abweichungen trägt Medium |
-
----
-
-## Fristen und Verjährung
-
-| Frist | Inhalt | Norm |
-|---|---|---|
-| 2 Wochen | Typische Antragsfrist beim Medium nach Veröffentlichung (je nach Bundesland 2–4 Wochen) | § 11 LPG NRW u.a. |
-| Nächste reguläre Ausgabe | Veröffentlichungspflicht nach Eingang der Gegendarstellung | LPG |
-| Sofort | Eilantrag bei LG nach Verweigerung; Aktualität schwindet schnell | §§ 935, 940 ZPO |
-| 3 Jahre | Schadensersatz § 823 BGB: Verjährung ab Kenntnis | § 195 BGB |
-| 30 Jahre | Geldentschädigung bei sehr schwerer Persönlichkeitsverletzung ohne Kenntnis des Täters | § 199 Abs. 2 BGB |
-
----
-
-## Typische Gegenargumente
-
-| Gegenargument | Erwiderung |
-|---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Die Gegendarstellung ist zu lang" | LPG-Grundsatz: Gegendarstellung soll nicht länger als der beanstandete Beitrag sein; kürzerer Artikel = kürzere Gegendarstellung zulässig |
-| "Der Beitrag enthält weitere Informationen die wir kommentieren dürfen" | Gegendarstellungsveröffentlichung ohne Kommentar; Anmerkung erst in separater Ausgabe/nachfolgendem Abschnitt zulässig |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Frist überschritten; kein Gegendarstellungsanspruch mehr" | Fristversäumnis schließt nur LPG-Gegendarstellungsanspruch aus; Unterlassungs- und Schadensersatzansprüche §§ 823, 1004 BGB bleiben bestehen |
-
----
-
-## Streitwert / Kosten
-
-| Position | Berechnung |
-|---|---|
-| Streitwert einstweilige Verfügung | Typisch EUR 15.000–30.000 je nach Reichweite des Mediums und Schwere der Verletzung |
-| Anwaltsgebühren bei Streitwert EUR 20.000 | Ca. EUR 2.200 netto (VV-RVG 2300; Verfahrens- und Terminsgebühr) |
-| Einstweilige Verfügung LG | Gerichtsgebühren nach GKG 0.5-fach im einstweiligen Verfügungsverfahren |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Schadensersatz wirtschaftlicher Schaden | Konkret: Verdienstausfall, Kundenverlust; durch Belege nachzuweisen |
-
----
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| Klare falsche Tatsache, aktueller Bericht | Sofortige Gegendarstellung; parallel Unterlassungsschreiben; dann je nach Reaktion EV |
-| Grenzfall Meinung/Tatsache | Vorsichtiger Ansatz: Unterlassungsschreiben statt Gegendarstellung; Gegendarstellung bei Ablehnung riskiert Ablehnung durch Gericht |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Wirtschaftlicher Schaden durch Bericht | Parallel zu Gegendarstellung: Schadensersatzanspruch § 823 BGB vorbereiten; Belege sichern |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-
----
-
-## Anschluss-Skills
-
-- `urheber-abmahnung-pruefen` – wenn Medieninhalt zugleich urheberrechtlich relevant ist
-- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` – vertiefte Abmahnprüfung
-- `fachanwalt-urheber-medienrecht-mod-erklaerung` – Unterlassungserklärung bei presserechtlichen Ansprüchen
-
----
-
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Triage-Fragen bei Gegendarstellungs-Mandat
-
-Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
-1. Handelt es sich um eine Tatsachenbehauptung (Gegendarstellungsrecht) oder eine Meinungsaeusserung (nur § 1004 BGB i.V.m. §§ 823 I BGB)?
-2. Ist die Gegendarstellung unmittelbar an den Veroeffentlichungsort gerichtet (§ 11 LPG des betreffenden Bundeslandes)?
-3. Ist die Frist für die Gegendarstellung eingehalten (in den meisten Bundeslaendern: 3 Monate ab Kenntnis)?
-4. Ist die Gegendarstellung auf den Kern der falschen Tatsachenbehauptung beschraenkt (keine eigene Stellungnahme oder Kommentar)?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `presserecht-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Presserecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Presserecht: Schriftsatz-, Brief- und Memo-Bausteine
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Presserecht: Schriftsatz-, Brief- und Memo-Bausteine.
-
-## Spezialwissen: Presserecht: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** UrhG, UWG, KUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Presserecht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -2,20 +2,54 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 84 Skills des Plugins `forderungsmanagement-klagewerkstatt`.
+Diese Vollprüfung enthält top-10 von 85 Skills des Plugins `forderungsmanagement-klagewerkstatt`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Kaltstart-Triage Forderungssache in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unt…
-2. **spezial-klagewerkstatt-erstpruefung-und-mandatsziel** — Wenn es um Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klä…
-3. **zahlungsklage-behoerden-register** — Wenn es um Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts in Forderungsmanagement — Klagewerk…
-4. **spezial-forderungsmanagement-tatbestand-beweis-und-belege** — Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstat…
-5. **spezial-klagefreigabe-belegte-forderung** — Wenn es um Klagefreigabe nur für fällige, belegte und prozessreife Forderungen in Forderungsmanagement — Klagewerkstatt …
-6. **spezial-mahnverfahren-beweislast-und-darlegungslast** — Wenn es um Mahnverfahren: Beweislast, Darlegungslast und Substantiierung in Forderungsmanagement — Klagewerkstatt geht: …
-7. **spezial-mahnvorlauf-dokumentenmatrix-und-lueckenliste** — Wenn es um Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung in Forderungsmanagement — Klagewerkstatt geht: e…
-8. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage nach Zahlung auf die Forderung in Forderungsmanagement — Klagewerkstatt geht: erstel…
-9. **spezial-forderungen-mehrparteien-konflikt-und-interessen** — Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstell…
-10. **spezial-zahlungsklage-behoerden-gericht-und-registerweg** — Wenn es um Zahlungsklage: Behörden-, Gerichts- oder Registerweg in Forderungsmanagement — Klagewerkstatt geht: erstellt …
+1. **zahlungsklage-versandmappe-endfertigen** — Endfertigt Zahlungsklage, Mahnübergang, Urkundenprozess und Erwiderung im Forderungsmanagement: prüft Anspruch, Fälligke…
+2. **kaltstart-triage** — Wenn es um Kaltstart-Triage Forderungssache in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unt…
+3. **spezial-klagewerkstatt-erstpruefung-und-mandatsziel** — Wenn es um Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klä…
+4. **zahlungsklage-behoerden-register** — Wenn es um Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts in Forderungsmanagement — Klagewerk…
+5. **spezial-forderungsmanagement-tatbestand-beweis-und-belege** — Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstat…
+6. **spezial-klagefreigabe-belegte-forderung** — Wenn es um Klagefreigabe nur für fällige, belegte und prozessreife Forderungen in Forderungsmanagement — Klagewerkstatt …
+7. **spezial-mahnverfahren-beweislast-und-darlegungslast** — Wenn es um Mahnverfahren: Beweislast, Darlegungslast und Substantiierung in Forderungsmanagement — Klagewerkstatt geht: …
+8. **spezial-mahnvorlauf-dokumentenmatrix-und-lueckenliste** — Wenn es um Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung in Forderungsmanagement — Klagewerkstatt geht: e…
+9. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage nach Zahlung auf die Forderung in Forderungsmanagement — Klagewerkstatt geht: erstel…
+10. **spezial-forderungen-mehrparteien-konflikt-und-interessen** — Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstell…
+
+---
+
+## Skill: `zahlungsklage-versandmappe-endfertigen`
+
+_Endfertigt Zahlungsklage, Mahnübergang, Urkundenprozess und Erwiderung im Forderungsmanagement: prüft Anspruch, Fälligkeit, Verzug, Zuständigkeit, Antrag und Zinslauf, verknüpft Vertrag, Leistung, Rechnung, Mahnung und Zahlungen und liefert eine beA-fertige Versandmappe mit Forderungs-, Anlagen- und Kostenabgleich._
+
+# Zahlungsklage-Versandmappe endfertigen
+
+## 1. Anspruchsakte zuerst lesen
+
+Lies fertige Klage oder Erwiderung, Vertrag, Auftrag, Leistungs- oder Liefernachweis, Rechnung, Mahnlauf, Zahlungen und Zustellnachweise. Erzeuge keine Dateien, bevor Gläubiger, Schuldner, Hauptforderung, Fälligkeit, Erfüllungsort und bisheriger Verfahrensweg eindeutig sind.
+
+## 2. Klage- und Rechenkontrolle
+
+1. Jede Hauptforderungsposition einer Anspruchsgrundlage und einem Beleg zuordnen.
+2. Teilzahlungen, Gutschriften, Aufrechnung und bestrittene Positionen mit Datum verrechnen.
+3. Verzugsbeginn, Basiszinssatz, Verbraucher- oder Unternehmerstatus und Zinsantrag nachvollziehbar ausweisen.
+4. Mahnbescheid, Widerspruch und Abgabe bei Übergang ins Streitverfahren mit dem Klageantrag abstimmen.
+5. Gericht, Rechtsweg, sachliche und örtliche Zuständigkeit sowie Parteibezeichnung kontrollieren.
+
+## 3. Anlagen und Dateisatz
+
+Ordne Vertrag oder Bestellung, Leistungsnachweis, Rechnung, Mahnung, Zugang, Salden- und Zahlungsnachweise nach der Forderungsmatrix. Kontoauszüge werden auf den relevanten Buchungsvorgang begrenzt; interne Inkassonotizen und Vergleichsvorschläge gelangen nicht ungeprüft in die Gerichtsakte.
+
+## 4. Form- und Beweisanker
+
+- ZPO Paragraf 253 für bestimmten Antrag und schlüssigen Lebenssachverhalt, ZPO Paragraf 286 für Beweiswürdigung und BGB Paragrafen 286 und 288 für Verzug und Zinsen gemeinsam kontrollieren.
+- Ein Urkundenprozess setzt für alle anspruchsbegründenden Tatsachen die zulässige urkundliche Beweisführung voraus; die Bezeichnung ersetzt nicht die Vollständigkeitsprüfung.
+- Hauptdokument und Anlagen werden einzeln als PDF übermittelt; die gerichtliche Eingangsbestätigung muss auch die vollständige Anhangsliste tragen.
+
+## 5. Auslieferung
+
+Liefere Hauptdokument, Einzelanlagen, Forderungs- und Zinsmatrix, Zuständigkeits- und Fristenblatt, Kostenübersicht, Manifest und Eingangscheck. Stoppe bei offenem Saldo, fehlendem Leistungsbeleg, widersprüchlichem Antrag, falschem Gericht oder nicht finaler Klagefassung.
 
 ---
 
@@ -583,78 +617,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `spezial-zahlungsklage-behoerden-gericht-und-registerweg`
-
-_Wenn es um Zahlungsklage: Behörden-, Gerichts- oder Registerweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Zahlungsklage: Behörden-, Gerichts- oder Registerweg
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `forderungsmanagement-klagewerkstatt`. Ausgangspunkt ist: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
-
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Zahlungsklage**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Zahlungsklage.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und b....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Zahlungsklage** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen Zahlungsklage
-- **Sachliche Zuständigkeit:** Allgemeine Forderungssachen gehören bis einschließlich zehntausend Euro zum Amtsgericht nach Paragraf 23 Nummer 1 GVG und darüber zum Landgericht nach Paragraf 71 Absatz 1 GVG. Wohnraummietsachen sind nach Paragraf 23 Nummer 2a GVG ausschließlich und streitwertunabhängig Amtsgerichtssachen; das gilt auch für verbundene Räumungs- und Zahlungsklagen über Wohnraum. Gewerberaummiete bleibt bei der allgemeinen Wertzuständigkeit. Vor dem Landgericht gilt Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO.
-- **Örtliche Zuständigkeit:** Allgemeiner Gerichtsstand des Beklagten (Paragrafen 12, 13 ZPO). Besondere Gerichtsstände: Erfüllungsort (Paragraf 29 ZPO), unerlaubte Handlung (Paragraf 32 ZPO), Verbrauchersachen (Paragraf 29c ZPO). Bei B2C: Gerichtsstandsvereinbarung nur in Schranken zulässig (Paragraf 38 ZPO).
-- **Klageschriftliche Pflichtangaben (Paragrafen 253 Abs. 2, 130, 130a ZPO):** Bezeichnung der Parteien mit Anschrift, bestimmter Klageantrag, Tatsachen und Beweismittel, Rechtsbehauptungen, Unterschrift oder qualifizierte elektronische Signatur beziehungsweise Einreichung über sicheren Übermittlungsweg. Bei anwaltlicher Vertretung: zwingend elektronische Einreichung (Paragraf 130d ZPO).
-- **Streitwert (Paragraf 3 ZPO):** Geldforderungen nach Nennwert; Zinsen, Nebenforderungen und Kosten erhöhen den Streitwert nicht (Paragraf 4 ZPO). Bei wiederkehrenden Leistungen: Jahresbetrag bzw. 3,5-facher Jahresbetrag.
-- **Verzug und Zinsen (Paragrafen 286, 288 BGB):** Verzug ab Mahnung oder kalendermäßiger Bestimmung der Leistungszeit. Verzugszinsen: 5 Prozentpunkte über Basiszins (Paragraf 288 Abs. 1 BGB - B2C), 9 Prozentpunkte über Basiszins (Paragraf 288 Abs. 2 BGB - B2B Geldforderungen). Basiszinssatz aktuell prüfen über bundesbank.de.
-- **Mahn-, Inkasso- und Anwaltskosten:** Die verzugsbegründende Mahnung ist nur dann selbst ersatzfähiger Verzugsschaden, wenn der Schuldner bereits aus anderem Grund in Verzug war; nach Verzugseintritt können notwendige Rechtsverfolgungskosten über Paragrafen 280 Abs. 1, 2, 286 BGB verlangt werden. Anwaltskosten in einfach gelagerten Verzugsfällen nicht vorschnell auf ein Schreiben einfacher Art kürzen: BGH, Urteil vom 17.09.2015 - IX ZR 280/14. Vorgerichtliche Inkassokosten getrennt prüfen: Paragraf 13e RDG, Paragraf 13f RDG, Paragraf 4 Abs. 5 RDGEG a.F., Nr. 2300 VV RVG; für das Nebeneinander von Inkasso und späterer anwaltlicher Prozessführung BGH, Versäumnisurteil vom 07.12.2022 - VIII ZR 81/21.
-- **Klage und Mahnverfahren - Verhältnis:** Klage hemmt Verjährung (Paragraf 204 Abs. 1 Nr. 1 BGB) mit Klageerhebung (Zustellung). Bei Mahnverfahren: bereits Eingang des Antrags hemmt (Paragraf 204 Abs. 1 Nr. 3 BGB).
-- **Säumnisurteil (Paragraf 331 ZPO):** Bei Nichterscheinen oder mangelhafter Verteidigung des Beklagten - Antrag des Klägers erforderlich. Einspruch innerhalb von zwei Wochen ab Zustellung (Paragraf 339 ZPO).
-- **Stolperfalle:** Bei B2B-Forderungen seit 28.07.2014 zusätzliche Pauschale 40 Euro nach Paragraf 288 Abs. 5 BGB; muss konkret beantragt werden, sonst keine Berücksichtigung.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

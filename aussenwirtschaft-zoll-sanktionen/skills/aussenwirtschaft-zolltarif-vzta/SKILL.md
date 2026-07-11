@@ -106,7 +106,3 @@ Bearbeiter: [NAME]
    Alternativposition: [KN-NR.] — Risiko: [BESCHREIBUNG]
    Empfehlung: [vZTA / interne Dokumentation / Anwaltliches Opinion Letter]
 ```
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 014:
--->

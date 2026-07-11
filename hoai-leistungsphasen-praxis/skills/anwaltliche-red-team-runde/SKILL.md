@@ -18,31 +18,9 @@ description: "Wenn es um HOAI Querschnitt: Sucht fehler in HOAI Leistungsphasen 
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
-## Normen und Rechtsprechung
+## Fachbezogene Rechtsgrundlagen
 
-### Kuratierte Normen-Bibliothek
-
-- § 1 HOAI (Anwendungsbereich)
-- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
-- § 6 HOAI (Honorarvereinbarung)
-- § 7 HOAI (Honorarvereinbarung Schriftform)
-- § 10 HOAI (anrechenbare Kosten)
-- § 14 HOAI (Honorarzonen)
-- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
-- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
-- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
-- VOB/B § 8 (Kündigung, Anwendung neben BGB)
-
-### Leitentscheidungen
-
-- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
-- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
-- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
-- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
-- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
-
-### Anwendung im Skill
-
-- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
-- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
-- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
+- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
+- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
+- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.

@@ -2,18 +2,40 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 107 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
+Diese Vollprüfung enthält top-8 von 108 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-2. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Wenn es um Orientierung Gewerblicher Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zustä…
-3. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rech…
-4. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlag…
-5. **schriftsatzkern-substantiierung** — Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechts…
-6. **fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg** — Wenn es um Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg in Fachanwalt Gewerblicher Rechtsschutz geht: ord…
-7. **faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel** — Wenn es um Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung in Fachanwalt Gewer…
-8. **abmahnung-vergleich-wipo** — Wenn es um Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten in Fachanwalt Gewerblic…
+1. **gewerblicher-rechtsschutz-versandmappe-endfertigen** — Endfertigt Verletzungsklage, einstweilige Verfügung, Schutzschrift, Abschlussschreiben und Ordnungsmittelantrag im gewer…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
+3. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Wenn es um Orientierung Gewerblicher Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zustä…
+4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rech…
+5. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlag…
+6. **designg-behoerden-gericht-und-registerweg** — Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungskl…
+7. **schriftsatzkern-substantiierung** — Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechts…
+8. **anschluss-routing** — Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill. Trennt Schutzrecht, Rech…
+
+---
+
+## Skill: `gewerblicher-rechtsschutz-versandmappe-endfertigen`
+
+_Endfertigt Verletzungsklage, einstweilige Verfügung, Schutzschrift, Abschlussschreiben und Ordnungsmittelantrag im gewerblichen Rechtsschutz: prüft Anspruch, Dringlichkeit, Antrag und Vollziehungsfrist, ordnet Register, Testkauf, Screenshots und Zustellungen zu, führt Anlagen fort und liefert getrennte beA-PDFs samt Vollziehungs- und Eingangskontrolle._
+
+# Versandmappe im gewerblichen Rechtsschutz endfertigen
+
+## 1. Verfahrensstand
+
+Lies Antrag oder Schriftsatz, Abmahnung, Antwort, Schutzrecht, Registerstand, Testkauf, Screenshots, eidesstattliche Versicherungen, Beschluss und Zustellunterlagen. Trenne Hauptsache, Verfügungsverfahren, Schutzschrift und Vollziehung. Ein Verfügungsbeschluss ist ohne gesonderten Vollziehungsplan nicht fertig bearbeitet.
+
+## 2. Schlusskontrolle
+
+Prüfe Aktiv- und Passivlegitimation, Schutzrechtsstand, konkrete Verletzungsform, Antragsfassung, Wiederholungsgefahr, Dringlichkeit und Beweismittel. Screenshots benötigen URL, Datum, Uhrzeit, vollständigen Kontext und nachvollziehbare Sicherung. Testkäufe erhalten Bestell-, Zahlungs-, Liefer- und Produktkette.
+
+## 3. Anlagen und Versand
+
+Führe K/B oder AST/AG entsprechend Akte fort. Stemple jede Seite. Registerauszug, Produktabbildung, Testkauf, Korrespondenz und eidesstattliche Versicherung bleiben getrennte PDFs. Dateinamen enthalten keine unnötigen Geschäftsgeheimnisse.
+
+Prüfe ZPO Paragrafen 130a und 130d sowie im Eilverfahren ZPO Paragrafen 929 und 936. beA-Einreichung beim Gericht und Parteizustellung oder Vollziehung sind getrennte Arbeitsschritte. Liefere deshalb Versandmappe, Zustellungsmappe, Vollziehungsfristblatt, Anlagenregister, Manifest und Eingangskontrolle. Stoppe bei unbestimmtem Antrag, ungeklärter Dringlichkeit oder fehlendem Vollziehungsnachweis.
 
 ---
 
@@ -514,6 +536,99 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 
 ---
 
+## Skill: `designg-behoerden-gericht-und-registerweg`
+
+_Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungsklage. Trennt DPMA, EUIPO, Bundespatentgericht, EU-Gerichte und Designgerichte und liefert Fristenplan, Anträge, Belegmatrix und den nächsten verfahrensfesten Schritt._
+
+# 1. Designverfahren und Registerweg
+
+## 1.1 Arbeitsauftrag
+
+Bestimme zuerst Schutzrecht, Verfahrensart und zuständige Stelle. Erstelle danach kein allgemeines Designrechtsmemo, sondern das konkret benötigte Arbeitsprodukt: Register- und Fristenblatt, Anmeldestrategie, Nichtigkeitsantrag, Beschwerdegerüst, Klageantrag oder Verteidigungsmatrix.
+
+Lies vorhandene Registerauszüge, Ansichten, Prioritätsbelege, Bescheide und Schriftsätze vollständig. Frage nur nach Tatsachen, die eine Verfahrensweiche verändern.
+
+## 1.2 Rechtsstandsweiche
+
+1. Für nationale Rechte gelten insbesondere die Paragrafen 11 bis 23, 27, 28, 33 bis 35 und 52 bis 53 DesignG.
+2. Für unionsweite Rechte ist die Verordnung (EG) Nr. 6/2002 in der seit 1. Juli 2026 geltenden Fassung maßgeblich. Die aktuelle Bezeichnung lautet EU-Design; ältere Akten und noch nicht angepasste deutsche Vorschriften können weiterhin Gemeinschaftsgeschmacksmuster verwenden.
+3. Die Richtlinie (EU) 2024/2823 ist für die künftige Harmonisierung des nationalen Rechts relevant, ersetzt aber vor Ablauf der Umsetzungsfrist nicht eigenständig das DesignG.
+4. Prüfe bei jedem Altfall den Anmelde-, Offenbarungs- und Verfahrenszeitpunkt. Verwende keine reformierte Normnummer rückwirkend, wenn Übergangsrecht oder die frühere Fassung gilt.
+
+## 1.3 Zuständigkeitsmatrix
+
+| Anliegen | Erste Stelle | Nächster Rechtszug | Kontrollpunkt |
+| --- | --- | --- | --- |
+| Nationale Anmeldung und Register | DPMA | Beschwerde zum Bundespatentgericht nach Paragraf 23 DesignG | Anmeldetag, Ansichten, Erzeugnisangabe, Gebühren |
+| Nationale Nichtigkeit | Designabteilung des DPMA nach Paragraf 34a DesignG | Bundespatentgericht | Nichtigkeitsgrund, Antragsbefugnis, konkreter Formenschatz |
+| EU-Design und EUIPO-Nichtigkeit | EUIPO | Beschwerdekammer des EUIPO | aktuelle Fassung der EU-Designverordnung und Verfahrenssprache |
+| Kontrolle einer EUIPO-Beschwerdeentscheidung | Gericht der Europäischen Union | Rechtsmittel zum Gerichtshof nur in den unionsrechtlich eröffneten Grenzen | Klagefrist, angegriffene Entscheidung, zulässige Rügen |
+| Verletzung eines nationalen Designs | zuständiges Landgericht als Designgericht | Oberlandesgericht, gegebenenfalls Bundesgerichtshof | landesrechtliche Konzentrationsverordnung live prüfen |
+| Verletzung eines EU-Designs | benanntes EU-Designgericht | nationaler Rechtsmittelzug | internationale und örtliche Zuständigkeit getrennt prüfen |
+
+Nenne niemals pauschal drei deutsche Gerichte als abschließende Liste. Die gerichtliche Konzentration richtet sich nach den jeweils geltenden Landesverordnungen; die benannten EU-Designgerichte sind anhand der aktuellen amtlichen Liste zu verifizieren.
+
+## 1.4 Register- und Aktenaufnahme
+
+1. Identifiziere Inhaber, Vertreter, Registernummer, Anmelde- und Prioritätstag, Status, Verlängerungsstand und Schutzgebiet.
+2. Sichere sämtliche amtlichen Ansichten in der eingetragenen Reihenfolge. Beschreibungen und Erzeugnisangaben ersetzen die bildliche Schutzbestimmung nicht.
+3. Ordne jede behauptete Vorveröffentlichung einzeln nach Quelle, Datum, Öffentlichkeit, Abbildung und Beweisqualität.
+4. Trenne nationales Design, eingetragenes EU-Design, nicht eingetragenes EU-Design und internationale Registrierung nach dem Haager System.
+5. Notiere parallele Marken-, Urheber-, Patent-, Gebrauchsmuster- und Lauterkeitsrechte nur als eigene Anspruchsspur.
+
+## 1.5 Anmeldeprüfung
+
+1. Prüfe Wiedergabe, Einheitlichkeit und Offenbarungsgehalt jeder Ansicht.
+2. Entscheide zwischen Einzel- und Sammelanmeldung; die nationale Sammelanmeldung kann nach Paragraf 12 DesignG bis zu 100 Designs umfassen.
+3. Prüfe Priorität, Neuheitsschonfrist und aufgeschobene Bekanntmachung anhand des konkreten Offenbarungskalenders.
+4. Weise ausdrücklich darauf hin, dass Registerämter den materiellen Rechtsbestand nicht wie in einem vollständigen Verletzungs- oder Nichtigkeitsverfahren vorwegprüfen.
+5. Lege vor Einreichung eine Ansichtenliste mit Dateiname, Perspektive, beanspruchten Merkmalen und möglicher Unklarheit vor.
+
+## 1.6 Nichtigkeitsprüfung
+
+1. Benenne für jeden Angriff genau einen gesetzlichen Nichtigkeitsgrund.
+2. Vergleiche jedes ältere Design einzeln mit dem angegriffenen Design. Bilde kein Merkmalsmosaik aus mehreren Vorveröffentlichungen.
+3. Prüfe Neuheit, Eigenart, informierten Benutzer, Gestaltungsfreiheit und Gesamteindruck getrennt.
+4. Bei technischer Bedingtheit erfasse alle objektiven Umstände; die bloße Existenz alternativer Formen entscheidet nicht allein.
+5. Ordne Darlegungs- und Beweislast zu. Der Antragsteller muss insbesondere die behauptete Vorveröffentlichung und deren zeitliche Zugänglichkeit belegen.
+
+## 1.7 Verletzungsprüfung
+
+1. Bestimme den geschützten Gegenstand ausschließlich aus den maßgeblichen Ansichten und dem anwendbaren Rechtsstand.
+2. Lege Original und angegriffene Ausführung in einer Ansichtenmatrix nebeneinander.
+3. Kennzeichne übereinstimmende, abweichende, technisch bedingte und vorbekannte Merkmale.
+4. Beurteile den Gesamteindruck aus Sicht des informierten Benutzers unter Berücksichtigung der Gestaltungsfreiheit.
+5. Prüfe Rechtsbestand, Vorbenutzung, Erschöpfung, Verjährung, territoriale Reichweite und Aktivlegitimation als eigene Gegenangriffsspur.
+
+## 1.8 Rechtsprechungsanker
+
+1. EuGH, Urteil vom 20. Oktober 2011 - C-281/10 P, PepsiCo gegen Grupo Promer: informierter Benutzer, Gestaltungsfreiheit und Gesamteindruck sind zusammenhängend zu beurteilen.
+2. EuGH, Urteil vom 19. Juni 2014 - C-345/13, Karen Millen: Eigenart wird gegenüber einzelnen vorbekannten Designs geprüft; ein aus mehreren Vorlagen zusammengesetztes Vergleichsdesign genügt nicht.
+3. EuGH, Urteil vom 8. März 2018 - C-395/16, DOCERAM: Für technische Bedingtheit sind alle objektiven Umstände maßgeblich; alternative Gestaltungen sind nur ein Gesichtspunkt.
+4. EuGH, Urteil vom 28. Oktober 2021 - C-123/20, Ferrari: Ein klar erkennbarer Teilbereich eines Erzeugnisses kann durch die Offenbarung eigenständig designrechtlich relevant werden.
+
+Verifiziere vor einer Einreichung Datum, ECLI, Randnummer und die tatsächlich tragende Aussage in der amtlichen Entscheidungsfassung.
+
+## 1.9 Ausgabe
+
+Liefere in dieser Reihenfolge:
+
+1. Verfahrensziel und zuständige Stelle.
+2. Fristen- und Gebührenblatt mit Quellenstand.
+3. Register- und Belegmatrix.
+4. Rechtsbestands- oder Verletzungsmatrix.
+5. Ausformulierter Antrag oder Schriftsatzkern.
+6. Anlagenverzeichnis und nächster Vollzugsschritt.
+
+## 1.10 Anschluss
+
+- `design-neuheit-offenbarung-pruefen` für Offenbarung und Formenschatz.
+- `eu-design-schutzumfang-gesamteindruck-pruefen` für den unionsweiten Gesamteindruck.
+- `designverletzung` für Anspruch und Verteidigung.
+- `spezial-designverletzung-red-team-und-qualitaetskontrolle` für den Gegenangriff vor Versand.
+
+---
+
 ## Skill: `schriftsatzkern-substantiierung`
 
 _Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
@@ -718,552 +833,56 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 
 ---
 
-## Skill: `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`
+## Skill: `anschluss-routing`
 
-_Wenn es um Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill. Trennt Schutzrecht, Rechtsbestand, Verletzung, Eilverfahren und Amtsweg und liefert eine begründete nächste Arbeitsstation statt einer unverbundenen Liste von Normen oder Entscheidungen._
 
-## Mandantenfragen beim Kaltstart
+# 1. Anschluss-Routing im gewerblichen Rechtsschutz
 
-1. Um welche Art von Information geht es (Quellcode, Kundenliste, Rezeptur, technisches Verfahren, Algorithmus, Finanzdaten)?
-2. Welche konkreten Geheimhaltungsmaßnahmen hat das Unternehmen bisher getroffen (NDA, Zugriffskontrolle, Verschlüsselung, Schulungen)?
-3. Wer hat die Information erlangt oder offenbart — ehemaliger Mitarbeiter, Lieferant, Wettbewerber, Journalist?
-4. Besteht der Verdacht, dass die Information über einen Whistleblowing-Kanal (intern, BfJ, Öffentlichkeit) weitergegeben wurde?
-5. Liegt ein NDA vor — wann geschlossen, welche Klauseln zur Geheimhaltungsdauer und Vertragsstrafe?
-6. Welches Ziel verfolgt die Mandantschaft — einstweilige Verfügung, Schadensersatz, Strafanzeige oder Verteidigung gegen Vorwürfe?
-7. Ist die Information möglicherweise auch urheberrechtlich oder patentrechtlich geschützt (Softwarecode, technische Erfindung)?
-8. Handelt es sich um einen Sachverhalt mit Auslandsbezug (Wirtschaftsspionage, ausländischer Wettbewerber, grenzüberschreitende M&A)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+## 1.1 Startregel
 
-## Rechtsgrundlagen
+Lies das bisherige Ergebnis und alle vorhandenen Unterlagen. Route nicht neu, wenn bereits ein verwertbares Arbeitsprodukt begonnen wurde; führe es mit dem passenden Fachskill fort.
 
-| Norm | Inhalt |
-|------|--------|
-| § 2 Nr. 1 GeschGehG | Legaldefinition Geschäftsgeheimnis: nicht allgemein bekannt, wirtschaftlicher Wert, angemessene Geheimhaltungsmaßnahmen, berechtigtes Interesse |
-| § 3 GeschGehG | Erlaubte Handlungen: eigenständige Entwicklung, Reverse Engineering, Whistleblowing, Arbeitnehmer-Mitbestimmung |
-| § 4 GeschGehG | Verbotene Handlungen: unbefugte Erlangung, Nutzung, Offenlegung |
-| § 5 Nr. 2 GeschGehG | Whistleblower-Privileg: Geheimnisverletzung gerechtfertigt zur Aufdeckung rechtswidriger Handlungen im allgemeinen öffentlichen Interesse |
-| §§ 6–8 GeschGehG | Zivilrechtliche Ansprüche: Unterlassung, Beseitigung, Vernichtung, Auskunft, Schadensersatz (drei Methoden) |
-| §§ 9–14 GeschGehG | Prozessuale Sondervorschriften: Geheimhaltungsanordnung, beschränkter Personenkreis, Geheimnisklage |
-| § 16 GeschGehG | Geheimhaltungsanordnung durch Gericht; Personenkreisbeschränkung |
-| § 23 GeschGehG | Strafbarkeit Geheimnisverrat: bis 3 Jahre Freiheitsstrafe; bei Wirtschaftsspionage bis 5 Jahre |
-| § 6 HinSchG | Verhältnis HinSchG zu anderen Vorschriften: GeschGehG-Schweigegebot tritt zurück |
-| §§ 32, 36 HinSchG | Offenlegung als Ultima Ratio; Repressalienverbot mit Beweislastumkehr |
-| § 40 HinSchG | Bußgeld bei Repressalie gegen Hinweisgeber bis EUR 50.000 |
-| § 203 StGB | Verletzung von Privatgeheimnissen; Berufsgeheimnisträger inkl. Rechtsanwälte |
-| §§ 43a BRAO, 2 BORA | Anwaltliche Verschwiegenheitspflicht |
-| § 69a UrhG | Urheberrechtsschutz Software (Quellcode); Parallelschutz zu GeschGehG möglich |
-| §§ 87a ff. UrhG | Datenbankschutz sui generis (15 Jahre, verlängerbar) |
-| § 69e UrhG | Decompilation nur zur Herstellung von Interoperabilität erlaubt |
-| Art. 6, 9, 35 DSGVO | Datenschutz bei Personalakten, Compliance-Untersuchungen, Datenschutz-Folgenabschätzung |
-| § 26 BDSG | Beschäftigtendatenschutz bei internen Untersuchungen |
+## 1.2 Pflichtweichen
 
-## Leitentscheidungen
+1. Welches Schutzrecht trägt den Vorgang: Marke, Design, Patent, Gebrauchsmuster, Geschäftsgeheimnis, Urheberrecht oder Lauterkeitsrecht?
+2. Geht es um Entstehung, Register, Rechtsbestand, Verletzung, Lizenz, Eilverfahren oder Vollstreckung?
+3. Welche Frist läuft tatsächlich und aus welchem Dokument folgt sie?
+4. Welche territoriale Ebene gilt: Deutschland, EU, EPÜ, internationale Registrierung oder Drittstaat?
+5. Welches Arbeitsprodukt wird als Nächstes gebraucht?
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+## 1.3 Fachrouten
 
-## Vier-Stufen-Test § 2 Nr. 1 GeschGehG
+| Fallkern | Folgeskill | Warum |
+| --- | --- | --- |
+| Designanmeldung, DPMA, EUIPO oder Nichtigkeit | `designg-behoerden-gericht-und-registerweg` | trennt Amts- und Gerichtsweg sowie alten und neuen EU-Rechtsstand |
+| Neuheit, Offenbarung oder Formenschatz | `design-neuheit-offenbarung-pruefen` | baut einen belegbaren Offenbarungskalender |
+| Designverletzung | `designverletzung` | vergleicht Ansichten, Gesamteindruck und Einreden |
+| Markenanmeldung oder Kollision | `markenanmeldung-dpma-und-euipo` oder der konkret passende Markenskill | verbindet Registerstand, Warenverzeichnis, Benutzung und Verwechslungsgefahr |
+| Domainkonflikt | `domainrecht-loeschung-bgh-i-zr-138-19` | trennt Kennzeichenrecht, Namensrecht und Domainstatus |
+| Abmahnung und einstweiliger Rechtsschutz | `abmahnung-formular-portal-und-einreichung` | sichert Anspruch, Dringlichkeit, Antrag und Zustellung |
+| Unklare Akte | `einstieg-schnelltriage-fallrouting` | erzeugt Schutzrechts-, Fristen- und Belegmatrix |
+| Qualitätskontrolle | `workflow-redteam-qualitygate` | prüft Gegenargument, Antrag, Beweis und Vollzug |
 
-| Stufe | Prüfpunkt | Praxis-Indikator | Rechtsfolge bei Fehlen |
-|-------|-----------|-----------------|----------------------|
-| 1 | Nicht allgemein bekannt / nicht ohne weiteres zugänglich | Branchenkenntnis, Fachliteratur, öffentliches Internet recherchiert? | Kein Geheimnisschutz |
-| 2 | Wirtschaftlicher Wert wegen Geheimnischarakter | Negativwissen einbeziehen; Lizenzwert schätzen | Selten fehlend; Negativwissen reicht |
-| 3 | Angemessene Geheimhaltungsmaßnahmen | Drei-Ebenen-Modell (organisatorisch, vertraglich, technisch) vollständig? | Häufigster Scheiterpunkt in der Rechtsprechung |
-| 4 | Berechtigtes Geheimhaltungsinteresse | Illegal? Sittenwidrig? | Nur bei ausnahmsweise rechtswidrigem Inhalt fehlend |
+Wenn ein genannter Slug nicht vorhanden ist, wähle aus der aktuellen Skillübersicht den fachlich nächsten vorhandenen Skill und dokumentiere die Abweichung.
 
-## Prüfschema Geheimhaltungsmaßnahmen (Drei-Ebenen-Modell)
+## 1.4 Verfahrenssicherung
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+1. Sichere amtlichen Registerauszug und angegriffene Entscheidung.
+2. Berechne Fristen aus Zustellung und einschlägiger Verfahrensnorm; übernimm keine Frist aus einem anderen Schutzrecht.
+3. Trenne Amt, Beschwerdekammer, Bundespatentgericht, Gericht der Europäischen Union und Verletzungsgericht.
+4. Weise Entscheidungen nur der Aussage zu, die sie tatsächlich tragen. Eine bloße Aktenzeichenliste ist kein Routingkriterium.
+5. Gib als Ergebnis genau einen Hauptskill und höchstens zwei notwendige Nebenspuren aus.
 
+## 1.5 Ausgabe
 
-| Ebene | Mindestanforderungen | Dokumentationspflicht |
-|-------|--------------------|-----------------------|
-| Organisatorisch | Need-to-Know-Prinzip; Besucherregelung; Offboarding-Protokoll (Rückgabe Geräte, Sperrung Zugänge am letzten Arbeitstag); Schulungsnachweis | GHS-Policy schriftlich; Schulungsregister |
-| Vertraglich | NDA mit Lieferanten, Beratern, Bewerbern, Praktikanten vor Datenzugang; Geheimhaltungsklausel Arbeitsvertrag; nachvertragliches Wettbewerbsverbot § 74 HGB mit Karenzentschädigung | NDA-Archiv; Unterschriften vollständig |
-| Technisch | RBAC-Zugriffsrechte; Multi-Faktor-Authentifizierung; AES-256-Verschlüsselung at-rest/in-transit; DLP-Systeme; Endpoint-Logging; Klassifizierungsschema (öffentlich/intern/vertraulich/streng vertraulich) | Audit-Logs; Patch-Protokolle; SIEM-Exports |
-
-## Prüfschema Ansprüche bei Verletzung
-
-| Schritt | Prüfpunkt | Norm | Rechtsfolge |
-|---------|-----------|------|-------------|
-| 1 | Geschäftsgeheimnis-Status positiv (§ 2 Nr. 1)? | § 2 Nr. 1 GeschGehG | Anspruchsvoraussetzung |
-| 2 | Verbotene Handlung (Erlangung, Nutzung, Offenlegung)? | § 4 GeschGehG | Anspruchsgrundlage |
-| 3 | Rechtfertigungsgrund? | § 3, § 5 GeschGehG | Whistleblower-Privileg; Reverse Engineering; Meinungsfreiheit |
-| 4 | Unterlassung und Beseitigung | § 6 GeschGehG | Kein Verschuldenserfordernis |
-| 5 | Vernichtung / Rückruf / Herausgabe | § 7 GeschGehG | Verhältnismäßigkeit prüfen |
-| 6 | Auskunft und Rechnungslegung | § 8 GeschGehG | Vorbereitung Schadensersatz |
-| 7 | Schadensersatz: Methode wählen | § 10 GeschGehG | Konkreter Schaden / Verletzergewinn / fiktive Lizenzgebühr |
-| 8 | Strafanzeige | § 23 GeschGehG | Freiheitsstrafe bis 5 Jahre bei Wirtschaftsspionage |
-| 9 | Einstweilige Verfügung | §§ 935, 940 ZPO | Dringlichkeit binnen 1 Monat ab Kenntnis |
-
-## Kollisionsfeld: GeschGehG vs. Urheberrecht
-
-| Aspekt | GeschGehG | UrhG |
-|--------|-----------|------|
-| Schutzgegenstand | Information mit wirtschaftlichem Wert | Persönliche geistige Schöpfung |
-| Entstehung | Mit Geheimhaltungsmaßnahmen | Automatisch mit Schöpfung |
-| Dauer | Solange geheim | 70 Jahre nach Tod des Urhebers |
-| Bei Veröffentlichung | Schutzverlust GeschGehG | UrhG bleibt bestehen |
-| Software (§ 69a UrhG) | GeschGehG + UrhG parallel vor Open-Source-Release | Quellcode = Sprachwerk; Schutz ab Schöpfung |
-| Datenbankrecht | §§ 87a ff. UrhG parallel zu GeschGehG | 15 Jahre Investitionsschutz sui generis |
-
-## Kollisionsfeld: GeschGehG vs. HinSchG
-
-| Prüfschritt | Inhalt | Norm |
-|------------|--------|------|
-| 1 | Verstößt der Hinweis-Gegenstand gegen Strafrecht / OWi / EU-Recht? | § 2 HinSchG |
-| 2 | Whistleblower-Privileg greift ein | § 5 Nr. 2 GeschGehG |
-| 3 | Interne oder externe Meldestelle (gleichberechtigt) | § 7 HinSchG |
-| 4 | Öffentliche Offenlegung nur als Ultima Ratio | § 32 HinSchG |
-| 5 | Repressalienverbot; Beweislastumkehr | § 36 HinSchG |
-| 6 | Schadensersatz bei vorsätzlich falscher Meldung | § 38 HinSchG |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG pruefen | Vier-Stufen-Test und Kollisionsfelder unten |
-| Variante A — nur NDA ohne GeschGehG-Schutzmassnamen | NDA-Schutz schwaecher; GeschGehG nicht automatisch anwendbar |
-| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz pruefen |
-| Variante C — Softwarecode als Geschaeftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatz-Bausteine
-
-### Antrag auf Geheimhaltungsanordnung § 16 GeschGehG
-
-```
-An das Landgericht [Ort] – [zuständige Kammer] –
-
-In dem Verfahren [Az.] beantragen wir namens der Klägerin:
-
-1. Das Gericht ordnet gemäß § 16 GeschGehG an, dass folgende in der Klageschrift
-   und ihren Anlagen enthaltene Informationen als geheimhaltungsbedürftig einzustufen
-   sind: [Konkrete Bezeichnung der Geschäftsgeheimnisse, z. B. Kundenliste
-   Anlage K 3; Rezeptur Anlage K 5].
-
-2. Zugang zu den als geheimhaltungsbedürftig eingestuften Informationen ist auf
-   folgenden Personenkreis zu beschränken:
-   a) die Prozessbevollmächtigten der Parteien,
-   b) je eine benannte Parteivertretung,
-   c) bestellte Sachverständige mit schriftlicher Vertraulichkeitspflicht.
-
-Begründung:
-Die bezeichneten Informationen erfüllen die Voraussetzungen des § 2 Nr. 1 GeschGehG
-[Ausführung der vier Stufen]. Eine Offenlegung gegenüber der Öffentlichkeit oder
-einem unbeschränkten Personenkreis würde den wirtschaftlichen Wert der Informationen
-unwiederbringlich vernichten.
-
-[Ort, Datum]
-Rechtsanwalt/Rechtsanwältin [Name]
-```
-
-### Einstweilige Verfügung wegen Geheimnisverrat
-
-```
-An das Landgericht [Ort]
-
-ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFÜGUNG
-gemäß §§ 935, 940 ZPO iVm § 6 GeschGehG
-
-Verfügungsklägerin: [Unternehmensname]
-Verfügungsbeklagter: [Ehemaliger Mitarbeiter / Wettbewerber]
-
-Es wird beantragt:
-
-1. Der Verfügungsbeklagten wird es bei Meidung eines Ordnungsgeldes bis zu
-   EUR 250.000, ersatzweise Ordnungshaft, untersagt, die in Anlage AS 1
-   bezeichneten Informationen zu nutzen oder offenzulegen.
-
-2. Der Verfügungsbeklagten wird aufgegeben, alle Kopien und Vervielfältigungen
-   der Informationen gemäß Anlage AS 1 unverzüglich herauszugeben.
-
-Dringlichkeit:
-Die Verfügungsklägerin erlangte am [Datum] durch [Umstand] Kenntnis vom
-Informationsabfluss. Der Antrag wird binnen [Tage] gestellt; eine
-Selbstwiderlegung liegt nicht vor.
-
-Glaubhaftmachung:
-Eidesstattliche Versicherung [Name] (Anlage EV 1); Endpoint-Log-Auszug
-(Anlage EV 2); E-Mail-Verkehr (Anlage EV 3).
-
-[Ort, Datum]
-Rechtsanwalt/Rechtsanwältin [Name]
-```
-
-### NDA-Klausel (HinSchG-Vorbehalt und Reverse-Engineering-Freigabe)
-
-```
-§ [X] Vertraulichkeit
-
-(1) Die Parteien verpflichten sich, Vertrauliche Informationen gemäß § 2 Nr. 1
-GeschGehG streng vertraulich zu behandeln und Dritten nicht ohne vorherige
-schriftliche Zustimmung der offenbarenden Partei zugänglich zu machen.
-
-(2) Diese Vereinbarung berührt nicht die Rechte nach dem Hinweisgeberschutzgesetz
-(HinSchG). Meldungen über Rechtsverstöße an interne, externe oder — in den
-Grenzen des § 32 HinSchG — öffentliche Meldestellen stellen keine Verletzung
-dieser Vereinbarung dar.
-
-(3) Erlaubt bleiben die in § 3 GeschGehG bezeichneten Handlungen, insbesondere
-die eigenständige Entwicklung und das Reverse Engineering nach § 3 Abs. 1 Nr. 2
-GeschGehG, soweit gesetzlich zulässig.
-
-(4) Bei Verletzung dieser Vereinbarung ist eine Vertragsstrafe von EUR [Betrag]
-je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-
-## Beweislast
-
-| Beweisthema | Beweislast | Beweismittel |
-|------------|-----------|--------------|
-| Geheimnischarakter (§ 2 Nr. 1 GeschGehG) | Kläger | GHS-Policy, Klassifizierungsregister, Schulungsnachweise |
-| Angemessene Geheimhaltungsmaßnahmen | Kläger | RBAC-Protokolle, NDA-Archiv, IT-Audit-Berichte |
-| Verbotene Handlung (§ 4 GeschGehG) | Kläger | Endpoint-Logs, E-Mail-Metadaten, Zeugen, forensische Auswertung |
-| Rechtfertigungsgrund (§ 3, § 5 GeschGehG) | Beklagter | Nachweis Reverse Engineering, Whistleblowing-Meldung, Meinungsfreiheit |
-| Schaden / Verletzergewinn | Kläger (nach Auskunft) | Buchhaltungsunterlagen Beklagter, Sachverständigengutachten |
-| Repressalie gegen Hinweisgeber | Arbeitgeber bei Klage nach § 36 HinSchG | Beweislastumkehr: Arbeitgeber muss rechtmäßige Kündigung belegen |
-
-## Fristen
-
-| Frist | Inhalt | Norm |
-|-------|--------|------|
-| 1 Monat (ca.) | Dringlichkeit bei einstweiliger Verfügung; Selbstwiderlegungsrisiko | §§ 935, 940 ZPO |
-| 3 Jahre | Regelverjährung Schadensersatzanspruch ab Kenntnis | §§ 195, 199 BGB |
-| 1 Woche | Interne Meldestelle muss Eingang bestätigen | § 17 HinSchG |
-| 3 Monate | Rückmeldung interne Meldestelle über ergriffene Maßnahmen | § 17 Abs. 2 HinSchG |
-| 5 Jahre | Aufbewahrungsfrist für Meldungen und Dokumentation durch Meldestelle | § 11 HinSchG |
-| Laufend | Jahresprotokoll Geheimhaltungsmaßnahmen empfohlen | § 2 Nr. 1 lit. c GeschGehG |
-
-## Gegenargumente und Reaktion
-
-| Gegenargument | Herkunft | Reaktion |
-|--------------|---------|----------|
-| "Die Information ist allgemein bekannt / im Internet abrufbar" | Beklagter | Konkrete Quellenrecherche; Unterschied zwischen teilweise bekannter Struktur und spezifischer Detailkombination |
-| "Keine angemessenen Geheimhaltungsmaßnahmen — Klage scheitert" | Beklagter | Drei-Ebenen-Nachweis (org/vertragl/techn); ex-post-Dokumentation schadet nicht, wenn Maßnahmen tatsächlich bestanden |
-| "Ich bin Hinweisgeber — § 5 Nr. 2 GeschGehG / HinSchG schützt mich" | Beklagter | Prüfen: Deckt HinSchG § 2 den Sachverhalt ab? War Meldung nur zu eigenem Vorteil oder tatsächlich öffentliches Interesse? |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Reverse Engineering nach § 3 GeschGehG erlaubt" | Beklagter | Prüfen: Produkt rechtmäßig erlangt? Keine AGB-Beschränkung (§ 307 BGB)? Keine Urheberrechtsverletzung (§ 69e UrhG)? |
-| "NDA-Klausel ist nach § 307 BGB unwirksam" | Beklagter | Individualvertrag vs. AGB unterscheiden; bei Kaufmann § 310 BGB; Inhaltskontrolle trotzdem durchführen |
-
-## Streitwert und Kosten
-
-**Streitwert Unterlassung:** Orientierung am wirtschaftlichen Interesse der Klägerin; bei Kundenlisten EUR 50.000–500.000 je nach Umsatzrelevanz; bei technischen Verfahren bis in den Millionenbereich.
-
-**Einstweilige Verfügung:** Streitwert i. d. R. 1/3 bis 1/2 des Hauptsachestreitwerts.
-
-**Sachliche Zuständigkeit:** Landgericht ohne Streitwertgrenze (§ 15 GeschGehG); ggf. Konzentrationsgericht nach Landesrecht.
-
-**Schadensberechnung (§ 10 GeschGehG, drei Methoden):**
-1. Konkreter Schaden: entgangener Gewinn + Rechtsverteidigungskosten.
-2. Verletzergewinn: vollständiger Abschöpfung des Gewinns des Verletzers.
-3. Fiktive Lizenzgebühr: branchenübliche Lizenzrate auf den relevanten Umsatz (typisch 3–10 %).
-
-**Strafbarkeit § 23 GeschGehG:**
-- Abs. 1 (Erlangung): Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
-- Abs. 4 (Wirtschaftsspionage / Auslandsbezug): Freiheitsstrafe bis 5 Jahre.
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung | Begründung |
-|-----------|------------|-----------|
-| Mitarbeiterabwanderung mit Datenmitnahme | Sofortiger eV-Antrag auf Unterlassung + Herausgabe; Strafanzeige § 23 GeschGehG parallel | Beweissicherung vor Datenlöschung; Abschreckungswirkung |
-| Unternehmen will Schutz aufbauen | Drei-Ebenen-Maßnahmenkatalog; GHS-Policy; NDA-Update mit HinSchG-Vorbehalt | OLG Köln: fehlende IT-Kontrollen vernichten Schutz |
-| Whistleblower verteidigen | § 5 Nr. 2 GeschGehG + § 36 HinSchG kombinieren; Beweislastumkehr nutzen | Arbeitgeber muss rechtmäßige Kündigung beweisen |
-| M&A-NDA-Verhandlung | Pflichtklauseln: HinSchG-Vorbehalt, Reverse-Engineering-Freigabe, beidseitige Vertragsstrafe, Schiedsklausel DIS/ICC | Einseitige AG-NDA enthält regelmäßig HinSchG-Aushebelungen |
-| Geheimnisklage LG | Sofort Geheimhaltungsanordnung § 16 GeschGehG beantragen; Personenkreis präzise benennen | Schutz vor weiterer Offenbarung im laufenden Verfahren |
-
-## Anschluss-Skills
-
-- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` — HinSchG-Verteidigung im Arbeitsverhältnis
-- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-Abmahnung bei unlauterem Geheimnisverrat
-- `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` — Ergänzender Markenschutz für Produktnamen
-- `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` — Grenzüberschreitende NDA-Fragen
-
-## Quellen
-
-- GeschGehG: https://www.gesetze-im-internet.de/geschgehg/
-- HinSchG: https://www.gesetze-im-internet.de/hinschg/
-- BGH I ZR 136/17: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%20136/17
-- BAG 2 AZR 547/05: https://juris.bundesarbeitsgericht.de/cgi-bin/rechtsprechung/document.py?Gericht=bag&Art=en&az=2%20AZR%20547/05
-- Know-how-RL (EU) 2016/943: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0943
-
-## Triage-Fragen bei Geschäftsgeheimnis-Mandat
-
-Bevor die Schutzstrategie entwickelt wird, klaere:
-1. Liegen "angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
-2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
-3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
-4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel`
-
-_Wenn es um Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt Gewerblicher Rechtsschutz: EV-Vollziehungscheck Dringlichkeit Titel Zustellung
-
-## Aufgabe
-
-Dieser Skill bearbeitet **EV-Vollziehungscheck Dringlichkeit Titel Zustellung** im Bereich **Fachanwalt Gewerblicher Rechtsschutz**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- Normtext und aktuelle Rechtsprechung live prüfen
-- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
-- Keine BeckRS- oder Literatur-Blindzitate
-- Ergebnis immer in Handlungsschritt übersetzen
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team
-
----
-
-## Skill: `abmahnung-vergleich-wipo`
-
-_Wenn es um Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten in Fachanwalt Gewerblicher Rechtsschutz geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht für Markenrecht vor EUIPO oder DPMA.
-
-### Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz
-
-## Triage zu Beginn — klaere vor Bearbeitung
-
-1. Mandantenrolle: **Abmahner** (aktiv, Anspruch durchsetzen) oder **Abgemahnter** (reaktiv, Unterlassungserklaerungs-Wirkung begrenzen)?
-2. Verletzungs-Art: Marke (§ 14 MarkenG), Design (§ 38 DesignG), UWG (§§ 3 ff. UWG), UrhG (§§ 97 ff. UrhG), Patent (§§ 139 ff. PatG)?
-3. Ist die Abmahnung **formal wirksam**? Fehlen: Abmahner-Legitimation, Verletztendarlegung, Bezifferung Streitwert, Fristen-Setzen → ggf. Zurueckweisung ohne Unterlassungserklaerung.
-4. Liegt Verdacht auf **Missbrauch** vor (§ 8c UWG)? Serienabmahner, auffaellige Streitwerthoehe, kostentreibende Vertragsstrafe ohne Interesse?
-5. Besteht **Internationaler Bezug** → WIPO Mediation erwaegen?
-6. Was ist die **BATNA** beider Seiten? Prozesskosten, Erfolgswahrscheinlichkeit, Zeitrahmen?
-
-## Rechtlicher Rahmen
-
-- **§ 8 UWG** — Unterlassungsanspruch
-- **§ 8c UWG** — Rechtsmissbrauch bei Abmahnung
-- **§ 13 Abs. 3 UWG** — Aufwendungsersatz Abmahnkostenersatz
-- **§ 12 Abs. 1 UWG** — Dringlichkeits-Selbstwiderlegung bei einstweiliger Verfuegung
-- **§ 14 MarkenG** — Markenverletzung
-- **§ 97a UrhG** — Abmahnung im Urheberrecht
-- **§§ 339-345 BGB** — Vertragsstrafe
-- **WIPO Mediation Rules** / **WIPO Arbitration Rules** (2021)
-- **§ 1066 ZPO** — Vollstreckbarkeit Schiedsspruch
-
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette bei Reaktion auf Abmahnung
-
-§ 14 MarkenG / § 3 UWG → § 8 UWG (Unterlassungsanspruch) → § 13 Abs. 3 UWG (Kostenerstattung) → §§ 339-345 BGB (Vertragsstrafe) → § 8c UWG (Missbrauch prüfen) → ggf. § 12 UWG (einstweilige Verfuegung bei Scheitern)
-
-## ADR-Pfade
-
-### Pfad 1 — Modifizierte Unterlassungserklaerung
-
-- Statt der vom Abmahner vorgelegten UE eine eigene entwerfen
-- Anti-Hammer-Klausel: "nur bei rechtskraeftiger Feststellung der Pflichtverletzung faellt Vertragsstrafe an"
-- Reduzierte Vertragsstrafe (typisch 1.000-5.000 EUR statt Hamburger Brauch)
-- Schreibvorlage: s. Output-Template unten
-
-### Pfad 2 — Vergleichs-Verhandlung mit Vertragsstrafe-Vereinbarung
-
-- Gegenseitige Konzession
-- Lizenzanaloger Schadensersatz (5-15 % auf Umsatz je nach Branche)
-- Inverkehrbringen-Rueckkauf, Vernichtungs-Klausel
-- Gegenseitige Erledigung gegen Zahlung einer Vergleichssumme
-
-### Pfad 3 — WIPO Mediation (international)
-
-- Bei Marken-/Patentstreit mit Auslandsbezug
-- Neutrale Mediatoren WIPO Geneva
-- Kostenguenstiger als Klage in mehreren Ländern
-- 60-90 Tage Verfahren, vertraulich
-
-### Pfad 4 — WIPO Arbitration
-
-- Endgueltige Entscheidung
-- Vollstreckbar nach New Yorker Uebereinkommen
-- Bei Lizenz-Streit, Technologie-Transfer
-
-### Pfad 5 — Klage / einstweilige Verfuegung
-
-- Bei haerter Position oder Beweisproblemen
-- § 12 UWG einstweilige Verfuegung — Selbstwiderlegungsfrist beachten (max. 4 Wochen Kenntnis)
-- Erbieten Sicherheitsleistung bei Eilverfahren
-
-## Schritt-für-Schritt-Workflow
-
-```
-Schritt 1: Abmahnung formal pruefen
- → Aktivlegitimation des Abmahnenden (§ 8 Abs. 3 UWG)?
- → Verletzungshandlung konkret bezeichnet?
- → Frist gesetzt (ueblicherweise 7-14 Tage)?
- → Streitwertangabe vorhanden?
- → Wenn Formmangel: Zurueckweisung ohne UE erwaegen
-
-Schritt 2: Missbrauchspruefung § 8c UWG
- → Serienabmahner bekannt?
- → Eigeninteresse des Abmahnenden erkennbar?
- → Kosten unverhältnismässig hoch?
- → Wenn Missbrauch: Gegenabmahnung/Negativ-Feststellungsklage
-
-Schritt 3: Verletzungspruefung
- → Tatsachlich Verletzung des Schutzrechts?
- → Ja: UE erwaegen (ggf. modifiziert)
- → Nein: Zurueckweisung mit Begruendung
-
-Schritt 4: Vergleichsstrategie festlegen
- → Modifizierte UE oder volle Anerkennung?
- → Lizenzanaloger Schadensersatz verhandeln?
- → WIPO-Mediation bei internationalem Bezug?
-
-Schritt 5: Reaktion fristgerecht versenden
- → Schriftlich, per Fax oder E-Mail (Empfangsbekenntnis!)
- → Modifizierte UE mit Anti-Hammer-Klausel
-
-Schritt 6: Bei Scheitern
- → einstweilige Verfuegung nach § 12 UWG (Abmahner)
- → Negative Feststellungsklage (Abgemahnter)
-```
-
-## Output-Template Modifizierte Unterlassungserklaerung
-
-**Adressat:** Abmahnender/Gegenseite — Tonfall sachlich-juristisch
-
-```
-MODIFIZIERTE UNTERLASSUNGSERKLAERUNG
-
-[NAME MANDANT], [ADRESSE]
-— im Folgenden "Erklaerungsgebende" —
-
-an:
-[NAME ABMAHNER], [ADRESSE]
-— im Folgenden "Erklaerungsempfaengerin" —
-
-Betr.: Ihre Abmahnung vom [DATUM], Az. [AKTENZEICHEN]
-
-Die Erklaerungsgebende gibt die folgende modifizierte Unterlassungserklaerung ab:
-
-§ 1 Unterlassungsverpflichtung
-Die Erklaerungsgebende verpflichtet sich, es zu unterlassen, [VERLETZUNGSHANDLUNG
-GENAUE BESCHREIBUNG] zu begehen, sofern die vorliegend behauptete Verletzung
-rechtskraeftig festgestellt ist.
-
-§ 2 Vertragsstrafe
-Fuer jeden Fall schuldhafter Zuwiderhandlung nach rechtskraeftiger Feststellung
-der Pflichtverletzung verpflichtet sich die Erklaerungsgebende zur Zahlung einer
-Vertragsstrafe in Hoehe von [BETRAG] EUR (Anti-Hammer-Klausel: die Vertragsstrafe
-ist nur faellig, wenn die Verletzung rechtskraeftig festgestellt ist).
-
-§ 3 Kosten
-Ueber die Kostenuebernahme wird gesondert verhandelt.
-
-[ORT, DATUM]
-[UNTERSCHRIFT]
-[NAME, KANZLEI]
-```
-
-## Output-Template Vergleichsangebot
-
-**Adressat:** Abmahnender/Gegenseite — Tonfall sachlich-verhandelnd
-
-```
-VERGLEICHSANGEBOT
-
-[KANZLEI], [DATUM]
-
-Ihre Abmahnung vom [DATUM] — unser Zeichen: [AZ]
-
-Sehr geehrte Frau/Herr [NAME],
-
-ohne Praejudiz und unter dem Vorbehalt des Widerrufs unterbreiten wir folgendes
-Vergleichsangebot:
-
-1. [MANDANT] zahlt an [ABMAHNER] einen Gesamtbetrag von [BETRAG] EUR zur
- endgueltigen Erledigung aller Ansprueche aus der Verletzungshandlung
- [KURZBESCHREIBUNG].
-
-2. [MANDANT] gibt die modifizierte Unterlassungserklaerung gem. beigefuegtem
- Entwurf ab.
-
-3. Mit Zahlung und UE-Abgabe sind saemtliche wechselseitigen Ansprueche aus
- dem zugrundeliegenden Sachverhalt erledigt.
-
-Dieses Angebot gilt bis [DATUM, ueblicherweise 5 Werktage].
-
-Mit freundlichen Gruessen
-[KANZLEI / NAME]
-```
-
-## Vertiefung: Vertragsstrafe und Schadensersatz
-
-| Berechnungsmethode | Formel | Nachweis |
-|--------------------|--------|----------|
-| Lizenzanaloge | Uebliche Lizenzrate x Umsatz mit verletzenden Produkten | Preislisten, Branchenueblichkeit |
-| Verletzergewinn | Tatsaechlicher Gewinn des Verletzers | Auskunftsklage § 19 MarkenG |
-| Einmaliger Pauschbetrag | Nach Billigkeit, haeufig 5.000-50.000 EUR | Gerichtliche Schaetzung § 287 ZPO |
-| Vertragsstrafe | Vereinbarter Betrag je Verstoß | Unterlassungserklaerung |
+Erstelle eine kurze Routingkarte mit Fallkern, Hauptskill, Frist, benötigten Unterlagen, erwartetem Arbeitsprodukt und einem Satz zur Auswahlentscheidung.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

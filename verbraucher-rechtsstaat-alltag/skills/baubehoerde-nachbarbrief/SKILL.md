@@ -1,84 +1,33 @@
 ---
 name: baubehoerde-nachbarbrief
-description: "Wenn es um Baubehörde und Nachbarbrief in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt einen belastbaren Nachbarbrief an die Baubehörde: liest Baugenehmigung, Bekanntgabe, Pläne, Lageplan und Fotos zuerst, trennt bloße Rechtswidrigkeit von drittschützender Norm, prüft Akteneinsicht, Klage- und Eilrechtsschutz und liefert ein sachliches Schreiben mit konkreten Abstands-, Rücksichtnahme-, Immissions- und Verfahrensfragen."
 ---
 
 # Baubehörde und Nachbarbrief
 
-## Normenanker
+## 1. Frist und Vorhaben zuerst
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Lies Baugenehmigung oder Baustellenschild, Bekanntgabe, Lageplan, Bauzeichnungen, Bebauungsplan, Schriftverkehr und datierte Fotos. Bestimme Bundesland, Grundstücke, Vorhaben, Baufortschritt und möglichen Fristbeginn. Eine freundliche Behördenanfrage hemmt keine Klagefrist.
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 2. Drittschutz prüfen
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Betroffenes Nachbargrundstück und Eigentümer- oder Nutzungsposition belegen.
+2. Genehmigungsgegenstand und tatsächliche Bauausführung trennen.
+3. Abstandsfläche, Gebietsverträglichkeit, Rücksichtnahme, Immission und landesrechtliche Nachbarbeteiligung einzeln prüfen.
+4. Für jede Norm ausdrücklich klären, ob sie gerade den Nachbarn schützt.
+5. Akteneinsicht, Anfechtung und Eilantrag nach VwGO Paragrafen 80a und 80 Absatz 5 zeitlich koordinieren.
 
-## Arbeitsweg
+## 3. Rechtsprechungsanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- BVerwG, Beschluss vom 4. Juli 2024, 4 B 5.24: Bei der Baunachbarklage können Änderungen der Genehmigung im Prozess erheblich sein; nachträgliche Änderungen zugunsten des Bauherrn sind zu berücksichtigen, wenn sie die Nachbarrechtsverletzung ausräumen.
+- BVerwG, Urteil vom 24. April 2024, 4 C 1.23: Aus objektiver Rechtswidrigkeit folgt kein Abwehrrecht; die herangezogene Norm muss subjektive Rechte des konkreten Nachbarn oder der Nachbargemeinde vermitteln.
 
-## Fachkern: Baubehörde und Nachbarbrief
-- **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
-- **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Übertrage die Entscheidung zur Nachbargemeinde nicht ohne Weiteres auf einen privaten Grundstücksnachbarn. Maßgeblich bleiben Vorhaben, Bundesland und konkrete drittschützende Norm.
 
-## Sofortsortierung
+## 4. Briefaufbau
 
-1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
-2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
-3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
-4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
-5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
+Der Brief bezeichnet Vorhaben, Grundstücke, bekannte Genehmigung, konkrete Beeinträchtigung und gewünschte Behördenhandlung. Beantrage bei Bedarf Akteneinsicht und Übersendung der nachbarrelevanten Pläne. Formuliere Tatsachen aus eigener Wahrnehmung als solche; unterstelle keine ungenehmigte Bauausführung ohne Aktenabgleich.
 
-## Prüfprogramm
+## 5. Output
 
-- **Normen- und Quellenanker:** BauGB, Landesbauordnung, VwVfG, Nachbarschutz, Widerspruch/Eilrechtsschutz je nach Land live prüfen.
-- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
-- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
-- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
-- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
-
-## Typische Stolperstellen
-
-- Nicht jede Bauvorschrift schützt Nachbarn.
-- Frist und Kenntnis können Rechtsschutz prägen.
-- Emotionale Einwendungen durch konkrete Norm-/Abstandsfragen ersetzen.
-
-## Arbeitsprodukte
-
-Erzeuge Einwendung, Akteneinsichtsantrag, Fotoliste und Nachbarrechtsmatrix.
-
-## Prompts, die dieser Skill stellen soll
-
-- Bundesland, Vorhaben, Abstand, Fenster, Lärm, Erschließung?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 5 UWG
-- § 31 BDSG
-- Art. 15 DSGVO
-- Art. 21 DSGVO
-- Art. 22 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-634/21
-- EuGH C-565/22
-- BGH XII ZR 64/21
-- BGH XI ZR 26/20
-- EuGH C-249/21
+Liefere Fristenampel, Nachbarrechtsmatrix, Fotoliste, Akteneinsichtsantrag und ausformulierten Behördenbrief. Stoppe bei laufender Bauausführung und ungeklärter Frist nicht mit einem bloßen Informationsschreiben, sondern weise ausdrücklich auf die Eilrechtsschutzprüfung hin.

@@ -23,7 +23,8 @@ Das PKV-Krankentagegeld sichert das Einkommen bei Arbeitsunfähigkeit ab. Kläre
 - **MB/KT 2009** – Musterbedingungen Krankentagegeld
 - **§ 15 MB/KT 2009** – Ende der Leistungspflicht bei Berufsunfähigkeit
 - **§ 4 Abs. 2 MB/KT** – Beginn der Leistung (Wartezeit)
-- BGH IV ZR 305/14 (Krankentagegeld und Berufsunfähigkeit), BGH IV ZR 52/17
+- BGH, Urteil vom 30.06.2010 - IV ZR 163/09: Der Versicherungsnehmer beweist Eintritt und Fortdauer bedingungsgemäßer Arbeitsunfähigkeit; der Versicherer beweist das Ende seiner Leistungspflicht wegen Berufsunfähigkeit. Arbeitsunfähigkeit und Berufsunfähigkeit sind nicht deckungsgleich.
+- BGH, Urteil vom 20.06.2012 - IV ZR 141/11: Der Versicherer darf für die rückschauende Beurteilung des Eintritts von Berufsunfähigkeit alle Untersuchungsergebnisse heranziehen, die aus damaliger Sicht eine entsprechende Prognose tragen.
 - BSG-Grundsätze zur Arbeitsunfähigkeit (teilweise analog anwendbar)
 
 ## Wichtige Begriffe
@@ -82,7 +83,7 @@ Das PKV-Krankentagegeld sichert das Einkommen bei Arbeitsunfähigkeit ab. Kläre
 
 - [§ 192 VVG – Krankentagegeld](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [MB/KT 2009 – Musterbedingungen](https://www.pkv.de/service/broschueren/)
-- [BGH IV ZR 305/14](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
+- [Entscheidungsdatenbank des Bundesgerichtshofs](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
 - [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
 - [BDA Berufsunfähigkeit](https://www.bda.de)

@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Influencer-Recht: Agenturvertrag – Exklusivität, Provision und Kündigung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Influencer-Recht: Foto-Shooting Vertrag Model Release Location | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Influencer-Recht: Foto-Shooting – Vertrag, Model Release und Location | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Influencer-Recht: Foto-Shooting Vertrag Model Release Location | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Influencer-Recht: Produkthaftung Empfehlung und Haftungsrisiko | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Paragrafen 611, 631 BGB: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 84 HGB (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 138 BGB: Sittenwidrigkeit bei übermäßig langen Exklusivitätsklauseln oder unangemessener Knebelung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305 ff. BGB (AGB-Recht): Agenturverträge als AGB – überraschende Klauseln (Paragraf 305c), unangemessene Benachteiligung (Paragraf 307): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 611, 631 BGB: Agenturvertrag kann als Dienst- oder Werkvertrag ausgestaltet sein; Qualifikation bestimmt Gewährleistung und Kündigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 84 HGB (analog): Handelsvertreter-Grundsätze anwendbar, wenn Agentur dauerhaft Geschäfte vermittelt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 BGB: Sittenwidrigkeit bei übermäßig langen Exklusivitätsklauseln oder unangemessener Knebelung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 305 ff. BGB (AGB-Recht): Agenturverträge als AGB – überraschende Klauseln (Paragraf 305c), unangemessene Benachteiligung (Paragraf 307); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
 

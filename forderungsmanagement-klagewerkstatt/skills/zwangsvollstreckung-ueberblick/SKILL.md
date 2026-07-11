@@ -59,7 +59,7 @@ Zustellung an Bank (Drittschuldner) ->
 Zustellung an Schuldner -> Wirksamkeit
 ```
 
-P-Konto-Schutz Paragraf 850k ZPO: ab 2025 Grundfreibetrag ca. 1.560 EUR netto monatlich, Erhoehungen für Unterhaltspflicht.
+P-Konto-Schutz: Paragraf 850k ZPO regelt Einrichtung und Beendigung; seit 1. Juli 2026 beträgt der Grundbetrag nach Paragraf 899 Absatz 1 ZPO 1.590 Euro monatlich. Erhöhungen nach Paragraf 902 ZPO setzen den jeweiligen Tatbestand und regelmäßig einen Nachweis nach Paragraf 903 ZPO voraus.
 
 ### Lohnpfaendung
 
@@ -70,7 +70,7 @@ P-Konto-Schutz Paragraf 850k ZPO: ab 2025 Grundfreibetrag ca. 1.560 EUR netto mo
 | Pfaendungs- und Überweisungsbeschluss | analog Konto |
 | Wirkung | Arbeitgeber haftet Paragraf 829 Abs. 3 ZPO |
 
-Aktuelle Pfaendungsfreigrenze 2025: ca. 1.560 EUR netto monatlich (alle 2 Jahre angepasst, Bekanntmachung BMJ).
+Aktuelle Pfändungsfreigrenze für Arbeitseinkommen seit 1. Juli 2026: 1.587,40 Euro monatlich ohne Unterhaltspflicht; jährliche Anpassung nach Paragraf 850c Absatz 4 ZPO.
 
 ### Pfaendung von Forderungen gegen Dritte
 

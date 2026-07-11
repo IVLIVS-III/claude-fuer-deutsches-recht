@@ -20,8 +20,6 @@ description: "Wenn es um Rechtsprechung Livecheck Arbeitsrecht in Fachanwalt Arb
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Rechtsprechung Live-Check Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -99,20 +97,20 @@ Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bun
 ```
 
 ## Muster-Quellenangabe für Schriftsatz
-> „BAG, Urteil vom 01.04.2026, Az. 6 AZR 152/22, Rn. [X], abrufbar unter: [URL auf bundesarbeitsgericht.de]"
+> „[Gericht], [Entscheidungsform] vom [Datum], [Aktenzeichen], Rn. [im Volltext geprüfte Randnummer], [amtliche URL]."
 
-> „EuGH, Urteil vom 30.10.2025, Rs. C-134/24, ECLI:EU:C:2025:[XXX], abrufbar unter: [URL auf curia.europa.eu]"
+> „EuGH, Urteil vom [Datum], Rechtssache [Aktenzeichen], ECLI:[im Volltext geprüfter ECLI], Rn. [im Volltext geprüfte Randnummer], [CURIA-URL]."
 
 ## Aktuelle Leitentscheidungen (Stand Mai 2026) — Kurze Referenzliste
 
-| Entscheidung | Kernsatz | Primärquelle |
+| Entscheidung | Tragende Aussage und Grenze | Amtliche Primärquelle |
 |---|---|---|
-| BAG 6 AZR 152/22 (01.04.2026) | Massenentlassung: Anzeige vor BR-Konsultationsabschluss → Unwirksamkeit | bundesarbeitsgericht.de |
-| EuGH C-134/24 (30.10.2025) | Massenentlassungsanzeige als Wirksamkeitsvoraussetzung | curia.europa.eu |
-| BAG 5 AZR 108/25 (25.03.2026) | Pauschale Freistellungsklausel Paragraf 307 BGB unwirksam | bundesarbeitsgericht.de |
-| BAG 9 AZR 104/24 (03.06.2025) | Kein Urlaubsverzicht durch Prozessvergleich | bundesarbeitsgericht.de |
-| BAG 8 AZR 300/24 (23.10.2025) | Paarvergleich genügt für AGG-Vermutung | bundesarbeitsgericht.de |
-| BAG 7 AZR 50/24 (18.06.2025) | Paragraf 14 Abs. 2 TzBfG gilt für BR-Mitglieder | bundesarbeitsgericht.de |
+| BAG 6 AZR 152/22 (01.04.2026) | Eine erforderliche Anzeige vor Abschluss des Konsultationsverfahrens macht die daraufhin ausgesprochene Kündigung nach unionsrechtskonformer Auslegung von Paragraf 18 Abs. 1 KSchG unwirksam. | [BAG-Volltext](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-152-22/) |
+| EuGH C-134/24, Tomann (30.10.2025) | Ohne richtliniengerechte vorherige Anzeige beginnt die Sperrfrist aus Art. 4 Abs. 1 MERL nicht; die Entlassung kann nicht wirksam werden. Die konkrete Anwendung im deutschen Recht ist mit der nachfolgenden BAG-Rechtsprechung zu prüfen. | [CURIA](https://curia.europa.eu/juris/liste.jsf?num=C-134/24) |
+| BAG 5 AZR 108/25 (25.03.2026) | Die formularmäßige Vorratsklausel zur Freistellung im gekündigten Arbeitsverhältnis ist nach Paragraf 307 Abs. 1 Satz 1 BGB unwirksam. Eine anlassbezogene Freistellung nach konkreter Interessenabwägung bleibt möglich. | [BAG-Pressemitteilung](https://www.bundesarbeitsgericht.de/presse/wirksamkeit-einer-freistellungsklausel-widerruf-der-dienstwagennutzung/) |
+| BAG 9 AZR 104/24 (03.06.2025) | Im bestehenden Arbeitsverhältnis kann auf den gesetzlichen Mindesturlaub nicht wirksam durch Prozessvergleich verzichtet werden. Vertraglicher Mehrurlaub und bereits entstandene Abgeltung sind gesondert zu prüfen. | [BAG-Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-104-24/) |
+| BAG 8 AZR 300/24 (23.10.2025) | Für die Entgeltgleichheitsklage kann eine einzelne Vergleichsperson genügen; die Vermutung nach Paragraf 22 AGG verlangt keine überwiegende Wahrscheinlichkeit. | [BAG-Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-300-24/) |
+| BAG 7 AZR 50/24 (18.06.2025) | Paragraf 14 Abs. 2 TzBfG gilt auch für Betriebsratsmitglieder. Ein Anspruch auf einen Folgevertrag setzt voraus, dass dieser gerade wegen der Betriebsratstätigkeit verweigert wurde. | [BAG-Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-50-24/) |
 
 **Wichtig:** Alle Aktenzeichen in dieser Liste müssen vor Verwendung in Schriftsätzen live auf bundesarbeitsgericht.de verifiziert werden. Die obige Liste dient als Orientierung, nicht als zitierfähige Quelle.
 

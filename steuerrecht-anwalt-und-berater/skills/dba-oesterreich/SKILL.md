@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-Oesterreich in Steuerrecht – Steuerbe
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Oesterreich` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -174,5 +172,3 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Oesterreich vom 24.08.2000 (BGBl. 2002 II S. 734), Änderungsprotokoll 29.12.2010 (BGBl. 2011 II S. 1209, in Kraft 01.03.2012), Zweites Protokoll 21.08.2023 (BGBl. 2023 II S. 335, anwendbar ab 01.01.2024). MLI wirksam ab 01.01.2022. Quellensteuer: Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Grenzgaenger-Grenzzone: 30 km Luftlinie; schaedliche Tage ausserhalb Grenzzone max. 45 Arbeitstage. Aktuelle Konsultationsvereinbarungen und DBA-Text im konsolidierten BMF-DBA-Verzeichnis abrufen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 12 Marker aufgeloest: 8 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 87b: Entnahme und Wiederverwendung wesentlicher Teile.
 - UrhG Paragraf 87c: Schranken des Datenbankherstellerrechts.
 - UrhG Paragraf 44b: Text- und Data-Mining als Schranke mit Nutzungsvorbehalt.
-- Paragraf 280 Abs. 1 BGB: Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 1 BGB: Schadensersatz bei Pflichtverletzung aus dem Schuldverhältnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 09.11.2004 - C-203/02: British Horseracing Board grenzt Erzeugen von Daten von Investition in Beschaffung, Überprüfung und Darstellung ab.
 - EuGH, Urteil vom 09.10.2008 - C-304/07: Directmedia präzisiert Entnahme bei Übernahme von Datenbankinhalten.
 

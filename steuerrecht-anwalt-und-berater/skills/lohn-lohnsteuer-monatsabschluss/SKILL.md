@@ -128,5 +128,3 @@ Stand: 05/2026.
 - LStDV.
 - BBG 2025: RV 96.600 EUR, KV/PV 66.150 EUR; Beitragssaetze 2025: RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos 0,6% (Sozialversicherungs-Rechengroessenverordnung 2026 prüfen).
 - SvEV-Sachbezugswerte 2025: Verpflegung 313 EUR/Monat, Unterkunft 278 EUR/Monat (jaehrlich durch BMAS angepasst).
-
-<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Prüfhinweise ohne Marker) -->

@@ -147,9 +147,3 @@ Jede Aussage zur Haftungsquote, 130%-Grenze, Nutzungsausfall und Schmerzensgeldb
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 Beck'sche Tabelle) als eigenständige Quellen mit Auflage und Jahr zitieren.
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 184/10 (NJW 2011, 3237) – WRONG_TOPIC; tatsächlich: Schadensersatz Gemeinde aus Gefährdungshaftung für Ölspurbeseitigung (StVG), nicht Direktanspruch Paragraf 115 VVG. Fundstelle: NVwZ-RR 2011, 925 (nicht NJW 2011, 3237).
-Maßnahme: Ersetzt durch BGH VI ZR 226/16, 14.03.2017, NJW 2017, 2271 (Paragraf 115 Abs. 2 S. 3 VVG, Direktanspruch, verifiziert auf dejure.org).
-Quelle: https://dejure.org/2011,636
--->

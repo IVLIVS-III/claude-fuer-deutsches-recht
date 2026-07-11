@@ -35,9 +35,9 @@ Dieser Skill formt den hinreichenden Tatverdacht in eine Anklageschrift. Er tren
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Tragfähige Beweiswürdigung verlangt vollständige und widerspruchsfreie Tatsachengrundlage.
-- BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Fälle brauchen sorgfältige Darstellung von Konstanz, Entstehung und Belastungsmotiv.
-- BGH, Beschluss vom 10.01.2017, 4 StR 247/16: Beweiswürdigung darf keine wesentlichen Umstände ausblenden.
+- BGH, Urteil vom 11.03.2020 - 2 StR 478/19: Die Umgrenzungsfunktion verlangt Angaben, die jede Tat als geschichtlichen Vorgang unverwechselbar kennzeichnen; nur ein Mangel dieser Funktion kann die Anklage unwirksam machen.
+- BGH, Urteil vom 29.07.1998 - 1 StR 94/98, BGHSt 44, 153: Mängel der Informationsfunktion machen die Anklage grundsätzlich nicht unwirksam, können aber einen Hinweis nach Paragraf 265 StPO erfordern. Umgrenzung und Information deshalb getrennt prüfen.
+- BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Bei einer sogenannten legendierten Kontrolle besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1. Diesen Anker nur verwenden, wenn die Anklage auf einer solchen Kontrolle beruht.
 
 ## Arbeitsprodukt
 

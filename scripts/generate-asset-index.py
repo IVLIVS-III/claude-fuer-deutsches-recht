@@ -38,6 +38,8 @@ def main() -> int:
         "",
         f"Stand: {version}, automatisch aktualisierte Asset-Übersicht",
         "",
+        "[Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)",
+        "",
         "## Sammel-Assets",
         "| Asset | Verwendung |",
         "| --- | --- |",
@@ -49,11 +51,11 @@ def main() -> int:
         f"| [`alles-komplettpaket.zip`]({RELEASE}/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien in den Plugin-Ordnern enthalten. |",
         f"| [`checksums-sha256.txt`]({RELEASE}/checksums-sha256.txt) | SHA-256-Prüfsummen für Release-Assets. |",
         "",
-        f"## Plugin-Assets ({len(plugins)} Stueck)",
+        f"## Plugin-Assets ({len(plugins)} Stück)",
         "",
         "Werkstatt- und Schnellstart-Prompts sind Markdown-Direkt-Downloads über `raw.githubusercontent.com`. Es gibt dafür keine eigenen ZIP-Assets im Release.",
         "",
-        "| Plugin | Beschreibung | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP | Browser-Dateien |",
+        "| Plugin | Beschreibung | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP | Navigation |",
         "| --- | --- | --- | --- | --- | --- |",
     ]
 
@@ -66,15 +68,15 @@ def main() -> int:
         werkstatt_url = f"{RAW}/{rel}/{werkstatt_file}"
         schnellstart_url = f"{RAW}/{rel}/{schnellstart_file}"
         zip_url = f"{RELEASE}/{name}.zip"
-        browser = f"[Werkstatt]({rel}/{werkstatt_file}), [Schnellstart]({rel}/{schnellstart_file})"
+        navigation = f"[README]({rel}/README.md) · [Skills](skills-index/{name}.md)"
         lines.append(
             "| "
-            f"`{name}` | "
+            f"[`{name}`]({rel}/README.md) | "
             f"{description} | "
             f"{markdown_download(werkstatt_url, werkstatt_file)} | "
             f"{markdown_download(schnellstart_url, schnellstart_file)} | "
             f"[`{name}.zip`]({zip_url}) | "
-            f"{browser} |"
+            f"{navigation} |"
         )
 
     lines.append("")

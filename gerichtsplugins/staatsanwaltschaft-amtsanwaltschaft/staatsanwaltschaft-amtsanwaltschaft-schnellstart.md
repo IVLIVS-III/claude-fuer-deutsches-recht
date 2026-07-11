@@ -54,7 +54,7 @@ Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserheblich
 - StPO Paragraf 200: Anklageschrift mit Umgrenzungs- und Informationsfunktion.
 - StPO Paragrafen 407 bis 408a: Strafbefehl.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage braucht Gesamtwürdigung.
-- BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken lassen.
+- BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Bei einer legendierten Kontrolle besteht kein allgemeiner Vorrang der Strafprozessordnung vor dem Gefahrenabwehrrecht; die Verwertung präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11: Verständigung braucht Transparenz.
 
 ## 9. Antwortform

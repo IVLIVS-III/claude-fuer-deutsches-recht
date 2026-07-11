@@ -52,15 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GWB Paragraf 18 bis Paragraf 20: Marktbeherrschung, relative Marktmacht und Missbrauch.
 - GWB Paragraf 33a: Schadensersatz wegen Kartellrechtsverstoßes.
 - GWB Paragraf 81: Bußgeldvorschriften.
-- Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen:: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB Paragrafen 1: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 101 AEUV (Kartellverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 102 AEUV (Marktbeherrschung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 18 GWB (in der Fassung der GWB-Novelle 2021) enthält folgende Prüfungsebenen:; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 GWB Kartellverbot nationale Prüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 04.06.2009 - C-8/08: T-Mobile Netherlands behandelt den Wettbewerbszweck abgestimmter Verhaltensweisen.
 - EuGH, Urteil vom 30.01.2020 - C-307/18: Generics grenzt potenziellen Wettbewerb und bezweckte Wettbewerbsbeschränkung bei Vergleichsvereinbarungen ab.
-- EuGH, Urt. v. 21.02.1973 — Rs. 6/72 (Continental Can / Kommission): Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Art. 102 AEUV-Anwendung. Drei getrennte Märkte für Fleischkonserven
-- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands / Kommission): Bananen als eigener sachlicher Markt, da spezifische Eigenschaften für bestimmte Verbrauchergruppen (Kleinkinder, Kranke, ältere
-- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche / Kommission): Separate Märkte für einzelne Vitamingruppen (A, B1, B2, B6, C usw.), da Kreuzpreiselastizitäten zwischen Gruppen niedrig
+- EuGH, Urt. v. 21.02.1973 — Rs. 6/72 (Continental Can / Kommission): Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Art. 102 AEUV-Anwendung.
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands / Kommission): Bananen als eigener sachlicher Markt, da spezifische Eigenschaften für bestimmte Verbrauchergruppen (Kleinkinder, Kranke, ältere.
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche / Kommission): Separate Märkte für einzelne Vitamingruppen (A, B1, B2, B6, C usw.), da Kreuzpreiselastizitäten zwischen Gruppen niedrig.
 
 ## 7. Antwortform
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+Wenn du das hier öffnest, willst du Produktsicherheit, Haftung, Warnung, Rückruf oder Launch-Freigabe schnell nach Risiko und Nachweis entscheiden.
 
 # Robotik Recht — Schnellstart
 
@@ -17,47 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
-2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
-3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
-5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. Beweislast und Offenlegung in der Robotik-Produkthaftung: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Produkt und Rolle: Hersteller, Importeur, Händler, Fulfilment, Plattform, Betreiber oder Geschädigter bestimmen.
+2. Fehler und Risiko: Konstruktion, Fabrikation, Instruktion, Software, Update, Cyberrisiko und vorhersehbare Verwendung trennen.
+3. Pflichten und Belege: technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen.
+4. Reaktion: Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen.
+5. Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
+6. Beweislast und Offenlegung in der Robotik-Produkthaftung: Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
-| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
-| Tatbestand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen |
-| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
-| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Normenanker | ProdHaftG Paragraf 1; ProdHaftG Paragraf 3; ProdHaftG Paragraf 4 |
+| Rechtsprechung | BGH, Urteil vom 16.06.2009 - VI ZR 107/08; BGH, Urteil vom 05.02.2013 - VI ZR 1/12 |
+| Tatbestand | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen |
+| Beweislast | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung |
+| Rechtsfolge | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Beweislast und Offenlegung in der Robotik-Produkthaftung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweismatrix und Logauswertung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenverlust und digitaler Schaden | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Deliktische Haftung Paragraf 823 BGB | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung Arzt Klinik Hersteller | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 6 Hochrisiko Robotik | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweislast und Offenlegung in der Robotik-Produkthaftung | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweismatrix und Logauswertung | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenverlust und digitaler Schaden | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Deliktische Haftung Paragraf 823 BGB | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftung Arzt Klinik Hersteller | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Art. 6 Hochrisiko Robotik | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
-- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
-- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs. 2: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB Auskunft als Nebenpflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
-- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+- ProdHaftG Paragraf 1: verschuldensunabhängige Haftung des Herstellers.
+- ProdHaftG Paragraf 3: Fehlerbegriff und berechtigte Sicherheitserwartung.
+- ProdHaftG Paragraf 4: Herstellerbegriff.
+- GPSR Artikel 5: allgemeine Sicherheitsanforderung.
+- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB Auskunft als Nebenpflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Ein Konstruktionsfehler liegt vor, wenn das Produkt unter dem bei Inverkehrbringen nach Wissenschaft und Technik objektiv möglichen und zumutbaren Sicherheitsstandard bleibt; eine überlegene Alternative muss praktisch serienreif sein.
+- BGH, Urteil vom 05.02.2013 - VI ZR 1/12: Die berechtigte Sicherheitserwartung schützt grundsätzlich bei vorhersehbarer üblicher Verwendung unter Beachtung der Gebrauchs- und Installationsanleitung.
 
 ## 7. Antwortform
 

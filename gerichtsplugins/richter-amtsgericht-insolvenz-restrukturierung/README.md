@@ -7,6 +7,8 @@ Insolvenz- und Restrukturierungsgericht: Eröffnungsverfahren Sicherungsmaßnahm
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+Direktnavigation: [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-amtsgericht-insolvenz-restrukturierung.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
+
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
 ## Downloads
@@ -16,9 +18,19 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-amtsgericht-insolvenz-restrukturierung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md" download><code>richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md" download><code>richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`richter-amtsgericht-insolvenz-restrukturierung-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-testakte.zip), [`richter-amtsgericht-insolvenz-restrukturierung-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-testakte-einzelpdfs.zip) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-amtsgericht-insolvenz-restrukturierung-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-testakte.zip) | [`richter-amtsgericht-insolvenz-restrukturierung-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-testakte-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
@@ -107,10 +119,10 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 3. Prüfung, Anspruch und Subsumtion | `04-glaeubigerversammlung-und-pruefungstermin` |
-| 4. Gestaltung, Strategie und Verhandlung | `07-insolvenzplan-bestaetigen`, `08-starug-restrukturierungssache-anzeigen`, `10-starug-planbestaetigung-und-folgen` |
-| 5. Verfahren, Behörde und Gericht | `01-eroeffnungsantrag-pruefen-insolvenz`, `03-eroeffnungsbeschluss-und-verwalterbestellung` |
-| 8. Spezialmodule und Schnittstellen | `02-sicherungsmassnahmen-vor-eroeffnung`, `05-restschuldbefreiung-und-schlusstermin`, `06-eigenverwaltung-und-schutzschirm`, `09-starug-stabilisierungsanordnung`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+| 3. Prüfung, Anspruch und Subsumtion | [`04-glaeubigerversammlung-und-pruefungstermin`](skills/04-glaeubigerversammlung-und-pruefungstermin/SKILL.md) |
+| 4. Gestaltung, Strategie und Verhandlung | [`07-insolvenzplan-bestaetigen`](skills/07-insolvenzplan-bestaetigen/SKILL.md), [`08-starug-restrukturierungssache-anzeigen`](skills/08-starug-restrukturierungssache-anzeigen/SKILL.md), [`10-starug-planbestaetigung-und-folgen`](skills/10-starug-planbestaetigung-und-folgen/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`01-eroeffnungsantrag-pruefen-insolvenz`](skills/01-eroeffnungsantrag-pruefen-insolvenz/SKILL.md), [`03-eroeffnungsbeschluss-und-verwalterbestellung`](skills/03-eroeffnungsbeschluss-und-verwalterbestellung/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`02-sicherungsmassnahmen-vor-eroeffnung`](skills/02-sicherungsmassnahmen-vor-eroeffnung/SKILL.md), [`05-restschuldbefreiung-und-schlusstermin`](skills/05-restschuldbefreiung-und-schlusstermin/SKILL.md), [`06-eigenverwaltung-und-schutzschirm`](skills/06-eigenverwaltung-und-schutzschirm/SKILL.md), [`09-starug-stabilisierungsanordnung`](skills/09-starug-stabilisierungsanordnung/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
@@ -118,21 +130,21 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-eroeffnungsantrag-pruefen-insolvenz` | Wenn es um 01 Eröffnungsantrag Prüfen Insolvenz in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Beg... |
-| `02-sicherungsmassnahmen-vor-eroeffnung` | Wenn es um 02 Sicherungsmaßnahmen Vor Eröffnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
-| `03-eroeffnungsbeschluss-und-verwalterbestellung` | Wenn es um 03 Eröffnungsbeschluss und Verwalterbestellung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-... |
-| `04-glaeubigerversammlung-und-pruefungstermin` | Wenn es um 04 Gläubigerversammlung und Prüfungstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
-| `05-restschuldbefreiung-und-schlusstermin` | Wenn es um 05 Restschuldbefreiung und Schlusstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `06-eigenverwaltung-und-schutzschirm` | Wenn es um 06 Eigenverwaltung und Schutzschirm in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `07-insolvenzplan-bestaetigen` | Wenn es um 07 Insolvenzplan Bestaetigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `08-starug-restrukturierungssache-anzeigen` | Wenn es um 08 StaRUG Restrukturierungssache Anzeigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `09-starug-stabilisierungsanordnung` | Wenn es um 09 StaRUG Stabilisierungsanordnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `10-starug-planbestaetigung-und-folgen` | Wenn es um 10 StaRUG Planbestätigung und Folgen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung) in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ei... |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt... |
+| [`01-eroeffnungsantrag-pruefen-insolvenz`](skills/01-eroeffnungsantrag-pruefen-insolvenz/SKILL.md) | Wenn es um 01 Eröffnungsantrag Prüfen Insolvenz in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Beg... |
+| [`02-sicherungsmassnahmen-vor-eroeffnung`](skills/02-sicherungsmassnahmen-vor-eroeffnung/SKILL.md) | Wenn es um 02 Sicherungsmaßnahmen Vor Eröffnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
+| [`03-eroeffnungsbeschluss-und-verwalterbestellung`](skills/03-eroeffnungsbeschluss-und-verwalterbestellung/SKILL.md) | Wenn es um 03 Eröffnungsbeschluss und Verwalterbestellung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-... |
+| [`04-glaeubigerversammlung-und-pruefungstermin`](skills/04-glaeubigerversammlung-und-pruefungstermin/SKILL.md) | Wenn es um 04 Gläubigerversammlung und Prüfungstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
+| [`05-restschuldbefreiung-und-schlusstermin`](skills/05-restschuldbefreiung-und-schlusstermin/SKILL.md) | Wenn es um 05 Restschuldbefreiung und Schlusstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`06-eigenverwaltung-und-schutzschirm`](skills/06-eigenverwaltung-und-schutzschirm/SKILL.md) | Wenn es um 06 Eigenverwaltung und Schutzschirm in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`07-insolvenzplan-bestaetigen`](skills/07-insolvenzplan-bestaetigen/SKILL.md) | Wenn es um 07 Insolvenzplan Bestaetigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`08-starug-restrukturierungssache-anzeigen`](skills/08-starug-restrukturierungssache-anzeigen/SKILL.md) | Wenn es um 08 StaRUG Restrukturierungssache Anzeigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`09-starug-stabilisierungsanordnung`](skills/09-starug-stabilisierungsanordnung/SKILL.md) | Wenn es um 09 StaRUG Stabilisierungsanordnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`10-starug-planbestaetigung-und-folgen`](skills/10-starug-planbestaetigung-und-folgen/SKILL.md) | Wenn es um 10 StaRUG Planbestätigung und Folgen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung) in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ei... |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

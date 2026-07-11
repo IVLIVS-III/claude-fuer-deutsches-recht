@@ -20,8 +20,6 @@ description: "Wenn es um Verteidigung von Hinweisgebern nach HinSchG gegen Repre
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `HinSchG-Whistleblower-Schutz gegen Repressalie` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -211,7 +209,6 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 |---|---|
 | Meldung nicht im Anwendungsbereich Paragraf 2 | Anhang RL 2019/1937 sorgfältig prüfen; weit auslegen; ggf. parallele allgemeine Arbeitnehmer-Schutzrechte |
 | Leistungsprobleme schon vor Meldung | Zeitstrahl mit HR-Dokumenten; fehlende Abmahnungen vor Meldung widersprechen dieser These |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Bewusst unwahre Meldung (Paragraf 38) | Nur bei positiver Kenntnis der Unwahrheit; Verdacht genügt nach Paragraf 3 Abs. 5 |
 | KSchG nicht anwendbar (Kleinstbetrieb) | Paragraf 35 HinSchG gilt unabhängig von Paragraf 23 KSchG; HinSchG-Unwirksamkeit = separater Unwirksamkeitsgrund |
 

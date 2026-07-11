@@ -102,7 +102,3 @@ Gesamtbewertung: [FREIGEGEBEN / BEDINGT / ABGELEHNT]
 Auflagen: [BESCHREIBUNG]
 Geprueft von: [NAME], [DATUM]
 ```
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
--->

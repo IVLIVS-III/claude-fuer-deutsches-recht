@@ -43,24 +43,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" zu bezichtigen. Die Beweislast für **starke Kundenauthentifizierung** (§ 1 Abs. 24 ZAG: Wissen + Besitz + Inhärenz) trägt die Bank — wenn diese den Authentifizierungsnachweis nicht klar führen kann, gewinnt der Kunde § 675u BGB.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 263a StGB
-- Art. 33 DSGVO
-- § 1 ZAG
-- § 31 VVG
-- § 55 ZAG
-- Art. 34 DSGVO
-- § 4 FinDAG
-- § 27 ZAG
-- § 269 StGB
-- § 29 VwVfG
-- Art. 15 DSGVO
-- § 32 BSIG
-
-### Leitentscheidungen
-
-- BGH XI ZR 91/14

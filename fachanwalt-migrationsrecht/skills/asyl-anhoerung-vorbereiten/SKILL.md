@@ -61,9 +61,7 @@ description: "Wenn es um Asyl Anhoerung Vorbereiten in Fachanwalt Migrationsrech
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | BVerwGE 124, 276 | BVerwG, 18.02.2021 | Subsidiärer Schutz bewaffneter Konflikt; innerstaatliche Fluchtalternative |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -95,7 +93,6 @@ description: "Wenn es um Asyl Anhoerung Vorbereiten in Fachanwalt Migrationsrech
 | 10 | Dolmetscher-Eignung prüfen (Dialekt, Vertrauen, keine Verfolger-Nationalität) | § 25 AsylG |
 | 11 | Logistik sichern (Anreise, Vollmacht, Beistand-Anmeldung) | § 25 Abs. 5 AsylG |
 | 12 | Vortrag strukturieren: chronologisch, konkret, eigene Wahrnehmung | Keine Spekulation |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 14 | Protokoll-Prüfung nach Anhörung: Korrekturen vor Unterschrift | § 25 AsylG |
 | 15 | Ergänzungsschreiben BAMF bei vergessenen Aspekten (mit Fristsetzung) | Mitwirkungspflicht |
 
@@ -241,7 +238,6 @@ Mit freundlichen Grüßen
 |---|---|---|
 | Glaubhaftmachung Verfolgungsgefahr | Antragsteller | Eigener Vortrag, Dokumente, Atteste, Zeugen (§ 25 AsylG) |
 | Innerstaatliche Fluchtalternative | BAMF | BAMF trägt Darlegungslast; Einzelfallprüfung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Systemische Mängel Dublin-Erstland | Antragsteller | EGMR-Urteile, Länderberichte (UNHCR, AIDA) |
 | Trauma-bedingte Inkonsistenz erklärt | Antragsteller | Fachärztliches PTBS-Attest |
 | Staatlicher Schutz vorhanden | BAMF | Lageberichte AA; Prüfpflicht des BAMF |
@@ -269,7 +265,6 @@ Mit freundlichen Grüßen
 | Widersprüche zum Erstbefragungsprotokoll | Glaubwürdigkeitseinbruch | Erklärung: Erstbefragung war kurz/stressig; Ergänzung rechtzeitig |
 | Verfolgungsakteur unklar | Kein Zuständigkeitstreffer | Klarstellung: Staat / Miliz / Privatperson + staatlicher Schutz fehlt |
 | Dolmetscher-Qualität mangelhaft | Falsch-Protokoll | Sofort in Anhörung monieren; Protokoll korrigieren vor Unterschrift |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Dublin-III nicht thematisiert | Überstellung unangefochten | Fristen prüfen; Humanitäre Klausel Art. 17 Dublin-III; Familienzusammenführung |
 | Identitätsdokumente vernichtet | Identitätszweifel | Erklärungspflicht; Plausibilitätsprüfung; sonstige Beweise |
 

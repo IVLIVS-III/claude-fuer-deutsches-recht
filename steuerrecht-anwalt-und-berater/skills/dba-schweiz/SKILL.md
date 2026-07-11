@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-Schweiz in Steuerrecht – Steuerberate
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Schweiz` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -191,5 +189,3 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Schweiz 11.08.1971 (BGBl. 1972 II S. 1021/1022), Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68), 27.10.2010 (BGBl. 2011 II S. 1092), 21.08.2023 (BGBl. 2025 II Nr. 275, in Kraft 27.11.2025, ab 01.01.2026). ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). BMF-Schreiben zu Grenzgaengern und Wegzug im BMF-Veroeffentlichungsverzeichnis abrufen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 14 Marker aufgeloest: 4 belegt (DBA-Schweiz BGBl-Daten bestaetigt; BVerfG 2 BvL 1/12 15.12.2015 bestaetigt; Schweizer Verrechnungssteuer 35% Art. 13 VStG; ATAD-UG BGBl. 2021 I S. 2035), 10 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

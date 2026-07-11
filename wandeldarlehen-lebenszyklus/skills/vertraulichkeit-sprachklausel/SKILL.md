@@ -95,9 +95,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 280, 249 BGB (Schadensersatz bei Vertraulichkeitsverletzung) → § 307 BGB (AGB-Kontrolle pauschaler Vertraulichkeitsklauseln) → §§ 203, 204 StGB (strafrechtliche Schweigepflicht bei Berufsgeheimnisträgern) → Art. 3 Nr. 1 GeschGehG (Geheimnisschutz, Definition) → Art. 9, 10 GeschGehG (Ansprüche bei Geheimnisverletzung)
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 171/18 (NJW 2019, 2077) – WRONG_TOPIC; tatsächlich: Anforderungen Berufungsurteil/§ 313 ZPO, kein Vertraulichkeitsbezug.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quelle: https://dejure.org/2019,11230
--->

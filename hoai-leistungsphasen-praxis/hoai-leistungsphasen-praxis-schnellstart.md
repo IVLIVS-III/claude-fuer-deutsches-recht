@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 650r und Paragraf 650s: Sonderkündigungsrecht nach Zielfindung und Teilabnahme nach Abnahme der letzten Unternehmerleistung.
 - BGB Paragraf 633, Paragraf 634 und Paragraf 640: Planungsmangel, Mängelrechte und Abnahme.
 - HOAI Paragraf 3: Grundleistungen, Leistungsbilder und Leistungsphasen.
-- BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1 HOAI (Anwendungsbereich): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 6 HOAI (Honorarvereinbarung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- HOAI Paragraf 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 04.07.2019 - C-377/17: Die verbindlichen Mindest- und Höchstsätze der früheren HOAI verstießen gegen die Dienstleistungsrichtlinie.
 - EuGH, Urteil vom 18.01.2022 - C-261/20: In einem Rechtsstreit ausschließlich zwischen Privaten muss das alte nationale Mindestsatzrecht nicht allein aufgrund des Unionsrechts unangewendet bleiben.
 

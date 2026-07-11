@@ -34,10 +34,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Beschluss vom 29.09.2011 - IX ZB 219/10: Die Entscheidung betrifft die vorzeitige Beendigung der damaligen Wohlverhaltensphase nach Vergleich mit sämtlichen Insolvenzgläubigern sowie Teilzahlung und Teilerlass; sie darf nur nach Prüfung des heute anwendbaren Rechts und des Übergangsrechts verwendet werden.
+- Im Schlusstermin Versagungsantrag, Antragsberechtigung, Versagungsgrund, Glaubhaftmachung, rechtliches Gehör und die zeitlich anwendbare Fassung der InsO einzeln ausweisen; eine alte Wohlverhaltensphasenentscheidung ersetzt diese Prüfung nicht.
 
 ## Prüfungsschema in Stufen
 

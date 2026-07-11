@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
 - BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
 - BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 69a UrhG — Computerprogramme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 69b UrhG — Arbeitnehmerprogramme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 69c UrhG — ausschließliche Rechte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 69a UrhG — Computerprogramme. - Paragraf 69b UrhG — Arbeitnehmerprogramme. - Paragraf 69c UrhG — ausschließliche Rechte. - Paragraf 69d UrhG — bestimmungsgemäße Benutzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 69a UrhG — Computerprogramme; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 69b UrhG — Arbeitnehmerprogramme; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 69c UrhG — ausschließliche Rechte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 

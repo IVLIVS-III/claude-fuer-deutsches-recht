@@ -94,35 +94,8 @@ Bei Auslandsbezug immer prüfen:
 
 Pro Anspruchsgrundlage eine eigene Tabelle mit allen Tatbestandsmerkmalen.
 
-<!-- AUDIT 27.05.2026
-Geprüfte AZ (task_286):
-- BGH VI ZR 373/18 (behauptet NJW 2020, 466): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 158/03, NJW 2005, 1423 (verifiziert auf dejure.org)
-- BGH VI ZR 395/16 (behauptet NJW 2018, 386): NOT FOUND auf dejure.org — ersetzt durch BGH VI ZR 107/08, NJW 2009, 2952 (verifiziert auf dejure.org)
-- BGH VII ZR 101/14 (behauptet NJW 2016, 560): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 184/04, NJW 2005, 1356 (verifiziert auf dejure.org)
-Alle drei Ersatz-AZ wurden über dejure.org-Direktabfrage verifiziert.
--->
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 38 FamFG
-- § 13 GVG
-- § 137 FamFG
-- Art. 3 DSGVO
-- Art. 9 DSGVO
-- Art. 6 DSGVO
-- § 70 VwGO
-- § 123 VwGO
-- § 71 GVG
-- § 63 GKG
-- Art. 103 GG
-- § 111 FamFG
-
-### Leitentscheidungen
-
-- BGH VI ZR 96/11
-- BGH VI ZR 113/17
-- BGH VII ZR 213/10
-- BGH VI ZR 39/20
-- BGH VI ZR 40/20
+Für die Relation gelten keine universellen materiell-rechtlichen Leitentscheidungen. Zuerst Anspruchsgrundlage und Einwendungen des konkreten Streitstoffs bestimmen; pro Rechtssatz nur eine Entscheidung mit Gericht, Datum, Aktenzeichen, tragender Aussage und Quelle verwenden. Verfahrensrechtlich insbesondere Paragraf 138, Paragraf 139, Paragraf 253 Absatz 2 Nummer 2, Paragraf 286, Paragraf 296 und Paragraf 308 ZPO fallbezogen prüfen.

@@ -7,8 +7,6 @@ description: "Wenn es um Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Sch
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -182,5 +180,3 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Änderungsproto
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 15a DBA-Schweiz in der Fassung Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68). Konsultationsvereinbarung Home-Office vom 11.06.2020 und Folgevereinbarungen. Konkreten Quellensteuer-Hoechstsatz und 60-Tage-Schaedlichkeitsschwelle im DBA-Text Art. 15a prüfen; aktuelle Home-Office-Konsultationsvereinbarung im BMF-Veroeffentlichungsverzeichnis abrufen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 2 belegt (BGBl. 1972 II S. 1021/1022 bestaetigt; BGBl. 2003 II S. 68 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert; FM-description final ohne Marker) -->

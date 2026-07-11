@@ -66,6 +66,3 @@ description: "Wenn es um Rückfrageninterview in Vertragsausfüller geht: prüft
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
-
-<!-- AUDIT 27.05.2026 -->
-<!-- BGH VI ZR 394/12 (claimed: Verlaesslichkeit von Auskuenften, NJW 2014, 2360): NOT_FOUND auf dejure.org. NJW 2014, 2360 gehoert zu BGH I ZR 169/12 (BearShare – Filesharing-Stoererhaftung) – thematisch unverwandt. Eintrag geloescht. -->

@@ -106,28 +106,3 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 26 BDSG
-- Art. 13 DSGVO
-- Art. 28 DSGVO
-- § 1 AStG
-- § 3a EStG
-- § 4h EStG
-- § 5a EStG
-- § 11 EStG
-- § 6 EGBGB
-- Art. 6 DSGVO
-- § 36 VSBG
-- Art. 101 AEUV
-
-### Leitentscheidungen
-
-- BGH VIII ZR 172/05
-- BGH VIII ZR 71/93
-- BFH IX R 14/15
-- BGH XII ZR 18/08
-- BGH XI ZR 59/17

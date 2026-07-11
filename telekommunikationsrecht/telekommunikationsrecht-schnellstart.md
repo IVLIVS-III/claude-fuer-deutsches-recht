@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+Wenn du das hier öffnest, willst du Anbieterrolle, Anschluss, Frequenz, Nummer, Vertragsstörung oder Regulierungsverfahren unmittelbar nach TKG einordnen und den nächsten belastbaren Schritt liefern.
 
 # Telekommunikationsrecht — Schnellstart
 
@@ -17,47 +17,45 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
-2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
-3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
-5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. BNetzA-Beschwerde-Dashboard: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Rolle und Leistung: Betreiber, Anbieter, Vermittler, Anschluss, Dienst, Netz, Nummer oder Frequenz konkret bestimmen.
+2. Vertrag und Störung: Zusammenfassung, Laufzeit, Änderung, Kündigung, Minderleistung, Ausfall, Wechsel und Umzug kalendarisch erfassen.
+3. Regulierung: Markt, Adressat, Verfügung, Entgelt, Zugang, Zusammenschaltung, Frequenz oder Nummer und Rechtsbehelf trennen.
+4. Beweis: Messprotokoll, Produktinformationsblatt, Vertrag, Störungsticket, Portierungsdaten, Bescheid und Zustellung sichern.
+5. Arbeitsprodukt: Anbieterforderung, Minderungsrechnung, Schlichtungsantrag, Regulierungsstellungnahme, Widerspruch oder Eilantrag erstellen.
+6. BNetzA-Beschwerde-Dashboard: Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
-| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
-| Tatbestand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen |
-| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
-| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Normenanker | TKG Paragraf 3; TKG Paragraf 51 bis Paragraf 55; TKG Paragraf 56 bis Paragraf 60 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| BNetzA-Beschwerde-Dashboard | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisplan: Messung, Störung, Protokoll | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| BNetzA-Beschwerde-Dashboard | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisplan: Messung, Störung, Protokoll | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Mindestlaufzeit, Verlängerung, Kündigung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Umzug und Telekommunikationsvertrag | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zivilklage: Entgelt, Schaden, Vertrag | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme | TKG: Paragraf 2 TKG (Regulierungsziele), Paragraf 52 TKG (Streitbeilegung/Informationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Umzug und Telekommunikationsvertrag | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zivilklage: Entgelt, Schaden, Vertrag | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
-- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
-- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- TKG Kundenschutz; BGB Paragrafen 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Zivilrecht: Paragrafen 241, 280, 281, 323, 314, 536a analog nur vorsichtig, Paragrafen 305 ff. BGB für AGB-/Providerklauseln; ZPO Paragrafen 253, 256, 286, 940 ff. bei Klage: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
-- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+- TKG Paragraf 3: Begriffe und Rollen des Telekommunikationsrechts.
+- TKG Paragraf 51 bis Paragraf 55: Vertragsinformationen, Vertragszusammenfassung, Laufzeit und Vertragsänderung.
+- TKG Paragraf 56 bis Paragraf 60: Kündigung, Anbieterwechsel, Minderungs- und Entschädigungsrechte sowie Umzug nach jeweiligem Tatbestand.
+- TKG Paragraf 92 ff.: Marktregulierung, beträchtliche Marktmacht und Regulierungsverfügungen nur nach aktueller Abschnittszuordnung prüfen.
+- BGB Paragrafen 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 253, 256, 286, 940 ff. bei Klage, Feststellung und Eilrechtsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 823, 280; TKG Infrastruktur; Straßen-/Baurecht; ZPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- VwGO Paragrafen 80, 80a, 123; TKG; VwVfG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

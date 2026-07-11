@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - AO Paragraf 88: Amtsermittlung.
 - AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
 - EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
-- Paragraf 32b EStG — Progressionsvorbehalt für freigestellte ausländische Einkünfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 34c EStG — Anrechnung ausländischer Steuern, alternativ Abzug, Pauschalierung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 34d EStG — Definition ausländische Einkünfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 50d Abs. 8 EStG — Subject-to-Tax bei Arbeitseinkünften: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 32b EStG — Progressionsvorbehalt für freigestellte ausländische Einkünfte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 34c EStG — Anrechnung ausländischer Steuern, alternativ Abzug, Pauschalierung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 34d EStG — Definition ausländische Einkünfte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 50d Abs. 8 EStG — Subject-to-Tax bei Arbeitseinkünften; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
 - BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
 

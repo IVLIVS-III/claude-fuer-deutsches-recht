@@ -36,10 +36,10 @@ Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch
 
 ## Pflicht-Normen und Praxisprobleme
 
-- **§ 12 Abs. 1 PatG:** Wer die Erfindung im Inland vor dem Anmeldetag/Prioritätstag in Benutzung genommen oder die dazu erforderlichen Veranstaltungen getroffen hat, hat ein persönliches Recht zur Weiterbenutzung. Persönliches Recht — nicht übertragbar (§ 12 Abs. 2 PatG).
-- **§ 12 Abs. 2 S. 2 PatG Ausnahme:** Im Falle der Veräußerung oder Verpachtung des Geschäftsbetriebs geht das Vorbenutzungsrecht auf den Erwerber/Pächter über.
+- **Paragraf 12 Absatz 1 PatG:** Die Patentwirkung tritt gegen denjenigen nicht ein, der die Erfindung bei Anmeldung bereits im Inland benutzte oder die erforderlichen Veranstaltungen getroffen hatte. Die Befugnis dient den Bedürfnissen des eigenen Betriebs und kann nach Satz 3 nur zusammen mit diesem Betrieb vererbt oder veräußert werden. Eine isolierte Übertragung sieht die Norm nicht vor; eine Verpachtung steht dort nicht.
+- **Paragraf 12 Absatz 2 PatG:** Bei wirksam beanspruchter Priorität tritt grundsätzlich die frühere Anmeldung an die Stelle des Anmeldetags. Absatz 2 ist keine Übertragungsvorschrift.
 - **"Im Inland":** § 12 PatG erfordert Inlandsbenutzung. Bei EP-Bundle: Vorbenutzung im jeweiligen Validierungsland; Einheitspatent UP: Vorbenutzung im jeweiligen UPC-Land Art. 28 UPCA.
-- **"Ernsthafte Veranstaltungen":** mehr als bloße interne Vorbereitung; konkrete Produktentwicklung, Bestellungen, Werkzeugbau. BGH "Wundverband" GRUR 2010, 47 als Leitlinie (Az. live verifizieren).
+- **Umfang des Besitzstands:** Mehr als eine bloße Idee oder Absicht ist erforderlich; Entwicklungsstand, Zweckbestimmung und tatsächliche Vorbereitung müssen anhand der Akte festgestellt werden. BGH, Urteil vom 13.11.2001 - X ZR 32/99, Biegevorrichtung: Weiterentwicklungen sind nicht gedeckt, soweit sie über die bisherige Benutzung hinaus in den patentgeschützten Gegenstand eingreifen.
 - **Umfang § 12 Abs. 1 S. 2 PatG:** Nur im Umfang der bestehenden oder angelegten Benutzung. Erweiterungen ohne Erweiterung der Veranstaltungen sind nicht gedeckt.
 - **Beweislast:** Vorbenutzer trägt sie. Schwierigkeitsgrad steigt mit zeitlichem Abstand.
 - **Vorbenutzungsrecht als Einrede im Verletzungsprozess:** in § 12 PatG verankert; Vorbenutzungsrecht ist KEIN Nichtigkeitsgrund.

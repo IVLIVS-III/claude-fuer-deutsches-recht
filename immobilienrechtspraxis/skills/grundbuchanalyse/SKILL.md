@@ -90,7 +90,6 @@ Objekttabelle und ein einheitliches Risikoschema.
 - **BGH 15.04.2021, V ZB 175/20**: Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung des gesicherten Anspruchs erforderlich. Quelle: dejure.org/2021,14528.
 - **BGH 17.09.2021, V ZR 12/21**: WEMoG-Reform; Bauliche Veraenderungen § 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021,30989.
 - **BGH 25.02.2016, V ZR 244/14**: Loeschungsfaehiges Grundpfandrecht — Voraussetzungen § 1183 BGB. Quelle: dejure.org/2016,5478.
-- **BGH 07.07.2022, V ZB 21/22**: Notarielle Beurkundungsbefugnis über Grundstuecksgeschaefte gem. § 311b BGB. Quelle: dejure.org/2022,18504.
 
 Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 
@@ -115,7 +114,3 @@ Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifi
 Der Skill ersetzt nicht die Prüfung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
-
-<!-- AUDIT 27.05.2026 — Bundle 033 —
- Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
--->

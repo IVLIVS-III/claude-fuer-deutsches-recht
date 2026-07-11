@@ -106,5 +106,3 @@ Stand: 05/2026.
 - IDW S 6, IDW S 11, IDW PS 305.
 - DATEV Kanzlei-Rechnungswesen Plan-Modul.
 - Addison Budget-Modul.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SanInsKG-Sonderregelung ausgelaufen 31.12.2023, Standardzeitraum 12 Monate bestaetigt) -->

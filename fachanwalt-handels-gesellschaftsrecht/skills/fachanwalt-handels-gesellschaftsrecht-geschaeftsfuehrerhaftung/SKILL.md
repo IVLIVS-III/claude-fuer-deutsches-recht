@@ -28,7 +28,6 @@ description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrer
 | § 93 Abs. 2 S. 2 AktG | Beweislastumkehr: Vorstand / Geschäftsführer muss Pflichterfüllung und fehlendes Verschulden darlegen |
 | § 93 Abs. 2 S. 3 AktG | D&O-Selbstbehalt: zwingend 10 % des Schadens, mindestens bis 1,5-faches der Festvergütung |
 | § 93 Abs. 3 AktG | Qualifizierte Sonderhaftungstatbestände: verbotene Kapitalrückzahlung, Bezahlung eigener Aktien, verbotene Kreditgewährung |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 46 Nr. 8 GmbHG | Gesellschafterbeschluss zur Geltendmachung von Schadensersatz gegen Geschäftsführer |
 | § 15a InsO | Insolvenzantragspflicht: spätestens 6 Wochen nach Zahlungsunfähigkeit; 8 Wochen nach Überschuldung |
 | § 15b InsO | Zahlungsverbot bei Insolvenzreife (seit 1.1.2021 rechtsformneutral; ersetzt § 64 GmbHG und § 92 Abs. 2 AktG aF) |
@@ -42,7 +41,6 @@ description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrer
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Geschäftsführerhaftung
 
@@ -58,7 +56,6 @@ description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrer
 | 5 | Kausalität? | Conditio-sine-qua-non | Würde pflichtgemäßes Handeln Schaden verhindert haben? |
 | 6 | Verschulden? | Beweislastumkehr § 93 Abs. 2 S. 2 AktG | GF/Vorstand muss exculpieren |
 | 7 | Sonderhaftungstatbestände? | § 43 Abs. 3 GmbHG; § 15a, § 15b InsO; § 69 AO; § 266a StGB | Verschärfte Haftung ohne Business Judgement Rule |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Gesellschafterbeschluss zur Klage gefasst? (GmbH) | § 46 Nr. 8 GmbHG | Ohne Beschluss: GF kann einwenden, Klage ohne Befugnis |
 
 ## Sonderhaftungstatbestände im Detail
@@ -231,7 +228,6 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 |--------------|---------|----------|
 | "Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
 | "Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
 | "Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
 | "Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |

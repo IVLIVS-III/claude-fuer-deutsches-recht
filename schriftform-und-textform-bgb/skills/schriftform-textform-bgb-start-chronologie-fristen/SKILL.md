@@ -111,7 +111,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `anspruchsformulierungen-bei-formverstoss` | Vertragspartner hat wegen Formmangels (fehlende Schriftform Textform Beurkundung) einen Vertrag angefochten oder Ansprüche verweigert und Mandant fragt nach Gegenansprüchen. Paragrafen 125 812 BGB. Prüfraster: Paragraf 812 BGB… |
 | `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb` | Arbeitgeber oder Arbeitnehmer fragt: Ist die Befristungsabrede oder Kündigung wegen Formverstoß unwirksam? Paragrafen 14 Abs. 4 TzBfG 623 BGB Schriftformzwang. Prüfraster: Befristung zwingend eigenhaendige Unterschrift auf… |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` | Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. Paragrafen 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft Paragraf… |
 | `dokumentations-und-beweisarchitektur` | Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang Paragraf 130 BGB nachweisen Originalurkunden… |
 | `elektronische-form-paragraph-126a-bgb-qes` | Mandant möchte einen Vertrag oder eine Willenserklärung elektronisch unterzeichnen und fragt, ob qES, beA oder gerichtliche Zustellung die Schriftform ersetzen. Prüft Paragraf 126a BGB, eIDAS, Zugang, Paragraf 130e ZPO und Paragraf 46h ArbGG. |
@@ -120,9 +119,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `gewerberaummiete-paragraph-550-bgb-langzeitform` | Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? Paragraf 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster:… |
 | `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Änderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator Paragrafen 305b 305c BGB. Prüfraster: einfache Schriftformklausel doppelte… |
 | `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, Paragraf 130a ZPO, Paragraf 130e ZPO, Paragraf 46h ArbGG, Paragraf 173 ZPO, Paragraf 186 ZPO, Paragraf 298 Abs. 3 ZPO und Paragraf 174 BGB. |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `mandantenkorrespondenz-form-und-zugang-templates` | Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht löschen Mieter-Hinweis auf E-Mail/WhatsApp-Kündigung prüfen… |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `notarielle-beurkundung-und-öffentliche-beglaubigung` | Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. Paragrafen 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht Paragraf 311b BGB Grundstueck Paragraf… |
 | `prozessablauf-papier-vs-elektronisch` | Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, Paragraf 130e ZPO, Paragraf 46h ArbGG und Beweisarchitektur. |
 | `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` | Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. Paragraf 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen… |
@@ -130,7 +127,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `verteidigungsstrategie-bei-formangriff` | Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß Paragrafen 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (Paragraf 311b BGB)… |
 | `wohnraummiete-kuendigung-paragraph-568-bgb` | Vermieter oder Mieter hat Kündigung des Wohnraummietvertragsempfangen oder versendet und Anwalt prüft Schriftform. Paragraf 568 Abs. 1 BGB Schriftformerfordernis Kündigung Wohnraummietvertrag. Prüfraster: qES grundsätzlich… |
 | `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` | Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? Paragraf 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung… |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Worum geht es?
 

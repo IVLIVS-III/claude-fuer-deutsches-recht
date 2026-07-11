@@ -7,19 +7,19 @@ description: "Wenn es um Digitale Versammlung: Screenreader, Untertitel und Barr
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
+- Normen: Paragraf 23 Absatz 1 und 1a WEG, Paragraf 24 Absatz 4 WEG, Paragraf 25 Absatz 3 WEG sowie Artikel 6 DSGVO bei Aufzeichnungen.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Ziel
 
-Hybride und rein digitale Eigentümerversammlungen nach § 23 Abs. 1 S. 2 WEG sind seit der WEG-Reform 2020/2023 möglich. Der Skill sichert die technische Barrierefreiheit und klärt die Beschlussbasis, Stimmrechtsübertragung und Datenschutz bei Aufzeichnungen.
+Der Skill bereitet hybride und virtuelle Eigentümerversammlungen rechtssicher und barrierearm vor. Er trennt die Beschlussgrundlagen, prüft gleichwertige Teilhabe und Rechteausübung, ordnet Vollmachten richtig ein und verhindert unzulässige Aufzeichnungen.
 
 ## Beschlussgrundlage und Versammlungsformat
 
-Rein virtuelle Versammlung: § 23 Abs. 1 S. 2 WEG — nur zulässig, wenn die GdWE dies zuvor in einer Präsenzversammlung mit Dreiviertelmehrheit der abgegebenen Stimmen beschlossen hat. Der Ermächtigungsbeschluss muss die Gültigkeitsdauer oder konkrete Versammlung benennen. Norm: https://www.gesetze-im-internet.de/woeigg/__23.html
+Rein virtuelle Versammlung: Nach Paragraf 23 Absatz 1a WEG können die Wohnungseigentümer mit mindestens drei Vierteln der abgegebenen Stimmen beschließen, dass Versammlungen für längstens drei Jahre ohne physischen Versammlungsort stattfinden können. Teilnahme und Rechteausübung müssen mit einer Präsenzversammlung vergleichbar sein. Für Beschlüsse vor dem 1. Januar 2028 ist die Übergangsregel in Paragraf 48 Absatz 6 WEG zu prüfen. Norm: https://www.gesetze-im-internet.de/woeigg/__23.html
 
-Hybrid (Präsenz + Online-Zuschaltung): Keine Sonder-Beschlussgrundlage erforderlich. BGH, Urteil vom 25.10.2024, V ZR 33/24: Hybridversammlung ist ohne Ermächtigungsbeschluss zulässig; online zugeschaltete Eigentümer sind vollwertig stimmberechtigt. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+33%2F24
+Hybridversammlung: Die Online-Teilnahme einzelner Wohnungseigentümer setzt einen Gestattungsbeschluss nach Paragraf 23 Absatz 1 Satz 2 WEG voraus. Nach BGH, Urteil vom 20.09.2024 - V ZR 123/23, muss der Verwalter bei bestehendem Gestattungsbeschluss weder schon in der Einladung auf die Online-Teilnahme hinweisen noch sie vorsorglich anbieten; der Wohnungseigentümer muss sein Teilnahmerecht aktiv geltend machen. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2024&Gericht=bgh&Seite=28&anz=2887&pos=847
 
 ## Technische Anforderungen für Barrierefreiheit
 
@@ -40,7 +40,7 @@ Hybrid (Präsenz + Online-Zuschaltung): Keine Sonder-Beschlussgrundlage erforder
 
 ## Vollmachten und Stimmrechtsübertragung digital
 
-§ 24 Abs. 6 WEG: Vollmacht bedarf der Textform (E-Mail mit Erklärung genügt). Identitätsprüfung online: Abgleich Name + Einheits-Nr. + vorab übermittelte E-Mail-Adresse. Keine qualifizierte elektronische Signatur erforderlich. Verwalter sollte Vollmacht-Muster vorab versenden. Norm: https://www.gesetze-im-internet.de/woeigg/__24.html
+Paragraf 25 Absatz 3 WEG: Vollmachten bedürfen zu ihrer Gültigkeit der Textform; eine lesbare Erklärung auf einem dauerhaften Datenträger genügt. Identität, Umfang und Fortbestand der Vollmacht sind vor der Stimmabgabe zu prüfen. Norm: https://www.gesetze-im-internet.de/woeigg/__25.html
 
 ## Datenschutz: Aufzeichnung
 
@@ -56,4 +56,4 @@ Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Tei
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. § 23 und § 24 WEG über https://www.gesetze-im-internet.de/woeigg/__23.html live verifizieren. BGH V ZR 33/24 über https://dejure.org abrufen. Zoom- und Teams-Funktionen ändern sich mit Software-Updates — vor jeder Versammlung testen.
+`rechtsstand-mai-2026-faktenbank` laden. Paragrafen 23 bis 25 und 48 WEG im aktuellen Gesetzestext prüfen. BGH, Urteil vom 20.09.2024 - V ZR 123/23, in der amtlichen Entscheidungsdatenbank abrufen. Funktionen eingesetzter Konferenzsysteme ändern sich mit Software-Updates und sind vor jeder Versammlung praktisch zu testen.

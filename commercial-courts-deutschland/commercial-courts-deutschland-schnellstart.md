@@ -52,6 +52,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
+- GVG Paragrafen 119b und 184a sowie die einschlägige Landesverordnung auf Sachgebiet, Streitwert und Spruchkörper prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GVG Paragraf 184a erlaubt die englische Verfahrensführung nur im gesetzlich und landesrechtlich eröffneten Rahmen; englische Dokumente allein ändern die Gerichtssprache nicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GVG Paragrafen 184a Absatz 3; Übersetzungsbedarf dennoch anhand gerichtlicher Verfügung und Drittbeteiligung prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

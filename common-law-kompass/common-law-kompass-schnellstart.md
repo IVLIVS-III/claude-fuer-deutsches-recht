@@ -40,11 +40,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Common Law: Vertragsklauseln | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Drafting: Mehrparteienkonflikt und Interessenmatrix | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Explainer: Beweislast, Darlegungslast und Substantiierung | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| False: Fristen, Form, Zuständigkeit und Rechtsweg | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Drafting: Mehrparteienkonflikt und Interessenmatrix | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Explainer: Beweislast, Darlegungslast und Substantiierung | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| False: Fristen, Form, Zuständigkeit und Rechtsweg | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Common-Law-Kompass — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien | UCC Paragraf 2-201 — Statute of Frauds für Warenkauf. - UCC Paragraf 2-313 — express warranties. - UCC. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien | zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,8 +52,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Art. 267 AEUV — Vorabentscheidungsverfahren (Abgrenzung EU- zu nationalem Recht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305 ff. BGB — AGB-Recht (Abgrenzung zu Common-Law-Boilerplate): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 267 AEUV — Vorabentscheidungsverfahren (Abgrenzung EU- zu nationalem Recht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 305 ff. BGB — AGB-Recht (Abgrenzung zu Common-Law-Boilerplate); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

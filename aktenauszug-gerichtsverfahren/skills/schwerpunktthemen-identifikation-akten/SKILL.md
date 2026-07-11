@@ -96,7 +96,6 @@ Schwerpunktthemen werden neutral dargestellt. Die Identifikation eines Themas al
 
 ## Audit-Hinweis
 
-<!-- AUDIT 27.05.2026 -->
 **Halluzinations-Reparatur durchgeführt am 27.05.2026.**
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

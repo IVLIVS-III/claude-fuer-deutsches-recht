@@ -2,18 +2,54 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 157 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-familienrecht`.
+Diese Vollprüfung enthält top-8 von 158 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterl…
-2. **mandat-triage-familienrecht** — Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-3. **fachanwalt-familienrecht-orientierung** — Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
-4. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
-5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rech…
-6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
-7. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
-8. **fachanwalt-familienrecht-mediation-156-famfg-cochemer** — Wenn es um Fachanwalt Familienrecht Mediation 156 Famfg Cochemer in Fachanwalt Familienrecht geht: ordnet Sachverhalt, N…
+1. **familiengerichtliche-versandmappe-endfertigen** — Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht u…
+2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterl…
+3. **mandat-triage-familienrecht** — Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
+4. **fachanwalt-familienrecht-orientierung** — Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
+5. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
+6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rech…
+7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
+8. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+
+---
+
+## Skill: `familiengerichtliche-versandmappe-endfertigen`
+
+_Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht und Beschwerdegericht: trennt Familiensache und Familienstreitsache, prüft Antrag, Beteiligte, Frist und vertrauliche Daten, ordnet Urkunden, Auskünfte und Berechnungen zu und liefert einzelne gestempelte PDFs mit konsistentem AST-/AG- oder gerichtlichem Anlagenkreis._
+
+# Familiengerichtliche Versandmappe endfertigen
+
+## 1. Verfahrensart bestimmen
+
+Lies Antrag, Erwiderung, Beschlüsse, Zustellnachweise und Anlagen zuerst. Kläre vor der Produktion, ob eine Familienstreitsache mit ZPO-Verweisung, eine Kindschaftssache, Gewaltschutzsache, Versorgungsausgleichssache oder sonstige Familiensache vorliegt. Davon hängen Antragssprache, Beteiligtenbezeichnung, Darlegungsumfang und Formnormen ab.
+
+## 2. Akten- und Antragsprüfung
+
+1. Beteiligte, Kinder, gesetzliche Vertreter, Verfahrensbeistand und Jugendamt richtig zuordnen.
+2. Scheidungsantrag mit Heiratsurkunde, Trennungszeitpunkt, gewöhnlichem Aufenthalt und Folgesachen abstimmen.
+3. Unterhalt mit Auskunftszeitraum, Einkommen, Abzügen, Betreuung, Bedarf, Zahlungen und Rückstand monatsgenau belegen.
+4. Zugewinn mit Stichtagen, Anfangs-, Trennungs- und Endvermögen sowie privilegiertem Erwerb verbinden.
+5. Sorge, Umgang und Gewaltschutz mit konkreten Ereignissen, Schutzbedarf, milderen Mitteln und Eilgrund belegen.
+
+## 3. Anlagen und Datenschutz
+
+Nutze den bereits geführten AST-/AG-, K-/B- oder gerichtlichen Nummernkreis und setze ihn fort. Typische Anlagen sind Personenstandsurkunden, Zustellnachweise, Einkommensbelege, Steuerunterlagen, Kontoauszüge, Vermögensnachweise, Versorgungsauskünfte, Jugendamtskorrespondenz und ärztliche Unterlagen. Schwärze nur nach rechtlicher und beweisbezogener Prüfung; Daten von Kindern, Wohnanschriften und Gesundheitsangaben gehören nicht in sprechende Dateinamen.
+
+Stemple jede Seite rechts oben. Konvertiere jede Anlage einzeln und kontrolliere insbesondere abgeschnittene Tabellen, Rückseiten von Urkunden und mehrseitige Auskünfte.
+
+## 4. Elektronische Form
+
+Prüfe FamFG Paragraf 14, Paragraf 14b und bei Familienstreitsachen FamFG Paragraf 113 mit der einschlägigen ZPO-Regel. BGH, Beschluss vom 17. Januar 2024, XII ZB 88/23, verlangt für eine Ersatzeinreichung eine geschlossene Darstellung der technischen Abläufe; persönliche oder organisatorische Hindernisse genügen nicht.
+
+Das Hauptdokument wird qualifiziert elektronisch signiert oder einfach signiert und persönlich über den sicheren Weg versandt. Anlagen bleiben getrennte PDFs. Eine Nachricht betrifft nur ein Verfahren; Verbund- und isolierte Folgesachen nicht ohne Prüfung in dieselbe Nachricht legen.
+
+## 5. Auslieferung
+
+Liefere Versandordner, Anlagenverzeichnis, Berechnungs- oder Stichtagskontrolle, Vertraulichkeitsprüfung, Freigabevermerk und Eingangskontrolle. Stoppe bei unklarer Verfahrensart, fehlender Zustellung, widersprüchlichem Stichtag, nicht nachvollziehbarer Unterhaltsberechnung oder ungeschützter Kindesanschrift.
 
 ---
 
@@ -105,7 +141,6 @@ _Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Familienrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -121,7 +156,7 @@ Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen z
 
 - BGH 22.01.2025 - XII ZB 148/24 (Elternunterhalt, Selbstbehalt; Familienselbstbehalt)
 - BVerfG 07.10.2025 - 1 BvR 746/23 (Umgangsausschluss: Begründungsanforderungen bei längerer Dauer)
-- BVerfG 28.08.2025 - 1 BvR 1473/25 (Sorgerecht im einstweiligen Anordnungsverfahren; PAS-Maßstäbe)
+- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; für die Hauptsache verlangt das Gericht eine zuverlässige Tatsachengrundlage und eine fachwissenschaftlich tragfähige Bewertung behaupteter Eltern-Kind-Entfremdung.
 - Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026)
 
 Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org oder openjur.de mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -259,7 +294,7 @@ Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen z
 
 - BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
 - BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
-- BVerfG, Beschluss vom 28.08.2025 - 1 BvR 1473/25 (Sorgerecht im einstweiligen Anordnungsverfahren; PAS)
+- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; zugleich Zweifel an einer tragfähigen Tatsachengrundlage für die Hauptsache und Hinweis auf die fachwissenschaftlichen Grenzen des PAS-Konzepts.
 - BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
 - Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
 
@@ -352,7 +387,6 @@ _Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienr
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -404,7 +438,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Familienrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -420,7 +453,7 @@ Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen z
 
 - BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
 - BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
-- BVerfG, Beschluss vom 28.08.2025 - 1 BvR 1473/25 (Sorgerecht im einstweiligen Anordnungsverfahren; PAS)
+- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; zugleich Zweifel an einer tragfähigen Tatsachengrundlage für die Hauptsache und Hinweis auf die fachwissenschaftlichen Grenzen des PAS-Konzepts.
 - BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
 - Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
 
@@ -507,7 +540,6 @@ _Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüf
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Familien-, Kindschafts- und Versorgungsausgleichsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -691,7 +723,6 @@ _Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Familienrecht geht: klär
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -717,296 +748,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-familienrecht-mediation-156-famfg-cochemer`
-
-_Wenn es um Fachanwalt Familienrecht Mediation 156 Famfg Cochemer in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-## Mandantenfragen beim Kaltstart
-
-1. Haben Sie bereits einen Scheidungs- oder Sorge-/Umgangsrechtsantrag beim Familiengericht eingereicht, oder steht das noch aus?
-2. Verweigert der andere Elternteil den Umgang aktiv, oder scheitert die Umsetzung an Kommunikationsproblemen?
-3. Gibt es Hinweise auf häusliche Gewalt, Substanzmissbrauch oder Kindeswohlgefährdung gemäß Paragraf 1666 BGB?
-4. Hat das Jugendamt bereits Kontakt aufgenommen oder ein Hilfsangebot nach Paragraf 17 SGB VIII unterbreitet?
-5. Haben Sie oder Ihr Gegenüber schon an einer Cochemer-Informationsveranstaltung oder einem Erstgespräch beim Beratungsstellen-Netzwerk teilgenommen?
-6. Wie alt sind die betroffenen Kinder, und wurde ein Verfahrensbeistand nach Paragraf 158 FamFG bestellt?
-7. Welche finanziellen Rahmenbedingungen gelten — Prozesskostenhilfe, Scheidungskosten bereits beziffert?
-8. Wurden Vereinbarungen bisher mündlich getroffen, und ist die Gegenseite grundsätzlich einigungsbereit?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-| Norm | Inhalt |
-|------|--------|
-| Paragraf 156 FamFG | Hinwirkungspflicht des Familiengerichts auf Einvernehmen; Anordnung einer Beratung oder Mediation |
-| Paragraf 165 FamFG | Vermittlungsverfahren bei Umgangsverweigerung; Gericht beauftragt Jugendamt oder geeignete Stelle |
-| Paragraf 155 FamFG | Vorrang- und Beschleunigungsgebot in Kindschaftssachen; erster Termin innerhalb eines Monats |
-| Paragraf 155a FamFG | Frühe Erörterung in Kindschaftssachen; Einbeziehung des Jugendamts |
-| Paragraf 158 FamFG | Verfahrensbeistand für das Kind; Aufgaben und Vergütung |
-| Paragraf 158a FamFG | Qualifikationsanforderungen an den Verfahrensbeistand |
-| Paragraf 1684 BGB | Umgangsrecht des Kindes mit jedem Elternteil; Wohlverhaltenspflicht beider Eltern |
-| Paragraf 1666 BGB | Gerichtliche Maßnahmen bei Kindeswohlgefährdung; Ausschluss oder Einschränkung des Umgangs |
-| Paragraf 1671 BGB | Alleinige elterliche Sorge auf Antrag eines Elternteils nach Trennung |
-| Paragraf 17 SGB VIII | Beratung in Trennungs- und Scheidungssituationen durch Jugendamt; Jugendhilfeleistungen |
-| Paragraf 18 SGB VIII | Beratung und Unterstützung bei Ausübung des Umgangsrechts |
-| MediationsG | Grundsätze der Mediation; Vertraulichkeit, Freiwilligkeit, Eigenverantwortung |
-| Paragraf 278a ZPO | Gerichtliche Mediation / Güterichterverfahren (analog in Familiensachen) |
-| Paragraf 127a BGB | Gerichtliche Protokollierung als Ersatz für notarielle Beurkundung bei Vergleichen |
-| Paragraf 36 FamFG | Vergleich im familiengerichtlichen Verfahren; Protokollierung mit Vollstreckungswirkung |
-
-## Leitentscheidungen
-
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-
-## ADR-Pfade im Überblick
-
-| ADR-Pfad | Rechtsgrundlage | Dauer typisch | Kosten ca. | Besonderheit |
-|----------|----------------|--------------|------------|--------------|
-| Außergerichtliche Familienmediation (DGFM) | MediationsG | 5–10 Sitzungen à 90 min | EUR 100–180/h pro Mediator | Vollständige Vertraulichkeit; Ergebnis als privatschriftliche Vereinbarung |
-| Cochemer Modell / Cochemer Praxis | Paragraf 156 FamFG iVm Netzwerkvereinbarungen | 4–8 Wochen | Keine gesonderten Kosten (Jugendamt) | Interdisziplinär: Anwälte, Jugendamt, Gericht, Berater gemeinsam |
-| Gerichtliche Mediation / Güterichter | Paragraf 36a FamFG; Paragraf 278a ZPO analog | 1–3 Sitzungen | Keine Mehrkosten (Gerichtsgebühr) | Mediator ist Richter eines anderen Spruchkörpers; Protokoll nach Paragraf 127a BGB |
-| Vermittlungsverfahren | Paragraf 165 FamFG | 3 Monate max. | Keine gesonderten Kosten | Nur bei Umgangsverweigerung; Jugendamt oder geeignete Stelle beauftragt |
-| Anwaltliche Vergleichsverhandlung | Paragraf 36 FamFG; Paragraf 127a BGB | Nach Absprache | Anwaltsgebühren nach RVG | Vollstreckungsfähiger Vergleich nach Protokollierung |
-| Familienkonferenz (Family Group Conference) | Paragraf 17 SGB VIII | 1–2 Konferenztage | Keine (Jugendhilfe) | Erweiterter Familien- und Unterstützerkreis einbezogen |
-
-## Ablauf Cochemer Modell
-
-| Phase | Akteur | Inhalt | Zeitrahmen |
-|-------|--------|--------|-----------|
-| 1. Eingang Antrag | Familiengericht | Paragraf 155 FamFG: Termin innerhalb 1 Monat; Jugendamt benachrichtigt | Tag 1–5 |
-| 2. Frühe Erörterung | Richter + Jugendamt + ggf. Verfahrensbeistand | Paragraf 155a FamFG: Gemeinsamer Termin; Cochemer-Netzwerk aktiviert | Bis Woche 4 |
-| 3. Parallele Beratung | Jugendamt Paragraf 17 SGB VIII + Beratungsstelle | Getrennte Elternberatung; Kindeswohl im Mittelpunkt | Woche 4–8 |
-| 4. Runder Tisch | Alle Beteiligten inkl. Anwälte | Interdisziplinäres Fallgespräch; keine Parteinahme | Woche 6–10 |
-| 5. Einigungsvorschlag | Anwälte + Gericht | Vorläufige Regelung nach Paragraf 156 FamFG; ggf. einstweilige Anordnung | Woche 8–12 |
-| 6. Vereinbarung / Beschluss | Familiengericht | Protokollierung Paragraf 127a BGB oder Beschluss nach Paragraf 1684 BGB | Woche 10–14 |
-
-## Prüfschema Paragraf 156 FamFG
-
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
-
-| Schritt | Prüfpunkt | Norm | Rechtsfolge |
-|---------|-----------|------|-------------|
-| 1 | Kindschaftssache anhängig? (Sorge, Umgang, Kindesherausgabe) | Paragraf 151 FamFG | Anwendungsbereich eröffnet |
-| 2 | Vorrang- und Beschleunigungsgebot beachtet? | Paragraf 155 FamFG | Erster Termin binnen 1 Monat zwingend |
-| 3 | Gericht hat auf Einvernehmen hingewirkt? | Paragraf 156 Abs. 1 FamFG | Pflicht des Gerichts; bei Unterlassen Beschwerde möglich |
-| 4 | Beratung / Mediation angeordnet oder empfohlen? | Paragraf 156 Abs. 1 S. 4 FamFG | Aussetzung des Verfahrens bis zu 3 Monaten zulässig |
-| 5 | Umgangsverweigerung konkret? | Paragraf 165 FamFG | Vermittlungsverfahren obligatorisch vor Ordnungsmittel |
-| 6 | Kindeswohlgefährdung nach Paragraf 1666 BGB? | Paragrafen 1666, 1666a BGB | Schutzklausel: Mediation ungeeignet; Sofortmaßnahmen |
-| 7 | Einigung erzielt? | Paragraf 36 FamFG; Paragraf 127a BGB | Protokollierung; Vollstreckungstitel nach Paragraf 86 FamFG |
-| 8 | Keine Einigung erzielt? | Paragraf 1684 Abs. 3, 4 BGB | Gerichtliche Regelung; ggf. Umgangsausschluss als ultima ratio |
-
-## Prüfschema Paragraf 165 FamFG Vermittlungsverfahren
-
-| Schritt | Prüfpunkt | Norm | Rechtsfolge |
-|---------|-----------|------|-------------|
-| 1 | Vollstreckungsfähiger Umgangstitel vorhanden? | Paragrafen 86, 89 FamFG | Voraussetzung für Vermittlungsverfahren |
-| 2 | Titelschuldner hat Umgang verweigert? | Paragraf 89 FamFG | Ordnungsmittel grundsätzlich möglich |
-| 3 | Gericht hat Vermittlungsverfahren eingeleitet? | Paragraf 165 Abs. 1 FamFG | Jugendamt oder geeignete Stelle beauftragt |
-| 4 | Anhörungstermin durchgeführt? | Paragraf 165 Abs. 3 FamFG | Beide Eltern persönlich geladen; Ordnungsgeld bei Nichterscheinen |
-| 5 | Einigung im Vermittlungsverfahren? | Paragraf 165 Abs. 4 FamFG | Protokollierung als Vergleich |
-| 6 | Kein Erfolg? | Paragraf 165 Abs. 5 FamFG | Rückmeldung an Gericht; Ordnungsmittelverfahren nach Paragraf 89 FamFG |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Familienrechtliche Mediation oder Cochemer Modell | Schriftsatzbausteine unten; Antraegeauswahl nach Konstellation |
-| Variante A — beide Seiten kooperativ | Direktes Mediationsverfahren ohne Gerichtsantrag |
-| Variante B — eine Seite blockiert | Gerichtlicher Vermittlungsantrag Paragraf 165 FamFG als Druckmittel |
-| Variante C — Kindeswohl gefaehrdet | Cochemer Modell nicht ausreichend; Kinderschutzverfahren erwaegen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatz-Bausteine
-
-### Antrag auf gerichtliche Mediation / Güterichterverfahren
-
-```
-An das Amtsgericht – Familiengericht – [Ort]
-
-In dem Verfahren [Az.] beantragen wir namens des/der Antragstellers/in:
-
-Das Gericht möge das Verfahren aussetzen und die Sache einem Güterichter
-nach Paragraf 36a FamFG zur Durchführung eines Güterichterverfahrens überweisen
-(Paragraf 278a ZPO analog).
-
-Begründung:
-Die Beteiligten sind grundsätzlich einigungsbereit. Eine einvernehmliche Regelung
-zur elterlichen Sorge / zum Umgang dient dem Kindeswohl nach Paragraf 1697a BGB besser
-als eine streitige Entscheidung. Die Überweisung an den Güterichter ermöglicht eine
-flexible, auf die Besonderheiten der Familie abgestimmte Lösung im Rahmen des
-Paragraf 156 FamFG.
-
-[Ort, Datum]
-Rechtsanwalt/Rechtsanwältin [Name]
-```
-
-### Antrag auf Einleitung Vermittlungsverfahren Paragraf 165 FamFG
-
-```
-An das Amtsgericht – Familiengericht – [Ort]
-
-In dem Verfahren [Az.] beantragen wir namens des/der Antragstellers/in:
-
-Das Gericht möge gemäß Paragraf 165 Abs. 1 FamFG ein Vermittlungsverfahren einleiten
-und das Jugendamt [Ort] mit der Vermittlung beauftragen.
-
-Begründung:
-Der Antragsgegner/die Antragsgegnerin verweigert seit dem [Datum] die Durchführung
-des titulierten Umgangs (Beschluss/Vergleich vom [Datum], Az. [X]). Vor Einleitung
-des Ordnungsmittelverfahrens nach Paragraf 89 FamFG ist das Vermittlungsverfahren
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Die Antragstellerin/der Antragsteller ist zur Teilnahme bereit.
-
-[Ort, Datum]
-Rechtsanwalt/Rechtsanwältin [Name]
-```
-
-### Mediationsvereinbarung (Muster Schlussprotokoll)
-
-```
-MEDIATIONSVEREINBARUNG
-
-Die Beteiligten [Name 1] und [Name 2] haben in dem Mediationsverfahren
-(Mediator: [Name], zertifiziert nach MediationsG) vom [Datum] bis [Datum]
-folgende Vereinbarung getroffen:
-
-1. Umgang: Das Kind [Name], geb. [Datum], verbringt den Umgang mit
-   [Elternteil] wie folgt: [Regelung].
-
-2. Übergaben: Die Übergabe erfolgt [Ort/Modalitäten].
-
-3. Kommunikation: Die Eltern kommunizieren über [App/E-Mail] ausschließlich
-   zum Wohl des Kindes.
-
-4. Überprüfung: Die Vereinbarung wird nach [6 Monaten] gemeinsam evaluiert.
-
-Diese Vereinbarung wird nach Paragraf 127a BGB gerichtlich protokolliert und erlangt
-damit Vollstreckungswirkung nach Paragraf 86 FamFG.
-
-[Ort, Datum]
-[Unterschriften beider Elternteile und Mediator]
-```
-
-### Antrag auf Bestellung Verfahrensbeistand
-
-```
-An das Amtsgericht – Familiengericht – [Ort]
-
-In dem Verfahren [Az.] beantragen wir namens des/der Antragstellers/in:
-
-Das Gericht möge für das Kind [Name], geb. [Datum], einen Verfahrensbeistand
-gemäß Paragraf 158 FamFG bestellen.
-
-Begründung:
-Das vorliegende Verfahren betrifft das Umgangsrecht in einer hochstrittigen
-Trennungssituation. Die Interessen des Kindes sind durch die Elternkonflikte
-gefährdet. Ein Verfahrensbeistand gemäß Paragraf 158 Abs. 2 FamFG ist zur angemessenen
-Interessenvertretung des Kindes erforderlich. Die Qualifikationsanforderungen nach
-Paragraf 158a FamFG sind bei der Auswahl zu beachten.
-
-[Ort, Datum]
-Rechtsanwalt/Rechtsanwältin [Name]
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-
-## Beweislast
-
-| Beweisthema | Beweislast | Beweismittel |
-|------------|-----------|--------------|
-| Umgangsverweigerung | Antragsteller (umgangsberechtigter Elternteil) | Kommunikationsprotokolle, Zeugen, Terminkalender |
-| Kindeswohlgefährdung Paragraf 1666 BGB | Amtsermittlung (Paragraf 26 FamFG); kein Beweislastgrundsatz | Jugendamtsbericht, Sachverständigengutachten, Aussage Verfahrensbeistand |
-| Bereitschaft zur Mediation | Kein formaler Nachweis erforderlich; Glaubhaftmachung | Schriftliche Einladung, E-Mail-Korrespondenz |
-| Erfolg der Mediation / Einigung | Urkundlich durch Protokoll | Gerichtliches Protokoll nach Paragraf 127a BGB; Mediationsprotokoll |
-| Gewalt / Schutzklausel | Derjenige, der ADR-Ausschluss beantragt | Polizeiberichte, Strafanzeigen, einstweilige Schutzanordnung nach GewSchG |
-
-## Fristen
-
-| Frist | Inhalt | Norm |
-|-------|--------|------|
-| 1 Monat | Erster Gerichtstermin nach Eingang Antrag in Kindschaftssachen | Paragraf 155 Abs. 2 FamFG |
-| 3 Monate | Maximale Aussetzung für außergerichtliche Mediation | Paragraf 156 Abs. 1 S. 4 FamFG |
-| 3 Monate | Gesamtdauer Vermittlungsverfahren Paragraf 165 FamFG | Paragraf 165 Abs. 4 FamFG |
-| 1 Monat | Beschwerde gegen Umgangsbeschluss (Ausgangsgericht) | Paragraf 63 FamFG |
-| 2 Wochen | Ordnungsmittelankündigung vor Vollstreckung | Paragraf 89 Abs. 2 FamFG |
-| Sofort | Einstweilige Anordnung bei Kindeswohlgefährdung Paragraf 1666 BGB | Paragraf 49 FamFG |
-
-## Gegenargumente und Reaktion
-
-| Gegenargument | Herkunft | Reaktion |
-|--------------|---------|----------|
-| "Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach Paragraf 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach Paragraf 89 FamFG als nächste Stufe |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach Paragraf 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
-| "Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | Paragraf 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
-| "Mediationsergebnis ist nicht vollstreckbar" | Mandant | Protokollierung nach Paragraf 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach Paragraf 86 FamFG |
-| "Verfahrensbeistand ist parteiisch für Mutter/Vater" | Elternteil | Paragraf 158 FamFG: Auftrag allein dem Kindeswohl; Qualifikation nach Paragraf 158a FamFG; Beschwerde bei nachgewiesener Einseitigkeit |
-
-## Streitwert und Kosten
-
-**Verfahrenswert Umgangssachen:** EUR 3000 (Paragraf 45 Abs. 1 Nr. 2 FamGKG, Regelwert).
-Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (Paragraf 45 Abs. 3 FamGKG, billiges Ermessen).
-
-**Verfahrenswert Sorgerechtssachen:** EUR 4.000 (Paragraf 45 Abs. 1 Nr. 1 FamGKG).
-
-**Mediationskosten:**
-- Außergerichtliche Familienmediation (DGFM-zertifiziert): EUR 100–180/h pro Mediator; 5–10 Sitzungen à 90 min = EUR 1.500–3.600 gesamt je nach Stundensatz und Sitzungszahl.
-- Gerichtliche Mediation / Güterichter: Keine Mehrkosten zur Gerichtsgebühr; bereits in Verfahrensgebühr enthalten.
-- Vermittlungsverfahren Paragraf 165 FamFG durch Jugendamt: Gebührenfrei für Beteiligte.
-
-**Anwaltsgebühren (RVG):**
-- Verfahrensgebühr 1.3 VV RVG aus EUR 3000 = ca. EUR 262.60
-- Terminsgebühr 1.2 VV RVG = ca. EUR 218.00
-- Einigungsgebühr 1.5 VV RVG bei Abschluss = ca. EUR 262.60
-- Zzgl. Auslagen und 19 % MwSt.
-
-**Verfahrensbeistand:** EUR 350 pauschal je Instanz (Paragraf 158 Abs. 7 FamFG) oder nach tatsächlichem Aufwand.
-
-**PKH/VKH:** Paragraf 76 FamFG iVm Paragrafen 114 ff. ZPO; bewilligungsfähig für Mediation als Nebenkosten, wenn Verfahren anhängig.
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung | Begründung |
-|-----------|------------|-----------|
-| Erste Trennung, beide Elternteile kooperationswillig | Sofortige Familienmediation außergerichtlich (DGFM); kein Gerichtsverfahren einleiten | Günstigster, schnellster Weg; Vereinbarung nach Paragraf 127a BGB protokollieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Hochkonfliktfamilie, kein Konsens möglich | Cochemer Modell aktivieren über Paragraf 156 FamFG; Verfahrensbeistand Paragraf 158 FamFG beantragen | Interdisziplinäre Struktur entlastet Gerichte; Kindesinteresse im Fokus |
-| Häusliche Gewalt / Paragraf 1666 BGB-Verdacht | Keine ADR; sofortige einstweilige Anordnung; Paragraf 1666 BGB-Verfahren | Sicherheit vor Einigung; Schutzanordnung GewSchG parallel |
-| Einigung erzielt, aber fragile Umsetzung | Gerichtliche Protokollierung Paragraf 127a BGB + Follow-up-Mediation nach 6 Monaten | Vollstreckungstitel als Sicherheitsnetz; präventive Eskalationsminderung |
-| Elternteil sabotiert Mediation systematisch | Ordnungsmittelverfahren Paragraf 89 FamFG; Beantragung Sorgerechtsübertragung Paragraf 1671 BGB | Grenzen der ADR; gerichtlicher Schutz des Umgangsrechts als Kindesrecht |
-
-## Anschluss-Skills
-
-- `fachanwalt-familienrecht-umgangsregelung-mustervorlagen` — Konkrete Umgangsregelungen und Beschlussmuster
-- `fachanwalt-familienrecht-scheidungsantrag-stellen` — Einleitung des Scheidungsverfahrens parallel zur Umgangsregelung
-- `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` — Personenstandsrelevante Folgefragen
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Unterhaltsberechnung im Kontext des Sorge-/Umgangsverfahrens
-
-## Quellen
-
-- Paragraf 156 FamFG: https://www.gesetze-im-internet.de/famfg/__156.html
-- Paragraf 165 FamFG: https://www.gesetze-im-internet.de/famfg/__165.html
-- Paragraf 1684 BGB: https://www.gesetze-im-internet.de/bgb/__1684.html
-- MediationsG: https://www.gesetze-im-internet.de/mediationsg/
-- BGH XII ZB 99/20: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%2099/20
-- BVerfG 1 BvR 1491/11: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/02/rs20120201_1bvr149111.html
-- Cochemer Modell Überblick: https://www.cochemer-modell.de/
-- DGFM Familienmediation: https://www.dgfm.de/
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

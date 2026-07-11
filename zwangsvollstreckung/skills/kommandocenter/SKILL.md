@@ -86,7 +86,7 @@ Stand 27.6.2026: Das Gesetz ist im BGBl. 2026 I Nr. 152 verkündet. Für operati
 - Niemals Folge-Skill laden, wenn eine der drei Säulen rot ist.
 - Niemals Mobiliar- oder Forderungspfändung empfehlen, wenn Schuldner in Insolvenz – dann § 89 InsO Vollstreckungsverbot greift.
 - Niemals Sperrfrist § 802d ZPO (zwei Jahre Vermögensauskunft) ignorieren.
-- Bei Verbraucher: stets Pfändungsfreigrenze nach Tabelle 1.7.2025 mitdenken.
+- Bei einer natürlichen Person die seit 1. Juli 2026 geltende Pfändungstabelle, gesetzliche Unterhaltspflichten und gerichtliche Abweichungen erfassen; P-Konto-Schutz getrennt nach Paragrafen 899 ff. ZPO prüfen.
 
 ## Arbeitsstil
 

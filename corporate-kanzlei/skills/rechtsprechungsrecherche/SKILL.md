@@ -30,7 +30,6 @@ description: "Wenn es um Corporate-Rechtsprechungsrecherche in Corporate-Kanzlei
 | bundesfinanzhof.de | BFH-Entscheidungen | Amtlich | Primärquelle Steuerrecht |
 | dejure.org / openjur.de | Instanzgerichte, OLG, LG | Halbamtlich | Ergänzend; Fundstelle immer verifizieren |
 | beck-online.de / juris.de | Volltext + Kommentar | Kommerziell | Preferred für Fundstellenverifizierung |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ## Rechtsprechungs-Kanon Corporate/M&A
 

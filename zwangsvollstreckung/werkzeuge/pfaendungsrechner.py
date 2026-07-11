@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Pfaendungsrechner nach Tabelle 1.7.2025.
+"""Pfaendungsrechner nach Tabelle 1.7.2026.
 
 Berechnet den pfaendbaren Anteil des Nettoarbeitseinkommens nach
-Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl 2025 I Nr. 110, 11.4.2025).
-Gilt vom 1.7.2025 bis 30.6.2026.
+Pfaendungsfreigrenzenbekanntmachung 2026 (BGBl 2026 I Nr. 80, 26.3.2026).
+Gilt vom 1.7.2026 bis 30.6.2027.
 
 Grundlagen:
 - Paragraf 850c Abs. 1 ZPO  Grundfreibetrag
@@ -11,13 +11,13 @@ Grundlagen:
 - Paragraf 850c Abs. 3 ZPO  Quoten 3/10, 5/10, 7/10 und Vollpfaendungsgrenze
 - Paragraf 850c Abs. 5 ZPO  Aufrundung auf naechsten vollen Zehner minus 1 Cent
 
-Quelle: NWB Datenbank, Finanztip, BGBl 2025 I Nr. 110.
+Quelle: BGBl 2026 I Nr. 80 und amtliche Tabelle im Anhang.
 
-Eckwerte (Tabelle 1.7.2025; BGBl 2025 I Nr. 110 vom 11.4.2025):
-- Grundfreibetrag (0 Unterhaltspflichtige): 1.555,00 EUR / Monat
-- Erhoehung 1. unterhaltsberechtigte Person: 585,23 EUR
-- Erhoehung je weitere Person (bis 5. Person): 326,04 EUR
-- Vollpfaendungsgrenze: 4.766,99 EUR (darueber alles pfaendbar)
+Eckwerte (Tabelle 1.7.2026; BGBl 2026 I Nr. 80 vom 26.3.2026):
+- Grundfreibetrag (0 Unterhaltspflichtige): 1.587,40 EUR / Monat
+- Erhoehung 1. unterhaltsberechtigte Person: 597,42 EUR
+- Erhoehung je weitere Person (bis 5. Person): 332,83 EUR
+- Vollpfaendungsgrenze: 4.866,30 EUR (darueber alles pfaendbar)
 
 Die Berechnung folgt der Methode der amtlichen Tabelle: Netto wird auf den
 naechsten vollen 10-EUR-Schritt nach unten abgerundet (Paragraf 850c Abs. 5 ZPO);
@@ -35,19 +35,19 @@ from __future__ import annotations
 import argparse
 import datetime as _dt
 from dataclasses import dataclass
-from decimal import Decimal, ROUND_DOWN
+from decimal import Decimal, ROUND_DOWN, ROUND_HALF_UP
 
 # --------------------------------------------------------------------------- #
-# Konstanten Tabelle 1.7.2025
+# Konstanten Tabelle 1.7.2026
 # --------------------------------------------------------------------------- #
 
-TABELLE_GUELTIG_AB = _dt.date(2025, 7, 1)
-TABELLE_GUELTIG_BIS = _dt.date(2026, 6, 30)
+TABELLE_GUELTIG_AB = _dt.date(2026, 7, 1)
+TABELLE_GUELTIG_BIS = _dt.date(2027, 6, 30)
 
-GRUNDFREIBETRAG = Decimal("1555.00")          # Paragraf 850c Abs. 1 ZPO
-ERHOEHUNG_ERSTE_PERSON = Decimal("585.23")    # Paragraf 850c Abs. 2 Satz 1 ZPO
-ERHOEHUNG_WEITERE_PERSON = Decimal("326.04")  # Paragraf 850c Abs. 2 Satz 2 ZPO
-VOLLPFAENDUNGSGRENZE = Decimal("4766.99")     # Paragraf 850c Abs. 3 Satz 3 ZPO
+GRUNDFREIBETRAG = Decimal("1587.40")          # Paragraf 850c Abs. 1 ZPO
+ERHOEHUNG_ERSTE_PERSON = Decimal("597.42")    # Paragraf 850c Abs. 2 Satz 1 ZPO
+ERHOEHUNG_WEITERE_PERSON = Decimal("332.83")  # Paragraf 850c Abs. 2 Satz 2 ZPO
+VOLLPFAENDUNGSGRENZE = Decimal("4866.30")     # Paragraf 850c Abs. 3 Satz 3 ZPO
 
 # Quoten gemaess Paragraf 850c Abs. 3 ZPO (auf den den Grundfreibetrag
 # uebersteigenden Teil bis zur Vollpfaendungsgrenze):
@@ -69,15 +69,11 @@ QUOTE_GLAEUBIGER_NACH_UP: dict[int, Decimal] = {
     5: Decimal("0.1"),
 }
 
-# P-Konto Sockel Paragraf 850k ZPO (AG SBV Bescheinigung Stand 1.7.2025).
-# Aufrundung des Grundfreibetrags auf naechsten vollen 10er.
-P_KONTO_SOCKEL = Decimal("1560.00")
-P_KONTO_ERHOEHUNG_ERSTE = Decimal("585.23")
-P_KONTO_ERHOEHUNG_WEITERE = Decimal("326.04")
-
-# Selbstbehalt Paragraf 850d ZPO (Duesseldorfer Tabelle Stand 2025,
-# Erwerbstaetiger gegenueber minderjaehrigen Kindern)
-SELBSTBEHALT_PRIVILEG = Decimal("1450.00")
+# P-Konto-Sockel nach Paragraf 899 Absatz 1 ZPO: Grundfreibetrag auf den
+# naechsten vollen Zehner aufgerundet. Erhoehungen folgen Paragraf 902 ZPO.
+P_KONTO_SOCKEL = Decimal("1590.00")
+P_KONTO_ERHOEHUNG_ERSTE = Decimal("597.42")
+P_KONTO_ERHOEHUNG_WEITERE = Decimal("332.83")
 
 
 # --------------------------------------------------------------------------- #
@@ -98,7 +94,7 @@ class Berechnungsergebnis:
 
     def als_text(self) -> str:
         zeilen = [
-            "PFAENDUNGSBERECHNUNG (Tabelle 1.7.2025)",
+            "PFAENDUNGSBERECHNUNG (Tabelle 1.7.2026)",
             "",
             f"Netto:                  {self.netto:>10} EUR / Monat",
             f"Unterhaltspflichten:    {self.unterhaltspflichten:>10}",
@@ -118,10 +114,9 @@ class Berechnungsergebnis:
         return "\n".join(zeilen)
 
 
-def _quantize(value: Decimal) -> Decimal:
-    """Auf zwei Nachkommastellen kaufmaennisch abrunden (Glaeubiger bekommt
-    nicht mehr als rechnerisch ausgewiesen)."""
-    return value.quantize(Decimal("0.01"), rounding=ROUND_DOWN)
+def _cent(value: Decimal) -> Decimal:
+    """Auf Cent runden, wie es die Werte der amtlichen Tabelle ausweisen."""
+    return value.quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
 
 
 def gueltigkeits_warnung(heute: _dt.date | None = None) -> str | None:
@@ -137,7 +132,7 @@ def gueltigkeits_warnung(heute: _dt.date | None = None) -> str | None:
         return (
             f"WARNUNG: Pfaendungstabelle ist seit {TABELLE_GUELTIG_BIS.strftime('%d.%m.%Y')} "
             f"abgelaufen. Aktuelles Tagesdatum {today.strftime('%d.%m.%Y')}. "
-            f"Die hier hinterlegten Eckwerte (Stand 1.7.2025) duerfen nicht mehr verwendet werden. "
+            f"Die hier hinterlegten Eckwerte (Stand 1.7.2026) duerfen nicht mehr verwendet werden. "
             f"Pflicht: Pfaendungsfreigrenzenbekanntmachung {fehlendes_jahr} (BGBl. I) abrufen "
             f"und Modul aktualisieren. Verwendung alter Werte = Pfaendungsfehler mit Aufhebungsrisiko."
         )
@@ -170,8 +165,9 @@ def berechne(
         nach Paragraf 850d ZPO ist. Selbstbehalt wird dann vom Gericht
         festgesetzt; das Werkzeug zeigt nur einen Richtwert.
     selbstbehalt
-        Optionaler Selbstbehalt fuer Paragraf 850d ZPO; default ist
-        SELBSTBEHALT_PRIVILEG.
+        Vom Vollstreckungsgericht festgesetzter oder fuer den konkreten Antrag
+        belastbar ermittelter Selbstbehalt fuer Paragraf 850d ZPO. Bei einer
+        privilegierten Forderung ist die Angabe zwingend.
     """
     netto_d = Decimal(str(netto))
     if netto_d < 0:
@@ -181,28 +177,28 @@ def berechne(
 
     hinweise: list[str] = []
 
-    # Paragraf 850c Abs. 5 ZPO: Netto auf naechsten vollen 10-EUR-Schritt
-    # nach unten abrunden (Tabellenmethode). Nur fuer die regulaere
-    # Tabellenberechnung; Paragraf 850d ZPO laeuft separat.
-    netto_abger = (netto_d / Decimal("10")).to_integral_value(
-        rounding=ROUND_DOWN
-    ) * Decimal("10")
-
     if privileg_850d:
-        selbst = Decimal(str(selbstbehalt)) if selbstbehalt is not None else SELBSTBEHALT_PRIVILEG
+        if selbstbehalt is None:
+            raise ValueError(
+                "Bei Paragraf 850d ZPO muss der konkret anzusetzende "
+                "Selbstbehalt mit --selbstbehalt angegeben werden."
+            )
+        selbst = Decimal(str(selbstbehalt))
+        if selbst < 0:
+            raise ValueError("Selbstbehalt darf nicht negativ sein")
         freibetrag = selbst
         ueber = max(netto_d - freibetrag, Decimal("0"))
-        pfaendbar = _quantize(ueber)  # privilegiert: voller Zugriff oberhalb Selbstbehalt
-        schuldneranteil = _quantize(netto_d - pfaendbar)
+        pfaendbar = _cent(ueber)
+        schuldneranteil = _cent(netto_d - pfaendbar)
         hinweise.append(
             "Paragraf 850d ZPO: Selbstbehalt wird vom Vollstreckungsgericht "
-            "festgesetzt; hier Richtwert nach Duesseldorfer Tabelle."
+            "festgesetzt; die Berechnung verwendet den ausdrücklich angegebenen Betrag."
         )
         return Berechnungsergebnis(
-            netto=_quantize(netto_d),
+            netto=_cent(netto_d),
             unterhaltspflichten=unterhaltspflichten,
-            freibetrag=_quantize(freibetrag),
-            ueber_freibetrag=_quantize(ueber),
+            freibetrag=_cent(freibetrag),
+            ueber_freibetrag=_cent(ueber),
             pfaendbar=pfaendbar,
             schuldneranteil=schuldneranteil,
             privilegiert=True,
@@ -225,33 +221,38 @@ def berechne(
             "Werkzeug rechnet hier mit Tabellenwerten fuer 5 Personen."
         )
 
-    ueber = max(netto_abger - freibetrag, Decimal("0"))
+    # Oberhalb der Vollpfaendungsgrenze ist der Mehrbetrag centgenau voll
+    # pfaendbar. Nur der verbleibende Tabellenbetrag wird nach Paragraf 850c
+    # Absatz 5 ZPO auf volle zehn Euro abgerundet.
+    voll_pfaendbar = max(netto_d - VOLLPFAENDUNGSGRENZE, Decimal("0"))
+    tabellen_netto = min(netto_d, VOLLPFAENDUNGSGRENZE)
+    tabellen_netto_abger = (
+        (tabellen_netto / Decimal("10")).to_integral_value(rounding=ROUND_DOWN)
+        * Decimal("10")
+    )
+    ueber_tabelle = max(tabellen_netto_abger - freibetrag, Decimal("0"))
+    ueber_gesamt = max(netto_d - freibetrag, Decimal("0"))
 
     # Pfaendbarkeitsquote im Tabellenbereich nach Unterhaltsstaffel
     # Paragraf 850c Abs. 3 Saetze 1 und 2 ZPO.
     quote_glaeubiger = QUOTE_GLAEUBIGER_NACH_UP[min(unterhaltspflichten, 5)]
 
-    if netto_abger >= VOLLPFAENDUNGSGRENZE:
-        # alles oberhalb Vollpfaendungsgrenze ist 100 % pfaendbar,
-        # darunter quotal mit unterhaltsabhaengiger Quote
-        teil_unter_grenze = max(VOLLPFAENDUNGSGRENZE - freibetrag, Decimal("0"))
-        teil_ueber_grenze = netto_abger - VOLLPFAENDUNGSGRENZE
-        pfaendbar_quotal = teil_unter_grenze * quote_glaeubiger
-        pfaendbar = _quantize(pfaendbar_quotal + teil_ueber_grenze)
+    if voll_pfaendbar > 0:
+        pfaendbar = _cent(ueber_tabelle * quote_glaeubiger + voll_pfaendbar)
         hinweise.append(
             f"Netto liegt ueber der Vollpfaendungsgrenze {VOLLPFAENDUNGSGRENZE} EUR; "
             "darueber 100 Prozent pfaendbar."
         )
     else:
-        pfaendbar = _quantize(ueber * quote_glaeubiger)
+        pfaendbar = _cent(ueber_tabelle * quote_glaeubiger)
 
-    schuldneranteil = _quantize(netto_d - pfaendbar)
+    schuldneranteil = _cent(netto_d - pfaendbar)
 
     return Berechnungsergebnis(
-        netto=_quantize(netto_d),
+        netto=_cent(netto_d),
         unterhaltspflichten=unterhaltspflichten,
-        freibetrag=_quantize(freibetrag),
-        ueber_freibetrag=_quantize(ueber),
+        freibetrag=_cent(freibetrag),
+        ueber_freibetrag=_cent(ueber_gesamt),
         pfaendbar=pfaendbar,
         schuldneranteil=schuldneranteil,
         privilegiert=False,
@@ -270,7 +271,7 @@ def p_konto_freibetrag(unterhaltspflichten: int = 0) -> Decimal:
     if unterhaltspflichten >= 2:
         bis_fuenf = min(unterhaltspflichten, 5) - 1
         betrag += P_KONTO_ERHOEHUNG_WEITERE * bis_fuenf
-    return _quantize(betrag)
+    return _cent(betrag)
 
 
 # --------------------------------------------------------------------------- #
@@ -280,7 +281,7 @@ def p_konto_freibetrag(unterhaltspflichten: int = 0) -> Decimal:
 
 def _build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
-        description="Pfaendungsrechner nach Tabelle 1.7.2025 (Paragraf 850c ZPO)."
+        description="Pfaendungsrechner nach Tabelle 1.7.2026 (Paragraf 850c ZPO)."
     )
     p.add_argument("--netto", type=str, help="Nettoeinkommen pro Monat in EUR.")
     p.add_argument(
@@ -298,7 +299,7 @@ def _build_parser() -> argparse.ArgumentParser:
         "--selbstbehalt",
         type=str,
         default=None,
-        help="Selbstbehalt fuer Paragraf 850d ZPO (Default 1.450,00 EUR).",
+        help="Konkret anzusetzender Selbstbehalt fuer Paragraf 850d ZPO (bei --privileg erforderlich).",
     )
     p.add_argument(
         "--p-konto",
@@ -314,7 +315,7 @@ def _build_parser() -> argparse.ArgumentParser:
 
 
 def _print_tabelle() -> None:
-    print("Pfaendungstabelle (Auszug) - Tabelle 1.7.2025")
+    print("Pfaendungstabelle (Auszug) - Tabelle 1.7.2026")
     print()
     kopf = ["Netto"] + [f"U={n}" for n in range(0, 6)]
     print(" | ".join(f"{c:>10}" for c in kopf))
@@ -332,7 +333,7 @@ def main(argv: list[str] | None = None) -> int:
     ns = parser.parse_args(argv)
 
     # Gueltigkeits-Pruefung vor jeder Ausgabe: Pflicht-Selbstcheck, damit
-    # nach Ablauf der Tabelle (30.6.2026) keine alten Werte unbemerkt
+    # nach Ablauf der Tabelle (30.6.2027) keine alten Werte unbemerkt
     # weiterverwendet werden.
     warn = gueltigkeits_warnung()
     if warn:

@@ -29,8 +29,7 @@ description: "Wenn es um Digitale Durchsuchung und Datensicherung in Staatsanwal
 
 - BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug darf den Richtervorbehalt nur bei dokumentierter Eilbedürftigkeit verdrängen.
 - BVerfG, Beschluss vom 12.04.2005 - 2 BvR 1027/02, BVerfGE 113, 29: Durchsuchung und Beschlagnahme bei Berufsgeheimnisträgern verlangen gesteigerte Verhältnismäßigkeit und Schutz vertraulicher Mandatskommunikation.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- BVerfG, Urteil vom 27. Februar 2008, 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Den Anker nur für heimlichen Zugriff auf informationstechnische Systeme und vergleichbar intensive Maßnahmen verwenden. Er begründet das Recht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme; er ist kein pauschaler Verwertungsanker für jedes sichergestellte Gerät.
 
 ## Antrags- bzw. Verfügungs-Bausteine
 

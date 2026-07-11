@@ -11,7 +11,8 @@ Arbeitsfokus: **Anlagen: elektronische Dokumente**. Prüfe diese Anker am Sachve
 
 - `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
 - `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
-- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- ZPO Paragraf 130a Absatz 6 — gerichtlicher Hinweis und unverzügliche geeignete Nachreichung bei technisch ungeeignetem elektronischem Dokument.
+- ZPO Paragraf 130d Sätze 2 bis 4 — Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit.
 - `§ 2 ERVV` — Dateiformate und technische Anforderungen.
 - `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
 - `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.

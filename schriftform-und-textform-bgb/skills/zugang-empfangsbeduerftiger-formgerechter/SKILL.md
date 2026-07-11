@@ -63,7 +63,6 @@ Grundloses Zurückweisen eines eingeschriebenen Briefs: Zugang mit Rückgabezeit
 | E-Mail (Empfänger-Postfach) | Eingang auf Empfänger-Mailserver, wenn abrufbar |
 | Fax | Eingang im Speicher des Empfänger-Faxgeräts |
 | WhatsApp / Messenger | Eingang auf Empfänger-Gerät (Doppelhaken) — str. |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ### Beweislast Zugang
 

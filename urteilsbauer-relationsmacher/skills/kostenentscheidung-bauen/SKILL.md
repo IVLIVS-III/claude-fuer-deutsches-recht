@@ -85,6 +85,3 @@ Dies ergibt eine Obsiegensquote von [X] Prozent.
 ## Streitwert
 
 Streitwertbeschluss separat oder im Tenor. Pflicht zur Begründung bei Abweichung vom Klagantrag.
-
-<!-- AUDIT 27.05.2026
--->

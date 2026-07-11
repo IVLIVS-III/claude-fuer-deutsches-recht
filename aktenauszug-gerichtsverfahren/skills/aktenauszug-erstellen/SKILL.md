@@ -192,33 +192,6 @@ Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
 
 Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturiertes Arbeits- und Kommunikationsmittel für den anwaltlichen Alltag und bedarf der Prüfung durch den verantwortlichen Rechtsanwalt.
 
-## Audit-Hinweis (27.05.2026)
+## Quellenkontrolle
 
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- BGH VII ZB 36/20: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org oder bundesgerichtshof.de; NJW-RR 2022, 1350 konnte keinem BGH VII ZB 36/20 zugeordnet werden)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 KSchG
-- § 80 VwGO
-- § 86b SGG
-- § 74 VwGO
-- § 124 VwGO
-- § 64 ArbGG
-- § 72 ArbGG
-- § 132 VwGO
-- § 123 VwGO
-- § 103 SGG
-- § 151 SGG
-- § 66 ArbGG
-
-### Leitentscheidungen
-
-- BGH VII ZB 36/20
-- BGH VI ZR 146/19
-- BGH VI ZR 84/19
-- BGH VI ZR 396/18
-- BGH VII ZR 131/13
+Ein Aktenauszug übernimmt Rechtsprechung nicht als bloße Aktenzeichenliste. Jede Entscheidung wird mit Gericht, Datum, Aktenzeichen, Fundstelle, Streitfrage, tragender Aussage und prozessualer Bedeutung erfasst. Akteneinsicht und Aktenzugang richten sich nach dem konkreten Verfahren, insbesondere Paragraf 299 ZPO, Paragraf 147 StPO, Paragraf 100 VwGO, Paragraf 120 SGG oder Paragraf 13 FamFG; Normen verschiedener Rechtswege nicht vermischen.

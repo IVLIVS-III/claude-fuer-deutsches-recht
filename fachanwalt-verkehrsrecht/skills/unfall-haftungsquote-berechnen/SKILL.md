@@ -48,7 +48,6 @@ description: "Wenn es um Unfall Haftungsquote Berechnen in Fachanwalt Verkehrsre
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -61,9 +60,7 @@ description: "Wenn es um Unfall Haftungsquote Berechnen in Fachanwalt Verkehrsre
 | 3 | Fahrerverschulden feststellbar? | § 18 StVG; § 823 BGB | Entlastungsnachweis durch Fahrer möglich |
 | 4 | Direktanspruch gegen Versicherer? | § 115 VVG | Deckungsschutz prüfen; Versicherungsschein beschaffen |
 | 5 | Beidseitige Betriebsgefahr — Quote? | § 17 StVG; § 254 BGB | Verursachungsbeiträge: Verschulden + Betriebsgefahr |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Mitverschulden Mandant? | § 254 BGB | Tempo, Abstand, Anschnallen, Alkohol |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 | 13 | Verdienstausfall? | § 252 BGB | Bruttolohn-Ausfall; Eigenanteil Krankengeld abziehen |
 | 14 | SGB X-Regress droht? | § 116 SGB X | Krankenkasse, BG regressieren — Quote beachten |
@@ -250,9 +247,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand Versicherer | Reaktion |
 |---|---|
 | Mandant war selbst zu schnell | Nachfragen: Konkrete Messung? Zeugen? Beweislast liegt beim Versicherer |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Sachverständigenkosten zu hoch | BGH: Geschädigter darf Vertrauenssachverständigen beauftragen; nur grobe Unverhältnismäßigkeit schadet |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | SGB X-Übergang bestimmte Positionen | Nur sachlich und zeitlich kongruente Positionen; Quotenvorrecht des Geschädigten § 116 Abs. 3 SGB X |
 | Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
 

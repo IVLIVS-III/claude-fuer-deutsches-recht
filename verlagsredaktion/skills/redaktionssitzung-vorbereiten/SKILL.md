@@ -71,7 +71,7 @@ Anwesend: Schriftleitung, Lektorat, Verlagsleitung
 1. (15 min) Heft 12/2026: Statusbericht, Druckfreigabe
 2. (20 min) Heft 13/2026: 4 Manuskripte zur Annahme
 3. (20 min) Heft 14/2026: Aufmacher waehlen (3 Vorschlaege)
-4. (10 min) Reaktion auf BGH-Urteil vom 30.05.2026 (Anmerkung?)
+4. (10 min) Reaktion auf [Gericht, Entscheidungsart, Datum, Aktenzeichen; Primärquelle geprüft] (Anmerkung?)
 5. (15 min) Themenscout Q3/2026 (3 Kandidaten)
 6. (10 min) Verschiedenes, naechste Sitzung
 ```

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen IT- oder Softwarevertrag prüfen und Leistungspflichten sowie Haftung sauber fassen.
+Wenn du das hier öffnest, willst du Plattformrolle, Meldeweg, Sperre, Risikopflicht oder Gatekeeper-Vorgabe unmittelbar in eine belastbare Maßnahmen- und Verfahrensmatrix übersetzen.
 
 # Dsa Dma Digitalregulierung — Schnellstart
 
@@ -17,47 +17,47 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Leistungsmodell: Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen.
-2. Pflichtenheft: Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen.
-3. Störung: Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen.
-4. Rechte und Daten: Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen.
-5. Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen.
-6. DSA: Dark Patterns abrufen: Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen.
+1. Dienst und Rolle: Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen.
+2. Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen.
+3. Pflichtmatrix: Adressat, Schwellenwert, Tatbestand, Frist, Begründung, Transparenz, Datenbeleg und Aufsicht zuordnen.
+4. Grundrechte und Verfahren: Nutzerposition, Unternehmerfreiheit, Meinungsfreiheit, Gehör, Beschwerdeweg und gerichtlichen Rechtsschutz trennen.
+5. Arbeitsprodukt: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
+6. DSA: Dark Patterns abrufen: Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting /.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 327; BGB Paragraf 327e; BGB Paragraf 433 |
-| Rechtsprechung | EuGH, Urteil vom 03.07.2012 - C-128/11; BGH, Urteil vom 15.11.2006 - XII ZR 120/04 |
-| Tatbestand | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen |
-| Beweislast | Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung |
-| Rechtsfolge | Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag |
+| Normenanker | DSA Artikel 3 bis Artikel 6; DSA Artikel 11 bis Artikel 17; DSA Artikel 20 bis Artikel 23 |
+| Rechtsprechung | EuGH, Urteil vom 12.07.2011 - C-324/09; EuGH, Urteil vom 03.10.2019 - C-18/18 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| DSA: Dark Patterns abrufen | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| DMA: Fristen, Form, Zuständigkeit und Rechtsweg | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| DSA: Internes Beschwerdesystem | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kernplattformdienste: Sonderfall und Edge-Case-Prüfung | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klage gegen Designations-Beschluss — Art. 263 AEUV | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klagewege: Mandantenkommunikation und Entscheidungsvorlage | Leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DSA: Dark Patterns abrufen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting /. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DMA: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting /. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| DSA: Internes Beschwerdesystem | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting /. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kernplattformdienste: Sonderfall und Edge-Case-Prüfung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting /. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klage gegen Designations-Beschluss — Art. 263 AEUV | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klagewege: Mandantenkommunikation und Entscheidungsvorlage | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting /. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
-- BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
-- BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
-- BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
-- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage gegen Designierungsbeschluss: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
-- BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+- DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp.
+- DSA Artikel 11 bis Artikel 17: Kontaktstellen, Transparenz, Melde- und Abhilfeverfahren sowie Begründung von Beschränkungen.
+- DSA Artikel 20 bis Artikel 23: internes Beschwerdesystem, außergerichtliche Streitbeilegung, vertrauenswürdige Hinweisgeber und Missbrauchsschutz.
+- DSA Artikel 34, Artikel 35 und Artikel 40: systemische Risikobewertung, Risikominderung und Datenzugang bei sehr großen Diensten.
+- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage gegen Designierungsbeschluss; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
+- EuGH, Urteil vom 03.10.2019 - C-18/18: Glawischnig-Piesczek betrifft Unterlassungsanordnungen gegen Hostingdienste nach der früheren E-Commerce-Richtlinie; Reichweite und Übertragbarkeit sind unter dem DSA neu zu prüfen.
 
 ## 7. Antwortform
 

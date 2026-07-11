@@ -31,7 +31,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag. |
 | 1. Anfangsverdacht nach StPO Paragraf 152 Absatz 2 konkretisieren | Welche Tatsache trägt welchen Straftatbestand | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag. |
 
-Rechtsprechungsstatus: BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98; BGH, Beschluss vom 10.01.2017 - 4 StR 247/16. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+Rechtsprechungsstatus: BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98; BGH, Urteil vom 26.04.2017 - 2 StR 247/16. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
 
 ## 4. Scharfer Einstieg — erst sortieren, dann sofort prüfen
 
@@ -168,7 +168,7 @@ Die Amtsanwaltschaft entscheidet die typischen Massen- und Kleinverfahren. Die Z
 
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung; das Gericht darf nicht einseitig der Belastungsaussage folgen, ohne die Gegengründe erschoepfend zu würdigen.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Aussageanalyse in Sexualstrafverfahren muss Entstehungsgeschichte, Konstanz und Motivlage der belastenden Zeugen einbeziehen; hohle Formelauwendung genügt nicht.
-- BGH, Beschluss vom 10.01.2017 - 4 StR 247/16: Beweiswürdigung darf keine Lücken und Widersprüche offenlassen; das Urteil muss erkennen lassen, dass das Gericht alle wesentlichen Beweisergebnisse in seine Überlegung einbezogen hat.
+- BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Bei einer legendierten Kontrolle besteht kein allgemeiner Vorrang der Strafprozessordnung vor dem Gefahrenabwehrrecht; die Verwertung präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Absprachen im Strafverfahren beduerfen Transparenz, umfassender Belehrung des Angeklagten und lückenloser Protokollierung; versteckte Absprachen verletzen das Rechtsstaatsprinzip.
 
 ## 10. Verfügungs- und Anklage-Gerüst

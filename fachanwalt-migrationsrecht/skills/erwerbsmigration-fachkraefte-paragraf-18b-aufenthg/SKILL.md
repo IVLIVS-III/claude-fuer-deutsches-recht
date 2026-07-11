@@ -1,39 +1,49 @@
 ---
 name: erwerbsmigration-fachkraefte-paragraf-18b-aufenthg
-description: "Wenn es um Erwerbsmigration Fachkraefte Paragraf 18b Aufenthg in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Routet akademische Fachkräfte zwischen Aufenthaltserlaubnis nach Paragraf 18b AufenthG und Blauer Karte EU nach Paragraf 18g. Liefert Qualifikations-, Gehalts- und Zustimmungsprüfung, Unterlagenplan, Behördenantrag und Strategie bei Verzögerung oder Ablehnung."
 ---
 
-# Erwerbsmigration Fachkraefte Paragraf 18b Aufenthg
+# 1. Akademische Fachkraft und Blaue Karte EU
 
-## Einsatzlage
+## 1.1 Start mit der richtigen Aufenthaltsspur
 
-IT-Spezialist aus Indien beantragt Blue Card; Mindestlohn Streit.
+Lies Pass, Abschluss und Anerkennungsnachweis, Arbeitsvertrag, Tätigkeitsbeschreibung, Gehalt, Wochenstunden, Berufserlaubnis, Voraufenthalte und Behördenkorrespondenz. Prüfe nicht vorschnell nur die Blaue Karte EU, sondern vergleiche mindestens Paragraf 18b und Paragraf 18g AufenthG.
 
-## Normenanker
+## 1.2 Routing
 
-- § 18b AufenthG
-- § 4 AufenthG
-- § 25 AufenthG
-- § 60 AufenthG
-- Art. 7 RL 2004/38/EG
+1. Paragraf 18b AufenthG betrifft Fachkräfte mit akademischer Ausbildung und eröffnet die Aufenthaltserlaubnis für jede qualifizierte Beschäftigung. Die Vorschrift enthält keine allgemeine feste Blue-Card-Gehaltsgrenze.
+2. Paragraf 18g AufenthG regelt die Blaue Karte EU. Er verlangt insbesondere ein Arbeitsplatzangebot für mindestens sechs Monate, eine angemessene Beschäftigung und die jeweils geltende Gehaltsschwelle.
+3. Prüfe Paragraf 18a, Paragraf 19c, Anerkennungsmaßnahmen und Chancenkarte nur, wenn Qualifikation oder Beschäftigung die akademische Fachkraftspur nicht tragen.
+4. Bei reglementierten Berufen muss die Berufsausübungserlaubnis erteilt oder zugesagt sein.
+5. Bei erstmaliger Erteilung nach Paragraf 18b nach Vollendung des 45. Lebensjahres prüfe die besondere Gehalts- oder Altersvorsorgevoraussetzung nach Paragraf 18 Absatz 2 Nummer 5 AufenthG.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 1.3 Blue-Card-Prüfung 2026
 
-- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
+| Fallgruppe | Mindestbrutto 2026 | Zustimmung der Bundesagentur für Arbeit | Zusatzprüfung |
+| --- | ---: | --- | --- |
+| allgemeine Blaue Karte EU | 50.700 Euro jährlich | grundsätzlich nicht erforderlich | Abschluss und angemessene Beschäftigung |
+| Mangelberuf | 45.934,20 Euro jährlich | erforderlich | aktuelle ISCO-Gruppe und Beschäftigungsbedingungen |
+| Abschluss höchstens drei Jahre alt | 45.934,20 Euro jährlich | erforderlich | Abschlussdatum |
+| IT-Fach- oder Führungskraft ohne formalen Abschluss | 45.934,20 Euro jährlich | erforderlich | mindestens drei Jahre einschlägige Erfahrung in den letzten sieben Jahren auf vergleichbarem Niveau |
 
-## Prüfprogramm
+Die Beträge ändern sich jährlich. Verifiziere sie für das Antragsjahr anhand der amtlichen Bekanntmachung; rechne Monatsgehalt, Sonderzahlungen, variable Vergütung und Teilzeit nachvollziehbar um.
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+## 1.4 Qualifikation und Beschäftigung
 
-## Arbeitsergebnis
+1. Ordne Abschluss und Hochschule über Anabin oder eine Zeugnisbewertung ein; ein bloßer Ausdruck ohne Zuordnung genügt nicht immer.
+2. Vergleiche Studien- oder Erfahrungsprofil mit den tatsächlichen Aufgaben, Verantwortung und erforderlichem Qualifikationsniveau.
+3. Prüfe, ob der Vertrag mindestens sechs Monate Beschäftigung vorsieht und ob Befristung, Probezeit oder aufschiebende Bedingung die Erteilung beeinflussen.
+4. Sichere Arbeitgebererklärung, Stellenbeschreibung, Gehaltsbestandteile und Zustimmungslage.
+5. Bei IT-Erfahrung ohne Abschluss erstelle eine Projektchronik mit Zeitraum, Rolle, Technologie, Verantwortung und Arbeitgeberbeleg.
 
-Mindestlohnschwelle 2/3 BBG; aktuell 45.300 EUR.
+## 1.5 Verfahrensplan
 
-## Belege und Aktenlücken
+1. Bestimme Visumverfahren, zuständige Auslandsvertretung, zentrale Ausländerbehörde und gegebenenfalls beschleunigtes Fachkräfteverfahren.
+2. Führe eine Unterlagenmatrix mit Dokument, Aussteller, Sprache, Beglaubigung, Übersetzung, Gültigkeit und fehlender Information.
+3. Berechne Fristen und Beschäftigungsbeginn; kläre, ob eine vorläufige Beschäftigung rechtlich zulässig ist.
+4. Bei Verzögerung dokumentiere Vollständigkeit, Sachstandsanfragen und konkrete wirtschaftliche Folgen, bevor Untätigkeits- oder Eilrechtsschutz geprüft wird.
+5. Bei Ablehnung trenne Qualifikation, Gehalt, Zustimmung, allgemeine Erteilungsvoraussetzungen und Ermessensfehler in selbstständige Angriffspunkte.
 
-- Arbeitsvertrag
-- Gehaltsbescheinigung
+## 1.6 Ausgabe
+
+Liefere Routingentscheidung zwischen Paragraf 18b und Paragraf 18g AufenthG, Qualifikations- und Gehaltsrechnung, Zustimmungsstatus, Unterlagenliste, Fristenplan und ausformulierten Antrag oder Rechtsbehelf. Nenne Betrag und Quellenjahr sichtbar; verwende weder eine alte Zweidrittel-Formel noch den früheren Wert von 45.300 Euro.

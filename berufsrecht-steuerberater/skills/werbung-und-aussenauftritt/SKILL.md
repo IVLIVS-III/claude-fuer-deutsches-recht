@@ -22,6 +22,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+## Verifizierter Rechtsprechungsanker
+
+- BVerfG, Beschluss vom 26.10.2004 - 1 BvR 981/00: Werbung ist Teil der Berufsausübung. Das Sachlichkeitsgebot beschränkt die Darstellung nicht auf nüchterne Fakten; ein Verbot braucht einen Bezug zu den geschützten Belangen der Steuerrechtspflege und darf nicht allein an Werbeträger, Größe oder Unüblichkeit anknüpfen. Prüfe daneben insbesondere Wahrheit, Irreführungsgefahr und die Grenze zur Auftragswerbung im Einzelfall.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

@@ -52,8 +52,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Art. 101 AEUV - Kartellverbot: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 101 AEUV - Kartellverbot; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

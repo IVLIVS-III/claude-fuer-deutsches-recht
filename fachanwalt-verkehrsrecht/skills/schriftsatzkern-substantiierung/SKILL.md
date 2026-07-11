@@ -224,5 +224,3 @@ Vor Versand:
 ## Aktuelle Rechtsprechung Schriftsatz Verkehrsrecht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-<!-- AUDIT 27.05.2026: BGH VI ZR 252/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND); ersetzt durch verifizierten BGH VI ZR 491/15 (dejure.org 2016,29366) zum selben Thema Sachverstaendigenkosten. BGH VI ZR 79/19 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). NJW-Fundstelle VI ZR 344/21 korrigiert: 2023, 1123 (nicht 2023, 448). -->

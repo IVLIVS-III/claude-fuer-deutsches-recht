@@ -252,9 +252,9 @@ Kern-Punkte:
 ## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026, verifiziert dejure.org / curia.europa.eu)
 
 - **EuGH 23.10.2014, C-359/11 (Schulz)**: Preisanpassungsklauseln in Strom-/Gaslieferungsvertraegen nach AVBEltV/GVV — Änderungen müssen rechtzeitig mitgeteilt werden, Verbraucher muss Kuendigungsrecht haben. Quelle: curia.europa.eu (CELEX 62011CJ0359).
-- **BGH 28.10.2015, VIII ZR 158/11**: Preisanpassung Energielieferungsvertrag — § 5 Abs. 2 GasGVV Transparenz-Anforderungen; AGB-Kontrolle § 307 BGB. Quelle: dejure.org/2015,33580.
-- **BGH 24.03.2010, VIII ZR 178/08**: Preisaenderungsklauseln in Sondervertraegen Strom/Gas — wirksame Indexbindung erfordert klare Berechnungsformel. Quelle: dejure.org/2010,5874.
-- **BGH 09.02.2011, VIII ZR 295/09**: Billigkeit der Leistungsbestimmung § 315 BGB; Beweislast Versorger für Billigkeit. Quelle: dejure.org/2011,4286.
+- **BGH 28.10.2015, VIII ZR 158/11**: Aus den damaligen gesetzlichen Vorschriften ließ sich nach der EuGH-Entscheidung kein transparentes gesetzliches Preisänderungsrecht mehr herleiten. Der BGH entwickelte für unbefristete Grundversorgungsverträge eine ergänzende Vertragsauslegung: Bezugskostensteigerungen dürfen nur weitergegeben werden, soweit ihnen keine Kostensenkungen gegenüberstehen; zusätzliche Gewinne sind nicht umfasst. Quelle: dejure.org/2015,33580.
+- **BGH 24.03.2010, VIII ZR 178/08**: Auch eine verständliche und nach dem Preisklauselgesetz zulässige Spannungsklausel unterliegt der Inhaltskontrolle. Die alleinige Bindung des Gasarbeitspreises an Heizöl benachteiligte den Kunden unangemessen, weil sinkende sonstige Gestehungskosten unberücksichtigt blieben. Quelle: dejure.org/2010,5874.
+- **BGH 09.02.2011, VIII ZR 295/09**: Das gesetzliche Preisänderungsrecht der früheren AVBGasV galt nicht unmittelbar für einen aus Kundensicht außerhalb der allgemeinen Tarife geschlossenen Sonderkundenvertrag. Vertragstyp, einbezogene Klausel, Preissockel und rechtzeitiger Widerspruch sind vor einer Billigkeitskontrolle zu bestimmen. Quelle: dejure.org/2011,4286.
 - **EuGH 02.09.2021, C-718/18**: Unabhaengigkeit der Bundesnetzagentur als Regulierungsbehoerde. Quelle: curia.europa.eu.
 
 **Gesetzeslage 2026:** EnSiG (Energiesicherungsgesetz) — § 24 Anpassungsklauseln bei Gasmangellage (BGBl. I 2022 S. 1054); EnWG-Novellen 2023/2024.

@@ -1,66 +1,118 @@
-Wenn du das hier öffnest, willst du aus einer Akte sofort eine prozessfähige Route bauen: Zuständigkeit, Frist, Antrag, Tatsachenvortrag, Beweis und nächste Verfügung.
+# Anlagen zu Schriftsätzen: Schnellstart zur beA-Versandmappe
 
-# Anlagen Zu Schriftsätzen — Schnellstart
+## 1. Auftrag
 
-Ziel: Anlagenmanagement für gerichtliche Schriftsätze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/AST/AG-Anlagen mit Verzeichnis, Konvolutdeckblaettern, Stempel-/Dateinamenregeln, Hashlog, Lückenliste und Qualitygate. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Mache aus dem vorhandenen Schriftsatz und dem zugehörigen Dokumentenordner eine kontrollierte, versandfertige Gerichtsmappe. Lies zuerst alle vorhandenen Dateien. Beginne nicht mit einem allgemeinen Fragenkatalog und erkläre nicht nur, was zu tun wäre. Liefere zuerst die Produktionsmatrix, arbeite erkennbare Schritte sofort ab und frage höchstens nach einer Weiche, ohne die Nummernkreis, Frist, Gericht oder Signaturweg falsch würden.
 
-## 1. Schnellmodus
+Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung über den vorgesehenen elektronischen Weg versenden kann.
 
-Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.
+## 2. Sofortausgabe
 
-## 2. Direktstart
+Beginne mit höchstens sieben Sätzen:
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. erkannter Schriftsatzstand und Verfahrensrolle,
+2. Gericht, Aktenzeichen und Frist, soweit erkennbar,
+3. Zahl der genannten und vorhandenen Anlagen,
+4. erste Nummernlücke oder erster Widerspruch,
+5. gewähltes oder noch offenes Dateinamensprofil,
+6. stärkster Stop-Punkt,
+7. nächster unmittelbar ausgeführter Produktionsschritt.
 
-## 3. Kernroute
+Danach diese Matrix ausfüllen:
 
-1. Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern.
-2. Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen.
-3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen.
-4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
-5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
-6. Anlagen zu Schriftsätzen — Allgemein: Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen.
+| Position | Schriftsatzstelle | Datei | Beweisthema | Nummer | PDF/Stempel | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hauptdokument | gesamte Fassung | Datei | Anträge und Vortrag | 00 | final oder offen | Status |
+| Anlage | Seite und Absatz | Datei | konkrete Tatsache | K 1 oder B 1 | offen oder fertig | Status |
 
-## 4. Fallkarte
+## 3. Arbeitsfolge
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d; ZPO Paragraf 138 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen |
-| Beweislast | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss |
-| Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+### 3.1. Schriftsatz lesen
 
-## 5. Einsatzfelder
+Prüfe Rubrum, Gericht, Aktenzeichen, Anträge, Datum, Unterschriftszeile und jede Anlagenreferenz. Eine tragende Tatsache muss im Schriftsatz stehen; eine Anlage darf sie belegen, aber nicht ersetzen.
 
-| Feld | Sofortgriff | Ausgabe |
-| --- | --- | --- |
-| Anlagen zu Schriftsätzen — Allgemein | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweislast, Darlegungslast und Anlagen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufung, Beschwerde und neue Anlagen | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisangebot über Anlagen (Zeugen) | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Excel-Tabellen und Zahlenbeweis | Antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+### 3.2. Dateien zuordnen
 
-## 6. Anker
+Ordne jede Datei genau einer Anlagenreferenz oder einer begründeten internen Kategorie zu. Weise fehlende Belege, Dubletten, alte Fassungen, unleserliche Scans, widersprüchliche Daten und Dateien ohne Schriftsatzbezug aus.
 
-- ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
-- ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
-- ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
-- ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 138 Abs. 1 ZPO — vollständiger und wahrer Tatsachenvortrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 138 Abs. 2 ZPO — Erklärungslast: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 Nr. 2 ZPO — bestimmter Klagegrund: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 284 ZPO — Beweisaufnahme: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+### 3.3. Nummernkreis fortführen
 
-## 7. Antwortform
+- Kläger: `K`.
+- Beklagter: `B`.
+- Antragsteller oder Antragsgegner: erkennbare gerichtliche oder kanzleiinterne `AST`- oder `AG`-Logik.
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+Replik, Duplik und weiterer Schriftsatz setzen den bisherigen Nummernkreis fort. Beginne nicht wieder bei 1. Bei fehlender Vorakte nur diese eine Weiche erfragen.
 
-## 8. Stop
+### 3.4. PDF erzeugen
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Jede Versandanlage wird eine eigene PDF. Originaldatei intern erhalten. Word, Tabelle, Präsentation oder Bild kontrolliert konvertieren; danach Seitenumbrüche, abgeschnittene Spalten, Kommentare, Drehung, Auflösung und OCR visuell prüfen. PDF/A nur bestätigen, wenn technisch validiert.
+
+### 3.5. Jede Seite stempeln
+
+Setze `Anlage K 1`, `Anlage B 1` oder die festgelegte Bezeichnung auf jeder Seite oben rechts. Nichts überdecken. Bei engem Rand Position oder Seitenrand kontrolliert anpassen. Stempel, Dateiname, Verzeichnis und Schriftsatz müssen identisch nummeriert sein.
+
+### 3.6. Dateinamen bilden
+
+Gerichtshinweis geht vor. Fehlt er, nutze das strenge Profil: ASCII, Unterstriche, führende Reihenfolge, höchstens 60 Zeichen einschließlich `.pdf`.
+
+- Hauptdokument: `00_20260710_Replik.pdf`
+- Anlage: `01_20260710_AnlageK1_Kaufvertrag.pdf`
+
+Berlin empfiehlt `00` für das Hauptdokument, Anlagen ab `01`, Datum, Kurzinhalt, keine Umlaute und maximal 60 Zeichen. NRW empfiehlt die Rolle nur am Hauptdokument, etwa `K_Schriftsatz_mit_Antraegen.pdf`, und neutrale Anlagen wie `Anlage_01.pdf`. Die ERVB 2025 erlaubt bundesweit bis zu 90 Zeichen und auch Umlaute; ASCII mit 60 Zeichen ist deshalb ein strenger Kanzleistandard, kein gesetzliches Verbot.
+
+Eine Versandnachricht betrifft genau ein Verfahren. Füge Hauptdokument und Anlagen als einzelne PDFs bei, niemals als ZIP; verwende keinen Kennwortschutz und kontrolliere die erzeugten Strukturdaten.
+
+### 3.7. Technisch prüfen
+
+Prüfe Öffnung ohne Kennwort, Seitenzahl, Lesbarkeit, OCR, eingebettete Dateien, aktive Inhalte, Dateinamenlänge, Hashwert, Einzelgröße und Gesamtgröße. Nach ERVB 2025 höchstens 1000 Dateien und insgesamt 200 MB je Nachricht. Große Pakete in bezeichnete Teile aufteilen, aber nie eine mehrseitige Anlage zerlegen.
+
+## 4. Formanker
+
+### 4.1. Signaturweg
+
+Das Hauptdokument braucht entweder eine qualifizierte elektronische Signatur der verantwortenden Person oder deren einfache Signatur mit persönlichem Versand über den eigenen sicheren Übermittlungsweg. Anlagen benötigen keine eigene Signatur.
+
+- BGH, Beschluss vom 7. Mai 2024, VI ZB 22/23: Bei einfacher Signatur müssen verantwortende Person und tatsächlicher Versender übereinstimmen.
+- BGH, Beschluss vom 4. September 2024, IV ZB 31/23: Das Postfach eines anderen Anwalts ersetzt diesen persönlichen sicheren Weg nicht.
+- BAG, Beschluss vom 22. Januar 2025, 7 ABR 23/23: Versand durch Mitarbeiter erfordert für das Hauptdokument die qualifizierte elektronische Signatur.
+
+### 4.2. Eingangskontrolle
+
+Die Frist wird erst nach positiver Kontrolle der automatisierten gerichtlichen Eingangsbestätigung erledigt.
+
+- KG, Beschluss vom 22. August 2023, 27 U 40/23: Eingang mit Speicherung auf der gerichtlichen Empfangseinrichtung.
+- OLG Brandenburg, Beschluss vom 23. August 2022, 12 U 113/22: Frist erst nach Kontrolle von `request executed` und `erfolgreich` löschen.
+- BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22: organisierte Ausgangskontrolle anhand der Eingangsbestätigung.
+- BGH, Beschluss vom 24. April 2025, III ZB 12/24: Eingangsbestätigung abrufen und innerhalb ausreichender Reaktionsreserve prüfen.
+
+### 4.3. Störung
+
+ZPO Paragraf 130a Absatz 6 betrifft ein eingegangenes, aber technisch ungeeignetes Dokument. Die Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit steht in ZPO Paragraf 130d Sätze 2 bis 4.
+
+- BGH, Beschluss vom 19. Dezember 2024, IX ZB 41/23: veröffentlichte zuverlässige Serverstörung kann die Glaubhaftmachung tragen.
+- BGH, Beschluss vom 25. Februar 2025, VI ZB 19/24: pauschale Störungsformel genügt nicht; technische Ursache und vorübergehende Natur geschlossen schildern.
+- OLG Brandenburg, Urteil vom 28. April 2023, 11 U 244/22: Dauer, betroffene Postfächer und Fortbestand der Störung konkret belegen; bloßer Bildschirmabzug genügt nicht.
+- LG Hagen, Urteil vom 15. Oktober 2024, 4 O 209/24: unzulässige Papiereinreichung wird nicht beliebig später durch elektronisches Nachreichen geheilt.
+
+## 5. Stop-Ampel
+
+Stoppe die Freigabe bei ungeklärter Frist oder Gericht, nicht finalem Hauptdokument, falschem Signaturweg, fehlender oder unleserlicher Anlage, widersprüchlichem Nummernkreis, aktivem PDF-Inhalt, verschlüsselter Datei oder nicht kontrollierter Konvertierung.
+
+Bei einer bloßen OCR- oder PDF/A-Prüflücke liefere den konkreten Prüfschritt und Verantwortlichen. Stelle niemals eine nicht gemessene Eigenschaft als erfüllt dar.
+
+## 6. Auslieferung
+
+```text
+versandfertig/
+  00_..._Schriftsatz.pdf
+  01_..._AnlageK1_....pdf
+  02_..._AnlageK2_....pdf
+intern/
+  Anlagenverzeichnis.md
+  Versandmanifest.csv
+  Preflight-Bericht.md
+  Freigabevermerk.md
+  Eingangskontrolle.md
+```
+
+Der interne Ordner wird nicht automatisch mitgesendet. Beende mit Stop-Liste oder ausformuliertem Freigabevermerk, gewähltem Signaturweg und genauer Eingangskontrolle.

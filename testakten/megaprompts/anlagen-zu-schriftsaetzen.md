@@ -2,18 +2,278 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 116 Skills (gekuerzt fuer Chat-Fenster) des Plugins `anlagen-zu-schriftsaetzen`.
+Diese Vollprüfung enthält top-8 von 117 Skills (gekürzt für das Arbeitsfenster) des Plugins `anlagen-zu-schriftsaetzen`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-3. **anlagenverzeichnis-gericht-kanzlei-und-intern** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
-4. **anlagenverzeichnis-kanzlei-grundaufbau-bea** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
-5. **original-abschrift-kopie-und-elektronische-fassung** — Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Be…
-6. **anlagen-uebergabe-an-assistenz-und-legal-tech** — Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, …
-7. **nachreichung-berichtigung-und-gerichtshinweis** — Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, No…
-8. **nachreichung-berichtigung-ocr-scan-original** — Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, No…
+1. **bea-versandmappe-endfertigung** — Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft …
+2. **anlagen-zu-schriftsaetzen** — Hauptworkflow für gerichtliche Anlagenproduktion: liest Schriftsatz und Aktenordner zuerst, verbindet jede Behauptung mi…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
+4. **kaltstart-triage** — Wenn es um Kaltstart Triage in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
+5. **anlagenkonvolut-konsolidieren** — Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt …
+6. **anlagenverzeichnis-gericht-kanzlei-und-intern** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
+7. **anlagenverzeichnis-kanzlei-grundaufbau-bea** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
+8. **original-abschrift-kopie-und-elektronische-fassung** — Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Be…
+
+---
+
+## Skill: `bea-versandmappe-endfertigung`
+
+_Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft Anträge, Belegbezüge, Signaturweg und ERVV, konvertiert Anlagen kontrolliert in PDF, stempelt jede Anlagenseite, vergibt fortlaufende K-, B-, AST- oder AG-Nummern und liefert Versandmappe, Anlagenverzeichnis, Freigabevermerk und Eingangskontrolle._
+
+# beA-Versandmappe endfertigen
+
+## 1. Auftrag
+
+Nutze diesen Skill, wenn ein Schriftsatz inhaltlich weitgehend steht und mit seinen Anlagen so fertiggestellt werden soll, dass der verantwortliche Anwalt ihn nach eigener Schlussprüfung über den vorgesehenen elektronischen Übermittlungsweg versenden kann.
+
+Das Arbeitsprodukt ist nicht nur eine Checkliste. Es ist ein geordneter Versandordner mit Hauptdokument, einzeln bezeichneten Anlagen, Anlagenverzeichnis, Versandmanifest, Freigabevermerk und Plan für die Eingangskontrolle. Ein Versand wird niemals selbst ausgelöst.
+
+## 2. Direktstart ohne Fragenkatalog
+
+Wenn Dateien oder ein Aktenordner vorliegen, lies zuerst:
+
+1. den neuesten Schriftsatzentwurf,
+2. ein vorhandenes Anlagenverzeichnis,
+3. alle im Schriftsatz genannten Anlagen,
+4. gerichtliche Verfügungen mit Form-, Frist- oder Benennungsvorgaben,
+5. vorhandene Versand- oder Kanzleistandards.
+
+Liefere danach sofort eine erste Produktionsmatrix. Frage nur nach einem Punkt, der sich aus dem Material nicht zuverlässig ergibt und den nächsten Arbeitsschritt sperrt. Typische Sperrpunkte sind das Empfängergericht, der Nummernkreis, die laufende Frist oder die Entscheidung zwischen persönlichem Versand und qualifizierter elektronischer Signatur.
+
+Wenn kein Material vorliegt, frage in einem Satz nach Schriftsatz, Anlagenordner, Gericht, Frist und Rolle. Frage nicht jedes Dokument einzeln ab.
+
+## 3. Produktionsmatrix
+
+Beginne mit dieser Tabelle und halte sie während der Arbeit aktuell:
+
+| Position | Fundstelle im Schriftsatz | vorhandene Datei | Beweisthema | Nummer | technischer Status | offener Punkt |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hauptdokument | gesamte Fassung | Datei | Anträge und Vortrag | 00 | Entwurf oder final | Freigabe |
+| Anlage | Seite und Absatz | Datei | konkrete Tatsache | K 1 oder B 1 | PDF, lesbar, gestempelt | keiner oder Lücke |
+
+Eine Anlage erhält erst dann den Status `versandfertig`, wenn Dateiinhalte, Anlagenzitat, Nummer, Stempel, Dateiname und Anlagenverzeichnis übereinstimmen.
+
+## 4. Verfahrens- und Rollenweichen
+
+### 4.1 Nummernkreis
+
+- Kläger: `K 1`, `K 2` und fortlaufend.
+- Beklagter: `B 1`, `B 2` und fortlaufend.
+- Antragsteller: regelmäßig `AST 1`, `AST 2`, sofern Gericht oder Kanzleistandard nichts anderes vorgibt.
+- Antragsgegner: regelmäßig `AG 1`, `AG 2`, sofern Gericht oder Kanzleistandard nichts anderes vorgibt.
+
+Eine Replik beginnt keinen neuen Nummernkreis. Sie führt die Anlagen derselben Partei nach der zuletzt wirksam eingereichten Nummer fort. Dasselbe gilt für Duplik, Berufungsbegründung und weiteren Schriftsatz, sofern das Gericht keine abweichende Ordnung verfügt hat.
+
+### 4.2 Verfahrensordnung
+
+Prüfe zuerst die einschlägige Verfahrensordnung. ZPO Paragraf 130a und Paragraf 130d dürfen nicht ungeprüft auf jedes Verfahren übertragen werden. Bei Arbeits-, Sozial-, Verwaltungs-, Finanz- und Strafsachen gelten insbesondere ArbGG Paragraf 46c und Paragraf 46g, SGG Paragraf 65a und Paragraf 65d, VwGO Paragraf 55a und Paragraf 55d, FGO Paragraf 52a und Paragraf 52d sowie StPO Paragraf 32a und Paragraf 32d.
+
+### 4.3 Europäische Gerichte
+
+beA-Regeln gelten nicht für eine direkte Klage beim Gericht der Europäischen Union. Dort ist e-Curia der eigene Einreichungsweg. Verfahrensschriftstücke sind als PDF einzureichen, eine Datei darf nach der veröffentlichten e-Curia-Anleitung höchstens 30 MB groß sein; handschriftliche Signatur und Scan sind grundsätzlich nicht erforderlich. Diese Akte deshalb nicht in ein beA-Profil zwingen.
+
+## 5. Inhaltliche Schlussprüfung des Schriftsatzes
+
+Prüfe vor der technischen Produktion:
+
+1. Stimmen Gericht, Parteien, Anschriften, Prozessrollen und gerichtliches Aktenzeichen?
+2. Sind die Anträge bestimmt, vollständig und mit dem Vortrag vereinbar?
+3. Steht jede tragende Tatsache im Schriftsatz selbst, statt nur in einer Anlage?
+4. Ist jedes Beweisangebot einer konkreten Tatsachenbehauptung zugeordnet?
+5. Werden alle Anlagen im Text eingeführt und wird keine nicht vorhandene Anlage zitiert?
+6. Stimmen Datum, Beträge, Namen und Seitenfundstellen zwischen Schriftsatz und Beleg?
+7. Sind Anlagen, die personenbezogene oder geschützte Daten Dritter enthalten, auf Erforderlichkeit und Schwärzung geprüft?
+
+Verändere den materiellen Vortrag nicht stillschweigend. Weise Widersprüche aus und liefere einen konkreten Korrekturvorschlag zur Freigabe.
+
+## 6. Anlagenproduktion
+
+### 6.1 Konvertierung
+
+Jede einzureichende Anlage wird spätestens für den Versand in eine eigene lesbare PDF-Datei überführt. Für Word-, Tabellen-, Präsentations- und Bilddateien gilt:
+
+1. Originaldatei unverändert in der internen Akte erhalten.
+2. PDF aus der Originalanwendung oder kontrolliert mit einem Konvertierungswerkzeug erzeugen.
+3. Seitenumbrüche, ausgeblendete Tabellenbereiche, Kommentare, Änderungsmarken, abgeschnittene Spalten und Bilddrehung visuell prüfen.
+4. Bei Scans OCR ergänzen, ohne das sichtbare Seitenbild zu ersetzen.
+5. Die erzeugte PDF erneut öffnen und jede Seite auf Vollständigkeit prüfen.
+
+Ein bloßer erfolgreicher Konvertierungsbefehl ist keine Freigabe. PDF/A-Konformität nur behaupten, wenn sie mit einem geeigneten Prüfwerkzeug nachgewiesen wurde.
+
+### 6.2 Anlagenstempel
+
+Bringe die Bezeichnung auf jeder Seite der jeweiligen Anlage oben rechts an, etwa `Anlage K 7`. Der Stempel darf Text, Stempel, Unterschriften, Seitenzahlen oder maschinenlesbare Codes nicht überdecken. Bei zu engem Rand ist zunächst eine sichere Position oder ein zusätzlicher Rand zu schaffen; ein unsichtbarer oder abgeschnittener Stempel ist ein Stop-Fehler.
+
+Bei einem Konvolut bleibt die Hauptbezeichnung auf jeder Seite sichtbar. Untergliederungen wie `K 12.1` werden nur verwendet, wenn Schriftsatz, Deckblatt und Verzeichnis dieselbe Logik durchhalten.
+
+### 6.3 Dateinamen
+
+Wähle das Profil anhand des Empfängergerichts und dokumentiere die Quelle:
+
+| Profil | Regel | Beispiel |
+| --- | --- | --- |
+| Gerichtssicher | maximal 60 Zeichen, ASCII, Unterstriche, führende Reihenfolge | `01_20260710_AnlageK1_Kaufvertrag.pdf` |
+| Berlin | Hauptdokument `00`, Anlagen `01` fortlaufend, Datum und Kurzinhalt, maximal 60 Zeichen, keine Umlaute oder Sonderzeichen | `02_20260710_AnlageK2_Mahnung.pdf` |
+| NRW | Rolle nur am Hauptdokument, gerichtlicher Dokumenttyp, Anlagen neutral fortlaufend | `K_Schriftsatz_mit_Antraegen.pdf` und `Anlage_01.pdf` |
+| Bund | ERVB-Grenze maximal 90 Zeichen einschließlich Endung; das strengere ASCII-Profil bleibt als Kanzleistandard zulässig | `01_Anlage_K1_Kaufvertrag.pdf` |
+
+Das Bundesrecht erlaubt in Dateinamen mehr Zeichen als das strenge Gerichtssicher-Profil. Bezeichne das ASCII-Profil deshalb als vorsorglichen Kanzleistandard, nicht als bundesrechtliches Verbot von Umlauten.
+
+## 7. Technischer Preflight
+
+Prüfe für jede PDF:
+
+1. Datei öffnet ohne Kennwort und ohne Reparaturmeldung.
+2. Seitenzahl und Reihenfolge stimmen.
+3. Text ist lesbar; bei Scan liegt eine brauchbare OCR-Ebene vor oder das Fehlen ist begründet.
+4. Keine eingebetteten Dateien, aktiven Inhalte, Skripte oder unerwarteten Formulare.
+5. Dateiname entspricht dem gewählten Profil.
+6. Stempel ist auf jeder Anlagenseite sichtbar.
+7. Hashwert und Dateigröße sind im Versandmanifest erfasst.
+8. Gesamtpaket bleibt innerhalb der aktuellen ERVB-Grenzen. Nach ERVB 2025 sind höchstens 1000 Dateien und insgesamt 200 MB je Nachricht vorgesehen.
+
+Sind mehrere Nachrichten nötig, nummeriere sie als `Teil 1 von 3` und liste in jeder Nachricht den Anlagenbereich. Trenne keine mehrseitige Anlage zwischen zwei Nachrichten.
+
+Eine EGVP-Nachricht darf nur ein Verfahren betreffen. Hauptdokument und Anlagen werden als einzelne PDF-Dateien beigefügt; ein ZIP-Archiv ist keine zulässige Versandfassung. Verwende weder zusätzlichen Kennwortschutz noch eine gesonderte Dateiverschlüsselung oder eingeschränkte Leserechte. Prüfe im Versanddialog außerdem Empfänger, Aktenzeichen, Dokumentart und die von der Sendeanwendung erzeugten Strukturdaten.
+
+## 8. Formwirksamkeit und Signaturweg
+
+### 8.1 Zwei Wege
+
+Ein formbedürftiges elektronisches Hauptdokument wird entweder
+
+1. mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen oder
+2. von der verantwortenden Person einfach signiert und persönlich über deren sicheren Übermittlungsweg versandt.
+
+Anlagen benötigen nach ZPO Paragraf 130a Absatz 3 keine eigene Signatur. Wird das beA durch einen Mitarbeiter bedient, ersetzt das nicht den persönlichen Versand durch den Postfachinhaber; ohne persönlichen Versand ist für das Hauptdokument grundsätzlich die qualifizierte elektronische Signatur erforderlich.
+
+### 8.2 Verifizierte Entscheidungsanker
+
+- BGH, Beschluss vom 7. Mai 2024, VI ZB 22/23: Bei einfacher Signatur müssen verantwortende Person und tatsächlicher Versender über das persönlich zugeordnete Postfach übereinstimmen.
+- BGH, Beschluss vom 4. September 2024, IV ZB 31/23: Die Nutzung des Postfachs eines anderen Anwalts durch die verantwortende Prozessbevollmächtigte stellt ohne qualifizierte elektronische Signatur keinen sicheren Übermittlungsweg her.
+- BGH, Beschluss vom 27. März 2025, V ZB 27/24: Ein Anwalt kann auch als Beteiligter in eigener Sache zur elektronischen Rechtsmitteleinlegung verpflichtet sein; die private Rolle ist kein verlässlicher Papierweg.
+- BAG, Beschluss vom 22. Januar 2025, 7 ABR 23/23: Versand durch Mitarbeiter erzeugt keinen sicheren Übermittlungsweg; dann ist die qualifizierte elektronische Signatur unverzichtbar.
+
+## 9. Eingang und Ausgangskontrolle
+
+Der Versand ist erst abgeschlossen, wenn die automatisierte Eingangsbestätigung nach der jeweiligen Verfahrensordnung abgerufen und auf Empfänger, Aktenzeichen, Dateinamen, Anzahl der Anhänge, Zeitstempel und positiven Eingangsstatus geprüft wurde.
+
+- KG, Beschluss vom 22. August 2023, 27 U 40/23: Eingang liegt mit Speicherung auf der für das Gericht bestimmten Empfangseinrichtung vor; eine spätere interne Zuordnung ändert den Eingangszeitpunkt nicht.
+- OLG Brandenburg, Beschluss vom 23. August 2022, 12 U 113/22: Die Frist darf erst gelöscht werden, wenn die gerichtliche Eingangsbestätigung `request executed` und den Übermittlungsstatus `erfolgreich` ausweist; bloße Kanzleivermerke genügen nicht.
+- BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22: Die Ausgangskontrolle muss den erfolgreichen Eingang und die richtige Übermittlung des fristgebundenen Dokuments erfassen.
+- BGH, Beschluss vom 24. April 2025, III ZB 12/24: Die Eingangsbestätigung muss abgerufen und kontrolliert werden; der organisatorische Zeitpunkt ist frei, solange noch eine ausreichende Reaktionsreserve bleibt.
+
+Speichere Exportnachricht, Prüfvermerk, Eingangsbestätigung und endgültige Versanddateien gemeinsam und unveränderbar in der Mandatsakte.
+
+## 10. Technische Störung und ungeeignetes Dokument
+
+Trenne strikt:
+
+1. ZPO Paragraf 130a Absatz 6 betrifft ein bereits eingereichtes, für die Bearbeitung ungeeignetes elektronisches Dokument. Nach gerichtlichem Hinweis kann die frühere Wirkung durch unverzügliche Nachreichung in geeigneter Form erhalten werden, wenn die inhaltliche Übereinstimmung glaubhaft gemacht wird.
+2. ZPO Paragraf 130d Sätze 2 bis 4 betreffen die vorübergehende technische Unmöglichkeit der elektronischen Übermittlung und die Ersatzeinreichung nach allgemeinen Vorschriften.
+
+Für eine Ersatzeinreichung erstelle eine geschlossene Minutenchronologie mit Fehlermeldung, betroffener Infrastruktur, Versandversuchen, Störungsquelle, Ersatzweg und Belegen.
+
+- BGH, Beschluss vom 19. Dezember 2024, IX ZB 41/23: Ist die Ersatzeinreichung veranlasst, sind keine fortlaufenden neuen elektronischen Versuche bis zu ihrem Vollzug erforderlich; eine zuverlässige veröffentlichte Serverstörung kann die Glaubhaftmachung tragen.
+- BGH, Beschluss vom 25. Februar 2025, VI ZB 19/24: Die Darstellung muss technisch, vorübergehend und aus sich heraus verständlich sein; sie muss Bedienungs- oder persönliche Gründe als Ursache nachvollziehbar zurückdrängen.
+- OLG Brandenburg, Urteil vom 28. April 2023, 11 U 244/22: Eine pauschale Störungsmitteilung und ein nicht aussagekräftiger Bildschirmabzug belegen weder Dauer noch Umfang der Störung; die Nachweise sind unverzüglich zu sichern und vorzulegen.
+- OLG Hamm, Beschluss vom 25. März 2022, 25 U 70/21: Fehlende einsatzbereite Zugangsmittel sprechen gegen eine nur vorübergehende technische Störung; jedenfalls muss die Glaubhaftmachung bei der Ersatzeinreichung oder unverzüglich danach erfolgen.
+- LAG Berlin-Brandenburg, Beschluss vom 23. Dezember 2024, 5 Sa 982/24: Die Formel `wg. beA-Störung` genügt nicht; eine mehr als einwöchige Verzögerung der Glaubhaftmachung ist regelmäßig nicht unverzüglich.
+- LG Hagen, Urteil vom 15. Oktober 2024, 4 O 209/24: Eine ohne die Voraussetzungen der Ersatzeinreichung auf Papier erhobene Klage ist unwirksam und wird nicht beliebig später durch elektronische Nachreichung geheilt.
+
+## 11. Auslieferung
+
+Liefere diese Ordnerstruktur:
+
+```text
+versandfertig/
+  00_..._Schriftsatz_....pdf
+  01_..._AnlageK1_....pdf
+  02_..._AnlageK2_....pdf
+intern/
+  Anlagenverzeichnis.md
+  Versandmanifest.csv
+  Preflight-Bericht.md
+  Freigabevermerk.md
+  Eingangskontrolle.md
+```
+
+Der interne Ordner wird nicht mitgesendet, sofern sein Inhalt nicht ausdrücklich Teil der Einreichung sein soll.
+
+## 12. Freigabeampel
+
+### 12.1 Rot
+
+- Frist, Gericht oder Übermittlungsweg ungeklärt.
+- Hauptdokument nicht final oder nicht formwirksam signierbar.
+- Anlage fehlt, ist unlesbar, verschlüsselt oder widerspricht dem Schriftsatz.
+- Nummernkreis kollidiert mit bereits eingereichten Anlagen.
+- Eingebettete Datei, aktiver Inhalt oder nicht erklärter Formfehler.
+
+### 12.2 Gelb
+
+- OCR fehlt bei lesbarem Scan.
+- Lokale Namenskonvention ist nicht auffindbar; Gerichtssicher-Profil wird dokumentiert verwendet.
+- PDF/A wurde nicht technisch validiert.
+
+### 12.3 Grün
+
+Grün erst, wenn Anwalt, Schriftsatzfassung, Anlagenstand, Signaturweg, Empfänger, Frist und Eingangskontrolle feststehen. Gib dann einen ausformulierten Freigabevermerk aus, aber löse keinen Versand aus.
+
+## 13. Quellen
+
+Nutze die amtlich verlinkte und nach Themen geordnete Referenz unter `references/BEA-ENDPRODUKTION-RECHT-TECHNIK.md`. Lokale Gerichtshinweise sind Organisationshilfen und dürfen gesetzliche Formvorschriften nicht ersetzen.
+
+---
+
+## Skill: `anlagen-zu-schriftsaetzen`
+
+_Hauptworkflow für gerichtliche Anlagenproduktion: liest Schriftsatz und Aktenordner zuerst, verbindet jede Behauptung mit ihrem Beleg, hält K-, B-, AST- oder AG-Nummern fort, erkennt Lücken und Dubletten und routet bei bevorstehendem Versand unmittelbar in die beA-Endfertigung mit PDF-, Stempel-, Dateinamen-, Signatur- und Eingangskontrolle._
+
+# Anlagen zu Schriftsätzen bauen
+
+## 1. Direktstart
+
+Wenn Schriftsatz und Dateien vorliegen, lies beides vollständig, bevor du fragst. Erzeuge als ersten Output eine Belegmatrix und kennzeichne sofort:
+
+1. Anlagenzitate ohne Datei,
+2. Dateien ohne Anlagenzitat,
+3. widersprüchliche Nummern oder Bezeichnungen,
+4. entscheidungserheblichen Vortrag, der nur in einer Anlage steht,
+5. Frist-, Lesbarkeits-, Schwärzungs- oder Formatrisiken.
+
+Frage höchstens nach der Rolle oder dem bisher verwendeten Nummernkreis, wenn diese Weiche nicht aus Schriftsatz und Akte folgt.
+
+## 2. Belegmatrix
+
+| Schriftsatzstelle | Tatsachenbehauptung | Beweisangebot | Anlage | Quelldatei | Status |
+| --- | --- | --- | --- | --- | --- |
+| Seite und Absatz | ausformulierter Tatsachenkern | Urkunde, Zeuge oder anderes Beweismittel | K 1 oder B 1 | eindeutiger Dateiname | vorhanden, fehlt oder widersprüchlich |
+
+Die Reihenfolge folgt dem Beweisgang des Schriftsatzes, nicht dem zufälligen Ordnernamen. Eine Anlage belegt eine im Schriftsatz vorgetragene Tatsache; sie ersetzt den Vortrag nicht.
+
+## 3. Nummernkreis
+
+Klägeranlagen laufen als `K`, Beklagtenanlagen als `B`, Antragsteller- und Antragsgegneranlagen nach dem erkennbaren Gerichts- oder Kanzleistandard. Replik und Duplik setzen den bisherigen Nummernkreis fort. Beginne nie stillschweigend wieder bei 1.
+
+## 4. Produktionsweiche
+
+Wenn nur die inhaltliche Zuordnung offen ist, arbeite die Belegmatrix und Lückenliste ab. Sobald der Schriftsatz versandt werden soll, wechsle ohne erneutes Vollinterview in `bea-versandmappe-endfertigung`.
+
+Das Werkzeug `werkzeuge/build_anlagenkonvolut.py` erzeugt aus vorbereiteten Dateien einen Versandordner und interne Prüfunterlagen. Es stempelt standardmäßig jede Seite und versendet nichts. Die juristische Zuordnung und die anwaltliche Freigabe bleiben vorgelagert.
+
+## 5. Ergebnis
+
+Liefere je nach Arbeitsstand:
+
+1. Belegmatrix und Lückenliste,
+2. fortgeschriebenes Anlagenverzeichnis,
+3. konkrete Umbenennungs- und Konvertierungsanweisung,
+4. versandfertige Einzel-PDFs und interne Prüffassung,
+5. Freigabevermerk und Eingangskontrollplan.
+
+Die Rechts- und Technikanker stehen in `references/BEA-ENDPRODUKTION-RECHT-TECHNIK.md`.
 
 ---
 
@@ -237,6 +497,76 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ---
 
+## Skill: `anlagenkonvolut-konsolidieren`
+
+_Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt Dubletten und Fassungen, bestimmt Eltern- und Unteranlagen, erzeugt Deckblatt, Inhaltsliste, Seitenstempel und Lesezeichen, gleicht jeden Teil mit dem Beweisthema im Schriftsatz ab und liefert Einzelanlage, Prüfkonvolut, Hashprotokoll und konkrete Nachforderungsliste._
+
+# Anlagenkonvolut konsolidieren
+
+## 1. Direktstart
+
+Lies zuerst den Schriftsatz, das bisherige Anlagenverzeichnis und sämtliche Kandidatendateien. Liefere ohne vorgeschalteten Fragenkatalog eine Bestandsmatrix mit Dateiname, Datum, Absender, Dokumentart, Seitenzahl, Hashwert, Fassung, Beweisthema und vorgesehener Unteranlage. Frage nur nach einer Zuordnung, die weder aus Datei noch Schriftsatz hervorgeht und die Konsolidierung sperrt.
+
+## 2. Konsolidierungsentscheidung
+
+Mehrere Dokumente dürfen nur dann eine gemeinsame Anlage bilden, wenn sie ein einheitliches Beweisthema nachvollziehbar dokumentieren, etwa eine vollständige E-Mail-Kette mit Anhängen oder einen Vertrag mit Nachträgen. Bloße gemeinsame Herkunft, Dateiformat oder Ordnerlage genügt nicht.
+
+| Entscheidung | Voraussetzung | Ergebnis |
+| --- | --- | --- |
+| getrennte Anlagen | eigenständige Beweisthemen oder getrennte Schriftsatzbezüge | fortlaufende K- oder B-Nummern |
+| Elternanlage mit Unteranlagen | ein Beweisthema, mehrere klar trennbare Dokumente | Deckblatt und K 5/1, K 5/2 fortlaufend |
+| eine mehrseitige Anlage | ein Dokument oder untrennbare Dokumentfolge | eine Nummer, jede Seite bezeichnet |
+| nur interne Prüffassung | Gesamtüberblick wird gebraucht, Gericht soll Einzeldateien erhalten | Lesezeichen-Konvolut im Ordner `intern/` |
+
+Ein zusammengeführtes Prüfkonvolut ist nicht automatisch die Versandfassung. Gerichtliche Hinweise zur getrennten Einreichung haben Vorrang.
+
+## 3. Produktionslauf
+
+1. Originale unverändert sichern und Hashwerte bilden.
+2. Dubletten, Entwürfe, OCR-Fassungen und spätere Endfassungen kennzeichnen; nur eine gerichtliche Fassung je Dokument bestimmen.
+3. Beweisthema und genaue Fundstelle im Schriftsatz jeder Datei zuordnen.
+4. Elternnummer und Unterfolge ohne Lücken oder Doppelbelegung festlegen.
+5. Dateigrenzen, chronologische Reihenfolge und Seitenausrichtung kontrollieren.
+6. In PDF konvertieren, Ergebnis visuell gegen das Original prüfen und fehlende OCR kenntlich machen.
+7. Deckblatt und kurze Inhaltsliste mit Dokumentdatum, Absender, Empfänger und Seitenbereich erzeugen.
+8. Jede Seite oben rechts mit Eltern- und erforderlichenfalls Unteranlagenbezeichnung versehen.
+9. Lesezeichen an jeder Dokumentgrenze und eine fortlaufende interne Seitenzählung anlegen.
+10. Anlagenzitate, Verzeichnis, Dateinamen und finale PDFs gegeneinander prüfen.
+
+## 4. Normen- und Quellenanker
+
+- ZPO Paragraf 130 Nummer 6: Bezeichnung der beigefügten Urkunden.
+- ZPO Paragraf 130a und ERVV Paragraf 2: elektronisches Dokument und technisch geeignete Dateiformate.
+- ZPO Paragraf 131: Beifügung von Urkunden, auf die im Schriftsatz Bezug genommen wird.
+- ZPO Paragraf 138: konkreter und wahrheitsgemäßer Tatsachenvortrag; ein Anlagenkonvolut ersetzt keinen verständlichen Vortrag im Schriftsatz.
+- ZPO Paragraf 253 Absatz 2: bestimmter Antrag und hinreichend bestimmter Klagegrund bleiben im Hauptdokument erforderlich.
+
+Für Format-, Dateinamen- und Versandfragen gelten `references/ANLAGEN-STANDARDS.md` und `references/BEA-ENDPRODUKTION-RECHT-TECHNIK.md`. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und geprüfter amtlicher Quelle verwendet.
+
+## 5. Stop-Kriterien
+
+Stoppe die Versandfreigabe bei fehlender oder doppelter Nummer, nicht erklärter Fassung, unterbrochener E-Mail-Kette, unlesbarer Seite, fehlendem Anhang, unstimmigem Schriftsatzbezug, aktivem PDF-Inhalt, Kennwortschutz oder nicht kontrollierter Konvertierung. Beschreibe den Befund datei- und seitengenau und nenne den nächsten Reparaturschritt.
+
+## 6. Output
+
+Liefere eine gerichtliche Einzelanlage oder getrennte Einzelanlagen, ein Anlagenverzeichnis, eine Zuordnungsmatrix Schriftsatzstelle zu Beleg, ein Hash- und Fassungsprotokoll, einen visuellen Prüfvermerk und nur bei Bedarf ein internes Lesezeichen-Konvolut. Übergib die fertigen Dateien anschließend an `bea-versandmappe-endfertigung`.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
 ## Skill: `anlagenverzeichnis-gericht-kanzlei-und-intern`
 
 _Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagenverzeichnis Gericht Kanzlei Und Intern; Arbeitsfeld: Anlagen zu Schriftsätzen._
@@ -333,7 +663,8 @@ Arbeitsfokus: **Anlagenverzeichnis für Gericht, Kanzlei und intern**. Prüfe di
 
 - `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
 - `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
-- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- ZPO Paragraf 130a Absatz 6 — gerichtlicher Hinweis und unverzügliche geeignete Nachreichung bei technisch ungeeignetem elektronischem Dokument.
+- ZPO Paragraf 130d Sätze 2 bis 4 — Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit.
 - `§ 2 ERVV` — Dateiformate und technische Anforderungen.
 - `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
 - `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
@@ -425,7 +756,8 @@ Arbeitsfokus: **Original, Abschrift, Kopie und elektronische Fassung**. Prüfe d
 
 - `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
 - `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
-- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
+- ZPO Paragraf 130a Absatz 6 — gerichtlicher Hinweis und unverzügliche geeignete Nachreichung bei technisch ungeeignetem elektronischem Dokument.
+- ZPO Paragraf 130d Sätze 2 bis 4 — Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit.
 - `§ 2 ERVV` — Dateiformate und technische Anforderungen.
 - `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
 - `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
@@ -497,210 +829,9 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 
 ---
 
-## Skill: `anlagen-uebergabe-an-assistenz-und-legal-tech`
-
-_Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Anlagen Uebergabe An Assistenz Und Legal Tech; Arbeitsfeld: Anlagen zu Schriftsätzen._
-
-# Übergabe an Assistenz und Legal Tech
-
-## Normenanker
-
-Arbeitsfokus: **Übergabe an Assistenz und Legal Tech**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenschein.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Mindestinput
-
-- Entscheidungsliste oder Anlagenmatrix.
-- Teamrollen und Frist.
-- Technische Vorgaben.
-
-## Arbeitsablauf
-
-1. Übersetze rechtliche Entscheidungen in einzelne Aufgaben.
-2. Lege Reihenfolge und Verantwortliche fest.
-3. Definiere Kontrollpunkte und Rückfragen.
-4. Formuliere Übergabemail oder Ticketliste.
-
-## Ausgabe
-
-- Arbeitsanweisung.
-- Ticket-/Aufgabenliste.
-- Freigabecheck.
-
-## Typische Fehler, die du aktiv suchst
-
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
-
-## Anschluss-Skills
-
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
-## Vertiefter Anlagen-Workflow
-
-Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Beweisfunktion sichern, dann technische Einreichbarkeit prüfen.
-
-1. **Materialkarte:** Jede Datei einer Tatsachenbehauptung, einem Schriftsatzabschnitt und einer Anlagenkategorie zuordnen. Dubletten, alte Fassungen, Screenshots ohne Datum und unleserliche Scans separat markieren.
-2. **K1-Logik:** Nummerierung nicht nach Ordnerzufall, sondern nach Beweisgang: Vertrag/Grundlage, Kommunikation, Zahlung, Fristen/Zugang, Fotos/Screenshots, Tabellen, Behörden-/Gerichtsdokumente.
-3. **Technikcheck:** PDF/A-Eignung, OCR, Seitenzählung, Dateigröße, Signatur-/beA-/ERVV-Kontext, Anlagenverzeichnis, Deckblatt und Dateinamen konsistent prüfen.
-4. **Prozessrisiko:** Nichts Entscheidendes nur in der Anlage verstecken. Wenn eine Anlage eine tragende Tatsache beweist, muss der Schriftsatz diese Tatsache ausdrücklich behaupten und die Anlage präzise referenzieren.
-5. **Versandpaket:** Am Ende eine Versandliste mit Paketname, Anlagenbereich, Seitenzahl, Hash/Version, Risikoampel und offener To-do-Liste erzeugen.
-
-## Ergebnisqualität
-
-- Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
-- Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
-- Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
-
----
-
-## Skill: `nachreichung-berichtigung-und-gerichtshinweis`
-
-_Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Nachreichung Berichtigung Und Gerichtshinweis; Arbeitsfeld: Anlagen zu Schriftsätzen._
-
-# Nachreichung, Berichtigung und gerichtlicher Hinweis
-
-## Normenanker
-
-Arbeitsfokus: **Nachreichung, Berichtigung und gerichtlicher Hinweis**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `§ 520 Abs. 3 ZPO` — Berufungsbegründung.
-- `§ 529 Abs. 1 ZPO` — Tatsachengrundlage Berufung.
-- `§ 531 Abs. 2 ZPO` — neue Angriffs- und Verteidigungsmittel.
-- `§ 522 ZPO` — Berufungszurückweisung.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
-- `§ 139 ZPO` — gerichtlicher Hinweis.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Mindestinput
-
-- Hinweis/Rüge/Problem.
-- Bisheriger Schriftsatz und Anlagenverzeichnis.
-- Welche Datei falsch, fehlend oder unleserlich ist.
-- Frist für Berichtigung/Nachreichung.
-
-## Arbeitsablauf
-
-1. Klassifiziere Problem: fehlt, falsch, doppelt, unleserlich, geheim, falsche Fassung.
-2. Entscheide, ob Nummer beibehalten, ersetzt oder als Nachtrag ergänzt wird.
-3. Formuliere Berichtigungs-/Nachreichungsvermerk.
-4. Erstelle neue Kontrollliste und Versandplan.
-
-## Ausgabe
-
-- Reparaturplan.
-- Berichtigungsschriftsatz-Baustein.
-- Nachreichungsverzeichnis.
-
-## Typische Fehler, die du aktiv suchst
-
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
-
-## Anschluss-Skills
-
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
----
-
-## Skill: `nachreichung-berichtigung-ocr-scan-original`
-
-_Wenn es um Nachreichung, Berichtigung und gerichtlicher Hinweis in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Nachreichung Berichtigung Ocr Scan Original; Arbeitsfeld: Anlagen zu Schriftsätzen._
-
-# Nachreichung, Berichtigung und gerichtlicher Hinweis
-
-## Normenanker
-
-Arbeitsfokus: **Nachreichung, Berichtigung und gerichtlicher Hinweis**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `§ 520 Abs. 3 ZPO` — Berufungsbegründung.
-- `§ 529 Abs. 1 ZPO` — Tatsachengrundlage Berufung.
-- `§ 531 Abs. 2 ZPO` — neue Angriffs- und Verteidigungsmittel.
-- `§ 522 ZPO` — Berufungszurückweisung.
-- `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
-- `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
-- `§ 139 ZPO` — gerichtlicher Hinweis.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mindestinput
-
-- Hinweis/Rüge/Problem.
-- Bisheriger Schriftsatz und Anlagenverzeichnis.
-- Welche Datei falsch, fehlend oder unleserlich ist.
-- Frist für Berichtigung/Nachreichung.
-
-## Arbeitsablauf
-
-1. Klassifiziere Problem: fehlt, falsch, doppelt, unleserlich, geheim, falsche Fassung.
-2. Entscheide, ob Nummer beibehalten, ersetzt oder als Nachtrag ergänzt wird.
-3. Formuliere Berichtigungs-/Nachreichungsvermerk.
-4. Erstelle neue Kontrollliste und Versandplan.
-
-## Ausgabe
-
-- Reparaturplan.
-- Berichtigungsschriftsatz-Baustein.
-- Nachreichungsverzeichnis.
-
-## Typische Fehler, die du aktiv suchst
-
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
-
-## Anschluss-Skills
-
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

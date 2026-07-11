@@ -1,8 +1,9 @@
 # Akte: Solis Vision X Smartglasses
 
-
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
+
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
 Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
@@ -53,7 +54,7 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 | **Incoterms FOB Galway** | Gefahrübergang **vor** EU-Eintritt (Artikel 67 Absatz 1 CISG); aber: Sachmangel bestand bereits bei Gefahrübergang (Software-Defekt im Werk verbaut), Artikel 36 CISG |
 | **Sachmangel und DSGVO** | Artikel 35 CISG: Vertragsmäßigkeit. Rechtsfrage: Macht ein **EU-rechtlich verbotenes Verhalten der Software** die Ware mangelhaft? Argumentation über Artikel 35 Absatz 2 b CISG (Eignung für einen besonderen Zweck) und Artikel 35 Absatz 2 a CISG (übliche Verwendung) |
 | **DSGVO als Eingriffsnorm** | Artikel 9 Rom-I Eingriffsnormen; Erwägungsgrund 81 Rom-I; **DSGVO findet trotz Schweizer Rechtswahl Anwendung** (Marktortprinzip Artikel 3 Absatz 2 DSGVO) |
-| **AG-Zuständigkeit** | Streitwert 1577 EUR; Paragraf 23 Nummer 1 GVG (bis 5000 EUR); AG Hamburg |
+| AG-Zuständigkeit | Streitwert 1.577 Euro; Paragraf 23 Nummer 1 GVG (bis einschließlich 10.000 Euro); Amtsgericht Hamburg |
 | **Berufung** | Wert der Beschwer prüfen; bei 1577 EUR unterhalb 600 EUR ist Berufung nicht ohne Zulassung statthaft → Berufung muss zugelassen werden, Paragraf 511 Absatz 4 ZPO; ABER: hier Wert über 600 EUR → Berufung statthaft |
 
 ## Aktenordner

@@ -29,8 +29,8 @@ description: "Wenn es um Agb Im Bankvertrag Sparkassen Und Banken in AGB-Recht-P
 - BGH XI ZR 26/20 hat diese seit Jahrzehnten verwendete Klausel gekippt.
 
 ### Verwahrentgelt (Negativzinsen)
-- BGH XI ZR 121/21 zu Verwahrentgelten in Banken-AGB (Az im Digitalisat verifizieren).
-- Bei laufenden Konten in der Regel unwirksam, weil Hauptleistung erfasst.
+- BGH, Urteile vom 04.02.2025 - XI ZR 61/23, XI ZR 65/23 und XI ZR 161/23: Verwahrentgelt auf einem Girokonto kann eine kontrollfreie Hauptpreisabrede sein, die konkrete Klausel kann aber am Transparenzgebot scheitern, wenn der maßgebliche Guthabenstand nicht bestimmbar ist.
+- BGH, Urteile vom 04.02.2025 - XI ZR 161/23 und XI ZR 183/23: Klauseln zu Verwahrentgelten auf Tagesgeld- und Sparkonten unterliegen der Inhaltskontrolle und benachteiligten Verbraucher in den entschiedenen Fassungen unangemessen. Kontoart und Klauselwortlaut strikt trennen.
 
 ### Aufrechnungsverbot
 - AGB-Klausel "Der Kunde darf nur mit unbestrittenen oder rechtskraeftig festgestellten Forderungen aufrechnen" wirksam.

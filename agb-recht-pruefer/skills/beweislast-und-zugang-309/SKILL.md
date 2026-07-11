@@ -48,12 +48,11 @@ description: "Wenn es um Beweislast und Zugang 309 in AGB-Recht-Prüfer geht: ze
 ### Schriftformklauseln
 - Schriftform statt Textform: gemäß § 309 Nr. 13 BGB unwirksam, soweit AGB strengere Anforderungen vorsehen, als das Gesetz vorschreibt.
 - BGB-Reform 2016: Textform genuegt; alle "Schriftform"-Klauseln in Verbraucher-AGB sind zu prüfen.
-- BGH VIII ZR 91/19 zur Konsequenz unwirksamer Schriftformklauseln (Az im Digitalisat verifizieren).
 
 ### Zugangsfiktion
 - Zugangsfiktion und Empfangsbestaetigung: in AGB i. d. R. unwirksam, wenn sie zu Lasten des Vertragspartners gehen.
 - § 308 Nr. 6 BGB zur Fiktion des Zugangs.
-- BGH XII ZR 71/19 zur Beweislastverteilung im E-Mail-Verkehr.
+- Für E-Mail-Zugang Übermittlung an den richtigen Empfangsserver, gewöhnliche Abrufbarkeit, Geschäftszeiten, Fehlermeldungen und technische Protokolle konkret beweisen; Versand und Zugang nicht gleichsetzen.
 
 ### Prüfraster
 1. Beweislastverteilung modifiziert? — § 309 Nr. 12 BGB.

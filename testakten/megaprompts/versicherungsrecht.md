@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 64 Skills des Plugins `versicherungsrecht`.
+Diese Vollprüfung enthält top-10 von 64 Skills des Plugins `versicherungsrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -307,28 +307,6 @@ VVG §§ 100–124; AVB/BHV; BGB Delikt/Vertrag; ZPO Streitverkündung.
 - produkthaftpflicht-rueckrufkosten
 - subrogation-regress-86-vvg
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 19 VVG
-- § 28 VVG
-- § 115 VVG
-- § 86 VVG
-- § 1 VVG
-- § 100 VVG
-- § 193 VVG
-- § 1 VAG
-- § 294 VAG
-- § 215 VVG
-- § 22 VVG
-- § 14 VVG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
 ---
 
 ## Skill: `eiopa-grenzueberschreitender-vertrieb`
@@ -513,7 +491,7 @@ VVG §§ 125 ff.; ARB; BGB; ZPO.
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

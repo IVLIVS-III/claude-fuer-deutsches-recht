@@ -131,7 +131,6 @@ Stand: 05/2026.
 - Hinweis: § 7b EStG Foerderung laeuft bis Bauantraege vor 01.10.2029; keine gesetzliche Aenderung 2026.
 - Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent seit JStG 2020 stabil.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (§ 7b bis 2029, GWG 800 EUR stabil, Sammelposten 250-1000 EUR stabil, § 7g 40%/50% stabil, BMF AfA-Tabelle AV 15.12.2000), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->
 
 
 ## Qualitäts-Hardening

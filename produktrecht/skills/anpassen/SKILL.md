@@ -67,26 +67,3 @@ Der Nutzer hat `/produktrecht:produktrecht-anpassen` eingegeben. Er möchte etwa
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 312 ff. BGB (Verbraucherschutzrecht, Informationspflichten) — §§ 1-4 ProdHaftG (Produkthaftung) — §§ 3, 3a UWG (Wettbewerbsrecht, Marktverhaltensregel) — §§ 5-6 DDG (Impressumspflicht) — EU AI Act VO 2024/1689 (KI-Produktrecht)
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 5 DDG
-- § 6 UWG
-- § 5 UWG
-- § 5a UWG
-- § 3 UWG
-- § 203 StGB
-- § 1-4 ProdHaftG
-- § 1 ProdHaftG
-- § 7 UWG
-- § 16 DDG
-- § 25 TDDDG
-- § 5-6 DDG
-
-### Leitentscheidungen
-
-- EuGH C-249/21
-- BGH VI ZR 721/15
-- BGH VI ZR 405/18

@@ -49,5 +49,5 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
   - Kreditgeber: Standstill-Begleitung, Covenants-Monitoring.
 
 ## Eilige Trigger
-- Liquiditätslücke in nächsten 4 Wochen erkennbar → ZU § 17 InsO droht; 3-Wochen-Frist § 15a InsO greift, wenn Lücke ≥ 10 Prozent.
+- Liquiditätslücke erkennbar: Stichtagsstatus und Dreiwochen-Finanzplan nach Paragraf 17 InsO erstellen. Eine Deckungslücke von zehn Prozent ist eine wichtige Prüfmarke, löst aber nicht mechanisch die Antragspflicht aus. Besteht objektiv Zahlungsunfähigkeit, ist der Antrag ohne schuldhaftes Zögern und spätestens binnen drei Wochen zu stellen.
 - Liquiditätsplan zeigt nur Vergangenheit, keine Vorausschau → unbrauchbar als Frühwarninstrument, Pflichtverletzung § 1 StaRUG.

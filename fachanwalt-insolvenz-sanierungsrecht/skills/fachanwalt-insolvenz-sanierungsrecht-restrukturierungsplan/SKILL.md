@@ -38,7 +38,6 @@ description: "Wenn es um Fachanwalt Insolvenz Sanierungsrecht Restrukturierungsp
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
@@ -158,8 +157,7 @@ Das Gericht möge den Restrukturierungsplan bestätigen.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion |
 |---------------|---------------------|---------|
-| Eingetretene ZU → kein StaRUG-Zugang | § 29 Abs. 1 StaRUG i.V.m. § 18 InsO | Liquiditätsplan aktualisieren; ggf. Umstieg auf § 270b InsO-Schutzschirmverfahren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Eingetretene ZU → kein StaRUG-Zugang | § 29 Abs. 1 StaRUG i.V.m. § 18 InsO | Liquiditätsplan aktualisieren; ggf. Umstieg auf § 270d InsO-Schutzschirmverfahren |
 | Schlechterstellung gegenüber Insolvenz | § 64 StaRUG | Vergleichsgutachten mit externem Insolvenzgutachter als Gegenbeweis einreichen |
 | Plan sieht Eingriff in laufende Verträge vor | § 44 StaRUG | Vertragliche Eingriffe nur sehr eingeschränkt möglich; Verhandlung mit Vertragsparteien bevorzugen |
 | Abstimmungsboykott durch einzelne Großgläubiger | § 26 StaRUG Cram-Down | Cram-Down beantragen sofern Mehrheit der Gruppen erreicht |
@@ -177,7 +175,7 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 
 | Situation | Empfehlung |
 |-----------|-----------|
-| Drohende ZU, mehrere Bankgläubiger | StaRUG-Restrukturierungsplan gegenüber § 270b-Schutzschirm bevorzugen: kein Insolvenzmakel, vertraulich |
+| Drohende ZU, mehrere Bankgläubiger | StaRUG-Restrukturierungsplan gegenüber § 270d-Schutzschirm bevorzugen: kein Insolvenzmakel, vertraulich |
 | Eingetretene ZU festgestellt | Sofort § 15a InsO-Antragspflicht GF prüfen; Umstieg auf § 270b InsO oder Regelinsolvenz |
 | Einzelner Gläubiger blockiert | Cram-Down § 26 StaRUG als Druckmittel in Verhandlung einsetzen |
 | Arbeitnehmer betroffen | Arbeitnehmer haben im StaRUG kein Stimmrecht; Sozialplan und Interessenausgleich separat verhandeln |
@@ -196,7 +194,7 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz), BGBl. 2020 I S. 3256
 - InsO §§ 17–19 (Eröffnungsgründe)
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat) — Verfassungsbeschwerde von Minderheitsaktionären (VARTA AG) gegen gerichtliche Bestätigung eines Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen; Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Bedeutung: StaRUG-Sanierungen mit Eingriff in Aktionärsrechte sind verfassungsrechtlich nicht generell ausgeschlossen.
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme wegen unzureichender Substantiierung. Die Kammer entschied weder über die Verfassungsmäßigkeit des StaRUG noch über die materielle Rechtmäßigkeit des Plans; verwertbar ist der Beschluss für die Darlegung einer wesentlichen Schlechterstellung und realistischer Alternativszenarien nach Paragraf 66 Absatz 2 Nummer 3 StaRUG.
   <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Konkrete LG/OLG-Entscheidungen zu StaRUG-Praxis (Mehrheiten, Cross-Class-Cramdown § 26 StaRUG, Stabilisierungsanordnungen § 49 StaRUG) vor Ausgabe über offene Quellen verifizieren.
 - Literatur (Braun, Morgen/Heise, Flöther) nur bei vorhandenem Live-Zugriff oder vom Nutzer bereitgestellter Quelle zitieren.

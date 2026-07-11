@@ -185,7 +185,6 @@ Aktenzeichens.
 |---|---|---|
 | Verletzung DSGVO-Meldepflicht | Behörde im Bußgeldverfahren; Rechenschaft Verantwortlicher | Art. 5 Abs. 2 DSGVO |
 | Angemessenheit TOMs | Verantwortlicher — Nachweis | Art. 82 Abs. 3 DSGVO |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | NIS2-Meldepflicht | Behörde (BSI); Einrichtung muss Eigeneinstufung dokumentieren | § 32 BSIG n. F. |
 | Straftat § 202a StGB | Staatsanwaltschaft (StPO) | StPO |
 | Versicherungsdeckung | Versicherungsnehmer — vertragsgemäße Anzeige und Schadensnachweise | AVB Cyber |

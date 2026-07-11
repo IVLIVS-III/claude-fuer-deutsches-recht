@@ -1,53 +1,45 @@
 ---
 name: aufhebungsvertrag-faires-verhandeln-bag-6-azr-333-21
-description: "Wenn es um Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21 in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Aufhebungsverträge auf Schriftform, Anfechtung und Verletzung des Gebots fairen Verhandelns. Rekonstruiert Gespräch, Drohkulisse, Entscheidungsfreiheit und Kausalität und liefert Beweismatrix, Fortbestandsantrag, Rückabwicklungsstrategie und belastbaren Vergleichsvorschlag."
 ---
 
-# Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21
+# Aufhebungsvertrag und faires Verhandeln prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Arbeitgeber legt Aufhebungsvertrag in ueberraschend einberufenem Termin vor; ohne Bedenkzeit unterschrieben.
+Ein Arbeitnehmer hat einen Aufhebungsvertrag in einem überraschenden Gespräch unterschrieben und beruft sich auf Druck, Krankheit, sprachliche Unterlegenheit, unzutreffende Vorwürfe oder eine angedrohte Kündigung. Nicht jede harte Verhandlung ist unfair; entscheidend sind Zustandekommen, Entscheidungsfreiheit und konkrete Gesamtumstände.
 
-## Normenanker
+## 2. Normenanker
 
-- Paragraf 611a BGB
-- Paragraf 623 BGB
-- Paragrafen 1, 4, 7 KSchG
-- Paragraf 102 BetrVG
-- Paragrafen 1, 3, 7 AGG
+- Paragraf 623 BGB: Schriftform der Beendigung; elektronische Form ist ausgeschlossen.
+- Paragrafen 145 bis 147 BGB: Angebot, Bindung und sofortige Annahme unter Anwesenden.
+- Paragrafen 123, 124 und 142 BGB: widerrechtliche Drohung oder Täuschung, Anfechtungsfrist und Rückwirkung.
+- Paragrafen 241 Absatz 2, 280 Absatz 1, 311 Absatz 2 und 249 BGB: vorvertragliche Rücksichtnahmepflicht, Schadensersatz und Naturalrestitution.
+- Paragraf 312g BGB vermittelt bei einem arbeitsrechtlichen Aufhebungsvertrag grundsätzlich kein allgemeines Widerrufsrecht; Sonderkonstellationen gesondert prüfen.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungsanker
 
-- BAG 24.02.2022 6 AZR 333/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- BAG 07.02.2019 6 AZR 75/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BAG, Urteil vom 7. Februar 2019 - 6 AZR 75/18: Das Gebot fairen Verhandelns schützt die Entscheidungsfreiheit im Weg zum Vertragsschluss. Eine schuldhafte Verletzung kann einen Anspruch auf Herstellung des Zustands begründen, der ohne den Aufhebungsvertrag bestünde.
+- BAG, Urteil vom 24. Februar 2022 - 6 AZR 333/21: Ein nur sofort annehmbares Angebot und die verweigerte weitere Bedenkzeit sind für sich allein nicht unfair. Unfair wird die Situation erst, wenn eine psychische Drucklage geschaffen oder ausgenutzt wird, die eine freie und überlegte Entscheidung erheblich erschwert oder unmöglich macht.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Vertrag, Unterschriften, Unterzeichnungsbefugnis, Datum, Zugang und Nebenabreden sichern; Schriftform und Inhalt zuerst prüfen.
+2. Gespräch minutengenau rekonstruieren: Einladung, Vorwand, Teilnehmer, Dauer, Pausen, Vorwürfe, Drohungen, Alternativen, Bitte um Bedenkzeit oder Rechtsrat und Möglichkeit, den Raum zu verlassen.
+3. Anfechtung und faires Verhandeln strikt trennen. Bei Drohung prüfen, ob das angedrohte Mittel und die Zweck-Mittel-Verknüpfung widerrechtlich waren; bei Fairness auf die beeinträchtigte Entscheidungsfreiheit abstellen.
+4. Erkennbare Schwäche konkretisieren: Krankheit, Medikation, Erschöpfung, Sprachkenntnisse, Isolation oder überraschende Konfrontation. Diagnose oder Betroffenheit allein genügt nicht.
+5. Kausalität und Rechtsfolge ausarbeiten. Darlegen, wie der Arbeitnehmer bei fairem Verlauf entschieden hätte und welcher Zustand durch Naturalrestitution herzustellen ist.
+6. Sozialrechtliche und steuerliche Folgen parallel prüfen: Sperrzeit, Ruhen des Anspruchs, Abfindung, Freistellung, Urlaub, Zeugnis, Rückgabe und Ausgleichsklausel.
+7. Prozessziel bestimmen und Beweise sichern. Feststellungsantrag, Zahlungsanträge und hilfsweise Vergleichslinie dürfen sich nicht widersprechen.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-Gebot fairen Verhandelns prüfen; bei Verstoss Schadensersatz als Naturalrestitution (Vertragsaufhebung).
+Erstelle Gesprächschronologie, Tatbestandsmatrix für Anfechtung und Fairness, Zeugen- und Dokumentenliste, Fristenblatt, Anspruchsbegründung oder Verteidigung sowie einen vollständigen Vergleichsentwurf. Unverifizierte Gesprächsinhalte werden als Parteivortrag gekennzeichnet.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- Gespraechsnotiz Termin
-- Zeugen Anwesende
-- Vergleichsangebote vor Termin
-
-## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)
-
-Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoelf Monaten besonders weit ausstrahlen:
-
-| Entscheidung | Tragende Aussage | Skill-Vertiefung |
-| --- | --- | --- |
-| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des $ 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
-| **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis können Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln müssen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
-| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
-
-> Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
+- Original des Aufhebungsvertrags und sämtliche Entwürfe
+- Einladung, Nachrichten und Gesprächsnotizen
+- Zeugen, Raum- und Zeitablauf sowie technische Kommunikationsdaten
+- medizinische oder sprachbezogene Belege zum konkreten Gesprächszeitpunkt
+- Kündigungsdrohung, Vorwurfsunterlagen und frühere Vergleichsangebote

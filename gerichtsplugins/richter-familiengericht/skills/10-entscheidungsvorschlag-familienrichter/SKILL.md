@@ -35,7 +35,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Anker-Rechtsprechung
 
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Ein Entscheidungsvorschlag muss den entscheidungserheblichen Vortrag sichtbar aufnehmen, sonst droht ein Gehörsfehler.
-- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: In Verbundsachen muss der Entscheidungsvorschlag die einzelnen Gegenstände getrennt und teilhabegerecht behandeln.
+- BGH, Beschluss vom 21.07.2021 - XII ZB 21/21: Der Entscheidungsvorschlag muss den zwingenden Scheidungsverbund wahren und darf Folgesachen nur bei erfüllten Voraussetzungen des FamFG Paragraf 140 abtrennen.
 - BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft, Beleglage und Leistungsfähigkeit dürfen im Unterhaltsvotum nicht durch pauschale Annahmen ersetzt werden.
 - Paragrafen 26, 38, 39, 113 FamFG sowie Paragrafen 286, 313 ZPO über Paragraf 113 FamFG bilden den Pflichtstamm: Amtsermittlung, Beschluss, Begründung, ZPO-Verweisung, Beweiswürdigung und Entscheidungsaufbau.
 

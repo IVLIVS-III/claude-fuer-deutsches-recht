@@ -46,9 +46,7 @@ Urheberrechtliche Abmahnungen stellen Mandanten vor eine doppelte Herausforderun
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -61,10 +59,8 @@ Urheberrechtliche Abmahnungen stellen Mandanten vor eine doppelte Herausforderun
 | 3 | Werkqualität prüfen: Schöpfungshöhe nach § 2 UrhG; kleine Münze; Lichtbild § 72 UrhG (50-Jahre-Frist beachten) | § 2 UrhG |
 | 4 | Aktivlegitimation prüfen: Lizenzkette vollständig? Ausschließliche Lizenz nachgewiesen? VG-Wahrnehmungsvertrag vorgelegt? | §§ 7, 31 UrhG |
 | 5 | Verletzungshandlung prüfen: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Screenshot und Logfile überzeugend? IP-Zuordnung korrekt? | §§ 16, 17, 19a UrhG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Erlaubnissachverhalt: § 51 (Zitat), § 51a (Parodie), § 53 (Privatkopie), § 59 (Panorama), Lizenz vorhanden? | §§ 51–59 UrhG |
 | 8 | Verbraucher? § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 für Abmahnkosten; kein gewerblicher Kontext? | § 97a Abs. 3 UrhG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Reaktion festlegen: Modifizierte UE, Zurückweisung, neg. Feststellungsklage, Vergleich | § 256 ZPO |
 | 11 | Unberechtigte Abmahnung: § 97a Abs. 4 UrhG – Gegenanspruch auf Erstattung eigener Anwaltskosten | § 97a Abs. 4 UrhG |
 | 12 | Verjährung prüfen: Verletzungsdatum + 3 Jahre; bei Unkenntnis des Verletzers: kenntnisunabhängige Frist 10 Jahre | § 102 UrhG |
@@ -195,7 +191,6 @@ erstatten. Andernfalls werden wir Klage erheben.
 |---|---|
 | Werkqualität § 2 UrhG | Abmahner; bei bekannten Werktypen (Fotografie, Literatur) vermutet; Mandant kann Gegenbeweis führen |
 | Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig; bloßer Urheberrechtsvermerk reicht nicht |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Missbrauch § 8c UWG analog | Mandant kann Missbrauchsindizien vortragen (Menge der Abmahnungen, Verhältnismäßigkeit) |
 
 ---
@@ -217,7 +212,6 @@ erstatten. Andernfalls werden wir Klage erheben.
 | Gegenargument | Erwiderung |
 |---|---|
 | "Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
 
 ---
@@ -239,7 +233,6 @@ erstatten. Andernfalls werden wir Klage erheben.
 | Situation | Empfehlung |
 |---|---|
 | Massenabmahnung bekannter Kanzlei (Fotos) | Prüfen ob Massenabmahnungsindiz; § 8c UWG analog vortragen; modifizierte UE + Kosten begrenzen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Erlaubnissachverhalt möglich | Lizenz, Zitatrecht, Parodie prüfen und konkret vortragen; erheblich Kosten sparen |
 | Verjährung droht | Prüfen ob Verletzungszeitpunkt + 3 Jahre bereits abgelaufen; Verjährungseinrede § 102 UrhG |
 
@@ -275,8 +268,3 @@ Bevor die Abmahnung bewertet und eine Reaktion empfohlen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 026:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

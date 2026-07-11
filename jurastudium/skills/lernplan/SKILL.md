@@ -230,7 +230,3 @@ Zeitschätzungen je Rechtsgebiet sind Orientierungswerte auf Basis typischer Exa
 Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren oder Examenscoaches, die den individuellen Kenntnisstand kennen.
 
 ---
-
-<!-- AUDIT 27.05.2026 -->
-
-## Audit-Hinweis (27.05.2026)

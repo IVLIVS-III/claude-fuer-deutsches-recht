@@ -32,7 +32,7 @@ Der Cross-Class-Cram-Down ist das stärkste Instrument des StaRUG. Er erlaubt de
 - § 30 StaRUG (Schlechterstellungsverbot)
 - § 31 StaRUG (Obstruktionsverbot)
 - Art. 11 Restrukturierungsrichtlinie 2019/1023/EU (europäischer Ursprung)
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss; Cross-Class-Cramdown gegen Minderheitsaktionäre) unzulässig. Bestätigt die grundsätzliche Verfassungsmäßigkeit des Cramdown-Mechanismus, wenn § 66 Abs. 2 Nr. 3 StaRUG (Schlechterstellungsprüfung) eingehalten ist. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme wegen unzureichender Substantiierung. Die Kammer entschied weder über die Verfassungsmäßigkeit des StaRUG noch über die materielle Rechtmäßigkeit des Plans; verwertbar ist der Beschluss für die Darlegung einer wesentlichen Schlechterstellung und realistischer Alternativszenarien nach Paragraf 66 Absatz 2 Nummer 3 StaRUG.
 - Restrukturierungsgerichts-Entscheidungen zur Absolute Priority Rule (§ 27 Abs. 1 Nr. 3 StaRUG iVm § 28 StaRUG) und zur Schlechterstellungsprüfung vor Ausgabe über dejure.org / openjur.de verifizieren.
 
 ---
@@ -140,7 +140,6 @@ ERGEBNIS:
 
 ## Aktuelle Leitentscheidungen — Cross-Class Cramdown (Stand Mai 2026)
 
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG): Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss) als unzulässig zurückgewiesen. Die Beschwerdeführer hatten Grundrechtsverletzungen nicht hinreichend dargelegt; die Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Aus der Entscheidung folgt mittelbar: Der Cross-Class-Cramdown ist verfassungsrechtlich tragfähig, wenn die Schlechterstellungsprüfung wirksam greift.
  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Restrukturierungsgerichts-Entscheidungen zur Praxis des § 26 StaRUG (Bedingungen, Quoren, Schlechterstellungsprüfung) vor Ausgabe über offene Quellen verifizieren.
 
@@ -154,27 +153,3 @@ ERGEBNIS:
 2. **Best-Interest-Test berechnet?** Liquidationsquote als untere Grenze für ablehnende Klasse.
 3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
 4. **Gleichbehandlung?** Kein Gläubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 StaRUG
-- § 102 StaRUG
-- § 93 AktG
-- § 43 GmbHG
-- § 73 StaRUG
-- § 26 StaRUG
-- § 29 StaRUG
-- § 31 StaRUG
-- § 30 StaRUG
-- § 49-59 StaRUG
-- § 9 StaRUG
-- § 76 StaRUG
-
-### Leitentscheidungen
-
-- BGH IX ZR 285/14
-- BGH IX ZR 56/22
-- BGH II ZR 206/22
-- BGH IV ZR 66/25

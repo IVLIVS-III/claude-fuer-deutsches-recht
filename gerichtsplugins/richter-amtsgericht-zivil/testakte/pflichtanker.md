@@ -19,7 +19,7 @@ Materielles Recht:
 ## Rechtsprechungsanker
 
 - BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Die Ueberzeugung nach Paragraf 286 ZPO erfordert einen fuer das praktische Leben brauchbaren Grad an Gewissheit, nicht mathematische Sicherheit.
-- BGH, Urteil vom 24.07.2018 - VI ZR 599/16: Substantiierungsanforderungen duerfen nicht so ueberspannt werden, dass schluessiger Tatsachenvortrag abgeschnitten wird.
+- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen eines Widerspruchs zu früherem Vortrag ausblenden; der Widerspruch kann erst in der Beweiswürdigung Bedeutung gewinnen.
 - Zur Abwaegung der Verursachungsbeitraege bei Vorrangverstoss und nicht angepasster Geschwindigkeit im Kreisverkehr: staendige Rechtsprechung des Bundesgerichtshofs zu Paragraf 17 StVG; das einschlaegige Aktenzeichen ist vor Verwendung an amtlicher Quelle zu verifizieren.
 
 ## Live-Verifikationspflicht

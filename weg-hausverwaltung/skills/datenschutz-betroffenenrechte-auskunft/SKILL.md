@@ -28,7 +28,7 @@ Eigentümer, ehemalige Eigentümer, Mieter und Beiratsmitglieder können datensc
 
 Kopie der verarbeiteten Daten, nicht nur eine Bestätigung. Konkret: relevante Stellen aus Eigentümerlisten (nur eigene Einheit), eigene Mahnungen und Hausgeld-Kontoauszüge, Protokoll-Passagen mit namentlicher Erwähnung, E-Mail-Korrespondenz Verwalter – Eigentümer, Buchungs-Kostenstellen der eigenen Einheit. Nicht herausgegeben werden müssen: Daten Dritter (andere Eigentümer), interne Verwalter-Notizen ohne personenbezogenen Gehalt, anwaltliche Korrespondenz unter Berufsgeheimnis.
 
-EuGH, Urteil vom 07.11.2023, C-307/22 (FT/DW): Auskunftsrecht umfasst erste Kopie vollständig und kostenlos; bei weiteren Kopien kann eine angemessene Gebühr erhoben werden. Arztbriefe-Analogie gilt auch für Verwalter-Unterlagen. Urteil: https://curia.europa.eu/juris/document/document.jsf?docid=279355&doclang=DE
+EuGH, Urteil vom 26.10.2023 - C-307/22, FT: Die erste Kopie der personenbezogenen Daten ist grundsätzlich unentgeltlich; der Zweck des Auskunftsantrags muss nicht begründet werden. Für die WEG-Akte folgt daraus nicht die pauschale Herausgabe jedes Dokuments: Zuerst personenbezogene Daten identifizieren und dann prüfen, welche Dokumentauszüge oder ganzen Dokumente zum verständlichen Kontext erforderlich sind. Amtliche Quelle: https://curia.europa.eu/juris/document/document.jsf?docid=279355&doclang=DE
 
 ## Löschfristen und Aufbewahrungspflichten
 

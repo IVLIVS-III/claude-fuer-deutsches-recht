@@ -129,8 +129,3 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 - § 7 StVG — Halterhaftung bleibt bestehen auch bei autonomem Modus
 - §§ 1-4 ProdHaftG — Herstellerhaftung bei Produktfehler (Software als Produkt)
 - VO (EU) 2019/2144 — allgemeine Fahrzeugsicherheitsverordnung (ALKS, Notbremssysteme)
-
-<!-- AUDIT 27.05.2026
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-BGH VI ZR 12/24: WRONG_TOPIC; tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128), kein Bezug zu autonomem Fahren; Eintrag geloescht.
--->

@@ -128,15 +128,6 @@ Datum: [DATUM]
    Beratungshilfe: [ja / nein]
 ```
 
-<!-- AUDIT 27.05.2026
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
-Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
-(Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).
-Der allgemeine Grundsatz zu Art. 51 GRCh (Anwendungsbereich der Charta) ist korrekt
-und fuer das Migrationsrecht methodisch relevant; Urteil verifiziert auf
-dejure.org/2013,2363 (NJW 2013, 1415).
--->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

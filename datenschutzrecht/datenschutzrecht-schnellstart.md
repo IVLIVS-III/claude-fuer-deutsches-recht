@@ -52,18 +52,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 4, 20, 41 BDSG (Aufsicht, Rechtsweg, Strafvorschriften): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 HGB, Paragraf 147 AO, Paragraf 50 BDSG, Paragraf 11 BORA – steuer-, handels- und berufsrechtliche Aufbewahrungspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 HGB, Paragraf 147 AO: 10 Jahre, 6 Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO, Paragraf 50 BDSG, Paragraf 11 BORA – steuer-, handels- und berufsrechtliche Aufbewahrungspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 257 HGB, Paragraf 147 AO: 10 Jahre, 6 Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 50 BDSG: bis Zweckerreichung beendet; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
 - EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
-- EuGH C-634/21 (automatisierte Bonitätsbewertung Schufa)
-- EuGH C-26/22 (Datenschutzbehörden-Befugnisse)
+- EuGH C-26/22 SCHUFA (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen über Beschwerden sind gerichtlich voll überprüfbar; Aufsicht hat Ermessen, aber kein freies Belieben.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung, Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung, Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage, Beweissicherung nach Datenschutzvorfall — Chain of Custody: Kurzvermerk.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung, Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit.
 
 ## 8. Stop
 

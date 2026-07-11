@@ -8,7 +8,7 @@ description: "Wenn es um Abmahnung Arbeitsrecht in Arbeitsrecht geht: ordnet Akt
 
 ## Arbeitsbereich
 
-**Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, Paragraf 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+**Abmahnung im Arbeitsverhältnis** ordnet den behaupteten Pflichtverstoß nach Paragraf 241 Absatz 2 BGB, die Warn- und Rügefunktion sowie die Bedeutung für eine spätere Kündigung nach Paragraf 314 Absatz 2 und Paragraf 626 BGB beziehungsweise Paragraf 1 Absatz 2 KSchG. Zuerst werden Vorwurf, Zeitpunkt, Beleg und verletzte Pflicht konkretisiert; erst danach folgen Entwurf, Gegenwehr oder Entfernungsklage.
 
 ## Arbeitsweg
 
@@ -24,8 +24,6 @@ description: "Wenn es um Abmahnung Arbeitsrecht in Arbeitsrecht geht: ordnet Akt
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Abmahnung im Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -177,12 +175,3 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Bei der Frage der Entbehrlichkeit der Abmahnung h. M. und Gegenauffassung getrennt benennen.
 - Halluzinationsrisiko: Alle zitierten Entscheidungen vor Verwendung in Schriftsätzen durch Datenbankrecherche verifizieren.
-
-<!-- AUDIT 27.05.2026 | Bundle 012 | Task 1
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Befund: AZ korrekt eingesetzt. Thema laut dejure.org und bundesarbeitsgericht.de bestätigt als
-"Entfernung Abmahnung aus Personalakte; Wirkungslosigkeit durch Zeitablauf; Warnfunktion/Dokumentationsfunktion"
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Claimed_topic "Weiterbeschäftigungsanspruch" nicht im SKILL-Text vorhanden; kein Änderungsbedarf.
-Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+AZR+782%2F11
--->

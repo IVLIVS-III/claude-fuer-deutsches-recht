@@ -10,9 +10,36 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+
+### 1.2. Ausgabeformate für schnelle Lieferung
+
+| Bedarf | Sofortausgabe | Qualitätsgriff |
+| --- | --- | --- |
+| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
+| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
+| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
+| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
+| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
+| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
+
+### 1.3. Rückfragenbremse
+
+1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
+2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
+3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
+4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
+5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+
+### 1.4. Mini-Gerüste
+
+- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
+- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
+- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
+- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
+- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
 ## 2. Stop-Kriterien
 
@@ -48,9 +75,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Anfechtungsklage AnfG — Prozessuales | BGB Paragraf 104 bis Paragraf 185; BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anfechtungsklage AnfG — Prozessuales | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Fristen und Anfechtungszeitraum — AnfG | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH VIII ZR 91/04 (Saldotheorie) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fristen und Anfechtungszeitraum — AnfG | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -67,13 +94,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision) |
-| BGH VIII ZR 91/04 (Saldotheorie) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH VIII ZR 91/04 (Saldotheorie) |
-| BGH V ZR 215/11 (Nichteintritt des Erfolges) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH V ZR 215/11 (Nichteintritt des Erfolges) |
-| BGH IX ZR 196/14 (Insolvenzanfechtung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH IX ZR 196/14 (Insolvenzanfechtung) |
-| BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung) |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -86,22 +107,18 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 23 71 GVG — Sachliche Zuständigkeit (AG unter EUR 5.000 / LG über EUR 5.000): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 813 BGB (Leistung trotz Einrede): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 814 BGB (Kenntnis der Nichtschuld): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 815 BGB (Nichteintritt des Erfolges): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 817 BGB (Verstoß gegen Verbotsgesetz): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 15 AnfG — Verjährung des Anfechtungsanspruchs (Verweis auf Paragrafen 195 ff. BGB); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 195 199 BGB — Verjährungsfrist 3 Jahre ab Kenntnis Jahresende; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 203-211 BGB — Hemmung der Verjährung (Verhandlungen, Klageerhebung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 814 BGB Kenntnis der Nichtschuld; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
-- BGH VIII ZR 91/04 (Saldotheorie)
-- BGH V ZR 215/11 (Nichteintritt des Erfolges)
-- BGH IX ZR 196/14 (Insolvenzanfechtung)
-- BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung)
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -153,11 +170,11 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Anfechtungsklage AnfG — Prozessuales
 
-1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist nach Paragrafen 195 199 BGB (3 Jahre) noch nicht abgelaufen? 3. Ist der Streitwert für AG (bis EUR 5.000) oder LG (über EUR 5.000)? 4. Wird Duldung (Regelfall). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (Paragraf 2 AnfG)? 2. Ist die Verjährungsfrist nach Paragrafen 195 199 BGB (3 Jahre) noch nicht abgelaufen? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Fristen und Anfechtungszeitraum — AnfG
 
-1. Wann wurde die anfechtbare Rechtshandlung vorgenommen (Datum)? 2. Wird Vorsatzanfechtung (Paragraf 3 AnfG, 10 Jahre) oder unentgeltliche Leistung (Paragraf 4 AnfG, 4 Jahre) geltend gemacht? 3. Wann hat der Gläubiger von der Rechtshandlung und dem Anfechtungsgrund Kenntnis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Wann wurde die anfechtbare Rechtshandlung vorgenommen (Datum)? 2. Wird Vorsatzanfechtung (Paragraf 3 AnfG, 10 Jahre) oder unentgeltliche Leistung (Paragraf 4 AnfG, 4 Jahre) geltend gemacht? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Beweise und Darlegungslast im Bereicherungsrecht
 
@@ -165,31 +182,31 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.4. Entreicherung: Beweislast und Substantiierung
 
-Anwendungsfall: wenn Paragraf 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Was war. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: wenn Paragraf 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Klageantrag: Zahlung, Herausgabe, Zug um Zug
 
-Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches praktische Ziel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV
 
-1. Besteht ein wirksamer Vertrag mit eigenem Rückabwicklungsregime (Paragrafen 346 ff. BGB bei Rücktritt) — verdrängt dieser Paragraf 812 BGB? 2. Ist der Vertrag nichtig (Paragrafen 134, 138, 142 BGB) — fehlt damit der Rechtsgrund für Paragraf 812 BGB? 3. Soll Schadensersatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Besteht ein wirksamer Vertrag mit eigenem Rückabwicklungsregime (Paragrafen 346 ff. BGB bei Rücktritt) — verdrängt dieser Paragraf 812 BGB? 2. Ist der Vertrag nichtig (Paragrafen 134, 138, 142 BGB) — fehlt damit der Rechtsgrund für Paragraf 812 BGB? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.7. Miet- und pachtrechtliche Rückabwicklung
 
-Anwendungsfall: miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: miete, Pacht, Kaution oder Nutzung ohne Vertrag zurückabgewickelt werden. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Nichtiger Vertrag nach Paragrafen 134 und 138 BGB
 
-Anwendungsfall: verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches Spezialregime steht neben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Output: Anfechtungsklage nach AnfG
 
-1. Liegt ein vollstreckbarer Titel des Gläubigers gegen den Schuldner vor (Paragraf 2 AnfG — Voraussetzung)? 2. Hat die Zwangsvollstreckung in das Schuldnervermögen nicht zur vollen Befriedigung geführt (Fruchtlosigkeit)? 3. Welcher Anfechtungstatbestand ist einschlägig —. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Liegt ein vollstreckbarer Titel des Gläubigers gegen den Schuldner vor (Paragraf 2 AnfG — Voraussetzung)? 2. Hat die Zwangsvollstreckung in das Schuldnervermögen nicht zur vollen Befriedigung geführt (Fruchtlosigkeit)? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Output: Klageschrift Bereicherungsklage
 
-1. Welcher Bereicherungsanspruch ist einschlägig (Paragraf 812 Abs. 1 S. 1 Alt. 1 Leistungskondiktion, Alt. 2 Nichtleistungskondiktion, Paragraf 816 BGB, Paragraf 822 BGB)? 2. Was konkret ist herauszugeben (Geld, Sache, Nutzung) — Naturalrestitution oder Wertersatz (Paragraf 818. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welcher Bereicherungsanspruch ist einschlägig (Paragraf 812 Abs. 1 S. 1 Alt. 1 Leistungskondiktion, Alt. 2 Nichtleistungskondiktion, Paragraf 816 BGB, Paragraf 822 BGB)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Verjährung: Bereicherung, AnfG und InsO-Anfechtung
 
@@ -197,12 +214,12 @@ Anwendungsfall: verbots- oder Sittenwidrigkeit die Rückforderung prägt. Der Sk
 
 ### 15.12. Verschärfte Haftung — Paragraf 819 BGB bei Bösgläubigkeit
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Verteidigung gegen Bereicherungsklage
 
-Anwendungsfall: eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welches praktische Ziel soll. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: eine Bereicherungsklage systematisch abgewehrt werden soll. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Abgetretene Forderung und Zession
 
-Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Welche. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anwendungsfall: abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Der Skill zwingt zu einer vermögensorientierten Prüfung: erst Vorteil und Zurechnung, dann Rechtsgrund und Behaltensgrund, zuletzt Umfang, Einreden und prozessuales Ziel. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

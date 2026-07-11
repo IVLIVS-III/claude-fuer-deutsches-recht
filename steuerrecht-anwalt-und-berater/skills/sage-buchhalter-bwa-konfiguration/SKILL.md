@@ -77,5 +77,3 @@ Stand: 05/2026.
 - Sage Programm- und Bedienungsdokumentation (aktuelle Version prüfen).
 - AO § 146 (Update-Pflicht der Buchfuehrungsprogramme).
 - Hinweis: konkrete Programmpfade und Modulbezeichnungen können je Sage-Version abweichen; aktuelle Informationen in der Sage-Onlinehilfe prüfen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Sage-Programmpfad nicht versionsspezifisch belegbar, Verweis auf Sage-Onlinehilfe) -->

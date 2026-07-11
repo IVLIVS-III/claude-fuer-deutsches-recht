@@ -10,7 +10,7 @@ description: "Wenn es um Kontaminierter Baugrund: Haftung, Sanierungspflicht und
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -116,7 +116,6 @@ Pflichten des Bauunternehmers:
 | Schritt | Prüfpunkt | Norm | Rechtsfolge bei Bejahung |
 |---------|-----------|------|--------------------------|
 | 1 | VOB/B wirksam einbezogen? | § 305 BGB | VOB/B-Regelungen anwendbar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 3 | Bodengutachten vor Vertragsschluss vorhanden? | § 633 BGB | Inhalt und Mängel bestimmen Risikozuweisung |
 | 4 | Kenntnis Bauherr von Kontamination vor Vertragsschluss? | § 311 Abs. 2 BGB | c.i.c.-Schadensersatz |
 | 5 | Behinderungsanzeige § 6 Abs. 1 VOB/B erfolgt? | § 6 Abs. 1 VOB/B | Anspruchserhalt; bei Unterlassen Anspruchsverlust |
@@ -283,10 +282,8 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 
 | Gegenargument Bauherr/Behörde | Reaktion |
 |-------------------------------|---------|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Behinderungsanzeige zu spät" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht (§ 6 Abs. 1 Satz 2 VOB/B); zudem Anzeige binnen 48 h beweisbar |
 | "Mehrkosten überhöht" | Detaillierte Kalkulation nach VOB/B § 2 Abs. 5; § 287 ZPO-Schätzung durch Gericht zulässig wenn Grundlage vorhanden |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Unternehmer ist Verursacher" | Trennung: vorbestehende Altlast vs. durch Unternehmer neu verursachte Kontamination; Sachverständigenbeweis |
 | "c.i.c. ausgeschlossen wegen AGB-Haftungsausschluss" | § 309 Nr. 7 BGB — grob fahrlässige Pflichtverletzung nicht ausschließbar |
 
@@ -347,5 +344,3 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
 - Stand: 05/2026; PFAS-Regulierung im Wandel (TFA, GenX), bei Neuregelung EU-Trinkwasserrichtlinie aktualisieren
-
-<!-- AUDIT 27.05.2026: BGH VII ZR 184/97 (14.11.2002) WRONG_TOPIC – tatsächlich Luftschallschutz-Urteil vom 14.05.1998. Ersetzt durch BGH VII ZR 205/07 (20.08.2009), BGHZ 182, 158, verifiziert auf dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.08.2009&Aktenzeichen=VII+ZR+205%2F07). Ebenso Quellen-Verweis auf VII ZR 235/04 durch VII ZR 205/07 ersetzt (VII ZR 235/04 nicht auf dejure auffindbar). -->

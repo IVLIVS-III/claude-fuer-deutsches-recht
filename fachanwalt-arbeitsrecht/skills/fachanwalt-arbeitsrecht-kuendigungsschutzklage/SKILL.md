@@ -89,7 +89,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 4 | Betriebsgröße > 10 VZÄ? | Paragraf 23 KSchG | Kein KSchG-Schutz |
 | 5 | Sonderkündigungsschutz? (MuSchG, BEEG, SGB IX, BetrVG) | Paragrafen 17 MuSchG, 18 BEEG, 168 SGB IX | Unwirksamkeit ohne behördliche Zustimmung |
 | 6 | BR-Anhörung ordnungsgemäß? | Paragraf 102 BetrVG | Unwirksamkeit |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Außerordentl.: wichtiger Grund + 2 Wochen-Frist? | Paragraf 626 BGB | Unwirksamkeit |
 | 9 | Soziale Rechtfertigung: betrieblich/verhaltens-/personenbedingt? | Paragraf 1 Abs. 2 KSchG | Kündigung sozialwidrig |
 | 10 | Sozialauswahl korrekt? | Paragraf 1 Abs. 3 KSchG | Sozialwidrige Kündigung |

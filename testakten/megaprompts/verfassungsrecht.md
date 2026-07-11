@@ -2,20 +2,54 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 67 Skills des Plugins `verfassungsrecht`.
+Diese Vollprüfung enthält top-10 von 68 Skills des Plugins `verfassungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in verfassungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
-2. **art-12-berufsfreiheit-regulierungsdichte** — Wenn es um Art. 12 GG: Berufsfreiheit und Regulierungsdichte in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweisl…
-3. **spezial-bundesverfassungsgericht-livequellen-check** — Wenn es um Bundesverfassungsgericht: Livequellen-Check in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
-4. **verfassung-abstrakte-bund** — Wenn es um Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel in verfassungsrecht geht: ordnet Akteninhalt, Be…
-5. **art-5-meinung-presse-mehrdeutigkeit** — Wenn es um Art. 5 GG: Meinung, Presse und Mehrdeutigkeit in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-6. **verfassung-grundgesetz-verfahren** — Wenn es um Verfassungsänderung nach Art. 79 GG in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-7. **bverfg-verfahrenssicht-und-annahmerisiko** — Wenn es um BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel in verfassungsrecht geht: ordnet Akteninhalt, Bele…
-8. **verfassungsrechtliche-pruefung** — Wenn es um Verfassungsrechtliche Prüfung — Master-Workflow in verfassungsrecht geht: erstellt den passenden Entwurf aus …
-9. **live-schriftsatz-brief-und-memo-bausteine** — Wenn es um Live: Schriftsatz-, Brief- und Memo-Bausteine in verfassungsrecht geht: erstellt den passenden Entwurf aus Sa…
-10. **spezialkanzlei-risikoampel-und-gegenargumente** — Wenn es um Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien in verfassungsrecht geht: zerlegt Ergebni…
+1. **verfassungsbeschwerde-versandmappe-endfertigen** — Endfertigt Verfassungsbeschwerde und Eilantrag für das Bundesverfassungsgericht: liest angegriffene Entscheidungen und Z…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in verfassungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
+3. **art-12-berufsfreiheit-regulierungsdichte** — Wenn es um Art. 12 GG: Berufsfreiheit und Regulierungsdichte in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweisl…
+4. **spezial-bundesverfassungsgericht-livequellen-check** — Wenn es um Bundesverfassungsgericht: Livequellen-Check in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
+5. **verfassung-abstrakte-bund** — Wenn es um Verfassungsrecht: Erstprüfung, Rollenklärung und Mandatsziel in verfassungsrecht geht: ordnet Akteninhalt, Be…
+6. **art-5-meinung-presse-mehrdeutigkeit** — Wenn es um Art. 5 GG: Meinung, Presse und Mehrdeutigkeit in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+7. **verfassung-grundgesetz-verfahren** — Wenn es um Verfassungsänderung nach Art. 79 GG in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
+8. **bverfg-verfahrenssicht-und-annahmerisiko** — Wenn es um BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel in verfassungsrecht geht: ordnet Akteninhalt, Bele…
+9. **verfassungsrechtliche-pruefung** — Wenn es um Verfassungsrechtliche Prüfung — Master-Workflow in verfassungsrecht geht: erstellt den passenden Entwurf aus …
+10. **live-schriftsatz-brief-und-memo-bausteine** — Wenn es um Live: Schriftsatz-, Brief- und Memo-Bausteine in verfassungsrecht geht: erstellt den passenden Entwurf aus Sa…
+
+---
+
+## Skill: `verfassungsbeschwerde-versandmappe-endfertigen`
+
+_Endfertigt Verfassungsbeschwerde und Eilantrag für das Bundesverfassungsgericht: liest angegriffene Entscheidungen und Zustellnachweise zuerst, prüft Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Monats- oder Jahresfrist und Vollmachtslage, baut eine vollständige Entscheidungskette und liefert anwaltlich elektronisch einreichbare Einzel-PDFs samt Anlagenregister._
+
+# Verfassungsbeschwerde-Versandmappe endfertigen
+
+## 1. Entscheidungskette zuerst
+
+Lies jede angegriffene Entscheidung vollständig, dazu Zustellnachweise, Anhörungsrüge, fachgerichtliche Schriftsätze, Vollmacht und Entwurf. Erzeuge eine Kette von Ausgangsentscheidung bis letztinstanzlicher Entscheidung mit Datum, Aktenzeichen, Zustellung, gerügtem Grundrecht und genauer Fundstelle.
+
+## 2. Zulässigkeitskontrolle
+
+1. Beschwerdeführer, Beschwerdegegenstand und mögliche eigene, gegenwärtige und unmittelbare Betroffenheit bestimmen.
+2. Rechtswegerschöpfung und Subsidiarität anhand des fachgerichtlichen Vortrags belegen.
+3. Frist nach BVerfGG Paragraf 93 oder Sonderfrist bestimmen und Zustellung belegen.
+4. Jede Grundrechtsrüge mit angegriffener Aussage, fachgerichtlichem Vortrag und Entscheidungspassage verbinden.
+5. Eilantrag nach BVerfGG Paragraf 32 getrennt mit Doppelhypothese und konkreten Folgen ausarbeiten.
+
+## 3. Anlagenregister
+
+Ordne angegriffene Entscheidungen zuerst, danach Zustellnachweise, entscheidungserhebliche Schriftsätze, Beweismittel und Vollmacht. Verwende eine neutrale, durchgängige Anlagenfolge statt automatisch K/B. Jede Seite trägt rechts oben ihre Bezeichnung. Das Register nennt Datum, Gericht, Aktenzeichen, Seiten und die Rüge, für die das Dokument benötigt wird.
+
+## 4. Elektronischer Weg
+
+Seit 1. August 2024 müssen Rechtsanwälte nach BVerfGG Paragraf 23c schriftlich einzureichende Schriftsätze und Anlagen elektronisch übermitteln. Bürger ohne anwaltliche Einreichung dürfen weiterhin schriftlich oder per Telefax handeln. Prüfe BVerfGG Paragrafen 23a bis 23c und die aktuellen Hinweise des Bundesverfassungsgerichts.
+
+Hauptdokument und Anlagen werden als einzelne, lesbare PDFs übermittelt. Verwende kurze ASCII-Dateinamen ohne sensible Sachverhaltsangaben, etwa `00_Verfassungsbeschwerde.pdf` und `01_Anlage1_Beschluss_OLG.pdf`. Eine Ersatzeinreichung setzt eine vorübergehende technische Unmöglichkeit und unverzügliche Glaubhaftmachung voraus.
+
+## 5. Auslieferung
+
+Liefere Beschwerdeschrift, gegebenenfalls getrennten Eilantrag, Einzelanlagen, Entscheidungskette, Zulässigkeitsmatrix, Anlagenregister, Freigabevermerk und Eingangskontrolle. Stoppe bei fehlender Entscheidung, unbewiesener Zustellung, nicht ausgeschöpfter Rüge, offener Frist oder unklarer Vollmacht.
 
 ---
 
@@ -219,7 +253,7 @@ Dieser Skill prüft Äußerungs- und Medienfälle mit verfassungsrechtlicher Sch
 
 ## Entscheidungslinie
 
-- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51, Lüth: Wechselwirkungslehre und objektive Wertordnung.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, Lüth: Wechselwirkungslehre und objektive Wertordnung.
 - BVerfG, Beschluss vom 10.10.1995, 1 BvR 1476/91 u. a., "Soldaten sind Mörder": mehrdeutige kollektive Äußerungen dürfen nicht ohne verfassungskonforme Deutung strafrechtlich verengt werden.
 - BVerfG, Beschluss vom 28.07.2025, 1 BvR 1949/24: erfolgreiche Verfassungsbeschwerde gegen gerichtliche Entscheidung zur Veröffentlichung von Ergebnissen einer Lebensmittelkontrolle; amtliche Fundstelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/07/rk20250728_1bvr194924.html>.
 - BVerfG, Beschluss vom 11.12.2025, 1 BvR 986/25: erfolgreiche Meinungsfreiheitsbeschwerde gegen strafgerichtliche Entscheidung; amtliche Fundstelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/12/rk20251211_1bvr098625.html>.
@@ -527,60 +561,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `spezialkanzlei-risikoampel-und-gegenargumente`
-
-_Wenn es um Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien in verfassungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die für diese verfassungsrechtliche Prüfung einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** GG, BVerfGG, VwGO/ZPO/StPO-Schnittstellen, Gesetzgebungskompetenz, Grundrechte, Verfassungsbeschwerde, konkrete/abstrakte Normenkontrolle.
-- **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Spezialkanzlei** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

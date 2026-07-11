@@ -23,7 +23,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Familienrechtliche Mediation nach Paragraf 156 FamFG und Cochemer Modell: Vermittlungsverfahren Paragraf 165 FamFG bei Umgangsverweige` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -64,7 +63,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## ADR-Pfade im Überblick
 
@@ -250,7 +248,6 @@ Rechtsanwalt/Rechtsanwältin [Name]
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
 | "Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach Paragraf 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach Paragraf 89 FamFG als nächste Stufe |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach Paragraf 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
 | "Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | Paragraf 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
 | "Mediationsergebnis ist nicht vollstreckbar" | Mandant | Protokollierung nach Paragraf 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach Paragraf 86 FamFG |
@@ -283,7 +280,6 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (Para
 | Situation | Empfehlung | Begründung |
 |-----------|------------|-----------|
 | Erste Trennung, beide Elternteile kooperationswillig | Sofortige Familienmediation außergerichtlich (DGFM); kein Gerichtsverfahren einleiten | Günstigster, schnellster Weg; Vereinbarung nach Paragraf 127a BGB protokollieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Hochkonfliktfamilie, kein Konsens möglich | Cochemer Modell aktivieren über Paragraf 156 FamFG; Verfahrensbeistand Paragraf 158 FamFG beantragen | Interdisziplinäre Struktur entlastet Gerichte; Kindesinteresse im Fokus |
 | Häusliche Gewalt / Paragraf 1666 BGB-Verdacht | Keine ADR; sofortige einstweilige Anordnung; Paragraf 1666 BGB-Verfahren | Sicherheit vor Einigung; Schutzanordnung GewSchG parallel |
 | Einigung erzielt, aber fragile Umsetzung | Gerichtliche Protokollierung Paragraf 127a BGB + Follow-up-Mediation nach 6 Monaten | Vollstreckungstitel als Sicherheitsnetz; präventive Eskalationsminderung |

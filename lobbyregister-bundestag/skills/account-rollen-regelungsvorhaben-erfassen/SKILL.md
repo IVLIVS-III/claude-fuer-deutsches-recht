@@ -26,27 +26,6 @@ description: "Wenn es um Portal-Account und Rollen in Lobbyregister Bundestag ge
 2. Wer darf Daten erfassen, prüfen, freigeben und bestaetigen?
 3. Wie werden Vertretung, Passwortwechsel und Ausscheiden geregelt?
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 LobbyRG
-- § 5 LobbyRG
-- § 2 LobbyRG
-- § 4 LobbyRG
-- § 1 LobbyRG
-- § 7 LobbyRG
-- § 6 LobbyRG
-- § 1 GeschGehG
-- Art. 21 GG
-- § 28 VwVfG
-- § 1 bis 7 LobbyRG
-- § 6b BMinG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ## Quellenanker
 

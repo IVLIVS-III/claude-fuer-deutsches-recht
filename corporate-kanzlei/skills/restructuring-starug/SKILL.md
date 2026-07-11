@@ -47,7 +47,6 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
@@ -97,7 +96,6 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 | Gegenargument (Gläubiger) | Erwiderung (Schuldner / Berater) |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Plan stellt uns schlechter als Liquidation | Vergleichsrechnung nach § 251 InsO muss Liquidationsszenario realistisch darstellen; Sachverständiger bestellen |
 | Antragspflicht war schon früher fällig | Nachweis, dass drohende Zahlungsunfähigkeit erst zu einem späteren Zeitpunkt erkennbar war; Dokumentation der Prognosen |
 | StaRUG greift in Eigentumsrechte ein | Art. 14 GG: Eingriff gerechtfertigt, wenn Schlechterstellungsverbot gewahrt und Sanierungsziel legitim |
@@ -241,8 +239,3 @@ ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 1–93 StaRUG; §§ 15a, 15b, 17–19, 217–251 InsO; § 3a EStG; § 7b GewStG
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:

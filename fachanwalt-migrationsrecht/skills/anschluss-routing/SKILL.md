@@ -1,64 +1,42 @@
 ---
 name: anschluss-routing
-description: "Wenn es um Anschluss-Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Leitet eine begonnene Migrationsakte anhand von Status, Stichtag, Frist und Ziel in den passenden Fachskill weiter. Berücksichtigt die seit 12. Juni 2026 geltende GEAS-Reform und liefert einen begründeten Hauptpfad mit höchstens zwei notwendigen Nebenspuren."
 ---
 
-# Anschluss-Routing
+# 1. Anschluss-Routing im Migrationsrecht
 
-## Einsatzlage
+## 1.1 Vorprüfung
 
-Dieses Anschluss-Routing für **Fachanwalt Migrationsrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+Lies das bisherige Arbeitsergebnis und die vorhandenen Dokumente. Wiederhole kein Kaltstartinterview, wenn Status, Bescheid und Ziel bereits erkennbar sind.
 
-## Fachlandkarte dieses Plugins
+## 1.2 Routingweichen
 
-- `abschiebehaft-paragraf-62-aufenthg` — Abschiebehaft Paragraf 62 Aufenthg
-- `einstieg-schnelltriage-fallrouting` — Abschiebungsabwehr Sofort Arbeitgeber
-- `arbeitgeberwechsel` — Arbeitgeberwechsel Asyl Anhoerung Asylg
-- `asylantrag-folgeverfahren-paragraf-71-asylg` — Asylantrag Folgeverfahren Paragraf 71 Asylg
-- `aufenthalt-paragraf-25a-aufenthg` — Aufenthalt Paragraf 25A Aufenthg
-- `aufenthaltstitel-antrag` — Aufenthaltstitel
-- `workflow-aufenthaltstitel-router` — Aufenthaltstitel Ausweisung Start
-- `aufenthaltstitel-pruefung` — Aufenthaltstitel Erstgespraech Mandatsannahme
-- `ausweisung-paragrafe-53-55-aufenthg` — Ausweisung Paragrafe 53 55 Aufenthg
-- `ba-zustimmung-beschaeftigung` — BA Zustimmung Beschäftigungsduldung
-- `blaue-karte-eu-mobilitaet` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
-- `workflow-botschaft-visumtermin` — Botschaft Visumtermin Dokumentenstapel
-- `datenschutz-sicherheit-migration` — Datenschutz Sicherheit Daueraufenthalt EU
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
+1. Welcher Status besteht heute und welche Entscheidung wird angegriffen oder beantragt?
+2. Wann wurde ein Asylantrag gestellt und gilt altes Recht oder das seit 12. Juni 2026 anwendbare neue GEAS?
+3. Welche Frist läuft aus welchem Dokument?
+4. Drohen Überstellung, Abschiebung, Haft, Erlöschen eines Titels oder Verlust einer Beschäftigung?
+5. Welches konkrete Arbeitsprodukt wird jetzt benötigt?
 
-## Arbeitsweg
+## 1.3 Hauptpfade
 
-- Ergebnis sichten: Welche Fachanwalt Migrationsrecht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
-- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
-- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+| Fallkern | Hauptskill | Produkt |
+| --- | --- | --- |
+| Schutzantrag, Anhörung oder Ablehnung | `workflow-asyl-start` | Schutzgrund-, Fristen- und Belegmatrix |
+| Verantwortlicher Mitgliedstaat | `workflow-dublin-geas-start` | Stichtags- und Zuständigkeitsprüfung |
+| Ausweisung | `workflow-ausweisung-start` oder `ausweisung-abwaegung` | Abwägungsmatrix und Rechtsbehelf |
+| Aufenthalts- oder Beschäftigungstitel | `workflow-aufenthaltstitel-router` | Anspruchs- und Unterlagenplan |
+| Folgeantrag | `asylantrag-folgeverfahren-paragraf-71-asylg` | Wiederaufgreifens- und Neuigkeitsprüfung |
+| Akute Frist | `workflow-fristenrettung-asyl-aufenthalt` | fristwahrender Entwurf und Eilplan |
+| Abschiebehaft | `abschiebehaft-paragraf-62-aufenthg` | Haftgrund-, Dauer- und Beschwerdeprüfung |
 
-## Qualitätsanker
+## 1.4 Qualitätsregeln
 
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+1. Nenne genau einen Hauptskill und höchstens zwei Nebenspuren.
+2. Berechne die Frist aus dem konkreten Bescheid und dem anwendbaren Übergangsrecht.
+3. C-490/16 ist nur ein Altfallsanker für Dublin III; C-247/20 betrifft Freizügigkeitsrecht und Krankenversicherung, nicht Asyl oder Ausweisung im Allgemeinen.
+4. Trenne Statusentscheidung, Vollziehung, Abschiebungsandrohung, Einreiseverbot und Haft.
+5. Gib sofort das nächste Arbeitsprodukt aus, nicht nur eine Liste möglicher Skills.
 
-## Normen und Rechtsprechung
+## 1.5 Ausgabe
 
-### Kuratierte Normen-Bibliothek
-
-- Art. 3 EMRK
-- § 80 VwGO
-- § 36 AsylG
-- § 71 AsylG
-- § 74 AsylG
-- Art. 6 GG
-- Art. 8 EMRK
-- § 81 AufenthG
-- § 60a AufenthG
-- § 123 VwGO
-- § 5 AufenthG
-- § 10 StAG
-
-### Leitentscheidungen
-
-- EuGH C-490/16
-- EuGH C-247/20
+Erstelle eine Routingkarte mit Status, Stichtagsregime, Frist, Hauptskill, Nebenspur, fehlenden Unterlagen und dem nächsten versandfertigen Produkt.

@@ -169,28 +169,3 @@ Wir fordern Zuruecknahme der Kuendigung bis [DATUM +7 Tage].
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 82 DSGVO
-- § 64 WpHG
-- § 263 StGB
-- § 4b FinDAG
-- § 31 BDSG
-- § 44 KWG
-- § 10 ZAG
-- § 1 KWG
-- § 32 KWG
-- § 25a KWG
-- § 1 ZAG
-- Art. 22 DSGVO
-
-### Leitentscheidungen
-
-- BGH XI ZR 22/24
-- BGH XI ZR 133/24
-- EuGH C-26/22
-- EuGH C-634/21
-- BGH VI ZR 183/22

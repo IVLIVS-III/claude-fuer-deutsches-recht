@@ -83,7 +83,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 ## Medizinrecht / Arzthaftung
 
 - Aufklärungspflicht § 630e BGB; Beweislast § 630h II BGB — BGH VI. Zivilsenat — bundesgerichtshof.de
-- Grober Behandlungsfehler; Beweislastumkehr § 630h V BGB — BGH VI. Zivilsenat (Linie seit BGH VI ZR 22/12 v. 19.07.2013 dokumentiert) — bundesgerichtshof.de
+- Grober Behandlungsfehler; Beweislastumkehr nach Paragraf 630h Absatz 5 BGB - BGH, Urteil vom 24.05.2022 - VI ZR 206/21: Eignung zur Mitverursachung genügt grundsätzlich; Ausnahme bei äußerst unwahrscheinlichem Ursachenzusammenhang oder Verwirklichung eines anderen Risikos - bundesgerichtshof.de
 - Dokumentationspflicht § 630f BGB; Folgen Lücken — BGH VI. Zivilsenat — bundesgerichtshof.de
 - Approbations-Widerruf / -Ruhen § 6 BÄO — BVerwG / OVGe; ggf. BVerfG bei Eingriff in Art. 12 GG — bverwg.de + bundesverfassungsgericht.de
 - Recht auf selbstbestimmtes Sterben — BVerfG 2. Senat (2 BvR 2347/15 v. 26.02.2020) — bundesverfassungsgericht.de

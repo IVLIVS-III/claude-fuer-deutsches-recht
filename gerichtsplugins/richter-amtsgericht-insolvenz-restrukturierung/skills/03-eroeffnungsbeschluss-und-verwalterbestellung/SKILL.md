@@ -34,10 +34,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BVerfG, Beschluss vom 23.05.2006 - 1 BvR 2530/04: Der Bewerber um das Amt des Insolvenzverwalters hat aus Artikel 3 Absatz 1 GG einen Anspruch auf fehlerfreie Ausübung des Auswahlermessens nach InsO Paragraf 56 Absatz 1.
+- Auswahlvermerk und Eröffnungsbeschluss müssen Einzelfalleignung, Geschäftskunde, Unabhängigkeit, Interessenkonflikte und die gesetzlichen Beteiligungsrechte des vorläufigen Gläubigerausschusses getrennt dokumentieren.
 
 ## Prüfungsschema in Stufen
 

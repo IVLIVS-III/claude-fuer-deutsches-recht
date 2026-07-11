@@ -2,20 +2,75 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 64 Skills des Plugins `prozessrecht`.
+Diese Vollprüfung enthält top-10 von 65 Skills des Plugins `prozessrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-2. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den pass…
-3. **stpo-biometrischer-internetabgleich-und-ki-ermittlung** — Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninha…
-4. **verfahrensart-rechtsweg-zustaendigkeit** — Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständig…
-5. **verkehrsunfall** — Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf …
-6. **schriftsaetze-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine in Prozessrecht geht: erstellt den passenden Entwurf a…
-7. **anwaltsgeheimnis-pruefung** — Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, F…
-8. **eilverfahren-risikoampel-und-gegenargumente** — Wenn es um Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien in Prozessrecht geht: zerlegt Ergebnis, Fri…
-9. **vollstreckung** — Wenn es um Zwangsvollstreckung – Überblick und Praxis in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverha…
-10. **beweissicherung-einstweilige-verfuegung** — Wenn es um Aufbewahrungspflicht und Beweissicherung in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt…
+1. **gerichtliche-versandmappe-endfertigen** — Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordne…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+3. **bea-wiedereinsetzung-ersatzeinreichung-2026** — Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Un…
+4. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den pass…
+5. **stpo-biometrischer-internetabgleich-und-ki-ermittlung** — Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninha…
+6. **verfahrensart-rechtsweg-zustaendigkeit** — Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständig…
+7. **verkehrsunfall** — Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf …
+8. **schriftsaetze-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine in Prozessrecht geht: erstellt den passenden Entwurf a…
+9. **anwaltsgeheimnis-pruefung** — Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, F…
+10. **eilverfahren-risikoampel-und-gegenargumente** — Wenn es um Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien in Prozessrecht geht: zerlegt Ergebnis, Fri…
+
+---
+
+## Skill: `gerichtliche-versandmappe-endfertigen`
+
+_Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordner und gerichtliche Vorgaben zuerst, prüft Anträge, Tatsachenfundstellen und Beweisbezüge, führt K-, B-, AST- oder AG-Nummern fort, erzeugt einzelne gestempelte PDFs, wählt das dokumentierte Dateinamensprofil und liefert Manifest, Freigabevermerk und Eingangskontrolle._
+
+# Gerichtliche Versandmappe endfertigen
+
+## 1. Direktstart
+
+Lies zuerst den neuesten Schriftsatz, das Anlagenverzeichnis, alle im Schriftsatz genannten Dateien, gerichtliche Verfügungen und vorhandene Kanzleivorlagen. Erzeuge unmittelbar eine Produktionsmatrix. Frage nicht erneut nach Tatsachen, die aus dem Ordner hervorgehen.
+
+Fehlt ein erkennbarer Gestaltungsstandard, frage nach der ersten Sichtung in einem Satz nach Briefkopf, Schrift, Rand, Datum und gewünschter Anlagenbezeichnung. Fehlen Gericht, Aktenzeichen oder Frist, behandle dies als Sperrpunkt.
+
+## 2. Produktionsmatrix
+
+| Position | Schriftsatzfundstelle | Beweisthema | Quelldatei | Nummer | PDF- und Sichtstatus | offener Punkt |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hauptdokument | gesamte Fassung | Anträge und Vortrag | Datei | 00 | final oder Entwurf | Freigabe |
+| Anlage | Seite und Absatz | konkrete Tatsache | Datei | K 1 oder B 1 | offen, geprüft oder fertig | Lücke |
+
+Prüfe jeden Antrag gegen Rubrum, Sachantrag, Hilfsantrag, Zinsbeginn, Kostenantrag und Vollstreckungsbezug. Eine Anlage heilt keinen unverständlichen oder unsubstantiierten Vortrag.
+
+## 3. Nummernkreis
+
+1. Kläger verwendet regelmäßig K, Beklagter B.
+2. Antragsteller und Antragsgegner verwenden nur dann AST und AG, wenn Gericht oder Kanzleistandard dies vorsieht.
+3. Replik, Duplik und nachgelassener Schriftsatz führen den höchsten bestehenden Nummernkreis fort.
+4. Unteranlagen erhalten nur bei einem einheitlichen Beweisthema eine erkennbare Untergliederung.
+5. Jede Seite einer Anlage trägt rechts oben dieselbe sichtbare Bezeichnung; Inhalt darf nicht überdeckt werden.
+
+## 4. PDF- und Dateiproduktion
+
+Konvertiere Hauptdokument und Anlagen einzeln in PDF. Vergleiche jede konvertierte Seite visuell mit dem Original. Prüfe Seitenzahl, Ausrichtung, OCR, Anhänge, aktive Inhalte, Kennwortschutz, Schwärzungen, Unterschriftsseiten und Hashwerte.
+
+Gerichtshinweis geht vor. Fehlt er, verwende den dokumentierten strengen Kanzleistandard: ASCII, Unterstriche, logische Reihenfolge und höchstens 60 Zeichen einschließlich Endung. Beispiel: `03_20260710_AnlageK3_Nachtrag.pdf`. Stelle nicht dar, Umlaute seien bundesrechtlich verboten; die ERVB 2025 erlaubt sie und begrenzt Dateinamen auf 90 Zeichen.
+
+Eine Nachricht betrifft genau ein Verfahren. Hauptdokument und Anlagen werden als einzelne PDFs beigefügt, nicht als ZIP und nicht kennwortgeschützt. Nach ERVB 2025 sind höchstens 1000 Dateien und insgesamt 200 MB vorgesehen.
+
+## 5. Signatur und Eingang
+
+Das formbedürftige Hauptdokument benötigt entweder eine qualifizierte elektronische Signatur der verantwortenden Person oder deren einfache Signatur mit persönlichem Versand über den eigenen sicheren Übermittlungsweg. Anlagen benötigen keine eigene Signatur.
+
+Verifizierte Anker:
+
+- BGH, Beschluss vom 7. Mai 2024, VI ZB 22/23: Bei einfacher Signatur müssen verantwortende Person und tatsächlicher Versender übereinstimmen.
+- BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22: Ausgangskontrolle muss die gerichtliche Eingangsbestätigung erfassen.
+- BGH, Beschluss vom 24. April 2025, III ZB 12/24: Die Eingangsbestätigung ist mit ausreichender Reaktionsreserve abzurufen und zu prüfen.
+- BGH, Beschluss vom 25. Februar 2025, VI ZB 19/24: Eine Ersatzeinreichung verlangt eine geschlossene technische Darstellung; eine pauschale Störungsformel genügt nicht.
+- OLG Brandenburg, Beschluss vom 23. August 2022, 12 U 113/22: Frist erst löschen, wenn `request executed` und `erfolgreich` dokumentiert sind.
+
+## 6. Auslieferung
+
+Liefere `versandfertig/` mit Hauptdokument und Einzelanlagen sowie `intern/` mit Anlagenverzeichnis, Zuordnungsmatrix, Hashmanifest, Preflight-Bericht, Freigabevermerk und Vorlage für die Eingangskontrolle. Grün bedeutet nur bereit für die anwaltliche Schlussprüfung und den persönlichen Versand; löse keinen Versand aus.
 
 ---
 
@@ -60,6 +115,69 @@ Dieser Einstieg routet **Prozessrecht** vom ersten Sachverhalt zu Rollen, Friste
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `bea-wiedereinsetzung-ersatzeinreichung-2026`
+
+_Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Unmöglichkeit von Bedienungs- und Organisationsfehlern, ordnet ZPO Paragraf 130a Absatz 6 und Paragraf 130d richtig zu, bewertet Glaubhaftmachung und Nachholung und liefert sofort einen einreichungsfähigen Ersatz- oder Wiedereinsetzungsbaustein._
+
+# beA, Ersatzeinreichung und Wiedereinsetzung
+
+## 1. Einsatzfall
+
+Nutze diesen Skill, wenn ein fristgebundener Schriftsatz nicht regulär elektronisch übermittelt werden kann oder die Wirksamkeit einer bereits vorgenommenen Ersatzübermittlung verteidigt werden muss. Beginne mit vorhandenen Protokollen, Fehlermeldungen, Screenshots, Faxjournalen und Eingangsbestätigungen. Frage nicht zuerst den gesamten Kanzleiablauf ab.
+
+## 2. Rechtsweiche
+
+Trenne drei Fälle:
+
+1. ZPO Paragraf 130d Sätze 2 bis 4: Vorübergehende technische Unmöglichkeit der elektronischen Übermittlung. Dann ist die Übermittlung nach allgemeinen Vorschriften ausnahmsweise zulässig; die Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen.
+2. ZPO Paragraf 130a Absatz 6: Das elektronische Dokument ist eingegangen, aber für die Bearbeitung technisch ungeeignet. Nach gerichtlichem Hinweis ist unverzüglich eine geeignete Fassung einzureichen und die inhaltliche Übereinstimmung glaubhaft zu machen.
+3. ZPO Paragrafen 233 und 236: Die Frist ist bereits versäumt. Dann sind fehlendes Verschulden, Kausalität, Organisationsstandard, Nachholung und Glaubhaftmachung gesondert zu prüfen.
+
+Für andere Gerichtsbarkeiten die Parallelvorschriften der jeweiligen Verfahrensordnung verwenden.
+
+## 3. Minutenchronologie
+
+| Uhrzeit | Handlung | technischer Befund | Beleg | nächste Reaktion |
+| --- | --- | --- | --- | --- |
+| 22:41 | Versand ausgelöst | konkrete Meldung | Screenshot und Journal | Fehler prüfen |
+| 22:47 | zweiter Versuch | gleicher oder anderer Befund | Prüfprotokoll | Ersatzweg veranlassen |
+| 22:55 | Fax oder anderer zulässiger Ersatzweg | Übertragung positiv | Sendebericht | Glaubhaftmachung beifügen |
+
+Die Chronologie muss Ursache, vorübergehende Natur, Zeitpunkt, betroffene Infrastruktur und getroffene Maßnahmen so beschreiben, dass Bedienungs- oder persönliche Gründe beurteilt werden können.
+
+## 4. Verifizierte Entscheidungsanker
+
+- BGH, Beschluss vom 19. Dezember 2024, IX ZB 41/23: Nach Veranlassung einer Ersatzeinreichung sind keine fortlaufenden weiteren elektronischen Versuche bis zu ihrem Vollzug erforderlich. Eine zuverlässige veröffentlichte Serverstörung kann die Glaubhaftmachung ohne anwaltliche Versicherung einzelner Fehlversuche tragen.
+- BGH, Beschluss vom 25. Februar 2025, VI ZB 19/24: Eine pauschale Störungsformel reicht nicht. Erforderlich ist eine geschlossene, laienverständliche Darstellung des technischen Defekts, seiner vorübergehenden Natur und der Abhilfemaßnahmen.
+- LAG Berlin-Brandenburg, Beschluss vom 23. Dezember 2024, 5 Sa 982/24: Der handschriftliche Hinweis `wg. beA-Störung` genügt nicht; mehr als eine Woche bis zur Glaubhaftmachung ist regelmäßig nicht unverzüglich.
+- LG Hagen, Urteil vom 15. Oktober 2024, 4 O 209/24: Eine ohne zulässige Ersatzeinreichung auf Papier erhobene Klage ist unwirksam und wird nicht durch beliebig spätere elektronische Nachreichung geheilt.
+
+## 5. Glaubhaftmachung
+
+Erfasse:
+
+1. Datum und exakte Zeitspanne der Störung,
+2. konkrete Fehlermeldung und betroffene Komponente,
+3. Quelle einer veröffentlichten Störungsmeldung,
+4. unternommene Schritte und deren Ergebnis,
+5. Zeitpunkt und Weg der Ersatzeinreichung,
+6. Grund einer nur nachträglichen Glaubhaftmachung,
+7. elektronische Nachreichung, falls das Gericht sie anfordert.
+
+Eine eidesstattliche Versicherung ersetzt keine Tatsachenschilderung. Eine nichttechnische Ursache wie fehlender Zugang, nicht eingerichtetes Postfach, Bedienungsfehler oder ungeklärte Kanzleiorganisation fällt nicht automatisch unter die Ausnahme.
+
+## 6. Einreichungsbaustein
+
+> Die elektronische Übermittlung war am [Datum] von [Uhrzeit] bis jedenfalls [Uhrzeit] aus vorübergehenden technischen Gründen nicht möglich. Beim Versand über [System und Gerät] erschien die Meldung `[Wortlaut]`. Ein erneuter Versuch um [Uhrzeit] scheiterte mit [Befund]. Die Störung ist durch [Screenshot, Journal oder veröffentlichte Störungsmeldung] belegt. Deshalb wurde der Schriftsatz um [Uhrzeit] nach ZPO Paragraf 130d Satz 2 auf dem zulässigen Ersatzweg [Weg] übermittelt. Die vorstehenden Umstände werden durch [Glaubhaftmachungsmittel] glaubhaft gemacht.
+
+Passe den Baustein an die tatsächlich belegten Vorgänge an. Ergänze keine nicht dokumentierten Versuche.
+
+## 7. Output
+
+Liefere Fristberechnung, Minutenchronologie, Rechtsweiche, Belegliste, fertigen Glaubhaftmachungsbaustein und gegebenenfalls vollständigen Wiedereinsetzungsantrag. Nenne offen, wenn die Voraussetzungen nicht belastbar belegt sind.
 
 ---
 
@@ -506,12 +624,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 Beck'sche Tabelle) als eigenständige Quellen mit Auflage und Jahr zitieren.
 
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 184/10 (NJW 2011, 3237) – WRONG_TOPIC; tatsächlich: Schadensersatz Gemeinde aus Gefährdungshaftung für Ölspurbeseitigung (StVG), nicht Direktanspruch Paragraf 115 VVG. Fundstelle: NVwZ-RR 2011, 925 (nicht NJW 2011, 3237).
-Maßnahme: Ersetzt durch BGH VI ZR 226/16, 14.03.2017, NJW 2017, 2271 (Paragraf 115 Abs. 2 S. 3 VVG, Direktanspruch, verifiziert auf dejure.org).
-Quelle: https://dejure.org/2011,636
--->
-
 ---
 
 ## Skill: `schriftsaetze-schriftsatz-brief-und-memo-bausteine`
@@ -787,308 +899,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `vollstreckung`
-
-_Wenn es um Zwangsvollstreckung – Überblick und Praxis in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Zwangsvollstreckung – Überblick und Praxis
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Verweis auf das freistehende Plugin `zwangsvollstreckung`
-
-Dieser Skill bleibt der prozessrechtliche Überblick. Für die operative Durchführung – Antragsformulare,
-Drittschuldnerwahl, P-Konto-Berechnung, ZVollstrDigitG-Übergänge 2026/2027, notarielle Urkunde Paragraf 800 ZPO,
-Tabellenauszug Paragraf 201 InsO, Räumung Paragraf 885 ZPO, Schuldnerschutz – lädt das freistehende Plugin
-`zwangsvollstreckung` mit 17 spezialisierten Skills (`zv-kommandocenter`, `zv-titel-klausel-zustellung`,
-`zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-pfueb-mieter-finanzamt`, `zv-vermoegensauskunft-gv`,
-`zv-kontensuche-drittschuldner`, `zv-notarielle-urkunde-grundschuld`, `zv-zvg-antrag-glaeubiger`,
-`zv-tabellenauszug-201-inso`, `zv-mobiliar-gv-auftrag`, `zv-raeumung-885`, `zv-abwehr-schuldner`,
-`zv-pfaendungstabelle-2025`, `zv-elektronische-zustellung-2027`, `zv-mahnbescheid-online`,
-`zv-vollstreckungsbescheid-folge`). Dieser Hub-Skill ist die richtige Adresse für die dogmatische
-Gesamtschau; das Plugin ist die richtige Adresse für die einzelne Vollstreckungsmaßnahme.
-
-## Eingaben
-
-Das Modell benötigt:
-
-1. **Vollstreckungstitel**: Art (Urteil, Beschluss, VB, notarielle Urkunde, Vergleich),
- Datum, Gericht/Notar, Rechtskraft/Vollstreckbarkeit
-2. **Vollstreckungsklausel**: Liegt eine vollstreckbare Ausfertigung vor? (Paragraf 724 ZPO)
-3. **Zustellung**: Wurde der Titel dem Schuldner zugestellt? (Paragraf 750 ZPO – Voraussetzung!)
-4. **Vollstreckungsgegenstand**: Geld/Mobilien/Forderungen/Immobilie/Herausgabe/Räumung
-5. **Bekannte Vermögenswerte**: Kontonummern, Arbeitgeber, Grundstücke, Kfz
-6. **Schuldnersituation**: Privatperson oder Unternehmen; Pfändungsfreigrenzen beachten
-
-## Rechtlicher Rahmen
-
-### Normen
-
-- **Paragrafen 704–707 ZPO** – Vollstreckungstitel und allgemeine Voraussetzungen (Titel, Klausel,
- Zustellung = "drei Säulen")
-- **Paragraf 724 ZPO** – vollstreckbare Ausfertigung (Klausel); Paragraf 725 ZPO – Klauselerteilung durch
- Urkundsbeamten; Paragraf 732 ZPO – Erinnerung gegen Klauselerteilung
-- **Paragraf 750 ZPO** – Zustellungserfordernis vor Beginn der Vollstreckung
-- **Paragraf 767 ZPO** – Vollstreckungsgegenklage (materielle Einwendungen gegen den Anspruch selbst)
-- **Paragraf 771 ZPO** – Drittwiderspruchsklage (Eigentum oder Recht eines Dritten an Vollstreckungs-
- gegenstand)
-- **Paragraf 802a–802l ZPO** – Vermögensauskunft (Paragraf 802c: Abgabe durch Schuldner; Paragraf 802d: Sperrfrist
- 2 Jahre; Paragraf 802l: Abruf beim Gerichtsvollzieher aus Schuldnerverzeichnis)
-- **Paragraf 808 ZPO** – Pfändung körperlicher Sachen (Mobiliarpfändung durch GV; Gewahrsam des
- Schuldners; Pfändungsprotokoll)
-- **Paragrafen 811, 811c ZPO** – Unpfändbare Sachen (Hausrat, Arbeitsgeräte, Sozialgeräte)
-- **Paragraf 829 ZPO** – Forderungspfändung (Pfändungs- und Überweisungsbeschluss = PfÜB; Beschluss
- durch Vollstreckungsgericht; Zustellung an Drittschuldner und Schuldner)
-- **Paragrafen 850–850k ZPO** – Pfändungsschutz für Arbeitseinkommen und P-Konto (Paragraf 850c ZPO –
- Pfändungstabelle; Paragraf 850k ZPO – Pfändungsschutzkonto)
-- **Paragraf 883 ZPO** – Herausgabevollstreckung beweglicher Sachen
-- **Paragraf 885 ZPO** – Räumungsvollstreckung (durch GV; Androhung 3 Wochen vor Termin)
-- **ZVG** – Zwangsversteigerung und Zwangsverwaltung von Grundstücken (Paragrafen 15 ff. ZVG
- Antrag beim AG; Paragrafen 35 ff. ZVG Versteigerungstermin)
-- **Paragrafen 900–915h ZPO** – Insolvenzantrag als ultima ratio; Paragraf 17 InsO – Zahlungsunfähigkeit
-
-### Leitentscheidungen und Normfassungen
-
-- BGH VII. ZS Linie zur Klauselpruefung: Die Prüfungstiefe im Klauselerteilungsverfahren ist formal eng begrenzt; materielle Einwendungen sind im Wege der Vollstreckungsgegenklage (Paragraf 767 ZPO) oder Erinnerung (Paragraf 766 ZPO) geltend zu machen. Aktuelle Aktenzeichen (z.B. BGH, Beschl. v. 30.01.2025 – Az. VII ZB 10/24) vor Verwendung über https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
-- BGH-Linie zu Paragraf 850k ZPO P-Konto-Schutz: Pfaendungsschutz wirkt automatisch gegenueber dem Gläubiger; nachtraegliche Aufhebung erfordert gesonderten Antrag. Aktenzeichen vor Schriftsatzverwendung prüfen.
-- Vollstreckungsvoraussetzung Paragraf 750 ZPO: Vollstreckungsmassnahmen ohne vorherige Zustellung sind rechtswidrig und auf Erinnerung hin aufzuheben (staendige Rechtsprechung).
-
-### Rechtsstand 2025/2026
-
-- Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110): Grundfreibetrag 1.555 EUR ab 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
-- Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 mit Auswirkungen auf Beschwerdesummen Paragraf 511 Abs. 2 ZPO (jetzt 1.000 EUR) und Paragraf 23 GVG (AG 10.000 EUR).
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-### A. Geldvollstreckung – Mobiliarpfändung (Paragraf 808 ZPO)
-
-1. **Voraussetzungen prüfen**: Titel + Klausel + Zustellung; Wartefrist Paragraf 750 Abs. 1 ZPO
- (i. d. R. 2 Wochen nach Zustellung)
-2. **GV beauftragen**: Vollstreckungsauftrag an Gerichtsvollzieher; Angabe bekannter Vermögens-
- werte; ggf. Auftrag zur Vermögensauskunft kombinieren
-3. **Pfändung**: GV pfändet körperliche Sachen im Gewahrsam des Schuldners; Unpfändbarkeit
- Paragrafen 811 ff. ZPO beachten; Pfändungsprotokoll ausstellen
-
-### B. Forderungspfändung – PfÜB (Paragrafen 829, 835 ZPO)
-
-1. **Antrag beim Vollstreckungsgericht** (AG am Wohnsitz des Schuldners): Bezeichnung von
- Forderung und Drittschuldner (Bank, Arbeitgeber, Mieter)
-2. **Erlass des PfÜB**: Gericht prüft nur formal → PfÜB wird erlassen
-3. **Zustellung**: Zunächst an Drittschuldner (Pfändungswirkung), dann an Schuldner
-4. **Drittschuldnererklärung** Paragraf 840 ZPO: Drittschuldner muss binnen 2 Wochen Auskunft geben
-5. **Überweisung** Paragraf 835 ZPO: zur Einziehung oder an Zahlungs Statt
-
-### C. Vermögensauskunft (Paragraf 802c ZPO)
-
-1. **Antrag beim GV**: wenn Vollstreckung erfolglos; GV lädt Schuldner vor
-2. **Abgabe der Vermögensauskunft** unter Versicherung der Vollständigkeit (Paragraf 802c Abs. 3 ZPO)
-3. **Eintragung ins Schuldnerverzeichnis** Paragraf 882c ZPO bei Verweigerung oder Verletzung
-
-### D. Räumungsvollstreckung (Paragraf 885 ZPO)
-
-1. **Titel**: rechtskräftiges Räumungsurteil oder vorläufig vollstreckbares Urteil mit
- Sicherheitsleistung
-2. **Androhung**: GV setzt Termin (mind. 3 Wochen Vorlauf, Paragraf 885 Abs. 1 ZPO)
-3. **Durchführung**: GV räumt; Hab und Gut des Schuldners wird eingelagert oder bei Wertlosigkeit
- vernichtet
-
-## Beispiel
-
-**Sachverhalt**: Gläubigerin G hat ein rechtskräftiges Urteil gegen Schuldner S über EUR 12.000
-(inkl. Zinsen). S ist Arbeitnehmer bei der Musterfirma GmbH; sein Nettolohn beträgt EUR 2.400/Monat.
-
-**Prüfung (Urteilsstil)**:
-
-*Voraussetzungen*: Titel (Urteil), vollstreckbare Ausfertigung (Paragraf 724 ZPO), Zustellung an S
-liegt vor (Paragraf 750 ZPO). Vollstreckung ist zulässig.
-
-*Forderungspfändung Arbeitseinkommen (Paragrafen 829, 850 ff. ZPO)*: Pfändbar ist das Arbeitseinkommen
-oberhalb des Pfändungsfreibetrags (Paragraf 850c ZPO; bei Nettolohn EUR 2.400/Monat ohne Unterhaltspflichten
-ca. EUR 264/Monat pfändbar nach aktueller Pfändungstabelle). PfÜB ist beim Vollstreckungsgericht
-am Wohnsitz des S zu beantragen; Drittschuldnerin ist die Musterfirma GmbH.
-
-*Empfehlung*: Zusätzlich Kontopfändung bei bekannter Hausbank (Paragraf 829 ZPO); Cave: P-Konto-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Risiken und typische Fehler
-
-- **Fehlende Zustellung** (Paragraf 750 ZPO): Vollstreckung rechtswidrig; Erinnerung Paragraf 766 ZPO
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **P-Konto übersehen**: Pfändung auf Girokonto leer, wenn Schuldner P-Konto führt;
- Freibeträge sind automatisch geschützt (Paragraf 850k ZPO).
-- **Falsche Pfändungsfreigrenze**: Bei Unterhaltspflichten des Schuldners erhöhte Freigrenze
- (Paragraf 850c Abs. 2 ZPO); Überpfändung macht Gläubiger schadensersatzpflichtig.
-- **Drittwiderspruchsklage** Paragraf 771 ZPO: Gepfändeter Gegenstand gehört Dritten → Klage suspendiert
- Vollstreckung; materiell-rechtliches Eigentum des Dritten prüfen.
-- **Vollstreckungsgegenklage** Paragraf 767 ZPO: Schuldner hat nach Titelerlass erfüllenden Umstand
- (Zahlung, Aufrechnung, Stundung) → Klage beim Prozessgericht.
-- **Berufsrecht**: Vollstreckungsaufträge mit Vermögensdaten des Schuldners unterliegen
- Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB.
-
-## Quellenpflicht
-
-Jede Aussage zu Vollstreckungsvoraussetzungen, Pfändungsfreigrenzen und Rechtsbehelfen ist
-nach `references/zitierweise.md` zu belegen. BGH-Beschlüsse vollständig mit Datum, Az.,
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-(Stöber/Rellermeyer) Autoren, Titel, Aufl., Jahr, Rn. zitieren.
-
-<!-- AUDIT 27.05.2026
-Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das Urteil von
-Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage Paragraf 771 ZPO (WRONG_TOPIC).
-Halluzinierte Referenz geloescht. Keine Ersatzquelle für Paragraf 771 ZPO-Leitentscheidung ergaenzt.
--->
-
----
-
-## Skill: `beweissicherung-einstweilige-verfuegung`
-
-_Wenn es um Aufbewahrungspflicht und Beweissicherung in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Aufbewahrungspflicht und Beweissicherung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Aktives Mandat (Slug)
-- Modus: `--anordnen`, `--aktualisieren`, `--aufheben`, `--status`
-- Betroffene Dokumentenkategorien und Custodians (Personen/Abteilungen, die Dokumente halten)
-- Aufbewahrungsanlass: laufendes Verfahren / angekündigtes Verfahren / Behördenanfrage
-
-## Ablauf
-
-### 1. Aufbewahrungspflichten prüfen
-
-**Handels- und steuerrechtliche Pflichtfristen:**
-| Kategorie | Frist | Rechtsgrundlage |
-|---|---|---|
-| Handelsbücher, Inventare, Jahresabschlüsse | 10 Jahre | Paragraf 257 Abs. 4 HGB |
-| Buchungsbelege | 10 Jahre | Paragraf 257 Abs. 4 HGB, Paragraf 147 Abs. 3 AO |
-| Handels- und Geschäftsbriefe | 6 Jahre | Paragraf 257 Abs. 4 HGB |
-| Sonstige steuerlich relevante Unterlagen | 6 Jahre | Paragraf 147 Abs. 1 Nr. 5 AO |
-| Lohnunterlagen (SV-relevant) | 10 Jahre | Paragraf 28f Abs. 2 SGB IV |
-
-**Prozessuale Aufbewahrungspflicht:**
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Konsequenzen der Beweisvereitelung:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Paragraf 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen.
-- Paragrafen 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (Paragraf 274 StGB) bei vorsätzlicher Vernichtung.
-
-### 2. Beweissicherungs-Anordnung erstellen (`--anordnen`)
-
-Inhalt der Anordnung:
-- Adressaten (Custodians): Namen, Funktion, Abteilung
-- Betroffene Dokumentenarten: E-Mails, Verträge, Buchungsbelege, CAD-Dateien, Systemlogs
-- Zeitraum der zu sichernden Unterlagen
-- Löschverbot: Ausdrückliches Verbot, betreffende Daten zu löschen, zu überschreiben oder zu ändern
-- Aufbewahrungsort und -format
-- Überprüfungsintervall
-- Kontaktperson für Rückfragen
-- Geltungsdauer / Aufhebungsvorbehalt
-
-### 3. Selbständiges Beweisverfahren (Paragrafen 485 ff. ZPO)
-
-Wenn Beweismittel außerhalb des Prozesses gesichert werden müssen (z. B. drohende Veränderung von Sachzustand, Mängel, Bauschäden):
-
-- Antrag nach Paragraf 485 ZPO: Beantragung der Beweissicherung durch das Prozessgericht (oder nach Paragraf 486 ZPO beim Amtsgericht des Ortes)
-- Inhalt: Beweisthema, Beweismittel (Sachverständiger, Augenschein), Benennung des Antragsgegners
-- Wirkung: Gutachten bindet das spätere Prozessgericht grundsätzlich (Paragraf 493 ZPO)
-- Fristen: Paragrafen 486 Abs. 2, 487 ZPO
-
-### 4. Statusbericht (`--status`)
-
-Tabelle aller aktiven Sicherungsanordnungen im Portfolio mit:
-- Mandat-Slug
-- Datum der Anordnung
-- Betroffene Custodians
-- Überprüfungsdatum
-- Aufhebungsvoraussetzungen
-
-## Quellen und Zitierweise
-
-Verbindlich: `../references/zitierweise.md`.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen).
-- Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte).
-
-## Ausgabeformat
-
-### Beweissicherungs-Anordnung
-
-```
-BEWEISSICHERUNGS-ANORDNUNG
-Mandat: [Slug]
-Datum: TT.MM.JJJJ
-Erstellt von: [Anwalt]
-MANDATSGEHEIMNIS – Paragraf 43a Abs. 2 BRAO / Paragraf 203 StGB
-
-──────────────────────────────────────────────
-ANORDNUNG ZUR AUFBEWAHRUNG VON UNTERLAGEN
-──────────────────────────────────────────────
-
-An: [Name, Funktion, Abteilung]
-
-Betreff: Aufbewahrungspflicht im Zusammenhang mit [Sachverhaltskurzbezeichnung]
-
-Aufgrund eines bevorstehenden / laufenden Rechtsstreits [Aktenzeichen oder Sachverhalt]
-ordnen wir an, folgende Unterlagen bis auf Weiteres aufzubewahren:
-
-Betroffene Dokumente:
-1. Alle E-Mails und sonstigen Korrespondenzen betreffend [Thema] ab [Datum]
-2. Verträge und Anlagen zu [Projekt]
-3. [weitere Kategorien]
-
-LÖSCHVERBOT: Es ist untersagt, die oben bezeichneten Unterlagen zu löschen, zu
-vernichten, zu überschreiben oder anderweitig unzugänglich zu machen.
-
-Nächste Überprüfung: TT.MM.JJJJ
-Kontakt: [Anwalt, Kanzlei, Telefon]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Risiken / typische Fehler
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Zu enger Anwendungsbereich:** Custodians und Dokumentenkategorien zu eng gewählt; alle betroffenen Abteilungen und IT-Systeme (E-Mail-Archiv, Cloud-Speicher) einschließen.
-- **Datenschutzkollision:** Aufbewahrungspflicht und DSGVO-Löschpflicht können kollidieren; bei Widerspruch gilt prozessuale Sicherungspflicht im Zweifel (vgl. Art. 17 Abs. 3 lit. e DSGVO: Aufbewahrung für Rechtsstreitigkeiten).
-- **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; Paragraf 485 ZPO-Antrag frühzeitig stellen.
-
-<!-- AUDIT 27.05.2026 bundle_040
--->
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

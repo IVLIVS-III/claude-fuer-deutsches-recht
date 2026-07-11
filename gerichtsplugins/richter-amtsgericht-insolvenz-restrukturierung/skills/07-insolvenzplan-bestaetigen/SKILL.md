@@ -34,10 +34,9 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Beschluss vom 20.07.2017 - IX ZB 13/16: Ein offensichtlich erfolgreicher Minderheitenschutzantrag kann die Zurückweisung schon in der Vorprüfung tragen; eine Kompensationsregelung muss finanziert sein und die Schlechterstellung vollständig ausgleichen.
+- BGH, Beschluss vom 26.04.2018 - IX ZB 49/17: Ein wesentlicher Verfahrensmangel genügt, wenn sein Einfluss auf die Planannahme ernsthaft möglich ist; die gerichtliche Prüfung nach InsO Paragraf 250 ist von einer wirtschaftlichen Zweckmäßigkeitskontrolle zu trennen.
+- BGH, Beschluss vom 19.05.2022 - IX ZB 6/21: Der darstellende Teil muss einen sachgerechten Vergleich der Befriedigungsaussichten mit dem Regelverfahren ermöglichen und bei natürlichen Personen die für die Prognose erforderlichen Einkommens-, Vermögens- und Familienverhältnisse offenlegen.
 
 ## Prüfungsschema in Stufen
 

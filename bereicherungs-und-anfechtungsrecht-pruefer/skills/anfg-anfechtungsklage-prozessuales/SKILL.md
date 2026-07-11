@@ -9,7 +9,7 @@ description: "Wenn es um Anfechtungsklage AnfG — Prozessuales in bereicherungs
 
 1. Liegt ein vollstreckbarer Titel gegen den Schuldner vor (§ 2 AnfG)?
 2. Ist die Verjährungsfrist nach §§ 195 199 BGB (3 Jahre) noch nicht abgelaufen?
-3. Ist der Streitwert für AG (bis EUR 5.000) oder LG (über EUR 5.000)?
+3. Ist nach Paragraf 13 ZPO der Streitwert für das Amtsgericht (bis einschließlich 10.000 Euro) oder für das Landgericht (darüber) erreicht, oder greift eine Sonderzuweisung?
 4. Wird Duldung (Regelfall) oder Wertersatz (bei Untergang des Gegenstands) beantragt?
 
 ## Zentrale Normen
@@ -18,7 +18,7 @@ description: "Wenn es um Anfechtungsklage AnfG — Prozessuales in bereicherungs
 - § 11 AnfG — Rechtsfolge: Duldung der Zwangsvollstreckung
 - § 13 AnfG — Klage oder Widerspruch in der Zwangsvollstreckung
 - §§ 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis
-- §§ 23 71 GVG — Sachliche Zuständigkeit (AG unter EUR 5.000 / LG über EUR 5.000)
+- Paragrafen 23 Nummer 1, 71 Absatz 1 GVG: sachliche Zuständigkeit grundsätzlich Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber.
 - §§ 888 890 ZPO — Vollstreckung aus Duldungsurteil
 
 ## Rechtsprechung (BGH — Leitsätze AnfG)
@@ -35,8 +35,8 @@ Kein gesetzlich festgelegter Klagezwang; jedoch läuft die Verjährung des Anfec
 
 ## Sachliche Zuständigkeit
 
-- Bis EUR 5.000: Amtsgericht (§ 23 Nr. 1 GVG).
-- Über EUR 5.000: Landgericht (§ 71 Abs. 1 GVG).
+- Bis einschließlich 10.000 Euro: Amtsgericht (Paragraf 23 Nummer 1 GVG).
+- Über 10.000 Euro: Landgericht (Paragraf 71 Absatz 1 GVG), sofern keine wertunabhängige Zuweisung eingreift.
 - Die Zuständigkeit richtet sich nach dem Wert des angefochtenen Gegenstands.
 
 ## Örtliche Zuständigkeit
@@ -93,31 +93,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Materien- und Quellenkontrolle
 
-- § 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung)
-- § 813 BGB (Leistung trotz Einrede)
-- § 814 BGB (Kenntnis der Nichtschuld)
-- § 815 BGB (Nichteintritt des Erfolges)
-- § 817 BGB (Verstoß gegen Verbotsgesetz)
-- § 818 BGB (Umfang des Bereicherungsanspruchs)
-- § 819 BGB (verschärfte Haftung)
-- § 820 BGB (Verbrauchskondiktion)
-- § 821 BGB (Einrede der Bereicherung)
-- §§ 119, 123 BGB (Anfechtung Willenserklärung)
-
-### Leitentscheidungen
-
-- BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
-- BGH VIII ZR 91/04 (Saldotheorie)
-- BGH V ZR 215/11 (Nichteintritt des Erfolges)
-- BGH IX ZR 196/14 (Insolvenzanfechtung)
-- BGH XI ZR 233/16 (Kontoeröffnungs-Anfechtung)
-
-### Anwendung im Skill
-
-- Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
-- Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell prüfen.
-- Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.
+Anfechtung einer Willenserklärung nach Paragraf 119 oder 123 BGB, bereicherungsrechtliche Rückabwicklung nach Paragraf 812 folgende BGB, Gläubigeranfechtung nach dem Anfechtungsgesetz und Insolvenzanfechtung nach Paragraf 129 folgende InsO sind getrennte Anspruchssysteme. Zuerst Anspruchsberechtigter, Anfechtungsgegner, Rechtshandlung, Benachteiligung, subjektive Merkmale, Frist und Rechtsfolge bestimmen. Eine Entscheidung aus einem anderen System nur nach ausdrücklicher Prüfung ihrer Übertragbarkeit verwenden; jedes Zitat benötigt Gericht, Datum, Aktenzeichen, tragende Aussage und Quelle.

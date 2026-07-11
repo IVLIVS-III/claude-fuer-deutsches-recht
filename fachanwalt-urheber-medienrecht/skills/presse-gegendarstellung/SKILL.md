@@ -114,8 +114,3 @@ in Vollmacht des Betroffenen
 - Bei strafrechtlich relevanter Berichterstattung (§§ 185 ff. StGB Beleidigung Verleumdung) parallel Strafanzeige; Skill `fachanwalt-strafrecht-akteneinsicht-beantragen`.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 026:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

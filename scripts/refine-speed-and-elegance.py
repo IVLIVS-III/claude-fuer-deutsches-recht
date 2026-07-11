@@ -9,6 +9,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 MAX_WERKSTATT_BYTES = 22 * 1024
+MAX_SCHNELLSTART_BYTES = 7500
 
 WERKSTATT_BLOCK = """### 1.1. Arbeitsmodus: schnell und belastbar
 
@@ -310,7 +311,9 @@ def refine_prompt(path: Path, kind: str) -> bool:
     else:
         text = normalize_schnellstart_headings(text)
         if "Schnellmodus" not in text:
-            text = insert_before_first_h2(text, SCHNELLSTART_BLOCK)
+            candidate = insert_before_first_h2(text, SCHNELLSTART_BLOCK)
+            if len(candidate.encode("utf-8")) <= MAX_SCHNELLSTART_BYTES:
+                text = candidate
         text = normalize_schnellstart_headings(text)
 
     if text != original:

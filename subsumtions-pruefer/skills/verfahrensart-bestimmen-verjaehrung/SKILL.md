@@ -18,7 +18,7 @@ description: "Wenn es um Verfahrensart bestimmen in Subsumtions-Prüfer geht: or
 1. Was ist das Rechtsschutzziel? (Zahlung, Unterlassung, Feststellung, Anfechtung VA, Strafverfolgung)
 2. Besteht Eilbedürftigkeit? → einstweiliger Rechtsschutz prüfen
 3. Ist eine Schiedsklausel im Vertrag vereinbart? (§ 1029 ZPO)
-4. Wie hoch ist der Streitwert? (AG bis EUR 5.000 / LG ab EUR 5.000)
+4. Wie hoch ist der Streitwert? (Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber; Sonderzuweisungen prüfen.)
 5. Ist das ordentliche Gericht durch Sondergerichtsstände ausgeschlossen? (Arbeitsgericht, Familiengericht)
 
 ## Zentrale Verfahrensnormen
@@ -36,7 +36,7 @@ description: "Wenn es um Verfahrensart bestimmen in Subsumtions-Prüfer geht: or
 
 **Wann:** Zivilrechtliche Ansprüche auf Zahlung, Herausgabe, Unterlassung; ohne Eilbedürfnis.
 
-**Zuständigkeit:** Amtsgericht bis EUR 5.000 (§ 23 GVG); Landgericht ab EUR 5.000 (§ 71 GVG); Anwaltszwang vor LG, OLG, BGH.
+Zuständigkeit: Amtsgericht bis einschließlich 10.000 Euro (Paragraf 23 Nummer 1 GVG), Landgericht darüber (Paragraf 71 Absatz 1 GVG), jeweils vorbehaltlich einer Sonderzuweisung; Anwaltszwang vor Landgericht, Oberlandesgericht und Bundesgerichtshof.
 
 **Mindestvoraussetzungen Klage:** Rubrum, bestimmter Antrag (§ 253 Abs. 2 Nr. 2 ZPO), Klagebegründung, Beweisangebote.
 

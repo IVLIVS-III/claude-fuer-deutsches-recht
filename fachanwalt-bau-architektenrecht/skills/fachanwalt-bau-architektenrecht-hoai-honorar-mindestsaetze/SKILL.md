@@ -217,7 +217,6 @@ K 4 — Leistungsphasennachweise
 - `schriftsatzkern-substantiierung` — für Klagebegründung Honorarklage
 
 ---
-<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
-<!-- VII ZR 144/17 (behauptet 11.10.2018): NOT_FOUND auf dejure.org — geloescht -->
-<!-- VII ZR 107/19 (behauptet 22.10.2020): NOT_FOUND auf dejure.org — geloescht -->
+
+
 <!-- UPDATE 05/2026: EuGH C-377/17 (04.07.2019), EuGH C-261/20 (18.01.2022) Thelen, BGH VII ZR 174/19 (02.06.2022) ergaenzt; alle ueber curia.europa.eu bzw. bundesgerichtshof.de verifiziert -->

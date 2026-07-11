@@ -183,5 +183,5 @@ In anderen Plugins:
 - Paragraphen 56, 58, 92 InsO, `gesetze-im-internet.de/inso/`.
 - Paragraphen 69, 89, 251 AO, `gesetze-im-internet.de/ao_1977/`.
 - Paragraph 3a EStG, Paragraph 7b GewStG.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation ueber `dejure.org`.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

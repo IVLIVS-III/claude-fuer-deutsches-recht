@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du Unfall, Bußgeld, Fahrerlaubnis, Reisendenrechte oder Regulierung schnell nach Haftung, Beweis und Frist sortieren.
+Wenn du das hier öffnest, willst du Unfall, Bußgeld oder Fahrerlaubnis schnell nach Haftung, Beweis, Frist und verwertbarem Arbeitsprodukt sortieren.
 
 # Fachanwalt Verkehrsrecht — Schnellstart
 
@@ -17,10 +17,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Ereignis und Frist: Unfall, Messung, Bescheid, Flug, Bahnreise, Ablehnung und Zugang kalendarisch sichern.
-2. Haftung und Anspruch: Beteiligte, Halter, Fahrer, Versicherer, Beförderer, Ursache, Quote und Anspruchsziel trennen.
+1. Ereignis und Frist: Unfall, Messung, Bescheid, Fahrerlaubnismaßnahme, Ablehnung und Zugang kalendarisch sichern.
+2. Haftung und Anspruch: Beteiligte, Halter, Fahrer, Versicherer, Ursache, Betriebsgefahr, Quote und Anspruchsziel trennen.
 3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
-4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, außergewöhnlicher Umstand oder Mitverschulden prüfen.
+4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, Betriebsgefahr oder Mitverschulden prüfen.
 5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
 6. Blitzer Messung Paragraf 3 StVO: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
 
@@ -28,8 +28,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; PflVG Paragraf 115 |
-| Rechtsprechung | BGH 22.06.2022 IV ZR 25/21; BVerwG 26.04.2020 3 C 25/19 |
+| Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; VVG Paragraf 115 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren |
 | Beweislast | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände |
 | Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief |
@@ -50,14 +50,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 - StVG Paragraf 7, Paragraf 17 und Paragraf 18: Halter- und Fahrerhaftung sowie Haftungsverteilung.
 - BGB Paragraf 249, Paragraf 251 und Paragraf 253: Naturalrestitution, Geldersatz und Schmerzensgeld.
-- PflVG Paragraf 115: Direktanspruch gegen den Haftpflichtversicherer.
+- VVG Paragraf 115: Direktanspruch gegen den Kfz-Haftpflichtversicherer.
 - OWiG Paragraf 66 und Paragraf 67: Bußgeldbescheid und Einspruch.
-- Paragraf 115 Abs. 1 VVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 249 Abs. 1 und 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 253 Abs. 2 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 115 VVG — Direktanspruch des Geschädigten gegen den Haftpflichtversicherer des Schädigers; Einreden des Versicherers nach Paragrafen 116, 117 VVG begrenzt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH 22.06.2022 IV ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BVerwG 26.04.2020 3 C 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- Paragraf 115 Abs. 1 VVG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 249 Abs. 1 und 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 253 Abs. 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 80 Absatz 5 VwGO: vorläufiger Rechtsschutz gegen die sofort vollziehbare Entziehung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

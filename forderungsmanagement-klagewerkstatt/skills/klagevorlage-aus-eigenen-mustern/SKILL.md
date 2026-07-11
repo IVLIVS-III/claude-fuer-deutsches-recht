@@ -164,7 +164,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-<!-- AUDIT 27.05.2026 -->
 ## Audit-Hinweise (27.05.2026)
 
 Drei halluzinierte Rechtsprechungsbelege wurden im Abschnitt "Leitentscheidungen" korrigiert:

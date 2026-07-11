@@ -48,7 +48,6 @@ Je Land — kurze Übersicht (Details je Skill `internationale-harmonisierung-ko
 | Insolvenzsicherung | PSV (§ 7 ff. BetrAVG) — Direktzusage/UK/PF |
 | Governance | IORP II (§§ 232 ff. VAG) für PK/PF; Mitbestimmung § 87 BetrVG |
 | Expat | Typischerweise GRV-pflichtig; Doppelversicherung bei Kurzentsendung durch A1-Bescheinigung vermieden |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ### Vereinigtes Königreich (UK)
 

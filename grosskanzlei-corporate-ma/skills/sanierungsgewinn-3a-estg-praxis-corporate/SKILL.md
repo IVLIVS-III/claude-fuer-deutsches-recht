@@ -111,6 +111,6 @@ Im Mandantengespräch sind drei Aussagen wichtig:
 
 - Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG – prüfbar über gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt.
-- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - IDW S 6 (Anforderungen an Sanierungskonzepte); IDW S 11 (Fortbestehensprognose) – Verifizierung über idw.de.

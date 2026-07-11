@@ -37,7 +37,7 @@ Nutze diesen Skill, wenn eine W&I-Versicherung in den Deal einbezogen wird und d
 - Paragraf 69 und Paragraf 70 VVG nur prüfen, wenn es wirklich um einen Versicherungsvertreter geht. Broker-, Makler- und Underwriter-Kommunikation nicht ohne saubere Rollenprüfung darunter ziehen.
 - Paragraf 19 VVG: vorvertragliche Anzeigeobliegenheit als Leitplanke für vollständige, aber nicht unnötig risikovergrößernde Underwriting-Antworten.
 - Paragraf 133 und 157 BGB: Auslegung von SPA- und Police-Begriffen im Zusammenspiel.
-- BGH, 21.04.1997 - II ZR 175/95: dokumentierte Informationsgrundlage für Deal-Entscheidungen.
+- Rechtsprechung nur einsetzen, wenn sie die konkrete Wissenszurechnung, Anzeigeobliegenheit, Auslegung oder Deckungsfrage trägt; Organhaftungsentscheidungen sind kein Ersatz für die Auslegung von SPA, Disclosure Letter und Police.
 
 ## Visualisierung
 

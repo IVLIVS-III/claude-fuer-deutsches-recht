@@ -45,26 +45,3 @@ description: "Wenn es um Amtlicher ZPO-Verfahrenscheck in Prozessrecht geht: ers
 ## Referenz
 
 Nutze `references/amtlicher-zpo-normkern.md`. Rechtsprechung nur nach gesondertem Live-Check mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle nennen.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Paragraf 203 StGB
-- Paragraf 45 GKG
-- Paragraf 115 VVG
-- Paragraf 7 StVG
-- Paragraf 68 GKG
-- Paragraf 43 GKG
-- Paragraf 3a RVG
-- Paragraf 97a UrhG
-- Paragraf 23 RVG
-- Paragraf 4a RVG
-- Paragraf 74 VwGO
-- Paragraf 17 StVG
-
-### Leitentscheidungen
-
-- BGH VI ZR 184/10
-- BGH VI ZR 226/16
-- BGH VI ZR 73/20

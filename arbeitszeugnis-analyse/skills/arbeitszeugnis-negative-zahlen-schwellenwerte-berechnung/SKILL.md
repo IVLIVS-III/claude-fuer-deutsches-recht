@@ -7,7 +7,7 @@ description: "Wenn es um Negative: Zahlen, Schwellenwerte und Berechnung in Arbe
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -40,4 +40,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Streitwert berechnen:** in der Praxis ein Bruttomonatsgehalt nach Paragraf 42 Abs. 2 GKG analog; Ansprüche auf qualifiziertes Zeugnis und auf Korrektur können kumulieren.
 4. **Risiko bewerten:** Note unter "befriedigend" Pflicht zur Begründung durch Arbeitgeber; Klageaussicht und Vergleichsdruck einschätzen.
 5. **Anschluss bauen:** Aufforderungsschreiben mit Fristsetzung (mindestens 2 Wochen üblich), dann ggf. Klage vor Arbeitsgericht (Paragrafen 46 ff. ArbGG).
-

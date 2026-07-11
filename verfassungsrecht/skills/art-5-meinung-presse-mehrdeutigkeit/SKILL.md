@@ -20,7 +20,7 @@ Dieser Skill prüft Äußerungs- und Medienfälle mit verfassungsrechtlicher Sch
 
 ## Entscheidungslinie
 
-- BVerfG, Beschluss vom 15.01.1958, 1 BvR 400/51, Lüth: Wechselwirkungslehre und objektive Wertordnung.
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, Lüth: Wechselwirkungslehre und objektive Wertordnung.
 - BVerfG, Beschluss vom 10.10.1995, 1 BvR 1476/91 u. a., "Soldaten sind Mörder": mehrdeutige kollektive Äußerungen dürfen nicht ohne verfassungskonforme Deutung strafrechtlich verengt werden.
 - BVerfG, Beschluss vom 28.07.2025, 1 BvR 1949/24: erfolgreiche Verfassungsbeschwerde gegen gerichtliche Entscheidung zur Veröffentlichung von Ergebnissen einer Lebensmittelkontrolle; amtliche Fundstelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/07/rk20250728_1bvr194924.html>.
 - BVerfG, Beschluss vom 11.12.2025, 1 BvR 986/25: erfolgreiche Meinungsfreiheitsbeschwerde gegen strafgerichtliche Entscheidung; amtliche Fundstelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/12/rk20251211_1bvr098625.html>.

@@ -73,9 +73,3 @@ Einschlägige Kommentare und Rechtsprechung:
 - **Berufsrechtliche Hinweispflicht:** Bei überraschenden Rechtswendungen ist der Mandant nach Paragraf 43 BRAO zu informieren; kein Schriftsatz ohne Rücksprache versenden.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (" neue Angriffsmittel Paragraf 531 ZPO ") – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach Paragraf 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
-Quelle : https://dejure.org/2021,4358
-Aktion : Zeile entfernt
--->

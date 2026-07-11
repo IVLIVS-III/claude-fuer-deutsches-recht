@@ -48,7 +48,7 @@ from typing import List, Optional, Tuple
 
 
 # ---------------------------------------------------------------------------
-# Basiszinssatz nach § 247 BGB (Stand: bis Ende 2026 ergaenzen)
+# Basiszinssatz nach Paragraf 247 BGB (amtlicher Stand bis 31.12.2026)
 # Liste: (gueltig_ab, satz_in_prozent)
 # Quelle: Bundesbank-Veroeffentlichungen.
 # ---------------------------------------------------------------------------
@@ -73,6 +73,7 @@ BASISZINS: List[Tuple[date, float]] = [
     (date(2011, 7, 1), 0.37),
     (date(2012, 1, 1), 0.12),
     (date(2013, 1, 1), -0.13),
+    (date(2013, 7, 1), -0.38),
     (date(2014, 1, 1), -0.63),
     (date(2014, 7, 1), -0.73),
     (date(2015, 1, 1), -0.83),
@@ -84,13 +85,21 @@ BASISZINS: List[Tuple[date, float]] = [
     (date(2025, 1, 1), 2.27),
     (date(2025, 7, 1), 1.27),
     (date(2026, 1, 1), 1.27),
+    (date(2026, 7, 1), 1.52),
 ]
+
+BASISZINS_GUELTIG_BIS = date(2026, 12, 31)
 
 
 def basiszins_an(tag: date) -> float:
     """Liefert den am `tag` gueltigen Basiszinssatz."""
     if tag < BASISZINS[0][0]:
         raise ValueError(f"Datum {tag} liegt vor erstem hinterlegten Basiszins-Eintrag.")
+    if tag > BASISZINS_GUELTIG_BIS:
+        raise ValueError(
+            f"Datum {tag} liegt nach dem amtlich hinterlegten Stand "
+            f"{BASISZINS_GUELTIG_BIS}. Basiszinssatz der Bundesbank ergänzen."
+        )
     aktuell = BASISZINS[0][1]
     for grenze, satz in BASISZINS:
         if tag >= grenze:
@@ -122,7 +131,8 @@ class Periode:
 
     @property
     def zinsen(self) -> float:
-        # Taggenaue Zinsberechnung mit 365 Tagen (gefestigte Rechtsprechung).
+        # Das Werkzeug verwendet die verbreitete 365-Tage-Konvention.
+        # Abweichende vertragliche oder gesetzliche Berechnungsvorgaben gehen vor.
         return round(self.forderung * (self.zinssatz / 100.0) * self.tage / 365.0, 2)
 
 

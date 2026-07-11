@@ -25,13 +25,6 @@ description: "Wenn es um Sitzungsdienst am Amtsgericht in Staatsanwaltschaft Pra
 4. Schlussvortrag nach Tatnachweis, rechtlicher Würdigung, Strafzumessung und Nebenfolgen gliedern.
 5. Anträge klar, knapp und protokollfest formulieren; keine informellen Absprachen außerhalb der StPO dulden.
 
-## Normen & Rechtsprechung
-
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten sind auf Rechtshilfeweg, Zuständigkeit, Verteidigungsrechte und Beweiszugang zu prüfen.
-
 ## Antrags- bzw. Verfügungs-Bausteine
 
 ### Baustein A

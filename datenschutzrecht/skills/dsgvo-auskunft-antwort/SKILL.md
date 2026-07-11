@@ -228,11 +228,7 @@ Mit freundlichen Grüßen
 [NAME, FUNKTION, DSB-KONTAKT]
 ```
 
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 7/21 (WRONG_TOPIC: dejure.org zeigt Kfz-Unfall/fiktive Schadensabrechnung, NJW 2022, 1884; nicht Verjährung DSGVO-Schadensersatz)
-Ersatz: BGH VI ZR 97/22, ZIP 2023, 2472 (verifiziert auf dejure.org — Vorlage EuGH zu Art. 82 DSGVO immateriellem Schaden)
-Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
--->
+
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -241,4 +237,3 @@ Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

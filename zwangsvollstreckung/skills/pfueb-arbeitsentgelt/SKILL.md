@@ -7,7 +7,7 @@ description: "Wenn es um PfÜB Arbeitsentgelt in Zwangsvollstreckung geht: rechn
 
 ## Arbeitsbereich
 
-Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Der Gläubiger will Arbeitseinkommen beim Arbeitgeber als Drittschuldner pfänden. Erst Titel, Klausel und Zustellung, dann Arbeitgeberbezeichnung, Forderungsumfang, unpfändbare Bezüge, Zusammenrechnung, Unterhaltspflichten und die vom 1. Juli 2026 bis 30. Juni 2027 geltende Tabelle prüfen. Output ist ein einreichungsfähiger Pfändungs- und Überweisungsantrag mit gesondertem Berechnungsblatt.
 
 ## Arbeitsweg
 
@@ -28,11 +28,11 @@ Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 85
 - §§ 829, 835 ZPO – Pfändung und Überweisung
 - § 850 ZPO – Pfändbarkeit von Arbeitseinkommen
 - § 850a ZPO – unpfändbare Bezüge (50 % Mehrarbeit, voll Urlaubsgeld, Weihnachten bis Hälfte des Monatsverdienstes, Aufwand)
-- § 850c ZPO – Pfändungsfreigrenze, Tabelle des BMJ; aktuelle Bekanntmachung 1.7.2025
+- Paragraf 850c ZPO und Pfändungsfreigrenzenbekanntmachung 2026: aktuelle Tabelle ab 1. Juli 2026
 - § 850d ZPO – privilegierte Unterhaltsforderungen, abweichende Berechnung
 - § 850e ZPO – Zusammenrechnung mehrerer Einkommen
 - § 850f ZPO – Erhöhung des Freibetrags durch Vollstreckungsgericht
-- § 850k ZPO – nur mittelbar (Auszahlung auf P-Konto)
+- Paragraf 850k sowie Paragrafen 899 ff. ZPO: nur für den anschließenden Kontoschutz, nicht für die Berechnung beim Arbeitgeber
 - § 87 InsO bei laufender Insolvenz
 
 ## Workflow
@@ -40,7 +40,7 @@ Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 85
 1. **Drei-Säulen-Prüfung**.
 2. **Arbeitgeber als Drittschuldner** bezeichnen – nicht "die Firma X", sondern die juristische Person.
 3. **Forderung** definieren: laufendes Arbeitseinkommen, einschließlich künftiger Erhöhungen, einschließlich Sonderzuwendungen soweit pfändbar.
-4. **Berechnung pfändbarer Betrag** mit `werkzeuge/pfaendungsrechner.py` (Tabelle 1.7.2025): Nettoeinkommen → unterhaltsberechtigte Personen → Pfändbarkeitsstufe.
+4. Pfändbaren Betrag mit `werkzeuge/pfaendungsrechner.py` nach der Tabelle ab 1. Juli 2026 berechnen; Nettoeinkommen, berücksichtigte gesetzliche Unterhaltspflichten und gerichtliche Abweichungen dokumentieren.
 5. **Privilegierte Unterhaltsforderung** § 850d ZPO: deutlich niedrigerer Freibetrag, vom Vollstreckungsgericht festzusetzen.
 6. **Antragsformular** ZVFV nutzen. Ab 1.10.2026 neue Muster und XML-Antrag möglich.
 7. **Einreichen** beim Vollstreckungsgericht am Schuldnerwohnsitz.
@@ -48,9 +48,9 @@ Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 85
 9. **Drittschuldnererklärung § 840 ZPO** abwarten.
 10. **Anschlusspfändung** prüfen, wenn weitere Gläubiger pfänden (Rangfrage § 804 Abs. 3 ZPO).
 
-## Pfändungstabelle 1.7.2025
+## Pfändungstabelle ab 1. Juli 2026
 
-Gültig seit 1.7.2025 (Bekanntmachung BMJ). Die Tabelle wird zum 1.7. jeden ungeraden Jahres neu festgesetzt – nächste Fortschreibung 1.7.2027. Aktuelle Werte stehen in `werkzeuge/pfaendungsrechner.py`. Faustwerte: Freibetrag ohne Unterhalt rund 1.560 EUR netto, mit einem Unterhaltsberechtigten rund 2.150 EUR.
+Die Pfändungsfreigrenzenbekanntmachung 2026 gilt vom 1. Juli 2026 bis 30. Juni 2027. Paragraf 850c Absatz 4 ZPO sieht eine jährliche Anpassung zum 1. Juli vor. Aktuelle Werte stehen im Werkzeug; die amtliche Tabelle ist vor Einreichung gegenzulesen.
 
 ## Leitentscheidungen
 
@@ -64,9 +64,3 @@ Gültig seit 1.7.2025 (Bekanntmachung BMJ). Die Tabelle wird zum 1.7. jeden unge
 - Bei mehreren Einkommen (Lohn + Rente, Lohn + Selbstständigkeit) Zusammenrechnung § 850e ZPO ausdrücklich beantragen.
 - Bei privilegierten Unterhaltsforderungen § 850d ZPO eigene Festsetzung beantragen.
 - Bei Sterbe-/Krankengeld besondere Pfändbarkeitsgrenzen prüfen.
-
-<!-- AUDIT 27.05.2026
-Geprüft: 3 AZ aus task_259.json
-- BGH VII ZB 16/12: NOT_FOUND auf dejure.org → gelöscht
-- BGH VII ZB 17/05: WRONG_TOPIC (real: § 850f Abs. 2 ZPO Vollstreckungsprivileg, nicht § 850a Nr. 4) → Beschreibung korrigiert
--->

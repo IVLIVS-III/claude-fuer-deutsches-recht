@@ -22,6 +22,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+## Verifizierter Rechtsprechungsanker
+
+- BFH, Urteil vom 23.02.2010 - VII R 24/09: Die nicht amtlich verliehene Bezeichnung „Fachberater für Sanierung und Insolvenzverwaltung (DStV)“ darf nicht als Zusatz unmittelbar neben der Berufsbezeichnung „Steuerberater“ geführt werden. Eine räumlich abgesetzte Werbung mit der Zusatzqualifikation ist davon zu trennen. Prüfe deshalb Wortlaut, Platzierung und Gesamteindruck des konkreten Werbemittels.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

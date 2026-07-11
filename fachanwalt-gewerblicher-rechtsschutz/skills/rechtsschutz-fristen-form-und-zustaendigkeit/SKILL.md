@@ -66,7 +66,7 @@ description: "Wenn es um Rechtsschutz Fristen Form Und Zuständigkeit in Fachanw
 
 | Instanz | Zuständigkeit |
 |---|---|
-| LG (Kammer für Handelssachen / Zivilkammer) | Erstinstanz: ab 5.000 € Streitwert |
+| Landgericht, Zivilkammer oder auf Antrag Kammer für Handelssachen | Spezialgesetzliche wertunabhängige Zuweisungen im gewerblichen Rechtsschutz zuerst prüfen; sonst allgemeine Wertgrenze über 10.000 Euro |
 | Konzentrierte Zuständigkeit (MarkenG § 140) | Bestimmte LG (Hamburg, Düsseldorf, München I, Berlin, Köln, Frankfurt, Stuttgart) |
 | OLG | Berufungsinstanz |
 | BGH (I. ZS) | Revision |

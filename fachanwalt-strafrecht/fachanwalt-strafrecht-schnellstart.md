@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II (nulla: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EMRK: Art. 5 (Freiheit), 6 (faires Verfahren, Aussage- und Verteidigungsrechte), 7 (nulla poena), 8 (Privatsphaere): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 395 Abs. 1 Nr. 3, 396 Abs. 1 StPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 406e Abs. 4 StPO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II (nulla; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EMRK: Art. 5 (Freiheit), 6 (faires Verfahren, Aussage- und Verteidigungsrechte), 7 (nulla poena), 8 (Privatsphaere); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 395 Abs. 1 Nr. 3, 396 Abs. 1 StPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 406e Abs. 4 StPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 

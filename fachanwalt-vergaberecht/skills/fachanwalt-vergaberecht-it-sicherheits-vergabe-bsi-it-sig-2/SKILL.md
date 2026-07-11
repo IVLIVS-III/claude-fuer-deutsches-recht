@@ -49,9 +49,7 @@ Spezial-Mandat: Öffentlicher Auftraggeber (KRITIS oder NIS2-Einrichtung) vergib
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
 | VK Bund | VK 2-71/23 | BSI C5-Zertifikat als Mindest-Eignungskriterium bei Cloud-Vergabe zulässig |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Südbayern | Z3-3-3194-1-27-05/23 | NIS2-Anforderungen als Zuschlagskriterium mit 25 % Gewichtung vergaberechtskonform |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -225,7 +223,6 @@ Mit freundlichen Gruessen
 | Einwand | Reaktion |
 |---|---|
 | ISO 27001 Typ 1 genügt nicht — KRITIS-Pflicht | BSI C5 Typ 2 nur zwingend bei Cloud nach BSI C5-Anwendungshinweis; Im On-Premises-Betrieb ISO 27001 ausreichend |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | NIS2 gilt noch nicht vollständig | BSIG-Übergangsfristen beachten; Vertragsklauseln schon jetzt auf NIS2-Niveau formulieren |
 | Bieter hat nur ISO 27001 Typ 1 | Nachbesserungspflicht prüfen: Kann Bieter bis Vertragsstart Typ 2 erwerben? Zustimmungsvorbehalt-Klausel |
 | Sub-Prozessor-Zustimmung nicht praktikabel | Allgemeine Sub-Prozessor-Liste im Vertrag; Widerspruchsrecht statt Vorab-Zustimmung nach Art. 28 Abs. 2 Satz 2 DSGVO |
@@ -290,9 +287,6 @@ Vergabe: [BEZEICHNUNG]
 
 ---
 
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 026:
--->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

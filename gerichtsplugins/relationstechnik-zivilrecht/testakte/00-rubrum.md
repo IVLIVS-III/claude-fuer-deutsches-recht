@@ -26,7 +26,7 @@ Fuer die Beklagte: Rechtsanwaeltin Dr. Petra Falk, Falk und Kollegen, Marktplatz
 
 ## Streitwert und Zustaendigkeit
 
-Vorlaeufiger Streitwert 28.400 Euro (offene Werklohnforderung). Die hilfsweise zur Aufrechnung gestellte Gegenforderung erhoeht den Streitwert nach Paragraf 45 Absatz 3 GKG nur, soweit ueber sie rechtskraeftig entschieden wird; das bleibt der Endentscheidung vorbehalten. Sachliche Zustaendigkeit des Landgerichts nach Paragraf 71 Absatz 1 in Verbindung mit Paragraf 23 Nummer 1 GVG (Streitwert ueber 5.000 Euro). Oertliche Zustaendigkeit nach Paragraf 12, Paragraf 17 ZPO (allgemeiner Gerichtsstand der Beklagten am Wohnsitz) sowie nach Paragraf 29 Absatz 1 ZPO (Erfuellungsort der Werkleistung am Belegenheitsort des Hauses); beide Anknuepfungen fuehren nach Berlin.
+Vorläufiger Streitwert 28.400 Euro (offene Werklohnforderung). Die hilfsweise zur Aufrechnung gestellte Gegenforderung erhöht den Streitwert nach Paragraf 45 Absatz 3 GKG nur, soweit über sie rechtskräftig entschieden wird; das bleibt der Endentscheidung vorbehalten. Sachliche Zuständigkeit des Landgerichts nach Paragraf 71 Absatz 1 in Verbindung mit Paragraf 23 Nummer 1 GVG (Streitwert über 10.000 Euro). Örtliche Zuständigkeit nach Paragrafen 12 und 17 ZPO (allgemeiner Gerichtsstand der Beklagten am Wohnsitz) sowie nach Paragraf 29 Absatz 1 ZPO (Erfüllungsort der Werkleistung am Belegenheitsort des Hauses); beide Anknüpfungen führen nach Berlin.
 
 ## Verfahrensstand bei Aktenuebernahme
 

@@ -227,6 +227,9 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 ## Quellen
 
+- EuGH, Urteil vom 01.03.2012 - C-280/10, Polski Trawertyn: Vorbereitungshandlungen und erste Investitionsausgaben können bereits wirtschaftliche Tätigkeit sein; die besondere Gründungs- und Rechnungskonstellation des Urteils vor einer Übertragung auf den Einzelfall abgleichen.
+- EuGH, Urteil vom 15.09.2016 - C-518/14, Senatex, zur Rückwirkung einer berichtigungsfähigen Rechnung hinsichtlich der dort geprüften Pflichtangaben.
+- EuGH, Urteil vom 15.09.2016 - C-516/14, Barlis 06, zur Berücksichtigung ergänzender Informationen bei der Prüfung der materiellen Abzugsvoraussetzungen.
 - UStG §§ 1 2 3 4 13b 14 15 15a
 - UStDV § 33
 - AO § 153

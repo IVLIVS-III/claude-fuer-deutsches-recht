@@ -644,6 +644,19 @@ def clean(text: str, limit: int | None = None) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     if limit and len(text) > limit:
         cut = text[: limit - 1]
+        # Rechtsprechungs- und Normenkernsätze nicht mitten im Gedanken
+        # abschneiden. Wenn im nutzbaren hinteren Teil eine Satz- oder
+        # Teilsatzgrenze liegt, endet die Kurzfassung dort.
+        boundaries = [
+            match.start()
+            for match in re.finditer(r"[.!?;](?=\s)", cut)
+            if match.start() >= max(45, int(limit * 0.35))
+        ]
+        if boundaries:
+            cut = cut[: boundaries[-1] + 1].rstrip()
+            if cut.endswith(";"):
+                cut = cut[:-1] + "."
+            return cut
         # Nur zurueckschneiden, wenn der Schnitt mitten in einem Wort endet.
         # Endet der Schnitt genau auf einer Wortgrenze (letztes Zeichen oder
         # naechstes Zeichen im Originaltext ist ein Leerzeichen), bleibt das
@@ -661,9 +674,10 @@ def clean(text: str, limit: int | None = None) -> str:
             "bei", "nach", "fuer", "für", "auf", "als", "im", "in", "an",
             "am", "von", "vom", "aus", "ueber", "über", "unter", "gegen",
             "je", "pro", "statt", "ist", "sind", "wird", "werden",
+            "dessen", "deren", "dieser", "diese", "dieses",
             "liefere", "liefert", "paragraf",
         }
-        words = cut.split(" ")
+        words = cut.rstrip().split(" ")
         while len(words) > 1 and words[-1].lower().strip(" ,.;:") in dangling:
             words.pop()
         cut = " ".join(words).rstrip(" ,.;:-")
@@ -675,6 +689,15 @@ def clean(text: str, limit: int | None = None) -> str:
         cut = re.sub(r"\beine Fristen$", "eine Fristen- und Risikoampel", cut)
         return cut.rstrip(" ,.;:-") + "."
     return text
+
+
+def sentence_terminal(text: str) -> str:
+    text = text.strip()
+    if not text:
+        return text
+    if text.endswith((".", "!", "?")):
+        return text
+    return text.rstrip(" ;:") + "."
 
 
 def byte_len(text: str) -> int:
@@ -746,11 +769,15 @@ SOURCE_NOISE_BITS = (
 
 CURATED_PROFILE_KEYS = {
     "agrar",
+    "design",
     "dokumentenworkflow",
     "ehrenamtliche_richter",
+    "gebrauchsmuster",
     "jveg",
     "kanzleibetrieb",
     "kirchenrecht",
+    "marke",
+    "patent",
     "presse",
     "rechtsgeschichte",
     "selbststaendige",
@@ -1139,7 +1166,18 @@ def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 
             continue
         if re.search(r"\b\d[\d.]*\s*(?:EUR|Euro|Mio|ha)\b", line[:140]):
             continue
-        candidate = clean(line, 185).rstrip(".")
+        candidate_source = line
+        if not (starts_like_norm or starts_with_paragraph) and law_then_paragraph:
+            candidate_source = line[law_then_paragraph.start():]
+            candidate_source = re.split(
+                r",\s+(?=(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|konkret\w*|aktuell\w*)\b)"
+                r"|\s+und\s+(?=(?:der|die|das|den|dem|des|ein|eine|einer|einem|einen|konkret\w*|aktuell\w*)\b)"
+                r"|\s+(?=(?:ist|sind|wird|werden|muss|müssen|soll|sollen|verlangt|betrifft|regelt)\b)",
+                candidate_source,
+                maxsplit=1,
+                flags=re.IGNORECASE,
+            )[0]
+        candidate = clean(candidate_source, 185).rstrip(".")
         if not candidate:
             continue
         key = re.sub(r"\W+", "", candidate.lower())
@@ -1286,6 +1324,16 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen"
     if profile.key == "datenbank":
         return "Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen"
+    if profile.key == "marke":
+        return "Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden"
+    if profile.key == "design":
+        return "Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen"
+    if profile.key == "patent":
+        return "Anspruchsmerkmale, Priorität, Stand der Technik, Rechtsbestand, angegriffene Ausführung, Schutzbereich und Verfahrensschritt ordnen"
+    if profile.key == "gebrauchsmuster":
+        return "Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern"
+    if profile.key == "gewerblicher_rechtsschutz":
+        return "Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen"
     if profile.key == "lobbyregister":
         return "Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen"
     if profile.key == "geldwaesche":
@@ -1384,8 +1432,8 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
         return "Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren"
     if "famil" in hay or "unterhalt" in hay or profile.key == "famil":
         return "Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen"
-    if "urheber" in hay or "marke" in hay or "design" in hay or profile.key == "urheber":
-        return "Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten"
+    if "urheber" in hay or profile.key == "urheber":
+        return "Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten"
     if "straf" in hay or "anklage" in hay or profile.key == "straf":
         return "Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen"
     if "steuer" in hay or "finanz" in hay or profile.key == "steuer":
@@ -1470,6 +1518,11 @@ BEWEISLAST_MERKER = {
     "verwaltung": "Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.",
     "vergabe": "Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden.",
     "urheber": "Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung.",
+    "marke": "Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall.",
+    "design": "Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung.",
+    "patent": "Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand.",
+    "gebrauchsmuster": "Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede.",
+    "gewerblicher_rechtsschutz": "Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede.",
     "it": "Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung.",
     "bauplanung": "Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand.",
     "bau": "Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung.",
@@ -1529,6 +1582,11 @@ RECHTSFOLGE_MERKER = {
     "verwaltung": "Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.",
     "vergabe": "Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk.",
     "urheber": "Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung.",
+    "marke": "Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz.",
+    "design": "Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz.",
+    "patent": "Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz.",
+    "gebrauchsmuster": "Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung.",
+    "gewerblicher_rechtsschutz": "Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.",
     "it": "Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag.",
     "bauplanung": "Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung.",
     "bau": "Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung.",
@@ -1578,7 +1636,7 @@ def anchor_head(anchor: str, limit: int = 82) -> str:
 
 
 def anchor_tail(anchor: str, limit: int = 115) -> str:
-    anchor = clean(anchor, limit + 80).rstrip(".")
+    anchor = clean(anchor).rstrip(".")
     for sep in (":", " — "):
         if sep in anchor:
             tail = anchor.split(sep, 1)[1].strip()
@@ -1598,13 +1656,11 @@ def fallkarte_rows(profile: ThemenProfil, fields: list[tuple[str, str]], norms: 
     second_field = fields[1][0] if len(fields) > 1 else first_field
     first_norm = norms[0] if norms else "Norm aus Akte"
     second_norm = norms[1] if len(norms) > 1 else first_norm
-    first_case = cases[0] if cases else "Rechtsprechung nur mit sicherer Fundstelle"
-    second_case = cases[1] if len(cases) > 1 else first_case
     return [
         (
             "Fallkern",
             clean(first_field, 80).rstrip("."),
-            join_anchors([first_norm, first_case], 180),
+            join_anchors([first_norm], 180),
             "Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt",
         ),
         (
@@ -1616,7 +1672,7 @@ def fallkarte_rows(profile: ThemenProfil, fields: list[tuple[str, str]], norms: 
         (
             "Begründetheit",
             clean(second_field, 80).rstrip("."),
-            join_anchors([second_norm, second_case], 180),
+            join_anchors([second_norm], 180),
             "Tatbestandsmatrix mit Beleg und Gegenargument",
         ),
         (
@@ -1837,7 +1893,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
 
     # Add norms extracted from selected skills without making skill references.
     for norm in extracted_norms[:8]:
-        lines.append(f"- {norm}: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.")
+        lines.append(f"- {norm}; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.")
     if not profile_norms and not extracted_norms:
         lines.append("- Tragende Normen aus Akte, Bescheid, Vertrag oder gerichtlicher Verfügung ableiten; keine Norm als sicher darstellen, wenn sie nicht belegt ist.")
 
@@ -1847,9 +1903,9 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
     ]
     for item in profile_cases:
-        lines.append(f"- {item}")
+        lines.append(f"- {sentence_terminal(item)}")
     for item in extracted_cases:
-        lines.append(f"- {item}")
+        lines.append(f"- {sentence_terminal(item)}")
     if not profile_cases and not extracted_cases:
         lines.append("- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.")
 
@@ -2070,13 +2126,13 @@ def build_schnellstart(plugin_dir: Path) -> str:
         lines.append(f"- {item}")
         anchor_count += 1
     for item in extracted_norms:
-        lines.append(f"- {item}: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.")
+        lines.append(f"- {item}; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.")
         anchor_count += 1
     for item in profile_cases:
-        lines.append(f"- {item}")
+        lines.append(f"- {sentence_terminal(item)}")
         anchor_count += 1
     for item in extracted_cases:
-        lines.append(f"- {item}")
+        lines.append(f"- {sentence_terminal(item)}")
         anchor_count += 1
     if anchor_count == 0:
         lines.append("- Normen und Entscheidungen aus den vorgelegten Unterlagen oder einer belastbaren Quelle ableiten; Aktenzeichen nicht ergänzen, wenn sie nicht sicher belegt sind.")

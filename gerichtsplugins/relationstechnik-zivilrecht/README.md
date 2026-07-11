@@ -7,6 +7,8 @@ Relationstechnik Zivilrecht: Klaegerstation, Beklagtenstation, Beweisstation und
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+Direktnavigation: [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/relationstechnik-zivilrecht.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
+
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
 ## Downloads
@@ -16,9 +18,19 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`relationstechnik-zivilrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md" download><code>relationstechnik-zivilrecht-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md" download><code>relationstechnik-zivilrecht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`relationstechnik-zivilrecht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht-testakte.zip), [`relationstechnik-zivilrecht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht-testakte-einzelpdfs.zip) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`relationstechnik-zivilrecht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht-testakte.zip) | [`relationstechnik-zivilrecht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht-testakte-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -118,11 +130,11 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 2. Unterlagen, Sachverhalt und Quellen | `01-akte-erstdurchsicht-zivil`, `12-beweisbeduerftige-tatsachen-isolieren`, `13-beweislastverteilung-pruefen`, `14-beweismittel-wuerdigen`, `15-beweisstation-votum` |
-| 3. Prüfung, Anspruch und Subsumtion | `05-anspruchsgrundlagen-identifizieren`, `17-tatbestand-schreiben` |
-| 4. Gestaltung, Strategie und Verhandlung | `02-parteivortrag-strukturieren`, `08-beklagtenvortrag-strukturieren` |
-| 5. Verfahren, Behörde und Gericht | `04-klage-antrag-auslegen`, `20-urteilsentwurf-finalisieren` |
-| 8. Spezialmodule und Schnittstellen | `03-streitstand-erfassen`, `06-schluessigkeit-pruefen`, `07-klaegerstation-votum`, `09-einwendungen-einreden-pruefen`, `10-erheblichkeit-pruefen`, `11-beklagtenstation-votum`, `16-tenor-formulieren`, `18-entscheidungsgruende-aufbauen`, `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+| 2. Unterlagen, Sachverhalt und Quellen | [`01-akte-erstdurchsicht-zivil`](skills/01-akte-erstdurchsicht-zivil/SKILL.md), [`12-beweisbeduerftige-tatsachen-isolieren`](skills/12-beweisbeduerftige-tatsachen-isolieren/SKILL.md), [`13-beweislastverteilung-pruefen`](skills/13-beweislastverteilung-pruefen/SKILL.md), [`14-beweismittel-wuerdigen`](skills/14-beweismittel-wuerdigen/SKILL.md), [`15-beweisstation-votum`](skills/15-beweisstation-votum/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`05-anspruchsgrundlagen-identifizieren`](skills/05-anspruchsgrundlagen-identifizieren/SKILL.md), [`17-tatbestand-schreiben`](skills/17-tatbestand-schreiben/SKILL.md) |
+| 4. Gestaltung, Strategie und Verhandlung | [`02-parteivortrag-strukturieren`](skills/02-parteivortrag-strukturieren/SKILL.md), [`08-beklagtenvortrag-strukturieren`](skills/08-beklagtenvortrag-strukturieren/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`04-klage-antrag-auslegen`](skills/04-klage-antrag-auslegen/SKILL.md), [`20-urteilsentwurf-finalisieren`](skills/20-urteilsentwurf-finalisieren/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`03-streitstand-erfassen`](skills/03-streitstand-erfassen/SKILL.md), [`06-schluessigkeit-pruefen`](skills/06-schluessigkeit-pruefen/SKILL.md), [`07-klaegerstation-votum`](skills/07-klaegerstation-votum/SKILL.md), [`09-einwendungen-einreden-pruefen`](skills/09-einwendungen-einreden-pruefen/SKILL.md), [`10-erheblichkeit-pruefen`](skills/10-erheblichkeit-pruefen/SKILL.md), [`11-beklagtenstation-votum`](skills/11-beklagtenstation-votum/SKILL.md), [`16-tenor-formulieren`](skills/16-tenor-formulieren/SKILL.md), [`18-entscheidungsgruende-aufbauen`](skills/18-entscheidungsgruende-aufbauen/SKILL.md), [`19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`](skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
@@ -130,31 +142,31 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-akte-erstdurchsicht-zivil` | Wenn es um 01 Akte Erstdurchsicht Zivil in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `02-parteivortrag-strukturieren` | Wenn es um 02 Parteivortrag Strukturieren in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `03-streitstand-erfassen` | Wenn es um 03 Streitstand Erfassen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `04-klage-antrag-auslegen` | Wenn es um 04 Klage Antrag Auslegen in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `05-anspruchsgrundlagen-identifizieren` | Wenn es um 05 Anspruchsgrundlagen Identifizieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `06-schluessigkeit-pruefen` | Wenn es um 06 Schlüssigkeit Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `07-klaegerstation-votum` | Wenn es um 07 Klägerstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `08-beklagtenvortrag-strukturieren` | Wenn es um 08 Beklagtenvortrag Strukturieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `09-einwendungen-einreden-pruefen` | Wenn es um 09 Einwendungen Einreden Prüfen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `10-erheblichkeit-pruefen` | Wenn es um 10 Erheblichkeit Prüfen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `11-beklagtenstation-votum` | Wenn es um 11 Beklagtenstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `12-beweisbeduerftige-tatsachen-isolieren` | Wenn es um 12 Beweisbedürftige Tatsachen Isolieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `13-beweislastverteilung-pruefen` | Wenn es um 13 Beweislastverteilung Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `14-beweismittel-wuerdigen` | Wenn es um 14 Beweismittel Wuerdigen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `15-beweisstation-votum` | Wenn es um 15 Beweisstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `16-tenor-formulieren` | Wenn es um 16 Tenor Formulieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `17-tatbestand-schreiben` | Wenn es um 17 Tatbestand Schreiben in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `18-entscheidungsgruende-aufbauen` | Wenn es um 18 Entscheidungsgründe Aufbauen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` | Wenn es um 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `20-urteilsentwurf-finalisieren` | Wenn es um 20 Urteilsentwurf Finalisieren in Relationstechnik Zivilrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil oder Beschluss Zivil) in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Z... |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Relationstechnik Zivilrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
+| [`01-akte-erstdurchsicht-zivil`](skills/01-akte-erstdurchsicht-zivil/SKILL.md) | Wenn es um 01 Akte Erstdurchsicht Zivil in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| [`02-parteivortrag-strukturieren`](skills/02-parteivortrag-strukturieren/SKILL.md) | Wenn es um 02 Parteivortrag Strukturieren in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`03-streitstand-erfassen`](skills/03-streitstand-erfassen/SKILL.md) | Wenn es um 03 Streitstand Erfassen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`04-klage-antrag-auslegen`](skills/04-klage-antrag-auslegen/SKILL.md) | Wenn es um 04 Klage Antrag Auslegen in Relationstechnik Zivilrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| [`05-anspruchsgrundlagen-identifizieren`](skills/05-anspruchsgrundlagen-identifizieren/SKILL.md) | Wenn es um 05 Anspruchsgrundlagen Identifizieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`06-schluessigkeit-pruefen`](skills/06-schluessigkeit-pruefen/SKILL.md) | Wenn es um 06 Schlüssigkeit Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`07-klaegerstation-votum`](skills/07-klaegerstation-votum/SKILL.md) | Wenn es um 07 Klägerstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`08-beklagtenvortrag-strukturieren`](skills/08-beklagtenvortrag-strukturieren/SKILL.md) | Wenn es um 08 Beklagtenvortrag Strukturieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`09-einwendungen-einreden-pruefen`](skills/09-einwendungen-einreden-pruefen/SKILL.md) | Wenn es um 09 Einwendungen Einreden Prüfen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`10-erheblichkeit-pruefen`](skills/10-erheblichkeit-pruefen/SKILL.md) | Wenn es um 10 Erheblichkeit Prüfen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`11-beklagtenstation-votum`](skills/11-beklagtenstation-votum/SKILL.md) | Wenn es um 11 Beklagtenstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`12-beweisbeduerftige-tatsachen-isolieren`](skills/12-beweisbeduerftige-tatsachen-isolieren/SKILL.md) | Wenn es um 12 Beweisbedürftige Tatsachen Isolieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`13-beweislastverteilung-pruefen`](skills/13-beweislastverteilung-pruefen/SKILL.md) | Wenn es um 13 Beweislastverteilung Prüfen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`14-beweismittel-wuerdigen`](skills/14-beweismittel-wuerdigen/SKILL.md) | Wenn es um 14 Beweismittel Wuerdigen in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`15-beweisstation-votum`](skills/15-beweisstation-votum/SKILL.md) | Wenn es um 15 Beweisstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`16-tenor-formulieren`](skills/16-tenor-formulieren/SKILL.md) | Wenn es um 16 Tenor Formulieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| [`17-tatbestand-schreiben`](skills/17-tatbestand-schreiben/SKILL.md) | Wenn es um 17 Tatbestand Schreiben in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`18-entscheidungsgruende-aufbauen`](skills/18-entscheidungsgruende-aufbauen/SKILL.md) | Wenn es um 18 Entscheidungsgründe Aufbauen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`](skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md) | Wenn es um 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`20-urteilsentwurf-finalisieren`](skills/20-urteilsentwurf-finalisieren/SKILL.md) | Wenn es um 20 Urteilsentwurf Finalisieren in Relationstechnik Zivilrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil oder Beschluss Zivil) in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Z... |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Relationstechnik Zivilrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

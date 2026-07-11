@@ -1,5 +1,7 @@
 # Mega-Prompt-Dateien
 
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
 Alphabetischer Index der großen Mega-Prompt-Markdowns. Diese Dateien dienen als Anschauungs- und Entwicklungsstand für die verdichteten Plugin-Workflows; sie werden nicht als installierbare Plugins, nicht als Testakte und nicht als CoWork-Uploadmaterial ausgeliefert. Für den Ein-Datei-Einsatz in normalen Chatbots bitte die kurzen Unified Mini Prompts aus der Downloadübersicht verwenden.
 
 | Mega-Prompt | Datei |

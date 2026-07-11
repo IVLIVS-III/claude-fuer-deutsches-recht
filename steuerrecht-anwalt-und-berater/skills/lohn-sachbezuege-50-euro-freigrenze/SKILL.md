@@ -114,5 +114,3 @@ Stand: 05/2026.
 - BMF v. 13.04.2021 (Gutscheine).
 - LStR R 8.1.
 - Sachbezugsfreigrenze: 50 EUR/Monat (seit 01.01.2022, § 8 Abs. 2 Satz 11 EStG; vorher 44 EUR). SvEV-Sachbezugswerte 2025: Verpflegung frei 313 EUR/Monat; Werte jaehrlich prüfen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (50-EUR-Freigrenze seit 2022 und SvEV-Werte 2025 eingesetzt) -->

@@ -37,7 +37,6 @@ description: "Wenn es um Paragraf 10a Satz 1 GewStG — Gewerbeverlust bei Sanie
 | Schritt | Inhalt |
 |---|---|
 | 1 | Gewerbeverlust-Vortrag aus letztem Feststellungsbescheid § 10a S. 6 GewStG abrufen |
-| 2 | Unternehmer-/Unternehmensidentität geprüft (§ 10a S. 8 GewStG, BFH-Rspr. — keine Entscheidung aus Modellwissen) |
 | 3 | Gewerbeertrag des Sanierungsjahres ermitteln (mit Sanierungsertrag) |
 | 4 | Mindestbesteuerung anwenden: Sockel 1 Mio. EUR + 60 % Übersteigend |
 | 5 | Gewerbeverlust gegen Sanierungsertrag verrechnen |

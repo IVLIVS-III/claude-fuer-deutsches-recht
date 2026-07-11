@@ -59,7 +59,7 @@ Verbindlich: `../references/zitierweise.md`.
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung zu Verzug und Mahnung vor Ausgabe über https://dejure.org und https://openjur.de verifizieren.
-- Zum Verzugszins: Paragraf 247 BGB (Basiszinssatz); Paragraf 288 Abs. 1, 2 BGB. Basiszinssatz zum 01.01.2026: 1,27 Prozent (unveraendert ggue. 01.07.2025). Daraus B2C-Verzugszins 6,27 Prozent, B2B-Verzugszins 10,27 Prozent; halbjaehrliche Anpassung am 01.01. und 01.07. erforderlich. Quelle: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
+- Zum Verzugszins: Paragrafen 247 und 288 Absatz 1 und 2 BGB. Seit 1. Juli 2026 beträgt der Basiszinssatz 1,52 Prozent; damit ergeben sich 6,52 Prozent im Verbraucherfall und 10,52 Prozent, wenn kein Verbraucher beteiligt ist. Bei einem Zinslauf über den Halbjahreswechsel periodenweise rechnen. Amtliche Quelle: https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820
 - Verzugspauschale Paragraf 288 Abs. 5 BGB (B2B): 40 EUR pro Vorgang.
 
 ## Ausgabeformat

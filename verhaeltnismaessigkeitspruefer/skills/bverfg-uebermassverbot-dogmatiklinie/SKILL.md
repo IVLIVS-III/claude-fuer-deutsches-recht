@@ -11,7 +11,7 @@ Ein Eingriff wirkt politisch plausibel, aber rechtlich zu grob: Berufszugang, Da
 
 ## BVerfG-Anker
 
-- BVerfG, Beschluss vom 11.06.1958, 1 BvR 596/56, BVerfGE 7, 377.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377.
 - BVerfG, Urteil vom 15.12.1983, 1 BvR 209/83 u. a., BVerfGE 65, 1.
 - BVerfG, Urteil vom 15.02.2006, 1 BvR 357/05, BVerfGE 115, 118.
 - BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274.

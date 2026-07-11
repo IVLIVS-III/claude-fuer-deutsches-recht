@@ -7,7 +7,7 @@ description: "Wenn es um Orange: Risikoampel, Gegenargumente und Verteidigungsli
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -29,4 +29,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Gegenargumente Arbeitgeberseite prüfen:** Paragraf 109 GewO Pflicht zu Wahrheit + Wohlwollen; BAG ständige Rechtsprechung: Wohlwollensgebot tritt nur dort zurück, wo der Wahrheitsgehalt es zwingend erfordert. Arbeitgeber muss Verfehlungen darlegen und beweisen, die schlechtere Bewertung tragen.
 4. **Risikoampel:** Orange wenn 2 oder mehr Schwachstellen kumulieren ohne klares Notenwort (Note unklar zwischen 3 und 4); Rot bei expliziten Negativcodes (z.B. "bemüht", "kennt seine Pflichten"); Grün bei klarer Notenformel und vollständiger Schlussformel.
 5. **Verteidigungslinien Arbeitnehmer:** Mit Beurteilungen aus Mitarbeitergesprächen, E-Mail-Lob, Bonusabrechnungen und Beförderungen gegenargumentieren. Vergleich vor Klage: Notenkompromiss "gut" statt "sehr gut" oft besser als ungewisser Prozess.
-

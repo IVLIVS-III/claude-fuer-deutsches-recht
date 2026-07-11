@@ -61,4 +61,3 @@ description: "Wenn es um Clean-Output in Vertragsausfüller geht: prüft Frist, 
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 37/17 (NJW 2018, 375) auf dejure.org nicht auffindbar (NOT_FOUND), NJW 2018, 375 ebenfalls nicht in Datenbank — Eintrag ersatzlos geloescht. -->

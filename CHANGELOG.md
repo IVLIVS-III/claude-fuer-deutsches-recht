@@ -1,3 +1,19 @@
+# v430.0.0 — Rechtsanker, Fachzuordnung und Releaseketten umfassend geprüft
+
+- Rechtsprechungs- und Normenanker wurden repo-weit auf Aussagegehalt und Fachzuordnung geprüft. Falsch zugeordnete oder nicht belastbar verifizierte Fundstellen wurden entfernt oder durch eng formulierte, amtlich belegte Anker ersetzt; Werkstatt-, Schnellstart- und Vollprüfungs-Prompts wurden anschließend vollständig neu erzeugt.
+- Rangrücktritt und Sanierungsbilanz sind nun sauber getrennt: BFH I R 25/15 erfasst die Tilgung nur aus künftigem Bilanzgewinn und Liquidationsüberschuss mit möglichem Passivierungsverbot und Wegfallgewinn, BFH XI R 32/18 die fortbestehende Passivierung bei zusätzlichem Zugriff auf sonstiges freies Vermögen. BGH IX ZR 133/14 ist mit Schuldänderungsvertrag, Gläubigergesamtheit, Rückforderung und Anfechtung richtig eingeordnet.
+- Insolvenz- und Strafrechtsmodule wurden bei Antrag, Zahlungsunfähigkeit, Auskunftsverwertung, Forderungsanmeldung, Anfechtungsverjährung, Steuerstrafverjährung, Restschuldbefreiung und Eigenverwaltung auf den aktuellen Gesetzeswortlaut zurückgeführt. Pauschale Beweislast- und Fristformeln wurden durch stichtags- und tatbestandsbezogene Prüfungen ersetzt.
+- Die Sozialrechtsmodule berücksichtigen die seit 1. Juli 2026 geltende Fassung der Paragrafen 31a, 31b und 32 SGB II: 30-Prozent-Regelfolge, gesonderte Dauerregeln, die enge Sonderfolge bei willentlicher Nichtaufnahme unmittelbar möglicher zumutbarer Arbeit und das Übergangsrecht nach Paragraf 65a Absatz 2 SGB II werden strikt getrennt. Das BVerfG-Urteil 1 BvL 7/16 bleibt verfassungsrechtlicher Prüfanker, wird aber nicht als Bestätigung des neuen Rechts ausgegeben.
+- Verwechselte Entscheidungsformen und Aussagegehalte wurden bereinigt: VI ZR 599/16 wird als Beschluss zum Umgang mit geändertem Parteivortrag geführt; Lüth, Apotheken, Lebach, die SGB-II-Sanktionsentscheidung und die Verständigungsentscheidung werden als Urteile zitiert. Die Staatsanwaltschaftsskills ordnen 1 StR 618/98 nur noch der aussagepsychologischen Methodik zu und verwenden für Anklage und Strafbefehl unmittelbar einschlägige Verfahrensanker.
+- Das Anfechtungsgesetz trennt jetzt die Kenntnisvermutung des Paragraf 3 Absatz 1 Satz 2 AnfG vom Nähepersonentatbestand des Absatzes 4 und berücksichtigt Zehn-, Vier- und Zweijahreszeitraum. Die direkte BGH-Linie IX ZR 209/23, IX ZR 42/24, IX ZR 70/20 und IX ZR 30/21 ist den jeweiligen Aussagen zugeordnet.
+- Gebrauchsmuster-, Patent-, Umwandlungs-, Versicherungs-, Gesellschafts-, AGB-, Energie-, Arbeits-, Steuerberater- und Wirtschaftsprüferrecht wurden von verschobenen Normenketten und fachfremden Entscheidungen bereinigt. Im Gebrauchsmusterrecht stimmen insbesondere Anmeldung, Abzweigung, Schutzdauer, Löschung, Verletzungsansprüche und der BGH-Anker X ZB 27/05 wieder überein.
+- Gerichtliche Dokumentenproduktion und Anlagenfertigung wurden mit versandfertigen Dateinamen, Anlagenlogik, Formatprüfung und fachbezogenen Endkontrollen in den einschlägigen Prozessmodulen verankert. Pluginaktivierung, Direktstart, Fachrouting und übersichtliche Skillnavigation wurden für 234 Marketplace-Plugins nachgezogen.
+- Testakten-, Prompt- und Downloadketten wurden vollständig gebaut und geprüft: 234 Plugin-ZIPs, 302 zentrale Akten-ZIPs mit 7.837 Dateien, 303 Einzel-PDF-ZIPs mit 7.736 PDFs sowie 18 pluginlokale Aktenpakete. Gesamt-PDFs, README-Downloads, lokale Links und Markdown-Direktdownloads bestehen die Vollprüfung; ein überlanger Tabellenblattname wurde für uneingeschränkte Excel-Kompatibilität gekürzt.
+- Der Rechtsstands-Validator umfasst jetzt 132 konkrete Sperrmuster gegen bekannte Fehlzuordnungen und läuft durch Vorfilterung in wenigen Sekunden über 28.886 Markdown-Dateien. Struktur, Frontmatter, Marketplace-Import, Prompt-Hygiene, Aktivierungssignale, Navigation, Rechenwerkzeuge und Releasebereitschaft sind grün.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten und Asset-Index wurden auf v430.0.0 synchronisiert.
+
+---
+
 # v429.16.0 — Fachprofile, Spezialnormen und Schnellstart-Routen vervollständigt
 
 - Die letzten 21 allgemeinen Auffangrouten wurden durch zehn kuratierte Fachprofile ersetzt. Alle 234 Plugins starten nun mit einem passenden fachlichen Prüfweg; die 468 Werkstatt- und Schnellstart-Prompts enthalten dazu konkrete Normen, Beweislast, Rechtsfolgen, Outputvarianten und belastbare Fallanker.
@@ -4618,13 +4634,13 @@ Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
 
 ---
 
-# v24.1.0 — AZ-Strip, Konversationsstil und LG Aachen 10 O 306/25
+# v24.1.0 — Aktenzeichen-Audit und Konversationsstil
 
 - **Welle 3 — Halluzinations-AZ entfernt.** Die im Vollaudit (`audit/audit_problems_2026-05-27.json`) als WRONG_TOPIC oder NOT_FOUND klassifizierten 969 Aktenzeichen wurden aus den betroffenen SKILL.md gestrichen. Ergebnis: 175 Dateien geaendert, 392 Zeilen entfernt; YAML-Frontmatter blieb unangetastet. Dokumentiert in `audit/README.md` und `audit/references_audit_2026-05-29.json`.
 - **Welle 4 — References-Konsistenz.** 17 tote Markdown-Verweise auf `references/`-Dateien identifiziert; einer (`rechtsberatungsstelle/.../pruef-warteschlange.yaml` → `review-queue.yaml`) gefixt. Die restlichen 16 sind in `audit/references_audit_2026-05-29.json` dokumentiert.
 - **Konversationsstil-Update.** `CLAUDE.md` und alle 102 `<plugin>/skills/allgemein/SKILL.md` erhalten einen verbindlichen Block: erste Antwort konzis, hoechstens eine unverzichtbare Rückfrage, dann schnell zur Dokumentenproduktion. Ausfuehrlich nur bei echter Subsumtion, Tabellen, Risikoanalysen oder Schriftsatz-/Memo-Text. Allgemein-Skills sind Einstieg, nicht Vorlesung.
 - **Frontmatter-Konvention geschaerft.** `CLAUDE.md` listet jetzt die verbotenen Frontmatter-Felder explizit (`triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
-- **LG Aachen 10 O 306/25 (Urteil vom 27.05.2026) als Leitentscheidung aufgenommen** in: `bgb-at-pruefer/.../kauf-im-internet-und-auktionen`, `bgb-at-pruefer/.../gesetzesverbot-sittenwidrigkeit-paragraphen-134-138`, `vertragsrecht/.../vertragspruefung`, `produktrecht/.../feature-risikobewertung`. Inhalt: Button-Beschriftung "Wette abgeben" beim Online-Gluecksspiel genuegt nicht § 312j Abs. 3 BGB; endgueltige Unwirksamkeit nach Abs. 4; Rückabwicklung nach § 812 BGB unabhaengig von Lizenz. Quellenhinweis: offizieller Volltext zum Aufnahmezeitpunkt noch nicht öffentlich; Aufnahme erfolgte auf Basis Pressehinweis Gamesright GmbH / rightmart, 28.05.2026.
+- Historische Berichtigung: Der damals ohne amtlich prüfbaren Volltext aufgenommene Entscheidungsanker wurde später entfernt. Für die Anforderungen an eine Bestellschaltfläche wird der amtlich nachprüfbare EuGH-Anker `C-249/21, Fuhrmann-2` verwendet; nationale Wirksamkeits- und Rückabwicklungsfolgen sind davon getrennt zu prüfen.
 - **Audit-JSON-Fix bewahrt.** Zwei unescapte Quotes (Z. 425, 7661) aus dem Vollaudit-JSON sind gefixt (bereits in v24.0.0 als Commit `5b0676ef` gepusht).
 
 ## Qualitätssicherung

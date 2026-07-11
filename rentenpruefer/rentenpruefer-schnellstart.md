@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38; SGB VI Paragraf 43 |
-| Rechtsprechung | BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R; BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R |
+| Rechtsprechung | BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R; BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R |
 | Tatbestand | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen |
 | Beweislast | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen |
 | Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage |
@@ -52,12 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SGB VI Paragraf 36 und Paragraf 38: Altersrenten für langjährig und besonders langjährig Versicherte.
 - SGB VI Paragraf 43: Erwerbsminderungsrente nach Leistungsvermögen und Wartezeit.
 - SGB VI Paragraf 46: Witwen- und Witwerrente mit kleiner und großer Rente.
-- Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 35 SGB VI — Regelaltersrente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 36 SGB VI — Altersrente für langjährig Versicherte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 SGB VI — Erwerbsminderungsrente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R: Erwerbsminderung verlangt eine konkrete sozialmedizinische Leistungsbeurteilung.
-- BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Verweisbarkeit und Arbeitsmarktlage sind bei Renten wegen Erwerbsminderung sauber zu trennen.
+- Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 35 SGB VI — Regelaltersrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 36 SGB VI — Altersrente für langjährig Versicherte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 SGB VI — Erwerbsminderungsrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Mehrere gewöhnliche Leistungseinschränkungen können durch besondere Additions- und Verstärkungswirkung ernsthafte Zweifel an der Einsetzbarkeit auf dem allgemeinen Arbeitsmarkt begründen.
+- BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R: Der Vormerkungsbescheid stellt Art und Zeitraum rentenrechtlicher Zeiten bindend fest; ihre abschließende Anrechnung und Bewertung erfolgt erst im Leistungsbescheid.
 
 ## 7. Antwortform
 

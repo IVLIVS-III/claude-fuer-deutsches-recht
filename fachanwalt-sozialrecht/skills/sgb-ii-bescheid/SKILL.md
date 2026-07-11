@@ -10,7 +10,7 @@ description: "Wenn es um Sgb Ii Bescheid in Fachanwalt Sozialrecht geht: prüft 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Nur das im Skill betroffene Sozialgesetzbuch und die konkrete Verfahrensnorm heranziehen. Widerspruchsfrist nach Paragraf 84 SGG, Klagefrist nach Paragraf 87 SGG und einstweiliger Rechtsschutz nach Paragraf 86b SGG strikt trennen; Rechtsweg, Statthaftigkeit, aufschiebende Wirkung und Rechtsmittel gesondert prüfen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -20,8 +20,6 @@ description: "Wenn es um Sgb Ii Bescheid in Fachanwalt Sozialrecht geht: prüft 
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `SGB-II-Bescheid (Bürgergeld)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** SGB I, IV § 7 und § 7a, V, VI, VII, IX, X §§ 20, 24, 44, 45, 48, 50, 60 ff.; SGB II, XII; SGG §§ 54, 86a, 86b, 87, 90, 103, 109, 144, 151, 160; Pflegebegutachtung/MD-Richtlinien live prüfen.
-- **Verifizierte Anker:** BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R (Lehrer/Dozenten: Status immer einzelfallabhängig); BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R (Pilot/Freelancer, Eingliederung und unternehmerisches Risiko); BSG, Urteil vom 01.02.2022 - B 12 KR 37/19 R und Urteil vom 20.02.2024 - B 12 KR 1/22 R (GmbH-Geschäftsführer, Sperrminorität/mittelbare Beteiligung).
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -70,7 +68,8 @@ Weitere Rechtsprechung vor Ausgabe live in dejure.org / bsg.bund.de mit Gericht,
 | § 21 SGB II | Mehrbedarfe: Schwangerschaft, Alleinerziehung, Behinderung, Ernährung, Warmwasser |
 | § 22 SGB II | Kosten der Unterkunft (tatsächlich bis zur Angemessenheitsgrenze; Heizkosten separat) |
 | § 31 SGB II | Pflichtverletzung; Leistungsminderung |
-| § 31a SGB II | Höhe der Leistungsminderung nach Pflichtverletzung — Sanktionen nach BVerfG 5.11.2019 — 1 BvL 7/16 in Schwere begrenzt |
+| § 31a, § 31b SGB II | Seit 1. Juli 2026 grundsätzlich 30 Prozent für drei Monate; Sonderfolge bei willentlicher Nichtaufnahme unmittelbar möglicher zumutbarer Arbeit; Härte, Aufhebung und Dauer gesondert prüfen |
+| § 65a Abs. 2 SGB II | Für Pflichtverletzungen und Meldeversäumnisse vor dem 1. Juli 2026 gilt das bis 30. Juni 2026 geltende Recht weiter |
 | § 39 SGB II | Kein Suspensiveffekt bei Widerspruch; Ausnahme bei drohender Unzumutbarkeit |
 | § 41a SGB II | Vorläufige Leistungserbringung bei ungeklärtem Sachverhalt |
 | § 43 SGB II | Aufrechnung von Erstattungsansprüchen (max. 30 % des Regelbedarfs) |
@@ -78,7 +77,7 @@ Weitere Rechtsprechung vor Ausgabe live in dejure.org / bsg.bund.de mit Gericht,
 | § 45 SGB X | Rücknahme rechtswidriger begünstigender Verwaltungsakte (Vertrauensschutz) |
 | § 48 SGB X | Aufhebung bei wesentlicher Änderung der Verhältnisse |
 
-### Leitentscheidungen (Stand Mai 2026)
+### Leitentscheidungen (Stand Juli 2026)
 
 | Aktenzeichen | Gericht/Datum | Tragende Aussage | Offene Fundstelle |
 |---|---|---|---|
@@ -87,7 +86,7 @@ Weitere Rechtsprechung vor Ausgabe live in dejure.org / bsg.bund.de mit Gericht,
 | B 4 AS 4/24 R | BSG 26.03.2025 | § 6b SGB II — Bundeserstattung Verwaltungskosten | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_03_26_B_04_AS_04_24_R.html |
 | B 7 AS 17/24 R | BSG 04.06.2025 | Vollstreckung von Erstattungsforderungen durch BA | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_04_B_07_AS_17_24_R.html |
 | B 7 AS 19/24 R | BSG 16.07.2025 | Durchschnittseinkommens-Berechnung § 41a SGB II | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_07_16_B_07_AS_19_24_R.html |
-| 1 BvL 7/16 | BVerfG 05.11.2019 | Sanktionen § 31a SGB II in Höhe begrenzt | https://dejure.org/dienste/vernetzung/rechtsprechung?Text=1+BvL+7/16 |
+| 1 BvL 7/16 | BVerfG, Urteil vom 05.11.2019 | Verfassungsrechtliche Leitplanken für Existenzminimum, Verhältnismäßigkeit, Härte und vorzeitige Beendigung; keine automatische Bestätigung des seit 1. Juli 2026 geltenden Rechts | https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/11/ls20191105_1bvl000716.html |
 
 Weitere Entscheidungen vor Ausgabe in dejure.org / bsg.bund.de live verifizieren.
 
@@ -107,7 +106,6 @@ Weitere Entscheidungen vor Ausgabe in dejure.org / bsg.bund.de live verifizieren
 | 8 | Freibetrag Erwerbstätigkeit korrekt berechnet? | § 11b Abs. 2, 3 SGB II |
 | 9 | Vermögensfreibetrag EUR 15000 pro Person beachtet? | § 12 Abs. 2 SGB II |
 | 10 | Karenzjahr-Schutz greift (erste 12 Monate)? | § 12 Abs. 3 SGB II |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Verfahrensfehler: Anhörung § 24 SGB X, Begründung § 35 SGB X? | §§ 24, 35 SGB X |
 | 13 | Aufhebungsbescheid: Rechtsgrundlage § 45, 48 SGB X korrekt? | §§ 45, 48 SGB X |
 | 14 | Erstattungsbetrag zutreffend und Aufrechnungsgrenze § 43 beachtet? | § 43 SGB II |
@@ -124,7 +122,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — SGB-II-Bescheid prüfen und anfechten | Widerspruch; Template unten |
 | Variante A — Mandant will sofortige Zahlung | Eilantrag § 86b SGG parallel zum Widerspruch |
 | Variante B — Rueckforderungsbescheid | § 45 vs. § 48 SGB X unterscheiden; Vertrauensschutz |
-| Variante C — Sanktionsbescheid | Verfassungswidrigkeit BVerfGE 1 BvL 7/16 prüfen |
+| Variante C — Minderungsbescheid | Ereignisdatum und Fassung über Paragraf 65a Absatz 2 SGB II bestimmen; Tatbestand und Rechtsfolge nach Paragrafen 31 bis 32 SGB II prüfen; BVerfG 1 BvL 7/16 als verfassungsrechtlichen Maßstab anwenden |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -295,10 +293,8 @@ Mit freundlichen Grüßen
 
 | Jobcenter-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Einnahmen als Einkommen angerechnet" | § 11a SGB II: Ausnahmen prüfen (Aufwandsentschädigungen, Wohngeld, Kindergeld-Teile) |
 | "Vermögen vorhanden" | § 12 Abs. 2: Freibetrag EUR 15000 pro Person; Karenzjahr § 12 Abs. 3; Schonvermögen (Hausrat, Altersvorsorge) |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Aufhebung § 48 SGB X korrekt" | Handlungs-/Kenntnis-Verschulden nicht vorhanden; Vertrauensschutz § 45 SGB X |
 | "Vorläufige Leistung § 41a wird endabgerechnet" | Höhe der Nachforderung begrenzt; Billigkeitslösung § 43 SGB II |
 | "Keine Anhörung nötig" | § 24 SGB X gilt bei allen belastenden VA; Heilung nur im Widerspruch, nicht im Bescheid |
@@ -322,7 +318,6 @@ Mit freundlichen Grüßen
 | Fallkonstellation | Empfehlung |
 |---|---|
 | KdU-Kürzung | Schlüssiges Konzept des Jobcenters prüfen; Mietspiegel / Marktatlas gegenüberstellen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Aufhebungs-/Erstattungsbescheid | § 45 oder § 48 SGB X Rechtsgrundlage? Vertrauensschutz und Jahresfristen prüfen |
 | Eilschutz nötig | § 86b Abs. 2 SGG sofort stellen; kein Suspensiveffekt § 39 SGB II beachten |
 | Mehrfach-Bescheide | Jeden Bescheid einzeln anfechten; Sammelwiderspruch vermeiden |

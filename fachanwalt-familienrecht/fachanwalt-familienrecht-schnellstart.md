@@ -11,7 +11,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 1565; BGB Paragraf 1601 und Paragraf 1610; BGB Paragraf 1612a |
-| Rechtsprechung | BGH, Beschluss vom 15.02.2017 - XII ZB 201/16; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18 |
+| Rechtsprechung | BGH, Beschluss vom 01.02.2017 - XII ZB 601/15; BGH, Beschluss vom 16.09.2020 - XII ZB 499/19 |
 | Tatbestand | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen |
 | Beweislast | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege |
 | Rechtsfolge | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn |
@@ -51,9 +51,9 @@ Mandantengespräch: Ziel, Gegner, Frist, Titel oder Vertrag, Beleglage, Kostenri
 - BGB Paragraf 1361 und Paragrafen 1569 bis 1578b: Trennungs- und nachehelicher Unterhalt.
 - BGB Paragrafen 1373 bis 1384: Zugewinn.
 - VersAusglG Paragrafen 1, 3, 10, 14, 18 und 27: Versorgungsausgleich.
-- BGH, Beschluss vom 15.02.2017 - XII ZB 201/16: Wechselmodell bei Kindeswohl.
-- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: konkrete Ehegattenunterhaltsprüfung.
-- BGH, Beschluss vom 18.01.2017 - XII ZB 118/16: Auskunft und Belegvorlage als Berechnungsgrundlage.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Ein paritätisches Wechselmodell kann als Umgangsregelung angeordnet werden, wenn es im Einzelfall dem Kindeswohl entspricht und die Eltern hinreichend kommunikations- und kooperationsfähig sind.
+- BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Beim Ehegattenunterhalt trägt die Quotenmethode bei hohem Einkommen nur innerhalb der anerkannten Verbrauchsvermutung; darüber hinaus ist die konkrete Verwendung für den Lebensbedarf darzulegen und zu beweisen.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Die Erklärung unbegrenzter Leistungsfähigkeit beseitigt den Auskunftsanspruch des Kindes nicht; eine begrenzte Fortschreibung der Düsseldorfer Tabelle kann zulässig sein.
 
 ## 8. Antwortform
 

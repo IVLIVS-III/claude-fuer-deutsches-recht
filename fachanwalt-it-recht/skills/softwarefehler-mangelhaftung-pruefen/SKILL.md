@@ -37,7 +37,6 @@ description: "Wenn es um Strukturierte Prüfung bei mangelhafter Software mit Ve
 | Konstellation | Vertragstyp | Mangelnorm | Verjährung |
 |---|---|---|---|
 | Standardsoftware auf Datenträger (Kauf) | Kaufrecht §§ 433 ff. BGB | § 434 BGB | 2 Jahre § 438 BGB ab Übergabe |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Individualsoftware-Erstellung | Werkvertrag §§ 631 ff. BGB | § 633 BGB | 2 Jahre § 634a BGB ab Abnahme; 5 Jahre bei Bauwerk-Bezug |
 | Customizing / Anpassung | Werkvertrag §§ 631 ff. BGB | § 633 BGB | 2 Jahre § 634a BGB |
 | B2C digitale Inhalte / SaaS | §§ 327–327u BGB (seit 01.01.2022) | § 327e BGB | § 327j BGB |

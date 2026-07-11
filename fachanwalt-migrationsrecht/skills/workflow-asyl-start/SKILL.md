@@ -1,75 +1,57 @@
 ---
 name: workflow-asyl-start
-description: "Wenn es um Asyl-Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Startet eine Asylakte mit Dokumentenauswertung, Stichtagsweiche zwischen altem und neuem GEAS, Fristensicherung und Schutzgrundanalyse. Liefert Statusblatt, Anhörungs- und Belegplan, Rechtsbehelfsstrategie sowie einen unmittelbar nutzbaren Antrag oder Schriftsatzkern."
 ---
 
-# Asyl-Start: Prüfungslinie für Migrationsrecht
+# 1. Asylakte starten
 
+## 1.1 Start ohne Leerlauf
 
-## Arbeitsweg
+Lies zuerst alle vorhandenen Unterlagen im Arbeitsordner: BAMF-Schreiben, Anhörungsprotokoll, Bescheid, Zustellumschlag, Dublin- oder AMMR-Unterlagen, Atteste, Identitätsdokumente und Länderbelege. Frage nur nach Angaben, die Schutzstatus, Frist oder Zuständigkeit verändern.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AufenthG §§ 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG §§ 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU §§ 2-5; StAG §§ 4, 5, 8-10, 12a, 25, 30; AsylbLG §§ 1, 3, 6; VwGO §§ 74, 80, 123; Dublin-III-VO Art. 3, 17, 21-29; einschlägige EU-Richtlinien/GEAS-Normstand live prüfen; keine BeckRS-/juris-Blindzitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.2 Stichtagsweiche seit 12. Juni 2026
 
-**Fokus:** Asyl-Start: Prüfungslinie für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+1. Notiere, wann der Antrag auf internationalen Schutz gestellt oder förmlich registriert wurde und wann das jeweilige Teilverfahren begann.
+2. Für Anträge ab 12. Juni 2026 gelten die unmittelbar anwendbaren Regelungen des neuen Migrations- und Asylpakts, insbesondere die Asylverfahrensverordnung (EU) 2024/1348 und die Asyl- und Migrationsmanagementverordnung (EU) 2024/1351.
+3. Für frühere Anträge können nach den Übergangsvorschriften weiterhin die frühere Verfahrensrichtlinie, Dublin III und das dazu ergangene nationale Recht maßgeblich sein.
+4. Prüfe das deutsche Durchführungsgesetz, die konkrete Rechtsbehelfsbelehrung und die aktuelle Fassung des AsylG. Vermische alte Dublin-Fristen nicht mit dem neuen Verantwortlichkeitssystem.
 
-### Asyl-Start
+## 1.3 Fristenrettung
 
-## Einstieg
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
+1. Ermittle Zustellung, Bekanntgabeform, Rechtsbehelfsbelehrung und tatsächlichen Zugang.
+2. Bestimme Frist, Rechtsbehelf und Eilbedürfnis aus dem für den Antrag geltenden Regime.
+3. Sichere bei drohender Überstellung oder Abschiebung Hauptsache und Eilrechtsschutz als getrennte Produkte.
+4. Dokumentiere jede Frist mit Starttag, Norm, Ende, Sicherheitsvorlauf und verantwortlicher Person.
+5. Bei unklarer Übergangslage arbeite mit der kürzesten vertretbaren Frist und kennzeichne die offene Rechtsfrage.
 
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
+## 1.4 Schutzprüfung
 
-## Asylrechtliche Kernweichen
+1. Erfasse Person, Herkunft, Verfolgungsgrund, Verfolgungsakteur, Ereignisse, Fluchtweg und aktuelle Gefährdung chronologisch.
+2. Trenne Flüchtlingseigenschaft, subsidiären Schutz und nationale Abschiebungsverbote.
+3. Prüfe staatlichen Schutz, innerstaatliche Schutzalternative, Ausschlussgründe und individuellen Risikozusammenhang.
+4. Vergleiche Anhörungsprotokoll, Bescheid und heutige Darstellung Satz für Satz. Kennzeichne Übersetzungsfehler, Protokolllücken und nur scheinbare Widersprüche.
+5. Behandle Länderinformationen nach Datum, Herausgeber, Region und Aussagegrenze. Ein allgemeiner Bericht ersetzt nicht die individuelle Subsumtion.
 
-- **Schutzgrundpyramide:** Art. 16a GG (politische Verfolgung, eingeschränkt durch sichere Drittstaaten § 26a AsylG) — Flüchtlingsschutz § 3 AsylG (GFK) — subsidiärer Schutz § 4 AsylG (ernsthafter Schaden) — nationales Abschiebungsverbot § 60 Abs. 5 AufenthG (EMRK, insbes. Art. 3) / Abs. 7 (konkrete Gefahr).
-- **Verfolgungsakteure:** Staatlich, quasi-staatlich, nicht-staatlich; letztere nur, wenn Staat keinen Schutz bieten kann/will (§ 3c, 3d AsylG).
-- **Innerstaatliche Fluchtalternative (§ 3e AsylG):** Zumutbarkeit und tatsächliche Erreichbarkeit.
-- **Frist-Knockout:** Klage 2 Wochen (§ 74 AsylG); bei offensichtlich unbegründet 1 Woche mit Eilantrag (§ 36 AsylG); Dublin-Bescheid 1 Woche (§ 34a Abs. 2 AsylG).
-- **Dublin-III (VO 604/2013) Fristen:** Übernahme-/Wiederaufnahmeersuchen i. d. R. 2–3 Monate; Überstellung 6 Monate (Art. 29), bei Untertauchen 18 Monate.
-- **GEAS-Reform 2024:** Grenzverfahren-VO, Asylverfahrens-VO, AMM-VO — Anwendungsstand kontinuierlich prüfen (BAMF, BMI, eur-lex).
+## 1.5 Verantwortlichkeitsverfahren
 
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
+1. Bestimme zunächst, ob das alte Dublin-III-System oder die Verordnung (EU) 2024/1351 gilt.
+2. Erfasse Eurodac- oder sonstige Treffer, Visum, Aufenthaltstitel, Familienangehörige, Einreiseweg, Ersuchen, Antwort und Überstellungsereignisse.
+3. Prüfe Familienkriterien und Abhängigkeitslagen vor nachrangigen Zuständigkeitskriterien.
+4. Prüfe Fristablauf, Rechtsbehelf, aufschiebende Wirkung, gesundheitliche Risiken und Artikel 4 der Grundrechtecharta getrennt.
+5. Verwende EuGH C-490/16, A.S., nur für Altfälle unter Dublin III: Die Entscheidung betrifft insbesondere den irregulären Grenzübertritt während der Ereignisse 2015 und den Umfang des Rechtsbehelfs gegen ein angewandtes Zuständigkeitskriterium.
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+## 1.6 Anhörungs- und Belegplan
 
-## Normen und Rechtsprechung
+Erstelle eine Tabelle mit Ereignis, Datum, Ort, beteiligter Person, eigener Wahrnehmung, Fremdwissen, Dokument, möglicher Rückfrage und noch fehlendem Beleg. Bereite keine auswendig gelernte Erzählung vor; sichere eine genaue, verständliche und widerspruchsbewusste Darstellung.
 
-### Kuratierte Normen-Bibliothek
+## 1.7 Rechtsprechungsanker
 
-- Art. 3 EMRK
-- § 80 VwGO
-- § 36 AsylG
-- § 71 AsylG
-- § 74 AsylG
-- Art. 6 GG
-- Art. 8 EMRK
-- § 81 AufenthG
-- § 60a AufenthG
-- § 123 VwGO
-- § 5 AufenthG
-- § 10 StAG
+1. EuGH, Urteil vom 26. Juli 2017 - C-490/16, A.S.: Im damaligen Dublin-III-System konnte der Antragsteller die fehlerhafte Anwendung des Kriteriums des irregulären Grenzübertritts gerichtlich rügen; der Fall ist kein allgemeiner Anker für systemische Mängel.
+2. EuGH, Urteil vom 16. Februar 2017 - C-578/16 PPU, C.K.: Auch ohne systemische Mängel kann eine Überstellung unzulässig sein, wenn sie wegen des individuellen Gesundheitszustands eine reale Gefahr unmenschlicher oder erniedrigender Behandlung auslöst.
+3. C-247/20 betrifft unionsrechtliches Aufenthaltsrecht und umfassenden Krankenversicherungsschutz, nicht die asylrechtliche Schutz- oder Zuständigkeitsprüfung.
 
-### Leitentscheidungen
+Prüfe für Anträge ab 12. Juni 2026, ob und wie ältere Rechtsprechung unter den neuen Verordnungen fortwirkt; übertrage sie nicht nur wegen ähnlicher Begriffe.
 
-- EuGH C-490/16
-- EuGH C-247/20
+## 1.8 Ausgabe
+
+Liefere Status- und Stichtagsblatt, Fristenplan, Schutzgrundmatrix, Verantwortlichkeitsmatrix, Beleglücken, Widerspruchsanalyse und den konkret benötigten Entwurf. Beende mit genau drei priorisierten nächsten Schritten.

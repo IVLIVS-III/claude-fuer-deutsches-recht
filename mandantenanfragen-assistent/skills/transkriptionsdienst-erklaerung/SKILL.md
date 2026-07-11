@@ -107,7 +107,3 @@ Aus `kanzlei.json`:
 - `mandatsverhaeltnis-hinweis` — Disclaimer zum fehlenden Mandat
 - `telefon-konfiguration` — liefert `telefon_transkription`
 - `erstantwort-generator` — bettet diesen Abschnitt in die Antwortmail ein
-
-<!-- AUDIT 27.05.2026
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

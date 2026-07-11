@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ArbZG Paragraf 3, Paragraf 5 und Paragraf 16: Höchstarbeitszeit, Ruhezeit und Aufzeichnung.
 - BUrlG Paragraf 1, Paragraf 3 und Paragraf 7 sowie EntgFG Paragraf 3: Urlaub, Verfall und Entgeltfortzahlung.
 - AGG Paragraf 7, Paragraf 12 und Paragraf 15: Benachteiligungsverbot, Schutzpflichten und Entschädigung.
-- Arbeite primär mit: BGB Paragrafen 611a, 622, 626; KSchG Paragrafen 1, 4, 17, 23; BetrVG Paragrafen 1, 87, 102; AGG Paragrafen 3, 7, 12, 13; BDSG Paragraf 26: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 611a, 622, 626; KSchG Paragrafen 1, 4, 17, 23; BetrVG Paragrafen 1, 87, 102; AGG Paragrafen 3, 7, 12, 13; BDSG Paragraf 26; Datenschutz-Grundverordnung Art; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21: Arbeitgeber müssen Beginn und Ende der täglichen Arbeitszeit erfassen; bei der Ausgestaltung bestehen betriebliche Spielräume und Beteiligungsfragen.
 - BAG, Urteil vom 27.07.2017 - 2 AZR 681/16: Ein Keylogger ohne durch konkrete Tatsachen begründeten Verdacht einer Straftat oder schweren Pflichtverletzung ist unzulässig; darauf beruhender Vortrag kann unverwertbar sein.
 

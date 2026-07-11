@@ -92,6 +92,5 @@ Wenn die meisten Zeilen einen ähnlichen Zeilenprompt brauchen ist das ein Hinwe
 
 ## Audit-Hinweise
 
-<!-- AUDIT 27.05.2026 -->
 - Geprüft: 27.05.2026 (Halluzinations-Reparatur, Task 234)
 - Frontmatter unveraendert. Keine Komma-Zahlen eingefuehrt. Kein Kyrillisch vorhanden.

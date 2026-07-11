@@ -169,7 +169,6 @@ ANLAGEN: K1 [Screenshot], K2 [Kaufbeleg], K3 [Eidesstattliche Versicherung]
 
 | Verstosstypus | Uebliche Hoehe | Grundlage |
 |---------------|---------------|---------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Irreführende Werbung klein | 5.001-10.000 EUR | Hamburger Brauch |
 | Irreführende Werbung gross | 15.000-30.000 EUR | Bekanntheitsgrad |
 | Wiederholungsverstoß | mind. Verdoppelung | § 339 BGB Angemessenheit |

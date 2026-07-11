@@ -47,7 +47,9 @@ jobs:
         run: python3 scripts/validate-testakten-keine-markdown-aktenstuecke.py
 
       - name: Downloadhinweise der Testakten validieren
-        run: python3 scripts/validate-testakten-readme-downloads.py
+        run: |
+          python3 scripts/inject-gesamt-pdf-section.py
+          python3 scripts/validate-testakten-readme-downloads.py
 
       - name: Werkstatt- und Schnellstart-Prompts erzeugen
         run: |
@@ -60,13 +62,19 @@ jobs:
           # Die Werkstatt- und Schnellstart-Prompts werden als Markdown-Assets
           # im Release veröffentlicht.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
+          python3 scripts/refine-speed-and-elegance.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py
+          python3 scripts/generate-megaprompt.py
           python3 scripts/inject-megaprompt-section.py
           python3 scripts/inject-direkt-loslegen-section.py
           python3 scripts/generate-skills-overview.py
+          python3 scripts/inject-skills-logic-navigation.py
           python3 scripts/generate-werkstatt-und-schnellstart-coverage.py
           python3 scripts/audit-generated-prompt-hygiene.py
           python3 scripts/audit-prompt-profile-routing.py
+          python3 scripts/validate-current-law-sentinels.py
+          python3 scripts/test-legal-calculators.py
+          python3 scripts/test-bea-versandmappe.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
         run: python3 scripts/generate-skills-md.py
@@ -75,7 +83,9 @@ jobs:
         run: python3 scripts/generate-asset-index.py
 
       - name: Root- und Index-Übersichten gegen Marketplace validieren
-        run: python3 scripts/validate-root-readme-overview.py
+        run: |
+          python3 scripts/validate-root-readme-overview.py
+          python3 scripts/validate-readme-navigation.py
 
       - name: Python-Abhaengigkeiten fuer den PDF-Bau installieren
         run: python3 -m pip install --quiet reportlab pypdf python-docx openpyxl odfpy
@@ -118,7 +128,7 @@ jobs:
               exit 1
             fi
             echo "Baue $plugin.zip"
-            (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc' 'CLAUDE.md')
+            (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md')
             ls -la "dist/${plugin}.zip"
           done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort

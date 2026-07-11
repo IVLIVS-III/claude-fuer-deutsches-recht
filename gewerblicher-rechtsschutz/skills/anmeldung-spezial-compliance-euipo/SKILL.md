@@ -144,26 +144,7 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung Schritt für Schritt
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 97a UrhG
-- § 97 UrhG
-- § 8c UWG
-- § 14 MarkenG
-- § 42 MarkenG
-- § 8 UWG
-- § 13 UWG
-- § 26 MarkenG
-- § 9 PatG
-- § 66 MarkenG
-- § 8 MarkenG
-- § 6 ArbnErfG
-
-### Leitentscheidungen
-
-- BGH I ZR 153/16
-- BGH I ZR 82/99
-- BGH I ZR 20/07
-- BGH X ZR 171/12
+Das betroffene Schutzrecht zuerst bestimmen und Patentgesetz, Markengesetz, Designgesetz, Urheberrechtsgesetz, Gesetz gegen den unlauteren Wettbewerb sowie Unionsrecht nicht vermischen. Eine Entscheidung wird nur mit Streitgegenstand, Tatbestandsmerkmal, tragender Aussage und Quelle zugeordnet; allgemeine Aktenzeichenlisten sind für Anmeldung, Abmahnung und Prozessstrategie ungeeignet.

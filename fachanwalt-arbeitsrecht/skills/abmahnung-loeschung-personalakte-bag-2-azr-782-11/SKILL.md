@@ -1,65 +1,44 @@
 ---
 name: abmahnung-loeschung-personalakte-bag-2-azr-782-11
-description: "Wenn es um Abmahnung Loeschung Personalakte BAG 2 Azr 782 11 in Fachanwalt Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Prüft Rücknahme und Entfernung einer Abmahnung aus der Personalakte. Kontrolliert Bestimmtheit, Tatsachenrichtigkeit, rechtliche Bewertung, Verhältnismäßigkeit und fortbestehendes Dokumentationsinteresse und erstellt Anspruchsschreiben, Klageantrag oder Arbeitgebererwiderung."
 ---
 
-# Abmahnung Loeschung Personalakte BAG 2 Azr 782 11
+# Abmahnung und Personalaktenentfernung prüfen
 
 ## Einsatzlage
 
-Arbeitnehmer fordert Loeschung 7 Jahre alter Abmahnung wegen unentschuldigten Fehlens.
+Ein Arbeitnehmer verlangt die Entfernung einer Abmahnung. Zu unterscheiden sind eine von Anfang an rechtswidrige Abmahnung und eine ursprünglich berechtigte Abmahnung, deren weiterer Verbleib später jede rechtliche Bedeutung verloren haben soll.
 
 ## Normenanker
 
-- Paragraf 102 BetrVG
-- Paragraf 17 KSchG
-- Paragraf 4 KSchG
-- Paragraf 14 TzBfG
-- Paragraf 1 KSchG
-- Paragraf 17 TzBfG
-- Paragraf 15 AGG
-- Paragraf 22 AGG
+- Paragrafen 242 und 1004 BGB analog in Verbindung mit dem allgemeinen Persönlichkeitsrecht: Beseitigungsanspruch.
+- Paragraf 83 BetrVG: Einsicht in die Personalakte und Beifügung einer Erklärung des Arbeitnehmers.
+- Artikel 5 Absatz 1 Buchstaben d und e, Artikel 6 sowie Artikel 17 DSGVO in Verbindung mit Paragraf 26 BDSG: Richtigkeit, Speicherbegrenzung, Rechtsgrundlage und Löschung; arbeitsrechtlichen Entfernungsanspruch und Datenschutzanspruch getrennt prüfen.
+- Paragraf 2 ArbGG und Paragraf 253 ZPO: Rechtsweg und bestimmter Klageantrag.
 
-## Rechtsprechungsanker und Quellenhygiene
+## Rechtsprechungsanker
 
-- BAG 19.07.2012 2 AZR 782/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- BAG 20.01.2015 9 AZR 860/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BAG, Urteil vom 19. Juli 2012 - 2 AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. Eine berechtigte Abmahnung ist erst zu entfernen, wenn das gerügte Verhalten für das Arbeitsverhältnis unter jedem rechtlichen Gesichtspunkt bedeutungslos geworden ist.
+- BAG, Urteil vom 12. August 2010 - 2 AZR 593/09: Der Entfernungsanspruch folgt aus der Beeinträchtigung des beruflichen Fortkommens und des Persönlichkeitsrechts; Inhalt und Funktion der konkreten Abmahnung sind maßgeblich.
 
 ## Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Abmahnung in Tatsachenschilderung, Pflichtbewertung, Rüge und Warnung zerlegen; unklare Sammelvorwürfe einzeln markieren.
+2. Jede Tatsachenbehauptung mit Datum, Beteiligten, Dokumenten und Zeugen prüfen. Der Arbeitgeber muss die für die Berechtigung maßgeblichen Tatsachen im Prozess darlegen und beweisen.
+3. Vertragliche Pflicht und rechtliche Bewertung bestimmen; zulässiges Verhalten, Bagatelle und entschuldigende Umstände berücksichtigen.
+4. Verhältnismäßigkeit und Gleichbehandlung prüfen, ohne eine Abmahnung allein wegen fehlender vorheriger Anhörung für unwirksam zu erklären.
+5. Bei ursprünglich berechtigter Abmahnung Warnfunktion und fortbestehende Dokumentationsinteressen getrennt bewerten. Bloßer Zeitablauf oder jahrelang beanstandungsfreies Verhalten begründet keinen automatischen Löschanspruch.
+6. Mögliche Bedeutung für Versetzung, Beförderung, Zeugnis, spätere Interessenabwägung oder offene Folgeansprüche konkret prüfen; pauschale Vorratsspeicherung genügt nicht.
+7. Datenschutzrechtliche Richtigkeit, Erforderlichkeit und Speicherdauer ergänzend prüfen und den passenden Antrag auf Rücknahme, Entfernung, Berichtigung oder Gegendarstellung wählen.
 
 ## Arbeitsergebnis
 
-Verbrauch der Warnfunktion nach langer beanstandungsfreier Zeit; Anspruch nach Paragraf 242 BGB plus Art 17 DSGVO.
+Erstelle eine Vorwurfsmatrix mit Wortlaut, Pflicht, Beweis, Einwand und Rechtsfolge. Danach folgen Interessenabwägung zum Aktenverbleib und ein konkret auf die bezeichnete Abmahnung bezogener Anspruchsbrief, Klageantrag oder Erwiderungsbaustein.
 
 ## Belege und Aktenlücken
 
-- Beanstandungsfreie Zeit Nachweis
-- Personalakte Auszug
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Paragraf 102 BetrVG
-- Paragraf 17 KSchG
-- Paragraf 4 KSchG
-- Paragraf 14 TzBfG
-- Paragraf 1 KSchG
-- Paragraf 17 TzBfG
-- Paragraf 15 AGG
-- Paragraf 22 AGG
-- Paragraf 5 KSchG
-- Paragraf 66 ArbGG
-- Paragraf 54 ArbGG
-- Paragraf 23 KSchG
-
-### Leitentscheidungen
-
-- EuGH C-134/24
-- EuGH C-518/20
+- vollständige Abmahnung und Personalaktenauszug
+- Arbeitsvertrag, Richtlinien und einschlägige Weisungen
+- Dokumente und Zeugen zu jedem gerügten Vorfall
+- Gegendarstellung, Korrespondenz und spätere Personalmaßnahmen
+- Informationen zu Aufbewahrungszweck, Zugriffen und Löschkonzept

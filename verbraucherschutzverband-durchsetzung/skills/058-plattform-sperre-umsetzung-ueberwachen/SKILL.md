@@ -1,59 +1,39 @@
 ---
 name: 058-plattform-sperre-umsetzung-ueberwachen
-description: "Wenn es um Plattform Sperre Umsetzung Ueberwachen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Überwacht die Umsetzung eines Unterlassungstitels, Vergleichs oder Plattformversprechens nach Konto- und Inhaltssperren: übersetzt Tenor und Verpflichtung in prüfbare Ereignisse, plant rechtssichere Stichproben, sichert Versionen und Verstöße, trennt DSA-Beschwerde von ZPO-Vollstreckung und liefert eine belastbare Ordnungsmittel- oder Nachsteuerungsakte."
 ---
 
-# Plattform Sperre Umsetzung Ueberwachen
+# Umsetzung einer Plattformentscheidung überwachen
 
-## Arbeitsweg
+## 1. Verpflichtung exakt erfassen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Titel, Beschluss, Vergleich oder Unterlassungserklärung vollständig, einschließlich Zustellung, Vollziehungs- und Umsetzungsfrist. Stelle den verbindlichen Wortlaut der aktuellen Plattformpraxis gegenüber. Eine weitergehende Wunschvorstellung darf nicht als titulierte Pflicht behandelt werden.
 
-## Normenanker
+## 2. Kontrollmatrix
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+| Prüffeld | titulierte oder zugesagte Pflicht | Beobachtung | Beleg | Bewertung |
+| --- | --- | --- | --- | --- |
+| Kontozugang | genauer Umfang | Datum und Nutzergruppe | Bildschirmfolge, Nachricht | erfüllt oder Verstoß |
+| Sperrbegründung | erforderlicher Inhalt | konkreter Wortlaut | Mitteilung | vollständig oder lückenhaft |
+| Beschwerdeweg | Zugang und Frist | Testablauf | Zeitstempel, Bestätigung | funktionsfähig oder blockiert |
+| Guthaben | Auszahlung oder Freigabe | Betrag und Datum | Konto, Abrechnung | offen oder erfüllt |
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 3. Stichprobe ohne Scheinsicherheit
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+1. Nutzergruppen, Vertragsfassungen, Endgeräte und Zeiträume vorab festlegen.
+2. Vergleichskonten und Wiederholungsprüfungen dokumentieren.
+3. Testablauf vollständig erfassen; keine provozierten Verstöße verschweigen.
+4. Einzelstörung, systematische Abweichung und bloße Darstellungsänderung trennen.
+5. Personenbezogene Rohdaten pseudonymisieren und Beweiskette intern erhalten.
 
-## Prüfroutine
+## 4. Vollstreckungs- und Portalweg
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+Für einen gerichtlichen Unterlassungstitel prüfe ZPO Paragraf 890, Titelzustellung, Vollstreckungsreife, Verschulden und konkreten Verstoß. Der Ordnungsmittelantrag darf den Tenor nicht erweitern. Für einen DSA-internen Beschwerdeweg oder eine außergerichtliche Streitbeilegung gelten dagegen Portal und Fristen des jeweiligen Verfahrens; diese Schritte sind kein Ersatz für eine laufende Vollstreckungsfrist.
 
-## Normen und Rechtsprechung
+## 5. Beweispaket
 
-### Kuratierte Normen-Bibliothek
+Sichere Regelwerksfassung, vollständige Bildschirmfolge, Quelladresse, Datum, Uhrzeit, Sprache, Kontoart, Mitteilungen und Empfangsbestätigungen. Erzeuge je behauptetem Verstoß ein kurzes Deckblatt mit Tenorstelle, tatsächlichem Ablauf, Abweichung und Belegnummer. Presse- oder Nutzerberichte sind Hinweisgeber, aber ohne eigenen Nachweis kein Vollstreckungsbeleg.
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
+## 6. Output
 
-### Leitentscheidungen
-
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+Liefere Umsetzungsdashboard, Verstoßsliste, Stichprobenprotokoll, Beweispaket, Risikobewertung und entweder einen ausformulierten Ordnungsmittelantrag oder eine präzise Nachsteuerungsaufforderung. Stoppe bei fehlender Zustellung, unklarem Tenor oder nicht reproduzierbarer Beobachtung.

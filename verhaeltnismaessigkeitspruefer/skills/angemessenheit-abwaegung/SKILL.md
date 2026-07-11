@@ -57,23 +57,3 @@ Wenn der Eingriff gegen Menschenwuerde, Wesensgehalt oder absolute
 Grenzen verstoesst, scheitert das Gesetz schon objektiv;
 keine Abwaegung mehr (BVerfGE 115, 118 (Luftsicherheitsgesetz)
 Luftsicherheitsgesetz).
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 20a GG
-- Art. 8 GG
-- Art. 6 GG
-- Art. 87a GG
-- Art. 3 EMRK
-- Art. 10 GG
-- Art. 13 GG
-- Art. 7 GG
-- Art. 14 GG
-- Art. 9 GG
-- Art. 12 GG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung; BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) |
+| Rechtsprechung | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung; BGH II ZR 30/10 |
 | Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
 | Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
@@ -52,13 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragrafen 305-310 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BRAO Paragrafen 43, 49b zur Honorarvereinbarung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 305 BGB (Einbeziehung von AGB): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
+- Paragrafen 305-310 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BRAO Paragrafen 43, 49b zur Honorarvereinbarung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung.
+- BGH II ZR 30/10: Verfahrensgrundsätze als Prüfungsmassstab.
+- BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen.
 
 ## 7. Antwortform
 

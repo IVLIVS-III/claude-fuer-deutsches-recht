@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt alle 13 Skills des Plugins `richter-familiengericht`.
+Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-familiengericht`.
 
 ## Inhaltsverzeichnis
 
@@ -165,8 +165,8 @@ Dieser Skill formt den entscheidungsreifen Aktenstand in einen familiengerichtli
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Familiengerichtliche Entscheidungen müssen die tragenden Berechnungsschritte nachvollziehbar erkennen lassen.
-- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Beschlüsse im Versorgungsausgleich brauchen anrechtsbezogene Tenorierung und nachvollziehbare Begründung.
+- BGH, Beschluss vom 24.04.2024 - XII ZB 282/23: Für urteilsersetzende Beschlüsse in Ehesachen und Familienstreitsachen sind Erlass- und Verkündungsweg nach FamFG Paragraf 38 und ZPO Paragraf 311 verfahrensabhängig zu unterscheiden; bei einer Beschwerdeentscheidung ohne mündliche Verhandlung kann die Übergabe an die Geschäftsstelle genügen.
+- BGH, Beschluss vom 23.06.2010 - XII ZB 82/10: Die Rechtsbehelfsbelehrung nach FamFG Paragraf 39 muss Rechtsbehelf, zuständiges Gericht mit Anschrift, Form, Frist und einen bestehenden Anwaltszwang aus sich heraus verständlich angeben.
 
 ## Arbeitsprodukt
 
@@ -230,7 +230,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Anker-Rechtsprechung
 
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Ein Entscheidungsvorschlag muss den entscheidungserheblichen Vortrag sichtbar aufnehmen, sonst droht ein Gehörsfehler.
-- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: In Verbundsachen muss der Entscheidungsvorschlag die einzelnen Gegenstände getrennt und teilhabegerecht behandeln.
+- BGH, Beschluss vom 21.07.2021 - XII ZB 21/21: Der Entscheidungsvorschlag muss den zwingenden Scheidungsverbund wahren und darf Folgesachen nur bei erfüllten Voraussetzungen des FamFG Paragraf 140 abtrennen.
 - BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft, Beleglage und Leistungsfähigkeit dürfen im Unterhaltsvotum nicht durch pauschale Annahmen ersetzt werden.
 - Paragrafen 26, 38, 39, 113 FamFG sowie Paragrafen 286, 313 ZPO über Paragraf 113 FamFG bilden den Pflichtstamm: Amtsermittlung, Beschluss, Begründung, ZPO-Verweisung, Beweiswürdigung und Entscheidungsaufbau.
 
@@ -326,8 +326,8 @@ Dieser Skill bereitet eine richterliche Unterhaltsentscheidung vor. Er prüft Be
 
 Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
 
-- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Unterhaltsfestsetzung verlangt nachvollziehbare Einkommens- und Berechnungsgrundlage.
-- BGH, Beschluss vom 16.09.2020, XII ZB 499/19: Fiktives Einkommen setzt belastbare Feststellungen zu Obliegenheit und realer Erwerbschance voraus.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Die Erklärung unbegrenzter Leistungsfähigkeit beseitigt den Auskunftsanspruch des Kindes nicht; eine begrenzte Fortschreibung der Düsseldorfer Tabelle kann zulässig sein.
+- BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Fiktives Einkommen setzt unzureichende Erwerbsbemühungen und eine reale, dem Pflichtigen zumutbare Beschäftigungschance voraus; nur realistisch erzielbares Einkommen darf zugerechnet werden.
 
 ## Arbeitsprodukt
 
@@ -393,9 +393,9 @@ Dieser Skill führt den Familienrichter von der Scheidungsakte zum beschlussreif
 
 ## Leitentscheidungen
 
-- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zu VersAusglG Paragraf 18: Die Geringfügigkeit ist nicht schematisch, sondern in einzelfallbezogener Ermessensprüfung zu beurteilen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren.
-- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen für jedes Anrecht nachvollziehbar aus der Auskunft hervorgehen.
-- BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Ausschluss oder Korrektur wegen grober Unbilligkeit bleibt Ausnahme.
+- BGH, Beschluss vom 05.06.2024 - XII ZB 277/23: Auch ein geringfügiges Anrecht ist nach VersAusglG Paragraf 18 nicht automatisch vom Ausgleich auszunehmen; entscheidend sind insbesondere der gesetzliche Halbteilungsgrundsatz und der mit der Teilung verbundene Verwaltungsaufwand.
+- BGH, Beschluss vom 24.03.2021 - XII ZB 230/16: Bei externer Teilung sind die erwartbaren Leistungen der Zielversorgung mit einer fiktiven internen Teilung auf gleichen Rechnungsgrundlagen zu vergleichen; unverhältnismäßige Transferverluste sind zu vermeiden.
+- BGH, Beschluss vom 31.01.2024 - XII ZB 259/23: VersAusglG Paragraf 27 bleibt eine Ausnahme; grobe Unbilligkeit verlangt eine Gesamtabwägung der wirtschaftlichen, sozialen und persönlichen Verhältnisse beider Ehegatten.
 
 ## Arbeitsprodukt
 
@@ -713,7 +713,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
 
-- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs- und Einkommensprüfung; ehebedingte Nachteile, Erwerbsobliegenheit und Begrenzung dürfen nicht schematisch abgearbeitet werden.
+- BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Beim Ehegattenunterhalt trägt die Quotenmethode bei hohem Einkommen nur innerhalb der anerkannten Verbrauchsvermutung; darüber hinaus ist die konkrete Verwendung für den Lebensbedarf darzulegen und im Bestreitensfall zu beweisen.
+- BGH, Beschluss vom 04.07.2018 - XII ZB 122/17: Bei der Begrenzung nach BGB Paragraf 1578b sind ehebedingte Versorgungsnachteile nur insoweit anzusetzen, wie sie nicht bereits durch Versorgungsausgleich oder erreichbaren Altersvorsorgeunterhalt ausgeglichen sind.
 - Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Trennungs- und nachehelichen Unterhalt: Bedarf, Erwerbsobliegenheit, Begrenzung und Befristung sind einzelfallbezogen festzustellen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren; ein konkretes Aktenzeichen wird hier bewusst nicht ungeprüft behauptet.
 - Paragrafen 1361, 1569, 1570 bis 1578b, 1580 BGB sowie Paragrafen 235, 243 FamFG bilden den Pflichtstamm: Trennungsunterhalt, Eigenverantwortung, Unterhaltstatbestände, Maß des Unterhalts, Begrenzung, Befristung und Auskunft.
 
@@ -898,7 +899,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Anker-Rechtsprechung
 
 - BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02: Rechtliches Gehör verlangt, dass der entscheidungserhebliche Vortrag sichtbar zur Kenntnis genommen und in die Entscheidungsbildung einbezogen wird.
-- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Der Scheidungsverbund darf Versorgungsausgleich und Folgesachen nicht mechanisch mitschleppen, sondern muss verfahrensökonomisch und teilhabegerecht gesteuert werden.
+- BGH, Beschluss vom 21.07.2021 - XII ZB 21/21: Die von FamFG Paragraf 137 Absatz 2 erfassten Folgesachen gehören während des Scheidungsverfahrens zwingend in den Verbund; eine Abtrennung ist nur unter den Voraussetzungen des FamFG Paragraf 140 zulässig.
 - Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Scheidungsverbund: Trennungsunterhalt und Folgesachen sind in ihrer prozessualen Eigenständigkeit sauber vom Scheidungsausspruch zu trennen. Ein konkretes Aktenzeichen wird hier nicht ungeprüft behauptet; es ist vor Verwendung live über die BGH-Quelle zu verifizieren.
 - Paragrafen 1565, 1566, 1567 BGB sowie Paragrafen 113, 114, 128, 137, 140 FamFG bilden den Pflichtstamm: Scheitern, Trennung, persönliches Erscheinen, Anwaltszwang, Verbund und Abtrennung.
 
@@ -1085,7 +1086,7 @@ Dieser Skill ordnet den familiengerichtlichen Streitstoff nach Antragstellerstat
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

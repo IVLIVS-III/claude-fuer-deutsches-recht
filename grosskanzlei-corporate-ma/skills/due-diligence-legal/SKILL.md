@@ -11,7 +11,7 @@ description: "Wenn es um Legal Due Diligence in Großkanzlei Corporate/M&A geht:
 - **Vertrags- und Aufklärungslage:** Paragraf 241 Absatz 2, 280, 311 Absatz 2, 433, 453 BGB; Gewährleistung, Garantie, Disclosure und vorvertragliche Information.
 - **Datenraum und Vertraulichkeit:** GeschGehG, NDA, Clean-Room-Regeln, MAR Art. 7, 17, 18 bei Public-M&A-Bezug.
 - **Regulatory:** Paragraf 35 bis 41 GWB, FKVO, AWG/AWV, Sanktionen und sektorale Genehmigungen als Closing- oder Pricing-Thema.
-- **Leitentscheidungen:** BGH, 21.04.1997 - II ZR 175/95 für organpflichtige Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für GmbH-Listenlogik.
+- **Entscheidungsanker:** BGH, Beschluss vom 14.07.2008 - II ZR 202/07 nur für die informationsgestützte Organentscheidung; BGH, Urteil vom 20.11.2018 - II ZR 12/17 nur für GmbH-Listenlegitimation, eingezogene Anteile und relevante Fehler der Versammlungsleitung.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Legal Due Diligence
@@ -61,9 +61,9 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 - GWB Paragraf 35 ff. und Paragraf 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
 - MAR Art. 7, 17 und 18 für Insiderinformationen, Ad-hoc-Prüfung und Insiderlisten.
 
-**3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 

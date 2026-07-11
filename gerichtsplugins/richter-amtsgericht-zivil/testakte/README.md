@@ -37,7 +37,7 @@ Diese Akte zeigt didaktisch die kleine zivilrechtliche Relation mit Beweisstatio
 
 - Verfahrensrecht: Paragraf 23 Nummer 1 GVG, Paragrafen 12, 13 ZPO, Paragrafen 138, 139, 286, 287, 313 ZPO, Paragrafen 91, 92, 708 Nummer 11 ZPO.
 - Materielles Recht: Paragrafen 7, 17, 18 StVG, Paragraf 823 BGB, Paragraf 249 BGB.
-- Orientierungs-Aktenzeichen: BGH, Urteil vom 01.10.2019 - VI ZR 164/18 (Überzeugungsbildung nach Paragraf 286 ZPO); BGH, Urteil vom 24.07.2018 - VI ZR 599/16 (keine überspannten Substantiierungsanforderungen). Siehe [pflichtanker.md](pflichtanker.md).
+- Orientierungs-Aktenzeichen: BGH, Urteil vom 01.10.2019 - VI ZR 164/18 (Überzeugungsbildung nach Paragraf 286 ZPO); BGH, Beschluss vom 24.07.2018 - VI ZR 599/16 (geänderten Parteivortrag nicht allein wegen eines Widerspruchs ausblenden). Siehe [pflichtanker.md](pflichtanker.md).
 
 ## Hinweis zur Live-Verifikation
 

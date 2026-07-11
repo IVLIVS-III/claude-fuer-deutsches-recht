@@ -31,24 +31,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 267 AEUV
-- Art. 263 AEUV
-- Art. 258 AEUV
-- Art. 288 AEUV
-- Art. 265 AEUV
-- Art. 19 EUV
-- Art. 6 EUV
-- Art. 260 AEUV
-- Art. 294 AEUV
-- Art. 108 AEUV
-- Art. 228 AEUV
-- Art. 227 AEUV
-
-### Leitentscheidungen
-
-- EuGH C-6/64

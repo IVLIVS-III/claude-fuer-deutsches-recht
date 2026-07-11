@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt alle 12 Skills des Plugins `richter-amtsgericht-insolvenz-restrukturierung`.
+Diese Vollprüfung enthält alle 12 Skills des Plugins `richter-amtsgericht-insolvenz-restrukturierung`.
 
 ## Inhaltsverzeichnis
 
@@ -215,10 +215,9 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Beschluss vom 01.12.2005 - IX ZB 208/05: Das Insolvenzgericht prüft von Amts wegen anhand des Einzelfalls, ob und welche Sicherungsmaßnahmen erforderlich sind, um gläubigernachteilige Vermögensveränderungen bis zur Eröffnungsentscheidung zu verhindern.
+- BGH, Beschluss vom 22.03.2007 - IX ZB 164/06: Das bei Antragseingang international und örtlich zuständige Insolvenzgericht bleibt für Eröffnung und Sicherungsmaßnahmen zuständig, wenn der Schuldner den Mittelpunkt seiner hauptsächlichen Interessen erst danach verlegt.
+- Jeder Tenor muss Maßnahme, Verfügungsbereich, Dauer, Bekanntmachung, Anhörung und Rechtsmittel so bestimmen, dass Reichweite und Vollzug ohne Rückgriff auf interne Erwägungen erkennbar sind.
 
 ## Prüfungsschema in Stufen
 
@@ -302,10 +301,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BVerfG, Beschluss vom 23.05.2006 - 1 BvR 2530/04: Der Bewerber um das Amt des Insolvenzverwalters hat aus Artikel 3 Absatz 1 GG einen Anspruch auf fehlerfreie Ausübung des Auswahlermessens nach InsO Paragraf 56 Absatz 1.
+- Auswahlvermerk und Eröffnungsbeschluss müssen Einzelfalleignung, Geschäftskunde, Unabhängigkeit, Interessenkonflikte und die gesetzlichen Beteiligungsrechte des vorläufigen Gläubigerausschusses getrennt dokumentieren.
 
 ## Prüfungsschema in Stufen
 
@@ -412,10 +409,10 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die innerhalb von drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; buchhalterisch ausgewiesene Passiva dürfen nicht pauschal bestritten werden.
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Bei streitigen Verbindlichkeiten entscheidet die objektive Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu berücksichtigen.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Für streitige Verbindlichkeiten gibt es keinen prozentualen Abschlag nach Prozessrisiko; den begrenzten Aussagewert des Nichtzulassungsbeschwerdebeschlusses im Vermerk offenlegen.
 
 ## Prüfungsschema in Stufen
 
@@ -499,10 +496,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Beschluss vom 15.07.2010 - IX ZB 65/10: Eine Gläubigerversammlung ist so durchzuführen, dass geordnete Willensbildung und Abstimmung möglich sind; bei bestrittenen Forderungen sind Tabellenfeststellung, Stimmrecht und eine etwaige planbedingte Klagefrist sauber zu trennen.
+- Das Protokoll hält Anwesenheit und Vollmachten, Stimmrechtsentscheidungen, Anträge, Abstimmungsergebnisse, Widersprüche und gerichtliche Entscheidungen so fest, dass Beschlussinhalt und Mehrheit nachprüfbar bleiben.
 
 ## Prüfungsschema in Stufen
 
@@ -586,10 +581,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- Für die bloße Anzeige der Restrukturierungssache wird kein fachfremder höchstrichterlicher Anker behauptet. Maßgeblich sind zunächst StaRUG Paragrafen 31 bis 35, der konkrete Verfahrensstand, die drohende Zahlungsunfähigkeit und die Vollständigkeit der Anzeige.
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Die Nichtannahmeentscheidung zur Bestätigung eines Restrukturierungsplans betrifft die Substantiierung einer Verfassungsbeschwerde und trägt keine allgemeine Aussage über Zulässigkeit oder Erfolg einer Anzeige nach StaRUG Paragraf 31.
 
 ## Prüfungsschema in Stufen
 
@@ -673,10 +666,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Beschluss vom 29.09.2011 - IX ZB 219/10: Die Entscheidung betrifft die vorzeitige Beendigung der damaligen Wohlverhaltensphase nach Vergleich mit sämtlichen Insolvenzgläubigern sowie Teilzahlung und Teilerlass; sie darf nur nach Prüfung des heute anwendbaren Rechts und des Übergangsrechts verwendet werden.
+- Im Schlusstermin Versagungsantrag, Antragsberechtigung, Versagungsgrund, Glaubhaftmachung, rechtliches Gehör und die zeitlich anwendbare Fassung der InsO einzeln ausweisen; eine alte Wohlverhaltensphasenentscheidung ersetzt diese Prüfung nicht.
 
 ## Prüfungsschema in Stufen
 
@@ -760,10 +751,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Die Verfassungsbeschwerde gegen die Bestätigung des Restrukturierungsplans wurde wegen unzureichender Substantiierung nicht zur Entscheidung angenommen; die Nichtannahme trifft weder eine allgemeine Aussage zur Verfassungsmäßigkeit des StaRUG noch zur materiellen Richtigkeit des Plans.
+- Für eine Beschwerde nach StaRUG Paragraf 66 Absatz 2 Nummer 3 sind realistische günstigere Alternativszenarien konkret darzustellen und mit der Vergleichsrechnung des Plans auseinanderzusetzen. Diesen prozessualen Maßstab nicht in eine allgemeine Bestätigung von Kapitalherabsetzung, Bezugsrechtsausschluss oder gruppenübergreifender Mehrheitsentscheidung umdeuten.
 
 ## Prüfungsschema in Stufen
 
@@ -847,10 +836,9 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Urteil vom 22.11.2018 - IX ZR 167/16: Im vorläufigen Eigenverwaltungsverfahren begründet der Schuldner auch außerhalb des damaligen Schutzschirmverfahrens Masseverbindlichkeiten nur im Umfang einer gerichtlichen Ermächtigung; die Entscheidung ist mit dem heute anwendbaren Normstand abzugleichen.
+- BGH, Beschluss vom 27.01.2022 - IX ZB 41/21: Die Aufhebung der vorläufigen Eigenverwaltung auf Antrag des vorläufigen Gläubigerausschusses ist nicht mit der sofortigen Beschwerde anfechtbar; die Entscheidung betont die Gläubigerautonomie als tragendes Steuerungsprinzip.
+- Prüfvermerk und Tenor trennen Eigenverwaltungsplanung, Liquiditätsplanung, Nachteile für Gläubiger, Sachwalterrolle, Ermächtigungen zu Masseverbindlichkeiten und Aufhebungsgründe.
 
 ## Prüfungsschema in Stufen
 
@@ -934,10 +922,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- Für Voraussetzungen, Reichweite und Dauer der Stabilisierungsanordnung werden keine Entscheidungen aus Insolvenzanfechtung, Restschuldbefreiung oder Verwalterauswahl übertragen. Primär zu prüfen sind StaRUG Paragrafen 49 bis 59 und die aktuelle Fassung der betroffenen Vollstreckungs- und Verwertungssperren.
+- Der Beschluss begründet für jede betroffene Forderung oder Sicherung Planbezug, Erforderlichkeit, Eignung, Dauer, Gläubigernachteil und Aufhebungsmechanismus; nicht amtlich verifizierte Instanzrechtsprechung bleibt unzitiert.
 
 ## Prüfungsschema in Stufen
 
@@ -1021,10 +1007,9 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Beschluss vom 20.07.2017 - IX ZB 13/16: Ein offensichtlich erfolgreicher Minderheitenschutzantrag kann die Zurückweisung schon in der Vorprüfung tragen; eine Kompensationsregelung muss finanziert sein und die Schlechterstellung vollständig ausgleichen.
+- BGH, Beschluss vom 26.04.2018 - IX ZB 49/17: Ein wesentlicher Verfahrensmangel genügt, wenn sein Einfluss auf die Planannahme ernsthaft möglich ist; die gerichtliche Prüfung nach InsO Paragraf 250 ist von einer wirtschaftlichen Zweckmäßigkeitskontrolle zu trennen.
+- BGH, Beschluss vom 19.05.2022 - IX ZB 6/21: Der darstellende Teil muss einen sachgerechten Vergleich der Befriedigungsaussichten mit dem Regelverfahren ermöglichen und bei natürlichen Personen die für die Prognose erforderlichen Einkommens-, Vermögens- und Familienverhältnisse offenlegen.
 
 ## Prüfungsschema in Stufen
 
@@ -1075,7 +1060,7 @@ Dieser Skill trennt Antrag, Gläubigerstellung, Forderung, Eröffnungsgrund, Sic
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

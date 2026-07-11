@@ -23,8 +23,9 @@ Halbjaehrliche Anpassung durch Deutsche Bundesbank (jeweils zum 01.01. und 01.07
 
 | Periode | Basiszins |
 |---|---|
+| 01.07.2026 - 31.12.2026 | 1,52 % |
 | 01.01.2026 - 30.06.2026 | 1,27 % |
-| 01.07.2025 - 31.12.2025 | 1,77 % |
+| 01.07.2025 - 31.12.2025 | 1,27 % |
 | 01.01.2025 - 30.06.2025 | 2,27 % |
 | 01.07.2024 - 31.12.2024 | 3,37 % |
 | 01.01.2024 - 30.06.2024 | 3,62 % |
@@ -57,19 +58,19 @@ Paragraf 286 Abs. 3 BGB (B2B, Entgeltforderung): Verzug spaetestens 30 Tage nach
 Tage * Forderungsbetrag * (Basiszins + Aufschlag) / 36500
 ```
 
-**Beispiel:** Hauptforderung 5.000 EUR, B2B, Verzug ab 15.04.2026, Klagezustellung 15.10.2026 (183 Tage).
-- Basiszins ab 01.01.2026: 1,27 %
-- Verzugszinssatz: 1,27 + 9 = 10,27 %
-- Zinsen: 183 * 5000 * 0,1027 / 365 = 257,46 EUR
+Beispiel: Hauptforderung 5.000 Euro, B2B, erster Zinstag 15. April 2026, letzter Zinstag 15. Oktober 2026. Der Halbjahreswechsel ist zwingend aufzuteilen:
 
-Bei Periodenwechsel (z.B. über den 01.07. hinaus): Aufteilen und separat rechnen.
+- 15. April bis 30. Juni 2026: 77 Tage zu 10,27 Prozent, 108,33 Euro.
+- 1. Juli bis 15. Oktober 2026: 107 Tage zu 10,52 Prozent, 154,20 Euro.
+- Summe bei der im Werkzeug dokumentierten 365-Tage-Konvention: 262,53 Euro.
 
 ## Verzugspauschale Paragraf 288 Abs. 5 BGB
 
 - Gilt nur B2B-Entgeltforderungen.
 - 40 EUR pro Forderung, **nicht** pro Mahnung.
 - Auf Schadensersatz wegen Verzug (Mahnkosten, Rechtsverfolgungskosten) anzurechnen, soweit Schaden in Rechtsverfolgungskosten besteht (Paragraf 288 Abs. 5 Satz 3 BGB).
-- BGH VIII ZR 232/16: Pauschale faellig auch ohne konkreten Schaden, nicht anrechenbar auf Anwaltskosten in einfach gelagerten Faellen.
+- BGH, Beschluss vom 18.01.2018 - III ZR 174/17: Nach nationalem Wortlaut ist die Pauschale auf ersatzfähige vorgerichtliche Rechtsanwaltskosten anzurechnen; der Beschluss legte die unionsrechtliche Frage dem EuGH vor.
+- BAG, Urteil vom 25.09.2018 - 8 AZR 26/18: Im arbeitsgerichtlichen Urteilsverfahren erster Instanz schließt Paragraf 12a Absatz 1 Satz 1 ArbGG die Pauschale als Beitreibungskosten aus.
 
 ## Hoehere Zinsen nach Paragraf 288 Abs. 3 BGB
 
@@ -77,9 +78,8 @@ Gläubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. v
 
 ## Mahnkosten als Verzugsschaden Paragraf 280 Abs. 1, 2, Paragraf 286 BGB
 
-- Erste Mahnung kostet **nichts** (selbst Verzug auslosend).
-- Folgemahnungen: Schadensersatz für tatsaechliche Kosten (Porto, Material).
-- Pauschale 2,50 EUR pro Mahnung in der Praxis akzeptiert (LG Berlin 32 O 188/95).
+- Eine Mahnung, die den Verzug erst auslöst, ist regelmäßig kein durch Verzug verursachter Schaden. Ist Verzug bereits ohne Mahnung eingetreten, können erforderliche Mahnkosten ersatzfähig sein.
+- Nur konkret erforderliche Aufwendungen wie Porto und Material ansetzen; eigene Arbeitszeit oder eine unbelegte Mahnpauschale nicht automatisch addieren.
 - Inkassokosten nur in Höhe einer 1,3 Geschäftsgebuehr eines Rechtsanwalts (Paragraf 4 Abs. 5 RDGEG).
 
 ## Klageantrag-Formulierung
@@ -109,5 +109,6 @@ Basiszinssatz aus EUR 1.250,00 seit dem 15.04.2026.
 - BGB Paragraf 286 Verzugseintritt [gesetze-im-internet.de/bgb/__286.html](https://www.gesetze-im-internet.de/bgb/__286.html)
 - BGB Paragraf 288 Verzugszinsen [gesetze-im-internet.de/bgb/__288.html](https://www.gesetze-im-internet.de/bgb/__288.html)
 - BGB Paragraf 291 Prozesszinsen [gesetze-im-internet.de/bgb/__291.html](https://www.gesetze-im-internet.de/bgb/__291.html)
-- BGH VIII ZR 232/16 zur Pauschale [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- BGH III ZR 174/17 zur Anrechnung der Pauschale [bundesgerichtshof.de](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2018-1-18&Gericht=bgh&Sort=6&anz=17&pos=5)
+- BAG 8 AZR 26/18 zur arbeitsrechtlichen Ausnahme [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-26-18/)
 - Bundesbank Basiszinssatz [bundesbank.de](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)

@@ -22,7 +22,6 @@ description: "Wenn es um Zulassungsgrenzen-Check Sozialgericht in selbstvertrete
 | Berufungsfrist | 1 Monat | § 151 SGG |
 | Nichtzulassungsbeschwerde | 1 Monat | § 145 SGG |
 | Revision | Zulassung nötig | § 160 SGG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfablauf
 

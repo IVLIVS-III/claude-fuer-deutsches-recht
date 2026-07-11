@@ -52,14 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 316 StGB — Trunkenheitsfahrt: BAK ab 1.1 Promille (absolute Fahruntauglichkeit) oder ab 0.3 Promille mit Ausfallerscheinungen (relative Fahruntauglichkeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 315c StGB — Gefährdung des Strassenverkehrs unter Alkohol: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 81a StPO — Blutentnahme durch Arzt; richterlicher Anordnungsvorbehalt: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 24a Abs. 1a StVG — THC-Grenzwert 3.5 ng/ml im Blutserum (in Kraft seit 22.8.2024, BGBl. I 2024 Nr. 274); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 316 StGB — Trunkenheitsfahrt: BAK ab 1.1 Promille (absolute Fahruntauglichkeit) oder ab 0.3 Promille mit Ausfallerscheinungen (relative Fahruntauglichkeit); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 315c StGB — Gefährdung des Strassenverkehrs unter Alkohol; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 81a StPO — Blutentnahme durch Arzt; richterlicher Anordnungsvorbehalt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
-- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Recht des Betroffenen auf Zugang zu vorhandenen Mess- und Begleitdaten als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de
-- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Pflicht zur Speicherung von Rohmessdaten beim standardisierten Verfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle
+- BVerfG, Beschl. v. 12.11.2020, 2 BvR 1616/18 — Recht des Betroffenen auf Zugang zu vorhandenen Mess- und Begleitdaten als Ausfluss des fairen Verfahrens. Quelle: bundesverfassungsgericht.de.
+- BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Pflicht zur Speicherung von Rohmessdaten beim standardisierten Verfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall.
 
 ## 7. Antwortform
 

@@ -58,7 +58,10 @@ def collect_skills(plugin_dir: Path) -> list[tuple[str, Path, str, str]]:
     skills_dir = plugin_dir / 'skills'
     if not skills_dir.is_dir():
         return []
-    priority_first = ['vergaberechtliche-pruefung-anwaltlich-vollpruefung',
+    priority_first = ['bea-versandmappe-endfertigung',
+                      'versandmappe-endfertigen',
+                      'anlagen-zu-schriftsaetzen',
+                      'vergaberechtliche-pruefung-anwaltlich-vollpruefung',
                       'einstieg-routing', 'kaltstart-triage', 'mandat-triage',
                       'orientierung', 'mandat-intake-und-konfliktpruefung',
                       'erstgespraech-mandatsannahme', 'erstpruefung-und-mandatsziel']
@@ -125,7 +128,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     if n_total > 100:
         # Mega-grosse Plugins (z.B. arbeitsrecht, gesellschaftsrecht): top-8
         skills = skills[:8]
-        coverage = f"top-8 von {n_total} Skills (gekuerzt fuer Chat-Fenster)"
+        coverage = f"top-8 von {n_total} Skills (gekürzt für das Arbeitsfenster)"
     elif n_total > 60:
         # Grosse Plugins (z.B. insolvenzrecht): top-10
         skills = skills[:10]
@@ -141,7 +144,7 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     lines.append('')
     lines.append(f'## Zusammensetzung')
     lines.append('')
-    lines.append(f'Dieser Vollprüfung enthaelt {coverage} des Plugins `{plugin}`.')
+    lines.append(f'Diese Vollprüfung enthält {coverage} des Plugins `{plugin}`.')
     lines.append('')
     lines.append('## Inhaltsverzeichnis')
     lines.append('')
@@ -165,10 +168,10 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
 
     lines.append('## Anwendungshinweise')
     lines.append('')
-    lines.append('1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.')
+    lines.append('1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.')
     lines.append('2. Den eigentlichen juristischen Fall beschreiben.')
-    lines.append('3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.')
-    lines.append('4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.')
+    lines.append('3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.')
+    lines.append('4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.')
     lines.append('')
     return '\n'.join(lines).rstrip() + '\n'
 
@@ -202,7 +205,7 @@ def main() -> int:
         if size_kb > 200:
             print(f'  WARN {plugin_dir.name}: {size_kb:.0f} KB (gross fuer Chat-Fenster)')
         created += 1
-    print(f'Vollprüfungs erstellt: {created} | uebersprungen: {skipped}')
+    print(f'Vollprüfungen erstellt: {created} | übersprungen: {skipped}')
     return 0
 
 

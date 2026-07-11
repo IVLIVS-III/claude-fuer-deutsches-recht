@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
-| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2; BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 |
 | Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
 | Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
@@ -52,15 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Paragraf 80 GWB (zivile Verbandsklage als Parallelweg): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwVfG Paragrafen 28, 35-37, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragrafen 42, 80, 80a, 113 (Anfechtungsklage, Vollzugsfolgen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln, Untätigkeitsklage): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
-- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
-- BVerwG 6 C 12.18 (BNetzA-Entgeltgenehmigung)
-- EuGH C-475/12 (Roaming-Verordnung)
-- BVerfG 1 BvR 1675/16 (Rundfunkbeitrag, Aufsichtsmaßstab)
+- Paragraf 80 GWB (zivile Verbandsklage als Parallelweg); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln, Untätigkeitsklage); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 19, 20 GWB (Diskriminierungs- und Behinderungsverbote als Parallelweg); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 44 VwVfG — Nichtigkeit Verwaltungsakt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
 
 ## 7. Antwortform
 

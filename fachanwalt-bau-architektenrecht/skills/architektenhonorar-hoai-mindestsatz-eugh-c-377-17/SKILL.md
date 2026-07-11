@@ -1,41 +1,36 @@
 ---
 name: architektenhonorar-hoai-mindestsatz-eugh-c-377-17
-description: "Wenn es um Architektenhonorar Hoai Mindestsatz EuGH C 377 17 in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Architekten- und Ingenieurhonorar nach Auftragsdatum, HOAI-Fassung, Honorarvereinbarung, anrechenbaren Kosten und Leistungsstand und trennt Altfälle der Mindestsatzrechtsprechung vom Recht seit 2021."
 ---
 
-# Architektenhonorar Hoai Mindestsatz EuGH C 377 17
+# Architektenhonorar und HOAI-Mindestsatz prüfen
 
-## Einsatzlage
+## 1. Einsatz und Ziel
 
-Architekt verlangt nachtraeglich Aufstockung auf HOAI-Mindestsatz; Vertrag unterschritt diesen.
+Bestimme zuerst Auftragserteilung und anwendbare HOAI-Fassung. Die Aussage, Mindestsätze seien für sämtliche Altverträge entfallen, ist falsch.
 
-## Normenanker
+## 2. Normenanker
 
-- §§ 631 ff. BGB
-- §§ 650a ff. BGB
-- § 640 BGB
-- § 634 BGB
-- HOAI Leistungsphasen 1-9
+- Paragrafen 650p bis 650t BGB: Architekten- und Ingenieurvertrag.
+- Paragraf 7 HOAI in der jeweils anwendbaren Fassung: Honorarvereinbarung und Basishonorarsatz.
+- Paragraf 15 HOAI: Fälligkeit nach Abnahme und prüffähiger Schlussrechnung.
+- Leistungsbilder und Honorartafeln nur für die tatsächlich beauftragten Leistungen und die zeitlich geltende Fassung anwenden.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Verifizierte Rechtsprechung
 
-- EuGH 04.07.2019 C-377/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- BGH 02.06.2022 VII ZR 174/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- EuGH, Urteil vom 04.07.2019, C-377/17: Die verbindlichen Mindest- und Höchstsätze der damaligen HOAI verstießen gegen die Dienstleistungsrichtlinie.
+- EuGH, Urteil vom 18.01.2022, C-261/20: Die Richtlinie verpflichtet ein nationales Gericht in einem Rechtsstreit ausschließlich zwischen Privaten nicht dazu, die alte Mindestsatzregel unangewendet zu lassen.
+- BGH, Urteil vom 02.06.2022, VII ZR 174/19: Für einschlägige Altverträge zwischen Privaten bleibt eine Aufstockung auf den Mindestsatz nach der alten HOAI grundsätzlich möglich; unionsrechtliche Staatshaftungsfragen sind davon zu trennen.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Datum und Inhalt der Beauftragung sowie Verbraucher- oder Unternehmerstatus feststellen.
+2. HOAI-Fassung und Übergangsrecht bestimmen.
+3. Honorarvereinbarung auf Zeitpunkt, Text- oder Schriftform und Bestimmtheit prüfen.
+4. Leistungsbild, Leistungsphasen, Honorarzone, anrechenbare Kosten, Umbauzuschlag, Nebenkosten und mitverarbeitete Bausubstanz belegen.
+5. Erbrachte, nicht erbrachte und zusätzlich beauftragte Leistungen trennen.
+6. Abnahme, Prüffähigkeit, Einwendungen, Abschläge und Verjährung berechnen.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-Mindestsatz nicht mehr zwingend; Honoraranspruch nach vertraglicher Vereinbarung.
-
-## Belege und Aktenlücken
-
-- Architektenvertrag
-- Schlussrechnung
-- HOAI-Berechnung
+Liefere Fassungsentscheidung, prüffähige Honorarberechnung mit Varianten und einen Anspruchs- oder Abwehrschriftsatz, der Alt- und Neurecht sichtbar trennt.

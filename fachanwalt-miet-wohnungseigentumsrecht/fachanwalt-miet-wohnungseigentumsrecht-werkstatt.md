@@ -10,9 +10,36 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+
+### 1.2. Ausgabeformate für schnelle Lieferung
+
+| Bedarf | Sofortausgabe | Qualitätsgriff |
+| --- | --- | --- |
+| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
+| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
+| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
+| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
+| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
+| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
+
+### 1.3. Rückfragenbremse
+
+1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
+2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
+3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
+4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
+5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+
+### 1.4. Mini-Gerüste
+
+- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
+- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
+- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
+- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
+- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
 ## 2. Stop-Kriterien
 
@@ -48,9 +75,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs | BGB Paragraf 535; BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs | BGB Paragraf 535 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 536 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Beschlussanfechtung nach Paragraf 44 WEG spezial: Klagefrist 1 Monat | BGB Paragraf 536; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beschlussanfechtung nach Paragraf 44 WEG spezial: Klagefrist 1 Monat | BGB Paragraf 536 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -63,17 +90,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGB Paragraf 573 | berechtigtes Interesse an ordentlicher Wohnraumkündigung | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 | GVG Paragraf 23 Nummer 2a | Wohnraummietsachen streitwertunabhängig beim Amtsgericht | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 | WEG Paragraf 18 und Paragraf 44 | Verwaltung, Beschlussklage und gerichtliche Kontrolle | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
-| Normenradar | BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
+| Paragraf 556 Absätze 1 bis 3 BGB | Vereinbarung, Abrechnungsfrist und Einwendungsfrist | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam |
-| BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden |
-| BGH, Urteil vom 20.09.2006 - VIII ZR 103/06 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Betriebskostenabrechnung muss geordnet und nachvollziehbar sein |
-| BGH, Urteil vom 04.05.2011 - VIII ZR 195/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eigenbedarf verlangt nachvollziehbaren Nutzungswunsch und Interessenabwägung |
-| BGH, Urteil vom 10.10.2012 - VIII ZR 107/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Zahlungsverzug kann fristlose Kündigung tragen, Schonfristzahlung wirkt nur begrenzt |
+| BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum |
+| BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren |
+| BGH, Urteil vom 20.09.2006 - VIII ZR 103/06 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die formularmäßige Umlage der Aufzugskosten kann auch einen Erdgeschossmieter treffen, dessen Wohnung durch den Aufzug |
+| BGH, Urteil vom 23.09.2015 - VIII ZR 297/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eigenbedarf erfordert einen ernsthaft verfolgten, hinreichend bestimmten Nutzungswunsch auf vernünftiger |
+| BGH, Urteil vom 10.10.2012 - VIII ZR 107/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine ordentliche Kündigung wegen Zahlungsverzugs kann unterhalb der Schwelle des Paragraf 543 Absatz 2 Nummer 3 BGB |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,27 +112,27 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
 - GVG Paragraf 23 Nummer 2a: Wohnraummietsachen streitwertunabhängig beim Amtsgericht.
 - WEG Paragraf 18 und Paragraf 44: Verwaltung, Beschlussklage und gerichtliche Kontrolle.
-- Normenradar: BGB Paragrafen 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG Paragrafen 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 535 Abs. 1 und 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 536 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 543 Abs. 1 und 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 553 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 556 Abs. 1 bis 3 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 573 Abs. 1 und 2 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 574 Abs. 1 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 556 Absätze 1 bis 3 BGB: Vereinbarung, Abrechnungsfrist und Einwendungsfrist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 259 BGB: geordnete Rechnungslegung und Belegvorlage; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 535 Abs. 1 und 2 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 536 Abs. 1 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 543 Abs. 1 und 2 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 553 Abs. 1 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 556 Abs. 1 bis 3 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 573 Abs. 1 und 2 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
-- BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Betriebskostenabrechnung muss geordnet und nachvollziehbar sein.
-- BGH, Urteil vom 04.05.2011 - VIII ZR 195/10: Eigenbedarf verlangt nachvollziehbaren Nutzungswunsch und Interessenabwägung.
-- BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Zahlungsverzug kann fristlose Kündigung tragen, Schonfristzahlung wirkt nur begrenzt.
-- BGH, Beschl. v. 07.11.2024 – V ZB 6/24 — Bei verspäteter Klagezustellung durch das Gericht trifft den Anfechtungskläger eine Erkundigungsobliegenheit; im Regelfall innerhalb eines Jahres nach Ablauf
-- BGH, Urt. v. 14.02.2025 – V ZR 236/23 — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils
-- BGH, Urt. v. 14.02.2025 – V ZR 86/24 — Vorbefassungsobliegenheit bei Beschlussersetzungsklage Paragraf 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genügt, in der Versammlung einen Beschluss erbeten zu haben
-- BGH 17.07.2024 VIII ZR 25/22 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 27.01.2021 VIII ZR 25/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
+- BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Die formularmäßige Umlage der Aufzugskosten kann auch einen Erdgeschossmieter treffen, dessen Wohnung durch den Aufzug erschlossen wird.
+- BGH, Urteil vom 23.09.2015 - VIII ZR 297/14: Eigenbedarf erfordert einen ernsthaft verfolgten, hinreichend bestimmten Nutzungswunsch auf vernünftiger und nachvollziehbarer Grundlage; eine vage Vorratsabsicht genügt nicht.
+- BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Eine ordentliche Kündigung wegen Zahlungsverzugs kann unterhalb der Schwelle des Paragraf 543 Absatz 2 Nummer 3 BGB tragen; ein Rückstand bis zu einer Monatsmiete bei weniger als einem Monat Verzug ist noch nicht erheblich.
+- BGH, Beschl. v. 07.11.2024 – V ZB 6/24 — Bei verspäteter Klagezustellung durch das Gericht trifft den Anfechtungskläger eine Erkundigungsobliegenheit.
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23 — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils.
+- BGH, Urt. v. 14.02.2025 – V ZR 86/24 — Vorbefassungsobliegenheit bei Beschlussersetzungsklage Paragraf 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genügt, in der Versammlung einen Beschluss erbeten zu haben.
+- BGH, Urteil vom 18.12.2024 - VIII ZR 16/23: Die seit April 2020 geltenden Vorschriften zur Mietpreisbremse sind verfassungsgemäß; die Zweite Berliner Mietenbegrenzungsverordnung vom 19.
+- BGH, Urteil vom 29.11.2023 - VIII ZR 75/23: Bei Berufung auf die Vormiete genügte nach der dort anwendbaren alten Fassung die Mitteilung der vertraglich vereinbarten Vormiete.
 
 ## 9. Prüfraster
 
@@ -157,56 +184,56 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Beschlussanfechtung Spezial Fristen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Erhalt Fristennotiz und Nächster Schritt
+### 15.3. Prüft Form, Frist, Umlagefähigkeit, Verteilerschlüssel und Beleglage einer Betriebskostenabrechnung und trennt.
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Form, Frist, Umlagefähigkeit, Verteilerschlüssel und Beleglage einer Betriebskostenabrechnung und trennt verspätete Nachforderung, Einwendungsfrist, Guthaben und laufende Vorauszahlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. WEG-Anfechtungsklage Paragraf 44 WEG
+### 15.4. Erhalt Fristennotiz und Nächster Schritt
 
-1. Beschluss-Datum, Inhalt (Wortlaut), TOP-Nummer — wann und wie wurde beschlossen? 2. War der Mandant bei der Versammlung anwesend — hat er abgestimmt, welche Stimme? 3. Anfechtungsgrund — Verfahrensmangel (Ladung, Frist, Quorum) oder materiell-rechtlicher Mangel (inhaltlich. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht
+### 15.5. WEG-Anfechtungsklage Paragraf 44 WEG
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Beschluss-Datum, Inhalt (Wortlaut), TOP-Nummer — wann und wie wurde beschlossen? 2. War der Mandant bei der Versammlung anwesend — hat er abgestimmt, welche Stimme? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Haerteklausel Paragraf 574 BGB
+### 15.6. Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Prüfe Haerteklausel Paragraf 574 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 574 BGB - Paragraf 535 Abs. 1 und 2 BGB - Paragraf 536 Abs. 1 BGB - Paragraf 543 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht
+### 15.7. Haerteklausel Paragraf 574 BGB
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Haerteklausel Paragraf 574 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 574 BGB - Paragraf 535 Abs. 1 und 2 BGB - Paragraf 536 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Miet Tatbestand Beweis und Belege
+### 15.8. Haustiere im Mietverhältnis: Fachmodul im Miet- und Wohnungseigentumsrecht
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.9. Miet Tatbestand Beweis und Belege
 
 ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Mietminderung Paragraf 536 BGB
+### 15.10. Mietminderung Paragraf 536 BGB
 
-Prüfe Mietminderung Paragraf 536 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 536 BGB - Paragraf 535 Abs. 1 und 2 BGB - Paragraf 536 Abs. 1 BGB - Paragraf 543 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Mietminderung Paragraf 536 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 536 BGB - Paragraf 535 Abs. 1 und 2 BGB - Paragraf 536 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Mietpreisbremse Paragraf 556d BGB BGH Viii Zr 25 22
+### 15.11. Prüft die zulässige Wiedervermietungsmiete nach Paragraf 556d folgende BGB, Gebietskulisse, Vormiete.
 
-Mieter ruegt Mietpreisüberschreitung; Vermieter beruft sich auf Vormiete. - Paragraf 556d BGB - Paragrafen 535 ff. BGB - Paragraf 556 BGB - Paragraf 558 BGB - Paragraf 573 BGB - Paragrafen 18 ff. WEG - BGH 17.07.2024 VIII ZR 25/22 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft die zulässige Wiedervermietungsmiete nach Paragraf 556d folgende BGB, Gebietskulisse, Vormiete, Modernisierung, Neubauausnahme, Auskunft, Rüge und Rückzahlung und liefert eine belastbare Miet-, Fristen- und Beweismatrix für Mieter oder Vermieter. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Mietrecht Beweislast und Darlegungslast
+### 15.12. Mietrecht Beweislast und Darlegungslast
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Mietrecht Einführung Vertragstypen
+### 15.13. Mietrecht Einführung Vertragstypen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht
+### 15.14. Mietvertrag AGB-Klauseln: Fachmodul im Miet- und Wohnungseigentumsrecht
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Modernisierungsumlage Paragraf 559 BGB
-
-Prüfe Modernisierungsumlage Paragraf 559 BGB von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 559 BGB - Paragraf 535 Abs. 1 und 2 BGB - Paragraf 536 Abs. 1 BGB - Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

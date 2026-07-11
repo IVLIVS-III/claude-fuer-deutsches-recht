@@ -57,7 +57,7 @@ Kläre, welche Mitwirkungspflichten Mitarbeiter haben, wie weit diese reichen un
 
 ### 7. Besondere Konstellation: Leitungspersonen
 - § 130 OWiG: Leitungspersonen haben eigene Aufsichtspflicht; Mitwirkung an der Aufklärung kann Bußgeldrisiko mindern ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html)).
-- BGH II ZR 234/09 (Siemens/Neubürger): Vorstandsmitglied hat persönliche Aufklärungspflicht ([openjur.de](https://openjur.de/o/577696.html)).
+- Bei Leitungspersonen Organpflichten, arbeitsvertragliche Mitwirkung, Selbstbelastungsrisiko und Vertretung der Gesellschaft getrennt prüfen; aus der Organstellung folgt keine schrankenlose Pflicht, sich in einem privaten Interview selbst zu belasten.
 
 ## Normenregister
 
@@ -77,26 +77,3 @@ Kläre, welche Mitwirkungspflichten Mitarbeiter haben, wie weit diese reichen un
 - **Stellungnahme** zur Zulässigkeit einer Verdachtskündigung nach Aussageverweigerung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 93 AktG
-- § 26 BDSG
-- § 130 OWiG
-- § 102 BetrVG
-- § 87 BetrVG
-- § 203 StGB
-- § 266 StGB
-- Art. 33 DSGVO
-- § 30 OWiG
-- § 80 BetrVG
-- § 84 AktG
-- § 107 AktG
-
-### Leitentscheidungen
-
-- BGH II ZR 234/09
-- EuGH C-550/07
-- EuGH C-311/18

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 388 Skills (gekuerzt fuer Chat-Fenster) des Plugins `hoai-leistungsphasen-praxis`.
+Diese Vollprüfung enthält top-8 von 388 Skills (gekürzt für das Arbeitsfenster) des Plugins `hoai-leistungsphasen-praxis`.
 
 ## Inhaltsverzeichnis
 
@@ -27,7 +27,7 @@ _Wenn es um LPH 5 Ausführungsplanung: Ordnet öffentlich-rechtliche auflagen un
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -63,7 +63,7 @@ _Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisik
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -80,34 +80,12 @@ _Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisik
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
-## Normen und Rechtsprechung
+## Fachbezogene Rechtsgrundlagen
 
-### Kuratierte Normen-Bibliothek
-
-- § 1 HOAI (Anwendungsbereich)
-- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
-- § 6 HOAI (Honorarvereinbarung)
-- § 7 HOAI (Honorarvereinbarung Schriftform)
-- § 10 HOAI (anrechenbare Kosten)
-- § 14 HOAI (Honorarzonen)
-- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
-- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
-- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
-- VOB/B § 8 (Kündigung, Anwendung neben BGB)
-
-### Leitentscheidungen
-
-- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
-- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
-- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
-- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
-- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
-
-### Anwendung im Skill
-
-- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
-- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
-- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
+- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
+- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
+- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
 
 ---
 
@@ -121,7 +99,7 @@ _Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorran
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -138,34 +116,12 @@ _Wenn es um HOAI Querschnitt: Ordnet haftung architekt/bauunternehmer und vorran
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
-## Normen und Rechtsprechung
+## Fachbezogene Rechtsgrundlagen
 
-### Kuratierte Normen-Bibliothek
-
-- § 1 HOAI (Anwendungsbereich)
-- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
-- § 6 HOAI (Honorarvereinbarung)
-- § 7 HOAI (Honorarvereinbarung Schriftform)
-- § 10 HOAI (anrechenbare Kosten)
-- § 14 HOAI (Honorarzonen)
-- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
-- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
-- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
-- VOB/B § 8 (Kündigung, Anwendung neben BGB)
-
-### Leitentscheidungen
-
-- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
-- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
-- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
-- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
-- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
-
-### Anwendung im Skill
-
-- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
-- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
-- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
+- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
+- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
+- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
 
 ---
 
@@ -179,7 +135,7 @@ _Wenn es um LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachte
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -215,7 +171,7 @@ _Wenn es um HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -244,7 +200,7 @@ _Wenn es um HOAI Querschnitt: Prüft sonderkündigungsrecht nach planungsgrundla
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -273,7 +229,7 @@ _Wenn es um HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -290,34 +246,21 @@ _Wenn es um HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
 
-## Normen und Rechtsprechung
+## Fachbezogene Rechtsgrundlagen
 
-### Kuratierte Normen-Bibliothek
+- Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen.
+- Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
+- Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
+- Die VOB/B gilt nicht automatisch für Planungsleistungen. Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
 
-- § 1 HOAI (Anwendungsbereich)
-- §§ 3, 8 HOAI (Leistungsbild, Leistungsphasen 1-9)
-- § 6 HOAI (Honorarvereinbarung)
-- § 7 HOAI (Honorarvereinbarung Schriftform)
-- § 10 HOAI (anrechenbare Kosten)
-- § 14 HOAI (Honorarzonen)
-- § 15 HOAI (Fälligkeit, Abschlagszahlungen)
-- §§ 631, 632, 632a BGB (Werkvertrag, Vergütung, Abschlag)
-- § 650p ff. BGB (Architekten-/Ingenieurvertrag, Zielfindung)
-- VOB/B § 8 (Kündigung, Anwendung neben BGB)
+## Rechtsprechung für den Altvertragsstreit
 
-### Leitentscheidungen
+- EuGH, Urteil vom 4. Juli 2019, C-377/17: Die verbindlichen Mindest- und Höchstsätze der damaligen HOAI verstießen gegen die Dienstleistungsrichtlinie. Den Anker nur für den unionsrechtlichen Ausgangspunkt verwenden; daraus folgt noch nicht ohne Weiteres, wie ein Rechtsstreit zwischen Privatpersonen zu entscheiden ist.
+- BGH, Urteil vom 2. Juni 2022, VII ZR 174/19: In einem Rechtsstreit zwischen Privatpersonen gebietet das Unionsrecht nicht, Paragraf 7 HOAI 2013 unangewendet zu lassen. Vor jeder Schlussfolgerung deshalb Vertragsdatum, Parteien, vereinbarte Vergütung, Abrechnung und die einschlägige HOAI-Fassung feststellen.
 
-- BGH VII ZR 46/06 (Mindestsatz-Unterschreitung)
-- BGH VII ZR 63/14 (Abschlagszahlung Architekt)
-- BGH VII ZR 58/11 (Akquise vs. Vertragsschluss)
-- EuGH C-377/17 (HOAI-Preisrecht europarechtswidrig)
-- BGH VII ZR 174/19 (Übergangsfälle HOAI 2013/2021)
+## Arbeitsprodukt
 
-### Anwendung im Skill
-
-- Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
-- Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
-- Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+Erstelle eine Zeitleiste mit Vertragsschluss, Leistungsänderungen, Abschlägen und Schlussrechnung sowie eine Synopse aus vereinbarter Vergütung, nach der einschlägigen Fassung berechnetem Honorar, bereits gezahlten Beträgen und streitigem Saldo. Trenne dabei Anspruchsgrundlage, Einwendungen, Verjährung und prozessuale Darlegungslast.
 
 ---
 
@@ -331,7 +274,7 @@ _Wenn es um LPH 1 Grundlagenermittlung: Ordnet öffentlich-rechtliche auflagen u
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -359,7 +302,7 @@ _Wenn es um LPH 1 Grundlagenermittlung: Ordnet öffentlich-rechtliche auflagen u
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -40,26 +40,3 @@ description: "Wenn es um Amtlicher BGB/ZPO-Normcheck in BGB AT Prüfer geht: pr�
 ## Referenz
 
 Nutze `references/amtlicher-bgb-zpo-normkern.md`.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 46h ArbGG
-- § 35 GmbHG
-- § 291 StGB
-- § 22 RDG
-- § 13 GmbHG
-- § 11 GmbHG
-- § 14 TzBfG
-- § 46c ArbGG
-- § 41 VwVfG
-- § 291 bis 302 StGB
-- § 263 StGB
-
-### Leitentscheidungen
-
-- BGH NJW 1984/2279
-- BGH NJW 2004/1320
-- BGH NJW 2011/2643
-- BGH NJW 2005/53

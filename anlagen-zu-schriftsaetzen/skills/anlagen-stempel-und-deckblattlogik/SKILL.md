@@ -1,58 +1,48 @@
 ---
 name: anlagen-stempel-und-deckblattlogik
-description: "Wenn es um Stempel- und Deckblattlogik in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Entwickelt eine widerspruchsfreie Stempel- und Konvolutlogik für gerichtliche Anlagen: setzt K-, B-, AST- oder AG-Bezeichnungen auf jede Seite oben rechts, wahrt den bestehenden Nummernkreis, verhindert Überdeckung, gliedert echte Konvolute nachvollziehbar und gleicht Stempel, Dateiname, Deckblatt, Verzeichnis und Schriftsatzbezug ab."
 ---
 
 # Stempel- und Deckblattlogik
 
-## Normenanker
+## 1. Grundregel
 
-Arbeitsfokus: **Stempel- und Deckblattlogik**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Die Anlagenbezeichnung steht auf jeder Seite der Anlage oben rechts. Der Berliner Gerichtshinweis empfiehlt dies ausdrücklich für sämtliche Seiten. Der Stempel muss nach der PDF-Erzeugung sichtbar bleiben und darf keinen Urkundentext, keine Unterschrift, keinen vorhandenen Stempel, keinen Barcode und keine Seitenzahl überdecken.
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenschein.
+## 2. Nummernkreis
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Prozessrolle aus Schriftsatz und Vorakten bestimmen.
+2. Letzte bereits eingereichte Nummer feststellen.
+3. Neue Anlage fortlaufend anschließen.
+4. Replik oder Duplik nicht als Anlass für einen Neustart behandeln.
+5. Nachreichung mit dem bereits verwendeten Anlagenzitat abstimmen.
 
-## Mindestinput
+## 3. Einzelanlage oder Konvolut
 
-- Nummernkreis.
-- Liste Einzelanlagen und Konvolute.
-- Vorgaben zu Stempelposition, Schrift und Seitenstempel.
+Eine Sammelanlage ist nur sinnvoll, wenn die Dokumente eine erkennbare Einheit bilden. Das Deckblatt nennt:
 
-## Arbeitsablauf
+1. Hauptbezeichnung,
+2. Dokumente und Reihenfolge,
+3. Datum oder Zeitraum,
+4. Seitenbereich,
+5. gemeinsames Beweisthema.
 
-1. Entscheide Stempel nur Seite 1 oder jede Seite.
-2. Entwirf Deckblatt für jedes Konvolut.
-3. Lege Unteranlagenlogik fest: `K12.1` oder `K12/1`.
-4. Prüfe Konsistenz zwischen Deckblatt, Dateiname, Anlagenverzeichnis und Schriftsatz.
-5. Erzeuge Korrekturanweisung für Assistenz oder Legal Tech.
+Unteranlagen wie `K 12.1` und `K 12.2` nur verwenden, wenn Schriftsatz, Stempel, Deckblatt und Verzeichnis diese Untergliederung überall identisch abbilden. Sonst eigenständige Anlagenziffern vergeben.
 
-## Ausgabe
+## 4. Sichtkontrolle
 
-- Stempel-/Deckblatt-Spezifikation.
-- Konvolutdeckblatttext.
-- Korrekturliste für abweichende Stempel.
+| Prüfung | Stop-Befund |
+| --- | --- |
+| Position | Stempel abgeschnitten, gedreht oder überdeckt Inhalt |
+| Bezeichnung | Seite trägt andere Nummer als Dateiname |
+| Vollständigkeit | nur erste Seite eines mehrseitigen Belegs bezeichnet |
+| Konvolut | Unterlagenfolge weicht vom Deckblatt ab |
+| Schriftsatz | Anlagenzitat passt nicht zum sichtbaren Stempel |
 
-## Typische Fehler, die du aktiv suchst
+## 5. Werkzeug
 
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
+`../anlagen-zu-schriftsaetzen/werkzeuge/build_anlagenkonvolut.py` stempelt standardmäßig jede Seite und erzeugt zusätzlich ein internes Prüfkonvolut. Das Prüfkonvolut ist nicht automatisch die an das Gericht zu sendende Datei; die getrennten Versanddateien bleiben maßgeblich.
 
-## Anschluss-Skills
+## 6. Output
 
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+Liefere Stempelspezifikation, Nummernfortschreibung, Konvolutdeckblatt, Abweichungsliste und Sichtkontrollvermerk. Bei fertigem Paket in `bea-versandmappe-endfertigung` weiterarbeiten.

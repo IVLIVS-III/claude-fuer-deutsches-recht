@@ -246,6 +246,3 @@ Bevor die Klauselanalyse beginnt, klaere:
 4. Ist die Zweckuebertragungslehre (§ 31 V UrhG) bei zu engen Klauseln zu beachten?
 
 ## Aktuelle Rechtsprechung
-
-<!-- AUDIT 27.05.2026: 4 halluzinierte Leitentscheidungen geprüft und bereinigt.
-Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipeline. -->

@@ -68,7 +68,3 @@ description: "Wenn es um Redline-QA in Vertragsausfüller geht: prüft Frist, Fo
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Bundle: bundle_047.json
--->

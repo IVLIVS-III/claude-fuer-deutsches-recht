@@ -15,7 +15,7 @@ description: "Wenn es um Mitarbeiterinterviews in Internal Investigations Praxis
 
 ## Rechtlicher Rahmen
 
-Mitarbeiterinterviews im Rahmen von Internal Investigations bewegen sich im Spannungsfeld zwischen arbeitsrechtlicher Mitwirkungspflicht, strafprozessualen Schweigerechten und datenschutzrechtlichen Anforderungen. Grundlegend ist die Unterscheidung zwischen dem Mitarbeiter als **Zeuge** (Mitwirkungspflicht aus dem Arbeitsvertrag, §§ 242, 611a BGB) und als **Beschuldigtem** (Schweigerecht analog §§ 136, 163a StPO, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stpo/__136.html)). Die Verwertbarkeit von Interviewaussagen in einem späteren Strafverfahren hängt maßgeblich von der ordnungsgemäßen Belehrung ab. Die BGH-Linie zu „Siemens/Neubürger" (BGH II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)) setzt voraus, dass Aufklärungsmaßnahmen tatsächlich effektiv sind – das verlangt auch sachgerecht geführte Interviews.
+Mitarbeiterinterviews bewegen sich zwischen arbeitsvertraglicher Auskunfts- und Rücksichtnahmepflicht, Persönlichkeitsrecht, Beschäftigtendatenschutz und möglicher Selbstbelastung. Eine private Befragung durch den Arbeitgeber ist keine Beschuldigtenvernehmung nach den Paragrafen 136 und 163a StPO; strafprozessuale Belehrungspflichten dürfen daher nicht ungeprüft „analog“ behauptet werden. Vor dem Interview sind Rolle, Freiwilligkeit oder konkrete arbeitsvertragliche Mitwirkungspflicht, persönlicher Rechtsbeistand, Vertraulichkeit, Protokollierung und mögliche Weitergabe an Behörden transparent zu klären.
 
 ## Ziel dieses Skills
 

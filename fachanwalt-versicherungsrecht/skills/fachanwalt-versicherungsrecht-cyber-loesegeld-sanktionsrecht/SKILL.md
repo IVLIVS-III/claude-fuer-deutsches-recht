@@ -257,7 +257,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand Versicherer | Reaktion |
 |---|---|
 | SDN-Match vorhanden | Screening-Bericht vorlegen; konkrete Wallet-Rückverfolgung durch SV; Versicherer muss Match beweisen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kein Backup = grobe Fahrlässigkeit | § 28 Abs. 3 VVG: Kausalität; Backup-Fehler muss kausal für konkrete Lösegeldhöhe sein |
 | Lösegeld = Vorsatz § 81 VVG | Keine Vorsatz-Herbeiführung des Angriffs durch VN; Zahlung als Notreaktion |
 | Kein Versicherungsfall — "vorsätzliche Tat Dritter" | Drittangriff ist Versicherungsfall; kein Vorsatz des VN |

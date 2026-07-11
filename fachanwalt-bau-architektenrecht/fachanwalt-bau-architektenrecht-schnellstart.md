@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13 | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bau- und Architektenrecht einführend: Bauvertrag Paragraf 650a BGB, Verbraucherbauvertrag Paragraf 650i BGB. | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Spezialfall Symptomtheorie BGH zur Mangelrüge: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht. | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19 | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bauträger-Eigenkapital-Überprüfung vor Vertragsabschluss | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauträger Fertigstellungsfrist und Verzug | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,19 +52,19 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 633: Sach- und Rechtsmängel des Werkes.
 - BGB Paragraf 634: Rechte des Bestellers bei Mängeln.
 - BGB Paragraf 640: Abnahme.
-- Paragrafen 631 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 650a ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 2 BGB iVm Paragraf 286 BGB: bei Verzug Schadensersatzanspruch: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB Inhaltskontrolle: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 640 Absatz 1 BGB: Abnahmepflicht und unwesentliche Mängel; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 640 Absatz 2 BGB: gesetzliche Abnahmefiktion; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 650g BGB: Zustandsfeststellung bei Bauverträgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 641 BGB: Fälligkeit der Vergütung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
 - BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
-- BGH 25.02.2016 VII ZR 49/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BGH, Urteil vom 22.12.2000 - VII ZR 310/99: Weicht eine Abschlagszahlungsvereinbarung zum Nachteil des Erwerbers von Paragraf 3 Absatz 2 MaBV ab, ist die gesamte Zahlungsvereinbarung nichtig.
+- BGH, Urteil vom 22.03.2007 - VII ZR 268/05: Bei einer nach Paragraf 3 und 12 MaBV in Verbindung mit Paragraf 134 BGB nichtigen Zahlungsvereinbarung kann der Erwerber verbotswidrig vor Fälligkeit.
+- BGH, Urteil vom 27.10.2011 - VII ZR 84/09: Auch bei einer nach Baufortschritt fälligen Rate kann der Erwerber wegen bereits aufgetretener Mängel einen angemessenen Betrag zurückbehalten.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13, Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage, Bau- und Architektenrecht einführend: Bauvertrag Paragraf 650a BGB, Verbraucherbauvertrag Paragraf 650i BGB., Spezialfall Symptomtheorie BGH zur Mangelrüge: Beschreibung Symptom.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen, Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage, Bau- und Architektenrecht einführend: Bauvertrag Paragraf 650a BGB, Verbraucherbauvertrag Paragraf 650i BGB., Spezialfall Symptomtheorie BGH zur Mangelrüge: Beschreibung Symptom.
 
 ## 8. Stop
 

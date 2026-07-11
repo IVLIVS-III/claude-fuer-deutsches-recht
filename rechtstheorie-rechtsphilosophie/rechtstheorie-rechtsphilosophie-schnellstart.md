@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 20 Abs. 3 GG — Gesetzesbindung und Rechtsbindung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 19 Abs. 4 GG — effektiver Rechtsschutz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 97 Abs. 1 GG — richterliche Unabhängigkeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 1 Abs. 1 GG — normative Grenze jeder Rechtsanwendung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 20 Abs. 3 GG — Gesetzesbindung und Rechtsbindung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 19 Abs. 4 GG — effektiver Rechtsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 97 Abs. 1 GG — richterliche Unabhängigkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

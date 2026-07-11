@@ -211,10 +211,8 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 
 | Einwand | Reaktion |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verbraucherschutz § 1031 Abs. 5 ZPO | Parteieigenschaft als Unternehmer prüfen und belegen; bei echtem Verbraucher Klausel unwirksam — staatliche Gerichte |
 | Schiedsvereinbarung durch Insolvenz erlöschen | § 116 InsO analog: Schiedsvereinbarung bleibt grds. bestehen; Insolvenzverwalter kann eintreten |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schiedsverfahren dauert zu lange — einstweiliger Rechtsschutz | §§ 1041, 1033 ZPO — staatliche Gerichte weiterhin für einstweiligen Rechtsschutz zuständig, sofern Schiedsvereinbarung nicht ausschließt |
 
 ## Streitwert und Kosten

@@ -28,7 +28,7 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 - Stein-Hardenbergsche Reformen ab 1807 (Oktoberedikt 06.10.1807) hoben die Gutsuntertaenigkeit auf — der bedeutendste Eingriff ins ALR.
 - Reichsdeputationshauptschluss 1803 und Wiener Kongress 1815 veraenderten die Adelsstruktur.
 - Art. 109 WRV (1919) und Art. 123 GG (1949) i.V.m. § 1 NamG haben Adelsvorrechte vollstaendig abgeschafft.
-- Adelspraedikate gelten ausschließlich als Namensbestandteil; siehe BVerfG-Rspr. zur Namensfuehrung (Az im Digitalisat verifizieren).
+- Adelsbezeichnungen gelten nach Artikel 109 Absatz 3 WRV nur als Teil des Namens und dürfen nicht mehr verliehen werden. Für einen heutigen Namensfall zusätzlich das aktuelle Namens- und Personenstandsrecht prüfen; kein historisches Standesrecht fortschreiben.
 
 ### Beruehmte Faelle / Personen
 - **Stein** und **Hardenberg** als Architekten der Reformen.

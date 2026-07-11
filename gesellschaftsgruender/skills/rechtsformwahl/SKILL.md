@@ -79,7 +79,6 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema: Rechtsformwahl
 
@@ -104,7 +103,6 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | 5 | Steuerpräferenz | Thesaurierung oder laufende Ausschüttung? | Thesaurierung → Kapitalgesellschaft (KSt 15 %; Gewerbe); Ausschüttung → Personengesellschaft oder Kapitalgesellschaft mit Ausschüttungsplanung |
 | 6 | Berufsrecht | Freier Beruf (Paragraf 1 Abs. 2 PartGG)? | Ja → PartG oder PartG mbB (obligatorisch für Berufsgesellschaft von Anwälten/Ärzten) |
 | 7 | Gemeinnützigkeit | Gemeinnütziger Zweck (Paragraf 52 ff. AO)? | Ja → gGmbH oder eingetragener Verein |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Holding-Planung | Gründer möchte Anteile über Holding halten? | Holding vor operativer GmbH gründen; nachträgliche Einbringung steuerlich komplex |
 | 10 | MoPeG / eGbR | GbR soll Immobilien erwerben oder im Grundbuch eingetragen werden? | Eintragung als eGbR im Gesellschaftsregister erforderlich (Paragraf 707b BGB) |
 | 11 | Umwandlungskosten | Bestehende Rechtsform soll gewechselt werden? | Umwandlung nach UmwG (Verschmelzung, Spaltung, Formwechsel); Steuereffekte nach UmwStG analysieren |
@@ -141,7 +139,6 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 |---|---|---|
 | UG ist die günstigere GmbH | UG hat keine Investoren-Sperrwirkung | UG ist für Startups mit Investorenplan ungeeignet; Umwandlung zur GmbH kostet Zeit und Notargebühren; sofort GmbH bei Investor-Roadmap |
 | GbR für Immobilien reicht | Vor MoPeG 2024 richtig | Seit 01.01.2024: GbR ohne Eintragung kann nicht im Grundbuch eingetragen werden (Paragraf 707b BGB); eGbR zwingend |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | SHA-Stimmbindung reicht für SV-Freiheit | Kostengünstiger als Satzungsänderung | SHA-Bindung ist SV-rechtlich irrelevant; Sperrminorität muss zwingend in Satzung stehen (BSG-Linie) |
 | Holding-GmbH nachträglich einfach einzufügen | Steuerlich problemlos | Nachträgliche Einbringung der Anteile in eine Holding-GmbH löst steuerpflichtige Veräußerung aus (Paragraf 17 EStG); Holding muss vor operativer GmbH bestehen |
 | eK ausreichend für kleine Dienstleister | Persönliche Haftung unbeschränkt | Bei Beratungsfehlern, Mietverträgen, Personalkosten: persönliche Haftung kann existenzbedrohend sein; UG mit 1.000 EUR oft sinnvoller |

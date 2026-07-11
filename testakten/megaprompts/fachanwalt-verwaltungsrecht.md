@@ -2,20 +2,58 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 80 Skills des Plugins `fachanwalt-verwaltungsrecht`.
+Diese Vollprüfung enthält top-10 von 81 Skills des Plugins `fachanwalt-verwaltungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-2. **mandat-triage-verwaltungsrecht** — Wenn es um Mandat Triage Verwaltungsrecht in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
-3. **fachanwalt-verwaltungsrecht-orientierung** — Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
-4. **orientierung-sonderfall-edge-case** — Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
-5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, R…
-6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg…
-7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel…
-8. **eilantrag-80-abs-5-vwgo** — Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verw…
-9. **verwr-planfeststellung-grossvorhaben-spezial** — Wenn es um Verwr Planfeststellung Grossvorhaben Spezial in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, B…
-10. **verpflichtungsklage-behoerden-gericht-und-registerweg** — Wenn es um Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verwaltungsrecht geht: erstellt den …
+1. **verwaltungsgerichtliche-versandmappe-endfertigen** — Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
+3. **mandat-triage-verwaltungsrecht** — Wenn es um Mandat Triage Verwaltungsrecht in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
+4. **fachanwalt-verwaltungsrecht-orientierung** — Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
+5. **orientierung-sonderfall-edge-case** — Wenn es um Orientierung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zustän…
+6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, R…
+7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg…
+8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verwaltungsrecht geht: klärt Rolle, Ziel…
+9. **eilantrag-80-abs-5-vwgo** — Wenn es um Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach Paragraf 80 Abs in Fachanwalt Verw…
+10. **rechtsbehelfsbelehrung-jahresfrist-vwgo** — Prüft Rechtsbehelfsbelehrung, Bekanntgabe und Frist im Verwaltungsprozess. Trennt Pflichtinhalt, unschädliche Zusätze, i…
+
+---
+
+## Skill: `verwaltungsgerichtliche-versandmappe-endfertigen`
+
+_Endfertigt Anfechtungs-, Verpflichtungs-, Feststellungs- und Leistungsklage sowie Anträge nach VwGO Paragraf 80 Absatz 5 oder Paragraf 123: liest Bescheid, Widerspruchsbescheid und Behördenakte zuerst, prüft Klageart, Antrag, Zuständigkeit, Zustellung und Eilgrund, ordnet Verwaltungsvorgänge und Beweise zu und liefert beA-fertige Einzel-PDFs samt Eingangsprüfung._
+
+# Verwaltungsgerichtliche Versandmappe endfertigen
+
+## 1. Prozessroute vor Produktion
+
+Lies Bescheid, Rechtsbehelfsbelehrung, Zustellnachweis, Widerspruch und Widerspruchsbescheid, Verwaltungsvorgang, Schriftsatzentwurf und gerichtliche Hinweise. Bestimme Klageart, Vorverfahren, Gericht, Frist und Eilrechtsschutz. Bei Parallelität von Hauptsache und Eilverfahren sind zwei Verfahren und grundsätzlich zwei Versandnachrichten zu behandeln.
+
+## 2. Antrags- und Aktenabgleich
+
+1. Verfügungssatz des Verwaltungsakts wörtlich erfassen.
+2. Aufhebungs-, Verpflichtungs-, Feststellungs- oder Leistungsbegehren dazu passend formulieren.
+3. Bei VwGO Paragraf 80 Absatz 5 Vollziehbarkeit, Anordnung oder Entfallen der aufschiebenden Wirkung und Interessenabwägung trennen.
+4. Bei VwGO Paragraf 123 Anordnungsanspruch, Anordnungsgrund und Vorwegnahme der Hauptsache gesondert belegen.
+5. Behördenakte mit Blatt- oder Seitenfundstellen zitieren; fehlende Vorgänge als Aktenlücke ausweisen.
+
+## 3. Anlagen und Namen
+
+Führe den vorhandenen Nummernkreis fort. Bescheid und Zustellnachweis, Widerspruch, Widerspruchsbescheid, Genehmigungsunterlagen, Pläne, Gutachten, Fotos und Behördenkorrespondenz bleiben getrennte PDFs, sofern sie eigenständige Beweisthemen tragen. Stemple jede Anlagenseite rechts oben.
+
+Nutze nach Gerichtshinweis, sonst das strenge ASCII-Unterstrich-Profil mit höchstens 60 Zeichen. Vermeide personenbezogene oder sicherheitsrelevante Details im Dateinamen.
+
+## 4. Formanker
+
+Für anwaltliche Einreichungen gelten VwGO Paragraf 55a und Paragraf 55d.
+
+- BVerwG, Beschluss vom 17. Januar 2023, 9 B 23.22: Formwidrig übermittelte Beschwerde und Begründung wahren die Frist nicht.
+- BVerwG, Beschluss vom 19. Dezember 2023, 8 B 26.23: Bei technischer Unmöglichkeit ist der zulässige Ersatzweg rechtzeitig zu nutzen.
+- BVerwG, Beschluss vom 16. Mai 2025, 5 B 8.25: Das Signaturprotokoll belegt keinen Eingang; maßgeblich ist die gerichtliche Eingangsbestätigung.
+
+## 5. Auslieferung
+
+Liefere Hauptdokument, Einzelanlagen, Bescheid- und Fristenkette, Aktenfundstellenmatrix, Versandmanifest, Freigabevermerk und Eingangscheck. Stoppe bei unklarem Verfügungssatz, falscher Klageart, fehlender Zustellung, Vermischung von Eil- und Hauptsache oder nicht geprüfter Eingangsbestätigung.
 
 ---
 
@@ -730,8 +768,6 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema § 80 Abs. 5 VwGO
 
@@ -745,14 +781,11 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 | 4 | Hauptsache anhängig | Widerspruch oder Klage parallel eingereicht? | Pflichtvoraussetzung |
 | 5 | Begründungsmangel § 80 Abs. 3 | Vollziehungsanordnung floskelhaft? Kein Einzelfallbezug? | Eigenständiger Aufhebungsgrund |
 | 6 | Begründetheits-Prüfung Erfolgsaussicht | Offensichtlich erfolglos / offen / offensichtlich erfolgreich | Hauptansatz der Entscheidung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Irreversibilität des Vollzugs | Schwere des Schadens; Nicht-Wiedergutzumachbarkeit | Je irreversibler, desto höher Aussetzungsinteresse |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Spezialfall Abgaben (Nr. 1) | Steuerbescheid; ernstliche Zweifel an Rechtmäßigkeit oder unbillige Härte | § 80 Abs. 4 Satz 3 VwGO |
 | 11 | Streitwert | Hälfte Hauptsache-Streitwert; § 52 GKG | Im Antrag angeben |
 | 12 | Entscheidungsform | Beschluss; ohne mündliche Verhandlung; Ausnahme Erörterung | Zeitplanung |
 | 13 | Beschwerde § 146 Abs. 4 VwGO | 2 Wochen ab Beschluss; Begründungsfrist 1 Monat; Auseinandersetzungspflicht | OVG-Beschwerde |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 15 | Vollstreckung nach Stattgabe | Behörde zur Aussetzung verpflichtet; Zwangsgeld § 172 VwGO möglich | Vollstreckungsweg vorbereiten |
 
 ## Beweislast
@@ -780,7 +813,6 @@ Der Eilantrag nach § 80 Abs. 5 VwGO ist das zentrale Instrument, um den Vollzug
 
 | Gegenargument der Behörde | Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hauptsache hat keine Erfolgsaussichten" | Substanziierte Rechtsauffassung mit Normen und Rspr.; Behörde muss Gegendarstellung liefern |
 | "Keine Existenzgefährdung" | Betriebswirtschaftliche Belege; BWA, Bilanzen; Liquiditätsplan; ggf. Steuerberater-Attest |
 | "Zu spät gestellt — Eilbedürftigkeit entfallen" | Konkrete Handlungsaufnahme der Behörde als Auslöser benennen; Zeitachse darstellen |
@@ -1040,119 +1072,58 @@ Stand 05/2026.
 
 ---
 
-## Skill: `verwr-planfeststellung-grossvorhaben-spezial`
+## Skill: `rechtsbehelfsbelehrung-jahresfrist-vwgo`
 
-_Wenn es um Verwr Planfeststellung Grossvorhaben Spezial in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Prüft Rechtsbehelfsbelehrung, Bekanntgabe und Frist im Verwaltungsprozess. Trennt Pflichtinhalt, unschädliche Zusätze, irreführende Formangaben, Monats- und Jahresfrist sowie Wiedereinsetzung und liefert Fristenberechnung, Zulässigkeitsvermerk und sofort einreichbaren Rechtsbehelf._
 
-# Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff
+# Rechtsbehelfsbelehrung und Jahresfrist prüfen
 
+## 1. Einsatzlage
 
-## Arbeitsweg
+Ein Verwaltungsakt oder eine gerichtliche Entscheidung enthält keine, eine unvollständige oder möglicherweise irreführende Rechtsbehelfsbelehrung. Der richtige Rechtsbehelf, sein Fristbeginn und die sichere Einreichungsform müssen sofort bestimmt werden.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Normenanker
 
-**Fokus:** Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff. VwVfG, öffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Prüfraster für Einwender.
+- Paragraf 58 VwGO: notwendiger Belehrungsinhalt und Jahresfrist bei fehlender oder unrichtiger Belehrung.
+- Paragrafen 57 und 60 VwGO sowie Paragrafen 222 ZPO, 187 bis 193 BGB: Fristlauf, Fristberechnung und Wiedereinsetzung.
+- Paragrafen 68, 70 und 74 VwGO: Vorverfahren, Widerspruchs- und Klagefrist.
+- Paragrafen 55a, 55d und 81 VwGO: elektronisches Dokument, Nutzungspflicht für professionelle Einreicher und Klageform.
+- Paragrafen 41 und 43 VwVfG sowie spezialgesetzliche Bekanntgaberegeln: Wirksamkeit und Ausgangspunkt des Fristlaufs.
 
-### VerwR: Planfeststellung
+## 3. Rechtsprechungsanker
 
-## Spezialwissen: VerwR: Planfeststellung
-- **Normen-/Quellenanker:** VwVfG, BGH, BVerfG.
+- BVerwG, Urteil vom 25. Januar 2021 - 9 C 8.19: Eine Belehrung musste im entschiedenen Altfall nicht zusätzlich auf die elektronische Übermittlung hinweisen; diese war keine eigenständige Form neben der Schriftform. Für heutige professionelle Einreicher sind die inzwischen geltenden Paragrafen 55a und 55d VwGO dennoch eigenständig zu beachten.
+- BVerwG, Urteil vom 29. August 2018 - 1 C 6.18: Paragraf 58 Absatz 1 VwGO verlangt keine Belehrung über sämtliche Formen der Einlegung. Im entschiedenen Asylfall machte eine fehlende oder fehlerhafte Übersetzung die deutschsprachige Belehrung nicht nach Paragraf 58 Absatz 2 VwGO unrichtig.
+- BVerwG, Urteil vom 30. April 2009 - 3 C 23.08: Die Rechtsfolge des Paragraf 58 VwGO knüpft objektiv an Fehlen oder Unrichtigkeit der Belehrung an; Kausalität für die Fristversäumnis ist grundsätzlich nicht erforderlich.
+- BVerwG, Urteil vom 27. August 2020 - 4 C 1.19 betrifft das gemeindliche Einvernehmen nach Paragraf 36 BauGB und ist kein Anker für Rechtsbehelfsfristen.
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+## 4. Prüfprogramm
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+1. Entscheidung, Bekanntgabeform, Zugangsdatum, Empfangsvertreter und vollständige Belehrung sichern. Frist vorsorglich nach der kürzesten vertretbaren Variante notieren.
+2. Statthaften Rechtsbehelf und vorgeschaltetes Vorverfahren bestimmen. Spezialgesetzliche Ausschlüsse oder verkürzte Fristen zuerst prüfen.
+3. Pflichtinhalt nach Paragraf 58 Absatz 1 VwGO kontrollieren: Rechtsbehelf, zuständige Stelle, Sitz und Frist.
+4. Zusätze gesondert würdigen. Ein überobligatorischer Hinweis macht die Belehrung nur unrichtig, wenn er objektiv geeignet ist, die Einlegung zu erschweren oder in die Irre zu führen.
+5. Monatsfrist, Jahresfrist und Wiedereinsetzung alternativ vollständig berechnen. Zustellung, Wochenenden, Feiertage und höhere Gewalt mit Belegen dokumentieren.
+6. Einreichungsweg prüfen. Für Rechtsanwälte und andere professionelle Einreicher gilt die elektronische Nutzungspflicht; Ersatzeinreichung verlangt unverzügliche Glaubhaftmachung der technischen Störung.
+7. Rechtsbehelf sofort fristwahrend einreichen und Begründung nachholen, soweit zulässig. Auf eine angenommene Jahresfrist nicht warten.
 
-## Prüfraster
+## 5. Arbeitsergebnis
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+Erstelle Bekanntgabe- und Fristenmatrix, Belehrungsvergleich, Zulässigkeitsvermerk, Wiedereinsetzungsreserve und einen sofort versandfähigen Widerspruch oder Klageentwurf. Unsichere Zugangsvarianten werden parallel gerechnet.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## 6. Belege und Aktenlücken
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `verpflichtungsklage-behoerden-gericht-und-registerweg`
-
-_Wenn es um Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg
-
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Verwaltungsentscheidung.
-- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Verwaltungsakts.
-- `§ 39 Abs. 1 VwVfG` — Begruendungspflicht.
-- `§ 40 VwVfG` — Ermessensausübung und Ermessensfehler.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist, soweit Widerspruchsverfahren vorgesehen.
-- `§ 74 Abs. 1 VwGO` — Klagefrist.
-- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz gegen Vollziehung.
-- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg.
-
-## Spezialwissen: Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg
-- **Normen-/Quellenanker:** VwGO, VwVfG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verpflichtungsklage** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- vollständiger Bescheid oder gerichtliche Entscheidung samt Umschlag
+- Zustellungsurkunde, Empfangsbekenntnis oder elektronischer Versandnachweis
+- Rechtsbehelfsbelehrung in sämtlichen Sprachfassungen
+- Fristenkalender und Aktenvermerk zum tatsächlichen Zugang
+- Prüfprotokoll und Screenshot bei technischer Störung
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

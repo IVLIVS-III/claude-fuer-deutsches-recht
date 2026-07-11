@@ -52,15 +52,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GWB Paragraf 134: Informations- und Wartepflicht vor Zuschlag.
 - GWB Paragraf 160: Nachprüfungsantrag und Rügeobliegenheit.
 - VgV Paragraf 57: Ausschluss von Angeboten.
-- Paragraf 97 Abs. 1 und 2 GWB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 160 Abs. 2 und 3 GWB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 97 Abs. 1 und 2 GWB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 160 Abs. 2 und 3 GWB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 11.01.2005 - C-26/03: Stadt Halle begrenzt vergabefreie Inhouse-Vergaben.
 - EuGH, Urteil vom 13.10.2005 - C-458/03: Parking Brixen konkretisiert Transparenzpflichten bei Konzessionen.
-- EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns): Begriff des öffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen öffentlichen Rechts. Quelle: curia.europa.eu (CELEX
-- EuGH 19.12.2018, C-216/17 (Coopservice): Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend. Quelle: curia.europa.eu
-- EuGH 28.10.2020, C-521/18 (Pegaso): Vergabe ohne wettbewerbliches Verfahren — De-facto-Vergabe ist nichtig nach Art. 2d RL 89/665 / Paragraf 135 GWB, wenn EU-weite Bekanntmachung pflichtwidrig
+- EuGH 11.06.2009, C-300/07 (Hans & Christophorus Oymanns): Begriff des öffentlichen Auftraggebers nach RL 2004/18; Krankenkassen als Einrichtungen öffentlichen Rechts.
+- EuGH 19.12.2018, C-216/17 (Coopservice): Ausschreibungspflicht Rahmenvereinbarungen; Volumenbegrenzungen zwingend. Quelle: curia.europa.eu.
+- EuGH 28.10.2020, C-521/18 (Pegaso): Vergabe ohne wettbewerbliches Verfahren — De-facto-Vergabe ist nichtig nach Art.
 
 ## 7. Antwortform
 

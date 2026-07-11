@@ -32,11 +32,11 @@ description: "Wenn es um AGB Risikoklassifizierung Ampel in AGB-Recht-Prüfer ge
 ### Klassische Rot-Klauseln (BGH-aktuell)
 - Schriftformklausel im Verbraucherkontext: BGH VIII ZR 91/19.
 - Aufrechnungs-/Zurueckbehaltungsverbot für unbestrittene Forderungen: BGH VIII ZR 67/17.
-- Einseitige Preisanpassung ohne Loesungsrecht: BGH VIII ZR 178/08, BGH VIII ZR 244/10.
+- Kostenfremde oder nur einseitig belastende Preisanpassung: BGH, Urteil vom 24.03.2010 - VIII ZR 178/08. Selbst eine klare Formel kann nach Paragraf 307 Absatz 1 Satz 1 BGB unangemessen sein, wenn sie Kostenrückgänge außerhalb des gewählten Index nicht abbildet und zusätzliche Gewinne ermöglicht.
 - Vorausverzichtsklauseln auf Schadensersatz: BGH VIII ZR 23/19.
 
 ### Aktuelle Diskussion
-- DSGVO-konforme Einwilligungsklauseln, Cookie-Banner: BGH I ZR 7/16 ("Planet49"); BGH I ZR 7/16 (Planet49).
+- Einwilligungsklauseln und Cookie-Auswahl: BGH, Urteil vom 28.05.2020 - I ZR 7/16, Planet49; vorausgewählte Ankreuzkästchen tragen keine wirksame Einwilligung.
 - AGB im Plattformhandel (Amazon, eBay) — BGH zur Marktstellung und § 307 BGB.
 - Update-Klauseln (§ 327f BGB) seit 2022 — BGH-Folgejudikate im Aufbau.
 

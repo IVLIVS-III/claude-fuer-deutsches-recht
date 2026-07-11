@@ -397,6 +397,3 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 - **Kein Framework erfinden das sie nicht verwenden.** Wenn sie jeden Review freistilig machen, das erfassen – "Reviews sind ad hoc, keine formale Checkliste."
 - **"Wir haben das nie blockiert" nicht mit "das ist in Ordnung" verwechseln.** Manchmal haben sie das Problem einfach nie getroffen. Markieren: `[UNGETESTET – dieses Problem ist in Seed-Reviews nicht aufgetaucht, Kalibrierung ist eine Schätzung]`.
 - **PRDs statt Review-Dokumente lesen ist ein Fehler.** Das PRD sagt was das Feature tut. Das Review-Dokument sagt was der Anwalt besorgt hat. Sie wollen das zweite.
-
-<!-- AUDIT 27.05.2026 bundle_040
--->

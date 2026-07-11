@@ -317,7 +317,3 @@ EU-Datenbankregistrierung (Art. 71): abgeschlossen / ausstehend
 Anwendbarkeitsdatum: [02.08.2026 / 02.08.2027]
 Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
 ```
-
-<!-- AUDIT 27.05.2026
-Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
--->

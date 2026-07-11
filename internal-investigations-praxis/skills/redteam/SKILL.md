@@ -7,7 +7,7 @@ description: "Wenn es um Red-Team-Analyse in Internal Investigations in Internal
 
 ## Rechtlicher Rahmen
 
-Die Red-Team-Analyse ist keine gesetzlich normierte Pflicht, aber ein zentrales Instrument zur Qualitätssicherung von Untersuchungsergebnissen. Sie ist notwendig, weil der Auftraggeber einer internen Untersuchung häufig ein Interesse am Ergebnis hat, und weil Gerichte, Staatsanwaltschaften und US-Behörden jeden logischen Fehler, jede Beweislücke und jede Interessenkollision gnadenlos ausnutzen werden. Das Siemens/Neubürger-Urteil des BGH (II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)) verlangt eine effektive Aufklärung – eine Red-Team-Analyse ist Ausdruck dieser Pflicht.
+Die Red-Team-Analyse ist keine gesetzlich normierte Pflicht, sondern ein Instrument zur Qualitätssicherung. Sie prüft Untersuchungshypothese, Gegenhypothese, Beweiswert, Verwertbarkeit, Interessenkonflikte und offene Ermittlungsansätze, ohne aus einer unternehmerischen Zweckmäßigkeit eine angebliche höchstrichterliche Einzelpflicht abzuleiten.
 
 ## Ziel dieses Skills
 
@@ -63,7 +63,6 @@ Dieser Skill nimmt die gegnerische Perspektive ein: Welche Gegenargumente gibt e
 | § 266 StGB | Untreue | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stgb/__266.html) |
 | § 26 BDSG | Beschäftigtendatenschutz | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bdsg_2018/__26.html) |
 | § 87 BetrVG | Mitbestimmung Überwachung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/betrvg/__87.html) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 

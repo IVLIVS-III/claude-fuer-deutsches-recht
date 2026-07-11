@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+Wenn du das hier öffnest, willst du eine deutsche oder unionsweite Marke anmelden, gegen eine Kollision vorgehen oder eine Verletzung belastbar angreifen oder abwehren.
 
 # Markenrecht Fashion Luxus — Schnellstart
 
@@ -17,48 +17,43 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
-2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
-4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
-5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Markenrechtliche Abmahnung und Unterlassungserklärung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Zeichen und Schutzweg: Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen.
+2. Eintragungsfähigkeit: Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen.
+3. Kollision: Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen.
+4. Benutzung: Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen.
+5. Verfahren und Produkt: Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen.
+6. Markenrechtliche Abmahnung und Unterlassungserklärung: Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
-| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
-| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Normenanker | MarkenG Paragraf 4; MarkenG Paragraf 8 und Paragraf 9; MarkenG Paragraf 14 |
+| Rechtsprechung | EuGH, Urteil vom 11.11.1997 - C-251/95; EuGH, Urteil vom 29.09.1998 - C-39/97 |
+| Tatbestand | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden |
+| Beweislast | Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall |
+| Rechtsfolge | Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Markenrechtliche Abmahnung und Unterlassungserklärung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB im Händlervertrag für Luxus-Selektivvertrieb | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-System-Marken und Authentizitätskennzeichen | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtserhaltende Benutzung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweissicherung, Testkauf und Screenshot | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Markenrechtliche Abmahnung und Unterlassungserklärung | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| AGB im Händlervertrag für Luxus-Selektivvertrieb | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anti-System-Marken und Authentizitätskennzeichen | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtserhaltende Benutzung | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweissicherung, Testkauf und Screenshot | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschützte Werke.
-- UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
-- UrhG Paragraf 51: Zitatrecht.
-- Paragraf 14 V MarkenG: Unterlassungsanspruch bei Markenverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 14 VI MarkenG: Schadensersatz bei schuldhafter Verletzung (dreifache Berechnungsmethode: entgangener Gewinn, Verletzergewinn, Lizenzanalogie): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 19 MarkenG: Auskunftsanspruch als Vorstufe zum Schadensersatz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97a UrhG (analog): Abmahnungserfordernis als Obliegenheit vor Klage (auch im Markenrecht üblicher Usus): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- EuGH, Urteil vom 22.12.2022 - C-148/21 und C-184/21; MarkenG Paragrafen 14 ff
+- MarkenG Paragraf 4: Entstehung des Markenschutzes durch Eintragung, Benutzung oder notorische Bekanntheit.
+- MarkenG Paragraf 8 und Paragraf 9: absolute und relative Schutzhindernisse strikt trennen.
+- MarkenG Paragraf 14: Ausschließlichkeitsrecht und Verletzungstatbestände.
+- MarkenG Paragraf 42 und Paragraf 43: Widerspruch, Benutzungsschonfrist und Benutzungsnachweis.
+- EuGH, Urteil vom 11.11.1997 - C-251/95: SABEL verlangt eine umfassende Beurteilung der Verwechslungsgefahr; bloße Assoziation genügt nicht.
+- EuGH, Urteil vom 29.09.1998 - C-39/97: Canon verbindet Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und Kennzeichnungskraft im Wechselwirkungsgrundsatz.
 
 ## 7. Antwortform
 

@@ -39,12 +39,6 @@ description: "Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ---
 
@@ -57,12 +51,9 @@ description: "Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft
 | 3 | Ordnungsgemäße Einberufung des Spruchorgans (Frist, Tagesordnung)? | Satzung |
 | 4 | Anhörung: Hat der Betroffene schriftliche Ankündigung mit angemessener Frist erhalten? | Art. 103 Abs. 1 GG analog |
 | 5 | Akteneinsicht: War Einsicht in alle Beweisunterlagen möglich? | Verfahrensgrundsätze |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Tatbestandserfüllung: Ist der vorgeworfene Sachverhalt tatsächlich eine Verletzung der Satzungsnorm? | Materielle Prüfung |
 | 8 | Verschulden: Ist Vorsatz oder Fahrlässigkeit nachgewiesen? | Satzung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 11 | Vorrangige verbandsinterne Instanzen ausschöpfen? | Satzung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 13 | Vorläufiger Rechtsschutz erforderlich (§ 935 ZPO, § 1033 ZPO)? | §§ 935, 1033 ZPO |
 | 14 | Art. 12 GG-Verstoß (Berufsfreiheit) bei Profisportler prüfen? | Art. 12 GG |
 
@@ -230,7 +221,6 @@ Mit freundlichen Grüßen
 | Verhältnismäßigkeit (Vergleichsfälle) | Mandant | Verbandsrechtsprechung; Präzedenzfälle |
 | Fehlender Tatbestand (Videobeweis) | Mandant | Videos, Zeugenaussagen |
 | AGB-Unwirksamkeit Satzungsklausel | Mandant | Analyse nach §§ 307 ff. BGB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -250,10 +240,8 @@ Mit freundlichen Grüßen
 
 | Verband-Argument | Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Verbandsweg nicht erschöpft" | Ggf. Dringlichkeit: § 1033 ZPO-Antrag schon vor Erschöpfung |
 | "Schiedsklausel wirksam, staatliche Gerichte ausgeschlossen" | § 1033 ZPO: einstweilige Verfügung trotzdem möglich |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Tatbestand liegt vor" | Video-Beweis; Zeugenbeweis; eigene Auswertung Schiedsrichterprotokoll |
 
 ---

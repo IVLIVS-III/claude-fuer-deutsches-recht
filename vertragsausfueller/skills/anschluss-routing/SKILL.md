@@ -41,18 +41,7 @@ Dieses Anschluss-Routing für **Vertragsausfueller** wählt nach dem ersten Erge
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 9 UStG
-- § 2 NachwG
-- § 3a RVG
-- § 29 VwVfG
-
-### Leitentscheidungen
-
-- BGH VI ZR 394/12
-- BGH I ZR 169/12
-- BGH VII ZR 213/07
-- BGH VII ZR 37/17
+Vertragsart, Parteien, Form, Einbeziehung und Änderungsmechanismus vor jeder Ergänzung bestimmen. Paragraf 133 und 157 BGB für Auslegung, Paragraf 145 folgende BGB für den Vertragsschluss und Paragraf 305 folgende BGB für vorformulierte Bedingungen nur fallbezogen anwenden. Rechtsprechung darf erst nach Zuordnung zur konkreten Klausel und Verifizierung der tragenden Aussage ergänzt werden.

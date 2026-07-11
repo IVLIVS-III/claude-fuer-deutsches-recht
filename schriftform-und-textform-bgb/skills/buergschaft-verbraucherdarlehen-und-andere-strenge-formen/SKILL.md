@@ -168,8 +168,3 @@ den vorbereiteten Urkundentext zu.
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
 
 ---
-
-<!-- AUDIT 27.05.2026
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Befund: GELOESCHT. Skill hatte falsches Datum (07.03.2013; korrekt: 16.05.2013) und falsches Thema (Kaufmannseigenschaft des Buergen / Paragraf 350 HGB). Echtes Thema: Zwangsverwaltung (ZVG); Nutzungsentschaedigungsanspruch; Wohnschutz des Schuldners (Paragraf 149 ZVG); kein Bezug zu Buergschaft oder HGB. Quelle: dejure.org/2013,18267. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
--->

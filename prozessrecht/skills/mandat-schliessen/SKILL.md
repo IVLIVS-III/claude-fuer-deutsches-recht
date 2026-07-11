@@ -118,7 +118,3 @@ _log.yaml-Status: archiv
 - **Rechtsmittelfrist läuft noch:** Vor dem Schließen prüfen, ob Berufungs- (Paragraf 517 ZPO: 1 Monat) oder Revisionsfrist (Paragraf 548 ZPO: 1 Monat) noch offen ist; Mandat erst nach Eintritt der Rechtskraft schließen oder Mandanten ausdrücklich auf Verzicht hinweisen.
 - **Vollstreckungsverjährung:** Vollstreckungstitel verjähren nach Paragraf 197 Abs. 1 Nr. 3 BGB in 30 Jahren; Abschluss nicht ohne Dokumentation der Vollstreckungsmaßnahmen.
 - **Erledigungsfalle bei Zahlung nach Klageeinreichung:** Nicht automatisch erledigen oder zurücknehmen. Zuerst prüfen, ob die Kosten des Klageverfahrens wegen Verzugs nach Paragrafen 280, 286 BGB als materieller Schaden feststellbar sind.
-
-<!-- AUDIT 27.05.2026
-Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
--->

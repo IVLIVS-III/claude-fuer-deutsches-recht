@@ -7,6 +7,8 @@ Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweili
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+Direktnavigation: [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-verwaltungsgericht.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
+
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
 ## Downloads
@@ -16,9 +18,19 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-verwaltungsgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md" download><code>richter-verwaltungsgericht-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md" download><code>richter-verwaltungsgericht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`richter-verwaltungsgericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht-testakte.zip), [`richter-verwaltungsgericht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht-testakte-einzelpdfs.zip) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-verwaltungsgericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht-testakte.zip) | [`richter-verwaltungsgericht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht-testakte-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
@@ -109,9 +121,9 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 2. Unterlagen, Sachverhalt und Quellen | `02-amtsermittlung-und-sachverhaltsfeststellung`, `07-beweisaufnahme-verwaltungsgericht` |
-| 5. Verfahren, Behörde und Gericht | `01-zulaessigkeit-verwaltungsklage`, `03-begruendetheit-anfechtungsklage`, `04-begruendetheit-verpflichtungsklage`, `08-urteilsentwurf-paragraf-117-vwgo`, `10-entscheidungsvorschlag-verwaltungsgericht`, `v392-praxisraster-richter-verwaltungsgericht` |
-| 8. Spezialmodule und Schnittstellen | `05-eilrechtsschutz-paragraf-80-abs-5`, `06-eilrechtsschutz-paragraf-123`, `09-rechtsmittel-vwgo`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+| 2. Unterlagen, Sachverhalt und Quellen | [`02-amtsermittlung-und-sachverhaltsfeststellung`](skills/02-amtsermittlung-und-sachverhaltsfeststellung/SKILL.md), [`07-beweisaufnahme-verwaltungsgericht`](skills/07-beweisaufnahme-verwaltungsgericht/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`01-zulaessigkeit-verwaltungsklage`](skills/01-zulaessigkeit-verwaltungsklage/SKILL.md), [`03-begruendetheit-anfechtungsklage`](skills/03-begruendetheit-anfechtungsklage/SKILL.md), [`04-begruendetheit-verpflichtungsklage`](skills/04-begruendetheit-verpflichtungsklage/SKILL.md), [`08-urteilsentwurf-paragraf-117-vwgo`](skills/08-urteilsentwurf-paragraf-117-vwgo/SKILL.md), [`10-entscheidungsvorschlag-verwaltungsgericht`](skills/10-entscheidungsvorschlag-verwaltungsgericht/SKILL.md), [`v392-praxisraster-richter-verwaltungsgericht`](skills/v392-praxisraster-richter-verwaltungsgericht/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`05-eilrechtsschutz-paragraf-80-abs-5`](skills/05-eilrechtsschutz-paragraf-80-abs-5/SKILL.md), [`06-eilrechtsschutz-paragraf-123`](skills/06-eilrechtsschutz-paragraf-123/SKILL.md), [`09-rechtsmittel-vwgo`](skills/09-rechtsmittel-vwgo/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
@@ -119,22 +131,22 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-zulaessigkeit-verwaltungsklage` | Wenn es um 01 Zulässigkeit Verwaltungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `02-amtsermittlung-und-sachverhaltsfeststellung` | Wenn es um 02 Amtsermittlung und Sachverhaltsfeststellung in Verwaltungsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `03-begruendetheit-anfechtungsklage` | Wenn es um 03 Begründetheit Anfechtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `04-begruendetheit-verpflichtungsklage` | Wenn es um 04 Begründetheit Verpflichtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `05-eilrechtsschutz-paragraf-80-abs-5` | Wenn es um 05 Eilrechtsschutz Paragraf 80 Abs 5 in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `06-eilrechtsschutz-paragraf-123` | Wenn es um 06 Eilrechtsschutz Paragraf 123 in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `07-beweisaufnahme-verwaltungsgericht` | Wenn es um 07 Beweisaufnahme Verwaltungsgericht in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `08-urteilsentwurf-paragraf-117-vwgo` | Wenn es um 08 Urteilsentwurf Paragraf 117 Vwgo in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
-| `09-rechtsmittel-vwgo` | Wenn es um 09 Rechtsmittel Vwgo in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `10-entscheidungsvorschlag-verwaltungsgericht` | Wenn es um 10 Entscheidungsvorschlag Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
-| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Verwaltungsgericht) in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkei... |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `v392-praxisraster-richter-verwaltungsgericht` | Wenn es um Praxisraster Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`01-zulaessigkeit-verwaltungsklage`](skills/01-zulaessigkeit-verwaltungsklage/SKILL.md) | Wenn es um 01 Zulässigkeit Verwaltungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`02-amtsermittlung-und-sachverhaltsfeststellung`](skills/02-amtsermittlung-und-sachverhaltsfeststellung/SKILL.md) | Wenn es um 02 Amtsermittlung und Sachverhaltsfeststellung in Verwaltungsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| [`03-begruendetheit-anfechtungsklage`](skills/03-begruendetheit-anfechtungsklage/SKILL.md) | Wenn es um 03 Begründetheit Anfechtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| [`04-begruendetheit-verpflichtungsklage`](skills/04-begruendetheit-verpflichtungsklage/SKILL.md) | Wenn es um 04 Begründetheit Verpflichtungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| [`05-eilrechtsschutz-paragraf-80-abs-5`](skills/05-eilrechtsschutz-paragraf-80-abs-5/SKILL.md) | Wenn es um 05 Eilrechtsschutz Paragraf 80 Abs 5 in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`06-eilrechtsschutz-paragraf-123`](skills/06-eilrechtsschutz-paragraf-123/SKILL.md) | Wenn es um 06 Eilrechtsschutz Paragraf 123 in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`07-beweisaufnahme-verwaltungsgericht`](skills/07-beweisaufnahme-verwaltungsgericht/SKILL.md) | Wenn es um 07 Beweisaufnahme Verwaltungsgericht in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`08-urteilsentwurf-paragraf-117-vwgo`](skills/08-urteilsentwurf-paragraf-117-vwgo/SKILL.md) | Wenn es um 08 Urteilsentwurf Paragraf 117 Vwgo in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
+| [`09-rechtsmittel-vwgo`](skills/09-rechtsmittel-vwgo/SKILL.md) | Wenn es um 09 Rechtsmittel Vwgo in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`10-entscheidungsvorschlag-verwaltungsgericht`](skills/10-entscheidungsvorschlag-verwaltungsgericht/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
+| [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Verwaltungsgericht) in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkei... |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`v392-praxisraster-richter-verwaltungsgericht`](skills/v392-praxisraster-richter-verwaltungsgericht/SKILL.md) | Wenn es um Praxisraster Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

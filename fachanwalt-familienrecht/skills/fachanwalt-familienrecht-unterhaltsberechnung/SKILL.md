@@ -37,9 +37,9 @@ Dieser Skill führt eine Unterhaltsakte von der Beleglage zur rechnerischen Ansp
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 15.02.2017, XII ZB 201/16: Unterhaltsbemessung verlangt nachvollziehbare Einkommensfeststellung und Bereinigung.
-- BGH, Beschluss vom 16.09.2020, XII ZB 499/19: Fiktives Einkommen setzt tragfähige Feststellungen zur Erwerbsobliegenheit und realen Erwerbschance voraus.
-- BGH, Urteil vom 20.12.2023, XII ZR 181/22: Trennungsunterhalt und nachehelicher Unterhalt dürfen nicht schematisch berechnet werden; Bedarf, Leistungsfähigkeit und eheliche Prägung bleiben getrennt zu prüfen.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Die Erklärung unbegrenzter Leistungsfähigkeit beseitigt den Auskunftsanspruch des Kindes nicht; eine begrenzte Fortschreibung der Düsseldorfer Tabelle kann zulässig sein.
+- BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Fiktives Einkommen setzt unzureichende Erwerbsbemühungen und eine reale, zumutbare Beschäftigungschance voraus; nur realistisch erzielbares Einkommen darf zugerechnet werden.
+- BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Beim Ehegattenunterhalt trägt die Quotenmethode bei hohem Einkommen nur innerhalb der anerkannten Verbrauchsvermutung; darüber hinaus ist die konkrete Verwendung für den Lebensbedarf darzulegen und im Bestreitensfall zu beweisen.
 
 ## Arbeitsprodukt
 

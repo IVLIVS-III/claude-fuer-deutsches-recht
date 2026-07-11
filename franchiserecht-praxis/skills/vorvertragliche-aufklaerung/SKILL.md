@@ -32,12 +32,13 @@ Ein Franchisenehmer wirft dem Franchisegeber vor, vor Vertragsschluss falsche od
 - § 280 Abs. 1 BGB: Schadensersatz wegen Pflichtverletzung
 - § 123 BGB: Anfechtung wegen arglistiger Täuschung
 - § 242 BGB: Treu und Glauben, Offenbarungspflicht bei erheblichen Risiken
-- BGH NJW 2003 S. 743: Leitentscheidung zur vorvertraglichen Aufklärung im Franchiserecht
-- Code of Ethics des Deutschen Franchiseverbands (DFV), Art. 1 und 2: 14-tägige Bedenkfrist und vollständiges Disclosure
+- BGH, Urteil vom 13.12.2005 - KZR 12/04: Bei einer Standort- oder Wirtschaftlichkeitsberechnung sind selbständiger Beratungsvertrag, persönliche Dritthaftung und Garantieübernahme nach den konkreten Umständen getrennt zu prüfen.
+- BGH, Urteil vom 19.07.2011 - VI ZR 367/09: Im Franchise-Sachverhalt mit behaupteten falschen Businessplan-Daten präzisiert der BGH Beweislast und Vermögensschaden beim deliktischen Eingehungsbetrug; daraus folgt weder eine pauschale Aufklärungspflicht noch eine Erfolgsgarantie.
+- Verbandskodizes nur in aktueller Fassung und ausdrücklich als unverbindliche Branchenquelle verwenden.
 
 ## Prüfraster
 
-- Lag ein schriftliches Disclosure-Dokument vor und wurde es mindestens 14 Tage vor Vertragsschluss übergeben?
+- Lag ein schriftliches Disclosure-Dokument rechtzeitig vor, sodass der Empfänger es tatsächlich prüfen und Rückfragen stellen konnte? Eine feste gesetzliche 14-Tage-Frist besteht nicht.
 - Enthielt die Rentabilitätsprognose eine nachvollziehbare Datenbasis oder waren Zahlen spekulativ?
 - Wusste der Franchisegeber von Systemschwächen (hohe Fluktuation, negative Pilotbetriebsdaten) und hat er diese verschwiegen?
 - Ist die Aufklärungspflichtverletzung kausal für den Vertragsschluss und den eingetretenen Schaden?
@@ -51,7 +52,7 @@ Ein Franchisenehmer wirft dem Franchisegeber vor, vor Vertragsschluss falsche od
 - Rentabilitätszahlen aus dem Disclosure-Dokument werden später als unverbindliche Hochrechnungen bezeichnet; das schützt nur bei ausdrücklicher und deutlicher Kennzeichnung.
 - Der Franchisegeber beruft sich auf den unternehmerischen Risikobereich des Franchisenehmers; das greift nicht, wenn er Informationsvorsprung hatte.
 - Verjährung wird übersehen, weil der Schaden erst nach Jahren evident wird; auf § 199 Abs. 3 BGB achten.
-- Anfechtungserklärung muss unverzüglich nach Kenntnis der Täuschung erfolgen (§ 121 BGB).
+- Bei arglistiger Täuschung gilt die Jahresfrist des Paragrafen 124 BGB; die Unverzüglichkeitsregel des Paragrafen 121 BGB gehört zur Irrtumsanfechtung und darf hier nicht angewandt werden.
 
 ## Quellen
 
@@ -64,20 +65,18 @@ Ein Franchisenehmer wirft dem Franchisegeber vor, vor Vertragsschluss falsche od
 
 ## Vertiefung
 
-Die BGH-Entscheidung NJW 2003 S. 743 ist die zentrale Leitentscheidung zur vorvertraglichen Aufklärung im Franchiserecht. Der BGH hat festgestellt, dass der Franchisegeber alle ihm bekannten Umstände mitteilen muss, die für die Entscheidung des Franchisenehmers zum Vertragsschluss wesentlich sind. Dazu gehören insbesondere Daten über die wirtschaftliche Lage des Systems, negative Vergangenheitserfahrungen und erkennbare Marktrisiken.
+Die Rechtsprechung verlangt keine schematische Vollinformation über jedes unternehmerische Risiko. Zu prüfen ist vielmehr, ob eine konkrete Tatsachenangabe unrichtig war oder ein Umstand verschwiegen wurde, dessen Mitteilung wegen erkennbarer Bedeutung und Informationsasymmetrie erwartet werden durfte. KZR 12/04 betrifft besonders die Haftung für Wirtschaftlichkeitsberechnungen und die Abgrenzung eines zusätzlichen Beratungsvertrags; VI ZR 367/09 betrifft demgegenüber den deliktischen Eingehungsbetrug und dessen Beweis- und Schadensfragen.
 
 Die Rentabilitätsprognose muss auf einer nachvollziehbaren Datenbasis beruhen. Hochrechnungen ohne empirischen Beleg oder auf der Grundlage eines einzigen Pilotstandorts sind unzureichend. Das Risiko unrichtiger Prognosen liegt beim Franchisegeber, wenn er überlegenes Wissen hat.
 
 ## Praxishinweise
 
 - Rentabilitätsprognose nie ohne Quellenbeleg des Franchisegebers akzeptieren.
-- Übergabedatum des Disclosure-Dokuments schriftlich dokumentieren (Beginn der 14-Tage-Frist).
+- Übergabedatum und konkrete Prüfungszeit des Disclosure-Dokuments dokumentieren; eine etwaige Frist aus einem Verbandskodex nicht als Gesetz darstellen.
 - Schadensberechnung frühzeitig strukturieren: Was hätte der Franchisenehmer ohne den Vertragsschluss verdient?
 - Anfechtungsfrist § 124 BGB überwachen; 1 Jahr ab Kenntnis der Täuschung.
 - Bei Fahrlässigkeit des Franchisegebers § 280 Abs. 1 BGB; bei Vorsatz § 123 BGB-Anfechtung möglich.
 
 ## Abgrenzung und Einordnung
 
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
-## Abgrenzung und Einordnung
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

@@ -73,18 +73,7 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 31 VVG
-- § 16 GeschGehG
-- § 174 GVG
-- Art. 32 DSGVO
-- § 29 VwVfG
-- § 203 StGB
-- § 184 GVG
-
-### Leitentscheidungen
-
-- BGH X ZR 39/16
+Für Anlagen sind Vollständigkeit, Bezug im Schriftsatz, Beweiszweck, Lesbarkeit, zulässiges Dateiformat und sicherer Eingang maßgeblich. Paragraf 130a und 130d ZPO sowie die ERVV und die jeweils aktuelle ERVB nur für den elektronischen Versand anwenden; fachrechtliche Beweisregeln aus dem Ausgangsverfahren getrennt erfassen. Rechtsprechung nur ergänzen, wenn sie genau die konkrete Einreichungs- oder Beweisfrage trägt.

@@ -20,14 +20,13 @@ Prüfe Geschäftsführerhaftung nur anhand eines konkreten Vorwurfs: Entscheidun
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Fachkern: Geschäftsführer-Haftung Paragraf 43 GmbHG prüfen
 - **Normen-/Quellenanker:** Paragraf 43 GmbHG, Paragraf 93 AktG als Vergleichsmaßstab, Paragraf 15a und 15b InsO, Paragraf 69 AO, Paragraf 266a StGB, D&O-Bedingungen.
-- **Leitentscheidung:** BGH, 21.04.1997 - II ZR 175/95 für Informationsgrundlage und Pflicht zur Anspruchsverfolgung.
+- **Leitentscheidung:** BGH, Beschluss vom 14.07.2008 - II ZR 202/07 zur sorgfältigen Ermittlung tatsächlicher und rechtlicher Entscheidungsgrundlagen beim GmbH-Geschäftsführer. BGH, Urteil vom 21.04.1997 - II ZR 175/95 betrifft demgegenüber die Entscheidung des AG-Aufsichtsrats über die Verfolgung von Ersatzansprüchen gegen Vorstandsmitglieder und ist kein allgemeiner Geschäftsführerhaftungsanker.
 - **Entscheidende Weiche:** Unternehmerische Entscheidung, Legalitätsverstoß, Krise, Zahlungsphase, Entlastung, Verjährung und Versicherung getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine Haftungsmatrix mit Vorwurf, Pflicht, Beleg, Schaden, Einwand, Beweislast, Frist und nächstem Schritt.
 
@@ -45,11 +44,11 @@ Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
 
 ## Zentrale Normen
 
-Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Abs. 4 GmbHG (Verjährung 5 Jahre) — Paragraf 93 AktG (Sorgfaltsmaßstab AG-Vorstand; analog für GmbH-GF) — Paragraf 46 Nr. 5 GmbHG (Entlastung durch GV) — Paragraf 15a InsO (Insolvenzantragspflicht; 3-Wochen-Frist) — Paragraf 15b InsO (Zahlungsverbot nach Insolvenzreife) — Paragraf 69 AO (Haftung für Steuerschulden) — Paragraf 266a StGB (Vorenthalten von Sozialversicherungsbeiträgen) — Paragraf 266 StGB (Untreue) — Paragraf 34 AO (steuerliche Pflichten des gesetzlichen Vertreters)
+Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbHG (fünfjährige Verjährung) — Paragraf 93 Absatz 1 Satz 2 AktG als Vergleich für unternehmerische Entscheidungen — Paragraf 46 Nummer 5 GmbHG (Bestellung, Abberufung und Entlastung) — Paragraf 46 Nummer 8 GmbHG (Geltendmachung gesellschaftseigener Ersatzansprüche und Prozessvertretung) — Paragraf 15a InsO (unverzüglicher Antrag; Höchstfrist drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung) — Paragraf 15b InsO (Zahlungen nach Insolvenzreife) — Paragraf 69 und 34 AO — Paragraf 266a und 266 StGB.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- BGH, Beschluss vom 14.07.2008 - II ZR 202/07: Die Haftungsprivilegierung setzt voraus, dass alle verfügbaren Informationsquellen tatsächlicher und rechtlicher Art ausgeschöpft, Handlungsoptionen abgewogen und erkennbare Risiken berücksichtigt wurden.
 
 ## Prüfschema: GF-Haftung Paragraf 43 GmbHG
 
@@ -60,7 +59,7 @@ Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Abs. 4 GmbHG 
 | 3 | Pflichtverletzung | Konkrete Handlung oder Unterlassung, die Sorgfaltsmaßstab verletzt | Pflichtverletzung festgestellt |
 | 4 | Schaden | Konkrete Schadensbezifferung; Kausalität Pflichtverletzung → Schaden | Schaden quantifiziert |
 | 5 | Verschulden | Vorsatz oder Fahrlässigkeit; Beweislast beim GF (Paragraf 93 AktG analog) | Verschulden nachgewiesen/ausgeschlossen |
-| 6 | Insolvenzantragspflicht | Paragraf 15a InsO: Zahlungsunfähigkeit/Überschuldung festgestellt? 3-Wochen-Frist eingehalten? | Verletzung strafbar; Zivilhaftung Paragraf 823 Abs. 2 BGB iVm Paragraf 15a InsO |
+| 6 | Insolvenzantragspflicht | Paragraf 15a InsO: objektiven Eintritt von Zahlungsunfähigkeit oder Überschuldung bestimmen; unverzügliche Antragstellung sowie Drei-/Sechswochen-Höchstfrist getrennt prüfen | Straf- und zivilrechtliche Folgen nach Tatbestand, Verschulden, Schaden und Zurechnung getrennt prüfen |
 | 7 | Zahlungsverbot Paragraf 15b InsO | Zahlungen nach Insolvenzreife? Privileg für bestimmte Zahlungen? | Erstattungspflicht gegenüber Gesellschaft |
 | 8 | Steuerrecht Paragraf 69 AO | Steuern vorsätzlich oder grob fahrlässig nicht abgeführt? | Persönliche Haftung des GF |
 | 9 | Sozialversicherung Paragraf 266a StGB | Arbeitnehmeranteile nicht abgeführt? | Strafbarkeit + Zivilhaftung |
@@ -72,7 +71,7 @@ Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Abs. 4 GmbHG 
 
 1. **Sachverhalt chronologisch aufbereiten:** Zeitleiste der Ereignisse (Pflichtverletzung, Schaden, Entlastungsbeschluss, D&O-Anzeige).
 2. **Mandantenrolle festlegen:** GF-Verteidigung oder Aktivseite Gesellschaft/Insolvenzverwalter.
-3. **BJR prüfen:** Voraussetzungen nach ARAG/Garmenbeck systematisch durchgehen.
+3. **Unternehmerisches Ermessen prüfen:** Voraussetzungen nach Paragraf 43 GmbHG und der Linie des BGH in II ZR 202/07 systematisch durchgehen.
 4. **Pflichtverletzung herausarbeiten:** Konkrete Handlung oder Unterlassung benennen, Sorgfaltsmaßstab anlegen.
 5. **Schaden beziffern:** Konkreter Schaden vs. hypothetisch rechtmäßiges Alternativverhalten.
 6. **Insolvenzrisiko screenen:** Paragraf 15a InsO-Zeitpunkt bestimmen; Zahlungen nach Insolvenzreife inventarisieren.

@@ -231,5 +231,3 @@ TRIAGE-PROTOKOLL IT-RECHT
 
 Bearbeiter: [NAME RA/RAin]
 ```
-
-<!-- AUDIT 27.05.2026: BGH VII ZR 198/15 (26.01.2017) NOT_FOUND auf dejure.org – Eintrag "Eilbeduerftigkeit im IT-Projektstreit, NJW 2017, 1534" gelöscht. Thema passt nicht zu IT-Recht-Triage (VII ZR ist Baurechtssenat). Kein verifizierter Ersatz recherchiert; bei Zweifel löschen. -->

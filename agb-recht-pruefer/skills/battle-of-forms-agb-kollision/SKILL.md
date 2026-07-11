@@ -40,10 +40,10 @@ description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht
 ### Grundregel
 - Bei Kollision sich widersprechender AGB beider Parteien: Vertrag kommt nur insoweit zustande, als die AGB uebereinstimmen ("Restgueltigkeitstheorie").
 - Bei abweichenden Klauseln gilt das dispositive Recht (BGB / HGB).
-- Die "letzte-Wort-Klausel" (Last-Shot-Doktrin) wird vom BGH nicht anerkannt; vgl. BGH-Linie seit BGHZ 61, 282 (Az im Digitalisat verifizieren).
+- BGH, Urteil vom 26.09.1973 - VIII ZR 106/72, BGHZ 61, 282: Die widerspruchslose Hinnahme einer modifizierten Auftragsbestätigung ist grundsätzlich noch keine Annahme; Durchführung und erkennbare Abschlussabsicht sind gesondert zu würdigen.
 
 ### Aktuelle BGH-Rechtsprechung
-- BGH VIII ZR 96/13 zur AGB-Kollision im Kaufrecht (Az im Digitalisat verifizieren).
+- BGH, Urteil vom 09.01.2002 - VIII ZR 304/00: Bei kollidierenden AGB im CISG-Vertrag werden nach der Restgültigkeitstheorie nur die übereinstimmenden Regelungen Vertragsbestandteil; im Übrigen gilt das dispositive Recht. Vor einer Übertragung auf rein deutsches Recht das Vertragsstatut bestimmen.
 - BGH-Linie zur Auftragsbestaetigung mit abweichenden AGB.
 - Internationales: bei UN-Kaufrecht (CISG) Art. 19 CISG Mirror-Image-Rule mit Modifikationen.
 

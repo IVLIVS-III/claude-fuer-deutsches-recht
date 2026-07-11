@@ -42,27 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 266a StGB
-- § 102 StaRUG
-- § 1 StaRUG
-- § 64 GmbHG
-- § 8b KStG
-- § 30 GmbHG
-- § 31 StaRUG
-- § 49 StaRUG
-- § 43 GmbHG
-- § 29 StaRUG
-- § 29 VwVfG
-
-### Leitentscheidungen
-
-- BGH II ZR 296/05
-- BGH IX ZR 129/22
-- BGH II ZR 78/06
-- BGH IX ZR 122/23
-- BGH II ZR 206/22

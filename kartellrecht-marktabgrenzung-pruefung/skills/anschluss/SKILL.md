@@ -116,7 +116,6 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `dma-und-gatekeeper-markt` | Digital Markets Act (VO 2022/1925): Gatekeeper-Designierung Kernplattformdienste quantitative und qualitative Schwellenwerte. Auswirkungen der DMA-Designierung auf die Marktdefinition in kartellrechtlichen Verfahren.… |
 | `elastizitaeten-diversion-ratios` | Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu prüfen. Prüft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente… |
 | `eu-bekanntmachung-marktdefinition-2024` | Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition (Februar 2024) und ihrer praktischen Anwendung. Vergleich zur Bekanntmachung von 1997. Neue Elemente: digitale Maerkte Innovationswettbewerb… |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `evidenz-qualitaet-bewertung` | Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege für eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt… |
 | `fusionskontrolle-modus` | Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und… |
 | `gesamtbewertung-tragfaehigkeit` | Gesamturteil zur Tragfähigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behörde und empfiehlt… |
@@ -363,32 +362,3 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 - **Plugin-Rahmen:** Kritische kartellrechtliche Prüfinstanz für Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsums....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 101 AEUV (Kartellverbot)
-- Art. 102 AEUV (Marktbeherrschung)
-- § 1 GWB (Kartellverbot national)
-- §§ 18-21 GWB (Marktbeherrschung, Behinderungsverbot)
-- § 19 GWB (Missbrauchsverbot)
-- § 19a GWB (Plattformregulierung)
-- §§ 32, 33 GWB (Abstellungsverfügung, Schadensersatz)
-- §§ 81, 81a GWB (Bußgeld)
-- VO 1/2003 EG (Durchsetzung 101/102 AEUV)
-- FKVO (EG) 139/2004 (Fusionskontrolle)
-
-### Leitentscheidungen
-
-- EuGH C-413/14 P (Intel, Treuerabatte)
-- BGH KZR 47/14 (Schienenkartell, passing-on)
-- BGH KZR 39/19 (Facebook, Marktmissbrauch DSGVO)
-- EuGH C-67/13 P (Cartes Bancaires, bezweckte Beschränkung)
-- BGH KRB 1/22 (Bußgeldbemessung Konzernhaftung)
-
-### Anwendung im Skill
-
-- Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
-- Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie prüfen.
-- § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.

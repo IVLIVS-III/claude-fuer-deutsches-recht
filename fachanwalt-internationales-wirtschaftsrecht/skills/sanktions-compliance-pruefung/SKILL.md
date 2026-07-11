@@ -50,7 +50,6 @@ description: "Wenn es um Sanktions Compliance Prüfung in Fachanwalt Internation
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | OFAC | TSECO 2023 | 2023 | Secondary-Sanctions-Enforcement: nicht-US-Unternehmen mit USD-Transaktionen zu sanktionierten Einheiten; Bußgeld ohne Strafverfolgung in USA |
 
 ## Prüfschema

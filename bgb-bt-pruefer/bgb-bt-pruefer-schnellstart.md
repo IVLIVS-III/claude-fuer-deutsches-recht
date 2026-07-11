@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche - Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT) - Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche - Paragrafen 535 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 280 ff. BGB: Pflichtverletzung und Schadensersatz (Schuldrecht AT); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 433 ff. BGB: Kaufvertragliche Ansprüche; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 535 ff. BGB: Mietvertragliche Ansprüche; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

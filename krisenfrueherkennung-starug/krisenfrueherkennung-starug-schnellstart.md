@@ -52,14 +52,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Paragraf 49-59 StaRUG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 93 Abs. 2 S. 2 AktG (Beweislastumkehr): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BGH IV ZR 66/25 vom 19.11.2025 — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; Paragraf 15a / Paragraf 15b InsO nicht koppelbar. Stärkt
-- BGH IX ZR 229/22 vom 23.01.2025 — Zahlungsunfähigkeit als objektiver Zustand; streitige nicht titulierte Verbindlichkeiten nach objektiver Rechtslage, vorläufig vollstreckbarer Titel bei eingeleiteter
+- Paragraf 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 93 Abs. 2 S. 2 AktG (Beweislastumkehr); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15a InsO (Insolvenzantragspflicht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+- BGH IV ZR 66/25 vom 19.11.2025 — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; Paragraf 15a / Paragraf 15b InsO nicht koppelbar.
+- BGH IX ZR 229/22 vom 23.01.2025 — Zahlungsunfähigkeit als objektiver Zustand.
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme wegen unzureichender Substantiierung.
 
 ## 7. Antwortform
 

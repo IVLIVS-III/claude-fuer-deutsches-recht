@@ -19,7 +19,7 @@ Materielles Recht:
 
 ## Rechtsprechungsanker
 
-- BVerfG, Beschluss vom 19.03.2013 - 2 BvR 2628/10: Zu den verfassungsrechtlichen Anforderungen an Verstaendigungen und an die Wahrheitserforschung im Strafverfahren; die Aufklaerungspflicht bleibt auch bei konsensualen Verfahrensweisen unberuehrt. Aktenzeichen und Kernsatz vor Verwendung verifizieren.
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11: Verständigungen verlangen Transparenz, Belehrung und Protokollierung; die Pflicht zur Wahrheitserforschung bleibt unberührt.
 - Zur Bestimmung der Geringwertigkeitsgrenze des Paragraf 248a StGB: staendige Rechtsprechung des Bundesgerichtshofs; die konkrete einschlaegige Entscheidung und die aktuelle Wertgrenze sind vor Verwendung an amtlicher Quelle zu verifizieren.
 - Zu den Anforderungen an den hinreichenden Tatverdacht nach Paragraf 170 StPO (ueberwiegende Verurteilungswahrscheinlichkeit): staendige Rechtsprechung der Oberlandesgerichte; ein konkretes Aktenzeichen ist zu ergaenzen und live zu verifizieren.
 

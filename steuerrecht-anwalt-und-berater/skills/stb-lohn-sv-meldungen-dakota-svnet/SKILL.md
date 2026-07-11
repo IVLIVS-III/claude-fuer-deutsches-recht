@@ -114,7 +114,6 @@ Stand: 05/2026.
 - DEUEV.
 - ITSG-Spezifikation.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (sv.net-Verfuegbarkeit Pruefhinweis ohne Marker) -->
 
 
 ## Qualitäts-Hardening

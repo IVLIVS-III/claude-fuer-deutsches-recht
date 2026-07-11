@@ -119,16 +119,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellenpflicht
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur task_198 (3 Probleme):
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
-1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- Preisangabenrechtliche Entscheidungen nur mit Gericht, Datum, Aktenzeichen
- und freier/amtlicher Quelle in die Ausgabe übernehmen.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
- Nutzungsentgelt für bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
- kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
--->

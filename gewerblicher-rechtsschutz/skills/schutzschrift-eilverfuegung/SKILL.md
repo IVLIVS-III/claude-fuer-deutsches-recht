@@ -243,7 +243,3 @@ Es wird beantragt:
 - BGH I. Zivilsenat
 - Koehler/Bornkamm/Feddersen UWG
 - Ingerl/Rohnke MarkenG
-
-<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

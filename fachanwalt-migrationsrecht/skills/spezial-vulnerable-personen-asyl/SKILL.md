@@ -30,6 +30,7 @@ Spezialskill im Plugin `fachanwalt-migrationsrecht`. Er bearbeitet: prüft Minde
 - Anschluss-Skills innerhalb dieses Plugins.
 
 ## Quellen- und Sicherheitsregel
+- BVerwG, Urteil vom 16.04.2025 - 1 C 18.24 ist eine Abgrenzungsentscheidung für volljährige, männliche, erwerbsfähige und nichtvulnerable Schutzberechtigte in Griechenland. Gerade deshalb darf sein Ergebnis bei Minderjährigkeit, Krankheit, Behinderung, Trauma, familiärer Abhängigkeit oder sonstigem besonderen Schutzbedarf nicht übernommen werden; die Vulnerabilität ist personengenau zu belegen und mit aktuellen Zielstaatsquellen zu prüfen.
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `ki-richtlinie-kanzleien`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `ki-richtlinie-kanzleien`.
 
 ## Inhaltsverzeichnis
 
@@ -1229,11 +1229,6 @@ Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
 Verantwortlicher: [NAME], [DATUM]
 ```
 
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->
-
 ---
 
 ## Skill: `brao-quellenkarte`
@@ -1381,32 +1376,16 @@ DSGVO anwendbar: [JA / NEIN]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- Art. 28 DSGVO
-- § 203 StGB
-- Art. 22 DSGVO
-- Art. 9 DSGVO
-- Art. 6 DSGVO
-- § 2 UrhG
-- Art. 30 DSGVO
-- Art. 46 DSGVO
-- Art. 13 DSGVO
-- § 44b UrhG
-- Art. 35 DSGVO
-- § 5 UrhG
-
-### Leitentscheidungen
-
-- BGH VI ZR 273/16
+Die Richtlinie muss Berufsrecht, Verschwiegenheit, Datenschutz, Arbeitsrecht und technische Organisation getrennt abbilden. Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 203 StGB sowie Artikel 5, 28 und 32 DSGVO nur für den jeweils geregelten Vorgang verwenden. Rechtsprechung nur mit einer konkret passenden tragenden Aussage aufnehmen.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

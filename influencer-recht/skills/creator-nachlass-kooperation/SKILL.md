@@ -18,7 +18,7 @@ description: "Wenn es um Influencer-Recht: Creator-Nachlass und Account-Zugang i
 Der digitale Nachlass eines Creators ist rechtlich und wirtschaftlich bedeutsam:
 
 - **§ 1922 BGB**: Universalsukzession – alle Rechte und Pflichten gehen auf Erben über, einschließlich digitaler Assets.
-- **BGH III ZR 183/21 (2021)**: Facebook-Account gehört zum Nachlass; Plattform muss Erben Zugang gewähren.
+- BGH, Urteil vom 12.07.2018 - III ZR 183/17: Der Nutzungsvertrag über ein soziales Netzwerk geht grundsätzlich im Wege der Gesamtrechtsnachfolge auf die Erben über; sie können Zugang zum Konto und zu den dort gespeicherten Kommunikationsinhalten verlangen.
 - **Plattform-AGB**: Viele Plattformen (Instagram, TikTok) haben eigene Richtlinien für den Umgang mit verstorbenen Accounts; „Gedenkzustand" vs. Löschung.
 - **§ 2100 BGB**: Vor-/Nacherbschaft – Creator kann testamentarisch festlegen, wer den Account erbt.
 - **Postmortales Persönlichkeitsrecht**: 10 Jahre nach Tod noch schützenswert; Erben können Verstöße abwehren.
@@ -63,7 +63,7 @@ Der digitale Nachlass eines Creators ist rechtlich und wirtschaftlich bedeutsam:
 ## Normen und Quellen
 
 - § 1922 BGB: https://www.gesetze-im-internet.de/bgb/__1922.html
-- BGH III ZR 183/21: https://openjur.de/u/2396000.html
+- BGH, Urteil vom 12.07.2018 - III ZR 183/17: https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2018-7-12&Gericht=bgh&anz=20&pos=5
 - § 28 UrhG – Vererbung: https://www.gesetze-im-internet.de/urhg/__28.html
 
 ## Output-Formate
@@ -80,4 +80,3 @@ Der digitale Nachlass eines Creators ist rechtlich und wirtschaftlich bedeutsam:
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

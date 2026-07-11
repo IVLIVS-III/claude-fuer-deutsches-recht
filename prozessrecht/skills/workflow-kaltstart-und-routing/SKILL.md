@@ -35,7 +35,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## Prozessrechtlicher Kaltstart
-- **Zuständigkeit:** sachliche (Paragrafen 23, 71 GVG: bis 5.000 EUR AG, darüber LG), örtliche (Paragrafen 12 ff. ZPO), funktionelle. Bei Verbrauchersachen Paragraf 29c ZPO.
+- Zuständigkeit: sachlich grundsätzlich Amtsgericht bis einschließlich 10.000 Euro und Landgericht darüber (Paragrafen 23 Nummer 1, 71 Absatz 1 GVG), daneben wertunabhängige Sonderzuweisungen; örtlich nach Paragrafen 12 ff. ZPO. Einen besonderen Verbrauchergerichtsstand nur bei erfülltem Tatbestand der jeweiligen Norm annehmen.
 - **Klageart bestimmen:** Leistungsklage (Paragraf 253 ZPO), Feststellungsklage (Paragraf 256 ZPO), Gestaltungsklage. Stufenklage Paragraf 254 ZPO. Streitwert nach Paragraf 3 ff. ZPO, GKG.
 - **Schlüssige Klagebegründung Paragraf 253 II Nr. 2 ZPO:** Anspruch substantiieren mit Anspruchsgrundlage + Tatsachen + Beweismittel; Antrag bestimmt (Paragraf 253 II Nr. 2 ZPO).
 - **Beweismaß:** Paragraf 286 ZPO (Vollbeweis, vernünftiger Zweifel ausgeschlossen) vs. Paragraf 287 ZPO (Schadensschätzung, freie Überzeugung); Anscheinsbeweis bei typischen Geschehensabläufen.

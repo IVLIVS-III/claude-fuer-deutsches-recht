@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+Wenn du das hier öffnest, willst du ein Schutzrechtsportfolio oder einen Konflikt über Marke, Patent, Design, Know-how oder Wettbewerb rechtlich und verfahrensstrategisch ordnen.
 
 # Fashion Law Moderecht — Schnellstart
 
@@ -17,47 +17,41 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
-2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
-4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
-5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Litigation und Eilverfahren Fashion: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Rechtsposition: Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen.
+2. Rechtsbestand und Register: Eintragung, Benutzung, Jahresgebühr, Nichtigkeits- oder Löschungsangriff und Parallelverfahren prüfen.
+3. Verletzung und Beweis: konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden.
+4. Verfahrensstrategie: Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren.
+5. Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen.
+6. Litigation und Eilverfahren Fashion: Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
-| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
-| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Normenanker | MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42; UWG Paragraf 3, Paragraf 4 und Paragraf 8; GeschGehG Paragraf 2 bis Paragraf 4 und Paragraf 6 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen |
+| Beweislast | Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede |
+| Rechtsfolge | Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Litigation und Eilverfahren Fashion | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produkt Haftung Defective Garment | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Brand Enforcement Abmahnung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Brand und Markenportfolio | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Confidentiality Design Leak | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Counterfeit Investigation | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Litigation und Eilverfahren Fashion | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Produkt Haftung Defective Garment | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Brand Enforcement Abmahnung | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Brand und Markenportfolio | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Confidentiality Design Leak | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Counterfeit Investigation | Schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschützte Werke.
-- UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
-- UrhG Paragraf 51: Zitatrecht.
-- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+- MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42: Verletzungsansprüche nach Schutzrecht getrennt prüfen.
+- UWG Paragraf 3, Paragraf 4 und Paragraf 8: unlautere Handlung, Mitbewerberschutz und Unterlassung.
+- GeschGehG Paragraf 2 bis Paragraf 4 und Paragraf 6: Geschäftsgeheimnis, angemessene Geheimhaltungsmaßnahmen, Verletzung und Unterlassung.
+- ZPO Paragraf 935 und Paragraf 940: Verfügungsanspruch, Verfügungsgrund und tenorierte Sicherung.
 
 ## 7. Antwortform
 

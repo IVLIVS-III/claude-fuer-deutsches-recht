@@ -26,7 +26,7 @@ description: "Wenn es um System Zahlen Schwellen Und Berechnung in Methodenlehre
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-Im Zivilrecht entscheiden Zahlen über Zuständigkeiten, Zulässigkeiten und materielle Ansprüche. Ein Streitwert von 5.000 Euro trennt Amts- von Landgericht; ein Zinssatz bestimmt die Schadenshöhe; eine Bürgschaftssumme über 10.000 Euro löst strengere Formvorschriften aus. Dieses Skill bietet eine systematische Übersicht aller relevanten Zahlenschwellen und Berechnungsmethoden.
+Im Zivilrecht entscheiden Zahlen über Zuständigkeiten, Zulässigkeiten und materielle Ansprüche. Seit 1. Januar 2026 liegt die allgemeine Wertgrenze des Amtsgerichts bei 10.000 Euro; daneben bestehen wertunabhängige Zuweisungen. Zinssätze und andere Schwellen sind stets mit Stichtag, Bezugsgröße und Rechtsfolge zu erfassen.
 
 ## Mandantenfall
 
@@ -39,7 +39,7 @@ Im Zivilrecht entscheiden Zahlen über Zuständigkeiten, Zulässigkeiten und mat
 1. Ermittle den Hauptsachebetrag und alle Nebenforderungen (Zinsen, Kosten, Schadensersatz) getrennt.
 2. Berechne Verzugszinsen nach §§ 288 Abs. 1 BGB (4,12 Prozent für Verbraucher) oder § 288 Abs. 2 BGB (9 Prozent über Basiszins für Unternehmer) auf den Hauptbetrag ab dem jeweils relevanten Zeitpunkt.
 3. Bestimme den Gesamtstreitwert nach §§ 4, 5 ZPO: Hauptforderung plus Zinsen bis zur Klageerhebung.
-4. Ordne den Streitwert der sachlichen Zuständigkeit zu: bis 5.000 Euro Amtsgericht (§ 23 GVG), darüber Landgericht (§ 71 GVG).
+4. Ordne den Streitwert der sachlichen Zuständigkeit zu: bis einschließlich 10.000 Euro Amtsgericht (Paragraf 23 Nummer 1 GVG), darüber Landgericht (Paragraf 71 Absatz 1 GVG); Sonderzuweisung und Stichtag vorab prüfen.
 5. Prüfe, ob Betragsgrenzen für spezifische Rechtsinstitute relevant sind (Bürgschaft, Leasing, Verbraucherkredit, Maklercourtage).
 6. Dokumentiere alle Berechnungsschritte mit Formel und Ergebnis, sodass sie im Schriftsatz darstellbar sind.
 

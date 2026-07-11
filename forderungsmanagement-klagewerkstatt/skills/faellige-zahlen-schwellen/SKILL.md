@@ -9,7 +9,7 @@ Zentrale Sammelstelle für Betraege Schwellen Zinsen und Gebühren in Forderungs
 
 ## Basiszinssatz BGB 247
 
-Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller Stand zum 1.1.2026 ist beim BMF abrufbar. Veroeffentlichung im Bundesanzeiger.
+Der Basiszinssatz wird halbjährlich von der Deutschen Bundesbank bestimmt und im Bundesanzeiger veröffentlicht. Seit 1. Juli 2026 beträgt er 1,52 Prozent; für längere Zinsläufe jede Halbjahresperiode getrennt berechnen.
 
 ## Verzugszinsen BGB 288
 

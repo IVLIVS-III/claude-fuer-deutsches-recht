@@ -52,9 +52,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
 - BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
 - BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
-- Paragraf 528 BGB – Rückforderung wegen Verarmung: Schenker kann Geschenk zurückfordern, wenn er nach der Schenkung verarmt. Beschenkte muss nur den noch vorhandenen Wert zurückgeben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 530 BGB – Widerruf wegen groben Undanks: Widerruf innerhalb 1 Jahr nach Kenntnis des Undanks: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH Kernbereichslehre: https://www.bgh.de (BGH XII ZR 265/02)
+- Paragraf 528 BGB – Rückforderung wegen Verarmung: Schenker kann Geschenk zurückfordern, wenn er nach der Schenkung verarmt. Beschenkte muss nur den noch vorhandenen Wert zurückgeben; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 530 BGB – Widerruf wegen groben Undanks: Widerruf innerhalb 1 Jahr nach Kenntnis des Undanks; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH Kernbereichslehre: https://www.bgh.de (BGH XII ZR 265/02).
 
 ## 7. Antwortform
 

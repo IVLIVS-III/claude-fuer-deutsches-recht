@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - SGB IV Paragraf 7a: Statusfeststellungsverfahren.
 - SGB IV Paragraf 28p: Betriebsprüfung durch Rentenversicherungsträger.
 - SGB IV Paragraf 28e: Beitragsschuld des Arbeitgebers.
-- BGB Paragrafen 611a/631: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 611a/631; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BSG, Urteil vom 05.11.2024 - B 12 BA 3/23 R: Lehrkräfte und Dozenten sind nach dem konkreten Gesamtbild der Tätigkeit einzuordnen.
 - BSG, Urteil vom 23.04.2024 - B 12 BA 9/22 R: Auch bei Piloten oder Freelancern entscheiden Eingliederung, Weisungen und Unternehmerrisiko im Einzelfall.
 

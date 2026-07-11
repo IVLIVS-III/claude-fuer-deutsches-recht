@@ -1,45 +1,45 @@
 ---
 name: tierschutz-haltungsverbot-paragraf-16a-tierschg
-description: "Wenn es um Tierschutz Haltungsverbot Paragraf 16a Tierschg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft ein Tierhaltungs- oder Betreuungsverbot nach Paragraf 16a TierSchG. Ordnet jeden Verstoß, erhebliche oder länger anhaltende Folgen für Tiere, Wiederholungsprognose, Tierartenumfang, Fortnahme, Veräußerung, Sofortvollzug und mildere Mittel und erstellt Beweismatrix und Eilantrag."
 ---
 
-# Tierschutz Haltungsverbot Paragraf 16a Tierschg
+# Tierhaltungsverbot rechtlich und tatsächlich prüfen
 
 ## Einsatzlage
 
-Tierhalter T (kleines Schafbetrieb) erhaelt Haltungsverbot für alle Tierarten nach drei dokumentierten Maengeln (Klauenpflege, Unterstand, Tierarztversorgung). T will klagen.
+Die Veterinärbehörde untersagt einem Tierhalter Haltung oder Betreuung bestimmter oder aller Tierarten und ordnet gegebenenfalls Fortnahme, Veräußerung oder sofortige Vollziehung an. Der schwere Eingriff darf nicht auf die Generalklausel gestützt werden, wenn die besonderen Voraussetzungen des Haltungsverbots fehlen.
 
 ## Normenanker
 
-- § 16a TIERSCHG
-- §§ 585 ff. BGB
-- § 9 GrdstVG
-- § 16a TierSchG
-- § 13a DüV
-- § 906 BGB
+- Paragraf 2 TierSchG: Ernährung, Pflege, Unterbringung und verhaltensgerechte Bewegung.
+- Paragraf 16a Absatz 1 Satz 1 TierSchG: notwendige Einzelanordnungen zur Beseitigung und Verhütung von Verstößen.
+- Paragraf 16a Absatz 1 Satz 2 Nummern 2 und 3 TierSchG: Fortnahme, Veräußerung und Haltungs- oder Betreuungsverbot.
+- Paragrafen 28, 37 und 39 VwVfG: Anhörung, Bekanntgabe und Begründung.
+- Paragrafen 42 und 80 VwGO: Anfechtung und Wiederherstellung oder Anordnung der aufschiebenden Wirkung.
 
-## Rechtsprechungsanker und Quellenhygiene
+## Rechtsprechungsanker
 
-- BVerwG 06.04.2017 3 C 24/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- BVerwG 26.04.2018 3 B 17/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BVerwG, Beschluss vom 13. Februar 2025 - 3 B 16.24: Für ein Haltungsverbot gelten hohe tatbestandliche Hürden. Erforderlich sind wiederholte oder grobe Verstöße gegen Paragraf 2 TierSchG, dadurch verursachte erhebliche oder länger anhaltende Schmerzen, Leiden oder erhebliche Schäden und Tatsachen für die Prognose weiterer entsprechender Verstöße; die Generalklausel darf diese Voraussetzungen nicht umgehen.
+- BVerwG, Beschluss vom 9. Dezember 2016 - 3 B 34.16: Persönliche Unzuverlässigkeit und Wiederholungsprognose müssen aus dem dokumentierten Verhalten und den Umständen des Einzelfalls abgeleitet werden.
 
 ## Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Jeden behördlich behaupteten Verstoß mit Tier, Datum, Zustand, Pflicht, Beleg und verantwortlicher Person erfassen.
+2. Wiederholung oder grobe Zuwiderhandlung und die dadurch verursachten erheblichen oder länger anhaltenden Folgen gesondert feststellen; bloße Ordnungsmängel reichen nicht automatisch.
+3. Sachkunde, frühere Anordnungen, Reaktionen, Nachkontrollen und nachhaltige Mängelbeseitigung für die Zukunftsprognose würdigen.
+4. Reichweite des Verbots nach Tierart, Zahl, Haltung oder Betreuung prüfen. Ein Verbot für alle Tierarten bedarf einer entsprechend breiten Prognose.
+5. Fortnahme, anderweitige Unterbringung, Veräußerung und Kostenfolge jeweils auf eigene Voraussetzungen und Verhältnismäßigkeit prüfen.
+6. Mildere Mittel konkret vergleichen: Auflagen, Bestandsreduzierung, tierärztlicher Betreuungsplan, Sachkundenachweis oder engmaschige Kontrolle.
+7. Sofortvollzug auf einzelfallbezogene Begründung und aktuelle Gefahrenlage prüfen; Eilantrag mit aktuellen Gegenbelegen und tragfähigem Betreuungskonzept erstellen.
 
 ## Arbeitsergebnis
 
-1. Tatsachengrundlage prüfen: Welche Maengel zu welchem Zeitpunkt?
-2. Wiederholungsgefahr: Belege für Maengelbehebung sammeln.
-3. Milderes Mittel: Auflagen statt Verbot (regelmaessige Kontrolle).
-4. Einschraenkung auf bestimmte Tierart als Vergleichsvorschlag.
+Erstelle eine Tier-für-Tier-Beweismatrix, Prognose- und Verhältnismäßigkeitsprüfung, Maßnahmenvergleich und einen Klage- und Eilantragsbaustein. Ein Sanierungsplan enthält Verantwortliche, Fristen, Tierarztkontrollen und objektiv nachprüfbare Zielzustände.
 
 ## Belege und Aktenlücken
 
-- Tierarztbescheinigung Maengelbehebung.
-- Fotodokumentation Stallumbau.
-- Sachkundenachweis.
+- Bescheid, Anhörung, Kontrollberichte und vollständige Fotodokumentation
+- tierärztliche Befunde und Behandlungsnachweise
+- frühere Anordnungen, Nachkontrollen und deren Erledigung
+- Sachkunde-, Stall-, Fütterungs- und Betreuungsnachweise
+- aktuelles Maßnahmen- und Kontrollkonzept

@@ -160,7 +160,3 @@ ERGEBNIS:
 [ ] CISG ANWENDBAR
 [ ] CISG NICHT ANWENDBAR → Anwendbares Recht nach Rom I
 ```
-
-<!-- AUDIT 27.05.2026
-Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
--->

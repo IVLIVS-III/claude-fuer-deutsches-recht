@@ -175,10 +175,10 @@ Prüfraster:
 
 ## 7. Leitentscheidungen
 
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwaelzt werden.
-- BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Betriebskostenabrechnung muss geordnet und nachvollziehbar sein.
-- BGH, Urteil vom 04.05.2011 - VIII ZR 195/10: Eigenbedarf verlangt nachvollziehbaren Nutzungswunsch und Interessenabwägung.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
+- BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Die formularmäßige Umlage der Aufzugskosten kann auch einen Erdgeschossmieter treffen, dessen Wohnung durch den Aufzug erschlossen wird.
+- BGH, Urteil vom 23.09.2015 - VIII ZR 297/14: Eigenbedarf erfordert einen ernsthaft verfolgten, hinreichend bestimmten Nutzungswunsch auf vernünftiger und nachvollziehbarer Grundlage; eine vage Vorratsabsicht genügt nicht.
 - BGH, Urteil vom 10.10.2012 - VIII ZR 107/12: Zahlungsverzug kann fristlose Kündigung tragen, Schonfristzahlung wirkt nur begrenzt.
 
 ## 8. Schriftsatz- und Memo-Gerüst

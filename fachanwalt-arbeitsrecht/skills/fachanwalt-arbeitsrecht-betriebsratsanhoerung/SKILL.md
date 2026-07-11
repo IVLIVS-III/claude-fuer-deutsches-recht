@@ -56,7 +56,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 1 | Betriebsrat existiert im Betrieb? | Paragraf 1 BetrVG | Keine Anhörungspflicht |
 | 2 | Anhörung schriftlich oder in Textform? | Paragraf 21a Abs. 2 BetrVG | Formmangel; heilbar? |
 | 3 | Zugang beim Vorsitzenden nachweisbar? | Paragraf 26 Abs. 2 BetrVG | Frist-Beginn unklar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Stellungnahme abgewartet oder Frist abgelaufen? | Paragraf 102 Abs. 2 BetrVG | Kündigung vor Fristablauf = unwirksam |
 | 10 | Bei Widerspruch: Paragraf 102 Abs. 5-Anspruch beachtet? | Paragraf 102 Abs. 5 BetrVG | Weiterbeschäftigung möglicherweise einklagbar |
 
@@ -196,6 +195,3 @@ Paragraf 102 Abs. 2 BetrVG (Frist endet am [Datum]).
 - KSchG Paragrafen 1, 4
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar Paragraf 102; DKKW BetrVG Paragraf 102
-
-<!-- AUDIT 27.05.2026
--->

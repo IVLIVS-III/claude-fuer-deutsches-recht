@@ -30,7 +30,7 @@ Dieses Anschluss-Routing für **Liquiditaetsplanung** wählt nach dem ersten Erg
 ## Arbeitsweg
 
 - Ergebnis sichten: Welche Liquiditätsplanung und Insolvenzrecht-Schnittstelle-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (§ 15a InsO 3 Wochen (ZU) / 6 Wochen (Überschuldung), IDW S 11 12-Monats-Prognose, Drei-Wochen-Liquiditätsstockungs-Test (BGH II ZR 296/05)), notwendige Dokumente (Liquiditätsstatus, Finanzplan, Liquiditätsvorschau 3 Wochen / 3–6–12 Monate, Fortbestehensprognose, Sanierungsgutachten IDW S 6), nächste Verfahrensstufe oder Sachgebiet.
+- Anschlussweichen identifizieren: drohende Frist (Paragraf 15a InsO: unverzüglich, höchstens 3 Wochen bei Zahlungsunfähigkeit und 6 Wochen bei Überschuldung; IDW S 11: Prognosezeitraum; Drei-Wochen-Liquiditätsstockungs-Test nach BGH, Urteil vom 24.05.2005 - IX ZR 123/04), notwendige Dokumente (Liquiditätsstatus, Finanzplan, Liquiditätsvorschau 3 Wochen / 3–6–12 Monate, Fortbestehensprognose, Sanierungsgutachten IDW S 6), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
@@ -40,27 +40,3 @@ Dieses Anschluss-Routing für **Liquiditaetsplanung** wählt nach dem ersten Erg
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 266a StGB
-- § 102 StaRUG
-- § 1 StaRUG
-- § 64 GmbHG
-- § 8b KStG
-- § 30 GmbHG
-- § 31 StaRUG
-- § 49 StaRUG
-- § 43 GmbHG
-- § 29 StaRUG
-- § 29 VwVfG
-
-### Leitentscheidungen
-
-- BGH II ZR 296/05
-- BGH IX ZR 129/22
-- BGH II ZR 78/06
-- BGH IX ZR 122/23
-- BGH II ZR 206/22

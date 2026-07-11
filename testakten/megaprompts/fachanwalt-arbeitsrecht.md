@@ -2,18 +2,52 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-arbeitsrecht`.
+Diese Vollprüfung enthält top-8 von 121 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-arbeitsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Arbeitsrecht in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlag…
-2. **fachanwalt-arbeitsrecht-orientierung** — Wenn es um Fachanwalt für Arbeitsrecht — Orientierung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit,…
-3. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Recht…
-4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und…
-5. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-6. **fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam** — Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
-7. **fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht** — Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
-8. **befristung-tzbfg** — Wenn es um Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer in Fachanwalt Arbe…
+1. **arbeitsgerichtliche-versandmappe-endfertigen** — Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: lies…
+2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Arbeitsrecht in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlag…
+3. **fachanwalt-arbeitsrecht-orientierung** — Wenn es um Fachanwalt für Arbeitsrecht — Orientierung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit,…
+4. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Recht…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
+7. **homeoffice-kontrolle-arbeitnehmerdatenschutz** — Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbe…
+8. **equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner** — Prüft Equal Pay in der Arbeitnehmerüberlassung anhand von Paragraf 8 AÜG, Tariföffnung, Überlassungsdauer, Vergleichsent…
+
+---
+
+## Skill: `arbeitsgerichtliche-versandmappe-endfertigen`
+
+_Endfertigt Kündigungsschutzklage, Zahlungsklage, Klageerwiderung, Berufungs- oder Revisionsschrift im Arbeitsrecht: liest die Mandatsakte zuerst, prüft Anträge und Dreiwochenfrist, ordnet Kündigung, Zugang, Vertrag, Betriebsratsanhörung, Sozialauswahl, Abrechnungen und Zeitnachweise den Beweisthemen zu und liefert eine formwirksame beA-Versandmappe mit fortgeführtem Anlagenkreis._
+
+# Arbeitsgerichtliche Versandmappe endfertigen
+
+## 1. Akte zuerst
+
+Lies Klage oder Erwiderung, Arbeitsvertrag und Nachträge, Kündigungsurkunde samt Umschlag oder Zustellnachweis, Abmahnungen, Betriebsratsunterlagen, Lohnabrechnungen, Arbeitszeitdaten, BEM-Unterlagen und gerichtliche Verfügungen. Liefere sofort Frist- und Belegmatrix. Frage nach Gestaltung nur, wenn weder Kanzleivorlage noch Alt-Schriftsatz den Stil erkennen lassen.
+
+## 2. Arbeitsrechtliche Schlusskontrolle
+
+1. Bei Kündigungsschutzklage Zugangstag und Ende der Dreiwochenfrist nach KSchG Paragraf 4 dokumentieren.
+2. Feststellungs-, Weiterbeschäftigungs-, Zahlungs- und Zeugnisanträge voneinander trennen und bezifferbare Positionen berechnen.
+3. Arbeitgeberbezeichnung, Betriebsübergang, Vertretung und Beschäftigungsbetrieb aus Primärbelegen ableiten.
+4. Kündigungsart, Kündigungserklärung, Zugang, Vollmacht, Betriebsratsanhörung und Sonderkündigungsschutz getrennt belegen.
+5. Bei Vergütung Stunden, Zuschläge, Ausschlussfristen, Abrechnungen und Zahlungen in einer Monatstabelle abstimmen.
+
+## 3. Anlagenkreis
+
+Klägeranlagen beginnen oder laufen als K, Beklagtenanlagen als B. Replik und Duplik setzen die höchste vergebene Nummer fort. Typische Belegfolge ist nicht schematisch, sondern folgt dem Vortrag: Vertrag, Kündigung und Zugang, Vollmacht oder Anhörung, Abmahnungen, Abrechnungen, Zeiterfassung, Schriftverkehr. Jede Seite trägt rechts oben die endgültige Bezeichnung.
+
+## 4. Form und Datei
+
+Für anwaltliche Einreichungen gelten ArbGG Paragraf 46c und Paragraf 46g. Hauptdokument und jede Anlage werden getrennt als lesbare PDF ausgegeben. Verwende nach Gerichtshinweis, sonst im strengen Profil Namen wie `00_20260710_Kuendigungsschutzklage.pdf` und `01_20260710_AnlageK1_Kuendigung.pdf`. ASCII und 60 Zeichen sind dokumentierter Kanzleistandard, kein bundesrechtliches Umlautverbot.
+
+Prüfe qualifizierte elektronische Signatur oder einfache Signatur mit persönlichem Versand. BAG, Beschluss vom 22. Januar 2025, 7 ABR 23/23, bestätigt: Mitarbeiter-Versand eines nur einfach signierten Dokuments ist kein sicherer Übermittlungsweg. Frist erst nach positiver gerichtlicher Eingangsbestätigung erledigen.
+
+## 5. Auslieferung
+
+Liefere Schriftsatz-PDF, Einzelanlagen, Anlagenverzeichnis, Antrags- und Betragskontrolle, Versandmanifest, Freigabevermerk und Eingangskontrollblatt. Stoppe bei unklarer Dreiwochenfrist, nicht finalem Antrag, fehlender Kündigungsurkunde, widersprüchlicher Monatsberechnung oder ungeklärtem Signaturweg.
 
 ---
 
@@ -87,7 +121,7 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 
 | Entscheidung | Tragende Aussage | Skill-Vertiefung |
 | --- | --- | --- |
-| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des $ 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
+| **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des Paragraf 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
 | **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis können Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln müssen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
 | **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
@@ -213,8 +247,6 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Arbeitsrecht geht
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Arbeitsrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -324,8 +356,6 @@ _Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Arbeitsrecht geht: prüft
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Individual- und kollektives Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -470,11 +500,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - Aktenanlage Datum
 - Naechster-Schritt
 
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
@@ -532,8 +557,6 @@ _Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Arbeitsrecht geht: klärt
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Fachanwalt Erstprüfung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -638,432 +661,104 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 
 ---
 
-## Skill: `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`
+## Skill: `homeoffice-kontrolle-arbeitnehmerdatenschutz`
 
-_Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam; Arbeitsfeld: Fachanwalt Arbeitsrecht._
+_Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbestimmung, Beweisverwertung und mildere Mittel. Bewertet Bildschirmmitschnitt, Keylogger, Aktivitätsstatus, Kamera und Protokolldaten und liefert Freigabematrix, Betriebsvereinbarungs- oder Abwehrbaustein._
 
-# Rechtsprechung live prüfen
+# Kontrolle im Homeoffice rechtmäßig gestalten
 
-## Kaltstart-Rückfragen
+## Einsatzlage
 
-1. **Liegt eine schriftliche Kündigung vor?** — Datum und Zugangstag; Freistellung parallel oder erst danach erklärt?
-2. **Welchen Wortlaut hat die Freistellungsklausel im Arbeitsvertrag?** — Pauschale Klausel ("nach Kündigung freigestellt") versus konkrete Begründung im Einzelfall.
-3. **Hat der Arbeitgeber zusätzlich zum Klausel-Verweis einen konkreten Grund für die Freistellung genannt?** — Geheimhaltung, Konkurrenz, Vertrauensverlust, Betriebsfrieden — nur diese tragen.
-4. **Will die Mandantin tatsächlich weiterarbeiten?** — Oder ist der Beschäftigungsanspruch nur Verhandlungsmasse für den Vergleich?
-5. **Wie lange läuft die Kündigungsfrist noch?** — Kurze Restlaufzeit: Weiterbeschäftigungsantrag praktisch wenig wert; Verhandlungshebel im Vergleich umso stärker.
-6. **Ist Annahmeverzug bereits eingetreten?** — Ab welchem Datum hat AG die tatsächliche Beschäftigung verweigert?
-7. **Plant die Mandantin eine Wettbewerbs-Tätigkeit?** — Konkurrenzschutz-Vereinbarung im AV? Post-kontraktuelles Wettbewerbsverbot?
-8. **Wurde ein Aufhebungsvertrag angeboten?** — Freistellungsklausel in Aufhebungsvertrag im Einzelfall konkret formulieren.
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+Ein Arbeitgeber will Bildschirmaufzeichnungen, Tastaturprotokolle, Aktivitätsdaten oder Kamerabilder aus dem Homeoffice erheben oder bereits erhobene Daten arbeitsrechtlich verwerten. Die Prüfung trennt die arbeitsrechtliche Anweisung, die Datenverarbeitung, die Mitbestimmung und die spätere Beweisverwertung.
 
-## Kernaussage des Urteils
+## Normenanker
 
-Leitentscheidung: BAG, Urteil vom 25.03.2026 - 5 AZR 108/25 (Wirksamkeit einer Freistellungsklausel; Widerruf der Dienstwagennutzung).
+- Paragraf 106 GewO und Paragraf 611a BGB: Grenzen des Weisungsrechts und billiges Ermessen.
+- Artikel 5, 6, 13 und 35 DSGVO sowie Paragraf 26 BDSG: Zweckbindung, Rechtsgrundlage, Transparenz, Erforderlichkeit und Folgenabschätzung.
+- Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmung bei technischen Einrichtungen, die Verhalten oder Leistung überwachen können.
+- Paragrafen 3 und 5 ArbSchG: Arbeitsschutzorganisation und Gefährdungsbeurteilung auch bei mobiler Arbeit.
+- Artikel 2 Absatz 1 in Verbindung mit Artikel 1 Absatz 1 GG: allgemeines Persönlichkeitsrecht und informationelle Selbstbestimmung.
 
-Tragende Aussage: Eine vom Arbeitgeber vorformulierte (formularmaessige) Klausel, die diesen ohne weitere Voraussetzungen berechtigt, den Arbeitnehmer nach Ausspruch einer Kuendigung bis zum Ablauf der Kuendigungsfrist von der Arbeitsleistung unter Fortzahlung der Verguetung freizustellen, ist nach Paragraf 307 Abs. 1 Satz 1 BGB unwirksam. Der verfassungsrechtlich geschuetzte Beschaeftigungsanspruch des Arbeitnehmers ueberwiegt das pauschale Freistellungsinteresse. Eine Freistellung verlangt einen konkreten Anlasstatbestand (z.B. Geheimhaltungs-, Konkurrenz- oder Vertrauensschutz) und Interessenabwaegung im Einzelfall.
+## Rechtsprechungsanker
 
-Offene Quelle: dejure.org, Vernetzung BAG 25.03.2026 - 5 AZR 108/25; BAG-Pressemitteilung "Wirksamkeit einer Freistellungsklausel - Widerruf der Dienstwagennutzung". Status: Volltext zum Stand der Bearbeitung noch nicht voll veroeffentlicht - vor Schriftsatzverwendung Volltext pruefen.
+- BAG, Urteil vom 27. Juli 2017 - 2 AZR 681/16: Ein Software-Keylogger ist ohne einen auf konkrete Tatsachen gestützten Verdacht einer Straftat oder anderen schwerwiegenden Pflichtverletzung unzulässig; rechtswidrig gewonnene Erkenntnisse können im Kündigungsschutzprozess unverwertbar sein.
+- BAG, Urteil vom 23. August 2018 - 2 AZR 133/18: Auch offen erhobene Überwachungsdaten sind nicht allein wegen Zeitablaufs unverwertbar; Rechtsgrundlage, Zweckbindung und Verhältnismäßigkeit der Erhebung und weiteren Speicherung bleiben getrennt zu prüfen.
 
-Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsprechung begründet werden. Vor einer Ausgabe ist zu prüfen, welche Entscheidung die tragende Aussage wirklich trägt und ob sie für Freistellung nach Kündigung, AGB-Kontrolle und Annahmeverzug passt.
+## Prüfprogramm
 
-## Rechtsgrundlagen
+1. Technik und Datenfluss exakt erfassen: Datenarten, Taktung, Screenshots, Metadaten, Empfänger, Speicherort, Speicherdauer und mögliche Auswertungen.
+2. Zweck konkretisieren. IT-Sicherheit, Arbeitszeiterfassung, Leistungskontrolle und Verdachtsaufklärung sind verschiedene Zwecke mit verschiedenen Rechtsgrundlagen.
+3. Weisungsrecht und Vertrag prüfen. Eine Homeoffice-Abrede erlaubt keine grenzenlose Kontrolle; Eingriffe in private Räume, Geräte oder Kommunikationsinhalte benötigen eine eigenständige Rechtfertigung.
+4. Für jede Datenart Erforderlichkeit und mildere Mittel vergleichen, etwa Ergebnisabnahme, Zeiterfassung, Stichproben mit Vorankündigung oder technische Sicherheitsprotokolle. Es gibt keine allgemeine Regel, wonach jede Stichprobe zulässig wäre.
+5. Betriebsrat vor Einführung und wesentlicher Änderung beteiligen; bestehende Betriebsvereinbarung auf Zweck, Zugriffsrechte, Anlassschwellen, Löschung und Verwertungsgrenzen prüfen.
+6. Transparenzinformation, Löschkonzept, Berechtigungen und gegebenenfalls Datenschutz-Folgenabschätzung kontrollieren.
+7. Bei Verdachtskontrolle Tatsachenkern, Schwere, betroffenen Personenkreis, zeitliche Begrenzung und Dokumentation der Abwägung prüfen.
+8. Für ein arbeitsgerichtliches Verfahren Datenherkunft und Beweiskette offenlegen und ein mögliches Verwertungsverbot gesondert begründen; Datenschutzverstoß und prozessuale Unverwertbarkeit nicht gleichsetzen.
 
-| Norm | Inhalt |
-|---|---|
-| Paragraf 307 Abs. 1 BGB | AGB-Inhaltskontrolle: unangemessene Benachteiligung |
-| Paragraf 307 Abs. 2 Nr. 1 BGB | Abweichung vom wesentlichen Grundgedanken der gesetzlichen Regelung |
-| Paragraf 615 BGB | Annahmeverzug: AG schuldet Vergütung bei verweigerter Beschäftigung |
-| Paragraf 611a BGB | Beschäftigungspflicht als vertragliche Hauptpflicht |
-| Art. 1, 2 GG | Persönlichkeitsrecht und allgemeines Persönlichkeitsrecht als Grundlage des Beschäftigungsanspruchs |
+## Arbeitsergebnis
 
-### Leitentscheidungen
+Liefere eine Technik-Zweck-Rechtsgrundlagen-Matrix mit Freigabe, Auflagen oder Stopp. Ergänze einen Maßnahmenplan mit Mitbestimmung und Datenschutzdokumentation sowie je nach Rolle eine Betriebsvereinbarungsklausel, eine Stellungnahme gegen die Maßnahme oder einen Beweisverwertungsbaustein.
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+## Belege und Aktenlücken
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Wann ist Freistellung weiterhin zulässig
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-| Freistellungsgrund | Anforderung |
-|---|---|
-| Geheimhaltungsbedenken | Konkreter Zugang zu schutzbedürftigen Informationen (Kundendaten, Produktentwicklung, Preisstrategien) |
-| Konkurrenzsorge | Konkrete Tatsachen für geplanten Wechsel zu Mitbewerber; bloßer Branchenwechsel genügt nicht |
-| Vertrauensverlust | Pflichtenverletzung, die die Kündigung trägt; schwere Loyalitätsverletzung |
-| Störung Betriebsfrieden | Konkrete erhebliche Störung, dokumentiert; bloße Antipathie reicht nicht |
-| Überlapping-Beschäftigung nicht möglich | Stelle bereits neu besetzt; Tätigkeiten physisch nicht mehr vorhanden |
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Anwaltliche Strategie
-
-### Aus Arbeitnehmer-Sicht
-
-| Konstellation | Empfehlung |
-|---|---|
-| Mandantin will weiterzuarbeiten (Reputation, laufende Projekte) | Beschäftigungsanspruch geltend machen; AG in Annahmeverzug setzen |
-| Mandantin will nicht weiterarbeiten, aber Vergleich | Beschäftigungsanspruch als Verhandlungsmasse nutzen; höhere Abfindung fordern |
-| Aufhebungsvertrag in Vorbereitung | Freistellungsklausel konkret formulieren; Einzelfall begründen |
-
-### Aus Arbeitgeber-Sicht
-
-| Konstellation | Empfehlung |
-|---|---|
-| Freistellung notwendig wegen Konkurrenz | Konkrete Tatsachen dokumentieren; Freistellung mit schriftlicher Begründung erklären |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Neue Freistellungsklausel im AV | Klausel mit offenem Tatbestand ("soweit sachlich begründeter Anlass besteht") formulieren; Inhaltskontrolle prüfen |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — widerrufliche Freistellungsklausel in Klageschrift ruegen | Ruege-Baustein nach Template unten |
-| Variante A — Mandant will trotzdem Freistellung | Freistellungs-Vereinbarung mit klarer Vergaetungspflicht statt ruegen |
-| Variante B — Arbeitgeber hat Klausel nicht aktiviert | Praeventivruegeung in Klageschrift aufnehmen |
-| Variante C — Klausel wurde bereits aktiviert | Lohnfortzahlungsklage unverzueglich erheben |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbaustein — Beschäftigungsanspruch geltend machen
-
-```
-Die Beklagte hat das Arbeitsverhältnis am [Datum] gekündigt
-und die Klägerin gleichzeitig unter Hinweis auf Paragraf [X] des
-Arbeitsvertrags von der Arbeitsleistung freigestellt.
-
-Die in Paragraf [X] enthaltene Klausel ist eine formularmaessige
-Standardklausel, die den Arbeitgeber pauschal und ohne
-weitere Voraussetzung zur einseitigen Freistellung
-berechtigen soll. Diese Klausel ist nach der Rechtsprechung
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-unwirksam, weil sie die Klägerin unangemessen benachteiligt
-im Sinne des Paragraf 307 Abs. 1 BGB.
-
-Konkrete tragfaehige Gründe fuer eine Freistellung legt die
-Beklagte nicht dar. Pauschale Hinweise genuegen nicht.
-
-Der Beschaeftigungsanspruch der Klaegerin (BAG GS,
-nach verifizierter Rechtsprechung besteht bis zum Ablauf der
-Kuendigungsfrist am [Datum] fort.
-
-Die Beklagte befindet sich seit [Datum der Freistellung]
-in Annahmeverzug nach Paragraf 615 BGB.
-```
-
-## Schriftsatzbaustein — Annahmeverzug-Antrag
-
-```
-Es wird beantragt:
-
-1. Die Beklagte wird verurteilt, die Klägerin zu
-   den bisherigen Arbeitsbedingungen als [Tätigkeit]
-   tatsächlich zu beschäftigen.
-
-2. Die Beklagte wird verurteilt, an die Klägerin
-   EUR [Betrag] brutto (Vergütung für den Zeitraum
-   [Datum] bis [Datum]) nebst Zinsen in Höhe von
-   5 Prozentpunkten über dem Basiszinssatz ab
-   Fälligkeit zu zahlen.
-
-Begründung:
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-unwirksam. Die Beklagte ist seit [Datum] in Annahme-
-verzug. Die Vergütung für den Annahmeverzugszeitraum
-berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-
-## Beweislast und Darlegungslast
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- AGB-Inhaltskontrolle prüft das Gericht von Amts wegen; keine Beweislast der Parteien.
-
-## Prüfschema Freistellung
-
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
-
-| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
-|---|---|---|---|
-| 1 | Freistellungsklausel im AV vorhanden? | Paragraf 307 BGB | Nur Einzelfall-Freistellung möglich |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 3 | Konkreter Freistellungsgrund? (Tabelle oben) | Paragraf 307 Abs. 1 BGB | Ohne Grund: Freistellung unwirksam |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 5 | AG in Annahmeverzug? | Paragraf 615 BGB | Vergütungspflicht trotz Freistellung |
-| 6 | Wettbewerbsverbot relevant? | Paragrafen 74 ff. HGB | Bei nachvertr. Wettbewerbsverbot: Karenzentschädigung |
-
-## Fristen
-
-| Frist | Dauer | Rechtsgrundlage |
-|---|---|---|
-| Annahmeverzug | Ab Zeitpunkt der Freistellung, wenn kein Grund | Paragraf 615 BGB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Schadensersatz bei unwirksamer Freistellung | 3 Jahre | Paragrafen 195, 199 BGB |
-
-## Streitwert und Kosten
-
-- **Weiterbeschäftigungsantrag**: Bruttomonatsverdienst (Paragraf 42 Abs. 2 GKG).
-- **Annahmeverzug-Anspruch**: Summe der ausstehenden Vergütung.
-- **Erste Instanz**: Paragraf 12a ArbGG — keine Kostenerstattung.
-- **Wirtschaftlicher Hauptwert**: meist im Vergleich (Abfindungs-Erhöhung wegen Beschäftigungsanspruch).
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-| Klausel-Wortlaut | Bewertung |
-|---|---|
-| "Der Arbeitnehmer wird nach Kündigung freigestellt." | Unwirksam — pauschal, kein Tatbestand |
-| "Bei betriebsbedingter Kündigung kann der AG freistellen." | Wahrscheinlich unwirksam — kein konkreter Anlass |
-| "Freistellung erfolgt, wenn berechtigte Geheimhaltungsinteressen vorliegen." | Wirksam — konkreter offener Tatbestand |
-| "Freistellung erfolgt bei konkreter Gefährdung von Geschäftsgeheimnissen." | Wirksam — hinreichend konkret |
-
-## Anschluss-Skills
-
-- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — parallele Kündigungsschutzklage
-- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` — bei Fragen zur BR-Anhörung
-- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` — wenn Freistellung als Repressalie
-
-## Quellen
-
-- BGB Paragrafen 307, 615, 611a
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- technische Produktbeschreibung und Konfiguration
+- Homeoffice-Vereinbarung, Richtlinien und Datenschutzhinweise
+- Betriebsvereinbarung und Beteiligungsunterlagen des Betriebsrats
+- Verzeichnis der Verarbeitungstätigkeiten, Löschkonzept und Folgenabschätzung
+- konkrete Verdachtsmomente, Auswertungsprotokolle und Zugriffslisten
 
 ---
 
-## Skill: `fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`
+## Skill: `equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner`
 
-_Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht; Arbeitsfeld: Fachanwalt Arbeitsrecht._
+_Prüft Equal Pay in der Arbeitnehmerüberlassung anhand von Paragraf 8 AÜG, Tariföffnung, Überlassungsdauer, Vergleichsentgelt und Gesamtschutz. Berechnet die Entgeltdifferenz periodengenau und erstellt Auskunfts-, Zahlungs- oder Verteidigungsbausteine ohne die TimePartner-Entscheidung in ihr Gegenteil zu verkehren._
 
-# Rechtsprechung live prüfen
+# Equal Pay bei Leiharbeit prüfen
 
-## Kaltstart-Rueckfragen
+## Einsatzlage
 
-1. Besteht das Arbeitsverhaeltnis noch oder ist es bereits beendet?
-2. Wie hoch ist der gesetzliche Mindesturlaub (24 Werktage Sechstagewoche, anteilig bei Teilzeit)?
-3. Wie viele Urlaubstage sind bereits genommen worden, wie viele stehen noch offen?
-1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-5. Geht es um Aufhebungsvertrag, Prozessvergleich oder isolierte Verzichtserklaerung?
-6. Liegt Arbeitsunfaehigkeit vor, die die Urlaubsgewaehrung in natura verhindert?
+Ein Leiharbeitnehmer verdient weniger als ein vergleichbarer Stammarbeitnehmer. Zu prüfen ist, ob eine wirksame tarifliche Abweichung greift, wie lange sie zulässig ist und welche Vergütungsbestandteile in den Vergleich gehören.
 
-## Kernaussage des Urteils
+## Normenanker
 
-Leitentscheidung: BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (Kein Urlaubsverzicht durch Prozessvergleich).
+- Paragraf 8 Absätze 1 bis 4 AÜG: Gleichstellungsgrundsatz, Vermutung durch Entgeltauskunft, Tariföffnung und zeitliche Grenzen der Entgeltabweichung.
+- Paragrafen 9 und 10 AÜG: Unwirksamkeits- und Rechtsfolgen bei unzulässiger Überlassung oder unzulässiger Abweichung.
+- Paragraf 13 AÜG: Auskunft des Entleihers über die im Betrieb geltenden wesentlichen Arbeitsbedingungen einschließlich Entgelt.
+- Paragrafen 3 und 4 TVG: Tarifgebundenheit und normative Wirkung; arbeitsvertragliche Bezugnahme getrennt prüfen.
+- Artikel 5 Richtlinie 2008/104/EG: Gleichbehandlung und zulässige tarifliche Abweichung unter Achtung des Gesamtschutzes.
 
-Tragende Aussage: Im laufenden Arbeitsverhaeltnis ist ein Verzicht auf den gesetzlichen Mindesturlaub - auch in einem gerichtlichen Vergleich - unwirksam, soweit der Arbeitnehmer den Urlaub aufgrund Arbeitsunfaehigkeit oder anderer tatsaechlicher Hindernisse nicht in natura nehmen kann. Eine Klausel, wonach der gesetzliche Mindesturlaub "in natura gewaehrt" gilt, ist nach Paragraf 13 Abs. 1 Satz 3 BUrlG i.V.m. Art. 7 RL 2003/88/EG nichtig, soweit sie den gesetzlichen Mindesturlaub betrifft.
+## Rechtsprechungsanker
 
-Offene Quelle: dejure.org, Vernetzung BAG 03.06.2025 - 9 AZR 104/24; BAG-Pressemitteilung "Kein Urlaubsverzicht durch Prozessvergleich".
+- EuGH, Urteil vom 15. Dezember 2022 - C-311/21 - TimePartner Personalmanagement: Eine tarifliche Schlechterstellung beim Entgelt verlangt Ausgleichsvorteile, die den Gesamtschutz wahren; nationale Gerichte müssen dies wirksam kontrollieren können.
+- BAG, Urteil vom 31. Mai 2023 - 5 AZR 143/19: Das damalige iGZ-ver.di-Tarifwerk genügte den unionsrechtlichen Anforderungen. Insbesondere kann die gesetzlich gesicherte Vergütung in verleihfreien Zeiten einen Ausgleichsvorteil darstellen; aus der bloßen Entgeltdifferenz folgte im entschiedenen Fall kein Nachzahlungsanspruch.
 
-Erst mit Beendigung des Arbeitsverhaeltnisses entsteht der Anspruch auf Urlaubsabgeltung in Geld (Paragraf 7 Absatz 4 BUrlG). Dieser ist als reiner Geldanspruch dispositiv und kann grundsaetzlich vergleichsweise erledigt werden — allerdings nur mit klarer, konkret bezifferter Klausel.
+## Prüfprogramm
 
-## Konsequenz fuer Vergleiche und Aufhebungsvertraege
+1. Verleiher, Entleiher, Überlassungszeiträume und Unterbrechungen je Einsatz feststellen; gesetzliche Anrechnungsregeln periodengenau anwenden.
+2. Vergleichstätigkeit und vergleichbaren Stammarbeitnehmer bestimmen. Grundentgelt, Zulagen, Zuschläge, Sonderzahlungen, Sachleistungen und sonstige wesentliche Entgeltbedingungen vollständig erfassen.
+3. Tarifbindung oder wirksame Bezugnahme, fachlichen und persönlichen Geltungsbereich sowie Rangfolge mehrerer Tarifwerke prüfen.
+4. Gesetzliche Höchstdauer der Entgeltabweichung und etwaige Branchenzuschläge berechnen; die Rechtslage des jeweiligen Abrechnungsmonats verwenden.
+5. Gesamtschutz des konkret anwendbaren Tarifwerks prüfen. Nicht pauschal verlangen, dass jeder einzelne Nachteil durch eine individuell bezifferte Leistung kompensiert werden müsse.
+6. Bei fehlender oder unwirksamer Abweichung Differenzvergütung für jede Entgeltkomponente und jeden Monat berechnen.
+7. Auskunft, Darlegungs- und Beweislast sowie arbeits- oder tarifvertragliche Ausschlussfristen prüfen; Ansprüche rechtzeitig schriftlich und gerichtlich sichern.
 
-Die Entscheidung trifft jeden Aufhebungsvertrag und jeden Prozessvergleich. Eine pauschale Erledigungsklausel vom Typ "mit Erfuellung dieses Vergleichs sind saemtliche Anspruechte aus dem Arbeitsverhaeltnis abgegolten" ist hinsichtlich des gesetzlichen Mindesturlaubs unwirksam, soweit der Vergleich noch im bestehenden Arbeitsverhaeltnis geschlossen wird.
+## Arbeitsergebnis
 
-Die saubere Vergleichsformulierung trennt drei Schichten:
-1. **Gesetzlicher Mindesturlaub** — Paragraf 3 BUrlG, unabdingbar nach Paragraf 13 Absatz 1 BUrlG.
-2. **Vertraglicher Mehrurlaub** — frei verhandelbar, kann verzichtet werden.
-3. **Urlaubsabgeltung nach Beendigung** — Geldanspruch, dispositiv, muss konkret beziffert sein.
+Erstelle eine Monatsmatrix mit Einsatz, Tarifgrundlage, Vergleichsentgelt, gezahltem Entgelt, Branchenzuschlag, Abweichungsdauer und Differenz. Ergänze Auskunftsverlangen, Fristenblatt und einen bezifferten Zahlungsantrag oder eine Verteidigung anhand des tatsächlich geltenden Tarifwerks.
 
-## Pruefschema
+## Belege und Aktenlücken
 
-| Schritt | Pruefung |
-| --- | --- |
-| 1 | Hoehe Mindesturlaub feststellen |
-| 2 | Bereits genommene Urlaubstage abziehen |
-| 3 | Resturlaubsanspruch ermitteln |
-| 4 | Verfallspruefung Paragraf 7 Absatz 3 BUrlG mit Hinweispflicht des Arbeitgebers |
-| 5 | Krankheit und Uebertragungsfrist pruefen |
-| 6 | Vergleichsformulierung pruefen: Mindesturlaub gesondert ausgewiesen |
-| 7 | Bei Aufhebungsvertrag: Freistellung in natura oder Geldabgeltung klar geregelt |
-| 8 | Bei bereits geschlossenem Vergleich mit Pauschalklausel: Nachforderung moeglich |
-
-## Empfohlene Vergleichsformulierung
-
-Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] endet. Bis zum Beendigungstermin ist die Klaegerin unwiderruflich von der Arbeitsleistung freigestellt. Saemtliche Urlaubsansprueche, einschliesslich des gesetzlichen Mindesturlaubs nach Paragraf 3 BUrlG sowie des vertraglichen Mehrurlaubs, werden waehrend der Freistellung in natura gewaehrt und sind damit erfuellt. Sollten Urlaubsansprueche aufgrund von Arbeitsunfaehigkeit nicht in natura gewaehrt werden koennen, werden diese zum Beendigungstermin als Urlaubsabgeltung nach Paragraf 7 Absatz 4 BUrlG in Hoehe von brutto [Betrag] Euro ausgezahlt.
-
-## Klausel-Verbote
-
-| Formulierung | Problem |
-| --- | --- |
-| "Saemtliche Urlaubsansprueche sind abgegolten." | Pauschal, erfasst Mindesturlaub im laufenden Arbeitsverhaeltnis unwirksam |
-| "Die Klaegerin verzichtet auf restlichen Urlaub." | Verzicht im laufenden Verhaeltnis unwirksam |
-| "Urlaubsabgeltung ist mit der Abfindung abgegolten." | Keine konkrete Bezifferung, keine Trennung |
-
-## Nachforderungsmoeglichkeit
-
-Liegt eine pauschale Erledigungsklausel vor, kann die Mandantin den Urlaubsabgeltungsanspruch nach Paragraf 7 Absatz 4 BUrlG fuer den gesetzlichen Mindesturlaub trotz Vergleich noch geltend machen. Die Bezifferung erfolgt nach dem zuletzt bezogenen Bruttoentgelt. Verjaehrung nach Paragraf 195 BGB (drei Jahre ab Schluss des Jahres, in dem der Anspruch entstanden ist).
-
-## Anschluss
-
-Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Aufhebungsvertragsgestaltung und mit `vergleichsverhandlung-strategie` fuer den Prozessvergleich. Bei Klage auf Urlaubsabgeltung nach pauschalem Vergleich ergaenzend `schriftsatzkern-substantiierung` heranziehen.
-
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Paragrafenkette
-
-- Paragrafen 1, 3 BUrlG — Urlaubsanspruch (20 Werktage Mindesturlaub)
-- Paragraf 7 Abs. 3 BUrlG — Übertragung und Verfall
-- Paragraf 7 Abs. 4 BUrlG — Abgeltungsanspruch bei Beendigung
-- Paragraf 13 Abs. 1 BUrlG — Unabdingbarkeit des Mindesturlaubs
-- Paragrafen 195, 199 BGB — Verjährung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
----
-
-## Skill: `befristung-tzbfg`
-
-_Wenn es um Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen Paragraf 14 TzBfG Sachgrundbefristung sachgrundlose Befristung Paragraf 14 Abs. 4 TzBfG Schriftform vor Beschäftigungsbeginn Paragraf 17 TzBfG Klagefrist drei Wochen. Prüfraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot Paragraf 14 Abs. 2 S. 2 BAG-Linie. Output Befristungsprüf-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung.
-
-### Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Kaltstart-Rückfragen
-
-1. Liegt schriftlicher Arbeitsvertrag mit Befristung **vor** Beschäftigungsbeginn vor?
-2. Sachgrundbefristung (Paragraf 14 Abs. 1 TzBfG) oder sachgrundlos (Paragraf 14 Abs. 2 TzBfG)?
-3. Bei sachgrundloser Befristung: Vorbeschäftigung bei diesem Arbeitgeber?
-4. Verlängerungen oder echte Neubefristung?
-5. Wann endet die Befristung?
-
-## Rechtsgrundlagen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Sachgrundbefristung:** Paragraf 14 Abs. 1 TzBfG, sachliche Gründe in S. 2 Nr. 1 bis 8.
-- **Sachgrundlos:** Paragraf 14 Abs. 2 TzBfG — bis zu zwei Jahre, höchstens dreimalige Verlängerung in dieser Zeit.
-- **Form der Befristungsabrede:** Paragraf 14 Abs. 4 TzBfG verlangt weiterhin Schriftform. Zulässig sind Papieroriginal mit eigenhändiger Unterschrift beider Parteien (Paragraf 126 BGB) oder echte qES beider Parteien (Paragraf 126a BGB). Textform, E-Mail, PDF-Scan, einfache Signatur und fortgeschrittene Signatur ohne qualifiziertes Zertifikat genügen nicht.
-- **Befristungskontrollklage:** Paragraf 17 TzBfG — drei Wochen nach vereinbartem Ende; Versäumung führt zur Fiktion der Wirksamkeit (Paragraf 17 S. 2 iVm Paragraf 7 KSchG).
-- **Neueinstellung Älterer:** Paragraf 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat **und** unmittelbar vor Beginn des Arbeitsverhältnisses **mindestens vier Monate** beschäftigungslos war (Paragraf 138 SGB III), Transferkurzarbeitergeld bezog oder an einer Maßnahme nach SGB II/III teilgenommen hat. Mehrfachverlaengerung innerhalb der Gesamtdauer von fünf Jahren zulässig.
-- **Wissenschaftszeitvertragsgesetz (WissZeitVG):** Sondergesetz für Wissenschaft.
-
-## Sachgründe (Paragraf 14 Abs. 1 S. 2 TzBfG)
-
-| Nr. | Sachgrund |
-|---|---|
-| 1 | Vorübergehender betrieblicher Bedarf |
-| 2 | Befristung im Anschluss an Ausbildung/Studium zur Erleichterung des Übergangs |
-| 3 | Vertretung anderer Arbeitnehmer (Krankheit, Elternzeit, Mutterschutz) |
-| 4 | Eigenart der Arbeitsleistung (z. B. Künstler, Profisport) |
-| 5 | Erprobung |
-| 6 | In der Person des Arbeitnehmers liegende Gründe |
-| 7 | Vergütung aus Haushaltsmitteln, die für eine befristete Beschäftigung bestimmt sind |
-| 8 | Gerichtlicher Vergleich |
-
-## Prüfschema
-
-```
-1. Schriftform Paragraf 14 Abs. 4 TzBfG
- - Papieroriginal mit eigenhändiger Unterschrift beider Parteien oder echte qES beider Parteien vor Beschäftigungsbeginn?
- - Bei Plattformsignatur: qualifiziertes Zertifikat, Identifizierung, Zeitstempel, Dokumentbezug und Prüfprotokoll sichern; Standard-DocuSign/Adobe-Sign ohne qES-Stufe genügt nicht.
-2. Verlängerungen oder Neubefristung?
- - Verlängerung iSd Paragraf 14 Abs. 2 S. 1 Hs. 2 TzBfG ist nur die nahtlose Anschluss-Befristung ohne inhaltliche Änderung.
-3. Sachgrund oder sachgrundlos?
- - Bei sachgrundlos: Vorbeschäftigung prüfen (BAG-Linie post-BVerfG).
- - Bei Sachgrund: Stichhaltigkeit der konkreten Gründe.
-4. Höchstdauer
- - Paragraf 14 Abs. 2 TzBfG zwei Jahre / drei Verlängerungen.
- - Tarifvertragliche Abweichungen Paragraf 14 Abs. 2 S. 3, 4 TzBfG.
-5. Klagefrist Paragraf 17 TzBfG
- - Drei Wochen ab vereinbartem Ende.
-6. Folge bei Unwirksamkeit
- - Arbeitsverhältnis als unbefristet abgeschlossen.
- - Kündigung nur nach KSchG.
-```
-
-## Schreibvorlage (Befristungskontrollklage)
-
-```
-An das Arbeitsgericht [Ort]
-[Anschrift] [Ort, Datum]
-
-In dem Rechtsstreit
-[Klagepartei] ./. [Beklagte]
- - wegen Befristungskontrolle -
-
-erheben wir namens und in Vollmacht der Klagepartei
-
- Befristungskontrollklage
-
-und beantragen,
-
-1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien nicht aufgrund der Befristung im Arbeitsvertrag vom [Datum] mit Ablauf des [Datum] geendet hat, sondern auf unbestimmte Zeit fortbesteht.
-2. Hilfsweise: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund einer auflösenden Bedingung beendet ist.
-3. Die Beklagte trägt die Kosten des Rechtsstreits.
-
-Sachverhalt: [Einstellung, Vertragsverlauf, Befristungen, Verlängerungen, ggf. Vorbeschäftigung]
-
-Rechtliche Bewertung:
-1. Klagefrist Paragraf 17 TzBfG ist gewahrt (vereinbartes Ende: [Datum]).
-2. Befristung ist unwirksam, weil [Schriftformverstoß / Vorbeschäftigung / fehlender Sachgrund].
-3. Folge: Arbeitsverhältnis besteht unbefristet fort.
-
-[Anwalt, Fachanwalt für Arbeitsrecht]
-```
-
-## Übergabe
-
-- Klagefrist Paragraf 17 TzBfG **ab vereinbartem Ende** — anders als Paragraf 4 KSchG (ab Zugang).
-- Bei einvernehmlicher Verlängerung Schriftform peinlich genau wahren (Originale, Unterschriften vor Beginn).
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0.
-
-## Aktuelle Rechtsprechung (Stand Mai 2026)
-
-- **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: Paragraf 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion zur Begruenstigung von Betriebsratsmitgliedern findet nicht statt. Verweigert der Arbeitgeber dem befristet beschäftigten Betriebsratsmitglied jedoch wegen des Mandats einen Folgevertrag, hat das Mitglied einen Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (Paragraf 78 BetrVG i.V.m. Paragraf 280 BGB). Quelle: dejure.org / luther-lawfirm.com Newsroom; vor Schriftsatzverwendung Volltextpruefung empfohlen.
-- **ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20**: Elektronische Signatur ohne qES genügt Paragraf 14 Abs. 4 TzBfG nicht; die Befristung ist unwirksam und Paragraf 16 TzBfG greift.
-- **LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21**: Eingescannte Unterschrift wahrt die Schriftform der Befristungsabrede nicht; spätere Originalunterzeichnung heilt nicht rückwirkend.
-- **ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23**: Echte qES per DocuSign-qES kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist die qualifizierte Signatur, nicht der Plattformname.
-- Hinweis: Aeltere Leitentscheidungen zur sachgrundlosen Befristung (z.B. BVerfG, Beschl. vom 06.06.2018 - 1 BvL 7/14 u.a., zur Verfassungsmaessigkeit des Vorbeschaeftigungsverbots; BAG-Folgerechtsprechung) bleiben massgeblich; Aktenzeichen vor Zitat über dejure.org / openjur.de verifizieren.
-
-## Paragrafenkette
-
-- Paragraf 14 Abs. 1 TzBfG — Sachgrundbefristung (Nr. 1-8)
-- Paragraf 14 Abs. 2 TzBfG — Sachgrundlose Befristung (max. zwei Jahre, drei Verlängerungen)
-- Paragraf 14 Abs. 2 S. 2 TzBfG — Vorbeschäftigungsverbot
-- Paragraf 14 Abs. 4 TzBfG i.V.m. Paragraf 126 BGB — Schriftformerfordernis
-- Paragraf 126a BGB — elektronische Form nur bei echter qualifizierter elektronischer Signatur beider Parteien
-- Paragraf 17 TzBfG — Befristungskontrollklage (Frist drei Wochen ab vereinbartem Ende)
-- Paragraf 16 TzBfG — Rechtsfolge Unwirksamkeit: Arbeitsverhältnis gilt als unbefristet geschlossen
+- Arbeitsvertrag, Tarifverträge und Mitgliedschafts- oder Bezugnahmenachweise
+- Überlassungsverträge, Einsatzmitteilungen und Unterbrechungszeiten
+- Abrechnungen des Leiharbeitnehmers und Entgeltauskunft des Entleihers
+- Tätigkeitsbeschreibungen und Vergütungsbestandteile vergleichbarer Stammarbeitnehmer
+- Geltendmachungs- und Ablehnungsschreiben zu Ausschlussfristen
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

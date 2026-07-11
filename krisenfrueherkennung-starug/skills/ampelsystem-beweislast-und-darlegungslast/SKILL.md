@@ -68,28 +68,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 - Frühwarnsystem kostet Ressourcen — Mindeststandard skaliert mit Unternehmensgröße. Bei kleiner GmbH wird kein vollumfängliches BI-System verlangt, aber zumindest Quartals-Liquidität mit Ausschau.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 StaRUG
-- § 102 StaRUG
-- § 93 AktG
-- § 43 GmbHG
-- § 73 StaRUG
-- § 26 StaRUG
-- § 29 StaRUG
-- § 31 StaRUG
-- § 30 StaRUG
-- § 49-59 StaRUG
-- § 9 StaRUG
-- § 76 StaRUG
-
-### Leitentscheidungen
-
-- BGH IX ZR 229/22
-- BGH IX ZR 285/14
-- BGH IX ZR 56/22
-- BGH II ZR 206/22
-- BGH IV ZR 66/25

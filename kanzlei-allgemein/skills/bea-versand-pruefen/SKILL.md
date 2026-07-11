@@ -1,125 +1,65 @@
 ---
 name: bea-versand-pruefen
-description: "Wenn es um beA-Versand prüfen in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger und Frist, trennt qualifizierte Signatur vom persönlichen sicheren Übermittlungsweg, kontrolliert Hauptdokument und Anhänge, sichert Prüfvermerk und gerichtliche Eingangsbestätigung und routet technische Störungen in eine belegte Ersatzeinreichung."
 ---
 
 # beA-Versand prüfen
 
-## Arbeitsbereich
+## 1. Direktstart
 
-Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 55a VwGO § 52d FGO sowie § 31a BRAO. Erforderliche Beachtung sicherer Übermittlungsweg (sUW durch persönliches Versenden des beA-Inhabers) oder qualifizierte elektronische Signatur (qeS). Prüft Versand-Quittung Eingangsbestätigung und Verwertbarkeit für Fristnachweis. Hinweis Wiedereinsetzung bei beA-Stoerung mit Glaubhaftmachung. Pflichtschritt bei elektronischem Versand an Gerichte und Behörden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lies zuerst Schriftsatz, Versandmappe, Fristnotiz und vorhandene beA-Protokolle. Wenn der Versand noch bevorsteht, liefere eine Stop-Liste. Wenn er bereits erfolgt ist, beginne mit der gerichtlichen Eingangsbestätigung und gleiche Empfänger, Aktenzeichen und Anhänge ab.
 
-## Arbeitsweg
+## 2. Verfahrensordnung
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO §§ 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA §§ 2, 3, 4, 5, 6, 10, 11, 12; RVG §§ 3a, 10; GwG §§ 2, 10, 11, 43; DSGVO Art. 5, 6, 9, 28, 32; BDSG § 26; ZPO § 130d; BRAO § 31a/beA und lokale Kammerhinweise live prüfen; keine BeckRS-/juris-Blindzitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bestimme die einschlägige Norm:
 
-## Triage zu Beginn
-1. Über welchen Versandweg soll der Schriftsatz eingereicht werden: sUW (persönliches Versenden des Inhabers) oder qeS (qualifizierte elektronische Signatur)?
-2. Liegt eine beA-Versandquittung oder Eingangsbestaetigung vor, die die Fristwahrung belegt?
-3. Gibt es Anzeichen für eine beA-Stoerung oder technische Uebermittlungspanne (§ 130a Abs. 6 ZPO Wiedereinsetzung)?
-4. Muss ein elektronisches Empfangsbekenntnis (EB) erteilt werden?
+- Zivilverfahren: ZPO Paragraf 130a und Paragraf 130d.
+- Arbeitsgericht: ArbGG Paragraf 46c und Paragraf 46g.
+- Sozialgericht: SGG Paragraf 65a und Paragraf 65d.
+- Verwaltungsgericht: VwGO Paragraf 55a und Paragraf 55d.
+- Finanzgericht: FGO Paragraf 52a und Paragraf 52d.
+- Strafverfahren: StPO Paragraf 32a und Paragraf 32d.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Direkte Klagen beim Gericht der Europäischen Union werden über e-Curia und nicht über beA eingereicht.
 
-## Zentrale Normen
-- § 130a ZPO — Elektronische Einreichung Zivilprozess; sUW oder qeS als Pflichtalternativen
-- § 31a BRAO — beA-Nutzungspflicht für alle zugelassenen Rechtsanwaelte
-- § 12 ERVV — Technische Anforderungen an den elektronischen Rechtsverkehr
-- § 130a Abs. 6 ZPO — Wiedereinsetzung bei nachgewiesener technischer Stoerung
+## 3. Signaturentscheidung
 
-## Rechtsgrundlagen
+| Variante | Erfordernis |
+| --- | --- |
+| qualifizierte elektronische Signatur | verantwortende Person signiert qualifiziert; technischer Versand kann durch Mitarbeiter erfolgen |
+| einfacher Namenszug und sicherer Übermittlungsweg | verantwortender Postfachinhaber versendet selbst über sein Postfach |
 
-- **§ 31a BRAO** beA-Pflicht für Rechtsanwälte.
-- **§ 130a ZPO** elektronische Einreichung Zivilprozess.
-- **§ 32d StPO** elektronische Einreichung Strafprozess.
-- **§ 65d SGG** Sozialgerichtsverfahren.
-- **§ 55a VwGO** Verwaltungsgerichtsverfahren.
-- **§ 52d FGO** Finanzgerichtsverfahren.
-- **§ 12 ERVV** Elektronischer-Rechtsverkehr-Verordnung.
+BGH, Beschluss vom 7. Mai 2024, VI ZB 22/23, BGH, Beschluss vom 4. September 2024, IV ZB 31/23, und BAG, Beschluss vom 22. Januar 2025, 7 ABR 23/23, tragen diese Trennung. Anlagen benötigen nach ZPO Paragraf 130a Absatz 3 keine eigene Signatur.
 
-## Zwei zulässige Versandwege
+## 4. Vorversandkontrolle
 
-### 1. Sicherer Übermittlungsweg (sUW)
+1. Gericht und Empfängeradresse stimmen mit Rubrum und Rechtsmittelzuständigkeit überein.
+2. Gerichtliches Aktenzeichen ist exakt oder der Vorgang ist als Neueingang gekennzeichnet.
+3. Hauptdokument ist final und einfach oder qualifiziert signiert.
+4. Anlagenzitate, Dateinamen, sichtbare Stempel und Anlagenverzeichnis stimmen überein.
+5. Dateien sind lesbar, nicht verschlüsselt und nach ERVV sowie aktueller ERVB geeignet.
+6. Anzahl und Gesamtgröße sind aus den finalen Dateien berechnet.
+7. Ausreichende Reaktionsreserve vor Fristablauf bleibt.
 
-- Versand erfolgt persönlich durch den beA-Inhaber.
-- Anmeldung mit beA-Karte und PIN.
-- Keine qualifizierte elektronische Signatur erforderlich am einzelnen Schriftsatz.
-- Signatur durch sUW gilt als ausreichend (§ 130a Abs. 3 Satz 1 Var. 2 ZPO).
+## 5. Nachversandkontrolle
 
-### 2. Qualifizierte elektronische Signatur (qeS)
+Die Frist wird erst erledigt, wenn die automatisierte gerichtliche Eingangsbestätigung kontrolliert ist. Prüfe:
 
-- Schriftsatz wird mit qeS unterzeichnet.
-- Versand durch eine andere Person (z. B. Sekretariat) zulässig.
-- qeS muss vom Anwalt mit beA-Karte erstellt sein.
+1. positives Übermittlungsergebnis,
+2. richtiges Gericht und richtiges Aktenzeichen,
+3. richtige Hauptdatei,
+4. vollständige Anhangsliste,
+5. Zeitstempel vor Fristablauf,
+6. Prüfvermerk zum sicheren Übermittlungsweg oder zur Signatur.
 
-## Pflichtprüfung
+BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22, verlangt eine organisierte Ausgangskontrolle. BGH, Beschluss vom 24. April 2025, III ZB 12/24, lässt den organisatorischen Zeitpunkt offen, verlangt aber Abruf und Kontrolle innerhalb einer noch ausreichenden Reaktionsreserve.
 
-### Vor Versand
+## 6. Störung und ungeeignetes Dokument
 
-- [ ] Schriftsatz unterzeichnet durch qeS **oder** Versand durch den beA-Inhaber selbst (sUW)?
-- [ ] Empfänger über das beA-Adressbuch identifiziert (SAFE-ID)?
-- [ ] PDF im Format PDF/A oder Standard-PDF (lesbar)?
-- [ ] Anlagen als einzelne PDF oder im Hauptdokument eingebunden?
-- [ ] Gesamtnachrichtgroesse unter beA-Limit (200 MB; bei sehr großen Anlagen sequenziell)?
+ZPO Paragraf 130a Absatz 6 betrifft die geeignete Nachreichung nach Hinweis auf ein bereits eingegangenes, technisch ungeeignetes Dokument. Eine vorübergehende technische Unmöglichkeit und Ersatzeinreichung richtet sich nach ZPO Paragraf 130d Sätze 2 bis 4 beziehungsweise der Parallelvorschrift.
 
-### Nach Versand
+Bei Störung direkt in `bea-wiedereinsetzung-ersatzeinreichung-2026` wechseln. Die Angabe `beA ging nicht` reicht nicht.
 
-- [ ] **Versandbestätigung** des beA-Systems gespeichert?
-- [ ] **Eingangsbestätigung** des Empfangsgerichts / der Empfangsbehörde liegt vor?
-- [ ] Zeitstempel auf der Quittung passt zum Versand?
-- [ ] Bei Fristsache: Quittung **vor** Fristablauf erzeugt?
+## 7. Output
 
-## Quittungsformate
-
-Das beA gibt zwei Quittungen:
-
-1. **Sendebericht** der eigenen beA-Anwendung — Zeitpunkt der erfolgreichen Übertragung an den Server.
-2. **Eingangsbestätigung** des Empfängers (Gericht) — bestätigt Eingang in der Posteingangsstelle.
-
-Beide gehören in die Mandatsakte unter `mandate/<az>/03_schriftsaetze/<datum>-bea-quittung.pdf`.
-
-## Fristnachweis
-
-- **Eingang beim Gericht** bestimmt Fristwahrung (§ 130a Abs. 5 ZPO Eingang in die für das Gericht bestimmte Posteingangsstelle).
-- **Eigene Sendebestätigung allein** reicht nicht — entscheidend ist die Eingangsbestätigung beim Empfänger.
-
-## Störung des beA
-
-- **Störungsdokumentation** Screenshot Fehlermeldung Datum Uhrzeit.
-- **Ersatzeinreichung** schriftlich + qeS gemäß § 130d Satz 3 ZPO.
-- **Glaubhaftmachung** der Störung unverzueglich nach Wegfall (§ 130d Satz 2 ZPO iVm § 67 SGG analog).
-- **Wiedereinsetzung** § 233 ZPO bei unverschuldetem Fristversäumnis.
-
-## Audit
-
-- Eintrag im `versand-audit.jsonl`.
-- Quittungs-PDFs gesichert.
-- Verbindung zum Fristenbuch (Fristerledigung markiert).
-
-## Sonderfälle
-
-### Mehrere Anlagen
-
-- Inhaltsverzeichnis der Nachricht klar (Hauptschriftsatz + Anlagen K1 K2 ...).
-- Anlagen einzeln als PDF oder im Konvolut — je nach Gerichtspraxis.
-
-### Empfänger ohne beA
-
-- Wenn die Empfänger-Behörde noch nicht über beA / EGVP erreichbar: Postversand mit qualifizierter Bestätigung (Bote Einschreiben).
-- Bei Gerichten in Deutschland generell EGVP-Eingang vorhanden — Prüfung im beA-Adressbuch.
-
-### RA-zu-RA
-
-- Versand an gegnerischen Anwalt über beA ist zulässig.
-- Nicht Pflicht (§ 14 BORA gilt für Pflichten zwischen Anwälten; beA-Pflicht ist nur ggu. Gerichten und Behörden).
-
-## Ausgabe
-
-- Eintrag im `versand-audit.jsonl`.
-- Quittungen unter Mandatsakte.
-- Bei Störung: Störungsdokumentation als PDF.
+Liefere Vorversand- oder Nachversandprotokoll, Stop-Liste, Signaturentscheidung, Eingangskontrolle und Archivierungsliste. Für die vollständige Dateiproduktion nutze `bea-versandmappe-endfertigung` im Plugin Anlagen zu Schriftsätzen.

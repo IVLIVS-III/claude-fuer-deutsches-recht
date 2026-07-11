@@ -20,7 +20,7 @@ Paragraf 286 BGB (Verzugseintritt) — Paragraf 288 BGB (Verzugszinsen: +5 Pp. B
 
 ## Basiszinssatz Paragraf 247 BGB
 
-- Basiszinssatz zum 01.01.2026: 1,27 Prozent (unveraendert gegenueber 01.07.2025). Bundesbank-Bekanntmachung: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
+- Basiszinssatz seit 1. Juli 2026: 1,52 Prozent. Zinsläufe über den Stichtag in Perioden mit 1,27 beziehungsweise 1,52 Prozent Basiszins teilen. Amtliche Bundesbank-Tabelle: https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820
 - Daraus B2C-Verzugszinssatz (Paragraf 288 Abs. 1 BGB) 6,27 Prozent, B2B-Verzugszinssatz (Paragraf 288 Abs. 2 BGB) 10,27 Prozent. Halbjaehrliche Pruefung am 01.01. und 01.07. erforderlich.
 - Verzugspauschale Paragraf 288 Abs. 5 BGB (B2B): 40 EUR pro Vorgang.
 

@@ -20,8 +20,6 @@ description: "Wenn es um Betroffenenrechte nach DSGVO Art in WEG- und Hausverwal
 
 ## Fachlicher Kern — Miet- und WEG-Recht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
-- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -45,7 +43,7 @@ Eigentümer, ehemalige Eigentümer, Mieter und Beiratsmitglieder können datensc
 
 Kopie der verarbeiteten Daten, nicht nur eine Bestätigung. Konkret: relevante Stellen aus Eigentümerlisten (nur eigene Einheit), eigene Mahnungen und Hausgeld-Kontoauszüge, Protokoll-Passagen mit namentlicher Erwähnung, E-Mail-Korrespondenz Verwalter – Eigentümer, Buchungs-Kostenstellen der eigenen Einheit. Nicht herausgegeben werden müssen: Daten Dritter (andere Eigentümer), interne Verwalter-Notizen ohne personenbezogenen Gehalt, anwaltliche Korrespondenz unter Berufsgeheimnis.
 
-EuGH, Urteil vom 07.11.2023, C-307/22 (FT/DW): Auskunftsrecht umfasst erste Kopie vollständig und kostenlos; bei weiteren Kopien kann eine angemessene Gebühr erhoben werden. Arztbriefe-Analogie gilt auch für Verwalter-Unterlagen. Urteil: https://curia.europa.eu/juris/document/document.jsf?docid=279355&doclang=DE
+EuGH, Urteil vom 26.10.2023 - C-307/22, FT: Die erste Kopie der personenbezogenen Daten ist grundsätzlich unentgeltlich; der Zweck des Auskunftsantrags muss nicht begründet werden. Für die WEG-Akte folgt daraus nicht die pauschale Herausgabe jedes Dokuments: Zuerst personenbezogene Daten identifizieren und dann prüfen, welche Dokumentauszüge oder ganzen Dokumente zum verständlichen Kontext erforderlich sind. Amtliche Quelle: https://curia.europa.eu/juris/document/document.jsf?docid=279355&doclang=DE
 
 ## Löschfristen und Aufbewahrungspflichten
 

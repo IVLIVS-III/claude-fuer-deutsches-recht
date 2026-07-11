@@ -61,7 +61,6 @@ description: "Wenn es um Aufklaerungsfehler Beweisstrategie in Fachanwalt Medizi
 | 8 | Wirksame Einwilligung | § 630d BGB | Einwilligungsfähig? Ausreichend informiert? |
 | 9 | Beweislastumkehr | § 630h Abs. 2 BGB | Arzt hat Beweis für ordnungsgemäße Aufklärung? |
 | 10 | Kausalität Aufklärungsmangel — Schaden | § 630h Abs. 2 BGB analog | Eingetretene Folge von nicht aufgeklärtem Risiko? |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Schadensumfang | §§ 249, 253 BGB | Körperverletzung rechtswidrig = alle Schadensfolgen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -193,10 +192,8 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 
 | Einwand Arzt | Reaktion Patient |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Patient kannte Risiko aus früherer Behandlung | Aufklärungspflicht bleibt bei jedem Eingriff; früheres Wissen entlastet nur bei identischen Risiken und sehr kurzem Abstand |
 | Eingriff war eilbedürftig | § 630d Abs. 1 Satz 4 BGB — bei Notfall mutmaßliche Einwilligung; Eilbedürftigkeit muss dokumentiert sein |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 

@@ -2,18 +2,60 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 120 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-vergaberecht`.
+Diese Vollprüfung enthält top-8 von 121 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-vergaberecht`.
 
 ## Inhaltsverzeichnis
 
-1. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwel…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
-4. **mandat-triage-vergaberecht** — Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pass…
-5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten u…
-6. **spezial-orientierung-red-team-und-qualitaetskontrolle** — Wenn es um Orientierung: Red-Team und Qualitätskontrolle in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zustä…
-7. **fachanwalt-vergaberecht-orientierung** — Wenn es um Fachanwalt für Vergaberecht — Orientierung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit,…
-8. **orientierung-fehlerkatalog** — Wenn es um Orientierung Fehlerkatalog in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
+1. **vergaberechtliche-versandmappe-endfertigen** — Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Ve…
+2. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwel…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
+4. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
+5. **mandat-triage-vergaberecht** — Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pass…
+6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten u…
+7. **spezial-orientierung-red-team-und-qualitaetskontrolle** — Wenn es um Orientierung: Red-Team und Qualitätskontrolle in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zustä…
+8. **fachanwalt-vergaberecht-orientierung** — Wenn es um Fachanwalt für Vergaberecht — Orientierung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit,…
+
+---
+
+## Skill: `vergaberechtliche-versandmappe-endfertigen`
+
+_Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Vergabekammer und Vergabesenat, prüft Rüge- und Notfristen, Beteiligte, Anträge und Zuschlagshemmung, ordnet Bekanntmachung, Vergabeunterlagen, Bieterfragen, Angebot und Wertung zu und liefert portalgerechte oder beA-fertige Einzeldateien mit vollständigem Zustellplan._
+
+# Vergaberechtliche Versandmappe endfertigen
+
+## 1. Drei Versandwege trennen
+
+Lies Rüge, Vergabeunterlagen, Plattformnachrichten, Nachprüfungsantrag, Kammerbeschluss und Beschwerdeentwurf zuerst. Bestimme vor jeder Dateiproduktion:
+
+1. Kommunikation mit Auftraggeber über die Vergabeplattform,
+2. Nachprüfungsantrag an die zuständige Vergabekammer nach GWB Paragraf 161,
+3. sofortige Beschwerde an den zuständigen Vergabesenat nach GWB Paragraf 172.
+
+Übertrage den beA-Standard nicht auf eine Plattform oder Kammer, deren veröffentlichter Empfangsweg anders geregelt ist. Für den Vergabesenat prüfe den aktuellen elektronischen Gerichtsweg und die konkrete Rechtsbehelfsbelehrung.
+
+## 2. Frist- und Beteiligtenkontrolle
+
+1. Rügezeitpunkt und Antwort des Auftraggebers belegen.
+2. Fristen nach GWB Paragraf 160 Absatz 3 sowie die Zweiwochenfrist des GWB Paragrafen 172 getrennt berechnen.
+3. Auftraggeber, Antragsteller, Beigeladene, Vergabekammer und zuständigen Vergabesenat exakt bezeichnen.
+4. Nachprüfungsantrag mit Rechtsverletzung, Schaden, Rüge und verfügbaren Beweismitteln abstimmen.
+5. Beschwerdeschrift enthält Anfechtungsumfang, konkreten Antrag, Tatsachen und Beweismittel; Unterrichtung der übrigen Beteiligten nach GWB Paragraf 172 Absatz 4 mitplanen.
+
+## 3. Vergabeakte und Anlagen
+
+Ordne Bekanntmachung, Teilnahme- und Vergabeunterlagen, Bieterfragen, Rügen, Plattformprotokolle, Angebotsteile, Aufklärung, Wertungsmatrix, Informationsschreiben und Kammerbeschluss chronologisch. Geschäftsgeheimnisse werden in öffentlicher und vertraulicher Fassung getrennt; die Vertraulichkeitsbegründung bleibt ein eigenes Dokument.
+
+Nutze AST, AG und BG nur entsprechend bestehender Akte oder Vorgabe. Jede Anlagenseite wird bezeichnet; Plattformexporte bleiben mit Zeitstempel und Nachrichtenkennung vollständig.
+
+## 4. Form- und Versandanker
+
+- GWB Paragraf 161 erlaubt schriftliche oder elektronische Einreichung bei der Vergabekammer und verlangt eine Eingangsbestätigung; den tatsächlich eröffneten Kanal der Kammer prüfen.
+- GWB Paragraf 172 verlangt Beschwerde und Begründung binnen zwei Wochen beim zuständigen Beschwerdegericht.
+- BayObLG, Beschluss vom 13. Juni 2022, Verg 4/22: Versand an das falsche Gericht und fehlende Schlusskontrolle tragen keine Wiedereinsetzung; der richtige Empfänger und die finale Fassung sind vor Versand eigenständig zu prüfen.
+
+## 5. Auslieferung
+
+Liefere getrennte Ordner `plattform/`, `vergabekammer/`, `vergabesenat/` nur für tatsächlich benötigte Wege. Jeder enthält Hauptdokument, Einzelanlagen, Fristenblatt, Beteiligten- und Zustellplan, Geheimnismatrix, Manifest und Eingangscheck. Stoppe bei ungeklärter Kammer, falschem Vergabesenat, fehlender Rüge, nicht finalem Antrag oder vermischten vertraulichen Fassungen.
 
 ---
 
@@ -1521,75 +1563,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-## Skill: `orientierung-fehlerkatalog`
-
-_Wenn es um Orientierung Fehlerkatalog in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Orientierung Fehlerkatalog
-
-## Zweck
-
-Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Vergaberecht** vor Abgabe, Versand oder Mandantenfreigabe gegen die im Sachgebiet typischen Fehlerquellen — jeweils mit Symptom, Diagnose und Heilung.
-
-## Fehlerkatalog
-
-### 1. Frist falsch berechnet oder übersehen (§ 160 III GWB Rüge unverzüglich (10 Tage))
-
-- **Symptom:** Frist falsch berechnet oder übersehen (§ 160 III GWB Rüge unverzüglich (10 Tage))
-- **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
-- **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
-
-### 2. Parallelfrist vergessen (Nachprüfungsantrag 15 Tage)
-
-- **Symptom:** Parallelfrist vergessen (Nachprüfungsantrag 15 Tage)
-- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
-- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
-
-### 3. Falsche Zuständigkeit adressiert (richtig: Vergabekammer Bund/Länder)
-
-- **Symptom:** Falsche Zuständigkeit adressiert (richtig: Vergabekammer Bund/Länder)
-- **Diagnose:** Schriftsatz oder Antrag an unzuständige Stelle — Fristwahrung gefährdet
-- **Heilung:** Zuständigkeit vor Versand gegen Gesetz und aktuelle Organisationsverfügung prüfen; bei Zweifel fristwahrend bei beiden Stellen einreichen
-
-### 4. Beweismittel nicht gesichert (Submissionsprotokoll)
-
-- **Symptom:** Beweismittel nicht gesichert (Submissionsprotokoll)
-- **Diagnose:** Tatsachenbehauptung im Schriftsatz ohne verfügbares Beweismittel
-- **Heilung:** Pro Behauptung Beweismittel und Fundstelle notieren; fehlende Belege als Lücke ausweisen und beschaffen
-
-### 5. Schlüsseldokument fehlt oder veraltet (Vergabeunterlagen)
-
-- **Symptom:** Schlüsseldokument fehlt oder veraltet (Vergabeunterlagen)
-- **Diagnose:** Arbeit mit Entwurfs- oder Altfassung statt der maßgeblichen Version
-- **Heilung:** Versionsstand und Datum jedes Dokuments prüfen; maßgebliche Fassung in der Akte markieren
-
-### 6. Normzitat ohne Fassungsprüfung (GWB §§ 97 ff.)
-
-- **Symptom:** Normzitat ohne Fassungsprüfung (GWB §§ 97 ff.)
-- **Diagnose:** Zitierte Norm wurde geändert, verschoben oder aufgehoben
-- **Heilung:** Vor Abgabe jeden Paragraphen gegen gesetze-im-internet.de prüfen; Übergangsvorschriften beachten
-
-### 7. Rechtsprechung aus Modellwissen zitiert
-
-- **Symptom:** Rechtsprechung aus Modellwissen zitiert
-- **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
-- **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
-
-### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
-
-- **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
-- **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
-- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
-
-## Ausgabe
-
-Roter/gelber/grüner Befund je Fehlerachse; jeder rote Punkt mit konkreter Korrektur und verbleibendem Restrisiko. Quellenhygiene nach `references/quellenhygiene.md`.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

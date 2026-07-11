@@ -46,26 +46,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 5 DDG
-- § 6 UWG
-- § 5 UWG
-- § 5a UWG
-- § 3 UWG
-- § 203 StGB
-- § 1-4 ProdHaftG
-- § 1 ProdHaftG
-- § 7 UWG
-- § 16 DDG
-- § 25 TDDDG
-- § 5-6 DDG
-
-### Leitentscheidungen
-
-- EuGH C-249/21
-- BGH VI ZR 721/15
-- BGH VI ZR 405/18

@@ -1,59 +1,38 @@
 ---
 name: abo-modell-beweisplan-erstellen
-description: "Wenn es um Abo Modell Beweisplan Erstellen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt den Beweisplan für digitale Abo- und Probeabo-Fälle: sichert Bestellstrecke, Buttontext, Preis-, Laufzeit- und Widerrufsinformation, Kündigungsversuch, Vertragsbestätigung und Abbuchung versionsgenau, ordnet jede Tatsache einem Beleg und Gegnerangriff zu und liefert eine gerichtsfähige Stichproben- und Lückenmatrix."
 ---
 
-# Abo Modell Beweisplan Erstellen
+# Beweisplan für Abo-Modelle erstellen
 
-## Arbeitsweg
+## 1. Beweisziel festlegen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Anspruchsgruppen und Klageziel. Bestimme, ob Vertragsschluss, Preisaufklärung, Verlängerung, Kündigung, Abbuchung oder systematische Wiederholung bewiesen werden soll. Sammle nicht wahllos Screenshots.
 
-## Normenanker
+## 2. Beweismatrix
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+| Beweistatsache | Primärbeleg | Ergänzung | typischer Angriff |
+| --- | --- | --- | --- |
+| Buttontext beim Abschluss | vollständige Bestellstrecke | Video oder HTML-Sicherung | andere Fassung oder Gerät |
+| Preis nach Probezeit | Preisfeld und Bestätigung | E-Mail, AGB-Fassung | klarer Hinweis vorhanden |
+| automatische Verlängerung | Klausel und Laufzeitangabe | Erinnerungsmail | wirksame Kündigung möglich |
+| Kündigungsversuch | vollständiger Klickweg | Ticket, Versandnachweis | Versuch nicht abgeschlossen |
+| Abbuchung | Kontoauszug und Rechnung | Buchungsreferenz | Erstattung oder andere Leistung |
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 3. Versionssicherung
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+Dokumentiere Datum, Uhrzeit, Adresse, Sprache, Gerät, Browser, eingeloggten Status, Produkt, Tarif und Kampagne. Sichere Bestellstrecke vom Angebot bis zur Bestätigung. Ein isolierter Buttonausschnitt beweist weder vorherige Pflichtinformation noch den konkreten Abschluss des Verbrauchers.
 
-## Prüfroutine
+## 4. Rechtsprechungsbezogene Beweisfragen
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- Für EuGH `C-249/21` ist der Wortlaut der auslösenden Schaltfläche das zentrale Beweisstück; Seitendesign und Begleittext dürfen nicht an seine Stelle treten.
+- Für EuGH `C-565/22` müssen kostenlose Phase, späterer Preis, automatische Verlängerung und Information bei Vertragsschluss gemeinsam belegt werden.
+- Für BGH, Urteil vom 4. Mai 2022, XII ZR 64/21, sind bei pandemiebedingten Fitnessstudiofällen Schließungszeitraum, Beitragszahlung und Gutscheinbehandlung zu dokumentieren; die Entscheidung ist kein allgemeiner Abo-Rückzahlungsanker.
 
-## Normen und Rechtsprechung
+## 5. Stichprobe und Lücken
 
-### Kuratierte Normen-Bibliothek
+Wähle Fälle aus jeder relevanten Vertrags- und Oberflächenfassung. Führe Dubletten, nachträgliche Erstattungen, Sonderrabatte und abweichende Kündigungswege gesondert. Bezeichne jede fehlende Bestätigung oder unvollständige Bildschirmfolge als Lücke, nicht als bewiesene Standardpraxis.
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
+## 6. Output
 
-### Leitentscheidungen
-
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+Liefere Beweismatrix, Fassungsregister, Stichprobenplan, Gegnerangriffe, Nachforderungsliste und ein Anlagenverzeichnis, das jede Anlage einer konkreten Behauptung und Fallgruppe zuordnet.

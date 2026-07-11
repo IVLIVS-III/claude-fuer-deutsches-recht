@@ -17,14 +17,13 @@ description: "Wenn es um Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung in 
 
 | Bereich | Schwelle / Betrag | Norm | Quelle |
 |---|---|---|---|
-| Zuständigkeit AG / LG | bis EUR 5.000 AG; ab EUR 5.000 LG | §§ 23, 71 GVG | gesetze-im-internet.de |
+| Zuständigkeit Amtsgericht / Landgericht | bis einschließlich 10.000 Euro Amtsgericht; darüber Landgericht, soweit keine Sonderzuweisung gilt | Paragrafen 23 Nummer 1, 71 Absatz 1 GVG | gesetze-im-internet.de |
 | Berufungssumme | EUR 600 | § 511 Abs. 2 Nr. 1 ZPO | gesetze-im-internet.de |
 | Kleinstunternehmer USt | EUR 22.000 (ab 2025: EUR 25.000) | § 19 UStG | live prüfen; gesetze-im-internet.de |
 | DSGVO-Bußgeld max. | EUR 20 Mio. oder EUR 4% Jahresumsatz | Art. 83 Abs. 5 DSGVO | eur-lex.europa.eu |
 | Verzugszins | Basiszinssatz + 5 PP (§ 288 Abs. 1 BGB); + 9 PP bei B2B (§ 288 Abs. 2 BGB) | §§ 288, 247 BGB | gesetze-im-internet.de; Bundesbank.de (Basiszinssatz) |
 | Mietkaution max. | 3 Nettokaltmieten | § 551 BGB | gesetze-im-internet.de |
 | Abfindung | Kein gesetzlicher Betrag; § 1a KSchG: 0,5 Monatsverdienst/Jahr | § 1a KSchG | live prüfen |
-| Schmerzensgeld | Kein Schematismus; nach Billigkeitsgesichtspunkten | § 253 Abs. 2 BGB | BGH-Rechtsprechung live prüfen |
 
 ## Berechnungsschemata
 

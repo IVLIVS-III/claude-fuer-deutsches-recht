@@ -16,7 +16,6 @@ description: "Wenn es um Gesellschafterbeschluss – GmbH und AG in Gesellschaft
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterbeschluss – GmbH und AG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -43,8 +42,7 @@ Paragraf 46 GmbHG (Zuständigkeitskatalog GV) — Paragraf 47 GmbHG (Abstimmung;
 
 ## Rechtsprechungsanker
 
-- BGH, 20.11.2018 - II ZR 12/17: Listenlage und Legitimation immer prüfen, wenn Stimmrecht oder Gesellschafterstellung streitig sind.
-- BGH, 21.04.1997 - II ZR 175/95: Organentscheidungen und Anspruchsverfolgung brauchen eine dokumentierte Informationsgrundlage.
+- BGH, Urteil vom 20.11.2018 - II ZR 12/17: Die Legitimationswirkung des Paragrafen 16 Absatz 1 Satz 1 GmbHG greift auch bei eingezogenen Geschäftsanteilen. Eine unberechtigte Übernahme der Versammlungsleitung macht Beschlüsse nicht automatisch anfechtbar; zusätzlich ist ein relevanter Durchführungsfehler erforderlich.
 - Weitere Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 
 ## Prüfschema: Gesellschafterbeschluss
@@ -158,11 +156,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `gesellschaftsrecht:aufsichtsrat-protokoll` — Protokollierung des Beschlusses
 - `gesellschaftsrecht:geschaeftsfuehrer-haftung-43-gmbhg` — wenn Beschluss GF-Entlastung betrifft
 - `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Beschluss Teil eines Gesellschafterkonflikts ist
-
----
-
-## Audit-Hinweis (27.05.2026)
-
-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
-Status: NOT_FOUND — dejure.org findet zum Datum 10.02.2021 kein Urteil unter diesem Aktenzeichen; NZG 2021, 418 nicht verifizierbar.
-Maßnahme: Zitat entfernt. Kein Ersatz eingefügt; die gesetzliche Regelung (Paragraf 48 Abs. 2 GmbHG sowie seit 2022 Paragraf 48 Abs. 1 S. 2 GmbHG) ist im Skill durch Normtexte abgedeckt.

@@ -91,9 +91,3 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - `zv-titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
 - `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
-
-<!-- AUDIT 27.05.2026 bundle_055
-Halluzinations-Reparatur: BGH VII ZB 34/13 (NOT_FOUND) geloescht.
-Kein Ersatz: § 796 Abs. 1 ZPO regelt Klausel kraft Gesetzes direkt im Gesetz;
-kein bekanntes BGH-AZ zu diesem Einzelpunkt verifizierbar auf dejure.org.
--->

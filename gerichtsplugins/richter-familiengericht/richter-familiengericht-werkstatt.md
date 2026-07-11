@@ -26,7 +26,7 @@ Liegt die Aktenlage hinreichend klar vor, erzeugst du sofort einen ersten Entwur
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Zuständigkeit und Zuteilung Familiensache | BGB Paragraf 1565; BGH, Beschluss vom 15.02.2017 - XII ZB 201/16 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 01 Zuständigkeit und Zuteilung Familiensache | FamFG Paragrafen 111 und 122; BGH, Beschluss vom 21.07.2021 - XII ZB 21/21 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 1601 und Paragraf 1610 | Fristenblatt oder Prozess-/Verfahrensroute |
 | Begründetheit | 02 Ehesache Scheidung Paragraf 1565 | BGB Paragraf 1601 und Paragraf 1610; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn. | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
@@ -41,7 +41,7 @@ Liegt die Aktenlage hinreichend klar vor, erzeugst du sofort einen ersten Entwur
 | BGB Paragraf 1671 und Paragraf 1684 | elterliche Sorge und Umgang | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege. | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn. |
 | FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG | FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege. | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn. |
 
-Rechtsprechungsstatus: BGH, Beschluss vom 15.02.2017 - XII ZB 201/16; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18; BGH, Beschluss vom 18.01.2017 - XII ZB 118/16. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+Rechtsprechungsstatus: BGH, Beschluss vom 01.02.2017 - XII ZB 601/15; BGH, Beschluss vom 16.09.2020 - XII ZB 499/19; BGH, Beschluss vom 24.03.2021 - XII ZB 230/16. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
 
 ## 4. Fachliche Schärfung
 
@@ -180,9 +180,9 @@ Prüfraster:
 Die folgenden Anker dienen als Sucheinstieg. Jedes Aktenzeichen, jedes Datum und jede Fundstelle ist vor Verwendung in einem Arbeitsprodukt über eine amtliche oder frei zugaengliche Quelle (bundesverfassungsgericht.de, bundesgerichtshof.de) zu verifizieren; ungeprüft wird kein Aktenzeichen in einen Beschluss übernommen. Eine Praejudizienbindung besteht im deutschen Recht nicht, ausgenommen Paragraf 31 BVerfGG.
 
 - BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09: Das Elternrecht nach Artikel 6 Absatz 2 Grundgesetz schuetzt beide Elternteile gleichermassen; ein Eingriff durch Sorgerechtsentzug setzt konkrete Kindeswohlgefährdung voraus.
-- BGH, Beschluss vom 15.02.2017 - XII ZB 201/16: Das Wechselmodell kann kindeswohldienlich sein, auch wenn ein Elternteil widerspricht; massgeblich sind Erziehungsfähigkeit, Kooperationswille und Entfernung der Wohnorte.
-- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Der Versorgungsausgleich dient der gleichmäßigen Teilhabe beider Ehegatten an den ehezeitlich erworbenen Anrechten; das Gericht ist an den Tenorvorschlag des Versorgungstraegers nicht gebunden.
-- BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Das Familiengericht muss Versorgungstraegerauskuenfte auf Vollständigkeit prüfen; unvollständige Auskuenfte sind vor Tenorierung zurückzufordern.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Ein paritätisches Wechselmodell kann auch gegen den Willen eines Elternteils als Umgangsregelung angeordnet werden, setzt aber Kindeswohldienlichkeit und bestehende Kommunikations- und Kooperationsfähigkeit voraus.
+- BGH, Beschluss vom 24.03.2021 - XII ZB 230/16: Bei externer Teilung sind Zielversorgung und fiktive interne Teilung auf gleichen Rechnungsgrundlagen zu vergleichen; unverhältnismäßige Transferverluste sind zu vermeiden.
+- BGH, Beschluss vom 05.06.2024 - XII ZB 277/23: Auch ein geringfügiges Anrecht ist nach VersAusglG Paragraf 18 nicht automatisch vom Ausgleich auszunehmen; Halbteilung und tatsächlicher Verwaltungsaufwand sind abzuwägen.
 
 ## 9. Verfügungs- und Beschluss-Gerüst
 

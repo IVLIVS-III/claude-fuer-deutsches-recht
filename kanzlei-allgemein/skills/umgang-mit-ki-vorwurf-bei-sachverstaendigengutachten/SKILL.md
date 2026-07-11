@@ -26,7 +26,7 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026: BGH VI ZB 59/18 geloescht – AZ existiert (30.07.2019), betrifft aber Musterfeststellungsklage § 606 ff. ZPO, nicht § 407a ZPO Hoechstpersoenlichkeit (WRONG_TOPIC). BGH VI ZR 286/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). -->
+
 
 ## Zentrale Normen
 - § 407a Abs. 1 ZPO — Hoechstpersönliche Erstellungspflicht des Sachverstaendigen

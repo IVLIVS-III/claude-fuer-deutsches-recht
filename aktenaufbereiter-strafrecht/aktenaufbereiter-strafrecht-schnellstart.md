@@ -52,8 +52,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 257 StPO Widerspruch in Hauptverhandlung gegen Beweisverwertung Belehrungsmängel-Beweise: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 257 StPO Widerspruch in Hauptverhandlung gegen Beweisverwertung Belehrungsmängel-Beweise; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 

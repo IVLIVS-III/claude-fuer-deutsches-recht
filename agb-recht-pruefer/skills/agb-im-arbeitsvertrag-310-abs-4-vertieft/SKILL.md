@@ -14,7 +14,7 @@ description: "Wenn es um Agb Im Arbeitsvertrag 310 Abs 4 Vertieft in AGB-Recht-P
 
 ### Versetzungsvorbehalt
 - Klausel "Der Arbeitgeber kann den Arbeitnehmer an einen anderen Arbeitsort versetzen" ist im Regelfall transparenzbeduerftig.
-- BAG 9 AZR 134/16 (Az im Digitalisat verifizieren): zu unbestimmt formulierter Versetzungsvorbehalt ist nach § 307 Abs. 1 Satz 2 BGB unwirksam.
+- BAG, Urteil vom 25.08.2010 - 10 AZR 275/09: Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine Angemessenheitskontrolle nach Paragraf 307 Absatz 1 Satz 1 BGB statt; Unklarheit und Transparenz bleiben zu prüfen. Geht die Klausel darüber hinaus, ist ihre Angemessenheit zu kontrollieren.
 
 ### Verfallklausel / Ausschlussfrist
 - Klausel "Ansprueche aus dem Arbeitsverhaeltnis verfallen, soweit sie nicht innerhalb von 3 Monaten geltend gemacht werden" hat in der Tendenz Bestand, wenn:
@@ -30,12 +30,11 @@ description: "Wenn es um Agb Im Arbeitsvertrag 310 Abs 4 Vertieft in AGB-Recht-P
 - Klausel muss differenzieren nach Kuendigungsgrund (Eigenkuendigung des Arbeitnehmers schadet, betriebsbedingte Kuendigung des Arbeitgebers nicht).
 
 ### Vertragsstrafe im Arbeitsvertrag
-- § 309 Nr. 6 BGB direkt nicht anwendbar (§ 310 Abs. 4 Satz 1 BGB), aber Wertung über § 307 BGB.
-- BAG: Vertragsstrafe in Höhe eines Bruttomonatsgehalts in der Regel zulässig.
+- Die Paragrafen 307 bis 309 BGB gelten grundsätzlich auch für Formulararbeitsverträge; arbeitsrechtliche Besonderheiten sind nach Paragraf 310 Absatz 4 Satz 2 BGB zu berücksichtigen. Eine Vertragsstrafe ist nicht pauschal bis zu einem Bruttomonatsgehalt zulässig, sondern nach Pflichtverstoß, Kündigungsfrist, typischem Schaden und Höhe zu prüfen.
 
 ### Ueberstundenpauschalierung
 - Klausel "Mit der Vergütung sind etwaige Ueberstunden abgegolten" ist intransparent, wenn die Anzahl der erfassten Ueberstunden nicht klar genannt wird.
-- BAG 5 AZR 765/10: max. 25 Prozent Pauschalierung in Bezug zur Wochenarbeitszeit zulässig.
+- BAG, Urteil vom 22.02.2012 - 5 AZR 765/10: Der Arbeitnehmer muss aus dem Vertrag erkennen können, welche Arbeitsleistung in welchem maximalen zeitlichen Umfang von der Pauschale erfasst ist. Die Entscheidung setzt keine allgemeine 25-Prozent-Grenze.
 
 ## Prüfraster
 

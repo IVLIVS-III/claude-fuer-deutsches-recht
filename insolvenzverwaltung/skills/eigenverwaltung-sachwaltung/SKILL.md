@@ -15,8 +15,6 @@ description: "Wenn es um Eigenverwaltung und Sachwaltung in Insolvenzverwaltung 
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenverwaltung und Sachwaltung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -70,9 +68,8 @@ description: "Wenn es um Eigenverwaltung und Sachwaltung in Insolvenzverwaltung 
 
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA) — Eingriffe in Aktionärsrechte durch StaRUG-Plan im Restrukturierungsverfahren verfassungsrechtlich nicht generell ausgeschlossen; Schlechterstellungsprüfung (§ 66 Abs. 2 Nr. 3 StaRUG) entscheidend.
  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- Zur Verzahnung Eigenverwaltung / Anfechtung: **BGH IX ZR 122/23 vom 05.12.2024** (Bargeschäft / Unlauterkeit) und **BGH IX ZR 129/22 vom 18.04.2024** (Vorsatzanfechtung).
+- Zur Anfechtungsschnittstelle: BGH, Urteil vom 05.12.2024 - IX ZR 122/23, zur Unlauterkeit beim Bargeschäft; BGH, Urteil vom 18.04.2024 - IX ZR 239/22, zu Deckungslücke und Benachteiligungsvorsatz; BGH, Urteil vom 18.04.2024 - IX ZR 129/22, zur Darlegung eines Liquiditätsstatus gegenüber außenstehenden Dritten.
 - Konkrete BGH-Linien zu §§ 270b, 270d InsO (vorläufige Eigenverwaltung, Schutzschirm) und zur Sachwalter-Haftung vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
 
 ## Paragrafenkette Insolvenzverwaltung

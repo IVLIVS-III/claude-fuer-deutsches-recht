@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 305, 305c BGB — Einbeziehung und Auslegung von AGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 307 ff. BGB — AGB-Inhaltskontrolle (Generalklausel, Verbotslisten): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 550 BGB — Schriftformgebot bei langfristigen Mietverträgen (mehr als 1 Jahr): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Verjährung (regelmäßig 3 Jahre): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 305, 305c BGB — Einbeziehung und Auslegung von AGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 307 ff. BGB — AGB-Inhaltskontrolle (Generalklausel, Verbotslisten); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 550 BGB — Schriftformgebot bei langfristigen Mietverträgen (mehr als 1 Jahr); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — Verjährung (regelmäßig 3 Jahre); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

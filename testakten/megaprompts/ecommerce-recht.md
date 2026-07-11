@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 72 Skills des Plugins `ecommerce-recht`.
+Diese Vollprüfung enthält top-10 von 72 Skills des Plugins `ecommerce-recht`.
 
 ## Inhaltsverzeichnis
 
@@ -782,29 +782,11 @@ Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie 
 - Verbraucherrechte-RL 2011/83/EU; Klausel-RL 93/13/EWG – EUR-Lex.
 - VZBV – Klagepraxis und Datenbank unwirksamer Klauseln.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 5 DDG
-- § 5 UWG
-- § 1 EGBGB
-- § 6 DDG
-- § 27a UStG
-- § 3a UWG
-- § 26 DDG
-
-### Leitentscheidungen
-
-- EuGH C-249/21
-- EuGH C-208/19
-- EuGH C-186/16
-
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

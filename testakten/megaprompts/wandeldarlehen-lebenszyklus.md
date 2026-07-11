@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 53 Skills des Plugins `wandeldarlehen-lebenszyklus`.
+Diese Vollprüfung enthält top-15 von 53 Skills des Plugins `wandeldarlehen-lebenszyklus`.
 
 ## Inhaltsverzeichnis
 
@@ -515,28 +515,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 55 GmbHG
-- § 40 GmbHG
-- § 53 GmbHG
-- § 57 GmbHG
-- § 56 GmbHG
-- § 15 GmbHG
-- § 5 GmbHG
-- § 16 GmbHG
-- § 51 GmbHG
-- § 9 GmbHG
-- § 19 GwG
-- § 47 GmbHG
-
-### Leitentscheidungen
-
-- BGH VI ZR 232/09
-- BGH VI ZR 171/18
-
 ---
 
 ## Skill: `textform-vs-schriftform-vs-notariell`
@@ -824,28 +802,6 @@ Diese Quellenkarte sichert im Bereich **Wandeldarlehen Lebenszyklus** tragende N
 - Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
 - Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
 - Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 55 GmbHG
-- § 40 GmbHG
-- § 53 GmbHG
-- § 57 GmbHG
-- § 56 GmbHG
-- § 15 GmbHG
-- § 5 GmbHG
-- § 16 GmbHG
-- § 51 GmbHG
-- § 9 GmbHG
-- § 19 GwG
-- § 47 GmbHG
-
-### Leitentscheidungen
-
-- BGH VI ZR 232/09
-- BGH VI ZR 171/18
 
 ---
 
@@ -1284,7 +1240,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+Wenn du das hier öffnest, willst du eine technische Erfindung als Gebrauchsmuster schnell schützen, abzweigen, auf Rechtsbestand prüfen oder durchsetzen.
 
 # Gebrauchsmusterrecht — Schnellstart
 
@@ -17,49 +17,42 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
-2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
-4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
-5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Beschwerde Bpatg: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Schutzweg und Frist: Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern.
+2. Schutzgegenstand: technische Lehre, zulässiger Sachanspruch, ausgeschlossene Verfahren und klare Anspruchsmerkmale bestimmen.
+3. Rechtsbestand: Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren.
+4. Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen.
+5. Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
+6. Beschwerde Bpatg: Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
-| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
-| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Normenanker | GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5; GebrMG Paragraf 7 |
+| Rechtsprechung | BGH, Beschluss vom 20.06.2006 - X ZB 27/05 |
+| Tatbestand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern |
+| Beweislast | Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede |
+| Rechtsfolge | Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Beschwerde Bpatg | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besichtigung Beschlagnahme und Beweissicherung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Japan Utility Model Vergleich | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klageanträge Verletzung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Lizenzvertrag Gebrauchsmuster | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Neuheitsschonfrist Eigene Offenbarung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschwerde Bpatg | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Besichtigung Beschlagnahme und Beweissicherung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Japan Utility Model Vergleich | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klageanträge Verletzung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzvertrag Gebrauchsmuster | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Neuheitsschonfrist Eigene Offenbarung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschützte Werke.
-- UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
-- UrhG Paragraf 51: Zitatrecht.
-- Paragraf 24a-c GebrMG: Auskunfts-, Schadensersatz- und Vernichtungsansprüche analog Paragrafen 139-140d PatG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 12a GebrMG i.V.m. Paragraf 14 PatG: Schutzbereich durch Schutzansprüche bestimmt; Beschreibung und Zeichnungen zur Auslegung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25 PatG: Doppelschutz Patent-Gebrauchsmuster grundsätzlich zulässig: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
-- BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht
-- BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Kläger glaubhaft gemacht werden
+- GebrMG Paragraf 1 bis Paragraf 3: Schutzfähigkeit, Ausschlüsse, Neuheit, erfinderischer Schritt und gewerbliche Anwendbarkeit.
+- GebrMG Paragraf 4 und Paragraf 5: Anmeldung, Schutzansprüche und Abzweigung aus einer Patentanmeldung.
+- GebrMG Paragraf 7: amtliche Recherche zum Stand der Technik ohne materielle Eintragungsprüfung.
+- GebrMG Paragraf 11 bis Paragraf 14: Schutzwirkung, Ausnahmen, Schutzbereich und Benutzungsbefugnis.
+- BGH, Beschluss vom 20.06.2006 - X ZB 27/05: Demonstrationsschrank verlangt auch beim erfinderischen Schritt eine wertende Prüfung der technischen Lehre aus Sicht des Fachmanns.
 
 ## 7. Antwortform
 

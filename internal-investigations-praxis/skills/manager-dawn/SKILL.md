@@ -15,7 +15,7 @@ description: "Wenn es um Interviews mit Führungskräften und Organmitgliedern i
 
 ## Rechtlicher Rahmen
 
-Interviews mit Führungskräften (Vorstand, Geschäftsführer, Aufsichtsrat, Senior Management) sind die anspruchsvollsten Interviews in einer Internal Investigation. Die befragten Personen haben eigene Rechtsberater, kennen das Untersuchungsziel und haben strategische Interessen. Gleichzeitig sind sie als Organmitglieder nach § 93 AktG ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__93.html)) und als potenzielle Beschuldigte in OWiG- oder Strafverfahren besonders betroffen. Die BGH-Linie zu Siemens/Neubürger (II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)) stellt hohe Anforderungen an die Aufklärungspflicht des Vorstands – der Vorstand kann nicht passiv bleiben.
+Interviews mit Führungskräften verlangen eine klare Trennung zwischen Organstellung, arbeitsvertraglicher Rolle, Auskunft gegenüber Gesellschaftsorganen und möglicher Betroffenheit in Straf- oder Bußgeldverfahren. Vor Beginn sind Auftraggeber, Vertretung der Gesellschaft, persönlicher Rechtsbeistand, Vertraulichkeit, Dokumentation und Verwendungszweck der Aussage offenzulegen; aus Paragraf 93 AktG folgt kein schematisches Selbstbelastungsprogramm.
 
 ## Ziel dieses Skills
 
@@ -72,7 +72,6 @@ Strukturiert Interviews mit Führungskräften so, dass die Untersuchung die erfo
 | § 130 OWiG | Aufsichtspflichtverletzung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html) |
 | § 136 StPO | Belehrung Beschuldigter | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stpo/__136.html) |
 | § 242 BGB | Treuepflicht | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 

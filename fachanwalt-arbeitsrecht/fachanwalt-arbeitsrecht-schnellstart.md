@@ -41,7 +41,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34. | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen. | Arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufhebungsvertrag Faires Verhandeln BAG 6 Azr 333 21 | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufhebungsvertrag und faires Verhandeln prüfen | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Befristungscompliance und Aktenführung: TzBfG Paragrafen 14–17, Schriftformzwang vor Dienstantritt. | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.
 - KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
 - BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.
-- Normenradar: BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1, 4, 7 KSchG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 1, 3, 7 AGG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 159 SGB III — Sperrzeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 623 BGB: Schriftform der Beendigung; elektronische Form ist ausgeschlossen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 145 bis 147 BGB: Angebot, Bindung und sofortige Annahme unter Anwesenden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 123, 124 und 142 BGB: widerrechtliche Drohung oder Täuschung, Anfechtungsfrist und Rückwirkung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 241 Absatz 2, 280 Absatz 1, 311 Absatz 2 und 249 BGB: vorvertragliche Rücksichtnahmepflicht, Schadensersatz und Naturalrestitution; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

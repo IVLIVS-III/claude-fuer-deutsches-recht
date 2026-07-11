@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Normen-/Verfahrensanker: StPO Paragrafen 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 153 StPO Einstellung wegen Geringfuegigkeit (ohne Auflagen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 153a StPO Einstellung gegen Auflagen (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - oft strategisch besser als Verständigung, weil keine Verurteilung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 154 StPO Teilstellung bei Tatmehrheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- StPO Paragrafen 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153 StPO Einstellung wegen Geringfuegigkeit (ohne Auflagen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153a StPO Einstellung gegen Auflagen (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - oft strategisch besser als Verständigung, weil keine Verurteilung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 154 StPO Teilstellung bei Tatmehrheit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 53 Skills des Plugins `meinungspruefer`.
+Diese Vollprüfung enthält top-15 von 53 Skills des Plugins `meinungspruefer`.
 
 ## Inhaltsverzeichnis
 
@@ -516,28 +516,6 @@ Art. 5 GG schützt auch scharfe, polemische und verletzende Meinungen. Das bedeu
 - Gewichte meinungsfreiheitsfreundlich, aber nicht blind: Sachbezug, Machtkritik, Beleglage, Formalbeleidigung, Privatbereich und Eskalationsrisiko getrennt ausweisen.
 - Keine erfundene Rechtsprechung. Entscheidungen nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle nennen; sonst Recherchebedarf markieren.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 5 GG
-- § 188 StGB
-- Art. 11 GRCh
-- Art. 10 EMRK
-- § 193 StGB
-- § 187 StGB
-- § 186 StGB
-- § 185 StGB
-- § 194 StGB
-- § 77b StGB
-- § 29 VwVfG
-- § 11 HmbPresseG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
 ---
 
 ## Skill: `kommunalrecht-buergermeister-machtkritik`
@@ -793,7 +771,7 @@ Nutze die Bank nicht als starre Ergebnisliste. Sie liefert Prüfmaßstäbe: Sinn
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

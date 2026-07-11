@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du Unfall, Bußgeld, Fahrerlaubnis, Reisendenrechte oder Regulierung schnell nach Haftung, Beweis und Frist sortieren.
+Wenn du das hier öffnest, willst du aus Buchung, Flugverlauf und tatsächlicher Ankunftszeit sofort Anspruch, Betrag, Einwand und versandfertige Forderung bestimmen.
 
 # Fluggastrechte — Schnellstart
 
@@ -17,52 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Ereignis und Frist: Unfall, Messung, Bescheid, Flug, Bahnreise, Ablehnung und Zugang kalendarisch sichern.
-2. Haftung und Anspruch: Beteiligte, Halter, Fahrer, Versicherer, Beförderer, Ursache, Quote und Anspruchsziel trennen.
-3. Schaden und Beleg: Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen.
-4. Verteidigung: Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, außergewöhnlicher Umstand oder Mitverschulden prüfen.
-5. Arbeitsprodukt: Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen.
-6. Flug: Massenklage RDG: Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren.
+1. Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern.
+2. Ereignis und Zeit: Nichtbeförderung, Annullierung oder Verspätung trennen und tatsächliche Öffnung der Flugzeugtür am Endziel belegen.
+3. Anspruch: Entfernung, Ankunftsverlust, Vorabinformation, Ersatzbeförderung, Kürzung, Betreuung und Ausgleich getrennt berechnen.
+4. Entlastung: behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme des Unternehmens prüfen.
+5. Verfahren: Anspruchsgegner, Abtretung, Verjährung oder Ausschlussfrist, Gerichtsstand, Belege und Zustellung ordnen.
+6. Arbeitsprodukt: Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | StVG Paragraf 7, Paragraf 17 und Paragraf 18; BGB Paragraf 249, Paragraf 251 und Paragraf 253; PflVG Paragraf 115 |
-| Rechtsprechung | EuGH C-204/08 (Rehder); EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — |
-| Tatbestand | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren |
-| Beweislast | Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände |
-| Rechtsfolge | Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief |
+| Normenanker | VO (EG) 261/2004 Artikel 3; VO (EG) 261/2004 Artikel 4 bis Artikel 7; VO (EG) 261/2004 Artikel 5 Absatz 3 |
+| Rechtsprechung | EuGH, Urteil vom 22.12.2008 - C-549/07; EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU) |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Flug: Massenklage RDG | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forderungsschreiben — Mahnung (zweite Stufe) | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Geltend: Fristen, Form, Zuständigkeit und Rechtsweg | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klage: Mandantenkommunikation und Entscheidungsvorlage | Ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Flug: Massenklage RDG | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forderungsschreiben — Mahnung (zweite Stufe) | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich fluggastrechte sofort bearbeitbar: erst Akte lesen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Geltend: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klage: Mandantenkommunikation und Entscheidungsvorlage | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- StVG Paragraf 7, Paragraf 17 und Paragraf 18: Halter- und Fahrerhaftung sowie Haftungsverteilung.
-- BGB Paragraf 249, Paragraf 251 und Paragraf 253: Naturalrestitution, Geldersatz und Schmerzensgeld.
-- PflVG Paragraf 115: Direktanspruch gegen den Haftpflichtversicherer.
-- OWiG Paragraf 66 und Paragraf 67: Bußgeldbescheid und Einspruch.
-- Paragraf 29 ZPO (Erfüllungsort): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH C-204/08 (Rehder)
-- EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
-- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — techn. Defekt kein außergewöhnlicher Umstand
+- VO (EG) 261/2004 Artikel 3: räumlicher und persönlicher Anwendungsbereich sowie ausführendes Luftfahrtunternehmen.
+- VO (EG) 261/2004 Artikel 4 bis Artikel 7: Nichtbeförderung, Annullierung, Verspätung und Ausgleichsleistung.
+- VO (EG) 261/2004 Artikel 5 Absatz 3: außergewöhnliche Umstände und Nachweis aller zumutbaren Maßnahmen.
+- VO (EG) 261/2004 Artikel 8 und Artikel 9: Erstattung, anderweitige Beförderung und Betreuungsleistungen.
+- Paragraf 29 ZPO (Erfüllungsort); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 22.12.2008 - C-549/07: Wallentin-Hermann verlangt für außergewöhnliche Umstände ein nicht zur normalen Tätigkeit gehörendes, tatsächlich nicht beherrschbares Ereignis sowie den Nachweis aller zumutbaren Maßnahmen.
+- EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07: Sturgeon stellt eine Ankunftsverspätung von mindestens drei Stunden für die Ausgleichsleistung grundsätzlich einer Annullierung gleich.
+- EuGH C-204/08 (Rehder).
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Regulierungstabelle: Position, Betrag, Beleg, Rechtsgrund, Einwand, Risiko und Zahlungsziel; Bußgeld-Einspruch: Bescheid, Zustellung, Messverfahren, Akteneinsicht, konkreter Angriff und Frist.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Flugmatrix: Segment, Flugnummer, Unternehmen, Planzeit, Istzeit, Störung, Ursache, Endzielverlust und Beleg; Entlastungstest: Ereignis, Herkunft, Beherrschbarkeit, Kausalität, zumutbare Maßnahme, Reserve und Beweisangebot.
 
 ## 8. Stop
 

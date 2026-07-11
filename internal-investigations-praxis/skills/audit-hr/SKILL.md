@@ -55,7 +55,7 @@ Klärt die Pflichten und Befugnisse des Audit Committee bei Internal Investigati
 
 ### 6. Haftungsrisiken des Audit Committee
 - § 116 AktG i. V. m. § 93 AktG: Aufsichtsratsmitglieder haften wie Vorstandsmitglieder bei schuldhafter Pflichtverletzung.
-- Pflicht zur Einleitung einer Untersuchung bei konkretem Verdacht (BGH II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)).
+- Ob der Aufsichtsrat oder ein Ausschuss eine Untersuchung einleiten muss, ist aus konkretem Verdacht, Überwachungsauftrag nach den Paragrafen 107 und 111 AktG, Informationslage, Eingriffsintensität und milderen Aufklärungsmaßnahmen herzuleiten; keine Einzelfallentscheidung als pauschale Untersuchungspflicht behandeln.
 - Untätigkeit trotz Kenntnis von Unregelmäßigkeiten: Haftungsrisiko.
 
 ### 7. Besondere Situation: Audit Committee vs. Vorstand
@@ -71,7 +71,6 @@ Klärt die Pflichten und Befugnisse des Audit Committee bei Internal Investigati
 | § 111 AktG | Aufgaben Aufsichtsrat | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__111.html) |
 | § 116 AktG | Haftung Aufsichtsratsmitglieder | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__116.html) |
 | § 321 HGB | Berichtspflicht Abschlussprüfer | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__321.html) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 
@@ -82,26 +81,3 @@ Klärt die Pflichten und Befugnisse des Audit Committee bei Internal Investigati
 - **Checkliste** Zusammenarbeit mit Abschlussprüfer
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 93 AktG
-- § 26 BDSG
-- § 130 OWiG
-- § 102 BetrVG
-- § 87 BetrVG
-- § 203 StGB
-- § 266 StGB
-- Art. 33 DSGVO
-- § 30 OWiG
-- § 80 BetrVG
-- § 84 AktG
-- § 107 AktG
-
-### Leitentscheidungen
-
-- BGH II ZR 234/09
-- EuGH C-550/07
-- EuGH C-311/18

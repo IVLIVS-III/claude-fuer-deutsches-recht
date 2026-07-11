@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 1821: Pflichten des Betreuers, Wunschbefolgung und unterstützte Entscheidungsfindung.
 - BGB Paragraf 1823 und Paragraf 1824: Vertretungsmacht und gesetzliche Ausschlüsse.
 - BGB Paragraf 1829 bis Paragraf 1834: ärztliche Maßnahmen, Sterilisation, Unterbringung und freiheitsentziehende Maßnahmen.
-- Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1823 BGB — Vertretungsmacht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1835 BGB — Aufwendungsersatz: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1838 BGB — Vermögenssorge: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1823 BGB — Vertretungsmacht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1835 BGB — Aufwendungsersatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1838 BGB — Vermögenssorge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
 - BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Das Selbstbestimmungsrecht prägt die Betreuerauswahl; auch ein aus Außensicht unvernünftiger Wunsch darf nicht allein deshalb übergangen werden.
 

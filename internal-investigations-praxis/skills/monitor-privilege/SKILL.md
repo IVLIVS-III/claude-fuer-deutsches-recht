@@ -72,7 +72,6 @@ Dieser Skill stellt sicher, dass das Monitor-Reporting vollständig, strategisch
 | §§ 45, 46 KWG | BaFin-Anordnungsbefugnisse | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__46.html) |
 | § 45c KWG | Sonderbeauftragter | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/kredwg/__45c.html) |
 | § 130 OWiG | Aufsichtspflichtverletzung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html) |
-| BGH II ZR 234/09 | Siemens/Neubürger CMS | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 

@@ -105,32 +105,3 @@ Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Woche
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online prüfen.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 1 SGG (Sachliche Zuständigkeit Sozialgerichte)
-- §§ 51-55 SGG (Klagearten)
-- §§ 73, 73a SGG (Prozessbevollmächtigte, PKH)
-- §§ 86a, 86b SGG (aufschiebende Wirkung, einstweiliger Rechtsschutz)
-- § 105 SGG (Gerichtsbescheid)
-- § 109 SGG (Sachverständiger nach Wahl)
-- § 131 SGG (Urteilsformen)
-- §§ 183-197a SGG (Kosten)
-- §§ 12, 14 SGB I (Auskunft, Beratung)
-- § 44 SGB X (Zugunstenverfahren)
-
-### Leitentscheidungen
-
-- BSG B 1 KR 12/15 R (sozialgerichtlicher Anspruchsbegriff)
-- BSG B 4 AS 22/15 R (SGB II Eingliederungsverwaltungsakt)
-- BVerfG 1 BvL 1/09 (Regelbedarf)
-- BSG B 14 AS 19/21 R (Sanktionsmaßstäbe)
-- BVerfG 1 BvR 1106/08 (effektiver Rechtsschutz Sozialgericht)
-
-### Anwendung im Skill
-
-- Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung prüfen.
-- PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
-- Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.

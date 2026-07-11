@@ -73,6 +73,8 @@ def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einze
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
 {intro}
 
 | Was | Format | Quelle |
@@ -86,6 +88,16 @@ def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einze
 
 
 H1_RE = re.compile(r"^# .+$", re.MULTILINE)
+
+
+def normalize_marker_spacing(text: str) -> str:
+    return re.sub(
+        r"(^# .+\n)\n+(?=" + re.escape(MARKER_BEGIN) + r")",
+        r"\1\n",
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
 
 
 def inject(readme: Path, slug: str) -> str:
@@ -106,7 +118,7 @@ def inject(readme: Path, slug: str) -> str:
         re.DOTALL,
     )
     if pat.search(text):
-        new_text = pat.sub(new_section, text, count=1)
+        new_text = normalize_marker_spacing(pat.sub(new_section, text, count=1))
         if new_text == text:
             return "unchanged"
         readme.write_text(new_text, encoding="utf-8")
@@ -129,6 +141,7 @@ def inject(readme: Path, slug: str) -> str:
         else:
             insert_at = end
         new_text = text[:insert_at] + "\n" + new_section + "\n" + text[insert_at:]
+    new_text = normalize_marker_spacing(new_text)
     readme.write_text(new_text, encoding="utf-8")
     return "inserted"
 

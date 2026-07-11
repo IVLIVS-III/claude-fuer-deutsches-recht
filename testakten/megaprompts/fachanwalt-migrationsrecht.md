@@ -2,18 +2,52 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 460 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-migrationsrecht`.
+Diese Vollprüfung enthält top-8 von 461 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-migrationsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
-2. **mandat-triage-migrationsrecht** — Wenn es um Mandat Triage Migrationsrecht in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
-3. **fachanwalt-migrationsrecht-orientierung** — Wenn es um Fachanwalt für Migrationsrecht — Orientierung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständi…
-4. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Re…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg …
-6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel,…
-7. **staat-st-vincent-und-die-grenadinen-migrationscheck** — Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
-8. **staat-st-kitts-und-nevis-migrationscheck** — Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
+1. **migrationsprozess-versandmappe-endfertigen** — Endfertigt migrations- und asylrechtliche Klagen sowie Eilanträge: prüft Bescheid, Bekanntgabe, Aufenthaltsstatus, Vollz…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
+3. **mandat-triage-migrationsrecht** — Wenn es um Mandat Triage Migrationsrecht in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
+4. **fachanwalt-migrationsrecht-orientierung** — Wenn es um Fachanwalt für Migrationsrecht — Orientierung in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständi…
+5. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Re…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg …
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Migrationsrecht geht: klärt Rolle, Ziel,…
+8. **staat-st-vincent-und-die-grenadinen-migrationscheck** — Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
+
+---
+
+## Skill: `migrationsprozess-versandmappe-endfertigen`
+
+_Endfertigt migrations- und asylrechtliche Klagen sowie Eilanträge: prüft Bescheid, Bekanntgabe, Aufenthaltsstatus, Vollzugsdruck, Klage- und Eilfrist, ordnet Identitäts-, Familien-, Gesundheits- und Herkunftsnachweise mit Übersetzungen und liefert eine datensparsame beA-Mappe samt Fristen-, Zustell- und Schutzbedarfscheck._
+
+# Migrationsprozess-Versandmappe endfertigen
+
+## 1. Bescheid und Vollzugslage zuerst
+
+Lies Bescheid vollständig einschließlich Rechtsbehelfsbelehrung, Zustellumschlag oder elektronischen Nachweis, Aufenthaltsdokumente, Vollzugsmitteilungen und den fertigen Schriftsatz. Bestimme Klageart, Eilrechtsschutz, aufschiebende Wirkung und aktuelle Abschiebungs- oder Überstellungsgefahr, bevor Dateien erzeugt werden.
+
+## 2. Frist- und Personenidentität
+
+1. Behörde, Gericht, Aktenzeichen und alle Namensschreibweisen aus Original und Umschrift abgleichen.
+2. Bekanntgabe, Klagefrist, Antragsfrist und behördlich angekündigten Vollzug getrennt notieren.
+3. Bei Familienverbänden jedes Mitglied, jeden Bescheid und jeden Antrag eindeutig verbinden.
+4. Bei Asyl- und Dublinverfahren Anhörung, Bescheidart, Zielstaat, Überstellungsstand und Fristregime gesondert prüfen.
+5. Bei Gesundheitsgefahren Diagnose, Funktionsbeeinträchtigung, Behandlung, Reise- und Zielstaatsbezug konkret belegen.
+
+## 3. Sensible Anlagen
+
+Ordne Pässe, Urkunden, Registerauszüge, Anhörungsprotokolle, Länderinformationen, ärztliche Unterlagen, Familien- und Beschäftigungsnachweise nach Beweistatsache. Original, Transliteration und Übersetzung bleiben miteinander verknüpft. Dateinamen enthalten keine Diagnose, Verfolgungsgrund oder unnötige Identitätsdaten; Schwärzungen dürfen den Beweiswert nicht zerstören.
+
+## 4. Form- und Rechtsprechungsanker
+
+- AsylG Paragrafen 74 und 36 sowie VwGO Paragrafen 80, 80a und 123 nur nach Bescheidart und Rechtsschutzziel kombinieren.
+- BVerwG, Beschluss vom 17. Januar 2023, 9 B 23.22, und Beschluss vom 19. Dezember 2023, 8 B 26.23: Ersatzübermittlung verlangt eine nachvollziehbare technische Störung; allgemeine oder organisatorische Gründe genügen nicht.
+- BVerwG, Beschluss vom 16. Mai 2025, 5 B 8.25: Ein Signaturprotokoll belegt nicht den Eingang; die automatisierte gerichtliche Eingangsbestätigung ist zu kontrollieren.
+
+## 5. Auslieferung
+
+Liefere Hauptdokument, Einzelanlagen, Bescheid- und Fristenblatt, Personen- und Namensmatrix, Übersetzungsverzeichnis, Schutzbedarfscheck, Manifest und Eingangsprüfung. Stoppe bei fehlender Bescheidseite, ungeklärter Zustellung, widersprüchlicher Identität, naher Vollzugsmaßnahme ohne Eilentscheidung oder ungeschützter sensibler Anlage.
 
 ---
 
@@ -427,15 +461,6 @@ Datum: [DATUM]
    Beratungshilfe: [ja / nein]
 ```
 
-<!-- AUDIT 27.05.2026
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
-Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
-(Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).
-Der allgemeine Grundsatz zu Art. 51 GRCh (Anwendungsbereich der Charta) ist korrekt
-und fuer das Migrationsrecht methodisch relevant; Urteil verifiziert auf
-dejure.org/2013,2363 (NJW 2013, 1415).
--->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -598,15 +623,6 @@ Datum: [DATUM]
  Beratungshilfe: [ja / nein]
 ```
 
-<!-- AUDIT 27.05.2026
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
-Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
-(Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).
-Der allgemeine Grundsatz zu Art. 51 GRCh (Anwendungsbereich der Charta) ist korrekt
-und für das Migrationsrecht methodisch relevant; Urteil verifiziert auf
-dejure.org/2013,2363 (NJW 2013, 1415).
--->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -836,7 +852,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Qualitätsanker: Identität, Schutzstatus und aktuelle Lageprüfung
 
-- **Verifizierte Rechtsprechungsanker:** BVerwG, Urteil vom 13.12.2023 - 1 C 34.22 und BVerwG, Urteil vom 18.12.2025 - 1 C 27.24 zur Identitätsklärung/Stufenmodell im Einbürgerungsrecht; BVerwG, Urteil vom 16.04.2025 - 1 C 18.24 zur Tatsachenrevision und Art. 4 GRCh/Art. 3 EMRK bei anerkannten Schutzberechtigten in Griechenland.
 - **Prüfdisziplin:** Aufenthaltsrecht, Asylrecht, Staatsangehörigkeitsrecht, Freizügigkeit/EU, Dublin/GEAS, Abschiebungsschutz, Familiennachzug und Arbeit/Beschäftigung strikt trennen. Keine Auskunft „nach Gefühl“ über Länderpraxis oder Behördenlaufzeiten.
 - **Aktualitätsfilter:** Herkunftsland, Schutzstatus, Dokumentenlage, Identität, Passbeschaffung, Zumutbarkeit, Vulnerabilität und aktuelle Lageberichte/live verfügbare Gerichtsquellen sind tragend; bei Lagefragen immer Datum und Erkenntnisbasis nennen.
 - **Output-Pflicht:** Entscheidungsbaum mit Sofortfrist, zuständiger Behörde/Gericht, benötigten Unterlagen, Beweisnot-/Zumutbarkeitsargumenten und nächstem rechtssicheren Schritt.
@@ -885,51 +900,9 @@ _Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ord
 
 ---
 
-## Skill: `staat-st-kitts-und-nevis-migrationscheck`
-
-_Wenn es um Staaten- und Gebietscheck St in Fachanwalt Migrationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Staat St Kitts Und Nevis Migrationscheck; Arbeitsfeld: Fachanwalt Migrationsrecht._
-
-# Staaten- und Gebietscheck St
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AufenthG §§ 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG §§ 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU §§ 2-5; StAG §§ 4, 5, 8-10, 12a, 25, 30; AsylbLG §§ 1, 3, 6; VwGO §§ 74, 80, 123; Dublin-III-VO Art. 3, 17, 21-29; einschlägige EU-Richtlinien/GEAS-Normstand live prüfen; keine BeckRS-/juris-Blindzitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Staaten- und Gebietscheck St. Kitts und Nevis: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
-
-### Staaten-/Gebietscheck: St. Kitts und Nevis
-
-## Einstieg
-1. Welche Beziehung besteht zu St. Kitts und Nevis: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
-2. Wo befindet sich die Person jetzt und mit welchem Aufenthaltsstatus?
-3. Geht es um Aufenthaltstitel, Blaue Karte EU, Visum, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Passbeschaffung, Abschiebungsabwehr oder Rückkehr?
-4. Welche Dokumente aus St. Kitts und Nevis liegen vor und wie wurden sie beschafft/übersetzt/legalisiert?
-5. Welche aktuelle Länder-, Behörden- oder Sicherheitsquelle trägt das Ergebnis?
-
-## Prüfraster
-1. **Identität und Dokumente:** Pass, ID, Geburts-/Heiratsurkunden, Register, Übersetzung, Legalisation/Apostille, Echtheit, Zumutbarkeit der Beschaffung.
-2. **Aufenthaltsrecht Deutschland:** Passpflicht, Visumverfahren, Titelvoraussetzungen, Lebensunterhalt, Beschäftigung, Familie, Fiktionswirkung.
-3. **Schutzrecht:** Individuelle Verfolgung, Gruppen-/Regionenrisiko, innerstaatliche Fluchtalternative, Art. 3 EMRK, Krankheit, Vulnerabilität.
-4. **EU/Europarat:** Dublin/GEAS, sichere Herkunft/Drittstaaten, EMRK/HUDOC, EUAA/UNHCR-Quellen; nur anwenden, wenn aktuell und einschlägig.
-5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
-6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

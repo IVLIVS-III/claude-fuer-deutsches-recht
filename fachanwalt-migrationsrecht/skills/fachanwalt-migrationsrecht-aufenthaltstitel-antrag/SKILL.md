@@ -48,7 +48,6 @@ description: "Wenn es um Aufenthaltstitel-Antrag in Fachanwalt Migrationsrecht g
 
 | Aktenzeichen | Gericht/Datum | Inhalt |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -59,7 +58,6 @@ description: "Wenn es um Aufenthaltstitel-Antrag in Fachanwalt Migrationsrecht g
 | 1 | Aufenthaltszweck identifizieren | § 4 AufenthG |
 | 2 | Spezialnorm finden (§§ 16–26 AufenthG) | Zweck-Matrix |
 | 3 | Allgemeine Voraussetzungen § 5 AufenthG vollständig prüfen | § 5 Abs. 1, 2 AufenthG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Ausweisungsinteresse § 54 AufenthG prüfen (Vorstrafen, Ermittlungen) | §§ 53–55 AufenthG |
 | 6 | Identität und Pass § 3, § 5 Abs. 1 Nr. 1a AufenthG prüfen | § 3, § 5 AufenthG |
 | 7 | Visumserfordernis § 5 Abs. 2 AufenthG — mit dem richtigen Visum eingereist? | § 5 Abs. 2, § 39 AufenthV |
@@ -259,7 +257,6 @@ Mit freundlichen Grüßen
 
 | Behörden-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Sprachnachweis A1 fehlt" | Ausnahmen § 30 Abs. 1 Satz 3 AufenthG prüfen (Integrationsprogramm, Deutschkurs, Krankheit) |
 | "Visumserfordernis nicht erfüllt" | § 39 AufenthV-Ausnahmen (nachträgliche Erteilung im Inland) prüfen |
 | "Ausweisungsinteresse § 54 AufenthG" | Abwägung § 53 Abs. 1 AufenthG: Bleibeinteressen § 55 gegen Ausweisungsinteressen abwägen |
@@ -288,7 +285,6 @@ Mit freundlichen Grüßen
 | Fallkonstellation | Empfehlung |
 |---|---|
 | Verlängerungsantrag kurz vor Ablauf | Sofort stellen; Fiktionsbescheinigung beantragen; Arbeitgeber informieren |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Ablehnung wegen Ausweisungsinteresse | Abwägung § 53 AufenthG; Einzelfallgutachten; Ermessensreduktion |
 | Duldung läuft aus | § 25b AufenthG (nachhaltige Integration) prüfen; § 25a für Jugendliche |
 | Fehlendes Visum nachträgliche Erteilung | § 39 Nr. 1 AufenthV (Familienangehörige Deutscher); Nr. 5 (Aufenthalt > 6 Monate) |

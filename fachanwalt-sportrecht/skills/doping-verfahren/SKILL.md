@@ -54,8 +54,6 @@ description: "Wenn es um Doping Verfahren in Fachanwalt Sportrecht geht: prüft 
 
 | Aktenzeichen | Gericht/Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | CAS 2014/A/3642 | CAS (2014) | No significant fault; Supplement-Kontamination; Kölner Liste relevant |
 | CAS 2019/A/6148 | CAS (2019) | Whereabouts-Verstöße; Kumulationsprinzip; Verfahrensmängel |
 | 4A_558/2011 | Schweizer BGer (2012) — Pechstein | CAS-Anfechtung vor BGer; enge Prüfung Ordre public |

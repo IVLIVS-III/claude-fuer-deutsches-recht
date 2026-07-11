@@ -63,7 +63,6 @@ description: "Wenn es um Geas Reform Grenzverfahren 2024 in Fachanwalt Migration
 |---|---|---|
 | C-458/24 (Daraa) | EuGH, Urt. v. 05.03.2026 | Dublin III: Zuständigkeit geht auf ersuchenden Mitgliedstaat über, wenn binnen 6 Monaten nicht überstellt wird; einseitige Aussetzung des Dublin-Rücknahmeverfahrens (hier: Italien Ende 2022) bewirkt nicht automatisch Zuständigkeitswechsel — Verifikation [curia.europa.eu](https://curia.europa.eu/). |
 | 1 BvL 3/22 | BVerfG, Beschl. v. 14.11.2024 | PolG NRW Observation/Bildaufnahmen ohne hinreichende Eingriffsschwelle verfassungswidrig — Verifikation [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html). |
-| Weitere | Live verifizieren | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -80,7 +79,6 @@ description: "Wenn es um Geas Reform Grenzverfahren 2024 in Fachanwalt Migration
 | 7 | Verfahrensgarantien geprüft (Rechtsbelehrung in verstandener Sprache) | Art. 8 AVO |
 | 8 | Bescheid ergangen? → 7-Tage-Rechtsbehelfsfrist beginnt | Art. 68 AVO |
 | 9 | Eilantrag § 80 V VwGO innerhalb 7 Tage | §§ 80, 123 VwGO |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 11 | Vulnerabilität in Eilantrag geltend machen — Übergang reguläres Verfahren | Art. 42 Abs. 3 GVO |
 | 12 | Bei Erfolg: Übergang in reguläres Asylverfahren; Aufenthaltsgestattung | § 75 AsylG |
 | 13 | Refoulement-Verbot in jedem Stadium geltend machen | Art. 33 GFK, Art. 3 EMRK |
@@ -255,7 +253,6 @@ Mit freundlichen Grüßen
 
 | Behörden-Argument | Rechtliche Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "7-Tage-Frist abgelaufen" | Zustelldatum genau klären; faktische Unmöglichkeit fristgerechter Beauftragung eines Anwalts im Grenz-Aufnahmezentrum |
 | "Kein Vulnerabilitäts-Attest vorhanden" | BAMF hat Amtsermittlungspflicht (§ 24 AsylG); Nachholen des Attests und Ergänzungsschreiben |
 | "Refoulement-Risiko nicht konkret" | UNHCR-Berichte, AA-Lagebericht, EGMR-Entscheidungen zum Herkunftsland vorlegen |

@@ -56,7 +56,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 10 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
 | [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
 | [IT-Recht](#it-recht) | 17 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
-| [Medizinrecht](#medizinrecht) | 6 | [Rechtsgeschichte und Vermögensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermoegensrecht-der-wiedervereinigung) | 2 |
+| [Medizinrecht](#medizinrecht) | 6 | [Rechtsgeschichte und Vermögensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermögensrecht-der-wiedervereinigung) | 2 |
 | [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 4 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 16 |
 | [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
 | [Sozialrecht](#sozialrecht) | 3 | [Gerichtliche Spruchpraxis (experimentell)](#gerichtliche-spruchpraxis-experimentell) | 13 |

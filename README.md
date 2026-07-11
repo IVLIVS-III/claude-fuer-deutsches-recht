@@ -10,6 +10,17 @@ Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellsch
 
 > **Cowork mit eigenem Modellzugang:** Wenn du die Plugins in einer Cowork-Oberfläche über eine eigene Schnittstelle, einen Gateway-Anbieter oder einen Enterprise-Proxy nutzen willst, spring direkt zu [Eigene Schnittstelle oder Zwischenanbieter anbinden](#eigene-schnittstelle-oder-zwischenanbieter-anbinden-stand-juli-2026).
 
+## Direktnavigation
+
+| Gesucht | Direkter Weg |
+| --- | --- |
+| Ein passendes Plugin | [Plugin-Katalog](#was-ist-drin) · [Rechtsgebietsübersicht](./references/rechtsgebiete-uebersicht.md) |
+| Ein bestimmter Skill | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| Werkstatt oder Schnellstart | [Download-Index](./ASSET_INDEX.md) · [kuratierte Promptliste](./PROMPTLISTE.md) |
+| Testakten und Beispieldokumente | [Testakten-Übersicht](./testakten/README.md) · [Qualitätsstandard](./testakten/QUALITAETSSTANDARD.md) |
+| Installation und Fehlersuche | [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) |
+| Sämtliche Release-Dateien | [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [vollständiger Asset-Index](./ASSET_INDEX.md) |
+
 ### Bitte mit-testen und Feedback geben
 
 Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellationen getestet worden, können aber weiterhin Fehler, Lücken oder veraltete Rechtsstände enthalten. Deshalb:
@@ -41,10 +52,10 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 234 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 26179 — [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 26217 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 301 zentral / 319 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v429.16.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v430.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -52,6 +63,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Paket | Download | Inhalt |
 | --- | --- | --- |
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
+| **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Direkt nutzbare Marketplace-Definition für alle Plugins. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
 | **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Jede Testakte mit jeder einzelnen Unterlage als separater, sauber gerenderter PDF im Originalordnerlayout. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
@@ -59,6 +71,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
 | **Werkstatt- und Schnellstart-Coverage** | [docs/werkstatt-und-schnellstart-coverage.md](./docs/werkstatt-und-schnellstart-coverage.md) | Prüfliste, welches Plugin welche Werkstatt- und Schnellstart-Markdown-Dateien besitzt, mit Markdown-Direkt-Download-Links. |
+| **Vollständiger Asset-Index** | [ASSET_INDEX.md](./ASSET_INDEX.md) | Pro Plugin: README, Skill-Detailseite, Plugin-ZIP sowie Werkstatt- und Schnellstart-Markdown. |
 
 ### Inhaltliche Cluster
 
@@ -84,7 +97,7 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
-> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 234 Plugins, 26179 Skills und 301 zentrale Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
+> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 234 Plugins, 26217 Skills und 301 zentrale Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
 >
 > - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
 > - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
@@ -561,7 +574,7 @@ Der ZIP-Root muss `.claude-plugin/plugin.json` und `skills/` enthalten. Wenn das
 - In Claude Code: `/plugin list` zeigt das Plugin als aktiviert.
 - Funktionstest: in einer neuen Konversation einen typischen Auftrag stellen, z. B. "Mache eine 3-Wochen-Liquiditätsvorschau für meine GmbH" → der Skill `liquiditaetsvorschau-3wochen` sollte sichtbar geladen werden.
 
-Details und Fehlersuche siehe [](./QUICKSTART.md).
+Details und Fehlersuche stehen in der [Kurzanleitung](./QUICKSTART.md).
 
 ### Repo-interner Release-Check
 
@@ -580,7 +593,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Urteile sind nicht bindend; Ausnahme: § 31 BVerfGG.
 - Vorprozessuale Beweiserhebung ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144 ZPO; § 810 BGB; § 242 BGB; Art. 15 DSGVO; Auskunfts- und Stufenklage (§ 254 ZPO).
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle zitieren; BeckRS-, Kommentar- und Aufsatz-Blindzitate sind gesperrt.
-- Zitierweise und Quellenprüfung: verbindlich in [](./references/zitierweise.md).
+- Zitierweise und Quellenprüfung: verbindlich in der [Referenz zur Zitierweise](./references/zitierweise.md).
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
@@ -590,7 +603,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Arbeitsrecht** – `arbeitsrecht`, `fachanwalt-arbeitsrecht` (Kündigungsschutzklage § 4 KSchG, Aufhebungsvertrag mit Sperrzeit-Prüfung, BR-Anhörung § 102 BetrVG, Massenentlassung § 17 KSchG)
 - **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `gesellschaftsrecht-legal-english`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `private-equity-praxis`, `venture-capital-geber`, `fachanwalt-internationales-wirtschaftsrecht`
 - **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `bank-rechtsabteilung`, `fachanwalt-bank-kapitalmarktrecht`, `private-equity-praxis`, `venture-capital-geber`, `regulatorisches-recht`, `berichtspflichten-erlediger`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
-- **Insolvenz & Sanierung** – Einstieg über [](./insolvenzrecht-plugins/) mit Routing nach Krise, Forderungsanmeldung, Insolvenzverwaltung, Insolvenzplan/StaRUG, Verbraucherinsolvenz, Fortbestehensprognose und US-Bankruptcy-Schnittstelle; die Einzelplugins bleiben `insolvenzrecht`, `insolvenzverwaltung`, `zwangsverwaltung-zvg`, `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `krisenfrueherkennung-starug`, `liquiditaetsplanung`, `verbraucherinsolvenz-schuldenbereinigung`, `fachanwalt-insolvenz-sanierungsrecht` und `us-bankruptcy-code`.
+- **Insolvenz & Sanierung** – Einstieg über die [Insolvenzrecht-Übersicht](./insolvenzrecht-plugins/) mit Routing nach Krise, Forderungsanmeldung, Insolvenzverwaltung, Insolvenzplan/StaRUG, Verbraucherinsolvenz, Fortbestehensprognose und US-Bankruptcy-Schnittstelle; die Einzelplugins bleiben `insolvenzrecht`, `insolvenzverwaltung`, `zwangsverwaltung-zvg`, `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `krisenfrueherkennung-starug`, `liquiditaetsplanung`, `verbraucherinsolvenz-schuldenbereinigung`, `fachanwalt-insolvenz-sanierungsrecht` und `us-bankruptcy-code`.
 - **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
 - **Steuerrecht und Förderung** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, weltweite DBA-Matrix, Signing/Closing, Steuerberater-Werkzeuge), `berichtspflichten-erlediger`, `forschungszulage-antragstellung`, `dfg-foerderantrag`
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafanzeige-vorbereiter`, `strafbefehl-verteidiger`, `strafzumessung`, `verkehrsowi-verteidiger`
@@ -598,7 +611,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle, Sorge, Umgang, Unterhalt), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `rentenpruefer`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
 - **Miet- & Immobilienrecht** – `mietrecht`, `weg-hausverwaltung`, `nachbarschaftsstreit-pruefer`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
 - **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecht`, `patentrecherche`, `gebrauchsmusterrecht`, `designrecht-geschmacksmusterrecht`, `markenrecht-fashion-luxus` (DPMA/EUIPO/WIPO/USPTO, Markenarten, Klassen, Benutzung, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen, Luxus-Fashion und US-Trade-Dress), `fashion-law-moderecht` (Mode-Lifecycle, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen und Retail)
-- **Insolvenz, Sanierung und Krisenmanagement (erweitert)** – gebündelt in [](./insolvenzrecht-plugins/): Frühwarnung nach § 1 StaRUG, Beraterwarnpflicht § 102 StaRUG, Zahlungsunfähigkeit, Überschuldung, Restrukturierungsplan, Insolvenzplan, Eigenverwaltung, Schutzschirm, Forderungstabelle, Verwalterberichte und Cross-Border-Fälle.
+- **Insolvenz, Sanierung und Krisenmanagement (erweitert)** – gebündelt in der [Insolvenzrecht-Übersicht](./insolvenzrecht-plugins/): Frühwarnung nach § 1 StaRUG, Beraterwarnpflicht § 102 StaRUG, Zahlungsunfähigkeit, Überschuldung, Restrukturierungsplan, Insolvenzplan, Eigenverwaltung, Schutzschirm, Forderungstabelle, Verwalterberichte und Cross-Border-Fälle.
 - **Arbeits- und Vergütungsrecht (erweitert)** – `bav-strategie-konzern` (betriebliche Altersversorgung als Konzern-Architektur: alle fünf Durchführungswege, CTA-Doppeltreuhand, Pension Buyouts, Drei-Stufen-Prüfung, internationale Benefits, Düsseldorf-Kyoto-Profil)
 - **IT-Recht, Datenschutz, Telekommunikation, digitale Barrierefreiheit, Robotik & KI-Governance** – `datenschutzrecht` (Art. 15 DSGVO, Art. 33/34 DSGVO), `telekommunikationsrecht` (TKG/Bundesnetzagentur/Internetanschluss), `barrierefreiheit-web-checker` (BFSG/BFSGV/BITV/WCAG), `fachanwalt-it-recht` (Cyber-Incident 72 h), `ki-governance` (EU AI Act), `robotik-recht` (Maschinenverordnung, KI-VO, CRA, Produkthaftung), DORA-IKT-Vertragsprüfung in `regulatorisches-recht`, `berufsrecht-ki-vertragspruefung`
 - **Verkehr, Transport, Versicherung, Medizin** – `fachanwalt-verkehrsrecht`, `fachanwalt-transport-speditionsrecht` (CMR/HGB), `versicherungsrecht`, `fachanwalt-versicherungsrecht`, `fachanwalt-medizinrecht`, `fachanwalt-bau-architektenrecht` (VOB/B)
@@ -616,7 +629,7 @@ Eine vollständige Übersicht aller Plugins und Rechtsgebiete steht in [referenc
 
 ## Verbindliche Zitierweise
 
-Jeder Skill verweist auf [](./references/zitierweise.md). Die Kernregeln in Kurzfassung:
+Jeder Skill verweist auf die [verbindliche Zitierweise](./references/zitierweise.md). Die Kernregeln in Kurzfassung:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Kostenlose Quelle:** Wo möglich Link zu offizieller Datenbank oder frei zugänglichem Volltext ergänzen; Datenbankkürzel wie BeckRS nicht ausdenken.
@@ -629,8 +642,8 @@ Pflicht: Datum + Aktenzeichen + verifizierbare Fundstelle + Randnummer bei Recht
 Die Inhalte aus [references/methodik-buergerliches-recht.md](./references/methodik-buergerliches-recht.md) und [references/zitierweise.md](./references/zitierweise.md) liegen zusätzlich als zwei eigenständige, einzeln aktivierbare Plugins im Marketplace:
 
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht) — Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegungskanones, Abwägung, Präzedenzarbeit, Generalklauseln und Rechtsfortbildung als reale Werkzeuge.
-- [](./rechtstheorie-rechtsphilosophie) — Rechtsbegriff, Kelsen-orientierte Normgeltung, Kompetenzketten, Gesetzesbindung, Demokratie, Systemkritik, Verwaltungsrealismus, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung und anti-dezisionistische Machtkritik.
-- [](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Rechtsprechungs-Verifikationsregel, BeckRS-Sperre und Literatur-Sperre ohne Nutzerquelle oder lizenzierten Live-Zugriff.
+- [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie) — Rechtsbegriff, Kelsen-orientierte Normgeltung, Kompetenzketten, Gesetzesbindung, Demokratie, Systemkritik, Verwaltungsrealismus, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung und anti-dezisionistische Machtkritik.
+- [zitierweise-deutsches-recht](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Rechtsprechungs-Verifikationsregel, BeckRS-Sperre und Literatur-Sperre ohne Nutzerquelle oder lizenzierten Live-Zugriff.
 
 Beide Plugins enthalten die gleichen Inhalte wie die Referenzdateien, sind aber als Skill ausgeführt: Sobald sie in Cowork aktiviert sind, gilt die Methodik bzw. die Zitierweise als ausdrückliche Pflicht für jede Antwort — unabhängig davon, ob ein Rechtsgebietsplugin geladen ist.
 
@@ -710,7 +723,7 @@ A: Derzeit funktionieren Skills nur in Claude Desktop, Claude Code und über die
 A: Das hängt von Ihrer Nutzung ab. Anthropic ist DSGVO-zertifiziert, aber Sie müssen sicherstellen, dass Sie keine Mandantendaten ohne AVV hochladen. Siehe: https://www.anthropic.com/legal/privacy
 
 **F: Kann ich die Skills anpassen?**
-A: Ja. Alle Skills sind Open Source (Apache-2.0 OR MIT, nach Wahl des Nutzers). Sie können sie nach Belieben anpassen – siehe [](CONTRIBUTING.md).
+A: Ja. Alle Skills sind Open Source (Apache-2.0 OR MIT, nach Wahl des Nutzers). Sie können sie nach Belieben anpassen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
 
 **F: Was mache ich, wenn ein Skill nicht funktioniert?**
 A: Öffnen Sie einen Issue auf GitHub oder schauen Sie in die Skill-Datei – oft sind Abhängigkeiten oder Formate dokumentiert.
@@ -757,7 +770,7 @@ Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-
 
 ## Mitwirken
 
-Beiträge willkommen – siehe [](./CONTRIBUTING.md).
+Beiträge willkommen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
 
 ## English Summary
 

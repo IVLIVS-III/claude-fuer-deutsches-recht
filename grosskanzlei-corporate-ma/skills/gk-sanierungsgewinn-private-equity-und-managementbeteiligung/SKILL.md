@@ -126,7 +126,7 @@ Drei Beobachtungen aus dem Distressed-PE:
 - Paragraf 327a ff. AktG; Paragraf 1 InvStG – gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - BFH zur Managementbeteiligung (Abgrenzung Paragraf 17 / Paragraf 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
-- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 
 <!-- gk-ma-v61-agentic-boost -->
 

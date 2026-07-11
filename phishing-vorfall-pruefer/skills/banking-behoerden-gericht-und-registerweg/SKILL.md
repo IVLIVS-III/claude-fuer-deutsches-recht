@@ -42,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **BaFin:** bafin.de — Beschwerde bei groben Bankpflichtverletzungen; keine Rückerstattung, aber aufsichtsrechtliche Wirkung.
 - **Polizei / Staatsanwaltschaft:** Strafanzeige wegen §§ 263a, 269 StGB; Aktenzeichen für spätere Akteneinsicht § 406e StPO.
 - **DSB / Aufsichtsbehörde:** bei Datenlecks (Art. 33 DSGVO).
-- **Zivilgericht:** AG bei Streitwert <= 5.000 EUR, LG > 5.000 EUR; ggf. § 29c ZPO Wohnsitz Verbraucher.
+- Zivilgericht: Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber; örtliche Zuständigkeit insbesondere nach Paragrafen 12 ff. ZPO und einen möglichen Verbrauchergerichtsstand gesondert prüfen.
 
 ## Praxis-Tipp
 Schlichtungsverfahren laufen oft schnell (3-6 Monate), sind regelmäßig kostenfrei für Verbraucher und werden von Banken ernst genommen — auch ohne Vergleichsdruck steigt die Erstattungsquote. Bei klarer Sachlage (nicht autorisiert, SCA-Mangel) ist Schlichtung der pragmatische Erstweg vor Klage.

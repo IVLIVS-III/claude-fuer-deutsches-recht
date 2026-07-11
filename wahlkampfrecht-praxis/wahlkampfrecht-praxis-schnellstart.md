@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
 4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
 5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
-6. Agenturvertrag Compliance: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —.
+6. Agenturvertrag Compliance: Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
 | Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
-| Tatbestand | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — |
+| Tatbestand | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs |
 | Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Agenturvertrag Compliance | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Agenturvertrag Compliance | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Aktenplan und Beweisarchiv | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Plakat Vandalismus Beweissicherung | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wahlvorschläge Fristen | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 72 Stunden Sprint | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ad Library Transparenz | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG —. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Plakat Vandalismus Beweissicherung | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wahlvorschläge Fristen | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 72 Stunden Sprint | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ad Library Transparenz | Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,9 +52,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
 - GG Artikel 3 Absatz 1: Gleichheitssatz.
 - GG Artikel 12 Absatz 1: Berufsfreiheit.
-- Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs. 1 BWahlG — Wahlrechtsgrundlagen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung. - Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze. - Paragraf 1 Abs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 21 Abs. 1 GG — Parteienfreiheit und Mitwirkung an politischer Willensbildung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 38 Abs. 1 GG — Wahlrechtsgrundsätze; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
 - BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
 

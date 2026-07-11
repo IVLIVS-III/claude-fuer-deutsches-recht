@@ -30,7 +30,7 @@ Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen,
 ## Arbeitsweg
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: § 15a InsO 3 Wochen (ZU) / 6 Wochen (Überschuldung), IDW S 11 12-Monats-Prognose, Drei-Wochen-Liquiditätsstockungs-Test (BGH II ZR 296/05).
+- Eilfristen isolieren: Paragraf 15a InsO verlangt den Antrag unverzüglich und setzt nur Höchstfristen von 3 Wochen bei Zahlungsunfähigkeit und 6 Wochen bei Überschuldung. Für die Abgrenzung der Zahlungsstockung gilt der Drei-Wochen-Test aus BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 - Fachpfad wählen: zentrale Anker im Liquiditätsplanung und Insolvenzrecht-Schnittstelle sind InsO §§ 17, 18, 19, 15a, IDW S 11, IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), StaRUG §§ 1, 29, 102. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.

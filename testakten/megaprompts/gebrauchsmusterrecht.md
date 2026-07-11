@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 50 Skills des Plugins `gebrauchsmusterrecht`.
+Diese Vollprüfung enthält top-15 von 50 Skills des Plugins `gebrauchsmusterrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -74,8 +74,8 @@ _Wenn es um Auskunft Schadensersatz Und Rechnungslegung in gebrauchsmusterrecht 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -108,8 +108,8 @@ _Wenn es um Computerprogramm Und Verfahrensausschluss in gebrauchsmusterrecht ge
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -142,8 +142,8 @@ _Wenn es um Einstweilige Verfuegung Gebrauchsmuster in gebrauchsmusterrecht geht
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -169,7 +169,7 @@ Schnelles Vorgehen wird erwogen.
 ### Besonderheit Gebrauchsmuster
 - Anders als Patent: kein materieller Prüfungsfilter.
 - Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
-- BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Kläger glaubhaft gemacht werden.
+- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank): Der erfinderische Schritt verlangt eine wertende Prüfung der technischen Lehre. Im Eilverfahren genügt deshalb die ungeprüfte Eintragung nicht; Rechtsbestand, relevanter Stand der Technik und Gegenargumente sind eigenständig glaubhaft zu machen.
 
 ### Faktoren für Verfuegungserlass
 1. **Rechtsbestand**: Stand der Technik bekannt? Erfinderischer Schritt belegbar?
@@ -203,8 +203,8 @@ _Wenn es um Teilloeschung Und Hilfsantraege in gebrauchsmusterrecht geht: ordnet
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -237,8 +237,8 @@ _Wenn es um Lizenzvertrag Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet S
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -271,8 +271,8 @@ _Wenn es um Neuheit Und Erfinderischer Schritt in gebrauchsmusterrecht geht: ord
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 15 Löschungsantrag jederzeit.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -326,8 +326,8 @@ _Wenn es um Beschreibung Und Zeichnungen in gebrauchsmusterrecht geht: ordnet Sa
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -360,8 +360,8 @@ _Wenn es um Schutzgegenstand Und Ausschluesse in gebrauchsmusterrecht geht: ordn
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -394,8 +394,8 @@ _Wenn es um Chemie Biotech Und Stoffschutz in gebrauchsmusterrecht geht: ordnet 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -428,8 +428,8 @@ _Wenn es um Insolvenz Und Verwertung in gebrauchsmusterrecht geht: ordnet Sachve
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -462,8 +462,8 @@ _Wenn es um Auslandsroute Kein Eu Gebrauchsmuster in gebrauchsmusterrecht geht: 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -496,8 +496,8 @@ _Wenn es um Produktlaunch Und Neuheit in gebrauchsmusterrecht geht: ordnet Sachv
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -530,8 +530,8 @@ _Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erst
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -564,8 +564,8 @@ _Wenn es um Local Counsel Briefing Ausland in gebrauchsmusterrecht geht: erstell
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -591,7 +591,7 @@ Ein ausländischer Anwalt soll eingebunden werden.
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

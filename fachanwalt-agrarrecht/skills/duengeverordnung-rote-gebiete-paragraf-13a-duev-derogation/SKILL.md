@@ -1,44 +1,45 @@
 ---
 name: duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation
-description: "Wenn es um Duengeverordnung Rote Gebiete Paragraf 13a Duev Derogation in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Pflichten und Rechtsschutz in nitratbelasteten oder eutrophierten Gebieten nach Düngegesetz, Düngeverordnung und Landesrecht. Trennt allgemeine Obergrenzen von gebietsspezifischen Maßnahmen, kontrolliert Gebietskulisse, Düngebedarf, Aufzeichnungen, Sanktion und aktuelle Folgen der BVerwG-Urteile von 2025."
 ---
 
-# Duengeverordnung Rote Gebiete Paragraf 13a Duev Derogation
+# Düngung in roten und gelben Gebieten prüfen
 
 ## Einsatzlage
 
-Milchviehbetrieb M in Niedersachsen liegt im "roten Gebiet" Cloppenburg. Stickstoffeintrag durch Wirtschaftsduenger ueberschreitet 170 kg N/ha. Sanktion droht.
+Ein Betrieb liegt nach Landeskarte in einem belasteten Gebiet oder erhält einen Sanktionsbescheid wegen Düngung. Die allgemeine Obergrenze für organischen Stickstoff, die gebietsspezifische Verringerung des Düngebedarfs und eine etwaige Ausnahme sind unterschiedliche Prüfungen.
 
 ## Normenanker
 
-- § 13a DUEV
-- §§ 585 ff. BGB
-- § 9 GrdstVG
-- § 16a TierSchG
-- § 13a DüV
-- § 906 BGB
+- Paragrafen 3 und 3a DüngG: gute fachliche Praxis und Aktionsprogramm zum Gewässerschutz.
+- Paragrafen 3 bis 7 DüV: Düngebedarf, zeitliche und mengenmäßige Beschränkungen sowie Obergrenzen.
+- Paragraf 13a DüV: Ausweisung belasteter Gebiete und besondere Anforderungen oder Erleichterungen.
+- maßgebliche Landesverordnung, Karten- und Geodatendienst in aktueller Fassung.
+- Paragraf 47 VwGO für Normenkontrolle landesrechtlicher Verordnungen, soweit landesrechtlich eröffnet; Anfechtungs- und Eilrechtsschutz gegen Vollzugsakte nach Paragrafen 42 und 80 VwGO.
 
-## Rechtsprechungsanker und Quellenhygiene
+## Rechtsprechungsanker
 
-- EuGH 21.06.2018 C-543/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BVerwG, Urteile vom 24. Oktober 2025 - 10 CN 1.25 bis 10 CN 4.25: Die damalige bayerische Ausführungsverordnung war unwirksam, weil Paragraf 13a Absatz 1 DüV keine hinreichend bestimmte Ermächtigungsgrundlage für die Gebietsausweisung bot; eine Verwaltungsvorschrift ohne Außenwirkung konnte die notwendige Regelungsdichte nicht ersetzen.
+- Die Urteile betreffen die dort geprüfte bayerische Verordnung und deren Rechtsgrundlage. Sie machen weder jede Gebietsausweisung in jedem Land automatisch unwirksam noch beseitigen sie allgemeine Pflichten der Düngeverordnung.
 
 ## Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Schlag, Bundesland, Kartenfassung, Stichtag und Rechtsgrundlage der Gebietsausweisung dokumentieren; amtliche Geometrie sichern.
+2. Allgemeine Pflichten und zusätzliche Gebietsmaßnahmen getrennt auflisten. Die betriebliche Obergrenze für organische Dünger nicht mit der gebietsbezogenen Verringerung des ermittelten Stickstoffdüngebedarfs verwechseln.
+3. Düngebedarf je Schlag anhand Ertrag, Kultur, Bodenuntersuchung, Vorfrucht, organischer Düngung und anrechenbarer Stickstoffmengen nach den einschlägigen Anlagen berechnen.
+4. Ausnahmen und Erleichterungen nur aus der aktuellen Bundes- und Landesnorm ableiten; keinen nicht vorgesehenen allgemeinen Derogationsantrag versprechen.
+5. Aufzeichnungen, Nährstoffvergleich, Stoffstrombilanz und Mitteilungspflichten nach jeweils eigenem Anwendungsbereich prüfen.
+6. Bei Sanktion Mess- und Berechnungsmethode, Tatzeit, Normfassung, Verantwortlichkeit und Verhältnismäßigkeit kontrollieren.
+7. Rechtsschutzweg bestimmen: Angriff auf die Gebietsnorm, inzidente Prüfung im Vollzugsverfahren oder Angriff auf den Einzelbescheid; Folgen der BVerwG-Urteile auf das konkrete Land und die aktuelle Ersatzregelung prüfen.
 
 ## Arbeitsergebnis
 
-1. Eigene Naehrstoffvergleichsrechnung nach Anlage 5 DueV.
-2. Wenn über 170 kg N/ha: Prüfe Mengenstrombilanzverordnung.
-3. Derogationsantrag bei Landwirtschaftskammer Niedersachsen.
-4. Bei Sanktionsbescheid: Prüfe Verhältnismäßigkeit bei einmaliger Ueberschreitung.
+Erstelle Schlagmatrix, Düngebedarfsrechnung, Gebietskulissen- und Rechtsstandsvermerk sowie eine Pflichtenampel. Bei Streit folgen Sanktionsgegenrechnung und ein auf die richtige Norm oder den richtigen Bescheid gerichteter Rechtsbehelf.
 
 ## Belege und Aktenlücken
 
-- Naehrstoffvergleich vorheriges Jahr.
-- Naehrstoffbilanz aktuelles Jahr.
-- Bodenproben des Landwirtschaftsamts.
+- amtliche Gebietskarte mit Versionsstand und Schlaggeometrie
+- Düngebedarfsermittlung, Schlagkartei und Düngedokumentation
+- Bodenproben, Ertragsdaten und Nährstoffgehalte
+- Landesverordnung und behördliche Hinweise
+- Kontrollbericht, Anhörung und Sanktionsbescheid

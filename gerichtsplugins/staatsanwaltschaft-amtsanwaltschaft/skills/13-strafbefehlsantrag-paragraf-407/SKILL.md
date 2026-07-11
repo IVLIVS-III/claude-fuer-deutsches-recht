@@ -35,8 +35,7 @@ Dieser Skill prüft, ob ein Verfahren strafbefehlsgeeignet ist, und formuliert e
 
 ## Leitentscheidungen
 
-- BVerfG, Beschluss vom 19.03.2013, 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11: Verständigung und Abkürzung des Strafverfahrens verlangen Transparenz und richterliche Kontrolle.
-- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Beweislage und Beweiswürdigung müssen auch bei vereinfachten Verfahrenswegen tragfähig bleiben.
+- BVerfG, Beschluss vom 04.07.2002 - 2 BvR 2168/00: Die verfahrensrechtlichen Vereinfachungen des Strafbefehls sind nur hinnehmbar, weil ein bloßer Einspruch die Hauptverhandlung eröffnet; Anforderungen an Form und Zuordnung des Einspruchs dürfen den Zugang zu Gericht und rechtliches Gehör nicht unverhältnismäßig erschweren.
 
 ## Arbeitsprodukt
 

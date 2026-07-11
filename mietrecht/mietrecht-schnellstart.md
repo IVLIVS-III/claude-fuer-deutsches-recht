@@ -41,9 +41,9 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 - BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
 - BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
 - GVG Paragraf 23 Nummer 2a: Wohnraummietsachen streitwertunabhängig beim Amtsgericht.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: formularmäßige Quotenabgeltungsklauseln in Wohnraummietverträgen sind unwirksam.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Schönheitsreparaturen bei unrenoviert überlassener Wohnung können formularmäßig nicht ohne Ausgleich überwälzt werden.
-- BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Betriebskostenabrechnung muss geordnet und nachvollziehbar sein.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
+- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
+- BGH, Urteil vom 20.09.2006 - VIII ZR 103/06: Die formularmäßige Umlage der Aufzugskosten kann auch einen Erdgeschossmieter treffen, dessen Wohnung durch den Aufzug erschlossen wird.
 
 ## 6. Antwortform
 

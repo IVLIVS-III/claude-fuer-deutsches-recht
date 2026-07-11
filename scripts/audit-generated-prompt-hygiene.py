@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -70,6 +71,13 @@ PROSE_ASCII_BITS = (
     "Schoeff",
 )
 
+COURT_BITS = ("BGH", "BVerfG", "BVerwG", "BAG", "BFH", "BSG", "EuGH", "OLG", "LG", "ArbG", "LAG")
+TRUNCATED_CASE_END = re.compile(
+    r"(?:\beingeleiteter|\bersetzt|\bstärkt|\bstatt einer|\bnicht der|"
+    r"\bQuelle|\bBestandteil der Verpflichtung)\.?\s*(?:\|)?$",
+    flags=re.IGNORECASE,
+)
+
 
 def protected_slugs() -> set[str]:
     if not PROTECTED_LIST.exists():
@@ -126,6 +134,13 @@ def main() -> int:
             if bit in text:
                 rel = path.relative_to(REPO)
                 problems.append(f"{rel}: unechter Umlaut in Prosa gefunden: {bit}")
+                break
+        for line_no, line in enumerate(text.splitlines(), start=1):
+            if any(court in line for court in COURT_BITS) and TRUNCATED_CASE_END.search(line):
+                rel = path.relative_to(REPO)
+                problems.append(
+                    f"{rel}:{line_no}: Rechtsprechungsanker endet als Satzfragment"
+                )
                 break
     if problems:
         print("audit-generated-prompt-hygiene: FEHLER")

@@ -105,5 +105,3 @@ Stand: 05/2026.
 - SGB IV §§ 28a, 28b, 28f, 95.
 - DEUEV.
 - ITSG-Spezifikation.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (sv.net-Verfuegbarkeit Prüfhinweis ohne Marker) -->

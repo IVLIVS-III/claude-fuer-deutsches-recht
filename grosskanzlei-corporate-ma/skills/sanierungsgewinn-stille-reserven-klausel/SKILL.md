@@ -109,4 +109,4 @@ Der Schutz des Verlustvortrags ist Detailarbeit. Drei Beobachtungen:
 - BVerfG, Beschluss vom 29.03.2017 – 2 BvL 6/11 – bundesverfassungsgericht.de.
 - BFH zur Anwendung Paragraf 8c und Paragraf 8d KStG – ständige Rspr.; Verifizierung über bundesfinanzhof.de.
 - BMF-Schreiben vom 28.11.2017 zu Paragraf 8d KStG – Verifizierung im Bundessteuerblatt Stand 06/2026.
-- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.

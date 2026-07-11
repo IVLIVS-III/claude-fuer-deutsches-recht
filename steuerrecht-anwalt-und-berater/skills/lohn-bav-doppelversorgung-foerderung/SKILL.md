@@ -101,5 +101,3 @@ Stand: 05/2026.
 - SvEV § 1 Abs. 1 Nr. 9.
 - BMF v. 06.12.2017 (IV C 5 - S 2333/17/10002), BMF v. 18.03.2022 (IV C 5 - S 2333/19/10005).
 - BBG-West RV 2025: 96.600 EUR/Jahr; 8 Prozent = 7.728 EUR LSt-frei, 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen).
-
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (BMF-Daten recherchiert), 2 ersetzt (BBG-Werte 2025 eingesetzt, Prüfhinweis ohne Marker) -->

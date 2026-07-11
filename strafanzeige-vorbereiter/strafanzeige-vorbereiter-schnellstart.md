@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- StPO Paragraf 158; StGB Paragraf 164; ZPO Beweisgrundsätze: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 158 StPO (Strafanzeige, Strafantrag): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 152 Abs. 2 StPO (Anfangsverdacht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 160 StPO (Erforschungspflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- StPO Paragraf 158; StGB Paragraf 164; ZPO Beweisgrundsätze; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 158 StPO (Strafanzeige, Strafantrag); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 152 Abs. 2 StPO (Anfangsverdacht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 160 StPO (Erforschungspflicht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
 

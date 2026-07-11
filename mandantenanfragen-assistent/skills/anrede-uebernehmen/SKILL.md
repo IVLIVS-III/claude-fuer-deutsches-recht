@@ -120,30 +120,9 @@ Hierarchie der Titelführung nach deutschem Recht:
 - `erstantwort-generator` — verwendet die fertige Anredezeile aus diesem Skill
 - `muster-erstantwort` — enthält Anrede-Platzhalter `[ANREDE]` die durch diesen Skill befüllt werden
 
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 7/20 (NOT_FOUND auf dejure.org)
-Ersatz: BGH VI ZR 246/19, NJW 2020, 3715 (verifiziert auf dejure.org)
-Thema: Allgemeines Persönlichkeitsrecht — thematisch passend für Persönlichkeitsschutz-Kontext
--->
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
 
-- Art. 13 DSGVO
-- Art. 28 DSGVO
-- Art. 9 DSGVO
-- § 203 StGB
-- § 4 KSchG
-- § 356 StGB
-- § 29 VwVfG
-- Art. 6 DSGVO
-- § 5 TMG
-- § 263 StGB
-- Art. 32 DSGVO
-- Art. 15 DSGVO
+## Quellenkontrolle
 
-### Leitentscheidungen
-
-- BGH VI ZR 7/20
-- BGH VI ZR 246/19
+Für Eingang, Weiterleitung und Antwort einer Mandantenanfrage zuerst Mandatsstatus, Interessenkollision, Verschwiegenheit, Datenschutz und laufende Fristen bestimmen. Paragraf 43a BRAO, Paragraf 2 BORA, Paragraf 203 StGB und Artikel 5, 6 und 32 DSGVO nur nach konkreter Datenverarbeitung anwenden. Rechtsprechung gehört nur dann in das Arbeitsergebnis, wenn ihre tragende Aussage die konkrete Anfrage tatsächlich entscheidet.

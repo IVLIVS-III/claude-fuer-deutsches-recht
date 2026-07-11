@@ -39,9 +39,8 @@ description: "Wenn es um Änderungsvorbehalt 308 in AGB-Recht-Prüfer geht: zerl
 - § 307 BGB als Auffangkontrolle.
 
 ### Energiepreisanpassungs-Linie
-- BGH zur unwirksamen Preisanpassung in Energielieferungsvertraegen — staendige Rspr.; Leitlinien BGH VIII ZR 178/08, BGH VIII ZR 244/10, BGH VIII ZR 295/13 (Az im Digitalisat verifizieren).
-- Unwirksam: einseitige Preisanpassungen ohne nachvollziehbare Berechnungsformel; einseitige Anpassung ohne paralleles Loesungsrecht.
-- Wirksam: Anpassung gekoppelt an Indizes (etwa StatBA-Verbraucherpreisindex) mit transparenter Formel und Kuendigungsrecht.
+- BGH, Urteil vom 24.03.2010 - VIII ZR 178/08: Auch eine klare, automatisch in beide Richtungen wirkende Formel kann unangemessen sein, wenn der verwendete Index die Kostenentwicklung nicht vollständig abbildet und dem Verwender zusätzliche Gewinne ermöglicht.
+- Transparenz, sachgerechte Kostenzuordnung, Weitergabe von Kostensenkungen und Beendigungsrecht getrennt prüfen. Eine Indexbindung mit Kündigungsrecht ist nicht allein deshalb wirksam.
 
 ### Update-Klauseln neu (§ 327f BGB)
 - Seit 01.01.2022 in Kraft: § 327f BGB regelt die Aktualisierungspflicht für digitale Produkte. AGB-Klauseln, die diese Pflicht unterlaufen, sind unwirksam.
@@ -60,34 +59,6 @@ description: "Wenn es um Änderungsvorbehalt 308 in AGB-Recht-Prüfer geht: zerl
 3. Loesungsrecht oder Anpassungsrecht des Vertragspartners?
 4. Transparenzgebot § 307 Abs. 1 Satz 2 BGB?
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 305 BGB (Einbeziehung von AGB)
-- § 305c BGB (überraschende und mehrdeutige Klauseln)
-- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
-- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
-- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
-- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
-- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
-- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
-- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
-- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
-
-### Leitentscheidungen
-
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
-- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 186/17 (App-Zentrum/Meta: Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß)
-- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
-
-### Anwendung im Skill
-
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
-- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.
 
 ## Quellenanker
 

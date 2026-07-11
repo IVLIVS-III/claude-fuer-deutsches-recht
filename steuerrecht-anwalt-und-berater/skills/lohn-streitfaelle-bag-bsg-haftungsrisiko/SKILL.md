@@ -46,13 +46,11 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 
 | Aktenzeichen | Leitsatz |
 |---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 
 ### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich |
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
@@ -123,5 +121,3 @@ Stand: 05/2026.
 - StBerG § 67.
 - StGB § 266a.
 - BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Prüfhinweise ohne Marker) -->

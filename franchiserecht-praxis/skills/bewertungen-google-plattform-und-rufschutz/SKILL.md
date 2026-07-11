@@ -77,29 +77,9 @@ Google ist als Host Provider nach dem NetzDG und der E-Commerce-Richtlinie verpf
 
 ## Abgrenzung und Einordnung
 
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
 
-## Abgrenzung und Einordnung
 
-## Normen und Rechtsprechung
+## Materien- und Quellenkontrolle
 
-### Kuratierte Normen-Bibliothek
-
-- Art. 101 AEUV
-- Art. 26 DSGVO
-- Art. 28 DSGVO
-- Art. 9 DSGVO
-- § 30 MarkenG
-- Art. 17 DSGVO
-- Art. 6 DSGVO
-- § 14 MarkenG
-- § 5 UWG
-- § 5a UWG
-- Art. 8 DSGVO
-- Art. 32 DSGVO
-
-### Leitentscheidungen
-
-- BGH I ZR 90/20
-- BGH VIII ZR 233/02
-- BGH XII ZR 197/03
+Franchiseverträge verbinden je nach Klausel Elemente des Dienst-, Miet-, Kauf-, Darlehens-, Lizenz- und Vertriebsrechts. Wettbewerbsrecht, Kartellrecht, Markenrecht, Datenschutz und Statusrecht nur für die konkret betroffene Pflicht hinzunehmen. Rechtsprechung zu Werbung, gewöhnlichem Mietrecht oder anderen Dauerschuldverhältnissen ist kein pauschaler Franchiseanker; eine Übertragung muss anhand von Vertragsstruktur, Schutzrichtung und Tatbestandsmerkmal begründet werden.

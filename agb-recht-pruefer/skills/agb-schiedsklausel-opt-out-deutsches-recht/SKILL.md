@@ -29,18 +29,15 @@ description: "Wenn es um Agb Schiedsklausel Opt Out Deutsches Recht in AGB-Recht
 
 ### Schiedsklauseln in B2B
 - AGB-rechtlich grundsätzlich zulässig.
-- Inhaltskontrolle nach § 307 BGB: kein unangemessenes Hindernis für den Rechtsweg.
-- BGH-Linie seit BGHZ 199, 268 (Az im Digitalisat verifizieren): Schiedsklausel in B2B-AGB zulässig, wenn Streitwert und Branchenuebung passen.
+- Inhaltskontrolle nach Paragraf 307 BGB anhand von Erreichbarkeit des Schiedsorts, Kosten, Verfahrensordnung, Ernennungsmechanismus, Sprache, einstweiligem Rechtsschutz und wirtschaftlicher Belastung. Weder Streitwert noch Branchenübung entscheiden allein.
 
-### Anwendet das Schiedsgericht zwingend deutsches AGB-Recht?
-- Wenn deutsches Recht als Schiedsstatut gewaehlt: ja.
-- Wenn fremdes Sachrecht gewaehlt: das Schiedsgericht ist nur an die Eingriffsnormen Art. 9 Rom-I-VO gebunden.
-- **§§ 305-310 BGB als Eingriffsnormen?** — herrschende Meinung: nein. Sie sind Schutznormen, aber keine "international zwingend anwendbaren Vorschriften" im Sinne Art. 9 Abs. 1 Rom-I-VO.
-- **Ordre public (Art. V Abs. 2 Buchst. b NYC 1958)**: nur die unverzichtbaren Kernwertungen des § 307 BGB (z. B. Haftungsausschluss für Vorsatz, für Leben und Gesundheit) sind ordre public; reine § 308/309-Verstoesse sind es nicht. BGH I ZB 75/16 (Az im Digitalisat verifizieren).
+### Welches Recht ist anzuwenden?
+- Schiedsvereinbarung, Hauptvertrag und Verfahren können unterschiedlichen Rechtsordnungen unterliegen. Für jede Ebene Rechtswahl, Schiedsort, Verfahrensordnung und Kollisionsnorm getrennt bestimmen; Artikel 1 Absatz 2 Buchstabe e Rom-I-VO nimmt Schiedsvereinbarungen aus dem Anwendungsbereich der Verordnung aus.
+- Eine Wahl ausländischen Sachrechts beseitigt deutschen Verbraucherschutz nicht automatisch. Beim Hauptvertrag insbesondere Artikel 6 Rom-I-VO, beim Anerkennungs- und Vollstreckungsverfahren Artikel V des New Yorker Übereinkommens und den ordre public des Vollstreckungsstaats prüfen.
+- Ob einzelne deutsche AGB-Normen unabhängig vom Vertragsstatut eingreifen, darf nicht pauschal für die Paragrafen 305 bis 310 BGB beantwortet werden. Schutzrichtung, Vertragsart und konkrete Kollisionsnorm entscheiden.
 
 ### Konsequenz für den Verwender
-- Schiedsklausel + Wahl fremden Sachrechts kann tatsaechlich AGB-Schutz umgehen, soweit nicht Verbraucher (Art. 6 Rom-I) oder ordre public.
-- Das ist nicht "Opt-out" im technischen Sinn, sondern eine kombinierte Rechtswahl + Forenwahl.
+- Schieds- und Rechtswahlklauseln sind kein verlässlicher „Opt-out“ aus zwingendem Recht. Entwirf sie als Streitbeilegungsregel und prüfe Form, Einbeziehung, Transparenz, Zumutbarkeit, anwendbares Recht und Vollstreckbarkeit jeweils eigenständig.
 
 ## Prüfraster
 

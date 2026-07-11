@@ -16,7 +16,6 @@ description: "Wenn es um Gewerbeanmeldung und Finanzamt-Erfassung in gesellschaf
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gewerbeanmeldung und Finanzamt-Erfassung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -24,7 +23,7 @@ description: "Wenn es um Gewerbeanmeldung und Finanzamt-Erfassung in gesellschaf
 ## Triage — kläre vor den Anmeldungen
 
 1. Wann wurde / wird die gewerbliche Tätigkeit aufgenommen — Gewerbeanmeldung unverzüglich danach (Paragraf 14 GewO)?
-2. Handelt es sich um eine juristische Person (GmbH, UG, AG) — dann immer Regelbesteuerung, kein Kleinunternehmer.
+2. Handelt es sich um eine juristische Person (GmbH, UG, AG), sind Umsatzgrenzen, Unternehmensstruktur, Vorsteuerbedarf und ein möglicher Verzicht gesondert zu prüfen; die Rechtsform schließt Paragraf 19 UStG nicht aus.
 3. Ist B2B-Geschäft oder B2C mit ausländischen Kunden geplant — dann USt-IdNr. sofort beantragen.
 4. Gibt es größere Investitionsausgaben im ersten Jahr (Büro, IT, Fuhrpark) — dann Regelbesteuerung empfehlenswert wegen Vorsteuerabzug.
 5. Liegt ein genehmigungspflichtiger Gegenstand vor (Paragraf 34a GewO, Paragraf 2 GastG, BaFin) — dann Genehmigung vor Anmeldung sicherstellen.
@@ -36,7 +35,7 @@ description: "Wenn es um Gewerbeanmeldung und Finanzamt-Erfassung in gesellschaf
 - **Paragraf 146 Abs. 2 GewO** — Bußgeld bei Versäumnis: bis 1.000 EUR.
 - **Paragraf 138 AO** — Steuerliche Erfassungspflicht: Gewerbetreibende müssen Finanzamt innerhalb eines Monats nach Aufnahme informieren.
 - **Paragraf 18 UStG** — USt-Voranmeldung: monatlich oder quartalsweise über ELSTER; bis 10. des Folgemonats.
-- **Paragraf 19 UStG** — Kleinunternehmer-Regelung: Jahresumsatz ≤ 22.000 EUR Vorjahr und voraussichtlich ≤ 50.000 EUR aktuelles Jahr; kein Vorsteuerabzug.
+- Paragraf 19 UStG: Umsätze eines inländischen Kleinunternehmers sind steuerfrei, wenn der Gesamtumsatz im vorangegangenen Kalenderjahr 25.000 Euro und im laufenden Kalenderjahr 100.000 Euro nicht überschreitet. Der Umsatz, mit dem die laufende Grenze überschritten wird, und die folgenden Umsätze unterliegen der Regelbesteuerung; ein Vorsteuerabzug aus Eingangsleistungen scheidet bei der Steuerbefreiung grundsätzlich aus.
 - **Paragraf 41a EStG** — Lohnsteuer-Anmeldung: monatlich oder quartalsweise; bis 10. des Folgemonats.
 
 ## Aktuelle Rechtsprechung
@@ -104,18 +103,18 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 
 | Merkmal | Kleinunternehmer Paragraf 19 UStG | Regelbesteuerung |
 |---|---|---|
-| Umsatzgrenze | ≤ 22.000 EUR Vorjahr + ≤ 50.000 EUR aktuell | Keine Grenze |
+| Umsatzgrenze | Höchstens 25.000 Euro Gesamtumsatz im Vorjahr und höchstens 100.000 Euro im laufenden Kalenderjahr | Keine Kleinunternehmergrenze |
 | Vorsteuerabzug | Kein | Ja |
 | Rechnungsausweis | Keine USt | USt ausweisen |
 | B2B-Eignung | Eingeschränkt (Kunde verliert Vorsteuer) | Standard |
-| Jurist. Person (GmbH) | Nicht möglich | Immer |
-| Bindungsdauer bei Verzicht | 5 Jahre (Paragraf 19 Abs. 2 UStG) | — |
+| Juristische Person (GmbH) | Bei erfüllten Voraussetzungen möglich | Häufig zweckmäßig, gesondert prüfen |
+| Bindungsdauer bei Verzicht | Mindestens fünf Kalenderjahre (Paragraf 19 Absatz 3 UStG) | Entfällt |
 
 ## Rote Schwellen
 
 - Gewerbeanmeldung verzögert → Bußgeld bis 1.000 EUR; kein Mildungsgrund bei Erstgründung.
 - Fragebogen nicht eingereicht → Finanzamt schätzt; Schätzung oft höher als tatsächliche Steuerlast.
-- Kleinunternehmer bei GmbH gewählt → unzulässig; GmbH immer Regelbesteuerung.
+- Kleinunternehmerregelung ungeprüft gewählt → Vorsteuerverlust, fehlerhafte Rechnung oder ungeplanter Wechsel zur Regelbesteuerung möglich; Umsatzprognose, Kundenstruktur und Investitionen dokumentieren.
 - USt-IdNr. fehlt bei EU-B2B-Geschäft → Reverse-Charge nicht anwendbar; Doppelbelastung.
 - Lohnsteuer nicht abgeführt → GF persönlich haftbar (Paragraf 34, 69 AO).
 

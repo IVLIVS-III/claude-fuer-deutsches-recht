@@ -34,7 +34,8 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 - Aufopferungsanspruch fuellt die Luecke für rechtmäßige Eingriffe.
 
 ### Beruehmte Faelle
-- **BGH** zur Aufopferung in Polizeifaellen (st. Rspr.; konkrete Az im Digitalisat verifizieren, etwa BGHZ 9 Seite 83; BGHZ 92 Seite 34).
+- **BGH, Urteil vom 19.02.1953 - III ZR 208/51, BGHZ 9, 83:** allgemeine Geltung des aus Paragraf 75 EinlALR entwickelten Aufopferungsanspruchs und Anwendung auf Impfschäden.
+- **BGH, Urteil vom 07.09.2017 - III ZR 71/17:** Der Aufopferungsanspruch kann bei rechtmäßigen hoheitlichen Eingriffen in Leben, körperliche Unversehrtheit oder Freiheit auch immaterielle Schäden erfassen. Die Entscheidung betraf die Verletzung eines Unbeteiligten bei einem Polizeieinsatz.
 - **Pockenimpfungs-Faelle** der Nachkriegszeit.
 
 ### Prüfraster

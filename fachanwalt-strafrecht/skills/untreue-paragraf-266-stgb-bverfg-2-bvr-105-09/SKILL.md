@@ -1,40 +1,44 @@
 ---
 name: untreue-paragraf-266-stgb-bverfg-2-bvr-105-09
-description: "Wenn es um Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09 in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Untreuevorwürfe gegen Vorstände, Geschäftsführer, Amtsträger und Vermögensbetreuer. Trennt Befugnis, qualifizierte Betreuungspflicht, konkrete Pflichtverletzung, wirtschaftlichen Vermögensnachteil und doppelten Vorsatz und liefert Tatkomplexmatrix, Schadensrechnung und Verteidigungs- oder Anklagelinie."
 ---
 
-# Untreue Paragraf 266 StGB BVerfG 2 Bvr 105 09
+# Untreue nach Paragraf 266 StGB prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Vorstand A trifft riskante Investition; Schaden bei Gesellschaft.
+Eine unternehmerische Entscheidung, Zahlung, Kreditvergabe, Vergütung oder Vermögensverschiebung soll pflichtwidrig und nachteilig gewesen sein. Wirtschaftlicher Misserfolg allein ist keine Untreue; Pflicht, Entscheidungsspielraum, Nachteil und Vorsatz müssen für jeden Vorgang konkret bewiesen werden.
 
-## Normenanker
+## 2. Normenanker
 
-- § 266 StGB
-- § 136 StPO
-- § 244 StPO
-- § 257c StPO
-- § 261 StPO
-- § 337 StPO
+- Paragraf 266 StGB: Missbrauchs- und Treubruchtatbestand, Vermögensbetreuungspflicht und Vermögensnachteil.
+- Paragraf 93 Absatz 1 Satz 2 AktG und Paragraf 43 GmbHG: organschaftliche Pflichten und unternehmerischer Entscheidungsspielraum, soweit einschlägig.
+- Paragrafen 111a und 111b StPO sowie Paragrafen 73 bis 73c StGB: Sicherung und Einziehung nur nach eigenständiger Prüfung.
+- Paragrafen 244, 261 und 267 StPO: Aufklärung, Beweiswürdigung und Urteilsgründe.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungsanker
 
-- BVerfG 23.06.2010 2 BvR 2559/08 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BVerfG, Beschluss vom 23. Juni 2010 - 2 BvR 2559/08, 2 BvR 105/09 und 2 BvR 491/09: Paragraf 266 StGB ist mit dem Bestimmtheitsgebot nur bei präzisierender, restriktiver Anwendung vereinbar. Vermögensbetreuungspflicht, Pflichtverletzung und Nachteil müssen eigenständig festgestellt werden; der Nachteil ist wirtschaftlich nachvollziehbar zu ermitteln und darf nicht in der Pflichtverletzung aufgehen.
+- Die verfassungsgerichtliche Entscheidung ist kein Beleg dafür, dass jede riskante oder nachträglich verlustreiche Investition pflichtwidrig ist. Maßgeblich sind Informationsgrundlage, Entscheidungsverfahren, zulässiges Risiko und ex-ante-Sicht.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Jeden Tatkomplex nach Handlung, Zeitpunkt, Beteiligtem, Vermögensinhaber, Betrag und behauptetem Vorteil trennen.
+2. Missbrauchs- oder Treubruchsalternative bestimmen. Rechtsmacht und Innenpflicht nicht vermischen.
+3. Vermögensbetreuungspflicht aus Gesetz, Satzung, Vertrag und tatsächlicher Stellung herleiten; Hauptpflichtcharakter und Eigenverantwortung begründen.
+4. Konkrete Pflichtverletzung ex ante prüfen. Bei unternehmerischer Entscheidung Informationen, Interessenkonflikt, Unternehmenswohl, Alternativen und Vertretbarkeit dokumentieren.
+5. Vermögensvergleich vor und nach der Verfügung erstellen. Gegenleistung, Sicherheiten, Ansprüche, Ausfallrisiko und wirtschaftlich messbare Gefährdung bewerten; bloßen Normverstoß nicht als Schaden buchen.
+6. Doppelten Vorsatz zu Pflichtverletzung und Vermögensnachteil für jeden Beschuldigten aus Kommunikation, Kenntnisstand und Entscheidungsprozess ableiten oder widerlegen.
+7. Beteiligungsform, Irrtum, Einziehung und zivilrechtliche Ersatzansprüche getrennt behandeln. Strafrechtliche und gesellschaftsrechtliche Verantwortlichkeit nicht gleichsetzen.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-Pflichtwidrigkeit; Vermögensnachteil objektiv; Vorsatz.
+Liefere Tatkomplex-, Pflicht- und Rollenmatrix, Ex-ante-Entscheidungsakte, wirtschaftliche Nachteilsrechnung, Vorsatzindizien, Beweisanträge und ausformulierte Einstellungs-, Verteidigungs- oder Anklagebegründung. Jede Schadenszahl erhält Methode und Beleg.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- Vorstandsbeschluss
-- Marktanalyse
+- Satzung, Geschäftsordnung, Verträge und Vollmachten
+- Beschlussvorlagen, Protokolle und Entscheidungsgrundlagen
+- Gutachten, Marktinformationen und Risikoberichte
+- Zahlungsflüsse, Gegenleistungen, Sicherheiten und Bewertungen
+- Kommunikation und Kenntnisstand jedes Beteiligten

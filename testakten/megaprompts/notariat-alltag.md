@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 129 Skills (gekuerzt fuer Chat-Fenster) des Plugins `notariat-alltag`.
+Diese Vollprüfung enthält top-8 von 129 Skills (gekürzt für das Arbeitsfenster) des Plugins `notariat-alltag`.
 
 ## Inhaltsverzeichnis
 
@@ -757,7 +757,7 @@ Bei **Schenkungsvertrag Nießbrauch Wohnrecht Rückforderung und Pflegeklausel**
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

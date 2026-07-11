@@ -46,7 +46,7 @@ Voraussetzung: Anzeige der Nichtautorisierung durch den Zahler unverzüglich nac
 1. **Außergerichtliche Korrespondenz**: Erstattungsforderung mit Fristsetzung 14 Tage; § 286 BGB-Verzug ab Ablauf.
 2. **Bankenombudsmann** (BdB, BVR, DSGV, VÖB): kostenlos für Verbraucher, bei Streitwert bis 10.000 EUR bindend für Bank (privater Bankensektor) — siehe jeweilige Schlichtungsordnung.
 3. **Schlichtung Deutsche Bundesbank** (§ 14 UKlaG i. V. m. ZAG): wenn keine eigene Schlichtungsstelle.
-4. **Klage**: Amtsgericht bis 5.000 EUR, sonst Landgericht; Streitverkündung Strafanzeige unabhängig fortführen.
+4. Klage: Amtsgericht bis einschließlich 10.000 Euro, darüber Landgericht; örtliche Zuständigkeit, Anwaltszwang, Streitverkündung und ein strafrechtliches Parallelverfahren getrennt prüfen.
 
 ## Vergleichshebel
 - **Sicherungspflicht der Bank** nach Art. 97 PSD2 (umgesetzt in § 55 ZAG): starke Kundenauthentifizierung — bei deren Fehlen Haftung der Bank verschärft.
@@ -54,24 +54,3 @@ Voraussetzung: Anzeige der Nichtautorisierung durch den Zahler unverzüglich nac
 
 ## Trade-off
 Vergleich vor Schlichtung spart Zeit, opfert aber häufig 20-30 % der Erstattung. Bei klarer Beweislage (kein Vorsatz, keine grobe Fahrlässigkeit) ist Schlichtungsverfahren regelmäßig die wirtschaftlichere Option, da kostenfrei und ohne Vertretungspflicht.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 263a StGB
-- Art. 33 DSGVO
-- § 1 ZAG
-- § 31 VVG
-- § 55 ZAG
-- Art. 34 DSGVO
-- § 4 FinDAG
-- § 27 ZAG
-- § 269 StGB
-- § 29 VwVfG
-- Art. 15 DSGVO
-- § 32 BSIG
-
-### Leitentscheidungen
-
-- BGH XI ZR 91/14

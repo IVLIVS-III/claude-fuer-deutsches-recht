@@ -30,8 +30,6 @@ description: "Wenn es um EncroChat, ANOM, Sky ECC und Kryptodienste in Staatsanw
 - EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: EncroChat-Daten verlangen Prüfung von Europäischer Ermittlungsanordnung, Zuständigkeit, Verteidigungsrechten und Zugang zum Beweismaterial.
 - BGH, Beschluss vom 02.03.2022 - 5 StR 457/21, BGHSt 67, 29: EncroChat-Daten können verwertbar sein; die konkrete Herkunft, Übermittlung und Relevanz bleiben aktenbezogen zu prüfen.
 - BVerfG, Beschluss vom 01.11.2023 - 2 BvR 1832/22, frei nachweisbar über bundesverfassungsgericht.de/dejure: Verfassungsbeschwerden gegen EncroChat-Verwertung scheitern nicht an abstrakter Skepsis, sondern an konkreter Darlegung.
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
 
 ## Antrags- bzw. Verfügungs-Bausteine
 

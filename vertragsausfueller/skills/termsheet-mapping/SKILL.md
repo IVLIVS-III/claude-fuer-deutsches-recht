@@ -68,7 +68,3 @@ description: "Wenn es um Term-Sheet-Mapping in Vertragsausfüller geht: prüft F
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Bundle: bundle_047.json
--->

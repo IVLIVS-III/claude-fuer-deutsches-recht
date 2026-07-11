@@ -219,7 +219,7 @@ Kapitalmarktrecht]
 ## Streitwert und Kosten
 
 - **Streitwert**: Schadensumme + entgangene Zinsen = klageweiser Gesamtanspruch.
-- **LG-Zuständigkeit**: ab 5.000 EUR Streitwert § 23 GVG; Bankrecht-Fälle fast immer LG.
+- Sachliche Zuständigkeit: kapitalmarktrechtliche Sonderzuweisungen zuerst prüfen; sonst Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber. Weder die Beteiligung einer Bank noch die Bezeichnung als Anlagesache begründet für sich allein eine Landgerichtszuständigkeit.
 - **Kostenrisiko**: Bei 100.000 EUR Streitwert: ca. 7.000 EUR Gerichtsgebühren (3 Instanzen); Anwalt nach RVG.
 - **Ombudsstelle**: kostenfrei, hemmt Verjährung; Empfehlung als erste Stufe wenn Bank ggf. verhandlungsbereit.
 
@@ -241,6 +241,3 @@ Kapitalmarktrecht]
  - BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag
  - LG Nürnberg-Fürth, Urt. v. 21.2.2025 — PRIIPs-KID Gesamtrisikoindikator bei offenem Immobilienfonds (nicht rechtskräftig; instanzgerichtlich)
 - Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; nicht aus Modellwissen.
-
-<!-- AUDIT 27.05.2026 bundle_021
--->

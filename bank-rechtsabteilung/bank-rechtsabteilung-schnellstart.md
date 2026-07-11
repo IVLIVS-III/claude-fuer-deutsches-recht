@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
 - WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
 - BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 24 Abs. 1a KWG – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 25h KWG – Anzeigepflichten bei Geldwäscheverdacht; Zusammenspiel mit GwG Paragrafen 43–48: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2c KWG – Inhaberkontrolle: Anzeige Erwerb (60-Werktage-Frist), Veräußerung, Überschreiten jeder Schwelle (10/20/30/50 %); InhKontrollV-Formulare: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 24 Abs. 1a KWG – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 25h KWG – Anzeigepflichten bei Geldwäscheverdacht; Zusammenspiel mit GwG Paragrafen 43–48; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2c KWG – Inhaberkontrolle: Anzeige Erwerb (60-Werktage-Frist), Veräußerung, Überschreiten jeder Schwelle (10/20/30/50 %); InhKontrollV-Formulare; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 19.12.2006 - XI ZR 56/05: Rückvergütungen in der Anlageberatung müssen offen gelegt werden, wenn sie für den Kunden einen Interessenkonflikt verdecken.
 - BGH, Urteil vom 27.04.2021 - XI ZR 26/20: Zustimmungsfiktionen in Banken-AGB genügen der Inhaltskontrolle nicht, wenn sie wesentliche Vertragsänderungen ermöglichen.
 

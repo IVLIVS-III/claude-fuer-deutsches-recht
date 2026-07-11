@@ -70,7 +70,6 @@ description: "Wenn es um Unterhaltsberechnung Düsseldorfer Tabelle in Fachanwal
 | Berufliche Fahrtkosten | EUR 0.30/km × Arbeitstage × Einfachstrecke | Tatsächlich beruflich veranlasst |
 | Private Krankenversicherung | Tatsächlicher Eigenbeitrag | Soweit nicht überhöht |
 | Altersvorsorge-Beitrag | 4 % des Bruttoeinkommens | Primäre Altersvorsorge; "Sockel-Beitrag" |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Krankheitskosten | Tatsächlich, soweit ungedeckt | Arztkosten, Medikamente, Zuzahlungen |
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -159,9 +158,7 @@ Trennungsunterhalt (3/7 der Differenz): EUR [(A-B) × 3/7]
 
 | Streitpunkt | Lösung |
 |-------------|--------|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Übergangszeit 0–3 Jahre Kind | Keine Vollerwerbsobliegenheit; Betreuungsunterhalt |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Nachehelicher Unterhalt Paragrafen 1569 ff. BGB
 
@@ -262,7 +259,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Kindesunterhalt oder nachehelichen Unterhalt berechnen | Berechnungsschema Duesseldorfer Tabelle; Template unten |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Variante B — Einkommensermittlung komplex (Selbststaendiger) | Bereinigtes Netto sorgfaeltig berechnen; ggf. Steuererklaerung anfordern |
 | Variante C — Mandant will ohne Gericht regeln | Aussergerichtliche Einigung; Jugendamt und URK als Weg |
 
@@ -353,9 +349,7 @@ der Verhältnisse dar.
 | Gegenargument | Reaktion |
 |--------------|---------|
 | "Einkommen niedriger als behauptet" | Auskunftsklage Paragraf 1605 BGB; Lohnsteuerbescheinigung; Steuerbescheid |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Düsseldorfer Tabelle veraltet" | Tabelle jährlich angepasst; bei Mandatsbeginn aktuelle Version prüfen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -410,8 +404,8 @@ der Verhältnisse dar.
 ## Unterhalts-Anker
 
 - BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft kann nicht pauschal mit behaupteter unbegrenzter Leistungsfähigkeit verweigert werden.
-- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Vertretung und Verfahrensbefugnis in Kindesunterhaltssachen getrennt lebender Eltern sind vor jedem Antrag live zu prüfen.
-- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs-, Einkommens- und Begrenzungsprüfung.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Erweiterter Umgang begründet keine anteilige Barunterhaltspflicht des hauptbetreuenden Elternteils. Möglich sind eine Herabstufung in der Düsseldorfer Tabelle und bei bedarfsdeckenden Leistungen ein geschätzter Abzug von regelmäßig 10 Prozent, ausnahmsweise höchstens 15 Prozent; Vertretung und Verfahrensstandschaft nach Paragraf 1629 Abs. 2 und 3 BGB sind gesondert zu prüfen.
+- BGH, Beschluss vom 20.09.2023 - XII ZB 177/22: Bei überdurchschnittlichen wirtschaftlichen Verhältnissen sind der fortgeschriebene Tabellenbedarf und konkret geltend gemachter Mehr- oder Wohnbedarf getrennt und belegt zu bestimmen.
 - Paragrafen 1601, 1602, 1603, 1605, 1610, 1612a, 1612b, 1361, 1569, 1570 bis 1578b, 1580 BGB und Paragrafen 235, 243 FamFG bilden den Kernbestand.
 
 ## Unterhalts-Stop

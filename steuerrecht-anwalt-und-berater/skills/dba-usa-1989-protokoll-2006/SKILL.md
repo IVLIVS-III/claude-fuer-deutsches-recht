@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-USA (1989) mit Protokollen (1998. 2006,
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-USA (1989) mit Protokollen (1998, 2006, geplant 2021)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -170,5 +168,3 @@ Bei Wegzug DE-Anteilseigner natuerliche Person in die USA: § 6 AStG-Wegzugsbest
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-USA 29.08.1989, BGBl. 1991 II S. 354, in Kraft 21.08.1991. Protokoll 2006 vom 01.06.2006, BGBl. 2006 II S. 1184, in Kraft 28.12.2007 (BGBl. 2008 II S. 611). Dividenden 5/15%, Zinsen 0%, Lizenzen 0%. LOB: Art. 28. BMF US-LLC: BStBl. I 2004, 411. BVerfG Treaty Override: 2 BvL 1/12.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: BGBl. 1991 II S. 354 bestaetigt; Protokoll 2006 BGBl. 2006 II S. 1184 bestaetigt (NWB I R 34/08); Inkrafttreten Protokoll 2006 BGBl. 2008 II S. 611 bestaetigt; Art. 10 5/15% bestaetigt (IRS-PDF); Art. 11 0% bestaetigt; Art. 12 0% bestaetigt; LOB Art. 28 bestaetigt (IRS-PDF); BVerfG 2 BvL 1/12 bestaetigt; BMF US-LLC 19.03.2004 bestaetigt; BFH I R 79/15 gestrichen (betrifft DBA-Luxemburg); BFH I R 73/16 gestrichen (betrifft DBA-Belgien/AStG); Pension Protection allgemein gefasst; Branch Profits Tax allgemein gefasst -->

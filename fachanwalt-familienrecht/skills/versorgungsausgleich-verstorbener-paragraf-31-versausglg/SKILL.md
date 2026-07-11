@@ -1,41 +1,48 @@
 ---
 name: versorgungsausgleich-verstorbener-paragraf-31-versausglg
-description: "Wenn es um Versorgungsausgleich Verstorbener Paragraf 31 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft die Folgen des Todes eines Ehegatten für Scheidung, Wertausgleich und Ausgleichsansprüche nach der Scheidung. Trennt den Todeszeitpunkt, saldiert Anrechte nach Paragraf 31 VersAusglG und liefert Beteiligten-, Berechnungs- und Antragsplan."
 ---
 
-# Versorgungsausgleich Verstorbener Paragraf 31 Versausglg
+# 1. Tod eines Ehegatten im Versorgungsausgleich
 
-## Einsatzlage
+## 1.1 Zeitachse zuerst
 
-Ehegatte verstirbt vor rechtskraeftiger Scheidung; Ausgleich noch durchfuehrbar?
+1. Tod vor Rechtskraft der Scheidung: Das Scheidungsverfahren erledigt sich; Paragraf 31 Absätze 1 und 2 VersAusglG eröffnen keinen nachträglichen Wertausgleich bei der Scheidung.
+2. Tod nach Rechtskraft der Scheidung, aber vor Rechtskraft der Entscheidung über den Wertausgleich nach den Paragrafen 9 bis 19 VersAusglG: Paragraf 31 Absätze 1 und 2 ist unmittelbar zu prüfen.
+3. Tod nach rechtskräftigem Wertausgleich: Prüfe Anpassungs- und Abänderungsrecht gesondert; Paragraf 31 ist nicht pauschal rückabwickelnd.
+4. Ausgleichsansprüche nach der Scheidung nach den Paragrafen 20 bis 24 VersAusglG erlöschen grundsätzlich mit dem Tod eines Ehegatten; Ansprüche nach den Paragrafen 25 und 26 bleiben nach Paragraf 31 Absatz 3 unberührt.
 
-## Normenanker
+## 1.2 Aktenaufnahme
 
-- Paragraf 31 VERSAUSGLG
-- Paragrafen 1564 ff. BGB
-- Paragraf 1671 BGB
-- Paragraf 1684 BGB
-- Paragrafen 1601 ff. BGB
-- Paragrafen 1372 ff. BGB
+Sichere Sterbeurkunde, Scheidungsbeschluss, Rechtskraftvermerke, Zustellnachweise, sämtliche Versorgungsträgerauskünfte, frühere Ausgleichsentscheidungen und anhängige Abänderungsverfahren. Ermittle den Todeszeitpunkt und beide Rechtskraftzeitpunkte taggenau.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 1.3 Prüfprogramm nach Paragraf 31 Absätze 1 und 2
 
-- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
+1. Das Recht des überlebenden Ehegatten auf Wertausgleich kann gegen die Erben geltend gemacht werden.
+2. Die Erben haben kein eigenes Recht auf Wertausgleich. Sie sind nicht allein deshalb ausgleichsberechtigt, weil der Verstorbene rechnerisch mehr Anrechte erworben hat.
+3. Stelle sämtliche dem Wertausgleich unterliegenden Anrechte beider Ehegatten mit korrekten Ausgleichswerten in eine Gesamtbilanz ein.
+4. Der überlebende Ehegatte darf nicht bessergestellt werden als bei Durchführung des Versorgungsausgleichs zu Lebzeiten beider Ehegatten.
+5. Sind mehrere Anrechte des Verstorbenen heranzuziehen, entscheidet das Gericht nach billigem Ermessen, welche Anrechte den zulässigen Ausgleich tragen.
+6. Prüfe geringfügige Anrechte, fehlende Ausgleichsreife, ausländische Anrechte und Ausschlüsse als eigene Zeilen; streiche sie nicht ohne Begründung aus der Bilanz.
 
-## Prüfprogramm
+## 1.4 Abänderungsverfahren
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+Bei einer Abänderung nach Paragraf 51 VersAusglG und den Paragrafen 225 und 226 FamFG prüfe zuerst, ob die gesetzlichen Einstiegsvoraussetzungen erfüllt sind. Der Tod allein eröffnet nicht automatisch eine Totalrevision. Bestimme Antragsteller, Antragszeitpunkt, wesentliche Wertänderung und Wirkung ab Antragstellung.
 
-## Arbeitsergebnis
+## 1.5 Rechtsprechungsanker
 
-Ausgleich entfaellt; Erben treten ein wenn Sachstand spruchreif.
+1. BGH, Beschluss vom 27. Januar 2021 - XII ZB 336/20: Paragraf 31 VersAusglG setzt nicht voraus, dass das Versorgungsausgleichsverfahren beim Tod bereits anhängig war; entscheidend ist der Tod nach Rechtskraft der Scheidung und vor Rechtskraft der Wertausgleichsentscheidung.
+2. BGH, Beschluss vom 22. März 2017 - XII ZB 385/15: Auch bei Tod eines Ehegatten sind geringfügige Anrechte nach Paragraf 18 VersAusglG nicht schematisch aus der Gesamtbetrachtung auszublenden.
+3. BGH, Beschluss vom 5. Februar 2020 - XII ZB 147/18: Im Abänderungsverfahren ist Paragraf 31 VersAusglG zwar anwendbar; für den Einstieg in die Totalrevision muss sich der Antragsteller grundsätzlich auf eine wesentliche und ihn begünstigende Wertänderung berufen.
 
-## Belege und Aktenlücken
+## 1.6 Berechnungstabelle
 
-- Sterbeurkunde
-- Scheidungsakte
-- Rentenkonto
+| Anrecht | Ehegatte | Ehezeitanteil | Ausgleichswert | ausgleichsreif | Einwand | Bilanzwirkung |
+| --- | --- | ---: | ---: | --- | --- | ---: |
+| aus Akte | überlebend oder verstorben | Betrag oder Entgeltpunkte | Wert mit Bezugsgröße | ja oder nein | konkret | positiv oder negativ |
+
+Zeige Rechenweg, Bezugsgröße, Teilungskosten und Rundung. Vermische Kapitalwerte, Rentenbeträge und Entgeltpunkte nicht ohne Umrechnung.
+
+## 1.7 Ausgabe
+
+Liefere Zeitachsenvermerk, Beteiligtenstellung, Anrechtematrix, Gesamtbilanz, Ermessensgesichtspunkte, Antrag und Liste fehlender Versorgungsträgerauskünfte. Verwende nicht die pauschale Aussage, der Ausgleich entfalle oder die Erben träten bei Spruchreife einfach ein.

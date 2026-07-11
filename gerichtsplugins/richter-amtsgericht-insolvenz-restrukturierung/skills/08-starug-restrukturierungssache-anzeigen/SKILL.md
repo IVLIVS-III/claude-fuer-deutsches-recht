@@ -34,10 +34,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- Für die bloße Anzeige der Restrukturierungssache wird kein fachfremder höchstrichterlicher Anker behauptet. Maßgeblich sind zunächst StaRUG Paragrafen 31 bis 35, der konkrete Verfahrensstand, die drohende Zahlungsunfähigkeit und die Vollständigkeit der Anzeige.
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Die Nichtannahmeentscheidung zur Bestätigung eines Restrukturierungsplans betrifft die Substantiierung einer Verfassungsbeschwerde und trägt keine allgemeine Aussage über Zulässigkeit oder Erfolg einer Anzeige nach StaRUG Paragraf 31.
 
 ## Prüfungsschema in Stufen
 

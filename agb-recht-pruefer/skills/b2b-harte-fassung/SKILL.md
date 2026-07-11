@@ -29,9 +29,7 @@ description: "Wenn es um B2B Harte Fassung in AGB-Recht-Prüfer geht: ordnet Akt
 - Bei der Anwendung des § 307 BGB im unternehmerischen Verkehr ist auf die im Handelsverkehr geltenden Gewohnheiten und Gebraeuche angemessen Rücksicht zu nehmen.
 
 ### Indizwirkung der § 308/309-Wertungen
-- BGH staendige Rspr.: Klauseln, die im B2C unwirksam sind (§ 308/309 BGB), sind im B2B im Regelfall ebenfalls unwirksam, sofern keine besonderen Erwaegungen vorliegen.
-- Diese "Indizwirkung" verfestigt sich seit BGH XII ZR 71/17 (Mietrecht, Az im Digitalisat verifizieren).
-- BGH KZR 12/15 zur Wertungsuebertragung im Wirtschaftsrecht.
+- Nach Paragraf 310 Absatz 1 Satz 2 BGB kann Paragraf 307 im Unternehmerverkehr auch zur Unwirksamkeit von Klauseln führen, die den Wertungen der Paragrafen 308 und 309 widersprechen. Das ist keine automatische Übernahme: Handelsbräuche, Vertragsart, Risikosphäre und besondere Unternehmerinteressen konkret abwägen.
 
 ### Wichtige Sonderbereiche
 - **Haftungsausschluss**: § 309 Nr. 7a, 7b BGB strahlen in den B2B-Bereich aus. Insbesondere Ausschluss der Haftung für Vorsatz und grobe Fahrlaessigkeit ist in B2B unwirksam.

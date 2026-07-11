@@ -70,4 +70,7 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 ## Quellenpflicht
 
+- BGH, Urteil vom 14.02.2025 - V ZR 236/23: Wird eine vereinbarte objektbezogene Kostentrennung geändert und werden bisher nicht beteiligte Eigentümer erstmals mit Erhaltungskosten belastet, widerspricht dies regelmäßig ordnungsmäßiger Verwaltung, sofern kein sachlicher Grund für ihre Einbeziehung besteht.
+- BGH, Urteil vom 14.02.2025 - V ZR 128/23: Die Kompetenz aus Paragraf 16 Absatz 2 Satz 2 WEG erfasst auch den Verteilungsschlüssel für die Zuführung zur Erhaltungsrücklage. Beschlusskompetenz, Bestimmtheit und sachgerechte Belastung getrennt prüfen.
+
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .

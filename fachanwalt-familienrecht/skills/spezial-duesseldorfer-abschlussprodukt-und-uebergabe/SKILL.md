@@ -71,8 +71,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Unterhalts-Anker
 
 - BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Auskunft kann nicht pauschal mit behaupteter unbegrenzter Leistungsfähigkeit verweigert werden.
-- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Vertretung und Verfahrensbefugnis in Kindesunterhaltssachen getrennt lebender Eltern sind vor jedem Antrag live zu prüfen.
-- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs-, Einkommens- und Begrenzungsprüfung.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Erweiterter Umgang begründet keine anteilige Barunterhaltspflicht des hauptbetreuenden Elternteils. Möglich sind eine Herabstufung in der Düsseldorfer Tabelle und bei bedarfsdeckenden Leistungen ein geschätzter Abzug von regelmäßig 10 Prozent, ausnahmsweise höchstens 15 Prozent; Vertretung und Verfahrensstandschaft nach Paragraf 1629 Abs. 2 und 3 BGB sind gesondert zu prüfen.
+- BGH, Beschluss vom 20.09.2023 - XII ZB 177/22: Bei überdurchschnittlichen wirtschaftlichen Verhältnissen sind der fortgeschriebene Tabellenbedarf und konkret geltend gemachter Mehr- oder Wohnbedarf getrennt und belegt zu bestimmen.
 - Paragrafen 1601, 1602, 1603, 1605, 1610, 1612a, 1612b, 1361, 1569, 1570 bis 1578b, 1580 BGB und Paragrafen 235, 243 FamFG bilden den Kernbestand.
 
 ## Unterhalts-Stop

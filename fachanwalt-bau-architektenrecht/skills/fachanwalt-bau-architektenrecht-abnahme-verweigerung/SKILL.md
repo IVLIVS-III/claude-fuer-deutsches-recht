@@ -149,4 +149,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - `fachanwalt-bau-architektenrecht-bautraeger-insolvenz` — bei Insolvenz-Fall
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 49/15 (WRONG_TOPIC) — auf dejure.org verifiziert als BGH 25.02.2016, NJW 2016, 1572: Keine Verkürzung der Verjährungsfrist durch antizipierte Abnahme (Bauträgervertrag, Nachzügler). Eintrag von falscher Kurzbeschreibung "Abnahme-Fiktion" auf korrektes Thema korrigiert. -->

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 04.07.2005 - II ZR 354/03 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
 | Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
 | Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
@@ -52,12 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - HGB Paragraf 105: offene Handelsgesellschaft.
 - GmbHG Paragraf 13: Rechtsnatur der GmbH.
 - GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 8 HGB — Handelsregister: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 12 HGB — Anmeldungen und Einreichungen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 15 HGB — Publizität des Handelsregisters: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: ARAG/Garmenbeck prägt die Pflicht zur Verfolgung von Organhaftungsansprüchen.
-- BGH, Urteil vom 04.07.2005 - II ZR 354/03: Trihotel zur Existenzvernichtungshaftung.
+- Paragraf 8 HGB — Handelsregister. - Paragraf 12 HGB — Anmeldungen und Einreichungen. - Paragraf 15 HGB — Publizität des Handelsregisters. - Paragraf 29 HGB — Anmeldung des Kaufmanns; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 8 HGB — Handelsregister; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 12 HGB — Anmeldungen und Einreichungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 HGB — Publizität des Handelsregisters; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
+- BGH, Urteil vom 21.04.1997 - II ZR 175/95: Nach ARAG/Garmenbeck muss der Aufsichtsrat mögliche Ersatzansprüche gegen Vorstandsmitglieder eigenverantwortlich prüfen und grundsätzlich verfolgen; ein Absehen verlangt gewichtige Gründe des Gesellschaftswohls.
 
 ## 7. Antwortform
 

@@ -109,5 +109,3 @@ Stand: 05/2026.
 - SGB III §§ 95-109.
 - EStG § 32b.
 - BA-Merkblatt KUG.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BBG RV 2025 96.600 EUR eingesetzt), 1 ersetzt (LSt-Bescheinigungszeile Prüfhinweis ohne Marker) -->

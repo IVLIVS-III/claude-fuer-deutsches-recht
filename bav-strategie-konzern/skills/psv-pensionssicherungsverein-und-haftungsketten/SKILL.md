@@ -153,7 +153,3 @@ bAV-Projektteam · fachliche Leitung
 - → `cta-contractual-trust-arrangement-strukturierung` — CTA und PSV-Beitrag
 - → `buyout-im-ma-deal-asset-vs-share` — § 613a BGB und PSV-Haftung im Deal
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriffe und Schutzumfang PSV
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 014:
--->

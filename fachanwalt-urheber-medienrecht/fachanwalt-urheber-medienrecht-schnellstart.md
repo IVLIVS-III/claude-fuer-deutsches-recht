@@ -22,7 +22,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
 5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Lizenzvertrag-Verhandlung: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+6. Lizenzvertrag-Verhandlung: Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten.
 
 ## 4. Fallkarte
 
@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
 | Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
+| Tatbestand | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten |
 | Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Lizenzvertrag-Verhandlung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Filesharing Stoererhaftung | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Filmrecht Paragraf 89 UrhG | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Link Haftung Paragraf 7 tmg | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzvertrag-Verhandlung | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Filesharing Stoererhaftung | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Filmrecht Paragraf 89 UrhG | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Link Haftung Paragraf 7 tmg | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Lizenzvertrag: Fristennotiz und nächster Schritt | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Lizenzverträge für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzverträge für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - UrhG Paragraf 15: Verwertungsrechte.
 - UrhG Paragraf 31: Einräumung von Nutzungsrechten.
 - UrhG Paragraf 51: Zitatrecht.
-- Paragraf 97 Abs. 1 und 2 UrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 22 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 23 KunstUrhG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 823 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 97 Abs. 1 und 2 UrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 22 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 23 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 823 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
 - EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- EuGH 22.06.2021 C-682/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- EuGH, Urteil vom 22. Juni 2021 - verbundene Rechtssachen C-682/18 und C-683/18, YouTube und Cyando: Für die damalige Rechtslage war zu prüfen, ob der Plattformbetreiber über die bloße Bereitstellung.
+- BGH, Urteil vom 2. Juni 2022 - I ZR 140/15, YouTube II: Setzt die Vorgaben der Vorabentscheidung für den Altfall um und konkretisiert unter anderem, dass rein reaktive Such- und Meldemittel keine.
+- EuGH, Urteil vom 26. April 2022 - C-401/19, Polen gegen Parlament und Rat: Artikel 17 der Richtlinie ist nur mit wirksamen Schutzvorkehrungen für erlaubte Inhalte und Meinungsfreiheit vereinbar.
 
 ## 7. Antwortform
 

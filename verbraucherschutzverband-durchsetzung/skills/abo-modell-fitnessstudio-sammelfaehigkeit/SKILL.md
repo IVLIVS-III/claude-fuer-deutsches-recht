@@ -1,59 +1,41 @@
 ---
 name: abo-modell-fitnessstudio-sammelfaehigkeit
-description: "Wenn es um Abo Modell Risiko Rot Markieren in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft die Bündelbarkeit von Fitnessstudio-Fällen zu Laufzeit, Schließungsbeitrag, Vertragsverlängerung, Preisanpassung und Kündigungsweg: trennt Vertragsfassungen und Zeiträume, verarbeitet BGH XII ZR 64/21 fallgenau und liefert homogene Anspruchsgruppen, Rechenblatt, Belegstichprobe und passende Verbandsklage-Weiche."
 ---
 
-# Abo Modell Risiko Rot Markieren
+# Fitnessstudio-Fälle auf Sammelfähigkeit prüfen
 
-## Arbeitsweg
+## 1. Fallkarte
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Vertrag, AGB-Fassung, Beginn und Mindestlaufzeit, Preisanpassung, Schließungszeitraum, Kündigung, Verlängerung, Beitragskonto und Erstattungen. Stelle pro Mitglied dieselben Felder gegenüber; der gemeinsame Anbieter allein macht Fälle nicht gleichartig.
 
-## Normenanker
+## 2. Anspruchsgruppen
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Beiträge während behördlicher Schließung ohne Leistung.
+2. einseitige Verlängerung um den Schließungszeitraum.
+3. automatische Verlängerung nach der jeweiligen Vertrags- und Gesetzesfassung.
+4. Preisanpassung aufgrund identischer Klausel oder Zustimmungslösung.
+5. erschwerter digitaler Kündigungsweg.
+6. Inkasso trotz dokumentierter Beendigung oder Erstattung.
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+Trenne Schließungsfälle nach Zeitraum und Gutscheinbehandlung. Trenne Alt- und Neuverträge, wenn unterschiedliche Laufzeitregeln gelten.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+## 3. Verifizierte Anker
 
-## Prüfroutine
+- BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Während hoheitlich angeordneter Schließung war die Nutzung rechtlich unmöglich; gezahlte Beiträge waren vorbehaltlich der damaligen Gutscheinregelung zurückzuzahlen, und eine Verlängerung über BGB Paragraf 313 schied aus.
+- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Probezeit, späterer Preis und automatische Verlängerung nur dann als einheitliche Widerrufslage behandeln, wenn die Preisaufklärung bei Abschluss klar war.
+- EuGH, Urteil vom 7. April 2022, C-249/21: Bei online abgeschlossenen Mitgliedschaften den konkreten Buttontext als eigenes Clustermerkmal führen.
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## 4. Sammelfähigkeitsprüfung
 
-## Normen und Rechtsprechung
+| Kriterium | Prüfung |
+| --- | --- |
+| identische Praxis | gleiche Klausel, Oberfläche oder Abrechnung |
+| gemeinsame Rechtsfrage | ohne individuelle Vertragsauslegung entscheidbar |
+| einheitliche Rechtsfolge | Unterlassung, Feststellung oder berechenbare Abhilfe |
+| individuelle Restfragen | Beginn, Zahlung, Kündigung und Erstattung beherrschbar |
+| Belege | repräsentative vollständige Vertrags- und Zahlungssätze |
 
-### Kuratierte Normen-Bibliothek
+## 5. Output
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+Liefere Cluster, Ausschlussfälle, Mitgliedermatrix, Beitrags- und Erstattungsrechnung, repräsentative Anlagen, Verjährungscheck und Empfehlung für UKlaG-, UWG- oder VDuG-Vorgehen. Weise Mischgruppen zurück, deren Ergebnis von jeweils anderer mündlicher Studioabsprache abhängt.

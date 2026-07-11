@@ -7,7 +7,7 @@ description: "Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-An
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -17,12 +17,12 @@ description: "Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-An
 
 | Befund | Klagbarkeit | Erfolgsaussicht |
 |---|---|---|
-| "bemueht" als Leistungsformel | Klagbar | Hoch |
-| Falsche Reihenfolge im Sozialverhalten | Klagbar | Hoch |
+| "bemüht" als Leistungsformel | Klagbar, wenn die Aussage die Leistung nicht wahrheitsgemäß abbildet | Nach Beleglage |
+| Auffällige Reihenfolge im Sozialverhalten | Nur bei verdeckter negativer Aussage im Gesamtkontext tragfähig | Nach Kontext |
 | Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
-| Negatives Codewort aus dem Codeworte-Katalog | Klagbar | Hoch |
+| Mutmaßliches Codewort | Nur bei objektiv erkennbarer verdeckter Aussage nach Paragraf 109 Absatz 2 Satz 2 GewO | Nach Kontext |
 | Drift im selben Themenbereich | Klagbar (bei nachgewiesenem Schaufenster) | Mittel |
-| Konstante Note 3 in weichen Bereichen | Klagbar bei Wohlwollensverstoss | Mittel |
+| Konstante Note 3 in einzelnen Bereichen | Nur mit Tatsachen für eine bessere Bewertung | Nach Beleglage |
 | Note 3 bei aktenkundig besserer Leistung | Klagbar (Arbeitnehmer beweisbelastet) | Mittel |
 | Note 4 im Standardfall | Klagbar (Arbeitgeber beweisbelastet) | Hoch |
 
@@ -32,19 +32,19 @@ description: "Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-An
 |---|---|
 | Note schlechter als befriedigend | Arbeitgeber |
 | Note besser als befriedigend | Arbeitnehmer |
-| Wohlwollensverstoss | Arbeitnehmer |
-| Wahrheitsverstoss | Arbeitnehmer |
-| Sozialverhalten-Reihenfolge | Arbeitgeber muss falsche Reihenfolge begruenden |
+| Bessere Einzel- oder Gesamtbewertung | Arbeitnehmer trägt und beweist die besseren Leistungen |
+| Unterdurchschnittliche Einzel- oder Gesamtbewertung | Arbeitgeber trägt und beweist die schlechteren Leistungen |
+| Verdeckte negative Aussage oder unrichtige Tatsache | Ausgangspunkt ist der konkrete Wortlaut; die Last richtet sich nach Anspruch und Einlassung, nicht nach einer starren Codewortregel |
 
 ### Streitwert
 
 | Klagegegenstand | Streitwert |
 |---|---|
-| Vollstaendige Zeugnisberichtigung | ein Monatsbruttogehalt |
-| Einzelne Note im Hauptteil | ein Monatsbruttogehalt |
-| Schlussformel-Korrektur | ein Drittel bis ein Halbes Monatsgehalt |
-| Mehrere Punkte | ein Monatsbruttogehalt insgesamt |
-| Erstmalige Erteilung des Zeugnisses | ein Monatsbruttogehalt |
+| Vollständige Zeugnisberichtigung | Nach Paragraf 3 ZPO, Antrag, Bedeutung und örtlicher Gerichtspraxis |
+| Einzelne Note im Hauptteil | Anteiliger Wert nach Bedeutung der beanstandeten Passage |
+| Schlussformel | Regelmäßig geringerer Wert; fehlender gesetzlicher Anspruch mitprüfen |
+| Mehrere Punkte | Gesamtwert ohne automatische Addition jedes Satzes |
+| Erstmalige Erteilung des Zeugnisses | Einzelfallwert nach wirtschaftlichem Interesse und Gerichtspraxis |
 
 ## Beispiele
 
@@ -54,9 +54,9 @@ Sehr geehrte Damen und Herren,
 
 das mir unter dem aktuellen Datum erteilte Arbeitszeugnis habe ich erhalten. Mit folgenden Formulierungen bin ich nicht einverstanden und bitte um Berichtigung mit den jeweils vorgeschlagenen Wortlauten:
 
-Statt "war stets bemueht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+Statt "war stets bemüht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
-Statt "sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
+Statt "sein Verhalten gegenüber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei". Dieser Zielwortlaut setzt Tatsachen für die verlangte Bewertung voraus; die Reihenfolge allein begründet keinen Automatismus.
 
 Als Vergleichsvorschlag zur knappen Schlussformel: "Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
 
@@ -74,9 +74,9 @@ Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Rei
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Beispiel 3 – Streitwert-Begruendung
+### Beispiel 3 – Streitwertbegründung
 
-Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klägerin festgesetzt. Der Wert betraegt nach den Angaben der Klägerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
+Der Streitwert ist nach Paragraf 3 ZPO in Verbindung mit Paragraf 46 Absatz 2 ArbGG anhand des konkreten Antrags und des wirtschaftlichen Interesses festzusetzen. Als Orientierung wird die für das zuständige Arbeitsgericht veröffentlichte Streitwertpraxis herangezogen. Mehrere beanstandete Passagen werden nicht schematisch addiert; ihre eigenständige wirtschaftliche Bedeutung ist darzulegen.
 
 ### Beispiel 4 – Beweisangebote des Arbeitnehmers für bessere Note
 
@@ -89,8 +89,8 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 ## Rechtliche Einordnung und Normen
 
 - **Paragraf 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
-- **Paragrafen 195, 199 BGB** — Verjährung drei Jahre; beginnt mit Schluss des Ausstellungsjahres
-- **Paragraf 242 BGB** — Verwirkung: Zeitmoment (mehrere Jahre) + Umstandsmoment
+- **Paragrafen 195, 199 BGB** — regelmäßige Verjährung; Beginn mit Schluss des Jahres von Anspruchsentstehung und Kenntnis
+- **Paragraf 242 BGB** — Verwirkung verlangt Zeit- und Umstandsmoment; Zeitablauf allein genügt nicht
 
 ## Aktuelle Rechtsprechung
 

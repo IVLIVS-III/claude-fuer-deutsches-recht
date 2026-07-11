@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | CMR Haftung art 17 CMR | Prüfe CMR Haftung art 17 CMR von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Autonome LKW-Konvois – Haftung Paragraf 1d StVG und CMR | Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehicle) – ist technisch Realität. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Speditions-Haftung Paragrafen 453 ff. HGB | Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen. - Vermittlung Frachtvertrag - Spediteur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| CMR-Haftung – Grenzüberschreitender Straßengüterverkehr | Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreitenden Straßengüterverkehr. Sie gilt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Frachtführerhaftung: Fristennotiz und nächster Schritt | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Speditions-Haftung Paragrafen 453 ff. HGB | Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| CMR-Haftung – Grenzüberschreitender Straßengüterverkehr | Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreitenden Straßengüterverkehr. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Frachtführerhaftung: Fristennotiz und nächster Schritt | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
 - Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
 - CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
-- Paragraf 425 Abs. 1 HGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 425 Abs. 1 HGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

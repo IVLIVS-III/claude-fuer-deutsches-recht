@@ -8,7 +8,6 @@ description: "Wenn es um Sanierungsgewinn – Frühe Mandantsteuerung Q-12 in Gr
 ## Fachlicher Anker
 
 - **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
-- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Sanierungsgewinn – Frühe Mandantsteuerung Q-12
@@ -41,7 +40,7 @@ Nicht dieser Skill, sondern `grosskanzlei-corporate-ma-distressed-ma` oder `gros
 - **Paragraf 8d KStG** – fortführungsgebundener Verlustvortrag als Schutzmechanismus, Antrag erforderlich.
 - **Paragraf 89 AO** – verbindliche Auskunft; Vorlauf realistisch sechs bis neun Monate.
 - **BMF-Schreiben vom 27.04.2017** zur Umsetzung des Sanierungserlasses sowie nachfolgende Verlautbarungen; eigene Verifizierung im Bundessteuerblatt Stand 06/2026.
-- **FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25** zur Antragstellung im Bezug auf Paragraf 3a EStG; Volltext über die Datenbank des FG Köln und über NWB.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 
 ## / Schritt für Schritt – Zeitachse Q-12 bis Q+6
 
@@ -123,7 +122,7 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 
 - Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 89 AO – jeweils aktuelle Fassung, prüfbar über gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017, fortgeschrieben durch nachfolgende BMF-Verlautbarungen – Verifizierung im Bundessteuerblatt.
-- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 - FG Köln, Urteil vom 06.03.2012 – 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) – verifizierte Linie für die Konstellation Liquidation mit nachrangigem Gesellschafterdarlehen: rechentheoretisch im Löschungszeitpunkt entstehender Gewinn ist mangels Körperschaftsteuersubjekt nicht festsetzbar. Relevant für die strategische Alternative „Sanierung vs. Liquidation".
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 (Sanierungserlass-Beschluss) – prüfbar über bundesfinanzhof.de.
 - Weitere Rspr. sonst als „ständige Rspr." formulieren oder erst nach eigener Verifizierung in offizielle Datenbank aufnehmen.

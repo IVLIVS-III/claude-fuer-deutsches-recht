@@ -22,6 +22,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+## Verifizierter Rechtsprechungsanker
+
+- BGH, Urteil vom 14.06.2012 - IX ZR 145/11: Eine möglicherweise drittschützende Haftung für einen Insolvenzverschleppungsschaden setzt nach dieser Entscheidung einen ausdrücklichen Auftrag zur Prüfung der Insolvenzreife voraus. Der Anker begründet keine allgemeine Insolvenzprüfungspflicht aus einem gewöhnlichen steuerlichen Dauermandat; zuerst Auftragsinhalt, einbezogenen Personenkreis, Pflichtverletzung, Kausalität und Schaden getrennt feststellen.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

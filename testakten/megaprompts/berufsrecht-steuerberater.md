@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 204 Skills (gekuerzt fuer Chat-Fenster) des Plugins `berufsrecht-steuerberater`.
+Diese Vollprüfung enthält top-8 von 204 Skills (gekürzt für das Arbeitsfenster) des Plugins `berufsrecht-steuerberater`.
 
 ## Inhaltsverzeichnis
 
@@ -69,35 +69,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
 - **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
 - **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- §§ 1-4 StBerG (Berufszulassung, Befugnisse)
-- § 5 StBerG (Erlaubnisfreie Tätigkeit)
-- § 32 StBerG (Berufsbezeichnung)
-- § 57 StBerG (Allgemeine Berufspflichten)
-- §§ 60, 64 StBerG (Eigenverantwortliche Tätigkeit, Werbung)
-- § 66 StBerG (Berufshaftpflicht)
-- § 89 StBerG (Berufsgericht)
-- §§ 392 ff. AO (Steuerberater-Bevollmächtigung)
-- DSGVO Art. 6, 9 (Mandantendaten)
-- § 203 StGB (Schweigepflicht)
-
-### Leitentscheidungen
-
-- BFH, Urteil vom 23.02.2010 - VII R 24/09 (Fachberater-Bezeichnung und § 43 StBerG)
-- BVerfG, Beschluss vom 26.10.2004 - 1 BvR 981/00 (Steuerberaterwerbung und Art. 12 GG)
-- BGH, Urteil vom 14.06.2012 - IX ZR 145/11 (drittschützende Beraterhaftung bei Insolvenzreifeprüfung)
-- BGH StbSt R 2/21 (Berufsgerichtliche Verfahren)
-- BFH II R 33/19 (Vertretungsbefugnis)
-
-### Anwendung im Skill
-
-- Mandatsverhaeltnis nach §§ 32, 57 StBerG sauber dokumentieren; Vorbehaltsaufgaben nicht delegieren.
-- Werbeverbot § 57a StBerG nach BVerfG-Lockerung an Sachlichkeit, nicht an Verbot messen.
-- Berufshaftpflicht nach § 67 StBerG: Mindestsumme deckt keine Pauschalmandate; ggf. Erhoehung dokumentieren.
 
 ---
 
@@ -467,7 +438,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

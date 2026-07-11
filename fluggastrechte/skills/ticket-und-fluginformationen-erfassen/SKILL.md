@@ -96,11 +96,6 @@ belege:
 ## Mehrere Passagiere
 
 Pro Flug wird **ein** Anspruchsfall mit mehreren Passagieren erfasst. Jeder Passagier hat aber einen **eigenen Ausgleichsanspruch** (Art. 7 VO 261/2004 ist persönlich). Daher bei der Klage je Passagier eigener Antrag (Streitgenossenschaft möglich). Vollmacht der Mitreisenden falls einer für alle vorgeht — Skill `vollmacht-familienmitglieder`.
-<!-- AUDIT 27.05.2026
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Tatsächliches Thema laut dejure.org: Pešková und Peška/Travel Service – Vogelschlag als außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004.
-Aktion: Eintrag mit korrektem Thema und Fundstelle EU:C:2017:342 ersetzt.
--->
 
 ## Normen & Rechtsprechung
 

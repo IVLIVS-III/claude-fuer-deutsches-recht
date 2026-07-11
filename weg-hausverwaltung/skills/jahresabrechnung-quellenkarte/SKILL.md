@@ -42,5 +42,7 @@ Diese Quellenkarte sichert für **WEG/Hausverwaltung** jede tragende Aussage ab:
 
 ## Fehlerbremse
 
+- Als engen Leitanker BGH, Urteil vom 20.09.2024 - V ZR 195/23, verwenden: Nicht jeder Rechen- oder Darstellungsfehler macht den Beschluss ungültig; entscheidend ist die Auswirkung auf Abrechnungsspitze und Zahlungspflicht.
+
 - Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.

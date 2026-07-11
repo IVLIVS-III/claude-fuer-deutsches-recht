@@ -312,4 +312,3 @@ description: "Wenn es um Projektfinanzierung Energie in Energierecht geht: prüf
 - TLB / IF-Konzepte zu Project Finance Energie
 
 ---
-<!-- AUDIT 27.05.2026 -->

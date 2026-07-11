@@ -106,24 +106,7 @@ Skript prüft alle drei Monate:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 10 RVG
-- § 3a RVG
-- Art. 13 DSGVO
-- § 14 UStG
-- Art. 28 DSGVO
-- § 18 UStG
-- § 7 BUrlG
-- Art. 32 DSGVO
-- § 65d SGG
-- § 55a VwGO
-- Art. 35 DSGVO
-- Art. 21 DSGVO
-
-### Leitentscheidungen
-
-- BGH VI ZB 59/18
-- BGH VI ZR 286/21
+Kanzleiorganisation nach Vorgang trennen: Mandatsannahme und Interessenkollision, Verschwiegenheit, Fristen, Aktenführung sowie elektronischer Rechtsverkehr. Einschlägige Berufs- und Verfahrensnormen nur dem konkreten Arbeitsschritt zuordnen. Rechtsprechung ist mit Gericht, Datum, Aktenzeichen, tragender Aussage und Quelle zu belegen; bloße Aktenzeichenlisten entfallen.

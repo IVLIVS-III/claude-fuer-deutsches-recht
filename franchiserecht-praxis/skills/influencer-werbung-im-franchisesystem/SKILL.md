@@ -63,7 +63,7 @@ Einzelne Franchisenehmer beauftragen auf eigene Initiative Influencer mit der Be
 
 ## Vertiefung
 
-Die Rechtsprechung zur Kennzeichnungspflicht von Influencer-Werbung hat sich seit 2019 erheblich entwickelt. Das LG München I und das OLG Karlsruhe haben zunächst strenge Massstäbe angelegt; das BGH-Urteil Influencer I (BGH I ZR 90/20) und die nachfolgenden Entscheidungen haben klargestellt, dass Werbeposts mit kommerziellem Hintergrund stets zu kennzeichnen sind, auch wenn es sich um Geschenke oder Eigen-Promotion handelt.
+BGH, Urteil vom 09.09.2021 - I ZR 90/20, Influencer I, verlangt eine differenzierte Prüfung: Ein Beitrag gegen Gegenleistung ist eine geschäftliche Handlung zugunsten des beworbenen Unternehmens. Ohne Gegenleistung kommt es für die Förderung eines fremden Unternehmens insbesondere auf einen werblichen Überschuss an; Eigenwerbung und Drittwerbung dürfen nicht pauschal gleichbehandelt werden. Die Kennzeichnung ist deshalb für jeden Beitrag anhand Gegenleistung, Inhalt, Verlinkung und Erkennbarkeit des kommerziellen Zwecks zu prüfen.
 
 Im Franchisesystem stellt sich die Frage der Haftungszurechnung: Wenn ein Franchisenehmer ohne Kennzeichnungspflicht-Compliance einen Influencer beauftragt und dieser einen nicht gekennzeichneten Werbepost veröffentlicht, haftet der Franchisenehmer; ob der Franchisegeber mittelbar haftet, hängt von seiner Organisationsverantwortung ab.
 
@@ -77,6 +77,4 @@ Im Franchisesystem stellt sich die Frage der Haftungszurechnung: Wenn ein Franch
 
 ## Abgrenzung und Einordnung
 
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
-## Abgrenzung und Einordnung
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

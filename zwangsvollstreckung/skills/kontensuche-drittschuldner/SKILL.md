@@ -78,9 +78,3 @@ description: "Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvolls
 - Niemals BZSt-Kontenabruf ohne erfolglose Vermögensauskunft oder unbekannten Aufenthalt.
 - Daten sind sensibel – Datenschutz beachten, Auskunft nur für konkrete Vollstreckung.
 - Doppelte Abfragen vermeiden (Kostenfalle).
-
-<!-- AUDIT 27.05.2026
-Problem : BGH VII ZB 14/20 vom 15.07.2021, NJW 2021, 3046 – Beschluss auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.07.2021&Aktenzeichen=VII+ZB+14%2F20
-Ersatz : BGH, Beschl. v. 22.01.2015 – I ZB 77/14, NJW 2015, 2509 (§ 802l ZPO, Drittauskünfte). Verifiziert: https://dejure.org/2015,17779
-Aktion : Zeile ersetzt
--->

@@ -44,8 +44,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Gerichtsweg:**
  - **AG Strafrichter (§ 25 GVG):** Bussgeldverfahren §§ 65 ff. OWiG; Verkehrsstrafsachen bis 2 Jahre Freiheitsstrafe.
  - **AG Schoeffengericht (§ 28 GVG):** Verkehrsstrafsachen bis 4 Jahre.
- - **AG Zivilrichter:** Unfall-Zivilrecht bis Streitwert 5.000 EUR (§ 23 GVG).
- - **LG:** Berufung gegen AG-Urteile (Strafrecht); Zivilrechtszuständigkeit ab 5.000 EUR; Berufung Zivilrecht zum OLG.
+ - Amtsgericht als Zivilgericht: allgemeine Verkehrszivilsachen bis einschließlich 10.000 Euro Streitwert (Paragraf 23 Nummer 1 GVG), vorbehaltlich Sonderzuweisung.
+ - Landgericht: allgemeine erstinstanzliche Zivilzuständigkeit über 10.000 Euro; Rechtsmittelzuständigkeit nicht pauschal, sondern nach Verfahrensart und Ausgangsgericht bestimmen.
  - **OLG:** Rechtsbeschwerde §§ 79, 80 OWiG; Revision Strafrecht; Berufung Zivilrecht.
 - **Register-Wege:**
  - **FAER (Fahreignungsregister) § 30 StVG:** Punktestand-Abfrage online unter kba.de; Selbstauskunft kostenfrei.

@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragrafen 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

@@ -99,7 +99,7 @@ Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **
 
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (Os. 7): „Die Verbindlichkeit ist bis zum Abschluss der Liquidation, d.h. bis zur Loeschung im Handelsregister als Verbindlichkeit auszuweisen."
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** (nachgehend zu FG Koeln 13 K 3006/11), Ls. 3: „Die Rechtsauffassung, in der Liquidationsschlussbilanz sei eine verbliebene Verbindlichkeit gegenueber einem Gesellschafter mangels wirtschaftlicher Belastung nicht zu passivieren, ist nicht evident rechtsfehlerhaft." — Streitstand bewusst offen gelassen.
-- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** (umgekehrter Fall): Forderung der Gesellschaft gegen Gesellschafter bleibt waehrend der Liquidation grundsätzlich bestehen.
+- **BFH, Urteil vom 16.06.2015 - IX R 28/14, BFH/NV 2015, 1679** (umgekehrter Fall): Forderung der Gesellschaft gegen Gesellschafter bleibt waehrend der Liquidation grundsätzlich bestehen.
 - **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** (rechtskraeftig): Streitfrage „diskussionswuerdig", im Einzelfall nicht entscheidungserheblich.
 
 #### 3.7 Zwischenergebnis Phase 2
@@ -341,7 +341,7 @@ Andere Plugins:
 - **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangrücktritt.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln 13 K 3006/11, Streitstand nicht evident rechtsfehlerhaft.
-- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung Gesellschaft gegen Gesellschafter.
+- **BFH, Urteil vom 16.06.2015 - IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung Gesellschaft gegen Gesellschafter.
 - **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7.
 - **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — rechtskraeftig.

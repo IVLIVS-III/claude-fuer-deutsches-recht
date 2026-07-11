@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision); BGH VIII ZR 91/04 (Saldotheorie) |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
 | Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
@@ -52,13 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 23 71 GVG — Sachliche Zuständigkeit (AG unter EUR 5.000 / LG über EUR 5.000): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 812 BGB (Herausgabeanspruch ungerechtfertigte Bereicherung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH XI ZR 116/15 (Leistungskondiktion bei verdeckter Provision)
-- BGH VIII ZR 91/04 (Saldotheorie)
-- BGH V ZR 215/11 (Nichteintritt des Erfolges)
+- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 15 AnfG — Verjährung des Anfechtungsanspruchs (Verweis auf Paragrafen 195 ff. BGB); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 195 199 BGB — Verjährungsfrist 3 Jahre ab Kenntnis Jahresende; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

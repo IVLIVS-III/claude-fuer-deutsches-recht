@@ -4,7 +4,7 @@
 
 Verfahrensrecht:
 
-- Paragraf 71 Absatz 1, Paragraf 23 Nummer 1 GVG (sachliche Zustaendigkeit des Landgerichts ueber 5.000 Euro).
+- Paragraf 71 Absatz 1, Paragraf 23 Nummer 1 GVG (sachliche Zuständigkeit des Landgerichts bei einem Streitwert über 10.000 Euro).
 
 - Paragraf 78 Absatz 1 ZPO (Anwaltszwang vor dem Landgericht).
 

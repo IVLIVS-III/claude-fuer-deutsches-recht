@@ -88,8 +88,3 @@ Das System gibt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
-
-<!-- AUDIT 27.05.2026 bundle_044
- → Vollzitat-Zeile und Fundstellen-Verweis NJW 2021, 1952 gelöscht
- → kein Ersatz eingetragen (keine verifizierte Alternative gefunden)
--->

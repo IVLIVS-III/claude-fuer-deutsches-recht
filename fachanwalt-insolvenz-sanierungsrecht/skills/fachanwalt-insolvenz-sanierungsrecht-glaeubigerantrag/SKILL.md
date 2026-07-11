@@ -214,7 +214,7 @@ Haftungsrisiko: Gläubiger, der mutwillig oder leichtfertig Antrag stellt, hafte
 | Forderung tituliert, Vollstreckung erfolglos | Gläubigerantrag stellen; Indizien für ZU aus Vollstreckungsprotokollen |
 | Mehrere Gläubiger haben gleichartige Situation | Koordination mit anderen Gläubigern vor Antragstellung; Lead-Gläubiger festlegen |
 | Schuldnerin bietet kurzfristige Zahlung | Vergleich mit Zahlungsplan prüfen; § 14-Antrag als Druckmittel wirksam |
-| Schuldnerin versucht § 270b-Schutzschirm | Gläubigerantrag ist weiter zulässig; Schutzschirm schließt Gläubigerantrag nicht aus |
+| Schuldnerin versucht § 270d-Schutzschirm | Gläubigerantrag ist weiter zulässig; Schutzschirm schließt Gläubigerantrag nicht aus |
 | Masselosigkeit befürchtet | Kostenvorschuss § 26 InsO anbieten; sichert Verfahrensdurchführung + Anfechtungsrecht des Verwalters |
 | Gesellschafter der Schuldnerin haften persönlich (GbR, OHG) | Simultane Pfändung Gesellschaftervermögen erwägen |
 | Staatsanwaltschaft ermittelt wegen Insolvenzverschleppung | Gläubigerantrag unabhängig von Strafverfahren; ggf. koordinieren |

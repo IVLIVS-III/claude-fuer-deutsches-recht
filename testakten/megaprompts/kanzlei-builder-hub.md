@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `kanzlei-builder-hub`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `kanzlei-builder-hub`.
 
 ## Inhaltsverzeichnis
 
@@ -296,28 +296,6 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 32 DSGVO
-- § 203 StGB
-- Art. 28 DSGVO
-- Art. 30 DSGVO
-- Art. 35 DSGVO
-- § 4 KSchG
-- Art. 25 DSGVO
-- Art. 17 DSGVO
-- § 5 KSchG
-- § 29 VwVfG
-- § 102 BetrVG
-- § 17 MuSchG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
 ---
 
 ## Skill: `kanzlei-fundstellencheck-zitate-links`
@@ -439,28 +417,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 32 DSGVO
-- § 203 StGB
-- Art. 28 DSGVO
-- Art. 30 DSGVO
-- Art. 35 DSGVO
-- § 4 KSchG
-- Art. 25 DSGVO
-- Art. 17 DSGVO
-- § 5 KSchG
-- § 29 VwVfG
-- § 102 BetrVG
-- § 17 MuSchG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
@@ -913,7 +869,7 @@ Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -47,7 +47,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Warnschreiben-Erstellung
 
@@ -67,7 +66,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 | 10 | Mandatskündigung prüfen | Bei Verweigerung jeglicher Reaktion; § 627 BGB | Ultima ratio |
 | 11 | Krisenfrüherkennungssystem | Hinweis auf § 102 StaRUG-Pflicht des GF selbst; Aufforderung zur Einrichtung | Compliance |
 | 12 | Anschluss anwaltliche Prüfung | Übergabe an Steueranwalt für § 15a InsO-Gutachten | Koordination |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 14 | Wiederholung bei Ausbleiben | Erinnerungsschreiben nach 14 Tagen | Eskalationsstufe |
 | 15 | Abschluss Mandatskündigung | Bei manifester Aussichtslosigkeit und weiterer Verschleppung | § 627 BGB |
 
@@ -96,7 +94,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 | Gegenargument des GF / Haftungsklägers | Erwiderung |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hinweis erfolgte zu spät — schon InsO-reif" | Dokumentation wann Erkenntnis eingetreten ist; Warnschreiben-Datum gegen Indizienbeweis stellen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -276,7 +273,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Position | Berechnung | Hinweis |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Anwaltliche Begleitung StB-Haftungsverteidigung | Stundensatz; ggf. gesonderte Vergütungsvereinbarung | RVG bei Schadensstreit |
 | Kosten Warnschreiben-Erstellung | 1–2 Stunden StB-Zeit; Zeithonorar | Eigenleistung zur Haftungsvermeidung |
 | Folgekosten Mandatskündigung | Regelungs-/Beratungsgebühren; Akteneinsicht durch neuen Berater | Keine Gebühr für Kündigung selbst |
@@ -306,7 +302,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - IDW S 6 (Krisenstadien-Schema)
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-<!-- AUDIT 27.05.2026
--->
-<!-- AUDIT 27.05.2026 | welle 5c | IX ZR 104/18 (familienrechtlich, NJW 2019, 2770 erfunden) ersetzt durch IX ZR 56/22 (BGH 29.06.2023, NJW 2023, 2775 = ZIP 2023, 1740, Drittschutz Hinweis- und Warnpflicht bei moeglichem Insolvenzgrund) -->

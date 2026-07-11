@@ -9,14 +9,12 @@ description: "Wenn es um Vorsatzanfechtung Paragraf 133 InsO in Insolvenzrecht g
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vorsatzanfechtung § 133 InsO` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -80,10 +78,10 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 
 Seit der Grundsatzentscheidung **BGH IX ZR 72/20 vom 06.05.2021** verfolgt der IX. Zivilsenat eine deutlich anfechtungsfreundliche Restriktion bei kongruenten Deckungen. Bestätigt und konkretisiert durch:
 
-- **BGH IX ZR 129/22 vom 18.04.2024**: Aus der bloßen objektiv festgestellten Zahlungsunfähigkeit darf nicht ohne weiteres auf einen Gläubigerbenachteiligungsvorsatz geschlossen werden. Maßgeblich ist, ob der Schuldner wusste oder zumindest billigend in Kauf nahm, dass er andere Gläubiger zu späterer Zeit nicht vollständig befriedigen kann. Bei Liquiditätsbehauptungen des Verwalters kann ein einfaches Bestreiten des außenstehenden Anfechtungsgegners genügen.
+- **BGH IX ZR 129/22 vom 18.04.2024:** Ein außenstehender Dritter muss einen vom Verwalter nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus nicht ohne Weiteres substantiiert bestreiten. Die Entscheidung betrifft Darlegung und Bestreiten, nicht den materiellen Maßstab des Benachteiligungsvorsatzes.
  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 229/22 vom 23.01.2025**: Subjektiver Irrtum über Bestand oder Fälligkeit einer Forderung entlastet nur eng, wenn eine seit langem umstrittene und höchstrichterlich ungeklärte Rechtsfrage betroffen ist; nicht bei Vertragsauslegung, an der der Schuldner selbst mitgewirkt hat.
-- **BGH IX ZR 239/22 vom 18.04.2024** (Schwesterentscheidung zu § 135 InsO Gesellschafterdarlehen): Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung.
+- **BGH IX ZR 239/22 vom 18.04.2024:** Die für den Benachteiligungsvorsatz bedeutsame Deckungslücke kann regelmäßig nicht allein aus den bereits zur Begründung einer Zahlungseinstellung herangezogenen Verbindlichkeiten abgeleitet werden. Wiederholte Zahlungsverzögerungen reichen für die Feststellung der Zahlungseinstellung häufig nicht.
  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 
 Typische Indizien des Vorsatzes (vor Ausgabe einzeln verifizieren):
@@ -96,7 +94,7 @@ Typische Indizien des Vorsatzes (vor Ausgabe einzeln verifizieren):
 ### Reform 2017 Modifikation
 
 - 4-Jahres-Frist für kongruente Deckungs- und Befriedigungs-Handlungen (§ 133 Abs. 2 InsO)
-- Kenntnis der drohenden Zahlungs-Unfähigkeit allein nicht mehr ausreichend für die Vorsatz-Vermutung bei kongruenter Leistung — bestätigt durch BGH IX ZR 129/22 (18.04.2024)
+- Bei kongruenter Deckung lässt erkannte Zahlungsunfähigkeit allein noch nicht auf Benachteiligungsvorsatz schließen; maßgeblich ist zusätzlich die erwartbare künftige Gläubigerbefriedigung, BGH, Urteil vom 18.04.2024 - IX ZR 239/22.
 
 ## Schritt 3 — Kenntnis Vertragspartner
 
@@ -116,7 +114,7 @@ Typische Indizien des Vorsatzes (vor Ausgabe einzeln verifizieren):
 Kenntnis nach BGH-Linie (vor Ausgabe konkretes Az. prüfen):
 
 - Bei drohender Zahlungs-Unfähigkeit indiziert die Kenntnis des Gläubigers den Vorsatz
-- Nach **BGH IX ZR 129/22 vom 18.04.2024** reicht bloße Kenntnis der Liquiditätsunterdeckung nicht ohne konkrete Indizien für die Erwartung dauerhafter Unterdeckung
+- Nach **BGH IX ZR 239/22 vom 18.04.2024** darf eine tragende Deckungslücke regelmäßig nicht allein aus den schon für die Zahlungseinstellung herangezogenen Verbindlichkeiten abgeleitet werden; Zahlungsfähigkeit und künftige Gläubigerbefriedigung brauchen eigene Tatsachen.
 - Nach **BGH IX ZR 229/22 vom 23.01.2025** ist ein Rechtsirrtum über Fälligkeit oder Durchsetzbarkeit nicht schon deshalb plausibel, weil die Forderung bestritten wird; bei eigener Vertragsauslegung ist die Entlastung besonders kritisch.
 
 ## Schritt 4 — Bargeschäfts-Privileg § 142 InsO
@@ -381,10 +379,9 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - InsO §§ 129 130 131 132 133 138 142 143 146
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft § 142 InsO
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung § 133 InsO
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH IX ZR 229/22 vom 23.01.2025** — objektive Zahlungsunfähigkeit und enger Irrtumstatbestand bei Forderungsbestand/Fälligkeit.
-- **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Ältere Linie (BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung) und § 138-Konstellationen vor Ausgabe über dejure.org/openjur.de verifizieren.
 - IDW S 6 (Sanierungskonzept)

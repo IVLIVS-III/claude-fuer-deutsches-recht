@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288; BGB Paragraf 362 |
-| Rechtsprechung | BGH, Urteil vom 18.01.2017 - VIII ZR 17/16; BGH, Urteil vom 16.07.2007 - II ZR 3/04 |
+| Rechtsprechung | BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10 |
 | Tatbestand | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen |
 | Beweislast | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
 | Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
@@ -52,15 +52,15 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
 - BGB Paragraf 362: Erfüllung als Einwendung.
 - BGB Paragraf 387: Aufrechnung.
-- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum):: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum:: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 18.01.2017 - VIII ZR 17/16: Substantiierter Vortrag verlangt die anspruchsbegründenden Tatsachen, nicht nur rechtliche Wertungen.
-- BGH, Urteil vom 16.07.2007 - II ZR 3/04: Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung nach Paragraf 826 BGB ein.
-- BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de
-- BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de
-- EuGH C-377/17 HOAI curia.europa.eu
+- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum):; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum:; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11: Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen.
+- BGH, Urteil vom 04.05.2011 - VIII ZR 171/10: Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung.
+- BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de.
+- BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de.
+- EuGH C-377/17 HOAI curia.europa.eu.
 
 ## 7. Antwortform
 

@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 51 Skills des Plugins `kanzlei-allgemein`.
+Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `kanzlei-allgemein`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Wenn es um Einstieg und Routing in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
-2. **umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten** — Wenn es um Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten in Kanzlei-Allgemein geht: prüft Fris…
-3. **ki-arbeitsauftrag-mahnwesen-honorar** — Wenn es um digitale Werkzeuge-Arbeitsauftrag Briefing in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sach…
-4. **versand-check-weihnachtskarten** — Wenn es um Versand-Vor-Check (Pflicht vor jedem Versand) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken u…
-5. **kanzlei-cowork-kaltstart-interview** — Wenn es um /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Un…
-6. **rechnungserstellung-rvg** — Wenn es um Rechnungserstellung Honorar (RVG oder Vereinbarung) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lü…
-7. **aktenzeichen** — Wenn es um Aktenzeichen und Verknüpfungen in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Nor…
-8. **akte-anlegen-und-aktenzeichen-zuordnen** — Wenn es um Akte, Konfliktcheck und Mandatsanlage in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
-9. **mahnwesen-honorar** — Wenn es um Mahnwesen für Kanzleihonorar in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm,…
-10. **mandatsvereinbarung-postlauf** — Wenn es um Mandatsvereinbarung und Honorarstart in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
-11. **output-versand** — Wenn es um Output und Versandsteuerung in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, …
-12. **timesheet-aktenzeitung-umgang-ki** — Wenn es um Timesheet und Aktenzeitung in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen;…
-13. **buchhaltung-konten-kanzlei-erechnung** — Wenn es um Kanzlei-Buchhaltung, Konten und Zahlungsabgleich in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit,…
-14. **mandantenakte-anlegen-mandantenbrief-vorlagen** — Wenn es um Mandantenakte anlegen in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis…
-15. **turbo-zeitnarrative** — Wenn es um Schriftsatz-Turbo: Klage, Replik, Antrag in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachve…
+2. **bea-versand-pruefen** — Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger un…
+3. **umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten** — Wenn es um Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten in Kanzlei-Allgemein geht: prüft Fris…
+4. **ki-arbeitsauftrag-mahnwesen-honorar** — Wenn es um digitale Werkzeuge-Arbeitsauftrag Briefing in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sach…
+5. **versand-check-weihnachtskarten** — Wenn es um Versand-Vor-Check (Pflicht vor jedem Versand) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken u…
+6. **kanzlei-cowork-kaltstart-interview** — Wenn es um /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Un…
+7. **rechnungserstellung-rvg** — Wenn es um Rechnungserstellung Honorar (RVG oder Vereinbarung) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lü…
+8. **aktenzeichen** — Wenn es um Aktenzeichen und Verknüpfungen in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Nor…
+9. **akte-anlegen-und-aktenzeichen-zuordnen** — Wenn es um Akte, Konfliktcheck und Mandatsanlage in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachf…
+10. **mahnwesen-honorar** — Wenn es um Mahnwesen für Kanzleihonorar in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm,…
+11. **mandatsvereinbarung-postlauf** — Wenn es um Mandatsvereinbarung und Honorarstart in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
+12. **output-versand** — Wenn es um Output und Versandsteuerung in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, …
+13. **timesheet-aktenzeitung-umgang-ki** — Wenn es um Timesheet und Aktenzeitung in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen;…
+14. **buchhaltung-konten-kanzlei-erechnung** — Wenn es um Kanzlei-Buchhaltung, Konten und Zahlungsabgleich in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit,…
+15. **mandantenakte-anlegen-mandantenbrief-vorlagen** — Wenn es um Mandantenakte anlegen in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis…
 
 ---
 
@@ -66,6 +66,73 @@ Dieser Einstieg routet **Kanzlei Allgemein** vom ersten Sachverhalt zu Rollen, F
 
 ---
 
+## Skill: `bea-versand-pruefen`
+
+_Prüft einen konkreten elektronischen Gerichtsversand vor und nach dem Absenden: bestimmt Verfahrensordnung, Empfänger und Frist, trennt qualifizierte Signatur vom persönlichen sicheren Übermittlungsweg, kontrolliert Hauptdokument und Anhänge, sichert Prüfvermerk und gerichtliche Eingangsbestätigung und routet technische Störungen in eine belegte Ersatzeinreichung._
+
+# beA-Versand prüfen
+
+## 1. Direktstart
+
+Lies zuerst Schriftsatz, Versandmappe, Fristnotiz und vorhandene beA-Protokolle. Wenn der Versand noch bevorsteht, liefere eine Stop-Liste. Wenn er bereits erfolgt ist, beginne mit der gerichtlichen Eingangsbestätigung und gleiche Empfänger, Aktenzeichen und Anhänge ab.
+
+## 2. Verfahrensordnung
+
+Bestimme die einschlägige Norm:
+
+- Zivilverfahren: ZPO Paragraf 130a und Paragraf 130d.
+- Arbeitsgericht: ArbGG Paragraf 46c und Paragraf 46g.
+- Sozialgericht: SGG Paragraf 65a und Paragraf 65d.
+- Verwaltungsgericht: VwGO Paragraf 55a und Paragraf 55d.
+- Finanzgericht: FGO Paragraf 52a und Paragraf 52d.
+- Strafverfahren: StPO Paragraf 32a und Paragraf 32d.
+
+Direkte Klagen beim Gericht der Europäischen Union werden über e-Curia und nicht über beA eingereicht.
+
+## 3. Signaturentscheidung
+
+| Variante | Erfordernis |
+| --- | --- |
+| qualifizierte elektronische Signatur | verantwortende Person signiert qualifiziert; technischer Versand kann durch Mitarbeiter erfolgen |
+| einfacher Namenszug und sicherer Übermittlungsweg | verantwortender Postfachinhaber versendet selbst über sein Postfach |
+
+BGH, Beschluss vom 7. Mai 2024, VI ZB 22/23, BGH, Beschluss vom 4. September 2024, IV ZB 31/23, und BAG, Beschluss vom 22. Januar 2025, 7 ABR 23/23, tragen diese Trennung. Anlagen benötigen nach ZPO Paragraf 130a Absatz 3 keine eigene Signatur.
+
+## 4. Vorversandkontrolle
+
+1. Gericht und Empfängeradresse stimmen mit Rubrum und Rechtsmittelzuständigkeit überein.
+2. Gerichtliches Aktenzeichen ist exakt oder der Vorgang ist als Neueingang gekennzeichnet.
+3. Hauptdokument ist final und einfach oder qualifiziert signiert.
+4. Anlagenzitate, Dateinamen, sichtbare Stempel und Anlagenverzeichnis stimmen überein.
+5. Dateien sind lesbar, nicht verschlüsselt und nach ERVV sowie aktueller ERVB geeignet.
+6. Anzahl und Gesamtgröße sind aus den finalen Dateien berechnet.
+7. Ausreichende Reaktionsreserve vor Fristablauf bleibt.
+
+## 5. Nachversandkontrolle
+
+Die Frist wird erst erledigt, wenn die automatisierte gerichtliche Eingangsbestätigung kontrolliert ist. Prüfe:
+
+1. positives Übermittlungsergebnis,
+2. richtiges Gericht und richtiges Aktenzeichen,
+3. richtige Hauptdatei,
+4. vollständige Anhangsliste,
+5. Zeitstempel vor Fristablauf,
+6. Prüfvermerk zum sicheren Übermittlungsweg oder zur Signatur.
+
+BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22, verlangt eine organisierte Ausgangskontrolle. BGH, Beschluss vom 24. April 2025, III ZB 12/24, lässt den organisatorischen Zeitpunkt offen, verlangt aber Abruf und Kontrolle innerhalb einer noch ausreichenden Reaktionsreserve.
+
+## 6. Störung und ungeeignetes Dokument
+
+ZPO Paragraf 130a Absatz 6 betrifft die geeignete Nachreichung nach Hinweis auf ein bereits eingegangenes, technisch ungeeignetes Dokument. Eine vorübergehende technische Unmöglichkeit und Ersatzeinreichung richtet sich nach ZPO Paragraf 130d Sätze 2 bis 4 beziehungsweise der Parallelvorschrift.
+
+Bei Störung direkt in `bea-wiedereinsetzung-ersatzeinreichung-2026` wechseln. Die Angabe `beA ging nicht` reicht nicht.
+
+## 7. Output
+
+Liefere Vorversand- oder Nachversandprotokoll, Stop-Liste, Signaturentscheidung, Eingangskontrolle und Archivierungsliste. Für die vollständige Dateiproduktion nutze `bea-versandmappe-endfertigung` im Plugin Anlagen zu Schriftsätzen.
+
+---
+
 ## Skill: `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`
 
 _Wenn es um Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
@@ -93,7 +160,7 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026: BGH VI ZB 59/18 geloescht – AZ existiert (30.07.2019), betrifft aber Musterfeststellungsklage § 606 ff. ZPO, nicht § 407a ZPO Hoechstpersoenlichkeit (WRONG_TOPIC). BGH VI ZR 286/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). -->
+
 
 ## Zentrale Normen
 - § 407a Abs. 1 ZPO — Hoechstpersönliche Erstellungspflicht des Sachverstaendigen
@@ -877,27 +944,10 @@ Für Mandatsannahme und GwG zusätzlich `assets/templates/mandatsannahme-gwg-sta
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 10 RVG
-- § 3a RVG
-- Art. 13 DSGVO
-- § 14 UStG
-- Art. 28 DSGVO
-- § 18 UStG
-- § 7 BUrlG
-- Art. 32 DSGVO
-- § 65d SGG
-- § 55a VwGO
-- Art. 35 DSGVO
-- Art. 21 DSGVO
-
-### Leitentscheidungen
-
-- BGH VI ZB 59/18
-- BGH VI ZR 286/21
+Kanzleiorganisation nach Vorgang trennen: Mandatsannahme und Interessenkollision, Verschwiegenheit, Fristen, Aktenführung sowie elektronischer Rechtsverkehr. Einschlägige Berufs- und Verfahrensnormen nur dem konkreten Arbeitsschritt zuordnen. Rechtsprechung ist mit Gericht, Datum, Aktenzeichen, tragender Aussage und Quelle zu belegen; bloße Aktenzeichenlisten entfallen.
 
 ---
 
@@ -1452,10 +1502,6 @@ Im Simulationsmodus:
 
 ---
 
-<!-- AUDIT 27.05.2026 -->
-
-## Audit-Hinweis (27.05.2026)
-
 ---
 
 ## Skill: `mandantenakte-anlegen-mandantenbrief-vorlagen`
@@ -1629,193 +1675,9 @@ In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/manda
 
 ---
 
-## Skill: `turbo-zeitnarrative`
-
-_Wenn es um Schriftsatz-Turbo: Klage, Replik, Antrag in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Schriftsatz-Turbo: Klage, Replik, Antrag
-
-## Arbeitsbereich
-
-Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Prüfraster Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begründung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO §§ 43, 43a, 43e, 45, 49b, 53, 59b, 73; BORA §§ 2, 3, 4, 5, 6, 10, 11, 12; RVG §§ 3a, 10; GwG §§ 2, 10, 11, 43; DSGVO Art. 5, 6, 9, 28, 32; BDSG § 26; ZPO § 130d; BRAO § 31a/beA und lokale Kammerhinweise live prüfen; keine BeckRS-/juris-Blindzitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-1. Welcher Schriftsatztyp wird benoetigt: Klage, Replik, Klageerwiderung, Antrag auf einstweiligen Rechtsschutz?
-2. Welches Gericht ist zuständig (oertlich, sachlich, instanziell) und welche Verfahrensordnung gilt?
-3. Welche Frist laeuft und wann ist spaetester Einreichungstermin?
-4. Sind alle Beweisangebote und Anlagen vorhanden und vorbereitet?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen
-- § 253 ZPO — Klageschrift: Formerfordernis und Antragspflicht
-- § 12 GVG — Sachliche Zuständigkeit des AG (bis 10.000 EUR ab 01.01.2026 — Grenze angehoben)
-- § 13 GVG — Sachliche Zuständigkeit des LG (ab 10.000 EUR ab 01.01.2026)
-- §§ 935-945 ZPO — Einstweiliger Rechtsschutz: Verfuegungsgrund und Verfuegungsanspruch
-
-## Schnellstart
-
-Wenn wenig Zeit ist, fragen:
-
-1. Wer ist Gericht oder Gegner?
-2. Was soll das Gericht entscheiden?
-3. Welche Frist läuft?
-4. Welche Tatsachen sind sicher?
-5. Welche Beweise oder Anlagen gibt es?
-6. Was ist der dringendste Antrag?
-
-Danach sofort ein Gerüst erzeugen, auch wenn Details offen sind.
-
-## Produktionspfade
-
-### Klage in 20 Minuten
-
-1. Rubrum aus Akte, Registerabruf oder Mandatsblatt vorbereiten.
-2. Antrag als Arbeitsfassung formulieren.
-3. Anspruchsgrundlage wählen und hilfsweise Alternativen markieren.
-4. Chronologie aus Quellen bauen.
-5. Anlagen automatisch durchnummerieren.
-6. Rechtsprechungsbedarf markieren und bei streitigen Rechtsfragen `kanzlei-allgemein-rechtsprechungsrecherche` anstoßen.
-7. Fehlende Beweise als TODO im Text markieren.
-8. Qualitätsgate `Schnellcheck` ausführen.
-
-### Replik in 20 Minuten
-
-1. Klageerwiderung oder Gegenschreiben in einzelne Behauptungen zerlegen.
-2. Jede Behauptung als `zugestanden`, `bestritten`, `unerheblich`, `neu`, `verspätet` oder `klärungsbedürftig` einordnen.
-3. Substantiierte Antwort mit Quelle und Beweis bauen.
-4. Rechtsprechung zu streitentscheidenden Rechtsfragen gezielt nachziehen und Fundstellen im Register ablegen.
-5. Pauschales Bestreiten vermeiden.
-6. Am Ende nur die wirklich nötigen Anträge wiederholen oder anpassen.
-
-### Antrag oder Eilsache
-
-1. Eilbedürftigkeit und Frist zuerst klären.
-2. Glaubhaftmachungsmittel vorziehen.
-3. Sachverhalt knapp, aber datiert darstellen.
-4. Risiken der Zuständigkeit und des Rechtsschutzbedürfnisses markieren.
-
-## Schriftsatz-Bausteine
-
-1. Rubrum oder Beteiligte.
-2. Aktenzeichen und Betreff.
-3. Antrag.
-4. Kurzüberblick.
-5. Sachverhalt chronologisch mit Quellen.
-6. Rechtliche Würdigung.
-7. Beweisangebote oder Glaubhaftmachung.
-8. Anlagenverzeichnis.
-9. Frist- und Zustellhinweise.
-10. Kosten- und Streitwertnotiz.
-11. Signatur und Versandcheck.
-
-## Replik-Modus
-
-Bei Replik:
-
-- Gegenseitigen Vortrag in Streitpunkte zerlegen.
-- Zugestanden, bestritten, unerheblich, neu, verspätet markieren.
-- Pro Streitpunkt Tatsachen, Beweis, Recht und Antrag ergänzen.
-- Keine pauschalen Bestreitenssätze ohne Substanz stehen lassen.
-
-## Anfängerführung
-
-Wenn der Nutzer nur Stichworte gibt:
-
-- Aus Stichworten eine Chronologie erzeugen.
-- Fehlende Pflichtdaten als TODO in eckigen Klammern markieren.
-- Nur die wichtigsten Rückfragen stellen: Gericht, Antrag, Frist.
-- Einen Rohentwurf liefern, der sichtbar unfertige Stellen enthält, statt zu blockieren.
-
-## Profi-Härtung
-
-Wenn genug Material vorhanden ist:
-
-- Anspruchsgrundlagen in Haupt- und Hilfsvortrag ordnen.
-- Vortrag nach Darlegungs- und Beweislast strukturieren.
-- Einwendungen der Gegenseite antizipieren.
-- Rechtsprechungs- oder Zitierbedarf markieren.
-- Amtliche Rechtsprechungsfundstellen über `kanzlei-allgemein-rechtsprechungsrecherche` verifizieren.
-- Anlagenreihenfolge so wählen, dass das Gericht die Chronologie ohne Suche nachvollziehen kann.
-
-## Anlagenlogik
-
-Jede Anlage braucht:
-
-- Anlagenkürzel.
-- Dateiname.
-- Quelle.
-- Beweisthema.
-- Fundstelle im Schriftsatz.
-- Datenschutzcheck.
-- beA-PDF-Check.
-
-Bei Anlagen immer prüfen:
-
-- Ist die Anlage im Text wirklich verwendet?
-- Ist das Beweisthema konkret genug?
-- Sind personenbezogene Daten Dritter geschwärzt?
-- Ist die Datei lesbar, nicht beschädigt und passend benannt?
-- Gibt es Screenshots oder Videos, die in ein gerichtstaugliches Protokoll übersetzt werden müssen?
-
-## Qualitätsgate
-
-Vor Ausgabe immer `kanzlei-allgemein-qualitaetsgate-hardening` ausführen. Vor Versand zusätzlich `kanzlei-allgemein-output-versand`.
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Schriftsatz schnell erstellen Turbo-| Schriftsatz nach Turbo-Schema; Template unten |
-| Variante A — Schriftsatz sehr komplex mehrere Rechtsgebiete | Fachanwalt-Skill separat einsetzen; Turbo nur als Strukturhilfe |
-| Variante B — Mandant will nur Entwurf keine Fertigstellung | Entwurfs-Version ohne finale Formulierung |
-| Variante C — Frist droht in 2 Stunden | Kernantraege sofort; Begruendung nachreichen wenn Frist es erlaubt |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabe
-
-- `assets/templates/schriftsatz-turbo-geruest.md`.
-- `assets/templates/rechtsprechungsfundstellen-register.md`, wenn Rechtsprechung gesucht wurde.
-- `assets/templates/klage-replik-pruefmatrix.md`.
-- `assets/templates/anlagenverzeichnis-schriftsatz.md`.
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -7,6 +7,8 @@ Amtsrichter Zivilsachen: Schlüssigkeit Erheblichkeit Beweis Tenor Kostenentsche
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+Direktnavigation: [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-amtsgericht-zivil.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
+
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
 ## Downloads
@@ -16,9 +18,19 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-amtsgericht-zivil.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-werkstatt.md" download><code>richter-amtsgericht-zivil-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-schnellstart.md" download><code>richter-amtsgericht-zivil-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`richter-amtsgericht-zivil-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-testakte.zip), [`richter-amtsgericht-zivil-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-testakte-einzelpdfs.zip) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-amtsgericht-zivil-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-testakte.zip) | [`richter-amtsgericht-zivil-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-zivil-testakte-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -109,12 +121,12 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 1. Einstieg und Fallrouting | `01-eingangspruefung-zustaendigkeit` |
-| 2. Unterlagen, Sachverhalt und Quellen | `03-akte-erstdurchsicht`, `05-beweisaufnahme-kleine-zivilkammer` |
-| 3. Prüfung, Anspruch und Subsumtion | `10-entscheidungsvorschlag-zur-richterlichen-pruefung` |
-| 4. Gestaltung, Strategie und Verhandlung | `09-vergleich-und-erledigung` |
-| 5. Verfahren, Behörde und Gericht | `02-streitwert-und-gerichtskosten`, `07-urteilsentwurf-paragraf-313`, `08-versaeumnisurteil-und-anerkenntnis`, `v392-praxisraster-richter-amtsgericht-zivil` |
-| 8. Spezialmodule und Schnittstellen | `04-relation-zivilrecht-klein`, `06-tenor-und-kostenentscheidung`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+| 1. Einstieg und Fallrouting | [`01-eingangspruefung-zustaendigkeit`](skills/01-eingangspruefung-zustaendigkeit/SKILL.md) |
+| 2. Unterlagen, Sachverhalt und Quellen | [`03-akte-erstdurchsicht`](skills/03-akte-erstdurchsicht/SKILL.md), [`05-beweisaufnahme-kleine-zivilkammer`](skills/05-beweisaufnahme-kleine-zivilkammer/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`10-entscheidungsvorschlag-zur-richterlichen-pruefung`](skills/10-entscheidungsvorschlag-zur-richterlichen-pruefung/SKILL.md) |
+| 4. Gestaltung, Strategie und Verhandlung | [`09-vergleich-und-erledigung`](skills/09-vergleich-und-erledigung/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`02-streitwert-und-gerichtskosten`](skills/02-streitwert-und-gerichtskosten/SKILL.md), [`07-urteilsentwurf-paragraf-313`](skills/07-urteilsentwurf-paragraf-313/SKILL.md), [`08-versaeumnisurteil-und-anerkenntnis`](skills/08-versaeumnisurteil-und-anerkenntnis/SKILL.md), [`v392-praxisraster-richter-amtsgericht-zivil`](skills/v392-praxisraster-richter-amtsgericht-zivil/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`04-relation-zivilrecht-klein`](skills/04-relation-zivilrecht-klein/SKILL.md), [`06-tenor-und-kostenentscheidung`](skills/06-tenor-und-kostenentscheidung/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
@@ -122,22 +134,22 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-eingangspruefung-zustaendigkeit` | Wenn es um 01 Eingangsprüfung Zuständigkeit in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `02-streitwert-und-gerichtskosten` | Wenn es um 02 Streitwert und Gerichtskosten in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `03-akte-erstdurchsicht` | Wenn es um 03 Akte Erstdurchsicht in Richter Amtsgericht Zivilsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
-| `04-relation-zivilrecht-klein` | Wenn es um 04 Relation Zivilrecht Klein in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `05-beweisaufnahme-kleine-zivilkammer` | Wenn es um 05 Beweisaufnahme Kleine Zivilkammer in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `06-tenor-und-kostenentscheidung` | Wenn es um 06 Tenor und Kostenentscheidung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
-| `07-urteilsentwurf-paragraf-313` | Wenn es um 07 Urteilsentwurf Paragraf 313 in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `08-versaeumnisurteil-und-anerkenntnis` | Wenn es um 08 Versäumnisurteil und Anerkenntnis in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac... |
-| `09-vergleich-und-erledigung` | Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `10-entscheidungsvorschlag-zur-richterlichen-pruefung` | Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Amtsgericht Zivil) in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-,... |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `v392-praxisraster-richter-amtsgericht-zivil` | Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`01-eingangspruefung-zustaendigkeit`](skills/01-eingangspruefung-zustaendigkeit/SKILL.md) | Wenn es um 01 Eingangsprüfung Zuständigkeit in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`02-streitwert-und-gerichtskosten`](skills/02-streitwert-und-gerichtskosten/SKILL.md) | Wenn es um 02 Streitwert und Gerichtskosten in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`03-akte-erstdurchsicht`](skills/03-akte-erstdurchsicht/SKILL.md) | Wenn es um 03 Akte Erstdurchsicht in Richter Amtsgericht Zivilsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| [`04-relation-zivilrecht-klein`](skills/04-relation-zivilrecht-klein/SKILL.md) | Wenn es um 04 Relation Zivilrecht Klein in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`05-beweisaufnahme-kleine-zivilkammer`](skills/05-beweisaufnahme-kleine-zivilkammer/SKILL.md) | Wenn es um 05 Beweisaufnahme Kleine Zivilkammer in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`06-tenor-und-kostenentscheidung`](skills/06-tenor-und-kostenentscheidung/SKILL.md) | Wenn es um 06 Tenor und Kostenentscheidung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
+| [`07-urteilsentwurf-paragraf-313`](skills/07-urteilsentwurf-paragraf-313/SKILL.md) | Wenn es um 07 Urteilsentwurf Paragraf 313 in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`08-versaeumnisurteil-und-anerkenntnis`](skills/08-versaeumnisurteil-und-anerkenntnis/SKILL.md) | Wenn es um 08 Versäumnisurteil und Anerkenntnis in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nac... |
+| [`09-vergleich-und-erledigung`](skills/09-vergleich-und-erledigung/SKILL.md) | Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| [`10-entscheidungsvorschlag-zur-richterlichen-pruefung`](skills/10-entscheidungsvorschlag-zur-richterlichen-pruefung/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Amtsgericht Zivil) in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-,... |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`v392-praxisraster-richter-amtsgericht-zivil`](skills/v392-praxisraster-richter-amtsgericht-zivil/SKILL.md) | Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

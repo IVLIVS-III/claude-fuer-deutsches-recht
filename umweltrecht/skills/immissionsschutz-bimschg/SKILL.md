@@ -159,7 +159,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Widerspruch | 1 Monat ab Bekanntgabe | § 70 VwGO |
 | Anfechtungsklage (ohne Widerspruchsverfahren) | 1 Monat | § 74 VwGO |
 | Eilantrag § 80a | Unverzueglich | § 80a VwGO |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Vertiefung: Typische Fehler und Verteidigung
 

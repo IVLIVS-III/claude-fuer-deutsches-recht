@@ -237,7 +237,3 @@ vertraglicher Zusicherung und tatsächlicher Gewährleistung sind
 zulässig. Der Skill weist im Output-Hinweis darauf hin.
 
 ---
-<!-- AUDIT 27.05.2026 | bundle_037 | task 4/5
-Vorkommen 1: Rechtsprechungsliste Eintrag Nr. 1 geloescht, Nummerierung korrigiert (3->2, 4->3).
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

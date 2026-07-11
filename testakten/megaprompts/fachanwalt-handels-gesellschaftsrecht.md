@@ -2,20 +2,42 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 94 Skills des Plugins `fachanwalt-handels-gesellschaftsrecht`.
+Diese Vollprüfung enthält top-10 von 95 Skills des Plugins `fachanwalt-handels-gesellschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht ge…
-2. **fachanwalt-handels-gesellschaftsrecht-orientierung** — Wenn es um Orientierung Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist,…
-3. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständig…
-4. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Un…
-5. **fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings** — Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigke…
-6. **ma-due-diligence-findings** — Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigke…
-7. **fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung** — Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht g…
-8. **einstieg-schnelltriage-fallrouting** — Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Handels Gesellschaftsrecht in Fachanwalt Handels- und G…
-9. **gesellschafterstreit-compliance-dokumentation-und-akte** — Wenn es um Gesellschafterstreit Compliance Dokumentation Und Akte in Fachanwalt Handels- und Gesellschaftsrecht geht: or…
-10. **geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung** — Wenn es um Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung in Fachanwalt Handels- und Gesellschaftsrecht geht: …
+1. **gesellschaftsprozess-versandmappe-endfertigen** — Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Re…
+2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht ge…
+3. **fachanwalt-handels-gesellschaftsrecht-orientierung** — Wenn es um Orientierung Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist,…
+4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständig…
+5. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Un…
+6. **fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings** — Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigke…
+7. **ma-due-diligence-findings** — Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigke…
+8. **fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung** — Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht g…
+9. **einstieg-schnelltriage-fallrouting** — Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Handels Gesellschaftsrecht in Fachanwalt Handels- und G…
+10. **hgb-informationsrecht-kommanditist-paragraf-166** — Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, or…
+
+---
+
+## Skill: `gesellschaftsprozess-versandmappe-endfertigen`
+
+_Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Register, Gesellschafterliste, Einladung, Protokoll, Beschlüsse, Verträge und Bewertungen zuerst, prüft Partei, Antrag, Frist und Vertretung, ordnet Corporate-Belege zu und liefert beA-Einzeldateien mit Beschluss-, Versions- und Eingangskontrolle._
+
+# Gesellschaftsprozess-Versandmappe endfertigen
+
+## 1. Corporate-Akte sichern
+
+Lies Klage oder Erwiderung, Satzung und alle maßgeblichen Fassungen, Registerauszug, Gesellschafterliste, Einberufung, Tagesordnung, Vollmachten, Protokoll, Beschlüsse, Geschäftsordnungen, Organverträge und Bewertungen. Baue eine Organ- und Beschlussmatrix mit Datum, Zuständigkeit, Teilnehmern, Mehrheit und Einwand.
+
+## 2. Schlusskontrolle
+
+Prüfe richtige Gesellschaft, Partei, gesetzliche oder besondere Vertretung, Streitgegenstand, Beschlusswortlaut, Anfechtungs- oder Klagefrist, Auskunftsgegenstand und Berechnung. Bei Organhaftung Pflicht, Entscheidungslage, Schaden, Kausalität und mögliche Entlastung mit Belegen verbinden.
+
+## 3. Anlagen und Versionen
+
+Führe K/B fort. Satzungs- und Vertragsfassungen mit Datum und Versionsstand kennzeichnen. Registerauszug, Liste, Einladung, Protokoll, Beschluss und Bewertung getrennt halten. Geschäftsgeheimnisse in Dateinamen vermeiden; vertrauliche Fassungen und Schutzanträge gesondert prüfen.
+
+Liefere Schriftsatz, Einzelanlagen, Organ- und Beschlussmatrix, Versionsregister, Berechnung, Manifest und Eingangskontrolle. Stoppe bei falscher Satzungsfassung, ungeklärter Vertretung, fehlendem Originalbeschluss oder widersprüchlicher Gesellschafterliste.
 
 ---
 
@@ -176,8 +198,6 @@ _Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Handels- und Gesellschaft
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -369,8 +389,6 @@ _Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Handels- und Gesellschaft
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -659,15 +677,6 @@ OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
 
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 4
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC
-Erdgaspreiserhöhungen (keine stillschweigende Zustimmung bei vorbehaltloser Zahlung,
-§ 4 AVBGasV) – nichts mit M&A, Disclosure Schedules oder § 442 BGB zu tun.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Maßnahme: Leitsatz-Zitat aus Abschnitt "Vertiefung – Aktuelle Rechtsprechung" gelöscht.
--->
-
 ---
 
 ## Skill: `ma-due-diligence-findings`
@@ -691,8 +700,6 @@ _Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsr
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `M&A Due Diligence Findings` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -950,15 +957,6 @@ OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
 
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 4
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC
-Erdgaspreiserhöhungen (keine stillschweigende Zustimmung bei vorbehaltloser Zahlung,
-§ 4 AVBGasV) – nichts mit M&A, Disclosure Schedules oder § 442 BGB zu tun.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Maßnahme: Leitsatz-Zitat aus Abschnitt "Vertiefung – Aktuelle Rechtsprechung" gelöscht.
--->
-
 ---
 
 ## Skill: `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung`
@@ -1000,7 +998,6 @@ _Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fac
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | OFD Frankfurt | S 2241 A – 11 – St 211 | 2019 | Praktische Anwendung § 8b KStG: Kettenausschüttung Tochter → Holding → Privat |
 
 ## Struktur-Varianten im Vergleich
@@ -1255,8 +1252,6 @@ _Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Handels Gesell
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Handels Gesellschaftsrecht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -1384,105 +1379,39 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ---
 
-## Skill: `gesellschafterstreit-compliance-dokumentation-und-akte`
+## Skill: `hgb-informationsrecht-kommanditist-paragraf-166`
 
-_Wenn es um Gesellschafterstreit Compliance Dokumentation Und Akte in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, ordnet Altgesellschaften und Vertragsklauseln ein und erstellt ein bestimmtes Informationsverlangen samt Erforderlichkeits- und Geheimnisschutzmatrix._
 
-# Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+# Informationsrecht des Kommanditisten prüfen
 
+## 1. Aktueller Normenanker
 
-## Arbeitsweg
+Paragraf 166 HGB gewährt dem Kommanditisten eine Abschrift des Jahresabschlusses und Einsicht in die zugehörigen Geschäftsunterlagen. Ergänzend kann er Auskunft über Gesellschaftsangelegenheiten verlangen, soweit dies zur Wahrnehmung seiner Mitgliedschaftsrechte erforderlich ist, insbesondere bei Anhaltspunkten für unredliche Geschäftsführung. Diese Rechte können gesellschaftsvertraglich nicht ausgeschlossen werden.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Zeitliche Einordnung der Rechtsprechung
 
-**Fokus:** Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+BGH, Beschluss vom 14.06.2016 - II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung. Danach war das außerordentliche Informationsrecht an einen wichtigen Grund gebunden und nach Eignung, Erforderlichkeit sowie den Interessen der Gesellschaft zu begrenzen. Die Entscheidung darf nicht dazu verwendet werden, den seit 1. Januar 2024 erweiterten gesetzlichen Anspruch wieder auf das alte Regelungsmodell zu verkürzen; ihre Abwägungserwägungen können bei Umfang und Missbrauchskontrolle weiterhin Orientierung geben.
 
-### Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk
+## 3. Prüfprogramm
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+1. Gesellschaft, Beteiligungsart, Beitrittsdatum und aktuellen Gesellschaftsvertrag erfassen.
+2. Verlangen in Jahresabschlussprüfung und ergänzende mitgliedschaftsbezogene Auskunft aufteilen.
+3. Für jede Information das Mitgliedschaftsrecht, den Anlass und die Erforderlichkeit bezeichnen.
+4. Geheimhaltungsinteressen, personenbezogene Daten und Wettbewerbsbezug durch mildere Mittel absichern, nicht pauschal zur Ablehnung verwenden.
+5. Vertragsklauseln am zwingenden Paragraf 166 Absatz 2 HGB messen.
+6. Adressat, Frist, Einsichtsort, Datenformat und zulässige sachverständige Begleitung festlegen.
+7. Bei Verweigerung Anspruch, Zuständigkeit, Antrag und Beweisangebote ausformulieren.
 
-## Spezialwissen: Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
+## 4. Ausgabe
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Typische Streitachsen:** Beschlussanfechtung (Anfechtungs-/Nichtigkeitsklage analog § 246 AktG für GmbH BGH ständige Rechtsprechung, Frist 1 Monat); Auskunfts- und Einsichtsrecht § 51a GmbHG (jeder Gesellschafter, Verweigerung nur bei drohendem nicht unerheblichem Nachteil); Einberufungsverlangen § 50 GmbHG (Minderheit von 10 %); Ausschluss aus wichtigem Grund § 34 GmbHG (Einziehung Geschäftsanteil) bzw. § 140 HGB analog für Personengesellschaften.
-3. **Compliance-Dokumentation:** Trennen zwischen Mandantenkommunikation (privilegiert § 43a BRAO, § 53 StPO) und gesellschaftsinterner Dokumentation. Bei Gesellschafterversammlung: notarielles Protokoll bei Beurkundungspflicht (§ 53 GmbHG Satzungsänderung), sonst eigenhändiges Protokoll mit Unterschrift Versammlungsleiter. Aktenvermerke konkretisieren Datum, Anwesende, Beschlussvorschläge, Stimmen, Ergebnis, Widersprüche.
-4. **Beweislast und Belege:** Bei Beschlussanfechtung Anfechtender muss Mangel darlegen, Gesellschaft trägt Beweislast für ordnungsgemäße Beschlussfassung (BGH ständige Rechtsprechung). Bei Auskunftsverlangen § 51a GmbHG: Verweigerungsbeschluss notwendig, sonst Anspruch verbindlich. Bei Einziehung gewichtige Pflichtverletzung + Abmahnung erforderlich.
-5. **Anschluss:** Anwendbar gleichzeitig `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen`; einstweiliger Rechtsschutz Registersperre § 16 Abs. 1 HGB; ADR-Optionen (Mediation, Schiedsklauseln) als Trade-off zur Klagewelle.
-
----
-
-## Skill: `geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung in Fachanwalt Handels- und Gesellschaftsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Geschäftsführerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Geschäftsführerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-### Geschäftsführerhaftung: Zahlen, Schwellenwerte und Berechnung
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Geschäftsführerhaftung: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** FAO, HGB, AktG, GmbHG, PartGG, UmwG, MoPeG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Haftungsanker und Berechnung:** § 43 Abs. 2 GmbHG (Sorgfalt eines ordentlichen Geschäftsmanns, Verschuldensmaßstab, Beweislastumkehr nach BGH ständige Rechtsprechung); § 93 Abs. 2 AktG analog für Vorstände; § 15a InsO Insolvenzantragspflicht 3 Wochen bei Zahlungsunfähigkeit, 6 Wochen bei Überschuldung; § 15b InsO Zahlungsverbote nach Eintritt Insolvenzreife.
-3. **Schadensberechnung:** Differenzhypothese (Schaden = Vermögenslage ohne Pflichtverletzung minus aktuelle Vermögenslage); bei Insolvenzverschleppung Quotenschaden für Altgläubiger, Vertrauensschaden für Neugläubiger (BGH ständige Rechtsprechung). Cap durch D&O-Versicherung (in der Praxis: Selbstbehalt § 93 Abs. 2 Satz 3 AktG mindestens 10 % bis 1,5fache Jahresfestvergütung).
-4. **Verjährung:** § 43 Abs. 4 GmbHG 5 Jahre ab Entstehung; § 93 Abs. 6 AktG 5 Jahre, börsennotierte AG 10 Jahre. Kenntnisunabhängig.
-5. **Business Judgment Rule (§ 93 Abs. 1 Satz 2 AktG analog für GmbH-Geschäftsführer):** unternehmerische Entscheidung, freier Pflichtenkonflikt, hinreichende Information, Handeln zum Wohl der Gesellschaft, Gutgläubigkeit. Anschluss: Beschluss zur Geltendmachung (§ 46 Nr. 8 GmbHG bzw. § 147 AktG), Klage zuständig LG Kammer für Handelssachen.
+Liefere eine Informationsmatrix und ein bestimmtes Auskunfts- oder Einsichtsverlangen, das jede Unterlage, den Zeitraum, den Rechtsgrund und den mitgliedschaftlichen Zweck nennt.
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

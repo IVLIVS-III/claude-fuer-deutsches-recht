@@ -100,7 +100,6 @@ description: "Wenn es um Esports Vereinsrecht Dosb Anerkennung in Fachanwalt Spo
 
 | Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Profi-Spieler mit Gehalt aus Verein | Selbstlosigkeit § 55 AO verletzt | Klärung läuft | klare Trennung Profi-/Amateur-Bereich |
 | Werbung / Sponsoring überwiegt | Wirtschaftsbetrieb statt Idealverein | Klärung läuft | Idealzweck-Schwerpunkt |
 | Jugendschutz-Verstoß (USK) | Vereinsaufsicht; Imageschaden | Compliance läuft | USK-konforme Spiele |

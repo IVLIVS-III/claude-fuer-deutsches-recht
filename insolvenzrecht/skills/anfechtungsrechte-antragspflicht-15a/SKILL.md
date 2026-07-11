@@ -13,14 +13,12 @@ Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläu
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzanfechtungsrechte prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -75,8 +73,8 @@ Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläu
 **BGH-Rechtsprechung dazu** restriktiver geworden mit § 133-Reform 2017 — bestätigt und konkretisiert:
 
 - **BGH IX ZR 72/20 vom 06.05.2021** (Grundsatzentscheidung Neuausrichtung) — bloße objektive Zahlungsunfähigkeit lässt keinen automatischen Schluss auf Vorsatz zu.
-- **BGH IX ZR 129/22 vom 18.04.2024** — Bestätigung der Linie: bei verifizierter Zahlungsunfähigkeit ist konkret darzulegen, ob der Schuldner wusste oder billigend in Kauf nahm, dass andere Gläubiger zu späterer Zeit nicht vollständig befriedigt werden können.
- Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 239/22 vom 18.04.2024** — Eine tragende Deckungslücke regelmäßig nicht allein aus den schon für die Zahlungseinstellung herangezogenen Verbindlichkeiten ableiten; wiederholte Zahlungsverzögerungen genügen häufig nicht für die Feststellung der Zahlungseinstellung.
+ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Seit 2017 Vorsatz-Anfechtung gestaffelt:
  - **Vier Jahre** für Deckungs-Konstellationen (§ 133 Abs. 2 InsO) — kongruent
  - **Zehn Jahre** für sonstige Konstellationen (§ 133 Abs. 1 InsO)
@@ -141,7 +139,7 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 ### Verpflichtungs-Wirkung § 143 InsO
 
 - **Rückgewähr** in Natur oder Wertersatz
-- **Zinsen** gegen Anfechtungs-Gegner ab Eröffnung
+- **Zinsen** auf eine Geldschuld nur bei Schuldnerverzug oder nach Paragraf 291 BGB; kein automatischer Zinslauf ab Verfahrenseröffnung und kein weitergehender Anspruch auf Nutzungen des Geldbetrags
 
 ### Rückforderung Gläubiger-Stellung § 144 InsO
 
@@ -151,8 +149,8 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 
 ## Schritt 7 — Verjährung § 146 InsO
 
-- **Drei Jahre** ab Verfahrenseröffnung
-- Hemmung-Vorschriften BGB
+- Paragraf 146 Absatz 1 InsO verweist auf die regelmäßige Verjährung nach dem BGB. Fristdauer, Jahresendprinzip, Kenntnis oder grob fahrlässige Unkenntnis und Höchstfristen nach BGB Paragrafen 195 und 199 getrennt berechnen; die Verfahrenseröffnung allein setzt nicht schematisch einen taggenauen Dreijahreslauf in Gang.
+- Hemmung, Ablaufhemmung und Neubeginn nach dem BGB mit Zustellung, Verhandlung, Stillstand und Anerkenntnis belegen.
 
 ## Schritt 8 — Strategische Überlegung — Insolvenzverwalter-Sicht
 
@@ -167,9 +165,9 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 
 - **Bargeschäft-Verteidigung** prüfen
 - **Kenntnis-Bestreitung**
-- **Vergleichs-Verhandlung** häufig erfolgreich (50–70 Prozent Quote als Verhandlungsstand)
+- **Vergleichs-Verhandlung** nach Beweisrisiko, Verjährung, Massekosten, Bonität und Vollstreckbarkeit bewerten; keine pauschale Vergleichsquote verwenden
 - **Sicherungseigentum** vs. unentgeltliche Leistung
-- **Verjährung** § 146 InsO drei Jahre häufig vergessen
+- Verjährung nach Paragraf 146 InsO: regelmäßige BGB-Verjährung; Entstehung, Jahresendbeginn, Kenntnis oder grob fahrlässige Unkenntnis sowie Hemmung konkret berechnen
 
 ## Schritt 10 — Sonderfälle
 
@@ -201,7 +199,7 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 - Tabelle der angefochtenen Vorgänge mit Erfolgsaussicht
 - Bei Verteidigung: Bargeschäft-Analyse Kenntnis-Bestreitung
 - Klageschrift-Entwurf oder Verteidigungs-Schriftsatz
-- Frist im Fristenbuch (drei Jahre § 146 InsO)
+- Verjährungsberechnung nach Paragraf 146 InsO und Paragrafen 195, 199 BGB mit Ausgangsdaten und Hemmung im Fristenbuch
 - Vergleichs-Verhandlungs-Vorbereitung
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
@@ -217,9 +215,9 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 - InsO §§ 129–147
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft § 142 InsO
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-- **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung (§ 135 InsO)
+- **BGH IX ZR 239/22 vom 18.04.2024** — Deckungslücke und Zahlungseinstellung im Rahmen der Vorsatzanfechtung; kein Leitanker für gesellschafterähnliche Stellung nach Paragraf 135 InsO
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Ältere Leitentscheidungen (insb. BGH IX ZR 72/20 vom 06.05.2021, Liquiditätsstatus-Beweislast, § 138 InsO nahestehende Personen): vor Ausgabe konkretes Datum, Aktenzeichen, Randnummer in offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
 - Literatur und Handbücher nur bei vorhandenem Live-Zugriff.
@@ -229,32 +227,7 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 Bevor losgelegt wird, klaere:
 
 1. **Tatbestandsbereich?** § 130/131 (3 Monate), § 132 (3 Monate), § 133 Abs. 1 (10 Jahre) / Abs. 2 (4 Jahre), § 134 (4 Jahre), § 135 (1 Jahr).
-2. **Verjährung § 146 InsO?** 3 Jahre ab Kenntnis des IV, max. 10 Jahre ab Rechtshandlung — Frist sofort prüfen!
-3. **Nahestehende Person § 138 InsO?** Gesellschafter >25%, GF, Ehegatte → Beweislastumkehr zugunsten IV.
+2. **Verjährung nach Paragraf 146 InsO?** Regelmäßige Verjährung nach BGB Paragrafen 195 und 199 einschließlich Jahresendprinzip, Kenntnis und Höchstfrist konkret berechnen; Hemmung und Neubeginn prüfen.
+3. **Nahestehende Person nach Paragraf 138 InsO?** Schuldnertyp zuerst bestimmen und die jeweilige Fallgruppe des Absatzes 1 oder 2 subsumieren. Rechtsfolge und Vermutung ergeben sich erst aus dem konkret geprüften Anfechtungstatbestand; Paragraf 138 selbst enthält keine pauschale Beweislastumkehr.
 4. **Bargeschäft § 142 InsO?** Bei kongruenten unmittelbaren Austauschen: Bargeschäft prüfen; Unlauterkeit nach BGH IX ZR 122/23 separat darlegen.
-5. **Vorsatz § 133 InsO?** Nach BGH IX ZR 129/22 (18.04.2024): konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung, nicht bloß drohende ZU.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 266a StGB
-- § 18 AktG
-- § 64 GmbHG
-- § 15 GmbHG
-- § 40 GmbHG
-- § 15 AktG
-- Art. 17 DSGVO
-- § 266 StGB
-- § 3a EStG
-- § 263 StGB
-- § 94 StaRUG
-- § 203 StGB
-
-### Leitentscheidungen
-
-- BGH IX ZR 122/23
-- BGH IX ZR 129/22
-- BFH II R 19/01
-- BGH IV ZR 66/25
-- BGH II ZR 206/22
+5. **Vorsatz nach Paragraf 133 InsO?** BGH, Urteil vom 18. April 2024, IX ZR 239/22: Eine tragende Deckungslücke regelmäßig nicht allein aus den schon für die Zahlungseinstellung herangezogenen Verbindlichkeiten ableiten; wiederholte Verzögerungen genügen häufig nicht für Zahlungseinstellung. IX ZR 129/22 nur für Darlegung und Bestreiten eines unbelegten Liquiditätsstatus verwenden.

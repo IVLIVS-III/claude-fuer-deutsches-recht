@@ -165,7 +165,6 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 498 BGB-Mahnung Reaktionsfrist | 2 Wochen nach Mahnung | § 498 Abs. 1 Nr. 2 BGB |
 | Klage gegen Kündigung | Vor Zwangsversteigerungs-Zuschlag | ZVG §§ 83, 100 |
 | Vollstreckungsgegenklage | Vor Beendigung der Vollstreckung | § 767 ZPO |

@@ -9,7 +9,6 @@ description: "Wenn es um Agb Im Bankvertrag Sparkassen Und Banken in AGB-Recht-P
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 bis 310 BGB, UKlaG, B2C — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -37,8 +36,8 @@ description: "Wenn es um Agb Im Bankvertrag Sparkassen Und Banken in AGB-Recht-P
 - BGH XI ZR 26/20 hat diese seit Jahrzehnten verwendete Klausel gekippt.
 
 ### Verwahrentgelt (Negativzinsen)
-- BGH XI ZR 121/21 zu Verwahrentgelten in Banken-AGB (Az im Digitalisat verifizieren).
-- Bei laufenden Konten in der Regel unwirksam, weil Hauptleistung erfasst.
+- BGH, Urteile vom 04.02.2025 - XI ZR 61/23, XI ZR 65/23 und XI ZR 161/23: Verwahrentgelte auf Girokonten können Hauptpreisabreden sein, unterliegen aber der Transparenzkontrolle; unklare Berechnungsgrundlagen machten die geprüften Klauseln unwirksam.
+- BGH, Urteile vom 04.02.2025 - XI ZR 161/23 und XI ZR 183/23: Bei Tagesgeld- und Sparkonten unterlagen die Klauseln der Inhaltskontrolle und waren in den entschiedenen Fassungen unangemessen benachteiligend.
 
 ### Aufrechnungsverbot
 - AGB-Klausel "Der Kunde darf nur mit unbestrittenen oder rechtskraeftig festgestellten Forderungen aufrechnen" wirksam.

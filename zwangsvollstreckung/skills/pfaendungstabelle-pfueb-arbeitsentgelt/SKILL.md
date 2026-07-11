@@ -1,13 +1,13 @@
 ---
 name: pfaendungstabelle-pfueb-arbeitsentgelt
-description: "Wenn es um Pfändungstabelle 1.7.2025 in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfändung und P-Konto-Schutz und liefert ein prüfbares Berechnungsprotokoll mit Unterhaltspflichten, Sonderbezügen und Antragsfolgen."
 ---
 
-# Pfändungstabelle 1.7.2025
+# Pfändungstabelle ab 1. Juli 2026
 
 ## Arbeitsbereich
 
-Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli 2026 bis 30. Juni 2027 geltenden Bekanntmachung berechnen. Vor der Zahl immer Einkommensart, Bereinigungspositionen nach Paragraf 850e ZPO, unpfändbare Bezüge nach Paragraf 850a ZPO, tatsächlich gewährten gesetzlichen Unterhalt und eine gerichtliche Anordnung prüfen. P-Konto-Schutz nach Paragrafen 899 und 902 ZPO und privilegierte Unterhaltspfändung nach Paragraf 850d ZPO sind getrennte Rechenwege.
 
 ## Arbeitsweg
 
@@ -22,7 +22,7 @@ Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss 
 1. Handelt es sich um Arbeitseinkommen (§ 850c ZPO) oder selbstständiges Einkommen (§ 850i ZPO)?
 2. Wie viele unterhaltsberechtigte Personen sind zu berücksichtigen?
 3. Handelt es sich um privilegierte Unterhaltspfändung (§ 850d ZPO) oder reguläre Pfändung?
-4. Hat der Schuldner ein P-Konto — wenn ja, Sockelbetrag und Erhöhungen (§ 850k ZPO) berechnen?
+4. Hat der Schuldner ein P-Konto? Dann Einrichtung nach Paragraf 850k ZPO, Sockel nach Paragraf 899 ZPO, bescheinigte Erhöhungen nach Paragrafen 902 und 903 ZPO sowie Nachzahlungen gesondert erfassen.
 
 ## Aktuelle Rechtsprechung
 
@@ -35,7 +35,8 @@ Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss 
 - § 850d ZPO — privilegierte Unterhaltspfändung (geringerer Selbstbehalt)
 - § 850f ZPO — Erhöhung durch Gericht aus persönlichen Gründen
 - § 850i ZPO — Pfändung bei selbstständigem Einkommen
-- § 850k ZPO — Pfändungsschutzkonto (P-Konto), Sockelbetrag und Erhöhungen
+- Paragraf 850k ZPO: Einrichtung und Beendigung des Pfändungsschutzkontos
+- Paragrafen 899, 902 bis 906 ZPO: Sockelbetrag, Erhöhungsbeträge, Nachweis und gerichtliche Festsetzung
 
 ## Startet bei
 
@@ -48,52 +49,43 @@ Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss 
 - § 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen
 - § 850d ZPO – Unterhaltsforderungen (privilegiert, geringerer Freibetrag, vom Gericht festgesetzt)
 - § 850f ZPO – Erhöhung durch Gericht aus persönlichen Gründen
-- § 850k ZPO – Pfändungsschutzkonto, Sockelbetrag und Erhöhungen
-- Pfändungsfreigrenzenbekanntmachung 2025 vom 11.4.2025 (BGBl. 2025 I Nr. 110), in Kraft 01.07.2025 bis 30.06.2026
-- Quelle BGBl.: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
-- Quelle gesetze-im-internet: https://www.gesetze-im-internet.de/pf_ndfreigrbek_2025/BJNR06E0A0025.html
-- nächste Anpassung 01.07.2026 (§ 850c Abs. 4 ZPO – jährlich am 1. Juli entsprechend der Entwicklung des Grundfreibetrags § 32a EStG)
+- Paragraf 850k sowie Paragrafen 899, 902 bis 906 ZPO: P-Konto, Grundbetrag, Erhöhungen und gerichtliche Festsetzung
+- Pfändungsfreigrenzenbekanntmachung 2026 vom 19. März 2026, BGBl. 2026 I Nr. 80, in Kraft vom 1. Juli 2026 bis 30. Juni 2027
+- Amtliche Quelle: https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/
+- Nächste Anpassung zum 1. Juli 2027 nach Paragraf 850c Absatz 4 ZPO
 
 ## Gültigkeit der aktuellen Tabelle
 
-Die Bekanntmachung gilt vom **1.7.2025 bis 30.6.2026**. Die nächste Anpassung erfolgt zum 1.7.2026 (§ 850c Abs. 4 ZPO jährlich). Der Skill prüft bei jeder Berechnung das Tagesdatum – nach dem 30.6.2026 muss `werkzeuge/pfaendungsrechner.py` aktualisiert werden.
-
-> ⚠️ **Auto-Warnung ab 1.6.2026:** Wenn das System-Datum innerhalb von 30 Tagen vor Ablauf der Tabelle (≥ 1.6.2026) liegt, gibt der Skill und das Werkzeug einen Warntext aus, dass eine neue Pfändungsfreigrenzenbekanntmachung des BMJ veröffentlicht und in die Tabelle übernommen werden muss. Pflicht-Quellen: Pfändungsfreigrenzenbekanntmachung 2026 (BGBl. I); BMJ-Pressemitteilung; Konsultation in `juris`/`beck-online`. Verwendung der alten Eckwerte nach 30.6.2026 = Pfändungsfehler mit Aufhebungspotential.
+Die Bekanntmachung gilt vom 1. Juli 2026 bis 30. Juni 2027. Das Werkzeug warnt in den letzten dreißig Tagen und sperrt keine Berechnung, kennzeichnet nach Fristablauf aber jede Ausgabe unübersehbar als veraltet. Vor Verwendung in einem Antrag sind Tagesdatum und amtliche Tabelle abzugleichen.
 
 ## Eckwerte (aus Tabelle, dezimal mit Punkt)
 
-Aktuelle Eckdaten (Tabelle 01.07.2025 bis 30.06.2026, BGBl. 2025 I Nr. 110):
+Aktuelle Eckdaten (Tabelle 1. Juli 2026 bis 30. Juni 2027, BGBl. 2026 I Nr. 80):
 
-- Grundfreibetrag ohne Unterhaltspflichten: 1.555,00 EUR netto / Monat (§ 850c Abs. 1 Nr. 1 ZPO i.V.m. Pfändungsfreigrenzenbekanntmachung 2025).
-- Erhöhung erste unterhaltsberechtigte Person: 585,23 EUR (§ 850c Abs. 2 Satz 1 ZPO).
-- Erhöhung jede weitere Person (2. bis 5. Person): 326,04 EUR (§ 850c Abs. 2 Satz 2 ZPO).
-- Vollpfändungsgrenze: 4.766,99 EUR (§ 850c Abs. 3 Satz 3 ZPO).
-- Netto wird vor Berechnung auf den nächsten vollen 10-EUR-Schritt abgerundet (§ 850c Abs. 5 ZPO).
-- P-Konto-Sockel § 850k ZPO: 1.560,00 EUR (AG SBV-Bescheinigung Stand 01.07.2025).
-- Pfändbarer Betrag wird nach unten gerundet (§ 850c Abs. 5 ZPO i.V.m. Tabellenmethode).
+- Grundfreibetrag ohne Unterhaltspflichten: 1.587,40 Euro netto monatlich.
+- Erhöhung für die erste berücksichtigte Person: 597,42 Euro.
+- Erhöhung für jede weitere Person bis zur fünften: 332,83 Euro.
+- Vollpfändungsgrenze: 4.866,30 Euro; nur der Mehrbetrag ist vollständig pfändbar.
+- Für die Tabellenberechnung wird der Betrag bis zur Vollpfändungsgrenze nach Paragraf 850c Absatz 5 ZPO auf volle zehn Euro abgerundet; der Mehrbetrag über 4.866,30 Euro bleibt centgenau hinzuzurechnen.
+- P-Konto-Grundbetrag nach Paragraf 899 Absatz 1 ZPO: 1.590,00 Euro; Erhöhungen setzen die Tatbestände und Nachweise der Paragrafen 902 und 903 ZPO voraus.
+- Centbeträge folgen der amtlichen Tabelle; keine pauschale Abrundung des Endergebnisses.
 - Alle exakten Werte im `werkzeuge/pfaendungsrechner.py` (Single Source of Truth).
 
-Steigerung gegenueber Vorjahresfassung:
-
-- Grundfreibetrag von 1.491,75 EUR auf 1.555,00 EUR
-- Erhoehungsbetrag 1. Unterhaltspflicht von 561,43 EUR auf 585,23 EUR
-- Vollpfaendungsgrenze von 4.573,10 EUR auf 4.766,99 EUR
-
-Die Werte sind dimensions- und kommageführt im Werkzeug Single-Source-of-Truth; dieses SKILL.md nennt sie zur Orientierung. Komma-Zahlen sind im Body erlaubt, nicht im Frontmatter `description`.
+Die Werte sind im Werkzeug zentral hinterlegt; dieses Dokument nennt sie zur Sichtkontrolle. Die amtliche Tabelle bleibt für den konkreten Antrag maßgeblich.
 
 ## Workflow
 
 1. **Inputs einholen**: Nettoeinkommen, Anzahl unterhaltsberechtigter Personen, ggf. Sonderzuwendungen, Privileg § 850d ZPO ja/nein.
 2. **Python-Werkzeug aufrufen**: `python zwangsvollstreckung/werkzeuge/pfaendungsrechner.py --netto 2500 --unterhalt 1`.
 3. **Output**: Freibetrag, pfändbarer Betrag, Pfändungsstufen, Hinweise zu § 850a ZPO Sonderzuwendungen.
-4. **§ 850d ZPO privilegiert**: separat berechnen lassen mit `--privileg unterhalt --selbstbehalt 1450` o.ä.
-5. **P-Konto** § 850k ZPO: Sockel und Erhöhungsbeträge ausgeben.
+4. Paragraf 850d ZPO: nur mit einem konkret begründeten oder gerichtlich festgesetzten Selbstbehalt rechnen, etwa `--privileg --selbstbehalt 1500`; das Werkzeug setzt keinen Pauschalwert ein.
+5. P-Konto: Grundbetrag nach Paragraf 899 ZPO und nachgewiesene Erhöhungen nach Paragrafen 902 und 903 ZPO getrennt ausgeben.
 6. **Antragstext** für den PfÜB ergänzen.
 
 ## Privilegierte Unterhaltspfändung § 850d ZPO
 
-- Selbstbehalt wird vom Vollstreckungsgericht festgelegt – Werte orientieren sich an der Düsseldorfer Tabelle (Selbstbehalt aktuell 1.450 EUR Erwerbstätiger gegenüber minderjährigen Kindern, Stand Tabelle 2025).
-- Skill gibt eine Größenordnung an, weist aber auf die richterliche Festsetzung hin.
+- Der notwendige Unterhalt wird vom Vollstreckungsgericht fallbezogen belassen. Die unterhaltsrechtlichen Selbstbehalte der Düsseldorfer Tabelle dürfen nicht ohne Begründung als Vollstreckungsfreibetrag übernommen werden.
+- Ohne konkreten Eingabewert verweigert das Werkzeug die privilegierte Berechnung.
 
 ## P-Konto-Schutz § 850k ZPO – Erhöhungen
 
@@ -112,13 +104,8 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 
 ## Qualitätsgates
 
-- Niemals Tabellenwerte 2019, 2021, 2022, 2023 verwenden.
+- Keine abgelaufene Tabelle als aktuellen Rechtsstand verwenden.
 - Niemals Bruttobetrag in die Tabelle einsetzen.
 - Niemals § 850d ZPO ohne richterliche Festsetzung als feste Zahl ausgeben.
 - Bei selbstständigem Einkommen Berechnung § 850i ZPO statt § 850c ZPO.
 - Bei Sozialleistungen § 54 SGB I prüfen.
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:

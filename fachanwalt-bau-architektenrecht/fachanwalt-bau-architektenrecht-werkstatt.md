@@ -10,9 +10,9 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
 ## 2. Stop-Kriterien
 
@@ -57,9 +57,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13 | BGB Paragraf 631; BGH, Urteil vom 22.02.2018 - VII ZR 46/17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen | BGB Paragraf 631 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 633 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | BGB Paragraf 633; BGH, Urteil vom 08.11.2007 - VII ZR 183/05 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage | BGB Paragraf 633 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -81,8 +81,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 22.02.2018 - VII ZR 46/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar |
 | BGH, Urteil vom 08.11.2007 - VII ZR 183/05 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften |
 | BGH, Urteil vom 24.01.2008 - VII ZR 280/05 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen |
-| BGH, Urteil vom 10.10.2013 - VII ZR 19/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Abnahme und Abnahmereife steuern Fälligkeit und Mängelrechte |
-| BGH, Urteil vom 25.06.2015 - VII ZR 220/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nachträge verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll |
+| BGH, Urteil vom 10.10.2013 - VII ZR 19/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine formularmäßige Verkürzung der Verjährung von Mängelansprüchen gegen Architekten auf zwei Jahre ab Abnahme |
+| BGH, Urteil vom 25.06.2015 - VII ZR 220/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verlangt der Unternehmer Ersatz der Kosten einer durch ein mangelhaftes Vorgewerk verursachten Nachbesserung, muss er |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -96,32 +96,31 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 650q: Architekten- und Ingenieurvertrag.
 - BauGB Paragraf 9: Festsetzungen des Bebauungsplans als Rahmen für Genehmigungs- und Planungsrisiken.
 - BauGB Paragraf 11 und Paragraf 12: städtebaulicher Vertrag, Durchführungsvertrag und vorhabenbezogener Bebauungsplan.
-- BauGB Paragraf 124: Erschließungsvertrag als Spezialregelung.
+- BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1: Erschließungsvertrag als städtebaulicher Vertrag; BauGB Paragraf 124 regelt heute die Erschließungspflicht nach abgelehntem Vertragsangebot.
 - BauNVO Paragrafen 1 bis 23: Art und Maß der Nutzung, Bauweise und überbaubare Grundstücksflächen.
-- Paragrafen 631 ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 650a ff. BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 280 Abs. 2 BGB iVm Paragraf 286 BGB: bei Verzug Schadensersatzanspruch: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB Inhaltskontrolle: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 634a Abs. 1 Nr. 2 BGB: Verjährungsfrist für Mängelansprüche bei Bauwerk 5 Jahre: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 203, 204 BGB: Verhandlungen, Mahnverfahren, Klage, selbständiges Beweisverfahren: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 637 BGB Selbstvornahme: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 637 Abs. 3 BGB: Erwerber kann einen Kostenvorschuss vom Bauträger fordern, ohne in Vorleistung treten zu müssen: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 640 Absatz 1 BGB: Abnahmepflicht und unwesentliche Mängel; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 640 Absatz 2 BGB: gesetzliche Abnahmefiktion; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 650g BGB: Zustandsfeststellung bei Bauverträgen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 641 BGB: Fälligkeit der Vergütung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 634a Absatz 2 BGB: Verjährungsbeginn mit Abnahme; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 280 Abs. 2 BGB iVm Paragraf 286 BGB: bei Verzug Schadensersatzanspruch; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB Inhaltskontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 634a Abs. 1 Nr. 2 BGB: Verjährungsfrist für Mängelansprüche bei Bauwerk 5 Jahre; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
 - BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
 - BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
-- BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Abnahme und Abnahmereife steuern Fälligkeit und Mängelrechte.
-- BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Nachträge verlangen nachvollziehbare Grundlage und Abgrenzung vom Vertragssoll.
+- BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Eine formularmäßige Verkürzung der Verjährung von Mängelansprüchen gegen Architekten auf zwei Jahre ab Abnahme ist unwirksam; eine Teilabnahme folgt nicht schon aus einer Vertragsklausel, nach der die Verjährung mit Abnahme der letzten Unternehmerleistung beginnt.
+- BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Verlangt der Unternehmer Ersatz der Kosten einer durch ein mangelhaftes Vorgewerk verursachten Nachbesserung, muss er darlegen, welche Maßnahmen der Mängelbeseitigung dienten; eine Vermutung für saemtliche Drittunternehmerleistungen besteht nicht.
 - BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
 - BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Bebauungsplan-Festsetzungen brauchen eine passende Rechtsgrundlage im Festsetzungskatalog.
-- BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Der Erschließungsvertrag nach BauGB Paragraf 124 ist gegenüber BauGB Paragraf 11 die speziellere Regelung.
-- BGH 25.02.2016 VII ZR 49/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 19.01.2017 VII ZR 235/15 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BVerwG 30.06.2021 4 C 5/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 27.10.2011 VII ZR 84/09 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Nach der damals geltenden Fassung des BauGB war Paragraf 124 die Spezialregelung für Erschließungsverträge; für heutige Verträge sind BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1 und der nun anders geregelte Paragraf 124 zugrunde zu legen.
+- BGH, Urteil vom 22.12.2000 - VII ZR 310/99: Weicht eine Abschlagszahlungsvereinbarung zum Nachteil des Erwerbers von Paragraf 3 Absatz 2 MaBV ab, ist die gesamte Zahlungsvereinbarung nichtig.
+- BGH, Urteil vom 22.03.2007 - VII ZR 268/05: Bei einer nach Paragraf 3 und 12 MaBV in Verbindung mit Paragraf 134 BGB nichtigen Zahlungsvereinbarung kann der Erwerber verbotswidrig vor Fälligkeit.
+- BGH, Urteil vom 27.10.2011 - VII ZR 84/09: Auch bei einer nach Baufortschritt fälligen Rate kann der Erwerber wegen bereits aufgetretener Mängel einen angemessenen Betrag zurückbehalten.
+- BGH VII ZR 68/24, VII ZR 108/24, VII ZR 88/25 und V ZR 91/25 nur mit frei prüfbarer Quelle verwenden. Keine BeckRS-/juris-Blindzitate.
 
 ## 9. Prüfraster
 
@@ -172,9 +171,9 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Abnahme Fiktion Paragraf 640 BGB BGH Vii Zr 301 13
+### 15.1. Prüft die Abnahmefiktion nach Paragraf 640 Absatz 2 BGB anhand Fertigstellung, Fristsetzung, Verbraucherhinweis.
 
-Auftraggeber A schweigt 4 Wochen nach Fertigstellungsanzeige des Unternehmers U. - Paragraf 640 BGB - Paragraf 4 BBodSchG - Paragraf 24 BBodSchG - Paragraf 17 BeurkG - Paragraf 9 BBodSchG - Paragraf 13 BBodSchG - Paragraf 18 BBodSchG - Paragraf 2 BBodSchG - BGH 25.02.2016 VII ZR. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft die Abnahmefiktion nach Paragraf 640 Absatz 2 BGB anhand Fertigstellung, Fristsetzung, Verbraucherhinweis und Mangelbenennung und ordnet Fälligkeit, Beweislast und Verjährungsbeginn zu. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -182,48 +181,48 @@ ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast
 
 ### 15.3. Bau Einführung Vertragstypen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Bau Mangelhaftung Spezial Symptomtheorie
 
-Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Baugenehmigung Nachbarklage Paragraf 58 VwGO BVerwG 4 C 1 19
+### 15.5. Bauträger-Eigenkapital-Überprüfung vor Vertragsabschluss
 
-Nachbar erfährt erst nach 6 Monaten von Baugenehmigung; ruegt Verschattung. - Paragraf 58 VwGO - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - BVerwG 16.09.2020 4 C 1/19 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Bauträger-Eigenkapital-Überprüfung vor Vertragsabschluss
+### 15.6. Bauträger Fertigstellungsfrist und Verzug
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Bauträger Fertigstellungsfrist und Verzug
+### 15.7. Bauträger-Haftungsausschluss und Paragraf 307 BGB
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Bauträger-Haftungsausschluss und Paragraf 307 BGB
+### 15.8. Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB
 
-Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB
+### 15.9. Bauträgervertrag notarieller Prüfraster Grundlagen
 
-Mangelhaftung Symptomtheorie Bauträger ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Symptomtheorie BGH zur Mangelrüge, Bauträger-Haftungsausschluss und Paragraf 307 BGB, Bauträger-Mängelhaftung 5 Jahre nach Paragraf 634a BGB. Arbeite zuerst die tragende. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Bauträgervertrag notarieller Prüfraster Grundlagen
+### 15.10. Selbstvornahme und Vorschussklage gegen den Bauträger
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Selbstvornahme und Vorschussklage gegen den Bauträger
+### 15.11. WEG-Instandhaltungsrücklage zur Übergabe
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. WEG-Instandhaltungsrücklage zur Übergabe
+### 15.12. Prüft Zahlungspläne und vorzeitige Ratenforderungen im Bauträgervertrag an Paragraf 3 und 12 MaBV, trennt.
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Zahlungspläne und vorzeitige Ratenforderungen im Bauträgervertrag an Paragraf 3 und 12 MaBV, trennt Klauselnichtigkeit, Fälligkeit, Zurückbehaltung und Rückforderung und liefert eine belastbare Zahlungs-, Beweis- und Anspruchsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Bauträgervertrag Mev Verstoß BGH Vii Zr 25 20
+### 15.13. Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme
 
-Bauträger fordert 60 Prozent Anzahlung vor Baubeginn; Vertrag enthält Abweichung vom Ratenplan. - Paragrafen 631 ff. BGB - Paragrafen 650a ff. BGB - Paragraf 640 BGB - Paragraf 634 BGB - HOAI Leistungsphasen 1-9 - BGH 27.10.2011 VII ZR 84/09 — nur verwenden, wenn die Fundstelle. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Nutze diesen Skill im Bau- und Architektenrecht, wenn die Akte einen Wohnungserwerb vom Bauträger, eine Schlussrate, eine Abnahme des Gemeinschaftseigentums oder einen Streit um Raten/Fertigstellung betrifft. Paragrafen 305-310, 307, 308 Nr. 4, 309 Nr. 12, Nr. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme
+### 15.14. Prüft und beziffert Nachträge aus Mehrmenge, geänderter oder zusätzlicher Leistung
 
-Nutze diesen Skill im Bau- und Architektenrecht, wenn die Akte einen Wohnungserwerb vom Bauträger, eine Schlussrate, eine Abnahme des Gemeinschaftseigentums oder einen Streit um Raten/Fertigstellung betrifft. Paragrafen 305-310, 307, 308 Nr. 4, 309 Nr. 12, Nr. 15, 311b, 633-641. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft und beziffert Nachträge aus Mehrmenge, geänderter oder zusätzlicher Leistung. Trennt BGB-Bauvertrag von VOB/B, ordnet Anordnung, Vertrags-Soll, Anspruchsgrundlage, Preisbildungsmaßstab, Nachweis und Abschlagszahlung und erstellt Nachtragsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

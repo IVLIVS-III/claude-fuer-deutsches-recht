@@ -73,7 +73,7 @@ Das Modell benötigt:
 
 ### Rechtsstand 2025/2026
 
-- Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110): Grundfreibetrag 1.555 EUR ab 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
+- Pfändungsfreigrenzenbekanntmachung 2026 (BGBl. 2026 I Nr. 80): Grundfreibetrag 1.587,40 Euro vom 1. Juli 2026 bis 30. Juni 2027. Amtliche Quelle: https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 mit Auswirkungen auf Beschwerdesummen Paragraf 511 Abs. 2 ZPO (jetzt 1.000 EUR) und Paragraf 23 GVG (AG 10.000 EUR).
 
 ### Quellenregel
@@ -153,9 +153,3 @@ Jede Aussage zu Vollstreckungsvoraussetzungen, Pfändungsfreigrenzen und Rechtsb
 nach `references/zitierweise.md` zu belegen. BGH-Beschlüsse vollständig mit Datum, Az.,
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Stöber/Rellermeyer) Autoren, Titel, Aufl., Jahr, Rn. zitieren.
-
-<!-- AUDIT 27.05.2026
-Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das Urteil von
-Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage Paragraf 771 ZPO (WRONG_TOPIC).
-Halluzinierte Referenz geloescht. Keine Ersatzquelle für Paragraf 771 ZPO-Leitentscheidung ergaenzt.
--->

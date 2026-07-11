@@ -164,7 +164,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 |---|---|---|
 | Standardkommentar | Etablierte Definition + Streit-Stand | Pflicht-Beleg bei jeder Aussage |
 | Quellenprüfung | Aktualität (häufige Updates) | Bei jüngeren Streit-Stände |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Aufsatz NJW | Aktuelle Diskussion + Verteidigung Position | Streit-Stände + eigene Argumentation |
 | Lehrbuch | Grundlagen | Methoden + Definitionen |
 | JuS | Studenten-orientierte Erklärung | Verstehen, was Streit-Stand bedeutet |

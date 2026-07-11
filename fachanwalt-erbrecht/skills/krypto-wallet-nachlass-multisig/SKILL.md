@@ -10,7 +10,7 @@ description: "Wenn es um Krypto-Vermögenswerte und digitale Wallets im Erbfall 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: BGB Paragrafen 1922 ff., 1942 ff., 1967, 2032 ff., 2197 ff. und 2303 ff.; FamFG Paragrafen 342 ff.; EuErbVO bei Auslandsbezug. ErbStG und AO nur hinzunehmen, wenn die konkrete Aufgabe eine Steuerschnittstelle hat. Fundstellen über amtliche Gesetzes- und Rechtsprechungsdatenbanken live prüfen; keine ungeprüften Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -21,7 +21,6 @@ description: "Wenn es um Krypto-Vermögenswerte und digitale Wallets im Erbfall 
 ## Fachlicher Kern — Erbrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Digitaler Nachlass — Krypto-Wallet und Multi-Sig` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
-- **Verifizierte Anker:** BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteil, Entstehung und Verjährung bei postmortaler Vaterschaftsfeststellung); BGH, Beschluss vom 15.01.2025 - IV ZR 166/24 (Auskunftspflichten bei Pflichtteil/Testamentsvollstreckung); Rechtsprechung zu notariellen Nachlassverzeichnissen nur mit Aktenzeichen/Quelle ausgeben.
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -56,7 +55,6 @@ description: "Wenn es um Krypto-Vermögenswerte und digitale Wallets im Erbfall 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Konstellationen und Lösungsansätze
 
@@ -94,7 +92,6 @@ description: "Wenn es um Krypto-Vermögenswerte und digitale Wallets im Erbfall 
 | 1 | Erbschein oder eröffnetes Testament + Sterbeurkunde einreichen | Unverzüglich nach Erbfall |
 | 2 | Exchange-Widerspruchsfrist: oft 60–90 Tage nach Meldung | Exchange-AGB |
 | 3 | Bei Verweigerung: Klage auf Herausgabe des Kontoguthabens | § 985 BGB analog (Quasi-Eigentümer) |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Jahresfrist § 23 EStG prüfen: Anschaffung des Erblassers relevant | BMF 22.11.2024 |
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -118,7 +115,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | 3 | Erbschein oder beglaubigte Erbfolge-Urkunde vorhanden? | § 2353 BGB | Legitimation gegenüber Exchange |
 | 4 | Bewertung Todestag festgestellt? | § 12 ErbStG, § 11 ErbStG | Börsenkurs x Anzahl Coins |
 | 5 | Erbschaftsteuer-Freibetrag berücksichtigt? | § 16 ErbStG | Ehegatte EUR 500.000; Kind EUR 400.000 |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Jahresfrist-Berechnung ab Anschaffung Erblasser | § 23 Abs. 1 Nr. 2 EStG | Frist läuft weiter für Erben |
 | 8 | Vermögensübertrag auf Erben-Wallet dokumentiert? | Steuerliche Kontinuität | Übertrag ist kein Steuertatbestand |
 | 9 | DeFi/Staking-Erträge des Erblassers deklariert? | § 22 Nr. 3 EStG | Laufende Einkünfte steuerbar |
@@ -139,7 +135,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Szenario | Steuerfolge | Grundlage |
 |---------|------------|----------|
 | Veräußerung < 1 Jahr nach Anschaffung Erblasser | Spekulationsgewinn steuerpflichtig | § 23 EStG; Frist läuft ab Erblasser-Kauf |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Staking-Erträge nach Erbfall | Einkunft § 22 Nr. 3 EStG; ggf. Gewerbesteuer | BMF 22.11.2024 |
 | Hard Fork / Airdrop | Steuerpflichtiger Erwerb | BMF-Schreiben |
 
@@ -258,11 +253,9 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 | Gegenargument Exchange / Miterbe | Reaktion |
 |----------------------------------|---------|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Keine Legitimation ohne Erbschein" | Erbschein bei unstreitigem Testament nicht erforderlich; öffentliches Testament + Eröffnungsprotokoll reicht |
 | "Assets sind wertlos wegen verlorenem Schlüssel" | Erbschaftsteuerrechtliche Korrektur durch Nachweis faktischer Unzugänglichkeit; ggf. § 12 Abs. 4 BewG |
 | "Staking-Erträge nicht steuerbar" | BMF 22.11.2024: Staking = steuerbare Einkunft § 22 Nr. 3 EStG |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -282,9 +275,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 |-----------|-----------|------------|
 | Prävention | Seed-Phrase notariell hinterlegen oder in Erbvertrag aufnehmen | Häufigste Verlustursache digitaler Nachlasswerte |
 | Dokumentation | Krypto-Portfolio in notarielles Testament mit konkreter Walletbezeichnung | Klare Rechtslage; Vermeidung Erbengemeinschaftsstreit |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Sofortmaßnahme | Exchange binnen 48 h nach Erbfall informieren | Verhindert automatische Kontosperrung oder Steuer-Compliance-Probleme |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 

@@ -3,31 +3,33 @@ name: anfg-vorsatzanfechtung-3-i
 description: "Wenn es um Vorsatzanfechtung — Paragraf 3 Abs. 1 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
 ---
 
-# Vorsatzanfechtung — § 3 Abs. 1 AnfG
+# Vorsatzanfechtung — Paragraf 3 Absatz 1 AnfG
 
-## Triage — kläre vor Prüfung § 3 AnfG
+## Triage — kläre vor Prüfung von Paragraf 3 AnfG
 
 1. Hatte der Schuldner Benachteiligungsvorsatz (zumindest dolus eventualis)?
 2. Kannte der Anfechtungsgegner den Benachteiligungsvorsatz zum Zeitpunkt der Handlung?
-3. Ist der Anfechtungsgegner eine nahestehende Person i.S.d. § 138 InsO (analog)? (Vermutungsregel!)
-4. Lag die Rechtshandlung innerhalb der Zehn-Jahres-Frist des § 3 AnfG?
+3. Wusste der Anfechtungsgegner von der zumindest drohenden Zahlungsunfähigkeit und von der Gläubigerbenachteiligung, sodass die Vermutung des Paragraf 3 Absatz 1 Satz 2 AnfG eingreifen kann?
+4. Gewährte die Handlung eine Sicherung oder Befriedigung, sodass die Vierjahresgrenze des Paragraf 3 Absatz 2 AnfG zu prüfen ist?
+5. Liegt ein entgeltlicher Vertrag mit einer nahestehenden Person und unmittelbarer Benachteiligung nach Paragraf 3 Absatz 4 AnfG vor?
 
 ## Zentrale Normen
 
-- § 3 Abs. 1 AnfG — Vorsatzanfechtung (Benachteiligungsvorsatz + Kenntnis des Anfechtungsgegners + 10 Jahre)
-- § 138 InsO — Nahestehende Personen (analog für Kenntnisvermutung im AnfG)
-- § 2 AnfG — Anfechtungsberechtigung als Grundvoraussetzung
-- §§ 195 199 BGB — Verjährung des Anfechtungsanspruchs
+- Paragraf 3 Absatz 1 AnfG — Vorsatzanfechtung und Kenntnisvermutung.
+- Paragraf 3 Absätze 2 und 3 AnfG — Vierjahreszeitraum und verschärfter Vermutungstatbestand für kongruente Sicherung oder Befriedigung.
+- Paragraf 3 Absatz 4 AnfG in Verbindung mit Paragraf 138 InsO — eigener Tatbestand für entgeltliche Verträge mit nahestehenden Personen; keine allgemeine Kenntnisvermutung.
+- Paragraf 2 AnfG — Anfechtungsberechtigung als Grundvoraussetzung.
+- Paragrafen 195 und 199 BGB — Verjährung des Anfechtungsanspruchs.
 
-## Rechtsprechung (BGH — Leitsätze § 3 AnfG Vorsatzanfechtung)
+## Rechtsprechung
 
-- Die zur Insolvenzanfechtung nach § 133 InsO ergangene Neuausrichtung des BGH gilt grundsätzlich uebertragbar auch für § 3 Abs. 1 AnfG, weil beide Vorschriften denselben Wortlaut zur Vorsatzanfechtung tragen. Leitlinie: BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20 (Insolvenz; uebertragbar). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX+ZR+72/20
-- Weiterentwicklung: BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Verwalter muss Deckungsluecke darlegen; einfaches Bestreiten kann genügen; insoweit ebenfalls auf § 3 AnfG uebertragbar, weil der Anfechtende dort dieselben Darlegungslasten traegt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
-- Aktenzeichen und Uebertragbarkeit auf den konkreten Mandatssachverhalt vor Schriftsatzverwendung prüfen.
+- BGH, Urteil vom 06.03.2025, IX ZR 209/23: Der anfechtende Gläubiger trägt Darlegung und Beweis für den Benachteiligungsvorsatz und dessen Kenntnis. Für die Vermutung nach Paragraf 3 Absatz 1 Satz 2 AnfG muss er beweisen, dass der Gegner die zumindest drohende Zahlungsunfähigkeit und die benachteiligende Wirkung kannte; danach ist der Gegenbeweis nach Paragraf 292 ZPO möglich.
+- BGH, Urteil vom 05.12.2024, IX ZR 42/24: Erkannte drohende Zahlungsunfähigkeit bleibt ein mögliches Indiz, trägt den Benachteiligungsvorsatz aber nicht allein. Nähebeziehung, zeitlicher Zusammenhang, Vermögenstransfer und Inkongruenz sind in einer Gesamtwürdigung zu prüfen.
+- BGH, Urteil vom 25.03.2021, IX ZR 70/20, sowie Beschluss vom 12.05.2022, IX ZR 30/21: Bei Sicherung oder Befriedigung gilt grundsätzlich der Vierjahreszeitraum des Paragraf 3 Absatz 2 AnfG; eine frühere Deckung kann nur über das vorsätzlich benachteiligende Grundgeschäft erfasst werden.
 
 ## Obersatz
 
-Anfechtbar sind Rechtshandlungen des Schuldners, die er mit dem Vorsatz vorgenommen hat, seine Gläubiger zu benachteiligen, wenn der Anfechtungsgegner zur Zeit der Handlung den Vorsatz des Schuldners kannte (§ 3 Abs. 1 AnfG).
+Anfechtbar ist eine Rechtshandlung, die der Schuldner innerhalb des maßgeblichen Zeitraums mit dem Vorsatz vorgenommen hat, seine Gläubiger zu benachteiligen, wenn der Anfechtungsgegner den Vorsatz bei Vornahme der Handlung kannte, Paragraf 3 Absatz 1 Satz 1 AnfG.
 
 ## Tatbestandsmerkmale
 
@@ -37,7 +39,7 @@ Jedes rechtlich erhebliche Handeln oder Unterlassen des Schuldners. Auch Unterla
 
 ### 2. Gläubigerbenachteiligungsvorsatz des Schuldners
 
-**Definition:** Der Schuldner handelt mit dem Willen, seine Gläubiger zu benachteiligen, oder nimmt die Benachteiligung zumindest als sicher vorhergesehene Folge hin (dolus eventualis genügt nach h.M.).
+Der Schuldner muss die Gläubigerbenachteiligung erkannt und zumindest billigend in Kauf genommen haben. Eine wirtschaftliche Krise oder drohende Zahlungsunfähigkeit allein ersetzt die Gesamtwürdigung nicht.
 
 **Indizien für Benachteiligungsvorsatz:**
 - Kenntnis der eigenen Zahlungsunfähigkeit.
@@ -49,16 +51,19 @@ Jedes rechtlich erhebliche Handeln oder Unterlassen des Schuldners. Auch Unterla
 
 Der Anfechtungsgegner muss zum Zeitpunkt der Handlung den Benachteiligungsvorsatz des Schuldners gekannt haben.
 
-**Vermutungsregel:** Kenntnis der drohenden Zahlungsunfähigkeit und Kenntnis der Gläubigerbenachteiligung werden vermutet, wenn der Anfechtungsgegner nahestehende Person (§ 138 InsO analog) ist.
+Die Kenntnis des Benachteiligungsvorsatzes wird nach Paragraf 3 Absatz 1 Satz 2 AnfG vermutet, wenn der Anfechtungsgegner wusste, dass Zahlungsunfähigkeit drohte und dass die Handlung die Gläubiger benachteiligte. Die Nähebeziehung allein löst diese Vermutung nicht aus. Bei kongruenter Sicherung oder Befriedigung tritt nach Absatz 3 die eingetretene Zahlungsunfähigkeit an die Stelle der drohenden Zahlungsunfähigkeit.
 
-### 4. Anfechtungsfrist: Zehn Jahre
+### 4. Maßgeblicher Zeitraum
 
-§ 3 Abs. 1 AnfG: Rechtshandlungen bis zehn Jahre vor der Anfechtungserklärung.
+- Grundtatbestand: zehn Jahre nach Paragraf 3 Absatz 1 AnfG.
+- Sicherung oder Befriedigung: vier Jahre nach Paragraf 3 Absatz 2 AnfG.
+- Entgeltlicher Vertrag mit nahestehender Person und unmittelbarer Benachteiligung: zwei Jahre nach Paragraf 3 Absatz 4 AnfG.
+- Fristberechnung und verfahrensrechtlichen Anknüpfungspunkt nach Paragraf 7 AnfG gesondert bestimmen; nicht pauschal vom Datum eines außergerichtlichen Schreibens zurückrechnen.
 
 ## Beweislast
 
 - Vorsatz des Schuldners: Gläubiger (Anfechtender).
-- Kenntnis des Anfechtungsgegners: Anfechtender (erleichtert durch Indizien und Vermutungen).
+- Kenntnis des Anfechtungsgegners: Anfechtender. Er kann Vollbeweis führen oder den Vermutungstatbestand des Paragraf 3 Absatz 1 Satz 2 AnfG beweisen; dann bleibt dem Gegner der Gegenbeweis nach Paragraf 292 ZPO.
 
 ---
 

@@ -69,7 +69,3 @@ description: "Wenn es um Plausibilitätscheck in Vertragsausfüller geht: prüft
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
-
-<!-- AUDIT 27.05.2026
-Bundle: bundle_047.json
--->

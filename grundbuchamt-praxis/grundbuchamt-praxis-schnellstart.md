@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
 - BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
 - BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
-- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 925 Abs. 1 BGB — Auflassung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1113 Abs. 1 BGB — Hypothek: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung. - Paragraf 925 Abs. 1 BGB — Auflassung. - Paragraf 1113 Abs. 1 BGB — Hypothek. - Paragraf 1191 Abs. 1 BGB — Grundschuld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 925 Abs. 1 BGB — Auflassung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1113 Abs. 1 BGB — Hypothek; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

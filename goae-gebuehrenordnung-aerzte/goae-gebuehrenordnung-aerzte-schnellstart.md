@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 280, Paragraf 823 und Paragraf 253: Schadensersatz, deliktische Haftung und Schmerzensgeld.
 - SGB V Paragraf 27, Paragraf 39, Paragraf 73, Paragraf 92 und Paragraf 135: Krankenbehandlung, Krankenhaus, Vertragsarzt und Methodenbewertung.
 - SGB X Paragraf 20 und Paragraf 25: Amtsermittlung und Akteneinsicht im Sozialverwaltungsverfahren.
-- Paragraf 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern. GKV-Leistungen sind: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 87 SGB V: EBM für GKV-Vertragsärzte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 630a ff. BGB: Behandlungsvertrag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 630a–630h: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 1 GOÄ definiert den Anwendungsbereich der Gebührenordnung für Ärzte: Berufliche Leistungen approbierter Ärzte gegenüber Privatpatienten und Selbstzahlern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 87 SGB V: EBM für GKV-Vertragsärzte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 630a ff. BGB: Behandlungsvertrag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragrafen 630a–630h; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

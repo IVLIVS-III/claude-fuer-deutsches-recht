@@ -103,5 +103,3 @@ Stand: 05/2026.
 - BMF v. 15.08.2019 (Jobticket).
 - LStR R 3.15.
 - Deutschlandticket-Preis: 58 EUR/Monat ab 01.01.2025 (jaehrlich durch VMK festgelegt; prüfen).
-
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (Deutschlandticket 58 EUR ab 01.01.2025), 2 ersetzt (Prüfhinweise ohne Marker) -->

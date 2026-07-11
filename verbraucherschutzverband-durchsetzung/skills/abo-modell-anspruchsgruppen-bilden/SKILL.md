@@ -1,59 +1,35 @@
 ---
 name: abo-modell-anspruchsgruppen-bilden
-description: "Wenn es um Abo Modell Anspruchsgruppen Bilden in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bildet Anspruchsgruppen für digitale Abos, Probezeiträume und automatische Verlängerungen: clustert Bestellbutton, Preisaufklärung, Vertragsfassung, Verlängerung, Kündigung und Abbuchung, trennt UKlaG-, UWG- und VDuG-Ziele und liefert homogene Fallgruppen mit Rechtsfolge, Beweisstandard und verbleibenden Individualfragen."
 ---
 
-# Abo Modell Anspruchsgruppen Bilden
+# Anspruchsgruppen für Abo-Modelle bilden
 
-## Arbeitsweg
+## 1. Bestellstrecke vor Beschwerden lesen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Vertragsfassung, Preis- und Laufzeitangabe, Bestellbutton, Bestätigung, Widerrufsinformation, Verlängerungsmitteilung, Kündigungsweg und Abbuchungen. Ordne jede Beschwerde der tatsächlich genutzten Bestellstrecke und dem Abschlussdatum zu.
 
-## Normenanker
+## 2. Gruppenmerkmale
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+| Gruppe | einheitlicher Kern | typische Rechtsfolge | Individualfrage |
+| --- | --- | --- | --- |
+| unklare Zahlungsschaltfläche | identischer Buttontext | fehlende Bindung prüfen | konkreter Abschlussweg |
+| Probeabo wird kostenpflichtig | identische Preis- und Verlängerungsinformation | Widerruf oder Rückzahlung prüfen | Information bei Abschluss |
+| Laufzeitverlängerung | identische Klausel und Stichtag | Klauselkontrolle und Kündigung | Vertragsfassung |
+| Kündigungsweg blockiert | identische Oberfläche oder Prozessstörung | Unterlassung und Vertragsbeendigung | Versuch und Zugang |
+| Mehrfach- oder Nachabbuchung | gleiches Abrechnungsmuster | Rückzahlung und Unterlassung | Betrag und Zahlung |
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 3. Rechtsprechungsanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+- EuGH, Urteil vom 7. April 2022, C-249/21: Ob die Schaltfläche eindeutig auf die Zahlungspflicht hinweist, wird anhand ihrer eigenen Beschriftung beurteilt.
+- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Beim Übergang eines kostenlosen Probezeitraums in einen kostenpflichtigen und sich verlängernden Vertrag ist entscheidend, ob der Verbraucher bei Vertragsschluss klar über die spätere Zahlungspflicht informiert wurde.
 
-## Prüfroutine
+Diese Entscheidungen lösen unterschiedliche Fragen. `C-249/21` betrifft den Vertragsschluss über die Schaltfläche; `C-565/22` betrifft Widerruf und Preisaufklärung bei Probeabo und Verlängerung.
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## 4. Verbandsklage-Weiche
 
-## Normen und Rechtsprechung
+Prüfe pro Gruppe Klageberechtigung, identische Handlung oder Klausel, Verbraucherzahl, Gleichartigkeit, Verjährung und gewünschte Rechtsfolge. Unterlassung einer Bestellpraxis, Feststellung von Anspruchsvoraussetzungen und konkrete Abhilfe sind getrennte Klageziele. Eine Gruppe ist nicht homogen, wenn erst jeder Nutzer beweisen muss, welche völlig andere Oberfläche er sah.
 
-### Kuratierte Normen-Bibliothek
+## 5. Output
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+Liefere Clusterdefinition, Ein- und Ausschlussmerkmale, Fallzahl, repräsentative Belege, passende Klageart, einheitliche Rechtsfrage, individuelle Restfragen und Priorisierung nach Reichweite, Beweisqualität und Frist.

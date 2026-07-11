@@ -42,25 +42,3 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Qualitätsgate
 Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 73 AMG
-- § 11a ApoG
-- § 11 ApoG
-- § 7 HWG
-- § 78 AMG
-- § 8 ApoG
-- § 12a ApoG
-- § 79 AMG
-- § 1 ApoG
-- § 7 ApoG
-- Art. 12 GG
-- § 95 AMG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

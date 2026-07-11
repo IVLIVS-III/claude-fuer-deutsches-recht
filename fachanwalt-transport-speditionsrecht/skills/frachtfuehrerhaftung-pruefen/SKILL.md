@@ -71,7 +71,6 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
@@ -273,7 +272,6 @@ kann keine Rede sein.
 | "Schaden entstand nicht bei uns, sondern beim Unterfrachtführer" | CMR Art. 3: Frachtführer haftet für alle eingesetzten Personen wie für eigenes Handeln; Regress gegen Unterfrachtführer CMR Art. 37 |
 | "ADSp schränkt unsere Haftung auf 8.33 SZR/kg ein" | § 449 HGB: ADSp-Haftungsbeschränkungen gelten nicht bei qualifiziertem Verschulden; § 435 HGB geht vor |
 | "Eigene Versicherung hat gezahlt; kein Schaden mehr" | § 86 VVG: Versicherung tritt in Ansprüche ein; Direktanspruch gegen Frachtführer bleibt bestehen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -294,7 +292,6 @@ kann keine Rede sein.
 | Situation | Empfehlung |
 |---|---|
 | Haftungshöchstbetrag deckt Schaden | Standardklage nach CMR Art. 17/23 oder § 425/431 HGB; kein Aufwand für qualifiziertes Verschulden |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Frachtführer bestreitet Übernahme in ordnungsgemäßem Zustand | CMR Art. 9: Frachtbrief-Vermutung zugunsten Absender; keine gegenteiligen Frachtführer-Vermerke = Frachtführer muss Gegenteil beweisen |
 | Unterfrachtführer-Kette | Direktklage gegen Hauptfrachtführer (CMR Art. 3) und Regressklage gegen Unterfrachtführer (CMR Art. 37) separat führen |
 | Spedition mit ADSp | Prüfen ob Festpreisvereinbarung § 459 HGB: dann volle Frachtführerhaftung trotz ADSp |

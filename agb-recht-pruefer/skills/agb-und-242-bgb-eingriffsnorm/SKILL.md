@@ -5,26 +5,22 @@ description: "Wenn es um Agb Und 242 Bgb Eingriffsnorm in AGB-Recht-Prüfer geht
 
 # Agb Und 242 Bgb Eingriffsnorm
 
-## Argumentation pro Eingriffsnormcharakter
+## Kollisionsrechtliche Einordnung
 
-- § 242 BGB ist seit dem Reichsgericht und BGH eine "Generalklausel mit Verfassungsrang" (so vereinzelte Stimmen).
-- Treu und Glauben sei eine universale rechtsethische Wertung, ohne die das deutsche Privatrecht nicht denkbar ist.
-- §§ 307 ff. BGB seien Konkretisierungen des § 242 BGB; wenn § 242 international zwingend ist, dann auch die Konkretisierungen.
-- Faktischer Verbraucherschutz koennte sonst durch Rechtswahl ausgehebelt werden.
+- Artikel 3 Rom-I-VO bestimmt zunächst das gewählte Vertragsstatut; Reichweite und Wirksamkeit der Rechtswahl sind vor der AGB-Kontrolle zu klären.
+- Artikel 6 Absatz 2 Rom-I-VO schützt Verbraucher bei erfülltem räumlichem und sachlichem Anwendungsbereich davor, durch eine Rechtswahl den zwingenden Schutz des ohne Rechtswahl maßgeblichen Rechts zu verlieren.
+- Artikel 9 Rom-I-VO ist eng auszulegen. Aus der Funktion von Paragraf 242 oder den Paragrafen 307 bis 310 BGB folgt nicht pauschal, dass jede deutsche AGB-Norm eine Eingriffsnorm ist.
+- Artikel 21 Rom-I-VO zum ordre public ist eine eigenständige, ebenfalls restriktive Ausnahme und kein Ersatz für eine unterbliebene Prüfung der Artikel 6 und 9.
 
-## Argumentation contra (herrschende Meinung)
+## Verifizierter Rechtsprechungsanker
 
-- **EuGH "Unamar" (Rs. C-184/12, 17.10.2013)**: Eingriffsnormen werden eng definiert — sie müssen "für die Wahrung der politischen, sozialen oder wirtschaftlichen Organisation eines Mitgliedstaats als so entscheidend angesehen werden, dass ihre Befolgung [...] vorzunehmen ist".
-- § 242 BGB ist eine Auslegungs- und Konkretisierungsregel, kein international zwingender Anwendungsbefehl.
-- Art. 6 Rom-I-VO regelt den Verbraucherschutz autonom und abschliessend; die Spezialnorm verdraengt einen Rueckgriff auf Art. 9.
-- BGH IX ZR 119/14 (Az im Digitalisat verifizieren): keine Erstreckung des AGB-Rechts via § 242 BGB auf fremdrechtliche Verträge.
-- Praktische Folge: Schweizer / englisches / US-Recht in B2B-Vertraegen ist wirksam, ohne dass deutsches AGB-Recht über § 242 BGB durchschlaegt.
+- EuGH, Urteil vom 17.10.2013 - C-184/12, Unamar: Ob eine nationale Vorschrift trotz gewählten Rechts zwingend angewandt werden darf, verlangt eine eingehende Würdigung von Wortlaut, Systematik, Zielsetzung und Folgen der Nichtanwendung. Die Entscheidung betrifft Handelsvertreterrecht und liefert keinen allgemeinen Rechtssatz, wonach deutsches AGB-Recht stets oder nie Eingriffsnorm ist.
 
 ## Praktische Folgen
 
 - Verwender mit deutschen B2B-Mandanten können mit Rechtswahl Schweizer Recht erheblichen AGB-Spielraum gewinnen.
-- Bei B2C bleibt Art. 6 Rom-I — der ist die einzige relevante Schutzklippe.
-- Schiedsklauseln in B2B sind frei verwertbar.
+- Bei Verbraucherverträgen Artikel 6 Rom-I-VO, zwingenden Schutz, gewöhnlichen Aufenthalt und Ausrichtung der Tätigkeit konkret prüfen.
+- Im unternehmerischen Verkehr Vertragsstatut, zwingendes Sonderrecht, Eingriffsnormen, ordre public und eine etwaige Schiedsvereinbarung jeweils getrennt prüfen; eine ausländische Rechtswahl macht eine Klausel nicht automatisch wirksam.
 
 ## Prüfraster
 

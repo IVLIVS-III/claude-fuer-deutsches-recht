@@ -1,65 +1,56 @@
 ---
 name: ai-act-art-6-hochrisiko-ki
-description: "Wenn es um digitale Werkzeuge Act Art 6 Hochrisiko digitale Werkzeuge in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft automatisierte Kreditwürdigkeits- und Risikobewertung nach der Verordnung (EU) 2024/1689 und Artikel 22 DSGVO. Liefert Rollen-, Klassifikations- und Geltungsbeginnmatrix, Maßnahmenplan, Entscheidungsprüfung und belastbare Dokumentation."
 ---
 
-# AI Act Art 6 Hochrisiko KI
+# 1. Automatisierte Kredit- und Risikobewertung
 
-## Einsatzlage
+## 1.1 Start mit dem konkreten System
 
-KI-System für Kreditvergabe wird eingefuehrt.
+Lies Zweckbeschreibung, Modell- und Datenfluss, Anbieterunterlagen, Entscheidungskette, menschliche Eingriffe, Protokolle und Betroffeneninformation. Bestimme, welche natürliche Person von welcher Kredit-, Bonitäts- oder Versicherungsentscheidung betroffen ist und welchen tatsächlichen Einfluss das System auf das Ergebnis hat.
 
-## Normenanker
+## 1.2 Klassifikationsweiche
 
-- Art. 6 HOCHRISIKO
-- Art. 33 DSGVO
-- Art. 34 DSGVO
-- Art. 9 DSGVO
-- Art. 56 DSGVO
-- Art. 32 DSGVO
-- § 32 BSIG
-- Art. 28 DSGVO
+1. Prüfe zuerst Artikel 6 Absatz 2 in Verbindung mit Anhang III der Verordnung (EU) 2024/1689. Dort werden insbesondere Systeme zur Bewertung der Kreditwürdigkeit natürlicher Personen oder zur Ermittlung ihres Kreditscores sowie bestimmte Risiko- und Preisbewertungen in Lebens- und Krankenversicherungen erfasst.
+2. Prüfe die Ausnahme des Artikels 6 Absatz 3 anhand der konkreten Funktion. Die Ausnahme greift nicht allein deshalb, weil ein Mensch formal auf das Ergebnis klickt.
+3. Bestimme für jede Organisation die Rolle als Anbieter, Betreiber, Einführer, Händler oder Bevollmächtigter. Ein Unternehmen kann je nach Veränderung oder Zweckverschiebung die Rolle wechseln.
+4. Prüfe verbotene Praktiken, Transparenzpflichten und Datenschutz unabhängig von der Hochrisikoeinstufung.
+5. Trenne Produktklassifikation, datenschutzrechtliche Zulässigkeit, zivilrechtliche Entscheidung und sektorspezifische Kredit- oder Versicherungsregeln.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 1.3 Geltungsbeginn live feststellen
 
-- Keine Entscheidung aus Modellwissen erzwingen; bei Bedarf gezielt nach Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle recherchieren.
+1. Ermittle Bereitstellungs-, Inbetriebnahme- und Änderungsdatum des Systems.
+2. Prüfe Artikel 113 und sämtliche bis zum Bearbeitungstag im Amtsblatt veröffentlichte Änderungsgesetze.
+3. Der ursprüngliche Verordnungstext sah die allgemeine Anwendung ab 2. August 2026 und für Artikel 6 Absatz 1 samt zugehörigen Pflichten ab 2. August 2027 vor.
+4. Im Jahr 2026 wurde ein unionsrechtliches Änderungsverfahren mit abweichenden Stichtagen beschlossen. Verwende einen neuen Stichtag erst, wenn Rechtsakt, Veröffentlichung und Inkrafttreten in der amtlichen Quelle verifiziert sind.
+5. Liefere deshalb eine Tabelle mit Normfassung, Verkündungsstatus, Anwendungsdatum und Folge für das konkrete System.
 
-## Prüfprogramm
+## 1.4 Pflichtenkette
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+| Bereich | Prüfpunkt | Nachweis |
+| --- | --- | --- |
+| Risikomanagement | vorhersehbare Risiken und Maßnahmen über den Lebenszyklus | Risikoregister, Tests, Freigaben |
+| Daten | Eignung, Repräsentativität, Fehler und Verzerrungen | Datenblatt, Qualitätsbericht |
+| Dokumentation | Systemgrenzen, Version, Leistung und Änderungen | technische Dokumentation |
+| Protokollierung | nachträgliche Rekonstruktion der Nutzung | unveränderbare Logs |
+| menschliche Aufsicht | echte Befugnis, Kompetenz und Zeit zum Eingriff | Rollenplan, Arbeitsanweisung |
+| Genauigkeit und Sicherheit | Messwerte, Fehlerraten, Robustheit | Validierungs- und Stresstest |
+| Grundrechtsfolgen | Betroffene, Schwere, Eintritt und Abhilfe | Folgenabschätzung, Maßnahmenplan |
 
-## Arbeitsergebnis
+## 1.5 Artikel 22 DSGVO gesondert prüfen
 
-Hochrisiko-Klassifikation; Konformitaetsbewertung erforderlich.
+1. Bestimme, ob eine ausschließlich automatisierte Entscheidung mit rechtlicher oder ähnlich erheblicher Wirkung vorliegt.
+2. Ein menschlicher Prüfer verhindert die Ausschließlichkeit nur, wenn er das Ergebnis tatsächlich verstehen, hinterfragen und ändern kann.
+3. Prüfe Ausnahmegrund, geeignete Garantien, Information, Eingriffsrecht und Anfechtungsmöglichkeit.
+4. EuGH, Urteil vom 7. Dezember 2023 - C-634/21, SCHUFA Holding: Die automatisierte Erstellung eines Wahrscheinlichkeitswerts kann selbst eine automatisierte Entscheidung sein, wenn ein Dritter diesem Wert bei seiner Entscheidung eine maßgebliche Rolle beimisst.
 
-## Belege und Aktenlücken
+## 1.6 Angriffs- und Freigabeprüfung
 
-- Risikoanalyse
-- Modelbeschreibung
+1. Rekonstruiere den einzelnen Entscheidungspfad mit Eingabedaten, Version, Score, Schwelle, menschlichem Schritt und Ergebnis.
+2. Teste Datenfehler, Stellvertretermerkmale, Gruppenbenachteiligung, Drift und sachwidrige Ausschlussgründe.
+3. Formuliere Gegenprobe und Abhilfe: manuelle Neubewertung, Datenberichtigung, Schwellenänderung, Aussetzung oder Rücknahme.
+4. Gib keine Freigabe, solange Systemrolle, Geltungsbeginn, Datengrundlage oder Eingriffskompetenz ungeklärt sind.
 
-## Normen und Rechtsprechung
+## 1.7 Ausgabe
 
-### Kuratierte Normen-Bibliothek
-
-- Art. 33 DSGVO
-- Art. 34 DSGVO
-- Art. 9 DSGVO
-- Art. 56 DSGVO
-- Art. 32 DSGVO
-- § 32 BSIG
-- Art. 28 DSGVO
-- Art. 82 DSGVO
-- § 203 StGB
-- Art. 55 DSGVO
-- Art. 36 DSGVO
-- § 8b BSIG
-
-### Leitentscheidungen
-
-- EuGH C-311/18
-- EuGH C-300/21
-- EuGH C-589/22
+Liefere Rollenmatrix, Klassifikationsbegründung, Rechtsstandsblatt, Pflichtenlücken, Einzelfallrekonstruktion, Maßnahmenplan und Freigabeentscheidung. Trenne geltendes Recht, bereits beschlossene Änderung und bloßen Entwurfsstand ausdrücklich.

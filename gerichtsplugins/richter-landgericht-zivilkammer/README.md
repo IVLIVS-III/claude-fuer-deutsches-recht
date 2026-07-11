@@ -7,6 +7,8 @@ Zivilkammer LG: erste Instanz und Berufung, große Relation, Schlüssigkeit Erhe
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+Direktnavigation: [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-landgericht-zivilkammer.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
+
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
 ## Downloads
@@ -16,9 +18,19 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-landgericht-zivilkammer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md" download><code>richter-landgericht-zivilkammer-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-schnellstart.md" download><code>richter-landgericht-zivilkammer-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`richter-landgericht-zivilkammer-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer-testakte.zip), [`richter-landgericht-zivilkammer-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer-testakte-einzelpdfs.zip) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-landgericht-zivilkammer-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer-testakte.zip) | [`richter-landgericht-zivilkammer-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-landgericht-zivilkammer-testakte-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -109,11 +121,11 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 1. Einstieg und Fallrouting | `01-eingang-und-besetzung` |
-| 2. Unterlagen, Sachverhalt und Quellen | `04-beweisbeschluss-und-sachverstaendiger`, `05-zeugenbeweis-und-parteivernehmung` |
-| 4. Gestaltung, Strategie und Verhandlung | `09-vergleich-und-mediation` |
-| 5. Verfahren, Behörde und Gericht | `03-fruehe-erste-verfuegung-paragraf-139`, `06-urteil-grosses-zivilurteil`, `07-berufungsverfahren-paragraf-511-ff`, `v392-praxisraster-richter-landgericht-zivilkammer` |
-| 8. Spezialmodule und Schnittstellen | `02-grosse-relation-zivilrecht`, `08-kostenentscheidung-und-streitwert`, `10-entscheidungsvorschlag-kammer`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+| 1. Einstieg und Fallrouting | [`01-eingang-und-besetzung`](skills/01-eingang-und-besetzung/SKILL.md) |
+| 2. Unterlagen, Sachverhalt und Quellen | [`04-beweisbeschluss-und-sachverstaendiger`](skills/04-beweisbeschluss-und-sachverstaendiger/SKILL.md), [`05-zeugenbeweis-und-parteivernehmung`](skills/05-zeugenbeweis-und-parteivernehmung/SKILL.md) |
+| 4. Gestaltung, Strategie und Verhandlung | [`09-vergleich-und-mediation`](skills/09-vergleich-und-mediation/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`03-fruehe-erste-verfuegung-paragraf-139`](skills/03-fruehe-erste-verfuegung-paragraf-139/SKILL.md), [`06-urteil-grosses-zivilurteil`](skills/06-urteil-grosses-zivilurteil/SKILL.md), [`07-berufungsverfahren-paragraf-511-ff`](skills/07-berufungsverfahren-paragraf-511-ff/SKILL.md), [`v392-praxisraster-richter-landgericht-zivilkammer`](skills/v392-praxisraster-richter-landgericht-zivilkammer/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`02-grosse-relation-zivilrecht`](skills/02-grosse-relation-zivilrecht/SKILL.md), [`08-kostenentscheidung-und-streitwert`](skills/08-kostenentscheidung-und-streitwert/SKILL.md), [`10-entscheidungsvorschlag-kammer`](skills/10-entscheidungsvorschlag-kammer/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
@@ -121,22 +133,22 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-eingang-und-besetzung` | Wenn es um 01 Eingang und Besetzung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `02-grosse-relation-zivilrecht` | Wenn es um 02 Große Relation Zivilrecht in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `03-fruehe-erste-verfuegung-paragraf-139` | Wenn es um 03 Frühe Erste Verfügung Paragraf 139 in Zivilkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `04-beweisbeschluss-und-sachverstaendiger` | Wenn es um 04 Beweisbeschluss und Sachverständiger in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `05-zeugenbeweis-und-parteivernehmung` | Wenn es um 05 Zeugenbeweis und Parteivernehmung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `06-urteil-grosses-zivilurteil` | Wenn es um 06 Urteil Großes Zivilurteil in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `07-berufungsverfahren-paragraf-511-ff` | Wenn es um 07 Berufungsverfahren Paragraf 511 Ff in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
-| `08-kostenentscheidung-und-streitwert` | Wenn es um 08 Kostenentscheidung und Streitwert in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `09-vergleich-und-mediation` | Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `10-entscheidungsvorschlag-kammer` | Wenn es um 10 Entscheidungsvorschlag Kammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Urteil Zivilkammer) in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigke... |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
-| `v392-praxisraster-richter-landgericht-zivilkammer` | Wenn es um Praxisraster Landgericht Zivilkammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`01-eingang-und-besetzung`](skills/01-eingang-und-besetzung/SKILL.md) | Wenn es um 01 Eingang und Besetzung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| [`02-grosse-relation-zivilrecht`](skills/02-grosse-relation-zivilrecht/SKILL.md) | Wenn es um 02 Große Relation Zivilrecht in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`03-fruehe-erste-verfuegung-paragraf-139`](skills/03-fruehe-erste-verfuegung-paragraf-139/SKILL.md) | Wenn es um 03 Frühe Erste Verfügung Paragraf 139 in Zivilkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`04-beweisbeschluss-und-sachverstaendiger`](skills/04-beweisbeschluss-und-sachverstaendiger/SKILL.md) | Wenn es um 04 Beweisbeschluss und Sachverständiger in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`05-zeugenbeweis-und-parteivernehmung`](skills/05-zeugenbeweis-und-parteivernehmung/SKILL.md) | Wenn es um 05 Zeugenbeweis und Parteivernehmung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`06-urteil-grosses-zivilurteil`](skills/06-urteil-grosses-zivilurteil/SKILL.md) | Wenn es um 06 Urteil Großes Zivilurteil in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`07-berufungsverfahren-paragraf-511-ff`](skills/07-berufungsverfahren-paragraf-511-ff/SKILL.md) | Wenn es um 07 Berufungsverfahren Paragraf 511 Ff in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
+| [`08-kostenentscheidung-und-streitwert`](skills/08-kostenentscheidung-und-streitwert/SKILL.md) | Wenn es um 08 Kostenentscheidung und Streitwert in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| [`09-vergleich-und-mediation`](skills/09-vergleich-und-mediation/SKILL.md) | Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| [`10-entscheidungsvorschlag-kammer`](skills/10-entscheidungsvorschlag-kammer/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Kammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Zivilkammer) in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigke... |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`v392-praxisraster-richter-landgericht-zivilkammer`](skills/v392-praxisraster-richter-landgericht-zivilkammer/SKILL.md) | Wenn es um Praxisraster Landgericht Zivilkammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -115,5 +115,3 @@ Stand: 05/2026.
 - SGB VI.
 - BAfoeG § 16.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schlüssel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Prüfhinweis ohne Marker) -->

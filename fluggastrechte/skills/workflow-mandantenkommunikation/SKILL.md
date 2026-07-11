@@ -37,5 +37,5 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **fluggastrechte*
 - Anspruchsgrundlage: VO 261/2004 (innerhalb EU), Montrealer Übereinkommen (international), Pauschalreise §§ 651a ff. BGB.
 - Pauschalbetrag: 250 EUR (Kurzstrecke bis 1.500 km), 400 EUR (Mittelstrecke bis 3.500 km bzw. innereuropäisch über 1.500), 600 EUR (Langstrecke über 3.500 km).
 - Vorgehen: 1) Anspruchsschreiben an Airline mit kurzer Frist (2-3 Wochen), 2) bei Ablehnung Schlichtung söp/BAF oder Klage AG Abflug/Ankunft, 3) Aufrechnung mit Erstattung Flugticket möglich.
-- Kostenrisiko: AG-Klage bis 5.000 EUR ohne Anwaltszwang; ab 5.000 EUR LG. RA-Gebühren auf Mandantenseite oft niedriger als Inkasso-Provision (15-30 %).
+- Kostenrisiko: Bei der typischen Zahlungsklage Amtsgericht bis einschließlich 10.000 Euro ohne Anwaltszwang, darüber Landgericht mit Anwaltszwang; Gebühren und Prozessrisiko konkret nach Streitwert berechnen statt pauschal mit einer Inkassoprovision zu vergleichen.
 - Kein Anspruch bei außergewöhnlichen Umständen (Art. 5 Abs. 3 VO 261/2004): aber eng auszulegen — technische Defekte sind grds. kein außergewöhnlicher Umstand (EuGH Wallentin-Hermann).

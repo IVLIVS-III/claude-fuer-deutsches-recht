@@ -1,77 +1,46 @@
 ---
 name: workflow-datenschutz-hausverwaltung
-description: "Wenn es um Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Prüft Datenschutzfragen in Mietshaus, WEG und Hausverwaltung. Bestimmt Verantwortlichen, Zweck, Rechtsgrundlage, Empfängerkreis, Löschung und Betroffenenrechte für Kameras, Klingelschilder, Verteiler und Verwaltungsdaten und liefert Beschluss, Information, Auskunft und Abwehrschreiben."
 ---
 
-# Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht
+# Datenschutz in Hausverwaltung und Wohnanlage prüfen
 
+## 1. Einsatzlage
 
-## Arbeitsweg
+Eine Gemeinschaft, ein Vermieter oder eine Hausverwaltung verarbeitet Bewohner-, Besucher- oder Beschäftigtendaten, etwa durch Kameras, Zutrittssysteme, Klingelschilder, E-Mail-Verteiler oder Weitergabe von Kontaktdaten. Mietvertrag, WEG-Verwaltung und Datenschutzrollen müssen getrennt bestimmt werden.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Normenanker
 
-**Fokus:** Datenschutz Hausverwaltung: Prüfungslinie für Miet- und WEG-Recht; prüft Datenweitergabe, Klingelschilder, Kameras, Umläufe und Auskunft; mit Kaltstart, Fristencheck, Belegmatrix, Anschluss-Skills und nutzbarem Output.
+- Artikel 5, 6 Absatz 1 Buchstaben b, c und f sowie Artikel 9 DSGVO: Grundsätze, Vertrag, Rechtspflicht, Interessenabwägung und besondere Daten.
+- Artikel 13 bis 18 und 21 DSGVO: Information, Auskunft, Berichtigung, Löschung und Widerspruch.
+- Artikel 24, 25, 28, 30 und 32 DSGVO: Verantwortung, datenschutzfreundliche Gestaltung, Auftragsverarbeitung, Verzeichnis und Sicherheit.
+- Paragraf 4 BDSG: Videoüberwachung öffentlich zugänglicher Räume, soweit der erfasste Bereich öffentlich zugänglich ist.
+- Paragrafen 9a, 18, 19, 23 und 27 WEG: Gemeinschaft als Rechtsträger, Verwaltung, Beschluss und Aufgaben des Verwalters.
 
-### Datenschutz Hausverwaltung
+## 3. Rechtsprechungsanker
 
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenschutz Hausverwaltung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
-- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+- EuGH, Urteil vom 11. Dezember 2019 - C-708/18, TK: Videoüberwachung in Gemeinschaftsbereichen eines Wohngebäudes kann ohne Einwilligung auf ein berechtigtes Interesse gestützt werden, wenn sie erforderlich ist und eine konkrete, verhältnismäßige Interessenabwägung trägt.
+- BGH, Urteil vom 24. Mai 2013 - V ZR 220/12: Eine Videoüberwachung im Eingangsbereich einer Wohnanlage verlangt ein konkret festgelegtes überwiegendes Gemeinschaftsinteresse, notwendige Begrenzungen und verbindliche Regeln zu Umfang, Speicherung und Zugriff. Die Entscheidung beruhte auf altem Datenschutzrecht; ihre WEG- und Abwägungsgrundsätze sind nur zusammen mit der heutigen DSGVO anzuwenden.
+- Entscheidungen zu Betriebskosten wie VIII ZR 118/19, VIII ZR 84/07 und VIII ZR 249/15 beantworten keine Datenschutzfrage.
 
-## Einstieg
-Arbeite zuerst mit vorhandenen Unterlagen. Frage nur, was die nächste Entscheidung verändert:
-1. Rolle und Ziel der fragenden Person.
-2. Objekt und Rechtsverhältnis: Wohnraum, Gewerberaum, WEG, Hausverwaltung oder Mischfall.
-3. Frist, Zugang, Termin oder Eilrisiko.
-4. Vorhandene Belege und fehlende Schlüsselunterlagen.
-5. Gewünschter Output: Erklärung, Tabelle, Brief, Beschluss, Schriftsatz oder Verhandlungsplan.
+## 4. Prüfprogramm
 
-## Arbeitsworkflow
-1. **Kurzlage:** Falltyp, Frist, Risiko, Unterlagen und Ziel in fünf Zeilen.
-2. **Weichen:** Zwei bis fünf entscheidende Fragen isolieren; keine Vollprüfung ohne Anlass.
-3. **Belege:** Dokumente, Fotos, Nachrichten, Rechnungen und Protokolle verwerten; Lückenliste erzeugen.
-4. **Recht:** Normen aus BGB, WEG, BetrKV, HeizkostenV, GEG/CO2KostAufG nur in aktueller Fassung verwenden.
-5. **Anschluss:** Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
-6. **Output:** Handlungsfähiges Ergebnis mit nächstem Schritt, Frist und Verantwortlichem.
+1. Rechtsverhältnis und Rolle festlegen: Vermieter, Gemeinschaft der Wohnungseigentümer, Verwalter, Dienstleister oder gemeinsam Verantwortliche.
+2. Verarbeitung konkret beschreiben: betroffene Personen, Daten, Erhebung, Zweck, Speicherort, Empfänger, Zugriff und Löschfrist.
+3. Rechtsgrundlage pro Zweck bestimmen. Einwilligung nicht als bequeme Standardlösung verwenden, wenn sie nicht freiwillig oder widerrufsfest ist.
+4. Bei berechtigtem Interesse Zweck, Erforderlichkeit und Interessenabwägung dokumentieren. Mildere Mittel wie Beleuchtung, Schließsystem oder anlassbezogene Auswertung prüfen.
+5. WEG-Beschluss auf Kompetenz, Bestimmtheit und ordnungsmäßige Verwaltung prüfen. Datenschutzrechtliche Unzulässigkeit wird durch Einstimmigkeit nicht geheilt.
+6. Transparenz und Betroffenenrechte umsetzen: verständliche Information, Identitätsprüfung, Suchlauf, Schwärzung fremder Daten und fristgerechte Antwort.
+7. Auftragsverarbeitung, Zugriffskontrolle, Protokollierung, Löschung und Datenpanne organisatorisch absichern.
 
-## Qualitätsmaßstab
-- Für Laien klar erklären, welche Gefahr besteht und was heute zu tun ist.
-- Für Berufsanfänger sichtbar machen, welche Anspruchsgrundlage, Beweislast und Frist den Fall trägt.
-- Für erfahrene Nutzer knapp bleiben und auf den entscheidenden Streitpunkt zielen.
+## 5. Arbeitsergebnis
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+Erstelle Rollen- und Datenflussmatrix, Interessenabwägung, Lösch- und Berechtigungskonzept, Beschlussvorschlag, Datenschutzhinweis sowie Antwort auf Auskunft, Löschung oder Widerspruch. Jede Verarbeitung erhält genau einen dokumentierten Zweck.
 
-## Normen und Rechtsprechung
+## 6. Belege und Aktenlücken
 
-### Kuratierte Normen-Bibliothek
-
-- § 20 WEG
-- § 16 WEG
-- § 44 WEG
-- § 49 GKG
-- § 23 WEG
-- § 45 WEG
-- § 24 WEG
-- § 9a WEG
-- § 25 WEG
-- § 19 WEG
-- § 9b WEG
-- § 10 WEG
-
-### Leitentscheidungen
-
-- BGH VIII ZR 118/19
-- BGH VIII ZR 84/07
-- BGH VIII ZR 249/15
+- Teilungserklärung, Verwaltervertrag und einschlägige Beschlüsse
+- Mietvertrag und Datenschutzhinweise
+- Kamera-, Zutritts- oder Kommunikationskonzept
+- Dienstleister- und Auftragsverarbeitungsverträge
+- Zugriffsprotokolle, Löschregeln und Betroffenenanträge

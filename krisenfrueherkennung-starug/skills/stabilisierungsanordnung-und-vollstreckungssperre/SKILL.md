@@ -228,8 +228,3 @@ Mit freundlichen Grüßen
 4. **3-Monats-Frist ausreichend?** Ist Plan innerhalb von 3 Monaten abstimmungsreif?
 
 ---
-<!-- AUDIT 27.05.2026 | Bundle 036
-Rechtsprechung live prüfen: Thema und Fundstelle nur mit freier/amtlicher Quelle dokumentieren.
-Rechtsprechung live prüfen: Falsche Themenzuordnung ohne verifizierte Quelle nicht ausgeben.
-Kein echter StaRUG-Bezug. Aktion: Eintrag geloescht.
--->

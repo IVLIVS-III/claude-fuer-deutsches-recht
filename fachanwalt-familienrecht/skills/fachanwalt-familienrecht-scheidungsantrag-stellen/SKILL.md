@@ -42,9 +42,7 @@ description: "Wenn es um Fachanwalt Familienrecht Scheidungsantrag Stellen in Fa
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Scheidungsantrag
 
@@ -58,7 +56,6 @@ description: "Wenn es um Fachanwalt Familienrecht Scheidungsantrag Stellen in Fa
 | 4 | Scheitern der Ehe feststellbar? | Paragraf 1565 Abs. 1 BGB | Unwiderlegbar bei Paragraf 1566 Abs. 1 oder 2 BGB; sonst Einzelfallprüfung |
 | 5a | Trennungsjahr abgelaufen (> 1 Jahr)? | Paragraf 1566 Abs. 1 BGB | Bei beiderseitigem Antrag: Zerrüttung unwiderlegbar |
 | 5b | Drei Jahre Trennung? | Paragraf 1566 Abs. 2 BGB | Auch einseitig möglich; Zerrüttung unwiderlegbar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Härteklausel Versagung? | Paragraf 1568 BGB | Ausnahme: Kindeswohl oder schwere Folgen für Ehegatten; praktisch selten |
 | 7 | Verbundsachen? | Paragraf 137 FamFG | Versorgungsausgleich von Amts wegen; andere Folgesachen auf Antrag |
 | 8 | Versorgungsausgleich ausschließbar? | Paragraf 6 VersAusglG | Nur durch notarielle Vereinbarung oder Gerichtsentscheid |
@@ -327,12 +324,3 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 - VersAusglG: https://www.gesetze-im-internet.de/versausglg/
 - BGH XII ZB 277/12: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20277/12
 - BGH XII ZB 607/15: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20607/15
-
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 1
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC + falsches Datum
-und betrifft ehebedingte Nachteile nach Paragraf 1578b BGB (nachehelicher Unterhalt) – nicht
-Abtrennung des Versorgungsausgleichs nach Paragraf 142 FamFG.
-Maßnahme: Zeile aus Leitentscheidungen-Tabelle gelöscht.
-Hinweis: Die Abtrennung von Folgesachen ist in Paragraf 140 FamFG geregelt (nicht Paragraf 142 FamFG).
--->

@@ -107,7 +107,6 @@ Für **Kündigung** und **Aufhebungsvertrag** gilt Paragraf 623 BGB: Schriftform
 
 | Vorgang | Form | qES möglich? |
 |----|----|----|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Kündigung des Arbeitsverhältnisses (Paragraf 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; Paragraf 46h ArbGG im Prozess prüfen |
 | Aufhebungsvertrag (Paragraf 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; Paragraf 46h ArbGG im Prozess prüfen |
 | Arbeitszeugnis (Paragraf 109 GewO) | Schriftform — elektronische Form ausgeschlossen | **Nein** |

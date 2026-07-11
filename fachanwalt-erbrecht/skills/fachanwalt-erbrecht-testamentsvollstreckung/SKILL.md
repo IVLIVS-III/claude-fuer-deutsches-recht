@@ -42,7 +42,6 @@ description: "Wenn es um Testamentsvollstreckung in Fachanwalt Erbrecht geht: pr
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — TV-Amtsführung
 
@@ -181,7 +180,6 @@ TV haftet für schuldhafte Pflichtverletzung nach §§ 276, 278 BGB (Verschulden
 
 | Wichtiger Grund | Beispiele |
 |----------------|---------|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Unfähigkeit | Krankheit, Inkompetenz, Überforderung |
 | Vermögensverfall | Insolvenz des TV; Sicherungsbedarf |
 | Dauerhafter Streit | Destruktiver Konflikt mit allen Erben der Amtsführung entgegenstehend |
@@ -321,7 +319,6 @@ Anlagen: Beweise für Pflichtverletzungen
 |--------------|---------|
 | "TV-Vergütung nach Hamburger Tabelle zu hoch" | Nachlassgericht-Festsetzung § 2221 BGB; besondere Schwierigkeiten und Umfang der Tätigkeit beachten |
 | "TV-Annahme zu spät" | BGH: Aufgabe des Amts = Nichtannahme wenn unverhältnismäßig lange Untätigkeit; Nachlassgericht ernennt Ersatz § 2200 BGB |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Rechnungslegung erfolgte mündlich" | § 2218 BGB verlangt nachvollziehbare Rechnungslegung; mündlich regelmäßig nicht ausreichend |
 | "Erben haben Entlastung erteilt" | Formlose Entlastung schließt Haftung für unbekannte Pflichtverletzungen nicht aus |
 

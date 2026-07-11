@@ -2,20 +2,54 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 77 Skills des Plugins `fachanwalt-internationales-wirtschaftsrecht`.
+Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-internationales-wirtschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlage…
-2. **mandat-triage-iwr** — Wenn es um Mandat Triage Iwr in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-3. **fachanwalt-internationales-wirtschaftsrecht-orientierung** — Wenn es um Fachanwalt für Internationales Wirtschaftsrecht — Orientierung in Fachanwalt Internationales Wirtschaftsrecht…
-4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständi…
-5. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Internationales Wirtschaftsrecht geht: k…
-6. **spezial-grenzueberschreitender-vertragsstreit** — Wenn es um Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung in Fachanwalt Internatio…
-7. **uncitral-schriftsatz-brief-und-memo-bausteine** — Wenn es um Uncitral: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Internationales Wirtschaftsrecht geht: erstel…
-8. **einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht** — Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fachanwalt Internationales Wirtschaftsrecht…
-9. **aussenhandel-zahlen-schwellen-und-berechnung** — Wenn es um Aussenhandel: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Internationales Wirtschaftsrecht geht: rech…
-10. **fachanwalt-iwr-brussels-ia-zustaendigkeit** — Wenn es um Brüssel-Ia-VO Internationale Zuständigkeit in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den …
+1. **internationaler-prozess-versandmappe-endfertigen** — Endfertigt grenzüberschreitende Klagen, Erwiderungen und Schiedsschriftsätze: klärt Forum, Verfahrenssprache, Zustellung…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlage…
+3. **mandat-triage-iwr** — Wenn es um Mandat Triage Iwr in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+4. **fachanwalt-internationales-wirtschaftsrecht-orientierung** — Wenn es um Fachanwalt für Internationales Wirtschaftsrecht — Orientierung in Fachanwalt Internationales Wirtschaftsrecht…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständi…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Internationales Wirtschaftsrecht geht: k…
+7. **spezial-grenzueberschreitender-vertragsstreit** — Wenn es um Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung in Fachanwalt Internatio…
+8. **intra-eu-investitionsschiedsverfahren-achmea** — Prüft Investitionsschiedsverfahren mit Unionsbezug nach Achmea, Komstroy und PL Holdings. Trennt intra- und extra-uniona…
+9. **uncitral-schriftsatz-brief-und-memo-bausteine** — Wenn es um Uncitral: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Internationales Wirtschaftsrecht geht: erstel…
+10. **einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht** — Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fachanwalt Internationales Wirtschaftsrecht…
+
+---
+
+## Skill: `internationaler-prozess-versandmappe-endfertigen`
+
+_Endfertigt grenzüberschreitende Klagen, Erwiderungen und Schiedsschriftsätze: klärt Forum, Verfahrenssprache, Zustellung, Übersetzung, Rechtswahl und Vollstreckungsziel, trennt deutsches Gericht, ausländisches Gericht und Schiedsverfahren und liefert eine kanalgerechte Versandmappe mit Vertrags-, Liefer- und Schadensbeweisen._
+
+# Internationale Prozess-Versandmappe endfertigen
+
+## 1. Forum und Kanal sperrend klären
+
+Lies Schriftsatz, Vertrag, Gerichtsstands- oder Schiedsklausel, Zustellungsnachweise und Korrespondenz zuerst. Bestimme, ob an ein deutsches Gericht, ausländisches Gericht, institutionelles oder Ad-hoc-Schiedsgericht eingereicht wird. beA ist nur der Übermittlungsweg zu einem teilnehmenden deutschen Gericht; institutionelle Uploadsysteme und ausländische Kanäle werden nach ihrem aktuellen Regelwerk produziert.
+
+## 2. Grenzüberschreitende Pflichtprüfung
+
+1. Parteien mit Registername, Sitz, Rechtsform und vertretungsberechtigter Person abgleichen.
+2. Internationale und örtliche Zuständigkeit, Schiedseinrede und Rechtshängigkeit als eigene Prüffelder führen.
+3. Rechtswahl, CISG-Ein- oder Ausschluss und zwingendes Recht vom Verfahrensrecht trennen.
+4. Verfahrenssprache, beglaubigte oder einfache Übersetzung und Zustellung im Ausland festlegen.
+5. Anerkennungs- und Vollstreckungsziel bereits bei Antrag, Zinsen und Bezeichnung des Schuldners berücksichtigen.
+
+## 3. Dokumenten- und Übersetzungsmatrix
+
+Ordne Vertrag nebst Anlagen und Fassungen, Bestellung, Auftragsbestätigung, Liefer- und Zolldokumente, Abnahme, Mängelanzeigen, Rechnungen, Zahlungen und Schadensbelege. Jede Übersetzung wird mit Ausgangsdokument, Sprache, Übersetzerstatus und Vollständigkeit verknüpft. Fremdsprachige Beweismittel nicht stillschweigend paraphrasieren; Original und Übersetzung bleiben getrennte Dateien.
+
+## 4. Rechts- und Versandanker
+
+- Brüssel-Ia-Verordnung, Haager Zustellungsübereinkommen, EU-Zustellungsverordnung und New Yorker Übereinkommen nur nach räumlichem und sachlichem Anwendungsbereich einsetzen.
+- EuGH, Urteil vom 8. Februar 2024, C-566/22: Auch die Vereinbarung von Gerichten eines anderen Mitgliedstaats zwischen Parteien mit Sitz im selben Mitgliedstaat kann den für Artikel 25 Brüssel-Ia-Verordnung erforderlichen Auslandsbezug begründen.
+- Bei deutschem Gericht gelten ERVV und die sichere elektronische Übermittlung; bei Schiedsverfahren entscheidet ausschließlich die geltende Verfahrensordnung über Portal, Dateiformat und Frist.
+
+## 5. Auslieferung
+
+Liefere getrennte Ordner je Forum mit Hauptdokument, Einzelanlagen, Übersetzungsmatrix, Zustellungsplan, Fristenblatt, Manifest und Empfangskontrolle. Stoppe bei ungeklärtem Forum, widersprüchlicher Parteibezeichnung, fehlender maßgeblicher Sprachfassung oder nicht verifizierter Einreichungsregel.
 
 ---
 
@@ -611,11 +645,7 @@ Naechster Schritt: [MASSNAHME] bis [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-<!-- AUDIT 27.05.2026
-Problem : BGH VI ZR 174/20 (NJW 2022, 300) – NOT_FOUND; dejure.org bestätigt: keine Entscheidung des BGH vom 26.10.2021 mit diesem Aktenzeichen vorhanden.
-Maßnahme: Ersetzt durch BGH III ZR 283/18, 17.09.2020, NJW 2020, 3451 (Interessenkollision/§ 43a BRAO, verifiziert auf dejure.org).
-Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.09.2020&Aktenzeichen=III+ZR+283%2F18
--->
+
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -726,6 +756,55 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `intra-eu-investitionsschiedsverfahren-achmea`
+
+_Prüft Investitionsschiedsverfahren mit Unionsbezug nach Achmea, Komstroy und PL Holdings. Trennt intra- und extra-unionale Konstellation, BIT, Energiecharta, Schiedsordnung, Sitz, Zuständigkeit, Aufhebung und Vollstreckung und liefert Forumsmatrix und Angriffsstrategie._
+
+# Investitionsschiedsverfahren mit Unionsbezug prüfen
+
+## 1. Einsatzlage
+
+Ein Investor beruft sich gegenüber einem Staat auf ein bilaterales Investitionsschutzabkommen, die Energiecharta, das ICSID-Übereinkommen oder eine gesonderte Schiedsvereinbarung. Die bloße Bezeichnung als ICSID-Verfahren beantwortet weder die unionsrechtliche Wirksamkeit der Zustimmung noch Zuständigkeit, Aufhebung oder Vollstreckbarkeit.
+
+## 2. Normenanker
+
+- Artikel 19 EUV sowie Artikel 267 und 344 AEUV: Autonomie, Vorabentscheidung und unionsinterne Streitbeilegung.
+- Das konkrete BIT, Artikel 26 des Energiecharta-Vertrags oder das maßgebliche Investitionsschutzkapitel: persönliche, sachliche und zeitliche Reichweite sowie Zustimmung zur Schiedsgerichtsbarkeit.
+- ICSID-Übereinkommen, besonders Artikel 25, 41, 52 und 54: Zuständigkeit, Kompetenz-Kompetenz, Aufhebung und Anerkennung.
+- Paragrafen 1025 bis 1066 ZPO, besonders Paragrafen 1040, 1059 und 1061 ZPO: Verfahren mit deutschem Schiedsort, Aufhebung und Vollstreckbarerklärung nicht-ICSID-basierter Schiedssprüche.
+- New Yorker Übereinkommen, besonders Artikel V, für Anerkennung und Vollstreckung außerhalb des ICSID-Regimes.
+
+## 3. Rechtsprechungsanker
+
+- EuGH, Urteil vom 6. März 2018 - C-284/16, Achmea: Artikel 267 und 344 AEUV stehen einer Schiedsklausel in einem intra-unionalen BIT entgegen, wenn das Schiedsgericht unionsrechtliche Fragen entscheiden kann, ohne hinreichend in das unionsrechtliche Gerichtssystem eingebunden zu sein. Der Ausgangsfall war kein ICSID-Verfahren.
+- EuGH, Urteil vom 2. September 2021 - C-741/19, Komstroy: Artikel 26 Energiecharta ist auf Streitigkeiten zwischen einem Investor eines Mitgliedstaats und einem anderen Mitgliedstaat nicht anwendbar.
+- EuGH, Urteil vom 26. Oktober 2021 - C-109/20, PL Holdings: Ein Mitgliedstaat darf die unwirksame intra-unionale BIT-Klausel nicht durch eine inhaltsgleiche ad-hoc-Schiedsvereinbarung ersetzen.
+- Diese Entscheidungen erlauben nicht die Kurzformel, jedes ICSID-Verfahren gegen einen EU-Mitgliedstaat sei stets unzulässig. Drittstaateninvestor, Vertrag, Schiedsgrundlage und Vollstreckungsforum sind eigenständig zu prüfen.
+
+## 4. Prüfprogramm
+
+1. Investor, Kontrolle, Sitz, Staatsangehörigkeit, Investition, Gaststaat und maßgebliche Zeitpunkte feststellen. Treaty Shopping und Umstrukturierung vor Streitbeginn prüfen.
+2. Rechtsgrundlage exakt identifizieren: BIT, Energiecharta, Investitionsvertrag, nationales Investitionsgesetz oder Schiedsvereinbarung. Kündigung, Sunset-Klausel und intra-unionale Beendigung erfassen.
+3. Schiedsforum und Ordnung bestimmen: ICSID, ICSID Additional Facility, UNCITRAL, SCC oder institutionelle Alternative. Achmea war nicht ICSID; Rechtsfolgen nicht über die Verfahrensbezeichnung verallgemeinern.
+4. Zuständigkeit getrennt nach ratione personae, materiae, temporis und voluntatis prüfen. Unionsrechtliche Einwände und völkerrechtliche Gegenposition sichtbar nebeneinanderstellen.
+5. Zulässigkeit und merits nicht vermischen. Cooling-off, waiver, fork-in-the-road, denial of benefits, local remedies und Missbrauch gesondert abarbeiten.
+6. Sitz- und Kontrollrecht bestimmen. Bei nicht-ICSID-basiertem Spruch Aufhebungs- und Vollstreckungsforum samt ordre public planen; bei ICSID das autonome Aufhebungs- und Vollstreckungsregime prüfen.
+7. Staatliche Immunität und pfändbare Vermögenswerte länderspezifisch untersuchen. Anerkennung eines Spruchs ist nicht gleich Vollstreckbarkeit in hoheitlich genutztes Vermögen.
+
+## 5. Arbeitsergebnis
+
+Erstelle Treaty- und Parteienmatrix, Zuständigkeitsbaum, Achmea-/Komstroy-Prüfung, Verfahrenskalender, Aufhebungs- und Vollstreckungslandkarte sowie einen ausformulierten Einwand oder eine Anspruchsbegründung. Jede Aussage wird dem richtigen Verfahrensregime zugeordnet.
+
+## 6. Belege und Aktenlücken
+
+- vollständiger Vertragstext samt Protokollen, Kündigung und Sunset-Klausel
+- Beteiligungs- und Kontrollkette des Investors
+- Investitions-, Genehmigungs- und Umstrukturierungsunterlagen
+- Notice of Dispute, Consent, Request for Arbitration und Verfahrensordnung
+- Schiedsspruch, Schiedsort und geplante Vollstreckungsstaaten
 
 ---
 
@@ -893,258 +972,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-## Skill: `aussenhandel-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Aussenhandel: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Internationales Wirtschaftsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Aussenhandel: Zahlen, Schwellenwerte und Berechnung
-
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
-- Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung.
-
-## Spezialwissen: Aussenhandel: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aussenhandel** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `fachanwalt-iwr-brussels-ia-zustaendigkeit`
-
-_Wenn es um Brüssel-Ia-VO Internationale Zuständigkeit in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Brüssel-Ia-VO Internationale Zuständigkeit
-
-## Zweck
-
-Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Brüssel-Ia).
-
-## 1) Eingangs-Abfrage
-
-1. Sitz Kläger und Beklagter?
-2. Streitgegenstand (Vertrag, Delikt, Verbraucher, Arbeitnehmer, Sachenrecht)?
-3. Erfüllungsort der Hauptleistung?
-4. Gerichtsstands-Vereinbarung vorhanden?
-5. Eilbedürftigkeit?
-
-## 2) Allgemeiner Gerichtsstand Art. 4 VO
-
-- **Beklagter-Wohnsitz / Sitz** in EU-Mitgliedstaat
-- Bei juristischer Person: Satzungssitz, Hauptverwaltung, Hauptniederlassung (Art. 63)
-- Standard für alle Streitigkeiten
-
-## 3) Besonderer Gerichtsstand Art. 7
-
-### Vertragsrecht Art. 7 Nr. 1
-
-- **Erfüllungsort der vertraglichen Leistung**
-- **Lit. b**: Bei Warenkauf — Lieferort
-- **Lit. b**: Bei Dienstleistungs-Vertrag — Erbringungsort
-- Bei anderen Verträgen: charakteristische Leistung
-
-### Deliktsrecht Art. 7 Nr. 2
-
-- **Tatort** der unerlaubten Handlung
-- Erfolgsort UND Handlungsort
-- BGH-Linie und EuGH-Linie
-
-### Niederlassungs-Streitigkeit Art. 7 Nr. 5
-
-- Streitigkeit aus Betrieb einer Zweigniederlassung
-- Sitz der Niederlassung
-
-## 4) Verbraucherschutz Art. 17-19
-
-### Verbraucher
-
-- Vertrag für privaten Zweck
-- Beruflicher Empfänger ausgeschlossen
-
-### Klagestand Verbraucher
-
-- Art. 18 I: Verbraucher kann am **eigenen Wohnsitz** klagen
-- Verbraucher-Klage gegen Unternehmer am eigenen Wohnsitz
-
-### Klage gegen Verbraucher
-
-- Art. 18 II: Nur am Wohnsitz des Verbrauchers
-
-### "Targeting Test" Art. 17 I c)
-
-- Unternehmer richtet Aktivitäten gezielt auf Mitgliedstaat des Verbrauchers
-- Website in Sprache, Waehrung, Versand-Adresse
-
-## 5) Arbeitnehmerschutz Art. 20-23
-
-- AN kann an Sitz des AG oder gewoehnlichem Arbeitsort klagen
-- AG kann nur am Wohnsitz des AN klagen
-- Gerichtsstands-Klausel nur nachtraeglich wirksam
-
-## 6) Gerichtsstands-Vereinbarung Art. 25
-
-### Voraussetzungen
-
-- **Schriftform** oder elektronisch (mit Bestätigung)
-- **Beide Parteien zustimmen**
-- Geltend für kuenftige Streitigkeiten
-
-### Asymmetrische Klauseln
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- "A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
-
-## 7) Ausschließliche Zuständigkeit Art. 24
-
-### Sachenrecht Immobilien
-
-- Lage der Sache
-
-### Gesellschafts-Beschlüsse
-
-- Sitz der Gesellschaft
-
-### Eintragungen Register
-
-- Sitz Register-Gericht
-
-## 8) Workflow
-
-### Schritt 1 — Sachverhaltsanalyse
-
-- Vertraglich, deliktisch, sachenrechtlich?
-- Sitze beider Parteien
-- Erfüllungsort
-
-### Schritt 2 — Gerichtsstands-Prüfung
-
-- Allgemein Art. 4 (Beklagter-Sitz)
-- Besonderer Stand Art. 7
-- Bei Verbraucher: Art. 17-19
-- Vereinbarung Art. 25 vorrangig
-
-### Schritt 3 — Klage-Strategie
-
-- Gerichts-Wahl (Forum-Shopping bei mehreren Gerichtsstaenden)
-- Sprache des Verfahrens
-- Vollstreckungs-Erleichterung im Empfängerstaat
-
-## 9) Anerkennung / Vollstreckung
-
-- Art. 36: Urteil eines MS wird in anderem MS **ohne Anerkennungsverfahren** anerkannt
-- Art. 39: Vollstreckung ohne Vollstreckungserklärung
-- Versagungs-Gründe Art. 45 / 46 begrenzt
-
-## 10) Drittstaaten
-
-- Nicht Bruessel-Ia (VO (EU) Nr. 1215/2012: https://eur-lex.europa.eu/eli/reg/2012/1215)
-- Nationales IZPR (§§ 12 ff. ZPO bei DE): https://www.gesetze-im-internet.de/zpo/__12.html
-- **Haager Uebereinkommen ueber Gerichtsstandsvereinbarungen 2005** (HGUe; EU-Vertragsstaat seit 01.10.2015): https://www.hcch.net/en/instruments/conventions/full-text/?cid=98
-- **HAVUe 2019** (Haager Uebereinkommen ueber die Anerkennung und Vollstreckung auslaendischer Urteile in Zivil- und Handelssachen; EU-Beitritt 29.08.2022; in Kraft fuer EU + Ukraine seit 01.09.2023; Daenemark nicht gebunden gem. Art. 27 HAVUe): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137
-- Brexit-Folge: UK seit 01.01.2021 nicht mehr Bruessel-Ia-Vertragsstaat; UK hat HAVUe am 12.01.2024 unterzeichnet und am 27.06.2024 ratifiziert; in Kraft fuer UK seit 01.07.2025: https://www.hcch.net/en/news-archive/details/?varevent=1085
-
-## 11) Typische Fehler
-
-1. **Verbraucher-Eigenschaft übersehen** -> falsche Zuständigkeit
-2. **Erfüllungsort falsch bestimmt** bei Wahllieferung
-3. **Targeting-Test ignoriert** bei Online-Verkauf
-4. **Gerichtsstands-Klausel ohne Schriftform** -> unwirksam
-5. **Asymmetrische Klausel ungenau gestaltet** -> Streit
-
-## 12) EuGH-/BGH-Linien
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Anschluss
-
-- `fachanwalt-iwr-cisg-anwendbarkeit` — bei materiellem Warenkauf
-- `fachanwalt-iwr-embargo-pruefung-russland` — bei Sanktions-Prüfung
-- `internationales-privatrecht` — bei IPR-Themen
-
-## Vertiefung: Triage und Output-Template Bruessel Ia
-
-### Triage — Bevor losgelegt wird, klaere:
-
-1. Haben beide Parteien Wohnsitz/Sitz in EU-Mitgliedstaaten? → Art. 4 Bruessel Ia (Beklagter-Domizil)
-2. Liegt Gerichtsstandsvereinbarung Art. 25 Bruessel Ia vor? → Ausschliessliche Zustaendigkeit
-3. Liegt Verbraucher- oder Arbeitnehmervertrag vor? → Art. 17-22 Bruessel Ia schutzspeziell
-4. Schiedsklausel statt Gerichtsstandsklausel? → Art. 1 Abs. 2 lit. d Bruessel Ia: nicht erfasst
-5. Ist eine auslaendische Entscheidung anzuerkennen? → Art. 36 ff. Bruessel Ia
-
-### Ergaenzende Leitsaetze Bruessel Ia
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Output-Template Gerichtsstand-Memo Bruessel Ia
-**Adressat:** Mandant — Tonfall: klar erklaerend, ergebnisorientiert
-
-```
-GERICHTSSTAND-MEMO (Bruessel Ia)
-Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
-Streitgegenstand: [VERTRAG / DELIKT]
-
-1. Beklagter hat Sitz in EU: JA → Art. 4 Bruessel Ia gilt
-2. Gerichtsstandsvereinbarung (Art. 25): [JA: [GERICHT] / NEIN]
-3. Besonderer Gerichtsstand (Art. 7):
-   Vertrag Art. 7 Nr. 1: Erfuellungsort = [LAND/GERICHT]
-   Delikt Art. 7 Nr. 2: Schadensort = [LAND/GERICHT]
-4. Verbraucher (Art. 17-19): [JA → Wohnsitz Verbraucher / NEIN]
-5. Empfohlenes Gericht: [GERICHT, ORT, ZUSTAENDIGKEIT]
-```
-
-<!-- AUDIT 27.05.2026
-Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
--->
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
 - ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
 - ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
-- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 155 ZVG — Einnahmen und Ausgaben; Verteilung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 155 ZVG — Einnahmen und Ausgaben; Verteilung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

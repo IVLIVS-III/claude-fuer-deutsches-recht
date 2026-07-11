@@ -27,11 +27,9 @@ description: "Wenn es um Haftbefehl und Untersuchungshaft in Staatsanwaltschaft 
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Beschluss vom 15.12.1965 - 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft steht unter strengem Verhältnismäßigkeits- und Beschleunigungsgebot.
-- Ständige Rechtsprechung des BVerfG zum Beschleunigungsgebot in Haftsachen: Verzögerungen müssen aktenkundig erklärt und durch konkrete Verfahrensförderung kompensiert werden; aktuelles Aktenzeichen vor Antragstellung verifizieren.
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug bei Durchsuchungen ist eng zu verstehen und aktenkundig zu begründen.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Digitale Ermittlungsmaßnahmen brauchen eine tragfähige gesetzliche Grundlage, Richtervorbehalt und Kernbereichsschutz.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigung und informelle Absprache dürfen die Wahrheitsfindung und Dokumentationspflicht nicht unterlaufen.
+- StPO Paragrafen 112 bis 116b sowie Paragrafen 117 bis 121: dringenden Tatverdacht, jeden Haftgrund, Verhältnismäßigkeit, mildere Mittel, Haftprüfung und die Sechsmonatskontrolle getrennt prüfen.
+- BVerfG, Beschluss vom 15. Dezember 1965, 1 BvR 513/65, BVerfGE 19, 342: Untersuchungshaft ist wegen der Unschuldsvermutung nur ausnahmsweise zulässig und muss zur Bedeutung der Sache sowie zur zu erwartenden Strafe verhältnismäßig bleiben.
+- Fluchtgefahr nicht aus der Straferwartung allein ableiten. Konkrete fluchtfördernde und fluchthemmende Umstände vollständig gegenüberstellen; bei Fortdauer jede Verzögerung und jeden Verfahrensförderungsschritt datieren.
 
 ## Antrags- bzw. Verfügungs-Bausteine
 

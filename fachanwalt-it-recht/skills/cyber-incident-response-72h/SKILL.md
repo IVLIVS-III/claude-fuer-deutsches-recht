@@ -185,7 +185,6 @@ Auftragsverarbeiter: [Forensik-Dienstleister]
 | Frage | Last | Norm |
 |---|---|---|
 | Verletzung der Meldepflicht Art. 33 | Behörde; Entlastung durch Dokumentation des Verantwortlichen | Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht) |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Entlastung Verantwortlicher | Verantwortlicher: Nachweis angemessener TOMs | Art. 82 Abs. 3 DSGVO |
 | Straftat § 202a StGB | Staatsanwaltschaft | StPO |
 | Versicherungsschutz | Versicherungsnehmer | AVB Cyber-Police |

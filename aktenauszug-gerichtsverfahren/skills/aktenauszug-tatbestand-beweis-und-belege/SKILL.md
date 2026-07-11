@@ -32,27 +32,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Normen und Rechtsprechung
 
-### Kuratierte Normen-Bibliothek
+## Quellenkontrolle
 
-- § 4 KSchG
-- § 80 VwGO
-- § 86b SGG
-- § 74 VwGO
-- § 124 VwGO
-- § 64 ArbGG
-- § 72 ArbGG
-- § 132 VwGO
-- § 123 VwGO
-- § 103 SGG
-- § 151 SGG
-- § 66 ArbGG
-
-### Leitentscheidungen
-
-- BGH VII ZB 36/20
-- BGH VI ZR 146/19
-- BGH VI ZR 84/19
-- BGH VI ZR 396/18
-- BGH VII ZR 131/13
+Ein Aktenauszug übernimmt Rechtsprechung nicht als bloße Aktenzeichenliste. Jede Entscheidung wird mit Gericht, Datum, Aktenzeichen, Fundstelle, Streitfrage, tragender Aussage und prozessualer Bedeutung erfasst. Akteneinsicht und Aktenzugang richten sich nach dem konkreten Verfahren, insbesondere Paragraf 299 ZPO, Paragraf 147 StPO, Paragraf 100 VwGO, Paragraf 120 SGG oder Paragraf 13 FamFG; Normen verschiedener Rechtswege nicht vermischen.

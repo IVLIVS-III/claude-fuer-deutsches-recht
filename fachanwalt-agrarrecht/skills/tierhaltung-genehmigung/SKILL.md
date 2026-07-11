@@ -60,7 +60,6 @@ description: "Wenn es um Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG
 
 | Gericht | Aktenzeichen | Kernaussage |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Schwellenwerte BImSchG vs. Baugenehmigung
 
@@ -86,7 +85,6 @@ description: "Wenn es um Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG
 |---|---|---|---|
 | 1 | Schwellenwert: BImSchG oder LBO? | 4. BImSchV Anhang 1 | Falsches Verfahren = Versagung |
 | 2 | UVP-Pflicht oder Vorprüfung? | § 5 UVPG, Anlage 1 | Verfahrensfehler; Bescheid anfechtbar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Geruchs-Gutachten nach GIRL | TA Luft 2021 Nr. 5.4.7 | Nachbar-Klage; Auflagen |
 | 5 | Bioaerosol-Gutachten | TA Luft 2021 Nr. 5.4.7.1 | Auflagen oder Versagung |
 | 6 | FFH-Verträglichkeit im Umkreis | § 34 BNatSchG | Versagung bei Erheblichkeit |
@@ -276,4 +274,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
-<!-- AUDIT 27.05.2026 -->

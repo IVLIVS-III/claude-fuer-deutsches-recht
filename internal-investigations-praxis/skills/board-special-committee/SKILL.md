@@ -69,7 +69,7 @@ Dieser Skill stellt sicher, dass das Special Committee ordnungsgemäß eingerich
 | § 84 AktG | Abberufung Vorstand | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__84.html) |
 | § 77 AktG | Geschäftsführung Vorstand | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__77.html) |
 | § 93 AktG | Sorgfaltspflicht | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__93.html) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
+| BGH, Urteil vom 20.09.2011 - II ZR 234/09 | Entlastung durch Rechtsrat nur bei vollständiger Information eines unabhängigen, fachlich qualifizierten Beraters und sorgfältiger Plausibilitätskontrolle; kein allgemeiner Untersuchungspflicht-Anker | [bundesgerichtshof.de](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&az=II+ZR+234%2F09&nr=57953) |
 
 ## Ausgabeformate
 
@@ -88,4 +88,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

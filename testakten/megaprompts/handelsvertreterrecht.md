@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 128 Skills (gekuerzt fuer Chat-Fenster) des Plugins `handelsvertreterrecht`.
+Diese Vollprüfung enthält top-8 von 128 Skills (gekürzt für das Arbeitsfenster) des Plugins `handelsvertreterrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -509,29 +509,6 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 9 Rom-I-VO
-- Art. 101 AEUV
-- Art. 28 DSGVO
-- § 14 UStG
-- § 19 UStG
-- § 5 ArbGG
-- § 59 VVG
-- § 1 UStG
-- § 23 GeschGehG
-- § 66c EnWG
-- Art. 17 DSGVO
-- § 75 AMG
-
-### Leitentscheidungen
-
-- EuGH C-465/04
-- EuGH C-381/19
-- EuGH C-217/05
-
 ---
 
 ## Skill: `post-contract-principal-direktgeschaeft`
@@ -706,7 +683,7 @@ ergänzen das Recht praxisnah.
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

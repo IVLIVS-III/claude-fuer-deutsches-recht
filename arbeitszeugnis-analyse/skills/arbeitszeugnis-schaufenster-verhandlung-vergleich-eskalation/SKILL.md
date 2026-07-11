@@ -7,7 +7,7 @@ description: "Wenn es um Schaufenster: Verhandlung, Vergleich und Eskalation in 
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -29,4 +29,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Verhandlungsstrategie:** Drei-Stufen-Forderung Notenkompromiss, Standard-Schlussformel (Dank/Bedauern/Zukunftswünsche), konkrete Tätigkeitsbeschreibung. Hebel Arbeitgeber: schnelle Erledigung ohne Klage spart Prozesskosten und Reputationsrisiko.
 4. **Vergleich vor Klage (Trade-off):** Notenkompromiss "gut" statt umkämpftem "sehr gut" oft besser als ungewisser Prozess; BAG ständige Rechtsprechung: Vergleichsfähig auch hinsichtlich Schlussformel und Tätigkeitsbeschreibung. Gleichzeitig: bei Klagedrohung Verhandlungsspielraum oft maximal in den ersten 2 Wochen.
 5. **Eskalation:** Bei Verweigerung Klage Arbeitsgericht (Paragrafen 46 ff. ArbGG); Klageantrag formuliert auf Erteilung mit konkretem Text oder mit Notenangabe und Schlussformel ("ein qualifiziertes Arbeitszeugnis mit einer Leistungsbeurteilung nicht schlechter als 'gut' und einer Schlussformel mit Dank, Bedauern und Zukunftswünschen").
-

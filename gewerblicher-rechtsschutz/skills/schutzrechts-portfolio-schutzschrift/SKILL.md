@@ -38,8 +38,8 @@ Befehlsargument:
 - **§ 17 PatG** — Patentlaufzeit: 20 Jahre ab Anmeldetag; Aufrechterhaltung durch jährliche Jahresgebühren (§ 17 Abs. 1 i. V. m. PatKostG Anlage)
 - **§ 20 Abs. 1 Nr. 3 PatG** — Erlöschen bei Nichtzahlung der Jahresgebühr
 - **§ 17 Abs. 2 PatG** — Schonfrist: 6 Monate mit Zuschlag
-- **Regel 51 EPÜ / Art. 86 EPÜ** — EP-Patent: Jahresgebühren beim nationalen Amt ab dem 3. Jahr nach Anmeldetag; Nationalisierung innerhalb von 31 Monaten (PCT)
-- **§ 13 GebrMG** — Gebrauchsmuster: Schutzdauer 3 Jahre ab Anmeldetag, verlängerbar auf max. 10 Jahre (je +3/+2 Jahre)
+- Artikel 86 und Regel 51 EPÜ: Jahresgebühren für die europäische Patentanmeldung sind ab dem dritten Jahr bis zur maßgeblichen Veröffentlichung der Erteilung an das EPA zu entrichten; danach richten sich nationale Jahresgebühren nach dem Recht der benannten Vertragsstaaten. PCT-Eintrittsfristen nicht mit dieser Gebührenregel vermischen.
+- Paragraf 23 GebrMG: Schutzdauer höchstens zehn Jahre ab Anmeldetag. Die Aufrechterhaltung setzt Gebühren für das vierte bis sechste, das siebte und achte sowie das neunte und zehnte Jahr voraus.
 
 **Designs:**
 - **§ 27 DesignG** — Schutzdauer: 5 Jahre ab Anmeldetag, verlängerbar bis max. 25 Jahre in 5-Jahres-Schritten
@@ -93,7 +93,7 @@ Ausgabe (Arbeitsergebnis-Kopfzeile voranstellen):
 IP-PORTFOLIO-FRISTENBERICHT — [Datum]
 [Unternehmensname] — Fenster: nächste [N] Tage
 
-🔴 ERLOSCHEN / IN SCHONFRIST ([N])
+[KRITISCH] ERLOSCHEN / IN SCHONFRIST ([N])
  [ID] / [Behörde] / [Typ] / [Bezeichnung]
  [Handlung] — ursprünglich fällig [Datum], Schonfrist endet [Datum]
  Status: [schonfrist / erloschen]

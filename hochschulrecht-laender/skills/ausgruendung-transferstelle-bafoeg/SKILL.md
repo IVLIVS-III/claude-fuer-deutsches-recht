@@ -90,25 +90,3 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 123 VwGO
-- § 70 VwGO
-- § 4 HRG
-- § 15 HRG
-- § 16 HRG
-- § 2 HRG
-- § 7 HRG
-- § 28 VwVfG
-- § 39 VwVfG
-- § 25 HRG
-- § 27 BDSG
-- § 42 ArbNErfG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

@@ -1,65 +1,48 @@
 ---
 name: cloud-act-vs-dsgvo-art-48-dsgvo
-description: "Wenn es um Cloud Act Vs DSGVO Art 48 DSGVO in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Herausgabeverlangen einer Drittstaatsbehörde an Anbieter oder Konzerngesellschaften. Trennt Bindungswirkung, Artikel 48, Rechtsgrundlage, Drittlandtransfer, Datenpanne und Geheimnisschutz und liefert Hold-Notice, Antwortstrategie, Behördenweg und dokumentierte Transferentscheidung."
 ---
 
-# Cloud Act Vs DSGVO Art 48 DSGVO
+# Drittstaatliches Herausgabeverlangen datenschutzrechtlich prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-US-Cloud-Anbieter wird vom DOJ aufgefordert Daten herauszugeben.
+Ein Anbieter oder eine Konzerngesellschaft erhält von einer Behörde oder einem Gericht außerhalb des Europäischen Wirtschaftsraums ein Herausgabeverlangen. Zu klären sind Verpflichteter, Reichweite, internationale Rechtshilfe, Übermittlungsgrundlage, Widerspruchsmöglichkeiten und technische Datenhoheit.
 
-## Normenanker
+## 2. Normenanker
 
-- Art. 48 DSGVO
-- Art. 33 DSGVO
-- Art. 34 DSGVO
-- Art. 9 DSGVO
-- Art. 56 DSGVO
-- Art. 32 DSGVO
-- § 32 BSIG
-- Art. 28 DSGVO
+- Artikel 48 DSGVO: Anerkennung oder Vollstreckbarkeit einer drittstaatlichen Entscheidung über Datenherausgabe grundsätzlich nur auf Grundlage eines internationalen Übereinkommens, unbeschadet anderer Übermittlungsgründe des Kapitels V.
+- Artikel 5, 6 und 9 DSGVO: Zweckbindung, Datenminimierung, Rechtsgrundlage und besondere Kategorien.
+- Artikel 44 bis 49 DSGVO: Drittlandübermittlung, Angemessenheit, Garantien und eng auszulegende Ausnahmen.
+- Artikel 28 und 32 DSGVO: Weisungsbindung, Informationspflichten, Sicherheit und technische Kontrollmöglichkeiten.
+- Artikel 33 und 34 DSGVO nur prüfen, wenn die Offenlegung eine Verletzung des Schutzes personenbezogener Daten darstellt; ein Behördenverlangen ist nicht automatisch eine meldepflichtige Datenpanne.
+- Paragraf 203 StGB und berufs- oder sektorbezogene Geheimnisnormen, soweit die betroffenen Daten hierunter fallen.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungs- und Quellenanker
 
-- EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- EuGH, Urteil vom 16. Juli 2020 - C-311/18, Schrems II: Bei Übermittlungsinstrumenten ohne Angemessenheitsbeschluss müssen Exporteur und Empfänger prüfen, ob das Drittlandsrecht ein im Wesentlichen gleichwertiges Schutzniveau ermöglicht, und erforderlichenfalls wirksame zusätzliche Maßnahmen treffen.
+- Europäischer Datenschutzausschuss, Leitlinien 02/2024 zu Artikel 48 DSGVO, endgültige Fassung vom 5. Juni 2025: Ein drittstaatliches Ersuchen ist nicht selbst die Übermittlungsgrundlage. Bindungswirkung, internationale Vereinbarung, Rechtsgrundlage und Kapitel V sind schrittweise zu prüfen.
+- Ein US-amerikanisches Herausgabegesetz schafft für den europäischen Exporteur nicht ohne Weiteres eine Rechtsgrundlage nach der DSGVO. Zugleich darf seine tatsächliche Bindungswirkung auf Empfänger und Konzerngesellschaften nicht ignoriert werden.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Original des Ersuchens sichern, Legal Hold auslösen und spontane Offenlegung stoppen. Frist, Geheimhaltungsklausel und Sanktionen notieren.
+2. Adressat, ausstellende Stelle, Rechtsgrundlage, territoriale Reichweite und tatsächliche Verfügungsgewalt über Daten und Schlüssel klären.
+3. Datenlandkarte erstellen: betroffene Personen, Kategorien, Speicherorte, Mandanten, Verantwortlicher, Auftragsverarbeiter und Unterauftragnehmer.
+4. Internationalen Rechtshilfeweg prüfen. Besteht ein anwendbares Übereinkommen oder soll die ersuchende Stelle an eine zuständige inländische Behörde verwiesen werden?
+5. Europäische Rechtsgrundlage und Übermittlungsinstrument getrennt bestimmen. Artikel 49 nicht als Dauerlösung für systematische Zugriffe verwenden.
+6. Einwände und Begrenzungen im Drittstaat prüfen: Zuständigkeit, Überbreite, comity, Schutzanordnung, Benachrichtigung, zeitliche und sachliche Eingrenzung.
+7. Technische Maßnahmen bewerten: kundenseitig gehaltene Schlüssel, Datenminimierung, Segmentierung, Protokollierung und kontrollierter Export. Bloße Transportverschlüsselung genügt nicht, wenn der Empfänger entschlüsseln kann.
+8. Melde-, Informations- und Vertragsfolgen prüfen. Verantwortlichen, Auftragsverarbeiter, Betroffenen und Aufsicht nur nach der jeweils einschlägigen Norm informieren.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-Beachtung DSGVO; Garantieklauseln; SCC plus zusaetzliche Maßnahmen.
+Liefere Vier-Stufen-Prüfung nach Artikel 48 und Kapitel V, Daten- und Schlüsselmatrix, Fristenblatt, Antwort an die ersuchende Stelle, Eskalationsvermerk für den Verantwortlichen und dokumentierte Freigabe oder Ablehnung. Jede Offenlegung wird auf das rechtlich und technisch notwendige Minimum begrenzt.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- SCC
-- Verschluesselungskonzept
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 33 DSGVO
-- Art. 34 DSGVO
-- Art. 9 DSGVO
-- Art. 56 DSGVO
-- Art. 32 DSGVO
-- § 32 BSIG
-- Art. 28 DSGVO
-- Art. 82 DSGVO
-- § 203 StGB
-- Art. 55 DSGVO
-- Art. 36 DSGVO
-- § 8b BSIG
-
-### Leitentscheidungen
-
-- EuGH C-311/18
-- EuGH C-300/21
-- EuGH C-589/22
+- vollständiges Ersuchen, Zustellungs- und Fristnachweis
+- Vertrags-, Konzern- und Unterauftragnehmerkette
+- Datenfluss-, Speicherort- und Schlüsselkonzept
+- Auftragsverarbeitungsvertrag und Übermittlungsinstrument
+- anwendbare Rechtshilfeabkommen und lokale Rechtsauskunft

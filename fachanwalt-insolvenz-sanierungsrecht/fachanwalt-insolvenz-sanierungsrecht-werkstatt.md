@@ -10,9 +10,36 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+
+### 1.2. Ausgabeformate für schnelle Lieferung
+
+| Bedarf | Sofortausgabe | Qualitätsgriff |
+| --- | --- | --- |
+| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
+| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
+| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
+| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
+| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
+| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
+
+### 1.3. Rückfragenbremse
+
+1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
+2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
+3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
+4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
+5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+
+### 1.4. Mini-Gerüste
+
+- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
+- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
+- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
+- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
+- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
 ## 2. Stop-Kriterien
 
@@ -48,9 +75,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Absonderungsrecht Paragraf 50 InsO | InsO Paragraf 17; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Absonderungsrecht Paragraf 50 InsO | InsO Paragraf 17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16 | InsO Paragraf 18; BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO | InsO Paragraf 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -69,11 +96,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen |
-| BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren |
-| BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien |
-| BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist |
-| BGH, Urteil vom 28.06.2012 - IX ZR 219/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bargeschäftsnähe kann Anfechtungsrisiken begrenzen |
+| BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit |
+| BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten |
+| BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht |
+| BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig |
+| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -85,26 +112,25 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
-- Paragraf 17 Abs. 1 und 2 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 19 Abs. 2 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 21 Abs. 1 und 2 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 35 Abs. 1 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 80 Abs. 1 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 129 Abs. 1 InsO: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 4-65 StaRUG: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 17 Abs. 1 und 2 InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 19 Abs. 2 InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 21 Abs. 1 und 2 InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 35 Abs. 1 InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 80 Abs. 1 InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 129 Abs. 1 InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 270a InsO: Antrag und vollständige Eigenverwaltungsplanung, insbesondere sechsmonatiger Finanzplan; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 270b InsO: Anordnung der vorläufigen Eigenverwaltung bei vollständiger, schlüssiger und tatsachengerechter Planung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Vorsatzanfechtung verlangt Gesamtwürdigung der Indizien.
-- BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Sanierungsversuch kann Vorsatzanfechtung beeinflussen, wenn er tragfähig ist.
-- BGH, Urteil vom 28.06.2012 - IX ZR 219/10: Bargeschäftsnähe kann Anfechtungsrisiken begrenzen.
-- BGH 17.10.2017 IX ZR 65/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH IX ZR 129/22 vom 18.04.2024 — Bestätigung der Neuausrichtung der Vorsatzanfechtung; konkrete Bedrohungslage und Erwartung dauerhafter Unterdeckung darzulegen; einfaches Bestreiten des außenstehenden
-- BGH IX ZR 239/22 vom 18.04.2024 — Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung (Paragraf 135 InsO)
-- BGH IX ZR 122/23 vom 05.12.2024 — Konkretisierung der Unlauterkeit nach Paragraf 142 Abs. 1 Hs. 2 InsO; bei Bargeschäft im Rahmen der Vorsatzanfechtung muss gezielt schädigendes Verhalten konkret
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+- BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
+- BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
+- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach.
+- BGH IX ZR 239/22 vom 18.04.2024 — Deckungslücke, Zahlungseinstellung und Benachteiligungsvorsatz konkret beweisen.
+- BGH IX ZR 122/23 vom 05.12.2024 — Konkretisierung der Unlauterkeit nach Paragraf 142 Abs. 1 Hs. 2 InsO.
 
 ## 9. Prüfraster
 
@@ -156,56 +182,56 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Absonderungsrecht Paragraf 50 InsO
 
-Prüfe Absonderungsrecht Paragraf 50 InsO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 50 InsO - Paragraf 17 Abs. 1 und 2 InsO - Paragraf 19 Abs. 2 InsO - Paragraf 21. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Absonderungsrecht Paragraf 50 InsO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 50 InsO - Paragraf 17 Abs. 1 und 2 InsO - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Anfechtung Vorsatz Paragraf 133 InsO BGH Ix Zr 65 16
+### 15.2. Anfechtungsklage Verwalter
 
-Insolvenzverwalter ficht Zahlung 4 Jahre vor Eröffnung an. - Paragraf 133 InsO - Paragraf 26 StaRUG - Paragraf 49 StaRUG - Paragraf 25 StaRUG - Paragraf 31 StaRUG - Paragraf 29 StaRUG - Paragraf 9 StaRUG - Paragraf 23 EStG - BGH 17.10.2017 IX ZR 65/16 — nur verwenden, wenn. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.3. Anfechtungsklage Verwalter
+### 15.3. Wenn es um vorläufige Eigenverwaltung nach Paragraf 270b InsO oder den Schutzschirm nach Paragraf 270d InsO geht
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+trennt Zugang, Eigenverwaltungsplanung, Bescheinigung, Planfrist und Abbruchrisiken; liefert eine belastbare Antrags- und Entscheidungsmappe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.4. Eigenverwaltung Schutzschirm Paragraf 270b InsO
+### 15.4. Anfechtungsklage des Insolvenzverwalters
 
-Prüfe Eigenverwaltung Schutzschirm Paragraf 270b InsO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 270b InsO - Paragraf 17 Abs. 1 und 2 InsO - Paragraf 19 Abs. 2 InsO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welche Rechtshandlungen sollen eingeklagt werden, einzeln mit Datum, Betrag und Empfänger? 2. Ist der Zeitpunkt nach Paragraf 140 InsO geklärt oder nur das Buchungsdatum bekannt? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Anfechtungsklage des Insolvenzverwalters
+### 15.5. Inso P006 Sofortige Beschwerde
 
-1. Welche Rechtshandlungen sollen eingeklagt werden, einzeln mit Datum, Betrag und Empfänger? 2. Ist der Zeitpunkt nach Paragraf 140 InsO geklärt oder nur das Buchungsdatum bekannt? 3. Welche Norm trägt jede einzelne Handlung: Paragraf 130, Paragraf 131, Paragraf 132. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Inso P003e Unternehmensgruppe P004b ordnet den Fall über die tragenden Prüfungslinien: Paragraf 3e InsO (Unternehmensgruppe) im Mandat prüfen, Paragraf 4b InsO (Rückzahlung und Anpassung der gestundeten, Paragraf 4c InsO (Aufhebung der Stundung) im Mandat prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Inso P006 Sofortige Beschwerde
-
-Inso P003e Unternehmensgruppe P004b ordnet den Fall über die tragenden Prüfungslinien: Paragraf 3e InsO (Unternehmensgruppe) im Mandat prüfen, Paragraf 4b InsO (Rückzahlung und Anpassung der gestundeten, Paragraf 4c InsO (Aufhebung der Stundung) im Mandat prüfen. Arbeite zuerst. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.7. Inso P043 Haftung Mehrerer Personen
+### 15.6. Inso P043 Haftung Mehrerer Personen
 
 Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. Inso P060 Haftung Des Insolvenzverwalters
+### 15.7. Inso P060 Haftung Des Insolvenzverwalters
 
 Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Inso P071 Haftung Der Mitglieder Des Glaubigerausschusses
+### 15.8. Inso P071 Haftung Der Mitglieder Des Glaubigerausschusses
 
 Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Inso P093 Personliche Haftung Der Gesellschafter
+### 15.9. Inso P093 Personliche Haftung Der Gesellschafter
 
-Inso P092 Gesamtschaden P093 Personliche P227 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 92 InsO (Gesamtschaden) im Mandat prüfen, Paragraf 93 InsO (Persönliche Haftung der Gesellschafter) im, Paragraf 227 InsO (Haftung des Schuldners) im Mandat prüfen. Arbeite. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Inso P092 Gesamtschaden P093 Personliche P227 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 92 InsO (Gesamtschaden) im Mandat prüfen, Paragraf 93 InsO (Persönliche Haftung der Gesellschafter) im, Paragraf 227 InsO (Haftung des Schuldners) im Mandat prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Inso P104 Fixgeschafte Finanzleistungen Vertragliches Liquidatio
+### 15.10. Inso P104 Fixgeschafte Finanzleistungen Vertragliches Liquidatio
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.12. Inso P109 Schuldner Als Mieter oder Pachter
-
-Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Inso P110 Schuldner Als Vermieter oder Verpachter
+### 15.11. Inso P109 Schuldner Als Mieter oder Pachter
 
 Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Inso P111 Veraußerung Des Miet oder Pachtobjekts
+### 15.12. Inso P110 Schuldner Als Vermieter oder Verpachter
 
 Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.13. Inso P111 Veraußerung Des Miet oder Pachtobjekts
+
+Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Inso P116 Erloschen von Geschaftsbesorgungsvertragen
+
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

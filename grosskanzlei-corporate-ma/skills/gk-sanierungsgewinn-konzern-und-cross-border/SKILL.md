@@ -104,7 +104,7 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - EuInsVO VO (EU) 2015/848 – EUR-Lex.
 - Art. 107 AEUV – EUR-Lex.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
-- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
 
 <!-- gk-ma-v61-agentic-boost -->

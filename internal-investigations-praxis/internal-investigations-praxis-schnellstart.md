@@ -52,13 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 321 HGB: Abschlussprüfer hat Unregelmäßigkeiten im Prüfungsbericht zu beschreiben: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 331 HGB, Paragraf 400 AktG: Freiheitsstrafe bis 3 Jahre oder Geldstrafe für Vorstand/Aufsichtsrat: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 93 Abs. 2 AktG: Schadensersatz der Gesellschaft gegen Vorstandsmitglieder: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 321 HGB: Abschlussprüfer hat Unregelmäßigkeiten im Prüfungsbericht zu beschreiben; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 331 HGB, Paragraf 400 AktG: Freiheitsstrafe bis 3 Jahre oder Geldstrafe für Vorstand/Aufsichtsrat; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 93 Abs. 2 AktG: Schadensersatz der Gesellschaft gegen Vorstandsmitglieder; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 242 BGB: allgemeine Treuepflicht aus dem Arbeitsverhältnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
-- BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht
+- BAG, Urt. v. 23.10.2008 – 2 AZR 483/07: Kündigung wegen Aussageverweigerung kann unverhältnismäßig sein, wenn berechtigte Selbstbelastungsgefahr besteht.
 
 ## 7. Antwortform
 

@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 1922 bis Paragraf 1936; BGB Paragraf 2064 bis Paragraf 2086; BGB Paragraf 2147 ff |
-| Rechtsprechung | OLG Muenchen 14.04.2020 31 Wx 275/19; BGH 12.10.2011 IV ZR 318/13 |
+| Rechtsprechung | BGH, Urteil vom 8. Dezember 2004 - IV ZR 199/03; BGH, Urteil vom 27. April 1994 - IV ZR 132/93 |
 | Tatbestand | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen |
 | Beweislast | Anspruchsteller für Verwandtschaft, Verfügung, Nachlasswert und Schenkung; Gegner für Erfüllung, Anrechnung, Ausgleichung und Ausschluss |
 | Rechtsfolge | Erbquotentabelle, Pflichtteilsrechnung, Auskunft, Erbscheinsantrag, Klage oder Auseinandersetzungsvergleich |
@@ -42,9 +42,9 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Chronologie: Beweislast, Darlegungslast und Substantiierung im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Erbrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Erbrecht: fachlich vertieftes Modul mit Normenradar. | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erbschein Einziehung Paragraf 2361 BGB Olg Muenchen 31 Wx 275 19 | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nachlassinsolvenz und Erbenhaftung bearbeiten | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass überschuldet ist | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nachlassinsolvenz Paragraf 1980 BGB BGH Ix Zb 118 17 | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflegeausgleich nach Paragraf 2057a BGB prüfen | Familienstamm, Verfügung, Quote, Nachlasswert, Pflichtteilsergänzung, Auskunft und Erbscheinspfad rechnerisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -52,13 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 2064 bis Paragraf 2086: Testament, Auslegung, Erbeinsetzung, Vermächtnis und Auflage.
 - BGB Paragraf 2147 ff.: Vermächtnis und Beschwerter.
 - BGB Paragraf 2303 bis Paragraf 2338: Pflichtteil, Auskunft, Bewertung, Ergänzung und Entziehung.
-- Normenradar: BGB Paragrafen 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG Paragrafen 343 ff.; EuErbVO: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 2303 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 2353 ff. BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1922 Abs. 1 BGB: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- OLG Muenchen 14.04.2020 31 Wx 275/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 12.10.2011 IV ZR 318/13 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BGH 23.05.2012 IV ZR 250/11 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
+- Normenradar: BGB Paragrafen 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG Paragrafen 343 ff.; EuErbVO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 1967, 1975, 1980, 1990 und 2014 BGB: Nachlassverbindlichkeiten, Haftungsbeschränkung, Antragspflicht, Dürftigkeit und Inventarfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 315 bis 331 InsO, besonders Paragrafen 317 und 320 InsO: Nachlassinsolvenz, Antragsberechtigung und Eröffnungsgründe; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 13, 14 und 15a InsO nicht schematisch übertragen. Für den Nachlass gelten die besonderen Regeln des Neunten Teils der InsO und Paragraf 1980 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

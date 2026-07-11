@@ -14,55 +14,63 @@ description: "Wenn es um Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskala
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung.
+Fokus: Verhandlung, Vergleich und Eskalation aus einem eingetragenen Gebrauchsmuster. Schutzfähigkeit, Verletzung, Löschungsangriff, Unterlassungsrisiko, Lizenzkorridor und Kosten werden getrennt bewertet. Wegen der Eintragung ohne Sachprüfung darf die Schutzfähigkeit nie ungeprüft vorausgesetzt werden.
 
 ## Rechtsrahmen
 
 | Norm | Inhalt |
 |---|---|
-| § 1 GebrMG | Schutzgegenstand: räumlich-körperliche Gebilde; Neuheit + erfinderischer Schritt |
-| § 3 GebrMG | Neuheit: nicht Stand der Technik; 6-Monats-Neuheitsschonfrist (§ 3 Abs. 1 S. 3 GebrMG) |
-| § 4 GebrMG | Erfinderischer Schritt (niedrigere Schwelle als PatG) |
-| §§ 11–19 GebrMG | Verfahren: Anmeldung, Eintragung ohne Sachprüfung, Schutzdauer |
-| § 13 GebrMG | Schutzdauer: 3 Jahre, verlängerbar bis 10 Jahre |
-| § 17 GebrMG | Umwandlungsantrag Patent → Gebrauchsmuster |
-| §§ 23 ff. GebrMG | Löschungsantrag beim DPMA |
-| § 24 GebrMG | Löschungsgründe: fehlende Schutzvoraussetzungen, älteres Recht |
-| §§ 139 ff. PatG | Verletzungsansprüche (analog anwendbar auf GebrM) |
+| Paragrafen 1 und 2 GebrMG | Neuheit, erfinderischer Schritt und gewerbliche Anwendbarkeit; Verfahren sind vom Gebrauchsmusterschutz ausgeschlossen |
+| Paragraf 3 GebrMG | eigener Stand der Technik, gewerbliche Anwendbarkeit und sechsmonatige Schonfrist unter den gesetzlichen Voraussetzungen |
+| Paragraf 4 GebrMG | Anmeldung und Anmeldungsunterlagen beim DPMA |
+| Paragraf 5 GebrMG | Abzweigung aus einer früheren Patentanmeldung unter Wahrung von Anmeldetag und Priorität innerhalb der gesetzlichen Fristen |
+| Paragrafen 8 und 8a GebrMG | Eintragung und Register; keine materielle Prüfung von Neuheit, erfinderischem Schritt und gewerblicher Anwendbarkeit |
+| Paragraf 23 GebrMG | Schutzdauer höchstens zehn Jahre; Aufrechterhaltungsgebühren für die gesetzlich bestimmten Zeitabschnitte |
+| Paragrafen 15 bis 18 GebrMG | Löschungsgründe, Antrag, Verfahren beim DPMA und Beschwerde zum Bundespatentgericht |
+| Paragrafen 24 bis 24e GebrMG | Unterlassung, Schadensersatz, Vernichtung, Rückruf, Auskunft, Vorlage und Urteilsbekanntmachung |
+| Paragraf 27 GebrMG | ausschließliche Zuständigkeit der hierfür bestimmten Landgerichte |
 
 ## Abgrenzung Gebrauchsmuster – Patent
 
 | Merkmal | Gebrauchsmuster | Patent |
 |---|---|---|
-| Schutzgegenstand | Räumlich-körperliche Gebilde (keine Verfahren) | Erzeugnisse und Verfahren |
+| Schutzgegenstand | technische Erfindungen mit Ausnahme insbesondere von Verfahren und den in Paragrafen 1 und 2 GebrMG ausgeschlossenen Gegenständen | Erzeugnisse und Verfahren im Rahmen des PatG |
 | Sachprüfung | Nein (nur formal) | Ja (vollständige Prüfung) |
-| Erteilungsdauer | Wochen | 2–5 Jahre |
+| Entstehung | regelmäßig rasche Eintragung ohne Sachprüfung | Erteilung nach Prüfungsverfahren |
 | Schutzdauer | Max. 10 Jahre | Max. 20 Jahre |
 | Neuheitsschonfrist | Ja, 6 Monate | Nein (außer Ausnahmen EPÜ) |
-| Schwelle Erfinderischer Schritt | Niedriger | Höher (erfinderische Tätigkeit §§ 1, 4 PatG) |
-| Löschungsverfahren | DPMA (§ 23 GebrMG) | BPatG (§ 81 PatG) |
+| Erfinderisches Niveau | keine pauschal niedrigere Schwelle; wertende Prüfung nach BGH X ZB 27/05 | erfinderische Tätigkeit nach Paragrafen 1 und 4 PatG |
+| Bestandsangriff | Löschungsantrag beim DPMA nach Paragrafen 15 bis 17 GebrMG, Beschwerde zum BPatG nach Paragraf 18 GebrMG | Patentnichtigkeitsklage zum BPatG nach Paragraf 81 PatG |
 | Kosten | Günstiger | Höher |
 
 ## Verletzungsverfahren
 
 ### Verletzungsansprüche
-- Entsprechend §§ 139 ff. PatG: Unterlassung, Schadensersatz, Auskunft, Vernichtung.
-- Aktivlegitimiert: eingetragener Inhaber, ausschließlicher Lizenznehmer.
-- Gerichtsstand: LG mit Patentkammer (§ 143 PatG analog; zuständige LG).
+- Unterlassung und Schadensersatz unmittelbar aus Paragraf 24 GebrMG.
+- Vernichtung und Rückruf aus Paragraf 24a GebrMG, Auskunft aus Paragraf 24b GebrMG sowie Vorlage und Besichtigung aus Paragraf 24c GebrMG.
+- Aktivlegitimation anhand Inhaberschaft, Registerstand, Übertragung und Lizenzvertrag konkret prüfen; keine automatische Klagebefugnis jedes Lizenznehmers unterstellen.
+- Ausschließliche sachliche Zuständigkeit der Landgerichte nach Paragraf 27 GebrMG; örtlich und nach landesrechtlicher Konzentration gesondert bestimmen.
 
 ### Einwand fehlender Schutzfähigkeit im Verletzungsverfahren
-- Nichtigkeitseinwand im Verletzungsprozess: Gericht setzt ggf. aus bis DPMA-Löschungsentscheidung.
-- Paralleler Löschungsantrag beim DPMA als Strategie.
+- Weil die Eintragung keine materielle Schutzfähigkeit bestätigt, muss das Verletzungsgericht den Einwand eines Löschungsanspruchs nach Paragraf 13 Absatz 1 in Verbindung mit Paragraf 15 GebrMG berücksichtigen.
+- Ist parallel ein Löschungsverfahren anhängig, kann das Gericht nach Paragraf 19 GebrMG aussetzen; hält es die Eintragung für unwirksam, muss es aussetzen.
+- Anspruchsauslegung, Verletzung und Rechtsbestand in zwei getrennten Tabellen prüfen. Derselbe Stand der Technik kann bei Schutzbereich und erfinderischem Schritt unterschiedliche Funktionen haben.
 
-## Löschungsverfahren DPMA (§§ 23–25 GebrMG)
+## Löschungsverfahren beim DPMA
 
 | Aspekt | Inhalt |
 |---|---|
 | Antragsteller | Jedermann |
-| Gründe | § 24 GebrMG: fehlende Schutzfähigkeit, entgegenstehender Stand der Technik, älteres Recht |
-| Gebühr | 300 € |
-| Verfahren | Schriftlich; DPMA entscheidet; Beschwerde BPatG |
-| Wirkung | Ex-tunc-Löschung |
+| Gründe | Paragraf 15 GebrMG: fehlende Schutzfähigkeit, älteres Schutzrecht, unzulässige Erweiterung sowie der besondere Fall des Paragraf 13 Absatz 2 GebrMG |
+| Antrag | Paragraf 16 GebrMG: schriftlicher Antrag mit den tragenden Tatsachen; aktuelle Gebühren beim DPMA verifizieren |
+| Verfahren | Paragraf 17 GebrMG: Zustellung, Monatsfrist für den Widerspruch, Amtsermittlung, gegebenenfalls mündliche Verhandlung und Beschluss |
+| Rechtsmittel | Beschwerde zum Bundespatentgericht nach Paragraf 18 GebrMG; Rechtsbeschwerde nur unter den dortigen Voraussetzungen |
+| Wirkung | Umfang und Rückwirkung der Löschung sowie Folgen für Titel, Rechnungslegung und Vergleich ausdrücklich regeln |
+
+## Rechtsprechungsanker
+
+- BGH, Beschluss vom 20.06.2006, X ZB 27/05, Demonstrationsschrank: Der erfinderische Schritt ist wie die erfinderische Tätigkeit qualitativ und wertend zu beurteilen; eine pauschal geringere Erfindungshöhe des Gebrauchsmusters gibt es nicht.
+- BGH, Beschluss vom 27.03.2018, X ZB 18/16: Die Eintragung berührt den Rechtskreis Dritter, obwohl die materiellen Voraussetzungen Neuheit, erfinderischer Schritt und gewerbliche Anwendbarkeit nicht geprüft worden sind. Das unterstreicht den eigenständigen Rechtsbestandscheck vor Abmahnung und Eilantrag.
 
 ## Verhandlung und Vergleich
 
@@ -81,7 +89,7 @@ description: "Wenn es um Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskala
 |---|---|
 | Koexistenzvereinbarung | Beide Parteien können Technologie in definierten Bereichen nutzen |
 | Kreuz-Lizenz | Gegenseitige Nutzungsrechte; keine Zahlungen |
-| Einfache Lizenz | Verletzter zahlt Lizenzgebühr; Nutzung erlaubt |
+| Einfache Lizenz | Der Lizenznehmer beziehungsweise bisherige Nutzer zahlt eine Lizenzgebühr; Nutzungsfeld, Laufzeit, Abrechnung und Audit werden festgelegt |
 | Aufgabe des GebrM gegen Vergleichssumme | Inhaber gibt Schutzrecht auf |
 
 ## Eskalationspfad

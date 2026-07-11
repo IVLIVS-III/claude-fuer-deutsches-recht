@@ -9,7 +9,7 @@ description: "Wenn es um Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8) in 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -77,9 +77,7 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 
 ## Quellen
 
-- [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
+- [HOAI 2021 Paragraf 43 Ingenieurbauwerke](https://www.gesetze-im-internet.de/hoai_2021/__43.html)
 - [§ 650p BGB](https://www.gesetze-im-internet.de/bgb/__650p.html)
-- [DIN EN 14487 Spritzbeton](https://www.gesetze-im-internet.de/)
-- [ZTV-ING Teil 5 Tunnelbau](https://www.gesetze-im-internet.de/)
-- [VOB/C DIN 18312 Untertagebauarbeiten](https://www.gesetze-im-internet.de/)
-- [BGH VII ZR 63/14 Tunnelbau Vortrieb](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+63/14)
+- DIN EN 14487, ZTV-ING Teil 5 und VOB/C DIN 18312 nur in der für Vertrag und Ausführungszeit maßgeblichen Fassung verwenden; die Regelwerke sind nicht über gesetze-im-internet.de abrufbar.
+- [BGH, Urteil vom 09.11.2000 - VII ZR 362/99](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2000-11-9&Gericht=bgh&Sort=4&anz=11&pos=8): Bei wichtigen oder kritischen Arbeiten mit hohem Mängelrisiko ist die Bauaufsicht intensiver wahrzunehmen; daraus Kontrollpunkte und Dokumentationsdichte für Vortrieb und Spritzbeton ableiten, nicht technische Sollwerte.

@@ -309,7 +309,3 @@ Unternehmens vorbehalten.
 - → `governance-und-anpassungsmechanismen` — Pension Committee, Trustee
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Änderungen der VO
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsrechte bei BV-Änderungen
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 014:
--->

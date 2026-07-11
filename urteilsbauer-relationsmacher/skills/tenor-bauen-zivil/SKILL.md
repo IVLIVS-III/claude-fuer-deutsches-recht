@@ -95,4 +95,3 @@ Der Tenor muss aus sich heraus vollstreckbar sein. Keine Bezugnahmen auf den Tat
 Im Repository werden Geldbetraege im Fliesstext mit Punkt geschrieben (Repo-Konvention).
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 213/10 (NJW 2011, 2885) auf dejure.org nicht auffindbar (NOT_FOUND) — Eintrag ersatzlos geloescht. Uebrige Rechtsprechungseintraege wurden nicht geprueft. -->

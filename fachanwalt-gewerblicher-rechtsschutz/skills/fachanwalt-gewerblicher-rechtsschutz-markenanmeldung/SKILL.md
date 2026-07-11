@@ -42,7 +42,6 @@ description: "Wenn es um Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung in
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Markenanmeldung
 
@@ -57,7 +56,6 @@ description: "Wenn es um Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung in
 | 4 | Üblichkeit? | § 8 Abs. 2 Nr. 3 MarkenG | Zurückweisung bei Gattungsbezeichnungen |
 | 5 | Weitere absolute Hindernisse (Hoheitszeichen, Sittenverstoß, Täuschung)? | § 8 Abs. 2 Nr. 4–10 MarkenG | Zurückweisung |
 | 6 | Ähnlichkeitsrecherche: ältere identische oder ähnliche Zeichen? | § 9 MarkenG | Widerspruch möglich nach Eintragung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Priorität aus Voranmeldung nutzbar? | § 34 MarkenG; PVÜ Art. 4 | Prioritätsfrist 6 Monate prüfen |
 | 9 | Schutzumfang (national/EU/international) festlegen | UMV 2017/1001; Madrider Protokoll | Kostenkalkulation je Schutzgebiet |
 | 10 | Benutzungsbereitschaft realistisch? | § 25 MarkenG | Einrede Nichtbenutzung nach 5 Jahren |
@@ -234,7 +232,6 @@ W 3: Benutzungsnachweise (Kataloge, Rechnungen, Umsatzzahlen)
 | "Fehlende Unterscheidungskraft" | DPMA | Benutzungsnachweis vor Anmeldung (Verkehrsgeltung); Beschwerde BPatG § 66 MarkenG |
 | "Verwechslungsgefahr mit älterer Marke" | Widerspruch | Klanglich/schriftbildlich/begrifflich differenzieren; geringe Ähnlichkeit der Waren beantragen; ältere Marke auf Benutzungszwang prüfen (§ 25 MarkenG) |
 | "Ältere Marke nicht benutzt" | Markeninhaber gegen Angreifer | Einrede Nichtbenutzung § 25 MarkenG nach 5 Jahren; Benutzungsnachweise anfordern |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Internationale Registrierung abgelaufen" | Markeninhaber | Verlängerung beim WIPO Central Attack nicht rechtzeitig; abhängige Marke verlischt ohne Basismarke |
 
 ## Streitwert und Kosten

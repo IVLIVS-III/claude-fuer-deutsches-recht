@@ -11,7 +11,7 @@ Nichtigkeitsgründe strukturiert und nicht moralisch pauschal prüfen.
 
 ## Normanker
 
-§§ 134, 138 und 139 BGB
+Paragrafen 134, 138 und 139 BGB
 
 ## Intake
 
@@ -44,9 +44,10 @@ Nichtigkeitsgründe strukturiert und nicht moralisch pauschal prüfen.
 - Bei Fristen den Rechenweg sichtbar machen.
 - Bei Wertungen die tragenden Tatsachen ausdrücklich nennen.
 
-## Konkurrenz zwischen § 134 BGB und eigenständigen Verbraucherschutznormen
+## Konkurrenz zwischen Paragraf 134 BGB und eigenständigen Verbraucherschutznormen
 
-- **LG Aachen, Urteil vom 27.05.2026, 10 O 306/25:** Rückforderung von Spieleinsatz aus Online-Glücksspiel. Das Gericht stützt die Rückabwicklung nicht auf § 134 BGB i.V.m. GlüStV, sondern bereits auf § 312j Abs. 4 BGB (Button-Pflicht-Verstoß: "Wette abgeben" genügt nicht). Damit wird die Rückabwicklung über § 812 BGB unabhängig vom glücksspielrechtlichen Streit (Konzession, Kohärenz, EuGH-Vorlage C-530/24 "Tipico"). Methodische Lehre: vor § 134 BGB prüfen, ob bereits eine vorgelagerte Verbraucherschutznorm zur endgültigen Unwirksamkeit führt; das vermeidet Aussetzung und unionsrechtliche Folgeprüfungen. (Quelle: Pressehinweis Gamesright GmbH / rightmart, 28.05.2026; Volltext bei Aufnahme noch nicht veröffentlicht.)
+- EuGH, Urteil vom 07.04.2022 - C-249/21, Fuhrmann-2: Ob eine Bestellschaltfläche der Formulierung „zahlungspflichtig bestellen“ entspricht, ist allein anhand der Wörter auf der Schaltfläche oder der gleichartigen Funktion zu beurteilen. Im deutschen Fall anschließend Paragraf 312j Absatz 3 und 4 BGB prüfen; die unionsrechtliche Auslegung ersetzt weder die Prüfung der nationalen Wirksamkeitsfolge noch diejenige eines daneben geltend gemachten Verbotsgesetzes.
+- Methodischer Prüfpfad: zuerst den eigenständigen Tatbestand und dessen Rechtsfolge feststellen, dann Normzweck, Konkurrenz und Reichweite von Paragraf 134 BGB prüfen. Rückabwicklung, Entreicherung, Kenntnis und mögliche Schutzgesetzansprüche getrennt anschließen; nicht aus einer Pressemitteilung auf einen unveröffentlichten Entscheidungsinhalt schließen.
 
 ## Anschluss-Skills
 

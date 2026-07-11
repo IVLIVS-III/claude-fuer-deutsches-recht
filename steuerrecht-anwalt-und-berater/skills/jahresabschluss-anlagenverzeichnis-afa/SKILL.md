@@ -117,5 +117,3 @@ Stand: 05/2026.
 - BMF AfA-Tabellen.
 - Hinweis: degressive AfA 2026 nach § 7 Abs. 2 EStG: Investitionsbooster ab 01.07.2025 (max. 30 %, 3-fach linear, bis 31.12.2027) gilt für neue Zugaenge. Für Zugaenge 01.04.2024-31.12.2024: max. 20 %, 2-fach linear.
 - Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent stabil seit JStG 2020 (für Anschaffungen ab 01.01.2024); Gewinngrenze 200.000 EUR.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 5 bestaetigt (degressive AfA 2024/2026, § 7g 40%, § 7b bis 2029 recherchiert), 1 ersetzt (BMF 2007 obsolet, durch aktuelle Gesetzeslage ersetzt) -->

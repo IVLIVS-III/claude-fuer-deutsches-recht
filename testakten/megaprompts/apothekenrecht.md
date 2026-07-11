@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 65 Skills des Plugins `apothekenrecht`.
+Diese Vollprüfung enthält top-10 von 65 Skills des Plugins `apothekenrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -281,28 +281,6 @@ Erforderliche Eingaben vom Mandanten:
 - BfArM und Landesapothekerkammern — Merkblätter zur Erlaubniserteilung (vom Anwender zu verifizieren).
 - BVerfG, staend. Rspr. zur Apothekenfreiheit nach Art. 12 GG.
 - Vom Anwender vor Antragstellung: aktuelles Landesrecht (z. B. HeilberufeKG, GAVG) verifizieren.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 73 AMG
-- § 11a ApoG
-- § 11 ApoG
-- § 7 HWG
-- § 78 AMG
-- § 8 ApoG
-- § 12a ApoG
-- § 79 AMG
-- § 1 ApoG
-- § 7 ApoG
-- Art. 12 GG
-- § 95 AMG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ---
 
@@ -684,7 +662,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

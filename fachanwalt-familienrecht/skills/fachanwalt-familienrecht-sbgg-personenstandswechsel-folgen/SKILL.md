@@ -42,7 +42,6 @@ description: "Wenn es um Selbstbestimmungsgesetz (SBGG) — Personenstandswechse
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 **Hinweis Stand 05/2026:** Das SBGG ist am 01.11.2024 in Kraft getreten. Eine gefestigte BGH-Rechtsprechung zu familienrechtlichen Folgewirkungen liegt noch nicht vor. Anhängige Verfassungsbeschwerden gegen einzelne Regelungen sind beim BVerfG anhängig — Stand vor Beratung über bundesverfassungsgericht.de prüfen.
 
@@ -57,7 +56,6 @@ description: "Wenn es um Selbstbestimmungsgesetz (SBGG) — Personenstandswechse
 | 2 | Jahresfrist seit letztem Wechsel? | Paragraf 5 SBGG | Kein Wechsel innerhalb eines Jahres möglich |
 | 3 | Dreimonate-Vormerkungsfrist eingeplant? | Paragraf 2 SBGG | Zwischen Anmeldung und Erklärung mindestens 3 Monate |
 | 4 | Mandatskonflikt prüfen | Paragraf 43a BRAO | Kanzlei darf nicht beide Ehegatten vertreten |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Versorgungsausgleich beeinflusst? | Paragrafen 1–49 VersAusglG | Anwartschaften berechnen; geschlechtsspezifische Tabellen Altverträge |
 | 8 | Offenbarungsverbot einhalten | Paragraf 6 SBGG | Kein Hinweis auf frühere Eintragung gegenüber Dritten |
 | 9 | Personalausweis, Reisepass, Versicherungen aktualisieren | Paragraf 4 SBGG | Ummeldungen nach Standesamtseintragung |
@@ -291,7 +289,6 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 | Gegenargument Behörde / Ehegatte | Reaktion |
 |----------------------------------|---------|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Offenbarungsverbot verhindert Behördentransparenz" | Paragraf 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
 | "Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
 

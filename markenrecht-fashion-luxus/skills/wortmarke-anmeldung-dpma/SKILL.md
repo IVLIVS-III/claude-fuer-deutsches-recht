@@ -159,14 +159,3 @@ Bevor die Anmeldung erfolgt, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- I ZB 40/08 (POST): ersetzt durch I ZB 48/07 (POST II, Beschl. v. 23.10.2008) (Quelle: dejure.org)
-- I ZB 56/09 (TOOOR!): ersetzt durch I ZB 115/08 (TOOOR!, Beschl. v. 24.06.2010) (Quelle: dejure.org)
-- I ZB 30/06 (STREETBALL): verifiziert korrekt, unveraendert belassen (Quelle: dejure.org)
-- I ZB 11/04 (ICON): Aktenzeichen gehoert zum Fall LOTTO (19.01.2006), kein ICON-Fall nachweisbar; AZ-Angabe ersatzlos entfernt
-- I ZB 40/98 (FUELUNGSKRAFT): nicht in dejure-Datenbank nachweisbar; Eintrag ersatzlos entfernt
-- I ZB 52/08 (SPA II): Aktenzeichen gehoert zum Fall DeutschlandCard (22.01.2009); SPA II ist I ZB 53/05 (Beschl. v. 13.03.2008); ersetzt durch korrektes AZ (Quelle: dejure.org)

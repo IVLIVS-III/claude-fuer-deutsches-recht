@@ -58,7 +58,6 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Einstweiliger Rechtsschutz
 
@@ -70,13 +69,9 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 | 2 | Antragsbefugnis | Analog § 42 Abs. 2 VwGO; Verletzung eigener Rechte möglich? | Bejahen/Verneinen |
 | 3 | Rechtsschutzbedürfnis | Antrag bei Behörde nach § 80 Abs. 4 oder § 80a VwGO abgelehnt oder sinnlos? | Nachweisen |
 | 4 | Hauptsache anhängig | § 80 Abs. 5 VwGO setzt Hauptsache voraus; parallel Widerspruch/Klage einreichen | Dokumentieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Erfolgsaussichten Hauptsache | Offensichtlich erfolglos → Ablehnung; offensichtlich erfolgreich → Stattgabe; offen → Interessenabwägung | Substanziiert begründen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | § 123 VwGO Anordnungsanspruch | Materieller Anspruch glaubhaft gemacht; subjektives öffentliches Recht | Normbasis + Subsumtion |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Glaubhaftmachung | § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO; eidesstattliche Versicherung, Atteste, Urkunden | Mitreichen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 12 | Streitwert | § 52 GKG; bei § 80 Abs. 5 VwGO Hälfte des Hauptsache-Streitwerts | Angeben im Antrag |
 | 13 | Entscheidungsform | Beschluss ohne mündliche Verhandlung; Ausnahme Erörterungstermin bei komplexen Fällen | Timing planen |
 | 14 | Beschwerde § 146 VwGO | 2 Wochen ab Beschluss; Begründung 1 Monat; keine neuen Tatsachen außerhalb Beschwerdefrist | OVG zuständig |
@@ -107,10 +102,8 @@ Das verwaltungsgerichtliche Eilrechtsschutzrecht ist zweigeteilt: § 80 Abs. 5 V
 
 | Gegenargument der Behörde | Gegenstrategie |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hauptsache hat keine Erfolgsaussichten" | Vorläufige rechtliche Begründung mit Kernargument; detaillierte Begründung bis zur Hauptsache vorbehalten |
 | "Kein Anordnungsgrund — keine Eilbedürftigkeit" | Konkrete Frist benennen; drohenden irreversiblen Schaden belegen; OVG-Rspr. zur Dringlichkeit anführen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

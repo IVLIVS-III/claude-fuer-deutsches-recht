@@ -1,39 +1,46 @@
 ---
 name: schrems-ii-drittlandsuebermittlung-c-311-18
-description: "Wenn es um Schrems Ii Drittlandsuebermittlung C 311 18 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Drittlandübermittlungen nach Schrems II und aktuellem Kapitel V der DSGVO. Bestimmt Datenfluss, Angemessenheitsbeschluss, Zertifizierung, Standardklauseln, Transferfolgenabschätzung und zusätzliche Maßnahmen und liefert Freigabe, Restrestrisiko und umsetzbaren Maßnahmenplan."
 ---
 
-# Schrems Ii Drittlandsuebermittlung C 311 18
+# Drittlandübermittlung nach Schrems II prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Tool verarbeitet Personendaten in USA.
+Personenbezogene Daten werden außerhalb des Europäischen Wirtschaftsraums gespeichert, aus der Ferne abgerufen oder einem drittstaatlichen Anbieter zugänglich gemacht. Vertragsklauseln allein genügen nicht, wenn Recht und Praxis des Empfängerstaats ihre Wirksamkeit beeinträchtigen.
 
-## Normenanker
+## 2. Normenanker
 
-- Art. 5 DSGVO
-- Art. 6 DSGVO
-- Art. 28 DSGVO
-- Art. 44 ff. DSGVO
-- VO (EU) 2024/1689
+- Artikel 5, 6, 9, 24, 28 und 32 DSGVO: Grundsätze, Rechtsgrundlage, besondere Kategorien, Verantwortung, Auftragsverarbeitung und Sicherheit.
+- Artikel 44 bis 49 DSGVO: System der Drittlandübermittlungen.
+- Durchführungsbeschluss (EU) 2021/914: aktuelle Standardvertragsklauseln und richtiges Modul.
+- Angemessenheitsbeschluss nach Artikel 45 DSGVO nur für den erfassten Staat, Sektor und zertifizierten Empfänger.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungs- und Quellenanker
 
-- EuGH 16.07.2020 C-311/18 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- EuGH, Urteil vom 16. Juli 2020 - C-311/18, Schrems II: Der damalige Angemessenheitsbeschluss zum EU-US Privacy Shield war ungültig. Standardvertragsklauseln blieben grundsätzlich gültig, verlangen aber eine fallbezogene Prüfung und wirksame zusätzliche Maßnahmen; andernfalls ist die Übermittlung auszusetzen oder zu beenden.
+- Europäischer Datenschutzausschuss, Empfehlungen 01/2020 in der endgültigen Fassung vom 18. Juni 2021: Datenflüsse kennen, Transferinstrument bestimmen, Drittlandsrecht und Praxis bewerten, ergänzende Maßnahmen auswählen und regelmäßig neu prüfen.
+- Der Angemessenheitsbeschluss zum EU-US Data Privacy Framework vom 10. Juli 2023 erfasst nur teilnehmende und aktuell zertifizierte US-Organisationen. Vor jeder Freigabe sind Fortbestand des Beschlusses, Zertifizierungsstatus und sachlicher Umfang in der offiziellen Liste zu prüfen.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Alle Übermittlungen einschließlich Fernzugriff, Support, Telemetrie, Unterauftragnehmer und Backups erfassen. Verantwortlichen, Exporteur, Importeur und Rollen bestimmen.
+2. Verarbeitungsgrundlage nach Artikel 6 oder 9 DSGVO von der zusätzlichen Transfergrundlage nach Kapitel V trennen.
+3. Angemessenheitsbeschluss prüfen: aktueller Bestand, erfasster Sektor, konkrete Zertifizierung und Datenkategorie. Eine Konzernzugehörigkeit ersetzt keine Zertifizierung.
+4. Ohne Angemessenheit richtiges Instrument wählen: Standardvertragsklauseln, verbindliche interne Datenschutzvorschriften oder gesetzlich vorgesehene Alternative. Artikel 49 nur ausnahmsweise und nicht für planmäßige Dauertransfers einsetzen.
+5. Transferfolgenabschätzung durchführen: Daten, Zweck, Empfänger, Zugriffswahrscheinlichkeit, Drittlandsrecht, behördliche Praxis und wirksame Rechtsbehelfe.
+6. Zusätzliche Maßnahmen auf konkrete Gefahr beziehen. Ende-zu-Ende-Verschlüsselung hilft nur, wenn der Importeur keine Schlüssel und keinen notwendigen Klartextzugriff erhält; Pseudonymisierung verlangt getrennte Zusatzinformationen.
+7. Vertragliche und organisatorische Maßnahmen ergänzen: Transparenz, Challenge-Pflicht, Benachrichtigung, Zugriffskontrolle, Protokollierung, Löschung und Unterauftragnehmerkontrolle.
+8. Restrisiko entscheiden, dokumentieren und Übermittlung aussetzen, wenn kein im Wesentlichen gleichwertiger Schutz erreichbar ist. Anlass- und Regelprüfung terminieren.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-TIA; SCC plus zusaetzliche Maßnahmen.
+Liefere Datenflusskarte, Rollen- und Transfermatrix, ausgefüllte Transferfolgenabschätzung, Klausel- und Zertifizierungscheck, Maßnahmenplan, Freigabeentscheidung und Reassessment-Termin. Rechtsgrundlage und Transferinstrument stehen in getrennten Feldern.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- TIA
-- SCC-Anlage
+- Architektur-, Datenfluss- und Unterauftragnehmerliste
+- Auftragsverarbeitungsvertrag und Standardvertragsklauseln
+- Zertifizierung und aktueller Angemessenheitsbeschluss
+- Drittlandsrechtsauskunft und Transparenzberichte
+- Verschlüsselungs-, Schlüssel- und Löschkonzept

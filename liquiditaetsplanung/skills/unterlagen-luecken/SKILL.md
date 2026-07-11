@@ -31,7 +31,7 @@ Diese Unterlagenprüfung für **Liquiditaetsplanung** benennt fehlende Dokumente
 
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Liquiditätsplanung und Insolvenzrecht-Schnittstelle-Frage zwingend (Liquiditätsstatus, Finanzplan, Liquiditätsvorschau 3 Wochen / 3–6–12 Monate, Fortbestehensprognose, Sanierungsgutachten IDW S 6)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (§ 15a InsO 3 Wochen (ZU) / 6 Wochen (Überschuldung), IDW S 11 12-Monats-Prognose, Drei-Wochen-Liquiditätsstockungs-Test (BGH II ZR 296/05)), beweisrelevant, formerheblich.
+- Lückenliste priorisieren nach: fristrelevant (Paragraf 15a InsO: unverzüglich, höchstens 3 Wochen bei Zahlungsunfähigkeit und 6 Wochen bei Überschuldung; IDW S 11: Prognosezeitraum; Drei-Wochen-Liquiditätsstockungs-Test nach BGH, Urteil vom 24.05.2005 - IX ZR 123/04), beweisrelevant, formerheblich.
 - Rückfrageschreiben an Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 

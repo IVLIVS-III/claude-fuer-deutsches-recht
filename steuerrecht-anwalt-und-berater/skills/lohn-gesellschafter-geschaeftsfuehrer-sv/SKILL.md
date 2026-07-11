@@ -44,7 +44,6 @@ Bei Gesellschafter-Geschäftsführern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 | Gericht | Aktenzeichen | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.)
 
@@ -118,5 +117,3 @@ Stand: 05/2026.
 - StGB § 266a.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (BSG-Az recherchiert), 1 ersetzt (Prüfhinweis ohne Marker) -->

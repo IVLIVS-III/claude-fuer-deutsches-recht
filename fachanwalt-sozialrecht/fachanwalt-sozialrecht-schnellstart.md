@@ -28,7 +28,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | SGB I Paragraf 39; SGB X Paragraf 20; SGB X Paragraf 24 |
+| Normenanker | SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20; SGB X Paragraf 24 |
 | Rechtsprechung | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 |
 | Tatbestand | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen |
 | Beweislast | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege |
@@ -43,21 +43,24 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Arbeitsunfall Paragraf 8 sgb vii | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschlüsseln | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bürgergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16 | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Eingliederungshilfe Paragraf 99 sgb ix | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| SGB-II-Bescheid (Bürgergeld) | Bescheid, Bekanntgabe, Leistungsträger, medizinische Belege, Wirtschaftlichkeit, SGG-Frist und Eilrechtsschutz zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- SGB I Paragraf 39: Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen.
+- SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
 - SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
 - SGG Paragraf 87: Klagefrist.
-- Paragraf 150 SGB III: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 165 SGB III: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 150 SGB III; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 165 SGB III; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 32 SGB II in der seit 1. Juli 2026 geltenden Fassung: wiederholtes Meldeversäumnis, 30 Prozent des maßgebenden Regelbedarfs und einmonatiger Minderungszeitraum; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 31a Absatz 2 bis 5 und 31b Absatz 1 und 4 SGB II: Anhörung, außergewöhnliche Härte, Kappungsgrenze, Beginn und Aufhebung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
-- BSG 22.10.2019 B 13 R 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BSG, Urteil vom 12.03.2025 — B 7 AS 5/24 R: Abgeschlossene Ausbildung mit Bewilligung von BAföG-Leistungen schließt den Leistungsausschluss nach SGB II nicht zwingend aus. Offene Fundstelle
+- BSG, Urteil vom 12.03.2025 — B 7 AS 5/24 R: Abgeschlossene Ausbildung mit Bewilligung von BAföG-Leistungen schließt den Leistungsausschluss nach SGB II nicht zwingend aus.
+- BSG, Urteil vom 26.03.2025 — B 4 AS 4/24 R: Bundeserstattung an Kommunen für SGB-II-Verwaltungskosten nach Paragraf 6b SGB II.
+- BSG, Urteil vom 04.06.2025 — B 7 AS 17/24 R: Vollstreckung von Erstattungsforderungen durch BA im SGB II.
 
 ## 7. Antwortform
 

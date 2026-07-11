@@ -171,6 +171,3 @@ Klassische Stolperfalle in Allgemeines Verwaltungs- und Bauplanungsrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
-<!-- AUDIT 27.05.2026
-Aktion: Eintrag gelöscht.
--->

@@ -1,62 +1,58 @@
 ---
 name: ausweisung-abwaegung
-description: "Wenn es um Ausweisung Abwägung: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft eine Ausweisung nach den Paragrafen 53 bis 55 AufenthG mit Gefahrenprognose, besonderem Schutz, Bleibeinteressen und Folgen für Familie und Aufenthalt. Liefert Abwägungsmatrix, Belegplan, Eilstrategie und einen ausformulierten Widerspruchs- oder Klagekern."
 ---
 
-# Ausweisung Abwägung: Fachmodul im Migrationsrecht
+# 1. Ausweisung abwägen
 
+## 1.1 Sofortstart
 
-## Arbeitsweg
+Lies Bescheid, Zustellnachweis, Strafurteil, Registerauskunft und Aufenthaltsakte zuerst. Sichere Rechtsbehelf, Vollziehbarkeit und eine mögliche Abschiebung, bevor du die materielle Abwägung vertiefst.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AufenthG §§ 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG §§ 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU §§ 2-5; StAG §§ 4, 5, 8-10, 12a, 25, 30; AsylbLG §§ 1, 3, 6; VwGO §§ 74, 80, 123; Dublin-III-VO Art. 3, 17, 21-29; einschlägige EU-Richtlinien/GEAS-Normstand live prüfen; keine BeckRS-/juris-Blindzitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.2 Status- und Schutzmatrix
 
-**Fokus:** Ausweisung Abwägung: Fachmodul im Migrationsrecht; prüft §§ 53 ff. AufenthG, Bleibeinteressen, Familie, Straftat, Prognose; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
+Erfasse:
 
-### Ausweisung Abwägung
+1. Staatsangehörigkeit, Aufenthaltsrecht und Dauer des rechtmäßigen Aufenthalts.
+2. Flüchtlingsstatus, subsidiären Schutz, Daueraufenthalt, Unionsbezug oder assoziationsrechtliche Position.
+3. Ehe, Partnerschaft, Kinder, Sorge, Umgang, Pflege- und Unterhaltsleistungen.
+4. Tat, Urteil, Strafmaß, Vollzug, Bewährung, Therapie, Schadenswiedergutmachung und Verhalten seit der Tat.
+5. Bindungen in Deutschland und im Zielstaat, Sprache, Arbeit, Wohnung und Gesundheit.
 
-## Einstieg
-1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
-2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?
-3. Welche Frist oder welches Eilrisiko entscheidet den Fall?
-4. Welche Unterlagen beweisen Identität, Status, Familie, Arbeit, Ausbildung, Schutzgrund oder Gesundheit?
-5. Soll das Ergebnis auf Deutsch, in einfacher Sprache oder zusätzlich auf Spanisch ausgegeben werden?
+## 1.3 Prüfprogramm
 
-## Prüfraster
-1. **Status und Ziel:** Ist der passende Titel/Schutz-/Rechtsbehelfspfad richtig gewählt?
-2. **Tatbestand:** Normmerkmale, Ausnahmen, Ermessen, Versagungsgründe und Gegenargumente.
-3. **EU/EMRK/GFK:** Unionsrechtliche oder menschenrechtliche Ebene prüfen, wenn sie den Fall tragen kann.
-4. **Staatenbezug:** Herkunfts-, Transit- und Zielstaat nur mit aktuellen Quellen bewerten; keine statischen Sicherheitsannahmen.
-5. **Beweis:** Dokumente, Urkunden, Übersetzungen, Atteste, Länderquellen und digitale Belege sauber trennen.
-6. **Taktik:** Antrag, Nachreichung, Fristverlängerung, Eilantrag, Klage, Vergleich, Behördenkommunikation.
+1. Prüfe, ob der Aufenthalt gegenwärtig die in Paragraf 53 Absatz 1 AufenthG genannten Schutzgüter gefährdet. Eine strafrechtliche Verurteilung ersetzt die aktuelle, einzelfallbezogene Prognose nicht.
+2. Ordne Ausweisungsinteressen nach Paragraf 54 und Bleibeinteressen nach Paragraf 55 AufenthG ein. Behandle die Kataloge nicht als Rechenpunkte.
+3. Prüfe gesteigerten Schutz nach Paragraf 53 Absätze 3 bis 4 AufenthG und nach dem jeweils einschlägigen Unions-, Assoziations- oder Flüchtlingsrecht.
+4. Führe eine ergebnisoffene Verhältnismäßigkeitsprüfung durch. Dauer des Aufenthalts, Alter bei Einreise, familiäre Folgen, Kindeswohl, Rückfallrisiko und Reintegration müssen konkret belegt und gewichtet werden.
+5. Trenne Ausweisung, Erlöschen des Titels, Abschiebungsandrohung und Einreise- und Aufenthaltsverbot. Jede Maßnahme hat eigene Tatbestands- und Rechtsfolgenfragen.
+6. Prüfe, welche zielstaatsbezogenen Gefahren dem Bundesamt vorbehalten sind; verlange keine unzulässige Doppelprüfung durch die Ausländerbehörde.
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+## 1.4 Beweisplan
 
-## Normen und Rechtsprechung
+| Thema | Beleg | Gegenprüfung |
+| --- | --- | --- |
+| Rückfallrisiko | Vollzugsplan, Bewährungsbericht, Therapie, Führungsbericht | Zeitpunkt, Aussagekraft und offene Auflagen |
+| Familie und Kindeswohl | Geburtsurkunden, Sorge- und Umgangsregelung, Betreuungskalender | tatsächliche Betreuung statt bloßer Formalstatus |
+| Integration | Beschäftigung, Sprache, Wohnung, Vereins- und Unterstützungsnachweise | Dauer und Stabilität |
+| Bindung zum Zielstaat | Aufenthalte, Familie, Sprache, Wohn- und Arbeitsmöglichkeit | keine Vermutung ohne Tatsachengrundlage |
+| Gesundheitsfolgen | qualifiziertes Attest, Behandlungsplan, Medikamentenbedarf | Diagnose, Verlauf und konkrete Auswirkung der Trennung |
 
-### Kuratierte Normen-Bibliothek
+## 1.5 Rechtsprechungsanker
 
-- Art. 3 EMRK
-- § 80 VwGO
-- § 36 AsylG
-- § 71 AsylG
-- § 74 AsylG
-- Art. 6 GG
-- Art. 8 EMRK
-- § 81 AufenthG
-- § 60a AufenthG
-- § 123 VwGO
-- § 5 AufenthG
-- § 10 StAG
+1. BVerwG, Urteil vom 22. Februar 2017 - 1 C 3.16: Die Ausweisung nach Paragraf 53 AufenthG ist eine gebundene, gerichtlich voll überprüfbare Entscheidung auf Grundlage einer umfassenden und ergebnisoffenen Einzelfallabwägung.
+2. BVerwG, Urteil vom 16. Februar 2022 - 1 C 6.21: Zielstaatsbezogene Umstände sind nur insoweit in die Ausweisungsabwägung einzustellen, wie ihre Prüfung nicht dem Bundesamt im Asylverfahren vorbehalten ist; auch das Einreise- und Aufenthaltsverbot ist eigenständig zu prüfen.
+3. EuGH, Urteil vom 13. September 2016 - C-304/14, CS: Bei einem drittstaatsangehörigen Elternteil eines minderjährigen Unionsbürgers genügt eine strafrechtliche Verurteilung nicht automatisch; Unionsbürgerstatus, tatsächliche Abhängigkeit und eine reale, gegenwärtige und hinreichend schwere Gefahr sind konkret zu prüfen.
 
-### Leitentscheidungen
+Die Entscheidungen C-490/16 und C-247/20 sind keine allgemeinen Ausweisungsanker. Verwende C-490/16 nur für die frühere Dublin-III-Zuständigkeit und C-247/20 nur für das unionsrechtliche Aufenthaltsrecht mit Krankenversicherungsschutz.
 
-- EuGH C-490/16
-- EuGH C-247/20
+## 1.6 Arbeitsergebnis
+
+Liefere:
+
+1. Fristen- und Vollziehbarkeitsvermerk.
+2. Status- und Schutzmatrix.
+3. Gegenüberstellung von Ausweisungs- und Bleibeinteressen mit Belegen.
+4. Prognosekritik und verhältnismäßige Alternativen.
+5. Ausformulierten Antrag und Begründungskern.
+6. Liste fehlender Nachweise und nächsten Vollzugsschritt.

@@ -40,7 +40,6 @@ description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Gesellschafterstr
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Beschlussanfechtungsklage GmbH
 
@@ -65,7 +64,6 @@ description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Gesellschafterstr
 | 1 | Ausschlussklausel in Satzung vorhanden? | § 34 GmbHG | Bei Fehlen: Ausschlussklage mit Gestaltungsurteil |
 | 2 | Wichtiger Grund: Pflichtverletzung, Zerrüttung, Schaden? | BGH-Rspr. | Konkrete Tatsachen darlegen |
 | 3 | Abmahnung vor Ausschluss? | Treu und Glauben | Bei wiederholten Verstößen Abmahnung erforderlich |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Einziehungsbeschluss in GV mit erforderlicher Mehrheit? | § 34 GmbHG; Satzung | Einstimmigkeit oder qualifizierte Mehrheit je nach Satzung |
 | 6 | Einstweilige Verfügung auf Amtsniederlegung Geschäftsführer? | §§ 935, 940 ZPO | Gefährdungsnachweis |
 
@@ -241,7 +239,6 @@ einer evident unangemessenen Unterbewertung führen.
 |--------------|---------|----------|
 | "Anfechtungsfrist versäumt" | Beklagte | Fristbeginn exakt dokumentieren; bei AG: Bekanntmachung maßgeblich |
 | "Verfahrensmangel war kausal irrelevant" | Beklagte | BGH: Kausalität nur bei offensichtlicher Unerheblichkeit entfallen; Zweifel gehen zu Lasten der Gesellschaft |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Kein wichtiger Grund für Ausschluss" | Beklagter (Ausschlossener) | Schwere der Pflichtverletzung + Zumutbarkeit des Verbleibs darlegen; mehrere Vorfälle kumulativ |
 
 ## Streitwert und Kosten

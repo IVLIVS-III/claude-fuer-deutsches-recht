@@ -54,7 +54,7 @@ Bevor losgelegt wird, klaere:
 
 Rechtsprechung live über [curia.europa.eu](https://curia.europa.eu/) und [bundeskartellamt.de](https://www.bundeskartellamt.de) verifizieren. Stand 05/2026:
 
-- **§ 19a GWB (Digitalkonzerne):** Bundeskartellamt-Adressatfeststellungen Stand 2025 etabliert für Meta, Alphabet/Google, Amazon, Apple, Microsoft. BGH hat die Adressatenfeststellungen zu Amazon und Apple bestätigt; konkrete Az. live verifizieren über [bundeskartellamt.de Verfahrenstabelle](https://www.bundeskartellamt.de/DE/DigitalWirtschaft/VerfahrenGegenGrosseDigitalkonzerne/verfahrengegengrossedigitalkonzerne_node.html).
+- **Paragraf 19a GWB (Digitalkonzerne):** Der BGH hat die Feststellungen der überragenden marktübergreifenden Bedeutung von Amazon mit Beschluss vom 23.04.2024 - KVB 56/22 - und von Apple mit Beschluss vom 18.03.2025 - KVB 61/23 - bestätigt. Für Meta, Alphabet/Google und Microsoft den Verfahrensstand sowie eine etwaige Bestandskraft jeweils über die [Verfahrenstabelle des Bundeskartellamts](https://www.bundeskartellamt.de/DE/DigitalWirtschaft/VerfahrenGegenGrosseDigitalkonzerne/verfahrengegengrossedigitalkonzerne_node.html) prüfen; Adressatenfeststellung nach Absatz 1 und Verhaltensverfügung nach Absatz 2 nicht vermischen.
 - Bundeskartellamt vorläufige Beurteilungen 2025: Apple Tracking-Regeln (Februar 2025 — Tendenz: Verbot nach § 19a Abs. 2 GWB), Amazon Preiskontrollmechanismen (Juni 2025).
 - Bundeskartellamt-Verpflichtungszusagen 2025: Google Automotive Services / Maps Platform (seit Februar 2025 standalone-lizenzierbar mit Interoperabilität).
 - EuGH-Linien zu Art. 101/102 AEUV Q4 2025 - Q2 2026 vor Verwendung im Schriftsatz live verifizieren.

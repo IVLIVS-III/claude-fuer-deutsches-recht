@@ -1,71 +1,45 @@
 ---
 name: barrierefreiheit-mietwohnung
-description: "Wenn es um Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft und gestaltet den Anspruch des Wohnraummieters auf Barrierereduzierung nach Paragraf 554 BGB. Konkretisiert Maßnahme, Bedarf, Angemessenheit, Vermieter- und Drittinteressen, Sicherheit, Kosten und Rückbau und liefert vollständigen Gestattungsantrag und Vereinbarung."
 ---
 
-# Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht
+# Barrierereduzierung in der Mietwohnung durchsetzen
 
+## 1. Einsatzlage
 
-## Arbeitsweg
+Ein Mieter benötigt eine Rampe, einen Treppenlift, breitere Türen, entfernte Schwellen, Haltegriffe oder eine andere bauliche Änderung. Der Anspruch richtet sich auf Erlaubnis einer konkret beschriebenen angemessenen Maßnahme, nicht auf eine unbestimmte Herstellung vollständiger Barrierefreiheit durch den Vermieter.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Normenanker
 
-**Fokus:** Barrierefreiheit Mietwohnung: Fachmodul im Miet- und Wohnungseigentumsrecht; prüft bauliche Veränderung, Sicherheit, Rückbau, Kosten; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+- Paragraf 554 Absatz 1 BGB: Erlaubnis angemessener baulicher Veränderungen zur Barrierereduzierung und Interessenabwägung.
+- Paragrafen 535 und 538 BGB: Vertragsgebrauch und Veränderungen der Mietsache.
+- Paragrafen 546 und 548 BGB: Rückgabe, Rückbau und Verjährung nach Rückgabe.
+- Artikel 3 Absatz 3 Satz 2 und Artikel 14 GG als Auslegungsmaßstäbe für Behindertenschutz, Mieterbesitz und Vermietereigentum.
+- Bauordnungs-, Brandschutz- und Denkmalschutzrecht des Belegenheitslands für die technische Zulässigkeit.
 
-### Barrierefreiheit Mietwohnung
+## 3. Rechtsprechungsanker
 
-## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Barrierefreiheit Mietwohnung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 535 ff., 536, 543, 546a, 548, 556, 556a, 558 ff., 573 ff.; BetrKV; HeizkostenV; WEG §§ 18, 19, 20, 23, 24, 28, 44, 45; GEG; CO2KostAufG.
-- **Verifizierte Anker:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15 (formelle Betriebskostenabrechnung); BGH, Urteil vom 15.12.2021 - VIII ZR 66/20 (Belegeinsicht Originale/Kopien); BGH, Urteil vom 14.02.2025 - V ZR 128/23 (§ 16 Abs. 2 Satz 2 WEG, Rücklagen/Kostenverteilung); BGH, Urteil vom 14.02.2025 - V ZR 86/24 (§ 20 WEG, bauliche Veränderung, Vorbefassung/Beschlussersetzung).
-- **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
-- **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+- BVerfG, Beschluss vom 28. März 2000 - 1 BvR 1460/99: Zivilgerichte müssen beim Treppenlift das Eigentumsinteresse des Vermieters mit dem geschützten Zugangs- und Nutzungsinteresse des Mieters abwägen. Verkehrssicherung, Haftung und Rückbau können durch Auflagen gelöst werden; ein pauschaler Verweis auf anderen Wohnraum genügt nicht.
+- Die Entscheidung erging vor Einführung der heutigen gesetzlichen Anspruchsgrundlage. Sie ist als verfassungsrechtlicher Abwägungsanker, nicht als Ersatz für den Tatbestand des Paragraf 554 BGB zu verwenden.
 
-## Einstieg
-1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
-2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
-3. Welche Tatsachen sind unstreitig, welche streitig, welche fehlen?
-4. Welche Frist, Form, Zuständigkeit oder Beweislast kann den Fall kippen?
-5. Welche Unterlagen belegen den Kern: Vertrag, Nachtrag, Beschluss, Protokoll, Abrechnung, Fotos, Messungen, Kontoauszüge, Mails?
+## 4. Prüfprogramm
 
-## Prüfraster
-1. **Rechtsverhältnis abgrenzen:** Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle.
-2. **Tatbestand:** Anspruchsgrundlage, Einwendung, Gegenrecht und Rechtsfolge sauber trennen.
-3. **Form und Frist:** Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
-5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
-6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
+1. Konkrete Zugangshürde und funktionales Ziel beschreiben. Eine Diagnose nur insoweit verarbeiten, wie sie den Bedarf und die Dringlichkeit belegt.
+2. Maßnahme technisch bestimmen: Lage, Maße, Befestigung, Strom, Bedienung, Fluchtweg, Brandschutz, Statik, Genehmigung und Bauzeit.
+3. Geeignetheit und mildere Varianten vergleichen. Kosten allein entscheiden nicht, wenn die teurere Lösung erhebliche Schutz- oder Gebrauchsvorteile hat.
+4. Interessen abwägen: Substanz, Optik, Nutzung anderer Mieter, Sicherheit, Lärm, Wartung und berechtigte Vermieterplanung.
+5. Finanzierung, Errichtung, Wartung, Haftung, Versicherung, Rückbau und mögliche zusätzliche Sicherheit vollständig zuordnen.
+6. Eigentümer- und WEG-Ebene des Vermieters beachten. Der Vermieter muss erforderliche interne Beschlüsse betreiben, soweit sein rechtliches Können betroffen ist; offene Gemeinschaftsfragen im Antrag ausweisen.
+7. Gestattungsantrag mit Frist und vollständigen Anlagen stellen. Bei Dringlichkeit einstweiligen Rechtsschutz und realistischen Bauzeitplan prüfen.
 
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+## 5. Arbeitsergebnis
 
-## Normen und Rechtsprechung
+Erstelle Bedarfs- und Variantenmatrix, ausformulierten Gestattungsantrag, technische Anlage, Kosten-, Haftungs- und Rückbauvereinbarung sowie Klageentwurf. Persönliche Gesundheitsdaten werden auf das notwendige Maß begrenzt.
 
-### Kuratierte Normen-Bibliothek
+## 6. Belege und Aktenlücken
 
-- § 20 WEG
-- § 16 WEG
-- § 44 WEG
-- § 49 GKG
-- § 23 WEG
-- § 45 WEG
-- § 24 WEG
-- § 9a WEG
-- § 25 WEG
-- § 19 WEG
-- § 9b WEG
-- § 10 WEG
-
-### Leitentscheidungen
-
-- BGH VIII ZR 118/19
-- BGH VIII ZR 84/07
-- BGH VIII ZR 249/15
+- Mietvertrag und Eigentümer- beziehungsweise WEG-Struktur
+- funktionale Bedarfsbescheinigung
+- technische Planung, Angebote und Genehmigungen
+- Versicherungs-, Wartungs- und Rückbaukonzept
+- Schriftverkehr und Fristsetzung

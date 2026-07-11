@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 100 Skills des Plugins `verlagsrecht-buchpreisbindung`.
+Diese Vollprüfung enthält top-10 von 100 Skills des Plugins `verlagsrecht-buchpreisbindung`.
 
 ## Inhaltsverzeichnis
 
@@ -598,31 +598,6 @@ Für jede Komponente prüfen:
 - **Vergütungsübersicht**: Alle Beitragsautoren mit Vergütungsansprüchen
 - **Muster-Beitragsautorenvertrag**: Standardisiertes Kurzformular für Sammelwerke
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 41 UrhG
-- § 32d UrhG
-- § 32a UrhG
-- § 6 BuchPrG
-- § 32 UrhG
-- § 7 BuchPrG
-- § 38 UrhG
-- § 3 BuchPrG
-- § 31 UrhG
-- § 4 UrhG
-- § 14 UrhG
-- § 51 UrhG
-
-### Leitentscheidungen
-
-- EuGH C-174/15
-- BGH I ZR 198/13
-- BGH I ZR 136/20
-- EuGH C-299/23
-- EuGH C-202/12
-
 ---
 
 ## Skill: `verlagsvertrag-redaktionsvertrag`
@@ -850,7 +825,7 @@ Dieser Skill bearbeitet **Verlagsinsolvenz Rechte Rückfall und Lagerbestand** i
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -108,6 +108,3 @@ Anlage ist im Schriftsatz bezeichnet aber fehlt körperlich in Akte?
 - [ ] Inhalt kurz aber aussagekräftig beschrieben?
 - [ ] Fundstelle (Schriftsatz und Blatt) angegeben?
 - [ ] Vorlageanordnungen nach § 142 ZPO berücksichtigt?
-
-<!-- AUDIT 27.05.2026 -->
-<!-- BGH VI ZR 396/18 (claimed: Fehlende Anlage kann nachgereicht werden, NJW 2020, 404): WRONG_TOPIC. Urteil existiert (dejure.org/2019,38295), behandelt aber Kfz-Unfall Beilackierungskosten/§287 ZPO Schaetzungsermessen, NJW 2020, 236. Kein Bezug zu ZPO-Anlagenrecht. Eintrag geloescht. -->

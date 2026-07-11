@@ -114,5 +114,3 @@ Stand: 05/2026.
 - BMF zu ELSTER-Verfahren.
 - LStR.
 - SolZ-Freigrenze 2025: 18.130 EUR ESt (Einzel); Milderungszone § 3 Abs. 3 SolZG; aktuelle Freigrenze jaehrlich prüfen (SolZG).
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SolZ-Freigrenze 2025 eingesetzt) -->

@@ -33,9 +33,7 @@ description: "Wenn es um Fachanwalt Insolvenz Krypto Verwertung in Fachanwalt In
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | US SDNY (FTX) | 22-11068 | 2022/2023 | FTX-Linie: Kundenvermögen bei Custodial-Exchange als Sondervermögen nur wenn Treuhandverhältnis eindeutig belegt |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
@@ -168,7 +166,7 @@ IV. Steuerliche Folgen:
 | Verwertung § 159 InsO | Innerhalb angemessener Frist; bei Preisverfall sofortige Sicherung nötig |
 | Anfechtung Krypto-Transfers § 130 InsO | 3 Monate vor Antragstellung |
 | Anfechtung § 133 InsO | 4 Jahre vor Antragstellung |
-| Verjährung § 146 InsO | 3 Jahre ab Verwalter-Kenntnis |
+| Verjährung nach Paragraf 146 InsO | Regelmäßige BGB-Verjährung; Entstehung, Jahresendbeginn, Kenntnis oder grob fahrlässige Unkenntnis und Hemmung nach Paragrafen 195 und 199 BGB konkret berechnen |
 | Steuer § 23 EStG Jahresfrist | 12 Monate ab Anschaffung; bei Überschreitung steuerfrei |
 
 ## Gegenargumente und Reaktion
@@ -179,7 +177,6 @@ IV. Steuerliche Folgen:
 | Private Key verloren/vergessen | § 97 InsO | Forensik-Dienstleister beauftragen; bei Verdacht auf vorsätzliche Verschleierung → § 98 InsO |
 | Krypto-Assets im Ausland (Offshore-Exchange) | § 35 InsO, MLAT | Internationale Rechtshilfe (MLAT); INTERPOL-Finanzermittler einschalten; Anfechtungsklage auch gegen ausländische Exchange |
 | Coins bereits verwertet vor Eröffnung | §§ 130 ff. InsO | Anfechtung des Transfers; Blockchain-Forensik zeigt Transaktion |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | NFT-Wertbestimmung unklar | § 159 InsO | Spezialisiertes Auktionshaus (Christie's, OpenSea Business); ggf. Sachverständiger |
 
 ## Streitwert und Kosten

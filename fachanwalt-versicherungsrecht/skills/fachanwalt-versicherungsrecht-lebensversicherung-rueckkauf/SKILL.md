@@ -135,7 +135,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Situation | Frist | Rechtsgrundlage |
 |---|---|---|
 | Widerrufsrecht (ordnungsgemäß belehrt) | 30 Tage ab Belehrung | § 8 Abs. 1 VVG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verjährung Rückkaufswert-Differenz | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
 | Verjährung (absolute Höchstfrist) | 10 Jahre ab Entstehung | § 199 Abs. 4 BGB |
 

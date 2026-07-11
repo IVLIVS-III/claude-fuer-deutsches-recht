@@ -48,17 +48,3 @@ Beruf, Kammer, Bundesland, Tätigkeit, Arbeitgeber, Satzung, Befreiungsstatus.
 3. Norm- und Quellencheck: SGB VI, SGB X, SGG, FRG, DRV-Informationen, Sozialversicherungsabkommen oder konkrete Satzung live prüfen.
 4. Beweiswert bewerten: Original, beglaubigte Kopie, ausländische Urkunde, Arbeitsbuch, Zeuge, Arbeitgeberarchiv, Behördenauskunft.
 5. Handlung ableiten: Antrag, Kontenklärung, Nachreichung, Widerspruch, Klage, Vergleich, Nachfassschreiben oder Mandantenbrief.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat)
-- BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben)
-- VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf)
-- VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz)
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

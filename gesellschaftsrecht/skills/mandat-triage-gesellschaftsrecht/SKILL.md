@@ -22,7 +22,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Arbeitsbereich
 
-Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht Paragraf 15a InsO drei Wochen Anfechtungsklage Paragraf 246 AktG ein Monat. Normen Paragraf 2 GmbHG Gründung Paragraf 48 GmbHG Gesellschafterversammlung Paragraf 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung, Gesellschafterbeschluss, Kapitalerhöhung, Geschäftsführer-Abberufung, M&A-Transaktion oder Gesellschafterstreit. Klärt Mandantenrolle und Rechtsform. Sofortfristen: Insolvenzantrag nach Paragraf 15a InsO ohne schuldhaftes Zögern mit Höchstfrist von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung; Anfechtungsklage nach Paragraf 246 AktG grundsätzlich binnen eines Monats. Output ist ein Triage-Memo mit Fristenampel und fachgenauem Routing.
 
 ## Arbeitsweg
 
@@ -35,7 +35,6 @@ Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach Gmb
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Gesellschaftsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -49,7 +48,7 @@ Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach Gmb
 
 Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bis 4 bestimmen das Routing, Fragen 5 bis 8 die Mandatsstrategie:
 
-1. **Eilbeduerftigkeit zuerst:** Laeuft eine der folgenden Fristen? — Insolvenzantragspflicht Paragraf 15a InsO (3 Wochen); Beschluss-Anfechtungsfrist Paragraf 246 AktG (1 Monat); Closing-Termin heute; HV morgen. Falls ja: direkt zu Eskalation.
+1. **Eilbedürftigkeit zuerst:** Ist ein Insolvenzgrund bereits objektiv eingetreten? Dann Paragraf 15a InsO sofort und nicht erst am Ende der Drei-/Sechswochen-Höchstfrist bearbeiten. Außerdem prüfen: Anfechtungsfrist nach Paragraf 246 AktG, unmittelbar bevorstehendes Closing oder Versammlung.
 2. **Mandantenrolle:** Wer ist der Mandant? (Gesellschafter / Geschäftsführer / Aufsichtsrat / Investor / Kaeufer / Verkaeufer / Zielgesellschaft / Gläubiger)
 3. **Rechtsform der betroffenen Gesellschaft:** GmbH / UG / AG / SE / GmbH & Co. KG / OHG / GbR / Stiftung / Verein
 4. **Vorgang:** Was soll rechtlich geschehen oder was ist passiert?
@@ -61,7 +60,7 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 
 ## Zentrale Normen
 
-Paragraf 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsunfaehigkeit) — Paragraf 43 GmbHG (Geschäftsführer-Haftung; Verjährung 5 Jahre) — Paragraf 93 AktG (Vorstandshaftung) — Paragraf 246 AktG (Anfechtungsklage; 1 Monat ab Beschlussfassung) — Paragraf 14 UmwG (Klagefrist Umwandlung; 1 Monat) — Paragraf 35 ff. GWB (Fusionskontrolle; Vollzugsverbot bis Freigabe) — Paragraf 43a Abs. 4 BRAO (Verbot widersteitender Interessen) — Paragraf 1 ff. GwG (Identifizierungspflicht vor Mandatsannahme)
+Paragraf 15a InsO (unverzüglicher Antrag; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung) — Paragraf 43 GmbHG — Paragraf 93 AktG — Paragraf 246 AktG — Paragraf 14 UmwG — Paragraf 35 ff. GWB — Paragraf 43a Absatz 4 BRAO — GwG nach konkreter Verpflichteten- und Kataloggeschäftsprüfung.
 
 ## Aktuelle Rechtsprechung
 
@@ -123,7 +122,7 @@ Paragraf 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsu
 
 ### Frage 4 — Akute Eilbedürftigkeit?
 
-- **Insolvenzantragspflicht** Paragraf 15a InsO drei Wochen
+- **Insolvenzantragspflicht** Paragraf 15a InsO: unverzüglich; Drei-/Sechswochen-Höchstfrist nach Insolvenzgrund
 - **Geschäftsführer-Abberufung** Versammlung morgen
 - **Closing-Termin** binnen Tagen
 - **Beschluss-Anfechtung** Frist
@@ -153,7 +152,7 @@ Paragraf 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsu
 
 ### Frage 7 — Frist?
 
-- **Paragraf 15a InsO** drei Wochen Antragspflicht
+- **Paragraf 15a InsO** unverzügliche Antragspflicht; Drei-/Sechswochen-Höchstfrist
 - **Paragraf 246 AktG** ein Monat Anfechtungsklage AG
 - **Paragraf 47 EGAktG / Paragraf 14 UmwG** Frist Umwandlung
 - **GWB-Anmeldung** Kartellrecht — vor Vollzug
@@ -289,7 +288,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Rote Schwellen
 
-- **Insolvenzantragspflicht Paragraf 15a InsO bereits ausgeloest** — 3-Wochen-Frist laeuft; Geschäftsführer persoenlich haftbar; sofortige Eskalation an Insolvenzrechts-Spezialisten.
+- **Insolvenzantragspflicht nach Paragraf 15a InsO möglicherweise ausgelöst** — objektiven Insolvenzgrund und Eintrittszeitpunkt sofort sichern; nicht bis zum Ende der Höchstfrist warten; Haftungs- und Strafrisiken fachlich getrennt prüfen.
 - **Beschluss-Anfechtungsfrist Paragraf 246 AktG < 5 Tage** — Klage sofort vorbereiten; Fristversaeumung fuehrt zur Bestandskraft auch fehlerhafter Beschlüsse.
 - **Interessenkonflikt erkannt** — Mandat nicht annehmen oder aufteilen; Paragraf 43a Abs. 4 BRAO.
 - **GwG-Identifizierung nicht abgeschlossen** — keine Beratungsleistung vor Identifizierung; Bussgeldhaftung bei Verstoss.

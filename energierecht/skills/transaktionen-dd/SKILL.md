@@ -297,4 +297,3 @@ description: "Wenn es um Energie-Transaktionen und Due Diligence in Energierecht
 - Bundeskartellamt-Praxis Energie-Fusionen
 
 ---
-<!-- AUDIT 27.05.2026 -->

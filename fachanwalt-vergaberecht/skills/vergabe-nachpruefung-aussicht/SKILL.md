@@ -53,7 +53,6 @@ description: "Wenn es um Vergabe Nachpruefung Aussicht in Fachanwalt Vergaberech
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema in Tabellenform
 
@@ -216,7 +215,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Einwand Auftraggeber | Reaktion |
 |---|---|
 | Rüge nicht rechtzeitig / keine Rüge | Kenntnisnachweis durch Vorlage Informationsschreiben; ggf. § 134 GWB Datum prüfen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vergabeverstoß bloß rechnerisch nicht relevant | Kausalität genügt; drohender Schaden ausreichend |
 | Aufhebung des Verfahrens zulässig | § 63 VgV Aufhebungsgründe abarbeiten; tatsächliche Gründe müssen vorliegen |
 | Sofortiger Zuschlag im öffentlichen Interesse | § 169 Abs. 3 GWB Ausnahme; strenge Voraussetzungen; VK entscheidet nach Abwägung |

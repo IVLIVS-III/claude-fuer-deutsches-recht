@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 345 Skills (gekuerzt fuer Chat-Fenster) des Plugins `haushaltsrecht-bho-bund-laender`.
+Diese Vollprüfung enthält top-8 von 345 Skills (gekürzt für das Arbeitsfenster) des Plugins `haushaltsrecht-bho-bund-laender`.
 
 ## Inhaltsverzeichnis
 
@@ -164,35 +164,6 @@ _Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund un
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-
 ---
 
 ## Skill: `bho-10-unterrichtung-praktisch-anwende`
@@ -223,35 +194,6 @@ _Wenn es um Bho 10 Unterrichtung Praktisch Anwende in Haushaltsrecht BHO Bund un
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
 ---
 
@@ -284,35 +226,6 @@ _Wenn es um Bho 11 Vollstaendigkeit Praktisch Anwe in Haushaltsrecht BHO Bund un
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-
 ---
 
 ## Skill: `bho-12-geltungsdauer-praktisch-anwende`
@@ -343,35 +256,6 @@ _Wenn es um Bho 12 Geltungsdauer Praktisch Anwende in Haushaltsrecht BHO Bund un
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
 
 ---
 
@@ -404,35 +288,6 @@ _Wenn es um Bho 14 Funktionenplan Praktisch Anwend in Haushaltsrecht BHO Bund un
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-
 ---
 
 ## Skill: `bho-16-verpflichtungsermaechtigung-praxis`
@@ -464,40 +319,11 @@ _Wenn es um Bho 16 Verpflichtungsermaechtigung Pra in Haushaltsrecht BHO Bund un
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.
-
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

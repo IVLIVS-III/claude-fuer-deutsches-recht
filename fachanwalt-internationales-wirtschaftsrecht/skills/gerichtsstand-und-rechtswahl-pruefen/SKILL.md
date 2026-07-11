@@ -57,7 +57,6 @@ description: "Wenn es um Gerichtsstand Und Rechtswahl Pruefen in Fachanwalt Inte
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema
 
@@ -189,11 +188,8 @@ Wir beantragen: Zwangsvollstreckung aus diesem Titel anzuordnen.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion |
 |---------------|---------------------|---------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Schiedsklausel unwirksam (Überraschungsklausel AGB) | § 305c BGB, § 1029 ZPO | Im B2B gilt AGB-Kontrolle eingeschränkt; Klausel nicht überraschend bei handelsüblichen Vertragsbedingungen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Ordre-public-Einwand gegen ausländ. Urteil | Art. 45 Abs. 1 lit. a Brüssel Ia, § 328 Abs. 1 Nr. 4 ZPO | Nur bei Kernverstoß gegen dt. Grundwertungen; bloße Rechtsabweichung genügt nicht |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Eingriffsnormen vereiteln gewähltes Recht | Art. 9 Rom I | Auftrag an Vertragspartner: Eingriffsnormen (z.B. Embargorecht, Wettbewerbsrecht) ausdrücklich im Vertrag adressieren |
 
 ## Streitwert und Kosten
@@ -237,7 +233,7 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 - New Yorker Übereinkommen v. 10.06.1958, BGBl. 1961 II S. 121
 - ZPO §§ 1029 ff., § 328
 
-<!-- AUDIT 27.05.2026: BGH VII ZR 167/13 (12.06.2014) NOT_FOUND auf dejure.org – ersetzt durch BGH VII ZR 139/17 (26.04.2018), NJW 2019, 76, verifiziert auf dejure.org. Kernaussage: Erfüllungsort Dienstleistung Art. 7 Nr. 1 Buchst. b Brüssel Ia. -->
+
 
 ## Vertiefung: Triage und Output-Template Gerichtsstand
 

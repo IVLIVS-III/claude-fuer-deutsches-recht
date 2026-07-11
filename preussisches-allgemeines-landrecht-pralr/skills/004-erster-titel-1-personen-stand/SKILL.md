@@ -32,7 +32,7 @@ ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschäftsf
 - Verschollenheitsregeln vollstaendig durch VerschG 1951 und BGB ueberlagert.
 
 ### Beruehmte Faelle / Personen
-- Streit um die "Adelsfuehrung" der ehemaligen Mediatisierten — bis in BVerfG-Entscheidungen zur Namensfuehrung (Az im Digitalisat verifizieren).
+- Für heutige Namensfälle nicht aus dem historischen Standesrecht schließen: Artikel 109 Absatz 3 WRV macht Adelsbezeichnungen nur zu Namensbestandteilen; anschließend das geltende Namens- und Personenstandsrecht prüfen.
 - ALR-Personenrecht als Vorbild für ABGB (1811) und BGB (1900).
 
 ### Prüfraster

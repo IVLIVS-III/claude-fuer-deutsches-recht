@@ -113,8 +113,3 @@ Art. 27 KI-VO — FRIA:
 Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
 Verantwortlicher: [NAME], [DATUM]
 ```
-
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 035:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

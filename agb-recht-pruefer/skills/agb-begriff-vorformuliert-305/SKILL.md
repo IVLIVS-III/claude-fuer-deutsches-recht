@@ -39,8 +39,8 @@ description: "Wenn es um AGB Begriff Vorformuliert 305 in AGB-Recht-Prüfer geht
 
 ### Begriffstatbestand § 305 Abs. 1 BGB
 - "Allgemeine Geschäftsbedingungen sind alle für eine Vielzahl von Vertraegen vorformulierten Vertragsbedingungen, die eine Vertragspartei (Verwender) der anderen Vertragspartei bei Abschluss eines Vertrages stellt."
-- **"Vielzahl"**: BGH legt regelmaessig die Schwelle bei beabsichtigter Verwendung in mindestens drei Faellen; einmalige Nutzung ist keine AGB-Verwendung — BGH staendige Rspr., Az im Digitalisat verifizieren.
-- **"Stellen"**: Verwender ist, wer die Bedingung der anderen Seite einseitig auferlegt. Bei einseitigem Vertragsentwurf gilt der Entwerfende als Verwender — BGH VIII ZR 254/17 (im Digitalisat verifizieren) zur Stellung im Wohnraummietrecht.
+- **"Vielzahl"**: Entscheidend ist die Mehrfachverwendungsabsicht bei Vertragsschluss, nicht die Zahl der bereits geschlossenen Verträge. Eine beabsichtigte Verwendung in mindestens drei Fällen genügt regelmäßig; die Verbraucher-Sonderregel des Paragraf 310 Absatz 3 Nummer 2 BGB gesondert prüfen.
+- **"Stellen"**: Verwender ist, wer die Einbeziehung der vorformulierten Bedingung verlangt. Urheberschaft am Text und Verwenderstellung sind nicht notwendig identisch; Initiative, Verhandlungsmacht und reale Einflussmöglichkeit anhand der Akte feststellen.
 - **"Aushandeln" als Ausnahme § 305 Abs. 1 Satz 3 BGB**: nur bei tatsaechlicher Verhandlungsbereitschaft; der Verwender muss den Kerngehalt der Klausel ernsthaft zur Disposition gestellt haben. BGH VII ZR 56/15 für Werkvertraege; BGH X ZR 50/14 für den Reisevertrag.
 
 ### Einbeziehungsvoraussetzungen § 305 Abs. 2, 3 BGB
@@ -49,9 +49,7 @@ description: "Wenn es um AGB Begriff Vorformuliert 305 in AGB-Recht-Prüfer geht
 - Rahmenvereinbarung: § 305 Abs. 3 BGB ermoeglicht globale Einbeziehung für Dauerschuldverhaeltnisse.
 
 ### Aktuelle BGH-Entscheidungen
-- BGH zur AGB-Einbeziehung im Online-Handel — staendige Rspr.; konkrete Az im Mandat verifizieren.
-- BGH X ZR 89/18 zum Reisevertrag (Az im Digitalisat verifizieren).
-- BGH VIII ZR 13/19 Cookie-Banner-Linie zu Einwilligung als AGB-Frage.
+- Bei Online-Einbeziehung Sichtbarkeit des Hinweises vor Vertragsschluss, Abrufbarkeit, Speicherbarkeit und konkrete Bestellstrecke beweisen; Cookie-Einwilligung und Vertrags-AGB nicht miteinander vermischen.
 
 ### Prüfraster
 1. Vorformuliert + für Vielzahl + gestellt? — § 305 Abs. 1 BGB.
@@ -60,34 +58,6 @@ description: "Wenn es um AGB Begriff Vorformuliert 305 in AGB-Recht-Prüfer geht
 4. Vorrang Individualabrede § 305b BGB?
 5. ueberraschende Klausel § 305c BGB? — Inhaltskontrolle erst nachgelagert.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 305 BGB (Einbeziehung von AGB)
-- § 305c BGB (überraschende und mehrdeutige Klauseln)
-- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
-- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
-- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
-- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
-- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
-- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
-- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
-- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
-
-### Leitentscheidungen
-
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
-- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 186/17 (App-Zentrum/Meta: Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß)
-- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
-
-### Anwendung im Skill
-
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
-- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.
 
 ## Quellenanker
 

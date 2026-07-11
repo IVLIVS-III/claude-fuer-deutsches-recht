@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 366 Skills (gekuerzt fuer Chat-Fenster) des Plugins `datenschutzrecht`.
+Diese Vollprüfung enthält top-8 von 366 Skills (gekürzt für das Arbeitsfenster) des Plugins `datenschutzrecht`.
 
 ## Inhaltsverzeichnis
 
@@ -429,7 +429,7 @@ Sieben-Fragen-Diagnose:
 - **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befuerchtungen Betroffener koennen Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu pruefen.
 - **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Hoehe nach nationalem Recht, aber unter Beachtung Effektivitaet und Aequivalenz.
 - **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen moeglich.
-- **BGH VI ZR 1148/22** (Urteil 18.11.2024): Bei DSGVO-Verstoss zeitnah Kontrollverlust und Folgen darzulegen; pauschale Behauptung reicht nicht.
+- BGH, Urteil vom 18.11.2024 - VI ZR 10/24: Schon ein nachgewiesener kurzzeitiger Kontrollverlust kann ein immaterieller Schaden sein; eine missbräuchliche Verwendung oder zusätzliche spürbare Nachteile sind nicht erforderlich. Anspruchsteller müssen den tatsächlichen Kontrollverlust und dessen Verursachung durch den Verstoß darlegen und beweisen.
 - **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
 - **§ 195 BGB** drei Jahre.
 
@@ -439,7 +439,7 @@ Sieben-Fragen-Diagnose:
 
 1. **Zuerst:** Beleg-Akte anlegen — Mailverkehr, Screenshots, Auskunftsersuchen nach Art. 15 DSGVO mit Antwort.
 2. **Als zweites:** Schadensdarstellung konkretisieren — Gefuehlssituation, zeitlicher Verlauf, Folgen (Sorge, Kontrollverlust, Aengste, konkrete Aufwendungen).
-3. **Als drittes:** Klage einreichen — Gerichtsstand Art. 79 II DSGVO, regelmaessig Amtsgericht bis 5.000 EUR.
+3. Als drittes: Klageweg bestimmen. Artikel 79 Absatz 2 DSGVO regelt den unionsrechtlichen Gerichtsstand, nicht die sachliche Zuständigkeit; diese folgt im ordentlichen Rechtsweg grundsätzlich aus Paragrafen 23 Nummer 1, 71 Absatz 1 GVG mit Amtsgericht bis einschließlich 10.000 Euro. Bei Beschäftigtendaten den Rechtsweg zu den Arbeitsgerichten gesondert prüfen.
 
 ### Beklagtenseite
 
@@ -481,7 +481,7 @@ Sieben-Fragen-Diagnose:
 ### Klageerwiderung — Kernpunkte
 
 > 1. Verstoss bestreiten oder relativieren (welche DSGVO-Norm konkret und Subsumtion).
-> 2. Schaden bestreiten: blosse Sorge ohne Substanz reicht nach BGH VI ZR 1148/22 nicht; konkrete Folgen notwendig.
+> 2. Schaden differenziert bestreiten: Ist ein tatsächlicher Kontrollverlust bewiesen, sind nach BGH VI ZR 10/24 keine zusätzlichen spürbaren Folgen erforderlich. Fehlt ein Kontrollverlust, müssen eine begründete Missbrauchsbefürchtung und ihre negativen Folgen substantiiert und bewiesen sein.
 > 3. Kausalitaet bestreiten — auch bei TOM-Pflichtverletzung muss Schaden konkret aus Verletzung resultieren.
 > 4. Entlastung Art. 82 III: TOM Art. 32 lagen vor (Anlage), Massnahmen waren angemessen.
 > 5. Verjaehrung pruefen (§ 195 BGB).
@@ -489,7 +489,7 @@ Sieben-Fragen-Diagnose:
 
 ## Typische Fehler
 
-- Pauschale Schadensbehauptung "Kontrollverlust" ohne konkrete Substanz (BGH VI ZR 1148/22).
+- Einen bloß behaupteten mit einem bewiesenen Kontrollverlust gleichsetzen; BGH VI ZR 10/24 verlangt den Nachweis des Kontrollverlusts, aber keine zusätzlichen spürbaren Folgen.
 - TOM-Pflicht Art. 32 unterschaetzt — Beklagte muss Massnahmen aktiv belegen.
 - Verschuldensfrage nach EuGH C-741/21 uebersehen.
 - Streitwert zu hoch angesetzt — bei AG-Zustaendigkeit Vorbehalt.
@@ -509,7 +509,7 @@ Sieben-Fragen-Diagnose:
 
 - DSGVO Art. 79, 82, 83.
 - BGB § 195, § 199, § 823, § 826.
-- BGH VI ZR 1148/22, Urteil 18.11.2024 (zu pauschalen Behauptungen Kontrollverlust).
+- BGH, Urteil vom 18.11.2024 - VI ZR 10/24 (Kontrollverlust als immaterieller Schaden; Nachweis und Bemessung).
 - EuGH C-300/21 Oesterreichische Post, Urteil 04.05.2023.
 - EuGH C-340/21 Bulgarian Sofia, Urteil 14.12.2023.
 - EuGH C-687/21 MediaMarkt, Urteil 25.01.2024.
@@ -646,7 +646,7 @@ Sieben-Fragen-Diagnose:
 - **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befürchtungen Betroffener können Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu prüfen.
 - **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Höhe nach nationalem Recht, aber unter Beachtung Effektivitaet und Äquivalenz.
 - **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen möglich.
-- **BGH VI ZR 1148/22** (Urteil 18.11.2024): Bei DSGVO-Verstoss zeitnah Kontrollverlust und Folgen darzulegen; pauschale Behauptung reicht nicht.
+- BGH, Urteil vom 18.11.2024 - VI ZR 10/24: Schon ein nachgewiesener kurzzeitiger Kontrollverlust kann ein immaterieller Schaden sein; eine missbräuchliche Verwendung oder zusätzliche spürbare Nachteile sind nicht erforderlich. Anspruchsteller müssen den tatsächlichen Kontrollverlust und dessen Verursachung durch den Verstoß darlegen und beweisen.
 - **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
 - **§ 195 BGB** drei Jahre.
 
@@ -656,7 +656,7 @@ Sieben-Fragen-Diagnose:
 
 1. **Zuerst:** Beleg-Akte anlegen — Mailverkehr, Screenshots, Auskunftsersuchen nach Art. 15 DSGVO mit Antwort.
 2. **Als zweites:** Schadensdarstellung konkretisieren — Gefuehlssituation, zeitlicher Verlauf, Folgen (Sorge, Kontrollverlust, Aengste, konkrete Aufwendungen).
-3. **Als drittes:** Klage einreichen — Gerichtsstand Art. 79 II DSGVO, regelmaessig Amtsgericht bis 5.000 EUR.
+3. Als drittes: Klageweg bestimmen. Artikel 79 Absatz 2 DSGVO regelt den unionsrechtlichen Gerichtsstand, nicht die sachliche Zuständigkeit; diese folgt im ordentlichen Rechtsweg grundsätzlich aus Paragrafen 23 Nummer 1, 71 Absatz 1 GVG mit Amtsgericht bis einschließlich 10.000 Euro. Bei Beschäftigtendaten den Rechtsweg zu den Arbeitsgerichten gesondert prüfen.
 
 ### Beklagtenseite
 
@@ -698,7 +698,7 @@ Sieben-Fragen-Diagnose:
 ### Klageerwiderung — Kernpunkte
 
 > 1. Verstoss bestreiten oder relativieren (welche DSGVO-Norm konkret und Subsumtion).
-> 2. Schaden bestreiten: blosse Sorge ohne Substanz reicht nach BGH VI ZR 1148/22 nicht; konkrete Folgen notwendig.
+> 2. Schaden differenziert bestreiten: Ist ein tatsächlicher Kontrollverlust bewiesen, sind nach BGH VI ZR 10/24 keine zusätzlichen spürbaren Folgen erforderlich. Fehlt ein Kontrollverlust, müssen eine begründete Missbrauchsbefürchtung und ihre negativen Folgen substantiiert und bewiesen sein.
 > 3. Kausalitaet bestreiten — auch bei TOM-Pflichtverletzung muss Schaden konkret aus Verletzung resultieren.
 > 4. Entlastung Art. 82 III: TOM Art. 32 lagen vor (Anlage), Maßnahmen waren angemessen.
 > 5. Verjährung prüfen (§ 195 BGB).
@@ -706,7 +706,7 @@ Sieben-Fragen-Diagnose:
 
 ## Typische Fehler
 
-- Pauschale Schadensbehauptung "Kontrollverlust" ohne konkrete Substanz (BGH VI ZR 1148/22).
+- Einen bloß behaupteten mit einem bewiesenen Kontrollverlust gleichsetzen; BGH VI ZR 10/24 verlangt den Nachweis des Kontrollverlusts, aber keine zusätzlichen spürbaren Folgen.
 - TOM-Pflicht Art. 32 unterschaetzt — Beklagte muss Maßnahmen aktiv belegen.
 - Verschuldensfrage nach EuGH C-741/21 uebersehen.
 - Streitwert zu hoch angesetzt — bei AG-Zuständigkeit Vorbehalt.
@@ -718,7 +718,7 @@ Sieben-Fragen-Diagnose:
 
 - DSGVO Art. 79, 82, 83.
 - BGB § 195, § 199, § 823, § 826.
-- BGH VI ZR 1148/22, Urteil 18.11.2024 (zu pauschalen Behauptungen Kontrollverlust).
+- BGH, Urteil vom 18.11.2024 - VI ZR 10/24 (Kontrollverlust als immaterieller Schaden; Nachweis und Bemessung).
 - EuGH C-300/21 Oesterreichische Post, Urteil 04.05.2023.
 - EuGH C-340/21 Bulgarian Sofia, Urteil 14.12.2023.
 - EuGH C-687/21 MediaMarkt, Urteil 25.01.2024.
@@ -730,7 +730,7 @@ Sieben-Fragen-Diagnose:
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

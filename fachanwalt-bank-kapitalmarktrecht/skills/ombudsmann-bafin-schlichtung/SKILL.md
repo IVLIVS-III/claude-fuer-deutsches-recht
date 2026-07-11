@@ -80,7 +80,7 @@ description: "Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Ver
 
 ### Phase 5 — Klage bei Scheitern
 
-- LG-Streit für > 5.000 EUR
+- Gerichtlicher Weg nach Verfahrensordnung, Spezialzuweisung und Streitwert; allgemeine Landgerichtszuständigkeit erst über 10.000 Euro
 - Sachverständigen-Beweis (Bankgutachten BdSt, BaFin-Beratungs-Standards)
 - ggf. Mediation § 278a ZPO
 
@@ -176,11 +176,7 @@ Anlagen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)
-Ersatz: BGH III ZR 60/19, NJW 2021, 153 (verifiziert auf dejure.org)
-Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Schlichtungs-Kontext
--->
+
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -189,4 +185,3 @@ Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Sc
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

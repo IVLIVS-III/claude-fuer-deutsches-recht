@@ -132,7 +132,6 @@ Stand: 05/2026.
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->
 
 
 ## Qualitäts-Hardening

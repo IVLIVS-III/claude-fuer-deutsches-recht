@@ -107,5 +107,3 @@ Rechtlich offen ist die Frage [zentrale Rechtsfrage].
 - [ ] Aktueller Stand und nächster Schritt benannt?
 - [ ] Keine Wertung, keine Prognose?
 - [ ] Richterliche Hinweise nach § 139 ZPO berücksichtigt?
-
-<!-- AUDIT 27.05.2026: BGH VI ZR 146/19 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 84/19, NJW 2021, 2364 (verifiziert auf dejure.org). -->

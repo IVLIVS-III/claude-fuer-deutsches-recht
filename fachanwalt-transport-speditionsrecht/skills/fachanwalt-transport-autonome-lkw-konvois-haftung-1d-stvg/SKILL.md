@@ -50,7 +50,6 @@ Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehi
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -236,7 +235,6 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 | "Frachtführer haftet nicht wegen autonomen Systems" | CMR Art. 17 ist verschuldensunabhängige Obhutshaftung; autonomer Modus ändert Haftungsgrundlage nicht; Frachtführer muss Haftungsausschluss Art. 17 Abs. 2 CMR beweisen |
 | "§ 7 StVG greift nicht weil autonomes Fahrzeug kein klassisches Kfz" | § 1d StVG ändert nichts an der Halterhaftung nach § 7 StVG; Halter haftet nach § 7 bei jedem Betrieb des Fahrzeugs |
 | "Black-Box-Daten sind nicht zugänglich" | § 1g StVG: Pflicht zur Datenspeicherung; § 1h StVG: Auskunftspflicht gegenüber Behörden; gerichtlicher Herausgabeanspruch bei drohender Vernichtung möglich (§ 809 BGB) |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | "Fahrer hätte eingreifen müssen" | Bei Level 3/4: Fahrer ist nur zur Übernahme verpflichtet wenn System Übergabe anfordert; ohne Anforderung keine Eingreifpflicht |
 
 ---
@@ -260,7 +258,6 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 | Personenschaden durch autonomen LKW | Primär § 7 StVG (Halter), sekundär ProdHaftG (Hersteller); beide als Gesamtschuldner verklagen |
 | Ladungsschaden des Frachtkunden | Direktanspruch gegen Frachtführer aus CMR Art. 17; Frachtführer nimmt Regress gegen Hersteller nach ProdHaftG |
 | Black-Box-Daten drohen gelöscht zu werden | Einstweilige Verfügung auf Datensicherung nach § 809 BGB; Sicherungsantrag beim KBA nach § 1h StVG |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Technische Aufsicht hat nicht reagiert | Verschuldenshaftung der benannten Person; ggf. auch des Halters für Auswahl und Überwachung nach § 831 BGB |
 
 ---

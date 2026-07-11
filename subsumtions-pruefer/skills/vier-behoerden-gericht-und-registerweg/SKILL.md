@@ -19,8 +19,8 @@ description: "Wenn es um Behörden-, Gerichts- und Registerweg in Subsumtions-Pr
 
 | Gericht | Zuständigkeit | Norm |
 |---|---|---|
-| Amtsgericht | bis EUR 5.000; Miete, Unterhalt unabhängig vom Streitwert | §§ 23, 23a GVG |
-| Landgericht | ab EUR 5.000; Handelssachen; Kapitalmarkt | § 71 GVG; § 95 GVG |
+| Amtsgericht | allgemeine Zivilsachen bis einschließlich 10.000 Euro; Wohnraummietsachen wertunabhängig; Familiensachen beim Familiengericht | Paragrafen 23 Nummer 1 und 2a, 23a GVG |
+| Landgericht | allgemeine Zivilsachen über 10.000 Euro sowie gesetzlich wertunabhängig zugewiesene Sachen; Handelssache nur bei Zuständigkeit und den Voraussetzungen der Paragrafen 94 ff. GVG | Paragrafen 71, 94 ff. GVG |
 | Oberlandesgericht | Berufung gegen LG-Urteile; bestimmte erstinstanzliche Verfahren | §§ 119 ff. GVG |
 | Bundesgerichtshof | Revision; bestimmte erste Instanz | § 133 GVG |
 

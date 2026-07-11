@@ -83,29 +83,3 @@ Agenturverträge sind für Creator häufig die rechtlich riskanteste Vertragsfor
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 5a UWG
-- § 5 UWG
-- § 22 KUG
-- § 5 TMG
-- § 31 UrhG
-- § 19 UStG
-- § 15 EStG
-- § 3a UStG
-- § 4 EStG
-- § 3 UWG
-- § 8 EStG
-- § 13 UWG
-
-### Leitentscheidungen
-
-- BGH I ZR 35/21
-- BGH I ZR 90/20
-- BGH I ZR 125/20
-- BGH I ZR 126/20
-- BGH III ZR 183/21
-- BFH XI R 14/09

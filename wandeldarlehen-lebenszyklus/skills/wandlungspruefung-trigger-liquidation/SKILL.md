@@ -87,8 +87,3 @@ Stand: 05/2026. Bei Änderung GmbHG § 15/UmwStG § 20 aktualisieren.
 ### Normen-Ergänzung
 
 § 161 UmwG (Spaltung als Liquidation Event?) → § 2 UmwG (Verschmelzung als Exit) → §§ 60 ff. GmbHG (Liquidation GmbH) → § 39 InsO (Nachrang bei Insolvenz) → § 15 GmbHG (Share Deal — Anteilsübertragung)
-
-<!-- AUDIT 27.05.2026
-Geprüfte AZ (task_254.json, 3 Probleme):
-Alle Löschungen gemäß Reparaturregel "bei Zweifel löschen". Frontmatter unverändert.
--->

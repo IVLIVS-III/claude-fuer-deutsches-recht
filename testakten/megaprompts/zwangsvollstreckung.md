@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `zwangsvollstreckung`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `zwangsvollstreckung`.
 
 ## Inhaltsverzeichnis
 
@@ -10,17 +10,17 @@ Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `zwangsvollstrecku
 2. **zwangsvollstreckung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel in Zwangsvollstreckung geht: klärt Rolle, Zie…
 3. **mobiliar-gv-auftrag** — Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Bew…
 4. **kontenpfaendung-notar-interessen-online** — Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den pa…
-5. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
-6. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
-7. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
-8. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
-9. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
-10. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
-11. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
-12. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
-13. **vollstreckungsbescheid-zv** — Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sac…
-14. **kontensuche-drittschuldner** — Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sach…
-15. **pfueb-raeumung-schuldnerschutz-beweislast** — Wenn es um Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien in Zwangsvollstreckung geht: zerlegt Ergebnis, Fri…
+5. **pfaendungstabelle-pfueb-arbeitsentgelt** — Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfä…
+6. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
+7. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
+8. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
+9. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
+10. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
+11. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
+12. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
+13. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
+14. **vollstreckungsbescheid-zv** — Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sac…
+15. **kontensuche-drittschuldner** — Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sach…
 
 ---
 
@@ -335,6 +335,119 @@ Anlagen:
 - Paragraf-840-Erklärung immer mitziehen und Nachfrist setzen, wenn die Bank nicht reagiert.
 - Ab 1.1.2027 PDF und XML nicht getrennt pflegen; jede Betragsänderung muss in beiden Fassungen identisch sein.
 - Ab 1.6.2027 elektronische Bankzustellung nicht nur behaupten, sondern Zustellnachweis und Übermittlungsweg dokumentieren.
+
+---
+
+## Skill: `pfaendungstabelle-pfueb-arbeitsentgelt`
+
+_Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfändung und P-Konto-Schutz und liefert ein prüfbares Berechnungsprotokoll mit Unterhaltspflichten, Sonderbezügen und Antragsfolgen._
+
+# Pfändungstabelle ab 1. Juli 2026
+
+## Arbeitsbereich
+
+Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli 2026 bis 30. Juni 2027 geltenden Bekanntmachung berechnen. Vor der Zahl immer Einkommensart, Bereinigungspositionen nach Paragraf 850e ZPO, unpfändbare Bezüge nach Paragraf 850a ZPO, tatsächlich gewährten gesetzlichen Unterhalt und eine gerichtliche Anordnung prüfen. P-Konto-Schutz nach Paragrafen 899 und 902 ZPO und privilegierte Unterhaltspfändung nach Paragraf 850d ZPO sind getrennte Rechenwege.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+
+1. Handelt es sich um Arbeitseinkommen (§ 850c ZPO) oder selbstständiges Einkommen (§ 850i ZPO)?
+2. Wie viele unterhaltsberechtigte Personen sind zu berücksichtigen?
+3. Handelt es sich um privilegierte Unterhaltspfändung (§ 850d ZPO) oder reguläre Pfändung?
+4. Hat der Schuldner ein P-Konto? Dann Einrichtung nach Paragraf 850k ZPO, Sockel nach Paragraf 899 ZPO, bescheinigte Erhöhungen nach Paragrafen 902 und 903 ZPO sowie Nachzahlungen gesondert erfassen.
+
+## Aktuelle Rechtsprechung
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Zentrale Normen
+
+- § 850a ZPO — Unpfändbare Bezüge (Sonderzuwendungen, Aufwandsentschädigungen)
+- § 850c ZPO — Pfändungsfreigrenze (Tabelle, jährlich angepasst)
+- § 850d ZPO — privilegierte Unterhaltspfändung (geringerer Selbstbehalt)
+- § 850f ZPO — Erhöhung durch Gericht aus persönlichen Gründen
+- § 850i ZPO — Pfändung bei selbstständigem Einkommen
+- Paragraf 850k ZPO: Einrichtung und Beendigung des Pfändungsschutzkontos
+- Paragrafen 899, 902 bis 906 ZPO: Sockelbetrag, Erhöhungsbeträge, Nachweis und gerichtliche Festsetzung
+
+## Startet bei
+
+- Lohnpfändung in Vorbereitung (`zv-pfueb-arbeitsentgelt`)
+- Kontopfändung mit P-Konto-Berechnung (`zv-pfueb-bank` + § 850k ZPO)
+- Schuldnerseite verlangt Anpassung der Freibeträge (`zv-abwehr-schuldner`)
+
+## Rechtsgrundlagen
+
+- § 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen
+- § 850d ZPO – Unterhaltsforderungen (privilegiert, geringerer Freibetrag, vom Gericht festgesetzt)
+- § 850f ZPO – Erhöhung durch Gericht aus persönlichen Gründen
+- Paragraf 850k sowie Paragrafen 899, 902 bis 906 ZPO: P-Konto, Grundbetrag, Erhöhungen und gerichtliche Festsetzung
+- Pfändungsfreigrenzenbekanntmachung 2026 vom 19. März 2026, BGBl. 2026 I Nr. 80, in Kraft vom 1. Juli 2026 bis 30. Juni 2027
+- Amtliche Quelle: https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/
+- Nächste Anpassung zum 1. Juli 2027 nach Paragraf 850c Absatz 4 ZPO
+
+## Gültigkeit der aktuellen Tabelle
+
+Die Bekanntmachung gilt vom 1. Juli 2026 bis 30. Juni 2027. Das Werkzeug warnt in den letzten dreißig Tagen und sperrt keine Berechnung, kennzeichnet nach Fristablauf aber jede Ausgabe unübersehbar als veraltet. Vor Verwendung in einem Antrag sind Tagesdatum und amtliche Tabelle abzugleichen.
+
+## Eckwerte (aus Tabelle, dezimal mit Punkt)
+
+Aktuelle Eckdaten (Tabelle 1. Juli 2026 bis 30. Juni 2027, BGBl. 2026 I Nr. 80):
+
+- Grundfreibetrag ohne Unterhaltspflichten: 1.587,40 Euro netto monatlich.
+- Erhöhung für die erste berücksichtigte Person: 597,42 Euro.
+- Erhöhung für jede weitere Person bis zur fünften: 332,83 Euro.
+- Vollpfändungsgrenze: 4.866,30 Euro; nur der Mehrbetrag ist vollständig pfändbar.
+- Für die Tabellenberechnung wird der Betrag bis zur Vollpfändungsgrenze nach Paragraf 850c Absatz 5 ZPO auf volle zehn Euro abgerundet; der Mehrbetrag über 4.866,30 Euro bleibt centgenau hinzuzurechnen.
+- P-Konto-Grundbetrag nach Paragraf 899 Absatz 1 ZPO: 1.590,00 Euro; Erhöhungen setzen die Tatbestände und Nachweise der Paragrafen 902 und 903 ZPO voraus.
+- Centbeträge folgen der amtlichen Tabelle; keine pauschale Abrundung des Endergebnisses.
+- Alle exakten Werte im `werkzeuge/pfaendungsrechner.py` (Single Source of Truth).
+
+Die Werte sind im Werkzeug zentral hinterlegt; dieses Dokument nennt sie zur Sichtkontrolle. Die amtliche Tabelle bleibt für den konkreten Antrag maßgeblich.
+
+## Workflow
+
+1. **Inputs einholen**: Nettoeinkommen, Anzahl unterhaltsberechtigter Personen, ggf. Sonderzuwendungen, Privileg § 850d ZPO ja/nein.
+2. **Python-Werkzeug aufrufen**: `python zwangsvollstreckung/werkzeuge/pfaendungsrechner.py --netto 2500 --unterhalt 1`.
+3. **Output**: Freibetrag, pfändbarer Betrag, Pfändungsstufen, Hinweise zu § 850a ZPO Sonderzuwendungen.
+4. Paragraf 850d ZPO: nur mit einem konkret begründeten oder gerichtlich festgesetzten Selbstbehalt rechnen, etwa `--privileg --selbstbehalt 1500`; das Werkzeug setzt keinen Pauschalwert ein.
+5. P-Konto: Grundbetrag nach Paragraf 899 ZPO und nachgewiesene Erhöhungen nach Paragrafen 902 und 903 ZPO getrennt ausgeben.
+6. **Antragstext** für den PfÜB ergänzen.
+
+## Privilegierte Unterhaltspfändung § 850d ZPO
+
+- Der notwendige Unterhalt wird vom Vollstreckungsgericht fallbezogen belassen. Die unterhaltsrechtlichen Selbstbehalte der Düsseldorfer Tabelle dürfen nicht ohne Begründung als Vollstreckungsfreibetrag übernommen werden.
+- Ohne konkreten Eingabewert verweigert das Werkzeug die privilegierte Berechnung.
+
+## P-Konto-Schutz § 850k ZPO – Erhöhungen
+
+Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater, Arbeitgeber, Familienkasse, Sozialleistungsträger) belegt werden:
+
+- pro unterhaltsberechtigter Person
+- Kindergeld
+- einmalige Sozialleistungen
+- Nachzahlungen
+
+## Leitentscheidungen
+
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Qualitätsgates
+
+- Keine abgelaufene Tabelle als aktuellen Rechtsstand verwenden.
+- Niemals Bruttobetrag in die Tabelle einsetzen.
+- Niemals § 850d ZPO ohne richterliche Festsetzung als feste Zahl ausgeben.
+- Bei selbstständigem Einkommen Berechnung § 850i ZPO statt § 850c ZPO.
+- Bei Sozialleistungen § 54 SGB I prüfen.
 
 ---
 
@@ -1250,12 +1363,6 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
 
-<!-- AUDIT 27.05.2026 bundle_055
-Halluzinations-Reparatur: BGH VII ZB 34/13 (NOT_FOUND) geloescht.
-Kein Ersatz: § 796 Abs. 1 ZPO regelt Klausel kraft Gesetzes direkt im Gesetz;
-kein bekanntes BGH-AZ zu diesem Einzelpunkt verifizierbar auf dejure.org.
--->
-
 ---
 
 ## Skill: `kontensuche-drittschuldner`
@@ -1338,63 +1445,11 @@ _Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht
 - Daten sind sensibel – Datenschutz beachten, Auskunft nur für konkrete Vollstreckung.
 - Doppelte Abfragen vermeiden (Kostenfalle).
 
-<!-- AUDIT 27.05.2026
-Problem : BGH VII ZB 14/20 vom 15.07.2021, NJW 2021, 3046 – Beschluss auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.07.2021&Aktenzeichen=VII+ZB+14%2F20
-Ersatz : BGH, Beschl. v. 22.01.2015 – I ZB 77/14, NJW 2015, 2509 (§ 802l ZPO, Drittauskünfte). Verifiziert: https://dejure.org/2015,17779
-Aktion : Zeile ersetzt
--->
-
----
-
-## Skill: `pfueb-raeumung-schuldnerschutz-beweislast`
-
-_Wenn es um Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien in Zwangsvollstreckung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pfueb** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen PfÜB (Pfändungs- und Überweisungsbeschluss)
-- **Rechtsgrundlage (§§ 829, 835 ZPO):** Pfändung der Geldforderung des Schuldners gegen Dritten (Drittschuldner) durch Beschluss des Vollstreckungsgerichts; gleichzeitige Überweisung zur Einziehung (§ 835 ZPO).
-- **Voraussetzungen (§ 750 ZPO):** Vollstreckungstitel mit vollstreckbarer Ausfertigung, Vollstreckungsklausel, Zustellung an den Schuldner vor Pfändung.
-- **Zuständigkeit (§ 828 ZPO):** Funktionell und örtlich das Amtsgericht des Schuldnerwohnsitzes (Rechtspfleger).
-- **Wirkung der Pfändung (§ 829 Abs. 3 ZPO):** Pfandrecht ab Zustellung an den Drittschuldner. Verfügungsverbot des Schuldners (§ 829 Abs. 1 S. 1 ZPO). Drittschuldner darf nur an Gläubiger zahlen (sonst Doppelzahlungsrisiko - § 836 BGB i.V.m. § 408 BGB).
-- **Drittschuldnererklärung (§ 840 ZPO):** Drittschuldner muss innerhalb von zwei Wochen nach Zustellung erklären, ob und in welcher Höhe er anerkennt; ob andere Pfändungen vorliegen; ob Auseinandersetzungen anhängig sind. Pflichtwidrige Erklärung: Schadensersatz.
-- **Pfändungsfreigrenzen (§ 850c ZPO):** Pfändbar nur über dem Freibetrag (alle zwei Jahre angepasste Pfändungsfreigrenzentabelle - Juli 2025 / Juli 2027). Bei Kontopfändung: P-Konto (§§ 850k, 850l ZPO) mit Grundfreibetrag und Erhöhungsbeträgen für Unterhaltspflichten.
-- **§ 850c ZPO Tabelle:** Aktueller Grundfreibetrag (Stand 01.07.2025) wird halbjährlich von BMJV bekanntgegeben - immer im Bundesanzeiger / juris.bmj.de prüfen.
-- **Erinnerung gegen PfÜB (§ 766 ZPO):** Vollstreckungserinnerung beim Vollstreckungsgericht; keine Frist, aber zügige Erhebung. Klauselgegenklage (§ 768 ZPO) und Vollstreckungsgegenklage (§ 767 ZPO) bei materiellen Einwendungen.
-- **Praktiker-Tipp:** Vor PfÜB-Antrag stets Vermögensauskunft (§ 802c ZPO) und § 802l ZPO Kontensuche prüfen, um geeignete Drittschuldner zu identifizieren. Bei mehreren Pfändungen zählt der Rang der Zustellung beim Drittschuldner.
-
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

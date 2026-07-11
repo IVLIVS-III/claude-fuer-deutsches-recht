@@ -34,10 +34,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- Für Voraussetzungen, Reichweite und Dauer der Stabilisierungsanordnung werden keine Entscheidungen aus Insolvenzanfechtung, Restschuldbefreiung oder Verwalterauswahl übertragen. Primär zu prüfen sind StaRUG Paragrafen 49 bis 59 und die aktuelle Fassung der betroffenen Vollstreckungs- und Verwertungssperren.
+- Der Beschluss begründet für jede betroffene Forderung oder Sicherung Planbezug, Erforderlichkeit, Eignung, Dauer, Gläubigernachteil und Aufhebungsmechanismus; nicht amtlich verifizierte Instanzrechtsprechung bleibt unzitiert.
 
 ## Prüfungsschema in Stufen
 

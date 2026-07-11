@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 60 Skills des Plugins `phishing-vorfall-pruefer`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `phishing-vorfall-pruefer`.
 
 ## Inhaltsverzeichnis
 
@@ -501,27 +501,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Praxis-Tipp
 Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" zu bezichtigen. Die Beweislast für **starke Kundenauthentifizierung** (§ 1 Abs. 24 ZAG: Wissen + Besitz + Inhärenz) trägt die Bank — wenn diese den Authentifizierungsnachweis nicht klar führen kann, gewinnt der Kunde § 675u BGB.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 263a StGB
-- Art. 33 DSGVO
-- § 1 ZAG
-- § 31 VVG
-- § 55 ZAG
-- Art. 34 DSGVO
-- § 4 FinDAG
-- § 27 ZAG
-- § 269 StGB
-- § 29 VwVfG
-- Art. 15 DSGVO
-- § 32 BSIG
-
-### Leitentscheidungen
-
-- BGH XI ZR 91/14
-
 ---
 
 ## Skill: `bankpflichten-beweislast-bgb`
@@ -810,7 +789,7 @@ Voraussetzung: Anzeige der Nichtautorisierung durch den Zahler unverzüglich nac
 1. **Außergerichtliche Korrespondenz**: Erstattungsforderung mit Fristsetzung 14 Tage; § 286 BGB-Verzug ab Ablauf.
 2. **Bankenombudsmann** (BdB, BVR, DSGV, VÖB): kostenlos für Verbraucher, bei Streitwert bis 10.000 EUR bindend für Bank (privater Bankensektor) — siehe jeweilige Schlichtungsordnung.
 3. **Schlichtung Deutsche Bundesbank** (§ 14 UKlaG i. V. m. ZAG): wenn keine eigene Schlichtungsstelle.
-4. **Klage**: Amtsgericht bis 5.000 EUR, sonst Landgericht; Streitverkündung Strafanzeige unabhängig fortführen.
+4. Klage: Amtsgericht bis einschließlich 10.000 Euro, darüber Landgericht; örtliche Zuständigkeit, Anwaltszwang, Streitverkündung und ein strafrechtliches Parallelverfahren getrennt prüfen.
 
 ## Vergleichshebel
 - **Sicherungspflicht der Bank** nach Art. 97 PSD2 (umgesetzt in § 55 ZAG): starke Kundenauthentifizierung — bei deren Fehlen Haftung der Bank verschärft.
@@ -818,27 +797,6 @@ Voraussetzung: Anzeige der Nichtautorisierung durch den Zahler unverzüglich nac
 
 ## Trade-off
 Vergleich vor Schlichtung spart Zeit, opfert aber häufig 20-30 % der Erstattung. Bei klarer Beweislage (kein Vorsatz, keine grobe Fahrlässigkeit) ist Schlichtungsverfahren regelmäßig die wirtschaftlichere Option, da kostenfrei und ohne Vertretungspflicht.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 263a StGB
-- Art. 33 DSGVO
-- § 1 ZAG
-- § 31 VVG
-- § 55 ZAG
-- Art. 34 DSGVO
-- § 4 FinDAG
-- § 27 ZAG
-- § 269 StGB
-- § 29 VwVfG
-- Art. 15 DSGVO
-- § 32 BSIG
-
-### Leitentscheidungen
-
-- BGH XI ZR 91/14
 
 ---
 
@@ -904,7 +862,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -114,10 +114,3 @@ Ausgabe: `Urteil-{Aktenzeichen}.docx` (und `.pdf` wenn `soffice` verfügbar).
 ## Voraussetzungen
 
 `pip install python-docx pyyaml`. Für PDF: LibreOffice (`soffice`).
-
-<!-- AUDIT 27.05.2026 | bundle_053
-Geprüft: BGH VI ZR 559/16 (NOT_FOUND auf dejure.org)
-Ersatz: BGH I ZR 90/14, GRUR 2016, 860 (verifiziert auf dejure.org)
-Thema: § 315 ZPO Verhinderungsgrund Richterunterschrift — thematisch passend
-Hinweis: BGH V ZB 68/19 (NJW 2020, 3661) in derselben Sektion ebenfalls NOT_FOUND; nicht im Bundle-Scope, zur Nachprüfung vorgemerkt.
--->

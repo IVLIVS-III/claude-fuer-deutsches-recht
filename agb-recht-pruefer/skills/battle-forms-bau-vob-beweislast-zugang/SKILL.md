@@ -9,7 +9,6 @@ description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 bis 310 BGB, UKlaG, B2C — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -48,10 +47,10 @@ description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht
 ### Grundregel
 - Bei Kollision sich widersprechender AGB beider Parteien: Vertrag kommt nur insoweit zustande, als die AGB uebereinstimmen ("Restgueltigkeitstheorie").
 - Bei abweichenden Klauseln gilt das dispositive Recht (BGB / HGB).
-- Die "letzte-Wort-Klausel" (Last-Shot-Doktrin) wird vom BGH nicht anerkannt; vgl. BGH-Linie seit BGHZ 61, 282 (Az im Digitalisat verifizieren).
+- BGH, Urteil vom 26.09.1973 - VIII ZR 106/72, BGHZ 61, 282: Widerspruchsloses Schweigen auf eine modifizierte Auftragsbestätigung bedeutet grundsätzlich noch keine Annahme; Vertragsdurchführung, Abwehrklauseln und erkennbare Abschlussabsicht konkret würdigen.
 
 ### Aktuelle BGH-Rechtsprechung
-- BGH VIII ZR 96/13 zur AGB-Kollision im Kaufrecht (Az im Digitalisat verifizieren).
+- BGH, Urteil vom 09.01.2002 - VIII ZR 304/00, als CISG-Anker zur Restgültigkeit kollidierender AGB; für einen VOB/B-Vertrag zusätzlich prüfen, ob und in welchem Umfang die VOB/B überhaupt wirksam und unverändert einbezogen wurde.
 - BGH-Linie zur Auftragsbestaetigung mit abweichenden AGB.
 - Internationales: bei UN-Kaufrecht (CISG) Art. 19 CISG Mirror-Image-Rule mit Modifikationen.
 

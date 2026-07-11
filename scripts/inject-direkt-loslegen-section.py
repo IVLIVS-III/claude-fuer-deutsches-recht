@@ -52,6 +52,7 @@ PROSE_REPLACEMENTS = {
     "Ergaenzend": "Ergänzend",
     "Erklaerungen": "Erklärungen",
     "Ermittlungsfuehrung": "Ermittlungsführung",
+    "Empfaenger": "Empfänger",
     "Geschaeftsgeheimnis": "Geschäftsgeheimnis",
     "Gesetzentwuerfen": "Gesetzentwürfen",
     "Guetetermin": "Gütetermin",
@@ -68,6 +69,7 @@ PROSE_REPLACEMENTS = {
     "Plaedoyer": "Plädoyer",
     "Praezedenzarbeit": "Präzedenzarbeit",
     "Prueft": "Prüft",
+    "fuehrt": "führt",
     "Rechtswegerschoepfung": "Rechtswegerschöpfung",
     "Referentenentwuerfen": "Referentenentwürfen",
     "Schluessigkeit": "Schlüssigkeit",
@@ -98,6 +100,7 @@ PROSE_REPLACEMENTS = {
     "fuer": "für",
     "gefuehrte": "geführte",
     "hoefliche": "höfliche",
+    "prueft": "prüft",
     "papsttreues": "papsttreues",
 }
 SKIP_TESTAKTEN_DIRS = {
@@ -204,36 +207,80 @@ def display_akte_title(title: str) -> str:
     return text
 
 
-def testakte_download_cell(plugin_name: str, directory: Path, akten_slugs: list[str]) -> str:
-    pluginlocal_parts = []
+def relative_link(directory: Path, target: Path) -> str:
+    return Path(relpath(target, start=directory)).as_posix()
+
+
+def navigation(plugin_name: str, directory: Path) -> str:
+    root = relative_link(directory, REPO / "README.md")
+    skills = relative_link(directory, REPO / "SKILLS.md")
+    detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
+    assets = relative_link(directory, REPO / "ASSET_INDEX.md")
+    testakten = relative_link(directory, TESTAKTEN_DIR / "README.md")
+    return (
+        "Direktnavigation: "
+        f"[Startseite]({root}) · "
+        f"[Plugin-Katalog]({root}#was-ist-drin) · "
+        f"[Skill-Gesamtübersicht]({skills}) · "
+        f"[Skills dieses Plugins]({detail}) · "
+        "[Plugin-Dateien](.) · "
+        f"[Download-Index]({assets}) · "
+        f"[Testakten]({testakten})"
+    )
+
+
+def testakte_count(directory: Path, akten_slugs: list[str]) -> int:
+    return len(akten_slugs) + int((directory / "testakte").is_dir())
+
+
+def testakte_download_cell(directory: Path, akten_slugs: list[str]) -> str:
+    count = testakte_count(directory, akten_slugs)
+    if count:
+        label = "eine zugeordnete Akte" if count == 1 else f"{count} zugeordnete Akten"
+        return f"[{label}](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs"
+    return (
+        f"[`alle-testakten.zip`]({RELEASE_BASE}/alle-testakten.zip) und "
+        f"[`alle-testakten-einzelpdfs.zip`]({RELEASE_BASE}/alle-testakten-einzelpdfs.zip) "
+        "(zentrale Sammlung)"
+    )
+
+
+def testakten_section(plugin_name: str, directory: Path, akten_slugs: list[str]) -> str:
+    if not testakte_count(directory, akten_slugs):
+        return ""
+
+    lines = [
+        "## Zugeordnete Testakten",
+        "",
+        "Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.",
+        "",
+        "| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |",
+        "| --- | --- | --- | --- |",
+    ]
     if (directory / "testakte").is_dir():
         pdf = directory / "testakte" / "gesamt-pdf" / "testakte_gesamt.pdf"
-        if pdf.is_file():
-            pluginlocal_parts.append("[Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf)")
-        pluginlocal_parts.append(f"[`{plugin_name}-testakte.zip`]({RELEASE_BASE}/{plugin_name}-testakte.zip)")
-        pluginlocal_parts.append(f"[`{plugin_name}-testakte-einzelpdfs.zip`]({RELEASE_BASE}/{plugin_name}-testakte-einzelpdfs.zip)")
-    if akten_slugs:
-        parts = []
-        for slug in akten_slugs:
-            title = display_akte_title(get_akte_title(slug))
-            pdf_rel = Path(
-                relpath(TESTAKTEN_DIR / slug / "gesamt-pdf" / f"{slug}_gesamt.pdf", start=directory)
-            ).as_posix()
-            parts.append(
-                f"{title}: "
-                f"[Gesamt-PDF]({pdf_rel}), "
-                f"[`testakte-{slug}.zip`]({RELEASE_BASE}/testakte-{slug}.zip), "
-                f"[`testakte-{slug}-einzelpdfs.zip`]({RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip)"
-            )
-        if pluginlocal_parts:
-            parts.append("Pluginlokale Akte: " + ", ".join(pluginlocal_parts))
-        return "; ".join(parts)
-    if pluginlocal_parts:
-        return ", ".join(pluginlocal_parts)
-    return (
-        f"[`alle-testakten.zip`]({RELEASE_BASE}/alle-testakten.zip) "
-        f"und [`alle-testakten-einzelpdfs.zip`]({RELEASE_BASE}/alle-testakten-einzelpdfs.zip) (zentrale Sammlung)"
-    )
+        pdf_link = "[Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf)" if pdf.is_file() else "nicht vorhanden"
+        lines.append(
+            "| Pluginlokale Akte | "
+            f"{pdf_link} | "
+            f"[`{plugin_name}-testakte.zip`]({RELEASE_BASE}/{plugin_name}-testakte.zip) | "
+            f"[`{plugin_name}-testakte-einzelpdfs.zip`]({RELEASE_BASE}/{plugin_name}-testakte-einzelpdfs.zip) |"
+        )
+    for slug in akten_slugs:
+        title = display_akte_title(get_akte_title(slug)).replace("[", "").replace("]", "")
+        pdf_rel = relative_link(
+            directory,
+            TESTAKTEN_DIR / slug / "gesamt-pdf" / f"{slug}_gesamt.pdf",
+        )
+        lines.append(
+            f"| [{title}]({relative_link(directory, TESTAKTEN_DIR / slug / 'README.md')}) | "
+            f"[Gesamt-PDF]({pdf_rel}) | "
+            f"[`testakte-{slug}.zip`]({RELEASE_BASE}/testakte-{slug}.zip) | "
+            f"[`testakte-{slug}-einzelpdfs.zip`]({RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip) |"
+        )
+    testakten_overview = relative_link(directory, TESTAKTEN_DIR / "README.md")
+    lines.extend(["", f"[Alle Testakten und Fachzuordnungen]({testakten_overview})"])
+    return "\n".join(lines)
 
 
 def markdown_text(value: str) -> str:
@@ -252,14 +299,19 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     raw_dir = f"{RAW_BASE}/{directory.relative_to(REPO).as_posix()}"
     werkstatt_url = f"{raw_dir}/{werkstatt_file}"
     schnellstart_url = f"{raw_dir}/{schnellstart_file}"
-    testakte_cell = testakte_download_cell(plugin_name, directory, akten_slugs)
+    testakte_cell = testakte_download_cell(directory, akten_slugs)
     description = markdown_text(plugin.get("description") or readme_title(directory, plugin_name))
+    assets = relative_link(directory, REPO / "ASSET_INDEX.md")
+    testakten = testakten_section(plugin_name, directory, akten_slugs)
+    testakten_block = f"\n\n{testakten}" if testakten else ""
     return f"""{BEGIN}
 ## Was ist das hier?
 
 {description}
 
 Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+
+{navigation(plugin_name, directory)}
 
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
@@ -270,9 +322,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="{werkstatt_url}" download><code>{werkstatt_file}</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="{schnellstart_url}" download><code>{schnellstart_file}</code></a> |
-| Testakte(n) als ZIP | ZIP | {testakte_cell} |
+| Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
 {END}"""
 
 

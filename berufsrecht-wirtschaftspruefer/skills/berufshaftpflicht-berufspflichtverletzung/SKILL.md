@@ -9,7 +9,7 @@ description: "Wenn es um Berufshaftpflicht in Berufsrecht Wirtschaftsprüfer geh
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BRAO §§ 113 ff., BNotO §§ 95 ff., StBerG §§ 89 ff., WPO §§ 67 ff., AnwGH, BGH (Anwaltssenat) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: WPO Paragrafen 43 und 43a für allgemeine Berufspflichten und Berufsausübung, Paragraf 51b für Hand- und Prüfungsakten, Paragraf 54 für Berufshaftpflicht sowie Paragrafen 61a ff., 67 ff. und 71a ff. für Aufsicht und Berufsgerichtsbarkeit. HGB Paragrafen 316 ff. und die Verordnung (EU) Nr. 537/2014 nur bei gesetzlicher Abschlussprüfung hinzunehmen; amtliche Quellen live prüfen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -33,3 +33,12 @@ description: "Wenn es um Berufshaftpflicht in Berufsrecht Wirtschaftsprüfer geh
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+## Verifizierter Haftungsanker
+
+- BGH, Urteil vom 12. März 2020, VII ZR 236/19: Eine Haftung nach Paragraf 823 Absatz 2 BGB in Verbindung mit Paragraf 332 Absatz 1 HGB setzt eine handelsrechtlich vorgeschriebene Pflichtprüfung voraus. Eine lediglich für einen Wertpapierprospekt vorgenommene Prüfung genügt dafür nicht.
+- Für Paragraf 826 BGB reicht ein objektiv unrichtiger Bestätigungsvermerk nicht aus. Festzustellen sind vielmehr qualifiziert nachlässige Ermittlungen oder Angaben ins Blaue hinein, Gewissenlosigkeit, Vorsatz, Kausalität und Schaden.
+
+## Haftungs- und Deckungsmatrix
+
+Trenne Auftraggeberhaftung, mögliche Dritthaftung, Berufspflicht und Versicherungsdeckung. Ordne jeder behaupteten Pflichtverletzung Prüfungsauftrag, einschlägigen Standard in seiner damaligen Fassung, Arbeitspapier, verantwortliche Person, Verschuldensgrad, Kausalverlauf, Schaden und Einwendung zu. Eine Schadenanzeige nach den Versicherungsbedingungen vorbereiten, ohne Haftung anzuerkennen.

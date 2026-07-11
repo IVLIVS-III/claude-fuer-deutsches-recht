@@ -33,7 +33,8 @@ Ein Franchisenehmer fordert Schadensersatz, weil er vor Vertragsschluss über Re
 - § 123 BGB: Anfechtung wegen arglistiger Täuschung
 - § 249 BGB: Naturalrestitution; Rückabwicklung des Franchisevertrags als Schadensersatz
 - §§ 195 und 199 BGB: Regelverjährung und Beginn der Verjährungsfrist
-- BGH NJW 2003 S. 743: Leitentscheidung zur vorvertraglichen Aufklärung im Franchiserecht
+- BGH, Urteil vom 13.12.2005 - KZR 12/04: Bei einer vorgelegten Wirtschaftlichkeitsberechnung sind ein selbständiger Beratungsvertrag, eine persönliche Haftung des Verhandlungsgehilfen und eine Garantie anhand der Gesamtumstände getrennt zu prüfen.
+- BGH, Urteil vom 19.07.2011 - VI ZR 367/09: Bei einem auf Paragraf 823 Absatz 2 BGB in Verbindung mit Paragraf 263 StGB gestützten Eingehungsbetrug trägt der Anspruchsteller grundsätzlich die Tatbestands- und Fortbestandsbeweislast; die Entscheidung begründet keine Rentabilitätsgarantie.
 
 ## Prüfraster
 
@@ -49,7 +50,7 @@ Ein Franchisenehmer fordert Schadensersatz, weil er vor Vertragsschluss über Re
 
 - Schadensberechnung vermischt negatives und positives Interesse; Gericht weist weitergehende Schadenspositionen ab.
 - Verjährungsfrist läuft ab, obwohl der Franchisenehmer den Schaden bereits seit Jahren kennt.
-- Anfechtungsklage wird nicht fristgemäss innerhalb eines Jahres nach § 124 BGB erklärt.
+- Die Anfechtung wird nicht innerhalb der Jahresfrist des Paragrafen 124 BGB gegenüber dem richtigen Anfechtungsgegner erklärt; eine Anfechtungsklage ist dafür nicht erforderlich.
 - Mitverschulden des Franchisenehmers wird grob unterschätzt; Gericht kürzt Schadensersatz erheblich.
 
 ## Quellen
@@ -77,6 +78,4 @@ Bei der cic-Haftung schuldet der Franchisegeber das negative Interesse: Der Fran
 
 ## Abgrenzung und Einordnung
 
-Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
-
-## Abgrenzung und Einordnung
+Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.

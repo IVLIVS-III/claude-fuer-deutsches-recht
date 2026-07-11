@@ -41,7 +41,6 @@ description: "Wenn es um Fachanwalt Gewrechts Ki Vo 50 Genai in Fachanwalt Gewer
 | EU-KI-VO 2024/1689 (Amtsblatt L 2024/1689) | 12.07.2024 | In Kraft 1.8.2024; Art. 50 anwendbar 2.8.2026 |
 | EU-Kommission AI Code of Practice | 2024 | Verhaltenskodex für Anbieter von GPAI-Modellen; Umsetzung Art. 53–55 KI-VO |
 | C2PA-Standard v2.0 (Coalition for Content Provenance and Authenticity) | 2024 | Technischer Standard für Herkunftsnachweis von Mediendateien (Adobe, Microsoft, Sony, Nikon) |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 > **Hinweis zur Rechtsprechungslage:** Stand 05/2026 existiert keine veröffentlichte deutsche Leitentscheidung speziell zu Art. 50 KI-VO; die Norm gilt erst ab 02.08.2026. Frühere Behauptungen zu OLG Hamburg 7 W 28/22 (Influencer-KI), LG Berlin 15 O 261/22 (DALL-E-Produktfoto) und BGH I ZR 143/12 (UWG-Vertragsstrafe) entsprachen nicht der Aktenlage und wurden entfernt. Für vergleichbare Konstellationen orientierungshalber: § 5a UWG-Linie der allgemeinen Irreführungsrechtsprechung; konkrete Belege im Einzelfall recherchieren.
 
@@ -240,5 +239,3 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 - § 5a UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 
 ---
-
-> **Audit-Hinweis (27.05.2026):** BGH I ZR 94/13 (Hotelbewertungsportal, 19.03.2015) hatte keinen Bezug zu Art. 50 KI-VO und wurde aus dem Disclaimer entfernt. Das AZ wurde zuvor fälschlich als "Trojanisches Pferd" beschrieben; tatsächliches Thema ist die Haftung von Bewertungsportalen für Nutzereinträge (UWG, TMG). BGH I ZR 145/10 (Tigerkopf, 28.09.2011) war in diesem Skill nicht vorhanden; das AZ betrifft Deckelung von Abmahnkosten nach § 97a UrhG. Beide AZ haben keinen Bezug zu KI-VO Art. 50.

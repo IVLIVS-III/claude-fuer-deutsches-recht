@@ -8,8 +8,8 @@ description: "Wenn es um Anspruchsfassung Gebrauchsmuster in gebrauchsmusterrech
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 15 Löschungsantrag jederzeit.
-- Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: Neuheitsschonfrist von sechs Monaten nach Paragraf 3 Absatz 1 Satz 3 GebrMG; Abzweigung nach Paragraf 5 Absatz 1 Satz 3 GebrMG bis zwei Monate nach dem Ende des Erledigungsmonats, höchstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung; Schutzdauer und Aufrechterhaltungsgebühren nach Paragraf 23 GebrMG; Löschungsgründe nach Paragraf 15 und schriftlicher Löschungsantrag nach Paragraf 16 GebrMG.
+- Tragende Normen verifizieren: Schutzfähigkeit nach Paragrafen 1 bis 3 GebrMG, Anmeldung und Abzweigung nach Paragrafen 4 und 5, Recherche nach Paragraf 7, Schutzwirkung und Schutzbereich nach Paragrafen 11 bis 14, Löschung nach Paragrafen 15 bis 18, Schutzdauer nach Paragraf 23 sowie Verletzungsfolgen nach Paragrafen 24 bis 24c GebrMG. Vorschriften des PatG nur bei einer ausdrücklichen Verweisung oder einer eigenständigen Patentfrage heranziehen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -44,7 +44,7 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 4. Äquivalenzraum durch sprachlich offene Begriffe (z. B. "im Wesentlichen") wahren.
 
 ### BGH-Linie
-- BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht.
+- BGH, Urteil vom 12.03.2002 - X ZR 168/00 (Schneidmesser I): Zahlen- und Maßangaben begrenzen den Anspruch, bleiben aber aus Sicht des Fachmanns auslegungsfähig. Die Übertragung auf Paragraf 12a GebrMG muss am konkreten Schutzanspruch begründet werden.
 - Patent-Disclaimer-Entscheidungen nicht als Standardanker für Gebrauchsmuster-Auslegung verwenden; für den erfinderischen Schritt im Gebrauchsmusterrecht vorrangig BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank) heranziehen und vor Ausgabe frei prüfen.
 
 ## Quellen-Hardening
@@ -53,28 +53,3 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 GebrMG
-- § 17 GebrMG
-- § 3 GebrMG
-- § 16 GebrMG
-- § 13 GebrMG
-- § 4a GebrMG
-- § 5 GebrMG
-- § 11 GebrMG
-- § 7 GebrMG
-- § 4 PatG
-- § 18 GebrMG
-- § 24 GebrMG
-
-### Leitentscheidungen
-
-- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
-- BGH X ZR 95/05
-- BGH X ZR 75/02
-- BGH X ZR 19/06
-- BGH X ZR 137/15

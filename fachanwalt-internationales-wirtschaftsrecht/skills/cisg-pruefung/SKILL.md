@@ -58,7 +58,6 @@ description: "Wenn es um Cisg Prüfung in Fachanwalt Internationales Wirtschafts
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | ICC Schied | 13194/MS | 2013 | Art. 35 CISG Beschaffenheit: Abweichung von Probe = Vertragsverletzung auch ohne ausdrückliche Vereinbarung |
 
 ## Prüfschema
@@ -67,12 +66,10 @@ description: "Wenn es um Cisg Prüfung in Fachanwalt Internationales Wirtschafts
 |---------|-----------|------|-------------|
 | 1 | Anwendungsbereich: Parteien in versch. CISG-Staaten? Warenkauf bewegliche Sachen? | Art. 1–3 CISG | CISG anwendbar; sonst nationales Recht |
 | 2 | Ausnahmen Art. 2 CISG: Verbraucher, Auktion, Schiffe, Wertpapiere? | Art. 2 CISG | Ausnahme → nationales Kaufrecht |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Vertragsschluss Art. 14–24: Angebot bestimmt? Annahme fristgerecht? Abweichende Antwort Art. 19? | Art. 14, 18, 19 CISG | Wesentliche Abweichung = Ablehnung + Gegenangebot |
 | 5 | Pflichten Verkäufer Art. 30: Lieferung vertragsgemäß, vollständig, rechtzeitig | Art. 30, 35 CISG | Pflichtverstoß → Käuferrechte Art. 45 ff. |
 | 6 | Vertragsmäßigkeit Art. 35: Beschaffenheit vereinbart oder gewöhnliche Verwendung | Art. 35 CISG | Mangel wenn Ware nicht vertragsgemäß; Beweislast Käufer |
 | 7 | Untersuchung Art. 38: so bald wie möglich nach Übergabe/Ankunft | Art. 38 CISG | Unterlassene Untersuchung → Rechtsverlust |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Wesentliche Vertragsverletzung Art. 25: Vertragsaufhebungsrecht Art. 49 | Art. 25, 49 CISG | Wesentlich: Käufer bekommt nicht was er erwarten durfte; Verkäufer hätte Konsequenz vorhersehen können |
 | 10 | Rechtsbehelfe wählen: Nachbesserung Art. 46, Minderung Art. 50, SE Art. 74, Aufhebung Art. 49 | Art. 45–52 CISG | Wahl des Rechtsbehelfs nach Interessenlage |
 | 11 | Schadensersatz Art. 74–77: vorhersehbar + Mitigation | Art. 74, 77 CISG | Vorhersehbarkeit bei Vertragsschluss; Minderungspflicht des Geschädigten |
@@ -210,9 +207,7 @@ Art. 49 CISG bleiben unberührt.
 
 | Gegenargument | Rechtliche Grundlage | Reaktion |
 |---------------|---------------------|---------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rüge verspätet | Art. 39 Abs. 1 CISG | Entdeckungszeitpunkt belegen (Untersuchungsbericht, E-Mail); versteckte Mängel: späterer Fristbeginn |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Mitigation versäumt | Art. 77 CISG | Deckungskauf nachweisen; Marktpreis-Alternative nachweisen; Mitigation war unmöglich (Art. 79) |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Zinshöhe Art. 78 CISG unklar | Art. 78 CISG | Nationales Recht des Schuldnerstatuts bestimmt Zinssatz; dt. Recht: § 288 BGB (9 Prozentpunkte über Basiszinssatz im B2B) |
@@ -293,7 +288,3 @@ Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
 4. Ergebnis:
  [Anspruch begrundet / verjährt / praekkludiert]
 ```
-
-<!-- AUDIT 27.05.2026
-Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
--->

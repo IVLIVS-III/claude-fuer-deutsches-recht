@@ -94,7 +94,6 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 - Hinweis: Bei strittiger Beweisfrage ist die Beweislast der Airline ein wichtiger Hebel.
 
 ---
-<!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
 
 ## Normen & Rechtsprechung

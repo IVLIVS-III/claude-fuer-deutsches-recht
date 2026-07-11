@@ -258,7 +258,3 @@ II. BEGRÜNDUNG
 Beweis: Anlage K1 Versicherungspolice, K2 AVB, K3 Ablehnungsschreiben,
  K4 Gutachten [SV], K5 Vollmacht
 ```
-
-<!-- AUDIT 27.05.2026
-BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert bei wirtschaftlichem Totalschaden Kfz (NJW 2010, 605); kein Bezug zu D&O/Versicherungsrecht; Eintrag geloescht.
--->

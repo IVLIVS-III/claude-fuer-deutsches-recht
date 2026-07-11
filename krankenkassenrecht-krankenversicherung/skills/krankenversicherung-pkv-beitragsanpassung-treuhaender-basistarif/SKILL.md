@@ -57,7 +57,7 @@ PKV-Beiträge werden regelmäßig erhöht. Prüfe, ob **Beitragsanpassungen form
 - Zeitraum: typisch 3 Jahre rückwirkend; ältere Erhöhungen verjährt
 
 ### Schritt 4 – Klage gegen PKV
-- Zuständigkeit: Zivilgericht (AG bei < 5.000 €; LG bei ≥ 5.000 €)
+- Zuständigkeit: Zivilgericht; mangels wertunabhängiger Sonderzuweisung Amtsgericht bis einschließlich 10.000 Euro, Landgericht bei einem höheren Streitwert (Paragrafen 23 Nummer 1, 71 Absatz 1 GVG).
 - Streitwert: Summe aller unwirksamen Beitragserhöhungen + Zinsen
 - Klasse Klagen: viele gleichartige Fälle → Vergleichsangebote des Versicherers beobachten
 - Rückforderung + Feststellungsklage (Anpassung unwirksam) kombinieren

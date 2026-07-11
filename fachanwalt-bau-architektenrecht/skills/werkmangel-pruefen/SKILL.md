@@ -10,7 +10,7 @@ description: "Wenn es um Werkmangel Pruefen in Fachanwalt Bau Architektenrecht g
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -125,7 +125,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Konstellation | Mangelbestand | Kausalität | Verschulden |
 |---|---|---|---|
 | Vor Abnahme | AN beweist Mangelfreiheit | — | — |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Arglist | AG muss arglistiges Verschweigen beweisen | AG | AG |
 | VOB/B nach Abnahme | AG beweist Mangel | AG | — |
 | Selbstvornahmekosten | AG beweist Notwendigkeit + Höhe | AG | — |
@@ -213,7 +212,6 @@ Mit freundlichen Grüßen
 | Beweislage unklar | Beweissicherungsverfahren § 485 ZPO | Gerichtlicher SV mit Hemmungswirkung |
 | AN verweigert Nacherfüllung | Direkt Selbstvornahme-Kostenvorschuss einklagen | Kein weiteres Zuwarten erforderlich |
 | Arglist (Mängel verborgen) | 10-Jahres-Verjährung prüfen | Verlängerte Anspruchslage |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 
@@ -222,7 +220,6 @@ Mit freundlichen Grüßen
 - `fachanwalt-bau-architektenrecht-bauablauf-vbg` — parallele Bauablaufstörungen
 
 ---
-<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
-<!-- VII ZR 17/02 (behauptet 18.07.2002, NJW 2003, 200): NOT_FOUND auf dejure.org — ersetzt durch VII ZR 181/00 (09.01.2003, NJW 2003, 1188), verifiziert auf dejure.org -->
-<!-- VII ZR 119/10 (behauptet NJW 2013, 1670, Thema: Selbstvornahme): WRONG_TOPIC — real: Nachbesserungsverlangen vor Abnahme / Art der Maengelbeseitigung, NJW 2013, 1528, verifiziert auf dejure.org/2013,7541 — korrigiert -->
+
+
 <!-- UPDATE 05/2026: BGH VII ZR 46/17 (22.02.2018), VII ZR 26/20 (08.10.2020), VII ZR 301/13 (19.01.2017) ergaenzt — alle verifiziert über dejure.org / BGHZ 218,1 -->

@@ -2,25 +2,59 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 57 Skills des Plugins `commercial-courts-deutschland`.
+Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `commercial-courts-deutschland`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Commercial Courts Deutschland — Allgemein in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Un…
-2. **contract-interpretation-de-en** — Wenn es um Contract Interpretation DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-3. **pre-litigation-notice-and-standstill** — Wenn es um Pre-Litigation und Standstill in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-4. **zustandigkeit-119b-gvg-check** — Wenn es um Zuständigkeit und Eingangstor in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-5. **case-management-conference** — Wenn es um Case Management Conference in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-6. **cross-border-default-judgment** — Wenn es um Cross-Border Jurisdiction in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-7. **default-judgment-and-nonappearance** — Wenn es um Default and Nonappearance in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-8. **public-hearing-appeal-revision** — Wenn es um Öffentlichkeit und Presse in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-9. **hearing-script-english-advocacy** — Wenn es um English Hearing Advocacy in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-10. **post-ma-pre-litigation** — Wenn es um Post-M&A Warranty Claims in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-11. **confidentiality-trade-contract-interpretation** — Wenn es um Confidentiality and Trade Secrets in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus S…
-12. **jurisdiction-clause-drafting-de-en** — Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-13. **supply-chain-third-party** — Wenn es um Supply Chain Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-14. **judgment-publication-jurisdiction-clause** — Wenn es um Judgment Publication in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-15. **third-party-notice-607-zpo** — Wenn es um Third Party Notice in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+1. **commercial-court-versandmappe-endfertigen** — Endfertigt deutsch- oder englischsprachige Commercial-Court-Schriftsätze: prüft Spruchkörper, Streitwert, Sprachvereinba…
+2. **kaltstart-triage** — Wenn es um Commercial Courts Deutschland — Allgemein in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Un…
+3. **contract-interpretation-de-en** — Wenn es um Contract Interpretation DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+4. **pre-litigation-notice-and-standstill** — Wenn es um Pre-Litigation und Standstill in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+5. **zustandigkeit-119b-gvg-check** — Wenn es um Zuständigkeit und Eingangstor in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+6. **case-management-conference** — Wenn es um Case Management Conference in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+7. **cross-border-default-judgment** — Wenn es um Cross-Border Jurisdiction in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+8. **default-judgment-and-nonappearance** — Wenn es um Default and Nonappearance in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+9. **public-hearing-appeal-revision** — Wenn es um Öffentlichkeit und Presse in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+10. **hearing-script-english-advocacy** — Wenn es um English Hearing Advocacy in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
+11. **post-ma-pre-litigation** — Wenn es um Post-M&A Warranty Claims in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
+12. **confidentiality-trade-contract-interpretation** — Wenn es um Confidentiality and Trade Secrets in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus S…
+13. **jurisdiction-clause-drafting-de-en** — Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
+14. **supply-chain-third-party** — Wenn es um Supply Chain Disputes in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
+15. **judgment-publication-jurisdiction-clause** — Wenn es um Judgment Publication in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
+
+---
+
+## Skill: `commercial-court-versandmappe-endfertigen`
+
+_Endfertigt deutsch- oder englischsprachige Commercial-Court-Schriftsätze: prüft Spruchkörper, Streitwert, Sprachvereinbarung, Verfahrenssprache, Übersetzungen und Geheimnisschutz, synchronisiert bilinguale Anträge und Beweismittel und liefert eine beA-fertige Versandmappe für Commercial Chamber, Commercial Court oder Rechtsmittelinstanz._
+
+# Commercial-Court-Versandmappe endfertigen
+
+## 1. Zuständigkeit und Sprache vorab sperren
+
+Lies Klage oder Erwiderung, Gerichtsstands- und Sprachvereinbarung, landesrechtliche Zuständigkeitsregel, gerichtliche Verfügung und Vertragsdokumente zuerst. Bestimme Commercial Chamber, Commercial Court oder regulären Spruchkörper. Dokumentiere, ob das Verfahren vollständig auf Englisch, vollständig auf Deutsch oder nur mit fremdsprachigem Vortrag geführt wird.
+
+## 2. Sprach- und Parteikontrolle
+
+1. GVG Paragrafen 119b und 184a sowie die einschlägige Landesverordnung auf Sachgebiet, Streitwert und Spruchkörper prüfen.
+2. Ausdrückliche oder stillschweigende Sprachvereinbarung und einen möglichen Widerspruch des Beklagten dokumentieren.
+3. Anträge, Parteibezeichnungen, Vertragsbegriffe und definierte Begriffe in beiden Arbeitsfassungen abgleichen.
+4. Deutsche Urkunden, englische Urkunden und angeordnete Übersetzungen in einer Sprachmatrix führen.
+5. Drittbeteiligung, Streitverkündung und mögliche Dolmetscher- oder Übersetzungsfolgen einplanen.
+
+## 3. Wirtschaftsakte und Geheimnisschutz
+
+Ordne Vertrag, Anhänge, Änderungen, Board- oder Gesellschafterbeschlüsse, Closing-Unterlagen, Leistungs- und Schadensbelege nach Beweistatsache. Vertrauliche Preise, Quelltexte, Kundenlisten und Transaktionsdaten erhalten offene und geschützte Fassung sowie einen konkreten Antrag nach GeschGehG Paragraf 16 ff.
+
+## 4. Form- und Rechtsanker
+
+- GVG Paragraf 184a erlaubt die englische Verfahrensführung nur im gesetzlich und landesrechtlich eröffneten Rahmen; englische Dokumente allein ändern die Gerichtssprache nicht.
+- Für englischsprachige Urkunden gilt im vollständig englischen Verfahren die Sonderregel des GVG Paragrafen 184a Absatz 3; Übersetzungsbedarf dennoch anhand gerichtlicher Verfügung und Drittbeteiligung prüfen.
+- Die elektronische Übermittlung bleibt eine deutsche Gerichtseinreichung nach ERVV; bilingualer Inhalt ändert weder Signatur- noch Eingangskontrolle.
+
+## 5. Auslieferung
+
+Liefere Hauptdokument, Einzelanlagen, Sprach- und Übersetzungsmatrix, Terminologieblatt, offene und vertrauliche Fassungen, Fristen- und Zustellplan, Manifest und Eingangscheck. Stoppe bei ungeklärtem Spruchkörper, fehlender Sprachgrundlage, divergierenden Anträgen oder vermischten Geheimnisfassungen.
 
 ---
 
@@ -840,58 +874,9 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ---
 
-## Skill: `third-party-notice-607-zpo`
-
-_Wenn es um Third Party Notice in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Third Party Notice
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GVG §§ 119, 119b (Commercial Court), ZPO §§ 184a, 614, 1025-1066, AGGVG der Länder, EU-VO 1215/2012 (Brüssel Ia) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Third Party Notice
-- **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
-- **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einstieg
-
-Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
-
-1. Soll der Output auf Deutsch, Englisch oder zweisprachig sein?
-2. Welches Gericht/Forum ist vorgesehen oder vereinbart?
-3. Welche Klausel, welcher Streitwert und welche Parteien liegen vor?
-4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
-5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
-
-## Arbeitsworkflow
-
-Besondere Anker: § 607 ZPO zur Einbeziehung Dritter in englischsprachigen Verfahren. Der Dritte kann bei fehlendem Sprachverständnis widersprechen; Übersetzung, Zustellungszeitpunkt und Fristenwirkung müssen minutiös geplant werden.
-
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
-
-## Red Flags
-
-- Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
-- Englischer Schriftsatz klingt wie US-Litigation und enthält keine ZPO-tauglichen Beweisangebote.
-- Anlagen sind englisch/deutsch gemischt, aber Übersetzungs- und Zitierlogik fehlt.
-- Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
-- Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -122,5 +122,4 @@ Stand: 05/2026.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 - Minijob-Grenze 2025: 556 EUR/Monat (MiLo 12,82 EUR). Minijob-Grenze 2026: 603 EUR/Monat (MiLo 13,90 EUR, MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Berichtigung Nr. 312). 2027 voraussichtlich 633 EUR/Monat (MiLo 14,60 EUR, MiLoV5).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Prüfhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: Minijob-Grenze 603 EUR (2026) / voraussichtlich 633 EUR (2027) ergaenzt -->

@@ -79,29 +79,8 @@ Vor dem AG können Sie sich auch durch eine andere Person vertreten lassen, wenn
 
 ## Praxis-Tipp
 
-Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert über 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit über 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG prüfen, weil Antraege rechtzeitig vor Klage gestellt werden müssen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
+Selbst wenn am Amtsgericht kein Anwaltszwang besteht, ist Anwaltskontakt besonders bei hohem Kostenrisiko, komplexer Beweisaufnahme oder einem Streitwert im oberen Bereich der Amtsgerichtszuständigkeit sinnvoll. Über 10.000 Euro ist für allgemeine Zivilsachen regelmäßig das Landgericht zuständig und Vertretung erforderlich. Für ein Rechtsmittel sind Statthaftigkeit, Beschwer, Zulassung und Anwaltszwang eigenständig zu prüfen. Prozesskosten- oder Beratungshilfe frühzeitig klären; ein Notanwalt nach Paragraf 78b ZPO bleibt Ausnahmefall.
 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 23 GVG
-- § 114 FamFG
-- § 156 StGB
-- § 185 GVG
-- § 41 GKG
-- § 12 GKG
-- § 7 StVG
-- § 17 GKG
-- § 48 GKG
-- § 71 GVG
-- § 23a GVG
-- § 63 GKG
-
-### Leitentscheidungen
-
-- BGH VI ZR 67/15

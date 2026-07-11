@@ -41,7 +41,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abänderung Versorgungsausgleich Paragraf 51 VersAusglG: prüft die einschlägigen | BGB Paragraf 1565; BGH, Beschluss vom 15.02.2017 - XII ZB 201/16 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Abänderung Versorgungsausgleich Paragraf 51 VersAusglG: prüft die einschlägigen | VersAusglG Paragraf 51; BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 1601 und Paragraf 1610 | Fristenblatt oder Prozess-/Verfahrensroute |
 | Begründetheit | Ärztliche Versorgungswerke berufsständische Versorgung: prüft die einschlägigen | BGB Paragraf 1601 und Paragraf 1610; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn. | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
@@ -56,7 +56,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 | BGB Paragraf 1671 und Paragraf 1684 | elterliche Sorge und Umgang | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege. | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn. |
 | Normenradar | BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege. | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn. |
 
-Rechtsprechungsstatus: BGH, Beschluss vom 15.02.2017 - XII ZB 201/16; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18; BGH, Beschluss vom 18.01.2017 - XII ZB 118/16. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+Rechtsprechungsstatus: BGH, Beschluss vom 01.02.2017 - XII ZB 601/15; BGH, Beschluss vom 16.09.2020 - XII ZB 499/19; BGH, Beschluss vom 24.03.2021 - XII ZB 230/16. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
 
 ## 4. Fachanwaltsblick v392
 
@@ -185,12 +185,12 @@ Prüfraster:
 
 ## 8. Leitentscheidungen
 
-- BGH, Beschluss vom 04.10.2017 - XII ZB 55/17: Trennungsunterhalt setzt Leistungsfähigkeit und Bedürftigkeit voraus; fiktive Einkünfte duerfen nur nach gesicherter Erwerbsobliegenheit und konkreter Arbeitsstelle zugerechnet werden.
-- BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Versorgungsausgleich verlangt vollständige Versorgungstraegerauskunft für jedes Anrecht; unvollständige Auskuenfte sind rückzufordern, bevor tenoriert wird.
-- BGH, Beschluss vom 27.02.2019 - XII ZB 304/18: Zugewinnausgleich erfordert genaue Stichtagsbestimmung und Indexierung des Anfangsvermögenswertes zum Stichtag Eheschließen; pauschale Schaetzungen genügen nicht.
-- BGH, Beschluss vom 15.03.2017 - XII ZB 109/16: Kindesunterhalt richtet sich nach dem bereinigten Einkommen des barunterhaltspflichtigen Elternteils; Pauschalabzuege ohne Beleg sind unzulaessig.
-- BGH, Beschluss vom 24.03.2021 - XII ZB 504/20: Sorgerechtsentscheidung beruht auf einer Gesamtabwägung aller Kindeswohlkriterien; der Kindeswille ist altersgerecht zu gewichten, aber nicht allein ausschlaggebend.
-- BGH, Beschluss vom 15.02.2017 - XII ZB 201/16: Wechselmodell kann gegen den Willen eines Elternteils angeordnet werden, wenn es dem Kindeswohl im Einzelfall entspricht.
+- BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Die Erklärung unbegrenzter Leistungsfähigkeit beseitigt den Auskunftsanspruch des Kindes nicht; eine begrenzte Fortschreibung der Düsseldorfer Tabelle kann zulässig sein.
+- BGH, Beschluss vom 24.03.2021 - XII ZB 230/16: Bei externer Teilung sind Zielversorgung und fiktive interne Teilung auf gleichen Rechnungsgrundlagen zu vergleichen; unverhältnismäßige Transferverluste sind zu vermeiden.
+- BGH, Beschluss vom 25.09.2024 - XII ZB 508/23: Die Auskunft nach BGB Paragraf 1379 umfasst die Vermögenszusammensetzung am Stichtag einschließlich wertbildender Faktoren; eine selbst erstellte Forderungsliste ist Teil der Auskunft und kein Beleg.
+- BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Fiktives Einkommen setzt unzureichende Erwerbsbemühungen und eine reale, zumutbare Beschäftigungschance voraus; nur realistisch erzielbares Einkommen darf zugerechnet werden.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 511/18: Ein geäußerter Kindeswille trägt eine Änderung des Aufenthaltsbestimmungsrechts nicht, wenn er nicht autonom gebildet ist und andere Kindeswohlbelange entgegenstehen.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Ein paritätisches Wechselmodell kann auch gegen den Willen eines Elternteils als Umgangsregelung angeordnet werden, setzt aber Kindeswohldienlichkeit und bestehende Kommunikations- und Kooperationsfähigkeit voraus.
 
 ## 9. Schriftsatz- und Memo-Gerüst
 

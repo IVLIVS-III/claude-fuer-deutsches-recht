@@ -35,7 +35,6 @@ description: "Wenn es um Digitaler Nachlass — Krypto-Wallet und Multi-Sig in F
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Konstellationen und Lösungsansätze
 
@@ -73,7 +72,6 @@ description: "Wenn es um Digitaler Nachlass — Krypto-Wallet und Multi-Sig in F
 | 1 | Erbschein oder eröffnetes Testament + Sterbeurkunde einreichen | Unverzüglich nach Erbfall |
 | 2 | Exchange-Widerspruchsfrist: oft 60–90 Tage nach Meldung | Exchange-AGB |
 | 3 | Bei Verweigerung: Klage auf Herausgabe des Kontoguthabens | § 985 BGB analog (Quasi-Eigentümer) |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 5 | Jahresfrist § 23 EStG prüfen: Anschaffung des Erblassers relevant | BMF 22.11.2024 |
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -98,7 +96,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | 3 | Erbschein oder beglaubigte Erbfolge-Urkunde vorhanden? | § 2353 BGB | Legitimation gegenüber Exchange |
 | 4 | Bewertung Todestag festgestellt? | § 12 ErbStG, § 11 ErbStG | Börsenkurs x Anzahl Coins |
 | 5 | Erbschaftsteuer-Freibetrag berücksichtigt? | § 16 ErbStG | Ehegatte EUR 500.000; Kind EUR 400.000 |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 7 | Jahresfrist-Berechnung ab Anschaffung Erblasser | § 23 Abs. 1 Nr. 2 EStG | Frist läuft weiter für Erben |
 | 8 | Vermögensübertrag auf Erben-Wallet dokumentiert? | Steuerliche Kontinuität | Übertrag ist kein Steuertatbestand |
 | 9 | DeFi/Staking-Erträge des Erblassers deklariert? | § 22 Nr. 3 EStG | Laufende Einkünfte steuerbar |
@@ -119,7 +116,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Szenario | Steuerfolge | Grundlage |
 |---------|------------|----------|
 | Veräußerung < 1 Jahr nach Anschaffung Erblasser | Spekulationsgewinn steuerpflichtig | § 23 EStG; Frist läuft ab Erblasser-Kauf |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Staking-Erträge nach Erbfall | Einkunft § 22 Nr. 3 EStG; ggf. Gewerbesteuer | BMF 22.11.2024 |
 | Hard Fork / Airdrop | Steuerpflichtiger Erwerb | BMF-Schreiben |
 
@@ -239,11 +235,9 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 
 | Gegenargument Exchange / Miterbe | Reaktion |
 |----------------------------------|---------|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Keine Legitimation ohne Erbschein" | Erbschein bei unstreitigem Testament nicht erforderlich; öffentliches Testament + Eröffnungsprotokoll reicht |
 | "Assets sind wertlos wegen verlorenem Schlüssel" | Erbschaftsteuerrechtliche Korrektur durch Nachweis faktischer Unzugänglichkeit; ggf. § 12 Abs. 4 BewG |
 | "Staking-Erträge nicht steuerbar" | BMF 22.11.2024: Staking = steuerbare Einkunft § 22 Nr. 3 EStG |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 
@@ -263,9 +257,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 |-----------|-----------|------------|
 | Prävention | Seed-Phrase notariell hinterlegen oder in Erbvertrag aufnehmen | Häufigste Verlustursache digitaler Nachlasswerte |
 | Dokumentation | Krypto-Portfolio in notarielles Testament mit konkreter Walletbezeichnung | Klare Rechtslage; Vermeidung Erbengemeinschaftsstreit |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Sofortmaßnahme | Exchange binnen 48 h nach Erbfall informieren | Verhindert automatische Kontosperrung oder Steuer-Compliance-Probleme |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 

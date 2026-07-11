@@ -154,6 +154,3 @@ Beratung bei Frage "Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
 - `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` — bei Pflichtteilsfrage
 - `fachanwalt-erbrecht-testamentsvollstreckung` — bei TV
 - `fachanwalt-erbrecht-testamentsentwurf` — bei Nachfolge-Planung
-
-<!-- AUDIT 27.05.2026 bundle_021
--->

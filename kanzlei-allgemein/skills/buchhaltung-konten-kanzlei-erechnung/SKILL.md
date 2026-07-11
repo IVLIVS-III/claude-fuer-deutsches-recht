@@ -107,7 +107,3 @@ Im Simulationsmodus:
 - `assets/templates/datev-uebergabe-simulation.md`.
 
 ---
-
-<!-- AUDIT 27.05.2026 -->
-
-## Audit-Hinweis (27.05.2026)

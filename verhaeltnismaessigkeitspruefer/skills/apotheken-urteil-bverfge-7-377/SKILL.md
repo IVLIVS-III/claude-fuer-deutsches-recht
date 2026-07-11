@@ -58,23 +58,3 @@ Je intensiver der Eingriff, desto strenger die Anforderungen an Zweck und Mittel
 Die strikte Drei-Stufen-Prüfung ist zugunsten einer flexiblen
 Verhältnismäßigkeit nuanciert worden, aber die **Eingriffsintensitaet
 bleibt** der zentrale Maßstab.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 20a GG
-- Art. 8 GG
-- Art. 6 GG
-- Art. 87a GG
-- Art. 3 EMRK
-- Art. 10 GG
-- Art. 13 GG
-- Art. 7 GG
-- Art. 14 GG
-- Art. 9 GG
-- Art. 12 GG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)

@@ -168,7 +168,3 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Gegenangriff nicht einkalkulieren:** Besonders bei Patentverfahren besteht erhebliches Nichtigkeitsrisiko; bei Marken Löschungsantrag möglich.
 - **Missbrauchsrisiko § 8c UWG:** Serielle Abmahnungen mit primärem Gebührenerzielungszweck sind missbräuchlich; anwaltliche Prüfung des Gesamtbilds erforderlich.
 - **Verjährung beachten:** § 20 MarkenG (3 Jahre), § 141 PatG (3 Jahre), § 102 UrhG (3 Jahre), § 11 UWG (6 Monate ab Kenntnis / 3 Jahre absolut); `[Modellwissen – prüfen]`.
-
-<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

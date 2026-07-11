@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollpr체fung enthaelt top-15 von 60 Skills des Plugins `jveg-kostenpruefer`.
+Diese Vollpr체fung enth채lt top-15 von 60 Skills des Plugins `jveg-kostenpruefer`.
 
 ## Inhaltsverzeichnis
 
@@ -894,7 +894,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diesen Vollpr체fung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollpr체fung als Kontext einf체gen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgef체hrten Skills zu orientieren.
+4. Entscheidungen nur nach Pr체fung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zug채nglicher Quelle verwenden.

@@ -33,7 +33,7 @@ Strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmitglieder und 
 - § 93 Abs. 2 AktG: Vorstandsmitglied haftet, wenn es die ihm obliegende Sorgfalt verletzt hat; Beweislastumkehr: Vorstandsmitglied muss beweisen, dass es pflichtgemäß gehandelt hat.
 - § 43 Abs. 2 GmbHG: Geschäftsführer haftet bei schuldhafter Pflichtverletzung.
 - Verjährung: § 93 Abs. 6 AktG – 5 Jahre ab dem Zeitpunkt des schädigenden Ereignisses; wichtig: Hemmung (§ 204 BGB) durch Verhandlungen oder Klageerhebung.
-- BGH II ZR 234/09 (Siemens/Neubürger): Vorstandsmitglied, das Compliance-Pflichtverletzungen nicht verhindert, haftet ([openjur.de](https://openjur.de/o/577696.html)).
+- Organhaftung nicht aus dem bloßen Eintritt eines Compliance-Verstoßes ableiten; konkrete Organisations- oder Überwachungspflicht, Verschulden, ersatzfähigen Schaden, Kausalität und die Beweislast nach Paragraf 93 Absatz 2 AktG beziehungsweise Paragraf 43 Absatz 2 GmbHG prüfen.
 
 ### 3. Ansprüche gegen Mitarbeiter
 - § 249 BGB: Schadensersatz bei schuldhafter Pflichtverletzung aus dem Arbeitsverhältnis.
@@ -73,7 +73,6 @@ Strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmitglieder und 
 | § 249 BGB | Schadensersatz | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__249.html) |
 | § 195 BGB | Regelmäßige Verjährung | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html) |
 | §§ 916 ff. ZPO | Arrest | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__916.html) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 

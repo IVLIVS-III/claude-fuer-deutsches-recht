@@ -34,10 +34,9 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 26.01.2017 - IX ZR 285/14, frei nachweisbar über dejure/openJur: Zahlungsunfähigkeit ist aus Liquiditätsstatus, Liquiditätslücke und Prognosezeitraum konkret herzuleiten.
-- BGH, Urteil vom 12.05.2016 - IX ZR 65/14, frei nachweisbar über dejure/openJur: Vorsatzanfechtung verlangt tragfähige Indizien für Benachteiligungsvorsatz und Kenntnis des Gegners.
-- BGH, Beschluss vom 19.09.2013 - IX ZB 219/10, frei nachweisbar über dejure/openJur: Auswahl und Kontrolle des Insolvenzverwalters müssen nachvollziehbar, sachbezogen und verfahrensdienlich erfolgen.
-- Ständige Rechtsprechung zu Sicherungsmaßnahmen im Eröffnungsverfahren: Eingriffstiefe, Erforderlichkeit und Verhältnismäßigkeit sind im Beschluss sichtbar zu begründen; aktuelles Aktenzeichen vor Verwendung verifizieren.
+- BGH, Urteil vom 22.11.2018 - IX ZR 167/16: Im vorläufigen Eigenverwaltungsverfahren begründet der Schuldner auch außerhalb des damaligen Schutzschirmverfahrens Masseverbindlichkeiten nur im Umfang einer gerichtlichen Ermächtigung; die Entscheidung ist mit dem heute anwendbaren Normstand abzugleichen.
+- BGH, Beschluss vom 27.01.2022 - IX ZB 41/21: Die Aufhebung der vorläufigen Eigenverwaltung auf Antrag des vorläufigen Gläubigerausschusses ist nicht mit der sofortigen Beschwerde anfechtbar; die Entscheidung betont die Gläubigerautonomie als tragendes Steuerungsprinzip.
+- Prüfvermerk und Tenor trennen Eigenverwaltungsplanung, Liquiditätsplanung, Nachteile für Gläubiger, Sachwalterrolle, Ermächtigungen zu Masseverbindlichkeiten und Aufhebungsgründe.
 
 ## Prüfungsschema in Stufen
 

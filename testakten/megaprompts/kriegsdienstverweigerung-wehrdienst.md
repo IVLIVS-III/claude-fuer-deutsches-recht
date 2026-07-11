@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 136 Skills (gekuerzt fuer Chat-Fenster) des Plugins `kriegsdienstverweigerung-wehrdienst`.
+Diese Vollprüfung enthält top-8 von 136 Skills (gekürzt für das Arbeitsfenster) des Plugins `kriegsdienstverweigerung-wehrdienst`.
 
 ## Inhaltsverzeichnis
 
@@ -367,35 +367,6 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 4 Abs. 3 GG (Kriegsdienstverweigerung)
-- Art. 12a GG (Wehr- und Ersatzdienst)
-- §§ 1, 2 KDVG (Anerkennungsverfahren)
-- § 3 KDVG (Antragspflicht, Form)
-- §§ 6-9 KDVG (Entscheidung Bundesamt, Anerkennungsausschuss)
-- §§ 14, 15 KDVG (Rechtsbehelfe)
-- §§ 1, 3 WPflG (Wehrpflicht)
-- § 12 WPflG (Ausnahmen)
-- VwGO §§ 42, 75 (Anfechtungs-/Verpflichtungsklage)
-- VwVfG §§ 28, 35 (Anhörung, Verwaltungsakt)
-
-### Leitentscheidungen
-
-- BVerwG 6 C 4.83 (Gewissensentscheidung)
-- BVerfG 2 BvR 2056/03 (Anerkennung KDV)
-- BVerwG 6 C 26.07 (Reservisten-KDV)
-- BVerfG 2 BvR 1289/97 (Gewissensprüfung Reichweite)
-- BVerwG 6 C 2.21 (Maßstab Anerkennungsausschuss)
-
-### Anwendung im Skill
-
-- Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Maßstab.
-- Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
-- Rechtsschutz nach §§ 14, 15 KDVG über VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.
-
 ---
 
 ## Skill: `grundrecht-art-4-abs-3`
@@ -627,7 +598,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

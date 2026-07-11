@@ -7,7 +7,7 @@ description: "Wenn es um beA-Nachrichtenjournal und EB-Workflow in Kanzlei-Allge
 
 ## Arbeitsbereich
 
-Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen. Anwendungsfall beA-Eingang oder Versand muss nachvollziehbar protokolliert werden mit Screenshot ZIP-Export und EB-Workflow. Normen § 130a ZPO § 31a BRAO § 12 ERVV. Prüfraster Nachrichtenjournal Screenshots ZIP-Export eingegangene und versandte Nachrichten EB-Status Freigabe vor Versand. Output Versandjournal EB-Dokumentation ZIP-Archiv Screenshot-Ablage. Abgrenzung zu bea-versand-prüfen (Prüfung Versandweg) und kanzlei-allgemein-output-versand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dokumentation von beA-Verbindungen, Nachrichten, Versand und Empfangsbekenntnissen. Ein beA-Eingang oder Versand muss mit Exportnachricht, Prüfvermerk, gerichtlicher Eingangsbestätigung und EB-Status nachvollziehbar protokolliert werden. Normenanker sind ZPO Paragraf 130a, BRAO Paragraf 31a, ERVV und die aktuelle ERVB. Der Skill liefert Versandjournal, EB-Dokumentation, Exportarchiv und Screenshot-Ablage und grenzt sich von `bea-versand-pruefen` als Form- und Eingangskontrolle ab.
 
 ## Arbeitsweg
 

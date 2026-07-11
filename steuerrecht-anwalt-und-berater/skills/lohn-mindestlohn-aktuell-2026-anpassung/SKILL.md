@@ -116,5 +116,4 @@ Stand: 05/2026.
 - Mindestlohnkommission.
 - Mindestlohn 2025: 12,82 EUR/h (MiLoV4); 2026: 13,90 EUR/h; 2027: 14,60 EUR/h (Fuenfte Mindestlohnanpassungsverordnung MiLoV5 vom 05.11.2025, BGBl. 2025 I Nr. 268; Berichtigung BGBl. 2025 I Nr. 312). Empfehlung Mindestlohnkommission vom 27.06.2025. Volltext der MiLoV5: recht.bund.de/bgbl/1/2025/268/VO.html.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (MiLoV3 BGBl. 2023 I Nr. 321, 12,82 EUR eingesetzt), 1 ersetzt (2026-Wert als noch nicht festgesetzt ausgewiesen) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: 13,90 EUR (2026) und 14,60 EUR (2027) bestaetigt, BGBl. 2025 I Nr. 268/312 -->

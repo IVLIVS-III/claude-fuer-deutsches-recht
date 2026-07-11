@@ -1,54 +1,57 @@
 ---
 name: anlagenkonvolut-konsolidieren
-description: "Wenn es um Anlagenkonvolut konsolidieren in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt Dubletten und Fassungen, bestimmt Eltern- und Unteranlagen, erzeugt Deckblatt, Inhaltsliste, Seitenstempel und Lesezeichen, gleicht jeden Teil mit dem Beweisthema im Schriftsatz ab und liefert Einzelanlage, Prüfkonvolut, Hashprotokoll und konkrete Nachforderungsliste."
 ---
 
 # Anlagenkonvolut konsolidieren
 
-## Normenanker
+## 1. Direktstart
 
-Arbeitsfokus: **Anlagenkonvolut konsolidieren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Lies zuerst den Schriftsatz, das bisherige Anlagenverzeichnis und sämtliche Kandidatendateien. Liefere ohne vorgeschalteten Fragenkatalog eine Bestandsmatrix mit Dateiname, Datum, Absender, Dokumentart, Seitenzahl, Hashwert, Fassung, Beweisthema und vorgesehener Unteranlage. Frage nur nach einer Zuordnung, die weder aus Datei noch Schriftsatz hervorgeht und die Konsolidierung sperrt.
 
-- `§ 130 Nr. 6 ZPO` — Schriftsatzanforderungen.
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 131 Abs. 1 ZPO` — Beifügung von Abschriften/Anlagen.
-- `§ 133 Abs. 1 ZPO` — Abschriften für Zustellung.
-- `§ 138 Abs. 1 ZPO` — Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Klageinhalt.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-- `§ 371 Abs. 1 ZPO` — Augenschein.
+## 2. Konsolidierungsentscheidung
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Mehrere Dokumente dürfen nur dann eine gemeinsame Anlage bilden, wenn sie ein einheitliches Beweisthema nachvollziehbar dokumentieren, etwa eine vollständige E-Mail-Kette mit Anhängen oder einen Vertrag mit Nachträgen. Bloße gemeinsame Herkunft, Dateiformat oder Ordnerlage genügt nicht.
 
-## Spezialwissen: Anlagenkonvolut konsolidieren
-- **Normen-/Quellenanker:** ZIP.
+| Entscheidung | Voraussetzung | Ergebnis |
+| --- | --- | --- |
+| getrennte Anlagen | eigenständige Beweisthemen oder getrennte Schriftsatzbezüge | fortlaufende K- oder B-Nummern |
+| Elternanlage mit Unteranlagen | ein Beweisthema, mehrere klar trennbare Dokumente | Deckblatt und K 5/1, K 5/2 fortlaufend |
+| eine mehrseitige Anlage | ein Dokument oder untrennbare Dokumentfolge | eine Nummer, jede Seite bezeichnet |
+| nur interne Prüffassung | Gesamtüberblick wird gebraucht, Gericht soll Einzeldateien erhalten | Lesezeichen-Konvolut im Ordner `intern/` |
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Ein zusammengeführtes Prüfkonvolut ist nicht automatisch die Versandfassung. Gerichtliche Hinweise zur getrennten Einreichung haben Vorrang.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 3. Produktionslauf
 
-## Prüfraster
+1. Originale unverändert sichern und Hashwerte bilden.
+2. Dubletten, Entwürfe, OCR-Fassungen und spätere Endfassungen kennzeichnen; nur eine gerichtliche Fassung je Dokument bestimmen.
+3. Beweisthema und genaue Fundstelle im Schriftsatz jeder Datei zuordnen.
+4. Elternnummer und Unterfolge ohne Lücken oder Doppelbelegung festlegen.
+5. Dateigrenzen, chronologische Reihenfolge und Seitenausrichtung kontrollieren.
+6. In PDF konvertieren, Ergebnis visuell gegen das Original prüfen und fehlende OCR kenntlich machen.
+7. Deckblatt und kurze Inhaltsliste mit Dokumentdatum, Absender, Empfänger und Seitenbereich erzeugen.
+8. Jede Seite oben rechts mit Eltern- und erforderlichenfalls Unteranlagenbezeichnung versehen.
+9. Lesezeichen an jeder Dokumentgrenze und eine fortlaufende interne Seitenzählung anlegen.
+10. Anlagenzitate, Verzeichnis, Dateinamen und finale PDFs gegeneinander prüfen.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## 4. Normen- und Quellenanker
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- ZPO Paragraf 130 Nummer 6: Bezeichnung der beigefügten Urkunden.
+- ZPO Paragraf 130a und ERVV Paragraf 2: elektronisches Dokument und technisch geeignete Dateiformate.
+- ZPO Paragraf 131: Beifügung von Urkunden, auf die im Schriftsatz Bezug genommen wird.
+- ZPO Paragraf 138: konkreter und wahrheitsgemäßer Tatsachenvortrag; ein Anlagenkonvolut ersetzt keinen verständlichen Vortrag im Schriftsatz.
+- ZPO Paragraf 253 Absatz 2: bestimmter Antrag und hinreichend bestimmter Klagegrund bleiben im Hauptdokument erforderlich.
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+Für Format-, Dateinamen- und Versandfragen gelten `references/ANLAGEN-STANDARDS.md` und `references/BEA-ENDPRODUKTION-RECHT-TECHNIK.md`. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und geprüfter amtlicher Quelle verwendet.
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+## 5. Stop-Kriterien
+
+Stoppe die Versandfreigabe bei fehlender oder doppelter Nummer, nicht erklärter Fassung, unterbrochener E-Mail-Kette, unlesbarer Seite, fehlendem Anhang, unstimmigem Schriftsatzbezug, aktivem PDF-Inhalt, Kennwortschutz oder nicht kontrollierter Konvertierung. Beschreibe den Befund datei- und seitengenau und nenne den nächsten Reparaturschritt.
+
+## 6. Output
+
+Liefere eine gerichtliche Einzelanlage oder getrennte Einzelanlagen, ein Anlagenverzeichnis, eine Zuordnungsmatrix Schriftsatzstelle zu Beleg, ein Hash- und Fassungsprotokoll, einen visuellen Prüfvermerk und nur bei Bedarf ein internes Lesezeichen-Konvolut. Übergib die fertigen Dateien anschließend an `bea-versandmappe-endfertigung`.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

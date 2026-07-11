@@ -11,7 +11,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 1565; BGB Paragraf 1601 und Paragraf 1610; BGB Paragraf 1612a |
-| Rechtsprechung | BGH, Beschluss vom 15.02.2017 - XII ZB 201/16; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18 |
+| Rechtsprechung | BGH, Beschluss vom 01.02.2017 - XII ZB 601/15; BGH, Beschluss vom 27.11.2019 - XII ZB 512/18 |
 | Tatbestand | Auskunft, Einkommen, Bedarf, Selbstbehalt, Kindeswohl, Versorgungsausgleich und Verbundfrage rechnerisch trennen |
 | Beweislast | Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege |
 | Rechtsfolge | Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn |
@@ -53,9 +53,9 @@ Arbeitsfolge: Zuständigkeit und Verfahrensstand sichern, entscheidungserheblich
 
 Die folgenden Aktenzeichen sind Sucheinstiege und vor Verwendung über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Übernahme. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
 
-- BGH, Beschluss vom 15.02.2017 - XII ZB 201/16: Wechselmodell bei Kindeswohl.
-- BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt konkret prüfen.
-- BGH, Beschluss vom 24.07.2013 - XII ZB 340/11: Versorgungsausgleich als Teilhabe an ehezeitlichen Anrechten.
+- BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Ein paritätisches Wechselmodell kann als Umgangsregelung angeordnet werden, wenn es dem Kindeswohl entspricht und die Eltern hinreichend kommunikations- und kooperationsfähig sind.
+- BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Beim Ehegattenunterhalt trägt die Quotenmethode bei hohem Einkommen nur innerhalb der anerkannten Verbrauchsvermutung; darüber hinaus ist die konkrete Verwendung für den Lebensbedarf darzulegen und zu beweisen.
+- BGH, Beschluss vom 24.03.2021 - XII ZB 230/16: Bei externer Teilung sind Zielversorgung und fiktive interne Teilung auf gleichen Rechnungsgrundlagen zu vergleichen.
 
 ## 8. Antwortform
 

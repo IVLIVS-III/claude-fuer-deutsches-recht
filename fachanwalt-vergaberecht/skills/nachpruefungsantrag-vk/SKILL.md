@@ -247,12 +247,10 @@ aufschiebende Wirkung bis zur Entscheidung des OLG.
 | Einwand Auftraggeber / Beigeladener | Reaktion |
 |---|---|
 | Rüge nicht rechtzeitig erhoben | Nachweis: Rügeschreiben mit Datum; Frist § 160 Abs. 3 Nr. 1 (10 Tage) oder bis Angebotsabgabe |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Fehler nicht kausal für Ergebnis | Denkbarer Einfluss ausreicht; Umkehr der Darlegungslast beim AG |
 | VK territorial nicht zuständig | § 159 Abs. 3 GWB: Sitz des AG entscheidet; ggf. VK Bund |
 | Beigeladener: Zuschlag im öffentlichen Interesse | § 169 Abs. 3 GWB: strenge Anforderungen; überragendes öffentliches Interesse muss glaubhaft gemacht werden |
 | Akteneinsicht gefährdet Betriebsgeheimnisse | § 165 Abs. 2 GWB: VK entscheidet nach Anhörung; schwärzen von Geheimnissen möglich |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Streitwert und Kosten
 

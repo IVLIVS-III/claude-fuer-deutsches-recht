@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragraf 51 UrhG — Zitatrecht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 63 UrhG — Quellenangabe: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2 Abs. 1 Nr. 1 UrhG — Sprachwerke: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 97 UrhG — Unterlassung/Schadensersatz bei Rechtsverletzung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 51 UrhG — Zitatrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 63 UrhG — Quellenangabe; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2 Abs. 1 Nr. 1 UrhG — Sprachwerke; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 97 UrhG — Unterlassung/Schadensersatz bei Rechtsverletzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

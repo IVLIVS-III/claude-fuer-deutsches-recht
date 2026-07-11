@@ -15,7 +15,7 @@ description: "Wenn es um Sozialrecht Warnwoerter in Juristische Sprache Deutsch 
 
 ## Warnwoerter mit hoher Tragweite
 - **Mitwirkungspflicht (§ 60 SGB I)**: bei Verletzung Leistungskuerzung oder -versagung; Termine immer wahrnehmen oder absagen.
-- **Sanktion / Leistungsminderung (§ 31a SGB II)**: bis 30 % des Regelbedarfs; nach Bundesverfassungsgericht-Urteil v. 05.11.2019 (1 BvL 7/16) gibt es Grenzen.
+- **Sanktion / Leistungsminderung (Paragraf 31a SGB II)**: Seit 1. Juli 2026 regelmäßig 30 Prozent; bei willentlicher Ablehnung einer tatsächlich und unmittelbar möglichen zumutbaren Arbeit kann der Anspruch in Höhe des Regelbedarfs zeitweise entfallen. Das BVerfG-Urteil vom 05.11.2019 - 1 BvL 7/16 verlangt insbesondere Verhältnismäßigkeit und eine Härteprüfung.
 - **Aufrechnung (§ 43 SGB I)**: Behörde verrechnet Forderung mit laufender Leistung.
 - **Erstattungsbescheid (§ 50 SGB X)**: Forderung der Behörde zurueck; oft mit Frist 1 Monat.
 - **Aufhebungsbescheid (§ 48 SGB X)**: Änderung der Verhältnisse; Anhörungspflicht (§ 24 SGB X).

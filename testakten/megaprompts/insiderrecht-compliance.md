@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 111 Skills (gekuerzt fuer Chat-Fenster) des Plugins `insiderrecht-compliance`.
+Diese Vollprüfung enthält top-8 von 111 Skills (gekürzt für das Arbeitsfenster) des Plugins `insiderrecht-compliance`.
 
 ## Inhaltsverzeichnis
 
@@ -329,29 +329,6 @@ Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
 - Prüfung: Hat der informierte Analyst Transaktionen auf Basis dieser Information getätigt?
  → Meldung an BaFin erforderlich
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 119 WpHG
-- § 97 WpHG
-- § 120 WpHG
-- § 93 AktG
-- § 50 WpHG
-- § 10 WpÜG
-- § 4 WpHG
-- § 98 WpHG
-- § 80 WpHG
-- § 116 AktG
-- § 39 BörsG
-- § 89 KWG
-
-### Leitentscheidungen
-
-- EuGH C-19/11
-- EuGH C-628/13
-- BGH II ZB 26/12
-
 ---
 
 ## Skill: `produktzulassung-whistleblower`
@@ -606,34 +583,11 @@ Weitere Quellen:
 - DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
 - §§ 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 119 WpHG
-- § 97 WpHG
-- § 120 WpHG
-- § 93 AktG
-- § 50 WpHG
-- § 10 WpÜG
-- § 4 WpHG
-- § 98 WpHG
-- § 80 WpHG
-- § 116 AktG
-- § 39 BörsG
-- § 89 KWG
-
-### Leitentscheidungen
-
-- EuGH C-19/11
-- EuGH C-628/13
-- BGH II ZB 26/12
-
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

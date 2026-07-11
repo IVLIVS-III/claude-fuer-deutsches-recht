@@ -99,5 +99,3 @@ Stand: 05/2026.
 - SGB VII §§ 150, 165, 166.
 - BG-Satzungen.
 - BG-Spitzenverband Rundschreiben.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BG-Satzungs-Faelligkeit ohne Marker neu formuliert) -->

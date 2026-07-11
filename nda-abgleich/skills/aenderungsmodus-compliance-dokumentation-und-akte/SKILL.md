@@ -31,24 +31,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 28 DSGVO
-- § 17 GeschGehG
-- § 203 StGB
-- § 16-20 GeschGehG
-- § 5 GeschGehG
-- § 2 GeschGehG
-- § 4 GeschGehG
-- § 6 GeschGehG
-- § 9 GeschGehG
-- § 6a ArbGG
-- § 50 GwG
-- Art. 17 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-435/22

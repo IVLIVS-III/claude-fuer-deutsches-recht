@@ -39,7 +39,6 @@ description: "Wenn es um Fachanwalt Familienrecht Mediation 156 Famfg Cochemer i
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## ADR-Pfade im Überblick
 
@@ -227,7 +226,6 @@ Rechtsanwalt/Rechtsanwältin [Name]
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
 | "Mediation ist freiwillig — ich verweigere die Teilnahme" | Titelschuldner | Gerichtliche Anordnung nach Paragraf 156 FamFG möglich; Kostentragung bei Verweigerung; Ordnungsmittel nach Paragraf 89 FamFG als nächste Stufe |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Häusliche Gewalt schließt Mediation aus" | Antragsgegner/in | Prüfung nach Paragraf 1666 BGB; bei konkreter Gefährdung Ausschluss der ADR; bis zur Klärung Schutzanordnung GewSchG |
 | "Cochemer Modell ist nicht gesetzlich verankert" | Gegenanwalt | Paragraf 156 FamFG iVm kommunalen Netzwerkvereinbarungen; praktizierende Gerichte in fast allen Bundesländern; keine Gesetzesbindung nötig |
 | "Mediationsergebnis ist nicht vollstreckbar" | Mandant | Protokollierung nach Paragraf 127a BGB schafft Vollstreckungstitel; alternativ gerichtlicher Beschluss nach Paragraf 86 FamFG |
@@ -260,7 +258,6 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (Para
 | Situation | Empfehlung | Begründung |
 |-----------|------------|-----------|
 | Erste Trennung, beide Elternteile kooperationswillig | Sofortige Familienmediation außergerichtlich (DGFM); kein Gerichtsverfahren einleiten | Günstigster, schnellster Weg; Vereinbarung nach Paragraf 127a BGB protokollieren |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Hochkonfliktfamilie, kein Konsens möglich | Cochemer Modell aktivieren über Paragraf 156 FamFG; Verfahrensbeistand Paragraf 158 FamFG beantragen | Interdisziplinäre Struktur entlastet Gerichte; Kindesinteresse im Fokus |
 | Häusliche Gewalt / Paragraf 1666 BGB-Verdacht | Keine ADR; sofortige einstweilige Anordnung; Paragraf 1666 BGB-Verfahren | Sicherheit vor Einigung; Schutzanordnung GewSchG parallel |
 | Einigung erzielt, aber fragile Umsetzung | Gerichtliche Protokollierung Paragraf 127a BGB + Follow-up-Mediation nach 6 Monaten | Vollstreckungstitel als Sicherheitsnetz; präventive Eskalationsminderung |

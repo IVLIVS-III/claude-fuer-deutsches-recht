@@ -30,6 +30,7 @@ GROUPS: list[tuple[str, tuple[str, ...]]] = [
 
 PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
     ("7. Kontrolle, Qualität und Gegenprüfung", ("red-team", "qualitygate", "qualitaetsgate")),
+    ("6. Ergebnis, Schreiben und Kommunikation", ("versandmappe-endfertig",)),
     ("3. Prüfung, Anspruch und Subsumtion", ("rentenbescheid", "altersrente", "erwerbsminderung", "erwerbsminderungsrente", "hinterbliebene", "hinterbliebenenrente", "grundrente", "kvdr", "uebergangsgeld")),
     ("4. Gestaltung, Strategie und Verhandlung", ("hinzuverdienst", "teilrente", "weiterarbeit", "nachzahlung", "ausgleich", "betriebsrente", "riester", "basisrente", "mehrsaeulen")),
     ("2. Unterlagen, Sachverhalt und Quellen", ("kontenklaerung", "versicherungsverlauf", "auslandszeiten", "kindererziehungszeiten", "pflegezeiten")),
@@ -68,7 +69,7 @@ def format_slugs(slugs: list[str], limit: int = 18) -> str:
     if not displayable:
         return "Siehe alphabetische Komplettliste unten."
     shown = displayable[:limit]
-    text = ", ".join(f"`{slug}`" for slug in shown)
+    text = ", ".join(f"[`{slug}`](skills/{slug}/SKILL.md)" for slug in shown)
     rest = len(displayable) - len(shown)
     if rest > 0:
         text += f", ... plus {rest} weitere"

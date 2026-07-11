@@ -27,32 +27,3 @@ description: "Wenn es um Bho 12 Geltungsdauer Praktisch Anwende in Haushaltsrech
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 110-115 GG (Haushaltsgrundsätze, Schuldenbremse)
-- § 6 BHO (Wirtschaftlichkeit, Sparsamkeit)
-- § 7 BHO (Wirtschaftlichkeitsuntersuchungen)
-- § 23 BHO (Zuwendungen)
-- § 34 BHO (Erhebung der Einnahmen)
-- § 44 BHO (Zuwendungen, Verwaltungsvorschriften ANBest-P)
-- §§ 55, 56 BHO (öffentliche Ausschreibung, Vorbehaltsklauseln)
-- § 109 BHO (Prüfung durch BRH)
-- HGrG, StabG (Stabilitäts- und Wachstumsgesetz)
-- §§ 17, 22 ff. SGB IV (Wirtschaftlichkeit Sozialversicherungsträger)
-
-### Leitentscheidungen
-
-- BVerfG 2 BvF 1/22 (Schuldenbremse, Klimafonds-Urteil)
-- BVerwG 8 C 8.14 (Zuwendungsrecht, Vertrauensschutz)
-- BVerfG 2 BvR 2628/10 (Verständigung im Strafverfahren, Hinweis)
-- BVerwG 6 C 3.21 (Zuwendungsbescheid Rückforderung)
-- BRH-Bemerkungen jährlich nach § 97 BHO
-
-### Anwendung im Skill
-
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
-- Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
-- BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.

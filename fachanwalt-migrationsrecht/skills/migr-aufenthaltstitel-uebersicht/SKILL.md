@@ -1,93 +1,65 @@
 ---
 name: migr-aufenthaltstitel-uebersicht
-description: "Wenn es um Migr Aufenthaltstitel Uebersicht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Routet Aufenthaltsziele zu Visum, befristetem Aufenthaltstitel, Blauer Karte EU, ICT-Karte, Niederlassungserlaubnis oder Daueraufenthalt EU. Liefert Status- und Stichtagsblatt, Anspruchsspur, Unterlagenplan, Fristen sowie den nächsten Antrag oder Rechtsbehelf."
 ---
 
-# Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU
+# 1. Aufenthaltstitel auswählen
 
+## 1.1 Start mit Ziel und Akte
 
-## Arbeitsweg
+Lies Pass, bisherigen Aufenthaltstitel, Zusatzblatt, Einreisestempel, Visum, Anträge, Fiktionsbescheinigung, Bescheide, Qualifikations- und Familiennachweise. Bestimme zuerst Staatsangehörigkeit, gegenwärtigen Status, Aufenthaltszweck, Ziel und nächsten Fristtermin.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AufenthG §§ 4, 5, 7, 8, 9, 16a-16g, 18a-18g, 19c, 25, 27-36, 50, 53-55, 58, 60, 60a-60d, 81, 84, 95; AsylG §§ 13, 24-30, 34-38, 71, 74, 77; FreizügG/EU §§ 2-5; StAG §§ 4, 5, 8-10, 12a, 25, 30; AsylbLG §§ 1, 3, 6; VwGO §§ 74, 80, 123; Dublin-III-VO Art. 3, 17, 21-29; einschlägige EU-Richtlinien/GEAS-Normstand live prüfen; keine BeckRS-/juris-Blindzitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.2 Systemweiche
 
-**Fokus:** Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU. Pro Titel Anspruchsvoraussetzungen, Zuständigkeit, typische Versagungsgruende.
+1. Prüfe bei Unionsbürgern und ihren Familienangehörigen vorrangig FreizügG/EU und Unionsrecht. Das AufenthG ist nicht automatisch die richtige Anspruchsgrundlage.
+2. Prüfe bei türkischen Arbeitnehmern und Familienangehörigen mögliche Rechte aus dem Assoziationsrecht zusätzlich.
+3. Bei Drittstaatsangehörigen ordne Einreise, gegenwärtigen Titel, Zweckwechsel, Verlängerung und Dauerstatus getrennt ein.
+4. Trenne materiellen Anspruch, Visumerfordernis, Zuständigkeit, Zustimmung der Bundesagentur für Arbeit und Fiktionswirkung.
+5. Verwende die am Antrags- und Entscheidungsstichtag geltende Normfassung; bei Übergangsrecht beide Stichtage sichtbar machen.
 
-### Migr: Aufenthaltstitel-Übersicht
+## 1.3 Titelkarte
 
-## Einstieg
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+| Ziel | Hauptanker | Kernprüfung |
+| --- | --- | --- |
+| kurzer Aufenthalt | Schengen-Visum und Visakodex | Aufenthaltsdauer, Zweck, Rückkehr, Finanzierung |
+| längerfristige Einreise | nationales Visum nach Paragraf 6 AufenthG | späterer Aufenthaltszweck und zuständige Auslandsvertretung |
+| befristeter Aufenthalt | Paragraf 7 und jeweilige Zwecknorm | allgemeine und besondere Erteilungsvoraussetzungen |
+| akademische Fachkraft | Paragraf 18b AufenthG | anerkannter oder vergleichbarer Abschluss, qualifizierte Beschäftigung |
+| Blaue Karte EU | Paragraf 18g AufenthG | Qualifikation, angemessene Beschäftigung, sechsmonatiges Angebot, Gehalt |
+| unternehmensinterner Transfer | Paragrafen 19 und 19b AufenthG | Konzernbezug, Position, Vorbeschäftigung, Dauer |
+| unbefristeter nationaler Status | Paragraf 9 oder Spezialnorm | Voraufenthalt, Lebensunterhalt, Beiträge, Sprache, Ausschlüsse |
+| Daueraufenthalt EU | Paragraf 9a AufenthG | fünfjähriger anrechenbarer Aufenthalt, Lebensunterhalt, Ausschlüsse |
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 1.4 Erwerbsmigration
 
-## Aufenthaltstitel-Übersicht (§ 4 I 2 AufenthG)
+1. Paragraf 18b AufenthG enthält keine allgemeine feste Gehaltsschwelle. Prüfe die qualifizierte Beschäftigung und die allgemeinen Voraussetzungen.
+2. Für die Blaue Karte EU nach Paragraf 18g gelten 2026 grundsätzlich 50.700 Euro brutto jährlich sowie 45.934,20 Euro für gesetzlich begünstigte Mangelberufe, Berufsanfänger und qualifizierte IT-Fälle. Die niedrigere Schwelle erfordert regelmäßig die Zustimmung der Bundesagentur für Arbeit.
+3. Prüfe die Beträge jährlich neu, weil sie an die Beitragsbemessungsgrenze gekoppelt sind.
+4. Bei erstmaliger Erteilung nach Paragraf 18a oder Paragraf 18b nach Vollendung des 45. Lebensjahres prüfe Paragraf 18 Absatz 2 Nummer 5 AufenthG.
+5. Prüfe bei jedem Arbeitgeberwechsel, ob Anzeige, Zustimmung oder neue Nebenbestimmung erforderlich ist.
 
-### 1. Visum
+## 1.5 Dauerstatus
 
-- **Schengen-Visum** Typ C (kurzer Aufenthalt bis 90 Tage / 180 Tage); EU-VO 810/2009 Visakodex.
-- **Nationales Visum** Typ D § 6 III AufenthG (laengerer Aufenthalt zu Studienzweck, Familiennachzug, Erwerbstaetigkeit).
-- Zuständigkeit: Auslandsvertretung; Verpflichtungserklaerung § 68 AufenthG durch Dritten möglich.
+1. Niederlassungserlaubnis nach Paragraf 9 AufenthG: Aufenthaltszeit, gesicherter Lebensunterhalt, Rentenbeiträge, Straffreiheit, Beschäftigungserlaubnis, Sprache, Rechts- und Gesellschaftskenntnisse sowie Wohnraum einzeln belegen.
+2. Fachkräfte, Inhaber einer Blauen Karte EU, Familienangehörige Deutscher und Schutzberechtigte haben besondere Wege mit eigenen Fristen und Voraussetzungen.
+3. Bei der Blauen Karte EU prüfe für den schnelleren Dauerstatus aktuell 27 Monate mit einfachen oder 21 Monate mit hinreichenden deutschen Sprachkenntnissen; ordne Beschäftigungs- und Beitragszeiten nach der geltenden Fassung des Paragrafen 18c AufenthG zu.
+4. Daueraufenthalt EU und nationale Niederlassungserlaubnis haben unterschiedliche Mobilitäts- und Ausschlussfolgen. Stelle beide Wege vergleichend dar.
 
-### 2. Aufenthaltserlaubnis (befristet, § 7 AufenthG)
+## 1.6 Antrag, Verlängerung und Fiktion
 
-| Zweck | Norm | Voraussetzungen |
-|---|---|---|
-| Ausbildung / Studium | §§ 16a-16f AufenthG | Zulassung, Lebensunterhalt, KV |
-| Erwerbstaetigkeit allgemein | § 18 AufenthG | Vorrangpruefung weitgehend abgeschafft seit 2020 (Fachkraefteeinwanderungsgesetz); Anerkennung Qualifikation noetig |
-| Fachkraefte mit Berufsausbildung | § 18a AufenthG | Anerkannte qualifizierte Berufsausbildung |
-| Fachkraefte mit akademischer Ausbildung | § 18b AufenthG | Hochschulabschluss (anerkannt/vergleichbar) |
-| Blaue Karte EU | § 18g AufenthG | Hochschulabschluss; Mindestgehalt (2024: 45.300 Euro allg., 41.041 Euro Mangelberuf); RL 2009/50/EG |
-| ICT-Karte | §§ 19, 19b AufenthG; RL 2014/66/EU | Konzerninterner Transfer von Drittstaaten |
-| Familiennachzug | §§ 27 ff. AufenthG | Ehegatte (§§ 28-30), Kinder (§§ 32, 33), Eltern (§ 36) |
-| Humanitaere Gruende | §§ 22-25 AufenthG | Asylberechtigung, Fluechtlingseigenschaft, subsidiaerer Schutz, Abschiebungsverbot |
-| Chancenkarte | § 20a AufenthG (seit 1.6.2024) | Punkteverfahren für Arbeitssuche bis 1 Jahr |
+1. Ermittle, wann der bisherige Titel endet und wann der neue Antrag nachweisbar einging.
+2. Prüfe die Fortgeltungs- oder Erlaubnisfiktion nach Paragraf 81 AufenthG anhand des bisherigen Status und der Rechtzeitigkeit.
+3. Eine verspätete Antragstellung führt nicht schematisch zum endgültigen Statusverlust; prüfe insbesondere die gesetzliche Möglichkeit einer nachträglich angeordneten Fortgeltungswirkung.
+4. Kläre, welche Erwerbstätigkeit während des laufenden Verfahrens erlaubt ist und ob das Zusatzblatt angepasst werden muss.
+5. Bei drohender Beschäftigungsunterbrechung liefere Sachstandsschreiben, Notfallunterlagen und Eilrechtsschutzprüfung als getrennte Schritte.
 
-### 3. Niederlassungserlaubnis (unbefristet, § 9 AufenthG)
+## 1.7 Versagung und Rechtsbehelf
 
-- Grundsatz: 5 Jahre Aufenthaltserlaubnis + Lebensunterhalt + 60 Monate Beitraege RV + Sprachkenntnisse B1 + Grundkenntnisse Rechts-/Gesellschaftsordnung.
-- Schnellere Wege:
- - Fachkraefte mit Blauer Karte: 33 / 21 Monate (mit Sprachkenntnissen B1; § 18c AufenthG).
- - Asyl/Fluechtling: drei Jahre nach Anerkennung bei Erfuellung Integrationsvoraussetzungen (§ 26 III AufenthG).
- - Hochqualifizierte: sofort (§ 18c II AufenthG).
+1. Trenne fehlende Anspruchsvoraussetzung, allgemeinen Versagungsgrund, Ausweisungsinteresse, Visumverstoß und Ermessensentscheidung.
+2. Bestimme Rechtsbehelf und Frist aus Bescheid, Landesrecht und Verwaltungsgerichtsordnung; behaupte kein Widerspruchsverfahren ohne Zuständigkeitsprüfung.
+3. Sichere Bekanntgabe, Rechtsbehelfsbelehrung, Akteneinsicht und Fortbestandswirkung.
+4. Formuliere bei einer Ablehnung jeden tragenden Bescheidgrund als eigenen Angriffspunkt mit Tatsache, Norm, Beleg und Gegenargument.
 
-### 4. Erlaubnis zum Daueraufenthalt-EU (§ 9a AufenthG, RL 2003/109/EG)
+## 1.8 Ausgabe
 
-- 5 Jahre rechtmäßiger Aufenthalt + Lebensunterhalt + Sprache + Integration.
-- Vorteil: Mobilitaet innerhalb EU-Mitgliedstaaten (§ 38a AufenthG).
-
-## Versagungsgruende (regelmaessig)
-
-- Allgemeine Erteilungsvoraussetzungen § 5 AufenthG: gesicherter Lebensunterhalt, Identitaetsklaerung, kein Ausweisungsinteresse, kein Bezug zu extremistischen Organisationen.
-- Ausweisungsinteresse § 54 AufenthG (besonders schwerwiegend / schwerwiegend).
-- Einreise mit falschem Visum / Visumumgehung (§ 5 II AufenthG: grds. mit nationalem Visum eingereist).
-
-## Praxisfallen
-
-- **Visumumgehung**: § 5 II AufenthG; Heilungsmoeglichkeit bei Anspruch auf Erteilung (§ 5 II 2 AufenthG).
-- **Bestandskraft Versagung**: Klagefrist § 74 VwGO ein Monat nach Bekanntgabe.
-- **Aufenthaltserlaubnis vs. Fiktionsbescheinigung** § 81 IV AufenthG: rechtzeitige Verlaengerung sichert Status; verspaeteter Antrag = Statusverlust.
-- **Änderung Aufenthaltszweck** § 7 AufenthG: nicht immer möglich; manchmal Ausreise und Neueinreise mit Visum noetig.
-- **EU-Buerger und Familienangehoerige** Freizuegigkeit § 2 FreizuegG/EU; nicht AufenthG.
-- **Tuerkische Arbeitnehmer** Sonderrechte aus ARB 1/80.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Liefere Status- und Stichtagsblatt, Titelvergleich, Anspruchsvoraussetzungen, Zuständigkeits- und Zustimmungsweg, Unterlagenmatrix, Fristenplan und ausformulierten Antrag oder Rechtsbehelf. Kennzeichne Beträge und Verwaltungshinweise immer mit Quellenjahr und Abrufdatum.

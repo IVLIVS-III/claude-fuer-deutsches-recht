@@ -77,25 +77,3 @@ Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mi
 
 **Vorher:** (kein Abschlusssatz, nur Unterschrift)
 **Nachher:** "Mit freundlichen Grüßen" / "Mit kollegialen Grüßen"
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 RVG
-- § 10 RVG
-- § 57 StBerG
-- § 185 StGB
-- § 57a StBerG
-- Art. 5 GG
-- § 240 StGB
-- § 186 StGB
-- § 203 StGB
-- § 4a RVG
-- § 261 StGB
-- Art. 32 DSGVO
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

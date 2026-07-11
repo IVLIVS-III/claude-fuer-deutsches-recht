@@ -161,7 +161,7 @@ führung erfüllt.
 - **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Anwendung des § 5 Abs. 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukünftigen Gewinnen.
 - **FG Köln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7 (Wegfall mit Erlöschen mangels Steuersubjekt).
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Köln 13 K 3006/11.
-- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung der Gesellschaft gegen Gesellschafter.
+- **BFH, Urteil vom 16.06.2015 - IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung der Gesellschaft gegen Gesellschafter.
 
 ### Verwaltungsauffassung
 

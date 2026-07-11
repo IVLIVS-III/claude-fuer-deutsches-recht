@@ -7,6 +7,8 @@ Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elte
 
 Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
+Direktnavigation: [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/richter-familiengericht.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Testakten](../../testakten/README.md)
+
 Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für einen tragfähigen Arbeitsmodus die Werkstatt. Beide Prompts sollen mit einem konkreten Arbeitsprodukt beginnen, nur eng nachfragen und nicht in einer Materialinventur hängen bleiben.
 
 ## Downloads
@@ -16,9 +18,20 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-familiengericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md" download><code>richter-familiengericht-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/richter-familiengericht-schnellstart.md" download><code>richter-familiengericht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | Familienrecht — Sorge, Umgang und Gewaltschutz in Essen: [Gesamt-PDF](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf), [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip), [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip); Pluginlokale Akte: [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf), [`richter-familiengericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-testakte.zip), [`richter-familiengericht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-testakte-einzelpdfs.zip) |
+| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-familiengericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-testakte.zip) | [`richter-familiengericht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-testakte-einzelpdfs.zip) |
+| [Familienrecht — Sorge, Umgang und Gewaltschutz in Essen](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/README.md) | [Gesamt-PDF](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du eine Familiensache richterlich vorbereiten: Zuständigkeit, Anhörung, Kindeswohl, Unterhalt, Versorgungsausgleich, Zugewinn, Gewaltschutz, Tenor und Beschlussgründe.
@@ -109,9 +122,9 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 4. Gestaltung, Strategie und Verhandlung | `03-versorgungsausgleich-vorbereiten` |
-| 5. Verfahren, Behörde und Gericht | `09-beschluss-familiensache-paragraf-38-famfg`, `v392-praxisraster-richter-familiengericht` |
-| 8. Spezialmodule und Schnittstellen | `01-zustaendigkeit-und-zuteilung-familiensache`, `02-ehesache-scheidung-paragraf-1565`, `04-kindschaftssache-elterliche-sorge`, `05-umgangsrecht-paragraf-1684-bgb`, `06-kindesunterhalt-duesseldorfer-tabelle`, `07-ehegattenunterhalt-trennung-und-nachehe`, `08-gewaltschutz-und-eilanordnung`, `10-entscheidungsvorschlag-familienrichter`, `99-finale-entscheidung-volltext`, `prozessuale-kniffe-und-rechtsprechungsanker` |
+| 4. Gestaltung, Strategie und Verhandlung | [`03-versorgungsausgleich-vorbereiten`](skills/03-versorgungsausgleich-vorbereiten/SKILL.md) |
+| 5. Verfahren, Behörde und Gericht | [`09-beschluss-familiensache-paragraf-38-famfg`](skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md), [`v392-praxisraster-richter-familiengericht`](skills/v392-praxisraster-richter-familiengericht/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`01-zustaendigkeit-und-zuteilung-familiensache`](skills/01-zustaendigkeit-und-zuteilung-familiensache/SKILL.md), [`02-ehesache-scheidung-paragraf-1565`](skills/02-ehesache-scheidung-paragraf-1565/SKILL.md), [`04-kindschaftssache-elterliche-sorge`](skills/04-kindschaftssache-elterliche-sorge/SKILL.md), [`05-umgangsrecht-paragraf-1684-bgb`](skills/05-umgangsrecht-paragraf-1684-bgb/SKILL.md), [`06-kindesunterhalt-duesseldorfer-tabelle`](skills/06-kindesunterhalt-duesseldorfer-tabelle/SKILL.md), [`07-ehegattenunterhalt-trennung-und-nachehe`](skills/07-ehegattenunterhalt-trennung-und-nachehe/SKILL.md), [`08-gewaltschutz-und-eilanordnung`](skills/08-gewaltschutz-und-eilanordnung/SKILL.md), [`10-entscheidungsvorschlag-familienrichter`](skills/10-entscheidungsvorschlag-familienrichter/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
@@ -119,22 +132,22 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-zustaendigkeit-und-zuteilung-familiensache` | Wenn es um 01 Zuständigkeit und Zuteilung Familiensache in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `02-ehesache-scheidung-paragraf-1565` | Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `03-versorgungsausgleich-vorbereiten` | Wenn es um Versorgungsausgleich vorbereiten in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `04-kindschaftssache-elterliche-sorge` | Wenn es um 04 Kindschaftssache Elterliche Sorge in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `05-umgangsrecht-paragraf-1684-bgb` | Wenn es um 05 Umgangsrecht Paragraf 1684 Bgb in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `06-kindesunterhalt-duesseldorfer-tabelle` | Wenn es um Kindesunterhalt und Düsseldorfer Tabelle in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
-| `07-ehegattenunterhalt-trennung-und-nachehe` | Wenn es um 07 Ehegattenunterhalt Trennung und Nachehe in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| `08-gewaltschutz-und-eilanordnung` | Wenn es um 08 Gewaltschutz und Eilanordnung in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| `09-beschluss-familiensache-paragraf-38-famfg` | Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
-| `10-entscheidungsvorschlag-familienrichter` | Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
-| `99-finale-entscheidung-volltext` | Wenn es um Finale Entscheidung als Volltext (Beschluss Familiengericht) in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-... |
-| `prozessuale-kniffe-und-rechtsprechungsanker` | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| `v392-praxisraster-richter-familiengericht` | Wenn es um Praxisraster Familiengericht in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
+| [`01-zustaendigkeit-und-zuteilung-familiensache`](skills/01-zustaendigkeit-und-zuteilung-familiensache/SKILL.md) | Wenn es um 01 Zuständigkeit und Zuteilung Familiensache in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`02-ehesache-scheidung-paragraf-1565`](skills/02-ehesache-scheidung-paragraf-1565/SKILL.md) | Wenn es um 02 Ehesache Scheidung Paragraf 1565 in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`03-versorgungsausgleich-vorbereiten`](skills/03-versorgungsausgleich-vorbereiten/SKILL.md) | Wenn es um Versorgungsausgleich vorbereiten in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| [`04-kindschaftssache-elterliche-sorge`](skills/04-kindschaftssache-elterliche-sorge/SKILL.md) | Wenn es um 04 Kindschaftssache Elterliche Sorge in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`05-umgangsrecht-paragraf-1684-bgb`](skills/05-umgangsrecht-paragraf-1684-bgb/SKILL.md) | Wenn es um 05 Umgangsrecht Paragraf 1684 Bgb in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`06-kindesunterhalt-duesseldorfer-tabelle`](skills/06-kindesunterhalt-duesseldorfer-tabelle/SKILL.md) | Wenn es um Kindesunterhalt und Düsseldorfer Tabelle in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |
+| [`07-ehegattenunterhalt-trennung-und-nachehe`](skills/07-ehegattenunterhalt-trennung-und-nachehe/SKILL.md) | Wenn es um 07 Ehegattenunterhalt Trennung und Nachehe in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`08-gewaltschutz-und-eilanordnung`](skills/08-gewaltschutz-und-eilanordnung/SKILL.md) | Wenn es um 08 Gewaltschutz und Eilanordnung in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| [`09-beschluss-familiensache-paragraf-38-famfg`](skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md) | Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
+| [`10-entscheidungsvorschlag-familienrichter`](skills/10-entscheidungsvorschlag-familienrichter/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
+| [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Beschluss Familiengericht) in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-... |
+| [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
+| [`v392-praxisraster-richter-familiengericht`](skills/v392-praxisraster-richter-familiengericht/SKILL.md) | Wenn es um Praxisraster Familiengericht in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

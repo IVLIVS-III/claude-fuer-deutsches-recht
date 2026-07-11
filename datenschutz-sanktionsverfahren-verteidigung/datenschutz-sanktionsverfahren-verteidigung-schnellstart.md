@@ -52,12 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Datenschutz-Grundverordnung Artikel 6: Rechtmäßigkeit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 12 bis Artikel 15: Transparenz, Auskunft und Kommunikation.
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
-- Paragraf 20/Paragraf 41 BDSG je nach Spur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 41 BDSG / OWiG-StPO-Verweise: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 20 und Paragraf 41 BDSG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 20/Paragraf 41 BDSG je nach Spur; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 41 BDSG / OWiG-StPO-Verweise; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 20 und Paragraf 41 BDSG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
 - EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
-- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig
+- EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 
 ## 7. Antwortform
 

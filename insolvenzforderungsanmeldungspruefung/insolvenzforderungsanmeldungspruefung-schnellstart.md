@@ -52,14 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Normenradar: InsO Paragrafen 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 38-39 InsO — Insolvenzforderungen und Nachrang: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 47-51 InsO — Aussonderung und Absonderungsrechte: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 53-55 InsO — Masseverbindlichkeiten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
-- BGH IX ZR 114/23 vom 19.12.2024 — Anforderungen an die Individualisierung der Forderung iSd Paragraf 174 Abs. 2 InsO; bei Abtretung müssen Zedent und Zessionar jeweils separat anmelden und einen eigenen
-- BGH IX ZR 127/24 vom 13.11.2025 (Wirecard) — Aktionärs-Schadensersatzforderungen sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd Paragraf 38 InsO; Nachrang. Bedeutung
+- Paragrafen 38-39 InsO — Insolvenzforderungen und Nachrang; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 47-51 InsO — Aussonderung und Absonderungsrechte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 53-55 InsO — Masseverbindlichkeiten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 174-177 InsO — Anmeldung und Nachtragsanmeldung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+- BGH IX ZR 114/23 vom 19.12.2024 — Anforderungen an die Individualisierung der Forderung iSd Paragraf 174 Abs. 2 InsO.
+- BGH IX ZR 127/24 vom 13.11.2025 (Wirecard) — Aktionärs-Schadensersatzforderungen sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd Paragraf 38 InsO; Nachrang.
 
 ## 7. Antwortform
 

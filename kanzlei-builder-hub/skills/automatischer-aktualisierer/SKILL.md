@@ -159,25 +159,3 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 32 DSGVO
-- § 203 StGB
-- Art. 28 DSGVO
-- Art. 30 DSGVO
-- Art. 35 DSGVO
-- § 4 KSchG
-- Art. 25 DSGVO
-- Art. 17 DSGVO
-- § 5 KSchG
-- § 29 VwVfG
-- § 102 BetrVG
-- § 17 MuSchG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 124 Skills (gekuerzt fuer Chat-Fenster) des Plugins `aussenwirtschaft-zoll-sanktionen`.
+Diese Vollprüfung enthält top-8 von 124 Skills (gekürzt für das Arbeitsfenster) des Plugins `aussenwirtschaft-zoll-sanktionen`.
 
 ## Inhaltsverzeichnis
 
@@ -565,28 +565,6 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - [Zoll.de: Aktive Veredelung](https://www.zoll.de/DE/Fachthemen/Zoelle/Besondere-Zollverfahren/Veredelungsverkehr/Aktive-Veredelung/aktive-veredelung_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 18 AWG
-- § 22 AWG
-- § 130 OWiG
-- § 22 ZollVG
-- § 14 AWG
-- § 19 AWG
-- § 10 ZollVG
-- § 10-17 GwG
-- § 21 ZollVG
-- § 43 GwG
-- § 9 AWG
-- § 25 UmwG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
 ---
 
 ## Skill: `aussenwirtschaft-kulturgut-einfuhr-ausfuhr`
@@ -831,7 +809,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

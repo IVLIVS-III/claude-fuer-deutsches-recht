@@ -40,7 +40,6 @@ description: "Wenn es um Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilu
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Quellenregel
 
@@ -55,7 +54,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | 2 | Vorsitzender leitete die Sitzung? | Paragraf 26 Abs. 1 BetrVG | Absoluter Mangel |
 | 3 | Beschlussfähigkeit — Mehrheit anwesend? | Paragraf 33 Abs. 2 BetrVG | Beschluss nichtig |
 | 4 | Verhinderung ordentlicher Mitglieder bekannt? Wann? | Paragraf 25 Abs. 2 BetrVG | Wesentlicher Verfahrensmangel |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Geschlechterquote eingehalten? | Paragraf 15 Abs. 2 BetrVG | Wesentlicher Mangel |
 | 7 | Anwaltsbeauftragung: Erforderlichkeit begründet? | Paragraf 40 Abs. 1 BetrVG | Kostentragung entfällt |
 | 8 | Beschlussmehrheit erreicht? | Paragraf 33 Abs. 1 BetrVG | Beschluss unwirksam |
@@ -192,7 +190,6 @@ Begründung:
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
 | Ladungsfrist Betriebsratssitzung | "rechtzeitig" (mindestens 2 Arbeitstage) | Paragraf 29 Abs. 2 BetrVG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Anspruch auf Anwaltskostenfreistellung | 3 Jahre reguläre Verjährung | Paragrafen 195, 199 BGB |
 | Rüge des Arbeitgebers | nicht präkludiert; jederzeit möglich | Keine Ausschluss-Frist |
 
@@ -211,7 +208,6 @@ Begründung:
 | Beschluss fehlerhaft, Verfahren noch nicht begonnen | Heilungssitzung sofort; kein Risiko |
 | Beschluss fehlerhaft, Verfahren läuft | Heilungssitzung sofort; Ergebnis ins Verfahren einführen |
 | Arbeitgeber rügt in Güteverhandlung | Kein Zugzwang; Heilung auch jetzt noch möglich |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 
@@ -226,8 +222,3 @@ Begründung:
 - ArbGG Paragrafen 12a, 78
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar; DKKW BetrVG
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:

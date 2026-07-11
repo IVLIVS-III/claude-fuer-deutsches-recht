@@ -13,7 +13,6 @@ Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprov
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -99,24 +98,3 @@ Liefere eine **Avalfreigabe-Notiz**:
 - Bei Abruf oder Betrugsverdacht: `garantieabruf-missbrauch-und-zahlungsstopp`.
 - Bei Sanierungsnähe: `restrukturierung-kreditengagement`, `forbearance-npe-risikoklassifizierung`, `insolvenz-anfechtung-bank`.
 - Bei grenzüberschreitendem Trade-Finance-Bezug: `trade-finance-sanctions-lc-guarantee`.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 25c KWG
-- § 10 ZAG
-- § 1 ZAG
-- § 25 ZAG
-- § 25b KWG
-- § 17 ZAG
-- § 32 KWG
-- § 2c KWG
-- § 24 KWG
-- § 16 ZAG
-- § 34 ZAG
-- § 38 ZAG
-
-### Leitentscheidungen
-
-- BGH XI ZR 56/93

@@ -49,26 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 4 BImSchG
-- § 70 VwGO
-- § 10 BImSchG
-- § 2 UmwRG
-- § 24 BBodSchG
-- § 74 VwGO
-- § 4 BBodSchG
-- § 34 BNatSchG
-- § 17 BImSchG
-- § 47 VwGO
-- § 44 BNatSchG
-- § 4 KrWG
-
-### Leitentscheidungen
-
-- EuGH C-243/15
-- BGH I ZR 98/23
-- BGH I ZR 142/23

@@ -1,47 +1,61 @@
 ---
 name: bea-wiedereinsetzung-ersatzeinreichung-2026
-description: "Wenn es um beA, Ersatzeinreichung und Wiedereinsetzung in Prozessrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Unmöglichkeit von Bedienungs- und Organisationsfehlern, ordnet ZPO Paragraf 130a Absatz 6 und Paragraf 130d richtig zu, bewertet Glaubhaftmachung und Nachholung und liefert sofort einen einreichungsfähigen Ersatz- oder Wiedereinsetzungsbaustein."
 ---
 
 # beA, Ersatzeinreichung und Wiedereinsetzung
 
-## Einsatzfall
+## 1. Einsatzfall
 
-Nutze diesen Skill, wenn ein fristgebundener Schriftsatz wegen beA-, Internet-, Kanzlei- oder Gerichtsserverproblemen nicht rechtzeitig elektronisch eingereicht wurde oder eine Ersatzeinreichung per Fax/Post/Nachtbriefkasten verteidigt werden muss.
+Nutze diesen Skill, wenn ein fristgebundener Schriftsatz nicht regulär elektronisch übermittelt werden kann oder die Wirksamkeit einer bereits vorgenommenen Ersatzübermittlung verteidigt werden muss. Beginne mit vorhandenen Protokollen, Fehlermeldungen, Screenshots, Faxjournalen und Eingangsbestätigungen. Frage nicht zuerst den gesamten Kanzleiablauf ab.
 
-## Normenanker
+## 2. Rechtsweiche
 
-- ZPO Paragrafen 130a, 130d, 233, 234, 236, 85 Abs. 2, 222.
-- ERVV, besonders technische Anforderungen an elektronische Dokumente und Übermittlungswege.
-- BRAO Paragraf 31a zum besonderen elektronischen Anwaltspostfach.
-- BORA/BRAO-Fristenorganisation als Organisationspflicht; Fristenkalender, Ausgangskontrolle und Prüfprotokoll.
-- GVG/Zuständigkeits- und Rechtsmittelvorschriften je nach Verfahrensart mitprüfen.
+Trenne drei Fälle:
 
-## Verifizierte Entscheidungsanker
+1. ZPO Paragraf 130d Sätze 2 bis 4: Vorübergehende technische Unmöglichkeit der elektronischen Übermittlung. Dann ist die Übermittlung nach allgemeinen Vorschriften ausnahmsweise zulässig; die Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen.
+2. ZPO Paragraf 130a Absatz 6: Das elektronische Dokument ist eingegangen, aber für die Bearbeitung technisch ungeeignet. Nach gerichtlichem Hinweis ist unverzüglich eine geeignete Fassung einzureichen und die inhaltliche Übereinstimmung glaubhaft zu machen.
+3. ZPO Paragrafen 233 und 236: Die Frist ist bereits versäumt. Dann sind fehlendes Verschulden, Kausalität, Organisationsstandard, Nachholung und Glaubhaftmachung gesondert zu prüfen.
 
-- **BGH, Beschluss vom 25.02.2025 - VI ZB 19/24**: Eine Ersatzeinreichung nach Paragraf 130d Satz 2 ZPO trägt nur, wenn die vorübergehende technische Unmöglichkeit aus sich heraus verständlich, geschlossen und unverzüglich glaubhaft gemacht wird; eine bloße Formel wie “beA-Übertragungsstörung” genügt nicht.
-- **BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25**: Bei behauptetem Internet-/Routerproblem muss die Glaubhaftmachung erkennen lassen, dass der Ausfall wirklich technischer Natur war und nicht auf Bedienungs-, Organisations- oder Infrastrukturversäumnissen der Kanzlei beruhte.
+Für andere Gerichtsbarkeiten die Parallelvorschriften der jeweiligen Verfahrensordnung verwenden.
 
-## Prüfprogramm
+## 3. Minutenchronologie
 
-1. **Frist exakt bestimmen:** Fristbeginn, Fristende, Uhrzeit, Zeitzone, Rechtsmittelart, Postfach-/Gerichtsadresse.
-2. **Versandversuch rekonstruieren:** beA-Journal, Prüfprotokoll, Fehlermeldung, Dateiname, Dateigröße, Signatur, Export der Sendehistorie.
-3. **Zumutbare Alternativen prüfen:** erneuter beA-Versuch, anderes Netz, anderes Gerät, anderer Anwalt, EGVP, Fax nur bei zulässiger Ersatzeinreichung, Nachtbriefkasten.
-4. **Wiedereinsetzung bauen:** kein Verschulden, Organisationsstruktur, Ausgangskontrolle, sofortige Nachholung, Glaubhaftmachung per eidesstattlicher Versicherung.
-5. **Gegnerargument antizipieren:** Organisationsverschulden, fehlende Einzelheiten, zu spätes Reagieren, nicht geprüfte Alternativen.
+| Uhrzeit | Handlung | technischer Befund | Beleg | nächste Reaktion |
+| --- | --- | --- | --- | --- |
+| 22:41 | Versand ausgelöst | konkrete Meldung | Screenshot und Journal | Fehler prüfen |
+| 22:47 | zweiter Versuch | gleicher oder anderer Befund | Prüfprotokoll | Ersatzweg veranlassen |
+| 22:55 | Fax oder anderer zulässiger Ersatzweg | Übertragung positiv | Sendebericht | Glaubhaftmachung beifügen |
 
-## Output
+Die Chronologie muss Ursache, vorübergehende Natur, Zeitpunkt, betroffene Infrastruktur und getroffene Maßnahmen so beschreiben, dass Bedienungs- oder persönliche Gründe beurteilt werden können.
 
-Erstelle eine Minutenchronologie:
+## 4. Verifizierte Entscheidungsanker
 
-| Uhrzeit | Handlung | Beleg | rechtliche Bedeutung |
-| --- | --- | --- | --- |
-| 23:38 | beA-Versand versucht | Screenshot/Journal | erster Versandversuch |
-| 23:44 | Fehlermeldung dokumentiert | Screenshot | technische Störung |
-| 23:50 | Ersatzeinreichung geprüft | Aktennotiz | Zumutbarkeit |
+- BGH, Beschluss vom 19. Dezember 2024, IX ZB 41/23: Nach Veranlassung einer Ersatzeinreichung sind keine fortlaufenden weiteren elektronischen Versuche bis zu ihrem Vollzug erforderlich. Eine zuverlässige veröffentlichte Serverstörung kann die Glaubhaftmachung ohne anwaltliche Versicherung einzelner Fehlversuche tragen.
+- BGH, Beschluss vom 25. Februar 2025, VI ZB 19/24: Eine pauschale Störungsformel reicht nicht. Erforderlich ist eine geschlossene, laienverständliche Darstellung des technischen Defekts, seiner vorübergehenden Natur und der Abhilfemaßnahmen.
+- LAG Berlin-Brandenburg, Beschluss vom 23. Dezember 2024, 5 Sa 982/24: Der handschriftliche Hinweis `wg. beA-Störung` genügt nicht; mehr als eine Woche bis zur Glaubhaftmachung ist regelmäßig nicht unverzüglich.
+- LG Hagen, Urteil vom 15. Oktober 2024, 4 O 209/24: Eine ohne zulässige Ersatzeinreichung auf Papier erhobene Klage ist unwirksam und wird nicht durch beliebig spätere elektronische Nachreichung geheilt.
 
-Dann formuliere einen Wiedereinsetzungsantrag mit Anlagenliste und Glaubhaftmachungsmitteln.
+## 5. Glaubhaftmachung
 
-## Fehlerbremse
+Erfasse:
 
-Nicht schreiben: “beA ging nicht”. Das ist fast wertlos. Der Antrag braucht technische Details, Zeitpunkte, konkrete Versuche, Alternativen und Belege.
+1. Datum und exakte Zeitspanne der Störung,
+2. konkrete Fehlermeldung und betroffene Komponente,
+3. Quelle einer veröffentlichten Störungsmeldung,
+4. unternommene Schritte und deren Ergebnis,
+5. Zeitpunkt und Weg der Ersatzeinreichung,
+6. Grund einer nur nachträglichen Glaubhaftmachung,
+7. elektronische Nachreichung, falls das Gericht sie anfordert.
+
+Eine eidesstattliche Versicherung ersetzt keine Tatsachenschilderung. Eine nichttechnische Ursache wie fehlender Zugang, nicht eingerichtetes Postfach, Bedienungsfehler oder ungeklärte Kanzleiorganisation fällt nicht automatisch unter die Ausnahme.
+
+## 6. Einreichungsbaustein
+
+> Die elektronische Übermittlung war am [Datum] von [Uhrzeit] bis jedenfalls [Uhrzeit] aus vorübergehenden technischen Gründen nicht möglich. Beim Versand über [System und Gerät] erschien die Meldung `[Wortlaut]`. Ein erneuter Versuch um [Uhrzeit] scheiterte mit [Befund]. Die Störung ist durch [Screenshot, Journal oder veröffentlichte Störungsmeldung] belegt. Deshalb wurde der Schriftsatz um [Uhrzeit] nach ZPO Paragraf 130d Satz 2 auf dem zulässigen Ersatzweg [Weg] übermittelt. Die vorstehenden Umstände werden durch [Glaubhaftmachungsmittel] glaubhaft gemacht.
+
+Passe den Baustein an die tatsächlich belegten Vorgänge an. Ergänze keine nicht dokumentierten Versuche.
+
+## 7. Output
+
+Liefere Fristberechnung, Minutenchronologie, Rechtsweiche, Belegliste, fertigen Glaubhaftmachungsbaustein und gegebenenfalls vollständigen Wiedereinsetzungsantrag. Nenne offen, wenn die Voraussetzungen nicht belastbar belegt sind.

@@ -20,8 +20,6 @@ description: "Wenn es um Betriebsratsbeschluss Heilung in Fachanwalt Arbeitsrech
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -61,7 +59,6 @@ description: "Wenn es um Betriebsratsbeschluss Heilung in Fachanwalt Arbeitsrech
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema Beschlussmangel
 
@@ -73,7 +70,6 @@ description: "Wenn es um Betriebsratsbeschluss Heilung in Fachanwalt Arbeitsrech
 | 2 | Vorsitzender leitete die Sitzung? | Paragraf 26 Abs. 1 BetrVG | Absoluter Mangel |
 | 3 | Beschlussfähigkeit — Mehrheit anwesend? | Paragraf 33 Abs. 2 BetrVG | Beschluss nichtig |
 | 4 | Verhinderung ordentlicher Mitglieder bekannt? Wann? | Paragraf 25 Abs. 2 BetrVG | Wesentlicher Verfahrensmangel |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 6 | Geschlechterquote eingehalten? | Paragraf 15 Abs. 2 BetrVG | Wesentlicher Mangel |
 | 7 | Anwaltsbeauftragung: Erforderlichkeit begründet? | Paragraf 40 Abs. 1 BetrVG | Kostentragung entfällt |
 | 8 | Beschlussmehrheit erreicht? | Paragraf 33 Abs. 1 BetrVG | Beschluss unwirksam |
@@ -210,7 +206,6 @@ Begründung:
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|
 | Ladungsfrist Betriebsratssitzung | "rechtzeitig" (mindestens 2 Arbeitstage) | Paragraf 29 Abs. 2 BetrVG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Anspruch auf Anwaltskostenfreistellung | 3 Jahre reguläre Verjährung | Paragrafen 195, 199 BGB |
 | Rüge des Arbeitgebers | nicht präkludiert; jederzeit möglich | Keine Ausschluss-Frist |
 
@@ -229,7 +224,6 @@ Begründung:
 | Beschluss fehlerhaft, Verfahren noch nicht begonnen | Heilungssitzung sofort; kein Risiko |
 | Beschluss fehlerhaft, Verfahren läuft | Heilungssitzung sofort; Ergebnis ins Verfahren einführen |
 | Arbeitgeber rügt in Güteverhandlung | Kein Zugzwang; Heilung auch jetzt noch möglich |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Anschluss-Skills
 
@@ -244,8 +238,3 @@ Begründung:
 - ArbGG Paragrafen 12a, 78
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar; DKKW BetrVG
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:

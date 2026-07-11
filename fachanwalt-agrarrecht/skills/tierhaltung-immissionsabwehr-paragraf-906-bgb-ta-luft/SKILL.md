@@ -1,44 +1,45 @@
 ---
 name: tierhaltung-immissionsabwehr-paragraf-906-bgb-ta-luft
-description: "Wenn es um Tierhaltung Immissionsabwehr Paragraf 906 BGB Ta Luft in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Geruchs-, Ammoniak-, Staub- und Lärmimmissionen aus Tierhaltung im privaten und öffentlichen Nachbarrecht. Trennt Genehmigung, Schutzpflichten, Wesentlichkeit, Ortsüblichkeit, Abhilfemaßnahmen und Ausgleich und erstellt Immissionsmatrix, Gutachtenauftrag und Klage- oder Genehmigungsbaustein."
 ---
 
-# Tierhaltung Immissionsabwehr Paragraf 906 BGB Ta Luft
+# Immissionen aus Tierhaltung prüfen
 
 ## Einsatzlage
 
-Wohngebaeude W liegt 280 m von Schweinemast S entfernt; Geruchsbelastung über 35 Stunden pro Jahr über Geruchsstunde 10 Prozent. W will Klage auf Unterlassung.
+Ein Nachbar wendet sich gegen einen bestehenden oder geplanten Tierhaltungsbetrieb oder der Betreiber verteidigt Genehmigung und Betrieb. Starre Abstände oder eine einzelne Zahl von Geruchsstunden ersetzen weder die Gebietseinordnung noch die Einzelfallbewertung.
 
 ## Normenanker
 
-- § 906 BGB
-- §§ 585 ff. BGB
-- § 9 GrdstVG
-- § 16a TierSchG
-- § 13a DüV
+- Paragrafen 1004 und 906 BGB: privater Abwehranspruch, Duldung und angemessener Ausgleich.
+- Paragrafen 3, 5, 22 und 48 BImSchG: schädliche Umwelteinwirkungen, Betreiberpflichten und Verwaltungsvorschriften.
+- Vierte BImSchV: Genehmigungsbedürftigkeit nach Tierart und Platzzahl.
+- TA Luft 2021, insbesondere Nummer 4.3.2 und Anhang 7 für Geruchsimmissionen sowie die einschlägigen Anforderungen zu Ammoniak und Stickstoff.
+- Paragraf 35 BauGB und Rücksichtnahmegebot für Außenbereich und heranrückende Nutzungen.
 
-## Rechtsprechungsanker und Quellenhygiene
+## Rechtsprechungsanker
 
-- BGH 16.07.2010 V ZR 116/09 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
-- VGH Mannheim 14.05.2019 10 S 2188/17 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BVerwG, Urteil vom 15. September 2022 - 4 C 3.21: Für Tierhaltungsgerüche kann die Geruchsimmissions-Richtlinie als Orientierung dienen; für neue Vorhaben ist seit Inkrafttreten der TA Luft 2021 deren Anhang 7 und das jeweils anwendbare Übergangsrecht zu prüfen.
+- BGH, Urteil vom 21. Oktober 2005 - V ZR 169/04: Das Fehlen einer öffentlich-rechtlichen Genehmigung ist bei Paragraf 906 BGB nur ein Kriterium. Wesentlichkeit folgt aus einer Gesamtwürdigung am Maßstab eines verständigen Durchschnittsmenschen unter Einbeziehung einschlägiger Richtwerte.
 
 ## Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Rollen, Eigentum oder Besitz, Anlagenart, Tierplätze, Genehmigungsstatus, Baugebiet und zeitliche Entwicklung erfassen.
+2. Immissionsarten trennen und für jede den maßgeblichen Beurteilungsort, Vorbelastung, meteorologische Daten und Bewertungsmethode bestimmen.
+3. Genehmigungsbedürftigkeit und Genehmigungsinhalt prüfen; Bestandsschutz nicht mit uneingeschränkter Duldung gleichsetzen.
+4. Geruch nach TA Luft Anhang 7 mit Gebietswert, Tierartfaktor, Vorbelastung, Irrelevanz und Sonderfallprüfung bewerten. Prozentwerte nicht ohne Gebiet und Methode nennen.
+5. Im Privatrecht zunächst wesentliche Beeinträchtigung, dann Ortsüblichkeit und wirtschaftlich zumutbare Vermeidungsmaßnahmen prüfen; erst danach Ausgleich nach Paragraf 906 Absatz 2 Satz 2 BGB.
+6. Im öffentlichen Recht drittschützende Norm, Klagebefugnis, Frist und Eilrechtsschutz bestimmen. Betreiberalternativen wie Abluftführung, Filter, Fütterung oder Betriebsorganisation fachlich bewerten lassen.
+7. Gutachtenauftrag mit klaren Mess- und Rechenfragen formulieren und Klageantrag so fassen, dass dem Betreiber die Art der Störungsbeseitigung grundsätzlich verbleibt.
 
 ## Arbeitsergebnis
 
-1. Geruchsmessung nach GIRL durch akkreditiertes Buero.
-2. Ortsueblichkeit nach Flaechennutzungsplan (Aussenbereich versus Mischgebiet).
-3. Wesentlichkeit nach 10 oder 15 Prozent Schwelle.
-4. Wenn ortsueblich und wesentlich: Ausgleich nach Paragraf 906 II BGB.
+Liefere eine Immissions- und Rechtswegmatrix, einen fachlich präzisen Gutachtenauftrag, eine Maßnahmenvergleichstabelle und einen Unterlassungs-, Genehmigungsabwehr- oder Ausgleichsbaustein.
 
 ## Belege und Aktenlücken
 
-- Geruchsgutachten.
-- Flaechennutzungsplan.
-- Bauakte Schweinestall.
+- Genehmigungs- und Bauakten mit Tierplatzzahlen
+- Lageplan, Gebietseinordnung und Nutzungshistorie
+- Geruchs-, Ammoniak-, Staub- und Lärmgutachten samt Rohdaten
+- Betriebstagebuch, Beschwerden und meteorologische Daten
+- technische Minderungsoptionen und Kosten

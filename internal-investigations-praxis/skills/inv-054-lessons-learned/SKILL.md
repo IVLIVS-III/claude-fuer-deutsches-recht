@@ -20,7 +20,7 @@ description: "Wenn es um Inv 054 Lessons Learned in Internal Investigations Prax
 
 ## Rechtlicher Rahmen
 
-Die Lessons-Learned-Analyse nach einer Internal Investigation ist nicht nur eine Best-Practice-Übung, sondern eine rechtliche Pflicht. § 130 OWiG ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html)) setzt ein funktionierendes Aufsichtssystem voraus; nach einem Verstoß muss das Unternehmen nachweisen, dass es die Ursachen verstanden und beseitigt hat. DOJ Corporate Enforcement Policy und BaFin honorieren explizit Nachweise systemischer Verbesserungen. Der BGH (II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)) verlangt ein effektives Compliance-Management-System – ein System, das Verstöße nicht verhindert und nach dem Verstoß nicht verbessert wird, ist kein effektives System.
+Eine Lessons-Learned-Analyse ist regelmäßig zweckmäßig, aber nicht als solche gesetzlich vorgeschrieben. Rechtlich maßgeblich ist, ob Organ- oder Aufsichtspflichten, Paragraf 130 OWiG, sektorspezifische Organisationspflichten oder eine behördliche Anordnung konkrete Abhilfemaßnahmen verlangen. Trenne deshalb freiwillige Verbesserung, gebotene Mängelbeseitigung, Nachweis gegenüber einer Behörde und haftungsrechtliche Schadensminderung.
 
 ## Ziel dieses Skills
 
@@ -81,7 +81,6 @@ Dieser Skill extrahiert aus jeder abgeschlossenen Internal Investigation struktu
 | § 93 AktG | Sorgfaltspflicht Vorstand | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/aktg/__93.html) |
 | LkSG | Lieferkettensorgfaltspflichten | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/lksg/) |
 | HinSchG | Hinweisgeberschutz 2023 | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hinschg/) |
-| BGH II ZR 234/09 | Siemens/Neubürger CMS | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 

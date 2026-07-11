@@ -44,9 +44,7 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -56,16 +54,13 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 |---|---|---|
 | 1 | Abmahnung und Frist prüfen: Wann läuft die gesetzte Frist ab? Fristwahrung erforderlich um EV zu vermeiden | § 97a UrhG |
 | 2 | Vorformulierte UE analysieren: Reichweite der Verletzungsformel; Vertragsstrafen-Höhe; enthaltene Anerkenntnisse prüfen | § 97 Abs. 1 UrhG |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 4 | Vertragsstrafenklausel prüfen: Hamburger Brauch oder feste Vertragsstrafe? Betrag angemessen? | §§ 315, 307 BGB |
 | 5 | Anerkenntnisse herausstreichen: Kein Schadensersatz dem Grunde nach; keine Auskunftspflicht; keine Kostenübernahme | § 97 Abs. 2 UrhG |
 | 6 | § 97a Abs. 3 UrhG-Hinweis: Verbraucherklausel; Streitwertbegrenzung auf EUR 1.000 für Abmahnkostenberechnung | § 97a Abs. 3 UrhG |
 | 7 | Annahmevorbehalt § 130 BGB: Erklärung wird erst mit Annahmebestätigung durch Abmahner wirksam (schützt vor unilateraler Annahme) | § 130 BGB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Schutzschrift: bei drohender EV; § 945a ZPO; Zuständiges Gericht | § 945a ZPO |
 | 10 | Alternative negative Feststellungsklage: bei klarer Unberechtigtheit der Abmahnung; günstigerer Gerichtsstand für Abgemahnten | § 256 ZPO |
 | 11 | Verwirkung prüfen: Hat Abmahner die Verletzung lange geduldet (§ 242 BGB)? Einrede möglich | § 242 BGB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -231,7 +226,6 @@ des Klägers nachweisbar]
 
 | Konstellation | Beweislast |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vertragsstrafe (Hamburger Brauch) | Gläubiger bestimmt nach § 315 BGB; Schuldner kann gerichtliche Überprüfung beantragen |
 | Schadensersatz bei Verstoß gegen UE | Gläubiger trägt Verstoß und Verschulden |
 | Negative Feststellungsklage | Kläger trägt Feststellungsinteresse; Beklagte trägt Bestand des behaupteten Anspruchs |
@@ -254,9 +248,7 @@ des Klägers nachweisbar]
 
 | Gegenargument | Erwiderung |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Hamburger Brauch reicht nicht; wir brauchen feste EUR 10.000" | § 315 BGB: Gläubiger kann Betrag nach billigem Ermessen bestimmen; Gericht kontrolliert; feste überhöhte Beträge können nach § 307 BGB unwirksam sein |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Keine Anerkennung von Kosten ist treuwidrig" | § 97a Abs. 3 UrhG: Kostenerstattung begrenzt; Bestreiten ist kein Treuwidrigkeitsvorwurf sondern Rechtsverfolgung |
 
 ---

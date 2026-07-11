@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 203 StGB — Verletzung von Privatgeheimnissen (Grenze anwaltlicher Schweigepflicht): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 203 StGB — Verletzung von Privatgeheimnissen (Grenze anwaltlicher Schweigepflicht); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

@@ -37,9 +37,9 @@ Dieser Skill macht die Renten- und Versorgungsdaten im Scheidungsverbund entsche
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 01.02.2017, XII ZB 601/15: Versorgungsausgleich verlangt eine anrechtsbezogene Prüfung und darf Geringfügigkeit nicht mechanisch behandeln.
-- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen aus der Versorgungsträgerauskunft nachvollziehbar abgeleitet werden.
-- BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Härtekorrektur im Versorgungsausgleich bleibt Ausnahme und verlangt konkrete grobe Unbilligkeit.
+- BGH, Beschluss vom 05.06.2024 - XII ZB 277/23: Auch ein geringfügiges Anrecht ist nach VersAusglG Paragraf 18 nicht automatisch vom Ausgleich auszunehmen; Halbteilung und tatsächlicher Verwaltungsaufwand sind abzuwägen.
+- BGH, Beschluss vom 24.03.2021 - XII ZB 230/16: Bei externer Teilung sind Zielversorgung und fiktive interne Teilung auf gleichen Rechnungsgrundlagen zu vergleichen; unverhältnismäßige Transferverluste sind zu vermeiden.
+- BGH, Beschluss vom 31.01.2024 - XII ZB 259/23: VersAusglG Paragraf 27 bleibt eine Ausnahme; grobe Unbilligkeit verlangt eine Gesamtabwägung der wirtschaftlichen, sozialen und persönlichen Verhältnisse beider Ehegatten.
 
 ## Arbeitsprodukt
 

@@ -87,27 +87,6 @@ description: "Wenn es um Anonymisierung und Schutzantrag in Lobbyregister Bundes
 - **Rechtsweg gegen Ablehnung**: nicht zum BVerwG, sondern VG Berlin (1. Instanz Verwaltungsgerichtsbarkeit).
 - **Verhältnismäßigkeit**: Antrag muss erforderlich und geeignet sein; weniger einschneidende Mittel (z. B. teilweise Beschränkung) zuerst prüfen.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 3 LobbyRG
-- § 5 LobbyRG
-- § 2 LobbyRG
-- § 4 LobbyRG
-- § 1 LobbyRG
-- § 7 LobbyRG
-- § 6 LobbyRG
-- § 1 GeschGehG
-- Art. 21 GG
-- § 28 VwVfG
-- § 1 bis 7 LobbyRG
-- § 6b BMinG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
 ## Quellenanker
 

@@ -20,8 +20,6 @@ description: "Wenn es um Betriebsratsanhoerung nach Paragraf 102 BetrVG vor jede
 
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anhörung des Betriebsrats (Paragraf 102 BetrVG)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG Paragrafen 1, 3, 7, 15, 22; EntgTranspG Paragrafen 3, 5, 7; BUrlG Paragrafen 1, 3, 7; BetrVG Paragrafen 87, 99, 102; ArbZG; NachwG; SGB IX Paragrafen 164, 167, 168.
-- **Verifizierte Anker:** BAG, Urteil vom 23.10.2025 - 8 AZR 300/24 (Entgeltgleichheit, Paarvergleich, Beweislast, bundesarbeitsgericht.de); BAG, Urteil vom 03.06.2025 - 9 AZR 104/24 (kein Verzicht auf gesetzlichen Mindesturlaub im bestehenden Arbeitsverhältnis); bei Kündigungszugang immer Paragraf 623 BGB, Zugang nach Paragraf 130 BGB, Dreiwochenfrist Paragrafen 4, 7 KSchG und Beweis des konkreten Umschlags trennen.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -70,7 +68,6 @@ Hinweis: Aktuellere Entscheidungen (Q4/2025 - Q2/2026) zur Anhörungs-Substantii
 | 1 | Betriebsrat existiert im Betrieb? | Paragraf 1 BetrVG | Keine Anhörungspflicht |
 | 2 | Anhörung schriftlich oder in Textform? | Paragraf 21a Abs. 2 BetrVG | Formmangel; heilbar? |
 | 3 | Zugang beim Vorsitzenden nachweisbar? | Paragraf 26 Abs. 2 BetrVG | Frist-Beginn unklar |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Stellungnahme abgewartet oder Frist abgelaufen? | Paragraf 102 Abs. 2 BetrVG | Kündigung vor Fristablauf = unwirksam |
 | 10 | Bei Widerspruch: Paragraf 102 Abs. 5-Anspruch beachtet? | Paragraf 102 Abs. 5 BetrVG | Weiterbeschäftigung möglicherweise einklagbar |
 
@@ -210,6 +207,3 @@ Paragraf 102 Abs. 2 BetrVG (Frist endet am [Datum]).
 - KSchG Paragrafen 1, 4
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar Paragraf 102; DKKW BetrVG Paragraf 102
-
-<!-- AUDIT 27.05.2026
--->

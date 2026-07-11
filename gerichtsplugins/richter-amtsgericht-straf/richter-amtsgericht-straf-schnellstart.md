@@ -52,14 +52,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
 - StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
-- Paragraf 267 StPO für Urteilsbegründung; Paragrafen 407 ff. StPO für Strafbefehl; Paragraf 46 StGB für Strafzumessung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 244 StPO: Aufklärungspflicht und Beweisantragsrecht sauber trennen: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 261 StPO: Überzeugungsbildung nur aus dem Inbegriff der Hauptverhandlung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 265 StPO: rechtlicher Hinweis bei veränderter rechtlicher oder tatsächlicher Bewertung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 267 StPO für Urteilsbegründung; Paragrafen 407 ff. StPO für Strafbefehl; Paragraf 46 StGB für Strafzumessung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 244 StPO: Aufklärungspflicht und Beweisantragsrecht sauber trennen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 261 StPO: Überzeugungsbildung nur aus dem Inbegriff der Hauptverhandlung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 265 StPO: rechtlicher Hinweis bei veränderter rechtlicher oder tatsächlicher Bewertung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
 - BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat.
 
 ## 7. Antwortform
 

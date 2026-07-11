@@ -76,7 +76,7 @@ In der PKV schuldet der Versicherer Leistungen für **medizinisch notwendige Hei
 - Widerspruch gegen PKV-Ablehnung
 - Gutachten-Briefing (medizinische Notwendigkeit)
 - GOÄ-Prüfungsprotokoll
-- Klageschrift gegen PKV (Amtsgericht, wenn < 5.000 €)
+- Klageschrift gegen den privaten Krankenversicherer; sachlich grundsätzlich Amtsgericht bis einschließlich 10.000 Euro, darüber Landgericht, jeweils vorbehaltlich einer Sonderzuweisung.
 
 ## Quellen
 

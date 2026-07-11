@@ -328,6 +328,3 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 - Stand: 05/2026
 
 ---
-<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
-<!-- VII ZR 217/13 (behauptet 16.10.2014, Behinderungsanzeige-Anforderungen): NOT_FOUND auf dejure.org — geloescht -->
-<!-- VII ZR 285/12 (behauptet Datum 06.03.2014, Witterungsbedingungen VOB/B): WRONG_TOPIC — real: Verjaehrungshemmung durch Verhandlungen § 203 BGB, Datum 05.06.2014, NJW 2014, 2716, verifiziert auf dejure.org/2014,14744 — geloescht -->

@@ -73,7 +73,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 | Anspruchsgrundlage | § 634 Nr. 4 i.V.m. § 280 Abs. 1 BGB (Schadensersatz wegen Mangel) | Kein Mangel i.S.d. § 633 BGB; Abnahme erfolgte vorbehaltlos |
 | Wirksamkeit Abnahme | Abnahme unter Vorbehalt gem. § 640 Abs. 1 S. 2 BGB | Abnahmeprotokoll ohne Vorbehalt unterzeichnet |
 | Verjährung | Frist läuft noch; Fristbeginn erst mit Kenntnis des Mangels | Verjährungsfrist von zwei Jahren ab Abnahme (§ 634a Abs. 1 Nr. 1 BGB) bereits abgelaufen |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Schadenshöhe | Volle Kosten der Mängelbeseitigung nach § 635 BGB (EUR 45.000) | § 254 BGB: Mitverschulden wegen unterlassener Wartung mindert Anspruch |
 
 ## Umgang mit Rechtsprechung
@@ -91,12 +90,3 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 - [ ] Rechtsprechungszitate mit Aktenzeichen und Datum?
 - [ ] Keine eigene Rechtsbewertung enthalten?
 - [ ] Mitverschulden § 254 BGB erwogen?
-
-## Audit-Hinweis (27.05.2026)
-
-Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
-Aktenzeichen geprueft und korrigiert:
-- VI ZR 62/22: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
-- VI ZR 136/20: ersatzlos entfernt — WRONG_TOPIC; reale Entscheidung 05.10.2021 betrifft Feststellungsklage VW-Abgasskandal (NJW-RR 2022, 23), nicht Verjährungsbeginn § 199 BGB; beanspruchte NJW 2022, 53 existiert nicht in dejure
-- VI ZR 282/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
-- VI ZR 259/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)

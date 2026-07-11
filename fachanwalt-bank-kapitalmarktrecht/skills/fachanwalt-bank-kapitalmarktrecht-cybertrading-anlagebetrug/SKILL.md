@@ -263,6 +263,3 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - § 823 Abs. 2 BGB i.V.m. § 263 StGB — Schutzgesetzverletzung
 - § 25h KWG — Sorgfaltspflichten Bank bei Verdachtsmeldung
 - § 675x BGB — SEPA-Rueckbuchungsrecht (8 Wochen)
-
-<!-- AUDIT 27.05.2026 bundle_021
--->

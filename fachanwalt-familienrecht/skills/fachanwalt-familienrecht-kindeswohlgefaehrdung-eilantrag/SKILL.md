@@ -185,7 +185,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 **Verifizierte BVerfG-Entscheidungen 2025 (Live-Verifikation vor Verwendung zwingend):**
 
 - BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23: Bei länger andauerndem oder unbefristetem Umgangsausschluss müssen die Fachgerichte die dem Kind drohenden Schäden nach Art, Schwere und Eintrittswahrscheinlichkeit konkret benennen (Art. 6 Abs. 2 S. 1 GG). Befristeter Umgangsausschluss zum Schutz von Mutter und Kindern verfassungsrechtlich gerechtfertigt. Quelle: bundesverfassungsgericht.de
-- BVerfG, Beschluss vom 28.08.2025 - 1 BvR 1473/25: Begründungsanforderungen an Verfassungsbeschwerden im einstweiligen Anordnungsverfahren zum Sorgerecht; Maßstäbe zum Parental Alienation Syndrome.
+- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme der unzureichend substantiierten Verfassungsbeschwerde; zugleich Zweifel an der Tatsachengrundlage der Hauptsache und Forderung nach einer fachwissenschaftlich tragfähigen Prüfung behaupteter Eltern-Kind-Entfremdung.
 - BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24: Internationale Zuständigkeit nach KSÜ; Sorgerechtswirkungen bei Übertragung auf anderen Elternteil im Ausland.
 
 Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org oder openjur.de verifizieren.

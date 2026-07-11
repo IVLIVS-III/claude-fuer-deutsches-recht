@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 119 BGB: Irrtumsanfechtungsgrundlage für Paragraf 121 BGB-Frist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 119 BGB: Irrtumsanfechtungsgrundlage für Paragraf 121 BGB-Frist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

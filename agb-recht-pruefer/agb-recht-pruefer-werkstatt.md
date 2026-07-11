@@ -10,9 +10,36 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+
+### 1.2. Ausgabeformate für schnelle Lieferung
+
+| Bedarf | Sofortausgabe | Qualitätsgriff |
+| --- | --- | --- |
+| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
+| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
+| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
+| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
+| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
+| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
+
+### 1.3. Rückfragenbremse
+
+1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
+2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
+3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
+4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
+5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+
+### 1.4. Mini-Gerüste
+
+- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
+- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
+- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
+- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
+- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
 ## 2. Stop-Kriterien
 
@@ -48,9 +75,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Agb Anwaltsvertrag und Allg Mandatsbedingungen | BGB Paragraf 104 bis Paragraf 185; BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Agb Anwaltsvertrag und Allg Mandatsbedingungen | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Formulararbeitsvertrag | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Formulararbeitsvertrag | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -70,10 +97,10 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung |
-| BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung) |
-| BGH I ZR 7/16 (Planet49 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle) |
-| BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln) |
-| BGH I ZR 186/17 (App-Zentrum/Meta | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß) |
+| BGH II ZR 30/10 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verfahrensgrundsätze als Prüfungsmassstab |
+| BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen |
+| BGH VII ZR 168/13 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln |
+| BAG, Urteil vom 25.08.2010 - 10 AZR 275/09 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -86,22 +113,22 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- Paragrafen 305-310 BGB: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BRAO Paragrafen 43, 49b zur Honorarvereinbarung: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 305 BGB (Einbeziehung von AGB): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 305c BGB (überraschende und mehrdeutige Klauseln): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 307 BGB (Inhaltskontrolle, Transparenzgebot): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 308 BGB (Klauselverbote mit Wertungsmöglichkeit): im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 305-310 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BRAO Paragrafen 43, 49b zur Honorarvereinbarung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 25, 39 BGB Vereinsrecht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 305-310 BGB AGB-Recht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 31 BGB: Verein haftet für Vorstand; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 309 Nr. 7 Buchst. a, b BGB: Haftungsausschluss für Vorsatz und Verletzung Leben/Koerper/Gesundheit unwirksam; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
-- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 186/17 (App-Zentrum/Meta: Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß)
+- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung.
+- BGH II ZR 30/10: Verfahrensgrundsätze als Prüfungsmassstab.
+- BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen.
+- BGH VII ZR 168/13: bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln.
+- BAG, Urteil vom 25.08.2010 - 10 AZR 275/09: Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine Angemessenheitskontrolle nach Paragraf 307 Absatz 1.
 
 ## 9. Prüfraster
 
@@ -153,23 +180,23 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Agb Anwaltsvertrag und Allg Mandatsbedingungen
 
-Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klärt die AGB-rechtliche Prüfung typischer Mandatsbedingungen Vergütungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Formulararbeitsvertrag
 
-Klauselproblem (Formulararbeitsvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. 1 S. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Formulararbeitsvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Agb für Vereinsausschluss und Haftung
 
-Klauselproblem (Agb Für Vereinsausschluss Und Haftung): AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Skill klärt die AGB-rechtliche Prüfung von Ausschlussklauseln in Vereinssatzungen und Beitrittsformularen das Verhältnis zur Vereinsautonomie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Für Vereinsausschluss Und Haftung): AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Agb Haftung Erfüllungsgehilfen
 
-Klauselproblem (Agb Haftung Erfüllungsgehilfen): AGB-Haftung für Erfüllungsgehilfen. Skill klärt die AGB-rechtliche Behandlung von Haftungsausschlüssen für Erfüllungsgehilfen (Paragraf 278 BGB) und die Wechselwirkung mit Paragraf 309 Nr. 7 BGB. Behandelt die BGH-Linie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Haftung Erfüllungsgehilfen): AGB-Haftung für Erfüllungsgehilfen. Skill klärt die AGB-rechtliche Behandlung von Haftungsausschlüssen für Erfüllungsgehilfen (Paragraf 278 BGB) und die Wechselwirkung mit Paragraf 309 Nr. 7 BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Agb im Arbeitsvertrag 310 Abs 4 Vertieft
 
-Paragraf 310 Abs. 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle. - Paragraf 310 Abs. 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen. - Klausel. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 310 Abs. 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle. - Paragraf 310 Abs. 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Agb im Bankvertrag Sparkassen und Banken
 
@@ -177,7 +204,7 @@ Klauselproblem (Agb Im Bankvertrag Sparkassen Und Banken): AGB-Kontrolle im Bank
 
 ### 15.7. Agb im Bauvertrag Vob B 2024
 
-Klauselproblem (Agb Im Bauvertrag Vob B 2024): AGB-Kontrolle der VOB-B im Bauvertrag. Skill klärt die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter Paragraf 310 Abs. 1 BGB Erlass des Paragraf 308. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Im Bauvertrag Vob B 2024): AGB-Kontrolle der VOB-B im Bauvertrag. Skill klärt die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter Paragraf 310 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Agb im Leasingvertrag Fortwirkung
 
@@ -185,24 +212,24 @@ Klauselproblem (Agb Im Leasingvertrag Fortwirkung): AGB im Leasingvertrag. Skill
 
 ### 15.9. Kardinalpflichten
 
-Klauselproblem (Kardinalpflichten): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Kardinalpflichten): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.10. Konzernklausel
 
-Klauselproblem (Konzernklausel): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Konzernklausel): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Lagerbedingungen
 
-Klauselproblem (Lagerbedingungen): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. 1 S. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Lagerbedingungen): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. 1 S. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Subunternehmer
 
-Klauselproblem (Subunternehmer): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Subunternehmer): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Agb Vertragsstrafe 309 Nr 6
 
-Klauselproblem (Agb Vertragsstrafe 309 Nr 6): AGB-Vertragsstrafe nach Paragraf 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klärt Höchstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Vertragsstrafe 309 Nr 6): AGB-Vertragsstrafe nach Paragraf 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Annahmefrist Leistungsfrist 308
 
-Klauselproblem (Annahmefrist Leistungsfrist 308): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Annahmefrist Leistungsfrist 308): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

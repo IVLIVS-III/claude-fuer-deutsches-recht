@@ -35,8 +35,8 @@ Wichtig: Die Vier-Jahres-Frist des § 133 Abs. 2 InsO gilt für Deckungshandlung
 ## Rechtsprechungsleitlinien BGH IX. ZS (offene Quellen)
 
 - BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20 — Neuausrichtung der Vorsatzanfechtung; alleinige Kenntnis der Zahlungsunfaehigkeit traegt den Benachteiligungsvorsatz nicht mehr schematisch; massgeblich ist Wissen oder Inkaufnahme, dass kuenftige Gläubiger nicht voll befriedigt werden. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX+ZR+72/20
-- BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Weiterentwicklung der Linie zu § 133 InsO bei kongruenter Deckung; Verwalter traegt Darlegungslast hinsichtlich Deckungsluecke und prognostischer Befriedigungsaussicht; einfaches Bestreiten kann genügen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
-- BGH, Urt. v. 18.04.2024 – Az. IX ZR 239/22 — Parallelentscheidung zur Anfechtung wegen gesellschafteraehnlicher Stellung (§ 135 InsO i.V.m. § 133 InsO). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
+- BGH, Urteil vom 18.04.2024 - IX ZR 239/22: Eine Deckungslücke, aus der auf fehlende künftige Vollbefriedigung geschlossen werden soll, kann regelmäßig nicht allein aus den schon für die Zahlungseinstellung verwendeten Verbindlichkeiten abgeleitet werden. Wiederholte Zahlungsverzögerungen reichen für die Überzeugung von einer Zahlungseinstellung häufig nicht. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22
 - Weiterfuehrende Rechtsprechungsdurchsicht: https://www.bundesgerichtshof.de und https://openjur.de.
 
 ## § 133 als Human-Review-Norm

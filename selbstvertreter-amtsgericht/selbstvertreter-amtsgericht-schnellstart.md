@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 371 ZPO — Augenscheinsbeweis: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 371a ZPO — Elektronische Dokumente: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 ZPO — Freie Beweiswürdigung; Gericht entscheidet, ob es überzeugt ist: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 138 ZPO — Wahrheitspflicht; sekundaere Darlegungslast: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 371 ZPO — Augenscheinsbeweis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 371a ZPO — Elektronische Dokumente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO — Freie Beweiswürdigung; Gericht entscheidet, ob es überzeugt ist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 138 ZPO — Wahrheitspflicht; sekundaere Darlegungslast; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

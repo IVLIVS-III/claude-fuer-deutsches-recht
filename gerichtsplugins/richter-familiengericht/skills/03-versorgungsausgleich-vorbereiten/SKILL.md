@@ -37,9 +37,9 @@ Dieser Skill führt den Familienrichter von der Scheidungsakte zum beschlussreif
 
 ## Leitentscheidungen
 
-- Ständige Rechtsprechung des BGH (XII. Zivilsenat) zu VersAusglG Paragraf 18: Die Geringfügigkeit ist nicht schematisch, sondern in einzelfallbezogener Ermessensprüfung zu beurteilen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren.
-- BGH, Beschluss vom 18.01.2017, XII ZB 118/16: Ausgleichswert und Teilungsform müssen für jedes Anrecht nachvollziehbar aus der Auskunft hervorgehen.
-- BGH, Beschluss vom 24.07.2013, XII ZB 340/11: Ausschluss oder Korrektur wegen grober Unbilligkeit bleibt Ausnahme.
+- BGH, Beschluss vom 05.06.2024 - XII ZB 277/23: Auch ein geringfügiges Anrecht ist nach VersAusglG Paragraf 18 nicht automatisch vom Ausgleich auszunehmen; entscheidend sind insbesondere der gesetzliche Halbteilungsgrundsatz und der mit der Teilung verbundene Verwaltungsaufwand.
+- BGH, Beschluss vom 24.03.2021 - XII ZB 230/16: Bei externer Teilung sind die erwartbaren Leistungen der Zielversorgung mit einer fiktiven internen Teilung auf gleichen Rechnungsgrundlagen zu vergleichen; unverhältnismäßige Transferverluste sind zu vermeiden.
+- BGH, Beschluss vom 31.01.2024 - XII ZB 259/23: VersAusglG Paragraf 27 bleibt eine Ausnahme; grobe Unbilligkeit verlangt eine Gesamtabwägung der wirtschaftlichen, sozialen und persönlichen Verhältnisse beider Ehegatten.
 
 ## Arbeitsprodukt
 

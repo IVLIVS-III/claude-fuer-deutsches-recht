@@ -45,7 +45,6 @@ description: "Wenn es um Wolfsentnahme Genehmigung Bnatschg in Fachanwalt Agrarr
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Voraussetzungen § 45 Abs. 7 BNatSchG
 
@@ -188,7 +187,6 @@ nach Vorliegen der DNA-Bestätigung.
 | Schutzmaßnahmen nicht wolfssicher | Spannungsmessprotokoll, Foto Einbruchsstelle, LWK-Sachverständiger |
 | Kein ernster wirtschaftlicher Schaden | Kumulation aller Risse der Saison; Stressaborte als Folgeschaden; Marktwert-Gutachten |
 | Zumutbare Alternative: Zaun erhöhen | Topographie-Nachweis; wirtschaftliche Kalkulation; Zeitaufwand bei laufender Saison |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | § 45a nicht anwendbar wegen fehlender Überwundunheit | Foto Einbruchsstelle als Beweismittel; Riss-Berater-Protokoll |
 
 ## Streitwert und Kosten
@@ -230,4 +228,3 @@ Stand 05/2026. **Achtung Rechtsänderung:** § 45a BNatSchG (Schnellabschussfass
 Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ---
-<!-- AUDIT 27.05.2026 -->

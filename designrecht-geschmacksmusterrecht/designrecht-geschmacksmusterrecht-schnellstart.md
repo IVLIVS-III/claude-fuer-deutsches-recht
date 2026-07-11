@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine Rechtsverletzung an Werk, Marke oder Inhalt abmahnen oder abwehren.
+Wenn du das hier öffnest, willst du ein Design schützen, seine Eigenart gegenüber dem Formenschatz prüfen oder eine Designverletzung angreifen oder abwehren.
 
 # Designrecht Geschmacksmusterrecht — Schnellstart
 
@@ -17,47 +17,43 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Schutzgegenstand: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
-2. Rechtekette: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-3. Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
-4. Schranken: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
-5. Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
-6. Bestimmung Informierter Benutzer: Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten.
+1. Designgegenstand: Erzeugnis, Teilbereich, Ansichten, Linien, Konturen, Farben, Material und beanspruchte Merkmale exakt bestimmen.
+2. Rechtsbestand: Anmelde- oder Offenbarungstag, Formenschatz, Neuheit, Eigenart, Gestaltungsfreiheit und technische Bedingtheit prüfen.
+3. Schutzumfang: informierten Benutzer, Gesamteindruck, Musterdichte, Unterschiede und nicht geschützte Merkmale in einer Bildmatrix vergleichen.
+4. Verletzung und Einreden: Benutzungshandlung, Gebiet, Priorität, Vorbenutzung, Erschöpfung, Nichtigkeit und Verjährung trennen.
+5. Arbeitsprodukt: Anmeldung, Designvergleich, Nichtigkeitsantrag, Abmahnung, Klage, Erwiderung oder Lizenzklausel ausformulieren.
+6. Bestimmung Informierter Benutzer: Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | UrhG Paragraf 2; UrhG Paragraf 15; UrhG Paragraf 31 |
-| Rechtsprechung | EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12 |
-| Tatbestand | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten |
-| Beweislast | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung |
-| Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung |
+| Normenanker | DesignG Paragraf 1 und Paragraf 2; DesignG Paragraf 5 und Paragraf 6; DesignG Paragraf 33 |
+| Rechtsprechung | EuGH, Urteil vom 20.10.2011 - C-281/10 P; EuGH, Urteil vom 19.06.2014 - C-345/13 |
+| Tatbestand | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen |
+| Beweislast | Designinhaber für Rechtsinhaberschaft, Priorität und übereinstimmenden Gesamteindruck; Gegner für Vorbekanntheit, technische Bedingtheit, Nichtigkeit und Erschöpfung |
+| Rechtsfolge | Anmeldung, Nichtigkeitsantrag, Unterlassung, Auskunft, Schadensersatz, Rückruf, Vergleich oder Lizenz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bestimmung Informierter Benutzer | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweissicherung Designvergleich | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Designlizenz Vertrag | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Designverletzung Klageanträge | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nationale Widerklage Nichtigkeit | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Offenbarung Neuheitsschonfrist Prioritaet | Schutzrecht, Priorität, Benutzung, Verletzungshandlung, Verwechslungsgefahr, Anspruchsziel und Frist verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bestimmung Informierter Benutzer | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweissicherung Designvergleich | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Designlizenz Vertrag | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Designverletzung Klageanträge | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nationale Widerklage Nichtigkeit | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Offenbarung Neuheitsschonfrist Prioritaet | Ansichten, Offenbarungstag, Formenschatz, Eigenart, Gestaltungsfreiheit, Gesamteindruck, Verletzung und Nichtigkeitsrisiko vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- UrhG Paragraf 2: geschützte Werke.
-- UrhG Paragraf 15: Verwertungsrechte.
-- UrhG Paragraf 31: Einräumung von Nutzungsrechten.
-- UrhG Paragraf 51: Zitatrecht.
-- GG Art. 1, 3, 20 (Grundrechte, Rechtsstaat): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 133, 157, 242 (Auslegung, Treu und Glauben): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwVfG Paragrafen 28, 35, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme/Widerruf): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- VwGO Paragrafen 42, 80, 113 (Anfechtungsklage, Eilrechtsschutz): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+- DesignG Paragraf 1 und Paragraf 2: Designbegriff, Neuheit und Eigenart.
+- DesignG Paragraf 5 und Paragraf 6: Offenbarung, Neuheitsschonfrist und Prioritätsvergleich.
+- DesignG Paragraf 33: Nichtigkeit wegen fehlender Schutzvoraussetzungen oder entgegenstehender Rechte.
+- DesignG Paragraf 38: Schutzumfang nach Gesamteindruck unter Berücksichtigung der Gestaltungsfreiheit.
+- EuGH, Urteil vom 20.10.2011 - C-281/10 P: PepsiCo gegen Grupo Promer konkretisiert informierten Benutzer, Gestaltungsfreiheit und unterschiedlichen Gesamteindruck.
+- EuGH, Urteil vom 19.06.2014 - C-345/13: Karen Millen verlangt für die Eigenart den Vergleich mit einzelnen vorbekannten Designs, nicht mit einem Merkmalsmosaik.
 
 ## 7. Antwortform
 

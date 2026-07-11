@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-Niederlande (2012/2016) in Steuerrecht 
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Niederlande (2012/2016)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -166,5 +164,3 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Niederlande 12.04.2012 (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), ab 01.01.2016. Aend.-Prot. 11.01.2016 (BGBl. 2016 II S. 868), Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736). MLI-Notifications beim OECD-Portal prüfen. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text Art. 17 prüfen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 belegt (BGBl. 2012 II S. 1414/1415 bestaetigt; BGBl. 2015 II S. 1674 bestaetigt; Aend.-Prot. 11.01.2016 BGBl. 2016 II S. 868 bestaetigt; Aend.-Prot. 24.03.2021 BGBl. 2021 II S. 736 bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->

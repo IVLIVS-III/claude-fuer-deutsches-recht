@@ -216,7 +216,3 @@ Folge-Skill: [SKILL-NAME]
 Naechster Schritt: [MASSNAHME] bis [DATUM] durch [PERSON]
 =========================================
 ```
-
-## Audit-Hinweis (27.05.2026)
-
-Stand Mai 2026 wurden die Aktenzeichen anhand offener Quellen (juris.bundesgerichtshof.de, dejure.org, curia.europa.eu) verifiziert. Frühere Modellwissen-Platzhalter sind durch belegte Aktenzeichen ersetzt. Vor Versand vom Anwalt erneut zu prüfen.

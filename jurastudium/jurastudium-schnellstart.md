@@ -52,11 +52,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
 - ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
 - ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness. - Paragraf 2 HRG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …"
+- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit. - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug. - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 5 Abs. 3 Satz 1 GG — Wissenschaftsfreiheit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …".
 
 ## 7. Antwortform
 

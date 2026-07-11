@@ -38,7 +38,7 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 | § 15b InsO | Zahlungsverbot nach Insolvenzreife (früher § 64 GmbHG a.F.) |
 | § 174 ff. InsO | Forderungsanmeldung zur Tabelle |
 | § 270 InsO | Eigenverwaltung; Schuldner bleibt verfügungsberechtigt |
-| § 270b InsO | Schutzschirmverfahren (Sanierungsoption) |
+| Paragraf 270d InsO | Schutzschirmverfahren; nur bei drohender Zahlungsunfähigkeit oder Überschuldung, nicht bei bereits eingetretener Zahlungsunfähigkeit |
 | § 302 InsO | Ausnahmen von der Restschuldbefreiung bei vorsätzlichen unerlaubten Handlungen |
 | §§ 73, 73c StGB | Einziehung von Taterträgen und Wertersatz |
 | §§ 111b–111p StPO | Vermögenssicherung im Strafverfahren; Beschlagnahme und Vermögensarrest |
@@ -53,7 +53,6 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -114,9 +113,11 @@ I. Kein Insolvenzgrund vorhanden
 Die Antragstellerin hat keine wirksam titulierte Forderung
 glaubhaft gemacht. Der Steuerbescheid vom [Datum] ist nicht
 rechtskräftig; gegen ihn ist Einspruch eingelegt (Anlage 1).
-Ein auf bestrittene Forderungen gestützter Gläubigerantrag
-ist mangels Forderungslegitimation unzulässig (vgl. BGH
-IX ZB 37/12).
+Hängt der Eröffnungsgrund allein von einer substantiiert bestrittenen,
+nicht titulierten Forderung ab, genügt deren Glaubhaftmachung nicht.
+Der Gläubiger muss den Bestand beweisen; bei rechtlich oder tatsächlich
+nicht eindeutig zu klärender Forderung ist er auf den Prozessweg zu
+verweisen (BGH, Beschluss vom 14.01.2021 - IX ZB 12/20).
 
 II. Zahlungsunfähigkeit liegt nicht vor
 
@@ -205,11 +206,11 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 | Konstellation | Beweislast |
 |---|---|
-| Insolvenzgrund (Gläubigerantrag) | Antragsteller muss Forderung und Insolvenzgrund glaubhaft machen (§ 14 InsO); Schuldner muss widerlegen |
-| Zahlungsunfähigkeit (§ 17 InsO) | Vermutet ab Insolvenzantrag; Schuldner muss Liquidität substantiiert nachweisen |
-| Überschuldung (§ 19 InsO) | Antragsteller oder Sachverständiger muss Überschuldungsstatus erstellen; Schuldner kann bestreiten |
-| § 97 InsO Selbstbelastungsschutz | Schuldner muss darlegen, dass Auskunft zu Strafverfolgung führen könnte; enger Maßstab |
-| Insolvenzanfechtung (§ 129 InsO) | Insolvenzverwalter trägt objektiven Tatbestand; bei Vorsatzanfechtung (§ 133 InsO) auch Benachteiligungsvorsatz |
+| Insolvenzgrund im Gläubigerantrag | Der Antragsteller muss Forderung und Eröffnungsgrund glaubhaft machen, Paragraf 14 Absatz 1 InsO. Das Gericht hört den Schuldner und ermittelt von Amts wegen; es gibt keine pauschale Widerlegungsbeweislast des Schuldners. |
+| Zahlungsunfähigkeit | Die Antragstellung begründet keine Vermutung. Erst eine festgestellte Zahlungseinstellung trägt regelmäßig die Annahme der Zahlungsunfähigkeit, Paragraf 17 Absatz 2 InsO. |
+| Überschuldung | Tatsachen für den Eröffnungsgrund sind glaubhaft zu machen; im eröffneten Prüfprogramm gilt der Amtsermittlungsgrundsatz nach Paragraf 5 InsO. Stichtagsstatus und Fortführungsprognose bleiben beweisbar zu dokumentieren. |
+| Auskunft und Selbstbelastung | Paragraf 97 Absatz 1 InsO verpflichtet auch zur Offenbarung selbstbelastender Tatsachen. Die erzwungene Auskunft darf gegen den Schuldner oder einen dort genannten Angehörigen im Straf- oder Bußgeldverfahren nur mit Zustimmung des Schuldners verwendet werden. |
+| Insolvenzanfechtung | Der Insolvenzverwalter trägt die Darlegungs- und Beweislast für die Voraussetzungen des jeweiligen Anfechtungstatbestands, soweit keine konkret geregelte Vermutung greift. |
 
 ---
 
@@ -217,13 +218,12 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 | Frist | Inhalt | Norm |
 |---|---|---|
-| Sofort | Akteneinsicht im Insolvenzgericht beantragen; Anhörungsfrist im Blick | § 14 Abs. 2 InsO |
-| 2 Wochen | Sofortige Beschwerde gegen Anordnungen des Insolvenzgerichts | § 6 InsO |
-| 3 Wochen ab Bestellung | Vorläufiger Insolvenzverwalter ist im Amt; Koordination dringend | § 21 InsO |
-| 6 Wochen ab Eröffnung | Forderungsanmeldung zur Tabelle (Gläubigerseite) | § 174 InsO |
-| 3 Jahre | Verjährung strafrechtlicher Ansprüche nach § 370 AO (leichte Steuerhinterziehung) | § 78 StGB, § 376 AO |
-| 10 Jahre | Strafverfolgungsverjährung bei schwerer Steuerhinterziehung (§ 376 AO Abs. 1) | § 376 AO |
-| 3 Jahre | Insolvenzanfechtung § 133 Abs. 1 InsO (Vorsatzanfechtung); ab Kenntnis des Verwalters | § 146 InsO |
+| Aus dem Anhörungsschreiben | Stellungnahme zum Gläubigerantrag; keine gesetzliche Einheitsfrist | Paragraf 14 Absatz 2 InsO |
+| Regelmäßig 2 Wochen | Sofortige Beschwerde nur, wenn die InsO sie ausdrücklich eröffnet; Frist nach Paragraf 569 ZPO | Paragraf 6 InsO |
+| 2 Wochen bis 3 Monate | Das Insolvenzgericht setzt im Eröffnungsbeschluss die konkrete Anmeldefrist | Paragrafen 28 Absatz 1 und 174 InsO |
+| 5 Jahre | Verfolgungsverjährung der Steuerhinterziehung im Grundtatbestand | Paragraf 78 Absatz 3 Nummer 4 StGB |
+| 15 Jahre | Verfolgungsverjährung in den Fällen des Paragraf 370 Absatz 3 Satz 2 Nummern 1 bis 6 AO | Paragraf 376 Absatz 1 AO |
+| Regelmäßige BGB-Verjährung | Für den Anfechtungsanspruch gelten Paragrafen 195 und 199 BGB; Entstehung, Jahresendbeginn, Kenntnis oder grob fahrlässige Unkenntnis und Hemmung konkret berechnen | Paragraf 146 InsO |
 
 ---
 
@@ -231,11 +231,10 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| "Schweigerecht gilt auch im Insolvenzverfahren" | Nein; § 97 InsO normiert ausdrücklich Mitwirkungspflicht; Schweigerecht aus § 136 StPO gilt nur im Strafverfahren |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| "Insolvenz stoppt den Vermögensarrest automatisch" | Grundsätzlich ja (§ 111i StPO), aber Einziehungsanspruch des Staates bleibt bestehen; er wird zum Insolvenzgläubiger |
-| "Restschuldbefreiung befreit auch von Steuerschulden" | Nein; § 302 Nr. 1 InsO schließt vorsätzlich begangene unerlaubte Handlungen aus; Steuerhinterziehung ist § 370 AO = unerlaubte Handlung |
-| "Eigenverwaltung schadet den Gläubigern" | § 270 InsO sieht vor, dass Eigenverwaltung angeordnet wird wenn kein Nachteil für Gläubiger; Beweislast liegt beim Widersprechenden |
+| "Wegen des Strafverfahrens darf der Schuldner jede Auskunft verweigern" | Paragraf 97 Absatz 1 InsO verpflichtet auch zur Offenbarung selbstbelastender Tatsachen, begrenzt aber deren Verwendung im Straf- oder Bußgeldverfahren. Aussagepflicht und Verwertungsbeschränkung getrennt behandeln. |
+| "Insolvenz stoppt jeden Vermögensarrest vollständig" | Paragraf 111i StPO regelt differenziert das Erlöschen bestimmter Sicherungsrechte, den Insolvenzantrag der Staatsanwaltschaft und ein mögliches Pfandrecht am Schlussüberschuss. Arrestgegenstand, Verletztenansprüche und Insolvenzbeschlag einzeln zuordnen. |
+| "Steuerschulden sind stets von der Restschuldbefreiung ausgenommen" | Nur die in Paragraf 302 Nummer 1 InsO bezeichneten Steuerschulden bleiben unberührt, insbesondere bei rechtskräftiger Verurteilung wegen einer dort genannten Steuerstraftat und ordnungsgemäßer Anmeldung des Rechtsgrunds. |
+| "Eigenverwaltung wird schon mangels nachgewiesenen Gläubigernachteils angeordnet" | Antrag und Eigenverwaltungsplanung richten sich nach Paragraf 270a InsO, die vorläufige Anordnung nach Paragraf 270b InsO und die Eröffnungsentscheidung nach Paragraf 270 InsO. Keine pauschale Beweislastformel verwenden. |
 
 ---
 

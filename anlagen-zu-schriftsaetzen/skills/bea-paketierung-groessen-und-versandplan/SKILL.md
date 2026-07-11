@@ -1,68 +1,49 @@
 ---
 name: bea-paketierung-groessen-und-versandplan
-description: "Wenn es um beA-Paketierung und Versandplan in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Plant große beA-Einreichungen nach ERVV und ERVB 2025: zählt Dateien und Bytes, hält mehrseitige Anlagen zusammen, bildet nachvollziehbare Teilnachrichten, führt Anlagenbereiche und Hashwerte fort und liefert Betreff, Begleitvermerk, Versandfolge sowie getrennte Eingangskontrollen für jede Nachricht."
 ---
 
 # beA-Paketierung und Versandplan
 
-## Normenanker
+## 1. Einsatz
 
-Arbeitsfokus: **beA-Paketierung und Versandplan**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Nutze diesen Skill, wenn die Versandmappe die technische Grenze einer Nachricht erreichen könnte oder mehrere Schriftsätze und Anlagen in kontrollierter Reihenfolge eingereicht werden müssen.
 
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
-- `§ 130a Abs. 6 ZPO` — Ersatzeinreichung bei technischer Störung.
-- `§ 2 ERVV` — Dateiformate und technische Anforderungen.
-- `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
-- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
-- `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
+## 2. Rechts- und Technikanker
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- ZPO Paragraf 130a Absatz 5: Eingang und automatisierte Eingangsbestätigung.
+- ZPO Paragraf 130a Absatz 6: unverzügliche Nachreichung eines geeigneten Dokuments nach gerichtlichem Hinweis auf technische Ungeeignetheit.
+- ZPO Paragraf 130d: elektronische Nutzungspflicht und Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit.
+- ERVV Paragraf 2: PDF und technische Eignung.
+- ERVB 2025: höchstens 1000 Dateien und insgesamt 200 MB je Nachricht; Dateiname höchstens 90 Zeichen einschließlich Endung.
 
-## Mindestinput
+## 3. Paketierungsregeln
 
-- Nummernkreis und endgültiges Anlagenverzeichnis.
-- Dateiliste mit Dateigrößen und Format.
-- Frist und Empfängergericht.
-- Angabe, ob ein Paket oder mehrere Teilpakete versandt werden sollen.
+1. Hauptschriftsatz und sein vollständiger Anlagenbereich werden logisch zusammengehalten.
+2. Eine mehrseitige Anlage wird nie zwischen zwei Nachrichten geteilt.
+3. Jede Nachricht erhält `Teil X von Y`, den enthaltenen Anlagenbereich und einen Verweis auf die übrigen Teile.
+4. Nummernkreis, Dateifolge und Anlagenverzeichnis bleiben über alle Nachrichten lückenlos.
+5. Für jede Nachricht wird eine eigene automatisierte Eingangsbestätigung erwartet und geprüft.
+6. Ein internes Prüfkonvolut darf erzeugt werden; versandt werden die nach Gerichtshinweis vorgesehenen Einzeldateien.
 
-## Arbeitsablauf
+## 4. Versandplan
 
-1. Prüfe zulässige Formate und aktuelle ERVV/ERVB-Anforderungen.
-2. Sortiere Dateien in logische Teilpakete, ohne den Vortrag zu zerreißen.
-3. Benenne jedes Paket und jede Datei stabil.
-4. Erstelle Versandcheck mit Prüfsummen, Seitenzahlen, OCR und Stempelstatus.
-5. Formuliere Begleitvermerk für mehrere Teilpakete oder Nachreichung.
+| Teil | Hauptdokument | Anlagenbereich | Dateien | Bytes | letzter Hash | Eingangsbestätigung |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 von 2 | Schriftsatz | K 1 bis K 28 | Zahl | Zahl | SHA-256 | offen oder geprüft |
 
-## Ausgabe
+Beispiel für den Begleitvermerk:
 
-- beA-Versandplan.
-- Teilpaket-Tabelle mit Inhalt und Größe.
-- Begleitvermerk.
-- Finale Vor-Versand-Checkliste.
+> Wegen des Datenumfangs wird die Einreichung in zwei unmittelbar aufeinanderfolgenden Nachrichten übermittelt. Diese Nachricht enthält Teil 1 von 2 mit dem Schriftsatz und den Anlagen K 1 bis K 28. Teil 2 von 2 enthält die Anlagen K 29 bis K 47. Der Nummernkreis wird lückenlos fortgeführt.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 5. Stop-Fehler
 
-## Typische Fehler, die du aktiv suchst
+- Paketgrenze nur geschätzt statt aus den finalen Dateien berechnet.
+- Hauptdokument in einem späteren Teil ohne eindeutigen Bezug.
+- Anlage oder Konvolut über zwei Nachrichten aufgespalten.
+- Teilnummer im Betreff widerspricht Begleitvermerk.
+- Frist wird erledigt, obwohl nur für einen Teil eine positive Eingangsbestätigung vorliegt.
 
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
+## 6. Output
 
-## Anschluss-Skills
-
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+Liefere Paketierungstabelle, Dateiliste je Teil, fertigen Begleitvermerk, Versandfolge mit Verantwortlichem und eine Eingangskontrollzeile für jede Nachricht. Nutze danach `bea-versandmappe-endfertigung` für die Freigabe.

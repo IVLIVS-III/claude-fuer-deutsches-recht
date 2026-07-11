@@ -52,13 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal.
 - InsO Paragraf 19: Überschuldung bei juristischen Personen.
 - StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
-- Normen-/Quellenanker: InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- InsO Paragrafen 17-19, Paragraf 15a: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit wird regelmäßig anhand einer erheblichen Liquiditätslücke beurteilt.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiter müssen Krisenentscheidungen und Zahlungsverbote nachvollziehbar dokumentieren.
-- BGH IX ZR 129/22 vom 18.04.2024 ist als Pflichtanker zu prüfen, wenn ein Liquiditätsstatus gegenüber einem außenstehenden Dritten verwendet wird. Die Erklärungslast der Gegenseite steigt nur
+- InsO Paragrafen 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragrafen 17-19, Paragraf 15a; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- SGB IV Paragraf 28e, StGB Paragraf 266a für Arbeitnehmeranteile; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- AO Paragrafen 34, 69, 370 bei Steuer-/Erklärungspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+- BGH IX ZR 129/22 vom 18.04.2024 ist als Pflichtanker zu prüfen, wenn ein Liquiditätsstatus gegenüber einem außenstehenden Dritten verwendet wird.
 
 ## 7. Antwortform
 

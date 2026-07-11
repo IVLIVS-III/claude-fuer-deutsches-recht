@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-Estland (1996) in Steuerrecht – Steue
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Estland (1996)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -158,5 +156,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Estl
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Estland 29.11.1996, BGBl. 1998 II S. 547, in Kraft 30.12.1998. Änderungsprotokoll 15.12.2020, BGBl. 2021 II S. 562, in Kraft 29.06.2021, anwendbar ab 01.01.2022. DBA aus MLI-Geltungsbereich ausgenommen (bilaterale Umsetzung). Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 547 und Inkrafttreten 30.12.1998 bestaetigt (gesetze-im-internet.de, BGBl, Bundestag BT-Drs 19/28117); Änderungsprotokoll 2020 BGBl. 2021 II S. 562 bestaetigt (BMF); MLI-Ausnahme bestaetigt (BT-Drs 19/28117); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Art. 10 n.F. 5/15% bestaetigt (NWB, BMF); Art. 11/12 allgemein gefasst (kein belegter Satz für altes DBA verfuegbar) -->

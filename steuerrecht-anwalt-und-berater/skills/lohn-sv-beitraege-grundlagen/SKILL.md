@@ -128,5 +128,3 @@ Stand: 05/2026.
 - BBG 2025: RV/AV 8.050 EUR/Monat, KV/PV 5.512,50 EUR/Monat; Beitragssaetze: RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos 0,6%.
 - PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI, PflegeunterstuetzungsG seit 01.07.2023).
 - Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Prüfhinweise ohne Marker) -->

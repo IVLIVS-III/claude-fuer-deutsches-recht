@@ -15,7 +15,7 @@ description: "Wenn es um Disziplinarmaßnahmen nach Internal Investigations in I
 
 ## Rechtlicher Rahmen
 
-Nach Abschluss einer Internal Investigation müssen geeignete Disziplinarmaßnahmen ergriffen werden. Dies ergibt sich aus der Pflicht des Vorstands, auf festgestellte Verstöße zu reagieren (§ 93 AktG, BGH II ZR 234/09, [openjur.de](https://openjur.de/o/577696.html)) und aus § 130 OWiG (fehlende Reaktion ist selbst ein Aufsichtspflichtverstoß, [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html)). Gleichzeitig müssen Disziplinarmaßnahmen verhältnismäßig sein und das Betriebsverfassungsrecht beachten.
+Nach Abschluss einer Untersuchung ist zuerst belastbar festzustellen, welcher Verstoß wem mit welchem Verschuldensgrad zurechenbar ist. Eine Reaktion kann aus Organ- und Aufsichtspflichten geboten sein; Art und Schwere folgen aber nicht automatisch aus Paragraf 93 AktG oder Paragraf 130 OWiG. Abmahnung, Kündigung, Organmaßnahme, Schadensersatz und bloße Prozessverbesserung sind nach Zuständigkeit, Verhältnismäßigkeit, Beteiligungsrechten und Beweisbarkeit getrennt zu prüfen.
 
 ## Ziel dieses Skills
 
@@ -98,4 +98,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

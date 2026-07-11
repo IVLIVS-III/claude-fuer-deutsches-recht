@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 59 Skills des Plugins `schriftform-und-textform-bgb`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `schriftform-und-textform-bgb`.
 
 ## Inhaltsverzeichnis
 
 1. **einstieg-routing** — Wenn es um Einstieg und Routing in Schriftform und Textform im BGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
 2. **formerfordernisse-erstpruefung-und-mandatsziel** — Wenn es um Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel in Schriftform und Textform im BGB geht: klärt …
-3. **rechtsprechung-livecheck-formfragen** — Wenn es um Livecheck verifizierter Rechtsprechung zu Schriftform, qES und beA in Schriftform und Textform im BGB geht: o…
-4. **prozessablauf-papier-vs-elektronisch** — Wenn es um Prozessablauf — Papier vs. Elektronisch in Schriftform und Textform im BGB geht: ordnet Sachverhalt, Norm, Be…
-5. **kuendigung-per-mandantenkorrespondenz-zugang** — Wenn es um Kündigung per Schriftsatz — Zustellung und Formfragen in Schriftform und Textform im BGB geht: erstellt den p…
-6. **checklisten-schriftsatz-brief-und-memo-bausteine** — Wenn es um Checklisten: Schriftsatz-, Brief- und Memo-Bausteine in Schriftform und Textform im BGB geht: erstellt den pa…
-7. **verifikation-compliance-dokumentation-und-akte** — Wenn es um Verifikation: Compliance-Dokumentation und Aktenvermerk in Schriftform und Textform im BGB geht: ordnet Akten…
-8. **arbeitsrecht-befristung-schriftform-checker** — Wenn es um Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB in Schriftform und Textform im BGB geht…
-9. **elektronische-paragraph-formerfordernisse** — Wenn es um Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur in Schriftform und Textform im BG…
-10. **mandantenwarnung-qes-per-email-whatsapp-und-zugang** — Wenn es um Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis in Schriftform und Textform im BGB g…
-11. **zugang-empfangsbeduerftiger-formgerechter** — Wenn es um Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB in Schriftform und Textform im BGB geht: erste…
-12. **zugang-risikoampel-und-gegenargumente** — Wenn es um Zugang: Risikoampel, Gegenargumente und Verteidigungslinien in Schriftform und Textform im BGB geht: zerlegt …
-13. **empfangsbeduerftiger-international-schnittstellen** — Wenn es um Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen in Schriftform und Textform im BGB geht: prüft…
-14. **prozessablauf-mandantenentscheidung** — Wenn es um Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage in Schriftform und Textform im BGB geht: prüft…
-15. **live-zahlen-schwellen-und-berechnung** — Wenn es um Live: Zahlen, Schwellenwerte und Berechnung in Schriftform und Textform im BGB geht: rechnet Schwellen, Beträ…
+3. **maklervertrag-paragraf-656a-bgb-textform-pruefen** — Prüft Maklerverträge über Wohnungen und Einfamilienhäuser auf Textform, elektronischen Vertragsschluss und Provisionsver…
+4. **rechtsprechung-livecheck-formfragen** — Wenn es um Livecheck verifizierter Rechtsprechung zu Schriftform, qES und beA in Schriftform und Textform im BGB geht: o…
+5. **prozessablauf-papier-vs-elektronisch** — Wenn es um Prozessablauf — Papier vs. Elektronisch in Schriftform und Textform im BGB geht: ordnet Sachverhalt, Norm, Be…
+6. **kuendigung-per-mandantenkorrespondenz-zugang** — Wenn es um Kündigung per Schriftsatz — Zustellung und Formfragen in Schriftform und Textform im BGB geht: erstellt den p…
+7. **checklisten-schriftsatz-brief-und-memo-bausteine** — Wenn es um Checklisten: Schriftsatz-, Brief- und Memo-Bausteine in Schriftform und Textform im BGB geht: erstellt den pa…
+8. **verifikation-compliance-dokumentation-und-akte** — Wenn es um Verifikation: Compliance-Dokumentation und Aktenvermerk in Schriftform und Textform im BGB geht: ordnet Akten…
+9. **arbeitsrecht-befristung-schriftform-checker** — Wenn es um Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB in Schriftform und Textform im BGB geht…
+10. **elektronische-paragraph-formerfordernisse** — Wenn es um Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur in Schriftform und Textform im BG…
+11. **mandantenwarnung-qes-per-email-whatsapp-und-zugang** — Wenn es um Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis in Schriftform und Textform im BGB g…
+12. **zugang-empfangsbeduerftiger-formgerechter** — Wenn es um Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB in Schriftform und Textform im BGB geht: erste…
+13. **zugang-risikoampel-und-gegenargumente** — Wenn es um Zugang: Risikoampel, Gegenargumente und Verteidigungslinien in Schriftform und Textform im BGB geht: zerlegt …
+14. **empfangsbeduerftiger-international-schnittstellen** — Wenn es um Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen in Schriftform und Textform im BGB geht: prüft…
+15. **prozessablauf-mandantenentscheidung** — Wenn es um Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage in Schriftform und Textform im BGB geht: prüft…
 
 ---
 
@@ -132,6 +132,81 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `maklervertrag-paragraf-656a-bgb-textform-pruefen`
+
+_Prüft Maklerverträge über Wohnungen und Einfamilienhäuser auf Textform, elektronischen Vertragsschluss und Provisionsverteilung; trennt Formmangel, Halbteilungsgrundsatz, Zahlungsbutton, Bestätigung und Rückforderung und liefert einen belastbaren Vertrags- und Anspruchscheck._
+
+# Maklervertrag nach Paragraf 656a BGB prüfen
+
+## 1. Einsatzlage
+
+Nutze diesen Skill bei einem per E-Mail, Messenger, Plattform oder PDF angebahnten Immobilienmaklervertrag, bei einem Provisionshinweis in Signatur oder Anlage, bei einer Verlagerung der Verkäuferprovision auf den Käufer oder bei der Rückforderung gezahlter Maklerkosten. Prüfe Textform, Vertragsschluss und Provisionsverteilung getrennt; ein wirksamer Textformschluss beantwortet noch nicht die Fragen aus Paragraf 656c oder 656d BGB.
+
+## 2. Normenanker
+
+- Paragraf 656a BGB: Textform für Maklerverträge über den Kauf einer Wohnung oder eines Einfamilienhauses.
+- Paragraf 656b BGB: persönlicher Anwendungsbereich der Paragrafen 656c und 656d BGB bei einem Verbraucher als Käufer.
+- Paragraf 656c BGB: hälftige Verteilung bei Maklerverträgen mit beiden Kaufvertragsparteien.
+- Paragraf 656d BGB: Übernahme oder Erstattung von Maklerlohn bei Beauftragung durch nur eine Kaufvertragspartei.
+- Paragrafen 125 und 126b BGB: Rechtsfolge des Formmangels und Anforderungen der Textform.
+- Paragraf 312j Absatz 3 und 4 BGB: ausdrückliche Bestätigung einer Zahlungspflicht im elektronischen Geschäftsverkehr.
+- Paragrafen 141, 812 und 818 BGB: Bestätigung eines unwirksamen Geschäfts und Rückabwicklung.
+
+## 3. Verifizierte Rechtsprechungsanker
+
+- BGH, Urteil vom 06.03.2025 - I ZR 32/24: Begriff des Einfamilienhauses in den Paragrafen 656a folgende BGB; eine untergeordnete Einliegerwohnung oder gewerbliche Nutzung schließt die Einordnung nicht aus. Paragraf 656c BGB kann entsprechend anzuwenden sein, wenn anstelle einer Partei des Hauptvertrags ein Dritter den Maklervertrag schließt.
+- BGH, Urteil vom 06.03.2025 - I ZR 138/24: Eine gegen Paragraf 656d BGB verstoßende Vereinbarung ist insgesamt nichtig; sie wird nicht auf die Hälfte reduziert. Erfasst werden auch Vereinbarungen, die dem Makler mittelbar einen Zahlungs- oder Erstattungsanspruch gegen die nicht beauftragende Kaufvertragspartei verschaffen.
+- BGH, Urteil vom 09.10.2025 - I ZR 159/24: Ein im elektronischen Geschäftsverkehr geschlossener Maklervertrag unterliegt Paragraf 312j Absatz 3 BGB. Fehlt die ausdrückliche Bestätigung der Provisionspflicht, ist der Vertrag nach Absatz 4 endgültig unwirksam; eine Bestätigung nach Paragraf 141 BGB muss ihrerseits die Anforderungen des Paragraf 312j Absatz 3 BGB wahren.
+
+Die Entscheidungen tragen keine pauschale Aussage, dass jeder Provisionshinweis in einer E-Mail-Signatur unwirksam ist. Diese Frage ist aus dem konkreten Erklärungsinhalt und den Anforderungen des Paragraf 126b BGB zu beurteilen. Ein nicht belegtes Aktenzeichen darf nicht als Ersatz dienen.
+
+## 4. Dokumentenintake
+
+1. Exposé, Objektbeschreibung und erste Kontaktaufnahme vollständig lesen.
+2. E-Mail-Verlauf, Messenger-Nachrichten, Plattformmasken und Schaltflächen in zeitlicher Reihenfolge sichern.
+3. Provisionshinweis, Widerrufsbelehrung, AGB und Anlagen jeweils ihrem Übermittlungsvorgang zuordnen.
+4. Hauptkaufvertrag, Maklerverträge beider Seiten und Zahlungsnachweise einsammeln.
+5. Verbraucherstellung, Objektart, Haushaltsnutzung und untergeordnete Nebenflächen feststellen.
+
+## 5. Prüfprogramm
+
+1. Anwendungsbereich bestimmen: Kauf einer Wohnung oder eines Einfamilienhauses; Gewerbeobjekte und reine Mietmaklerverträge abgrenzen.
+2. Angebot und Annahme identifizieren. Für jede Erklärung prüfen, wer sie abgegeben hat, welchen Inhalt sie hat, wann sie zugegangen ist und ob sie auf einem dauerhaften Datenträger lesbar bleibt.
+3. Textform prüfen: Erklärender, Vertragsgegenstand, Provisionsabrede und Abschluss der Erklärung müssen hinreichend erkennbar sein. Eine bloße Standardsignatur nicht ohne Gesamtwürdigung als Vertragsinhalt behandeln.
+4. Bei Onlineabschluss zusätzlich Paragraf 312j Absatz 3 und 4 BGB prüfen: Beschriftung und unmittelbarer Zusammenhang der Bestätigung mit der Zahlungspflicht dokumentieren.
+5. Bei beiderseitiger Maklerbindung Paragraf 656c BGB anwenden und Auftraggeber, Provisionshöhe und tatsächliche Zahlung beider Seiten vergleichen.
+6. Bei nur einseitiger Maklerbindung jede unmittelbare oder mittelbare Kostenübernahme an Paragraf 656d BGB messen. Eine unzulässige Vereinbarung nicht geltungserhaltend auf die Hälfte reduzieren.
+7. Form- und Verteilungsverstoß getrennt auf Nichtigkeit, Bestätigung und bereicherungsrechtliche Rückabwicklung prüfen.
+8. Widerruf, Verjährung, Entreicherung, Nutzungsersatz und vorgerichtliche Kosten gesondert bewerten.
+
+## 6. Beweismatrix
+
+| Prüffrage | Beleg | Warnsignal |
+| --- | --- | --- |
+| Was war das Angebot? | E-Mail, Plattformseite, PDF | Provisionshinweis nur in wechselnder Signatur |
+| Wie wurde angenommen? | Antwort, Klickprotokoll, Signatur | Nur tatsächliche Maklernutzung ohne formgerechte Erklärung |
+| Wurde Zahlung bestätigt? | Bildschirmabbild, Systemprotokoll | Schaltfläche ohne eindeutigen Zahlungsbezug |
+| Wer beauftragte den Makler? | Vertrag Verkäufer, Vertrag Käufer | Kostenverlagerung ohne fortbestehende hälftige Belastung |
+| Was wurde gezahlt? | Rechnung, Kontoauszug | Zahlungsempfänger oder Rechtsgrund unklar |
+
+## 7. Ausgabevarianten
+
+- Vertrags- und Formcheck mit Ampel je Erklärung.
+- Provisionsverteilungsmatrix für Käufer, Verkäufer und Makler.
+- Anspruchsprüfung zur Zahlung oder Rückforderung.
+- Ausformuliertes Aufforderungs- oder Zurückweisungsschreiben.
+- Schriftsatzbaustein mit Tatsachen, Beweisangeboten, Normen und verifizierten Rechtsprechungsankern.
+
+## 8. Qualitätskontrolle
+
+- Textform, Zahlungsbutton und Halbteilungsgrundsatz nicht vermischen.
+- Keine Aussage aus I ZR 32/24, I ZR 138/24 oder I ZR 159/24 über ihren jeweiligen Gegenstand hinaus verallgemeinern.
+- Den Inhalt einer Signatur oder Anlage anhand des konkreten Nachrichtenzusammenhangs würdigen.
+- Jede Rückforderung beziffern und Zahlung, Empfänger, Rechtsgrund und Einwendungen belegen.
+- Gericht, Datum, Aktenzeichen und tragende Aussage vor Ausgabe in einer amtlichen Quelle abgleichen.
 
 ---
 
@@ -822,28 +897,6 @@ Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
 - **Schriftsatzkündigung im Arbeitsgericht**: Paragraf 46h ArbGG kann die Form fingieren, wenn die gesetzlichen Voraussetzungen vorliegen. Das ersetzt nicht die Prüfung von Klarerkennbarkeit, Zustellung, Vertretung und Paragraf 174 BGB.
 - **Paragraf 174 BGB**: Wenn HR-Manager kündigt ohne vorgelegte Originalvollmacht, kann Arbeitnehmer unverzüglich zurückweisen. Personalleiter-Vollmacht im Original immer beifügen.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Paragraf 46h ArbGG
-- Paragraf 14 TzBfG
-- Paragraf 16 TzBfG
-- Paragraf 15 GmbHG
-- Paragraf 46c ArbGG
-- Paragraf 17 TzBfG
-- Paragraf 16a BeurkG
-- Paragraf 23a GVG
-- Paragraf 113 FamFG
-- Paragraf 2 HRG
-- Paragraf 4 HRG
-- Paragraf 7 HRG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
 ---
 
 ## Skill: `elektronische-paragraph-formerfordernisse`
@@ -1207,7 +1260,6 @@ Grundloses Zurückweisen eines eingeschriebenen Briefs: Zugang mit Rückgabezeit
 | E-Mail (Empfänger-Postfach) | Eingang auf Empfänger-Mailserver, wenn abrufbar |
 | Fax | Eingang im Speicher des Empfänger-Faxgeräts |
 | WhatsApp / Messenger | Eingang auf Empfänger-Gerät (Doppelhaken) — str. |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ### Beweislast Zugang
 
@@ -1412,59 +1464,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `live-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Live: Zahlen, Schwellenwerte und Berechnung in Schriftform und Textform im BGB geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Live: Zahlen, Schwellenwerte und Berechnung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `Paragraf 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `Paragraf 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `Paragraf 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `Paragraf 195 BGB` — regelmäßige Verjährung.
-- `Paragraf 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `Paragraf 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `Paragraf 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Live: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** ERV.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Live** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

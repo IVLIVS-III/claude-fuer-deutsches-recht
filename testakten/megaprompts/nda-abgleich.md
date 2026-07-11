@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-10 von 91 Skills des Plugins `nda-abgleich`.
+Diese Vollprüfung enthält top-10 von 91 Skills des Plugins `nda-abgleich`.
 
 ## Inhaltsverzeichnis
 
@@ -400,27 +400,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 28 DSGVO
-- § 17 GeschGehG
-- § 203 StGB
-- § 16-20 GeschGehG
-- § 5 GeschGehG
-- § 2 GeschGehG
-- § 4 GeschGehG
-- § 6 GeschGehG
-- § 9 GeschGehG
-- § 6a ArbGG
-- § 50 GwG
-- Art. 17 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-435/22
-
 ---
 
 ## Skill: `eigenen-risikoampel-und-gegenargumente`
@@ -797,27 +776,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 28 DSGVO
-- § 17 GeschGehG
-- § 203 StGB
-- § 16-20 GeschGehG
-- § 5 GeschGehG
-- § 2 GeschGehG
-- § 4 GeschGehG
-- § 6 GeschGehG
-- § 9 GeschGehG
-- § 6a ArbGG
-- § 50 GwG
-- Art. 17 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-435/22
-
 ---
 
 ## Skill: `gegenseite-fristen-form-zustaendigkeit-rechtsweg`
@@ -866,7 +824,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -5,14 +5,14 @@
 ## Inhaltsübersicht
 
 1. [Verfassungsrechtlicher Rahmen – Art. 33 Abs. 5 GG](#1-verfassungsrechtlicher-rahmen)
-2. [Grundlegende BVerfG-Entscheidungen zum Alimentationsprinzip](#2-grundlegende-bverfg-entscheidungen)
+2. [Grundlegende BVerfG-Entscheidungen zum Alimentationsprinzip](#2-grundlegende-bverfg-entscheidungen-zum-alimentationsprinzip)
 3. [Die Prüfungssystematik des BVerfG – Entwicklung von der 5-Stufen-Prüfung zum Dreischritt](#3-prüfungssystematik)
 4. [Die Parameter und Schwellenwerte im Einzelnen – vollständige Dogmatik](#4-parameter-und-schwellenwerte)
 5. [Schlüsselentscheidungen ab 2015 – die sog. Schwellenwert-Rechtsprechung](#5-schlüsselentscheidungen-ab-2015)
-6. [Mindestabstandsgebot zur Grundsicherung und Familienzuschlag](#6-mindestabstandsgebot)
-7. [Die Weiterentwicklung 2025 – Prekaritätsschwelle und Dreischritt-Prüfung](#7-weiterentwicklung-2025)
-8. [OVG- und BVerwG-Vorlagebeschlüsse zur konkreten Normenkontrolle (Art. 100 GG)](#8-vorlagebeschlüsse)
-9. [Hängige Verfahren beim BVerfG 2024–2026](#9-hängige-verfahren)
+6. [Mindestabstandsgebot zur Grundsicherung und Familienzuschlag](#6-mindestabstandsgebot-zur-grundsicherung-und-familienzuschlag)
+7. [Die Weiterentwicklung 2025 – Prekaritätsschwelle und Dreischritt-Prüfung](#7-die-weiterentwicklung-2025--bverfg-beschluss-vom-17-september-2025)
+8. [OVG- und BVerwG-Vorlagebeschlüsse zur konkreten Normenkontrolle (Art. 100 GG)](#8-ovg--und-bverwg-vorlagebeschlüsse-zur-konkreten-normenkontrolle-art-100-gg)
+9. [Hängige Verfahren beim BVerfG 2024–2026](#9-hängige-verfahren-beim-bverfg-20242026)
 10. [Praxis-Implikationen](#10-praxis-implikationen)
 
 ---

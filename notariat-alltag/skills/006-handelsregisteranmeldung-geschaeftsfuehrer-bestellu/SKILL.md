@@ -90,24 +90,3 @@ Beglaubigung der Anmeldung: KV Nr. 25100 GNotKG (max. 70 € je Unterschrift). H
 - **Zwischenverfügungsantwort** (Muster)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 17 BeurkG
-- § 40 GmbHG
-- § 28 BauGB
-- § 22 GrEStG
-- § 16 BeurkG
-- § 15 GmbHG
-- § 54a BeurkG
-- § 130 AktG
-- § 53 GmbHG
-- § 34 ErbStG
-- § 2 GmbHG
-- § 13 BeurkG
-
-### Leitentscheidungen
-
-- BGH XII ZR 265/02

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 201 Skills (gekuerzt fuer Chat-Fenster) des Plugins `solo-selbststaendige-praxis`.
+Diese Vollprüfung enthält top-8 von 201 Skills (gekürzt für das Arbeitsfenster) des Plugins `solo-selbststaendige-praxis`.
 
 ## Inhaltsverzeichnis
 
@@ -26,8 +26,8 @@ _Wenn es um Dokumente und Kommunikation: Übersetzt behörden-/steuer-/kundenlag
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -55,8 +55,8 @@ _Wenn es um Steuern und Buchhaltung: Bereitet kleine betriebsprüfung oder nachs
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -84,8 +84,8 @@ _Wenn es um Scheinselbstständigkeit und Status: Prüft wirtschaftliche abhängi
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -113,8 +113,8 @@ _Wenn es um Steuern und Buchhaltung: Erstellt übergabepaket für steuerberater 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -142,8 +142,8 @@ _Wenn es um Pricing Liquidität und Wachstum: Findet kostenblöcke ohne geschäf
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -171,8 +171,8 @@ _Wenn es um Versicherung Haftung und Risiko: Entwirft wirksame haftungsbegrenzun
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -200,8 +200,8 @@ _Wenn es um Krise Schulden und Neustart: Erstellt vorsichtige stundungs-/ratenza
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -229,8 +229,8 @@ _Wenn es um Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: SGB IV § 7a Statusanfrage in jedem Stadium, § 28p Betriebsprüfung 4 Jahre Rückwirkung (10 Jahre bei Vorsatz), UStG § 19 Umsatzgrenze 22.000 EUR / 50.000 EUR.
-- Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: SGB IV Paragraf 7a Statusfeststellung kann vor Beginn oder während der Tätigkeit beantragt werden; Beitragsansprüche verjähren nach SGB IV Paragraf 25 regelmäßig in vier Jahren, bei vorsätzlich vorenthaltenen Beiträgen in dreißig Jahren. Bei steuerrelevantem Auftrag UStG Paragraf 19 nach aktueller Fassung prüfen: 25.000 Euro Gesamtumsatz im vorangegangenen Kalenderjahr und 100.000 Euro im laufenden Kalenderjahr; ab dem Umsatz, der die laufende Grenze überschreitet, greift die Befreiung nicht mehr.
+- Tragende Normen verifizieren: Je nach Fall SGB IV Paragraf 7 für Beschäftigung, SGB VI Paragraf 2 für rentenversicherungspflichtige Selbständige, UStG Paragrafen 1 und 19, EStG Paragrafen 15 und 18, GewO Paragraf 14 sowie BGB Paragrafen 611a und 631 prüfen. Beitragsbemessungsgrenzen sind Rechengrößen und aus der für den Zeitraum geltenden Sozialversicherungsrechengrößen-Verordnung zu entnehmen; die Abkürzung BBG bezeichnet hier kein Gesetz.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -251,7 +251,7 @@ _Wenn es um Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

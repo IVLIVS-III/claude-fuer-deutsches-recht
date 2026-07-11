@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 221 Skills (gekuerzt fuer Chat-Fenster) des Plugins `bundesnetzagentur-verfahren`.
+Diese Vollprüfung enthält top-8 von 221 Skills (gekürzt für das Arbeitsfenster) des Plugins `bundesnetzagentur-verfahren`.
 
 ## Inhaltsverzeichnis
 
@@ -481,35 +481,6 @@ Steuerung von anwaltlichen Verfahren gegenüber der Bundesnetzagentur in ihrer R
 ## Qualitätsgate
 Zuständigkeit DSC vs. Kommission geklärt? Nationale Behördenbeteiligung berücksichtigt? Verpflichtungszusagen geprüft? Anhörungsrechte gewahrt? Bußgeldrisiken quantifiziert (Umsatzbasis)?
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- §§ 1, 3, 28 TKG (Anwendungsbereich, Begriffe, Marktdefinition)
-- §§ 91, 116 TKG (Vertragsrechte Endnutzer)
-- § 161 TKG (Anordnungen, Aufsichtsverfahren)
-- §§ 12, 13 EnWG (Netzausbau, Engpassmanagement)
-- §§ 21, 29 EnWG (Anreizregulierung)
-- § 65 EnWG (Aufsicht durch BNetzA)
-- § 1 PostG (Anwendungsbereich Postdienstleistungen)
-- §§ 13, 18 EisbG (Eisenbahnregulierung)
-- VwVfG §§ 28, 35-37, 48, 49 (Anhörung, Verwaltungsakt, Rücknahme)
-- VwGO §§ 42, 80, 80a, 113 (Anfechtungsklage, Vollzugsfolgen)
-
-### Leitentscheidungen
-
-- BVerwG 6 C 12.18 (BNetzA-Entgeltgenehmigung)
-- BGH KVR 4/20 (Anreizregulierung Verteilnetzbetreiber)
-- EuGH C-475/12 (Roaming-Verordnung)
-- OVG NRW 13 B 102/23 (Telekommunikations-Aufsicht)
-- BVerfG 1 BvR 1675/16 (Rundfunkbeitrag, Aufsichtsmaßstab)
-
-### Anwendung im Skill
-
-- BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhältnismäßigkeitsgrundsatz messen.
-- Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie prüfen.
-- Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
-
 ---
 
 ## Skill: `eisenbahn-anreizsetzung-schiene`
@@ -694,7 +665,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

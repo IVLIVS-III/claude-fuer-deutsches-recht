@@ -2,18 +2,46 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 505 Skills (gekuerzt fuer Chat-Fenster) des Plugins `fachanwalt-insolvenz-sanierungsrecht`.
+Diese Vollprüfung enthält top-8 von 506 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-insolvenz-sanierungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Fachanwalt Insolvenz- und Sanierungsrecht geht…
-2. **fachanwalt-insolvenz-sanierungsrecht-orientierung** — Wenn es um Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung in Fachanwalt Insolvenz- und Sanierungsrecht geh…
-3. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zu…
-4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigk…
-5. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unt…
-6. **zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17** — Wenn es um Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen in Fachanwalt Insolvenz- und Sanierungsrecht …
-7. **schutzschirmverfahren** — Wenn es um Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz in Fachanwalt Insolvenz- und Sanierungs…
-8. **insolvenz-glaeubigerverhandlung-sanierung** — Wenn es um Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO in Fachanwalt Insolvenz- …
+1. **insolvenz-sanierungs-versandmappe-endfertigen** — Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzger…
+2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Fachanwalt Insolvenz- und Sanierungsrecht geht…
+3. **fachanwalt-insolvenz-sanierungsrecht-orientierung** — Wenn es um Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung in Fachanwalt Insolvenz- und Sanierungsrecht geh…
+4. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zu…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigk…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unt…
+7. **zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen** — Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderun…
+8. **restschuldbefreiung-dreijahresfrist-obliegenheiten** — Steuert Restschuldbefreiung nach aktuellem Recht vom Antrag bis zur Entscheidung. Prüft Antragsdatum, Abtretungsfrist, W…
+
+---
+
+## Skill: `insolvenz-sanierungs-versandmappe-endfertigen`
+
+_Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzgericht, Restrukturierungsgericht und Prozessgericht, prüft Antrag, Planstand, Liquiditätsbelege, Gläubigergruppen und Glaubhaftmachung, erzeugt getrennte Einzel-PDFs und liefert gerichtsspezifische Versandmappen mit fortgeführtem Anlagenkreis und Eingangscheck._
+
+# Insolvenz- und Sanierungsversandmappe endfertigen
+
+## 1. Gericht und Verfahren
+
+Lies sämtliche Entwürfe, Plananlagen, Liquiditätsrechnungen, Gläubigerlisten, Registerdaten, Titel und gerichtlichen Hinweise. Trenne Eröffnungsantrag, Eigenverwaltung, Schutzschirm, Restrukturierungssache nach StaRUG, Forderungsprüfung und streitige Klage. Eine Nachricht darf nicht mehrere gerichtliche Verfahren vermischen.
+
+## 2. Produktionsprüfung
+
+1. Schuldner, Vertretung und Registerstand mit Originalauszug abgleichen.
+2. Insolvenzgrund oder drohende Zahlungsunfähigkeit mit datierter Berechnung und Belegfundstellen verbinden.
+3. Eigenverwaltungsplanung, Finanzplan, Verfahrenskosten und Gläubigerinteressen auf denselben Stichtag bringen.
+4. Restrukturierungsplan, Gruppen, Stimmrechte und Vergleichsrechnung versionsfest halten.
+5. Bei Anfechtung oder Tabellenfeststellung Anspruch, Zahlung, Fälligkeit, Kenntnis und Bestreitensgrund belegen.
+
+## 3. Anlagen- und Versionslogik
+
+Gerichtsformulare und gesetzliche Pflichtanlagen bleiben eigenständig. Planfassungen erhalten eindeutigen Stand und Hashwert. Für streitige Klagen K/B fortführen; für Insolvenz- und Restrukturierungsgericht neutralen oder vorgegebenen Anlagenkreis nutzen. Jede Seite stempeln, Tabellen auf abgeschnittene Spalten und Formelfehler kontrollieren.
+
+## 4. Auslieferung
+
+Liefere je Verfahren einen Versandordner mit Hauptdokument, Pflichtanlagen, Stichtags- und Versionsmatrix, Gläubiger- und Betragskontrolle, Manifest, Freigabevermerk und Eingangskontrolle. Stoppe bei uneinheitlichem Stichtag, veralteter Planfassung, fehlender Pflichtanlage, unklarer Zuständigkeit oder vermischten Verfahren.
 
 ---
 
@@ -23,7 +51,7 @@ _Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Facha
 
 # Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht
 
-> Antragspflicht, Eigenverwaltung, Anfechtung, Restrukturierung — die 3-Wochen-Frist § 15a InsO ist der Taktgeber.
+> Antragspflicht, Eigenverwaltung, Anfechtung, Restrukturierung: Der Antrag ist ohne schuldhaftes Zögern zu stellen; drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung sind nur Höchstfristen.
 >
 > Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
 
@@ -33,33 +61,33 @@ _Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Facha
 | --- | --- | --- |
 | Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
 | Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | **§ 15a I InsO: 3 Wochen** Insolvenzantragspflicht bei Zahlungsunfähigkeit / 6 Wochen bei Überschuldung (nach SanInsKG befristet). § 270b InsO: Schutzschirmverfahren — Antrag im Vorfeld der Insolvenz. § 174 InsO: Anmeldefrist Gläubiger nach öffentlicher Bekanntmachung. | Frist aus Zugangs-/Kenntnisdatum berechnen |
-| Hauptanspruch | Antragspflicht §§ 15a, 17 ff. InsO · Anfechtung §§ 129 ff. InsO · GF-Haftung § 64 GmbHG a. F. / § 15b InsO n. F. · Gläubigeranfechtung AnfG außerhalb Insolvenz · Schutzschirm § 270b InsO · Eigenverwaltung § 270 InsO · StaRUG (Stabilisierungs- und Restrukturierungsrahmen). | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
+| Eilfrist | **Paragraf 15a Absatz 1 InsO:** Antrag ohne schuldhaftes Zögern, höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung. **Paragraf 270d InsO:** Schutzschirm nur bei drohender Zahlungsunfähigkeit oder Überschuldung und fehlender Zahlungsunfähigkeit. | Objektiven Eintritt des Insolvenzgrunds und gerichtliche Bekanntmachungen dokumentieren |
+| Hauptanspruch | Antragspflicht §§ 15a, 17 ff. InsO · Anfechtung §§ 129 ff. InsO · GF-Haftung § 64 GmbHG a. F. / § 15b InsO n. F. · Gläubigeranfechtung AnfG außerhalb Insolvenz · Schutzschirm § 270d InsO · Eigenverwaltung § 270 InsO · StaRUG (Stabilisierungs- und Restrukturierungsrahmen). | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
 | Zuständigkeit | Insolvenzgericht (AG am Sitz, § 3 InsO). Restrukturierungsgericht nach StaRUG = LG (§§ 30 ff. StaRUG). Anfechtungsklage gegen Gläubiger: LG/AG nach Streitwert. | Gesetz, Vertrag, Gerichtsstandsklausel |
 
 ## Risiko-Ampel
 
-- **Frist:** 🔴 § 15a InsO: 3 Wochen ab Zahlungsunfähigkeit. Frist tickt taggenau — Kalender. 🟠 § 270b InsO: Vorbereitung vor Antrag in 4-8 Wochen.
+- **Frist:** 🔴 Paragraf 15a InsO: ohne schuldhaftes Zögern, höchstens drei Wochen ab Zahlungsunfähigkeit und sechs Wochen ab Überschuldung. Keine Höchstfrist als Sanierungsaufschub behandeln. 🟠 Eigenverwaltung nach Paragraf 270a ff. InsO und Schutzschirm nach Paragraf 270d InsO nur bei erfüllten Voraussetzungen vorbereiten.
 - **Beweislage:** 🔴 Zahlungsunfähigkeit § 17 II InsO: 3-Wochen-Liquiditätsstatus. Buchhaltungs- und Bankkontodaten sichern. 🟠 Überschuldung § 19 II InsO: Fortbestehensprognose dokumentieren.
-- **Wirtschaftlich:** 🔴 Geschäftsführerhaftung § 15b InsO (Zahlungen nach Insolvenzreife) — sofort einstellen. 🟠 Anfechtungsangriff in 4 Jahren (§ 133 InsO 10 Jahre Vorsatzanfechtung).
+- **Wirtschaftlich:** 🔴 Zahlungen nach Insolvenzreife unter Paragraf 15b InsO einzeln erfassen und nur nach dessen Maßstab fortführen. 🟠 Bei Paragraf 133 InsO den Grundzeitraum von zehn Jahren, den Vierjahreszeitraum für Sicherung oder Befriedigung und die Sonderregeln der Absätze 3 und 4 auseinanderhalten.
 
 ## Anschluss-Skills (Router)
 
 | Wenn der Fall trägt … | dann Skill | Erwartung |
 | --- | --- | --- |
 | Fortbestehensprognose anwerfen | `insanw-fortbestehensprognose-workflow` | Liquiditätsplan 12 Monate, IDW S 11, Beweisdokument |
-| Eigenverwaltung / Schutzschirm § 270b | `insanw-eigenverwaltung-schutzschirm-spezial` | Antragsfähigkeit, Bescheinigung, Sachwalter |
-| **Antragspflicht § 15a InsO** | `inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa` | 3-Wochen-Frist, GF-Haftung, Strafrecht § 15a IV InsO |
+| Eigenverwaltung / Schutzschirm Paragraf 270d InsO | `insanw-eigenverwaltung-schutzschirm-spezial` | Eigenverwaltungsplanung, Bescheinigung, Planvorlagefrist, Sachwalter |
+| **Antragspflicht Paragraf 15a InsO** | `inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa` | unverzüglicher Antrag, Drei-/Sechswochen-Höchstfrist, Organhaftung, Strafrecht |
 | Anfechtungsmandat (Gläubiger / Verwalter) | `insanw-anfechtungsmandat-leitfaden` | Tatbestände §§ 129 ff. InsO, Verteidigungsstrategie |
 | Konzerninsolvenz / Gruppenkoordination | `insanw-konzerninsolvenz-koordination-spezial` | Gruppen-Gerichtsstand § 3a InsO, Koordinationsverfahren |
 
 ## Norm-Radar (live verifizieren)
 
-- **§ 15a InsO** — Insolvenzantragspflicht — 3 Wochen / 6 Wochen
+- **Paragraf 15a InsO** — Insolvenzantragspflicht ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung
 - **§ 17 InsO** — Zahlungsunfähigkeit
 - **§ 19 InsO** — Überschuldung
-- **§ 270 InsO** — Eigenverwaltung; § 270b Schutzschirm
-- **§ 133 InsO** — Vorsatzanfechtung; 10-Jahres-Zeitraum
+- **§ 270 InsO** — Eigenverwaltung; § 270d Schutzschirm
+- **Paragraf 133 InsO** — zehnjähriger Grundzeitraum; vier Jahre, wenn die Handlung Sicherung oder Befriedigung gewährt oder ermöglicht; Absatz 3 und 4 gesondert prüfen
 - **§ 15b InsO** — Zahlungsverbot nach Insolvenzreife
 
 ## Genau eine Rückfrage (nur wenn nötig)
@@ -167,9 +195,9 @@ Bevor losgelegt wird, klaere:
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Konkretisierung der *Unlauterkeit* iSd § 142 Abs. 1 Hs. 2 InsO bei der Vorsatzanfechtung im Bargeschäft.
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; konkrete Erwartung dauerhafter Liquiditätsunterdeckung erforderlich.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-- **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung gesellschafterähnlicher Stellung (§ 135 InsO).
+- **BGH IX ZR 239/22 vom 18.04.2024** — Bei der Vorsatzanfechtung lässt sich die erforderliche Deckungslücke regelmäßig nicht allein aus den bereits zur Zahlungseinstellung herangezogenen Verbindlichkeiten ableiten; wiederholte Zahlungsverzögerungen belegen für sich noch keine Zahlungseinstellung.
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - **BGH IX ZR 114/23 vom 19.12.2024** — Forderungsanmeldung bei Abtretung; Individualisierung.
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
@@ -179,7 +207,6 @@ Bevor losgelegt wird, klaere:
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; Wissentlichkeitsausschluss erfordert positive Kenntnis pro konkreter Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung.
   <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung des StaRUG-Restrukturierungsplans unzulässig.
   <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 
 ## Quellenregel
@@ -248,7 +275,7 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sa
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -258,8 +285,6 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sa
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -339,9 +364,9 @@ Bevor losgelegt wird, klaere:
 
 - **BGH IX ZR 122/23 vom 05.12.2024** — Konkretisierung der *Unlauterkeit* iSd § 142 Abs. 1 Hs. 2 InsO bei der Vorsatzanfechtung im Bargeschäft.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; konkrete Erwartung dauerhafter Liquiditätsunterdeckung erforderlich.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-- **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung gesellschafterähnlicher Stellung (§ 135 InsO).
+- **BGH IX ZR 239/22 vom 18.04.2024** — Bei der Vorsatzanfechtung lässt sich die erforderliche Deckungslücke regelmäßig nicht allein aus den bereits zur Zahlungseinstellung herangezogenen Verbindlichkeiten ableiten; wiederholte Zahlungsverzögerungen belegen für sich noch keine Zahlungseinstellung.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - **BGH IX ZR 114/23 vom 19.12.2024** — Forderungsanmeldung bei Abtretung; Individualisierung.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
@@ -351,7 +376,6 @@ Bevor losgelegt wird, klaere:
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; Wissentlichkeitsausschluss erfordert positive Kenntnis pro konkreter Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung des StaRUG-Restrukturierungsplans unzulässig.
  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 
 ## — Ersteinschätzung in 5 Schritten
@@ -417,7 +441,7 @@ _Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungs
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -427,8 +451,6 @@ _Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungs
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Insolvenz- und Restrukturierungsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -585,7 +607,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung bei verspätetem Insolvenzantrag; Hinweis auf Deckungschancen.
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung; Strafbarkeit auch ohne formale Bestellung.
-- Im Anfechtungsmandat: **BGH IX ZR 122/23 (05.12.2024)** zur Unlauterkeit Bargeschäft; **BGH IX ZR 129/22 (18.04.2024)** zur Neuausrichtung Vorsatzanfechtung.
+- Im Anfechtungsmandat: BGH, Urteil vom 05.12.2024 - IX ZR 122/23, zur Unlauterkeit beim Bargeschäft; BGH, Urteil vom 18.04.2024 - IX ZR 239/22, zur Deckungslücke und zur Erwartung künftiger Gläubigerbefriedigung; BGH, Urteil vom 18.04.2024 - IX ZR 129/22, nur zur Darlegung und zum Bestreiten eines Liquiditätsstatus.
 - Konkrete Aktenzeichen vor Ausgabe über dejure.org / openjur.de / bundesgerichtshof.de verifizieren.
 
 ## Paragrafenkette Erstmandat Insolvenz
@@ -612,7 +634,7 @@ _Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungs
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -622,8 +644,6 @@ _Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungs
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -649,536 +669,111 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17`
+## Skill: `zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen`
 
-_Wenn es um Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderungen. Trennt objektiven Bestand, Fälligkeit, Einfordern, Vollstreckung und Beweislast und liefert Status, Haftungsvermerk, Antragspflichtentscheidung und gerichtsfesten Vortrag._
 
-# Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen
+# Zahlungsunfähigkeit und streitige Forderungen prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Nutze diesen Skill, wenn im Mandat eine Liquiditätslücke, ein Gläubigerantrag, eine Geschäftsführerhaftung, eine Anfechtungslage oder ein Sanierungsfenster auf Zahlungsunfähigkeit geprüft werden muss. Ziel ist ein gerichtsfestes Kurzmemorandum mit Stichtag, Zahlenwerk, Belegen, Rechtsprechungsankern und einer klaren Handlungsentscheidung.
+Eine Liquiditätslücke, Organhaftung, Insolvenzanfechtung, ein Gläubigerantrag oder ein Sanierungsfenster verlangt eine stichtagsbezogene Prüfung nach Paragraf 17 InsO. Forderungen werden nicht nach gefühltem Prozessrisiko quotiert, sondern nach objektivem Bestand, Fälligkeit und den besonderen Beweiswirkungen eines Titels behandelt.
 
-## Normenanker
+## 2. Normenanker
 
 - Paragraf 17 InsO: Zahlungsunfähigkeit und Zahlungseinstellung.
-- Paragraf 15a InsO und Paragraf 15b InsO: Antragspflicht und Zahlungsverbot.
-- Paragraf 18 InsO: drohende Zahlungsunfähigkeit als StaRUG-Schwelle.
-- Paragraf 19 InsO: Überschuldung und Fortbestehensprognose.
-- Paragraf 129 ff. InsO: Anfechtung, insbesondere Liquiditätslage als Vorsatz- und Kenntnisanker.
-- Paragraf 14 InsO: Gläubigerantrag, Forderungsnachweis und Eröffnungsgrund.
+- Paragrafen 14, 15a und 15b InsO: Gläubigerantrag, Antragspflicht und Zahlungen nach Insolvenzreife.
+- Paragrafen 18 und 19 InsO: drohende Zahlungsunfähigkeit und Überschuldung als getrennte Tatbestände.
+- Paragrafen 271 und 286 BGB: Fälligkeit und Verzug; ernsthaftes Einfordern ist insolvenzrechtlich eigenständig zu würdigen.
+- Paragrafen 707, 719, 769 und 775 ZPO: Vollstreckungseinstellung und Vollstreckungshindernisse, soweit ein Titel die Forderungsbehandlung beeinflusst.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungsanker
 
-- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Randnummer 34 und 35 zur objektiven Zahlungsunfähigkeit und objektiven Rechtslage bei streitigen nicht titulierten Forderungen; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert passivieren; keine Prozessrisikoquote. Randnummer 27 zum engen Irrtumstatbestand bei ungeklärter Rechtsfrage.
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber einem außenstehenden Dritten einzelpostenfähig darlegen; fehlen Einzelheiten und Belege, kann einfaches Bestreiten ausreichen.
-- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: für die Zahlungsunfähigkeit zählt der materielle Bestand der Verbindlichkeit.
-- BGH, Beschluss vom 22.05.2025 - IX ZB 38/24: bei allein titelgestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung eingestellt ist.
-- BGH, Urteil vom 28.06.2022 - II ZR 112/21: Zahlungsunfähigkeit kann auch durch mehrere aussagekräftige tagesgenaue Liquiditätsstatus dargelegt werden.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Passiva II im Drei-Wochen-Fenster einbeziehen; keine Bugwelle stehen lassen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Grundlinie Zahlungsstockung, 10-Prozent-Schwelle und Drei-Wochen-Zeitraum.
+- BGH, Urteil vom 23. Januar 2025 - IX ZR 229/22: Zahlungsunfähigkeit ist ein objektiver Zustand. Bei nicht titulierten streitigen Forderungen kommt es auf objektiven Bestand und Fälligkeit an. Ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in Höhe des Nennwerts zu berücksichtigen; eine Prozessrisikoquote gibt es dafür nicht.
+- BGH, Urteil vom 18. April 2024 - IX ZR 129/22: Legt der Insolvenzverwalter gegenüber einem außenstehenden Dritten nur einen nicht einzelpostenfähig erläuterten Liquiditätsstatus vor, kann einfaches Bestreiten genügen. Status und Belege müssen deshalb Gläubiger, Grund, Fälligkeit und Betrag nachvollziehbar machen.
+- BGH, Urteil vom 28. Juni 2022 - II ZR 112/21: Zahlungsunfähigkeit kann anhand mehrerer aussagekräftiger, tagesgenauer Liquiditätsstatus dargelegt werden.
+- BGH, Urteil vom 19. Dezember 2017 - II ZR 88/16: Im Dreiwochenzeitraum fällig werdende Verbindlichkeiten sind in die Betrachtung einzubeziehen; eine fortgeschobene Bugwelle darf nicht ausgeblendet werden.
+- BGH, Urteil vom 24. Mai 2005 - IX ZR 123/04: Grundlinie zur Abgrenzung einer bloßen Zahlungsstockung anhand Lücke, Zeitraum und begründeter Erwartung der Schließung.
+- BGH, Beschluss vom 22. Mai 2025 - IX ZB 38/24: Nur für den Gläubigerantrag nach Paragraf 14 InsO gilt die besondere Aussage, dass die Beweiswirkung eines vollstreckbaren Endurteils nach gerichtlicher Einstellung der Vollstreckung entfallen kann. Das ersetzt nicht die objektive Prüfung nach Paragraf 17 InsO.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Stichtag festlegen: Eintrittsdatum, Antragstag, Zahlungstag oder Anfechtungsstichtag nicht vermischen.
-2. Aktiva I erfassen: freie Bankguthaben, Kasse, ziehungsfähiger Kreditrahmen, sofort verwertbare Liquidität.
-3. Aktiva II erfassen: nur binnen drei Wochen realistisch zufließende Beträge; bestrittene eigene Forderungen nur mit hartem Realisierungsbeleg.
-4. Passiva I erfassen: fällige, ernsthaft eingeforderte und nicht wirksam gestundete Verbindlichkeiten.
-5. Passiva II erfassen: innerhalb von drei Wochen fällig werdende Verbindlichkeiten, auch wenn sie die Lücke nur fortschreiben.
-6. Streitige Forderungen entscheiden: materiell nicht bestehend oder nicht fällig gleich raus; materiell bestehend und fällig gleich Nennwert rein; vorläufig vollstreckbar tituliert und Vollstreckung eingeleitet gleich Nennwert rein; Vollstreckung eingestellt gleich gesonderte Beweiswürdigungszeile.
-7. Herausnahme verteidigen: Wer eine Forderung nicht passiviert, braucht Gegenbeweis und Haftungsvermerk; ein finales Gutachten stützt den Kenntnisstand, beseitigt aber das objektive Risiko nicht sicher.
-8. Darlegungstiefe prüfen: keine OPOS-Summe übernehmen, bevor Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreiten, Titel und Vollstreckungsstand als Einzelposten sichtbar sind.
-9. Indizien der Zahlungseinstellung prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen, Insolvenzanträge, Vollstreckungsdruck.
-10. Ergebnis mit Organpflichten verbinden: Antragspflicht, Zahlungsverbot, Dokumentationspflicht, Sanierungsfenster und nächste Maßnahme.
+1. Prüfzweck und Stichtag festlegen. Organhaftung, Anfechtung, Eröffnungsantrag und Sanierungsentscheidung dürfen nicht in einem unscharfen Zeitraum zusammenfallen.
+2. Aktiva I erfassen: freie Kontoguthaben, Kasse und sofort ziehbare, rechtlich gesicherte Kreditlinien.
+3. Aktiva II erfassen: nur innerhalb von drei Wochen mit belastbarem Zuflussnachweis realisierbare Mittel. Eigene streitige Forderungen nicht ohne Realisierungsbeleg ansetzen.
+4. Passiva I und II einzelpostenfähig bilden: Gläubiger, Rechtsgrund, Nennwert, Fälligkeit, Einfordern, Stundung, Bestreiten, Titel und Vollstreckungsstand.
+5. Streitige Verbindlichkeit entscheiden: objektiv nicht bestehend oder nicht fällig gleich nicht passivieren; objektiv bestehend und fällig gleich Nennwert passivieren. Keine prozentuale Abwertung nach Prozesschance.
+6. Titulierte Forderung nach IX ZR 229/22 behandeln. Titel, Vollstreckbarkeit, Sicherheitsleistung, Zustellung, Vollstreckungsbeginn und gerichtliche Einstellung vollständig prüfen.
+7. Wer eine Forderung herausnimmt, dokumentiert Tatsachen, Rechtsgrund und Belege. Ein Rechtsgutachten kann den subjektiven Kenntnisstand stützen, beseitigt aber nicht das objektive Haftungsrisiko, wenn die Forderung tatsächlich besteht.
+8. Zahlungseinstellung zusätzlich anhand Indizien prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen und Vollstreckungsdruck.
+9. Ergebnis mit Antragspflicht, Zahlungsverbot, Sanierungsschritten und täglicher Aktualisierung verbinden.
 
-## Ausgabematrix
+## 5. Arbeitsergebnis
 
-| Prüffeld | Ergebnis | Beleg | Risiko | Nächster Schritt |
-| --- | --- | --- | --- | --- |
-| Stichtag | Datum | Buchhaltung, Kontoauszug, OPOS | falsch angesetzter Fristbeginn | Stichtag begründen |
-| Aktiva I und II | Betrag | Bank, Zusage, Debitor | Scheinliquidität | Zuflussbeleg nachfordern |
-| Passiva I und II | Betrag | OPOS, Mahnung, Titel | unterschätzte Lücke | Fälligkeit prüfen |
-| Streitige Forderung | rein oder raus | Vertrag, Urteil, Vollstreckung | Prozessrisikoquote | Nennwertentscheidung dokumentieren |
-| Herausgenommene Forderung | begründet raus | Gutachten, Einwendung, Stundung | Beweislast Geschäftsleitung | Haftungsvermerk schreiben |
-| Darlegung Liquiditätsstatus | einzelpostenfähig | OPOS-Auszug, Rechnung, Kontoauszug | einfaches Bestreiten | Belegpaket nachfordern |
-| Indizien | ja oder nein | Akte | Zahlungseinstellung | Antragspflicht prüfen |
+Liefere tagesgenauen Liquiditätsstatus, Dreiwochenfortschreibung, Forderungs- und Titelmatrix, Belegindex, Organhaftungsvermerk und klare Entscheidung zu Antragspflicht oder weiterem Prüfbedarf. Jede Herausnahme einer streitigen Forderung erhält eine beweisfähige Begründung.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- Liquiditätsstatus zum Stichtag und innerhalb des Drei-Wochen-Fensters.
-- OPOS Kreditoren und Debitoren mit Fälligkeit und Mahnstand.
-- Kontoauszüge aller Konten, Kreditlinien, Kündigungen und Sperren.
-- Steuer- und Sozialversicherungsrückstände mit Bescheiden, Fälligkeiten und Stundungsentscheidungen.
-- Titel, Klauseln, Zustellungsnachweise, Vollstreckungsaufträge und Einstellungsentscheidungen.
-- Geschäftsleitervermerke, Zahlungspriorisierung, Sanierungsbeschlüsse und Beraterhinweise.
+- Kontoauszüge, Kasse und verbindliche Kreditlinien
+- OPOS-Listen mit Einzelbelegen und Fälligkeiten
+- Verträge, Rechnungen, Mahnungen, Stundungen und Einwendungen
+- Titel, Klausel, Zustellung, Sicherheitsleistung und Vollstreckungsakte
+- Zahlungspläne, Organbeschlüsse und Beratervermerke
 
 ---
 
-## Skill: `schutzschirmverfahren`
+## Skill: `restschuldbefreiung-dreijahresfrist-obliegenheiten`
 
-_Wenn es um Schutzschirmverfahren Paragraf 270d InsO Eigenverwaltung in Insolvenz in Fachanwalt Insolvenz- und Sanierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Steuert Restschuldbefreiung nach aktuellem Recht vom Antrag bis zur Entscheidung. Prüft Antragsdatum, Abtretungsfrist, Wiederholungsfall, Erwerbs- und Auskunftsobliegenheiten, Versagungsanträge, ausgenommene Forderungen und Nachtragsverteilung und liefert Fristenplan und vollständige Anträge._
 
-# Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz
+# Restschuldbefreiung nach aktuellem Recht steuern
 
+## 1. Einsatzlage
 
-## Arbeitsweg
+Eine natürliche Person beantragt Restschuldbefreiung oder muss einen Versagungsantrag abwehren. Der Workflow unterscheidet Verfahren nach Antragsdatum, laufendes Insolvenzverfahren, Abtretungszeit und bereits früher erteilte Restschuldbefreiung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Normenanker
 
-**Fokus:** Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitung. Antrag Sachwalter Plan Beschluss Aufhebung.
+- Paragrafen 286, 287 und 287a InsO: Grundsatz, Antrag, Abtretung und Zulässigkeitsentscheidung.
+- Paragraf 287 Absatz 2 InsO: grundsätzlich drei Jahre Abtretungsfrist ab Eröffnung; fünf Jahre im gesetzlich bezeichneten Wiederholungsfall.
+- Paragrafen 287b, 290, 295, 295a, 296 bis 298 und 300 InsO: Erwerbsobliegenheit, Versagungsgründe, Obliegenheiten und Entscheidung.
+- Paragrafen 301 und 302 InsO: Wirkung und ausgenommene Forderungen.
+- Artikel 103k EGInsO: Übergangsrecht für vor dem 1. Oktober 2020 beantragte Verfahren.
 
-### Schutzschirmverfahren § 270d InsO
+## 3. Rechtsprechungsanker
 
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schutzschirmverfahren § 270d InsO` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+- BGH, Beschluss vom 7. März 2024 - IX ZB 47/22: Ein Versagungsantrag nach Paragraf 290 InsO muss bis zum maßgeblichen Zeitpunkt schlüssig dargelegt und erforderlichenfalls glaubhaft gemacht sein; erst dann greift die Amtsermittlung. Ein geringer Einkommensunterschied begründete im konkreten Fall keine unangemessene Erwerbstätigkeit.
+- BGH, Beschluss vom 26. September 2024 - IX ZB 5/24: Die erteilte Restschuldbefreiung hindert eine Nachtragsverteilung nicht, wenn der Gegenstand zur Insolvenzmasse gehört. Abtretung, Massezugehörigkeit und Wirkung der Restschuldbefreiung sind deshalb getrennt zu prüfen.
+- Die frühere Sechsjahres- und Quotenrechtsprechung darf nicht ohne Übergangsprüfung auf einen nach dem 30. September 2020 gestellten Antrag übertragen werden.
 
-## 1) Eingangs-Abfrage
+## 4. Prüfprogramm
 
-1. Liquiditäts-Lage: Zahlungsunfähigkeit oder "drohend" § 18 InsO?
-2. Überschuldung § 19 InsO?
-3. Sanierungs-Aussicht: positive Fortbestehensprognose und belastbare Sanierungsfähigkeit?
-4. Anzahl Mitarbeiter / Gläubiger?
-5. Geplante Sanierungs-Maßnahmen?
-6. Schutzschirm-Anwalt bereit?
+1. Datum des Insolvenzantrags, Eröffnungsdatum, Verfahrensart und frühere Restschuldbefreiungen feststellen. Daraus Rechtsfassung und Frist berechnen.
+2. Antrag nach Paragraf 287 InsO, Abtretungserklärung und Erklärung zu Sperrgründen auf Vollständigkeit prüfen; bei Verbraucherinsolvenz Paragraf 305 InsO mitbearbeiten.
+3. Drei- oder Fünfjahresfrist kalendarisch führen. Die aktuelle Dreijahresfrist verlangt keine Mindestbefriedigungsquote.
+4. Pflichten phasenbezogen ordnen: Auskunft und Mitwirkung im eröffneten Verfahren, Erwerbsobliegenheit, Herausgabe- und Anzeigepflichten sowie Zahlungen nur an den Treuhänder.
+5. Selbständige Tätigkeit nach Paragraf 295a InsO mit fiktivem angemessenem Dienstverhältnis und Zahlungsplan dokumentieren.
+6. Jeden Versagungsantrag nach Norm, Tatsachen, Verschulden, Gläubigerbeeinträchtigung, Antragsberechtigung, Frist und Glaubhaftmachung prüfen. Tatbestände nicht vermischen.
+7. Wirkungen der Restschuldbefreiung gläubigerbezogen bestimmen. Forderungen nach Paragraf 302 InsO, Rechte gegen Mitschuldner und Massegegenstände gesondert ausweisen.
+8. Vor Entscheidung offene Masse, Nachtragsverteilung, Steuererstattung und noch nicht abgeschlossene Feststellungsprozesse kontrollieren.
 
-## 2) Voraussetzungen § 270d InsO
+## 5. Arbeitsergebnis
 
-| Voraussetzung | Inhalt |
-|---|---|
-| Drohende Zahlungsunfähigkeit oder Überschuldung | § 18 / § 19 InsO |
-| **Keine** Zahlungsunfähigkeit § 17 InsO | Bei Zahlungsunfähig: nur Eigenverwaltung § 270 InsO |
-| Sanierungs-Aussicht | Prüfer-Bescheinigung |
-| Antrag des Schuldners | Bei Gesellschaft: Geschäftsführer/Vorstand |
+Erstelle Rechtsstands- und Fristenblatt, Obliegenheitenkalender, Einkommens- und Herausgabematrix, Stellungnahme zu Versagungsanträgen, Entscheidungsvorschlag und Liste fortbestehender Forderungen. Alt- und Neurecht werden sichtbar getrennt.
 
-### Anders als StaRUG
+## 6. Belege und Aktenlücken
 
-- StaRUG vorab in der Krise — kein Insolvenzverfahren
-- Schutzschirm: bereits Insolvenz-Verfahren, aber Eigenverwaltung
-
-## 3) Sachwalter-Aufsicht
-
-### Bestellung
-
-- Vorschlagsrecht des Schuldners (mit anwaltlicher Mitwirkung)
-- Gericht bestellt — üblich akzeptiert Vorschlag
-
-### Pflichten Sachwalter
-
-- Überwachung Geschäftsführung
-- Kassenprüfung
-- Berichtspflicht Gericht
-- Insolvenzplan-Mitwirkung
-
-## 4) Schutzschirm-Phase (3 Monate)
-
-### Schutz
-
-- Vollstreckungsschutz § 21 II Nr. 3 InsO analog
-- Keine Sicherheits-Verwertung
-- Vorläufige Eigenverwaltung
-
-### Schuldner-Pflichten
-
-- Insolvenzplan vorbereiten
-- Insolvenz-Geld-Anspruch sichern (Mitarbeiter)
-- Sanierungs-Konzept umsetzen
-
-### Verfahren
-
-- Schuldner bleibt Verfügungsberechtigt
-- Sachwalter berichtet Gericht
-- Gläubigerausschuss eingerichtet bei groesseren Verfahren
-
-## 5) Insolvenz-Geld
-
-- Bundesagentur übernimmt **3 Monate** Loehne
-- Wichtig für Liquidität im Sanierungs-Verfahren
-- Anspruch der Mitarbeiter, NICHT Schuldner
-
-## 6) Workflow
-
-### Phase 1 — Vorbereitung (vor Antrag)
-
-- Sanierungskonzept mit Krisenursachen, Leitbild, Maßnahmen, integrierter Planung und Dokumentation
-- Liquiditäts-Plan 13-Wochen
-- Bescheinigung Prüfer "Sanierung nicht offenbar aussichtslos"
-- Sachwalter-Vorschlag
-- Antrag-Entwurf
-
-### Phase 1a — Sanierungsfähigkeits-Check
-
-Vor Schutzschirmantrag ausdrücklich prüfen:
-
-- **Kein § 17 InsO:** Schutzschirm ist bei eingetretener Zahlungsunfähigkeit gesperrt.
-- **Fortbestehensprognose:** Zahlungsfähigkeit im Prognosezeitraum mit überwiegender Wahrscheinlichkeit.
-- **Nachhaltige Sanierungsfähigkeit:** nicht nur Liquiditätsbrücke, sondern tragfähiges Geschäftsmodell nach Maßnahmen.
-- **Leitbild:** Markt, Produkt, Kostenbasis, Organisation, Finanzierung und Umsetzungsfähigkeit nach Sanierung.
-- **Maßnahmen:** Verantwortliche, Kosten, Timing, Wirkung, Abhängigkeiten und Belegstatus.
-- **Integrierte Planung:** GuV, Bilanz und Liquidität müssen zusammenpassen; Steuern, Zinsen, SV, Working Capital und Insolvenzgeldphase einbeziehen.
-
-Bei unklarer Lage `fachanwalt-insolvenz-idw-s6-sanierungskonzept` vorschalten und erst danach die Bescheinigung/Antragsroute finalisieren.
-
-### Phase 2 — Antrag
-
-- Schriftlich beim Insolvenzgericht
-- Mit Bescheinigung Prüfer
-- Verzeichnis Gläubiger / Vermögen
-- Vorgeschlagener Sachwalter
-
-### Phase 3 — Schutzschirm-Eröffnung
-
-- Beschluss Insolvenzgericht (binnen Tagen)
-- Schutzschirm 3 Monate ab Antrag
-
-### Phase 4 — Sanierungs-Maßnahmen
-
-- Insolvenzplan-Aufstellung
-- Verhandlungen Lieferanten / Mitarbeiter / Bank
-- Notwendige Kündigungen (BR-Konsultation)
-
-### Phase 5 — Insolvenzplan-Verfahren
-
-- Vorgestellt allen Gläubigern
-- Abstimmung in Klassen § 222 InsO
-- Mehrheits-Erfordernis 50 % nach Kopf + 50 % nach Summe je Klasse
-- Bei Annahme: Gerichts-Bestätigung
-- Wirkung: Gesellschaft saniert, Gläubiger erhalten Quote
-
-### Phase 6 — Verfahrensaufhebung
-
-- Mit Plan-Erfüllung
-- Löschung Insolvenz-Vermerk
-
-## 7) Sanierungs-Optionen im Insolvenzplan
-
-### Sanierungs-Maßnahmen
-
-- Gläubiger-Quote (z.B. 20 % der Forderung)
-- Loehne / Pensionen senken
-- Mitarbeiter-Abbau
-- Verkauf nicht-betriebsnotwendiger Aktiva
-- Debt-Equity-Swap (Gläubiger werden Gesellschafter)
-
-### Investor-Modelle
-
-- Eigenständige Investor-Suche
-- Asset-Deal aus Schutzschirm
-- Doppel-Nettung-Modell
-
-## 8) Typische Fehler
-
-1. **Antrag bei Zahlungsunfähigkeit § 17 InsO** — kein Schutzschirm
-2. **Sachwalter-Vorschlag ungeeignet** — Gericht lehnt ab
-3. **Liquiditäts-Plan überoptimistisch** — Bescheinigung fragwürdig
-4. **Insolvenz-Geld nicht beantragt** — Liquiditäts-Engpass
-5. **Insolvenzplan zu spaet** — Schutzschirm läuft aus
-
-## 9) Vergleich StaRUG vs. Schutzschirm vs. Standard-Insolvenz
-
-| Aspekt | StaRUG | Schutzschirm § 270d | Standard-Insolvenz |
-|---|---|---|---|
-| Voraussetzung | drohende Zahlungsunfähigkeit | drohende ZahlUnfaeh + Sanierungs-Aussicht | Zahlungsunfähigkeit / Überschuldung |
-| Eigenverwaltung | ja (faktisch) | ja | nein (Standard) |
-| Aufsicht | Restrukturierungsbeauftragter | Sachwalter | Insolvenzverwalter |
-| Gläubiger-Bindung | nur betroffene | alle (Insolvenzplan) | alle |
-| Dauer | flexibel | 3 Monate + Plan-Phase | meist > 1 Jahr |
-| Öffentlichkeit | nicht-publik möglich | publik (Insolvenz) | publik |
-
-## 10) BGH- und BVerfG-Linien (Stand Mai 2026)
-
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA-Sanierung) — Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null, Bezugsrechtsausschluss) als unzulässig zurückgewiesen; die Beschwerdeführer hatten die Verletzung von Grundrechten nicht hinreichend dargelegt. Bedeutung: StaRUG-Sanierungen mit Eingriff in Aktionärsrechte sind verfassungsrechtlich nicht generell ausgeschlossen.
- Quelle: <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd § 38 InsO; sie treten hinter die einfachen Insolvenzgläubiger zurück. Relevanz: bei börsennotierten Schuldnerinnen Anmeldung von Aktionärsforderungen klar abzugrenzen.
- Quelle: <https://www.lto.de/recht/kanzleien-unternehmen/k/bgh-ixzr12724-wirecard-insolvenzmasse-forderungen-aktionaere-urteil> (BGH-Pressemitteilung 2025/211; Az. über bundesgerichtshof.de verifizieren)
-- Konkrete BGH-Linie zur Eigenverwaltung (§ 270b InsO) und Schutzschirm (§ 270d InsO), insbesondere zu Anforderungen an die Bescheinigung und zur Bestellung des Sachwalters, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
-
-## Anschluss
-
-- `krisenfrueherkennung-starug` — bei StaRUG-Alternative
-- `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
-- `fortbestehensprognose` — bei Prüfung Sanierung
-
-## Triage — Schutzschirm oder Regelinsolvenz?
-
-Bevor losgelegt wird, klaere:
-
-1. **ZU vorhanden?** Zahlungsunfaehigkeit § 17 InsO? → Kein Schutzschirm, nur Eigenverwaltung § 270b InsO oder Regelverfahren.
-2. **Prognose und Sanierungsfähigkeit positiv?** Bescheinigung "Sanierung nicht offenbar aussichtslos" § 270d Abs. 1 S. 1 InsO durch geeigneten Sachverstaendigen; zugrunde liegendes Konzept muss Fortbestehensprognose und nachhaltige Sanierungslogik plausibel tragen.
-3. **Sachwalter-Vorschlag vorbereitet?** Schuldner hat Vorschlagsrecht § 270d Abs. 2 InsO — Sachwalter muss unabhaengig und geeignet sein.
-4. **13-Wochen-Liquiditaetsplan?** Ohne Forecast keine Glaubhaftmachung der Fortfuehrungsfaehigkeit.
-5. **Insolvenzgeld gesichert?** § 165 SGB III — Vorauszahlung durch Bank moegliich (Insolvenzgeld-Vorfinanzierung).
-
-## Aktuelle Leitentscheidungen
-
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA / StaRUG-Restrukturierungsplan)
- <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard / Nachrang Aktionärsschadensersatz)
-- Weitere BGH-Entscheidungen zur Eigenverwaltung / Schutzschirm vor Ausgabe über dejure.org, openjur.de und bundesgerichtshof.de mit Datum und Aktenzeichen verifizieren.
-
-## Paragrafenkette Schutzschirmverfahren
-
-§ 270d InsO (Schutzschirm) → § 270 InsO (Eigenverwaltung) → § 270b InsO (Antrag vorläufige Eigenverwaltung) → § 21 InsO analog (Vollstreckungsschutz) → § 217 InsO (Insolvenzplan) → § 245 InsO (Obstruktionsverbot) → § 254 InsO (Planwirkung)
-
-## — 6-Phasen-Schritt-für-Schritt
-
-1. **Krisen-Diagnose (Woche -4 bis -2 vor Antrag):** Liquiditaet 13 Wochen direct-method erstellen; Eröffnungsgrund §§ 17-19 InsO bestimmen; Fortbestehensprognose IDW S 11 beauftragen.
-2. **Bescheinigung (Woche -2 bis -1):** Sachverstaendigen mit Bescheinigung § 270d Abs. 1 InsO beauftragen; Sanierungskonzept auf IDW-S-6-Niveau als Grundlage vorbereiten und Red-Team-Lücken vorab schließen.
-3. **Antragsvorbereitung (Woche -1):** Sachwalter-Kandidaten identifizieren und Vorschlag vorbereiten; Antrag schreiben mit Glaubhaftmachungs-Unterlagen; Insolvenzgeld-Vorfinanzierungs-Vereinbarung mit Hausbank abschliessen.
-4. **Antragstellung (Tag 0):** Schriftlicher Antrag beim AG/Insolvenzgericht; Bescheinigung anlegen; Sachwalter-Vorschlag; Gläubiger- und Vermögensverzeichnis.
-5. **Schutzschirm-Phase (3 Monate):** Insolvenzplan aufstellen (§§ 217 ff. InsO); Gläubigerklassen bilden (§ 222 InsO); Schlüssel-Gläubiger verhandeln; Insolvenzgeld sichern (§ 165 SGB III).
-6. **Plan-Abstimmung und Bestaetigung:** Eroerungs- und Abstimmungstermin (§§ 235, 237 InsO); Mehrheiten je Gruppe (§ 244 InsO: 50% Kopf + 50% Summe); ggf. Obstruktionsverbot § 245 InsO; Gerichtsbestaetigung § 248 InsO.
-
-## Entscheidungsbaum Pfadwahl
-
-```
-Krisenstadium?
-├── Drohende ZU (§ 18) + positive Prognose → Schutzschirm § 270d InsO ODER StaRUG
-├── ZU (§ 17) + positive Prognose → Eigenverwaltung § 270b InsO (kein Schutzschirm!)
-├── ZU (§ 17) + keine Prognose → Regelverfahren
-└── Ueberschuldung (§ 19) + positive Prognose → Schutzschirm § 270d InsO moeglich
-```
-
-## Output-Template Schutzschirm-Antrag (Kurzgliederung)
-
-**Adressat:** Insolvenzgericht [ORT] — Tonfall: sachlich-juristisch
-
-```
-An das Amtsgericht [ORT] — Insolvenzgericht —
-
-Antrag auf Anordnung des Schutzschirmverfahrens
-nach § 270d Abs. 1 InsO
-
-Schuldnerin: [FIRMA], [ANSCHRIFT], HRB [XX]
-— vertreten durch Geschaeftsfuehrerin [NAME] —
-
-I. Antrag
-Die Schuldnerin beantragt:
-1. Anordnung vorläufiger Eigenverwaltung § 270b Abs. 1 InsO.
-2. Erlass eines Schutzschirmbeschlusses § 270d Abs. 1 InsO für eine Frist von 3 Monaten.
-3. Bestellung von [VORGESCHLAGENER SACHWALTER, NAME, KANZLEI] zum vorläufigen Sachwalter.
-
-II. Sachverhalt
-[Darstellung Krisenlage, Zeitablauf, Sanierungskonzept-Kurzform]
-
-III. Eröffnungsground: Drohende Zahlungsunfaehigkeit § 18 InsO
-[Darlegung Liquiditaetsplan 13-Wochen als Anlage A1]
-
-IV. Sanierungsaussicht
-Bescheinigung [NAME SACHVERSTAENDIGER] vom [DATUM] als Anlage A2 (Sanierung nicht offenbar aussichtslos § 270d Abs. 1 S. 1 InsO).
-
-V. Anlagen
-A1: Liquiditaetsplan 13-Wochen
-A2: Bescheinigung § 270d Abs. 1 InsO
-A3: Glaeubiger- und Forderungsverzeichnis (vorlaeufig)
-A4: Vermoegensverzeichnis (vorlaeufig)
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `insolvenz-glaeubigerverhandlung-sanierung`
-
-_Wenn es um Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Restrukturierungsplan §§ 112 113 BetrVG Sozialplan § 125 InsO. Prüfraster Gläubigerausschuss-Zusammensetzung Verhandlungsposition Masseverbindlichkeiten Plan-Annahme 75-Prozent-Mehrheit Cross-class Cramdown. Output Verhandlungsstrategie-Memo mit Gläubigerkorrespondenz Vergleichsangebot Plan-Grobentwurf und Zeitplan. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan.
-
-### Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gläubigerverhandlung in der Sanierung — StaRUG / Schutzschirm` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** InsO §§ 1, 13, 15a, 17, 18, 19, 21, 38 ff., 47, 49 ff., 55, 80, 103 ff., 129-147, 165 ff., 217 ff., 270 ff., 343; StaRUG; COVInsAG/Übergangsrecht nur bei Altzeiträumen; SGB III § 165.
-- **Verifizierte Anker:** BGH, Urteil vom 10.02.2005 - IX ZR 211/02 (Grenzen § 133 InsO bei Zwangsvollstreckung/verschlepptem Antrag als Klassiker); ausländische Verfahren: § 343 InsO Anerkennung, kein deutsches Chapter-15-Verfahren, häufig inzidente Prüfung durch Register, Grundbuch, Prozessgericht und Banken.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Eingaben
-
-- Schuldner-Lage (drohende Z-Unf. § 18 InsO, Z-Unf. § 17, Überschuldung § 19)
-- Gläubigerstruktur (Bank, Lieferanten, FA, Sozialkasse, Pensionssicherungsverein)
-- Sanierungskonzept-Status: Fortbestehensprognose, Sanierungsfähigkeit, Leitbild, Maßnahmen, integrierte Planung, Dokumentation
-- Geplanter Pfad (StaRUG, Schutzschirm, Eigenverwaltung, Regelinsolvenz)
-- Wirtschaftliches Sanierungs-Potenzial
-
-## Rechtlicher Rahmen
-
-- **StaRUG** §§ 4-65 (Restrukturierungs-Plan ohne Insolvenz)
-- **§ 270b InsO** — Eigenverwaltung
-- **§ 270d InsO** — Schutzschirm
-- **§ 217 InsO** — Insolvenz-Plan
-- **§ 245 InsO** — Mehrheitserfordernisse
-- **§ 245a InsO** — Cross-Class Cramdown (StaRUG § 26-28)
-- **IDW S 6** — Sanierungskonzept-Standard
-- **INSOL Practice Statement** Mediation in Insolvency
-
-## ADR-Pfade
-
-### Pfad 1 — Außergerichtlicher Vergleich
-
-- Vor Antragstellung
-- Stillhalte-Vereinbarung (Standstill) typisch 90 Tage
-- Vergleichs-Quoten 30-70 %
-- Vorteil: Kein Stigma der Insolvenz
-
-### Pfad 2 — StaRUG-Restrukturierungs-Plan
-
-- Drohende Z-Unf. § 18 InsO
-- 75 %-Mehrheit pro Klasse + Cross-Class Cramdown möglich
-- Restrukturierungs-Gericht bestätigt
-- Gläubiger werden in Klassen verhandelt
-
-### Pfad 3 — Schutzschirm § 270d InsO
-
-- 3-Monats-Schutz vor Vollstreckung
-- Insolvenz-Plan parallel
-- Eigene Sachwalter
-
-### Pfad 4 — Eigenverwaltung § 270b InsO
-
-- Gerichtlicher Sachwalter überwacht
-- Schuldner führt weiter
-- Sanierung mit Insolvenz-Plan
-
-### Pfad 5 — Mediation (Insolvenz-Mediator)
-
-- Bei komplexer Gläubigerstruktur
-- INSOL-Standard-Mediator
-- Vor Schutzschirm-Antrag
-
-## Workflow
-
-### Phase 1 — Lage-Analyse
-
-- Liquiditätsstatus 3 Wochen / 13 Wochen / 24 Monate
-- Fortbestehensprognose und Sanierungsfähigkeits-Check
-- Pfad-Wahl
-
-### Phase 2 — Gläubigerliste + Vergleichs-Skizze
-
-- Gläubiger sortieren (gesichert, ungesichert, nachrangig)
-- Vergleichsquoten je Klasse
-- Bedingungen (Zahlungsplan, Stundung, Zinsverzicht)
-
-### Phase 3 — Vorgerichtliche Verhandlung Schlüssel-Gläubiger
-
-- Bank zuerst (häufig größter Sicherungsnehmer)
-- Lieferanten in Gruppen
-- FA / Sozialkasse (oft restriktiv)
-- Pensionssicherungsverein (BetrAVG)
-
-### Phase 4 — Plan-Aufstellung
-
-- Schriftlicher Plan StaRUG / InsO
-- Klassen-Bildung
-- Mehrheits-Pflichten
-
-### Phase 5 — Plan-Abstimmung / Bestätigung
-
-- Erörterungs-Termin
-- Klassen-Abstimmung
-- Gerichtsbestätigung
-
-## Strategie und Taktik
-
-- **Stillhalte-Vereinbarung** als Vor-Verhandlungs-Anker
-- **Bank-Sicherheiten** kostentreu verhandeln (sonst Insolvenz vorgezogen)
-- **Pensionssicherungsverein** früh einbeziehen (Anwartschaften)
-- **Cram-Down** mit Klassenbildung strategisch nutzen (separate Klasse renitenter Gläubiger)
-- Sanierungskonzept auf IDW-S-6-Niveau als Verhandlungsbasis: Krisenursachen, Leitbild, Maßnahmen, integrierte Planung und Nachweise so aufbereiten, dass Banken und Gläubiger nicht nur eine Quote, sondern die wirtschaftliche Logik prüfen können.
-- **Insolvenzgeld § 165 SGB III** als Liquiditätsbrücke nutzen
-- **Steuerberater + Anwalt parallel**: stb-warnschreiben → anw-haftungswarn-15a → Sanierung
-
-## Quellen und Updates
-
-Stand: 05/2026. StaRUG 1.1.2021. IDW S 6 / S 11. INSOL-Standards. Bei SanInsKG-Verlängerung 31.12.2026 aktualisieren.
-
-## Triage — Verhandlungs-Einstieg
-
-Bevor losgelegt wird, klaere:
-
-1. **Krisenstadium?** Drohende ZU (§ 18) → StaRUG; eingetretene ZU (§ 17) → Insolvenz; Ueberschuldung (§ 19) → InsO oder Schutzschirm.
-2. **Gläubigerstruktur?** Bank (gesichert), Lieferanten (ungesichert), FA/Sozialkasse (Privilegierung § 39 InsO), PSV (Pensionen BetrAVG).
-3. **BATNA der Gegenseite?** Was passiert wenn Gläubiger nicht einwilligen → Insolvenzeröffnung, Liquidation, Quote-Prognose.
-4. **Zeitfenster?** Stillhalte-Vereinbarung (Standstill, typisch 90 Tage) als Verhandlungs-Voraussetzung.
-5. **Handlungsunfaehigkeit der Schuldnerin?** § 15a InsO Antragspflicht — kein Verhandlungsexzess auf Kosten der Antragspflicht.
-
-## Aktuelle Leitentscheidungen (Stand Mai 2026)
-
-- **BGH IX ZR 122/23 vom 05.12.2024** — Bargeschäft / Unlauterkeit (§ 142 InsO). Relevanz: in Sanierungsverhandlungen vereinbarte Zahlungsmodelle (Cash-on-Delivery, Vorkasse) bleiben grundsätzlich anfechtungsfest, wenn sie gleichwertig, unmittelbar und nicht gezielt schädigend für übrige Gläubiger sind.
- <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung; Stundungs- und Ratenzahlungsvereinbarungen sind günstiger zu beurteilen, wenn keine konkrete Erwartung dauerhafter Liquiditätsunterdeckung dokumentiert ist.
- <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — Eingriffe in Aktionärsrechte über StaRUG-Plan verfassungsrechtlich grundsätzlich zulässig (Schlechterstellungsprüfung beachten).
- <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- Konkrete BGH-Linien zur Sanierungsmoderation (§§ 94 ff. StaRUG) und zum Sanierungsprivileg (§ 39 Abs. 4 InsO) vor Ausgabe über offene Quellen verifizieren.
-
-## Paragrafenkette Gläubigerverhandlung
-
-§ 18 InsO (drohende ZU) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 142 InsO (Bargeschaeft) → § 133 InsO (Vorsatzanfechtung) → § 165 SGB III (Insolvenzgeld)
-
-## — 5-Phasen-Gläubigerverhandlung
-
-1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schlüsselglaeubiger mittragen sollen.
-2. **Gläubigerstruktur:** Rangtabelle erstellen: gesichert (§§ 49-51 InsO) → Masseforderungen → unsecured → Nachrang § 39 InsO; BATNA je Gläubiger errechnen.
-3. **Vorverhandlung Schlüssel-Gläubiger:** Bank zuerst (groesstes Sicherheitenvolumen); Stillhalte-Vereinbarung 90 Tage; Term Sheet Vergleichsquoten.
-4. **Plan-Aufstellung:** StaRUG-Plan oder InsO-Plan; Klassenbildung; Vergleichsrechnung; Mehrheiten-Simulation.
-5. **Abstimmung und Bestaetigung:** Eroerungs- und Abstimmungstermin; § 25 StaRUG (75%) oder § 244 InsO (50% Kopf + Summe); Cramdown § 26 StaRUG / § 245 InsO.
-
-## Output-Template Verhandlungsnotiz Schlüssel-Gläubiger
-
-**Adressat:** Intern (Handakte) — Tonfall: strukturiert-sachlich
-
-```
-VERHANDLUNGSNOTIZ — VERTRAULICH
-Datum: [DATUM]
-Mandant: [FIRMA]
-Glaeubiger: [BANK / LIEFERANT]
-Vertreter: [NAME]
-
-BATNA unserer Seite: [z.B. Antrag auf Eigenverwaltung sofort]
-BATNA Gegenseite: [z.B. Vollstreckung Sicherheit, Quote ca. XX% in Liquidation]
-ZOPA: [Vergleichsquote zwischen XX% und YY%]
-
-ERGEBNIS DER VERHANDLUNG:
-Forderungsbetrag: EUR [BETRAG]
-Angebot Schuldnerin: [XX% in Z Raten]
-Glaeubiger-Position: [...]
-Naechster Schritt: [...]
-Frist: [DATUM]
-```
+- Insolvenzantrag, Eröffnungsbeschluss und Abtretungserklärung
+- frühere Verfahren und Entscheidungen zur Restschuldbefreiung
+- Einkommens-, Bewerbungs- und Tätigkeitsnachweise
+- Vermögenszugänge, Erbschaften, Schenkungen und Steuererstattungen
+- Forderungsanmeldungen, Widersprüche und Versagungsanträge
 
 ---
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

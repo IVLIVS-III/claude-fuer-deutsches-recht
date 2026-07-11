@@ -45,25 +45,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei grenzüberschreitender Account-Sperre durch US-Plattform: zuerst nach DSA Art. 17 ein Statement of Reasons fordern (zwingend), dann Art. 20 internes Beschwerdeverfahren nutzen, parallel BNetzA-Beschwerde. Klage zum deutschen ZG ist möglich, aber häufig schwierig wegen Gerichtsstandsklauseln in AGB — diese müssen § 38 ZPO i.V.m. EuGVVO standhalten.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Art. 263 AEUV
-- Art. 11 GRCh
-- Art. 102 AEUV
-- Art. 296 AEUV
-- Art. 89 DSGVO
-- Art. 22 DSGVO
-- § 9 VDG
-- § 269 StGB
-- § 268 StGB
-- § 8b BSIG
-- § 29 VwVfG
-- Art. 267 AEUV
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

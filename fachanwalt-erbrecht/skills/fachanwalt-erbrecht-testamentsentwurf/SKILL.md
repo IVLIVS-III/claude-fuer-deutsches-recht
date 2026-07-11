@@ -43,7 +43,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Teilungsanordnung § 2048 BGB | Verteilung unter Erben | Berührt nicht die Quote |
 | Pflichtteilsstrafklausel | Wer Pflichtteil verlangt verliert Schlusserbenstellung | Üblich im Berliner Testament |
 | Wiederverheiratungsklausel | Bedingte Verfügung bei Wiederheirat | Vorsicht — keine sittenwidrige Behinderung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Schreibvorlage eigenhändiges Berliner Testament
 

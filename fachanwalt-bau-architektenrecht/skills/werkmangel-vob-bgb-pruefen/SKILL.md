@@ -10,7 +10,7 @@ description: "Wenn es um Werkmangel Vob BGB Pruefen in Fachanwalt Bau Architekte
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -68,15 +68,12 @@ Weitere konkrete Entscheidungen (insb. VII ZR 26/20 zum Vorschussanspruch ohne s
 
 | Schritt | Prüfpunkt | Norm | Ergebnis |
 |---------|-----------|------|---------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | Mangelbegriff erfüllt? (vereinbarte Beschaffenheit / a.R.d.T.) | § 633 BGB / § 13 Nr. 1 VOB/B | Ja → Anspruchsgrundlage; Nein → kein Mangel |
 | 3 | Abnahme erfolgt? Zeitpunkt? Form? | § 640 BGB / § 12 VOB/B | Beweislastverteilung; Verjährungsbeginn |
 | 4 | Bei Abnahme mit Kenntnis Mangel: Vorbehalt § 640 Abs. 3 erklärt? | § 640 Abs. 3 BGB | Nein → Anspruchsverlust für bekannte Mängel |
 | 5 | Fristsetzung zur Nacherfüllung (angemessen, schriftlich)? | § 634 Nr. 2 BGB | Erforderlich für Sekundärrechte |
 | 6 | Ausnahme Fristsetzung (ernsthafte Verweigerung, Unzumutbarkeit)? | § 281 Abs. 2 BGB | Ja → Direktanspruch Schadensersatz |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 8 | Selbstvornahme nach § 637 BGB — Vorschussklage? | § 637 BGB | Vorschuss in Höhe voraussichtlicher Selbstvornahmekosten |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | Verjährung — Fristbeginn, Hemmung, Neubeginn? | § 634a BGB, §§ 203, 204, 212 BGB | Anspruch verjährt oder gehemmt? |
 
 ## Schritt 1 — VOB/B-Einbeziehung
@@ -133,7 +130,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Abnahmeform | Voraussetzungen | Wirkungen |
 |------------|----------------|---------|
 | Förmliche Abnahme | Protokoll, Unterschriften | Stärkste Beweiskraft; Vorbehalt im Protokoll |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Fiktive Abnahme § 640 Abs. 2 BGB | Fristsetzung + Ablauf | Abnahme kraft Gesetzes; Vorbehalt davor nötig |
 | Fiktive Abnahme VOB/B § 12 Nr. 5 | Schlussrechnung + 12-Werktage-Frist | Besondere VOB/B-Regelung |
 
@@ -155,7 +151,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Zeitpunkt | Beweislast | Beweisführer | Beweismittel |
 |-----------|-----------|-------------|-------------|
 | Vor Abnahme | Mangelfreiheit | Auftragnehmer | Abnahmeprotokoll, Eigenüberwachung, Prüfzeugnisse |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Verjährung | Hemmungstatbestand | Auftraggeber (Kläger) | Verhandlungskorrespondenz § 203 BGB |
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -222,7 +217,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | 1–4 | Grundlagen, Vorplanung, Entwurf, Genehmigung | Planungsfehler; Verstoß gegen a.R.d.T. |
 | 5 | Ausführungsplanung | Detailplanungsfehler — häufig Ursache für Ausführungsmängel |
 | 6, 7 | Vorbereitung und Mitwirkung Vergabe | Auswahl ungeeigneter Auftragnehmer |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 9 | Objektbetreuung | Mängelanzeige, Fristsetzung gegenüber Unternehmern |
 
 ### Gesamtschuldnerische Haftung
@@ -336,9 +330,7 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 | Gegenargument Auftragnehmer | Reaktion |
 |-----------------------------|---------|
 | "Mangel liegt an Planung des Architekten, nicht Ausführung" | Gesamtschuldnerische Haftung § 421 BGB; Besteller kann AN trotzdem in Anspruch nehmen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Vorbehaltlose Abnahme — Mängel abgenommen" | Gilt nur für bei Abnahme bekannte Mängel § 640 Abs. 3 BGB; versteckte Mängel bleiben unberührt |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Verjährung" | Hemmung durch Mängelverhandlungen § 203 BGB; Anerkenntnis des Mangels → Neubeginn § 212 BGB |
 | "Mangel durch Auftraggeber-Sphäre verursacht" | Beweislast beim Unternehmer nach Abnahme; Mitverschulden § 254 BGB prüfen |
 

@@ -8,7 +8,6 @@ description: "Wenn es um Board Paper und Business Judgment (Corporate M&A) in Gr
 ## Fachlicher Anker
 
 - **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
-- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Board Paper und Business Judgment (Corporate M&A)
@@ -21,19 +20,20 @@ description: "Wenn es um Board Paper und Business Judgment (Corporate M&A) in Gr
 Vor der Erstellung einer Entscheidungsvorlage klären:
 
 1. **Wer entscheidet?** Vorstand (AG, Paragraf 76 AktG), Geschäftsführer (GmbH, Paragraf 35 GmbHG), Aufsichtsrat (Zustimmungsvorbehalt, Paragraf 111 Abs. 4 AktG), Gesellschafterversammlung (Paragraf 46 GmbHG / Paragraf 119 AktG)?
-2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Maßnahme erfordert HV-Beschluss (Paragraf 179a AktG); wesentliche Verträge erfordern AR-Zustimmung (Geschäftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
+2. **Freigabevorbehalt geprüft?** Paragraf 179a AktG erfasst die Übertragung des ganzen Gesellschaftsvermögens, nicht allgemein jede kapitalmarktrelevante Maßnahme. Zustimmungsvorbehalte des Aufsichtsrats folgen aus Satzung oder dessen Festlegung nach Paragraf 111 Absatz 4 AktG; grenzüberschreitende Transaktionen können zusätzlich einer Investitionsprüfung unterliegen.
 3. **Informationsgrundlage vollstaendig?** Business Judgment Rule (Paragraf 93 Abs. 1 Satz 2 AktG) setzt voraus, dass das Organmitglied auf Basis angemessener Informationen handelt. Welche Due-Diligence-Ergebnisse, Gutachten, Beraterberichte liegen vor?
 4. **Alternativen dokumentiert?** Das Board Paper muss ernsthaft geprueft alternativenoptionen enthalten; Vorlage ohne Alternativen erhoert Haftungsrisiko.
-5. **Interessenkonflikte?** Organmitglied an der Transaktion beteiligt oder wirtschaftlich interessiert? Offenlegung und Enthaltung (Paragraf 93 Abs. 1 Satz 3 AktG)?
-6. **KI-Nutzung transparent?** Wurde der Board-Paper-Entwurf mit Hilfe eines Analyse-Tools erstellt? Plausibilisierungspflicht und Kennzeichnungspflicht gegenueber dem Organ beachten.
+5. **Interessenkonflikte?** Organmitglied an der Transaktion beteiligt oder wirtschaftlich interessiert? Konflikt, Offenlegung, Mitwirkung und etwaige Enthaltung anhand von Satzung, Geschäftsordnung und dem Handeln zum Gesellschaftswohl prüfen; Paragraf 93 Absatz 1 Satz 3 AktG ist eine Verschwiegenheitsregel und keine allgemeine Enthaltungsnorm.
+6. **Analyseweg belastbar?** Annahmen, Datenquellen und automatisiert erzeugte Vorarbeiten plausibilisieren; entscheidungserhebliche Wertungen bleiben beim zuständigen Organ.
 
 ## Zentrale Normen
 
-Paragraf 93 Abs. 1 Satz 2 AktG (Business Judgment Rule; angemessene Informationsgrundlage; Wohl der Gesellschaft) — Paragraf 93 Abs. 1 Satz 3 AktG (Interessenkonflikt; Offenlegungspflicht) — Paragraf 76 AktG (Leitungsaufgabe des Vorstands; Eigenverantwortlichkeit) — Paragraf 111 Abs. 4 AktG (Zustimmungsvorbehalt des Aufsichtsrats) — Paragraf 179a AktG (HV-Beschluss bei Gesamtvermoegensveraeusserung) — Paragraf 43 GmbHG (Sorgfaltspflicht Geschäftsführer; Business-Judgment-Analogie) — Paragraf 46 GmbHG (Gesellschafterversammlung als Freigabeinstanz) — Paragraf 241, 243 AktG (Beschlussmangel; Anfechtbarkeit bei mangelhafter Informationsgrundlage)
+Paragraf 93 Absatz 1 Satz 2 AktG (Business Judgment Rule; angemessene Informationsgrundlage; Wohl der Gesellschaft) — Paragraf 93 Absatz 1 Satz 3 AktG (Verschwiegenheit) — Paragraf 76 AktG (Leitungsaufgabe des Vorstands; Eigenverantwortlichkeit) — Paragraf 111 Absatz 4 AktG (vom Aufsichtsrat festgelegte Zustimmungsvorbehalte) — Paragraf 179a AktG (Übertragung des ganzen Gesellschaftsvermögens) — Paragraf 43 GmbHG (Sorgfaltspflicht des Geschäftsführers) — Paragraf 46 GmbHG nur für die dort oder in der Satzung der Gesellschafterbestimmung zugewiesenen Geschäfte.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- BGH, Beschluss vom 14.07.2008 - II ZR 202/07: Unternehmerisches Ermessen schützt den GmbH-Geschäftsführer nur auf sorgfältig ermittelter tatsächlicher und rechtlicher Entscheidungsgrundlage; verfügbare Informationsquellen, Optionen und erkennbare Risiken sind einzubeziehen.
+- BGH, Urteil vom 03.03.2008 - II ZR 124/06: Der unternehmerische Handlungsspielraum wird verlassen, wenn die verantwortungsbewusste, am Gesellschaftswohl orientierte und informationsgestützte Entscheidung deutlich überschritten wird.
 
 ## Prüfschema Business Judgment Rule
 
@@ -168,7 +168,3 @@ Abstimmung: _________________________ Datum: _____________
 - Hueffer/Koch, AktG, 16. Aufl. 2024, Paragraf 93 Rn. 30 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
--->

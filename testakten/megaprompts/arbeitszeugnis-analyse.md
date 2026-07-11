@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-15 von 50 Skills des Plugins `arbeitszeugnis-analyse`.
+Diese Vollprüfung enthält top-15 von 50 Skills des Plugins `arbeitszeugnis-analyse`.
 
 ## Inhaltsverzeichnis
 
@@ -242,7 +242,7 @@ _Wenn es um Widersprüchliche Bewertungen erkennen und kommentieren in Arbeitsze
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -298,7 +298,7 @@ _Wenn es um Bereichs-Drift-Detektor (Schaufenster-Pattern) in Arbeitszeugnis-Ana
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -377,7 +377,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -446,26 +446,6 @@ Typische Nachforderungen an den Arbeitgeber:
 
 Bei Note 3 trägt Arbeitnehmer die Beweislast für bessere Note (BAG ständige Rechtsprechung). Daher Klage auf Note 2 nur bei vollständig dokumentierten Beurteilungsbeiträgen. Sonst lieber Vergleich in der Güteverhandlung: typisches Kompromisspaket: "stets zur vollen Zufriedenheit", "stets einwandfrei", warme Schlussformel.
 
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Paragraf 16 BBiG
-- Paragraf 46 ArbGG
-- Paragraf 1 KSchG
-- Paragraf 7 KSchG
-- Paragraf 102 BetrVG
-- Paragraf 2 NachwG
-- Paragraf 42 GKG
-- Paragraf 29 VwVfG
-- Paragraf 11 ArbGG
-- Paragraf 13 BBiG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)
-
 ---
 
 ## Skill: `arbeitszeugnis-zeugnisanalyse-wortlaut-codes`
@@ -476,7 +456,7 @@ _Wenn es um Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg in Arb
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -509,7 +489,7 @@ _Wenn es um Orange: Risikoampel, Gegenargumente und Verteidigungslinien in Arbei
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -542,7 +522,7 @@ _Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage in Arbeit
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -575,7 +555,7 @@ _Wenn es um Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial) in Ar
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -679,7 +659,7 @@ _Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Ar
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -688,33 +668,31 @@ _Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Ar
 | Rechtsproblem | Rechtsgrundlage | Handlungsempfehlung |
 |---|---|---|
 | Anspruch auf qualifiziertes Zeugnis | Paragraf 109 Abs. 1 Satz 3 GewO | Schriftlich verlangen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Geheimcodeformeln in Zeugnis | Anspruch auf wohlwollendes Zeugnis | Berichtigung verlangen |
-| Zeugnis nach BAG-Recht zu berichtigen | Paragraf 109 GewO | Klage ArbG, kein Fristproblem |
+| Verdeckte negative Aussage | Paragraf 109 Absatz 2 Satz 2 GewO | Wortlaut, Stellung und objektiven Empfängerhorizont prüfen |
+| Zeugnis verletzt Wahrheit oder Klarheit | Paragraf 109 GewO | Konkreten Zielwortlaut verlangen; Ausschlussfrist, Verjährung und Verwirkung prüfen |
 | Codewort verstößt gegen Klarheit oder Wohlwollen | Paragraf 109 Abs. 2 GewO, BAG-Linie | Berichtigung verlangen, Kontext begründen |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Drift im selben Themenbereich | Wohlwollensgebot | Aufwertung der schwachen Sätze verlangen |
-| Streitwert Berichtigungsklage | Rechtsprechung Landesarbeitsgerichte | ein Monatsbruttogehalt |
+| Streitwert Berichtigungsklage | Paragraf 3 ZPO in Verbindung mit Paragraf 46 Absatz 2 ArbGG | Antrag, wirtschaftliches Interesse und örtliche Gerichtspraxis prüfen; kein starrer Monatswert |
 | Verjährung des Berichtigungsanspruchs | Paragrafen 195, 199 BGB | drei Jahre ab Schluss des Jahres |
 | Verwirkung trotz nicht abgelaufener Verjährung | Treu und Glauben Paragraf 242 BGB | Berichtigung innerhalb weniger Monate stellen |
 
 ## Beispiele
 
-**Beispiel 1 – Anspruch auf Berichtigung:** Ein Zeugnis enthält "bemüht" (Note 4). Der Arbeitnehmer hat nachweislich gute Beurteilungen in Mitarbeitergesprächen erhalten. Die Berichtigung kann verlangt werden; der Arbeitgeber muss die Schlechterbeurteilung beweisen.
+**Beispiel 1 – Anspruch auf Berichtigung:** Ein Zeugnis enthält "bemüht" und liegt damit unter einer durchschnittlichen Leistungsbewertung. Nach der Linie des BAG vom 14.10.2003 - 9 AZR 12/03 muss der Arbeitgeber die Tatsachen darlegen und beweisen, die eine unterdurchschnittliche Bewertung tragen. Der Arbeitnehmer benennt dennoch seine Gegenbelege und beantragt einen bestimmten Zielwortlaut.
 
 **Beispiel 2 – Beweislast beim Arbeitnehmer:** Der Arbeitnehmer begehrt die Note "sehr gut" (Note 1 bis 2). Er muss konkrete Leistungsnachweise erbringen, die eine Übererfüllung der Anforderungen belegen — allgemeine Zufriedenheitsbekundungen reichen nicht.
 
-**Beispiel 3 – Verwirkung:** Ein Arbeitnehmer nimmt ein Zeugnis mit Note 4 entgegen und beanstandet es erst vier Jahre später. Das Gericht kann Verwirkung des Berichtigungsanspruchs annehmen, wenn ein Vertrauenstatbestand entstanden ist.
+**Beispiel 3 – verspätete Geltendmachung:** Beanstandet ein Arbeitnehmer das Zeugnis erst Jahre später, sind zuerst vertragliche oder tarifliche Ausschlussfristen und die Regelverjährung nach Paragrafen 195, 199 BGB zu prüfen. Verwirkung nach Paragraf 242 BGB setzt zusätzlich zum Zeitablauf konkrete Umstände voraus, aus denen der Arbeitgeber auf die Nichtausübung vertrauen durfte.
 
 **Beispiel 4 – Schlussformel als Signal, nicht Automatismus:** Ein Zeugnis enthält "Wir wünschen ihm alles Gute" ohne Bedauern und ohne Dank. Der Arbeitnehmer war nachweislich beliebt und leistungsstark. Das ist ein Distanzsignal und ein guter Verhandlungspunkt. Als Klagepunkt ist es nur tragfähig, wenn zusätzliche Umstände hinzukommen, etwa ein Vergleichstext, ein bindendes Zwischenzeugnis, eine betriebliche Übung oder ein widersprüchliches Gesamtbild.
 
-**Beispiel 5 – Auskunftspflicht des Arbeitgebers:** In manchen Fällen kann der Arbeitnehmer verlangen, dass der Arbeitgeber erklärt, warum bestimmte Formulierungen gewählt wurden. Das setzt voraus, dass der Arbeitnehmer eine plausible Berichtigung konkret benannt hat.
+**Beispiel 5 – kein allgemeiner Begründungsanspruch:** Der Arbeitgeber muss seine Wortwahl außergerichtlich nicht generell erläutern. Im Berichtigungsprozess greifen Darlegungs- und Beweislastregeln; ein eigenständiger Auskunftsanspruch aus Paragraf 242 BGB kommt nur unter engen Voraussetzungen in Betracht und darf die gesetzliche Beweislast nicht verschieben.
 
 **Beispiel 6 – Codewort als Klarheitsproblem:** Ein Zeugnis enthält bei einem Buchhalter ohne Kassentätigkeit die isolierte Aussage "war ehrlich und korrekt". Die Aussage kann wahr sein, kann aber nach Stellung im Zeugnis und Branchenkontext einen Verdacht wecken. Der Angriff sollte nicht behaupten, jedes Wort "ehrlich" sei verboten, sondern begründen, warum gerade diese Platzierung im Gesamtzusammenhang eine verdeckte negative Aussage erzeugt.
 
 **Beispiel 7 – Drift-Berichtigung:** Ein Zeugnis enthält im Fachbereich eine Maximalformulierung und im Bereich Lernbereitschaft einen Standardsatz. Der Arbeitnehmer kann die Aufwertung der schwachen Sätze verlangen, soweit er die entsprechenden Leistungen substantiiert. Eine uneinheitliche Bewertung ohne Tatsachengrund wird als Widerspruch im Gesamtbild geführt, nicht als bloßes Rechenproblem.
 
-**Beispiel 8 – Streitwert und Vertretungspflicht:** Die Streitwertfestsetzung folgt der staendigen Praxis: ein Monatsbruttogehalt, unabhängig von der Anzahl der beanstandeten Sätze. Eine anwaltliche Vertretung ist im ersten Rechtszug vor dem Arbeitsgericht möglich, aber nicht erforderlich. In komplexen Berichtigungsfällen mit mehreren beanstandeten Punkten ist sie ratsam, weil die Wortlautformulierung des Klageantrags entscheidend ist.
+**Beispiel 8 – Streitwert und Vertretungspflicht:** Das Gericht setzt den Streitwert nach Paragraf 3 ZPO fest; landesrechtliche Streitwertkataloge und örtliche Praxis können Orientierung geben, ersetzen aber keine Einzelfallprüfung. Eine anwaltliche Vertretung ist im ersten Rechtszug vor dem Arbeitsgericht möglich, aber nicht erforderlich. Der Klageantrag muss den verlangten Wortlaut so bestimmt wiedergeben, dass ein stattgebender Titel vollstreckbar ist.
 
 ## Ergänzende Rechtsprechung
 
@@ -768,7 +746,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -801,7 +779,7 @@ _Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-Analyse geht: e
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -811,12 +789,12 @@ _Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-Analyse geht: e
 
 | Befund | Klagbarkeit | Erfolgsaussicht |
 |---|---|---|
-| "bemueht" als Leistungsformel | Klagbar | Hoch |
-| Falsche Reihenfolge im Sozialverhalten | Klagbar | Hoch |
+| "bemüht" als Leistungsformel | Klagbar, wenn die Aussage die Leistung nicht wahrheitsgemäß abbildet | Nach Beleglage |
+| Auffällige Reihenfolge im Sozialverhalten | Nur bei verdeckter negativer Aussage im Gesamtkontext tragfähig | Nach Kontext |
 | Unvollständige Schlussformel | Meist Verhandlungspunkt, Klage nur mit Zusatzkontext | Niedrig bis Mittel |
-| Negatives Codewort aus dem Codeworte-Katalog | Klagbar | Hoch |
+| Mutmaßliches Codewort | Nur bei objektiv erkennbarer verdeckter Aussage nach Paragraf 109 Absatz 2 Satz 2 GewO | Nach Kontext |
 | Drift im selben Themenbereich | Klagbar (bei nachgewiesenem Schaufenster) | Mittel |
-| Konstante Note 3 in weichen Bereichen | Klagbar bei Wohlwollensverstoss | Mittel |
+| Konstante Note 3 in einzelnen Bereichen | Nur mit Tatsachen für eine bessere Bewertung | Nach Beleglage |
 | Note 3 bei aktenkundig besserer Leistung | Klagbar (Arbeitnehmer beweisbelastet) | Mittel |
 | Note 4 im Standardfall | Klagbar (Arbeitgeber beweisbelastet) | Hoch |
 
@@ -826,19 +804,19 @@ _Wenn es um Klagestrategie Zeugnisberichtigung in Arbeitszeugnis-Analyse geht: e
 |---|---|
 | Note schlechter als befriedigend | Arbeitgeber |
 | Note besser als befriedigend | Arbeitnehmer |
-| Wohlwollensverstoss | Arbeitnehmer |
-| Wahrheitsverstoss | Arbeitnehmer |
-| Sozialverhalten-Reihenfolge | Arbeitgeber muss falsche Reihenfolge begruenden |
+| Bessere Einzel- oder Gesamtbewertung | Arbeitnehmer trägt und beweist die besseren Leistungen |
+| Unterdurchschnittliche Einzel- oder Gesamtbewertung | Arbeitgeber trägt und beweist die schlechteren Leistungen |
+| Verdeckte negative Aussage oder unrichtige Tatsache | Ausgangspunkt ist der konkrete Wortlaut; die Last richtet sich nach Anspruch und Einlassung, nicht nach einer starren Codewortregel |
 
 ### Streitwert
 
 | Klagegegenstand | Streitwert |
 |---|---|
-| Vollstaendige Zeugnisberichtigung | ein Monatsbruttogehalt |
-| Einzelne Note im Hauptteil | ein Monatsbruttogehalt |
-| Schlussformel-Korrektur | ein Drittel bis ein Halbes Monatsgehalt |
-| Mehrere Punkte | ein Monatsbruttogehalt insgesamt |
-| Erstmalige Erteilung des Zeugnisses | ein Monatsbruttogehalt |
+| Vollständige Zeugnisberichtigung | Nach Paragraf 3 ZPO, Antrag, Bedeutung und örtlicher Gerichtspraxis |
+| Einzelne Note im Hauptteil | Anteiliger Wert nach Bedeutung der beanstandeten Passage |
+| Schlussformel | Regelmäßig geringerer Wert; fehlender gesetzlicher Anspruch mitprüfen |
+| Mehrere Punkte | Gesamtwert ohne automatische Addition jedes Satzes |
+| Erstmalige Erteilung des Zeugnisses | Einzelfallwert nach wirtschaftlichem Interesse und Gerichtspraxis |
 
 ## Beispiele
 
@@ -848,9 +826,9 @@ Sehr geehrte Damen und Herren,
 
 das mir unter dem aktuellen Datum erteilte Arbeitszeugnis habe ich erhalten. Mit folgenden Formulierungen bin ich nicht einverstanden und bitte um Berichtigung mit den jeweils vorgeschlagenen Wortlauten:
 
-Statt "war stets bemueht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
+Statt "war stets bemüht, die ihm übertragenen Aufgaben zur vollen Zufriedenheit zu erledigen": "erledigte die ihm übertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
-Statt "sein Verhalten gegenueber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenueber Vorgesetzten, Kollegen und Kunden war stets einwandfrei".
+Statt "sein Verhalten gegenüber Kollegen und Vorgesetzten war korrekt": "sein Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei". Dieser Zielwortlaut setzt Tatsachen für die verlangte Bewertung voraus; die Reihenfolge allein begründet keinen Automatismus.
 
 Als Vergleichsvorschlag zur knappen Schlussformel: "Wir bedauern sein Ausscheiden, danken ihm für die geleistete Arbeit und wünschen ihm für seinen weiteren beruflichen und privaten Lebensweg alles Gute und weiterhin viel Erfolg". Nur als Klageantrag verwenden, wenn der Einzelfall dafür tragfähige Umstände bietet.
 
@@ -868,9 +846,9 @@ Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Rei
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Beispiel 3 – Streitwert-Begruendung
+### Beispiel 3 – Streitwertbegründung
 
-Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klägerin festgesetzt. Der Wert betraegt nach den Angaben der Klägerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
+Der Streitwert ist nach Paragraf 3 ZPO in Verbindung mit Paragraf 46 Absatz 2 ArbGG anhand des konkreten Antrags und des wirtschaftlichen Interesses festzusetzen. Als Orientierung wird die für das zuständige Arbeitsgericht veröffentlichte Streitwertpraxis herangezogen. Mehrere beanstandete Passagen werden nicht schematisch addiert; ihre eigenständige wirtschaftliche Bedeutung ist darzulegen.
 
 ### Beispiel 4 – Beweisangebote des Arbeitnehmers für bessere Note
 
@@ -883,8 +861,8 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 ## Rechtliche Einordnung und Normen
 
 - **Paragraf 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
-- **Paragrafen 195, 199 BGB** — Verjährung drei Jahre; beginnt mit Schluss des Ausstellungsjahres
-- **Paragraf 242 BGB** — Verwirkung: Zeitmoment (mehrere Jahre) + Umstandsmoment
+- **Paragrafen 195, 199 BGB** — regelmäßige Verjährung; Beginn mit Schluss des Jahres von Anspruchsentstehung und Kenntnis
+- **Paragraf 242 BGB** — Verwirkung verlangt Zeit- und Umstandsmoment; Zeitablauf allein genügt nicht
 
 ## Aktuelle Rechtsprechung
 
@@ -926,7 +904,7 @@ _Wenn es um Zeugnisproblem Sortieren in Arbeitszeugnis-Analyse geht: ordnet Sach
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -998,7 +976,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -1031,7 +1009,7 @@ _Wenn es um Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial) in Arbei
 
 ## Fachlicher Anker
 
-- **Normen:** Paragrafen 611a, Paragrafen 1, Paragrafen 14.
+- **Normen:** Paragraf 109 GewO; ergänzend Paragraf 630 BGB für nicht von Paragraf 109 GewO erfasste Dienstverhältnisse und Paragraf 16 BBiG für Auszubildende.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -1102,7 +1080,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

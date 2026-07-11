@@ -1,5 +1,7 @@
 # Formatvorlagen-Paradebeispiele
 
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
 Wenn du das hier öffnest, willst du sehen, wie der Formatstandard des Repos (Times New Roman 11 pt, dezimale Gliederung, vollständig ausformulierte Sätze) in fertigen juristischen Vorlagen aussieht.
 
 Dieser Ordner ist **keine Testakte**, sondern eine Vorlagensammlung: je Rechtsgebiet ein Unterordner mit ein bis zwei Paradebeispielen als Markdown- und ODT-Fassung (zum Beispiel Kündigungsschutzklage, Aufhebungsvertrag, Erbscheinantrag, Gläubigerantrag nach Paragraf 14 InsO, Grundstückskaufvertrag). Das Gesamt-PDF im Unterordner `gesamt-pdf/` bündelt die Markdown-Fassungen zur schnellen Sichtkontrolle.

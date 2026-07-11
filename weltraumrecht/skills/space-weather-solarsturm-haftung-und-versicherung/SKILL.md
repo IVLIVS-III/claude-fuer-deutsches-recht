@@ -38,7 +38,7 @@ description: "Wenn es um Space Weather: Solarsturm-Haftung und Versicherung in W
 
 ## KRITIS und NIS2
 
-- **§ 8a BSIG**: Betreiber Kritischer Infrastrukturen Energie und Telekommunikation müssen Vorkehrungen gegen Space Weather als Naturgefahr treffen (Stellungnahme BSI 2022, Az im Digitalisat verifizieren).
+- **Paragraf 8a BSIG:** Erfasst der Anwendungsbereich die konkrete Kritische Infrastruktur, sind angemessene organisatorische und technische Vorkehrungen nach dem Stand der Technik zu treffen. Die Norm nennt Space Weather nicht ausdrücklich. Ob Sonnensturmfolgen in die Gefährdungsanalyse gehören, ist anhand von Sektor, Exposition, Abhängigkeiten und belastbaren Warn- oder Schadensdaten zu begründen.
 - **NIS2-Richtlinie**: Risikomanagement umfasst geophysikalische Ereignisse; Vorfallmeldung bei betrieblicher Stoerung.
 - **EnWG § 11**: Pflicht der Netzbetreiber zur Aufrechterhaltung; spezifische Vorgaben der BNetzA zur Reservehaltung gegen geomagnetisch induzierte Stroeme (GIC) live verifizieren.
 

@@ -127,5 +127,3 @@ Stand: 05/2026.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6, IDW S 11.
 - BBE-Branchenkennzahlen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BGH IX ZR 123/04, BGHZ 163, 134 bestaetigt), 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->

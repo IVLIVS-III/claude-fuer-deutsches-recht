@@ -48,24 +48,3 @@ Nie empfehlen, eine vorformulierte Unterlassungserklärung ungeprüft zu untersc
 
 ## Schutzschrift
 - Hinterlegung im Zentralen Schutzschriftenregister `schutzschriftenregister.de`; spätestens vor Antragstellung der eV; sechs Monate Gültigkeit.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 12 PatG
-- § 3 PatG
-- § 4 PatG
-- § 14 PatG
-- § 139 PatG
-- § 34 PatG
-- § 6 ArbEG
-- § 9 ArbEG
-- § 37 PatG
-- § 8 PatG
-- § 10 PatG
-- § 44 PatG
-
-### Leitentscheidungen
-
-- BGH X ZR 168/00

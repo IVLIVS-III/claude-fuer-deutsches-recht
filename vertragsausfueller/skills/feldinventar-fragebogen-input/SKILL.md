@@ -70,9 +70,3 @@ description: "Wenn es um Feldinventar in Vertragsausfüller geht: prüft Frist, 
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
-
-<!-- AUDIT 27.05.2026 -->
-
-## Audit-Hinweis (27.05.2026)
-
-Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.

@@ -52,13 +52,13 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- Paragraf 14 Abs. 4 TzBfG — Befristung des Arbeitsvertrags: schriftliche Vereinbarung zwingend (vor Beginn der Arbeit): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 623 BGB — Kündigung und Aufhebungsvertrag des Arbeitsverhältnisses: Schriftform zwingend: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 126 Abs. 3 BGB i.V.m. Paragraf 126a BGB — Ersatz durch qES theoretisch, aber Spezialrecht beachten: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an
-- LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen
-- ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools
+- Paragraf 14 Abs. 4 TzBfG — Befristung des Arbeitsvertrags: schriftliche Vereinbarung zwingend (vor Beginn der Arbeit); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 623 BGB — Kündigung und Aufhebungsvertrag des Arbeitsverhältnisses: Schriftform zwingend; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 126 BGB — Schriftform: eigenhändige Unterschrift; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 126 Abs. 3 BGB i.V.m. Paragraf 126a BGB — Ersatz durch qES theoretisch, aber Spezialrecht beachten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- ArbG Berlin, Urt. v. 28.09.2021 - 36 Ca 15296/20: Elektronische Signatur ohne qualifiziertes Zertifikat genügt Paragraf 14 Abs. 4 TzBfG nicht; Paragraf 16 TzBfG ordnet die Unbefristetheit an.
+- LAG Berlin-Brandenburg, Urt. v. 16.03.2022 - 23 Sa 1133/21: Eingescannte Unterschrift genügt nicht; die formgerechte Erklärung muss dem Arbeitnehmer vor Arbeitsaufnahme vorliegen.
+- ArbG Gera, Urt. v. 07.03.2024 - 2 Ca 936/23: Echte qES beider Parteien kann Paragraf 14 Abs. 4 TzBfG wahren; maßgeblich ist das qualifizierte Zertifikat, nicht der bloße Einsatz eines Signaturtools.
 
 ## 7. Antwortform
 

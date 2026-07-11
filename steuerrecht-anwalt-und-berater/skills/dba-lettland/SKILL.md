@@ -7,8 +7,6 @@ description: "Wenn es um DBA Deutschland-Lettland (1997) in Steuerrecht – Steu
 
 ## Fachlicher Kern — Steuerrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DBA Deutschland-Lettland (1997)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** AO, EStG, KStG, GewStG, UStG, GrEStG, UmwStG, AStG, FZulG, MinStG; BMF-Schreiben nur mit Datum, Titel und offizieller BMF-URL verwenden.
-- **Verifizierte Anker:** BMF-Schreiben vom 15.10.2025 zur obligatorischen E-Rechnung und UStAE-Anpassung; BMF-Seite Forschungszulage mit Hinweis zu Antrags-/Festsetzungslogik und BMF-Schreiben vom 07.02.2023; BMF/BZSt-Datensatzbeschreibung vom 05.08.2025 für Mindeststeuer-Berichte; BMF-Schreiben vom 25.05.2023 zu § 6a GrEStG; BMF-Schreiben vom 02.01.2025/01.08.2025 zum Umwandlungssteuer-Anwendungserlass live prüfen.
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -153,5 +151,3 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Lett
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Lettland 21.02.1997, BGBl. 1997 II S. 1382, in Kraft 24.12.1997. Dividenden max. 15%, Zinsen max. 10% (gem. BZST-Tabelle 2025). MLI-Status: aktuellen BMF-DBA-Stand prüfen.
-
-<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: BGBl. 1997 II S. 1382 bestaetigt (BMF-Webseite); Quellensteuer 15%/10% bestaetigt (BZST-Tabelle 2025); MLI allgemein gefasst (kein gesicherter Nachweis als gedecktes Abkommen); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Quellen-Marker gestrichen -->

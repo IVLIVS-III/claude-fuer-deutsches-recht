@@ -2,18 +2,44 @@
 
 ## Zusammensetzung
 
-Dieser Vollprüfung enthaelt top-8 von 160 Skills (gekuerzt fuer Chat-Fenster) des Plugins `krankenkassenrecht-krankenversicherung`.
+Diese Vollprüfung enthält top-8 von 161 Skills (gekürzt für das Arbeitsfenster) des Plugins `krankenkassenrecht-krankenversicherung`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
-2. **reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche** — Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicheru…
-3. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht …
-4. **kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit** — Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht u…
-5. **kv-019-grenzgaenger-auslandskv-koordination** — Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht un…
-6. **kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist** — Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Kran…
-7. **digitale-gesundheitsanwendungen-diga-antrag-und-erprobung** — Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung ge…
-8. **kv-013-kinderleistungen-sozialpaediatrie-therapie** — Wenn es um Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung in Krankenkassenrecht und …
+1. **krankenkassenprozess-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder P…
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
+3. **reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche** — Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicheru…
+4. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht …
+5. **kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit** — Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht u…
+6. **kv-019-grenzgaenger-auslandskv-koordination** — Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht un…
+7. **kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist** — Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Kran…
+8. **digitale-gesundheitsanwendungen-diga-antrag-und-erprobung** — Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung ge…
+
+---
+
+## Skill: `krankenkassenprozess-versandmappe-endfertigen`
+
+_Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder Pflegekasse: liest Bescheidkette, MD-Gutachten, Verordnung, Befunde, Kostenangebot und Widerspruchsakte zuerst, prüft Antrag und Eilbedarf, ordnet medizinische Tatsachen zu und liefert geschützte Einzel-PDFs mit SGG-Form- und Eingangskontrolle._
+
+# Krankenkassenprozess-Versandmappe endfertigen
+
+## 1. Leistungsweg sichern
+
+Lies Antrag, ärztliche Verordnung, Befundberichte, MD-Gutachten, Kostenangebot, Ausgangsbescheid, Widerspruch und Widerspruchsbescheid. Stelle beantragte Leistung, medizinische Indikation, Ablehnungsgrund, Leistungszeitraum und aktuelle Versorgungslücke gegenüber.
+
+## 2. Schlusskontrolle
+
+Prüfe richtigen Träger, Klageart, Bescheidkette und Antrag. Bei Eilverfahren sind aktuelle Gesundheitsgefahr, fehlende Alternative, Kosten und zeitliche Dringlichkeit mit konkreten Belegen darzustellen. Bei Hilfsmitteln Wohnumfeld, Gebrauchsvorteil und Wirtschaftlichkeit; bei Arzneimitteln Zulassung, Therapiestandard, Alternativen und ärztliche Begründung getrennt dokumentieren.
+
+## 3. PDF-Mappe
+
+Führe Anlagen fort, stemple jede Seite und halte Verordnung, Gutachten, Befund, Kostenangebot und Kassenentscheidung als eigenständige PDFs. Dateinamen enthalten keine Diagnose oder seltene Erkrankung, etwa `02_20260710_AnlageK2_Aerztliche_Stellungnahme.pdf`.
+
+Für professionelle Einreicher gelten SGG Paragraf 65a und Paragraf 65d. Bei einfacher Signatur versendet der verantwortende Anwalt persönlich. Prüfe jede gerichtliche Eingangsbestätigung und sämtliche Anhänge.
+
+## 4. Freigabe
+
+Liefere Schriftsatz, Bescheidkette, medizinische Tatbestandsmatrix, Einzelanlagen, Manifest und Eingangskontrolle. Stoppe bei fehlender Verordnung, unklarer Leistung, veraltetem Eilbefund, nicht vollständigem MD-Gutachten oder offenem Signaturweg.
 
 ---
 
@@ -465,58 +491,9 @@ Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Kläre **Anspruchsv
 
 ---
 
-## Skill: `kv-013-kinderleistungen-sozialpaediatrie-therapie`
-
-_Wenn es um Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Krankenversicherung: Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Kinderleistungen Sozialpädiatrie Therapie und Schulbegleitung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
-
----
-
 ## Anwendungshinweise
 
-1. Diesen Vollprüfung als Kontext in den Chat einfuegen oder als Datei hochladen.
+1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
 2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Chat-Agent bitten, sich anhand der oben aufgefuehrten Skills zu orientieren.
-4. Bei Zitaten Quellenhygiene beachten: keine Modellwissens-Halluzinationen; alle Rspr. live verifizieren.
+3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
+4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.

@@ -219,7 +219,6 @@ Mit freundlichen Grüßen
 | Höhere Exposition als Allgemeinbevölkerung | Kläger | Wahrscheinlichkeit | RKI-Empfehlung, Betriebsarzt-Bericht |
 | Konkretes Infektionsereignis | Kläger | Vollbeweis | PCR-Nachweis, Kontakttagebuch |
 | Erkrankung Long-COVID/ME/CFS | Kläger | Vollbeweis | Arztberichte, ICD-Codierung |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Haftungsausfüllende Kausalität (Infektion→Long-COVID) | Kläger | Überwiegende Wahrscheinlichkeit | Neurolog./immunolog. Gutachten |
 | MdE-Grad | Gutachter | Schätzung | Arbeitsambulanzbericht |
 
@@ -244,7 +243,6 @@ Mit freundlichen Grüßen
 |---|---|
 | "Beruf nicht im Gesundheitsdienst" | BK 3101-Anwendungsbereich weit auslegen; ggf. Wie-BK § 9 Abs. 2 SGB VII |
 | "Infektion privat, nicht beruflich" | Kontaktereignisse dokumentieren; Schichtprotokolle, Infektionsketten belegen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "MdE unter 20 %, keine Rente" | MdE-Gutachten angreifen; Schweregradsskalen (Bell-Score, FSS) belegen |
 | "Kausalität nicht wahrscheinlich" | Gegenexpositionsanalyse; eigenes arbeitsmedizinisches Gutachten |
 | "ME/CFS nicht nachgewiesen" | Diagnose-Leitlinien (CCC/ICC) anwenden; Spezialambulanz-Gutachten |

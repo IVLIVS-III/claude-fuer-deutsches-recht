@@ -1,70 +1,35 @@
 ---
 name: abo-falle-kuendigung
-description: "Wenn es um Abo-Falle und Kündigung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft eine behauptete Abo-Falle vom Bestellbutton bis zur Kündigung: liest Bestätigung, Preis-, Laufzeit- und Widerrufsinformation, trennt fehlenden Vertragsschluss, Widerruf, Kündigung und Rückzahlung, verarbeitet EuGH C-249/21 und C-565/22 fallgenau und liefert Kündigung, Rückforderung und Belegplan in verständlicher Sprache."
 ---
 
 # Abo-Falle und Kündigung
 
-## Normenanker
+## 1. Direkt mit den Unterlagen starten
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+Lies Bestellbestätigung, Bildschirmbilder, Vertrags- und Preisangaben, Widerrufsinformation, Abbuchungen, Kündigungsversuch und Anbieterantwort. Liefere zuerst eine kurze Einordnung und einen fristwahrenden Entwurf; frage nur nach dem fehlenden Dokument, das Vertragsschluss oder Beendigung entscheidet.
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 2. Vier Wege trennen
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+| Weg | Kernfrage | mögliches Ergebnis |
+| --- | --- | --- |
+| kein wirksamer Vertrag | wies der Button eindeutig auf Zahlung hin? | Zahlung zurückweisen oder zurückfordern |
+| Widerruf | Belehrung, Frist und Probeabo-Information | Widerruf und Rückabwicklung |
+| ordentliche oder außerordentliche Kündigung | Laufzeit, Zugang, wichtiger Grund | Vertragsende und Abbuchungsstopp |
+| Rückforderung | welche Zahlung ohne Rechtsgrund? | bezifferte Erstattung |
 
-## Arbeitsweg
+## 3. Normen- und Entscheidungsanker
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Prüfe BGB Paragrafen 312c, 312d, 312j, 355, 356 und 357 sowie bei Dauerschuldverhältnissen BGB Paragrafen 309 Nummer 9 und 312k in der für den Vertrag geltenden Fassung.
 
-## Fachkern: Abo-Falle und Kündigung
-- **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
-- **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+- EuGH, Urteil vom 7. April 2022, C-249/21: Maßgeblich ist die Beschriftung der auslösenden Schaltfläche selbst.
+- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Beim Probeabo hängt ein weiteres Widerrufsrecht davon ab, ob über den späteren Preis bei Abschluss klar informiert wurde.
+- BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur für Fitnessstudio-Schließungsbeiträge und die damalige Laufzeitverlängerung heranziehen, nicht für jedes Abo.
 
-## Kaltstart in fünf Schritten
+## 4. Beleg- und Zahlungsplan
 
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+Erfasse Tarif, Abschlussdatum, Buttontext, Preis, Probephase, Verlängerung, Mindestlaufzeit, Kündigungsdatum, Zugangsnachweis und jede Abbuchung. Rechne Rückforderung und weiter drohende Belastungen getrennt. Ein Screenshot ohne Datum und vollständigen Bestellweg bleibt eine Beweislücke.
 
-## Prüf- und Arbeitslogik
+## 5. Output
 
-- **Normenanker:** BGB Kauf- und Werkvertragsrecht, Verbraucherrecht, VSBG, ZPO-Mahnverfahren, PAngV, DDG und einschlägige EU-Regeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 5 UWG
-- § 31 BDSG
-- Art. 15 DSGVO
-- Art. 21 DSGVO
-- Art. 22 DSGVO
-
-### Leitentscheidungen
-
-- EuGH C-634/21
-- EuGH C-565/22
-- BGH XII ZR 64/21
-- BGH XI ZR 26/20
-- EuGH C-249/21
+Liefere Ergebnisampel, Fristenblatt, Belegliste, ausformulierte Kündigung oder Widerrufserklärung, bezifferte Rückforderung und kurze Reaktion auf Inkasso. Behaupte keinen Widerrufserfolg, wenn der konkrete Preis- oder Buttonwortlaut fehlt.

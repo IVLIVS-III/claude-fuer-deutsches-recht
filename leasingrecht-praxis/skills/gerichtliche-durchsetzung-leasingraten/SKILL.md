@@ -26,7 +26,7 @@ description: "Wenn es um Gerichtliche Durchsetzung von Leasingraten in Leasingre
 - Allgemeiner Gerichtsstand: Wohnort oder Sitz des Beklagten (§ 12 ZPO)
 - Besonderer Gerichtsstand: Erfüllungsort (§ 29 ZPO) → typischerweise Sitz des LG
 - Gerichtsstandsklausel im Leasingvertrag: Im B2B zulässig; im B2C nur eingeschränkt (§ 38 ZPO)
-- Streitwert bestimmt Zuständigkeit: Bis 5.000 € → Amtsgericht; darüber → Landgericht
+- Der Streitwert bestimmt vorbehaltlich einer Sonderzuweisung die sachliche Zuständigkeit: bis einschließlich 10.000 Euro Amtsgericht, darüber Landgericht (Paragrafen 23 Nummer 1, 71 Absatz 1 GVG).
 
 ### Prozesskostenhilfe / Kostenrisiko
 - Obsiegende Partei erhält Kostenerstattung (§ 91 ZPO)
@@ -117,4 +117,3 @@ Nach rechtskräftigem Urteil oder Vollstreckungsbescheid:
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

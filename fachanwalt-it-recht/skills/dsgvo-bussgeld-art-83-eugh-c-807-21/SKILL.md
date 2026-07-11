@@ -1,40 +1,47 @@
 ---
 name: dsgvo-bussgeld-art-83-eugh-c-807-21
-description: "Wenn es um DSGVO Bussgeld Art 83 EuGH C 807 21 in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Bußgeldverfahren gegen Unternehmen nach Artikel 83 DSGVO. Trennt Verantwortlichen, objektiven Verstoß, Vorsatz oder Fahrlässigkeit, Zurechnung, Unternehmensbegriff, Umsatzobergrenze und Zumessung und liefert Verteidigungsmatrix, Beweisanträge und bezifferten Risikokorridor."
 ---
 
-# DSGVO Bussgeld Art 83 EuGH C 807 21
+# Unternehmensbußgeld nach Artikel 83 DSGVO prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Aufsicht verhaengt 14,5 Mio EUR Bussgeld gegen Tochter; Mutterkonzern haftet?
+Eine Aufsichtsbehörde wirft einer juristischen Person einen Datenschutzverstoß vor und bemisst das Bußgeld anhand eines Konzernumsatzes. Zu unterscheiden sind Adressat und Verantwortlichkeit, schuldhafte Begehung, Zurechnung sowie die erst danach folgende Berechnung des gesetzlichen Höchstbetrags.
 
-## Normenanker
+## 2. Normenanker
 
-- Art. 83 EUGH
-- Art. 5 DSGVO
-- Art. 6 DSGVO
-- Art. 28 DSGVO
-- Art. 44 ff. DSGVO
-- VO (EU) 2024/1689
+- Artikel 4 Nummer 7 DSGVO: Verantwortlicher und tatsächliche Entscheidung über Zwecke und Mittel.
+- Artikel 5, 6, 24, 25 und 32 DSGVO: konkret vorgeworfene Grund-, Organisations- oder Sicherheitspflicht.
+- Artikel 58 Absatz 2 Buchstabe i und Artikel 83 Absätze 1 bis 6 DSGVO: Bußgeldbefugnis, Wirksamkeit, Verhältnismäßigkeit, Abschreckung und Zumessung.
+- Artikel 101 und 102 AEUV nur für den unionsrechtlichen Unternehmensbegriff bei der Berechnung der Umsatzobergrenze, nicht als eigener Datenschutzverstoß.
+- Paragraf 41 BDSG und das anwendbare nationale Verfahrensrecht, soweit unionsrechtlich zulässig.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungsanker
 
-- EuGH 05.12.2023 C-807/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- EuGH, Urteil vom 5. Dezember 2023 - C-807/21, Deutsche Wohnen: Gegen eine juristische Person kann wegen eines von ihr als Verantwortliche begangenen Verstoßes ein Bußgeld verhängt werden, ohne die Handlung zuvor einer namentlich identifizierten natürlichen Leitungsperson zuordnen zu müssen. Erforderlich bleibt eine vorsätzliche oder fahrlässige Begehung.
+- Dieselbe Entscheidung: Gehört der Bußgeldadressat zu einer wirtschaftlichen Einheit, wird der Höchstbetrag anhand des Umsatzes dieser Einheit berechnet. Das macht die Muttergesellschaft nicht automatisch zum Adressaten und ersetzt nicht die Prüfung, wer Verantwortlicher ist.
+- EuGH, Urteil vom 5. Dezember 2023 - C-683/21, Nacionalinis visuomenės sveikatos centras: Verantwortlichkeit und Zurechnung eines Auftragsverarbeiterhandelns hängen von der tatsächlichen Entscheidung über Zwecke und Mittel sowie davon ab, ob der Verarbeiter außerhalb rechtmäßiger Weisungen handelte.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Bescheid, Verfahrensstand, Frist und vollständige Behördenakte sichern. Jeden Tatvorwurf nach Zeitraum, Verarbeitung und Norm einzeln erfassen.
+2. Verantwortlichen bestimmen. Gesellschaft, Niederlassung, gemeinsame Verantwortlichkeit, Auftragsverarbeitung und eigenmächtiges Handeln nicht über den Konzernbegriff abkürzen.
+3. Objektiven Verstoß mit Datenfluss, Zweck, Rechtsgrundlage, Löschkonzept, Zugriff und Schutzmaßnahmen rekonstruieren.
+4. Vorsatz oder Fahrlässigkeit konkret prüfen: Kenntnis, erkennbare Risiken, interne Hinweise, Verantwortungszuweisung, Kontrollen und zumutbare Vermeidungsmaßnahmen.
+5. Zurechnung nach tatsächlicher Organisation und unionsrechtlichen Maßstäben prüfen. Ein fehlender Name des handelnden Mitarbeiters beseitigt das Bußgeld nicht automatisch.
+6. Unternehmensumfang nur für die Obergrenze bestimmen: wirtschaftliche Einheit, konsolidierter weltweiter Vorjahresumsatz und richtige Verstoßkategorie.
+7. Zumessung nach Artikel 83 Absatz 2 DSGVO vollständig abarbeiten: Schwere, Dauer, Betroffenenzahl, Schaden, Abhilfe, Zusammenarbeit, frühere Verstöße und Meldung.
+8. Doppelverwertung, Tateinheit, Mehrfachahndung und Verhältnismäßigkeit prüfen; eigene Vergleichsrechnung vorlegen.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-Konzernweite Umsatzbasis; Verschuldensnachweis.
+Erstelle Tatvorwurfs-, Verantwortlichkeits- und Verschuldensmatrix, Konzern- und Umsatzprüfung, Zumessungstabelle, Beweisanträge, Stellungnahme und bezifferten Risikokorridor. Adressatenfrage und Umsatzobergrenze werden sichtbar getrennt.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- Bussgeldbescheid
-- Konzernstruktur
+- Bußgeldbescheid und vollständige Verwaltungsakte
+- Verzeichnis der Verarbeitungstätigkeiten und Datenfluss
+- Organisations-, Weisungs- und Kontrollunterlagen
+- Auftragsverarbeitungs- und Konzernverträge
+- Jahresabschlüsse und belastbare Konzernabgrenzung

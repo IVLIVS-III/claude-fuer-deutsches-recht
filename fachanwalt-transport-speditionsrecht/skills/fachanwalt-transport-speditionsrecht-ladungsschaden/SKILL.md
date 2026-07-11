@@ -51,9 +51,7 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -240,7 +238,6 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 | Übernahme in ordnungsgemäßem Zustand | Absender; erleichtert durch Frachtbrief ohne Frachtführer-Vorbehalt (§ 409 HGB Vermutung) |
 | Schaden im Obhutszeitraum | Anspruchsteller; durch Ablieferungsprotokoll und Fotos |
 | Haftungsausschluss § 426 HGB | Frachtführer trägt Beweis für unvermeidbare Ereignisse |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ---
 
@@ -264,7 +261,6 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 | "Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
 | "Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
 | "Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
@@ -273,7 +269,6 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 | Position | Berechnung |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vollhaftung § 435 HGB | Voller Warenwert gemäß Handelsrechnung; erheblich höher |
 | Anwaltsgebühren Gegenstandswert EUR 30.000 | Ca. EUR 2.400 netto (VV-RVG 2300) |
 | Sachverständigengutachten | EUR 1.500–5.000; als Schadensposition bei § 435 HGB-Erfolg erstattungsfähig |

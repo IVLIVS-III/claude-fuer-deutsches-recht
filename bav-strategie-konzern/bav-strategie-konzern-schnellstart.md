@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du Rentenanspruch, Rentenbeginn, Rentenhöhe oder Rentenbescheid belastbar nachrechnen.
+Wenn du das hier öffnest, willst du ein betriebliches Versorgungssystem rechtlich, bilanziell und kollektivrechtlich einordnen und eine umsetzbare Konzernentscheidung vorbereiten.
 
 # bAV Strategie Konzern — Schnellstart
 
@@ -17,51 +17,51 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Rentenauftrag: Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen.
-2. Versicherungsverlauf: Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären.
-3. Anspruch und Höhe: Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen.
-4. Hinterbliebene und Familie: Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen.
-5. Private und betriebliche Ebene: Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen.
-6. Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren.
+1. Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren.
+2. Anspruch rechnen: Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen.
+3. Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen.
+4. Änderung und Harmonisierung: Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen.
+5. Transaktion und Konzern: Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen.
+6. Arbeitsprodukt: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38; SGB VI Paragraf 43 |
-| Rechtsprechung | BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R; BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R |
-| Tatbestand | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen |
-| Beweislast | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen |
-| Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage |
+| Normenanker | BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2; BetrAVG Paragraf 3 und Paragraf 4 |
+| Rechtsprechung | BAG, Urteil vom 19.06.2012 - 3 AZR 408/10; BAG, Urteil vom 14.07.2015 - 3 AZR 517/13 |
+| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Boutique: Fristennotiz und nächster Schritt | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| PSV — Pensionssicherungsverein und Haftungsketten | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Restrukturierung: Beweislast, Darlegungslast und Substantiierung | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| bAV: CTA Treuhand | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Boutique: Fristennotiz und nächster Schritt | Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fristen- und Risikoampel | Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich bav-strategie-konzern sofort bearbeitbar: erst Akte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| PSV — Pensionssicherungsverein und Haftungsketten | Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Restrukturierung: Beweislast, Darlegungslast und Substantiierung | Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| bAV: CTA Treuhand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- SGB VI Paragraf 35: Regelaltersrente nach Erreichen der Regelaltersgrenze und Wartezeit.
-- SGB VI Paragraf 36 und Paragraf 38: Altersrenten für langjährig und besonders langjährig Versicherte.
-- SGB VI Paragraf 43: Erwerbsminderungsrente nach Leistungsvermögen und Wartezeit.
-- SGB VI Paragraf 46: Witwen- und Witwerrente mit kleiner und großer Rente.
-- Paragraf 1b BetrAVG: Unverfallbarkeit (drei Jahre Zusagedauer, ab dem 21. Lebensjahr): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach Paragraf 16 Abs. 3 Nr. 1 BetrAVG: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03. des Folgejahres an Pensions-Sicherungs-Verein: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BSG, Urteil vom 16.05.2019 - B 13 R 6/18 R: Erwerbsminderung verlangt eine konkrete sozialmedizinische Leistungsbeurteilung.
-- BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Verweisbarkeit und Arbeitsmarktlage sind bei Renten wegen Erwerbsminderung sauber zu trennen.
+- BetrAVG Paragraf 1 und Paragraf 1a: Versorgungszusage, Durchführungswege, Einstandspflicht und Entgeltumwandlung.
+- BetrAVG Paragraf 1b und Paragraf 2: gesetzliche Unverfallbarkeit und Höhe der unverfallbaren Anwartschaft.
+- BetrAVG Paragraf 3 und Paragraf 4: Abfindung und Übertragung von Anwartschaften oder Versorgungsverpflichtungen.
+- BetrAVG Paragraf 7 bis Paragraf 15: Insolvenzsicherung durch den Pensions-Sicherungs-Verein und gesetzlicher Forderungsübergang.
+- Paragraf 1b BetrAVG: Unverfallbarkeit (drei Jahre Zusagedauer, ab dem 21. Lebensjahr); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach Paragraf 16 Abs. 3 Nr. 1 BetrAVG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03. des Folgejahres an Pensions-Sicherungs-Verein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BAG, Urteil vom 19.06.2012 - 3 AZR 408/10: Kürzt eine Pensionskasse zugesagte Leistungen, muss der Arbeitgeber nach BetrAVG Paragraf 1 Absatz 1 Satz 3 grundsätzlich für die Differenz einstehen; die Einstandspflicht kann nicht zulasten des Arbeitnehmers abbedungen werden.
+- BAG, Urteil vom 14.07.2015 - 3 AZR 517/13: Bei der Ablösung von Versorgungsregelungen sind erdienter Teilbetrag, erdiente Dynamik und noch nicht erdiente Zuwächse nach dem dreistufigen Prüfungsschema getrennt zu vergleichen.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg, Boutique: Fristennotiz und nächster Schritt, Fristen- und Risikoampel, PSV — Pensionssicherungsverein und Haftungsketten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht; Besitzstandsvergleich: Person, Stichtag, Altleistung, Neuleistung, erdienter Teilbetrag, erdiente Dynamik, künftiger Zuwachs und Rechtfertigungsgrund.
 
 ## 8. Stop
 

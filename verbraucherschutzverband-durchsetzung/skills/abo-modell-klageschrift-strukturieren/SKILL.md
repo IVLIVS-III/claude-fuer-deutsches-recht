@@ -1,59 +1,38 @@
 ---
 name: abo-modell-klageschrift-strukturieren
-description: "Wenn es um Abo Modell Klageschrift Strukturieren in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Strukturiert eine Verbandsklage gegen Abo-, Probeabo- oder Verlängerungspraktiken: wählt UKlaG-, UWG- oder VDuG-Weg, formuliert bestimmten Antrag und gemeinsamen Tatsachenkern, trennt Button-, Preis-, Widerrufs-, Kündigungs- und Abbuchungsangriff und liefert einen ausformulierten Klageentwurf mit Fallgruppen- und Anlagenlogik."
 ---
 
-# Abo Modell Klageschrift Strukturieren
+# Klageschrift gegen Abo-Praktiken strukturieren
 
-## Arbeitsweg
+## 1. Klageart vor Textproduktion wählen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Anspruchsgruppen, Satzung und Klageberechtigungsnachweis, Abmahnung, Unternehmensantwort, Bestellstrecken, Vertragsfassungen und Stichprobe. Bestimme, ob eine Unterlassungsklage, Musterfeststellung oder Abhilfeklage das konkrete Ziel trägt. Formuliere keine Zahlungsanträge einzelner Verbraucher in eine reine Unterlassungsklage hinein.
 
-## Normenanker
+## 2. Klagegerüst
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+1. Gericht, Parteien und Klageberechtigung.
+2. exakt bezeichnete geschäftliche Handlung oder Klausel.
+3. einheitlicher Ablauf der Bestell-, Verlängerungs- oder Kündigungsstrecke.
+4. rechtliche Einordnung mit getrennten Angriffen.
+5. Fallzahl, Gleichartigkeit und verbleibende Individualfragen, soweit erforderlich.
+6. bestimmter Antrag und erforderliche Nebenanträge.
+7. Beweisangebote und Anlagenverzeichnis.
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+## 3. Antrag und konkrete Verletzungsform
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+Zitiere Button, Preistext, Verlängerungsklausel oder Kündigungsanzeige wörtlich. Verbinde den Antrag mit der konkreten Verletzungsform, ohne ihn auf eine einzelne Bildschirmfarbe oder unnötige Gestaltung zu verengen. Bei mehreren Fassungen bilde getrennte Anträge oder erkläre tragfähig, warum derselbe Verbotskern besteht.
 
-## Prüfroutine
+## 4. Rechtsprechungsanker
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+- EuGH, Urteil vom 7. April 2022, C-249/21: Die Eindeutigkeit der Zahlungsverpflichtung folgt aus der Beschriftung der auslösenden Schaltfläche.
+- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Bei Probeabo und automatischer Verlängerung Preisaufklärung und Zeitpunkt des Widerrufsrechts präzise vortragen.
+- BGH, Urteil vom 4. Mai 2022, XII ZR 64/21: Nur bei Fitnessstudio-Schließungsgruppen für Unmöglichkeit, Rückzahlung und unzulässige Laufzeitverlängerung verwenden.
 
-## Normen und Rechtsprechung
+## 5. Anlagenlogik
 
-### Kuratierte Normen-Bibliothek
+Lege Klageberechtigungsnachweis, Abmahnung, repräsentative Bestellstrecken, Vertragsfassungen, Bestätigungen, Kündigungswege und Zahlungsbelege als getrennte Anlagen vor. Eine Anlage ersetzt keinen Tatsachenvortrag. Verknüpfe jede Fallgruppe mit mindestens einem vollständigen Belegsachverhalt und markiere abweichende Fälle.
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
+## 6. Output
 
-### Leitentscheidungen
-
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+Liefere ausformuliertes Rubrum, Anträge, Zulässigkeit, Sachverhalt, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis und offene Freigabepunkte. Stoppe bei ungeklärter Klageart, wechselndem Wortlaut ohne Cluster oder fehlendem Klageberechtigungsnachweis.

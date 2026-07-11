@@ -153,24 +153,3 @@ So sollte eine fertige Anlage K1 aussehen:
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Kläger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 23 GVG
-- § 114 FamFG
-- § 156 StGB
-- § 185 GVG
-- § 41 GKG
-- § 12 GKG
-- § 7 StVG
-- § 17 GKG
-- § 48 GKG
-- § 71 GVG
-- § 23a GVG
-- § 63 GKG
-
-### Leitentscheidungen
-
-- BGH VI ZR 67/15

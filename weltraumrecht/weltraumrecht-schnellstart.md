@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Weltraumvertrag Artikel VI: internationale Verantwortung für staatliche und private Tätigkeiten sowie Genehmigung und fortlaufende Aufsicht.
 - Weltraumvertrag Artikel VII und Artikel VIII: Haftungsanknüpfung, Registrierung, Hoheitsgewalt, Kontrolle und Eigentum am Weltraumgegenstand.
 - Weltraumvertrag Artikel IX: Rücksichtnahme, Vermeidung schädlicher Kontamination und Konsultation bei potenziell schädlicher Störung.
-- Das Rechtsgebiet berührt folgende Kernthemen: Haftung Raketenstufe, LIAB Art. II, Deliktsrecht, Beweislast. Relevante Normen: LIAB Art. II, BGB Paragraf 823, StPO Beweissicherung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 823, StPO Beweissicherung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

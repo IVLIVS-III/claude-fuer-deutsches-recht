@@ -8,15 +8,15 @@ description: "Wenn es um Agb Bei Digitalen Produkten 327F Update in AGB-Recht-Pr
 ## Norm
 
 - §§ 327-327u BGB (in Kraft 01.01.2022).
-- Digitale-Inhalte-Richtlinie (EU) 2019/770.
-- Digitale-Inhalte-und-Dienste-Richtlinie (EU) 2019/771 (Waren mit digitalen Elementen).
+- Richtlinie (EU) 2019/770 über Verträge zur Bereitstellung digitaler Inhalte und digitaler Dienstleistungen.
+- Warenkaufrichtlinie (EU) 2019/771, soweit Waren mit digitalen Elementen betroffen sind.
 
 ## § 327f BGB Aktualisierungspflicht
 
-- Verkaeufer/Anbieter muss Updates bereitstellen, "die für den Erhalt der Vertragsmaessigkeit erforderlich sind".
-- Sicherheitsupdates Pflicht; Funktionserweiterungen optional.
-- Aktualisierungspflicht laeuft, solange Verbraucher die Aktualisierungen "vernuenftigerweise erwarten kann".
-- BGH-Folgejudikate noch im Aufbau; Az im Digitalisat verifizieren.
+- Der Unternehmer muss erforderliche Aktualisierungen bereitstellen und den Verbraucher darüber informieren.
+- Erforderliche Sicherheitsaktualisierungen gehören ausdrücklich dazu; reine Funktionserweiterungen folgen nicht aus Paragraf 327f BGB.
+- Bei dauerhafter Bereitstellung gilt die Pflicht für den Bereitstellungszeitraum. Sonst ist der Zeitraum maßgeblich, den der Verbraucher nach Art und Zweck des Produkts, den Umständen und der Vertragsart erwarten kann.
+- Rechtsprechung nur fallbezogen ergänzen. Solange keine einschlägige Entscheidung zu der konkreten Aktualisierungs- oder Änderungsklausel belegt ist, aus dem Wortlaut der Paragrafen 327f, 327r und 327s BGB sowie der Richtlinie (EU) 2019/770 arbeiten und kein Aktenzeichen ergänzen.
 
 ## Typische AGB-Klauseln im Streit
 
@@ -43,32 +43,3 @@ description: "Wenn es um Agb Bei Digitalen Produkten 327F Update in AGB-Recht-Pr
 3. Aktualisierungspflicht beruehrt?
 4. Hauptleistungsbeschreibung?
 5. EU-Linie zur Vertragsanpassung?
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 305 BGB (Einbeziehung von AGB)
-- § 305c BGB (überraschende und mehrdeutige Klauseln)
-- § 306 BGB (Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit)
-- § 307 BGB (Inhaltskontrolle, Transparenzgebot)
-- § 308 BGB (Klauselverbote mit Wertungsmöglichkeit)
-- § 309 BGB (Klauselverbote ohne Wertungsmöglichkeit)
-- § 310 BGB (Anwendungsbereich, B2B-Modifikation)
-- §§ 1, 3, 4 UKlaG (Verbandsklage, qualifizierte Einrichtungen)
-- § 8 Abs. 3, § 13, § 13a UWG (Abmahnung, Vertragsstrafe)
-- Art. 6 ff. Rom-I-VO (Verbraucherverträge, anwendbares Recht)
-
-### Leitentscheidungen
-
-- BGH VIII ZR 178/08 (Transparenzgebot Preisanpassung)
-- BGH I ZR 7/16 (Planet49: Cookie-Einwilligung, Transparenz und UWG/Datenschutz-Schnittstelle)
-- BGH XI ZR 26/20 (Bankgebühren-Anpassungsklauseln)
-- BGH I ZR 186/17 (App-Zentrum/Meta: Verbandsklagebefugnis bei Datenschutz-/UWG-Verstoß)
-- BGH IX ZR 119/14 (geltungserhaltende Reduktion)
-
-### Anwendung im Skill
-
-- AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge prüfen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klären.
-- Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
-- Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG prüfen; modifizierte UE statt voreiliger Unterzeichnung.

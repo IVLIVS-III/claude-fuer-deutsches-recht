@@ -195,7 +195,6 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 |---|---|
 | Meldung nicht im Anwendungsbereich Paragraf 2 | Anhang RL 2019/1937 sorgfältig prüfen; weit auslegen; ggf. parallele allgemeine Arbeitnehmer-Schutzrechte |
 | Leistungsprobleme schon vor Meldung | Zeitstrahl mit HR-Dokumenten; fehlende Abmahnungen vor Meldung widersprechen dieser These |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Bewusst unwahre Meldung (Paragraf 38) | Nur bei positiver Kenntnis der Unwahrheit; Verdacht genügt nach Paragraf 3 Abs. 5 |
 | KSchG nicht anwendbar (Kleinstbetrieb) | Paragraf 35 HinSchG gilt unabhängig von Paragraf 23 KSchG; HinSchG-Unwirksamkeit = separater Unwirksamkeitsgrund |
 

@@ -301,6 +301,3 @@ Aktueller Stand Mai 2026:
 - § 24a Abs. 1a StVG i.d.F. vom 21.8.2024, BGBl. I 2024 Nr. 274 (3.5 ng/ml THC)
 
 ---
-
-<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
--->

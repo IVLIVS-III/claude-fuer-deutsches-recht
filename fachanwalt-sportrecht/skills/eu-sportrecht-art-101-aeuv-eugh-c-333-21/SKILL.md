@@ -1,39 +1,46 @@
 ---
 name: eu-sportrecht-art-101-aeuv-eugh-c-333-21
-description: "Wenn es um EU Sportrecht Art 101 Aeuv EuGH C 333 21 in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Zulassungs-, Sanktions- und Vermarktungsregeln von Sportverbänden nach Unionsrecht. Bestimmt wirtschaftliche Tätigkeit, Markt, Doppelrolle, Wettbewerbsbeschränkung, Dominanz und objektive Kriterien und liefert Regelwerksaudit, Eilverfahren und kartellrechtliche Angriffs- oder Rechtfertigungslinie."
 ---
 
-# EU Sportrecht Art 101 Aeuv EuGH C 333 21
+# Sportverbandsregeln nach Unionsrecht prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Super League gegen UEFA Genehmigungsverfahren.
+Ein Verband genehmigt Wettbewerbe, sanktioniert Teilnehmer und vermarktet zugleich eigene Veranstaltungen oder Medienrechte. Diese regulatorische Doppelrolle verlangt transparente, objektive, nicht diskriminierende und verhältnismäßige Kriterien; Sport ist nicht pauschal vom Unionsrecht ausgenommen.
 
-## Normenanker
+## 2. Normenanker
 
-- Art. 101 AEUV
-- Art. 102 AEUV
-- § 19 GWB
-- NADA-Code
-- § 22 BImSchG
+- Artikel 101 AEUV: Beschlüsse von Unternehmensvereinigungen und Wettbewerbsbeschränkung.
+- Artikel 102 AEUV: Missbrauch einer beherrschenden Stellung.
+- Artikel 56 AEUV: freier Dienstleistungsverkehr bei grenzüberschreitenden Wettbewerben und Vermarktung.
+- Artikel 165 AEUV: Besonderheiten und gesellschaftliche Funktion des Sports, ohne generelle Bereichsausnahme.
+- Paragrafen 19, 20, 32 und 33 GWB für die ergänzende deutsche Anspruchs- und Verfahrensprüfung.
 
-## Rechtsprechungsanker und Quellenhygiene
+## 3. Rechtsprechungsanker
 
-- EuGH 21.12.2023 C-333/21 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- EuGH, Urteil vom 21. Dezember 2023 - C-333/21, European Superleague Company: Die damaligen FIFA- und UEFA-Regeln über Vorabgenehmigung, Sanktionen und Medienrechte verstießen gegen Unionsrecht, weil die Befugnisse nicht durch transparente, objektive, nicht diskriminierende und verhältnismäßige materielle Kriterien und Verfahrensregeln begrenzt waren.
+- EuGH, Urteil vom 21. Dezember 2023 - C-124/21 P, International Skating Union: Genehmigungs- und Sanktionsregeln eines Sportverbands mit eigener wirtschaftlicher Tätigkeit können eine bezweckte Wettbewerbsbeschränkung bilden; auch die Schiedsregelung ist in ihrer tatsächlichen Wirkung auf effektiven Rechtsschutz zu prüfen.
+- EuGH, Urteil vom 21. Dezember 2023 - C-680/21, Royal Antwerp Football Club: Regeln zu lokal ausgebildeten Spielern können Freizügigkeit und Wettbewerb beschränken; das nationale Gericht muss Eignung, Erforderlichkeit und konkrete Ausgestaltung prüfen.
 
-## Prüfprogramm
+## 4. Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Regelsetzer, Adressaten, Wettbewerb, Sanktionen und wirtschaftliche Tätigkeiten erfassen. Regulierung und eigene Vermarktung getrennt darstellen.
+2. Relevante Märkte und grenzüberschreitende Wirkung bestimmen: Veranstaltungsorganisation, Clubteilnahme, Athletenleistungen, Medienrechte, Sponsoring und Ticketing.
+3. Artikel 101 und 102 AEUV eigenständig prüfen. Unternehmensvereinigung, Marktbeherrschung und Missbrauch nicht gleichsetzen.
+4. Genehmigungskriterien auf Vorhersehbarkeit, Transparenz, Objektivität, Nichtdiskriminierung, Verhältnismäßigkeit, Frist und unabhängige Überprüfung testen.
+5. Sanktionen nach Tatbestand, Höhe, Dauer, Adressat und Abschreckungswirkung untersuchen. Drohungen gegen Clubs, Athleten und Dritte gesondert erfassen.
+6. Sportbezogene Ziele konkretisieren und mit Belegen prüfen. Integrität, Kalender, Sicherheit und Solidarität rechtfertigen keine unbegrenzte Ermessensmacht.
+7. Eilbedürftigkeit, Zuständigkeit, anwendbares Recht, Schiedsklausel und kartellrechtliche Schadensersatz- oder Unterlassungsansprüche planen.
 
-## Arbeitsergebnis
+## 5. Arbeitsergebnis
 
-Wirtschaftliche Taetigkeit unterliegt Kartellrecht.
+Erstelle Doppelrollen- und Marktkarte, Kriterienaudit, Sanktionsmatrix, Verhältnismäßigkeitsprüfung und einen Eilantrag, Beschwerdeentwurf oder überarbeitetes Regelwerk. Jede Rechtfertigung erhält Ziel, Beleg und mildere Alternative.
 
-## Belege und Aktenlücken
+## 6. Belege und Aktenlücken
 
-- Statuten UEFA
-- Marktanalyse
+- Statuten, Genehmigungs- und Sanktionsregeln
+- Entscheidungs- und Rechtsmittelpraxis des Verbands
+- Markt-, Medien- und Vermarktungsverträge
+- Kommunikation mit Clubs, Athleten und Veranstaltern
+- Kalender-, Sicherheits- und Integritätsnachweise

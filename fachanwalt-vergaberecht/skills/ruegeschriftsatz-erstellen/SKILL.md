@@ -67,11 +67,8 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Bund VK 2-19/22 | Vergabekammer Bund, 2022 | Unklare Leistungsbeschreibung verletzt § 121 GWB; Neufassung angeordnet |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 | VK Südbayern Z3-3-3194-1-46-11/23 | VK Südbayern, 2023 | Wertungsmatrix ohne vorab bekannte Gewichtung verstößt gegen § 58 VgV |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ---
 
@@ -89,10 +86,8 @@ Ein Bieter nimmt an einem europaweiten Vergabeverfahren teil und stellt entweder
 | 6 | **Form wählen**: Schriftlich (Brief, Fax, qualifiziert elektronische Signatur) mit Empfangsnachweis; E-Mail ohne QES nur wenn Auftraggeber Empfang bestätigt | § 160 Abs. 3 GWB |
 | 7 | **Adressat bestimmen**: Vergabestelle exakt nach Bekanntmachungsangaben; bei Zuständigkeitsteilung übergeordnete Behörde nachrichtlich | § 160 Abs. 2 GWB |
 | 8 | **Sachverhalt darlegen**: Knapp, präzise; Verfahrensbezeichnung, Az, eigene Beteiligung, Stand des Verfahrens, Entdeckungszeitpunkt | Bestimmtheitsgebot |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 10 | **Antrag formulieren**: Primär Abhilfe (konkrete Maßnahme), hilfsweise Aufhebung; bei Zuschlagsankündigung ggf. Wiederholung der Wertung | § 160 GWB |
 | 11 | **Nachprüfungsdrohung aufnehmen**: Ankündigung des Nachprüfungsantrags bei Nichtabhilfe binnen 15 Kalendertagen | § 160 Abs. 3 Nr. 4 GWB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 13 | **Nachprüfungsantrag vorbereiten**: Parallelarbeit bei Eilbedürftigkeit; Antrag an Vergabekammer Bund oder zuständige Länderkammer | §§ 161–163 GWB |
 | 14 | **Beiladungsrisiko bewerten**: Konkurrent als Beigeladener im Nachprüfungsverfahren erhält Akteneinsicht in Rügeunterlagen | § 163 Abs. 2 GWB |
 | 15 | **Schadensersatz im Blick**: Bei erfolglosem Nachprüfungsverfahren ggf. Schadensersatzanspruch gegen Auftraggeber prüfen | § 179 GWB |
@@ -340,7 +335,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Gegenargument des Auftraggebers | Erwiderung |
 |---|---|
 | "Rüge erfolgte nicht unverzüglich" | Unverzüglichkeit ist objektiv zu beurteilen; 1–2 Werktage nach Erkennbarkeit sind regelmäßig ausreichend (OLG Düsseldorf Verg 23/17); bei komplexen Sachverhalten bis zu 5 Werktage anerkannt |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Bieter hat Unterlagen akzeptiert durch Angebotsabgabe" | Präklusion durch Angebotsabgabe gilt nur bei erkennbaren Unterlagenfehlern vor Abgabefrist; für Wertungsfehler nach Abgabe kein Präklusionsrisiko |
 | "Rüge hat keine aufschiebende Wirkung" | Korrekt; aufschiebende Wirkung entsteht erst mit Eingang des Nachprüfungsantrags (§ 169 Abs. 1 GWB); Rüge dient als Zulässigkeitsvoraussetzung |
 | "Aufklärung nach § 60 VgV wurde intern durchgeführt" | Dokumentationspflicht aus § 134 VgV; ohne Nachweis im Vergabevermerk besteht Verstoß; Akteneinsicht via Vergabekammer möglich |
@@ -358,7 +352,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Gebühren Vergabekammer Bund | Mindestgebühr 2.500 Euro, maximal 50.000 Euro | § 182 Abs. 2 GWB |
 | Anwaltsgebühren (Antragsteller) | Nach RVG: 1.3 Verfahrensgebühr aus Streitwert, ggf. Einigungsgebühr | § 182 Abs. 4 GWB (Kostenerstattung bei Obsiegen) |
 | Sofortige Beschwerde OLG | Gerichtsgebühren nach GKG; anwaltliche Vertretungspflicht | § 172 GWB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Eilverfahren (§ 169 GWB) | Keine eigenständigen Gebühren; Zuschlagsverbot automatisch | § 169 GWB |
 
 ---
@@ -370,7 +363,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Verstoß erkannt vor Angebotsabgabe | Sofort rügen und Fristverlängerung beantragen; parallele Angebotsabgabe mit Vorbehalt erwägen |
 | Informationsschreiben § 134 GWB eingegangen | 15-Tage-Wartefrist nutzen: Rüge sofort; bei Nichtabhilfe Nachprüfungsantrag vor Fristablauf stellen |
 | Kurze Frist bis Zuschlagsdrohung | Rüge und Nachprüfungsantrag simultan vorbereiten; Zuschlagsverbot § 169 GWB löst sofort aus |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Mehrere Verstöße | Jeden Verstoß eigenständig rügen mit separater Norm; keine Sammelrüge |
 | Vertrauliche Verfahrensinformation (aus Bieteranfragen) | Öffentlich zugängliche Vergabeinformationen als Beweismittel nutzen; keine internen Informanden |
 | Bieterkonsortium | Rüge kann auch durch Mitglied der Bietergemeinschaft gestellt werden; Vollmacht beifügen |
@@ -436,9 +428,6 @@ R U E G E nach § 160 Abs. 3 GWB
 
 ---
 
-<!-- AUDIT 27.05.2026
-Halluzinations-Reparatur Bundle 026:
--->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

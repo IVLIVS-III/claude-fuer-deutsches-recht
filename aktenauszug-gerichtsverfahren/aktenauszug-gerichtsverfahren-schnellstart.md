@@ -52,10 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
 - ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
 - ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
-- Paragraf 371 ff. ZPO — Augenscheinsbeweis (Besichtigung, Fotos, Videoaufnahmen): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 373 ff. ZPO — Zeugenbeweis (Ladung, Vernehmung, Eid, Aussageverbot): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 402 ff. ZPO — Sachverständigenbeweis (Bestellung, Gutachtenerstattung, Ablehnung): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 415 ff. ZPO — Urkundenbeweis (öffentlich/privat, Echtheit, Beweiskraft): im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 371 ff. ZPO — Augenscheinsbeweis (Besichtigung, Fotos, Videoaufnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 373 ff. ZPO — Zeugenbeweis (Ladung, Vernehmung, Eid, Aussageverbot); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 402 ff. ZPO — Sachverständigenbeweis (Bestellung, Gutachtenerstattung, Ablehnung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 415 ff. ZPO — Urkundenbeweis (öffentlich/privat, Echtheit, Beweiskraft); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

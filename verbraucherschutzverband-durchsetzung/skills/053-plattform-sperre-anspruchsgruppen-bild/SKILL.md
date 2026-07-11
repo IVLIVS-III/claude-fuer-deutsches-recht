@@ -1,59 +1,46 @@
 ---
 name: 053-plattform-sperre-anspruchsgruppen-bild
-description: "Wenn es um Plattform Sperre Anspruchsgruppen Bild in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bildet belastbare Anspruchsgruppen bei Konto-, Marktplatz- und Plattform-Sperren: trennt Verbraucherzugang, digitale Leistung, Guthaben, automatisierte Entscheidung und gewerbliche Nutzer, ordnet DSA-, BGB-, UKlaG-, UWG- und VDuG-Wege zu und liefert Cluster mit einheitlichem Tatsachenkern, Belegen, Rechtsfolge und Abgrenzungsmerkmalen."
 ---
 
-# Plattform Sperre Anspruchsgruppen Bild
+# Anspruchsgruppen bei Plattform-Sperren bilden
 
-## Arbeitsweg
+## 1. Material zuerst auswerten
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Nutzungsbedingungen in der beim Vertragsschluss und bei der Sperre geltenden Fassung, Sperrmitteilung, Begründung, Beschwerdeverlauf, Kontoauszug, Guthabenstand, Bestellungen und Screenshots. Beginne mit einer Clusterkarte; frage nur nach einer Information, die Verbraucherstatus, Plattformrolle oder Rechtsfolge ändert.
 
-## Normenanker
+## 2. Sperrfälle trennen
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+| Cluster | Gemeinsamer Tatsachenkern | möglicher Rechtsweg | trennendes Merkmal |
+| --- | --- | --- | --- |
+| Verbraucherzugang | bezahlter digitaler Dienst nicht nutzbar | BGB Paragrafen 327 ff., Vertrag | Dauer und Leistungsumfang |
+| Guthaben und offene Geschäfte | Sperre hält Geld oder Ware zurück | Vertrag, Bereicherung, Leistungsstörung | Saldo und Fälligkeit |
+| Inhalts- oder Kontomoderation | Plattform beschränkt wegen behaupteten Regelverstoßes | DSA Artikel 17, 20 und 21 | Plattformdienst und Begründung |
+| automatisierte Sperre | Entscheidung beruht maßgeblich auf Profil oder Score | Datenschutzrecht nur bei erfülltem Anwendungsbereich | menschliche Kontrolle und Wirkung |
+| gewerblicher Nutzer | Nutzung dient eigener Geschäftstätigkeit | gesondertes B2B- und Plattformrecht | kein Verbraucherfall |
 
-- `§ 13 BGB` — Verbraucherbegriff.
-- `§ 14 BGB` — Unternehmerbegriff.
-- `§ 312c BGB` — Fernabsatzvertrag.
-- `§ 312d BGB` — Informationspflichten.
-- `§ 355 Abs. 1 BGB` — Widerrufsrecht.
-- `§ 357 BGB` — Rechtsfolgen des Widerrufs.
-- `§ 434 BGB` — Sachmangel.
-- `§ 475 BGB` — Verbrauchsgüterkauf.
-- `§ 477 BGB` — Beweislastumkehr.
-- `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
+Mische gewerbliche Verkäufer nicht in eine Verbrauchergruppe. Trenne auch eine bloße Inhaltsentfernung von Kontokündigung, Zahlungsblockade und endgültigem Ausschluss.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-- UKlaG, UWG, VDuG, KapMuG-Schnittstellen
-- Qualifizierte Einrichtungen und Verbandsklagebefugnis
-- Abmahnung, Unterlassung, Muster, Sammelverfahren
-- Verjährungshemmung, Register, Vergleich und Vollstreckung
+## 3. Verbandsrechtliche Eignung
 
-## Prüfroutine
+1. Identischen Klauselwortlaut oder identische Moderationspraxis sichern.
+2. Abweichende Vertragsfassungen, Sperrgründe und Rechtsfolgen markieren.
+3. Klageberechtigung und passende Klageart nach UKlaG, UWG oder VDuG prüfen.
+4. Für jede Gruppe ein einheitliches Klageziel und die verbleibenden Individualfragen benennen.
+5. Stichprobe nicht nach Empörung, sondern nach Beweisqualität und Repräsentativität auswählen.
 
-1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?
-2. **Zuständigkeit:** Behörde, Gericht, Register, Aufsicht, Verband, Unternehmen oder internationale Stelle sauber benennen; falsche Adressaten als Risiko ausweisen.
-3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
-4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
-5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+## 4. Beweisplan
 
-## Normen und Rechtsprechung
+Sichere vollständige Sperrmitteilung, Kontostatus vor und nach der Sperre, konkrete Regelwerksfassung, Beschwerdeentscheidung, Transaktionsliste und Zeitstempel. Ein Screenshot ohne URL, Datum und Kontext genügt nicht. Bei dynamischen Oberflächen dokumentiere Gerät, Sprache, eingeloggten Status und den vollständigen Klickweg.
 
-### Kuratierte Normen-Bibliothek
+## 5. Rechtsprechungsanker
 
-- § 5 UWG
-- Art. 80 DSGVO
-- Art. 22 DSGVO
+- EuGH, Urteil vom 7. April 2022, C-249/21: Für die Zahlungspflicht zählt die eindeutige Beschriftung der Schaltfläche selbst; allgemeiner Seitenkontext heilt keine unklare Buttonformulierung.
+- EuGH, Urteil vom 5. Oktober 2023, C-565/22: Bei Probeabo und automatischer Verlängerung hängt ein weiteres Widerrufsrecht davon ab, ob über den späteren Preis klar, verständlich und ausdrücklich informiert wurde.
+- EuGH, Urteil vom 7. Dezember 2023, C-634/21: Eine automatisierte Scoreentscheidung ist nur dann der passende Anker, wenn sie für die Entscheidung des Dritten maßgeblich ist; nicht jede automatisierte Sperre fällt darunter.
 
-### Leitentscheidungen
+Dieselentscheidungen tragen Plattform-Sperren nicht und werden hier nicht verwendet.
 
-- EuGH C-100/21
-- BGH VIa ZR 335/21
-- EuGH C-634/21
-- EuGH C-565/22
-- EuGH C-249/21
+## 6. Output
+
+Liefere Anspruchsgruppenmatrix, Ausschlussliste, Belegstichprobe, Klageart-Weiche, offene Individualfragen und eine Empfehlung, welche Gruppe zuerst abgemahnt, außergerichtlich gebündelt oder gerichtlich verfolgt wird.

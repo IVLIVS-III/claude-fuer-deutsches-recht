@@ -1,40 +1,46 @@
 ---
 name: cum-ex-beihilfe-bgh-1-str-519-20
-description: "Wenn es um Cum Ex Beihilfe BGH 1 Str 519 20 in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Analysiert straf- und einziehungsrechtliche Risiken konkreter Cum-Ex-Abläufe. Ordnet Steueranmeldung, nicht einbehaltene Kapitalertragsteuer, Handels- und Bescheinigungskette, Tatbeitrag, Vorsatz, Beihilfe, berufstypisches Verhalten und Einziehung und erstellt Transaktionsmatrix, Beweisplan und Verteidigungs- oder Ermittlungsvermerk."
 ---
 
-# Cum Ex Beihilfe BGH 1 Str 519 20
+# Cum-Ex-Tatbeitrag und Einziehung prüfen
 
 ## Einsatzlage
 
-Bankmitarbeiter erstellt Steuerbescheinigungen ohne wirtschaftlichen Hintergrund.
+Ein Bankmitarbeiter, Händler, Berater, Fondsverantwortlicher oder Dienstleister war an Transaktionen beteiligt, in deren Folge tatsächlich nicht einbehaltene Kapitalertragsteuer angerechnet oder erstattet wurde. Die Prüfung darf Cum-Ex nicht pauschal als Betrug bezeichnen, sondern muss Steuerhinterziehung, Beteiligungsform und Einziehung konkret subsumieren.
 
 ## Normenanker
 
-- §§ 1, 32 KWG
-- §§ 63 ff. WpHG
-- §§ 491 ff. BGB
-- §§ 675c ff. BGB
-- Art. 17 MAR
+- Paragraf 370 Absätze 1, 3 und 4 AO: Steuerhinterziehung, besonders schwerer Fall und ungerechtfertigter Steuervorteil.
+- Paragrafen 25 bis 27 StGB: Täterschaft und Beihilfe; konkreter Tatbeitrag und doppelter Gehilfenvorsatz.
+- Paragrafen 73 bis 73e StGB und einschlägiges Übergangsrecht: Einziehung von Taterträgen bei Täter und Dritten.
+- Paragraf 36 Absatz 2 EStG und die weiteren steuerrechtlichen Vorschriften in der Fassung des jeweiligen Veranlagungszeitraums.
+- Paragrafen 94, 95, 102, 110 und 147 StPO: Sicherung, Durchsuchung, Durchsicht und Akteneinsicht.
 
-## Rechtsprechungsanker und Quellenhygiene
+## Rechtsprechungsanker
 
-- BGH 28.07.2021 1 StR 519/20 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH, Urteil vom 28. Juli 2021 - 1 StR 519/20: Die Geltendmachung tatsächlich nicht einbehaltener Kapitalertragsteuer zur Anrechnung oder Erstattung aufgrund der dort festgestellten Cum-Ex-Leerverkaufsgeschäfte war eine unrichtige Angabe nach Paragraf 370 Absatz 1 Nummer 1 AO und führte bei positiver Bescheidung zu ungerechtfertigten Steuervorteilen. Der BGH bestätigte auch die Einziehung trotz steuerlicher Zahlungsverjährung nach dem anwendbaren Übergangsrecht.
+- Die Entscheidung trägt keine automatische Strafbarkeit jedes Beteiligten an einer Handels-, Abwicklungs- oder Bescheinigungskette. Für Beihilfe müssen geförderte Haupttat, objektiver Förderbeitrag und Vorsatz des konkreten Beteiligten belegt werden.
 
 ## Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Jede Transaktion mit Handelstag, Dividendenstichtag, Lieferkette, Stückequelle, Kompensationszahlung, Steuerbescheinigung, Antrag und Erstattung abbilden.
+2. Historische steuerrechtliche Normfassung und tatsächlichen Einbehalt feststellen; Buchungs- oder Bescheinigungsvorgang nicht mit Steuerzahlung gleichsetzen.
+3. Haupttaten nach Antrag, Behörde, Veranlagungszeitraum, Betrag und verantwortlichem Erklärenden strukturieren.
+4. Beitrag des Betroffenen für jede Haupttat prüfen: Lieferung, Strukturierung, Bescheinigung, Finanzierung, Antrag, Kommunikation oder bloße berufstypische Tätigkeit.
+5. Vorsatz anhand Wissensstand zum fehlenden Einbehalt, Transaktionszweck, Warnungen, internen Gutachten, Tarnhandlungen und wirtschaftlicher Plausibilität bestimmen. Rückschauwissen nicht als damalige Kenntnis ausgeben.
+6. Konkurrenz und Zahl der Beihilfetaten nach Zuordenbarkeit der Beiträge prüfen; eine einheitliche Handlung kann mehrere Haupttaten fördern, ohne automatisch mehrere Beihilfetaten zu bilden.
+7. Einziehungsadressat, Erlangtes, Abzugsverbot, Drittbegünstigung, Entreicherungsausschlüsse und Übergangsrecht gesondert berechnen.
+8. Entlastende und belastende Beweise gleichrangig sichern und einen rollenbezogenen Ermittlungs- oder Verteidigungsvermerk erstellen.
 
 ## Arbeitsergebnis
 
-Cum-Ex strafbar als Betrug Steuerhinterziehung gewerbsmaessig; Vermögensabschoepfung.
+Liefere Transaktions- und Haupttatenmatrix, Rollenkarte, Vorsatzchronologie, Konkurrenzprüfung und Einziehungsrechnung. Jede Feststellung erhält Aktenfundstelle; offene Zuordnung wird als Beweislücke markiert und nicht durch eine Branchenvermutung geschlossen.
 
 ## Belege und Aktenlücken
 
-- E-Mail-Verkehr
-- Trade-Logs
-- Steuerbescheinigungen
+- Trade- und Settlement-Daten einschließlich Stückekette
+- Steuerbescheinigungen, Anträge, Bescheide und Zahlungsnachweise
+- E-Mails, Chats, Gesprächsnotizen und Freigaben
+- Struktur-, Rechts- und Steuergutachten mit Verteiler und Datum
+- Vergütungsflüsse, Fonds- und Bankbuchungen sowie Einziehungsunterlagen

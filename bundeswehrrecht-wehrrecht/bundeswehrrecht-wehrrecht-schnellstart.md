@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
-| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82; BVerwG, Urteil vom 27.09.1978 - 7 C 79.76 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2; BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 |
 | Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
 | Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
@@ -52,12 +52,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - VwVfG Paragraf 28: Anhörung Beteiligter.
 - VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
 - VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
-- Art. 33 II GG: Bestenauslese – Anspruch auf leistungsbezogene Auswahl: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 33 II GG; BVerfG zu Bestenauslese – ständige Rechtsprechung: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 187 ff. BGB analog: Beginn am Folgetag nach Kenntnistag: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 68–73 VwGO — Widerspruchsverfahren: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82: effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle.
-- BVerwG, Urteil vom 27.09.1978 - 7 C 79.76: Ermessensentscheidungen müssen Zweck, Grenzen und Abwägung erkennen lassen.
+- Art. 33 II GG: Bestenauslese – Anspruch auf leistungsbezogene Auswahl; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 33 II GG; BVerfG zu Bestenauslese – ständige Rechtsprechung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 187 ff. BGB analog: Beginn am Folgetag nach Kenntnistag; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 68–73 VwGO — Widerspruchsverfahren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
 
 ## 7. Antwortform
 

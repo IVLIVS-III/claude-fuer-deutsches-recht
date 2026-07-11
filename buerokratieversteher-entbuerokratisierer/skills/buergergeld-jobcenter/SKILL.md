@@ -15,7 +15,7 @@ description: "Wenn es um Bürgergeld / Jobcenter in Bürokratieversteher und Ent
 
 ## Normfokus und Praxis
 - Rechtsgrundlagen: §§ 19 ff. SGB II (Regelbedarf), § 22 SGB II (Kosten der Unterkunft und Heizung), §§ 31 ff. SGB II (Leistungsminderung), § 60 SGB I (Mitwirkungspflicht).
-- Bedarf prüfen vor Sanktion: Existenzminimum bleibt nach BVerfG 5.11.2019 (1 BvL 7/16) auch bei Pflichtverletzungen verfassungsrechtlich geschützt; Minderung gestaffelt nach § 31a SGB II.
+- Bedarf vor einer Minderung prüfen: Seit 1. Juli 2026 sieht Paragraf 31a SGB II grundsätzlich 30 Prozent vor; Paragraf 31a Absatz 7 enthält für die willentliche Nichtaufnahme einer tatsächlich und unmittelbar möglichen zumutbaren Arbeit eine engere Sonderfolge. Paragraf 65a Absatz 2 SGB II trennt Altfälle. BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 bleibt verfassungsrechtlicher Prüfanker, bestätigt aber nicht automatisch das neue Recht.
 - KdU: Angemessenheit nach schlüssigem Konzept der Kommune; bei Aufforderung zu Umzug strenge Anforderungen, Karenzzeit § 22 Abs. 1 Satz 2 SGB II beachten.
 - Aufhebung/Erstattung: §§ 45, 48 SGB X iVm § 40 SGB II; Anhörung nach § 24 SGB X zwingend, sonst Heilung im Widerspruchsverfahren.
 - Praktiker-Tipp: Widerspruch ist kostenfrei (§ 64 SGB X), Frist ein Monat; bei drohendem Leistungsstopp Eilantrag § 86b SGG zum Sozialgericht (Gerichtskostenfreiheit, § 183 SGG). Beratungshilfe nach BerHG für anwaltliche Erstberatung möglich.

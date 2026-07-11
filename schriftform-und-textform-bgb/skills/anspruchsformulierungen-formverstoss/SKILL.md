@@ -45,7 +45,6 @@ Nach Paragraf 16 TzBfG gilt ein formwidrig befristeter Arbeitsvertrag als unbefr
 
 | Konstellation | Anspruch | Norm | Besonderheit |
 |--------------|----------|------|-------------|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Maklervertrag formwidrig, Provision noch nicht gezahlt | Makler kann nicht einfordern | Paragraf 125 BGB | Nichtigkeit |
 | Wohnraumkündigung formwidrig | Kündigung unwirksam, Mieter muss nicht ausziehen | Paragraf 568 BGB | Feststellungsklage Mieter |
 | Arbeitsbefristung formwidrig | Unbefristetes Arbeitsverhältnis | Paragraf 16 TzBfG | Entfristungsklage Paragraf 17 TzBfG |
@@ -145,25 +144,3 @@ Wir bitten um Rückantwort bis zum genannten Termin.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **c.i.c.-Anspruch**: Wer arglistig eine Formnorm verschweigt oder die Formunwirksamkeit verursacht, kann nach Paragrafen 280 Abs. 1, 311 Abs. 2 BGB schadensersatzpflichtig sein — dieser Anspruch besteht unabhängig vom Bereicherungsanspruch.
 - **Drei-Wochen-Frist Entfristungsklage**: Paragraf 17 TzBfG setzt eine Klagefrist von drei Wochen ab dem vereinbarten Vertragsende. Versäumung der Frist führt zu endgültigem Verlust des Anspruchs.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- Paragraf 46h ArbGG
-- Paragraf 14 TzBfG
-- Paragraf 16 TzBfG
-- Paragraf 15 GmbHG
-- Paragraf 46c ArbGG
-- Paragraf 17 TzBfG
-- Paragraf 16a BeurkG
-- Paragraf 23a GVG
-- Paragraf 113 FamFG
-- Paragraf 2 HRG
-- Paragraf 4 HRG
-- Paragraf 7 HRG
-
-### Leitentscheidungen
-
-- BVerfGE Band 6 Rn 32 (Lüth, Drittwirkung der Grundrechte)
-- BGH GSZ 1/14 (richterliche Rechtsfortbildung)

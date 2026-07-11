@@ -10,7 +10,7 @@ description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Bau Archi
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: HOAI Paragrafen 1 bis 13 sowie nur das einschlägige Leistungsbild für Gebäude und Innenräume nach Paragraf 34, Freianlagen nach Paragraf 39, Ingenieurbauwerke nach Paragraf 43, Verkehrsanlagen nach Paragraf 47, Tragwerksplanung nach Paragraf 51 oder Technische Ausrüstung nach Paragraf 55; Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t. VOB/B nur anwenden, wenn sie wirksam vereinbart und für die konkrete Bauleistung einschlägig ist.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -211,15 +211,6 @@ Dieser Vergleich wird als Anwaltsvergleich nach § 796a ZPO beurkundet.
 Die Kosten des Verfahrens werden gegeneinander aufgehoben.
 ```
 
-<!-- AUDIT 27.05.2026
-Geprueft: 3 Rechtsprechungsnachweise in "Aktuelle Rechtsprechung Vergleichsverhandlung Baurecht".
-Befund:
-- BGH VII ZR 257/03 (BGHZ 161, 241): GELOESCHT. Echtes Thema laut dejure.org/2004,327: Anwendung von Werkvertragsrecht auf Altbausanierung, Unwirksamkeit formularmassiger Gewaehrleistungsausschluesse (kein Bezug zu Prozessvergleich oder § 123 BGB).
-- BGH VII ZR 100/97 (BGHZ 137, 153): GELOESCHT. Echtes Thema laut dejure.org/1997,1214: Klageaenderung durch Uebergang von Kostenvorschuss- zu Schadensersatzanspruch, Zulaessigkeit der Berufung (kein Bezug zu Vergleich oder Auftragnehmer-Verzicht).
-- BGH VII ZR 35/07 (NJW 2009, 289): GELOESCHT. Echtes Thema laut dejure.org/2008,328: Haftung des Architekten für unrichtige Bautenstandsberichte gemäß § 328 BGB (kein Bezug zu Abgeltungsklausel oder Mangelfolgeschaeden).
-Ersatz: BGH VII ZR 48/12 (21.11.2013, NJW 2014, 394, BauR 2014, 578) eingefuegt. Verifiziert auf dejure.org/2013,35506. Echtes Thema: Prozessvergleich im Werkvertrag, Unwirksamkeit, Verfahrensfortsetzung, verzichtbare prozessuale Ruege.
-Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
--->
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -228,4 +219,3 @@ Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

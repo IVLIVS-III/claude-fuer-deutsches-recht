@@ -15,7 +15,7 @@ description: "Wenn es um Untersuchungsauftrag und Scope in Internal Investigatio
 
 ## Rechtlicher Rahmen
 
-Der Untersuchungsauftrag legt die normative Grundlage jeder Internal Investigation fest. Ohne präzise Scope-Definition drohen Beweismittelüberschuss, Privilegverlust und Verwertungsprobleme. Die Pflicht des Vorstands zur Einleitung einer Untersuchung folgt aus § 93 Abs. 1 AktG (Business Judgment Rule) in Verbindung mit der BGH-Linie „Siemens/Neubürger" (BGH, Urt. v. 10.7.2012 – II ZR 234/09; [openjur](https://openjur.de/o/577696.html)), wonach der Vorstand ein Compliance-Management-System einzurichten hat, das Verstöße verhindert und aufklärt. Bei Verstößen durch Leitungspersonen greift § 130 OWiG (Aufsichtspflichtverletzung) gegenüber der Gesellschaft, Sanktion nach § 30 OWiG (Verbandsgeldbuße bis 10 Mio. EUR, zuzüglich Abschöpfung nach § 17 Abs. 4 OWiG); vgl. [gesetze-im-internet.de/owig/__130.html](https://www.gesetze-im-internet.de/owig/__130.html) und [gesetze-im-internet.de/owig/__30.html](https://www.gesetze-im-internet.de/owig/__30.html).
+Der Untersuchungsauftrag legt Ziel, Gegenstand und Grenzen der Untersuchung fest. Ohne präzise Scope-Definition drohen unverhältnismäßige Datenerhebung, Verlust geschützter Vertraulichkeit und unklare Verwertbarkeit. Eine mögliche Organpflicht zur Aufklärung ist fallbezogen aus Paragraf 93 Absatz 1 AktG, bei Aufsichtsratszuständigkeit aus den Paragrafen 107 und 111 AktG sowie aus konkreten Verdachtsmomenten und dem Unternehmensinteresse herzuleiten. Die Paragrafen 30 und 130 OWiG betreffen Verbandsgeldbuße und Aufsichtspflichtverletzung, ersetzen aber nicht die Prüfung von Zuständigkeit, Erforderlichkeit und Verhältnismäßigkeit der einzelnen Maßnahme.
 
 ## Ziel dieses Skills
 
@@ -67,7 +67,6 @@ Dieser Skill erzwingt eine prüfbare Arbeitsspur: Sachverhalt → Norm → Tatbe
 | § 30 OWiG | Verbandsgeldbuße | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__30.html) |
 | § 26 BDSG | Beschäftigtendatenschutz | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/bdsg_2018/__26.html) |
 | HinSchG | Hinweisgeberschutz 2023 | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hinschg/) |
-| BGH II ZR 234/09 | Siemens/Neubürger | [openjur.de](https://openjur.de/o/577696.html) |
 
 ## Ausgabeformate
 
@@ -94,26 +93,3 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 - Kostenkontrolle: Untersuchungsbudget realistisch planen; Überschreitungen müssen dem Auftraggeber rechtzeitig kommuniziert werden.
 - Parallelverfahren: wenn zeitgleich strafrechtliche oder aufsichtsrechtliche Verfahren laufen, muss der Untersuchungsauftrag diese berücksichtigen und Informationsflüsse kontrollieren.
 - Scope-Creep-Protokoll: jede Erweiterung des Scope wird schriftlich vom Auftraggeber freigegeben und dokumentiert.
-
-## Normen und Rechtsprechung
-
-### Kuratierte Normen-Bibliothek
-
-- § 93 AktG
-- § 26 BDSG
-- § 130 OWiG
-- § 102 BetrVG
-- § 87 BetrVG
-- § 203 StGB
-- § 266 StGB
-- Art. 33 DSGVO
-- § 30 OWiG
-- § 80 BetrVG
-- § 84 AktG
-- § 107 AktG
-
-### Leitentscheidungen
-
-- BGH II ZR 234/09
-- EuGH C-550/07
-- EuGH C-311/18

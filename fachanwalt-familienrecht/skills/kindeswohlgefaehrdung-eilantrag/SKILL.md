@@ -25,7 +25,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kindeswohlgefährdung — Eilanordnung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Verifizierte Anker:** BGH, Beschluss vom 02.04.2025 - XII ZB 576/24 (Abänderung Versorgungsausgleich nach Tod, Paragraf 51 VersAusglG, Paragraf 88 Abs. 2 SGB VI); BGH, Beschluss vom 18.10.2023 - XII ZB 197/23 (Abänderung nur bei Veränderung, nicht Fehlerkorrektur der Ausgangsentscheidung).
 - **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
 - **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -211,7 +210,7 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 **Verifizierte BVerfG-Entscheidungen 2025 (Live-Verifikation vor Verwendung zwingend):**
 
 - BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23: Bei länger andauerndem oder unbefristetem Umgangsausschluss müssen die Fachgerichte die dem Kind drohenden Schäden nach Art, Schwere und Eintrittswahrscheinlichkeit konkret benennen (Art. 6 Abs. 2 S. 1 GG). Befristeter Umgangsausschluss zum Schutz von Mutter und Kindern verfassungsrechtlich gerechtfertigt. Quelle: bundesverfassungsgericht.de
-- BVerfG, Beschluss vom 28.08.2025 - 1 BvR 1473/25: Begründungsanforderungen an Verfassungsbeschwerden im einstweiligen Anordnungsverfahren zum Sorgerecht; Maßstäbe zum Parental Alienation Syndrome.
+- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme der unzureichend substantiierten Verfassungsbeschwerde; zugleich Zweifel an der Tatsachengrundlage der Hauptsache und Forderung nach einer fachwissenschaftlich tragfähigen Prüfung behaupteter Eltern-Kind-Entfremdung.
 - BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24: Internationale Zuständigkeit nach KSÜ; Sorgerechtswirkungen bei Übertragung auf anderen Elternteil im Ausland.
 
 Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org oder openjur.de verifizieren.

@@ -52,12 +52,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- InsO Paragrafen 300, 301; Datenschutz-Grundverordnung; Verbraucherrecht. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- InsO Paragraf 302; InsO Paragraf 174 Abs. 2; BGB Paragraf 823. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- InsO Paragraf 305; ZPO-Fristen analog über InsO Paragraf 4. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- InsO Paragraf 304; AO Paragrafen 69, 34; Paragraf 266a StGB; Paragraf 15a InsO. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts: im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Zahlungsunfähigkeit ist regelmäßig bei Liquiditätslücke von zehn Prozent anzunehmen.
-- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Geschäftsleiterpflichten in Krise und Insolvenzreife sind streng zu dokumentieren.
+- BGB Paragrafen 765 ff., 138; InsO Forderungsprüfung. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragrafen 300, 301; Datenschutz-Grundverordnung; Verbraucherrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragraf 302; InsO Paragraf 174 Abs. 2; BGB Paragraf 823. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- InsO Paragraf 305; ZPO-Fristen analog über InsO Paragraf 4. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

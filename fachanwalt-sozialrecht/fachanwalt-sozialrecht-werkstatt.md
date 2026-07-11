@@ -10,9 +10,9 @@ Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisb
 
 ### 1.1. Arbeitsmodus: schnell und belastbar
 
-Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, vorhandene Unterlagen, Frist, stärkster Anker, nächster Output. Wenn der Nutzer einen Ordner, Dateien oder nur diesen Prompt öffnet, ist das der Arbeitsauftrag: zuerst die vorhandenen Dokumente lesen, Belegstellen bilden und einen verwertbaren Erststand liefern. Frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
+Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.
 
-Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine Vorrede und keine Abfragekaskade; eine Materialübersicht gibt es nur als Beleglinie mit Datum, Dokument, Kerntatsache und Lücke. Jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
+Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.
 
 ## 2. Stop-Kriterien
 
@@ -56,16 +56,16 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Arbeitslosengeld Paragraf 150 sgb iii | SGB I Paragraf 39; BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Arbeitslosengeld Paragraf 150 sgb iii | SGB I Paragraf 38 und Paragraf 40 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB X Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Arbeitsunfall Paragraf 8 sgb vii | SGB X Paragraf 20; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Arbeitsunfall Paragraf 8 sgb vii | SGB X Paragraf 20 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
 
 | Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
 | --- | --- | --- | --- |
-| SGB I Paragraf 39 | Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
+| SGB I Paragraf 38 und Paragraf 40 | Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | SGB X Paragraf 20 | Amtsermittlung im Sozialverwaltungsverfahren | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | SGB X Paragraf 24 | Anhörung vor belastendem Verwaltungsakt | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
 | SGG Paragraf 87 | Klagefrist | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich |
@@ -80,14 +80,14 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein |
 | BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle |
 | BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung |
-| BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Unterkunftskosten sind am konkreten Bedarf und an einem schlüssigen Konzept zu messen |
-| BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen |
+| BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar |
+| BSG, Urteil vom 08.08.2019 - B 3 KR 21/18 R | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beim Elektrorollstuhl sind Behinderungsausgleich und gegebenenfalls die umfassende Zuständigkeit des zuerst |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
 ## 7. Pflichtnormen als Kernsätze
 
-- SGB I Paragraf 39: Sozialleistungen als Anspruch bei Vorliegen der gesetzlichen Voraussetzungen.
+- SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
 - SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
 - SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
 - SGG Paragraf 87: Klagefrist.
@@ -97,20 +97,28 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - SGB V Paragraf 31 und Paragraf 35a: Arzneimittelversorgung und Nutzenbewertung bei neuen Wirkstoffen.
 - SGB V Paragraf 33: Hilfsmittelversorgung nach funktionellem Behinderungsausgleich.
 - SGB XI Paragraf 40 Absatz 4: wohnumfeldverbessernde Maßnahmen der Pflegekasse.
-- Paragraf 150 SGB III: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 165 SGB III: im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 150 SGB III; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 165 SGB III; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 32 SGB II in der seit 1. Juli 2026 geltenden Fassung: wiederholtes Meldeversäumnis, 30 Prozent des maßgebenden Regelbedarfs und einmonatiger Minderungszeitraum; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 31a Absatz 2 bis 5 und 31b Absatz 1 und 4 SGB II: Anhörung, außergewöhnliche Härte, Kappungsgrenze, Beginn und Aufhebung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 65a Absatz 2 SGB II: Für ein Meldeversäumnis vor dem 1. Juli 2026 bleibt das bis 30. Juni 2026 geltende Recht maßgeblich; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 59 SGB II in Verbindung mit Paragraf 309 SGB III: zulässiger Zweck und Inhalt der Meldeaufforderung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 7b Absatz 4 SGB II: gesonderte Erreichbarkeitsfolge nach drei aufeinanderfolgenden, nicht gerechtfertigten Meldeversäumnissen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 24, 33, 37 und 40 SGB X sowie Paragrafen 84 und 86b SGG: Anhörung, Bestimmtheit, Bekanntgabe, Rücknahme, Widerspruch und Eilrechtsschutz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
 - BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismaessigkeitskontrolle.
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
-- BSG, Urteil vom 16.12.2008 - B 4 AS 48/07 R: Unterkunftskosten sind am konkreten Bedarf und an einem schlüssigen Konzept zu messen.
-- BSG, Urteil vom 02.09.2009 - B 6 KA 34/08 R: sozialrechtliche Sachverhaltsaufklärung verlangt verwertbare medizinische und tatsächliche Grundlagen.
-- BSG 22.10.2019 B 13 R 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist
-- BSG, Urteil vom 12.03.2025 — B 7 AS 5/24 R: Abgeschlossene Ausbildung mit Bewilligung von BAföG-Leistungen schließt den Leistungsausschluss nach SGB II nicht zwingend aus. Offene Fundstelle
-- BSG, Urteil vom 26.03.2025 — B 4 AS 4/24 R: Bundeserstattung an Kommunen für SGB-II-Verwaltungskosten nach Paragraf 6b SGB II. Offene Fundstelle
-- BSG, Urteil vom 04.06.2025 — B 7 AS 17/24 R: Vollstreckung von Erstattungsforderungen durch BA im SGB II. Offene Fundstelle
+- BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
+- BSG, Urteil vom 08.08.2019 - B 3 KR 21/18 R: Beim Elektrorollstuhl sind Behinderungsausgleich und gegebenenfalls die umfassende Zuständigkeit des zuerst angegangenen Rehabilitationsträgers zu prüfen; die Genehmigungsfiktion trägt den Teilhabeanspruch nicht ohne Weiteres.
+- BSG, Urteil vom 07.05.2020 - B 3 KR 7/19 R: Das Grundbedürfnis nach Mobilität im Nahbereich ist beim Behinderungsausgleich nicht auf eine Minimalversorgung zu verengen; maßgeblich ist die zumutbare und angemessene Erschließung im Einzelfall.
+- BSG, Urteil vom 18.04.2024 - B 3 KR 14/23 R: Ein motorunterstütztes Rollstuhlzuggerät kann ohne Eigenanteil geschuldet sein, wenn es die selbstbestimmte Erschließung des konkreten Nahbereichs unter Einsatz eigener Körperkraft ermöglicht.
+- BSG, Urteil vom 12.03.2025 — B 7 AS 5/24 R: Abgeschlossene Ausbildung mit Bewilligung von BAföG-Leistungen schließt den Leistungsausschluss nach SGB II nicht zwingend aus.
+- BSG, Urteil vom 26.03.2025 — B 4 AS 4/24 R: Bundeserstattung an Kommunen für SGB-II-Verwaltungskosten nach Paragraf 6b SGB II.
+- BSG, Urteil vom 04.06.2025 — B 7 AS 17/24 R: Vollstreckung von Erstattungsforderungen durch BA im SGB II.
+- BSG, Urteil vom 16.07.2025 — B 7 AS 19/24 R: Durchschnittseinkommens-Berechnung bei vorläufiger Bewilligung nach Paragraf 41a SGB II.
 
 ## 9. Prüfraster
 
@@ -137,7 +145,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Wunsch | Ausgabe | Mindestinhalt |
 | --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, SGB I Paragraf 39; SGB X Paragraf 20, Risiko, nächster Schritt |
+| schnell entscheiden | Kurzvermerk | Fallkern, SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20, Risiko, nächster Schritt |
 | vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |
 | versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |
 | beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |
@@ -163,56 +171,56 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Arbeitslosengeld Paragraf 150 sgb iii
 
-Prüfe Arbeitslosengeld Paragraf 150 sgb iii von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 150 SGB III - Paragraf 44 SGB V - Paragraf 43 SGB VI - Paragraf 65 SGB VI. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Arbeitslosengeld Paragraf 150 sgb iii von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.2. Arbeitsunfall Paragraf 8 sgb vii
 
-Prüfe Arbeitsunfall Paragraf 8 sgb vii von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 8 SGB VII - Paragraf 44 SGB V - Paragraf 43 SGB VI - Paragraf 65 SGB VI - Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Arbeitsunfall Paragraf 8 sgb vii von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Bescheidanalyse
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.5. Bürgergeld Sanktion Paragraf 31 SGB Ii BVerfG 1 Bvl 7 16
+### 15.5. Eingliederungshilfe Paragraf 99 sgb ix
 
-JC verhängt 30 Prozent Kürzung wegen Terminversäumnis. - Paragraf 31 SGB - Paragraf 7 SGB II - Paragraf 31 SGB II - Paragraf 43 SGB VI - Paragraf 14 SGB IX - Paragraf 109 SGG - BVerfG 05.11.2019 1 BvL 7/16 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Eingliederungshilfe Paragraf 99 sgb ix von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.6. Eingliederungshilfe Paragraf 99 sgb ix
+### 15.6. SGB-II-Bescheid (Bürgergeld)
 
-Prüfe Eingliederungshilfe Paragraf 99 sgb ix von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 99 SGB IX - Paragraf 44 SGB V - Paragraf 43 SGB VI - Paragraf 65 SGB VI. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Welcher Bescheid genau (Bewilligungs-, Aufhebungs-, Erstattungsbescheid)? Paragraf 40 SGB II i.V.m. Paragrafen 45, 48 SGB X: Unterschied materiell-rechtlich entscheidend. 2. Widerspruchsfrist 1 Monat ab Bekanntgabe (Paragraf 84 SGG) — noch offen?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Erwerbsminderungsrente Paragraf 43 SGB Vi BSG B 13 R 25 19 R
+### 15.7. Anwalt oder Sekretariat muss Fristen
 
-Versicherte mit chronischer Krankheit beantragt EM-Rente; abgelehnt. - Paragraf 43 SGB - Paragraf 7 SGB II - Paragraf 31 SGB II - Paragraf 43 SGB VI - Paragraf 14 SGB IX - Paragraf 109 SGG - BSG 22.10.2019 B 13 R 25/19 — nur verwenden, wenn die Fundstelle über ein amtliches. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.8. SGB-II-Bescheid (Bürgergeld)
+### 15.8. Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II
 
-1. Welcher Bescheid genau (Bewilligungs-, Aufhebungs-, Erstattungsbescheid)? Paragraf 40 SGB II i.V.m. Paragrafen 45, 48 SGB X: Unterschied materiell-rechtlich entscheidend. 2. Widerspruchsfrist 1 Monat ab Bekanntgabe (Paragraf 84 SGG) — noch offen? Bei abgelaufenem Bescheid. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.9. Anwalt oder Sekretariat muss Fristen
+### 15.9. Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.10. Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden
+### 15.10. Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt.
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung, Mitgliedschaftserhalt, Arztkontakt und Zurechnung und erstellt eine taggenaue AU-, Fristen- und Beweismatrix für Widerspruch oder Klage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.11. Krankengeld Paragraf 44 SGB V BSG B 1 Kr 19 22 R
-
-AU-Bescheinigung verspätet; Krankengeld? - Paragraf 44 SGB - Paragraf 7 SGB II - Paragraf 31 SGB II - Paragraf 43 SGB VI - Paragraf 14 SGB IX - Paragraf 109 SGG - BSG 11.05.2023 B 1 KR 19/22 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Laienhilfe: Beitragsbescheid Krankenkasse
+### 15.11. Laienhilfe: Beitragsbescheid Krankenkasse
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor? 2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht? 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.13. Laienhilfe: Berufung Beschwerde
+### 15.12. Laienhilfe: Berufung Beschwerde
 
-Berufung: Paragraf 143 SGG – gegen Urteile des SG zum LSG; Frist 1 Monat ab Zustellung (Paragraf 151 SGG). - Berufungssumme: Paragraf 144 SGG – grundsätzlich Berufung zulässig, aber bei Geldleistung unter 750 EUR oder bei Erstattungsstreit unter 10.000 EUR Zulassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Berufung: Paragraf 143 SGG – gegen Urteile des SG zum LSG; Frist 1 Monat ab Zustellung (Paragraf 151 SGG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.14. Laienhilfe: Bescheid Verstehen
+### 15.13. Laienhilfe: Bescheid Verstehen
 
-Verwaltungsakt (Bescheid): Paragraf 31 SGB X – Regelung im Einzelfall. - Bestandteile: Inhalt (Regelung), Begründung (Paragraf 35 SGB X), Rechtsbehelfsbelehrung (Paragraf 36 SGG). - Bekanntgabe / Zugang: Paragraf 37 SGB X – seit 1.1.2025 Vier-Tage-Fiktion nach Aufgabe zur Post. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verwaltungsakt (Bescheid): Paragraf 31 SGB X – Regelung im Einzelfall. - Bestandteile: Inhalt (Regelung), Begründung (Paragraf 35 SGB X), Rechtsbehelfsbelehrung (Paragraf 36 SGG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+### 15.14. Laienhilfe: Beweise Atteste
+
+1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor? 2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht? 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

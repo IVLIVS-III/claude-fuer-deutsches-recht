@@ -32,7 +32,6 @@ Vor jeder StaRUG-Strategie steht deshalb ein harter Ausschluss-Test zu Paragraf 
 - § 19 InsO (Überschuldung; Prognosezeitraum 12 Monate seit 01.01.2024)
 - § 29 Abs. 2 StaRUG (drohende ZU als Zugangsvoraussetzung)
 - § 15a InsO (Insolvenzantragspflicht bei eingetretener ZU oder Überschuldung)
-- **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA) — bestätigt mittelbar die Tragfähigkeit der StaRUG-Eintrittsschwelle nach § 18 InsO bei börsennotierten Schuldnerinnen. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - IDW S 11 Tz. 23 ff. (Liquiditätsstatus und -planung)
 - IDW S 11 Tz. 50 ff. (drohende Zahlungsunfähigkeit)
 
@@ -92,7 +91,6 @@ Ein Unternehmen kann bilanziell überschuldet und gleichzeitig noch zahlungsfäh
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderungen bei eingeleiteter Vollstreckung mit Nennwert in die Liquiditätsprüfung; keine Prozessrisikoquote; enger Irrtumstatbestand bei ungeklärter Rechtsfrage.
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber außenstehenden Dritten konkret mit Einzelposten und Belegen darlegen; pauschale Summen bleiben angreifbar.
 - BGH, Beschluss vom 11.03.2025 - II ZR 139/23: materieller Bestand der Verbindlichkeit entscheidet, Zahlungsunfähigkeit bleibt objektiv.
-- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: bestätigt im VARTA-Kontext die verfassungsrechtliche Belastbarkeit des präventiven Restrukturierungsrahmens und erhöht die Anforderungen an saubere Dokumentation der Zugangsschwelle.
 - Arbeitsregel: StaRUG-Memo immer mit zwei Tabellen beginnen, nämlich `Heute Paragraf 17 nein` und `24 Monate Paragraf 18 ja`. Alles andere ist Sanierungsstory ohne Eintrittskarte.
 
 ---

@@ -62,14 +62,14 @@ Behandle `K1`/`B1` als Leitentscheidung:
 - **Position:** rechter oberer Rand, ca. 1.5 cm vom oberen / rechten Rand.
 - **Schrift:** Arial 12 pt regular.
 - **Format:** `Anlage K 7` (Leerzeichen zwischen Präfix und Zahl).
-- **Mehrseitige Anlagen:** Stempel nur Seite 1 (Standard); Option `--stempel jede-seite`.
+- Mehrseitige Anlagen: Bezeichnung auf jeder Seite oben rechts; das Werkzeug verwendet dies als Standard. Nur bei einer ausdrücklich dokumentierten abweichenden Vorgabe darf `--stempel-seiten erste` gewählt werden.
 - **Konvolute:** Deckblatt + Einzeldokumente mit Suffix `K 5/1`, `K 5/2` usw.
 
 ## Datei-Benennung (beA-/ERV-tauglich)
 
-Beispiel: `anlage-k-003_2024-03-15_werkvertrag-lackieranlage.pdf`
+Beispiel im strengen Gerichtsprofil: `003_20240315_AnlageK3_Werkvertrag.pdf`
 
-Regeln: keine Umlaute in Dateinamen (`ae/oe/ue/ss`), keine Leerzeichen, stabile Nullfüllung (`001` bis `247`), Datum im Format `JJJJ-MM-TT`, Kurzbeschreibung ohne Sonderzeichen. Im normalen menschlichen Text bleiben Umlaute und `ß` erhalten.
+Regeln: Gerichtshinweis zuerst prüfen. Im strengen Sicherheitsprofil keine Umlaute, keine Leerzeichen, stabile Nullfüllung, Datum als `JJJJMMTT`, Kurzbeschreibung mit Unterstrichen und insgesamt höchstens 60 Zeichen. Die ERVB 2025 erlaubt bundesweit bis zu 90 Zeichen und auch Umlaute; der strengere ASCII-Standard ist eine Kanzleientscheidung. Im normalen Text bleiben Umlaute und `ß` erhalten.
 
 ## Ausgabe
 
@@ -78,9 +78,11 @@ anlagen/
  Anlage_K-01_<Kurzbeschreibung>.pdf
  Anlage_K-02_<Kurzbeschreibung>.pdf
  …
- Anlagenkonvolut.pdf
- Anlagenverzeichnis.pdf
- Anlagenverzeichnis.md
+ versandfertig/00_..._Schriftsatz.pdf
+ versandfertig/01_..._AnlageK1_....pdf
+ intern/Anlagenkonvolut_Prueffassung.pdf
+ intern/Anlagenverzeichnis.pdf
+ intern/Anlagenverzeichnis.md
 ```
 
 Optional: `Schriftsatz_mit_Anlagen.pdf` — Schriftsatz vorab, dann Konvolut, mit durchlaufenden Lesezeichen.
@@ -126,7 +128,7 @@ Anzahl Anlagen-Dateien vorhanden: [...]
 | Zitiert aber Datei fehlt | keine / K [...] |
 | Vorhanden aber nicht zitiert | keine / K [...] |
 | Stempel-Fehlanpassungen | keine / K [...] |
-| Format-Fehler (Umlaute, Leerzeichen) | keine / Datei: [...] |
+| Abweichung vom gewählten Dateinamensprofil | keine / Datei: [...] |
 | Lesbarkeit/OCR | keine / K [...] unleserlich oder nicht durchsuchbar |
 | Schwärzung/Geheimnisse | keine / K [...] vor Versand prüfen |
 | beA-/ERV-Paket | keine / Paket [...] zu groß oder falsch benannt |
