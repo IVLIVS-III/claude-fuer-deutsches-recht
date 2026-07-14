@@ -21,6 +21,13 @@ U = importlib.util.module_from_spec(SPEC)
 sys.modules[SPEC.name] = U
 SPEC.loader.exec_module(U)
 
+VALIDATE_SCRIPT = Path(__file__).resolve().parent / "validate-release-assets.py"
+VALIDATE_SPEC = importlib.util.spec_from_file_location("validate_release_assets", VALIDATE_SCRIPT)
+assert VALIDATE_SPEC and VALIDATE_SPEC.loader
+V = importlib.util.module_from_spec(VALIDATE_SPEC)
+sys.modules[VALIDATE_SPEC.name] = V
+VALIDATE_SPEC.loader.exec_module(V)
+
 
 def require(condition: bool, message: str) -> None:
     if not condition:
@@ -63,6 +70,39 @@ def main() -> int:
             not U.same_asset(local, {"state": "uploaded", "size": local["size"], "digest": "sha256:" + "0" * 64}),
             "abweichender Hash muss einen Upload auslösen",
         )
+
+        responses = iter(
+            [
+                subprocess.CompletedProcess([], 1, "", "nicht gefunden"),
+                subprocess.CompletedProcess([], 0, "", ""),
+                subprocess.CompletedProcess(
+                    [],
+                    0,
+                    '{"databaseId":12345,"tagName":"v1.2.3","isDraft":true}',
+                    "",
+                ),
+            ]
+        )
+        original_run = U.run
+        U.run = lambda *args, **kwargs: next(responses)
+        try:
+            release = U.ensure_release("example/repo", "v1.2.3")
+        finally:
+            U.run = original_run
+        require(release["id"] == 12345, "Entwurfsrelease muss über databaseId auffindbar sein")
+        require(release["isDraft"] is True, "Entwurfsstatus muss erhalten bleiben")
+
+        original_subprocess_run = V.subprocess.run
+        V.subprocess.run = lambda *args, **kwargs: subprocess.CompletedProcess(
+            [], 0, '{"databaseId":12345}', ""
+        )
+        try:
+            require(
+                V.release_id("example/repo", "v1.2.3") == 12345,
+                "Remote-Validator muss den Entwurf über databaseId lesen",
+            )
+        finally:
+            V.subprocess.run = original_subprocess_run
 
         checksum_mtime = (dist / "checksums-sha256.txt").stat().st_mtime_ns
         newer = checksum_mtime + 1_000_000_000

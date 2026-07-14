@@ -13,7 +13,6 @@ import threading
 import time
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote
 
 from release_asset_common import expected_asset_metadata, release_assets
 
@@ -59,37 +58,64 @@ def gh_json(resource: str) -> Any:
     raise RuntimeError(f"gh api {resource}: {detail}")
 
 
-def ensure_release(repo: str, tag: str) -> dict[str, Any]:
-    view = run(["gh", "release", "view", tag, "--repo", repo, "--json", "tagName"])
-    if view.returncode:
-        create = run(
-            [
-                "gh",
-                "release",
-                "create",
-                tag,
-                "--repo",
-                repo,
-                "--title",
-                tag,
-                "--generate-notes",
-                "--draft",
-            ]
-        )
-        if create.returncode:
-            # Ein abgebrochener View-Aufruf kann einen vorhandenen Release wie
-            # einen 404 aussehen lassen. Vor dem Abbruch deshalb erneut lesen.
-            retry_view = run(["gh", "release", "view", tag, "--repo", repo, "--json", "tagName"])
-            if retry_view.returncode:
-                raise RuntimeError(
-                    f"Release {tag} konnte nicht angelegt werden: {create.stderr.strip()}"
-                )
-        else:
-            log(f"Entwurfsrelease {tag} angelegt")
-    release = gh_json(f"repos/{repo}/releases/tags/{quote(tag, safe='')}")
-    if not release.get("id"):
+def view_release(repo: str, tag: str) -> dict[str, Any] | None:
+    result = run(
+        [
+            "gh",
+            "release",
+            "view",
+            tag,
+            "--repo",
+            repo,
+            "--json",
+            "databaseId,tagName,isDraft",
+        ]
+    )
+    if result.returncode:
+        return None
+    try:
+        data = json.loads(result.stdout)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Release {tag}: ungültige JSON-Antwort") from exc
+    release_id = data.get("databaseId")
+    if not release_id:
         raise RuntimeError(f"Release-ID für {repo}@{tag} fehlt")
-    return release
+    return {"id": int(release_id), **data}
+
+
+def ensure_release(repo: str, tag: str) -> dict[str, Any]:
+    release = view_release(repo, tag)
+    if release is not None:
+        return release
+
+    create = run(
+        [
+            "gh",
+            "release",
+            "create",
+            tag,
+            "--repo",
+            repo,
+            "--title",
+            tag,
+            "--generate-notes",
+            "--draft",
+        ]
+    )
+    if create.returncode:
+        release = view_release(repo, tag)
+        if release is not None:
+            return release
+        raise RuntimeError(f"Release {tag} konnte nicht angelegt werden: {create.stderr.strip()}")
+    log(f"Entwurfsrelease {tag} angelegt")
+
+    for attempt in range(1, 6):
+        release = view_release(repo, tag)
+        if release is not None:
+            return release
+        if attempt < 5:
+            time.sleep(min(2 ** attempt, 15) + random.uniform(0, 1))
+    raise RuntimeError(f"Release-ID für {repo}@{tag} blieb nach dem Anlegen unsichtbar")
 
 
 def fetch_remote_assets(repo: str, release_id: int) -> dict[str, dict[str, Any]]:

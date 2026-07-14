@@ -53,16 +53,43 @@ def expected_assets(dist: Path) -> dict[str, dict[str, Any]]:
     return expected
 
 
-def fetch_assets(repo: str, tag: str) -> dict[str, dict[str, Any]]:
-    release = run_gh_api(f"repos/{repo}/releases/tags/{tag}")
-    release_id = release.get("id")
-    if not release_id:
+def release_id(repo: str, tag: str) -> int:
+    proc = subprocess.run(
+        [
+            "gh",
+            "release",
+            "view",
+            tag,
+            "--repo",
+            repo,
+            "--json",
+            "databaseId",
+        ],
+        check=False,
+        text=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+    )
+    if proc.returncode != 0:
+        fail(f"Release {repo}@{tag} konnte nicht gelesen werden: {proc.stderr.strip()}")
+    try:
+        value = json.loads(proc.stdout).get("databaseId")
+    except json.JSONDecodeError as exc:
+        fail(f"Release {repo}@{tag} lieferte ungültiges JSON: {exc}")
+    if not value:
         fail(f"{repo}@{tag}: release id missing")
+    return int(value)
+
+
+def fetch_assets(repo: str, tag: str) -> dict[str, dict[str, Any]]:
+    remote_release_id = release_id(repo, tag)
 
     assets: dict[str, dict[str, Any]] = {}
     page = 1
     while True:
-        batch = run_gh_api(f"repos/{repo}/releases/{release_id}/assets?per_page=100&page={page}")
+        batch = run_gh_api(
+            f"repos/{repo}/releases/{remote_release_id}/assets?per_page=100&page={page}"
+        )
         if not isinstance(batch, list):
             fail(f"{repo}@{tag}: assets response page {page} is not a list")
         for asset in batch:

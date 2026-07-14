@@ -1,3 +1,11 @@
+# v432.0.2 - Entwurfsrelease und Uploadwiederaufnahme abgesichert
+
+- Der parallele Asset-Uploader und die nachgelagerte Remoteprüfung lesen die Datenbank-ID eines neu angelegten Entwurfsreleases nun unmittelbar über die Releaseabfrage aus. Beide sind nicht mehr vom REST-Tag-Endpunkt abhängig, der Entwürfe trotz erfolgreicher Anlage mit einem vorübergehenden 404 beantworten kann.
+- Regressionstests bilden den vollständigen Übergang vom fehlenden Release über die Entwurfsanlage bis zur belastbaren ID und deren Nutzung bei der Remoteprüfung nach. Abgebrochene Läufe können vorhandene, hashgleiche Assets weiterhin überspringen und nur fehlende oder abweichende Dateien nachladen.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v432.0.2 synchronisiert.
+
+---
+
 # v432.0.1 - Plattformstabile PDF- und Releaseprüfung
 
 - Der Release-Lauf trennt nun plattformneutrale Generatorartefakte von frisch gerenderten PDF-Binärdateien. Werkstatt-, Schnellstart-, Vollprüfungs-, README- und Indexdateien müssen weiterhin bytegenau dem Tag entsprechen; Gesamt-PDFs werden auf dem Linux-Runner vollständig neu gebaut, fachlich und technisch validiert und anschließend als aktuelle Releasegrundlage verwendet.
