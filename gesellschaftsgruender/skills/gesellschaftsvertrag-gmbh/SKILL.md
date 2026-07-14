@@ -40,7 +40,7 @@ GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassu
 - **Paragraf 15 Abs. 5 GmbHG** — Vinkulierung: Anteilsübertragung nur mit Gesellschafterzustimmung (Satzungsregelung erforderlich).
 - **Paragraf 34 GmbHG** — Einziehung von Geschäftsanteilen; Grundlage für Vesting-Leaver-Mechanismus.
 - **Paragraf 47 GmbHG** — Stimmrecht; 1 EUR = 1 Stimme Standard; Abweichungen möglich.
-- **Paragraf 53 Abs. 2 GmbHG** — Satzungsänderung: 75-%-Mehrheit; notarielle Beurkundung.
+- **Paragraf 53 Absatz 2 und 3 GmbHG** — Satzungsänderung: Dreiviertelmehrheit nach Absatz 2, notarielle Beurkundung nach Absatz 3.
 - **Paragraf 181 BGB** — Selbstkontrahierungsverbot; Befreiung in Satzung möglich und üblich.
 
 ## Aktuelle Rechtsprechung

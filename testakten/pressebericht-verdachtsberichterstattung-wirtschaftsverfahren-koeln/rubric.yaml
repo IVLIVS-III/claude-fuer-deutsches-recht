@@ -1,2 +1,23 @@
 name: pressebericht-verdachtsberichterstattung-wirtschaftsverfahren-koeln
-focus: juristische-presseberichterstattung
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte pressebericht-verdachtsberichterstattung-wirtschaftsverfahren-koeln.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Mindestbestand an Beweistatsachen, Schwere des Vorwurfs, öffentliches Informationsinteresse und
+      offene Verfahrenslage vor jeder Veröffentlichung gewichten.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Konfrontation des Betroffenen, Stellungnahmen, Quellenstatus, Wortwahl, Anonymisierung und Bildverwendung
+      anhand der Akte dokumentieren.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Überschrift, Vorspann und Fließtext auf Vorverurteilung prüfen und eine versandfertige, rechtlich
+      abgesicherte Fassung mit verbleibenden Risiken liefern.

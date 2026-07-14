@@ -1,2 +1,39 @@
 name: erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt
-focus: fachanwalt-erbrecht
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: datei-07-bank-depotauskunft
+    check_type: file_exists
+    description: Die Bankauskunft zu Übertrag, Beratungsvermerk und Ertragszahlungen ist vorhanden.
+    path: 07_bank_depotauskunft_2016_2026.docx
+  - id: datei-08-grundbuch-lastenstand
+    check_type: file_exists
+    description: Der Grundbuch- und Lastenstand mit Nießbrauch und Rückauflassungsvormerkung ist vorhanden.
+    path: 08_grundbuch_und_lastenstand.docx
+  - id: datei-10-wertermittlungsauftrag
+    check_type: file_exists
+    description: Der stichtagsbezogene Wertermittlungsauftrag für das Grundstück ist vorhanden.
+    path: 10_wertermittlungsauftrag_grundstueck.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Schenkung, gemischte Schenkung, Gegenleistungen und vorbehaltenen Nießbrauch für Immobilie und
+      Depot getrennt einordnen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Beginn und Abschmelzung der Zehnjahresfrist sowie wirtschaftliche Ausgliederung aus dem Vermögen
+      des Erblassers anhand des Übertragungsvertrags prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Nachlass-, Immobilien- und Depotwerte, Pflegeleistungen und Beleglücken in eine Pflichtteils- und
+      Pflichtteilsergänzungsrechnung mit Auskunftsstufen überführen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Regelverjährung des Pflichtteilsanspruchs gegen den Erben und besonderen Verjährungsbeginn des
+      Anspruchs gegen den Beschenkten getrennt prüfen.

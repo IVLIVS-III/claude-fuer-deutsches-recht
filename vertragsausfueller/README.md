@@ -5,7 +5,7 @@
 
 Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten.
 
-Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Direktnavigation: [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/vertragsausfueller.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -20,7 +20,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vertragsausfueller/vertragsausfueller-schnellstart.md" download><code>vertragsausfueller-schnellstart.md</code></a> |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -68,24 +68,24 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 | Skill | Zweck |
 | --- | --- |
-| vaf-kommandocenter | steuert den gesamten Workflow von Upload bis neuem Vertragsentwurf. |
-| vaf-docx-stripper | macht aus Word-Dokumenten ein bearbeitbares Vertragsmodell. |
-| vaf-template-erkennung | klassifiziert den Vertrag und trennt Fixtext von Variablen. |
-| vaf-feldinventar | baut die zentrale Datenmatrix für den Vertrag. |
-| vaf-termsheet-mapping | überführt wirtschaftliche Eckdaten in Vertragsklauseln. |
-| vaf-rückfrageninterview | füllt Datenlücken ohne den Nutzer zu überfordern. |
-| vaf-bsag-mietvertrag | setzt den Huckelriede-Term-Sheet-Fall in die BSAG-Vorlage um. |
-| vaf-klauselentscheidung | verhindert stilles Auswählen riskanter Optionen. |
-| vaf-plausibilitaetscheck | härtet den Entwurf vor Versand oder Verhandlung. |
-| vaf-clean-output | liefert den ersten belastbaren Vertragsentwurf. |
-| vaf-track-changes-nur-nach-frage | setzt die ausdrückliche Nachfragepflicht durch. |
-| vaf-redline-qa | kontrolliert Änderungsfassungen vor Herausgabe. |
-| vaf-altvertrag-nachziehen | macht aus alten Verträgen neue Entwürfe. |
-| vaf-quality-gate | ist die letzte Schleuse vor Vertragserzeugung. |
+| kommandocenter-mehrsprachige-vertraege | steuert den gesamten Workflow von den Unterlagen bis zum neuen Vertragsentwurf. |
+| docx-stripper | macht aus Word-Dokumenten ein bearbeitbares Vertragsmodell. |
+| template-erkennung-format-track-changes | klassifiziert den Vertrag und trennt Fixtext von Variablen. |
+| feldinventar-fragebogen-input | baut die zentrale Datenmatrix für den Vertrag. |
+| termsheet-mapping | überführt wirtschaftliche Eckdaten in Vertragsklauseln. |
+| rueckfrageninterview | füllt nur entscheidungserhebliche Datenlücken. |
+| bsag-mietvertrag-klauselentscheidung | setzt den Huckelriede-Fall in die BSAG-Vorlage um. |
+| klauselentscheidung | verhindert stilles Auswählen riskanter Optionen. |
+| plausibilitaetscheck-termsheet | härtet den Entwurf vor Versand oder Verhandlung. |
+| clean-output | liefert den ersten belastbaren Vertragsentwurf. |
+| track-changes-nur-nach-frage | setzt die ausdrückliche Nachfragepflicht durch. |
+| redline-qa | kontrolliert Änderungsfassungen vor Herausgabe. |
+| altvertrag-nachziehen | macht aus alten Verträgen neue Entwürfe. |
+| quality-gate-redline-qa | ist die letzte Kontrolle vor Vertragserzeugung. |
 
 ## BSAG-Beispiel
 
-Die Beispielakte enthält die Word-Vorlage `BSAG-Mietvertrag-Vorlage.docx` und das Term Sheet `BSAG-TermSheet-Kiosk-Huckelriede - Kopie.docx`. Der Spezialskill `vaf-bsag-mietvertrag` mappt daraus insbesondere Mieter, Mietobjekt, Nutzung, Fläche, Miete, Nebenkosten, Kaution, Mietbeginn, Laufzeit, Optionen, Indexierung, Umsatzsteuer, Öffnungszeiten, Konkurrenzschutz, Sortiment, Fettabscheider, Werbung und Versicherung.
+Die Beispielakte enthält die Word-Vorlage `BSAG-Mietvertrag-Vorlage.docx` und das Term Sheet `BSAG-TermSheet-Kiosk-Huckelriede - Kopie.docx`. Der Spezialskill `bsag-mietvertrag-klauselentscheidung` ordnet daraus insbesondere Mieter, Mietobjekt, Nutzung, Fläche, Miete, Nebenkosten, Kaution, Mietbeginn, Laufzeit, Optionen, Indexierung, Umsatzsteuer, Öffnungszeiten, Konkurrenzschutz, Sortiment, Fettabscheider, Werbung und Versicherung zu.
 
 ## Track-Changes-Regel
 

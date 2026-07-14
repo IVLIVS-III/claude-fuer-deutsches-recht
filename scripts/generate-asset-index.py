@@ -51,6 +51,14 @@ def main() -> int:
         f"| [`alles-komplettpaket.zip`]({RELEASE}/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien in den Plugin-Ordnern enthalten. |",
         f"| [`checksums-sha256.txt`]({RELEASE}/checksums-sha256.txt) | SHA-256-Prüfsummen für Release-Assets. |",
         "",
+        "## Kanzleianleitungen",
+        "| Dokument | Verwendung |",
+        "| --- | --- |",
+        "| "
+        '<a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/anbieterneutrale-schnittstelle-kanzlei.odt" download>'
+        "<code>anbieterneutrale-schnittstelle-kanzlei.odt</code></a> | "
+        "Anbieterneutrale Einrichtung, technischer Dummy-Test, Fachabnahme und Freigabevermerk für kleine Kanzleien. |",
+        "",
         f"## Plugin-Assets ({len(plugins)} Stück)",
         "",
         "Werkstatt- und Schnellstart-Prompts sind Markdown-Direkt-Downloads über `raw.githubusercontent.com`. Es gibt dafür keine eigenen ZIP-Assets im Release.",

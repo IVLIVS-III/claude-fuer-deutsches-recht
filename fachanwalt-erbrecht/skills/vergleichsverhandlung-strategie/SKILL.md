@@ -26,7 +26,7 @@ description: "Wenn es um Erbrechtlichen Streit durch Vergleich lösen und Verhan
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage — kläre vor Verhandlungsbeginn
-1. Ist die Klagefrist (§ 2332 BGB: 3 Jahre Verjährung) noch nicht abgelaufen oder wurde sie durch Stufenklage (§ 254 ZPO) gehemmt?
+1. Welcher Anspruch gegen wen droht zu verjähren? Für den Pflichtteilsanspruch gegen den Erben gelten BGB Paragrafen 195 und 199; beim Anspruch gegen den Beschenkten beginnt die Verjährung nach BGB Paragraf 2332 Absatz 1 mit dem Erbfall. Prüfe für jede Stufe und jeden Anspruch gesondert, ob Klageerhebung nach ZPO Paragraf 254 die Verjährung hemmt.
 2. Wie hoch ist das BATNA der Gegenseite? (Prozessrisiko einschätzen — Beweislastverteilung, SV-Gutachten-Kosten, Urteilsungewissheit)
 3. Liegt notarielle Vollmacht des Mandanten vor, die ausdrücklich zur Vergleichsschliesssung ermächtigt?
 4. Haben alle Miterben der Erbengemeinschaft (§ 2032 BGB) der Vergleichsstrategie zugestimmt?

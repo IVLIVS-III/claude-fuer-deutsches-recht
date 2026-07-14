@@ -1,9 +1,9 @@
-# Test-Zeugnis Azubi ($ 16 BBiG)
+# Test-Zeugnis Azubi (Paragraf 16 BBiG)
 
-Spezialfall: Ausbildungszeugnis nach $ 16 BBiG. Skill soll die Sonderregeln
+Spezialfall: Ausbildungszeugnis nach Paragraf 16 BBiG. Skill soll die Sonderregeln
 erkennen (anderes Rechtsregime; auf Verlangen Verhalten + Leistung).
 
-## Zeugnis-Volltext (qualifiziert nach $ 16 II BBiG)
+## Zeugnis-Volltext (qualifiziert nach Paragraf 16 II BBiG)
 
 > **Handwerksbetrieb Müller GmbH**
 >
@@ -16,7 +16,7 @@ erkennen (anderes Rechtsregime; auf Verlangen Verhalten + Leistung).
 ## Erwartete Befunde
 
 - Skill erkennt: Ausbildungszeugnis (nicht qualifiziertes regulaeres Arbeitszeugnis)
-- Skill verweist auf $ 16 BBiG als Rechtsgrundlage (statt $ 109 GewO)
+- Skill verweist auf Paragraf 16 BBiG als Rechtsgrundlage (statt Paragraf 109 GewO)
 - "stets schnell und sicher aufgenommen" - Note 1
 - "hervorragende Berufsschulleistungen" - Note 1
 - "stets einwandfrei" - Note 1

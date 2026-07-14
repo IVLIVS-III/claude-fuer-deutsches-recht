@@ -60,7 +60,7 @@ Diese Klauseln verlieren die Freistellung, **andere Vertragsteile bleiben** frei
 ## Klausel-Bausteine
 
 **A. Compliance-Bestaetigung:**
-> "Die Parteien sind sich einig, dass dieser Vertrag in Uebereinstimmung mit der TT-GVO (VO (EU) Nr. 316/2014) gestaltet ist. Sollte einzelne Klauseln gegen Art. 4 oder 5 TT-GVO verstossen, vereinbaren die Parteien deren Anpassung, ohne die Wirksamkeit der uebrigen Klauseln zu beruehren ($ 139 BGB)."
+> "Die Parteien sind sich einig, dass dieser Vertrag in Uebereinstimmung mit der TT-GVO (VO (EU) Nr. 316/2014) gestaltet ist. Sollte einzelne Klauseln gegen Art. 4 oder 5 TT-GVO verstossen, vereinbaren die Parteien deren Anpassung, ohne die Wirksamkeit der uebrigen Klauseln zu beruehren (Paragraf 139 BGB)."
 
 **B. Non-Challenge mit Kuendigungsrecht (sicherer Ersatz für Verbot):**
 > "Sollte der Lizenznehmer die Gueltigkeit eines Lizenzschutzrechts angreifen, ist der Lizenzgeber zur ausserordentlichen Kuendigung berechtigt."

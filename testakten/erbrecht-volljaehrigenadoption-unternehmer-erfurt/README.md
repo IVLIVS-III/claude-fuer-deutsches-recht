@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip) |
 
@@ -41,6 +41,9 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Prokur
 | `12_sterbeurkunde_abschrift.docx` | Beglaubigte Abschrift der Sterbeurkunde des Standesamts Erfurt |
 | `13_kanzleischreiben_auskunft_wertermittlung.docx` | Anwaltsschreiben: notarielles Nachlassverzeichnis und Unternehmensbewertung bis 31.07.2026 |
 | `14_gesellschaftsvertrag_auszug.docx` | Auszug aus dem Gesellschaftsvertrag: Vinkulierung, Einziehung, Buchwertabfindung |
+| `15_adoptionsantrag_beziehungsdarstellung.docx` | Vollständiger Adoptionsantrag mit persönlicher Beziehung, Familienkontakten, wirtschaftlichen Gesichtspunkten und Beweismitteln |
+| `16_stellungnahmen_leibliche_kinder.docx` | Unterschiedliche Stellungnahmen von Nele und Peer zu Beziehung, Motiven und wirtschaftlichem Zusammenhang |
+| `17_familiengerichtliche_anhaerungsniederschrift.docx` | Persönliche Anhörung aller Beteiligten mit offengelegten Motiven und weiterer Aufklärungsverfügung |
 
 ## Aktenstruktur
 
@@ -60,6 +63,9 @@ erbrecht-volljaehrigenadoption-unternehmer-erfurt/
 ├── 12_sterbeurkunde_abschrift.docx               Sterbeurkunde S 897/2026 des Standesamts Erfurt
 ├── 13_kanzleischreiben_auskunft_wertermittlung.docx  Auskunftsverlangen der Kanzlei Dr. Weigand
 ├── 14_gesellschaftsvertrag_auszug.docx           Vinkulierung, Einziehung im Erbfall, Buchwertklausel
+├── 15_adoptionsantrag_beziehungsdarstellung.docx  Antrag mit Beziehungstatsachen und offen benannten Vermögensfolgen
+├── 16_stellungnahmen_leibliche_kinder.docx        Abweichende Sichtweisen von Nele und Peer
+├── 17_familiengerichtliche_anhaerungsniederschrift.docx  Anhörung zu Beziehung, Motiven und Nachfolgeplanung
 ├── README.md                                   Diese Übersicht
 ├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
 └── gesamt-pdf/

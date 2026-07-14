@@ -40,4 +40,4 @@ Nutze diesen Skill, wenn ein gesellschaftsrechtlicher Konflikt schnell eingeordn
 
 ## Output
 
-Gib eine Eilrechtsschutz-Matrix, einen Antragsentwurf in Stichpunkten und eine Belegliste zur Glaubhaftmachung aus.
+Gib eine Eilrechtsschutz-Matrix, einen vollständig ausformulierten Antragsentwurf mit Verfügungsanspruch und Verfügungsgrund sowie eine Belegliste zur Glaubhaftmachung aus.

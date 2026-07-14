@@ -1,5 +1,23 @@
-expected_use:
-  - Kindesunterhalt und Mehrbedarf mit Tabellenstand 2026 prüfen
-  - Trennungsunterhalt in mehreren Varianten berechnen
-  - Nacheheliche Unterhaltslinien bilden
-  - Wohnwert, Bonus und Erwerbsausweitung transparent behandeln
+name: unterhalt-berechnungsakte-vollstaendig-rosenheim
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte unterhalt-berechnungsakte-vollstaendig-rosenheim.
+checks:
+  - id: datei-01-sachverhalt-und-trennung
+    check_type: file_exists
+    description: Das Primäraktenstück 01_sachverhalt_und_trennung.docx ist vorhanden.
+    path: 01_sachverhalt_und_trennung.docx
+  - id: datei-02-kinder-betreuung-mehrbedarf
+    check_type: file_exists
+    description: Das Primäraktenstück 02_kinder_betreuung_mehrbedarf.docx ist vorhanden.
+    path: 02_kinder_betreuung_mehrbedarf.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Kindesunterhalt, Mehrbedarf, Trennungsunterhalt und möglichen nachehelichen Unterhalt in getrennten
+      Rechenblättern aufbauen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Erwerbseinkommen, Bereinigungen, Hauslasten, Wohnwert und Betreuung aus den Einzelbelegen statt
+      aus pauschalen Parteibehauptungen ableiten.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Rechenvarianten, Zahlungsrückstände und Vergleichskorridor in Mandantenbrief und Vergleichsentwurf
+      widerspruchsfrei erläutern.

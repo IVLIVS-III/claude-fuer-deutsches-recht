@@ -40,7 +40,7 @@ Manche Fristen können Sie verlaengern lassen — andere nicht. **Notfristen** s
 
 #### Verlaengerbar:
 
-- **Berufungsbegruendungs-Frist** (2 Monate, § 520 II ZPO) — **keine** Notfrist; Verlaengerung durch den Vorsitzenden auf Antrag möglich (§ 520 II 3 ZPO). Bei Einwilligung der Gegenseite bis zu einem Monat ohne weitere Prüfung; daraus hinausgehend nur, wenn erhebliche Gruende dargelegt sind.
+- **Berufungsbegründungsfrist** (zwei Monate, Paragraf 520 Absatz 2 ZPO) — keine Notfrist. Mit Einwilligung des Gegners kann der Vorsitzende die Frist nach Satz 2 verlängern. Ohne Einwilligung gilt Satz 3: Verlängerung höchstens um einen Monat und nur, wenn der Rechtsstreit nach freier Überzeugung des Vorsitzenden nicht verzögert wird oder erhebliche Gründe dargelegt sind. Einwilligung, beantragte Dauer und Begründung deshalb getrennt ausweisen.
 - Klageerwiderungs-Frist (richterliche Frist).
 - Replik-Frist.
 - Schriftsatz-Frist nach gerichtlichem Hinweis.

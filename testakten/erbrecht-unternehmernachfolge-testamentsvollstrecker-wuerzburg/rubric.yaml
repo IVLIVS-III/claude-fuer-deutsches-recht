@@ -1,2 +1,39 @@
 name: erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg
-focus: fachanwalt-erbrecht
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: datei-07-gesellschaftsvertrag
+    check_type: file_exists
+    description: Der Gesellschaftsvertragsauszug mit Nachfolge-, Einziehungs- und Abfindungsregeln ist vorhanden.
+    path: 07_gesellschaftsvertrag_nachfolgeklauseln.docx
+  - id: datei-08-bankfreigabe
+    check_type: file_exists
+    description: Die befristete Bankfreigabe mit Kennzahlen und Nachweisen ist vorhanden.
+    path: 08_kreditgeber_covenant_und_freigabe.docx
+  - id: datei-10-verwaltungsbericht
+    check_type: file_exists
+    description: Der Verwaltungsbericht des Testamentsvollstreckers ist vorhanden.
+    path: 10_testamentsvollstrecker_bericht.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Testamentarische Erbfolge, Testamentsvollstreckung und gesellschaftsvertragliche Nachfolgeklausel
+      in ihrer Rangfolge und Wechselwirkung prüfen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Befugnisse des Testamentsvollstreckers, Stimmrechte, Geschäftsführung, Bank-Covenants und eilbedürftige
+      Unternehmensentscheidungen sauber zuordnen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Unternehmenswert, Pflichtteilsrisiken, Liquidität des Nachlasses und gesellschaftsrechtliche Vollzugsschritte
+      in einem umsetzbaren Nachfolgeplan verbinden.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Operative Geschäftsführung, Stimmrechtsausübung, erbrechtliche Verwaltung und Bankzustimmung für
+      jeden konkreten Schritt getrennt zuordnen.

@@ -1,8 +1,8 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **26217 Skills** in **234 Plugins**.
+Automatisch generierte Gesamtübersicht aller **26226 Skills** in **235 Plugins**.
 
-Stand: `v430.0.0`.
+Stand: `v431.0.0`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -10,8 +10,8 @@ Stand: `v430.0.0`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 234 Plugins plus Werkstatt- und Schnellstart-Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Alle Plugins (installierbar)** | Alle 234 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Skills als Markdown** | Reine `SKILL.md`-Dateien aller 235 Plugins plus Werkstatt- und Schnellstart-Prompts — als echte Datei-Downloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Plugins (installierbar)** | Alle 235 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das Markdown-Paket reicht, wenn man die vollständigen Skills in einem beliebigen Chat-System nutzen will. Werkstatt- und Schnellstart-Prompts liegen pro Plugin direkt als Markdown-Datei zum Download (oben in jeder Plugin-Detailseite und in jeder Plugin-README). Das Plugin-Paket ist für kompatible Plugin-Oberflächen. Das Komplettpaket enthält zusätzlich Testakten und alle Repo-Übersichten.
@@ -38,7 +38,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim nächsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 26217 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 26226 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 ## Alle Plugins
 
@@ -229,6 +229,7 @@ Pro Plugin: Klick auf den Namen öffnet die Detailseite mit allen Skills, Beschr
 | **roemisches-recht** | 284 | [Skills ansehen](skills-index/roemisches-recht.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisches-recht/roemisches-recht-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisches-recht/roemisches-recht-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht.zip) |
 | **schoeffen-handelsrichter-praxis** | 81 | [Skills ansehen](skills-index/schoeffen-handelsrichter-praxis.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schoeffen-handelsrichter-praxis.zip) |
 | **schriftform-und-textform-bgb** | 59 | [Skills ansehen](skills-index/schriftform-und-textform-bgb.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftform-und-textform-bgb.zip) |
+| **schriftsatz-versandwerkstatt** | 9 | [Skills ansehen](skills-index/schriftsatz-versandwerkstatt.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftsatz-versandwerkstatt.zip) |
 | **schulrecht-laender** | 100 | [Skills ansehen](skills-index/schulrecht-laender.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schulrecht-laender/schulrecht-laender-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schulrecht-laender/schulrecht-laender-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schulrecht-laender.zip) |
 | **seerecht-schifffahrtsrecht** | 238 | [Skills ansehen](skills-index/seerecht-schifffahrtsrecht.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/seerecht-schifffahrtsrecht.zip) |
 | **selbstvertreter-amtsgericht** | 89 | [Skills ansehen](skills-index/selbstvertreter-amtsgericht.md) | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-werkstatt.md" download><code>Werkstatt</code></a> | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-schnellstart.md" download><code>Schnellstart</code></a> | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht.zip) |

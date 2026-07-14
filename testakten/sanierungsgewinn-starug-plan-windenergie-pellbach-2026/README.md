@@ -134,7 +134,7 @@ sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 - **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten bleiben über Liquidation hinaus
 - **FG Köln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Wegfall mit Erlöschen mangels Steuersubjekt; vorgehend zu BFH I R 34/12
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Streitstand nicht evident rechtsfehlerhaft
-- **FG Köln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG
+- **FG Köln, Urteil vom 04.11.2025 — 12 K 1413/25** — materielle Voraussetzungen des Sanierungsertrags und Beurteilung der Sanierungseignung aus Sicht des Erlasszeitpunkts; keine allgemeine Aussage zum Zeitpunkt des Feststellungsantrags
 - **FG Düsseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18 (ausgesetzt BVerfG 2 BvL 19/14)
 
 ### Verwaltungsauffassung

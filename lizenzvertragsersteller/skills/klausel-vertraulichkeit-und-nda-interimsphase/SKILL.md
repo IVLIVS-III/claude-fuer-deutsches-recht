@@ -25,7 +25,7 @@ Standardtext für die Verhandlungs-/DD-Phase:
 
 ## Vertraulichkeitsklausel im Lizenzvertrag
 
-> **$ 13 Vertraulichkeit.**
+> **Paragraf 13 Vertraulichkeit.**
 >
 > (1) Beide Parteien verpflichten sich, alle im Zusammenhang mit diesem Vertrag erhaltenen vertraulichen Informationen der jeweils anderen Partei geheim zu halten.
 >

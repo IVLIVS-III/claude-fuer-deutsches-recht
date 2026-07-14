@@ -1,9 +1,23 @@
-slug: markenrecht-euipo-widerspruch-sneakerkapsel-alicante
-rechtsgebiet: markenrecht-fashion-luxus
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: markenrecht-euipo-widerspruch-sneakerkapsel-alicante
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte markenrecht-euipo-widerspruch-sneakerkapsel-alicante.
+checks:
+  - id: datei-01-euipo-veroeffentlichung-capsula42-2026-06-15
+    check_type: file_exists
+    description: Das Primäraktenstück 01_euipo_veroeffentlichung_capsula42_2026-06-15.docx ist vorhanden.
+    path: 01_euipo_veroeffentlichung_capsula42_2026-06-15.docx
+  - id: datei-02-mandantenauftrag-widerspruch-2026-06-24
+    check_type: file_exists
+    description: Das Primäraktenstück 02_mandantenauftrag_widerspruch_2026-06-24.docx ist vorhanden.
+    path: 02_mandantenauftrag_widerspruch_2026-06-24.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Dreimonatige Widerspruchsfrist, Gebührenzahlung, Verfahrenssprache und Cooling-off-Phase aus den
+      EUIPO-Unterlagen exakt bestimmen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Ähnlichkeit von KAPSEL42 und CAPSULA42 nach Zeichen, Waren und Dienstleistungen sowie Kennzeichnungskraft
+      strukturiert prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Benutzungsschonfrist und Benutzungsnachweise der älteren Marke nach Zeitraum, Gebiet, Umfang und
+      Art der Benutzung aufbereiten und die Widerspruchsbegründung daran ausrichten.

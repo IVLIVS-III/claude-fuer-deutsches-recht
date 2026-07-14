@@ -17,7 +17,7 @@ description: "Wenn es um Mahnverfahren – Paragrafen 688 ff. ZPO in Prozessrech
 
 Für den operativen Mahnantrag (Barcode-Datensatz, zentrales Mahnportal, EGVP/beA-Übermittlung) und
 den Übergang zum Vollstreckungsbescheid samt Klausel und Zustellung lädt das freistehende Plugin
-`zwangsvollstreckung` die Skills `zv-mahnbescheid-online` und `zv-vollstreckungsbescheid-folge`.
+`zwangsvollstreckung` die Skills `mahnbescheid-online-mobiliar-gv` und `vollstreckungsbescheid-zv`.
 Liefert die dogmatische Grundlage und Strategie; das Plugin liefert das fertige
 Formularpaket.
 

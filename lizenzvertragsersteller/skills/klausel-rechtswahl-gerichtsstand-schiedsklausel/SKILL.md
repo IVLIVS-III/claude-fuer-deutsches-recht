@@ -38,7 +38,7 @@ description: "Wenn es um Klausel Rechtswahl, Gerichtsstand, Schiedsklausel in Li
 ## Klausel-Bausteine
 
 **A. Standard Deutsches Recht / DIS-Schiedsgericht:**
-> "$ 15 Rechtswahl und Streitbeilegung.
+> "Paragraf 15 Rechtswahl und Streitbeilegung.
 > (1) Dieser Vertrag unterliegt dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG) sowie der IPR-Vorschriften.
 > (2) Alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag werden nach der Schiedsgerichtsordnung der Deutschen Institution für Schiedsgerichtsbarkeit (DIS) unter Ausschluss des ordentlichen Rechtsweges endgueltig entschieden. Schiedsort ist [Frankfurt am Main / Berlin / Muenchen]. Verfahrenssprache ist [Deutsch / Englisch]. Das Schiedsgericht besteht aus [einem / drei] Schiedsrichter."
 
@@ -49,7 +49,7 @@ description: "Wenn es um Klausel Rechtswahl, Gerichtsstand, Schiedsklausel in Li
 > "Streitigkeiten werden zunaechst durch direkte Verhandlungen der Geschäftsführungen geloest. Scheitern die Verhandlungen binnen 30 Tagen, wird Mediation durchgefuehrt. Scheitert die Mediation binnen weiterer 60 Tage, wird das Schiedsgericht angerufen."
 
 **D. Bilinguale Variante (DE/EN):**
-> "$ 15 Governing Law and Dispute Resolution. This Agreement shall be governed by the laws of the Federal Republic of Germany under exclusion of the UN Convention on Contracts for the International Sale of Goods (CISG) and conflict-of-laws provisions. Any dispute, controversy or claim arising out of or in connection with this Agreement shall be finally settled under the DIS Arbitration Rules. The seat of arbitration shall be Frankfurt am Main. The language of arbitration shall be English."
+> "Paragraf 15 Governing Law and Dispute Resolution. This Agreement shall be governed by the laws of the Federal Republic of Germany under exclusion of the UN Convention on Contracts for the International Sale of Goods (CISG) and conflict-of-laws provisions. Any dispute, controversy or claim arising out of or in connection with this Agreement shall be finally settled under the DIS Arbitration Rules. The seat of arbitration shall be Frankfurt am Main. The language of arbitration shall be English."
 
 ## Anschluss
 

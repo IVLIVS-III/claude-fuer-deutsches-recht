@@ -7,12 +7,12 @@ description: "Wenn es um Lizenz Geschäftsgeheimnis / Know-how (GeschGehG) in Li
 
 ## Normenanker
 
-- $ 1 GeschGehG - Schutzgegenstand
-- $ 2 GeschGehG - Begriffsbestimmungen; $ 2 Nr. 1: Geschäftsgeheimnis = vertrauliche Information mit Schutzmassnahmen und wirtschaftlichem Wert
-- $ 3 GeschGehG - Erlaubte Handlungen (Reverse Engineering bei rechtmaessig erlangter Sache!)
-- $ 4 GeschGehG - Verbotene Handlungen
-- $ 5 GeschGehG - Schutzausnahmen (Whistleblowing, Journalistik, Aufdeckung Fehlverhalten)
-- $$ 6-12 GeschGehG - Rechtsfolgen (Unterlassung, Schadensersatz, Auskunft, Vernichtung)
+- Paragraf 1 GeschGehG - Schutzgegenstand
+- Paragraf 2 GeschGehG - Begriffsbestimmungen; Paragraf 2 Nr. 1: Geschäftsgeheimnis = vertrauliche Information mit Schutzmassnahmen und wirtschaftlichem Wert
+- Paragraf 3 GeschGehG - Erlaubte Handlungen (Reverse Engineering bei rechtmaessig erlangter Sache!)
+- Paragraf 4 GeschGehG - Verbotene Handlungen
+- Paragraf 5 GeschGehG - Schutzausnahmen (Whistleblowing, Journalistik, Aufdeckung Fehlverhalten)
+- Paragrafen 6-12 GeschGehG - Rechtsfolgen (Unterlassung, Schadensersatz, Auskunft, Vernichtung)
 
 ## Pflichtbaustein: Schutzmassnahmen vor Lizenz
 
@@ -27,9 +27,9 @@ Ohne Schutzmassnahmen kein Geheimnis, kein Schutz, keine durchsetzbare Lizenz.
 
 ## Reverse Engineering — Sonderfall
 
-$ 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erlaubt**, soweit der Inhaber das nicht vertraglich ausgeschlossen hat.
+Paragraf 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erlaubt**, soweit der Inhaber das nicht vertraglich ausgeschlossen hat.
 
-→ Im Lizenzvertrag: **Reverse-Engineering-Verbot** ausdruecklich vereinbaren ($ 3 Abs. 2 GeschGehG).
+→ Im Lizenzvertrag: **Reverse-Engineering-Verbot** ausdruecklich vereinbaren (Paragraf 3 Abs. 2 GeschGehG).
 
 ## Lizenztypen
 
@@ -48,7 +48,7 @@ $ 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erla
 > "Der Lizenznehmer verpflichtet sich, das Lizenz-Know-how mit der Sorgfalt eines ordentlichen Kaufmanns geheim zu halten. Insbesondere wird der Lizenznehmer (i) Zugriff auf das Need-to-Know-Prinzip beschraenken, (ii) Mitarbeitern und Beratern entsprechende Geheimhaltungsvereinbarungen auferlegen, (iii) das Lizenz-Know-how durch technische Maßnahmen sichern und (iv) keine Kopien ausserhalb des Vertragsbereichs anfertigen."
 
 **3. Reverse-Engineering-Verbot:**
-> "Der Lizenznehmer wird das Lizenz-Know-how nicht reverse-engineeren, dekompilieren oder durch Analyse der Erscheinungsform Rueckschluesse auf seine Bestandteile ziehen. Dieses Verbot gilt im Sinne des $ 3 Abs. 2 GeschGehG."
+> "Der Lizenznehmer wird das Lizenz-Know-how nicht reverse-engineeren, dekompilieren oder durch Analyse der Erscheinungsform Rueckschluesse auf seine Bestandteile ziehen. Dieses Verbot gilt im Sinne des Paragraf 3 Abs. 2 GeschGehG."
 
 **4. Rueckgabepflicht:**
 > "Nach Vertragsbeendigung gibt der Lizenznehmer saemtliche schriftlichen und elektronischen Unterlagen des Lizenz-Know-hows binnen 30 Tagen zurueck oder vernichtet sie nachweislich; bestaetigt schriftlich gegenueber dem Lizenzgeber."

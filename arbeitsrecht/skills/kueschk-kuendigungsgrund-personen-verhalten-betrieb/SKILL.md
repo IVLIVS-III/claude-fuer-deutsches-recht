@@ -80,7 +80,7 @@ Mehrere Gründe kombiniert? → Alle Pfade prüfen, schwächsten angreifen
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
 - Personenbedingte Kuendigung (Krankheit) / BEM-Pflicht: BAG, 20.11.2014 - 2 AZR 755/13 (Initiativlast AG, Datenschutzunterrichtung); BAG, 18.11.2021 - 2 AZR 138/21 (erneutes BEM bei > 6 Wochen AU); BAG, 15.12.2022 - 2 AZR 162/22 (Integrationsamtszustimmung entbindet nicht von BEM). Quellen: dejure.org-Vernetzungen.
-- Betriebsbedingte Kuendigung / Massenentlassung: BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei Anzeigefehlern); EuGH, 30.10.2025 - C-134/24 und C-402/24. Quellen: dejure.org-Vernetzungen.
+- Betriebsbedingte Kündigung / Massenentlassung: BAG, 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei fehlender oder vor Abschluss des Konsultationsverfahrens erstatteter Anzeige); EuGH, 30.10.2025 - C-134/24 und C-402/24. Quellen: BAG-Pressemitteilung und amtliche EuGH-Datenbank.
 - Verhaltensbedingte Kuendigung / Abmahnung / Verschulden: Standardrechtsprechung; konkretes Aktenzeichen vor Schriftsatzverwendung in dejure.org / openjur.de verifizieren.
 - Subjektive Determinationstheorie der BR-Anhörung: BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quellen: dejure.org-Vernetzungen.
 

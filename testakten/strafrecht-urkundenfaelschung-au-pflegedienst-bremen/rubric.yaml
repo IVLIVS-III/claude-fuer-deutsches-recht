@@ -1,9 +1,34 @@
 name: strafrecht-urkundenfaelschung-au-pflegedienst-bremen
-description: Urkundenfälschungs- und Betrugsverdacht um veränderte Arbeitsunfähigkeitsnachweise in einem ambulanten Pflegedienst mit Praxissoftware-Spuren und arbeitsrechtlichen Folgen.
+description: Urkundenfälschungs- und Betrugsverdacht um veränderte Arbeitsunfähigkeitsnachweise in einem ambulanten
+  Pflegedienst mit Praxissoftware-Spuren und arbeitsrechtlichen Folgen.
 checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Aus dem Abgleich von AU-Bescheinigung, Dienstplan und Anwesenheit (Datei 10) die fuenf Tage mit gleichzeitiger Krankschreibung und dokumentierten Patientenbesuchen bestimmen (15.01., 16.01., 03.02., 04.02., 05.02.2026), den Entgeltfortzahlungsschaden mit 742.50 EUR (fuenf Tage zu je 148.50 EUR) und die 34 unter der Chip-ID erfassten Besuche ermitteln und dies gegen die Einlassung sowie die fehlende eAU fuer den 03.02. bis 05.02. abgleichen.
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-sachverhalt-chronologie
+    check_type: file_exists
+    description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
+    path: 02_sachverhalt_chronologie.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Aus dem Abgleich von AU-Bescheinigung, Dienstplan und Anwesenheit (Datei 10) die fuenf Tage mit
+      gleichzeitiger Krankschreibung und dokumentierten Patientenbesuchen bestimmen (15.01., 16.01., 03.02., 04.02.,
+      05.02.2026), den Entgeltfortzahlungsschaden mit 742.50 EUR (fuenf Tage zu je 148.50 EUR) und die 34 unter
+      der Chip-ID erfassten Besuche ermitteln und dies gegen die Einlassung sowie die fehlende eAU fuer den 03.02.
+      bis 05.02. abgleichen.

@@ -22,13 +22,13 @@ checks:
 
   - id: r03-mindestens-zehn-aktenstuecke
     check_type: file_count
-    description: "mindestens zehn Markdown-Aktenstücke"
-    glob: "*.md"
+    description: "mindestens zehn ausformulierte Word-Aktenstücke"
+    glob: "*.docx"
     min: 10
 
   - id: r04-sozialamtsregress-94-sgb-xii
     check_type: text_contains
-    description: "Überleitung des Anspruchs nach § 94 SGB XII erkannt"
+    description: "Überleitung des Anspruchs nach Paragraf 94 SGB XII erkannt"
     path: "01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.docx"
     contains: "94 SGB XII"
 
@@ -40,11 +40,11 @@ checks:
 
   - id: r06-schenkungsrueckforderung-528
     check_type: text_contains
-    description: "Schenkungsrückforderung nach § 528 BGB als alternativer Weg geprüft"
+    description: "Schenkungsrückforderung nach Paragraf 528 BGB als alternativer Weg geprüft"
     path: "08_fruehere_schenkungen_mutter.docx"
     contains: "528"
 
   - id: r07-fachspezifische-wuerdigung
     check_type: human_review
     description: "Leistungsfähigkeit, erhöhter Selbstbehalt und Einwendungen sind fachlich tragfähig zu würdigen"
-    note: "Erhöhten Selbstbehalt und Schonvermögen ansetzen; Verwirkung § 1611 BGB nur bei schwerer Verfehlung"
+    note: "Erhöhten Selbstbehalt und Schonvermögen ansetzen; Verwirkung nach Paragraf 1611 BGB nur bei schwerer Verfehlung"

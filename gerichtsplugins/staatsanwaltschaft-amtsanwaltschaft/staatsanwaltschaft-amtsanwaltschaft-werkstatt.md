@@ -16,9 +16,9 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 01 Akte-Erstdurchsicht und Anfangsverdacht | StPO Paragraf 152 Absatz 2; BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | 01 Akte-Erstdurchsicht und Anfangsverdacht | StPO Paragraf 152 Absatz 2 und Paragraf 160 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft | StPO Paragraf 160; BGH, Urteil vom 29.07.1998 - 1 StR 94/98 nur bei teilwiderlegtem einzigen Belastungszeugen | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag. | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 3. Tatbestand, Beweislast, Quellenstatus
@@ -166,8 +166,8 @@ Die Amtsanwaltschaft entscheidet die typischen Massen- und Kleinverfahren. Die Z
 6. Sitzungsdienst und Schlussvortrag. In der Hauptverhandlung vertritt die Sitzungsvertretung die Anklage nach Paragraf 226 StPO, nutzt das Fragerecht nach Paragraf 240 StPO und gibt Erklärungen nach Paragraf 257 StPO ab. Der Schlussvortrag nach Paragraf 258 StPO leitet den Antrag aus dem tatsächlichen Beweisergebnis ab und stellt die Strafzumessung nach Paragraf 46 StGB dar. Votum: „Beantragt wird [Schuldspruch wegen Norm] und [konkrete Rechtsfolge], weil das Beweisergebnis [tragende Tatsachen] ergibt."
 ## 9. Leitentscheidungen
 
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung; das Gericht darf nicht einseitig der Belastungsaussage folgen, ohne die Gegengründe erschoepfend zu würdigen.
-- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Aussageanalyse in Sexualstrafverfahren muss Entstehungsgeschichte, Konstanz und Motivlage der belastenden Zeugen einbeziehen; hohle Formelauwendung genügt nicht.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen. Die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
+- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen gefolgt werden; diese Gründe sind ausdrücklich darzulegen.
 - BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Bei einer legendierten Kontrolle besteht kein allgemeiner Vorrang der Strafprozessordnung vor dem Gefahrenabwehrrecht; die Verwertung präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Absprachen im Strafverfahren beduerfen Transparenz, umfassender Belehrung des Angeklagten und lückenloser Protokollierung; versteckte Absprachen verletzen das Rechtsstaatsprinzip.
 

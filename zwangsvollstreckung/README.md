@@ -5,7 +5,7 @@
 
 Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, Paragraf 765a Härtefall, Schuldnerschutz.
 
-Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Direktnavigation: [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/zwangsvollstreckung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -20,7 +20,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/zwangsvollstreckung/zwangsvollstreckung-schnellstart.md" download><code>zwangsvollstreckung-schnellstart.md</code></a> |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -66,25 +66,25 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 
 | Skill | Zweck |
 | --- | --- |
-| zv-kommandocenter | Startet die Zwangsvollstreckung und entscheidet, welche Maßnahme und welcher Skill passt. |
-| zv-titel-klausel-zustellung | Prüft vollstreckbare Ausfertigung, Klausel § 724 ZPO und Zustellungsnachweis § 750 ZPO. |
-| zv-mahnbescheid-online | Erstellt den Antrag auf Mahnbescheid über das zentrale Mahnportal mit Barcode-Datensatz und EGVP. |
-| zv-vollstreckungsbescheid-folge | Steuert Vollstreckungsbescheid, Klausel, Zustellung und Übergang zur Zwangsvollstreckung. |
-| zv-pfueb-bank | Entwirft Pfändungs- und Überweisungsbeschluss gegen Bankguthaben mit P-Konto-Behandlung. |
-| zv-pfueb-arbeitsentgelt | Pfändet Arbeitseinkommen nach Paragraf 850 ZPO mit der Tabelle ab 1. Juli 2026 und trennt Unterhaltspflichten, Sonderbezüge und Privilegierung. |
-| zv-pfueb-mieter-finanzamt | Pfändet Mietzinsforderungen § 851b ZPO und Erstattungsansprüche gegen das Finanzamt. |
-| zv-vermögensauskunft-gv | Beauftragt den Gerichtsvollzieher mit Vermögensauskunft § 802c ZPO und Schuldnerverzeichnis. |
-| zv-kontensuche-drittschuldner | Steuert die Kontensuche § 802l ZPO über das Bundeszentralamt für Steuern. |
-| zv-notarielle-urkunde-grundschuld | Vollstreckt aus notarieller Grundschuldurkunde § 800 ZPO inkl. Kündigung § 1193 BGB. |
-| zv-zvg-antrag-gläubiger | Stellt Zwangsversteigerungs- und Beitrittsantrag § 15 ZVG aus Gläubigersicht. |
-| zv-tabellenauszug-201-inso | Vollstreckt aus Tabellenauszug § 201 InsO nach Aufhebung des Insolvenzverfahrens. |
-| zv-mobiliar-gv-auftrag | Erteilt Mobiliarvollstreckungs- und Sachpfändungsauftrag (auch Krypto-Hardware-Wallets). |
-| zv-räumung-885 | Führt Räumungsvollstreckung § 885 ZPO inkl. Berliner Modell und Vollstreckungsschutz. |
-| zv-abwehr-schuldner | Erstellt Erinnerung § 766 ZPO, Vollstreckungsschutz § 765a ZPO und Drittwiderspruch § 771 ZPO. |
-| zv-vollstreckungsschutz-härtefall-765a | Vertiefter Härtefall-Schutz § 765a ZPO (Suizidgefahr, Schwangerschaft, Obdachlosigkeit, Trauerfall); Antragsformular mit Glaubhaftmachung. **NEU** |
-| zv-eu-kontenpfändung-655-2014 | Europäische Kontenpfändung VO (EU) 655/2014 — grenzüberschreitende vorläufige Sicherung von Bankkonten in der EU (außer Dänemark). **NEU** |
+| kommandocenter | Startet die Zwangsvollstreckung und entscheidet, welche Maßnahme und welcher Skill passt. |
+| titel-klausel-zustellung | Prüft vollstreckbare Ausfertigung, Klausel § 724 ZPO und Zustellungsnachweis § 750 ZPO. |
+| mahnbescheid-online-mobiliar-gv | Erstellt den Antrag auf Mahnbescheid über das zentrale Mahnportal mit Barcode-Datensatz und EGVP. |
+| vollstreckungsbescheid-zv | Steuert Vollstreckungsbescheid, Klausel, Zustellung und Übergang zur Zwangsvollstreckung. |
+| pfueb-bank | Entwirft Pfändungs- und Überweisungsbeschluss gegen Bankguthaben mit P-Konto-Behandlung. |
+| pfueb-arbeitsentgelt | Pfändet Arbeitseinkommen nach Paragraf 850 ZPO mit der Tabelle ab 1. Juli 2026 und trennt Unterhaltspflichten, Sonderbezüge und Privilegierung. |
+| pfueb-802l-arbeit | Pfändet Mietzinsforderungen § 851b ZPO und Erstattungsansprüche gegen das Finanzamt. |
+| vermoegensauskunft-gv | Beauftragt den Gerichtsvollzieher mit Vermögensauskunft nach Paragraf 802c ZPO und Schuldnerverzeichnis. |
+| kontensuche-drittschuldner | Steuert die Kontensuche § 802l ZPO über das Bundeszentralamt für Steuern. |
+| notarielle-urkunde-grundschuld | Vollstreckt aus notarieller Grundschuldurkunde § 800 ZPO inkl. Kündigung § 1193 BGB. |
+| zvg-antrag-glaeubiger | Stellt Zwangsversteigerungs- und Beitrittsantrag nach Paragrafen 15 und 27 ZVG aus Gläubigersicht. |
+| tabellenauszug-201-inso | Vollstreckt aus Tabellenauszug § 201 InsO nach Aufhebung des Insolvenzverfahrens. |
+| mobiliar-gv-auftrag | Erteilt Mobiliarvollstreckungs- und Sachpfändungsauftrag (auch Krypto-Hardware-Wallets). |
+| raeumung-tabellenauszug-inso | Führt Räumungsvollstreckung nach Paragraf 885 ZPO einschließlich beschränkter Räumung und Vollstreckungsschutz. |
+| abwehr-schuldner | Erstellt Erinnerung § 766 ZPO, Vollstreckungsschutz § 765a ZPO und Drittwiderspruch § 771 ZPO. |
+| vollstreckungsschutz-haertefall-765a | Vertiefter Härtefallschutz nach Paragraf 765a ZPO; ausformulierter Antrag mit Glaubhaftmachungsmitteln. |
+| eu-kontenpfaendung-655-2014 | Grenzüberschreitende vorläufige Kontensicherung nach der Verordnung (EU) 655/2014, ausgenommen Dänemark. |
 | pfaendungstabelle-pfueb-arbeitsentgelt | Berechnet nach der vom 1. Juli 2026 bis 30. Juni 2027 geltenden Tabelle und warnt vor ihrem Ablauf. |
-| zv-elektronische-zustellung-2027 | Steuert sicheren Übermittlungsweg für Kreditinstitute ab 1.10.2027 (ZVollstrDigitG). |
+| elektronische-zustellung-eu | Steuert den elektronischen PfÜB-Antrag ab 1. Oktober 2026, den XML-Datensatz ab 1. Januar 2027 und den sicheren Übermittlungsweg für Kreditinstitute ab 1. Juni 2027. |
 
 ## Werkzeug
 

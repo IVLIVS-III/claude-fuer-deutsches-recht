@@ -25,12 +25,31 @@ import argparse
 import json
 import re
 import sys
+import zipfile
+from xml.etree import ElementTree
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
 TESTAKTEN = REPO / "testakten"
+
+
+def read_searchable_text(path: Path) -> str:
+    """Liest Text- und Office-Aktenstücke für inhaltliche Rubrikchecks."""
+    suffix = path.suffix.lower()
+    if suffix == ".docx":
+        with zipfile.ZipFile(path) as archive:
+            xml = archive.read("word/document.xml")
+        root = ElementTree.fromstring(xml)
+        return "\n".join(node.text or "" for node in root.iter() if node.tag.endswith("}t"))
+    if suffix == ".pdf":
+        try:
+            from pypdf import PdfReader  # type: ignore
+        except ImportError as exc:
+            raise RuntimeError("PDF-Textprüfung benötigt pypdf aus requirements.txt") from exc
+        return "\n".join(page.extract_text() or "" for page in PdfReader(str(path)).pages)
+    return path.read_text(encoding="utf-8", errors="ignore")
 
 
 @dataclass
@@ -65,7 +84,11 @@ def load_yaml(path: Path) -> dict:
     """Minimal-Parser: nutzt PyYAML, faellt notfalls auf einfaches Parsing zurueck."""
     try:
         import yaml  # type: ignore
-        return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        loaded = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        if not isinstance(loaded, dict):
+            error = f"YAML-Wurzel muss ein Mapping sein, gefunden: {type(loaded).__name__}"
+            return {"_load_error": error}
+        return loaded
     except ImportError:
         # Sehr einfacher Parser fuer flache YAML-Strukturen
         result: dict = {"checks": []}
@@ -81,9 +104,19 @@ def load_yaml(path: Path) -> dict:
                 k, v = line.strip().split(":", 1)
                 current[k.strip()] = v.strip().strip('"').strip("'")
         return result
+    except Exception as exc:
+        return {"_load_error": f"{type(exc).__name__}: {exc}"}
 
 
 def run_check(akte_dir: Path, check: dict) -> CheckResult:
+    if not isinstance(check, dict):
+        return CheckResult(
+            "rubric-schema",
+            "schema",
+            "Rubrik-Eintrag muss ein Mapping sein.",
+            False,
+            f"found {type(check).__name__}: {check!r}",
+        )
     cid = check.get("id", "?")
     ctype = check.get("check_type", "?")
     desc = check.get("description", "")
@@ -108,7 +141,7 @@ def run_check(akte_dir: Path, check: dict) -> CheckResult:
         if not target.is_file():
             return fail(f"file missing: {target.relative_to(akte_dir)}")
         needle = check.get("contains", "")
-        text = target.read_text(encoding="utf-8", errors="ignore")
+        text = read_searchable_text(target)
         return ok("substring found") if needle in text else fail(f"missing substring: {needle[:60]!r}")
 
     if ctype == "regex_match":
@@ -116,7 +149,7 @@ def run_check(akte_dir: Path, check: dict) -> CheckResult:
         if not target.is_file():
             return fail(f"file missing: {target.relative_to(akte_dir)}")
         pat = check.get("pattern", "")
-        text = target.read_text(encoding="utf-8", errors="ignore")
+        text = read_searchable_text(target)
         if re.search(pat, text, re.MULTILINE):
             return ok(f"regex matched")
         return fail(f"regex did not match: {pat!r}")
@@ -143,13 +176,48 @@ def evaluate_akte(slug: str) -> AktenResult:
         return result
     result.has_rubric = True
     rubric = load_yaml(rubric_path)
-    for check in rubric.get("checks", []):
-        result.checks.append(run_check(akte_dir, check))
+    if rubric.get("_load_error"):
+        result.checks.append(
+            CheckResult(
+                "rubric-yaml",
+                "schema",
+                "Rubrik muss valides YAML sein.",
+                False,
+                rubric["_load_error"],
+            )
+        )
+        return result
+    checks = rubric.get("checks", [])
+    if not isinstance(checks, list) or not checks:
+        result.checks.append(
+            CheckResult(
+                "rubric-checks",
+                "schema",
+                "Rubrik muss eine nicht leere Check-Liste enthalten.",
+                False,
+                f"found {type(checks).__name__}",
+            )
+        )
+        return result
+    for check in checks:
+        try:
+            result.checks.append(run_check(akte_dir, check))
+        except Exception as exc:
+            cid = check.get("id", "rubric-schema") if isinstance(check, dict) else "rubric-schema"
+            result.checks.append(
+                CheckResult(
+                    cid,
+                    "schema",
+                    "Rubrik-Check konnte nicht ausgeführt werden.",
+                    False,
+                    f"{type(exc).__name__}: {exc}",
+                )
+            )
     return result
 
 
 def render_report(results: list[AktenResult]) -> str:
-    lines = ["# Eval-Results", "", f"Stand: {datetime.utcnow().isoformat(timespec='seconds')}Z", ""]
+    lines = ["# Eval-Results", "", f"Stand: {datetime.now(timezone.utc).isoformat(timespec='seconds')}", ""]
     total = len(results)
     with_rubric = [r for r in results if r.has_rubric]
     all_pass = [r for r in with_rubric if r.all_passed]
@@ -213,7 +281,7 @@ def main() -> int:
     if args.json_out:
         snapshot = {
             "label": args.label,
-            "timestamp": datetime.utcnow().isoformat(timespec="seconds") + "Z",
+            "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "results": [
                 {
                     "slug": r.slug,

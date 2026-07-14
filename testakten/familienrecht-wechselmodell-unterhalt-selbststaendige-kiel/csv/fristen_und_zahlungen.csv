@@ -1,4 +1,13 @@
-Datum;Vorgang;Betrag;Kommentar
-20.07.2026;Frist Auskunft Praxisunterlagen;0;vor Ablauf setzen
-01.08.2026;Unterhaltsvorschuss prüfen;0;nur Reserve
-15.08.2026;Klassenfahrt Anzahlung;180;Mehrbedarf klären
+Datum;Vorgang;Betrag EUR;Zahler oder Verantwortlicher;Beleg;Status oder Klärung
+01.04.2026;laufender Kindesunterhalt April;620.00;Malte Henning;Kontoauszug Rieke;eingegangen, Rechtsgrund der Höhe offen
+01.05.2026;laufender Kindesunterhalt Mai;620.00;Malte Henning;Kontoauszug Rieke;eingegangen
+01.06.2026;laufender Kindesunterhalt Juni;420.00;Malte Henning;Kontoauszug Rieke;gekürzt mit Hinweis auf Betreuungstage
+18.06.2026;Nachforderung Musikschule zweites Quartal;135.00;Musikschule Fördeklang;Rechnung 2026-188;hälftige Beteiligung streitig
+01.07.2026;laufender Kindesunterhalt Juli;420.00;Malte Henning;Kontoauszug Rieke;eingegangen unter Vorbehalt
+02.07.2026;Auskunftsverlangen Praxisunterlagen;0.00;Kanzlei;Zugang E-Mail und Einwurf;zugegangen
+10.07.2026;Ferienbetreuung erste Woche;0.00;beide Eltern;Betreuungskalender;Abweichung vom Regelplan angekündigt
+15.07.2026;Klassenfahrt Anzahlung;180.00;Rieke Henning;Schulschreiben;Zahlung fällig, Kostenteilung offen
+20.07.2026;Frist Auskunft Praxisunterlagen;0.00;Malte Henning;Anforderung vom 02.07.2026;Jahresabschlüsse und Privatentnahmen fehlen
+01.08.2026;laufender Kindesunterhalt August;offen;Malte Henning;noch kein Beleg;Zahlbetrag nach Auskunft neu zu berechnen
+05.08.2026;Kieferorthopädischer Eigenanteil;240.00;Rieke Henning;Kostenplan;Versicherungserstattung und Mehrbedarf klären
+15.08.2026;Zwischenabrechnung Rückstand;offen;Kanzlei;Zahlungsübersicht;erst nach Eingang Praxisbelege abschließen

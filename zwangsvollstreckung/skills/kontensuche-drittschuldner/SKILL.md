@@ -56,9 +56,9 @@ description: "Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvolls
  - **Deutsche Rentenversicherung Bund**: aktueller Arbeitgeber oder Rentenzahlstelle
  - **Bundeszentralamt für Steuern (BZSt)**: Kontostammdaten nach § 24c KWG, alle deutschen Kreditinstitute mit Konten des Schuldners
  - **Kraftfahrt-Bundesamt**: KFZ-Halterauskunft
-4. **Ausländische Konten**: nicht über § 802l erreichbar, aber EU-Kontenpfändungsbeschluss (EuKtPVO) ist Alternative über `zv-pfueb-bank`.
+4. **Ausländische Konten**: nicht über § 802l erreichbar, aber EU-Kontenpfändungsbeschluss (EuKtPVO) ist Alternative über `pfueb-bank`.
 5. **Plausibilitätsprüfung**: Auskunft veraltet sich. Konten existieren ggf. nicht mehr, Arbeitgeber gewechselt.
-6. **Anschluss**: bekannte Bank → `zv-pfueb-bank`, bekannter Arbeitgeber → `zv-pfueb-arbeitsentgelt`.
+6. **Anschluss**: bekannte Bank → `pfueb-bank`, bekannter Arbeitgeber → `pfueb-arbeitsentgelt`.
 
 ## Voraussetzungen § 802l ZPO im Einzelnen
 

@@ -1,100 +1,90 @@
 ---
 name: krankenversicherung-haushaltshilfe-fahrkosten-besondere
-description: "Wenn es um Haushaltshilfe, Fahrkosten und besondere Lebenslagen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Haushaltshilfe und Fahrkosten nach Anspruchsweg, Behandlungsanlass, Haushaltsausfall, Mobilität und Beförderungsmittel. Erstellt bedarfsgerechte Anträge, Fahrtennachweise, Widersprüche und eine saubere Abgrenzung zu Pflege- und Rehaleistungen."
 ---
 
-# Haushaltshilfe, Fahrkosten und besondere Lebenslagen
+# Haushaltshilfe und Fahrkosten in besonderen Lebenslagen
 
-## Arbeitsweg
+## 1. Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies ärztliche Verordnung, Behandlungsplan, Haushalts- und Mobilitätsangaben sowie den Kassenbescheid zuerst. Baue zwei getrennte Prüfungen auf: Haushaltshilfe nach Ausfall der Haushaltsführung und Fahrkosten als Nebenleistung zu einer konkreten Kassenleistung.
 
-## Skill-Zweck
+## 2. Rechtsrahmen
 
-Bearbeite **ergänzende GKV-Leistungen** neben der Krankenbehandlung: Haushaltshilfe bei Krankenhausaufenthalt oder ambulanter Behandlung sowie Fahrkostenerstattung. Beide Leistungen werden häufig abgelehnt, obwohl die rechtlichen Voraussetzungen vorliegen.
+- Paragraf 38 SGB V: Haushaltshilfe bei bestimmten Behandlungen sowie bei schwerer Krankheit oder akuter Verschlimmerung.
+- Paragraf 24h SGB V: Haushaltshilfe wegen Schwangerschaft oder Entbindung.
+- Paragraf 60 SGB V: Fahrkosten in Verbindung mit einer Leistung der Krankenkasse.
+- Paragrafen 61 und 62 SGB V: Zuzahlung und Belastungsgrenze.
+- Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses in der seit 06.08.2025 geltenden Fassung; spätere Änderungen vor Verwendung prüfen.
+- Paragraf 73 SGB IX: Reisekosten im Zusammenhang mit Leistungen zur medizinischen Rehabilitation gesondert prüfen.
 
-## Rechtlicher Rahmen
+## 3. Haushaltshilfe
 
-- **§ 38 SGB V** – Haushaltshilfe: bei stationärer Behandlung oder Behandlung mit Haushalt, minderjähriges Kind vorhanden
-- **§ 60 SGB V** – Fahrkosten: medizinisch notwendiger Transport zur Behandlung
-- **§ 61 SGB V** – Zuzahlungsregeln Fahrkosten
-- **§ 62 SGB V** – Belastungsgrenze (2 %/1 % des Bruttoeinkommens)
-- **Krankentransport-Richtlinie des G-BA** (KT-RL)
-- BSG B 1 KR 4/20 R (Fahrkosten, Notwendigkeit), BSG B 3 KR 5/17 R (Haushaltshilfe)
+### 3.1 Anspruchswege
 
-## Haushaltshilfe – Prüfschema
+| Anspruchsweg | Voraussetzungen | Höchstdauer nach Gesetz |
+| --- | --- | --- |
+| benannte Behandlung nach Paragraf 38 Absatz 1 Satz 1 SGB V | Haushalt kann wegen der Leistung nicht fortgeführt werden; Kind unter zwölf Jahren oder behindert und hilfebedürftig im Haushalt | Dauer nach Behandlungsbedarf und Satzungsrecht prüfen |
+| schwere Krankheit oder akute Verschlimmerung | keine Pflegebedürftigkeit mit Pflegegrad zwei bis fünf; Haushaltsführung nicht möglich | grundsätzlich vier Wochen |
+| schwerer Krankheitsfall mit Kind | zusätzlich Kind unter zwölf Jahren oder behindert und hilfebedürftig | bis zu sechsundzwanzig Wochen |
+| Schwangerschaft oder Entbindung | Haushaltsführung gerade deshalb nicht möglich | Paragraf 24h SGB V, ohne Übertragung der Kindvoraussetzung aus Paragraf 38 |
 
-| Voraussetzung | Inhalt |
-|--------------|--------|
-| Hauswirtschaftliche Versorgung | Versicherter kann Haushalt nicht führen (Krankheit, Behandlung) |
-| Minderjähriges Kind | Kind unter 12 oder mit Behinderung im Haushalt |
-| Niemand sonst kann versorgen | Keine Person im Haushalt die Haushaltsführung übernehmen kann |
-| Stationäre oder ambulante Behandlung | § 38 Abs. 1 und 2 SGB V |
+In allen Varianten entfällt der Anspruch nur, soweit eine im Haushalt lebende Person den Haushalt tatsächlich weiterführen kann. Verwandtschaft oder Volljährigkeit allein beweist keine zeitliche und gesundheitliche Verfügbarkeit.
 
-## Fahrkosten – Prüfschema
+### 3.2 Bedarf ermitteln
 
-| Fahrttyp | Voraussetzung | Genehmigung |
-|----------|--------------|-------------|
-| Krankenfahrt mit KTW/RTW | Medizinische Notwendigkeit des Fahrzeugs | Ja, vorab oder Notfall |
-| Krankenfahrt mit Taxi | Gehdauer > 2 km oder Fahruntüchtigkeit | Genehmigung KT-RL |
-| PKW-Fahrt | Ausnahmsweise bei Pflegegrad 3–5, Schwerbehinderten | Vorab-Genehmigung |
-| Öffentliche Verkehrsmittel | Kein Anspruch auf Erstattung bei Zumutbarkeit | – |
+1. Haushaltsmitglieder, Arbeitszeiten, Betreuungspflichten und gesundheitliche Einschränkungen erfassen.
+2. Tätigkeiten und Wochenstunden konkretisieren: Mahlzeiten, Reinigung, Wäsche, Einkauf, Kinderbetreuung und Wege.
+3. Ärztlich Zeitraum und funktionelle Unfähigkeit zur Haushaltsführung bestätigen lassen.
+4. Kann die Krankenkasse keine Kraft stellen, Voraussetzungen und angemessene Höhe einer selbstbeschafften Hilfe nach Paragraf 38 Absatz 4 SGB V dokumentieren.
 
-## Prüfprogramm
+## 4. Fahrkosten
 
-### Schritt 1 – Haushaltshilfe (§ 38 SGB V)
-- Stationärer Aufenthalt oder ambulante Behandlung mit Haushaltsunfähigkeit?
-- Minderjähriges Kind unter 12 im Haushalt? Oder Kind mit Behinderung ohne Altersgrenze?
-- Keine andere Person im Haushalt die einspringen kann?
-- Antrag bei Kasse mit ärztlichem Attest und Erklärung über Haushaltsmitglieder
+### 4.1 Beförderungsmittel
 
-### Schritt 2 – Fahrkosten (§ 60 SGB V)
-- Schritt A: Ist Transport überhaupt erforderlich? (kein eigenständiges Gehen möglich)
-- Schritt B: Welches Beförderungsmittel ist medizinisch notwendig und wirtschaftlich?
-- Schritt C: Genehmigung vorab bei Kasse oder Arztentscheidung (Notfall)?
-- Zuzahlung: 10 % je Fahrt, mind. 5 €, max. 10 €, Belastungsgrenze beachten
+| Mittel | Maßstab | Genehmigungshinweis |
+| --- | --- | --- |
+| privates Kraftfahrzeug oder öffentlicher Verkehr | medizinisch möglich und wirtschaftlich | keine ärztliche Verordnung nach der Richtlinie; Erstattungsvoraussetzungen separat prüfen |
+| Taxi oder Mietwagen | öffentliche Verkehrsmittel und privates Fahrzeug aus zwingenden medizinischen Gründen nicht nutzbar | stationäre und bestimmte operationsbezogene Fahrten nach der Richtlinie ohne vorherige Genehmigung; ambulante Ausnahmefälle gesondert |
+| Krankentransportwagen | fachliche Betreuung oder besondere Einrichtung während der Fahrt erforderlich | ambulant grundsätzlich vorherige Genehmigung, gesetzliche Ausnahmen prüfen |
+| Rettungsmittel | Notfallzustand oder erwartete vitale Gefährdung | Anforderung über Rettungsleitstelle, keine Vorabgenehmigung |
 
-### Schritt 3 – Besondere Lebenslagen
-- Schwangerschaft/Geburt: Haushaltshilfe nach § 24h SGB V (ohne Alterserfordernis)
-- Pflegegrade: Schnittstelle § 36 SGB XI (Pflegesachleistung) vs. § 38 SGB V
-- Onkologische Behandlung: G-BA-Kriterien für Langzeit-Fahrkosten
+Eine starre Gehstrecke von zwei Kilometern ist kein Anspruchskriterium. Entscheidend sind zwingende medizinische Notwendigkeit, aktueller Gesundheitszustand, Gehfähigkeit, Behandlungsart und das wirtschaftlich geeignete Transportmittel.
 
-### Schritt 4 – Widerspruchsstrategie
-- Ablehnung Haushaltshilfe: fehlende andere Versorgungsperson dokumentieren; eidesstattliche Erklärung möglich
-- Ablehnung Fahrkosten: ärztliche Bescheinigung medizinische Notwendigkeit des Transports, Nachweis Fahruntüchtigkeit
+### 4.2 Ambulante Ausnahmefälle
 
-## Typische Fallen
+1. Therapieschema mit hoher Behandlungsfrequenz über längeren Zeitraum und erhebliche Beeinträchtigung prüfen; Anlage 2 der Richtlinie nennt insbesondere Dialyse, onkologische Strahlentherapie und parenterale antineoplastische Therapie, ist aber nicht abschließend.
+2. Bei Merkzeichen aG, Bl oder H sowie Pflegegrad vier oder fünf kann die gesetzliche Sonderregel greifen. Bei Pflegegrad drei muss zusätzlich eine dauerhafte Mobilitätsbeeinträchtigung vorliegen.
+3. Vergleichbar schwere Mobilitätsbeeinträchtigungen ohne formalen Nachweis einzelfallbezogen prüfen.
+4. Für die Fälle mit Merkzeichen oder Pflegegrad nach Paragraf 60 Absatz 1 Satz 5 SGB V gilt die Genehmigung als erteilt; andere ambulante Ausnahmefahrten grundsätzlich vorab genehmigen lassen.
 
-- **Haushaltshilfe und erwachsene Kinder**: Erwachsene Kinder im Haushalt werden als Versorgungsperson gewertet – explizit klarstellen wenn diese berufstätig/nicht verfügbar sind.
-- **Taxi vs. KTW**: Taxifahrt braucht eigene Genehmigung; KTW-Fahrt zusätzliche medizinische Begründung (Liegendtransport etc.).
-- **Eigenständige PKW-Fahrt**: Kasse erstattet nur bei spezifischen Ausnahmen (§ 60 Abs. 2 SGB V); allgemeiner Führerscheinbesitz schließt Anspruch nicht aus wenn medizinische Begründung vorliegt.
-- **Rückwirkend**: Fahrkosten können rückwirkend geltend gemacht werden, Verjährung 4 Jahre.
+### 4.3 Nachweis und Abrechnung
 
-## Output-Formate
+- Hauptleistung, Behandlungstag oder Frequenz, nächst erreichbare geeignete Behandlungsstätte sowie Hin- und Rückweg getrennt erfassen.
+- Medizinische Notwendigkeit des gewählten Mittels ärztlich begründen.
+- Rechnungen, Anwesenheitsbestätigungen, Kilometer und Zahlungen sammeln.
+- Rückwirkende Erstattung nicht allein aus einer allgemeinen Vierjahresfrist ableiten; vorherige Genehmigung, Verordnung, Leistungsart und Beschaffungsweg bleiben eigenständige Voraussetzungen.
 
-- Haushaltshilfe-Antrag mit Mustertext
-- Fahrkostenerstattungsantrag
-- Widerspruch gegen Ablehnung
-- Fahrtenbuch (Nachweis)
-- Belastungsgrenze-Berechnung
+## 5. Fehlerkontrolle
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+- Themenfremde Entscheidungen nicht als Fahrkosten- oder Haushaltshilfeanker verwenden; Fundstelle und Entscheidungsgegenstand vor jeder Aufnahme in den Entwurf verifizieren.
+- Pflegegrad drei bis fünf begründet keinen pauschalen Anspruch auf jede PKW- oder Taxifahrt.
+- Krankenfahrt, Krankentransport und Rettungsfahrt begrifflich und medizinisch trennen.
+- Bei Rehabilitationsmaßnahmen nicht automatisch Paragraf 60 SGB V anwenden; Zuständigkeit und Reisekostenrecht des SGB IX prüfen.
 
-## Quellen
+## 6. Arbeitsprodukte
 
-- [§ 38 SGB V – Haushaltshilfe](https://www.gesetze-im-internet.de/sgb_5/__38.html)
-- [§ 60 SGB V – Fahrkosten](https://www.gesetze-im-internet.de/sgb_5/__60.html)
-- [Krankentransport-Richtlinie G-BA](https://www.g-ba.de/richtlinien/33/)
-- [§ 62 SGB V – Belastungsgrenze](https://www.gesetze-im-internet.de/sgb_5/__62.html)
-- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org § 60 SGB V](https://dejure.org/gesetze/SGB_V/60.html)
+- Haushaltshilfe-Antrag mit Stunden- und Tätigkeitsplan;
+- Verfügbarkeitsmatrix der Haushaltsmitglieder;
+- Fahrkostenantrag mit Beförderungsmittelbegründung;
+- Fahrtenbuch und Belegverzeichnis;
+- Widerspruch gegen Leistungs- oder Erstattungsablehnung;
+- Eilantrag bei unmittelbar gefährdeter Behandlung oder Versorgung des Haushalts.
+
+## 7. Quellenstatus
+
+- [Paragraf 38 SGB V](https://www.gesetze-im-internet.de/sgb_5/__38.html)
+- [Paragraf 60 SGB V](https://www.gesetze-im-internet.de/sgb_5/__60.html)
+- [Krankentransport-Richtlinie](https://www.g-ba.de/richtlinien/25/)
+- [Paragraf 24h SGB V](https://www.gesetze-im-internet.de/sgb_5/__24h.html)
+- [Paragraf 73 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__73.html)

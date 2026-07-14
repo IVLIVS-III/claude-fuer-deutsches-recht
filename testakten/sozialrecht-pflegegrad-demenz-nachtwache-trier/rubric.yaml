@@ -1,9 +1,23 @@
-slug: sozialrecht-pflegegrad-demenz-nachtwache-trier
-rechtsgebiet: fachanwalt-sozialrecht
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: sozialrecht-pflegegrad-demenz-nachtwache-trier
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte sozialrecht-pflegegrad-demenz-nachtwache-trier.
+checks:
+  - id: datei-01-antrag-hoherstufung-pflegegrad-2026-05-18
+    check_type: file_exists
+    description: Das Primäraktenstück 01_antrag_hoherstufung_pflegegrad_2026-05-18.docx ist vorhanden.
+    path: 01_antrag_hoherstufung_pflegegrad_2026-05-18.docx
+  - id: datei-02-hausarzt-bescheinigung-demenz-sturzrisiko-2026-06-02
+    check_type: file_exists
+    description: Das Primäraktenstück 02_hausarzt_bescheinigung_demenz_sturzrisiko_2026-06-02.docx ist vorhanden.
+    path: 02_hausarzt_bescheinigung_demenz_sturzrisiko_2026-06-02.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Alle sechs Begutachtungsmodule mit Schwerpunkt Kognition, Verhalten, Selbstversorgung und nächtliche
+      Risiken aus dem Pflegeprotokoll bewerten.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: MD-Kurzbegutachtung, Hausarztbescheinigung, Sturzereignisse und Angaben der Tochter auf unvollständige
+      Tatsachengrundlage und Beweiswert prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Höherstufung, Widerspruchsfrist, erneute persönliche Begutachtung und die getrennte Finanzierung
+      von Nachtwache und Wohnraumanpassung planen.

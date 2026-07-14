@@ -27,7 +27,7 @@ description: "Wenn es um Pflichtteil Dokumentenmatrix Und Lückenliste in Fachan
 
 ## Spezialwissen: Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** BGB, EU, ErbVO.
-- **Verantwortungsmatrix:** Nach BGH, Beschluss vom 15.01.2025 - IV ZR 166/24, bleibt der Erbe Adressat der Auskunft nach Paragraf 2314 Absatz 1 Satz 1 BGB. Unterlagen beim Testamentsvollstrecker sind deshalb als Beschaffungsweg, nicht als Wechsel des Anspruchsgegners einzuordnen.
+- Verantwortungsmatrix: In der Entscheidung zum einstweiligen Vollstreckungsschutz vom 15.01.2025 - IV ZR 166/24 behandelte der BGH den Erben als Adressaten der Auskunft nach BGB Paragraf 2314 Absatz 1 Satz 1. Die Entscheidung ist kein endgültiges Sachurteil zu allen Beschaffungsfragen; Unterlagen beim Testamentsvollstrecker sind als Beschaffungsweg, nicht als automatischer Wechsel des Anspruchsgegners einzuordnen.
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

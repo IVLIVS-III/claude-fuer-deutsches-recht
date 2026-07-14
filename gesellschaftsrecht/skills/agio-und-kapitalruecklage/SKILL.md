@@ -42,7 +42,7 @@ Vor der Bearbeitung folgende Fragen klären:
 
 ## Zentrale Normen
 
-Paragraf 3 Abs. 2 GmbHG (besondere Bestimmungen Nebenleistungspflichten) — Paragraf 5 Abs. 1 GmbHG (Stammkapital mindestens 25.000 EUR) — Paragraf 5 Abs. 4 GmbHG (Sachgründungsbericht Sacheinlagefestsetzung) — Paragraf 53 Abs. 2 GmbHG (notarielle Beurkundung Satzungsänderung) — Paragraf 55 GmbHG (Kapitalerhöhung gegen Einlagen) — Paragraf 56 GmbHG (Kapitalerhöhung mit Sacheinlagen) — Paragraf 272 Abs. 2 Nr. 1 HGB (Kapitalrücklage Beträge bei Ausgabe über Nennbetrag) — Paragraf 272 Abs. 2 Nr. 4 HGB (andere Zuzahlungen) — Paragraf 27 KStG (steuerliches Einlagekonto) — Paragraf 21 UmwStG (qualifizierter Anteilstausch Buchwertfortführung) — Paragraf 30 GmbHG (Kapitalerhaltung) — Paragraf 58 ff. GmbHG (Kapitalherabsetzung)
+Paragraf 3 Absatz 2 GmbHG (besondere Bestimmungen und Nebenleistungspflichten) — Paragraf 5 Absatz 1 GmbHG (Stammkapital mindestens 25.000 EUR) — Paragraf 5 Absatz 4 GmbHG (Festsetzungen bei Sacheinlagen) — Paragraf 53 Absatz 2 und 3 GmbHG (Dreiviertelmehrheit und notarielle Beurkundung der Satzungsänderung) — Paragraf 55 GmbHG (Kapitalerhöhung gegen Einlagen) — Paragraf 56 GmbHG (Kapitalerhöhung mit Sacheinlagen) — Paragraf 272 Absatz 2 Nummer 1 HGB (Kapitalrücklage bei Ausgabe über Nennbetrag) — Paragraf 272 Absatz 2 Nummer 4 HGB (andere Zuzahlungen) — Paragraf 27 KStG (steuerliches Einlagekonto) — Paragraf 21 UmwStG (qualifizierter Anteilstausch) — Paragraf 30 GmbHG (Kapitalerhaltung) — Paragrafen 58 ff. GmbHG (Kapitalherabsetzung)
 
 ## Grundbegriff Agio (Aufgeld)
 

@@ -13,7 +13,7 @@ description: "Wenn es um Pflichtteilsberechnung — Auskunft und Stufenklage in 
 4. Hat der Erblasser in den letzten zehn Jahren vor dem Erbfall Schenkungen oder gemischte Schenkungen getätigt (Pflichtteilsergänzung § 2325 BGB)?
 5. Liegt das Bestandsverzeichnis nach § 2314 BGB schon vor oder muss es erst eingefordert werden?
 6. Haben die Erben die Auskunft verweigert, unvollständig erteilt oder die Bewertung blockiert?
-7. Ist Verjährung drohend — Erbfall + 3 Jahre Jahresende § 2332 BGB?
+7. Welcher Anspruch richtet sich gegen den Erben und welcher nach BGB Paragraf 2329 gegen einen Beschenkten? Für den Anspruch gegen den Erben Kenntnis oder grob fahrlässige Unkenntnis, für den Anspruch gegen den Beschenkten den Erbfall als besonderen Fristbeginn getrennt erfassen.
 8. Bestehen Anzeichen für verschleierte Schenkungen (Übertragungen unter Nießbrauch, Schenkungen an Lebensgefährten)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -30,14 +30,16 @@ description: "Wenn es um Pflichtteilsberechnung — Auskunft und Stufenklage in 
 | § 2325 BGB | Pflichtteilsergänzung — Schenkungen letzter 10 Jahre; 10 %-Abschmelzung je Jahr |
 | § 2327 BGB | Anrechnung Eigengeschenke des Pflichtteilsberechtigten |
 | § 2329 BGB | Direktanspruch gegen Beschenkte wenn Nachlass insufficient |
-| § 2332 BGB | Verjährung — 3 Jahre ab Kenntnis; 30 Jahre absolut § 199 Abs. 3a BGB |
+| BGB Paragrafen 195 und 199 Absatz 1 | Pflichtteilsanspruch gegen den Erben: drei Jahre ab Jahresschluss bei Anspruchsentstehung und Kenntnis oder grob fahrlässiger Unkenntnis |
+| BGB Paragraf 199 Absatz 3a | Kenntnisunabhängige Höchstfrist von 30 Jahren ab Anspruchsentstehung für Ansprüche, die auf einem Erbfall beruhen oder eine Verfügung von Todes wegen voraussetzen |
+| BGB Paragraf 2332 | Anspruch gegen den Beschenkten nach BGB Paragraf 2329: Verjährungsbeginn mit dem Erbfall; keine Hemmung allein wegen einer erforderlichen Ausschlagung |
 
 ## Leitentscheidungen
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
 | BGH IV. Zivilsenat | IV ZR 88/24 | 12.03.2025 | Für die Entstehung des Pflichtteilsanspruchs nach § 199 Abs. 1 Nr. 1 BGB ist § 2317 Abs. 1 BGB auch dann maßgebend, wenn der Berechtigte zum Zeitpunkt des Erbfalls aufgrund der gesetzlichen Ausübungssperre in § 1600d Abs. 5 BGB an einer erfolgreichen Anspruchsdurchsetzung gehindert ist (nichteheliches Kind, Vaterschaftsfeststellung). Quelle: bundesgerichtshof.de bzw. dejure.org. |
-| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Eine Zuwendung von Todes wegen an den behandelnden Arzt des Erblassers ist nicht deshalb unwirksam, weil sie gegen ein berufsständisches Zuwendungsverbot der ärztlichen Berufsordnung (§ 32 Abs. 1 S. 1 BO) verstößt. Berufsrecht ist kein Verbotsgesetz i.S.d. § 134 BGB; Testierfreiheit (Art. 14 GG) überwiegt. Sittenwidrigkeit (§ 138 BGB) bleibt Einzelfallprüfung. Quelle: bundesgerichtshof.de Pressemitteilung 122/2025. |
+| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Das Vermächtnis an den behandelnden Arzt war nicht wegen der konkret geprüften ärztlichen Berufsregel in Verbindung mit BGB Paragrafen 134 und 2171 Absatz 1 unwirksam. Andere Verbote und BGB Paragraf 138 bleiben gesondert zu prüfen; keine pauschale Übertragung auf andere Vertrauenspersonen. |
 | Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Durchsetzung
@@ -274,9 +276,9 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 | Frist | Auslöser | Dauer | Folge |
 |-------|---------|-------|-------|
 | Auskunftsanforderung | Möglichst bald nach Erbfall | Praxis: 4 Wochen setzen | Bei Ablehnung: Stufenklage |
-| Verjährung Pflichtteil § 2332 BGB | Kenntnis von Erbfall + Verfügung | 3 Jahre ab Jahresende | Anspruchsverlust |
-| Absolute Verjährung | Erbfall | 30 Jahre § 199 Abs. 3a BGB | Anspruchsverlust |
-| Direktanspruch § 2329 BGB | Schenkungsdatum | 3 Jahre ab Kenntnis | Verjährung gegen Beschenkten |
+| Pflichtteilsanspruch gegen den Erben | Anspruchsentstehung und Kenntnis oder grob fahrlässige Unkenntnis | drei Jahre ab Jahresschluss nach BGB Paragrafen 195 und 199 Absatz 1 | Leistung kann nach Verjährungseinrede verweigert werden |
+| Kenntnisunabhängige Höchstfrist | Anspruchsentstehung | 30 Jahre nach BGB Paragraf 199 Absatz 3a | Leistung kann nach Verjährungseinrede verweigert werden |
+| Direktanspruch gegen den Beschenkten nach BGB Paragraf 2329 | Erbfall | drei Jahre ab Erbfall nach BGB Paragrafen 195, 200 und 2332 Absatz 1 | Leistung kann nach Verjährungseinrede verweigert werden |
 
 ## Gegenargumente und Reaktion
 
@@ -316,10 +318,10 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 
 ## Quellen
 
-- BGB §§ 2303–2332, 2314, 2325, 2329, 2332
+- BGB Paragrafen 195, 199, 200, 2303 bis 2332, insbesondere 2314, 2325, 2329 und 2332
 - ZPO § 254
 - BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteilsanspruch nichteheliches Kind; Verjährung): dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=12.03.2025&Aktenzeichen=IV+ZR+88/24
-- BGH, Urteil vom 02.07.2025 - IV ZR 93/24 (Zuwendung an Hausarzt; Berufsordnung kein § 134 BGB-Verbot): bundesgerichtshof.de Pressemitteilung 2025/2025122.html
+- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Arztvermächtnis und Reichweite der konkret geprüften Berufsregel bei BGB Paragrafen 134 und 2171 Absatz 1; amtlichen Volltext vor Zitierung verwenden.
 - Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026

@@ -115,7 +115,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 126 BGB (Schriftform – auf Verlangen zusätzlich); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 128 BGB (Notarielle Beurkundung – nur falls erforderlich); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 133, 157 BGB (Auslegung mehrdeutiger Verträge) → Art. 3 Rom-I-VO (Rechtswahl im Vertrag) → Paragraf 184 Abs. 2 GVG (Amtssprache Deutsch bei Gericht) → Paragraf 55 Abs; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 133 und 157 BGB (Auslegung mehrdeutiger Verträge) → Artikel 3 Rom-I-VO (Rechtswahl) → Paragraf 5 BeurkG (Urkundssprache) → Paragraf 55 Absatz 1 GmbHG (Form; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 126b BGB (Textform), Paragraf 126 BGB (Schriftform); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 133, 157 BGB (Auslegung) → Paragraf 305c Abs. 2 BGB (Unklarheitenregelung AGB) → Paragraf 184 GVG (Amtssprache) → Paragrafen 55 Abs. 2, 56 GmbHG (Beurkundung, Sacheinlage); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.

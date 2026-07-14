@@ -2,11 +2,11 @@ name: "Nachehelicher Unterhalt Voßkamp - Herabsetzung und Befristung 1578b BGB"
 plugin: "fachanwalt-familienrecht"
 
 expected_use:
-  - Statthaften Rechtsbehelf gegen einen Unterhaltsvergleich erkennen (Abänderung nach § 239 FamFG statt § 238 FamFG bei Beschluss)
-  - Herabsetzung und Befristung nach § 1578b BGB unterscheiden und am Maßstab fortwirkender ehebedingter Nachteile prüfen
+  - Statthaften Rechtsbehelf gegen einen Unterhaltsvergleich erkennen (Abänderung nach Paragraf 239 FamFG statt Paragraf 238 FamFG bei Beschluss)
+  - Herabsetzung und Befristung nach Paragraf 1578b BGB unterscheiden und am Maßstab fortwirkender ehebedingter Nachteile prüfen
   - Ehebedingte Nachteile (Teilzeit, Wohnortwechsel, ausgeschlagene Beförderung) konkret herausarbeiten und von freien Entscheidungen abgrenzen
   - Aufstockungsobliegenheit und fiktives Einkommen der Berechtigten nur insoweit ansetzen, als die Teilzeit nicht ehebedingt fortwirkt
-  - Neue verfestigte Lebensgemeinschaft tatsächlich aufklären und für § 1578b BGB sowie hilfsweise § 1579 Nr. 2 BGB würdigen
+  - Neue verfestigte Lebensgemeinschaft tatsächlich aufklären und für Paragraf 1578b BGB sowie hilfsweise Paragraf 1579 Nummer 2 BGB würdigen
   - Tabellen-, Selbstbehalts- und Einkommenswerte als Arbeitswerte behandeln und vor Verwendung verifizieren
 
 checks:
@@ -22,25 +22,25 @@ checks:
 
   - id: r03-mindestens-zehn-aktenstuecke
     check_type: file_count
-    description: "mindestens zehn Markdown-Aktenstücke"
-    glob: "*.md"
+    description: "mindestens zehn ausformulierte Word-Aktenstücke"
+    glob: "*.docx"
     min: 10
 
   - id: r04-1578b-im-befristungsbegehren
     check_type: text_contains
-    description: "Befristungsbegehren stützt sich auf § 1578b BGB"
+    description: "Befristungsbegehren stützt sich auf Paragraf 1578b BGB"
     path: "08_abaenderung_und_befristungsbegehren.docx"
     contains: "1578b"
 
   - id: r05-239-famfg-statt-238
     check_type: text_contains
-    description: "Abänderung eines Vergleichs über § 239 FamFG erkannt"
+    description: "Abänderung eines Vergleichs über Paragraf 239 FamFG erkannt"
     path: "08_abaenderung_und_befristungsbegehren.docx"
     contains: "239 FamFG"
 
   - id: r06-verwirkung-hilfsweise
     check_type: text_contains
-    description: "Verwirkung nach § 1579 BGB hilfsweise geprüft"
+    description: "Verwirkung nach Paragraf 1579 BGB hilfsweise geprüft"
     path: "12_strategie_und_vergleichskorridor.docx"
     contains: "1579"
 

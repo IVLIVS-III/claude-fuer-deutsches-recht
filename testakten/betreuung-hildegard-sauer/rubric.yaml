@@ -1,29 +1,24 @@
-name: "Betreuung Hildegard Sauer"
-plugin: "betreuungsrecht"
-
+name: Betreuung Hildegard Sauer
+plugin: betreuungsrecht
 checks:
   - id: r01-readme
     check_type: file_exists
-    description: "README vorhanden"
-    path: "README.md"
-
+    description: README vorhanden
+    path: README.md
   - id: r02-gesamt-pdf
     check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/betreuung-hildegard-sauer_gesamt.pdf"
-
+    description: Gesamt-PDF gebaut
+    path: gesamt-pdf/betreuung-hildegard-sauer_gesamt.pdf
   - id: r03-vermoegensverzeichnis
     check_type: file_exists
-    description: "Vermoegensverzeichnis vorhanden"
-    path: "05_Vermoegensverzeichnis_Stand_30-04-2026.docx"
-
+    description: Vermoegensverzeichnis vorhanden
+    path: 05_Vermoegensverzeichnis_Stand_30-04-2026.docx
   - id: r04-genehmigungsantrag-1850-bgb
     check_type: file_exists
-    description: "Genehmigungsantrag $ 1850 BGB vorhanden"
-    path: "09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.docx"
-
+    description: Genehmigungsantrag Paragraf 1850 BGB vorhanden
+    path: 09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.docx
   - id: r05-paragraf-1850-erwaehnt
     check_type: text_contains
-    description: "$ 1850 BGB im Genehmigungsantrag erwaehnt"
-    path: "09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.docx"
-    contains: "1850"
+    description: Paragraf 1850 BGB im Genehmigungsantrag erwaehnt
+    path: 09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.docx
+    contains: '1850'

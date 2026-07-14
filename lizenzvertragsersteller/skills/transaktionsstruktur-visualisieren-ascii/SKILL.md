@@ -23,7 +23,7 @@ description: "Wenn es um Transaktionsstruktur visualisieren — ASCII in Lizenzv
  |  GmbH      |              |  Mutter   |              |  Tochter   |
  +-----------+              +-----------+              +------------+
    (Lizenzgeber)            (Hauptlizenz-              (Sub-License,
-                             nehmer)                   Definition $ 15 AktG)
+                             nehmer)                   Definition Paragraf 15 AktG)
 ```
 
 ## Konstellation 3 — Cross-License (Patentaustausch)

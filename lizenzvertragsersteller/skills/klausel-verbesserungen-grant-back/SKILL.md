@@ -27,7 +27,7 @@ Lizenznehmer entwickelt aufgrund / waehrend der Nutzung des Lizenzgegenstands Ve
 ## Klausel-Bausteine
 
 **A. Mitteilungspflicht (mildeste Variante):**
-> "$ 7 Verbesserungen. Der Lizenznehmer meldet dem Lizenzgeber unverzueglich jede waehrend der Vertragslaufzeit von ihm entwickelte Verbesserung am Lizenzgegenstand. Dies umfasst Modifikationen, Anwendungserweiterungen und neue technische Loesungen."
+> "Paragraf 7 Verbesserungen. Der Lizenznehmer meldet dem Lizenzgeber unverzueglich jede waehrend der Vertragslaufzeit von ihm entwickelte Verbesserung am Lizenzgegenstand. Dies umfasst Modifikationen, Anwendungserweiterungen und neue technische Loesungen."
 
 **B. Nicht-ausschliessliches Grant-Back:**
 > "Der Lizenznehmer raeumt dem Lizenzgeber an jeder Verbesserung im Sinne von Absatz 1 eine **einfache, nicht-ausschliessliche, weltweite Lizenz** zur Nutzung in allen Anwendungsfeldern ein, lizenzgebuehrenfrei. Die Lizenz besteht für die Laufzeit des Schutzrechts an der Verbesserung."

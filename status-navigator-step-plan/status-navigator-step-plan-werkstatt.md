@@ -179,3 +179,13 @@ Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskan
 ### 15.6. Übergabe und Nachweis
 
 Ergebnisdatei, Quellen, offene Lücke, Prüfschritt, Dateiname, Freigabestatus und nächste Handlung protokollieren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+
+## 16. Schlusskontrolle für Tempo
+
+- Erstes Ergebnis steht oben, nicht am Ende versteckt.
+- Jede offene Tatsache ist als Nachforderung formuliert.
+- Jede Rechtsfrage hat mindestens einen Normanker.
+- Das nächste Dokument oder die nächste Handlung ist benannt.
+- Der Ton passt zum Empfänger: Mandant, Gericht, Behörde, Gegner oder intern.
+- Wenn zwei Wege vertretbar sind, steht die empfohlene Variante mit Grund vor der Alternative.
+- Keine Nebenspur bleibt offen: erledigen, zurückstellen oder nachfordern.

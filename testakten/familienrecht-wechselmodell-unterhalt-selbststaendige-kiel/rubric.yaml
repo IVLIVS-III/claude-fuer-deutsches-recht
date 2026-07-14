@@ -1,2 +1,39 @@
 name: familienrecht-wechselmodell-unterhalt-selbststaendige-kiel
-focus: fachanwalt-familienrecht
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: datei-07-betreuungsabgleich
+    check_type: file_exists
+    description: Der Betreuungskalender mit streitigen Nächten und Zusatzbetreuung ist vorhanden.
+    path: 07_betreuungskalender_uebergabeprotokoll.docx
+  - id: datei-08-einkommensauskunft
+    check_type: file_exists
+    description: Die Mehrjahresauskunft des selbstständigen Elternteils mit Belegverzeichnis ist vorhanden.
+    path: 08_praxis_einkommensauskunft_mehrjahresbild.docx
+  - id: datei-10-schule
+    check_type: file_exists
+    description: Die schulische Auskunft zu Abholungen, Krankheit und Übergabeorganisation ist vorhanden.
+    path: 10_schulische_stellungnahme.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Tatsächliche Betreuungsanteile und Verantwortungsverteilung aus Kalender, Schulunterlagen und Elternkommunikation
+      feststellen, nicht nur die Bezeichnung Wechselmodell übernehmen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Beiderseitige Einkommen einschließlich Selbständigeneinkünften bereinigen und Kindesbedarf, Mehrbedarf
+      und Kindergeldverrechnung transparent berechnen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Vertretung des Kindes, Auskunftslücken, rückständige Zahlungen und tragfähigen Vergleichskorridor
+      in einer prozessfähigen Unterhaltsroute zusammenführen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Übernachtungen, Zusatzbetreuung und tatsächlich bedarfsdeckende Sachleistungen getrennt erfassen,
+      bevor eine Quote oder Unterhaltsfolge abgeleitet wird.

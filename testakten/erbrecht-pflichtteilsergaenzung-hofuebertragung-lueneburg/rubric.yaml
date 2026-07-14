@@ -1,10 +1,37 @@
 name: erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg
-description: Pflichtteils- und Pflichtteilsergänzungsakte mit Hofübertragung, Vorbehaltsrechten, Baugrundstücken, Depotlücke, Pflegebehauptung und Auskunftsstufe.
+description: Pflichtteils- und Pflichtteilsergänzungsakte mit Hofübertragung, Vorbehaltsrechten, Baugrundstücken,
+  Depotlücke, Pflegebehauptung und Auskunftsstufe.
 checks:
-  - Pflichtteil und Pflichtteilsergänzung getrennt berechnen.
-  - Vorbehaltsrechte (Wohnungsrecht, Obstwiese, Scheunenpacht, Rückauflassungsvormerkung) und Gegenleistungen nicht pauschal behandeln.
-  - Auskunft, Wertermittlung, eidesstattliche Versicherung und Zahlungsstufe unterscheiden.
-  - Zehnjahresbetrachtung, Fristbeginn und wirtschaftlichen Vollzug der Übertragung 2019 problematisieren.
-  - Zahlung von 35.000 EUR an Moritz als mögliche Anrechnung gesondert würdigen und dabei erkennen, dass eine dem Empfänger mitgeteilte Anrechnungsbestimmung nicht belegt ist.
-  - Diskrepanz zwischen Nachlassaufstellung der Erbin (Stück 02) und Bankauskunft (Stück 08, fortbestehende Bundesanleihe, Überweisungen an Alva und Jannik) als Aufklärungspunkt benennen.
-  - Bewertungsspanne (Geschäftswert 410.000 EUR gegen Maklereinschätzung 740.000 bis 820.000 EUR ohne Innenbesichtigung) nicht als feststehenden Wert übernehmen.
+  - id: datei-01-mandatsnotiz-enterbter-sohn
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_enterbter_sohn.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_enterbter_sohn.docx
+  - id: datei-02-testament-und-nachlassverzeichnis
+    check_type: file_exists
+    description: Das Primäraktenstück 02_testament_und_nachlassverzeichnis.docx ist für die Fallauswertung vorhanden.
+    path: 02_testament_und_nachlassverzeichnis.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Pflichtteil und Pflichtteilsergänzung getrennt berechnen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Vorbehaltsrechte (Wohnungsrecht, Obstwiese, Scheunenpacht, Rückauflassungsvormerkung) und Gegenleistungen
+      nicht pauschal behandeln.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Auskunft, Wertermittlung, eidesstattliche Versicherung und Zahlungsstufe unterscheiden.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Zehnjahresbetrachtung, Fristbeginn und wirtschaftlichen Vollzug der Übertragung 2019 problematisieren.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Zahlung von 35.000 EUR an Moritz als mögliche Anrechnung gesondert würdigen und dabei erkennen,
+      dass eine dem Empfänger mitgeteilte Anrechnungsbestimmung nicht belegt ist.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Diskrepanz zwischen Nachlassaufstellung der Erbin (Stück 02) und Bankauskunft (Stück 08, fortbestehende
+      Bundesanleihe, Überweisungen an Alva und Jannik) als Aufklärungspunkt benennen.
+  - id: fachpruefung-07
+    check_type: human_review
+    description: Bewertungsspanne (Geschäftswert 410.000 EUR gegen Maklereinschätzung 740.000 bis 820.000 EUR ohne
+      Innenbesichtigung) nicht als feststehenden Wert übernehmen.

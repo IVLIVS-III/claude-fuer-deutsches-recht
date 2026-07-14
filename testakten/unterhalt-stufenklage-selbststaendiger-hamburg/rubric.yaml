@@ -1,5 +1,23 @@
-expected_use:
-  - Auskunftsanspruch und Belegvorlage erkennen
-  - Stufenantrag nach Auskunft, Versicherung und Zahlung strukturieren
-  - Vorläufigen Unterhalt nur vorsichtig schätzen
-  - Lücken bei Selbstständigen-Einkommen und Privatnutzung benennen
+name: unterhalt-stufenklage-selbststaendiger-hamburg
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte unterhalt-stufenklage-selbststaendiger-hamburg.
+checks:
+  - id: datei-01-mandatsnotiz-trennung-unterhalt
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_trennung_unterhalt.docx ist vorhanden.
+    path: 01_mandatsnotiz_trennung_unterhalt.docx
+  - id: datei-02-familien-und-kinderdaten
+    check_type: file_exists
+    description: Das Primäraktenstück 02_familien_und_kinderdaten.docx ist vorhanden.
+    path: 02_familien_und_kinderdaten.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Auskunft, Belegvorlage, eidesstattliche Versicherung und Zahlung in der Stufenklage prozessual
+      sauber trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Einkommen des Selbständigen aus BWA, Entnahmen, Firmenwagen und Ferienwohnung mehrjährig aufbereiten
+      und Lücken oder Manipulationsrisiken kennzeichnen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Kindes- und Trennungsunterhalt, Mehrbedarf, Verzug und vorläufigen Rechtsschutz mit konkreten Anträgen
+      und offenen Zahlenvarianten verbinden.

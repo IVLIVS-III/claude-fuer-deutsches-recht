@@ -106,7 +106,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Risiken / typische Fehler
 
 - **Richtungsverwechslung:** Falsches SCC-Modul hat keine Schutzwirkung. Art. 28 Abs. 4 DSGVO setzt voraus, dass Sub-AV-Kette rechtswirksam abgesichert ist.
-- **Veraltete SCC:** Altes SCC-Muster (2001/497/EG, 2004/915/EG) ist seit 27.09.2021 nicht mehr für neue Verträge verwendbar; bestehende Altverträge waren bis 27.12.2022 umzustellen (§ 46 Abs. 5 DSGVO-Beschluss). `[Modellwissen – aktuellen Status prüfen]`
+- **Veraltete SCC:** Die Entscheidungen 2001/497/EG in der durch 2004/915/EG geänderten Fassung und 2010/87/EU wurden zum 27. September 2021 aufgehoben. Für unveränderte Altverträge endete die Übergangsmöglichkeit am 27. Dezember 2022 nach Artikel 4 Absatz 4 des Durchführungsbeschlusses (EU) 2021/914; Änderungen der Verarbeitung oder unzureichende Garantien konnten sie schon vorher entfallen lassen.
 - **DPF-Validität:** Das EU-US Data Privacy Framework steht unter politischem Vorbehalt (vgl. Schrems II zur Vorgänger-Regelung). DPF-Eintrag auf data.privacyframework.gov vor Unterschrift prüfen.
 - **TIA nur Formalie:** Eine TIA muss ehrliche Risikobewertung enthalten. Pauschal "Risiko akzeptabel" ohne Begründung genügt Art. 28 DSGVO und den EDSA-Empfehlungen 01/2020 nicht.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -116,23 +116,22 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarbeitung, Änderungen des SCC-Beschlusses 2021/914/EU oder neuen DPF-Entwicklungen.
 
-**Hinweis EDSA-Leitlinien zur Auftragsverarbeitung:** Der EDSA hat Leitlinien zur Abgrenzung von Verantwortlichen und Auftragsverarbeitern veröffentlicht (EDSA, Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter, angenommen 07.07.2021). Diese sind bei der Richtungserkennung (Schritt 1) und bei der Prüfung der Pflichtklauseln verbindlich heranzuziehen. Insbesondere: Wer weisungsgebunden und ohne eigenen Entscheidungsspielraum verarbeitet, ist Auftragsverarbeiter; eigenständige Zwecksetzung begründet Mit-Verantwortlichkeit (Art. 26 DSGVO). `[Modellwissen – aktuellen EDSA-Leitlinienstand auf edpb.europa.eu prüfen]`
+**Hinweis EDSA-Leitlinien zur Auftragsverarbeitung:** Die Endfassung der Leitlinien 07/2020 zu den Begriffen des Verantwortlichen und des Auftragsverarbeiters wurde am 7. Juli 2021 angenommen. Sie ist eine fachlich gewichtige, aber nicht bindende Orientierungshilfe. Die Rollen sind anhand der tatsächlichen Entscheidung über Zwecke und wesentliche Mittel zu bestimmen; Vertragsbezeichnungen allein entscheiden nicht.
 
 **Querverweise:**
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Vollständige TIA-Methodik und SCC-Modul-Auswahl-Matrix
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — DSFA bei Hochrisiko-AVV-Konstellationen
 
-## Aktuelle Rechtsprechung (v14.2)
+## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
-- **EDSA Guidelines 07/2020 zu Verantwortlichen und Auftragsverarbeitern:** Final-Version verbindliche Auslegungshilfe; bei der Rollenzuordnung beruecksichtigen. Quelle: edpb.europa.eu.
-- **EDSA Stellungnahme 22/2024 zu Auftragsverarbeitern und Sub-AV:** Aktuelle Stellungnahmen zur Sub-Verarbeiter-Kette und zur Verantwortlichkeit live über edpb.europa.eu prüfen.
-- **EuGH-Linie zu Art. 82 DSGVO Mit-Haftung:** Verantwortlicher und Auftragsverarbeiter haften gesamtschuldnerisch nach Massgabe ihrer jeweiligen Pflichtverletzungen (Art. 82 Abs. 4 DSGVO). Konkrete Aktenzeichen vor Zitat über curia.europa.eu prüfen.
+- **EDSA Guidelines 07/2020 zu Verantwortlichen und Auftragsverarbeitern:** Die Endfassung ist eine nicht bindende, fachlich gewichtige Orientierungshilfe; bei der Rollenzuordnung berücksichtigen, aber nicht als Rechtsnorm behandeln. Quelle: https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_en
+- **EDSA Stellungnahme 22/2024 vom 9. Oktober 2024:** Der Verantwortliche muss Identität aller Auftragsverarbeiter und Unterauftragsverarbeiter verfügbar haben und ausreichende Garantien risikoadäquat prüfen. Er muss nicht ausnahmslos jeden Unterauftragsvertrag anfordern; Umfang und Nachweis der Kontrolle richten sich nach der konkreten Verarbeitung. Quelle: https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-222024-certain-obligations-following_en
+- **Haftung nach Artikel 82 Absatz 4 DSGVO:** Die gesamtschuldnerische Außenhaftung mehrerer an derselben Verarbeitung Beteiligter folgt aus dem Verordnungstext. Sie nicht ohne verifizierte Fundstelle als besondere EuGH-Entscheidung ausgeben; Regress und Verantwortungsanteile nach Artikel 82 Absatz 5 getrennt prüfen.
 - **EU-US-DPF-Status:** Vor jedem US-AVV-Abschluss DPF-Listing des Anbieters über dataprivacyframework.gov verifizieren. SCC bleiben als Fallback im AVV vorzusehen.
-- **KI-Anbieter-AVV:** Bei KI-/LLM-Diensten müssen AVV-Klauseln zusaetzlich zu Art. 28 DSGVO Trainings-Verbote, Output-Verwertung, Modellaenderungen, Logging und KI-VO-Pflichten regeln. Verweis: ki-anbieter-pruefung (Plugin ki-governance).
 - **NIS-2-Lieferkette (Art. 21 NIS-2-RL):** Auftraggeber wichtiger / besonders wichtiger Einrichtungen müssen Cyber-Risiken in der Lieferkette beruecksichtigen — AVV mit IT-/Cloud-Dienstleistern entsprechend erweitern.
 
 ## Triage-Frage (Entscheidungsbaum AVV)
@@ -192,4 +191,3 @@ Empfehlung: Unterzeichnen / Mit Redlines / Ablehnen
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

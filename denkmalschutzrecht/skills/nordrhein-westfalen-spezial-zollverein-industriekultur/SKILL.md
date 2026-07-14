@@ -11,7 +11,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-NRW verfuegt mit Zollverein ueber das prominenteste Industrie-Welterbe Deutschlands. Die Mandatslagen reichen von Umnutzungsvorhaben in den Industriehallen (Design-Quartier, Ruhrtriennale-Spielstaetten) ueber Sanierungsmassnahmen an den Schachtanlagen bis zur Bauleitplanung im Umfeld. Sonderkonstellation: die LWL-Denkmalpflege Westfalen-Lippe und das LVR-Amt fuer Denkmalpflege im Rheinland teilen sich die Zustaendigkeit nach der Region. Bei Zollverein zustaendig: LWL. Bei Aachener Dom: LVR. Bei Augustusburg / Falkenlust: LVR.
+Nordrhein-Westfalen verfügt mit der Zeche Zollverein in Essen über ein bedeutendes Industrie-Welterbe. Mandatslagen reichen von Umnutzungen in Industriehallen über Sanierungen an Schachtanlagen bis zur Bauleitplanung im Umfeld. Für Essen und damit Zollverein ist auf der Landschaftsverbandsebene der LVR zuständig, nicht der LWL; auch Aachener Dom sowie Augustusburg und Falkenlust liegen im Zuständigkeitsgebiet des LVR. Den konkreten Behördenweg dennoch nach Denkmalart, Kommune und Verfahrensgegenstand bestimmen.
 
 ## Ablauf / Checkliste
 

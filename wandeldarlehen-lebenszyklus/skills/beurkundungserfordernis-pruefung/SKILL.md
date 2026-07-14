@@ -24,12 +24,11 @@ description: "Wenn es um Beurkundungserfordernis-Prüfung in Wandeldarlehen-Lebe
 ## Rechtlicher Rahmen
 
 ### Primärnormen
-- § 15 Abs. 3 GmbHG (Beurkundungspflicht Verpflichtung zur Anteilsübertragung)
-- § 15 Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung selbst)
-- § 55 Abs. 1 GmbHG (Kapitalerhöhungsbeschluss – notarielle Beurkundung gemäß § 53 Abs. 2 GmbHG)
-- § 53 Abs. 2 GmbHG (Satzungsänderung durch Kapitalerhöhung – notariell)
-- § 2 Abs. 3 GmbHG (Online-Beurkundung Gründung; durch DiRUG 2022 eingeführt, BeurkG § 16a)
-- § 53 Abs. 4 GmbHG analog / BeurkG § 16a (Online-Beurkundung Kapitalerhöhung seit 1.8.2023 zulässig)
+- Paragraf 15 Absatz 3 GmbHG (notarielle Form des Abtretungsvertrags)
+- Paragraf 15 Absatz 4 GmbHG (notarielle Form der Verpflichtung zur späteren Abtretung)
+- Paragraf 53 Absatz 3 Satz 1 GmbHG (notarielle Beurkundung des Kapitalerhöhungsbeschlusses als Satzungsänderung)
+- Paragraf 55 Absatz 1 GmbHG (notariell aufgenommene oder beglaubigte Übernahmeerklärung für jeden neuen Geschäftsanteil)
+- Paragraf 53 Absatz 3 Satz 2 GmbHG in Verbindung mit Paragraf 2 Absatz 3 Satz 1, 3 und 4 GmbHG sowie Paragrafen 16a bis 16e BeurkG (Online-Beurkundung eines einstimmigen Satzungsänderungsbeschlusses unter den gesetzlichen Voraussetzungen)
 - § 311 Abs. 1 BGB (Schuldrechtliche Verpflichtung)
 
 ### Rechtsprechung
@@ -38,7 +37,7 @@ description: "Wenn es um Beurkundungserfordernis-Prüfung in Wandeldarlehen-Lebe
 ## Vorgehen
 
 ### 1. Konstruktion des Wandlungsmechanismus prüfen
-Einstufige Konstruktion: Lender tritt in bestehende Anteile ein (Abtretung § 15 Abs. 3 GmbHG → Beurkundungspflicht für den Verpflichtungsvertrag). Zweistufige Konstruktion: Lender erhält neue Anteile durch Kapitalerhöhung → schuldrechtliche Verpflichtung im Wandeldarlehensvertrag nicht beurkundungspflichtig; Beurkundungspflicht tritt erst bei Kapitalerhöhungsbeschluss (§ 53 Abs. 2 GmbHG) und Übernahme (§ 55 Abs. 2 GmbHG) ein.
+Einstufige Konstruktion: Der Darlehensgeber tritt in bestehende Anteile ein; die Abtretung richtet sich nach Paragraf 15 Absatz 3 GmbHG, die Verpflichtung zur Abtretung nach Absatz 4. Zweistufige Konstruktion: Der Darlehensgeber erhält neue Anteile durch Kapitalerhöhung. Die Formbedürftigkeit der Wandlungsverpflichtung ist anhand ihrer konkreten Bindungswirkung zu prüfen; der Kapitalerhöhungsbeschluss ist nach Paragraf 53 Absatz 3 GmbHG zu beurkunden, die Übernahmeerklärung richtet sich nach Paragraf 55 Absatz 1 GmbHG.
 
 ### 2. Formulierung im Vertrag prüfen
 Enthält § 4 eine unbedingte oder bedingte Pflicht zur Abtretung bestehender Anteile? → Beurkundungspflichtig. Enthält § 4 nur die Verpflichtung, bei Eintritt eines Wandlungsereignisses eine Kapitalerhöhung durchzuführen und neue Anteile auszugeben? → Nicht beurkundungspflichtig (herrschende Meinung).

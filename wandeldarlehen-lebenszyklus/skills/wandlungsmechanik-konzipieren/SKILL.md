@@ -59,7 +59,7 @@ Gesellschaft informiert Lender in Textform spätestens zwei Wochen vor Durchfüh
 Neue Anteile tragen die gleichen Rechte wie die der Investoren in der Finanzierungsrunde (oder günstigere). MFN: Wenn ein späteres Wandeldarlehen bessere Konditionen erhält, gelten diese auch hier.
 
 ### 5. Mitwirkung nach Ausübung
-Gesellschaft und Gesellschafterinnen berufen unverzüglich eine Gesellschafterversammlung ein, fassen Kapitalerhöhungsbeschluss, erklären Bezugsrechtsverzicht, vollziehen Kapitalerhöhung notariell (§ 55 Abs. 2 GmbHG).
+Gesellschaft und Gesellschafter berufen unverzüglich eine Gesellschafterversammlung ein, fassen den nach Paragraf 53 Absatz 3 GmbHG notariell zu beurkundenden Kapitalerhöhungsbeschluss, erklären erforderliche Bezugsrechtsverzichte und geben die Übernahmeerklärungen in der Form des Paragraf 55 Absatz 1 GmbHG ab.
 
 ### 6. Liquidationspräferenz formulieren (falls vereinbart)
 Im Liquidation Event: Lender hat Wahlrecht zwischen (a) Rückzahlung Darlehensbetrag plus Zinsen (1x non-participating) oder (b) Wandlung. Frist: zwei Wochen ab Bekanntgabe des Exit-Events.

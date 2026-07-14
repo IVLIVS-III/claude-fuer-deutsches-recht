@@ -1,102 +1,91 @@
 ---
 name: luecken
-description: "Wenn es um Gap-Tracker in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Pflegt den aufsichtsrechtlichen Gap-Tracker ohne fachliche Befunde zu erfinden. Sortiert belegte Lücken nach Rechtsstatus, Risiko und Terminbasis und erzeugt Verantwortungs-, Eskalations- und Abschlussnachweise."
 ---
 
-# Gap-Tracker
+# Aufsichtsrechtlichen Gap-Tracker führen
 
-## Arbeitsweg
+## 1. Zweck
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill verwaltet bereits fachlich begründete Gap-Befunde. Er ersetzt keine Primärquellenprüfung. Neue fachliche Lücken zuerst mit `luecken-aufzeiger` belegen; danach hier Verantwortlichkeit, Bearbeitungsstand und Abschlussnachweis steuern.
 
-## Eingaben
+## 2. Datenquelle
 
-- Gap-Tracker-Datei: `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml`
-- Optional: Filter (nach Schweregrad, Frist, Eigentümer, Status)
-- Optional: Gap-ID zum gezielten Aktualisieren
+1. Tracker: `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml`.
+2. Optionaler Filter: Status, Risikoklasse, Verantwortlicher, Termin oder Regelwerk.
+3. Optionaler Änderungsauftrag mit Gap-ID.
 
-## Ablauf
+Existiert der Tracker nicht, eine leere, valide Struktur anlegen und auf den fachlichen Erstlauf mit `luecken-aufzeiger` verweisen. Keine Beispieldaten als echte Befunde speichern.
 
-### 1. Tracker lesen
+## 3. Mindestfelder
 
-Gap-Tracker lesen. Falls nicht vorhanden:
-```
-Noch keine Gaps erfasst. Starten Sie mit /regulatorisches-recht:lücken-aufzeiger,
-um eine Gap-Analyse gegen eine Aufsichtsverlautbarung durchzuführen.
-```
-
-### 2. Status-Übersicht ausgeben
-
-```
-Gap-Übersicht – Stand: TT.MM.JJJJ
-
-Gesamt: N | 🔴 Blockierend: N | 🟠 Hoch: N | 🟡 Mittel: N | 🟢 Gering: N
-Offen: N | In Bearbeitung: N | Geschlossen: N | Überfällig: N
+```yaml
+gap:
+  id: "GAP-2026-001"
+  quelle: "MaRisk RS 06/2024 (BA), AT 6 Tz. 2"
+  quellstatus: "Aufsichtspraxis"
+  befund: "Interne Frist von vier Jahren unterschreitet den fünfjährigen Grundsatz"
+  risiko: "ROT"
+  terminbasis: "laufende Pflicht; interner Zieltermin 2026-08-31"
+  verantwortlich: "Compliance"
+  status: "offen"
+  nachweis: null
+  zuletzt_geaendert: "2026-07-12"
 ```
 
-### 3. Sortierte Gap-Tabelle ausgeben
+Ein interner Zieltermin darf nicht als gesetzliche oder aufsichtsrechtliche Übergangsfrist bezeichnet werden.
 
-| Gap-ID | Verlautbarung | Anforderung (Kurzfassung) | Schwere | Frist | Eigentümer | Status |
-|---|---|---|---|---|---|---|
-| GAP-2025-001 | MaRisk AT 4.3.2 | Datenhaltung 10 Jahre | 🔴 | 31.12.2025 | Compliance | offen |
+## 4. Arbeitsablauf
 
-Sortierung: zuerst 🔴, dann nach Frist aufsteigend.
+### 4.1 Lesen und validieren
 
-### 4. Aktionen anbieten
+1. Doppelte Gap-IDs erkennen.
+2. Fehlende Primärfundstelle markieren.
+3. Überholte Quellenfassungen zur erneuten Fachprüfung zurückgeben.
+4. Termine in ausdrückliche externe Frist, laufende Pflicht und internen Zieltermin trennen.
+5. Geschlossene Gaps ohne Nachweis wieder auf `Nachweis offen` setzen.
 
-Nach der Übersicht:
-```
-Was möchten Sie tun?
-a) Gap schließen (Gap-ID angeben)
-b) Eigentümer setzen / ändern
-c) Status aktualisieren (offen → in Bearbeitung → geschlossen)
-d) Richtlinienneufassung für einen Gap starten → /richtlinien-neufassung
-e) Eskalationsnotiz für überfällige Gaps erstellen
-f) Alle geschlossenen Gaps archivieren
-```
+### 4.2 Sortieren
 
-### 5. Tracker aktualisieren
+Sortiere zuerst nach überfälligem externem Termin, dann ROT, ORANGE, GELB, GRÜN und GRAU, innerhalb der Klasse nach nächstem belegtem Termin. Fehlende Verantwortliche stehen vor zugewiesenen Einträgen derselben Klasse.
 
-Änderungen in der YAML-Datei speichern und Änderungszeitpunkt vermerken.
+### 4.3 Aktualisieren
 
-## Aktuelle Rechtsprechung & Leitsätze
+Erlaubte Statusfolge:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. `offen`
+2. `in Bearbeitung`
+3. `zur Wirksamkeitsprüfung`
+4. `geschlossen`
+5. `wiedereröffnet`
 
-## Zentrale Normen (Paragrafenkette)
+Eine Lücke erst schließen, wenn geänderte Regel, Umsetzungsbeleg und Wirksamkeitsnachweis oder eine fachlich freigegebene Nichtanwendbarkeitsentscheidung vorliegen.
 
-Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klärung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
+## 5. Ausgabe
 
-## Quellen und Zitierweise
+### 5.1 Statuskopf
 
-Zitierweise: `../../../references/zitierweise.md`
-
-Dieser Skill liest und schreibt ausschließlich interne Tracking-Daten; keine normspezifische Zitierung erforderlich. Gap-Inhalte enthalten Normverweise aus dem erzeugenden `luecken-aufzeiger`-Lauf.
-
-## Beispiel
-
-**Eingabe:** `/regulatorisches-recht:lücken`
-
-**Ausgabe:**
-```
-Gap-Übersicht – Stand: 01.06.2025
-
-Gesamt: 7 | 🔴 2 | 🟠 3 | 🟡 2 | 🟢 0
-Offen: 5 | In Bearbeitung: 2 | Geschlossen: 0 | Überfällig: 0
-
-| Gap-ID | Verlautbarung | Anforderung | Schwere | Frist | Eigentümer | Status |
-|-------------|----------------------|---------------------|---------|------------|-------------|---------------|
-| GAP-2025-001| MaRisk AT 4.3.2 | Datenhaltung 10 J. | 🔴 | 31.12.2025 | Compliance | offen |
-| GAP-2025-002| MaRisk BTR 3.2 | ESG-Integration | 🔴 | 31.03.2026 | Risiko | in Bearbeitung|
-| GAP-2025-003| MaRisk BTO 1.2.4 | Kreditvergabe | 🟠 | 30.06.2026 | Kredit | offen |
+```text
+Gap-Übersicht zum [DATUM]
+Offen: [N] | In Bearbeitung: [N] | Wirksamkeitsprüfung: [N]
+Überfällig nach externer Frist: [N] | Ohne Verantwortlichen: [N]
+Quelle zur Aktualitätsprüfung fällig: [N]
 ```
 
-## Risiken / typische Fehler
+### 5.2 Arbeitstabelle
 
-- **Veralteter Tracker:** Ohne regelmäßige `luecken-aufzeiger`-Läufe veraltet der Tracker. Hinweis anzeigen, wenn der letzte Lauf > 90 Tage zurückliegt.
-- **Eigentümer nicht gesetzt:** Gaps ohne Eigentümer werden nicht umgesetzt. Unzugeordnete Gaps explizit markieren.
-- **Fristüberschreitung ohne Eskalation:** Für überfällige Gaps automatisch Eskalationsnotiz-Option hervorheben.
+| Gap-ID | Fundstelle | Befund | Risiko | Terminbasis | Verantwortlicher | Status | nächster Nachweis |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GAP-2026-001 | MaRisk AT 6 Tz. 2 | vier statt grundsätzlich fünf Jahre | ROT | interner Zieltermin | Compliance | in Bearbeitung | freigegebene Richtlinie |
+
+### 5.3 Eskalationsnotiz
+
+Bei ROT, externer Fristüberschreitung oder fehlendem Verantwortlichen eine kurze Eskalationsnotiz mit Befund, Quelle, Auswirkung, bereits erfolgten Maßnahmen und konkreter Entscheidungsvorlage erstellen.
+
+## 6. Fehlerbremsen
+
+1. Keine Entscheidung, Norm oder Frist aus der Tracker-Kurzbeschreibung ergänzen.
+2. MaRisk AT 6 mit grundsätzlich fünf Jahren wiedergeben; längere Spezialfristen getrennt prüfen.
+3. Historische MaRisk- oder xAIT-Fassungen nicht als aktuelle Quelle fortschreiben.
+4. Ampelfarbe ohne Begründung nicht verändern.
+5. Abschlussdatum und Wirksamkeitsnachweis revisionsfest protokollieren.

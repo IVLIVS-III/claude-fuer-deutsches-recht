@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf`](gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf`](gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau-einzelpdfs.zip) |
 
@@ -38,17 +38,20 @@ Scheidungsfolgenakte der Eheleute Krammer in Passau mit Ferienwohnung, Depot, Pr
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
-| `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
-| `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
-| `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
-| `05_notarvertrag_ferienwohnung_auszug.docx` | 05 notarvertrag ferienwohnung auszug.docx |
-| `06_wallet_notiz_steuerberater.docx` | 06 wallet notiz steuerberater.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
-| `csv/kontoabgaenge_dezember_2025.csv` | csv/kontoabgaenge dezember 2025.csv |
-| `emails/2026-06-14_milena_wallet_screenshots.eml` | emails/2026 06 14 milena wallet screenshots.eml |
-| `pdfs/maklerkurzbewertung_ferienwohnung.pdf` | pdfs/maklerkurzbewertung ferienwohnung.pdf |
-| `xlsx/zugewinn_arbeitsmatrix.xlsx` | xlsx/zugewinn arbeitsmatrix.xlsx |
+| `01_mandatsnotiz_erstgespraech.docx` | Kanzleivermerk zu Stichtagen, Erbschaft, Ferienwohnung, Praxis, Depot, digitalen Vermögenswerten und Sicherungsziel |
+| `02_chronologie_arbeitsstand.docx` | Stichtagsbezogene Zeitachse mit Belegketten vom Anfangsvermögen bis zur Auskunftsaufforderung |
+| `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Milena Krammers zu Mittelherkunft, Wallet-Wahrnehmungen, Depottilgung, Praxis und Hausrat |
+| `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Sebastian Krammers zu Eigenadressen, gemeinsamer Finanzierung, Depot und Praxisbewertung |
+| `05_notarvertrag_ferienwohnung_auszug.docx` | Ausformulierte notarielle Urkunde zu Wohnungseigentum, Kaufpreis, Finanzierung, Nutzung und Renovierung |
+| `06_wallet_notiz_steuerberater.docx` | Technische und steuerliche Aktennotiz zu Screenshots, CSV, Hashes, Anschaffungsbelegen und Nachweislücken |
+| `07_wallet_boersen_transaktionsauskunft.docx` | Plattformauskunft zu Kontoinhaber, Beständen, Auszahlungen, externen Adressen, internem Sicherungsdepot und Kursen |
+| `08_grundbuch_darlehensstand_ferienwohnung.docx` | Bankbestätigung zu stichtagsbezogenen Darlehenssalden, Sondertilgung, Eigentumsquote und Grundschuld |
+| `09_entwurf_naechstes_schreiben.docx` | Auskunftsschreiben mit Datenstruktur für Wallet, Ferienwohnung, Praxisforderungen, Sicherung und Vergleich |
+| `10_steuerberater_bewertungspaket.docx` | Vollständige Unterlagenanforderung für eine Praxisbewertung mit gesonderter Forderungs- und Methodenprüfung |
+| `csv/kontoabgaenge_dezember_2025.csv` | Konto- und Transferdaten aus dem Trennungszeitraum für den Abgleich mit Primärbelegen |
+| `emails/2026-06-14_milena_wallet_screenshots.eml` | Mandantenmail zur Herkunft und begrenzten Aussagekraft der Wallet-Screenshots |
+| `pdfs/maklerkurzbewertung_ferienwohnung.pdf` | Vorläufige Immobilienwertspanne mit noch offenen Objekt- und Marktdaten |
+| `xlsx/zugewinn_arbeitsmatrix.xlsx` | Arbeitsmatrix für Anfangsvermögen, privilegierten Erwerb, Endvermögen, Schulden und ungeklärte Positionen |
 
 ## Arbeitsnotiz
 

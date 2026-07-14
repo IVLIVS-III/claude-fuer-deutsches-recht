@@ -1,3 +1,24 @@
+# v431.0.0 - Rechtsprechungsprüfung, Fachrouten und Aktenqualität abgesichert
+
+- Die Fachanwalts-Plugins für Familien- und Erbrecht starten nun aktenbasiert und arbeitsproduktorientiert. Ihre handkuratierten Werkstatt- und Schnellstart-Prompts trennen Eilroute, Verfahrensstand, Anspruch, Stichtag, Beweislast und Ausgabeform und enthalten eng zugeordnete Fallkarten aktueller höchstrichterlicher Rechtsprechung.
+- Die Erbausschlagungsrouten trennen jetzt wirtschaftliche Annahmeentscheidung und formfesten Vollzug. Sechswochen- und Sechsmonatsfrist, gerichtliche Aufnahme, öffentliche Beglaubigung, Vertretungsvollmacht, Minderjährige, Nachrücker, Haftungsalternativen und die engen Pflichtteilswege nach BGB Paragrafen 2306 und 1371 Absatz 3 sind vollständig und ohne pauschale Gebühren- oder Sozialhilfethesen abgebildet.
+- Die Kindesunterhaltsrouten wurden auf die Düsseldorfer Tabelle vom 1. Januar 2026 und die jeweilige OLG-Leitlinie zurückgeführt. Residenz-, Wechselmodell-, Volljährigen-, Mangel- und Abänderungsfälle verwenden reproduzierbare Monatsrechnungen; BGH XII ZB 388/24 und XII ZB 459/23 sowie BVerfG 1 BvR 697/20 sichern Erwerbsprognose, Haushaltsersparnis und Vertretung fallgenau ab.
+- Im Erbrecht wurden die Verjährungswege abschließend getrennt: Für den Pflichtteilsanspruch gegen den Erben gelten BGB Paragrafen 195 und 199, während beim Direktanspruch gegen den Beschenkten nach BGB Paragraf 2329 die Frist gemäß BGB Paragraf 2332 Absatz 1 mit dem Erbfall beginnt. Verbliebene missverständliche Kenntnis- und Schenkungsdatumsformeln wurden entfernt.
+- Sieben Familien- und Erbrechtsakten wurden mit 56 vollständig ausformulierten DOCX-Aktenstücken, realistischen Briefköpfen, Register-, Bank-, Polizei-, Jugendamts-, Bewertungs- und Gerichtsunterlagen fachlich und gestalterisch überarbeitet. Gesamt-PDFs, Einzel-PDF-ZIPs und vollständige Arbeitsdateien-ZIPs wurden neu gebaut und geprüft.
+- Das Haupt-README und der Asset-Index bieten eine anbieterneutrale ODT-Kanzleianleitung als Direktdownload an. Sie führt kleine Kanzleien von Anschlussmodell, Schlüsselverwaltung und Dummy-Test bis zu technischer und fachlicher Abnahme, ohne einen bestimmten Drittanbieter zu empfehlen.
+- Die neue `schriftsatz-versandwerkstatt` bündelt die technische Endfertigung auf neun gezielt aktivierbare Skills: Ordneraufnahme, Hauptdokument, Office-, Bild-, Text-, HTML- und EML-Konvertierung, Anlagenstempel, ASCII-Dateinamen, ERVB-Paketgrenzen, Absender- und Signaturroute, Freigabe, Eingangskontrolle sowie Störungs- und Nachreichungsmappe. Ein getestetes lokales Werkzeug erzeugt getrennte Versand-PDFs, Manifest und Prüfunterlagen, löst aber niemals selbst einen Versand aus.
+- Rechtsprechungs- und Normenanker wurden fachgebietsübergreifend auf amtliche Fundstellen, Entscheidungsform, Datum, Aussagegehalt und richtige Skillzuordnung geprüft. Nicht belastbar auffindbare oder fachfremde Fundstellen wurden entfernt; verkürzte Leitsätze wurden auf die tragende Aussage begrenzt.
+- Strafrechtliche Anker wurden unter anderem bei Akteneinsicht, ANOM-Daten, Cannabis-Konkurrenzen, Täter-Opfer-Ausgleich und Verständigung berichtigt. BGH 4 StR 232/25 wird zutreffend als Urteil geführt; die Entscheidung verlangt einen friedensstiftenden kommunikativen Prozess und trägt keine Pflicht zur Einschaltung einer Vermittlungsstelle.
+- Gesellschafts- und Registerrecht bilden die eGbR nach MoPeG nun mit BGB Paragraf 707b, GBO Paragraf 47 Absatz 2, EGBGB Artikel 229 Paragraf 21 und GmbHG Paragraf 40 Absatz 1 Satz 3 ab. BGH V ZB 17/24 sowie die einschlägigen obergerichtlichen Registerentscheidungen sind nach Aussage und Verfahrenskontext getrennt.
+- Aufsichtsrechtliche Skills verwenden MaRisk Rundschreiben 06/2024, die geltende Aufbewahrungslogik und DORA seit 17. Januar 2025. Datenschutzrechtliche Auftragsverarbeitung trennt verbindliches Recht, Standardvertragsklauseln und unverbindliche Leitlinien einschließlich Stellungnahme 22/2024.
+- Krankenversicherungs-, Arbeits-, Versicherungs-, Insolvenz-, Vollstreckungs-, Lizenz-, Gesellschafts- und Prozessrecht wurden von vertauschten Normen, unzutreffenden Beweislastformeln und falsch zugeordneten Entscheidungen bereinigt. Kostenfestsetzung und materieller Kostenerstattungsanspruch sind ebenso getrennt wie Verschmelzungsanmeldung und Registerwirkung.
+- Werkstatt-, Schnellstart- und Vollprüfungs-Prompts wurden aus den korrigierten Fachskills vollständig neu erzeugt und auf Direktstart, Fachrouting, Quellenstatus, Beweislast, Rechtsfolge und verwendbares Arbeitsprodukt geprüft. Der Veredelungslauf ist idempotent.
+- Der portable Akten-Audit wurde gegen Scheintreffer, unvollständige Prüfobjekte und ungeeignete Hilfsdateien gehärtet. Alle 303 Akten werden erkannt; alle 291 Akten mit Rubric bestehen ihre Prüfungen. Ein neuer CSV-Validator verhindert Feldverschiebungen und lösungsverratende Rechenhinweise. Geänderte Gesamt-PDFs wurden neu gebaut und visuell kontrolliert.
+- Der Rechtsstands-Audit umfasst nun 186 konkrete Sperrmuster gegen bekannte Fehlzitate und Fehlzuordnungen und prüft 28.903 Markdown-Dateien. Marketplace-Import, 26.226 Skillaktivierungen, 52.778 lokale Navigationslinks, 28.110 Markdown-Direktdownloads, Frontmatter, Pluginstruktur und beide Versandmappen-Tests sind grün.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v431.0.0 synchronisiert.
+
+---
+
 # v430.0.0 — Rechtsanker, Fachzuordnung und Releaseketten umfassend geprüft
 
 - Rechtsprechungs- und Normenanker wurden repo-weit auf Aussagegehalt und Fachzuordnung geprüft. Falsch zugeordnete oder nicht belastbar verifizierte Fundstellen wurden entfernt oder durch eng formulierte, amtlich belegte Anker ersetzt; Werkstatt-, Schnellstart- und Vollprüfungs-Prompts wurden anschließend vollständig neu erzeugt.
@@ -2218,14 +2239,14 @@ Workflow-Hinweis: Codex-Push war direkt auf `main` ohne PR und mit englischem Co
 ## Mehr Formatvorlagen (22 Plugins, +11 ggu. v302)
 
 Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
-- `notarrecht`: Grundstueckskaufvertrag mit Auflassung $ 925 BGB
-- `agb-recht-pruefer`: AGB-Prüfraster nach $$ 305-310 BGB
+- `notarrecht`: Grundstueckskaufvertrag mit Auflassung Paragraf 925 BGB
+- `agb-recht-pruefer`: AGB-Prüfraster nach Paragrafen 305-310 BGB
 - `datenschutzrecht`: DSFA nach Art. 35 DSGVO
-- `mietrecht`: Eigenbedarfskündigung $ 573 BGB
-- `bauplanungsrecht`: Normenkontrollantrag $ 47 VwGO
-- `steuerrecht-anwalt-und-berater`: Einspruch Steuerbescheid $ 347 AO
-- `fachanwalt-sozialrecht`: Widerspruch Sozialleistungsbescheid $ 84 SGG
-- `verfassungsrecht`: Verfassungsbeschwerde-Skelett $ 90 BVerfGG
+- `mietrecht`: Eigenbedarfskündigung Paragraf 573 BGB
+- `bauplanungsrecht`: Normenkontrollantrag Paragraf 47 VwGO
+- `steuerrecht-anwalt-und-berater`: Einspruch Steuerbescheid Paragraf 347 AO
+- `fachanwalt-sozialrecht`: Widerspruch Sozialleistungsbescheid Paragraf 84 SGG
+- `verfassungsrecht`: Verfassungsbeschwerde-Skelett Paragraf 90 BVerfGG
 - 3 Spezial-Templates (Kirchenrecht, Rom. Recht, ALR — siehe oben)
 
 ## Rubric-Feinschliff
@@ -2262,7 +2283,7 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 - Neues Verzeichnis `testakten/formatvorlagen-paradebeispiele/<plugin>/` mit Vorlagen als **Markdown + ODT** (Times Roman 11pt, A4, 2,5 cm Raender).
 - Disclaimer kursiv oben (experimentelle KI-Vorlage, keine Haftung).
 - Felder in [Klammern], konditionale Hinweise im Fliesstext.
-- 11 Plugins, 12 Vorlagen: Arbeit (Kündigungsschutzklage $ 4 KSchG + Aufhebungsvertrag), Familie (Scheidungsantrag), Straf (Akteneinsicht $ 147 StPO), Verkehr (Bussgeld-Einspruch $ 67 OWiG), Miete/WEG (Mietminderung $ 536c BGB), Erbe (Erbscheinantrag), Medizin (Befundherausgabe $ 630g BGB), Versicherung (Deckungsklage $ 100 VVG), Insolvenz (Gläubigerantrag $ 14 InsO), Handels/Gesellschaft (Anfechtungsklage $ 246 AktG), Lizenz (Patent-Lizenz bilingual DE/EN mit Massgeb-Klausel).
+- 11 Plugins, 12 Vorlagen: Arbeit (Kündigungsschutzklage Paragraf 4 KSchG + Aufhebungsvertrag), Familie (Scheidungsantrag), Straf (Akteneinsicht Paragraf 147 StPO), Verkehr (Bussgeld-Einspruch Paragraf 67 OWiG), Miete/WEG (Mietminderung Paragraf 536c BGB), Erbe (Erbscheinantrag), Medizin (Befundherausgabe Paragraf 630g BGB), Versicherung (Deckungsklage Paragraf 100 VVG), Insolvenz (Gläubigerantrag Paragraf 14 InsO), Handels/Gesellschaft (Anfechtungsklage Paragraf 246 AktG), Lizenz (Patent-Lizenz bilingual DE/EN mit Massgeb-Klausel).
 
 ## Plugin-READMEs
 
@@ -2293,7 +2314,7 @@ Neu in dieser Welle (alle Markdown + ODT, Times Roman 11pt):
 - Neues Verzeichnis `docs/portable-eval-harness/` mit Drop-In-Anleitung für beliebige Legal-AI-Repos.
 - Kopierfertige `rubric.yaml`-Beispiele für:
   - **arbeitszeugnisprüfer-skill** — Prüfkorpus als Testakten, mit BAG-Az.-Pattern und Ampel-Symbol-Check.
-  - **vorlagen-für-recht** — Vertragsentwurf als Testakte mit Klausel-Checks ($ 613a, Rechtswahl, anwaltliche Endprüfung).
+  - **vorlagen-für-recht** — Vertragsentwurf als Testakte mit Klausel-Checks (Paragraf 613a, Rechtswahl, anwaltliche Endprüfung).
 
 ## Versions-Bump
 

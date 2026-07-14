@@ -36,6 +36,18 @@ PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
     ("2. Unterlagen, Sachverhalt und Quellen", ("kontenklaerung", "versicherungsverlauf", "auslandszeiten", "kindererziehungszeiten", "pflegezeiten")),
 ]
 
+EXACT_GROUPS: dict[str, str] = {
+    "versandmappe-endfertigen": "1. Einstieg und Fallrouting",
+    "ordneraufnahme-und-produktionsmatrix": "2. Unterlagen, Sachverhalt und Quellen",
+    "hauptdokument-pdf-endfertigen": "2. Unterlagen, Sachverhalt und Quellen",
+    "anlagen-konvertieren-und-sichtpruefen": "2. Unterlagen, Sachverhalt und Quellen",
+    "anlagen-nummerieren-und-stempeln": "4. Gestaltung, Strategie und Verhandlung",
+    "signaturweg-und-absender-pruefen": "5. Verfahren, Behörde und Gericht",
+    "stoerung-und-nachreichung-dokumentieren": "5. Verfahren, Behörde und Gericht",
+    "dateinamen-und-paketgrenzen-pruefen": "7. Kontrolle, Qualität und Gegenprüfung",
+    "versandfreigabe-und-eingang-sichern": "7. Kontrolle, Qualität und Gegenprüfung",
+}
+
 
 def natural_key(text: str) -> list[object]:
     return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", text.lower())]
@@ -55,6 +67,8 @@ def skill_slugs(directory: Path) -> list[str]:
 
 def classify(slug: str) -> str:
     lower = slug.lower()
+    if lower in EXACT_GROUPS:
+        return EXACT_GROUPS[lower]
     for label, needles in PRIORITY_GROUPS:
         if any(needle in lower for needle in needles):
             return label

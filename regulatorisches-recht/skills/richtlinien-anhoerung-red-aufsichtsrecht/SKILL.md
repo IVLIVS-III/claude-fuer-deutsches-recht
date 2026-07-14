@@ -1,133 +1,101 @@
 ---
 name: richtlinien-anhoerung-red-aufsichtsrecht
-description: "Wenn es um Richtlinien-Diff in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Erstellt einen prüfbaren Diff zwischen aktueller Aufsichtsquelle und interner Richtlinie. Ordnet jede Abweichung nach Geltungsstatus, Wortlaut, Umsetzung und Nachweis und übergibt konkrete Redline- und Eskalationsaufträge."
 ---
 
-# Richtlinien-Diff
+# Richtlinien-Diff im Aufsichtsrecht
 
-## Arbeitsweg
+## 1. Ziel
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Vergleiche nicht bloß Schlagwörter. Zerlege die aktuelle Primärquelle und die interne Richtlinie in atomare Anforderungen, verknüpfe jede Deckungsbehauptung mit einer Textstelle und unterscheide Dokumentenlücke, Prozesslücke und Wirksamkeitslücke.
 
-## Eingaben
+## 2. Start
 
-- **Neue Norm / Verlautbarung:** Text oder Link (BaFin-Rundschreiben, MaRisk-Modul, EBA-Leitlinie, Gesetzestext)
-- **Bestehende Richtlinie:** Bestandsdokument (hochgeladen oder aus Bibliothek)
-- **Scope:** Optional – nur bestimmte Abschnitte vergleichen
-- Optional: Vorheriger Diff-Lauf zum Vergleich
+1. Alle vorhandenen Dateien und Links lesen.
+2. Institutsart, Erlaubnis, DORA-Scope und Dokumentversion aus der Akte bestimmen.
+3. Gewünschten Scope aus dem Auftrag ableiten.
+4. Nur entscheidungserhebliche Lücken nachfragen.
+5. Sofort eine Quellen- und Versionskarte liefern.
 
-## Ablauf
+## 3. Quellen- und Versionskarte
 
-### 1. Neue Norm strukturieren
+| Dokument | Herausgeber | Fassung | Geltungsstatus | Adressat | Verwendeter Abschnitt |
+| --- | --- | --- | --- | --- | --- |
+| MaRisk | BaFin | RS 06/2024 (BA) | aktuelle Aufsichtspraxis | erfasste Institute | AT 6 |
+| Interne IKS-Richtlinie | Institut | 3.1 | intern verbindlich | benannte Einheiten | 4.2 |
 
-Neue Norm / Verlautbarung lesen und in nummerierte Anforderungen zerlegen:
+Bei einem älteren Rundschreiben zuerst feststellen, ob es historischer Vergleichsstand oder vermeintlicher Sollmaßstab ist. Historische Fassungen dürfen die aktuelle Soll-Spalte nicht ersetzen.
 
-| Nr. | Abschnitt | Anforderungstext (Kurzfassung) | Verbindlichkeit |
-|---|---|---|---|
-| A01 | AT 4.3.2 | Aufbewahrung von Daten mind. 10 Jahre | Verbindlich |
-| A02 | AT 4.3.2 | Backup-Konzept mit Wiederherstellungstest | Verbindlich |
-| A03 | AT 4.3.2 | Dokumentation der Datenklassifizierung | Empfehlung |
+## 4. Diff-Methode
 
-Verbindlichkeitskennzeichnung:
-- **Verbindlich:** "hat sicherzustellen", "muss", "sind zu"
-- **Empfehlung/Best Practice:** "sollte", "kann", "wird empfohlen"
+### 4.1 Soll-Seite
 
-### 2. Bestehende Richtlinie strukturieren
+| Soll-ID | Fundstelle | Anforderung | Adressat | Ausnahme oder Proportionalität |
+| --- | --- | --- | --- | --- |
+| S-001 | MaRisk AT 6 Tz. 2 | wesentliche Handlungen und Festlegungen nachvollziehbar dokumentieren und grundsätzlich fünf Jahre aufbewahren | erfasstes Institut | längere gesetzliche Fristen unberührt |
 
-Bestehende Richtlinie lesen und relevante Abschnitte den neuen Anforderungen zuordnen.
+### 4.2 Ist-Seite
 
-### 3. Diff-Tabelle erstellen
+| Ist-ID | Richtlinienstelle | Wortlaut | Prozessbeleg | Wirksamkeitsbeleg |
+| --- | --- | --- | --- | --- |
+| I-001 | 4.2 | vier Jahre | Archivklasse RM-04 | keine Stichprobe vorgelegt |
 
-| Anforderung (Norm) | Deckung in Richtlinie | Status | Differenz |
-|---|---|---|---|
-| A01: Datenhaltung 10 J. | § 4 Abs. 2 IKS-Richtlinie: 7 Jahre | 🔴 Abweichung | Frist 3 J. kürzer |
-| A02: Backup-Konzept | § 5 IKS-Richtlinie: vollständig | 🟢 Gedeckt | – |
-| A03: Datenklassifizierung | Keine Regelung | 🟡 Lücke (Best Practice) | Empfehlung fehlt |
-| – | § 7 IKS-Richtlinie: Prüfprotokoll | ⚪ Überschuss | Norm enthält keine solche Pflicht |
+### 4.3 Verknüpfung
 
-Status-Legende:
-- 🔴 **Abweichung:** Richtlinie weicht von verbindlicher Anforderung ab
-- 🟡 **Lücke:** Anforderung fehlt in Richtlinie (verbindlich: 🔴 potentiell; Best Practice: 🟡)
-- 🟢 **Gedeckt:** Anforderung vollständig und korrekt abgebildet
-- ⚪ **Überschuss:** Richtlinie enthält Regelung, die die Norm nicht fordert (kein Problem, aber zur Kenntnis)
+| Soll-ID | Ist-ID | Wortlaut | Umsetzung | Nachweis | Status | Änderung |
+| --- | --- | --- | --- | --- | --- | --- |
+| S-001 | I-001 | zu kurz | technisch umgesetzt | offen | ROT | mindestens fünf Jahre und Spezialfristen-Matrix |
 
-### 4. Zusammenfassung
+Verwende ROT, ORANGE, GELB, GRÜN und GRAU statt Symbole. Ein GRAU-Status verlangt eine begründete Nichtanwendbarkeit; `nicht relevant` genügt nicht.
 
-```
-Diff-Zusammenfassung: [Normtitel] vs. [Richtlinientitel]
-Analysiert: N Normabschnitte | N Richtlinienabschnitte
+## 5. DORA- und xAIT-Weiche
 
-Handlungsbedarf:
-🔴 N Abweichungen (verbindliche Anforderungen, Richtlinie weicht ab)
-🟡 N Lücken (neue Anforderungen ohne Entsprechung)
-🟢 N gedeckt
-⚪ N Überschüsse (Richtlinie enthält Mehr als die Norm fordert)
-```
+1. DORA gilt seit dem 17. Januar 2025 für die in Artikel 2 genannten Finanzunternehmen.
+2. Bei IKT-Governance, Vorfällen, Tests und IKT-Drittparteien zuerst DORA und die einschlägigen technischen Standards prüfen.
+3. Ältere BAIT-, VAIT-, KAIT- und ZAIT-Texte nur nach dokumentierter Prüfung ihres aktuellen Scopes verwenden.
+4. Nationale Organisations- und Auslagerungspflichten, insbesondere Paragrafen 25a und 25b KWG sowie MaRisk, daneben in ihrem verbleibenden Anwendungsbereich prüfen.
+5. Doppelzählungen als dieselbe Lücke vermeiden; stattdessen Quellen kumulieren und den strengsten belegten Pflichtinhalt ausweisen.
 
-### 5. Empfehlung
+## 6. Ergebnisformat
 
-Für jede 🔴-Abweichung und jede wesentliche 🟡-Lücke:
-- Konkrete Formulierungsänderung vorschlagen (Ausgangspunkt für `/richtlinien-neufassung`)
-- Frist aus der Verlautbarung angeben
-- Eskalationsbedarf markieren (`[prüfen]` bei Unklarheit)
+### 6.1 Kurzentscheidung
 
-## Quellen und Zitierweise
+1. Aktuelle Sollquelle und Stichtag.
+2. Anzahl der roten und orangen Lücken.
+3. Unmittelbarer Handlungsbedarf.
+4. Quellen- oder Scope-Restunsicherheit.
 
-Zitierweise: `../../../references/zitierweise.md`
+### 6.2 Änderungsauftrag
 
-Einschlägige Normen und Verlautbarungen:
-- BaFin-Rundschreiben 09/2017 (BA) – MaRisk, alle Novellen [Modellwissen – prüfen auf aktuelle Fassung]
-- BaFin-Rundschreiben 10/2018 (BA) – BAIT [Modellwissen – prüfen]
-- BaFin-Rundschreiben 10/2017 (VA) – VAIT [Modellwissen – prüfen]
-- BaFin-Rundschreiben 05/2021 (IO) – ZAIT (Zahlungsdienstleister IT) [Modellwissen – prüfen]
-- EBA-Leitlinien EBA/GL/2019/04 – IKT-Risikomanagement [Modellwissen – prüfen]
-- DORA Art. 5 ff. (EU) 2022/2554 (ICT Risk Management)
-- § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
+Für jede rote oder orange Zeile liefern:
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+1. Bestandsstelle.
+2. präzisen Ersatz- oder Ergänzungstext.
+3. Primärquelle.
+4. Prozess- und Systemfolge.
+5. Verantwortlichen und Freigabebedarf.
+6. belegte Frist oder Kennzeichnung als laufende Pflicht.
 
-## Beispiel
+## 7. Fachliche Anker
 
-**Eingabe:** `/regulatorisches-recht:richtlinien-vergleich MaRisk-AT-4.3.2-Novelle-2023`
+1. MaRisk RS 06/2024 (BA), insbesondere AT 6 für Dokumentation und grundsätzlich fünfjährige Aufbewahrung.
+2. Paragraf 25a KWG für ordnungsgemäße Geschäftsorganisation und Risikomanagement.
+3. Paragraf 25b KWG und MaRisk AT 9 für Auslagerungen.
+4. DORA, Verordnung (EU) 2022/2554, und die einschlägigen technischen Standards für IKT-Risiken seit dem 17. Januar 2025.
+5. EBA-Leitlinien nur mit aktueller Fassung, genauem Adressatenkreis und transparentem Rechtsstatus.
 
-**Ausgabe (Auszug):**
+## 8. Primärquellen
 
-> **⚠️ Prüfernotiz**
-> - **Quellen:** MaRisk RS 09/2017 Novelle 2023 [Modellwissen – prüfen gegen bafin.de], IKS-Richtlinie v. 01.03.2023 [Nutzer-Input]
-> - **Gelesen:** AT 4.3.2 vollständig; IKS-Richtlinie §§ 1–12
-> - **Zu Ihrer Einschätzung:** 2 Positionen mit 🔴 markiert `[prüfen]`
+1. BaFin, Rundschreiben 06/2024 (BA), MaRisk: https://www.bafin.de/SharedDocs/Downloads/DE/Rundschreiben/dl_rs_06_2024_MaRisk_pdf_BA.pdf
+2. KWG Paragraf 25a: https://www.gesetze-im-internet.de/kredwg/__25a.html
+3. KWG Paragraf 25b: https://www.gesetze-im-internet.de/kredwg/__25b.html
+4. Verordnung (EU) 2022/2554: https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+5. EBA, aktuelle Leitlinien und technische Standards: https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities
 
----
+## 9. Fehlerbremsen
 
-**Diff: MaRisk AT 4.3.2 (Novelle 2023) vs. IKS-Richtlinie (Stand: 01.03.2023)**
-
-| Anforderung (Norm) | Deckung in Richtlinie | Status | Differenz |
-|---|---|---|---|
-| Datenhaltung ≥ 10 Jahre | § 4 Abs. 2: 7 Jahre | 🔴 | Verlängerung um 3 Jahre erforderlich `[prüfen]` |
-| Backup-Konzept mit Test | § 5 Abs. 1–3 | 🟢 | – |
-| Datenklassifizierungsdoku. | Keine Regelung | 🟡 | Abschnitt zu ergänzen |
-
-**Empfohlene Änderung für 🔴:**
-> § 4 Abs. 2 IKS-Richtlinie: "Aufbewahrungsfrist von 7 Jahren" → **"mindestens 10 Jahren"** (Anpassung an MaRisk AT 4.3.2 Novelle 2023).
-
-**Nächster Schritt:** `/regulatorisches-recht:richtlinien-neufassung` für den vollständigen Neufassungsentwurf.
-
-## Risiken / typische Fehler
-
-- **Nur Wortlaut-Vergleich:** Eine Richtlinie kann die Norm wörtlich übernehmen, sie aber organisatorisch nicht umsetzen. Hinweis, dass der Diff nur den Dokumenteninhalt vergleicht, nicht die gelebte Praxis.
-- **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
-- **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO "comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
-- **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-**Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
-
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+1. Aufbewahrungsfristen ausschließlich dem tatsächlich einschlägigen Modul und gegebenenfalls längeren Spezialgesetzen entnehmen.
+2. Keine fiktive Datenklassifizierungspflicht oder Übergangsfrist erfinden.
+3. Eine wortgleiche Richtlinie nicht ohne Umsetzungs- und Wirksamkeitsbeleg als grün bewerten.
+4. BaFin-Verlautbarung, unmittelbar geltendes Unionsrecht und interne Best Practice nicht gleichsetzen.
+5. Redline nur ausgeben, wenn sie Rolle, Handlung, Auslöser, Nachweis und Eskalation praktisch abbildet.

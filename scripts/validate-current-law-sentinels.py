@@ -949,6 +949,438 @@ SENTINELS = (
             re.IGNORECASE,
         ),
     ),
+    Sentinel(
+        "BGH 1 StR 618/98 als allgemeinen Aussage-gegen-Aussage-Anker überdehnt",
+        re.compile(
+            r"1\s+StR\s+618/98.{0,260}(?:"
+            r"Aussage-gegen-Aussage\s+(?:verlangt|braucht)|"
+            r"Aussage-gegen-Aussage-Fälle\s+verlangen|"
+            r"Gesamtwürdigung\s+von\s+Aussageentstehung)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "BGH 1 StR 94/98 auf eine allgemeine Aussageanalyseformel verkürzt",
+        re.compile(
+            r"1\s+StR\s+94/98.{0,260}(?:"
+            r"Konstanz,\s*Entstehung\s+und\s+Belastungsmotive|"
+            r"Entstehungsgeschichte,\s*Konstanz\s+und\s+Motivlage)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "BVerfG 1 BvR 413/20 auf einen unvernünftigen Wunsch verkürzt",
+        re.compile(
+            r"1\s+BvR\s+413/20.{0,260}unvernünftig(?:er|en)?\s+Wunsch",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "BGH II ZR 91/21 fälschlich als Beschluss bezeichnet",
+        re.compile(
+            r"(?:Beschl(?:uss|[.]).{0,100}08[.]11[.]2022.{0,100}"
+            r"II\s+ZR\s+91/21|08[.]11[.]2022.{0,100}II\s+ZR\s+91/21"
+            r".{0,100}Beschl(?:uss|[.]))",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Dollarzeichen statt Paragrafbezeichnung",
+        re.compile(r"\${1,2}\s*\d+"),
+    ),
+    Sentinel(
+        "EDSA-Leitlinie fälschlich als verbindliche Auslegungshilfe bezeichnet",
+        re.compile(
+            r"(?:EDSA|EDPB).{0,180}verbindliche\s+Auslegungshilfe|"
+            r"verbindliche\s+Auslegungshilfe.{0,180}(?:EDSA|EDPB)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "ZPO Paragraf 520 mit vertauschter Einwilligungs- und Monatsregel",
+        re.compile(
+            r"(?:§|Paragraf)\s*520.{0,260}Einwilligung.{0,120}"
+            r"(?:bis\s+zu|höchstens)\s+(?:einem|1)\s+Monat",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "SGG-Klagerücknahmefiktion fälschlich aus Terminsäumnis oder Paragraf 156 hergeleitet",
+        re.compile(
+            r"(?:mehrfach(?:e|es)?\s+unentschuldigt(?:e|es)?\s+Versäumnis"
+            r".{0,180}Klagerücknahme|Klagerücknahme(?:-?Fiktion)?"
+            r".{0,120}(?:§|Paragraf)\s*156\s+SGG)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "privatrechtlicher Zugang fälschlich mit postalischer Vier-Tage-Fiktion berechnet",
+        re.compile(
+            r"(?:Zugangsfiktion|Wandlungsfrist).{0,220}"
+            r"(?:vier|4)[- ]Tage[- ]Frist.{0,160}(?:BGB|Wandlung)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "GmbHG mit falschem Absatz für Online-Beurkundung der Satzungsänderung",
+        re.compile(
+            r"(?:§|Paragraf)\s*53\s+Abs(?:atz|[.])\s*(?:2|4)\s+GmbHG"
+            r".{0,160}Online-Beurkundung|Online-Beurkundung.{0,160}"
+            r"(?:§|Paragraf)\s*53\s+Abs(?:atz|[.])\s*(?:2|4)\s+GmbHG",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "GmbHG Paragraf 53 Absatz 2 allein als Beurkundungsnorm bezeichnet",
+        re.compile(
+            r"^(?![^\n]*Abs(?:atz|[.])\s*3)[^\n]*"
+            r"(?:§|Paragraf)\s*53\s+Abs(?:atz|[.])\s*2\s+GmbHG"
+            r"[^\n]{0,180}(?:notariell|Beurkundung)[^\n]*$",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
+    Sentinel(
+        "DSA-Haftungsprivileg fälschlich aus DDG Paragrafen 7 bis 10 hergeleitet",
+        re.compile(
+            r"(?:§§|Paragrafen)\s*7\s*(?:-|bis)\s*10\s+DDG.{0,140}"
+            r"Haftungsprivileg|Haftungsprivileg.{0,140}"
+            r"(?:§§|Paragrafen)\s*7\s*(?:-|bis)\s*10\s+DDG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "DSA Artikel 45 fälschlich als Zuständigkeit des Koordinators bezeichnet",
+        re.compile(
+            r"Art(?:ikel|[.])?\s*45\s+DSA.{0,120}"
+            r"(?:Zuständigkeit|Koordinator)|(?:Zuständigkeit|Koordinator)"
+            r".{0,120}Art(?:ikel|[.])?\s*45\s+DSA",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "nicht existente Sechsmonatsfrist für erste WEG-Versammlung",
+        re.compile(
+            r"erste\s+Eigentümerversammlung.{0,180}"
+            r"(?:6|sechs)\s+Monate.{0,120}Bezugsfertigkeit",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "GmbHG Paragraf 55 Absatz 2 fälschlich als Formnorm der Übernahmeerklärung bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*55\s+Abs(?:atz|[.])\s*2\s+GmbHG"
+            r".{0,160}(?:Übernahmeerklärung|Uebernahmeerklärung|notariell)|"
+            r"(?:Übernahmeerklärung|Uebernahmeerklärung|notariell).{0,160}"
+            r"(?:§|Paragraf)\s*55\s+Abs(?:atz|[.])\s*2\s+GmbHG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "GmbHG Paragraf 15 Absatz 3 und 4 bei Abtretung und Verpflichtung vertauscht",
+        re.compile(
+            r"(?:§|Paragraf)\s*15\s+Abs(?:atz|[.])\s*3\s+GmbHG\s*"
+            r"(?:\([^)]*(?:Verpflichtung|schuldrecht)[^)]*\)|"
+            r"(?:regelt|betrifft|für)\s+(?:die\s+)?(?:Verpflichtung|schuldrecht))|"
+            r"(?:§|Paragraf)\s*15\s+Abs(?:atz|[.])\s*4\s+GmbHG\s*"
+            r"(?:\([^)]*(?:Abtretung\s+selbst|Abtretungsvertrag)[^)]*\)|"
+            r"(?:regelt|betrifft|für)\s+(?:die\s+)?(?:Abtretung\s+selbst|Abtretungsvertrag))",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BAG GS 1/84 fälschlich als Urteil bezeichnet",
+        re.compile(
+            r"BAG(?:\s+Großer\s+Senat)?\s*,?\s*Urteil\s+vom\s+"
+            r"27[.]02[.]1985\s*[-,]\s*GS\s+1/84",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "nicht verifizierter EuGH-Anker C-732/22 als Bonprix- oder Asset-Deal-Entscheidung",
+        re.compile(
+            r"C-732/22.{0,160}(?:Bonprix|Asset[ -]Deal|Datenübertrag)|"
+            r"(?:Bonprix|Asset[ -]Deal|Datenübertrag).{0,160}C-732/22",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BAG 7 AZR 50/24 fälschlich als EuGH-Entscheidung oder Vorlageverfahren bezeichnet",
+        re.compile(
+            r"EuGH.{0,120}7\s+AZR\s+50/24|"
+            r"7\s+AZR\s+50/24.{0,120}(?:EuGH-Vorlage|Vorabentscheidung)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH IX ZB 38/24 als allgemeiner Passivierungs- oder Nennwertanker überdehnt",
+        re.compile(
+            r"IX\s+ZB\s+38/24.{0,180}(?:Passivierung|Nennwert)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "falscher Lizenzinsolvenz-Anker IX ZR 161/05",
+        re.compile(r"\bIX\s+ZR\s+161/05\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "nicht nachweisbarer Mobilitätsanker B 3 KR 3/19 R",
+        re.compile(r"\bB\s+3\s+KR\s+3/19\s+R\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "nicht nachweisbarer Krankengeldanker B 3 KR 22/13 R",
+        re.compile(r"\bB\s+3\s+KR\s+22/13\s+R\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "BSG B 3 KR 4/14 R fälschlich dem Krankengeld zugeordnet",
+        re.compile(
+            r"B\s+3\s+KR\s+4/14\s+R.{0,180}(?:Krankengeld|Nahtlos|Arbeitsunfäh)|"
+            r"(?:Krankengeld|Nahtlos|Arbeitsunfäh).{0,180}B\s+3\s+KR\s+4/14\s+R",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BSG B 3 KR 9/10 R fälschlich der Untätigkeitsklage zugeordnet",
+        re.compile(
+            r"B\s+3\s+KR\s+9/10\s+R.{0,180}Untätig|"
+            r"Untätig.{0,180}B\s+3\s+KR\s+9/10\s+R",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BSG B 3 KR 6/14 R fälschlich Eilrechtsschutz oder Sozialpädiatrie zugeordnet",
+        re.compile(
+            r"B\s+3\s+KR\s+6/14\s+R.{0,180}(?:Eilrecht|einstweilig|Sozialpädiatr|SPZ)|"
+            r"(?:Eilrecht|einstweilig|Sozialpädiatr|SPZ).{0,180}B\s+3\s+KR\s+6/14\s+R",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BSG B 3 KR 10/21 R fälschlich langfristiger Heilmittelversorgung zugeordnet",
+        re.compile(
+            r"B\s+3\s+KR\s+10/21\s+R.{0,180}(?:Heilmittel|Langfristversorgung)|"
+            r"(?:Heilmittel|Langfristversorgung).{0,180}B\s+3\s+KR\s+10/21\s+R",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BSG B 1 KR 4/20 R fälschlich Fahrkosten zugeordnet",
+        re.compile(
+            r"B\s+1\s+KR\s+4/20\s+R.{0,180}Fahrkosten|"
+            r"Fahrkosten.{0,180}B\s+1\s+KR\s+4/20\s+R",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BSG B 3 KR 5/17 R ohne Beleg als Haushaltshilfeanker verwendet",
+        re.compile(
+            r"B\s+3\s+KR\s+5/17\s+R.{0,180}Haushaltshilfe|"
+            r"Haushaltshilfe.{0,180}B\s+3\s+KR\s+5/17\s+R",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Fristen der Genehmigungsfiktion in Paragraf 13 Absatz 3a SGB V vertauscht",
+        re.compile(
+            r"(?:5|fünf)\s*[- ]?Wochen.{0,100}(?:3|drei)\s*[- ]?Wochen"
+            r".{0,80}(?:Eil|dring)|"
+            r"(?:3|drei)\s*[- ]?Wochen.{0,60}(?:bei|für)\s+(?:Eil|dring)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 19 SGB X fälschlich als Amtsermittlungsnorm bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*19\s+SGB\s*X.{0,120}(?:Amtsermittlung|Untersuchungsgrundsatz)|"
+            r"(?:Amtsermittlung|Untersuchungsgrundsatz).{0,120}(?:§|Paragraf)\s*19\s+SGB\s*X",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Krankengeldentstehung nach aktuellem Paragraf 46 SGB V auf den Folgetag verschoben",
+        re.compile(
+            r"Anspruch\s+(?:auf\s+Krankengeld\s+)?(?:entsteht|beginnt|erst)"
+            r".{0,100}(?:Tag|Folgetag)\s+nach\s+(?:der\s+)?ärztlichen\s+Feststellung",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "zulässige Krankengeld-Folgefeststellung am Montag nach Freitag als Lücke bezeichnet",
+        re.compile(
+            r"(?:AU|Arbeitsunfähigkeit).{0,80}Freitag.{0,120}Montag"
+            r".{0,100}(?:Lücke|erlischt|schädlich)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "veraltetes Muster 18 neben Muster 13 für vertragsärztliche Heilmittel genannt",
+        re.compile(r"Muster\s+13.{0,80}Muster\s+18", re.IGNORECASE),
+    ),
+    Sentinel(
+        "Paragraf 30 SGB V fälschlich als Krankenhausbehandlungsnorm bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*30\s+SGB\s*V.{0,120}Krankenhausbehandlung|"
+            r"Krankenhausbehandlung.{0,120}(?:§|Paragraf)\s*30\s+SGB\s*V",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH IX ZR 169/04 fachfremd als insolvenzrechtlicher Verwertungsanker verwendet",
+        re.compile(r"\bIX\s+ZR\s+169/04\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "überholtes MaRisk-Rundschreiben 09/2017 als aktueller Maßstab verwendet",
+        re.compile(
+            r"(?:MaRisk.{0,100}(?:RS|Rundschreiben)\s*0?9/2017|"
+            r"(?:RS|Rundschreiben)\s*0?9/2017.{0,100}MaRisk)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "erfundene Zehnjahresfrist aus MaRisk AT 4.3.2",
+        re.compile(
+            r"AT\s*4[.]3[.]2.{0,160}(?:10|zehn)\s*(?:Jahre|J[.])|"
+            r"(?:10|zehn)\s*(?:Jahre|J[.]).{0,160}AT\s*4[.]3[.]2",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 707b BGB fälschlich als Grundbuch-Voreintragungsnorm verwendet",
+        re.compile(
+            r"(?:§|Paragraf)\s*707b\s+BGB.{0,160}"
+            r"(?:Pflicht[- ]?Eintragung|Voreintragung(?:s|-)?pflicht|"
+            r"Voreintragungserfordernis|Grundstücksgeschäft|eGbR\s+zwingend)|"
+            r"(?:Pflicht[- ]?Eintragung|Voreintragung(?:s|-)?pflicht|"
+            r"Voreintragungserfordernis|Grundstücksgeschäft|eGbR\s+zwingend)"
+            r".{0,160}(?:§|Paragraf)\s*707b\s+BGB",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "falsches Datum zum OLG-Köln-Anker 4 Wx 4/24",
+        re.compile(
+            r"(?:22[.]04[.]2024.{0,100}4\s+Wx\s+4/24|"
+            r"4\s+Wx\s+4/24.{0,100}22[.]04[.]2024)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "nicht existente SCC-Übergangsnorm Paragraf 46 Absatz 5 DSGVO-Beschluss",
+        re.compile(
+            r"(?:§|Paragraf)\s*46\s+(?:Abs[.]?|Absatz)\s*5\s+DSGVO-Beschluss",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "eGbR-Registerbekanntmachung pauschal dem Bundesanzeiger zugeordnet",
+        re.compile(
+            r"(?:eGbR|Gesellschaftsregister).{0,160}Bundesanzeiger|"
+            r"Bundesanzeiger.{0,160}(?:eGbR|Gesellschaftsregister)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "nicht amtlich auffindbarer Entscheidungsanker OLG Karlsruhe 7 U 173/25",
+        re.compile(r"\b7\s+U\s+173/25\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "BVerfG 2 BvR 625/25 fälschlich als Anspruch auf ANOM-Protokolle verwendet",
+        re.compile(
+            r"2\s+BvR\s+625/25.{0,240}(?:(?:muss|müssen).{0,80}"
+            r"(?:umfassen|zugänglich)|auf.{0,80}angewiesen).{0,120}"
+            r"(?:Authentifizierungs|Auswertungs).{0,40}protokoll|"
+            r"(?:Authentifizierungs|Auswertungs).{0,40}protokoll.{0,240}"
+            r"2\s+BvR\s+625/25.{0,120}(?:muss|angewiesen)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BVerfG 2 BvR 625/25 fälschlich als Pflicht zu einer Authentifizierungskette verwendet",
+        re.compile(
+            r"2\s+BvR\s+625/25.{0,260}(?:Akten|Dokumentation).{0,100}"
+            r"(?:muss|müssen).{0,100}(?:Authentifizierungs|Auswertungs)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "materiell-rechtlicher Kostenerstattungsanspruch fälschlich über Paragraf 104 ZPO beziffert",
+        re.compile(
+            r"(?:materiell-rechtlich|Verzugsschaden).{0,240}"
+            r"(?:§|Paragraf)\s*104\s+ZPO.{0,120}"
+            r"(?:Beziffer|Kostenfestsetz)|"
+            r"(?:§|Paragraf)\s*104\s+ZPO.{0,240}"
+            r"(?:materiell-rechtlich|Verzugsschaden).{0,120}"
+            r"(?:Beziffer|Kostenfestsetz)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "fachfremder oder nicht belegter Nachlassinsolvenzanker IX ZB 118/17",
+        re.compile(r"\bIX\s+ZB\s+118/17\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "BGH IV ZR 70/25 mit falschem Entscheidungsjahr oder verkürztem Mitteilungsleitsatz",
+        re.compile(
+            r"IV\s+ZR\s+70/25.{0,40}(?:,|vom|Jahr)\s*2025|"
+            r"IV\s+ZR\s+70/25.{0,220}(?:muss|müsse).{0,100}"
+            r"(?:konkrete\s+)?Rechnungsgrundlage.{0,80}(?:benennen|angeben)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH 4 StR 232/25 fälschlich als Beschluss bezeichnet",
+        re.compile(
+            r"(?:Beschluss.{0,80}4\s+StR\s+232/25|"
+            r"4\s+StR\s+232/25.{0,80}Beschluss)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Vermittlungsstelle beim Täter-Opfer-Ausgleich fälschlich als zwingend bezeichnet",
+        re.compile(
+            r"(?:Täter-Opfer-Ausgleich|Taeter-Opfer-Ausgleich|\bTOA\b)"
+            r".{0,300}(?:Vermittler|Vermittlungsstelle).{0,40}"
+            r"(?:zwingend|Pflicht)|"
+            r"(?:Vermittler|Vermittlungsstelle).{0,40}(?:zwingend|Pflicht)"
+            r".{0,300}(?:Täter-Opfer-Ausgleich|Taeter-Opfer-Ausgleich|\bTOA\b)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "BGH IV ZR 86/24 fälschlich der PKV-Beitragsanpassung zugeordnet",
+        re.compile(
+            r"IV\s+ZR\s+86/24.{0,180}(?:PKV|Beitragsanpassung)|"
+            r"(?:PKV|Beitragsanpassung).{0,180}IV\s+ZR\s+86/24",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH IV ZR 32/24 auf ein pauschales Verbot der Klauselersetzung verkürzt",
+        re.compile(
+            r"IV\s+ZR\s+32/24.{0,220}(?:Klauselersetzung\s+nach\s+Intransparenz|"
+            r"im\s+Kern\s+gleiche\s+neue\s+Klausel)|"
+            r"(?:Klauselersetzung\s+nach\s+Intransparenz|"
+            r"im\s+Kern\s+gleiche\s+neue\s+Klausel).{0,220}IV\s+ZR\s+32/24",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH VI ZR 183/22 fälschlich als Revisionsentscheidung zur Zulässigkeit der SCHUFA-Meldung verwendet",
+        re.compile(
+            r"VI\s+ZR\s+183/22.{0,220}SCHUFA.{0,80}unzulässig|"
+            r"SCHUFA.{0,80}unzulässig.{0,220}VI\s+ZR\s+183/22",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "FG Köln 12 K 1413/25 fälschlich als allgemeiner Fristen- oder Präklusionsanker verwendet",
+        re.compile(
+            r"12\s+K\s+1413/25.{0,220}(?:Antragsfrist|Präklusion|"
+            r"Antrag.{0,40}(?:verspätet|rechtzeitig|zu\s+spät))|"
+            r"(?:Antragsfrist|Präklusion|Antrag.{0,40}(?:verspätet|"
+            r"rechtzeitig|zu\s+spät)).{0,220}12\s+K\s+1413/25",
+            re.IGNORECASE,
+        ),
+    ),
 )
 
 # Ein kurzer Textanker verhindert unnötige Volltext-RegEx-Läufe pro Datei. Die
@@ -1086,6 +1518,60 @@ SENTINEL_HINTS = (
     ("1 bvr 596/56",),
     ("1 bvr 536/72",),
     ("2 bvr 2628/10", "2 bvr 2883/10"),
+    ("1 str 618/98",),
+    ("1 str 94/98",),
+    ("1 bvr 413/20",),
+    ("ii zr 91/21",),
+    ("$",),
+    ("edsa", "edpb", "verbindliche auslegungshilfe"),
+    ("520", "einwilligung"),
+    ("klagerücknahme", "klageruecknahme"),
+    ("zugangsfiktion", "wandlungsfrist"),
+    ("53", "online-beurkundung"),
+    ("53", "notariell", "beurkundung"),
+    ("ddg", "haftungsprivileg"),
+    ("45", "koordinator"),
+    ("eigentümerversammlung", "eigentuemerversammlung"),
+    ("55", "übernahmeerklärung", "uebernahmeerklärung", "notariell"),
+    ("15", "abtretung", "verpflichtung"),
+    ("gs 1/84",),
+    ("c-732/22",),
+    ("7 azr 50/24", "eugh"),
+    ("ix zb 38/24", "passivierung", "nennwert"),
+    ("ix zr 161/05",),
+    ("b 3 kr 3/19 r",),
+    ("b 3 kr 22/13 r",),
+    ("b 3 kr 4/14 r", "krankengeld", "nahtlos", "arbeitsunfäh"),
+    ("b 3 kr 9/10 r", "untätig"),
+    ("b 3 kr 6/14 r", "eilrecht", "einstweilig", "sozialpädiatr", "spz"),
+    ("b 3 kr 10/21 r", "heilmittel", "langfristversorgung"),
+    ("b 1 kr 4/20 r", "fahrkosten"),
+    ("b 3 kr 5/17 r", "haushaltshilfe"),
+    ("wochen bei eil", "wochen für eil", "wochen bei dring", "wochen für dring"),
+    ("19 sgb x", "amtsermittlung", "untersuchungsgrundsatz"),
+    ("tag nach ärztlichen feststellung", "folgetag nach ärztlichen feststellung"),
+    ("freitag", "montag", "lücke", "erlischt", "schädlich"),
+    ("muster 13", "muster 18"),
+    ("30 sgb v", "krankenhausbehandlung"),
+    ("ix zr 169/04",),
+    ("09/2017", "9/2017"),
+    ("at 4.3.2",),
+    ("707b",),
+    ("4 wx 4/24",),
+    ("dsgvo-beschluss",),
+    ("bundesanzeiger",),
+    ("7 u 173/25",),
+    ("2 bvr 625/25",),
+    ("2 bvr 625/25",),
+    ("104 zpo",),
+    ("ix zb 118/17",),
+    ("iv zr 70/25",),
+    ("4 str 232/25",),
+    ("vermittler", "vermittlungsstelle"),
+    ("iv zr 86/24",),
+    ("iv zr 32/24",),
+    ("vi zr 183/22",),
+    ("12 k 1413/25",),
 )
 
 if len(SENTINEL_HINTS) != len(SENTINELS):

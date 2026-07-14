@@ -64,7 +64,7 @@ description: "Wenn es um /anpassen in diesem Spezialbereich geht: prüft Frist, 
  statt genehmigt markieren, mehr Folge-Prüfungen zur Folgenabschätzung einleiten und
  konservativere Vendor-KI-Redlines empfehlen."
  - *Eskalationskontakt hinzufügen:* "Jeder Skill, der Eskalationen weiterleitet
- (`/anwendungsfall-triage`, `/ki-anbieter-prüfung`, `/regulierungs-lücken-analyse`), wird diesen Kontakt
+ (`/anwendungsfall-triage`, `/ki-anbieter-prüfung`, `/regulierungs-luecken-analyse`), wird diesen Kontakt
  nun auf den relevanten Risikostufen einschließen."
  - *Neuer Use-Case-Register-Eintrag:* "`/anwendungsfall-triage` gleicht beim nächsten Lauf
  gegen diesen Eintrag ab. Bestehende Folgenabschätzungen werden nicht neu geschrieben –

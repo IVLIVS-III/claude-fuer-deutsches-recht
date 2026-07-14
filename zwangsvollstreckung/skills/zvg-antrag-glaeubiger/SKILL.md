@@ -7,7 +7,7 @@ description: "Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in 
 
 ## Arbeitsbereich
 
-Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Grundschuld oder Hypothek und will eine Immobilie des Schuldners versteigern lassen. Prüfraster: Anordnungsantrag nach Paragrafen 15 ff. ZVG, Beitritt nach Paragraf 27 ZVG, geringstes Gebot, Bargebot, Verteilungstermin, vorrangige Rechte und Zwangshypothek nach Paragraf 866 ZPO. Output: ausformulierter ZVG-Antrag und Versteigerungsstrategie. Abgrenzung zu `notarielle-urkunde-grundschuld` für die Titelgrundlage und `zwv-zwangsversteigerung-grundstueck-spezial` für Vertiefungsfragen.
 
 ## Arbeitsweg
 
@@ -38,7 +38,7 @@ Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners verst
 
 ## Workflow
 
-1. **Vollstreckungsgrundlage**: dinglicher Titel (Grundschuld in Verbindung mit Unterwerfungsurkunde – siehe `zv-notarielle-urkunde-grundschuld`) oder persönlicher Titel + Zwangshypothek § 866 ZPO.
+1. **Vollstreckungsgrundlage**: dinglicher Titel (Grundschuld in Verbindung mit Unterwerfungsurkunde – siehe `notarielle-urkunde-grundschuld`) oder persönlicher Titel + Zwangshypothek § 866 ZPO.
 2. **Grundbucheinsicht** vor jedem Antrag – aktuell, weil sich Rangverhältnisse verändert haben können.
 3. **Zwangshypothek § 866 ZPO eintragen**, wenn nur persönlicher Titel: Antrag beim Grundbuchamt, Forderung mindestens 750 EUR (§ 866 Abs. 3 ZPO), nach Eintragung sechs Monate warten? Nein – Eintragung selbst genügt; die sechs Monate betreffen die Wartepflicht bei Hypothek § 1147 BGB nicht.
 4. **Antrag auf Anordnung** der Zwangsversteigerung beim Vollstreckungsgericht (Amtsgericht der belegenen Sache).

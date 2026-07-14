@@ -18,12 +18,12 @@ description: "Wenn es um Zwangsvollstreckung – Überblick und Praxis in Prozes
 Dieser Skill bleibt der prozessrechtliche Überblick. Für die operative Durchführung – Antragsformulare,
 Drittschuldnerwahl, P-Konto-Berechnung, ZVollstrDigitG-Übergänge 2026/2027, notarielle Urkunde Paragraf 800 ZPO,
 Tabellenauszug Paragraf 201 InsO, Räumung Paragraf 885 ZPO, Schuldnerschutz – lädt das freistehende Plugin
-`zwangsvollstreckung` mit 17 spezialisierten Skills (`zv-kommandocenter`, `zv-titel-klausel-zustellung`,
-`zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-pfueb-mieter-finanzamt`, `zv-vermoegensauskunft-gv`,
-`zv-kontensuche-drittschuldner`, `zv-notarielle-urkunde-grundschuld`, `zv-zvg-antrag-glaeubiger`,
-`zv-tabellenauszug-201-inso`, `zv-mobiliar-gv-auftrag`, `zv-raeumung-885`, `zv-abwehr-schuldner`,
-`zv-pfaendungstabelle-2025`, `zv-elektronische-zustellung-2027`, `zv-mahnbescheid-online`,
-`zv-vollstreckungsbescheid-folge`). Dieser Hub-Skill ist die richtige Adresse für die dogmatische
+`zwangsvollstreckung` mit spezialisierten Skills (`kommandocenter`, `titel-klausel-zustellung`,
+`pfueb-bank`, `pfueb-arbeitsentgelt`, `pfueb-802l-arbeit`, `vermoegensauskunft-gv`,
+`kontensuche-drittschuldner`, `notarielle-urkunde-grundschuld`, `zvg-antrag-glaeubiger`,
+`tabellenauszug-201-inso`, `mobiliar-gv-auftrag`, `raeumung-tabellenauszug-inso`, `abwehr-schuldner`,
+`pfaendungstabelle-pfueb-arbeitsentgelt`, `elektronische-zustellung-eu`, `mahnbescheid-online-mobiliar-gv`,
+`vollstreckungsbescheid-zv`). Dieser Hub-Skill ist die richtige Adresse für die dogmatische
 Gesamtschau; das Plugin ist die richtige Adresse für die einzelne Vollstreckungsmaßnahme.
 
 ## Eingaben

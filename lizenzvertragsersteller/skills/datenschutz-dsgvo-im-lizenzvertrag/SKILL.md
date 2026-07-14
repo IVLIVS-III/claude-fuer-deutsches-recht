@@ -28,7 +28,7 @@ Beide Parteien bestimmen gemeinsam Zweck und Mittel der Verarbeitung; typisch be
 
 ### C. Eigenstaendige Verantwortliche
 
-Lizenz uebertraegt Daten von Lizenzgeber an Lizenznehmer (z. B. Kundenstamm-Lizenz); jeder ist eigenstaendiger Verantwortlicher. → Rechtsgrundlage Art. 6 I lit. f DSGVO + Information Art. 14 DSGVO (siehe ChainCortex-Testakte zu EuGH C-732/22 Bonprix).
+Überträgt eine Lizenzgestaltung Daten vom Lizenzgeber an den Lizenznehmer, ist die Verantwortlichkeit beider Seiten getrennt zu bestimmen. Artikel 6 Absatz 1 Buchstabe f DSGVO verlangt ein rechtmäßiges Interesse, Erforderlichkeit einschließlich Datenminimierung und eine konkrete Interessenabwägung; Artikel 14 DSGVO ist gesondert zu prüfen. EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) dient nur als Anker dafür, dass ein kommerzielles Interesse grundsätzlich berechtigt sein kann.
 
 ## Drittlands-Uebermittlung Art. 44 ff. DSGVO
 
@@ -44,7 +44,7 @@ Bei Datenuebermittlung in Drittlaender:
 ## Klausel-Bausteine
 
 **A. Auftragsverarbeitung-Klausel:**
-> "$ 18 Datenschutz.
+> "Paragraf 18 Datenschutz.
 > (1) Soweit der Lizenzgeber im Rahmen dieses Vertrages personenbezogene Daten des Lizenznehmers im Auftrag verarbeitet, schliessen die Parteien einen Auftragsverarbeitungsvertrag (AVV) gem. Art. 28 DSGVO ab (**Anlage D**).
 > (2) Der Lizenzgeber verpflichtet sich, technische und organisatorische Maßnahmen nach Art. 32 DSGVO einzuhalten.
 > (3) Der Lizenzgeber wird bei Anfragen von Aufsichtsbehoerden oder bei Datenpannen den Lizenznehmer unverzueglich informieren."
@@ -61,4 +61,4 @@ Bei Datenuebermittlung in Drittlaender:
 ## Anschluss
 
 - Kunden-Daten-Behandlung im Asset Deal: siehe `testakten/insolvenz-asset-deal-chaincortex-ai-berlin/07_kundendaten-dsgvo-analyse.md`
-- EuGH C-732/22 (Bonprix) - live verifizieren auf `curia.europa.eu`
+- EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf `curia.europa.eu` verifizieren; die Entscheidung ersetzt weder Erforderlichkeits- noch Abwägungsprüfung.

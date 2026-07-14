@@ -51,7 +51,7 @@ A.4 Know-how
 
 ## Klausel-Baustein
 
-> **$ 2 Lizenzgegenstand.**
+> **Paragraf 2 Lizenzgegenstand.**
 >
 > (1) Lizenzgegenstand sind die in **Anlage A** aufgefuehrten Schutzrechte und das in Anlage A definierte Know-how (gemeinsam "Lizenzgegenstand").
 >

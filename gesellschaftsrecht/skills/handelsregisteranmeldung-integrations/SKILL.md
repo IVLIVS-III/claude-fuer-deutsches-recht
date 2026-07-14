@@ -80,17 +80,11 @@ Vor der Anmeldungsvorbereitung klären:
 
 ### Leitentscheidungen
 
-1. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
- Zum Eintragungserfordernis bei Prokura-Erteilung: Die Eintragung der Prokura
- hat keine konstitutive Wirkung; die Prokura entsteht durch Erteilung, nicht
- durch Eintragung. Aus Paragraf 15 Abs. 1 HGB folgt jedoch, dass der nicht eingetragene
- Widerruf der Prokura Dritten gegenüber unwirksam ist, wenn diese keine
- Kenntnis hatten.
+1. BGH, Beschluss vom 17.12.2013 - II ZB 6/13: Eine durch einen ausländischen Notar vorgenommene Beglaubigung kann für Paragraf 12 HGB genügen, wenn das ausländische Verfahren der deutschen öffentlichen Beglaubigung nach Funktion und Verfahrensgarantien gleichwertig ist; der ausländische Amtssitz allein rechtfertigt keine Zurückweisung.
+2. BGH, Beschluss vom 25.02.2026 - II ZB 13/24: Die österreichische Online-Beglaubigung nach dem dort geprüften Verfahren ist der deutschen Online-Beglaubigung materiell nicht gleichwertig. Bei grenzüberschreitenden Online-Verfahren deshalb Identitätsprüfung, unmittelbare Wahrnehmung, Signatur, Amtsbefugnis und Gleichwertigkeit einzeln dokumentieren.
+3. Die Eintragung einer Prokura ist deklaratorisch; für nicht eingetragene oder unrichtig bekannt gemachte Tatsachen sind die Publizitätswirkungen des Paragraf 15 HGB gesondert zu prüfen.
 
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
- Rn. 14 – Zur Zurückweisung einer Handelsregisteranmeldung wegen unzureichender
- Beglaubigung: Paragraf 12 HGB verlangt öffentliche Beglaubigung der Unterschrift;
- bloße notarielle Beglaubigung von Ablichtungen genügt nicht.
+Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden. Für II ZB 13/24 ist der amtliche Volltext in der Entscheidungsdatenbank des Bundesgerichtshofs verfügbar.
 
 ### Quellenregel
 
@@ -219,7 +213,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - **Formfehler Paragraf 12 HGB (fehlende Beglaubigung)** — Registergericht weist Anmeldung zurueck; erneute Vorlage mit Zeitverlust; Notar vor Einreichung prüfen lassen.
 - **Versicherungspflicht Paragraf 8 Abs. 3 GmbHG fehlt** — Anmeldung ohne GF-Versicherung wird abgelehnt; Versicherung vor Notartermin einholen.
 - **Paragraf 15 Abs. 1 HGB: Verzoegerung > 2 Wochen** — Ausscheidender GF haftet ggf. weiterhin gegenueber Dritten; neuer GF kann Vertretungsmacht nicht aus Register beweisen; Anmeldung unverzueglich einreichen.
-- **Satzungsaenderung ohne notarielle Beurkundung** — Paragraf 53 Abs. 2 GmbHG: Formnichtigkeit; Notar muss beurkunden (nicht nur beglaubigen).
+- **Satzungsänderung ohne notarielle Beurkundung** — Paragraf 53 Absatz 3 GmbHG: Der Beschluss muss notariell beurkundet werden; eine bloße Unterschriftsbeglaubigung genügt nicht.
 
 ## Beispiel
 

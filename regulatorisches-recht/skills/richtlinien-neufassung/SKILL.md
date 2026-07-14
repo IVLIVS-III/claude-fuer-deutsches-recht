@@ -1,159 +1,117 @@
 ---
 name: richtlinien-neufassung
-description: "Wenn es um Richtlinien-Neufassung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Überführt eine belegte aufsichtsrechtliche Lücke in eine vollständige interne Richtlinie oder Redline. Liefert normgenaue Regelungen, Rollen, Kontrollen, Nachweise, Freigabeschritte und eine umsetzbare Inkraftsetzungsfassung."
 ---
 
-# Richtlinien-Neufassung
+# Aufsichtsrechtliche Richtlinie neu fassen
 
-## Arbeitsweg
+## 1. Start mit dem vorhandenen Material
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Bestandsrichtlinie, Gap-Matrix, Primärquellen, Organisationsplan und vorhandene Kontrollnachweise. Beginne anschließend unmittelbar mit einer Änderungslandkarte und dem Entwurf. Frage nur nach einer Information, ohne die sich Adressat, Pflichtinhalt oder Freigabekompetenz nicht bestimmen lässt.
 
-## Eingaben
+## 2. Eingaben
 
-- **Gap oder Diff:** Ergebnis aus `luecken-aufzeiger` oder `richtlinien-vergleich` (oder manuelle Beschreibung der Lücke)
-- **Bestandsrichtlinie:** Vollständiger Text (hochgeladen oder eingefügt)
-- **Aufsichtsverlautbarung:** BaFin-Rundschreiben / Leitlinie (für Normzitate)
-- Optional: Richtlinienformat-Vorlage des Unternehmens
-- Optional: Übergangsfrist
+1. Bestandsrichtlinie mit Version und Freigabestatus.
+2. Belegte Gap-Zeilen mit Fundstellen.
+3. Aktuelle Primärquellen.
+4. Institutsart, DORA-Scope und einschlägige Proportionalitätsentscheidung.
+5. Organigramm, Rollenmodell und vorhandene Kontrollfrequenzen.
+6. Gewünschtes Format: Neufassung, Redline, Vorstandsvorlage oder Umsetzungsplan.
 
-## Ablauf
+## 3. Änderungskarte
 
-### 1. Ausgangslage erfassen
+Vor dem Formulieren jede Änderung zuordnen:
 
-Aus dem Gap/Diff die zu schließende(n) Lücke(n) identifizieren:
-- Welche Abschnitte der Bestandsrichtlinie müssen geändert werden?
-- Welche Abschnitte sind neu hinzuzufügen?
-- Gibt es Abschnitte, die gestrichen oder eingeschränkt werden müssen?
+| Änderung | Primärquelle | Bestandsstelle | Regelungsziel | Prozessfolge | Freigabe |
+| --- | --- | --- | --- | --- | --- |
+| Aufbewahrung anpassen | MaRisk AT 6 Tz. 2 | Richtlinie 4.2 | grundsätzlich mindestens fünf Jahre | Löschkonzept ändern | Geschäftsleitung |
 
-### 2. Normgrundlagen ermitteln
+Ein Quellenanker darf nur den Inhalt tragen, der aus ihm folgt. Spezialgesetzliche längere Aufbewahrungsfristen in einer gesonderten Fristenmatrix erfassen und nicht als MaRisk-Inhalt ausgeben.
 
-Für jede Änderung die maßgebliche Aufsichtsnorm zitieren:
+## 4. Entwurfsarchitektur
 
-```
-Änderungsgrund: MaRisk AT 4.3.2 Novelle 2023 – Datenhaltungsfrist 10 Jahre
-Maßgebliche Norm: BaFin-Rundschreiben 09/2017 (BA) i.d.F. 2023, AT 4.3.2
-Verbindlichkeit: verbindliche Mindestanforderung [Modellwissen – prüfen]
-Übergangsfrist: 31.12.2025
-```
+### 4.1 Mindestbestandteile
 
-### 3. Redline-Entwurf erstellen
+1. Zweck und Regelungsziel.
+2. Persönlicher, sachlicher und organisatorischer Geltungsbereich.
+3. Begriffe und Abgrenzungen.
+4. Verantwortlichkeiten mit Entscheidung, Ausführung und Kontrolle.
+5. Prozessschritte mit Auslöser, Frist und Nachweis.
+6. Kontrollen, Eskalation und Berichterstattung.
+7. Ausnahmen mit Genehmigungs- und Dokumentationsweg.
+8. Aufbewahrung, Versionierung, Schulung und Inkrafttreten.
 
-Format: Änderungen nach Redline-Konvention kennzeichnen:
-- **~~Durchgestrichen~~** = zu streichender Text
-- **`Fett/kursiv`** oder `[NEU:]` = neuer Text
-- `[Normverweis]` = Quelle der Änderung
+### 4.2 Redline-Regel
 
-Beispiel:
-```
-§ 4 Aufbewahrungspflichten
+Zeige für jede Änderung Alttext, Neutext, Grund und operative Folge. Vermeide rein dekorative Umformulierungen. Eine neue Pflicht muss erkennen lassen, wer was wann anhand welcher Unterlage tut und wie die Erfüllung nachgewiesen wird.
 
-(2) Daten des Risikomanagements sind für einen Zeitraum von
-~~mindestens sieben (7) Jahren~~ **[NEU: mindestens zehn (10) Jahren]**
-aufzubewahren. [MaRisk AT 4.3.2 Novelle 2023 – prüfen]
+## 5. Norm- und Statuskontrolle
 
-[NEU: (3) Für die Datenklassifizierung ist eine schriftliche
-Dokumentation zu erstellen und jährlich zu aktualisieren.
-[MaRisk AT 4.3.2 Novelle 2023 – prüfen]]
-```
+| Quelle | Einsatz im Entwurf |
+| --- | --- |
+| Paragraf 25a KWG | Geschäftsorganisation, Risikomanagement und Verantwortung |
+| Paragraf 25b KWG | Auslagerungssteuerung und Kontrollrechte |
+| MaRisk RS 06/2024 (BA) | aktuelle Aufsichtspraxis, modulgenau zitieren |
+| DORA | unmittelbar geltende IKT-Pflichten seit 17. Januar 2025 |
+| Delegierte oder Durchführungsverordnung zu DORA | technische Konkretisierung, nur bei tatsächlicher Einschlägigkeit |
+| EBA-Leitlinie | Fassung, Adressatenkreis und Comply-or-explain-Status nennen |
 
-### 4. Neue Abschnitte vollständig entwerfen
+Vor jeder Neufassung prüfen, ob ein älteres xAIT-Dokument durch DORA oder eine geänderte BaFin-Verlautbarung im konkreten Scope überholt ist. Kein aufgehobenes oder sachlich verdrängtes Rundschreiben als alleinige Normgrundlage verwenden.
 
-Für neu hinzuzufügende Abschnitte vollständigen Text erstellen. Orientierung an:
-- Wortlaut der Aufsichtsnorm (ggf. direktes Zitat mit Anpassung)
-- Formulierungsstil der Bestandsrichtlinie
-- Proportionalitätsgrundsatz (§ 25a Abs. 1 S. 3 KWG)
+## 6. Beispiel: Aufbewahrung in einer Risikomanagementrichtlinie
 
-### 5. Metadaten der Richtlinie aktualisieren
+### 6.1 Befund
 
-```
-Version: [alte Versionsnummer] → [neue Versionsnummer]
-Stand: [TT.MM.JJJJ]
-Änderungsgrund: Anpassung an [Verlautbarung]
-Geprüft durch: [Freigabe durch Rechtsabteilung / Compliance / Vorstand erforderlich]
-Nächste Überprüfung: [TT.MM.JJJJ – empfohlen: 12 Monate]
-```
+Die Bestandsrichtlinie sieht vier Jahre vor. MaRisk AT 6 Tz. 2 verlangt für wesentliche Handlungen und Festlegungen grundsätzlich fünf Jahre; längere gesetzliche Fristen bleiben unberührt.
 
-### 6. Freigabe-Checkliste
+### 6.2 Redline
 
-Am Ende des Entwurfs ausgeben:
+```text
+4.2 Aufbewahrung
 
-```
-Freigabe-Checkliste vor Inkraftsetzung:
-☐ Rechtliche Prüfung abgeschlossen [prüfen]
-☐ Compliance-Review durchgeführt
-☐ Betroffene Fachabteilung informiert
-☐ Vorstand / Geschäftsleitung hat zugestimmt (§ 25a Abs. 1 S. 2 KWG)
-☐ Mitarbeiter geschult (falls neue Pflichten)
-☐ Versionskontrolle aktualisiert
-☐ Datum des Inkrafttretens festgelegt
+Die für die Einhaltung der MaRisk wesentlichen Handlungen und Festlegungen
+werden nachvollziehbar dokumentiert und grundsätzlich mindestens fünf Jahre
+aufbewahrt. Gesetzlich oder vertraglich erforderliche längere Fristen gehen vor.
+
+Der Dokumenteneigentümer ordnet jede Dokumentenkategorie vor der Ablage der
+maßgeblichen Frist aus der freigegebenen Fristenmatrix zu. Compliance prüft die
+Fristenmatrix jährlich und anlassbezogen nach Rechtsänderungen.
 ```
 
-## Aktuelle Rechtsprechung & Leitsätze
+### 6.3 Umsetzungsfolge
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Fristenmatrix und Löschkonzept anpassen.
+2. Betroffene Systeme und Archivklassen bestimmen.
+3. Verantwortliche und Kontrollnachweis festlegen.
+4. Widersprüche zu Spezialfristen bereinigen.
+5. Freigabe, Kommunikation und Wirksamkeitskontrolle terminieren.
 
-## Zentrale Normen (Paragrafenkette)
+## 7. Freigabepaket
 
-Art. 288 AEUV (Richtlinien) — §§ 40-44 GGO (Verwaltungsvorschriften-Neufassung) — §§ 305-310 BGB (AGB-Neufassung) — §§ 133, 157 BGB (Auslegung)
+Liefere zusammen mit dem Richtlinientext:
 
-## Quellen und Zitierweise
+1. Änderungsübersicht mit Quellen und Risikobezug.
+2. Offene Punkte und bewusst getroffene Scope-Entscheidungen.
+3. Prozess- und Systemänderungen.
+4. Schulungs- und Kommunikationsbedarf.
+5. Freigabematrix und Inkraftsetzungsdatum.
+6. Erste Wirksamkeitskontrolle mit Verantwortlichem und Termin.
 
-Zitierweise: `../../../references/zitierweise.md`
+Keine konkrete Organfreigabe behaupten, ohne Satzung, Geschäftsordnung und Delegationslage geprüft zu haben.
 
-Jede Änderung im Redline wird mit der maßgeblichen Norm in Kurzform zitiert:
-- `[MaRisk AT 4.3.2 Novelle 2023]` – mit Modellwissens-Hinweis, wenn nicht aus Primärquelle
-- `[§ 25a Abs. 1 S. 3 KWG – Proportionalität]`
-- `[EBA/GL/2021/04 Rz. 45]` – für EBA-Leitlinien
+## 8. Primärquellen
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 20 ff.
-- BaFin-Rundschreiben 09/2017 (BA) – MaRisk [Primärquelle; abrufbar: bafin.de]
+1. BaFin, Rundschreiben 06/2024 (BA), MaRisk: https://www.bafin.de/SharedDocs/Downloads/DE/Rundschreiben/dl_rs_06_2024_MaRisk_pdf_BA.pdf
+2. KWG Paragraf 25a: https://www.gesetze-im-internet.de/kredwg/__25a.html
+3. KWG Paragraf 25b: https://www.gesetze-im-internet.de/kredwg/__25b.html
+4. Verordnung (EU) 2022/2554: https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+5. EBA, aktuelle Regelwerke: https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities
 
-## Beispiel
+## 9. Schlusskontrolle
 
-**Eingabe:** "Bitte die IKS-Richtlinie für GAP-2025-001 (MaRisk AT 4.3.2 – Datenhaltung) neu fassen. Richtlinie hochgeladen."
-
-**Ausgabe (Auszug):**
-
-> **⚠️ Prüfernotiz**
-> - **Quellen:** MaRisk RS 09/2017 Novelle 2023 [Modellwissen – prüfen gegen bafin.de], IKS-Richtlinie [Nutzer-Input]
-> - **Gelesen:** § 4 IKS-Richtlinie, AT 4.3.2 MaRisk
-> - **Zu Ihrer Einschätzung:** 1 Position `[prüfen]` – Aufbewahrungsfrist; Formulierung zur Datenklassifizierung ist Erstentwurf
-> - **Vor Verwendung:** Rechts- und Compliance-Freigabe erforderlich; Inkrafttreten bis 31.12.2025
-
----
-
-**VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS – ERSTENTWURF ZUR INTERNEN PRÜFUNG**
-
-**IKS-Richtlinie – Redline-Entwurf**
-*Version 2.0 (Entwurf) | Stand: 01.06.2025 | Änderungsgrund: MaRisk-Novelle 2023*
-
----
-
-**§ 4 Aufbewahrungspflichten**
-
-(2) Daten des Risikomanagements sowie sämtliche für die Beurteilung der wirtschaftlichen Verhältnisse des Instituts erforderliche Unterlagen sind für einen Zeitraum von ~~mindestens sieben (7) Jahren~~ **[NEU: mindestens zehn (10) Jahren]** aufzubewahren und jederzeit innerhalb angemessener Frist abrufbar zu halten. [MaRisk AT 4.3.2 Novelle 2023 – Modellwissen, prüfen]
-
-**[NEU: (3) Eine schriftliche Dokumentation der Datenklassifizierung ist zu erstellen. Diese ist mindestens jährlich auf Aktualität zu prüfen und bei wesentlichen Änderungen unverzüglich zu aktualisieren. [MaRisk AT 4.3.2 Novelle 2023 – Modellwissen, prüfen]]**
-
----
-
-**Änderungsübersicht:**
-| § | Änderungstyp | Normgrundlage | Status |
-|---|---|---|---|
-| § 4 Abs. 2 | Friständerung 7 → 10 Jahre | MaRisk AT 4.3.2 | `[prüfen]` |
-| § 4 Abs. 3 (neu) | Neuer Absatz Datenklassifizierung | MaRisk AT 4.3.2 | `[prüfen]` |
-
-## Risiken / typische Fehler
-
-- **Direktes Inkraftsetzen ohne Freigabe:** Der Redline-Entwurf ist ein Arbeitsdokument. Niemals ohne rechts- und compliance-seitige Freigabe sowie (bei KWG-Instituten) Geschäftsleiterzustimmung inkraftsetzen.
-- **Wörtliche Übernahme von Normtext:** Aufsichtstext ist oft Mindeststandard, nicht optimaler Richtlinientext. Formulierungen ggf. konkretisieren.
-- **Fehlende Schulungsmaßnahmen:** Neue Pflichten in internen Richtlinien wirken nicht ohne Mitarbeiterschulungen. Hinweis in Checkliste.
-- **Versionskontrolle:** Jede Richtlinienänderung erfordert eine neue Versionsnummer und ein Änderungsprotokoll. Ohne Versionskontrolle ist die Richtlinie in BaFin-Prüfungen nur schwer nachzuweisen.
-- **Proportionalitätsgrundsatz vergessen:** Für kleine und mittelgroße Institute gelten teils erleichterte Anforderungen (§ 25a Abs. 1 S. 3 KWG); Redline ggf. anpassen.
+1. Jede Muss-Regel hat eine Primärquelle oder eine klar gekennzeichnete interne Risikoentscheidung.
+2. Rundschreiben, Fassung, Modul und Absatz stimmen.
+3. Rollen existieren im Organigramm und Zuständigkeiten widersprechen sich nicht.
+4. Prozess, Kontrolle und Nachweis sind ausführbar.
+5. Übergangs- und Inkraftsetzungsdaten sind belegt, nicht geschätzt.
+6. Die Neufassung leitet Aufbewahrungsfristen ausschließlich aus der aktuellen, tatsächlich einschlägigen Primärquelle ab.

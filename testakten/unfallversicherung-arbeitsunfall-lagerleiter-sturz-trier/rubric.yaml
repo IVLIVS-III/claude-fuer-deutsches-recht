@@ -1,10 +1,36 @@
 name: unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier
-description: Arbeitsunfall eines Lagerleiters durch Sturz an einer klemmenden Ueberladebruecke, mit Kameraausfall, Vorschaden an der Schulter und vollstaendigem Instanzenzug von Anhoerung bis Sachverstaendigengutachten.
+description: Arbeitsunfall eines Lagerleiters durch Sturz an einer klemmenden Ueberladebruecke, mit Kameraausfall,
+  Vorschaden an der Schulter und vollstaendigem Instanzenzug von Anhoerung bis Sachverstaendigengutachten.
 checks:
-  - Vollbeweis des Unfallereignisses von der bloss moeglichen Kausalitaet unterscheiden und die Indizienkette aus Zeugenangaben, Wartungsbuch und medizinischem Erstbefund selbst zusammenfuehren.
-  - Kameraausfall als neutralen Umstand werten, nicht automatisch zulasten oder zugunsten einer Partei.
-  - Abgrenzung zwischen Gelegenheitsursache und wesentlicher Teilursache bei vorbestehendem degenerativem Schaden korrekt anwenden.
-  - Bedeutung des innerbetrieblichen Zustaendigkeitsverstosses fuer den Zusammenhang mit der versicherten Taetigkeit selbststaendig einordnen, nicht vorschnell verneinen.
-  - MdE-Einschaetzung und Verletztenrentenanspruch nach Paragraf 56 SGB VII rechnerisch nachvollziehen.
-  - Verletztengeldberechnung nach Paragraf 47 SGB VII von der Entgeltfortzahlung sauber abgrenzen.
-  - Keine vorgefertigte Kausalitaetsbewertung uebernehmen, sondern aus den Rohbelegen selbst ableiten.
+  - id: datei-01-mandatsnotiz-bg-fristsache
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_bg_fristsache.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_bg_fristsache.docx
+  - id: datei-02-unfallanzeige-arbeitgeber
+    check_type: file_exists
+    description: Das Primäraktenstück 02_unfallanzeige_arbeitgeber.docx ist für die Fallauswertung vorhanden.
+    path: 02_unfallanzeige_arbeitgeber.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Vollbeweis des Unfallereignisses von der bloss moeglichen Kausalitaet unterscheiden und die Indizienkette
+      aus Zeugenangaben, Wartungsbuch und medizinischem Erstbefund selbst zusammenfuehren.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Kameraausfall als neutralen Umstand werten, nicht automatisch zulasten oder zugunsten einer Partei.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Abgrenzung zwischen Gelegenheitsursache und wesentlicher Teilursache bei vorbestehendem degenerativem
+      Schaden korrekt anwenden.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Bedeutung des innerbetrieblichen Zustaendigkeitsverstosses fuer den Zusammenhang mit der versicherten
+      Taetigkeit selbststaendig einordnen, nicht vorschnell verneinen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: MdE-Einschaetzung und Verletztenrentenanspruch nach Paragraf 56 SGB VII rechnerisch nachvollziehen.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Verletztengeldberechnung nach Paragraf 47 SGB VII von der Entgeltfortzahlung sauber abgrenzen.
+  - id: fachpruefung-07
+    check_type: human_review
+    description: Keine vorgefertigte Kausalitaetsbewertung uebernehmen, sondern aus den Rohbelegen selbst ableiten.

@@ -7,18 +7,18 @@ description: "Wenn es um Lizenz Gebrauchsmuster (GebrMG) in Lizenzvertragserstel
 
 ## Normenanker
 
-- $ 1 GebrMG - Schutzgegenstand (technische Erfindung); Erfindungshoehe geringer als bei Patent
-- $ 11 GebrMG - Schutzwirkung
-- $ 22 GebrMG - Uebertragung und Lizenz (analog PatG)
-- $ 24 GebrMG - Schutzdauer 10 Jahre ab Anmeldung
-- $ 4 GebrMG - keine sachliche Prüfung im Erteilungsverfahren
+- Paragraf 1 GebrMG - Schutzgegenstand (technische Erfindung); Erfindungshoehe geringer als bei Patent
+- Paragraf 11 GebrMG - Schutzwirkung
+- Paragraf 22 GebrMG - Uebertragung und Lizenz (analog PatG)
+- Paragraf 24 GebrMG - Schutzdauer 10 Jahre ab Anmeldung
+- Paragraf 4 GebrMG - keine sachliche Prüfung im Erteilungsverfahren
 
 ## Spezifika
 
 - **Kein Prüfverfahren:** schneller eingetragen als Patent, aber rechtssicher erst nach Loeschungsklage geklaert.
 - **Schutzdauer:** max 10 Jahre (Patent: 20 Jahre).
 - **Erfindungshoehe:** geringer als beim Patent; auch klein-erfinderische Loesungen schutzfaehig.
-- **Verfahren:** rein technisch; keine Schutzfaehigkeit für Computerprogramme / biotechnologische Verfahren ($ 1 Abs. 2 GebrMG).
+- **Verfahren:** rein technisch; keine Schutzfaehigkeit für Computerprogramme / biotechnologische Verfahren (Paragraf 1 Abs. 2 GebrMG).
 - **Parallel-Strategie:** Gebrauchsmuster als Schnellschuss neben paralleler Patentanmeldung.
 
 ## Klausel-Bausteine (DE)

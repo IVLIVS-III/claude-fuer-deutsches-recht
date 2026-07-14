@@ -79,7 +79,7 @@ Prüfe je nach Fall insbesondere:
 | Patronat | Harte Erklärung mit durchsetzbarem Anspruch und Bonitätsbeleg anders behandeln als weichen Comfort Letter |
 | Bankbeitrag | Stundung, Waiver oder frisches Geld nur mit Sanierungskonzept, Organfreigabe, Sicherheiten- und Anfechtungscheck |
 
-Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025 für streitige Forderungen, objektive Zahlungsunfähigkeit, Nennwert bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung sowie den engen Rechtsirrtumskorridor; BGH II ZR 139/23 vom 11.03.2025, BGH IX ZB 38/24 vom 22.05.2025, BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018 und BGH II ZR 84/20 vom 13.07.2021.
+Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025 für streitige Forderungen, objektive Zahlungsunfähigkeit, Nennwert bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung sowie den engen Rechtsirrtumskorridor; BGH II ZR 139/23 vom 11.03.2025 zum materiellen Bestand der Verbindlichkeit; BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung des Titels beim Gläubigerantrag nach eingestellter Vollstreckung; BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018 und BGH II ZR 84/20 vom 13.07.2021.
 
 ### 3. Beleg- und Lückenmatrix
 

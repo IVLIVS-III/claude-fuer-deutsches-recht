@@ -1,172 +1,117 @@
 ---
 name: erbschaftsausschlagung
-description: "Wenn es um Erbschaftsausschlagung in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erbschaftsausschlagung; Arbeitsfeld: Fachanwalt Erbrecht."
+description: "Analysiert Annahme oder Ausschlagung einer Erbschaft mit kalendertaggenauer Fristakte, belastbarer Nachlassbilanz, Pflichtteils- und Haftungsfolgen sowie Ersatzberufenen. Liest vorhandene Unterlagen zuerst, trennt sichere Tatsachen von Annahmen und liefert Entscheidungsmatrix, Fristenvermerk, Erbfolgebild und konkrete Sofortmaßnahmen."
 ---
 
-# Erbschaftsausschlagung erläutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen
+# Erbschaft annehmen oder ausschlagen
 
+## 1. Auftrag und Direktstart
 
-## Arbeitsweg
+Ermittle zuerst, welches Arbeitsprodukt der Nutzer benötigt: Entscheidung über Annahme oder Ausschlagung, Prüfung einer bereits erklärten Ausschlagung, Anfechtung einer Annahme oder Ausschlagung, Haftungsbegrenzung oder Ermittlung der nachrückenden Erben.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB Paragrafen 1922 ff., 1942 ff., 1967, 2032 ff., 2197 ff. und 2303 ff.; FamFG Paragrafen 342 ff.; EuErbVO bei Auslandsbezug. ErbStG und AO nur hinzunehmen, wenn die konkrete Aufgabe eine Steuerschnittstelle hat. Fundstellen über amtliche Gesetzes- und Rechtsprechungsdatenbanken live prüfen; keine ungeprüften Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies vorhandene Testamente, Eröffnungsmitteilungen, Sterbeurkunden, Zustellnachweise, Vollmachten, Konto- und Grundbuchunterlagen sowie Gläubigerschreiben vollständig. Beginne anschließend mit einer Frist- und Statuszeile. Frage höchstens zwei Punkte nach, wenn ohne sie Frist oder Berufungsgrund nicht belastbar eingeordnet werden können.
 
-**Fokus:** Erbschaftsausschlagung erläutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht.
+```text
+Status: Erbfall [Datum] | Kenntnis Anfall [Datum/unklar] | Kenntnis Berufungsgrund [Datum/unklar]
+Berufung: [Gesetz/Testament/Erbvertrag] | Annahmehandlung: [nein/unklar/ja] | Fristende: [Datum/Berechnung offen]
+Sofortmaßnahme: [Gerichtstermin/Beglaubigung/Nachlasssicherung/Beleg beschaffen]
+```
 
-### Erbschaftsausschlagung
+## 2. Tatbestands- und Fristenkarte
 
-## Fachlicher Kern — Erbrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erbschaftsausschlagung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
-- **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
-- **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+| Prüffeld | Rechtsanker | Aktenfrage | Rechtsfolge |
+| --- | --- | --- | --- |
+| Anfall und Ausschlagungsrecht | Paragrafen 1942 und 1943 BGB | Ist die Erbschaft bereits ausdrücklich oder schlüssig angenommen? | Nach Annahme ist Ausschlagung ausgeschlossen; Anfechtung gesondert prüfen. |
+| Regelfrist | Paragraf 1944 Absatz 1 und 2 BGB | Wann kannte der Erbe Anfall und konkreten Berufungsgrund? | Sechs Wochen; bei Verfügung von Todes wegen nicht vor gerichtlicher Bekanntgabe. |
+| Sechsmonatsfrist | Paragraf 1944 Absatz 3 BGB | Hatte der Erblasser seinen letzten Wohnsitz nur im Ausland oder hielt sich der Erbe bei Fristbeginn im Ausland auf? | Nur in diesen gesetzlichen Fällen sechs Monate. Ein beliebiger Auslandsbezug genügt nicht. |
+| Form | Paragraf 1945 BGB | Ist die Erklärung beim Nachlassgericht zur Niederschrift oder in öffentlich beglaubigter Form eingegangen? | Ein privates Schreiben, eine E-Mail oder ein bloßer Entwurf wahrt die Form nicht. |
+| Inhalt | Paragraf 1950 BGB | Enthält die Erklärung Bedingung, Zeitbestimmung oder unklare Teilbeschränkung? | Bedingte oder befristete Ausschlagung ist unwirksam. |
+| Wirkung | Paragraf 1953 BGB | Wer wäre berufen, wenn der Ausschlagende beim Erbfall nicht gelebt hätte? | Anfall gilt als nicht erfolgt; Ersatzberufung und gesetzliche Erbfolge neu zeichnen. |
+| Minderjährige | Paragraf 1643 Absatz 3 BGB, gegebenenfalls Paragraf 1851 BGB | Wer vertritt das Kind, besteht ein Genehmigungserfordernis, liegt eine gesetzliche Ausnahme vor? | Vertretung, Ergänzungspflegschaft und Genehmigung vor Vollzug einzeln prüfen. |
 
-## 1) Eingangs-Abfrage
+Berechne das Fristende kalendarisch und dokumentiere den Rechenweg. Verlasse dich bei knappem Fristablauf nicht auf Postlaufzeiten. Bei Erklärung über einen Bevollmächtigten muss die öffentlich beglaubigte Vollmacht beigefügt oder noch innerhalb der Ausschlagungsfrist nachgebracht werden, Paragraf 1945 Absatz 3 BGB.
 
-1. Erbfall-Datum und Kenntnis vom Erbfall?
-2. Erbe gesetzlich oder testamentarisch?
-3. Auslandsbezug Erblasser/Erbe?
-4. Bekannte Nachlasswerte (Brutto)?
-5. Bekannte Erbschulden?
-6. Vorerbschaft / Nacherbschaft?
-7. Pflichtteilsberechtigung anderer?
+## 3. Zuständigkeit und sicherer Erklärungsweg
 
-## 2) Frist § 1944 BGB
+Bestimme das zuständige Nachlassgericht nach Paragraf 343 FamFG. Das Nachlassgericht am gewöhnlichen Aufenthalt des Erklärenden kann die Erklärung nach Paragraf 344 Absatz 7 FamFG ebenfalls aufnehmen und an das zuständige Gericht übermitteln. Unterscheide deshalb:
 
-| Konstellation | Frist |
-|---|---|
-| Inland | **6 Wochen** nach Kenntnis von Erbfall und Berufungs-Grund |
-| Auslands-Wohnsitz Erblasser oder Erbe | **6 Monate** |
-| Nicht bekannt Erbfall | Frist beginnt mit Kenntnis |
+1. Aufnahme zur Niederschrift beim zuständigen Nachlassgericht,
+2. Aufnahme beim Gericht am gewöhnlichen Aufenthalt des Erklärenden,
+3. öffentlich beglaubigte Erklärung mit nachweisbarem rechtzeitigem Zugang beim Nachlassgericht.
 
-### Versäumnis
+Bezeichne einen anwaltlichen oder privaten Text stets als Entwurf oder Vorbereitung. Behaupte nie, dass dieser Text allein die Form des Paragrafen 1945 BGB wahrt. Kosten hängen vom Geschäftswert und dem gewählten Vollzugsweg ab; keine pauschale Gebührenfreiheit oder feste Kostenspanne angeben.
 
-- Frist abgelaufen ohne Ausschlagung = **Erbe angenommen**
-- Anfechtung Annahme über § 1954 BGB schwer (Irrtum)
+## 4. Nachlassbilanz und Haftungsalternativen
 
-## 3) Form § 1945 BGB
+Erstelle keine Scheingenauigkeit. Verwende drei Spalten: belegt, plausibel aber offen, unbekannt.
 
-- **Notarielle Beurkundung** oder
-- **Erklärung gegenüber Nachlassgericht** (Amtsgericht Erblassers letzter Wohnsitz)
-- Beide Wege gleichwertig
+| Position | Betrag oder Bandbreite | Status und Beleg |
+| --- | ---: | --- |
+| Bank, Depot, Bargeld | [Betrag] | [Auszug/Anfrage offen] |
+| Immobilien und Belastungen | [Betrag] | [Grundbuch/Wertgutachten] |
+| Unternehmen, Gesellschaftsanteile | [Betrag] | [Vertrag/Bilanz] |
+| Steuern und Erbfallkosten | [Betrag] | [Bescheid/Schätzung] |
+| Darlehen, Bürgschaften, Prozessrisiken | [Betrag] | [Titel/Vertrag/Akte] |
+| Pflichtteile, Vermächtnisse, Auflagen | [Betrag] | [Verfügung/Berechnung] |
 
-### Kosten
+Prüfe neben Ausschlagung die Instrumente der Erbenhaftung. Nachlassverwaltung nach Paragraf 1981 BGB, Nachlassinsolvenz nach Paragraf 1980 BGB, Aufgebot und Inventar nach Paragrafen 1970 sowie 1993 ff. BGB sind keine austauschbaren Standardlösungen. Ein Inventar begrenzt die Haftung nicht schon allein; ordne Zweck, Voraussetzungen, Frist und verbleibendes Eigenhaftungsrisiko jeweils konkret zu.
 
-- Notar nach GNotKG (typisch 60-200 EUR)
-- Nachlassgericht ohne Gebuehr (nur Aktendurchsicht)
+## 5. Pflichtteil und Sonderwahlrechte
 
-## 4) Folgen der Ausschlagung
+Der Grundsatz lautet: Wer ausschlägt, verliert die Erbenstellung und erhält nicht allein deshalb einen Pflichtteilsanspruch. Prüfe Ausnahmen strikt am Tatbestand:
 
-### Rueckwirkung § 1953 BGB
+| Sonderroute | Voraussetzungen | Arbeitsfolge |
+| --- | --- | --- |
+| Belasteter oder beschränkter Erbteil | Paragraf 2306 BGB; pflichtteilsberechtigter Erbe, Beschränkung oder Beschwerung | Wert und Belastung erfassen, Ausschlagungsfrist sichern, Pflichtteil nach wirksamer Ausschlagung berechnen. |
+| Güterrechtliche Lösung des Ehegatten | Paragraf 1371 Absatz 3 BGB | Güterstand, testamentarische Lage, Zugewinnausgleich und Pflichtteil gemeinsam rechnen. |
+| Vermächtnis statt Erbteil | Paragraf 2307 BGB | Vermächtniswert, Ausschlagung und Pflichtteilsergänzung getrennt prüfen. |
 
-- Erbe gilt als nie eingetreten
-- Nächste Erbordnung tritt ein
-- Bei Kind ausschlägt: Enkelkind kann erben (Repraesentations-Prinzip)
+Zeichne für jede Option die Erbfolge nach der Ausschlagung. Prüfe Ersatz- und Nacherben, Anwachsung, gesetzliche Stämme und mögliche Ausschlagungen für minderjährige Nachrücker. Eine gewollte Weiterleitung an eine bestimmte Person ist ohne Erbfolgenachweis besonders riskant.
 
-### Pflichtteils-Anspruch
+## 6. Anfechtung einer Annahme, Fristversäumung oder Ausschlagung
 
-- Bei testamentarischer Erbeinsetzung und Ausschlagung: Pflichtteil bleibt
-- Erbersatzantritt durch Pflichtteils-Berechtigten
+Prüfe Anfechtungsgrund, Kausalität, Erklärung, Form und Frist getrennt. Paragraf 1954 BGB setzt grundsätzlich sechs Wochen ab Kenntnis des Anfechtungsgrundes an; die dort geregelten Auslandsfälle können sechs Monate auslösen. Paragrafen 1955 und 1956 BGB verbinden Form und versäumte Ausschlagungsfrist mit dem Anfechtungsrecht. Dokumentiere für jeden behaupteten Irrtum:
 
-### Bei Sozialhilfe-Beziehern
+1. konkrete Fehlvorstellung,
+2. Zeitpunkt und Quelle ihrer Entstehung,
+3. hypothetische Entscheidung bei richtiger Kenntnis,
+4. Belege und Zeugen,
+5. Beginn und Ende der Anfechtungsfrist.
 
-- **Sozialhilfe-Träger kann Ausschlagung anfechten** § 138 BGB (Sittenwidrigkeit) bei drohender Sozialhilfe-Belastung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+## 7. Rechtsprechungsanker
 
-## 5) Strategische Erwaegungen
+| Entscheidung | Tragende Linie | Einsatzgrenze |
+| --- | --- | --- |
+| BGH, Beschluss vom 22. März 2023, IV ZB 12/22 | Bei lenkender Ausschlagung ist der Irrtum darüber, welcher konkrete Dritte nachrückt, grundsätzlich ein unbeachtlicher Motivirrtum. | Nicht als allgemeiner Ausschluss jeder Irrtumsanfechtung verwenden. |
+| BGH, Urteil vom 29. Juni 2016, IV ZR 387/15 | Der mit Beschränkungen oder Beschwerungen eingesetzte Pflichtteilsberechtigte kann die Annahme anfechten, wenn er irrig meint, er dürfe zur Erhaltung des Pflichtteils nicht ausschlagen. | Nur bei nachgewiesenem Inhaltsirrtum und Kausalität; Paragraf 2306 BGB konkret prüfen. |
+| BGH, Beschluss vom 5. Juli 2006, IV ZB 39/05 | Entsprechende Linie zum Irrtum über das Wahlrecht bei belasteter Erbeinsetzung. | Ältere Gesetzesfassung beachten; die fortgeltende Linie wird durch IV ZR 387/15 eingeordnet. |
+| BGH, Urteil vom 30. November 2022, IV ZR 60/22 | Nach wirksamer Ausschlagung gemäß Paragraf 2306 BGB kann die Pflichtteilsroute einschließlich vorbereitender Auskunftsansprüche eröffnet sein. | Kein allgemeiner Pflichtteil nach jeder Ausschlagung. |
 
-### Pro Ausschlagung
+Zitiere im Arbeitsprodukt nur Entscheidungen, deren Volltext oder amtlicher Nachweis geprüft wurde. Halte Gericht, Entscheidungsart, Datum, Aktenzeichen, Randnummer oder einschlägige Passage und Abrufdatum in einer Quellenzeile fest.
 
-- Nachlass-Schulden höher als Aktiva
-- Komplexe Auslands-Nachlaesse (Erbschein-Aufwand)
-- Bevorzugung nächster Generation (Nachfolge-Planung)
-- Vermeidung Verfahrenskosten
+## 8. Sozialleistungsbezug und höchstpersönliche Entscheidung
 
-### Contra Ausschlagung
+Unterstelle nicht pauschal, ein Sozialleistungsträger könne die Ausschlagung nach Paragraf 138 BGB anfechten oder ersetzen. Prüfe stattdessen Rechtsstellung, Vertretungsmacht, sozialrechtliche Folgen, höchstpersönliche Entscheidungsanteile und einschlägige Spezialnormen am Einzelfall. Stelle die wirtschaftliche Folge für den Mandanten dar, ohne eine nicht belegte generelle Unwirksamkeitsregel zu behaupten.
 
-- Nachlass-Wert unklar (Sachverständiger?)
-- Pflichtteils-Ausnahme möglich
-- Bei Vor-/Nacherbschaft: Pflicht-Verzicht ungewollt
+## 9. Lieferpaket
 
-## 6) Anfechtung der Ausschlagung § 1954 BGB
+Liefere in dieser Reihenfolge:
 
-### Voraussetzungen
+1. Fristenvermerk mit Berechnungsweg und Belegstatus,
+2. Annahme-, Ausschlagungs- und Haftungsmatrix mit Nettofolgen,
+3. Erbfolgebild vor und nach jeder Option,
+4. Entscheidungsvorschlag mit stärkstem Gegenargument,
+5. Liste der heute zu veranlassenden Schritte,
+6. bei Bedarf Entwurf für Gericht oder Beglaubigungsstelle mit deutlichem Formhinweis,
+7. Mandantenschreiben in klarer Sprache.
 
-- Irrtum über Inhalt oder Erklärungsbestand
-- Irrtum über Eigenschaft (z.B. Nachlasswert)
+## 10. Schlusskontrolle
 
-### Frist
-
-- 6 Wochen ab Kenntnis des Irrtums
-
-### Form
-
-- Wie Ausschlagung: notariell oder Nachlassgericht
-
-### Praxis
-
-- Schwer durchzusetzen — Beweislast
-- Beispiel: Nachlasswert wesentlich höher als angenommen, Pflichtangaben zur Inventarisierung
-
-## 7) Workflow
-
-### Schritt 1 — Nachlass-Analyse
-
-- Erblasser-Konten-Recherche
-- Grundbuch-Prüfung
-- Schulden-Erforschung (Mahnungen, Vollstreckung)
-- Versicherungs- und Versorgungs-Ansprueche
-
-### Schritt 2 — Bilanz
-
-- Aktiva vs. Passiva
-- Erbschaftssteuer-Anfall prüfen
-- Pflichtteils-Risiken
-
-### Schritt 3 — Entscheidung
-
-- Annehmen mit Nachlassverwaltung (§ 1981 BGB)
-- Ausschlagen
-- Inventarerrichtung § 1993 BGB (Schutz gegen Haftung)
-
-### Schritt 4 — Ausführung
-
-- Notar oder Nachlassgericht
-- Schriftliche Bestätigung
-- Mitteilung an Mit-Erben
-
-## 8) Auslands-Bezug
-
-### EU-ErbVO (VO (EU) 650/2012)
-
-- Gilt seit 17.8.2015
-- Anwendungs-Wahl Erblasser (gewoehnlicher Aufenthalt vs. Heimat-Recht)
-- Bei Erblasser im Ausland: oft 6-Monats-Frist § 1944 III BGB
-
-### Erbschein vs. Europaeisches Nachlasszeugnis
-
-- Erbschein national
-- ENZ EU-weit
-
-## 9) Typische Fehler
-
-1. **Frist versäumt** durch fehlende Kenntnis-Berechnung
-2. **Konkludente Annahme** durch Vermögens-Verfügung (Konten-Abhebung, Wohnungsverkauf)
-3. **Auslandsbezug übersehen** (6 Monate Frist!)
-4. **Anfechtungs-Frist 6 Wochen verpasst**
-5. **Sozialhilfe-Folgen ignoriert** — Anfechtungs-Risiko des Trägers
-6. **Mit-Erben nicht informiert** — Querverfahren
-
-## 10) BGH-Linien und aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Anschluss
-
-- `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` — bei Pflichtteilsfrage
-- `fachanwalt-erbrecht-testamentsvollstreckung` — bei TV
-- `fachanwalt-erbrecht-testamentsentwurf` — bei Nachfolge-Planung
+- Sind Anfall, Berufungsgrund und Kenntnisdatum getrennt belegt?
+- Ist die Sechsmonatsfrist nur bei einem Tatbestand des Paragrafen 1944 Absatz 3 BGB angesetzt?
+- Wurde eine mögliche Annahmehandlung vor der Ausschlagung geprüft?
+- Ist der Erklärungsweg form- und zugangsfest geplant?
+- Sind Nachrücker einschließlich Minderjähriger vollständig dargestellt?
+- Ist ein Pflichtteil nach Ausschlagung nur über eine konkrete Sondernorm begründet?
+- Sind Haftungsalternativen mit ihrer tatsächlichen Wirkung beschrieben?
+- Sind Rechtsprechungsanker amtlich geprüft und fallbezogen eingesetzt?

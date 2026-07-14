@@ -101,9 +101,9 @@ Prüfen Sie das Urteil. Sie können:
 - Berufung einlegen (1 Monat, siehe `berufung-lsg-144-sgg-wertgrenze-750`)
 - Nichts mehr tun, wenn Berufung aussichtslos
 
-### Schritt 6 — Bei wiederholtem Versaeumnis
+### Schritt 6 — Bei ausbleibendem Betreiben
 
-Mehrfaches unentschuldigtes Versaeumnis kann zur Klagezuruecknahme-Fiktion fuehren oder dem Gericht den Eindruck geben, dass Sie kein Interesse haben. Vermeiden.
+Ein versäumter Termin allein löst keine Klagerücknahmefiktion aus. Nach Paragraf 102 Absatz 2 SGG gilt die Klage erst dann als zurückgenommen, wenn der Kläger das Verfahren trotz einer mit Rechtsfolgenhinweis versehenen gerichtlichen Betreibensaufforderung länger als drei Monate nicht betreibt. Zustellung und Inhalt der Aufforderung, Ablauf der Dreimonatsfrist sowie jede verfahrensfördernde Handlung deshalb genau dokumentieren.
 
 ## Worauf Sie besonders achten müssen
 

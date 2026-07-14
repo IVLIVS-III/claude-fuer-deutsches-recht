@@ -1,88 +1,97 @@
 ---
 name: eilverfahren-sozialgericht-medizinische-dringlichkeit
-description: "Wenn es um Eilverfahren Sozialgericht: Medizinische Dringlichkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt einen medizinisch und prozessual belastbaren Eilantrag zum Sozialgericht. Trennt Anordnungsanspruch, Anordnungsgrund, Prüfungsdichte und Folgenabwägung, baut die Glaubhaftmachung aus der Akte auf und formuliert Tenor, Beweisangebot und Hauptsachensicherung."
 ---
 
-# Eilverfahren Sozialgericht: Medizinische Dringlichkeit
+# Eilverfahren vor dem Sozialgericht bei medizinischer Dringlichkeit
 
-## Arbeitsweg
+## 1. Sofortstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Antrag, Bescheid, Widerspruch, Befundberichte und Terminunterlagen zuerst. Erzeuge unmittelbar eine Eilampel mit drohendem Nachteil, spätestem medizinischem Handlungszeitpunkt, beantragter Leistung und vorhandenen Glaubhaftmachungsmitteln. Frage höchstens die Tatsachen nach, die für Tenor oder Dringlichkeit nicht aus der Akte hervorgehen.
 
-## Skill-Zweck
+## 2. Rechtsrahmen
 
-Bei drohender Gesundheitsverschlechterung kann nicht auf den Abschluss des Widerspruchsverfahrens gewartet werden. Dieser Skill bereitet den **Eilantrag beim Sozialgericht (§ 86b SGG)** vor: Anordnungsanspruch, Anordnungsgrund und Glaubhaftmachung.
+- Paragraf 86b Absatz 1 SGG: Aussetzung der Vollziehung oder Anordnung beziehungsweise Wiederherstellung der aufschiebenden Wirkung bei belastenden Verwaltungsakten.
+- Paragraf 86b Absatz 2 SGG: Sicherungs- oder Regelungsanordnung bei einem Leistungsbegehren.
+- Paragraf 86b Absatz 3 SGG: Der Antrag ist bereits vor Erhebung der Hauptsache zulässig.
+- Paragraf 920 Absatz 2 und Paragraf 294 ZPO in Verbindung mit Paragraf 202 SGG: Glaubhaftmachung von Anspruch und Grund.
+- Artikel 19 Absatz 4 GG: wirksamer gerichtlicher Rechtsschutz.
 
-## Rechtlicher Rahmen
+## 3. Rechtsprechungsanker
 
-- **§ 86b Abs. 2 SGG** – Einstweilige Anordnung: Anordnungsanspruch + Anordnungsgrund
-- **§ 86b Abs. 1 SGG** – Anordnung der aufschiebenden Wirkung (bei Verwaltungsakten)
-- **§ 192 SGG** – Missbrauchsgebühr (selten, aber Warnung)
-- **Art. 19 Abs. 4 GG** – Effektiver Rechtsschutz
-- **BVerfG 1 BvR 347/98** – Grundrechtsorientierte Auslegung: keine Ablehnung bei lebensbedrohlicher Erkrankung
-- **BVerfGE 79, 69** – Einstweiliger Rechtsschutz muss effektiv sein
-- BSG B 3 KR 6/14 R (einstweiliger Rechtsschutz Hilfsmittel), BSG B 1 KR 1/16 R (Eilanspruch Arzneimittel)
+- BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05: Drohen schwere und unzumutbare, später nicht mehr zu beseitigende Nachteile, müssen die Gerichte die Sach- und Rechtslage intensiv prüfen; ist das nicht möglich, ist anhand einer Folgenabwägung zu entscheiden. Die tatsächliche Aufklärung darf nicht durch formelhafte Zweifel ersetzt werden.
+- BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: Der Nikolaus-Beschluss betrifft den materiellen Leistungsmaßstab bei lebensbedrohlicher oder regelmäßig tödlicher Erkrankung und ernsthafter Aussicht einer nicht allgemein anerkannten Behandlung. Er ersetzt weder Anordnungsgrund noch Glaubhaftmachung.
 
-## Zwei-Säulen-Struktur Eilantrag
+## 4. Wahl des richtigen Antrags
 
-| Element | Inhalt | Nachweis |
-|---------|--------|----------|
-| Anordnungsanspruch | Materieller Leistungsanspruch besteht | Glaubhaftmachung, nicht Vollbeweis |
-| Anordnungsgrund | Eilbedürftigkeit: unzumutbares Abwarten | Eidesstattliche Versicherung, ärztliches Attest |
+| Ausgangslage | Verfahrensart | Tenorziel |
+| --- | --- | --- |
+| Leistung wurde abgelehnt oder noch nicht beschieden | Regelungsanordnung nach Paragraf 86b Absatz 2 Satz 2 SGG | vorläufige Versorgung oder Kostenübernahme |
+| belastender Bescheid ist sofort vollziehbar | Paragraf 86b Absatz 1 SGG | aufschiebende Wirkung anordnen oder wiederherstellen |
+| bestehender Zustand soll gegen Veränderung gesichert werden | Sicherungsanordnung nach Paragraf 86b Absatz 2 Satz 1 SGG | vorläufige Unterlassung oder Sicherung |
 
-## Prüfprogramm
+Ein Ablehnungsbescheid ist keine zwingende Zulässigkeitsvoraussetzung. Der Leistungsantrag bei der Krankenkasse soll grundsätzlich gestellt sein; bei dokumentierter Dringlichkeit muss der Versicherte dessen Bescheid aber nicht abwarten.
 
-### Schritt 1 – Eilbedürftigkeit feststellen
-- Droht bei Zuwarten irreversibler Schaden (Gesundheitsverschlechterung, Invalidität, Todesgefahr)?
-- Wartezeit auf Widerspruchsbescheid: typisch 3–6 Monate → zu lang bei medizinischer Dringlichkeit
-- Konkrete Frist: Behandlungstermin, Operation, Therapiebeginn
+## 5. Prüfprogramm
 
-### Schritt 2 – Anordnungsanspruch formulieren
-- Leistungsanspruch aus SGB V skizzieren (§ 27, § 33, § 40 etc.)
-- BSG-Maßstab: plausible Rechtspositionen, keine abschließende Prüfung im Eilverfahren
-- Medizinische Notwendigkeit: ärztliches Attest mit konkreter Aussage über Dringlichkeit
+### 5.1 Anordnungsanspruch
 
-### Schritt 3 – Glaubhaftmachung (§ 294 ZPO analog)
-- Kein Vollbeweis nötig; überwiegende Wahrscheinlichkeit ausreichend
-- Mittel: eidesstattliche Versicherung des Versicherten, ärztliches Attest, Befundberichte
-- Kombination: mehrere Belege zur Absicherung
+1. Anspruchsgrundlage und konkrete Leistung benennen.
+2. Tatbestandsmerkmale mit Aktenfundstellen belegen.
+3. Einwände der Krankenkasse und die tragenden Gegenargumente abarbeiten.
+4. Bei lebensbedrohlicher Erkrankung zusätzlich die Voraussetzungen des Paragrafen 2 Absatz 1a SGB V und die Reichweite von BVerfG 1 BvR 347/98 prüfen.
 
-### Schritt 4 – Antragstellung beim SG
-- Zuständiges Sozialgericht: am Wohnort des Versicherten
-- Antrag schriftlich; keine Anwaltspflicht im Eilverfahren vor SG
-- Inhalt: Antragstenor (was genau begehrt wird), Sachverhalt, Rechtliche Begründung, Glaubhaftmachungsmittel
-- Beschleunigung: „dringend" kennzeichnen; telefonische Ankündigung möglich
+### 5.2 Anordnungsgrund
 
-### Schritt 5 – Besonderheiten bei bestimmten Leistungen
-- Krankengeld: Eilantrag bei drohender Obdachlosigkeit, Zwangsräumung
-- Hilfsmittel: Eilantrag wenn Grundbedürfnis (Mobilität, Kommunikation) betroffen
-- Psychotherapie: Eilantrag nur bei akuter Suizidalität o.ä. (hohe Schwelle)
-- Stationäre Behandlung: Krankenhaus-Aufnahme oft direkt; Kasse nachträglich konfrontiert
+1. Schaden bei Abwarten der Hauptsache konkret beschreiben: Funktionsverlust, Krankheitsprogression, Therapiezeitfenster, Pflegeabhängigkeit oder existenzielle Notlage.
+2. Zeitpunkt und Wahrscheinlichkeit des Schadenseintritts ärztlich belegen.
+3. Erklären, weshalb spätere Geldzahlung oder nachträgliche Versorgung den Nachteil nicht beseitigt.
+4. Eigenmittel, Zwischenversorgung und zumutbare Alternativen offenlegen; fehlende Mittel durch Kontoauszug oder eidesstattliche Versicherung belegen, soweit relevant.
 
-## Typische Fallen
+### 5.3 Prüfungsdichte und Folgenabwägung
 
-- **Zu früh Eilantrag**: Noch kein Ablehnungsbescheid → kein Rechtsschutzbedürfnis; zuerst beantragen und abwarten (kurz).
-- **Hauptsache vergessen**: Eilantrag sichert nur vorläufige Regelung; parallel Widerspruch und ggf. Klage führen.
-- **Folgenabwägung**: Gericht wägt Folgen der Ablehnung gegen Folgen der Stattgabe ab → Folgen für Antragsteller müssen überwiegen.
-- **BVerfG-Grundsatz**: Bei lebensbedrohlicher Erkrankung darf Gericht nicht mit formalen Gründen ablehnen.
+- Je schwerer und irreversibler der drohende Nachteil, desto intensiver müssen Tatsachen und Recht geprüft werden.
+- Bleiben entscheidende Fragen trotz beschleunigter Aufklärung offen, Folgen der Stattgabe und Ablehnung symmetrisch gegenüberstellen.
+- Fiskalische Rückabwicklung auf Kassenseite nicht mit irreversiblen Gesundheitsfolgen gleichsetzen.
+- Keine Vorwegnahme der Hauptsache behaupten, ohne zu prüfen, ob effektiver Rechtsschutz gerade eine faktisch endgültige vorläufige Leistung verlangt.
 
-## Output-Formate
+### 5.4 Glaubhaftmachung
 
-- Eilantragsschreiben (§ 86b SGG, Muster)
-- Eidesstattliche Versicherung (Muster)
-- Ärztliches Attest-Briefing (Was muss drin stehen?)
-- Checkliste Anordnungsanspruch/-grund
-- Notfall-Aktionsplan (was tun wenn Kasse nicht reagiert)
+| Behauptung | Geeignetes Mittel | Qualitätsmerkmal |
+| --- | --- | --- |
+| Diagnose und Funktionsverlust | aktueller Facharztbericht | Befund, Verlauf und objektivierbare Einschränkung |
+| medizinische Dringlichkeit | gezieltes Attest | konkrete Folge und Zeitraum bei Nichtbehandlung |
+| fehlende Alternative | Therapievergleich oder ärztliche Stellungnahme | ausgeschlossene Optionen mit Gründen |
+| finanzielle Unmöglichkeit | Kontoauszüge und eidesstattliche Versicherung | nachvollziehbarer Bedarf statt Pauschalbehauptung |
+| Verfahrensstand | Antrag, Eingangsbeleg, Bescheid, Widerspruch | vollständige Chronologie |
 
-## Quellen
+### 5.5 Antrag und Hauptsache
 
-- [§ 86b SGG – Einstweilige Anordnung](https://www.gesetze-im-internet.de/sgg/__86b.html)
-- [BVerfG 1 BvR 347/98](https://www.bverfg.de/e/rs19990109_1bvr034798.html)
-- [§ 294 ZPO – Glaubhaftmachung](https://www.gesetze-im-internet.de/zpo/__294.html)
-- [BSG Eilrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org § 86b SGG](https://dejure.org/gesetze/SGG/86b.html)
-- [Art. 19 Abs. 4 GG](https://www.gesetze-im-internet.de/gg/art_19.html)
+1. Leistung, Zeitraum, gegebenenfalls Leistungserbringer und Vorläufigkeit so genau tenorieren, dass der Beschluss vollziehbar ist.
+2. Hauptsache parallel sichern: Widerspruch oder Klage fristgerecht einlegen.
+3. Zuständigkeit nach Paragraf 57 SGG und Beteiligtenbezeichnung prüfen.
+4. Anlagen im Text referenzieren und ein Anlagenverzeichnis beifügen.
+
+## 6. Fehlerkontrolle
+
+- Psychotherapie ist nicht nur bei akuter Suizidalität eilfähig; entscheidend sind Art, Schwere, zeitliche Nähe und Irreversibilität des konkreten Nachteils.
+- BVerfG 1 BvR 347/98 nicht als allgemeine Eilentscheidung oder Verzicht auf Tatbestandsprüfung zitieren.
+- Keine materiell-rechtliche Hilfsmittel- oder Arzneimittelentscheidung als allgemeinen Eil-Leitsatz ausgeben.
+- Nicht bloß auf lange Bearbeitungszeiten verweisen, sondern den individuellen Schaden des Zuwartens belegen.
+
+## 7. Arbeitsprodukte
+
+- vollständiger Antrag auf einstweilige Anordnung mit konkretem Tenor;
+- medizinisches Attest-Briefing mit fallbezogenen Beweisfragen;
+- eidesstattliche Versicherung;
+- Anspruchs- und Dringlichkeitsmatrix;
+- Folgenabwägung in zwei Spalten;
+- Fristenblatt für Widerspruch, Klage und gerichtliche Nachfragen.
+
+## 8. Quellenstatus
+
+- [Paragraf 86b SGG](https://www.gesetze-im-internet.de/sgg/__86b.html)
+- [BVerfG 1 BvR 569/05](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html)
+- [BVerfG 1 BvR 347/98](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/12/rs20051206_1bvr034798.html)
+- [Paragraf 294 ZPO](https://www.gesetze-im-internet.de/zpo/__294.html)
+- [Artikel 19 GG](https://www.gesetze-im-internet.de/gg/art_19.html)

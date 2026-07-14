@@ -39,13 +39,13 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 
 Dingliche Vollstreckung in das selbstgenutzte Einfamilienhaus Beethovenstrasse 12. Sicherungsgrundschuld 380.000 EUR aus 2017, Notar Dr. Berghoff, URNr 882/2017. Forderung valutiert per 31.3.2026 mit 261.480,73 EUR offen aus Privatdarlehen 4717-8821 zur Sanierung. Bernd und Dorothea Müller sind drei Monate im Rückstand, Kündigung mit Schreiben vom 5.4.2026 erklärt, Kündigung der Grundschuld nach Paragraf 1193 BGB am 12.4.2026.
 
-Skills: `zv-notarielle-urkunde-grundschuld`, `zv-zvg-antrag-glaeubiger`, ggf. `zv-pfueb-bank` (persönliche Vollstreckung parallel).
+Skills: `notarielle-urkunde-grundschuld`, `zvg-antrag-glaeubiger`, gegebenenfalls `pfueb-bank` für die parallele persönliche Vollstreckung.
 
 ### 02 - Einfache Kontopfändung
 
 Aus demselben Privatdarlehen (Restforderung 261.480,73 EUR) wird parallel der Lohnzufluss des Schuldners gepfändet. Bernd Müller bezieht Geschäftsführervergehalt der Müller Küchen GmbH (Drittschuldner) über das Geschäftskonto bei der Postbank, IBAN DE89 1001 0010 0987 6543 21. Dorothea Müller führt ihr Privatkonto bei der DKB, IBAN DE12 1203 0000 5511 2233 00. Beide Konten werden gepfändet, P-Konto-Schutz wird voraussichtlich beantragt.
 
-Skills: `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-pfaendungstabelle-2025`, `zv-elektronische-zustellung-2027`.
+Skills: `pfueb-bank`, `pfueb-arbeitsentgelt`, `pfaendungstabelle-pfueb-arbeitsentgelt`, `elektronische-zustellung-eu`.
 
 ### 03 - Verpfändung Bitcoin- und Stablecoin-Wallets
 
@@ -56,7 +56,7 @@ Bei der Vermögensauskunft am 22.4.2026 hat Bernd Müller offengelegt, dass er �
 
 Beide Vermögensgegenstände werden vollstreckt - mit unterschiedlichen Mechaniken, die diese Akte gegenüberstellt.
 
-Skills: `zv-mobiliar-gv-auftrag` (self-hosted), `zv-pfueb-mieter-finanzamt` (custodial Drittschuldner), `zv-vermoegensauskunft-gv`, `zv-abwehr-schuldner` (Schuldnerseite Selbstbelastungsverweigerung).
+Skills: `mobiliar-gv-auftrag` für die selbst verwahrte Wallet, `pfueb-802l-arbeit` für den verwahrenden Drittschuldner, `vermoegensauskunft-gv` sowie `abwehr-schuldner` für die Schuldnerseite und mögliche Auskunftsgrenzen.
 
 ## Verzeichnisstruktur
 

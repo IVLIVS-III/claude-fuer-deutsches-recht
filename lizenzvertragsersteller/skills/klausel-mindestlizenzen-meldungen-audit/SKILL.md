@@ -32,13 +32,13 @@ Quartalsweise Bericht; jaehrlicher Compliance-Bericht.
 | Stufe | Bei Verzug … | Maßnahme |
 |---|---|---|
 | 1 | Erstmalig + < 14 Tage | Mahnung schriftlich |
-| 2 | 14 - 60 Tage | Mahnung + Verzugszinsen $ 288 II BGB |
+| 2 | 14 - 60 Tage | Mahnung + Verzugszinsen Paragraf 288 II BGB |
 | 3 | > 60 Tage | Recht zur ausserordentlichen Kuendigung; Suspendierung der Lizenz |
 | 4 | wiederholt | Audit + Schadensersatz; Auskunftsanspruch über bisher nicht gemeldete Umsaetze |
 
 ## Verzugs- und Strafkonditionen
 
-> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz nach $ 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
+> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz nach Paragraf 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
 
 ## Anschluss
 

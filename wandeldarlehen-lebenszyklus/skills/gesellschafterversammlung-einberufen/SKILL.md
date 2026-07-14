@@ -29,7 +29,7 @@ description: "Wenn es um Gesellschafterversammlung einberufen (Kapitalerhöhung)
 - § 50 GmbHG (Einberufungsrecht Gesellschafter mit mehr als zehn Prozent)
 - § 51 GmbHG (Form und Frist: schriftlich, mindestens eine Woche)
 - § 51 Abs. 3 GmbHG (Beschlussfassung ohne Einberufung bei Einverständnis aller Gesellschafter)
-- § 53 Abs. 2 GmbHG (Satzungsänderungsbeschluss: notarielle Beurkundung, drei Viertel-Mehrheit)
+- Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit) und Absatz 3 GmbHG (notarielle Beurkundung des Satzungsänderungsbeschlusses)
 
 ### Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -40,13 +40,13 @@ description: "Wenn es um Gesellschafterversammlung einberufen (Kapitalerhöhung)
 Option A – Schnellweg (§ 51 Abs. 3 GmbHG): Alle Gesellschafterinnen stimmen der Versammlung ohne Einberufung zu und verzichten auf die Ladungsfrist. Nur möglich bei einstimmigem Einverständnis. Option B – Reguläre Einberufung (§ 51): Schriftliche Einladung mindestens eine Woche vorher, Tagesordnung beifügen.
 
 ### 2. Einladungsschreiben verfassen
-Absender: Geschäftsführerin. Empfänger: alle Gesellschafterinnen. Inhalt: Datum, Uhrzeit, Ort (oder Videokonferenz falls Satzung erlaubt), Tagesordnung vollständig. Hinweis: Notarielle Beurkundung des Beschlusses (§ 53 Abs. 2 GmbHG).
+Absender: Geschäftsführerin. Empfänger: alle Gesellschafterinnen. Inhalt: Datum, Uhrzeit, Ort oder eine satzungsmäßig zulässige virtuelle Teilnahme sowie vollständige Tagesordnung. Hinweis: Der Kapitalerhöhungsbeschluss ist nach Paragraf 53 Absatz 3 GmbHG notariell zu beurkunden.
 
 ### 3. Tagesordnung formulieren
 TOP 1: Kapitalerhöhung des Stammkapitals um EUR [Nennbetrag neue Anteile] gegen Einbringung der Forderung aus Wandeldarlehen Northstar Pre-Seed Partners GmbH & Co. KG als Sacheinlage. TOP 2: Verzicht der Altgesellschafterinnen auf Bezugsrechte. TOP 3: Zulassung des Darlehensgebers als neuer Gesellschafter. TOP 4: Änderung der Gesellschafterliste.
 
 ### 4. Notartermin koordinieren
-Kapitalerhöhungsbeschluss bedarf notarieller Beurkundung (§ 53 Abs. 2 GmbHG). Notar beurkundet Beschluss und Übernahmeerklärung des Lenders (§ 55 Abs. 2 GmbHG). Termin mindestens zwei Wochen im Voraus buchen.
+Der Kapitalerhöhungsbeschluss bedarf nach Paragraf 53 Absatz 3 GmbHG notarieller Beurkundung. Die Übernahmeerklärung des Darlehensgebers muss nach Paragraf 55 Absatz 1 GmbHG notariell aufgenommen oder beglaubigt werden. Termin mit angemessenem Vorlauf buchen.
 
 ### 5. Versand der Einladung und Dokumentation
 Versand per Einschreiben (Zugangsnachweis) oder per E-Mail wenn Satzung erlaubt. Zustellungsnachweis archivieren.

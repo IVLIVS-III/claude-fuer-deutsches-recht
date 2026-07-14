@@ -346,9 +346,8 @@ Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwalt
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Daten als Beweisgrundlage im Strafbefehl): Akteneinsicht muss die Auswertungs- und Authentifizierungsprotokolle der ANOM-Daten umfassen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Akteneinsicht insbesondere in Mengenermittlung und Auswertung; sanktionsfreie Eigenkonsummenge für Tatverdachtspruefung herauszupraeparieren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 147 StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 147 StPO Strafbefehl" durchführen.
+- BVerfG, Beschluss vom 23. September 2025, 2 BvR 625/25: Die Verfassungsbeschwerde gegen eine auf ANOM-Daten gestützte Verurteilung wurde nicht zur Entscheidung angenommen; nach dem dortigen Vortrag bestanden keine verfassungsrechtlichen Bedenken gegen die Verwertung. Die Entscheidung begründet keinen besonderen Anspruch auf Auswertungs- oder Authentifizierungsprotokolle. Ein konkretes Einsichtsbegehren aus Paragraf 147 StPO und dem behaupteten Prüfdefizit ableiten. Amtliche Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html
+- BGH, Beschluss vom 3. Februar 2025, GSSt 1/24: Bei teilweise für den Handel und teilweise für den Eigenkonsum bestimmtem Cannabis scheidet eine zusätzliche Verurteilung wegen Besitzes aus, wenn die Eigenkonsummenge für sich die Strafbarkeitsgrenzen nicht überschreitet; die Einziehung kann dennoch die gesamte verkörperte Menge erfassen. Für die Akteneinsicht deshalb Mengenermittlung, Lagerung, Wirkstoffgutachten und Belege zur Zweckbestimmung vollständig anfordern, ohne aus der Entscheidung selbst ein Einsichtsrecht abzuleiten. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142070
 
 ## Schritt-für-Schritt-Workflow
 

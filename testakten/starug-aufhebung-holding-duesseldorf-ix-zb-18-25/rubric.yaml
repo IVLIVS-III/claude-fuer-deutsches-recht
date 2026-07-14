@@ -1,9 +1,36 @@
 name: starug-aufhebung-holding-duesseldorf-ix-zb-18-25
-description: StaRUG-Restrukturierungssache einer Duesseldorfer Beteiligungs-Holding, die nach Anzeige der Zahlungsunfaehigkeit aufgehoben wird; Handakte durch drei Instanzen bis zur ersten BGH-Entscheidung zum StaRUG (IX ZB 18/25) mit Planentwurf, ungesichertem Drittbeitrag und Quotenvergleich.
+description: StaRUG-Restrukturierungssache einer Duesseldorfer Beteiligungs-Holding, die nach Anzeige der Zahlungsunfaehigkeit
+  aufgehoben wird; Handakte durch drei Instanzen bis zur ersten BGH-Entscheidung zum StaRUG (IX ZB 18/25) mit Planentwurf,
+  ungesichertem Drittbeitrag und Quotenvergleich.
 checks:
-  - Aufhebungssystematik des Paragraf 33 Abs. 2 Satz 1 Nr. 1 StaRUG sauber gliedern (Regel Halbsatz 1, Ausnahmen Halbsatz 2 und 3, Ermessen).
-  - Erkennen, dass der Massstab des Halbsatzes 2 nicht der Vorteil der Insolvenz, sondern das offensichtliche Nicht-im-Gesamtinteresse ist, und die Quotenunsicherheit (1 Prozent gegen 0 bei 6.119,51 EUR Verteilvolumen) einordnen.
-  - Den nicht unterzeichneten Drittbeitrag als Kernschwaeche des Halbsatzes 3 identifizieren und Sicherungswege benennen.
-  - Die Darlegungslast des Schuldners fuer alle Absehens-Umstaende herausarbeiten.
-  - Das Rechtsschutzinteresse der Beschwerde trotz Paragraf 31 Abs. 4 Nr. 3 und Nr. 4 StaRUG begruenden.
-  - Das beiliegende amtliche BGH-PDF als Beweis- und Zitatquelle korrekt verwerten (Gericht, Datum, Aktenzeichen, ECLI, Randnummern).
+  - id: datei-01-handaktenvermerk-mandat
+    check_type: file_exists
+    description: Das Primäraktenstück 01_handaktenvermerk_mandat.docx ist für die Fallauswertung vorhanden.
+    path: 01_handaktenvermerk_mandat.docx
+  - id: datei-02-handelsregisterauszug-silberweiher
+    check_type: file_exists
+    description: Das Primäraktenstück 02_handelsregisterauszug_silberweiher.docx ist für die Fallauswertung vorhanden.
+    path: 02_handelsregisterauszug_silberweiher.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Aufhebungssystematik des Paragraf 33 Abs. 2 Satz 1 Nr. 1 StaRUG sauber gliedern (Regel Halbsatz
+      1, Ausnahmen Halbsatz 2 und 3, Ermessen).
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Erkennen, dass der Massstab des Halbsatzes 2 nicht der Vorteil der Insolvenz, sondern das offensichtliche
+      Nicht-im-Gesamtinteresse ist, und die Quotenunsicherheit (1 Prozent gegen 0 bei 6.119,51 EUR Verteilvolumen)
+      einordnen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Den nicht unterzeichneten Drittbeitrag als Kernschwaeche des Halbsatzes 3 identifizieren und Sicherungswege
+      benennen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Die Darlegungslast des Schuldners fuer alle Absehens-Umstaende herausarbeiten.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Das Rechtsschutzinteresse der Beschwerde trotz Paragraf 31 Abs. 4 Nr. 3 und Nr. 4 StaRUG begruenden.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Das beiliegende amtliche BGH-PDF als Beweis- und Zitatquelle korrekt verwerten (Gericht, Datum,
+      Aktenzeichen, ECLI, Randnummern).

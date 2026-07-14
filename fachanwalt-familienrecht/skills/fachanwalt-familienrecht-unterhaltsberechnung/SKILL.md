@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-unterhaltsberechnung
-description: "Wenn es um Unterhaltsberechnung in Fachanwalt Familienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Berechnet Kindes-, Trennungs- und nachehelichen Unterhalt aus belegtem Einkommen, Betreuung, Bedarf, Rang und Selbstbehalt. Prüft Auskunft, Vertretung des Kindes, Mehrjahresbild bei Selbstständigen, erweiterten Umgang, Mangelfall und Rückstände und liefert Rechenmemo, Stufenantrag oder Vergleich."
 ---
 
 # Unterhaltsberechnung
@@ -38,7 +38,9 @@ Dieser Skill führt eine Unterhaltsakte von der Beleglage zur rechnerischen Ansp
 ## Leitentscheidungen
 
 - BGH, Beschluss vom 16.09.2020 - XII ZB 499/19: Die Erklärung unbegrenzter Leistungsfähigkeit beseitigt den Auskunftsanspruch des Kindes nicht; eine begrenzte Fortschreibung der Düsseldorfer Tabelle kann zulässig sein.
-- BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Fiktives Einkommen setzt unzureichende Erwerbsbemühungen und eine reale, zumutbare Beschäftigungschance voraus; nur realistisch erzielbares Einkommen darf zugerechnet werden.
+- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Erweiterter Umgang führt nicht zu quotaler Barhaftung des hauptbetreuenden Elternteils; möglich sind eine Tabellenherabstufung und bei konkret bedarfsdeckenden Leistungen eine Schätzung von regelmäßig zehn, ausnahmsweise höchstens fünfzehn Prozent.
+- BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Eine Herabsetzung des notwendigen Selbstbehalts wegen Haushaltsersparnis setzt konkrete Feststellungen zum Zusammenleben und zur Eigenbedarfsdeckung des neuen Partners voraus; der Vorteil darf nicht nur vermutet werden.
+- BGH, Beschluss vom 10.04.2024 - XII ZB 459/23: Bei nicht verheirateten Eltern ist im Obhutsmodell der betreuende Elternteil allein vertretungsbefugt; im Wechselmodell kann jeder Elternteil den gegen den anderen gerichteten Teilanspruch des Kindes vertreten.
 - BGH, Beschluss vom 25.09.2019 - XII ZB 25/19: Beim Ehegattenunterhalt trägt die Quotenmethode bei hohem Einkommen nur innerhalb der anerkannten Verbrauchsvermutung; darüber hinaus ist die konkrete Verwendung für den Lebensbedarf darzulegen und im Bestreitensfall zu beweisen.
 
 ## Arbeitsprodukt

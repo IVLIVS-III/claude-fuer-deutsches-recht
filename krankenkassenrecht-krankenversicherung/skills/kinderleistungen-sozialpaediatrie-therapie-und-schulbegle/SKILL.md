@@ -1,94 +1,99 @@
 ---
 name: kinderleistungen-sozialpaediatrie-therapie-und-schulbegle
-description: "Wenn es um Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Klärt bei Kindern die Zuständigkeit für Sozialpädiatrie, Frühförderung, Heilmittel, häusliche Krankenpflege, Psychotherapie und Schulbegleitung. Erstellt aus Förderbedarf und Alltagsfunktion einen trägerfesten Antrag mit Weiterleitungs-, Beweis- und Eilplan."
 ---
 
-# Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung
+# Kinderleistungen: Sozialpädiatrie, Frühförderung und Schulbegleitung
 
-## Arbeitsweg
+## 1. Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Entwicklungsberichte, ärztliche Befunde, Förder- und Behandlungsplan, Schulunterlagen und bisherige Bescheide zuerst. Erstelle eine Leistungsträgerkarte statt paralleler unbestimmter Anträge. Frage nur nach nicht dokumentierten Funktionsbeeinträchtigungen, konkreten Hilfen im Tagesablauf und bereits kontaktierten Trägern.
 
-## Skill-Zweck
+## 2. Rechtsrahmen
 
-Kinder mit Entwicklungsstörungen, Behinderungen oder chronischen Erkrankungen benötigen oft komplexe Versorgung. Kläre **welche Leistungen die Krankenkasse schuldet** – und wo die Abgrenzung zu Eingliederungshilfe, Schule und Jugendhilfe liegt.
+- Paragraf 43a SGB V: nichtärztliche sozialpädiatrische Leistungen unter ärztlicher Verantwortung.
+- Paragraf 119 SGB V: Teilnahme zugelassener sozialpädiatrischer Zentren an der ambulanten Versorgung.
+- Paragraf 32 SGB V: Heilmittel.
+- Paragraf 37 SGB V: häusliche Krankenpflege, gegebenenfalls auch am Schulort.
+- Paragraf 39 SGB V: Krankenhausbehandlung.
+- Paragraf 46 SGB IX und Frühförderungsverordnung: Komplexleistung für noch nicht eingeschulte Kinder.
+- Paragraf 112 SGB IX: Leistungen zur Teilhabe an Bildung im Eingliederungshilferecht.
+- Paragraf 35a SGB VIII: Eingliederungshilfe bei seelischer Behinderung.
+- Paragraf 14 SGB IX: fristgebundene Zuständigkeitsklärung und Weiterleitung zwischen Rehabilitationsträgern.
 
-## Rechtlicher Rahmen
+## 3. Zuständigkeitskarte
 
-- **§ 43a SGB V** – Sozialpädiatrische Zentren (SPZ): Frühförderung, Diagnostik
-- **§ 30 SGB V** – Krankenhausbehandlung für Kinder und Jugendliche
-- **§ 32 SGB V** – Heilmittel: Ergo-, Logo-, Physiotherapie für Kinder
-- **§ 37 SGB V** – Häusliche Krankenpflege, auch bei Kindern
-- **§ 2 SGB IX** – Behinderungsbegriff, ICF-orientiert
-- **§ 112 SGB IX** – Schulbegleitung als Eingliederungshilfe (nach SGB IX Teil 2)
-- **§ 35a SGB VIII** – Eingliederungshilfe Jugendhilfe (seelische Behinderung)
-- **Frühförderungs-VO** – Komplexleistung Frühförderung (GKV + Eingliederungshilfe)
-- BSG B 3 KR 6/14 R (SPZ-Leistungen), BSG B 8 SO 23/17 R (Schulbegleitung)
+| Bedarf | Primärer Prüfweg | Abgrenzungsfrage |
+| --- | --- | --- |
+| interdisziplinäre Diagnostik und Behandlungsplanung | Sozialpädiatrisches Zentrum, Paragrafen 43a und 119 SGB V | zugelassenes Zentrum, ärztliche Verantwortung, Überweisungsweg |
+| Komplexleistung vor Einschulung | Paragraf 46 SGB IX und Frühförderungsverordnung | medizinisch-therapeutischer und heilpädagogischer Gesamtbedarf |
+| einzelne Physio-, Ergo- oder Sprachtherapie | Paragraf 32 SGB V | Heilmittelverordnung oder Teil der Komplexleistung |
+| medizinische Behandlungspflege in der Schule | Paragraf 37 SGB V | fachpflegerische Maßnahme statt pädagogischer Teilhabehilfe |
+| Schulbegleitung | Paragraf 112 SGB IX oder Paragraf 35a SGB VIII | körperliche, geistige oder seelische Behinderung und Landeszuständigkeit |
+| stationäre Behandlung | Paragraf 39 SGB V | ambulante Versorgung reicht nicht aus |
 
-## Leistungsabgrenzung
+## 4. Prüfprogramm
 
-| Leistung | Rechtsträger | Rechtsgrundlage |
-|---------|-------------|-----------------|
-| Sozialpädiatrisches Zentrum (SPZ) | GKV | § 43a SGB V |
-| Frühförderung (unter 6 J.) | GKV + Eingliederungshilfe (Komplexleistung) | Frühförderungs-VO |
-| Schulbegleitung | Eingliederungshilfe (Landkreis/Stadt) | § 112 SGB IX |
-| Logopädie, Ergo, PT | GKV | § 32 SGB V |
-| Schulkindergarten/Förderschule | Land/Schulträger | Schulrecht |
-| Psychotherapie | GKV | § 27 Abs. 1, § 92 SGB V |
+### 4.1 Sozialpädiatrisches Zentrum
 
-## Prüfprogramm
+1. Komplexität der Erkrankung und Erforderlichkeit interdisziplinärer Diagnostik oder Behandlungsplanung belegen.
+2. Überweisung, Aufnahmevoraussetzungen und Zulassung des konkreten Zentrums prüfen; keine zusätzliche Kassen-Einzelgenehmigung als allgemeine Voraussetzung erfinden.
+3. Wartezeit durch Eingangsbestätigung dokumentieren und zum Entwicklungsfenster des Kindes in Beziehung setzen.
+4. Bei unvertretbarer Wartezeit Alternativversorgung und Eilrechtsschutz anhand konkreter Nachteile prüfen.
 
-### Schritt 1 – SPZ-Versorgung (§ 43a SGB V)
-- SPZ durch Krankenkasse zu genehmigen
-- Indikation: geistige Entwicklungsstörung, Zerebralparese, Autismus-Spektrum-Störung, ADHS (schwer)
-- Ärztliche Überweisung durch Kinder- und Jugendarzt oder Kinderpsychiater
-- Wartezeiten SPZ: oft 12–24 Monate; einstweiliger Rechtsschutz bei dringendem Bedarf
+### 4.2 Frühförderung
 
-### Schritt 2 – Frühförderung (Frühförderungs-VO)
-- Kind unter 6 Jahre
-- Komplexleistung: GKV übernimmt medizinisch-therapeutische Anteile; Eingliederungshilfe übernimmt pädagogische Anteile
-- Antrag beim örtlichen Frühförderzentrum oder Jugendamt
+1. Prüfen, ob das Kind noch nicht eingeschult ist; keine starre Altersgrenze von sechs Jahren verwenden.
+2. Förder- und Behandlungsplan auf medizinisch-therapeutische, heilpädagogische und psychosoziale Anteile auswerten.
+3. Landesrechtliche Anlaufstelle und federführenden Träger ermitteln.
+4. Ein Antragspaket einreichen und Weiterleitung nach Paragraf 14 SGB IX überwachen, statt Familien zwischen Trägern weiterzuschicken.
 
-### Schritt 3 – Heilmittel für Kinder (§ 32 SGB V)
-- Grundsätzlich gleiche Voraussetzungen wie bei Erwachsenen (Heilmittel-RL)
-- Bei Kindern: Verordnungsmengen häufig höher; besonderer Verordnungsbedarf für chronische Verläufe
-- Langfristversorgung: Antrag bei Kasse bis 4 Wochen vor Ablauf
+### 4.3 Schulbegleitung und Behandlungspflege
 
-### Schritt 4 – Schulbegleitung (§ 112 SGB IX)
-- GKV ist NICHT zuständig für Schulbegleitung (außer in sehr engen Ausnahmen)
-- Zuständig: Eingliederungshilfeträger (Landkreis/kreisfreie Stadt)
-- Antrag beim Sozialamt, Jugendamt (§ 35a SGB VIII bei seelischer Behinderung) oder Schulamt
-- Abgrenzung: rein pflegerische Maßnahmen in Schule können GKV-Leistung sein (§ 37 SGB V)
+1. Tagesablauf in Schule oder Betreuung stundengenau beschreiben.
+2. Pädagogische Teilhabehilfe, einfache Unterstützung und medizinische Behandlungspflege tätigkeitsbezogen trennen.
+3. Hilfeumfang aus dem tatsächlichen Bedarf ableiten; die Schuleinrichtung ersetzt nicht automatisch den individuellen Anspruch.
+4. Bei mehreren Trägern einen abgestimmten Leistungsplan mit klaren Schnittstellen verlangen.
 
-### Schritt 5 – Psychotherapie für Kinder
-- Kinder und Jugendlichenpsychotherapeut: GKV-Kassenzulassung erforderlich
-- ADHS: Diagnose, Ausschlussdiagnostik, Leitliniengerechte Behandlung
-- Systemisches Versagen: § 13 Abs. 3 SGB V wenn kein Kassentherapeut innerhalb vertretbarer Frist verfügbar
+### 4.4 Heilmittel und Psychotherapie
 
-## Typische Fallen
+1. Heilmittel-Richtlinie, Diagnosegruppe, langfristigen Bedarf und Therapieziel prüfen.
+2. Bei fehlendem Therapieplatz Suchprotokoll mit kontaktierten Vertragsbehandlern, Zeitpunkten, Wartezeiten und Ablehnungsgründen führen.
+3. Kostenerstattung nach Paragraf 13 Absatz 3 SGB V anhand Unaufschiebbarkeit oder rechtswidriger Ablehnung, Kausalität, Qualifikation des Leistungserbringers und Kosten prüfen; keine feste Dreimonatsgrenze als Automatismus verwenden.
+4. Eilbedarf aus konkreter Entwicklungsgefährdung oder Gesundheitsverschlechterung ableiten.
 
-- **Schulbegleitung bei GKV beantragen**: GKV lehnt rechtmäßig ab; Antrag muss beim Eingliederungshilfeträger gestellt werden.
-- **Frühförderungs-Komplexleistung**: Oft unklar wer federführend ist; Frühförderstelle koordiniert, nicht GKV direkt.
-- **SPZ-Kapazität erschöpft**: Kasse muss auf Veranlassung des Arztes prüfen ob Alternativversorgung möglich; einstweiliger Rechtsschutz.
-- **Psychotherapie-Warteliste**: Systemversagen bei > 3 Monaten Wartezeit → Kostenerstattung Privattherapeut möglich (BSG).
+## 5. Beweis- und Funktionsmatrix
 
-## Output-Formate
+| Lebensbereich | Tatsachen | Geeigneter Beleg |
+| --- | --- | --- |
+| Kommunikation | Sprachverständnis, Ausdruck, Hilfsmittel | Sprachdiagnostik, Schulbericht |
+| Mobilität | Transfer, Wegstrecken, Sturzrisiko | Physio- oder Arztbericht |
+| Selbstversorgung | Essen, Toilettengang, Medikation | Pflegebericht, Tagesprotokoll |
+| Lernen und Verhalten | Aufgabensteuerung, Reizregulation, Gefährdung | Förderplan, fachärztlicher Befund |
+| soziale Teilhabe | Gruppenfähigkeit, Pausen, Ausflüge | konkrete Beobachtungen der Schule |
 
-- SPZ-Antrag mit Begründung
-- Widerspruch gegen Heilmittelablehnung bei Kind
-- Schulbegleitungsantrag (Eingliederungshilfe, Muster)
-- Systemversagen-Schreiben (Psychotherapie)
-- Übersicht Zuständigkeiten (Tabelle)
+## 6. Fehlerkontrolle
 
-## Quellen
+- Entscheidungen zur Hilfsmittel- und Methodenbewertung nicht als Rechtsprechung zu Sozialpädiatrischen Zentren ausgeben.
+- Kein nicht verifiziertes Aktenzeichen für Schulbegleitung einsetzen. Zuständigkeit und Bedarf aus den aktuellen Normen und der konkreten Landesstruktur herleiten.
+- Schulbegleitung nicht pauschal bei der Krankenkasse und Behandlungspflege nicht pauschal beim Eingliederungshilfeträger verorten.
+- Wartezeit allein genügt nicht; Suchbemühungen, Bedarf und drohende Folgen müssen belegt werden.
 
-- [§ 43a SGB V – Sozialpädiatrisches Zentrum](https://www.gesetze-im-internet.de/sgb_5/__43a.html)
-- [§ 112 SGB IX – Schulbegleitung](https://www.gesetze-im-internet.de/sgb_9_2018/__112.html)
-- [Frühförderungs-VO](https://www.gesetze-im-internet.de/fruehfoerdv/)
-- [§ 35a SGB VIII – Jugendhilfe](https://www.gesetze-im-internet.de/sgb_8/__35a.html)
-- [BSG Kinderleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [G-BA Heilmittel-Richtlinie](https://www.g-ba.de/richtlinien/12/)
+## 7. Arbeitsprodukte
+
+- trägerbezogene Zuständigkeits- und Weiterleitungskarte;
+- SPZ- oder Frühförderantrag mit Funktionsprofil;
+- Antrag auf Schulbegleitung mit tätigkeitsbezogenem Stundenplan;
+- Abgrenzungsvermerk Schulbegleitung und Behandlungspflege;
+- Therapieplatz-Suchprotokoll und Kostenerstattungsantrag;
+- Eilantrag mit entwicklungsbezogener Glaubhaftmachung.
+
+## 8. Quellenstatus
+
+- [Paragraf 43a SGB V](https://www.gesetze-im-internet.de/sgb_5/__43a.html)
+- [Paragraf 119 SGB V](https://www.gesetze-im-internet.de/sgb_5/__119.html)
+- [Paragraf 39 SGB V](https://www.gesetze-im-internet.de/sgb_5/__39.html)
+- [Paragraf 46 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__46.html)
+- [Frühförderungsverordnung](https://www.gesetze-im-internet.de/fr_hv/BJNR099800003.html)
+- [Paragraf 112 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__112.html)
+- [Paragraf 35a SGB VIII](https://www.gesetze-im-internet.de/sgb_8/__35a.html)

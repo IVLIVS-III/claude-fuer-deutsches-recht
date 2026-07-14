@@ -18,7 +18,7 @@ Nach Annahme der Erbschaft zeigen sich Verbindlichkeiten, Liquiditätsmangel ode
 ## 3. Rechtsprechungsanker
 
 - BGH, Urteil vom 8. Dezember 2004 - IV ZR 199/03: Nach Annahme der Erbschaft kann die Antragspflicht nach Paragraf 1980 Absatz 1 Satz 1 BGB trotz Erbprätendentenstreits und Nachlasspflegschaft bestehen. Der BGH grenzt zugleich ab, wann eine Verzögerung des Nachlasspflegers dem Erben nicht zugerechnet wird.
-- Die im früheren Skill genannte Entscheidung IX ZB 118/17 trägt dieses Thema nicht. Für die Haftungsprüfung ist die Entscheidung IV ZR 199/03 heranzuziehen; weitere Entscheidungen werden nur nach Prüfung von Gericht, Datum, Aktenzeichen und Aussage verwendet.
+- BGH, Urteil vom 8. Dezember 2004, IV ZR 199/03: Nach Annahme der Erbschaft bleibt der Erbe trotz eines Erbprätendentenstreits und angeordneter Nachlasspflegschaft nach Paragraf 1980 Absatz 1 Satz 1 BGB antragspflichtig. Eine schuldhaft verspätete Antragstellung des Nachlasspflegers wird dem Erben im dort geprüften Schadensersatzanspruch nicht nach den Paragrafen 166 Absatz 1 und 278 BGB zugerechnet. Die Rollen von Erbe und Nachlasspfleger daher getrennt prüfen.
 
 ## 4. Prüfprogramm
 

@@ -1,9 +1,23 @@
-slug: sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg
-rechtsgebiet: fachanwalt-sozialrecht
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg.
+checks:
+  - id: datei-01-antrag-teilhabeassistenz-2026-05-04
+    check_type: file_exists
+    description: Das Primäraktenstück 01_antrag_teilhabeassistenz_2026-05-04.docx ist vorhanden.
+    path: 01_antrag_teilhabeassistenz_2026-05-04.docx
+  - id: datei-02-fachaerztliche-stellungnahme-2026-05-29
+    check_type: file_exists
+    description: Das Primäraktenstück 02_fachaerztliche_stellungnahme_2026-05-29.docx ist vorhanden.
+    path: 02_fachaerztliche_stellungnahme_2026-05-29.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Teilhabeziel, konkrete Barrieren in Berufsschule und Betrieb sowie den personellen Unterstützungsbedarf
+      funktional und nicht nur diagnostisch bestimmen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Zuständigkeit und Leistungsgruppe nach SGB IX, schulrechtliche Eigenverantwortung und mögliche
+      Abgrenzung zur Pflege oder Krankenbehandlung prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Fachärztliche Stellungnahme, Schulprotokoll, Reizpunktkarte und betriebliche Stellungnahme zu einem
+      stunden- und situationsbezogenen Assistenzplan verdichten.

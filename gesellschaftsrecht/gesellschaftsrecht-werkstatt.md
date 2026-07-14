@@ -113,13 +113,13 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Normenradar: GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 3 Absatz 2 GmbHG (besondere Bestimmungen und Nebenleistungspflichten) — Paragraf 5 Absatz 1 GmbHG (Stammkapital mindestens 25.000 EUR) — Paragraf 5 Absatz 4 GmbHG; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung sondern dauerhaft (Strukturnorm); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GmbHG Paragraf 3 (14. Aufl. 2027 Verlag Dr. Otto Schmidt im Erscheinen — Differenzierung nach Fälligkeit bei Kapitalerhöhung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43 GmbHG (Haftung des Geschäftsführers) — Paragraf 43 Absatz 4 GmbHG (fünfjährige Verjährung) — Paragraf 93 Absatz 1 Satz 2 AktG als Vergleich für unternehmerische; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 266 StGB (Untreue) im Raum → strafrechtliche Beratung vorab; Selbstbelastungsverbot beachten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 35 und 38 sowie Paragraf 46 GmbHG: Vertretung, Abberufung und Gesellschafterzuständigkeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 43 GmbHG: Geschäftsführerpflichten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 

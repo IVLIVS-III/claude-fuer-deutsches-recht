@@ -157,9 +157,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditaetsplanung`) zur Schnellprüfung.
 - Bei einstweiligem Rechtsschutz/Mahnverfahren an `prozessrecht` (Plugin) oder das freistehende
-  Plugin `zwangsvollstreckung` (`zv-mahnbescheid-online`, `zv-vollstreckungsbescheid-folge`) verweisen.
-- Nach Rechtskraft des Titels an `zwangsvollstreckung` zur operativen Durchsetzung (`zv-pfueb-bank`,
-  `zv-pfueb-arbeitsentgelt`, `zv-vermoegensauskunft-gv`).
+  Plugin `zwangsvollstreckung` (`mahnbescheid-online-mobiliar-gv`, `vollstreckungsbescheid-zv`) verweisen.
+- Nach Rechtskraft des Titels an `zwangsvollstreckung` zur operativen Durchsetzung (`pfueb-bank`,
+  `pfueb-arbeitsentgelt`, `vermoegensauskunft-gv`).
 - Wenn der Nutzer beim nächsten Mal nur den Sachverhalt einreichen will: Schwester-Skill `klage-aus-eigenem-skill` mit dem im Schritt 8 erzeugten Plugin verwenden.
 
 ---

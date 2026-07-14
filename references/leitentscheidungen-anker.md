@@ -6,7 +6,7 @@
 
 ## Verwendungsregeln
 
-1. Skills dürfen die hier aufgeführten **Themen-Anker** als Such-Wegweiser verwenden — etwa: „Verwerterpflichten des Insolvenzverwalters — BGH-Linie ab IX ZR 169/04 (2006), fortgeführt; live verifizieren".
+1. Skills dürfen die hier aufgeführten **Themen-Anker** als Such-Wegweiser verwenden, etwa: „Verwertung durch den Insolvenzverwalter nach den Paragrafen 159, 160, 163 und 165 ff. InsO; Pflichtmaßstab und Haftung nach Paragraf 60 InsO anhand des konkreten Vorgangs recherchieren".
 2. Skills dürfen **kein** vollständiges Zitat (Gericht + Datum + Az.) **als gesichert** ausgeben, das nicht entweder (a) vom Nutzer beigebracht oder (b) im Live-Zugriff verifiziert wurde.
 3. Die **Quellenhygiene** nach `references/quellenhygiene.md` gilt unverändert: keine BeckRS-, juris-, Kommentar-, Aufsatz-Blindzitate.
 4. Wer Anker hinzufügt: nur mit **Themenbeschreibung** und **wahrscheinlichem Spruchkörper** (BGH-Senat / BAG-Senat / Fachgericht), **ohne** ein konkretes Az. zu fingieren.
@@ -101,7 +101,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 
 ## Insolvenz- und Sanierungsrecht
 
-- Verwerterpflichten; Bieter-Gleichbehandlung; höchstmögliche Erlöserzielung — BGH IX. Zivilsenat (Linie BGH IX ZR 169/04 v. 13.04.2006, fortgeführt; weitere Entscheidungen ab IX ZR 80/15 v. 16.03.2017) — bundesgerichtshof.de
+- Verwertung, Zustimmungstatbestände und Haftung des Insolvenzverwalters — zuerst Paragrafen 159, 160, 163 und 165 ff. InsO sowie Paragraf 60 InsO bestimmen; nur danach nach einer sachverhaltsgleichen Entscheidung des BGH IX. Zivilsenats suchen — bundesgerichtshof.de
 - Vorsatzanfechtung § 133 InsO; Bargeschäfts-Ausnahme — BGH IX. Zivilsenat (Linienwandel seit BGH-Beschluss-Reihe ab 2021) — bundesgerichtshof.de
 - Insolvenzantragspflicht § 15a InsO; Drei-Wochen-Frist; § 15b InsO Zahlungsverbot — BGH II./IX. Zivilsenat — bundesgerichtshof.de
 - Eigenverwaltung / Schutzschirmverfahren § 270 ff. InsO — BGH IX. Zivilsenat — bundesgerichtshof.de
@@ -122,7 +122,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 
 ## Datenschutzrecht (DSGVO)
 
-- Datenübertragung im Asset Deal — EuGH C-732/22 (Bonprix, Urt. v. 26.09.2024); fortgeführt durch EuGH C-621/22 (KNLTB, Urt. v. 04.10.2024) — curia.europa.eu
+- Kommerzielles Interesse als möglicher Anker des Artikels 6 Absatz 1 Buchstabe f DSGVO — EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB): Rechtmäßigkeit des Interesses, Erforderlichkeit einschließlich Datenminimierung und Interessenabwägung bleiben getrennt zu prüfen — curia.europa.eu
 - Immaterieller Schadensersatz Art. 82 DSGVO; Erheblichkeitsschwelle — EuGH C-300/21 (Österreichische Post, Urt. v. 04.05.2023) — curia.europa.eu
 - Recht auf Vergessen — BVerfG 1. Senat („Recht auf Vergessen I", 1 BvR 16/13, 06.11.2019; „Recht auf Vergessen II", 1 BvR 276/17, 06.11.2019) — bundesverfassungsgericht.de
 - Berechtigtes Interesse Art. 6 I lit. f DSGVO; Wirtschaftliche Interessen — EuGH — curia.europa.eu

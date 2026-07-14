@@ -97,7 +97,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BGH, Beschluss vom 06.07.2011 - XII ZB 80/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten |
-| BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Das Selbstbestimmungsrecht prägt die Betreuerauswahl |
+| BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei der Betreuerauswahl ist der besondere Schutz enger Familienbindungen zu berücksichtigen |
 | BGH, Beschluss vom 09.04.2025 - XII ZB 235/24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Auch bei unbekanntem Aufenthalt kann ein konkreter Betreuungsbedarf bestehen, wenn rechtliche Entscheidungen die Lage |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
@@ -123,7 +123,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 ## 8. Leitentscheidungen
 
 - BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
-- BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Das Selbstbestimmungsrecht prägt die Betreuerauswahl; auch ein aus Außensicht unvernünftiger Wunsch darf nicht allein deshalb übergangen werden.
+- BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Bei der Betreuerauswahl ist der besondere Schutz enger Familienbindungen zu berücksichtigen; fehlende Eignung eines Angehörigen muss für den konkreten Aufgabenkreis tragfähig festgestellt und gegen unterstützende Hilfen oder eine Mitbetreuung abgewogen werden.
 - BGH, Beschluss vom 09.04.2025 - XII ZB 235/24: Auch bei unbekanntem Aufenthalt kann ein konkreter Betreuungsbedarf bestehen, wenn rechtliche Entscheidungen die Lage des Betroffenen positiv beeinflussen können.
 
 ## 9. Prüfraster

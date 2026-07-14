@@ -1,9 +1,23 @@
-slug: insolvenzrecht-forderungspruefung-mietkaution-berlin
-rechtsgebiet: insolvenzrecht
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: insolvenzrecht-forderungspruefung-mietkaution-berlin
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte insolvenzrecht-forderungspruefung-mietkaution-berlin.
+checks:
+  - id: datei-01-forderungsanmeldung-vermieter-2026-06-18
+    check_type: file_exists
+    description: Das Primäraktenstück 01_forderungsanmeldung_vermieter_2026-06-18.docx ist vorhanden.
+    path: 01_forderungsanmeldung_vermieter_2026-06-18.docx
+  - id: datei-02-mietvertrag-kautionsklausel-auszug-2022
+    check_type: file_exists
+    description: Das Primäraktenstück 02_mietvertrag_kautionsklausel_auszug_2022.docx ist vorhanden.
+    path: 02_mietvertrag_kautionsklausel_auszug_2022.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Kautionsart, Verpfändung, Bankverrechnung und insolvenzrechtliche Zuordnung von Aussonderung, Absonderung
+      oder Insolvenzforderung urkundsbezogen bestimmen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Mietschäden, Betriebskosten, Rückgabezustand und Gegenforderungen nach Entstehung, Fälligkeit,
+      Beleg und Rang einzeln prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Forderungsanmeldung, Bestreiten im Prüfungstermin, Tabellenwirkung und mögliche Feststellungsklage
+      mit bezifferten Positionen vorbereiten.

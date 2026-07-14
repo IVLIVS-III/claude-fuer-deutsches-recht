@@ -47,7 +47,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 | --- | --- | --- | --- |
 | Fallkern | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten | KSchG Paragraf 1; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | KSchG Paragraf 4 und Paragraf 7 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale Paragraf | KSchG Paragraf 4 und Paragraf 7; BAG, Urteil vom 27.02.1985 - GS 1/84 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Wirksamkeit der Kündigung, Weiterbeschäftigung und Annahmeverzug nach Anspruchsgrundlage und Einwand prüfen | KSchG Paragraf 1; BGB Paragraf 615; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 3. Tatbestand, Beweislast, Quellenstatus
@@ -60,7 +60,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 | BGB Paragraf 623 | Schriftform für Kündigung und Aufhebungsvertrag | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
 | Normenradar | BGB Paragrafen 611a, 613a, 615, 623; KSchG Paragrafen 1, 4, 7; TzBfG Paragrafen 14, 15, 16; AGG | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche. | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein. |
 
-Rechtsprechungsstatus: BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG, Urteil vom 27.02.1985 - GS 1/84; BAG, Urteil vom 24.08.2023 - 2 AZR 17/23. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
+Rechtsprechungsstatus: BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84; BAG, Urteil vom 24.08.2023 - 2 AZR 17/23. Vor Zitierung am Aktenstand oder an belastbarer Quelle sichern.
 
 ## 4. Stop-Kriterien
 

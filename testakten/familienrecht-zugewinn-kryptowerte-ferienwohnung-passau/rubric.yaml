@@ -1,2 +1,39 @@
 name: familienrecht-zugewinn-kryptowerte-ferienwohnung-passau
-focus: fachanwalt-familienrecht
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: datei-07-boersenauskunft
+    check_type: file_exists
+    description: Die Plattformauskunft zu Kontoinhaber, Beständen, Transfers und Gegenadressen ist vorhanden.
+    path: 07_wallet_boersen_transaktionsauskunft.docx
+  - id: datei-08-darlehensstand
+    check_type: file_exists
+    description: Die Bankbestätigung zu Darlehensstichtagen, Sondertilgung, Eigentum und Grundschuld ist vorhanden.
+    path: 08_grundbuch_darlehensstand_ferienwohnung.docx
+  - id: datei-10-bewertungspaket
+    check_type: file_exists
+    description: Die Unterlagenanforderung für Praxis- und Forderungsbewertung ist vorhanden.
+    path: 10_steuerberater_bewertungspaket.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Anfangs- und Endvermögen, privilegierten Erwerb und illoyale Vermögensminderung für jeden Ehegatten
+      getrennt aufbauen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Wallet-Bestände, Kontoabgänge und Ferienwohnung zu den maßgeblichen Stichtagen belegen und Bewertungsunsicherheiten
+      sichtbar machen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Auskunfts- und Belegansprüche, Sicherung digitaler Spuren, Immobilienbewertung und Zugewinnausgleich
+      in einer nachvollziehbaren Rechenmatrix verbinden.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Plattformkonto, externe Adresse, wirtschaftliche Inhaberschaft und stichtagsbezogenen Kurswert
+      beweisbezogen trennen; geheime Schlüssel dürfen nicht verlangt werden.

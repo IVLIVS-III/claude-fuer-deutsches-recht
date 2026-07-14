@@ -55,7 +55,7 @@ Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt d
 - **GmbH-Geschäftsführerhaftung § 43 GmbHG; Business Judgement Rule** — BGH II. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
 - **Hauptversammlungsbeschluss-Anfechtung § 243 AktG; 1-Monats-Frist § 246 AktG** — BGH II. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
 - **Handelsvertreterausgleich § 89b HGB; Berechnung** — BGH VII./VIII. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
-- **Grenzüberschreitender Formwechsel** — EuGH C-106/16 (Polbud, 25.10.2017) — *live verifizieren auf* `curia.europa.eu`
+- **Grenzüberschreitender Formwechsel** - EuGH, Urteil vom 25.10.2017 - C-106/16 (Polbud): Die Niederlassungsfreiheit kann auch die Umwandlung in eine Gesellschaft nach dem Recht eines anderen Mitgliedstaats schützen, ohne dass die Gesellschaft dort ihre tatsächliche wirtschaftliche Tätigkeit ausüben muss; Missbrauchsprüfung und inzwischen harmonisiertes Umwandlungsrecht getrennt anwenden.
 
 > Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
 

@@ -1,40 +1,30 @@
-# Hand-erweiterte Rubric (v305 — fachspezifische Checks).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Sanierungsgewinn Insolvenzplan Grossbach Druckguss Erfurt 2026"
-plugin: "tbd"
-
+name: Sanierungsgewinn Insolvenzplan Grossbach Druckguss Erfurt 2026
+plugin: tbd
 checks:
   - id: r01-readme-vorhanden
     check_type: file_exists
-    description: "README.md vorhanden"
-    path: "README.md"
-
+    description: README.md vorhanden
+    path: README.md
   - id: r02-gesamt-pdf-vorhanden
     check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf"
-
+    description: Gesamt-PDF gebaut
+    path: gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf
   - id: r03-mindestens-3-aktenstuecke
     check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
+    description: mindestens 1 Markdown-Aktenstueck
+    glob: '*.md'
     min: 1
-
   - id: r04-fachspezifischer-check-zu-ergaenzen
     check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
-
+    description: Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen
+    note: 'Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden'
   - id: r-paragraf-3a-estg
     check_type: text_contains
-    description: "$ 3a EStG Sanierungsgewinn"
-    path: "README.md"
-    contains: "3a"
-
+    description: Paragraf 3a EStG Sanierungsgewinn
+    path: README.md
+    contains: 3a
   - id: r-insolvenzplan
     check_type: text_contains
-    description: "Insolvenzplan"
-    path: "README.md"
-    contains: "Insolvenzplan"
+    description: Insolvenzplan
+    path: README.md
+    contains: Insolvenzplan

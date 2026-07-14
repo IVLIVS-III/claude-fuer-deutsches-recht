@@ -1,52 +1,40 @@
-# Hand-erweiterte Rubric (v305 — fachspezifische Checks).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Aml Kyc Immobilienkanzlei Sandhof Amrum Russisches Vermoegen"
-plugin: "geldwaeschepraevention-aml-kyc"
-
+name: Aml Kyc Immobilienkanzlei Sandhof Amrum Russisches Vermoegen
+plugin: geldwaeschepraevention-aml-kyc
 checks:
   - id: r01-readme-vorhanden
     check_type: file_exists
-    description: "README.md vorhanden"
-    path: "README.md"
-
+    description: README.md vorhanden
+    path: README.md
   - id: r02-gesamt-pdf-vorhanden
     check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf"
-
+    description: Gesamt-PDF gebaut
+    path: gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf
   - id: r03-mindestens-3-aktenstuecke
     check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
+    description: mindestens 1 Markdown-Aktenstueck
+    glob: '*.md'
     min: 1
-
   - id: r04-fachspezifischer-check-zu-ergaenzen
     check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
-
+    description: Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen
+    note: 'Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden'
   - id: r-gwg-paragrafen
     check_type: text_contains
-    description: "GwG-Paragrafen referenziert"
-    path: "README.md"
-    contains: "GwG"
-
+    description: GwG-Paragrafen referenziert
+    path: README.md
+    contains: GwG
   - id: r-fiu-meldung
     check_type: text_contains
-    description: "FIU-Meldung Paragraf 43 GwG erwaehnt"
-    path: "README.md"
-    contains: "FIU"
-
+    description: FIU-Meldung Paragraf 43 GwG erwaehnt
+    path: README.md
+    contains: FIU
   - id: r-sanktionsliste
     check_type: text_contains
-    description: "EU-Sanktionsliste / SanktDG referenziert"
-    path: "README.md"
-    contains: "Sankt"
-
+    description: EU-Sanktionsliste / SanktDG referenziert
+    path: README.md
+    contains: Sankt
   - id: r-paragraf-203-stgb
     check_type: regex_match
-    description: "$ 203 StGB Anwaltsgeheimnis"
-    path: "README.md"
-    pattern: "203"
+    description: Paragraf 203 StGB Anwaltsgeheimnis
+    path: README.md
+    pattern: '203'

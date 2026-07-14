@@ -96,8 +96,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung |
-| BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen |
+| BGH, Urteil vom 30.07.1999 - 1 StR 618/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher |
+| BGH, Urteil vom 29.07.1998 - 1 StR 94/98 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur |
 | BGH, Urteil vom 26.04.2017 - 2 StR 247/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht |
 | BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verständigung im Strafverfahren verlangt Transparenz und Dokumentation |
 | BGH, Beschluss vom 27.11.2018 - 5 StR 566/18 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet |
@@ -116,8 +116,8 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Aussage-gegen-Aussage verlangt besonders sorgfältige Gesamtwürdigung.
-- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Konstanz, Entstehung und Belastungsmotive sind bei Aussageanalyse zu würdigen.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
+- BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
 - BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 27.11.2018 - 5 StR 566/18: Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet oder in gleichgewichtig grober Weise verkannt wird.

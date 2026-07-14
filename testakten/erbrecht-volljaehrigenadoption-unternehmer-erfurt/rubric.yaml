@@ -1,11 +1,54 @@
 name: erbrecht-volljaehrigenadoption-unternehmer-erfurt
-description: Unternehmernachlass mit Volljährigenadoption, Alleinerbeneinsetzung, Pflichtteil leiblicher Kinder, GmbH-Bewertung und Erbscheinstaktik.
+description: Unternehmernachlass mit Volljährigenadoption, Alleinerbeneinsetzung, Pflichtteil leiblicher Kinder,
+  GmbH-Bewertung und Erbscheinstaktik.
 checks:
-  - Rechtskräftige Volljährigenadoption nicht vorschnell ignorieren; Bestandskraft, Rechtsbehelfe und erbrechtliche Wirkung trennen.
-  - Erbschein, Pflichtteil und Unternehmensbewertung als getrennte Ebenen behandeln.
-  - Pflichtteilsquote mit und ohne Mitzählen des Angenommenen als Streitvariante darstellen (Stück 06).
-  - Auskunfts- und Wertermittlungsansprüche priorisieren; das Verlangen nach einem notariellen Nachlassverzeichnis erkennen.
-  - Testierfähigkeit nur bei konkreten Tatsachen problematisieren.
-  - Spannungsfeld zwischen buchwertnaher Abfindungsklausel (Stück 14) und Ertragswertspanne des Steuerberaters (Stück 09) für die Pflichtteilsbemessung herausarbeiten.
-  - Fehlen der Ferienwohnung Zinnowitz in der Nachlassaufstellung der Gegenseite als Aufklärungspunkt benennen.
-  - Zuordnung der beschlossenen, nicht ausgezahlten Ausschüttung 2025 und der Kaufpreisrestforderung gegen den Erben als offene Fragen behandeln.
+  - id: datei-01-mandatsnotiz-leibliche-tochter
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_leibliche_tochter.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_leibliche_tochter.docx
+  - id: datei-02-adoptionsbeschluss-und-beziehung
+    check_type: file_exists
+    description: Das Primäraktenstück 02_adoptionsbeschluss_und_beziehung.docx ist für die Fallauswertung vorhanden.
+    path: 02_adoptionsbeschluss_und_beziehung.docx
+  - id: datei-15-adoptionsantrag
+    check_type: file_exists
+    description: Der vollständige Adoptionsantrag mit Beziehungstatsachen und offengelegten Vermögensfolgen ist vorhanden.
+    path: 15_adoptionsantrag_beziehungsdarstellung.docx
+  - id: datei-16-kinderstellungnahmen
+    check_type: file_exists
+    description: Die abweichenden Stellungnahmen der leiblichen Kinder sind vorhanden.
+    path: 16_stellungnahmen_leibliche_kinder.docx
+  - id: datei-17-anhoerungsniederschrift
+    check_type: file_exists
+    description: Die familiengerichtliche Anhörungsniederschrift ist vorhanden.
+    path: 17_familiengerichtliche_anhaerungsniederschrift.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Rechtskräftige Volljährigenadoption nicht vorschnell ignorieren; Bestandskraft, Rechtsbehelfe und
+      erbrechtliche Wirkung trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Erbschein, Pflichtteil und Unternehmensbewertung als getrennte Ebenen behandeln.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Pflichtteilsquote mit und ohne Mitzählen des Angenommenen als Streitvariante darstellen (Stück
+      06).
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Auskunfts- und Wertermittlungsansprüche priorisieren; das Verlangen nach einem notariellen Nachlassverzeichnis
+      erkennen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Testierfähigkeit nur bei konkreten Tatsachen problematisieren.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Spannungsfeld zwischen buchwertnaher Abfindungsklausel (Stück 14) und Ertragswertspanne des Steuerberaters
+      (Stück 09) für die Pflichtteilsbemessung herausarbeiten.
+  - id: fachpruefung-07
+    check_type: human_review
+    description: Fehlen der Ferienwohnung Zinnowitz in der Nachlassaufstellung der Gegenseite als Aufklärungspunkt
+      benennen.
+  - id: fachpruefung-08
+    check_type: human_review
+    description: Zuordnung der beschlossenen, nicht ausgezahlten Ausschüttung 2025 und der Kaufpreisrestforderung
+      gegen den Erben als offene Fragen behandeln.

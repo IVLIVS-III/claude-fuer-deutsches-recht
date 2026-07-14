@@ -20,7 +20,7 @@ description: "Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Li
 ## Klausel-Bausteine
 
 **A. Pauschale:**
-> "$ 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, faellig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers."
+> "Paragraf 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, faellig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers."
 
 **B. Running Royalty:**
 > "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] Prozent des Nettoumsatzes mit Lizenzprodukten. 'Nettoumsatz' bezeichnet die mit den Lizenzprodukten erzielten Brutto-Erloese abzueglich Rabatte, Boni, Skonti, Umsatzsteuer, Versand- und Versicherungskosten. Die Royalty wird kalenderquartalsweise berechnet und ist binnen 30 Tagen nach Quartalsende faellig."
@@ -59,7 +59,7 @@ Wesentliche Streitpunkte:
 
 ## Quellensteuer
 
-Royalties haben Quellensteuer (DE: 15 % nach $ 49 EStG); bei DBA-Anwendung oft Reduktion auf 0/5/10 %. → Skill `steuern-quellensteuer-und-dba-lizenz`.
+Royalties haben Quellensteuer (DE: 15 % nach Paragraf 49 EStG); bei DBA-Anwendung oft Reduktion auf 0/5/10 %. → Skill `steuern-quellensteuer-und-dba-lizenz`.
 
 ## Anschluss
 

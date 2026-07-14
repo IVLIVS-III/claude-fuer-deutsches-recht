@@ -1,10 +1,35 @@
 name: statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen
-description: Statusfeststellung eines Minderheits-Gesellschafter-Geschaeftsfuehrers mit 32 Prozent, gestaffelter Sperrminoritaet, Buergschaft, DRV-Verfahren von Anhoerung bis Vergleich.
+description: Statusfeststellung eines Minderheits-Gesellschafter-Geschaeftsfuehrers mit 32 Prozent, gestaffelter
+  Sperrminoritaet, Buergschaft, DRV-Verfahren von Anhoerung bis Vergleich.
 checks:
-  - Kapitalmehrheit von der gesellschaftsvertraglichen Rechtsmacht sauber unterscheiden.
-  - Reichweite der Sperrminoritaet aus Paragraf 6.5 des Gesellschaftsvertrags korrekt als ressortbeschraenkt einordnen, nicht als umfassendes Vetorecht.
-  - Buergschaft und Fachwissen als Unternehmerrisiko werten, aber nicht mit Rechtsmacht gleichsetzen.
-  - Zeitliche Zaesur der Satzungsaenderung vom 19.09.2025 bei der Bewertung beruecksichtigen.
-  - Rechtsprechung des Bundessozialgerichts zur Abgrenzung von Rechtsmacht und tatsaechlicher Unentbehrlichkeit korrekt anwenden.
-  - Verjaehrung nach Paragraf 25 SGB IV und Saeumniszuschlaege getrennt pruefen.
-  - Keine vorgefertigte Statusbewertung uebernehmen, sondern aus den Rohbelegen selbst ableiten.
+  - id: datei-01-mandatsnotiz-clearingstelle
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_clearingstelle.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_clearingstelle.docx
+  - id: datei-02-gesellschaftsvertrag
+    check_type: file_exists
+    description: Das Primäraktenstück 02_gesellschaftsvertrag.docx ist für die Fallauswertung vorhanden.
+    path: 02_gesellschaftsvertrag.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Kapitalmehrheit von der gesellschaftsvertraglichen Rechtsmacht sauber unterscheiden.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Reichweite der Sperrminoritaet aus Paragraf 6.5 des Gesellschaftsvertrags korrekt als ressortbeschraenkt
+      einordnen, nicht als umfassendes Vetorecht.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Buergschaft und Fachwissen als Unternehmerrisiko werten, aber nicht mit Rechtsmacht gleichsetzen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Zeitliche Zaesur der Satzungsaenderung vom 19.09.2025 bei der Bewertung beruecksichtigen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Rechtsprechung des Bundessozialgerichts zur Abgrenzung von Rechtsmacht und tatsaechlicher Unentbehrlichkeit
+      korrekt anwenden.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Verjaehrung nach Paragraf 25 SGB IV und Saeumniszuschlaege getrennt pruefen.
+  - id: fachpruefung-07
+    check_type: human_review
+    description: Keine vorgefertigte Statusbewertung uebernehmen, sondern aus den Rohbelegen selbst ableiten.

@@ -15,14 +15,14 @@ description: "Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht:
 | Sicherheitennehmer | Bank/Investor, der das IP als Sicherheit haelt | Realisierungsrechte, Verwertungs-Mandat |
 | Verwahrer (Escrow Agent) | hinterlegt Source Code / IP-Dokumentation | Hinterlegungsbedingungen, Release-Trigger |
 | Cross-Licensor | beidseitige Lizenzgewaehrung (Patentpool, Forschungspartnerschaft) | Gegenseitige Lizenz, Schiedsklausel |
-| Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition $ 15 AktG / $ 17 AktG, Schutzkette |
+| Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition Paragraf 15 AktG / Paragraf 17 AktG, Schutzkette |
 
 ## Klärungs-Checkliste
 
 ### Lizenzgeber
 
 - Wirklich Inhaber? (Schutzrechtsregister, Originaltitel)
-- Mitinhaber? (Patentgemeinschaft $ 6 PatG, $ 8 UrhG)
+- Mitinhaber? (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG)
 - Vorbelastungen? (frueheren Lizenzen)
 - Konzernrechtlich: Tochtergesellschaft als Inhaber (typisch bei IP-Holding)
 
@@ -35,7 +35,7 @@ description: "Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht:
 ### Sicherheiten-Konstellation
 
 - Sicherungslizenz: aufschiebend bedingt + Verwertungsrecht
-- Pfandrecht: Bestellung notariell? $$ 1273 ff. BGB analog
+- Pfandrecht: Bestellung notariell? Paragrafen 1273 ff. BGB analog
 - Rangverhaeltnis bei mehreren Sicherheitennehmern
 
 ### Escrow / Verwahrer

@@ -56,4 +56,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Entscheidung | Tragende Aussage | Freie Quelle |
 | --- | --- | --- |
 | **LAG Hamm, Beschl. v. 14.11.2016 - 12 Ta 475/16** | Ironisch überzogenes Lob ist unzulaessig; Arbeitnehmer hat Anspruch auf geschaeftsuebliche Unterschrift des Ausstellers; quer-laufende Unterschrift weckt Zweifel an Ernsthaftigkeit. | nrwe.de / justiz.nrw.de |
-| **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen ($ 109 II 2 GewO). | frei publiziert / dejure-Suche |
+| **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen (Paragraf 109 II 2 GewO). | frei publiziert / dejure-Suche |

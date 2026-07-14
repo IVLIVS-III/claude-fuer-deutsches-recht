@@ -53,7 +53,9 @@ description: "Wenn es um Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruc
 | § 2326 BGB | Pflichtteilsergänzung bei Bedachtsein — Ergänzung bis zur vollen Hälfte |
 | § 2327 BGB | Anrechnung Eigengeschenke auf Ergänzungsanspruch |
 | § 2329 BGB | Direktanspruch gegen Beschenkte wenn Nachlass nicht ausreicht |
-| § 2332 BGB | Verjährung — 3 Jahre ab Kenntnis; 30 Jahre absolut |
+| BGB Paragrafen 195 und 199 Absatz 1 | Pflichtteilsanspruch gegen den Erben: drei Jahre ab Jahresschluss bei Anspruchsentstehung und Kenntnis oder grob fahrlässiger Unkenntnis |
+| BGB Paragraf 199 Absatz 3a | Kenntnisunabhängige Höchstfrist von 30 Jahren ab Anspruchsentstehung |
+| BGB Paragraf 2332 | Anspruch gegen den Beschenkten nach BGB Paragraf 2329: Verjährungsbeginn mit dem Erbfall; keine Hemmung allein wegen erforderlicher Ausschlagung |
 | § 2333 BGB | Pflichtteilsentzug — abschließende Gründe |
 | § 2346 BGB | Pflichtteilsverzicht — notariell beurkundeter Verzicht |
 
@@ -62,7 +64,7 @@ description: "Wenn es um Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruc
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
 | BGH IV. Zivilsenat | IV ZR 88/24 | 12.03.2025 | Für die Entstehung des Pflichtteilsanspruchs (§ 199 Abs. 1 Nr. 1 BGB) ist § 2317 Abs. 1 BGB auch dann maßgebend, wenn der Berechtigte zum Zeitpunkt des Erbfalls aufgrund der gesetzlichen Ausübungssperre in § 1600d Abs. 5 BGB an einer Anspruchsdurchsetzung gehindert ist. Für den Pflichtteilsanspruch des nichtehelichen Kindes ist Kenntnis von der wirksamen Vaterschaftsanerkennung oder -feststellung erforderlich. Quelle: bundesgerichtshof.de / dejure.org. |
-| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Zuwendung von Todes wegen an behandelnden Arzt nicht wegen Verstoß gegen § 32 (M)BO-Ä unwirksam; Berufsordnung kein § 134 BGB-Verbot; Testierfreiheit (Art. 14 GG) überwiegt. Quelle: bundesgerichtshof.de PM 2025/2025122.html. |
+| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Das Vermächtnis an den behandelnden Arzt war nicht wegen der konkret geprüften ärztlichen Berufsregel in Verbindung mit BGB Paragrafen 134 und 2171 Absatz 1 unwirksam. Andere Verbote und BGB Paragraf 138 bleiben gesondert zu prüfen. |
 | Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
 ## Prüfschema — Stufenweise Pflichtteilsberechnung
@@ -81,7 +83,7 @@ description: "Wenn es um Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruc
 | 8 | Anrechnung Vorausempfänge | § 2315 BGB | Minderung Pflichtteil |
 | 9 | Anrechnung Eigengeschenke | § 2327 BGB | Minderung Pflichtteilsergänzung |
 | 10 | Direktanspruch gegen Beschenkte prüfen | § 2329 BGB | Wenn Nachlass insufficient |
-| 11 | Verjährung prüfen | § 2332 BGB | 3 Jahre ab Kenntnis |
+| 11 | Verjährung je Anspruch und Gegner prüfen | BGB Paragrafen 195, 199 und 2332 | Regelbeginn oder besonderer Beginn mit dem Erbfall sauber trennen |
 
 ## Schritt 1 — Pflichtteilsberechtigte § 2303 BGB
 
@@ -308,10 +310,11 @@ III. Zahlungsstufe:
 
 | Frist | Auslöser | Dauer | Folge |
 |-------|---------|-------|-------|
-| Verjährung Pflichtteil § 2332 BGB | Kenntnis von Erbfall + letztwilliger Verfügung | 3 Jahre ab Jahresende | Anspruchsverlust |
-| Absolute Verjährung | Erbfall (unabhängig von Kenntnis) | 30 Jahre § 199 Abs. 3a BGB | Anspruchsverlust |
+| Pflichtteilsanspruch gegen den Erben | Anspruchsentstehung und Kenntnis oder grob fahrlässige Unkenntnis | drei Jahre ab Jahresschluss nach BGB Paragrafen 195 und 199 Absatz 1 | Leistung kann nach Verjährungseinrede verweigert werden |
+| Kenntnisunabhängige Höchstfrist | Anspruchsentstehung | 30 Jahre nach BGB Paragraf 199 Absatz 3a | Leistung kann nach Verjährungseinrede verweigert werden |
+| Anspruch gegen den Beschenkten nach BGB Paragraf 2329 | Erbfall | drei Jahre ab Erbfall nach BGB Paragrafen 195, 200 und 2332 Absatz 1 | Leistung kann nach Verjährungseinrede verweigert werden |
 | Auskunftsfrist § 2314 BGB | Setzung im Schreiben | Üblich 4 Wochen | Stufenklage |
-| Direktanspruch § 2329 BGB | Schenkungsdatum | 3 Jahre ab Kenntnis | Verjährung gegen Beschenkten |
+| Direktanspruch nach BGB Paragraf 2329 | Erbfall | drei Jahre ab Erbfall nach BGB Paragraf 2332 Absatz 1 | Verjährung gegen den Beschenkten |
 
 ## Gegenargumente und Reaktion
 
@@ -336,7 +339,7 @@ III. Zahlungsstufe:
 
 | Strategie | Empfehlung | Begründung |
 |-----------|-----------|------------|
-| Verjährung sichern | Sofort nach Erbfall Auskunftsschreiben senden | § 2332 BGB Frist läuft ab Jahresende; keine Fristverlängerung |
+| Verjährung sichern | Anspruch und Gegner bestimmen, Hemmung rechtzeitig mit der passenden Leistungs- oder Stufenklage herbeiführen | Bloße Auskunftsaufforderung hemmt nicht; beim Anspruch gegen den Beschenkten beginnt die Frist nach BGB Paragraf 2332 Absatz 1 mit dem Erbfall |
 | Stufenklage | Bei Auskunftsverweigerung unverzüglich Stufe 1 erheben | Einheitliches Verfahren; effizient |
 | SV frühzeitig | Sachverständigen für Immobilien-/Unternehmens-Bewertung benennen | Basis für Pflichtteilshöhe; auf Nachlasskosten § 2314 Abs. 2 BGB |
 | Schenkungsrecherche | Kontoauszüge Erblasser letzter 10 Jahre vollständig durchsuchen | Häufig unbekannte Schenkungen |

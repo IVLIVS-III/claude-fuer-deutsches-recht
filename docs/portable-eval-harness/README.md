@@ -121,7 +121,7 @@ checks:
 
   - id: r02-paragraf-613a
     check_type: text_contains
-    description: "$ 613a BGB-Klausel enthalten"
+    description: "Paragraf 613a BGB-Klausel enthalten"
     path: "vertrag.md"
     contains: "613a"
 

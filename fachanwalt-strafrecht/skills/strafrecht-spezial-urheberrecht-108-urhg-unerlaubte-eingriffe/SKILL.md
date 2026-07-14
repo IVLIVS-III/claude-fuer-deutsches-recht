@@ -97,5 +97,5 @@ Strafrahmen Paragraph 108 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 - Paragraph 51 UrhG Zitat; Paragraph 53 UrhG private Vervielfaeltigung.
 - Paragraph 77b StGB Antragsfrist; Paragraph 374 StPO Privatklage.
 - BGH staendige Rspr. zum Schutz einfacher Lichtbilder unterhalb der Schoepfungshoehe (Pressefoto-Rspr.).
-- EuGH-Rspr. zum Lichtbildner- und Datenbankschutz (z. B. Painer C-145/10 und British Horseracing C-203/02 zum Datenbankschutz; vor Verwendung in der Akte mit konkretem Datum und Rn live verifizieren).
+- EuGH, Urteil vom 09.11.2004 - C-203/02 (British Horseracing Board): Investitionen in die Erzeugung der Daten selbst begründen nicht das Datenbankherstellerrecht; Entnahme und Weiterverwendung sowie quantitativ und qualitativ wesentliche Teile getrennt prüfen. EuGH, Urteil vom 01.12.2011 - C-145/10 (Painer), betrifft dagegen die Werkqualität von Porträtfotografien und gehört bei einer persönlichen geistigen Schöpfung in die Prüfung nach Paragraph 106 UrhG, nicht in den Datenbankschutz.
 - Paragraphen 73, 73c, 74 StGB Einziehung; Paragraph 110 UrhG Sondereinziehung.

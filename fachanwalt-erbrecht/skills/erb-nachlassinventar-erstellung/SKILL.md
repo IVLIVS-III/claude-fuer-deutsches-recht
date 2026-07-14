@@ -27,7 +27,7 @@ description: "Wenn es um Erb Nachlassinventar Erstellung in Fachanwalt Erbrecht 
 
 ## Spezialwissen: Erb: Nachlassinventar
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-- **Rollenanker:** BGH, Beschluss vom 15.01.2025 - IV ZR 166/24, bestätigt für Paragraf 2314 Absatz 1 Satz 1 BGB die persönliche Auskunftspflicht des Erben. Ein vom Testamentsvollstrecker geführtes Verzeichnis ersetzt diese Erklärung nicht automatisch.
+- Rollenanker: In der Entscheidung zum einstweiligen Vollstreckungsschutz vom 15.01.2025 - IV ZR 166/24 behandelte der BGH die Erben als Schuldner der Auskunft nach BGB Paragraf 2314 Absatz 1 Satz 1. Die Entscheidung ist kein abschließendes Sachurteil zu allen Beschaffungs- oder Unmöglichkeitsfragen; ein Verzeichnis des Testamentsvollstreckers ersetzt die Erklärung des Erben nicht automatisch.
 
 ## Fallweichen
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

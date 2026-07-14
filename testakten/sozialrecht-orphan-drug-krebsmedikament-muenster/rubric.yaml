@@ -1,9 +1,33 @@
 name: sozialrecht-orphan-drug-krebsmedikament-muenster
-description: Eilfall zur Kostenübernahme eines extrem teuren Orphan-Drug-Krebsmedikaments mit Tumorboard, MD-Ablehnung, Kassenbescheid und Eilantrag.
+description: Eilfall zur Kostenübernahme eines extrem teuren Orphan-Drug-Krebsmedikaments mit Tumorboard, MD-Ablehnung,
+  Kassenbescheid und Eilantrag.
 checks:
-  - Lebensbedrohliche Erkrankung und fehlende Standardalternative herausarbeiten und belegen.
-  - Orphan-Drug-Zulassung für eine andere Tumorentität nicht mit sicherer Leistungspflicht verwechseln.
-  - Wirtschaftlichkeit konkret gegen Nutzen- und Folgenabwägung stellen, ohne die Kostendimension kleinzureden.
-  - MD-Aktenlage auf fehlende persönliche Befassung, fehlende Würdigung des LZ-4-Befunds und den abstrakten Verweis auf Best Supportive Care prüfen.
-  - Eilantrag mit konkretem Anordnungsgrund aus Therapieslot 11.07.2026 und Herstellerreservierung bis 05.07.2026 formulieren.
-  - Das gestufte Vorgehen (erste Dosis mit Monitoring und erneuter Entscheidung) als Vergleichslinie erkennen und rechtlich einordnen.
+  - id: datei-01-mandatsnotiz-eilfall
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_eilfall.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_eilfall.docx
+  - id: datei-02-onkologischer-antrag
+    check_type: file_exists
+    description: Das Primäraktenstück 02_onkologischer_antrag.docx ist für die Fallauswertung vorhanden.
+    path: 02_onkologischer_antrag.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Lebensbedrohliche Erkrankung und fehlende Standardalternative herausarbeiten und belegen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Orphan-Drug-Zulassung für eine andere Tumorentität nicht mit sicherer Leistungspflicht verwechseln.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Wirtschaftlichkeit konkret gegen Nutzen- und Folgenabwägung stellen, ohne die Kostendimension kleinzureden.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: MD-Aktenlage auf fehlende persönliche Befassung, fehlende Würdigung des LZ-4-Befunds und den abstrakten
+      Verweis auf Best Supportive Care prüfen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Eilantrag mit konkretem Anordnungsgrund aus Therapieslot 11.07.2026 und Herstellerreservierung
+      bis 05.07.2026 formulieren.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Das gestufte Vorgehen (erste Dosis mit Monitoring und erneuter Entscheidung) als Vergleichslinie
+      erkennen und rechtlich einordnen.

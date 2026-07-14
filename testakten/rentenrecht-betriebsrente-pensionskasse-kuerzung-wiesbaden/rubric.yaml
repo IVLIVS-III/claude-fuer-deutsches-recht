@@ -1,9 +1,23 @@
-slug: rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden
-rechtsgebiet: rentenpruefer
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden.
+checks:
+  - id: datei-01-versorgungsordnung-auszug-1998
+    check_type: file_exists
+    description: Das Primäraktenstück 01_versorgungsordnung_auszug_1998.docx ist vorhanden.
+    path: 01_versorgungsordnung_auszug_1998.docx
+  - id: datei-02-rentenmitteilung-2025-2026
+    check_type: file_exists
+    description: Das Primäraktenstück 02_rentenmitteilung_2025_2026.docx ist vorhanden.
+    path: 02_rentenmitteilung_2025_2026.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Versorgungszusage, Pensionskassenmitteilung und behauptete Freiwilligkeit nach Anspruchsgrund,
+      Durchführungsweg und Einstandspflicht des Arbeitgebers trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Die Kürzung rechnerisch aus Rentenmitteilungen, Versorgungsordnung und Sanierungsmitteilung nachvollziehen
+      und Deckungslücken offen ausweisen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: BetrAVG-Anpassung, Arbeitgeberhaftung, Einwendungen der Pensionskasse, Rechtsweg und Klageanträge
+      in einer belastbaren Prozessroute verbinden.

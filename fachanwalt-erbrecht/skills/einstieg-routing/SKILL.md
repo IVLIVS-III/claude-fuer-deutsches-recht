@@ -1,64 +1,65 @@
 ---
 name: einstieg-routing
-description: "Wenn es um Anwalts-Dashboard Fachanwalt Erbrecht in Fachanwalt Erbrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Startet ein erbrechtliches Mandat aus vorhandenen Urkunden und Vermögensunterlagen ohne Abfragekaskade. Sichert Fristen und Erbstatut, trennt Erben-, Pflichtteils-, Vermächtnis- und Testamentsvollstreckerrollen und leitet mit Stammbaum, Verfügungsmatrix oder Nachlassinventar zu Erbschein, Pflichtteil, Haftung und Auseinandersetzung weiter."
 ---
 
-# Anwalts-Dashboard Fachanwalt Erbrecht
+# Einstieg und Fallrouting im Erbrecht
 
-> Erbfall, Pflichtteil, Erbschein, Erbengemeinschaft, Testament — Ausschlagungsfrist tickt ab Kenntnis. Wer beerbt wen, wann?
->
-> Sie sehen unten die Sofort-Triage. Keine Rückfragen, bis die Tabelle steht. Wenn die Akte 80 % trägt, gehen wir direkt zum Anschluss-Skill — Sie entscheiden, ob.
+## 1. Direktstart
 
-## Sofort-Triage
+Lies zuerst alle vorhandenen Dateien. Erstelle danach ohne Vorrede ein Sofortbild mit Erblasser und Todesdatum, gewöhnlichem Aufenthalt, Mandatsziel, laufender Frist, wahrscheinlicher Erbfolge, stärkster Urkunde, größter Status- oder Wertlücke und nächstem Arbeitsprodukt. Frage nichts ab, was aus Testament, Eröffnungsniederschrift, Personenstandsurkunde, Grundbuch, Kontoauszug oder Vertrag hervorgeht.
 
-| Punkt | Schnellprüfung | Standardquelle / Hilfsweg |
+Nur bei leerer Akte frage höchstens nach Familie und Güterstand, Verfügungslage, Kenntnisdaten, Nachlass und Schenkungen sowie gewünschtem Ergebnis. Die erste Lieferung ist Stammbaum, Fristenblatt, Verfügungsmatrix, Nachlassinventar, Auskunftsverlangen oder Erbscheinsroute.
+
+## 2. Fristen- und Haftungsweiche
+
+1. Ausschlagung: BGB Paragraf 1944 grundsätzlich sechs Wochen ab Kenntnis von Anfall und Berufungsgrund; sechs Monate nur in den gesetzlich geregelten Auslandsfällen. Form nach BGB Paragraf 1945 sichern.
+2. Anfechtung von Annahme oder Ausschlagung: BGB Paragraf 1954 mit Anfechtungsgrund, Kenntnis und Sechswochenfrist prüfen.
+3. Testamentsanfechtung: BGB Paragraf 2082 mit Jahresfrist ab Kenntnis des Anfechtungsgrunds und Ausschlussfrist prüfen.
+4. Pflichtteil und Ergänzung: Entstehung nach BGB Paragraf 2317, regelmäßige Verjährung nach BGB Paragrafen 195 und 199 sowie besondere Kenntnisprobleme getrennt prüfen. Keine nicht mehr geltende Sondernorm als Fristgrundlage verwenden.
+5. Überschuldeter Nachlass: Nachlassverwaltung, Nachlassinsolvenz, Dürftigkeitseinrede und Inventarfolgen sofort prüfen. BGB Paragraf 1980 verlangt den Antrag ohne schuldhaftes Zögern nach Kenntnis von Zahlungsunfähigkeit oder Überschuldung; es gibt keine pauschale Dreimonatsfrist.
+
+## 3. Status- und Verfügungsroute
+
+Baue einen Stammbaum aus Urkunden: Ehe, Güterstand, Scheidung, Abstammung, Adoption, Vorversterben und Todesreihenfolge. Trenne gesetzliche Ausgangserbfolge, gewillkürte Erbfolge, Pflichtteil, Vermächtnis, Auflage und Testamentsvollstreckung.
+
+Ordne jede Verfügung nach Datum, Form, Eröffnung, Widerruf, Testierfähigkeit, Bindung, Auslegung und Ersatzberufung. BGH, Beschluss vom 26.03.2025 - IV ZB 15/24, stellt klar, dass BGB Paragraf 2270 nur für gemeinschaftliche Testamente gilt und nicht entsprechend auf Erbverträge übertragen wird.
+
+Bei Auslandsbezug prüfe gewöhnlichen Aufenthalt, Rechtswahl und Reichweite des Erbstatuts nach EuErbVO Artikeln 21 bis 23. Registervollzug, Güterrecht und Steuerrecht bleiben eigenständige Fragen.
+
+## 4. Fachrouten
+
+| Fallkern | Erstprodukt | Anschluss |
 | --- | --- | --- |
-| Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
-| Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | **§ 1944 BGB: 6 Wochen** Ausschlagung ab Kenntnis von Anfall und Berufungsgrund (6 Monate bei Auslandsbezug). § 1954 BGB: Anfechtung der Annahme/Ausschlagung 6 Wochen. § 2306 BGB: Ausschlagungsrecht bei Beschwerung 6 Wochen. § 2082 BGB: Anfechtung Testament 1 Jahr ab Kenntnis. § 2332 BGB: Pflichtteils-Verjährung 3 Jahre. | Frist aus Zugangs-/Kenntnisdatum berechnen |
-| Hauptanspruch | Erbe §§ 1922, 1942 BGB · Pflichtteil §§ 2303 ff. BGB · Pflichtteilsergänzung §§ 2325 ff. BGB · Auskunft § 2314 BGB · Auseinandersetzung §§ 2042 ff. BGB · Erbschein §§ 2353 ff. BGB · Vermächtnis §§ 2147 ff. BGB. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
-| Zuständigkeit | Nachlassgericht am letzten gewöhnlichen Aufenthalt (§ 343 FamFG). Streitige Erbsachen: LG/AG nach Streitwert (§ 27 ZPO). | Gesetz, Vertrag, Gerichtsstandsklausel |
+| Erbfolge oder Auslegung | Stammbaum, Verfügungschronologie und Quotenvarianten | `testament-auslegung-und-andeutung` |
+| Pflichtteil oder Ergänzung | reale und fiktive Nachlassliste mit Schenkungsparametern | `pflichtteil-berechnen` und `pflichtteilsergaenzung-zehnjahresfrist-nutzungsrechte` |
+| Auskunft oder Bewertung | Anspruchsgegner-, Verzeichnis-, Beleg- und Wertmatrix | `pflichtteil-auskunft-wertermittlung` |
+| Ausschlagung oder Anfechtung | Fristenblatt, Formweg und Folgenvergleich | `erbschaftsausschlagung` |
+| Erbschein oder Register | Beteiligten-, Nachweis- und Auslegungsmatrix | `erbschein-antrag` |
+| blockierte Erbengemeinschaft | Verwaltungs-, Teilungs- und Liquiditätsplan | `erbengemeinschaft-blockade-auseinandersetzung` |
+| Testamentsvollstreckung | Amt, Befugnis, Information, Rechnung und Haftung | `testamentsvollstrecker-kontrolle-haftung` |
+| Überschuldeter Nachlass | Liquiditätsstatus und Haftungsbegrenzungsroute | `nachlassinsolvenz-erbenhaftung-begrenzen` |
 
-## Risiko-Ampel
+## 5. Rechtsprechungs- und Beweisanker
 
-- **Frist:** 🔴 Ausschlagungsfrist 6 Wochen läuft ab Kenntnis; Akten dokumentieren. 🟠 Pflichtteilsergänzung (10-Jahresfrist § 2325 III BGB) und Pflichtteils-Verjährung (3 Jahre) gegen Schenkungen verfolgen.
-- **Beweislage:** 🟠 Pflichtteils-Auskunft § 2314 BGB lückenhaft → notarielles Verzeichnis erzwingen. 🔴 Testament: Testierfähigkeit Beweis (medizinische Akten, Zeugen, ggf. Sachverständige).
-- **Wirtschaftlich:** 🔴 Nachlassinsolvenz droht → § 1980 BGB Antrag (binnen 3 Monaten), Erbenhaftungsbeschränkung. 🟠 Hoher Nachlasswert: Pflichtteilsanspruch parallel zu Auseinandersetzung.
+- BGH, Urteil vom 12.03.2025 - IV ZR 88/24: Der Pflichtteilsanspruch des nichtehelichen Kindes entsteht mit dem Erbfall; für den kenntnisabhängigen Verjährungsbeginn ist auch Kenntnis der wirksamen Anerkennung oder rechtskräftigen Feststellung der Vaterschaft erheblich.
+- BGH, Beschluss vom 19.02.2025 - IV ZB 13/24: Ein erbrechtlicher Auskunftstitel muss Inhalt und Umfang ohne Rückgriff auf die Prozessakte bestimmbar machen; der Beschwerdewert richtet sich grundsätzlich nach Zeit- und Kostenaufwand.
+- BGH, Urteil vom 20.11.2024 - IV ZR 263/23: Ein formunwirksamer Pflichtteilsverzicht wurde im entschiedenen Fall nicht als Vereinbarung künftiger gesetzlicher Erben nach BGB Paragraf 311b Absatz 5 aufrechterhalten.
+- BGH, Beschluss vom 19.06.2024 - IV ZB 13/23: Verbleibende Unsicherheiten nach gebotenen Ermittlungen und zumutbarer Mitwirkung erlauben dem Notar nicht ohne Weiteres, ein Nachlassverzeichnis zu verweigern.
+- BGH, Beschluss vom 07.03.2024 - I ZB 40/23: Notarielle Ermittlungen richten sich nach konkreten Umständen und dem Erkenntnisinteresse eines objektiven Gläubigers; nicht jeder abstrakt denkbare Weg ist geschuldet.
+- BGH, Urteil vom 30.11.2022 - IV ZR 60/22: Nach Ausschlagung einer belasteten Erbschaft nach BGB Paragraf 2306 Absatz 1 können Pflichtteil und Auskunft nach BGB Paragraf 2314 verfolgt werden.
 
-## Anschluss-Skills (Router)
+Jede Statusfrage erhält eine Urkunde, jede Nachlassposition einen Eigentums- und Wertbeleg, jede Schenkung Vertrag, Gegenleistung, Nutzungsrecht und Vollzugsdatum. Fehlende Belege werden konkret angefordert; Vermutungen werden nicht als Tatsachen ausgegeben.
 
-| Wenn der Fall trägt … | dann Skill | Erwartung |
-| --- | --- | --- |
-| **Pflichtteil berechnen / geltend machen** | `pflichtteil-berechnen` | Pflichtteilsquote, Wertermittlung, Auskunftsverfahren § 2314 BGB |
-| Ausschlagung der Erbschaft | `erbschaftsausschlagung` | 6-Wochen-Frist § 1944 BGB, notarielle/gerichtliche Erklärung |
-| Testament auslegen | `testament-auslegung-und-andeutung` | Andeutungstheorie, Auslegungsregeln, ergänzende Auslegung |
-| Erbschein beantragen | `erbschein-antrag` | Antrag, Glaubhaftmachung, eidesstattliche Versicherung |
-| Erbengemeinschaft blockiert | `erbengemeinschaft-blockade-auseinandersetzung` | Teilungsklage, Vermittlungsverfahren §§ 363 ff. FamFG |
+## 6. Zuständigkeit und Ausgabe
 
-## Norm-Radar (live verifizieren)
+Für Nachlasssachen prüfe FamFG Paragraf 343 zum Nachlassgericht am letzten gewöhnlichen Aufenthalt. Für streitige Leistungsklagen bestimme Rechtsweg, sachliche Zuständigkeit nach GVG Paragrafen 23 und 71 und besondere Gerichtsstände, insbesondere ZPO Paragraf 27, getrennt. Streitwert und Gerichtsstand sind nicht dieselbe Prüfung.
 
-- **§ 1944 BGB** — Ausschlagungsfrist 6 Wochen
-- **§ 2303 BGB** — Pflichtteilsanspruch
-- **§ 2314 BGB** — Auskunftsanspruch des Pflichtteilsberechtigten
-- **§ 2325 BGB** — Pflichtteilsergänzung; 10-Jahres-Abschmelzung
-- **§ 2353 BGB** — Erbschein
-- **§ 1980 BGB** — Antrag Nachlassinsolvenz
+Liefere in dieser Reihenfolge:
 
-## Genau eine Rückfrage (nur wenn nötig)
-
-> Vertreten Sie **Erbe(n), Pflichtteilsberechtigte oder Vermächtnisnehmer** — und steht eine **Frist** (Ausschlagung, Anfechtung) oder eine **Verteilungsfrage** im Vordergrund?
-
-Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt den passenden Anschluss-Skill arbeiten.
-
-## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
-
-- **Pflichtteilsergänzung § 2325 BGB; 10-Jahres-Abschmelzung** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
-- **Pflichtteilsstrafklausel (Berliner Testament); Auslegung** — BGH IV. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
-- **Erbschaftsteuer; Verschonungsregelungen** — BVerfG 1. Senat (Urteil v. 17.12.2014, 1 BvL 21/12) — *live verifizieren auf* `bundesverfassungsgericht.de`
-- **Digitaler Nachlass (Facebook-Konto)** — BGH III. Zivilsenat (Urteil v. 12.07.2018, III ZR 183/17) — *live verifizieren auf* `bundesgerichtshof.de`
-
-> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
-
-## Hinweis
-
-Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Mandat; der Skill liefert die Karte. Quellenhygiene nach `references/quellenhygiene.md`, Zitierform nach `references/zitierweise.md`. Die Konvention dieses Einstiegs-Dashboards steht in `references/anwalts-dashboard-konvention.md`.
+1. Sofortbild und Fristenblatt.
+2. Stammbaum und Verfügungschronologie.
+3. Erbquote oder Pflichtteilsrechnung mit Formel und Belegen.
+4. stärkste Gegenposition mit Beweislast.
+5. bestimmtes Arbeitsprodukt für Mandant, Notar, Gericht, Bank oder Grundbuchamt.
+6. fehlender Kernbeleg und nächster versand- oder einreichungsfähiger Schritt.

@@ -7,7 +7,7 @@ description: "Wenn es um Elektronische Zustellung in der Zwangsvollstreckung –
 
 ## Arbeitsbereich
 
-Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das im Bundesgesetzblatt 2026 I Nr. 152 verkündete Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (klassisch).
+Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das Gesetz vom 20. Mai 2026, verkündet am 26. Mai 2026 im BGBl. 2026 I Nr. 152. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu `pfueb-bank` (PfÜB gegen Konto) und `titel-klausel-zustellung` (klassisch).
 
 ## Arbeitsweg
 

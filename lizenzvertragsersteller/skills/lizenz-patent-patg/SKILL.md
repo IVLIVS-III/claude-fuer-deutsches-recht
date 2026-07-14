@@ -7,12 +7,12 @@ description: "Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: o
 
 ## Normenanker
 
-- $ 9 PatG - Schutzwirkung Patent (Ausschlussrecht des Patentinhabers)
-- $ 15 PatG - Uebertragung und Lizenzeinraeumung; Rangschutz Lizenznehmer
-- $ 24 PatG - Zwangslizenz (oeffentliches Interesse; sehr selten)
-- $$ 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
+- Paragraf 9 PatG - Schutzwirkung Patent (Ausschlussrecht des Patentinhabers)
+- Paragraf 15 PatG - Uebertragung und Lizenzeinraeumung; Rangschutz Lizenznehmer
+- Paragraf 24 PatG - Zwangslizenz (oeffentliches Interesse; sehr selten)
+- Paragrafen 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
 - EPUe - Europaeisches Patentuebereinkommen; EPA-Patente
-- ArbnErfG - Arbeitnehmererfindergesetz; $ 9 Vergütung Erfinder
+- ArbnErfG - Arbeitnehmererfindergesetz; Paragraf 9 Vergütung Erfinder
 - VO (EU) Nr. 316/2014 (TT-GVO) - Technologietransfer-Gruppenfreistellung
 
 ## Lizenzformen
@@ -23,7 +23,7 @@ description: "Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: o
 | einfache Lizenz | Lizenzgeber kann weitere Lizenzen vergeben; Lizenznehmer hat eigenes Nutzungsrecht |
 | Cross-License | gegenseitige Lizenz Patentaustausch (Forschungspartner, Wettbewerber) |
 | Pool-Lizenz | gepoolte Patente, FRAND-Konditionen, Pool-Administrator |
-| Zwangslizenz | $ 24 PatG; Verteidigungsrecht im Klagefall |
+| Zwangslizenz | Paragraf 24 PatG; Verteidigungsrecht im Klagefall |
 
 ## Pflichten beider Seiten
 
@@ -38,16 +38,16 @@ description: "Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: o
 
 Wenn das Patent auf Arbeitnehmererfindern beruht:
 
-1. Diensterfindung vs. freie Erfindung ($ 4 ArbnErfG)
-2. Inanspruchnahme durch AG ($ 6 ArbnErfG)
-3. **Verguetungspflicht $ 9 ArbnErfG** - vor Lizenzvergabe abgeloest? Sonst Lizenznehmer mittelbar betroffen.
-4. Verguetungsbemessung nach Richtlinien (ehem. Richtlinien $ 11)
+1. Diensterfindung vs. freie Erfindung (Paragraf 4 ArbnErfG)
+2. Inanspruchnahme durch AG (Paragraf 6 ArbnErfG)
+3. **Verguetungspflicht Paragraf 9 ArbnErfG** - vor Lizenzvergabe abgeloest? Sonst Lizenznehmer mittelbar betroffen.
+4. Verguetungsbemessung nach Richtlinien (ehem. Richtlinien Paragraf 11)
 
 Im Vertrag: Garantie des Lizenzgebers, dass alle ArbnErfG-Verguetungen abgegolten sind.
 
 ## Patent Pool / FRAND
 
-Bei Standardpatenten (z. B. Mobilfunk, Codec): FRAND-Pflicht (fair, reasonable, non-discriminatory). EuGH C-170/13 Huawei/ZTE - live verifizieren auf curia.europa.eu. Implementiert wird FRAND ueblicherweise durch Pool-Lizenzen mit kartellrechtskonformer Royalty-Struktur.
+Bei standardessenziellen Patenten zunächst Standardessentialität, marktbeherrschende Stellung und FRAND-Erklärung trennen. EuGH, Urteil vom 16.07.2015 - C-170/13 (Huawei Technologies/ZTE), ordnet für den kartellrechtlich zulässigen Unterlassungsantrag aufeinander bezogene Hinweis-, Angebots- und Reaktionsschritte von Patentinhaber und angeblichem Verletzer an. Patentpool und Einzelangebot jeweils auf diskriminierungsfreie Bedingungen, Vergleichslizenzen und Portfolioumfang prüfen.
 
 ## Klausel-Bausteine (DE)
 
@@ -58,7 +58,7 @@ Bei Standardpatenten (z. B. Mobilfunk, Codec): FRAND-Pflicht (fair, reasonable, 
 > "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] % des Nettoumsatzes mit Produkten, die unter mindestens einen Anspruch eines Lizenzpatents fallen ("Lizenzprodukte"), zuzueglich gesetzlicher Umsatzsteuer."
 
 **3. Erfindervergutung:**
-> "Der Lizenzgeber garantiert, dass alle Arbeitnehmererfindervergutungen nach $$ 9 ff. ArbnErfG hinsichtlich der Lizenzpatente vollstaendig abgegolten sind."
+> "Der Lizenzgeber garantiert, dass alle Arbeitnehmererfindervergutungen nach Paragrafen 9 ff. ArbnErfG hinsichtlich der Lizenzpatente vollstaendig abgegolten sind."
 
 **4. Verteidigung:**
 > "Der Lizenzgeber traegt die Aufrechterhaltungsgebuehren und fuehrt etwaige Nichtigkeitsklagen oder Einspruechen selbst. Der Lizenznehmer informiert den Lizenzgeber unverzueglich über Kenntnisnahme von Verletzungen Dritter."

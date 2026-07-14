@@ -1,2 +1,23 @@
 name: kaufrecht-smartwatch-gesundheitsabo-update-hannover
-focus: bgb-bt-pruefer
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte kaufrecht-smartwatch-gesundheitsabo-update-hannover.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Gesundheitsmessfunktionen der Smartwatch, Abo-Dienst und erforderliche Aktualisierungen als Warenkauf
+      mit digitalen Elementen einordnen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Werbeaussagen, Mess- und Updateprotokolle sowie Supportantworten auf konkrete Beschaffenheitsabweichungen
+      und Kausalität prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Nacherfüllung, Beendigung des Abos, Rücktritt oder Minderung und den Umgang mit gespeicherten Gesundheitsdaten
+      als getrennte Rechtsfolgen ausgeben.

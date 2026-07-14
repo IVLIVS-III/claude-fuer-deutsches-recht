@@ -1,27 +1,40 @@
 name: strafrecht-btm-kokain-kurierfahrt-a3-koeln
-description: Betäubungsmittelverfahren nach A3-Kontrolle mit Kokainfund, Durchsuchung, DNA-Spuren, Handyforensik, Kurierwissen und Haftfrage.
+description: Betäubungsmittelverfahren nach A3-Kontrolle mit Kokainfund, Durchsuchung, DNA-Spuren, Handyforensik,
+  Kurierwissen und Haftfrage.
 checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-sachverhalt-chronologie
+    check_type: file_exists
+    description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
+    path: 02_sachverhalt_chronologie.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
   - id: p03-wirkstoffmenge-und-kuriermuster
-    beschreibung: >
-      Aus Wirkstoffgutachten und Telematik-Zeitreihe muessen die
-      strafzumessungsrelevante Wirkstoffmenge und das Kuriermuster
-      nachgerechnet und gegen die Einlassung des Beschuldigten gehalten
-      werden, er habe nur als Fahrer gehandelt und die Reserveradmulde nie
-      geoeffnet.
-    erwartung: >
-      Aus dem Gutachten ergibt sich eine Gesamtnettomasse von 1990.0 Gramm
-      mit 800.0 Gramm Kokainhydrochlorid aus Asservat 1.1 und 777.15 Gramm
-      aus Asservat 1.2, zusammen 1577.15 Gramm Kokainhydrochlorid; beim
-      Grenzwert von 5 Gramm ist das der 315.43-fache Wert der nicht
-      geringen Menge. Aus der Telematik-Zeitreihe folgen der Zwischenstopp
-      in Venlo-Blerick von 21:17 Uhr bis 21:59 Uhr (42 Minuten) mit
-      geoeffneter Heckklappe von 21:23 Uhr bis 21:31 Uhr (8 Minuten) sowie
-      die um 09:12 Uhr per Chat geaenderte Zieladresse, die erklaert, warum
-      das Fahrzeug bei der Kontrolle auf der Rastanlage Koenigsforst-West in
-      Fahrtrichtung Frankfurt statt in Koeln-Deutz stand; beides widerlegt
-      die Einlassung als blosser ahnungsloser Fahrer.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Haftprüfung vorbereiten, Dolmetscher- und Belehrungsvermerk anfordern, Rohdaten der Handyforensik sichern und Zusatzfahrer über Vermieter identifizieren.
+    check_type: human_review
+    description: Aus Wirkstoffgutachten und Telematik-Zeitreihe muessen die strafzumessungsrelevante Wirkstoffmenge
+      und das Kuriermuster nachgerechnet und gegen die Einlassung des Beschuldigten gehalten werden, er habe nur
+      als Fahrer gehandelt und die Reserveradmulde nie geoeffnet.
+    note: Aus dem Gutachten ergibt sich eine Gesamtnettomasse von 1990.0 Gramm mit 800.0 Gramm Kokainhydrochlorid
+      aus Asservat 1.1 und 777.15 Gramm aus Asservat 1.2, zusammen 1577.15 Gramm Kokainhydrochlorid; beim Grenzwert
+      von 5 Gramm ist das der 315.43-fache Wert der nicht geringen Menge. Aus der Telematik-Zeitreihe folgen der
+      Zwischenstopp in Venlo-Blerick von 21:17 Uhr bis 21:59 Uhr (42 Minuten) mit geoeffneter Heckklappe von 21:23
+      Uhr bis 21:31 Uhr (8 Minuten) sowie die um 09:12 Uhr per Chat geaenderte Zieladresse, die erklaert, warum
+      das Fahrzeug bei der Kontrolle auf der Rastanlage Koenigsforst-West in Fahrtrichtung Frankfurt statt in Koeln-Deutz
+      stand; beides widerlegt die Einlassung als blosser ahnungsloser Fahrer.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Haftprüfung vorbereiten, Dolmetscher- und Belehrungsvermerk anfordern, Rohdaten der Handyforensik
+      sichern und Zusatzfahrer über Vermieter identifizieren.

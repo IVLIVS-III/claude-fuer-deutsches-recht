@@ -1,10 +1,36 @@
 name: familienrecht-unterhalt-zugewinn-bad-nauheim
-description: Akte Neumann zu Kindesunterhalt, Trennungsunterhalt, Wohnwert, Auskunft und Zugewinn mit gemischten Unterlagen.
+description: Akte Neumann zu Kindesunterhalt, Trennungsunterhalt, Wohnwert, Auskunft und Zugewinn mit gemischten
+  Unterlagen.
 checks:
-  - erkennt fehlende Einkommens- und Vermögensbelege ohne Ergebnis zu erfinden
-  - trennt Kindesunterhalt, Mehrbedarf, Sonderbedarf, Trennungsunterhalt und Zugewinn sauber
-  - ordnet Betreuungstatsachen, Hauslasten und Wohnwert nachvollziehbar ein
-  - behandelt Nebengewerbe, Bonusmitteilung, Depotverkauf vom 06.06.2026 und behauptetes Elterndarlehen als Aufklärungspunkte
-  - erkennt die Diskrepanz zwischen Fünf-Monats-Durchschnitt (Stück 04) und Einzelabrechnung Mai (Stück 14) und bildet einen belastbaren Durchschnitt statt eines Einzelmonats
-  - nutzt das Auskunftsverlangen vom 27.05.2026 (Stück 13) und die unvollständige Antwort vom 10.06.2026 für Verzugs- und Verfahrensüberlegungen
-  - formuliert nächste Schritte als Auskunfts- und Belegfahrplan vor den Sommerferien
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-trennungs-und-betreuungschronik
+    check_type: file_exists
+    description: Das Primäraktenstück 02_trennungs_und_betreuungschronik.docx ist für die Fallauswertung vorhanden.
+    path: 02_trennungs_und_betreuungschronik.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: erkennt fehlende Einkommens- und Vermögensbelege ohne Ergebnis zu erfinden
+  - id: fachpruefung-02
+    check_type: human_review
+    description: trennt Kindesunterhalt, Mehrbedarf, Sonderbedarf, Trennungsunterhalt und Zugewinn sauber
+  - id: fachpruefung-03
+    check_type: human_review
+    description: ordnet Betreuungstatsachen, Hauslasten und Wohnwert nachvollziehbar ein
+  - id: fachpruefung-04
+    check_type: human_review
+    description: behandelt Nebengewerbe, Bonusmitteilung, Depotverkauf vom 06.06.2026 und behauptetes Elterndarlehen
+      als Aufklärungspunkte
+  - id: fachpruefung-05
+    check_type: human_review
+    description: erkennt die Diskrepanz zwischen Fünf-Monats-Durchschnitt (Stück 04) und Einzelabrechnung Mai (Stück
+      14) und bildet einen belastbaren Durchschnitt statt eines Einzelmonats
+  - id: fachpruefung-06
+    check_type: human_review
+    description: nutzt das Auskunftsverlangen vom 27.05.2026 (Stück 13) und die unvollständige Antwort vom 10.06.2026
+      für Verzugs- und Verfahrensüberlegungen
+  - id: fachpruefung-07
+    check_type: human_review
+    description: formuliert nächste Schritte als Auskunfts- und Belegfahrplan vor den Sommerferien

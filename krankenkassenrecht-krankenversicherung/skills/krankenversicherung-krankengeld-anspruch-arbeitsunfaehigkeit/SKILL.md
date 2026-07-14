@@ -1,95 +1,89 @@
 ---
 name: krankenversicherung-krankengeld-anspruch-arbeitsunfaehigkeit
-description: "Wenn es um Krankengeld: Anspruch, Arbeitsunfähigkeit, Blockfrist, Nahtlosigkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Krankengeld nach Arbeitsunfähigkeit mit aktuellem Zeitstrahl für Feststellung, Folgefeststellung, elektronische Übermittlung, Mitgliedschaft, Ruhen und Blockfrist. Liefert Berechnung, Beweisplan und einen belastbaren Widerspruchs- oder Klageentwurf."
 ---
 
-# Krankengeld: Anspruch, Arbeitsunfähigkeit, Blockfrist, Nahtlosigkeit
+# Krankengeld: Anspruch, Folgefeststellung und Blockfrist
 
-## Arbeitsweg
+## 1. Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst Bescheide, Arbeitsunfähigkeitsdaten, Entgeltabrechnungen und den bisherigen Schriftwechsel. Baue daraus ohne vorgelagerte Standardabfrage einen taggenauen Zeitstrahl. Frage nur Daten nach, die sich nicht aus der Akte ergeben und ohne die Anspruch, Mitgliedschaft oder Höhe nicht verlässlich bestimmt werden können.
 
-## Skill-Zweck
+## 2. Rechtsrahmen
 
-Bearbeite alle Fragen rund um den **Krankengeldanspruch**: Entstehung, Höhe, Dauer (Blockfrist), Nahtlosigkeitsproblematik und häufige Fristfallen bei der Arbeitsunfähigkeitsbescheinigung.
+- Paragraf 44 SGB V: versicherter Personenkreis und Anspruch dem Grunde nach.
+- Paragraf 46 SGB V: Entstehung am Tag der ärztlichen Feststellung und Regeln für Folgefeststellungen.
+- Paragraf 47 SGB V: Regelentgelt und Begrenzung auf siebzig Prozent des Brutto- sowie neunzig Prozent des Nettoentgelts.
+- Paragraf 48 SGB V: höchstens achtundsiebzig Wochen wegen derselben Krankheit innerhalb eines Dreijahreszeitraums.
+- Paragraf 49 SGB V: Ruhen, insbesondere während der Entgeltfortzahlung; bei vertragsärztlicher Feststellung seit 2021 keine eigene Übermittlungsobliegenheit für die elektronischen Arbeitsunfähigkeitsdaten.
+- Paragraf 51 SGB V: Aufforderung zur Reha-Antragstellung und mögliche Folgen fehlender Mitwirkung.
+- Paragraf 192 Absatz 1 Nummer 2 SGB V: Fortbestand einer Mitgliedschaft aufgrund des Krankengeldanspruchs.
 
-## Rechtlicher Rahmen
+## 3. Rechtsprechungsanker
 
-- **§ 44 SGB V** – Krankengeld: Anspruchsvoraussetzungen
-- **§ 46 SGB V** – Entstehung des Krankengeldanspruchs (Attestpflicht, Lückenproblematik)
-- **§ 47 SGB V** – Höhe des Krankengelds: 70 % des Regelentgelts, max. 90 % des Nettolohns
-- **§ 48 SGB V** – Dauer des Krankengelds: 78 Wochen innerhalb von 3 Jahren (Blockfrist)
-- **§ 49 SGB V** – Ruhen des Krankengelds (Entgeltfortzahlung, Verletztengeld, fehlende AU-Bescheinigung)
-- **§ 51 SGB V** – Leistungsverweigerung bei verweigerter Reha-Mitwirkung
-- **§ 192 Abs. 1 Nr. 2 SGB V** – Mitgliedschaftserhaltung durch Krankengeldanspruch
-- BSG B 3 KR 4/14 R (Nahtlosigkeit, Attestpflicht), BSG B 3 KR 22/13 R (Blockfrist)
+- BSG, Urteil vom 21.09.2023 - B 3 KR 11/22 R: Ein Versicherter kann seinen Anspruch durch rechtzeitiges Tätigwerden wahren, wenn er am ersten anspruchserhaltenden Tag die Praxis zu üblicher Öffnungszeit aufsucht und die Praxis den Arztkontakt verzögert.
+- BSG, Urteil vom 30.11.2023 - B 3 KR 23/22 R: Unterbleibt die seit 2021 geschuldete elektronische Übermittlung durch den Vertragsarzt, ruht der Anspruch nicht allein deshalb; das Übermittlungsrisiko liegt nicht beim Versicherten.
+- BSG, Urteil vom 26.03.2020 - B 3 KR 9/19 R: Für ältere Fallzeiträume entwickelte Zurechnungsgrundsätze greifen, wenn der Versicherte rechtzeitig alles ihm Zumutbare unternimmt und die Verzögerung dem Vertragsarzt- und Krankenkassenbereich zuzurechnen ist. Den damaligen Rechtsstand ausdrücklich vom aktuellen Paragraf 46 SGB V trennen.
 
-## Blockfrist und Nahtlosigkeit
+## 4. Prüfprogramm
 
-| Begriff | Bedeutung |
-|---------|-----------|
-| Blockfrist | 78 Wochen Krankengeld wegen derselben Krankheit innerhalb von je 3 Jahren |
-| Nahtlosigkeit | AU-Bescheinigung muss lückenlos ohne einen freien Tag vorliegen |
-| Attestpflicht | AU-Attest spätestens am nächsten Werktag nach AU-Beginn (§ 46 Satz 1 Nr. 2 SGB V) |
-| Rückwirkendes Attest | Schadet; AU muss prospektiv ausgestellt sein |
+### 4.1 Versicherungsstatus und Anspruchsart
 
-## Prüfprogramm
+1. Versicherungsstatus am ersten Tag jeder Anspruchsperiode bestimmen.
+2. Prüfen, ob die Mitgliedschaft einen Krankengeldanspruch umfasst. Bei hauptberuflich Selbstständigen und weiteren Sondergruppen Wahlerklärung, Tarif und Beginn des Anspruchs auswerten; keinen pauschalen Anspruch ab der siebten Woche unterstellen.
+3. Arbeitsunfähigkeit anhand der zuletzt ausgeübten Tätigkeit und des konkreten gesundheitlichen Leistungsbilds prüfen.
+4. Entgeltfortzahlung, Verletztengeld, Übergangsgeld und andere Ruhens- oder Ausschlusstatbestände zeitlich abgrenzen.
 
-### Schritt 1 – Anspruchsbegründung
-- Pflichtversichertes Mitglied? (§ 5 SGB V)
-- Beschäftigung mit Anspruch auf Krankengeld? (nicht: freiwillig Versicherte mit Tarif ohne KG)
-- AU ärztlich festgestellt? Attest zeitgerecht eingereicht?
+### 4.2 Feststellungszeitstrahl
 
-### Schritt 2 – Entstehung des Anspruchs (§ 46 SGB V)
-- Bei Beschäftigten: ab dem Tag nach ärztlicher Feststellung der AU (§ 46 Satz 1 Nr. 2)
-- Lücke von nur einem Tag zwischen zwei AU-Perioden: Anspruch erlischt, Blockfrist beginnt erneut zu laufen – fatale Folge!
-- Attestlücke durch Arzt vermeiden: Folgebescheinigung muss spätestens am letzten Tag der vorigen AU ausgestellt sein
+| Prüffeld | Aktueller Maßstab | Benötigter Beleg |
+| --- | --- | --- |
+| Erstfeststellung | Anspruch entsteht grundsätzlich am Tag der ärztlichen Feststellung | elektronische Daten, Bescheinigung, Patientenakte |
+| Folgefeststellung derselben Krankheit | spätestens am nächsten Werktag nach dem zuletzt bescheinigten Ende; Samstag zählt nicht als Werktag | Enddatum, Folgetermin, Praxiszeiten |
+| Verzögerung durch Praxis | rechtzeitiges eigenes Tätigwerden und Zurechnung nach den BSG-Maßstäben prüfen | Anrufliste, Terminbestätigung, Praxisvermerk |
+| Mitgliedschaft hängt vom Anspruch ab | Feststellung innerhalb eines Monats kann den Anspruchsfortbestand nach Paragraf 46 Satz 3 SGB V sichern; Zahlungszeitraum gesondert berechnen | Versicherungsverlauf, Feststellungsdaten |
+| elektronische Übermittlung | Fehler des Vertragsarztes nicht als eigene Meldeversäumnis behandeln | Kassenakte, Übermittlungsprotokoll |
 
-### Schritt 3 – Höhe berechnen (§ 47 SGB V)
-- Regelentgelt: Bruttoentgelt der letzten Abrechnungsperiode (4 Wochen oder Monat)
-- Krankengeld = 70 % Regelentgelt, max. 90 % Nettoentgelt
-- Einmalzahlungen anteilig berücksichtigen (BSG-Rechtsprechung)
-- Beitragsbemessungsgrenze 2025: 5.512,50 €/Monat – KG-Maximum daraus rechnen
+Eine rückwirkende ärztliche Bescheinigung ist weder automatisch ausreichend noch automatisch schädlich. Trenne die medizinische Rückdatierung nach der Arbeitsunfähigkeits-Richtlinie von der leistungsrechtlichen Frage, ob der Versicherte rechtzeitig tätig wurde und wem eine Verzögerung zuzurechnen ist.
 
-### Schritt 4 – Blockfrist (§ 48 SGB V)
-- 78 Wochen wegen derselben Krankheit: 3-Jahres-Block (nicht rollierend, sondern fester Zeitraum)
-- Dieselbe Krankheit: nicht identische Diagnose, sondern kausal-medizinisch gleiche Erkrankung (BSG)
-- Nach Ablauf: keine weiteren Ansprüche; erst Gesundung + 6 Monate Beschäftigung → neuer Anspruch
+### 4.3 Höhe
 
-### Schritt 5 – Ruhen prüfen (§ 49 SGB V)
-- Entgeltfortzahlung des Arbeitgebers läuft → Krankengeld ruht
-- Verletztengeld, Übergangsgeld, Mutterschaftsgeld: ebenfalls Ruhen
-- Fehlende AU-Bescheinigung: Ruhen bis Vorlage
+1. Letzte maßgebliche Abrechnungsperiode und Regelentgelt ermitteln.
+2. Siebzig-Prozent- und Neunzig-Prozent-Grenze parallel berechnen.
+3. Einmalzahlungen, Beitragsabzüge und die für den Leistungszeitraum geltende Beitragsbemessungsgrenze mit datierter Quelle einsetzen; keine fest kodierten Jahreswerte fortschreiben.
+4. Tagesbetrag, Ruhenstage, Zahlbetrag und Abweichung zum Kassenbescheid nachvollziehbar tabellieren.
 
-### Schritt 6 – Nahtlosigkeitssicherung
-- Folgebescheinigung durch Arzt zum richtigen Zeitpunkt sicherstellen
-- Wenn Arzt nicht erreichbar: Notfallpraxis, Krankenhaus; schriftlich dokumentieren
-- Nachträgliche Attestierung: kann Lücke nicht heilen (BSG B 3 KR 4/14 R)
+### 4.4 Blockfrist
 
-## Typische Fallen
+1. Beginn des Dreijahreszeitraums mit dem ersten Tag der Arbeitsunfähigkeit wegen derselben Krankheit bestimmen.
+2. Bezugs- und Ruhenszeiten nach Paragraf 48 Absatz 3 SGB V kennzeichnen; eine hinzugetretene Krankheit verlängert die Höchstdauer nicht.
+3. Medizinisch klären, ob es sich um dieselbe Krankheit handelt; Diagnosecodes allein entscheiden die Kausalitätsfrage nicht.
+4. Einen neuen Anspruch nach Beginn eines neuen Dreijahreszeitraums nur bejahen, wenn der Versicherte erneut mit Krankengeldanspruch versichert war und zwischenzeitlich mindestens sechs Monate nicht wegen dieser Krankheit arbeitsunfähig sowie erwerbstätig oder der Arbeitsvermittlung verfügbar war.
 
-- **Tag der ärztlichen Feststellung**: Der Tag selbst begründet noch keinen KG-Anspruch; erst der Folgetag.
-- **Wochenendfalle**: AU läuft bis Freitag; nächste Bescheinigung erst Montag ausgestellt → Samstag/Sonntag Lücke → Anspruch erlischt.
-- **Freiwillig Versicherte ohne KG-Tarif**: Haben gesetzlichen Mindestanspruch ab 7. Woche (§ 44 Abs. 2), davor nur tariflich.
-- **Entgeltumwandlung in der Berechnung**: Betriebsrentenbeiträge vom Brutto abgezogen → Regelentgelt kleiner → KG kleiner (BSG).
+## 5. Beweis- und Gegenargumentmatrix
 
-## Output-Formate
+| Einwand der Krankenkasse | Gegenprüfung | Beweisziel |
+| --- | --- | --- |
+| Feststellung zu spät | nächster Werktag, Samstagsausnahme, Einmonatsregel | rechtzeitiger Termin oder gesetzlicher Anspruchsfortbestand |
+| Daten nicht eingegangen | elektronische Übermittlungspflicht des Vertragsarztes | kein Ruhen wegen fremden Übermittlungsfehlers |
+| dieselbe Krankheit | medizinischer Ursachenzusammenhang statt bloßer Diagnosegleichheit | Beginn und Verbrauch der richtigen Blockfrist |
+| Höchstdauer erreicht | vollständige Bezugs- und Ruhenszeiträume neu rechnen | zutreffendes Aussteuerungsdatum |
+| kein Krankengeldtarif | Status, Wahlerklärung und Satzung auswerten | konkreter Anspruchsbeginn |
 
-- AU-Fristenkalender (Blockfrist-Endberechnung)
-- Krankengeld-Berechnung (Arbeitsblatt)
-- Widerspruch gegen Ablehnung/Einstellung
-- Arzthinweis: Nahtlosigkeitspflicht
-- Klageschrift SG bei erschöpfter Blockfrist und streitiger Kausalität
+## 6. Arbeitsprodukte
 
-## Quellen
+- taggenauer Krankengeld- und Mitgliedschaftszeitstrahl;
+- Berechnungsblatt mit Regelentgelt, Grenzen und Zahlbetrag;
+- Widerspruch gegen Ablehnung, Ruhen oder Aussteuerung;
+- Klageschrift mit Beweisanträgen zur Arbeitsunfähigkeit und Krankheitsidentität;
+- Eilantrag bei existenzbedrohender Leistungseinstellung;
+- kurzes Arztbriefing zur rechtzeitigen Folgefeststellung und Dokumentation.
 
-- [§ 44 SGB V](https://www.gesetze-im-internet.de/sgb_5/__44.html)
-- [§ 46 SGB V](https://www.gesetze-im-internet.de/sgb_5/__46.html)
-- [§ 48 SGB V](https://www.gesetze-im-internet.de/sgb_5/__48.html)
-- [BSG B 3 KR 4/14 R – Nahtlosigkeit](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org § 44 SGB V](https://dejure.org/gesetze/SGB_V/44.html)
-- [GKV-Spitzenverband Krankengeld-Leitfaden](https://www.gkv-spitzenverband.de)
+## 7. Quellenstatus
+
+- [Paragraf 44 SGB V](https://www.gesetze-im-internet.de/sgb_5/__44.html)
+- [Paragraf 46 SGB V](https://www.gesetze-im-internet.de/sgb_5/__46.html)
+- [Paragraf 48 SGB V](https://www.gesetze-im-internet.de/sgb_5/__48.html)
+- [BSG B 3 KR 11/22 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_09_21_B_03_KR_11_22_R.html)
+- [BSG B 3 KR 23/22 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_11_30_B_03_KR_23_22_R.html)
+- [BSG B 3 KR 9/19 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_03_26_B_03_KR_09_19_R.html)

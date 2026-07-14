@@ -48,4 +48,4 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 BGB §§ 2303, 2314, 2325; ZPO Stufenklage. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
 
-- BGH, Beschluss vom 15.01.2025 - IV ZR 166/24: Die Auskunft nach Paragraf 2314 Absatz 1 Satz 1 BGB schuldet der Erbe, nicht der Testamentsvollstrecker. Ob der Erbe die Informationen tatsächlich beschaffen kann, ist eine Frage der Erfüllung und gegebenenfalls der Vollstreckung.
+- BGH, Entscheidung zum einstweiligen Vollstreckungsschutz vom 15.01.2025 - IV ZR 166/24: Der BGH behandelte die Erben als Schuldner der Auskunft nach BGB Paragraf 2314 Absatz 1 Satz 1. Nicht als abschließende Sachentscheidung zu sämtlichen Beschaffungs- oder Unmöglichkeitsfragen zitieren; Unterlagen beim Testamentsvollstrecker als Beschaffungsweg gesondert prüfen.

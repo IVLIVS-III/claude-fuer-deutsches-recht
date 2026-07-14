@@ -223,7 +223,7 @@ Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturie
 
 ## Rechtsprechung zur Aktenaufbereitung und Verwertungsverboten (Stand Mai 2026)
 
-- BVerfG 23.09.2025 — 2 BvR 625/25: Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation; Akten müssen die Auswertungs- und Authentifizierungskette nachvollziehbar machen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BVerfG, Beschluss vom 23. September 2025, 2 BvR 625/25: Die Verfassungsbeschwerde gegen eine auf ANOM-Daten gestützte Verurteilung wurde nicht zur Entscheidung angenommen; nach dem dortigen Vortrag bestanden keine verfassungsrechtlichen Bedenken gegen die Verwertung. Die Entscheidung begründet keine allgemeine Pflicht zu einer bestimmten Auswertungs- oder Authentifizierungsdokumentation. Der Aktenaufbereiter kennzeichnet Herkunft, Übermittlung, Zuordnung und Authentizität deshalb als tatsächliche Prüfspur und trennt vorhandene Belege von offenen Nachforderungen. Amtliche Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html
 - BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Beim Cannabis-Komplex Mengenangaben und Auswertungs-Protokolle in der Akte gezielt auf sanktionsfreie Eigenkonsummengen prüfen; daraus folgen Beweisverwertungs- und Tatverdachtsfragen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Beweisverwertungsverbote nach §§ 136a, 100a–100e, 105 StPO: ständige Maßstabsentscheidungen vor Verwendung in dejure.org / openjur.de live verifizieren.
 

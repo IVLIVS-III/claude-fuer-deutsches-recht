@@ -1,10 +1,49 @@
 name: rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel
-description: Abgelehnte Erwerbsminderungsrente mit Diskrepanz zwischen Reha-Entlassungsbericht und behandelnden Ärzten, gemischter orthopädisch-psychischer Lage, Widerspruch und Klagevorbereitung.
+description: Abgelehnte Erwerbsminderungsrente mit Diskrepanz zwischen Reha-Entlassungsbericht und behandelnden
+  Ärzten, gemischter orthopädisch-psychischer Lage, Widerspruch und Klagevorbereitung.
 checks:
-  - Volle und teilweise Erwerbsminderung anhand des zeitlichen Restleistungsvermögens trennen, nicht anhand der Diagnosen.
-  - Diskrepanz zwischen Reha-Leistungsbild (sechs Stunden unter Idealbedingungen) und den Berichten von Orthopäde und Psychotherapeutin herausarbeiten.
-  - Bedingungen des Reha-Leistungsbilds (jederzeitiger Haltungswechsel, zusätzliche Pausen, keine Taktung) auf ihre Üblichkeit am allgemeinen Arbeitsmarkt hinterfragen.
-  - Wegefähigkeit anhand der dokumentierten Gehstrecken mit Pausen als eigenen Prüfpunkt behandeln.
-  - Medikamentennebenwirkungen (Pregabalin, Sertralin, Zopiclon) in das Leistungsbild einbeziehen.
-  - Fristen sichern (Widerspruch bis 24.07.2026) und Akteneinsicht vor der Begründung abwarten.
-  - Aussteuerung, Nahtlosigkeit und stufenweise Wiedereingliederung als flankierende Themen erkennen, ohne die Rentenprüfung zu ersetzen.
+  - id: fristsache-vorhanden
+    check_type: file_exists
+    description: Die fristensichernde Mandatsnotiz ist vorhanden.
+    path: 01_mandatsnotiz_fristsache.docx
+  - id: leistungsdaten-vorhanden
+    check_type: file_exists
+    description: Die strukturierte Fristen- und Leistungsdatentabelle ist vorhanden.
+    path: 10_fristen_und_leistungsdaten.csv
+  - id: klagevorbereitung-vorhanden
+    check_type: file_exists
+    description: Die gesonderte Klagevorbereitung ist vorhanden.
+    path: 11_klagevorbereitung_sozialgericht.docx
+  - id: restleistungsvermoegen
+    check_type: human_review
+    description: Volle und teilweise Erwerbsminderung werden anhand des zeitlichen Restleistungsvermögens und nicht
+      allein anhand der Diagnosen getrennt.
+    note: Reha-Bericht, behandelnde Befunde und konkrete Leistungseinschränkungen gegeneinander prüfen.
+  - id: reha-diskrepanz
+    check_type: human_review
+    description: Die Diskrepanz zwischen dem Reha-Leistungsbild und den Berichten des Orthopäden und der Psychotherapeutin
+      wird herausgearbeitet.
+    note: Die Aussage von sechs Stunden unter Idealbedingungen darf nicht isoliert übernommen werden.
+  - id: arbeitsmarktbedingungen
+    check_type: human_review
+    description: Haltungswechsel, zusätzliche Pausen und fehlende Taktung werden auf ihre Üblichkeit am allgemeinen
+      Arbeitsmarkt geprüft.
+    note: Qualitative und quantitative Leistungseinschränkungen getrennt würdigen.
+  - id: wegefaehigkeit
+    check_type: human_review
+    description: Die Wegefähigkeit wird anhand der dokumentierten Gehstrecken und Pausen als eigener Prüfungspunkt
+      behandelt.
+    note: Tatsächliche Strecke, Zeit, Pausenbedarf und Hilfsmittel vollständig einbeziehen.
+  - id: medikamentennebenwirkungen
+    check_type: human_review
+    description: Die Nebenwirkungen von Pregabalin, Sertralin und Zopiclon fließen in das Leistungsbild ein.
+    note: Konzentration, Reaktionsvermögen, Tagesmüdigkeit und Fahrtüchtigkeit aktenbezogen prüfen.
+  - id: widerspruchsfrist
+    check_type: human_review
+    description: Die Widerspruchsfrist bis 24.07.2026 wird gesichert und die Begründung nach Akteneinsicht vorbereitet.
+    note: Fristsicherung und spätere medizinische Begründung als getrennte Arbeitsschritte behandeln.
+  - id: flankierende-leistungen
+    check_type: human_review
+    description: Aussteuerung, Nahtlosigkeit und stufenweise Wiedereingliederung werden als flankierende Themen
+      erkannt.
+    note: Diese Themen dürfen die eigenständige Rentenprüfung nicht ersetzen.

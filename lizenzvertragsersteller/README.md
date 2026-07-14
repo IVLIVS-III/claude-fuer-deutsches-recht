@@ -5,7 +5,7 @@
 
 Baukastensystem für IP-Lizenzverträge deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschäftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual.
 
-Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Direktnavigation: [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/lizenzvertragsersteller.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -20,7 +20,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/lizenzvertragsersteller/lizenzvertragsersteller-schnellstart.md" download><code>lizenzvertragsersteller-schnellstart.md</code></a> |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -29,9 +29,9 @@ Baukastensystem für IP-Lizenzverträge nach deutschem und internationalem Recht
 ## Was deckt das Plugin ab?
 
 ### IP-Typen
-- **Urheberrecht und Software** (UrhG; $$ 31, 32, 32a, 69a-g)
+- **Urheberrecht und Software** (UrhG; Paragrafen 31, 32, 32a, 69a-g)
 - **Patente** (PatG; TT-GVO-Konformität)
-- **Marken** (MarkenG $ 30; DPMA/EUIPO; Qualitätskontrolle)
+- **Marken** (MarkenG Paragraf 30; DPMA/EUIPO; Qualitätskontrolle)
 - **Geschmacksmuster / Design** (DesignG; EU-VO 6/2002)
 - **Gebrauchsmuster** (GebrMG; Schnellschuss-Strategie neben Patent)
 - **Geschäftsgeheimnisse / Know-how** (GeschGehG; Reverse-Engineering-Verbot)
@@ -56,7 +56,7 @@ Baukastensystem für IP-Lizenzverträge nach deutschem und internationalem Recht
 - Vertragsdauer + Kündigung + Folgen
 - Vertraulichkeit + NDA-Interimsphase
 - Source-Code-Escrow
-- Insolvenzfestigkeit ($ 103 InsO)
+- Insolvenzfestigkeit (Paragraf 103 InsO)
 - Sicherungslizenz / Pfandrecht an Immaterialgütern
 
 ### Compliance-Schichten
@@ -138,7 +138,7 @@ Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Jeder Sk
 | [`einstieg-routing`](skills/einstieg-routing/SKILL.md) | Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | [`escrow-quellcode-verwahrer-vereinbarung`](skills/escrow-quellcode-verwahrer-vereinbarung/SKILL.md) | Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |
 | [`exportkontrolle-dual-use-eu-2021-821`](skills/exportkontrolle-dual-use-eu-2021-821/SKILL.md) | Wenn es um Exportkontrolle — Dual-Use und Lizenz in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
-| [`insolvenz-fortbestand-paragraf-103-inso-lizenz`](skills/insolvenz-fortbestand-paragraf-103-inso-lizenz/SKILL.md) | Wenn es um Insolvenz-Fortbestand der Lizenz ($ 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
+| [`insolvenz-fortbestand-paragraf-103-inso-lizenz`](skills/insolvenz-fortbestand-paragraf-103-inso-lizenz/SKILL.md) | Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risi... |
 | [`ip-identifikation-und-bestandsaufnahme`](skills/ip-identifikation-und-bestandsaufnahme/SKILL.md) | Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | [`kartellrecht-tt-gvo-eu-316-2014`](skills/kartellrecht-tt-gvo-eu-316-2014/SKILL.md) | Wenn es um Kartellrecht — TT-GVO (EU) 316/2014 in Lizenzvertragsersteller geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. |
 | [`klausel-exklusivitaet-sole-non-exclusive`](skills/klausel-exklusivitaet-sole-non-exclusive/SKILL.md) | Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Ri... |
@@ -157,7 +157,7 @@ Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Jeder Sk
 | [`lizenz-geschmacksmuster-design-designg`](skills/lizenz-geschmacksmuster-design-designg/SKILL.md) | Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweis... |
 | [`lizenz-marke-markeng`](skills/lizenz-marke-markeng/SKILL.md) | Wenn es um Lizenz Marke (MarkenG) in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 | [`lizenz-patent-patg`](skills/lizenz-patent-patg/SKILL.md) | Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
-| [`lizenz-urheberrecht-und-software-urhg`](skills/lizenz-urheberrecht-und-software-urhg/SKILL.md) | Wenn es um Lizenz Urheberrecht / Software ($$ 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`lizenz-urheberrecht-und-software-urhg`](skills/lizenz-urheberrecht-und-software-urhg/SKILL.md) | Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`mandat-intake-und-konfliktpruefung`](skills/mandat-intake-und-konfliktpruefung/SKILL.md) | Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`output-vertrag-deutsch-fertigentwurf`](skills/output-vertrag-deutsch-fertigentwurf/SKILL.md) | Wenn es um Output: Lizenzvertrag in deutscher Sprache in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`output-vertrag-englisch-fertigentwurf`](skills/output-vertrag-englisch-fertigentwurf/SKILL.md) | Wenn es um Output: Licence Agreement in English in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

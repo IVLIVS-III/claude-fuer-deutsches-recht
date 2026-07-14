@@ -63,7 +63,7 @@ Das Adhäsionsverfahren verbindet Strafprozess und Zivilrecht. Es spart der verl
 | Aktenzeichen | Gericht / Datum | Tragende Aussage | Offene Fundstelle |
 |---|---|---|---|
 | 3 StR 340/24 | BGH (3. Strafsenat), Beschluss 09.01.2025 | Adhäsionsentscheidung im Strafverfahren — Begründungsanforderungen an Schmerzensgeldzumessung; Strafgericht muss die maßgeblichen Zumessungsgesichtspunkte (Verletzungsbild, Dauer, Folgen) erkennbar machen | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.01.2025&Aktenzeichen=3+StR+340/24 |
-| 4 StR 232/25 | BGH (4. Strafsenat), Beschluss 20.11.2025 | Zusammenspiel TOA / Schadenswiedergutmachung (§ 46a StGB) und Adhäsionsforderung — Strafmilderung setzt kommunikativen Aussöhnungsprozess voraus, nicht nur Zahlung | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25 |
+| 4 StR 232/25 | BGH (4. Strafsenat), Urteil 20.11.2025 | Zusammenspiel TOA / Schadenswiedergutmachung (§ 46a StGB) und Adhäsionsforderung — Strafmilderung setzt kommunikativen Aussöhnungsprozess voraus, nicht nur Zahlung | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25 |
 
 Weitere Entscheidungen vor Verwendung live in dejure.org/openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

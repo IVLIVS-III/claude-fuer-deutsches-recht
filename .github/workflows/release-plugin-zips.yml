@@ -46,6 +46,9 @@ jobs:
       - name: Keine Markdown-Aktenstücke in Testakten validieren
         run: python3 scripts/validate-testakten-keine-markdown-aktenstuecke.py
 
+      - name: CSV-Aktenstücke validieren
+        run: python3 scripts/validate-testakten-csv.py
+
       - name: Downloadhinweise der Testakten validieren
         run: |
           python3 scripts/inject-gesamt-pdf-section.py
@@ -75,6 +78,7 @@ jobs:
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/test-legal-calculators.py
           python3 scripts/test-bea-versandmappe.py
+          python3 scripts/test-schriftsatz-versandwerkstatt.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
         run: python3 scripts/generate-skills-md.py

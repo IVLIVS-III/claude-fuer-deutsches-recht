@@ -57,7 +57,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 1835 BGB — Aufwendungsersatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1838 BGB — Vermögenssorge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
-- BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Das Selbstbestimmungsrecht prägt die Betreuerauswahl; auch ein aus Außensicht unvernünftiger Wunsch darf nicht allein deshalb übergangen werden.
+- BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Bei der Betreuerauswahl ist der besondere Schutz enger Familienbindungen zu berücksichtigen; fehlende Eignung eines Angehörigen muss für den konkreten Aufgabenkreis tragfähig festgestellt und gegen unterstützende Hilfen oder eine Mitbetreuung abgewogen werden.
 
 ## 7. Antwortform
 

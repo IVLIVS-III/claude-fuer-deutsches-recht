@@ -1,9 +1,34 @@
 name: sozialrecht-enzymsubstitution-seltene-erkrankung-jena
-description: Krankenversicherungsakte zur Enzymsubstitution bei seltener Erkrankung mit Off-Label-Nähe, Minderjähriger, drohenden irreversiblen Schäden und Eilrechtsschutz.
+description: Krankenversicherungsakte zur Enzymsubstitution bei seltener Erkrankung mit Off-Label-Nähe, Minderjähriger,
+  drohenden irreversiblen Schäden und Eilrechtsschutz.
 checks:
-  - Off-Label-Nähe präzise von zugelassener Standardversorgung trennen.
-  - Befristeten Therapieversuch mit objektiven Verlaufsparametern und Abbruchkriterien herausarbeiten.
-  - Minderjährigenschutz, Schule und Teilhabe konkret mit den Belegen aus Schulstellungnahme, E-Mail der Oberstufenleitung und Pflegeberatung belegen.
-  - MD-Aktenlage gegen die fachklinische Stellungnahme abwägen; die fehlende kinder- und stoffwechselmedizinische Befassung des internistischen Gutachters benennen.
-  - Eilbedürftigkeit nicht abstrakt, sondern am drohenden Funktionsverlust und am Therapiefenster August 2026 darstellen.
-  - Die abweichenden Kostenangaben (Jahreskosten im Klinikantrag gegenüber Monatskosten im Dosisplan) erkennen und offenlegen, statt sie stillschweigend zu übernehmen.
+  - id: datei-01-familienkontakt-und-eilsache
+    check_type: file_exists
+    description: Das Primäraktenstück 01_familienkontakt_und_eilsache.docx ist für die Fallauswertung vorhanden.
+    path: 01_familienkontakt_und_eilsache.docx
+  - id: datei-02-kinderklinik-antrag
+    check_type: file_exists
+    description: Das Primäraktenstück 02_kinderklinik_antrag.docx ist für die Fallauswertung vorhanden.
+    path: 02_kinderklinik_antrag.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Off-Label-Nähe präzise von zugelassener Standardversorgung trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Befristeten Therapieversuch mit objektiven Verlaufsparametern und Abbruchkriterien herausarbeiten.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Minderjährigenschutz, Schule und Teilhabe konkret mit den Belegen aus Schulstellungnahme, E-Mail
+      der Oberstufenleitung und Pflegeberatung belegen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: MD-Aktenlage gegen die fachklinische Stellungnahme abwägen; die fehlende kinder- und stoffwechselmedizinische
+      Befassung des internistischen Gutachters benennen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Eilbedürftigkeit nicht abstrakt, sondern am drohenden Funktionsverlust und am Therapiefenster August
+      2026 darstellen.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Die abweichenden Kostenangaben (Jahreskosten im Klinikantrag gegenüber Monatskosten im Dosisplan)
+      erkennen und offenlegen, statt sie stillschweigend zu übernehmen.

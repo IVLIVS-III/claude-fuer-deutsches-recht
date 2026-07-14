@@ -31,7 +31,7 @@ Diese Quellenkarte sichert für **Fachanwalt Erbrecht** jede tragende Aussage ab
 ## Fristen mit Quellenrelevanz
 
 - Ausschlagung 6 Wochen § 1944 BGB
-- Pflichtteil 3 Jahre § 2332
+- Pflichtteil gegen den Erben: drei Jahre nach BGB Paragrafen 195 und 199 Absatz 1; Anspruch gegen den Beschenkten: besonderer Verjährungsbeginn mit dem Erbfall nach BGB Paragraf 2332 Absatz 1
 - ErbSt-Anzeige 3 Monate
 
 ## Prüfroute

@@ -1,9 +1,34 @@
 name: sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster
-description: Schwerbehindertenverfahren mit GdB-Erhöhungsantrag, streitigem Merkzeichen G, versorgungsärztlicher Stellungnahme nach Aktenlage und nachgereichten Facharztbefunden.
+description: Schwerbehindertenverfahren mit GdB-Erhöhungsantrag, streitigem Merkzeichen G, versorgungsärztlicher
+  Stellungnahme nach Aktenlage und nachgereichten Facharztbefunden.
 checks:
-  - Widerspruchsfrist korrekt berechnen; das rechnerische Fristende 25.07.2026 fällt auf einen Samstag.
-  - Gesamt-GdB-Bildung nach den Versorgungsmedizinischen Grundsätzen erklären und nicht als Addition der Einzel-GdB behandeln.
-  - Die versorgungsärztliche Stellungnahme an ihrer veralteten und unvollständigen Befundgrundlage messen (fehlende Lungenfunktion, fehlende Elektroneurographie).
-  - Merkzeichen G an der tatsächlichen Gehfähigkeit prüfen (Sechs-Minuten-Gehtest, Alltagsprotokoll, Sturz), nicht an Diagnosen.
-  - Die wechselseitige Verstärkung von Polyneuropathie, COPD und Gonarthrose beim Gehen herausarbeiten.
-  - Die Schnittstelle zur Altersrente für schwerbehinderte Menschen erkennen und die Verfahrensdauer daran ausrichten.
+  - id: datei-01-mandatsnotiz-fristsache
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_fristsache.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_fristsache.docx
+  - id: datei-02-bescheid-gdb-ablehnung
+    check_type: file_exists
+    description: Das Primäraktenstück 02_bescheid_gdb_ablehnung.docx ist für die Fallauswertung vorhanden.
+    path: 02_bescheid_gdb_ablehnung.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Widerspruchsfrist korrekt berechnen; das rechnerische Fristende 25.07.2026 fällt auf einen Samstag.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Gesamt-GdB-Bildung nach den Versorgungsmedizinischen Grundsätzen erklären und nicht als Addition
+      der Einzel-GdB behandeln.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Die versorgungsärztliche Stellungnahme an ihrer veralteten und unvollständigen Befundgrundlage
+      messen (fehlende Lungenfunktion, fehlende Elektroneurographie).
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Merkzeichen G an der tatsächlichen Gehfähigkeit prüfen (Sechs-Minuten-Gehtest, Alltagsprotokoll,
+      Sturz), nicht an Diagnosen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Die wechselseitige Verstärkung von Polyneuropathie, COPD und Gonarthrose beim Gehen herausarbeiten.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Die Schnittstelle zur Altersrente für schwerbehinderte Menschen erkennen und die Verfahrensdauer
+      daran ausrichten.

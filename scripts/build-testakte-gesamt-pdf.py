@@ -35,6 +35,7 @@ from reportlab.platypus import (
     Table,
     TableStyle,
     HRFlowable,
+    KeepTogether,
 )
 from reportlab.lib.utils import ImageReader
 from reportlab.lib.enums import TA_LEFT
@@ -300,16 +301,19 @@ def eml_to_flowables(path: Path) -> list:
 def csv_to_flowables(path: Path) -> list:
     out = []
     try:
-        with open(path, encoding="utf-8") as f:
-            reader = csv.reader(f)
-            rows = list(reader)
+        text = path.read_text(encoding="utf-8")
     except UnicodeDecodeError:
-        with open(path, encoding="latin-1") as f:
-            reader = csv.reader(f)
-            rows = list(reader)
+        text = path.read_text(encoding="latin-1")
     except Exception as e:
         out.append(Paragraph(f"<i>CSV konnte nicht gelesen werden: {escape(str(e))}</i>", s_meta))
         return out
+
+    try:
+        dialect = csv.Sniffer().sniff(text[:8192], delimiters=",;\t|")
+        rows = list(csv.reader(io.StringIO(text), dialect))
+    except csv.Error:
+        delimiter = ";" if text.count(";") > text.count(",") else ","
+        rows = list(csv.reader(io.StringIO(text), delimiter=delimiter))
 
     if not rows:
         return out
@@ -408,26 +412,31 @@ def _render_table(rows: list, header: bool = False) -> list:
     # Bei sehr breiten Tabellen (>12 Spalten) faellt es sequentiell zurueck,
     # weil die Spaltenbreite sonst kleiner ist als die kleinste Wortbreite
     # und ReportLab Cell-Overflow-Fehler wirft.
-    if max_cell_len > _MAX_CELL_CHARS or max_cols_in_table > 12:
+    record_layout = max_cols_in_table > 5 and max_cell_len > 40
+    if max_cell_len > _MAX_CELL_CHARS or max_cols_in_table > 12 or record_layout:
         out = []
         header_row = rows[0] if header else None
         body_rows = rows[1:] if header else rows
         for ri, r in enumerate(body_rows):
+            record = []
             if header_row:
                 # Reihen-Trennlinie + Spaltenkopf pro Zelle
                 for ci, cell in enumerate(r):
+                    if not cell.strip():
+                        continue
                     label = header_row[ci] if ci < len(header_row) else f"Spalte {ci+1}"
                     if label.strip():
-                        out.append(Paragraph(f"<b>{escape(label)}</b>", s_meta))
+                        record.append(Paragraph(f"<b>{escape(label)}</b>", s_meta))
                     for chunk in _split_long_text(cell):
-                        out.append(Paragraph(escape(chunk), s_body))
+                        record.append(Paragraph(escape(chunk), s_body))
             else:
                 for ci, cell in enumerate(r):
                     for chunk in _split_long_text(cell):
-                        out.append(Paragraph(escape(chunk), s_body))
-            out.append(Spacer(1, 4))
-            out.append(HRFlowable(width="100%", thickness=0.2, color=BORDER))
-            out.append(Spacer(1, 4))
+                        record.append(Paragraph(escape(chunk), s_body))
+            record.append(Spacer(1, 4))
+            record.append(HRFlowable(width="100%", thickness=0.2, color=BORDER))
+            record.append(Spacer(1, 4))
+            out.append(KeepTogether(record))
         return out
 
     max_cols = max(len(r) for r in rows)

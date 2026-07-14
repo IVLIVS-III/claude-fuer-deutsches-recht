@@ -9,8 +9,8 @@ Diese Vollprüfung enthält top-15 von 32 Skills des Plugins `lizenzvertragserst
 1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlag…
 2. **mandat-intake-und-konfliktpruefung** — Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechts…
 3. **klausel-exklusivitaet-sole-non-exclusive** — Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, N…
-4. **klausel-haftung-gewaehrleistung-indemnification** — Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, …
-5. **insolvenz-fortbestand-paragraf-103-inso-lizenz** — Wenn es um Insolvenz-Fortbestand der Lizenz ($ 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Bewe…
+4. **insolvenz-fortbestand-paragraf-103-inso-lizenz** — Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Nor…
+5. **klausel-haftung-gewaehrleistung-indemnification** — Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, …
 6. **escrow-quellcode-verwahrer-vereinbarung** — Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
 7. **klausel-mindestlizenzen-meldungen-audit** — Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
 8. **klausel-unterlizenzen-sublicensing** — Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, …
@@ -20,7 +20,7 @@ Diese Vollprüfung enthält top-15 von 32 Skills des Plugins `lizenzvertragserst
 12. **lizenz-patent-patg** — Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente un…
 13. **ip-identifikation-und-bestandsaufnahme** — Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast,…
 14. **klausel-lizenzgegenstand-und-anlage-ip-liste** — Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-15. **kartellrecht-tt-gvo-eu-316-2014** — Wenn es um Kartellrecht — TT-GVO (EU) 316/2014 in Lizenzvertragsersteller geht: rechnet Schwellen, Beträge, Varianten un…
+15. **lizenz-urheberrecht-und-software-urhg** — Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Z…
 
 ---
 
@@ -108,7 +108,7 @@ _Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht:
 
 | Punkt | Prüfung | Belege |
 | --- | --- | --- |
-| Konfliktcheck | Vertretung Gegenseite, Vorbefassung Konzern, Vertretung Wettbewerber im selben Technologiefeld | Kanzleidatenbank, $ 43a BRAO, $ 3 BORA |
+| Konfliktcheck | Vertretung Gegenseite, Vorbefassung Konzern, Vertretung Wettbewerber im selben Technologiefeld | Kanzleidatenbank, Paragraf 43a BRAO, Paragraf 3 BORA |
 | Mandantenbasisdaten | Firma/Anschrift, HRB, gesetzliche Vertreter, UBO | HR-Auszug, Beneficial-Ownership-Register |
 | Mandatsumfang | Vertragsentwurf (Lizenzgeber/-nehmer/Cross), Prüfung Vertrag der Gegenseite, Begleitung Verhandlung, Insolvenzberatung | Mandatsmail |
 | Zielsetzung | Was soll erreicht werden? Geld, Marktzugang, Insolvenzschutz, Cross-License-Patentaustausch | Klärung im Erstgespraech |
@@ -156,7 +156,7 @@ _Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzve
 
 ## Klausel-Baustein
 
-> **$ 4 Exklusivitaet.**
+> **Paragraf 4 Exklusivitaet.**
 >
 > Option A — Ausschliessliche Lizenz:
 > Der Lizenzgeber raeumt dem Lizenznehmer eine **ausschliessliche Lizenz** ein. Der Lizenzgeber verzichtet auf eigene Nutzung des Lizenzgegenstands im Lizenzgebiet waehrend der Vertragslaufzeit; er wird auch keinen Dritten zur Nutzung berechtigen.
@@ -184,6 +184,73 @@ _Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzve
 
 ---
 
+## Skill: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
+
+_Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO)
+
+## Problem
+
+Wird der **Lizenzgeber insolvent**, hat der Insolvenzverwalter nach Paragraf 103 InsO das **Wahlrecht**:
+- Erfuellung verlangen (Lizenz besteht fort) oder
+- Erfuellung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung).
+
+Praxis: Verwalter waehlen typischerweise Erfuellungsverweigerung, wenn das IP an einen anderen Investor verkauft werden soll - mit hoeherem Erlos.
+
+## BGH-Linie (h. M.)
+
+| Entscheidung | Tragende Aussage |
+|---|---|
+| BGH, Urteil vom 17.11.2005 - IX ZR 162/04 | Lizenzverträge können als Dauernutzungsverträge dem Wahlrecht nach Paragraf 103 InsO unterliegen, wenn bei Verfahrenseröffnung beiderseits Hauptleistungspflichten offen sind |
+| BGH, Urteil vom 21.10.2015 - I ZR 173/14 (Ecosoil) | Ein Lizenzkauf ist regelmäßig beiderseits vollständig erfüllt, sobald die Lizenz eingeräumt und der Kaufpreis gezahlt ist; dann greift Paragraf 103 InsO nicht allein wegen fortdauernder Nutzung |
+| BGH IX ZR 220/09 (2012) | Bei dinglich uebertragener Lizenz kein Wahlrecht (keine gegenseitige Pflicht mehr offen) |
+
+→ Wer dinglich uebertragene Lizenz mit Voraussetzungen für Bestaendigkeit gestaltet, schuetzt den Lizenznehmer.
+
+## Gestaltungsmoeglichkeiten
+
+### A. Sicherungslizenz (bedingt aufschiebend)
+
+Lizenz wird nur aufschiebend bedingt durch eine Bedingung gewaehrt, die jedenfalls eintritt (z. B. Zahlung des Lizenzgebers an einen Sicherheitsempfaenger). Verwalter findet im Insolvenzfall keine gegenseitig offene Pflicht mehr - Paragraf 103 InsO greift nicht.
+
+### B. Vollabgeschlossene Lizenz mit Royalty-Vorauszahlung
+
+Wenn der Lizenznehmer alle Lizenzgebuehren upfront zahlt: keine offenen gegenseitigen Pflichten mehr - Paragraf 103 InsO greift nicht.
+
+### C. Escrow als Realisierungsweg
+
+Insolvenz-Trigger fuehrt zur Source-Code-Herausgabe (siehe `escrow-quellcode-verwahrer-vereinbarung`). Praktisch loest das Wartung, nicht die Lizenz selbst.
+
+### D. Kollektivvereinbarung mit Sicherheitennehmer (Bank)
+
+Bank gibt Lizenz als Sicherheit; im Insolvenzfall verwertet die Bank die Sicherheit (nicht der Verwalter) - Paragraf 103 InsO entfaellt.
+
+## Klausel-Baustein
+
+> **Paragraf 16 Insolvenzfestigkeit.**
+>
+> (1) Die Parteien sind sich einig, dass die in diesem Vertrag eingeraeumten Nutzungsrechte als dinglich uebertragen gelten, soweit dies nach deutschem Recht zulässig ist.
+>
+> (2) Sollte ein Insolvenzverfahren über das Vermögen des Lizenzgebers eroeffnet werden, gilt die Hinterlegung beim Escrow-Agent gemäß Paragraf 14 als Sicherungsmittel im Sinne der Paragrafen 50, 51 InsO. Der Lizenznehmer ist berechtigt, die hinterlegten Materialien zu nutzen, soweit zur Wartung und Fortfuehrung des Lizenzbetriebs erforderlich, ohne dass dies einer Erfuellungswahl nach Paragraf 103 InsO bedarf.
+>
+> (3) Bereits gezahlte Lizenzgebuehren für den vereinbarten Lizenzzeitraum stehen dem Lizenznehmer als bedingt erworbene Nutzungsrechte zu und unterliegen nicht dem Wahlrecht des Insolvenzverwalters.
+>
+> (4) Sofern Absatz 1 bis 3 rechtlich nicht durchgreifen, vereinbaren die Parteien eine Sicherungsabtretung des Lizenzgegenstands an [Sicherheitennehmer] gemäß separater Sicherungsabrede.
+
+## Hinweise
+
+- Paragraf 103 InsO ist h. M. zwingendes Recht; vertragliche Abdingung dabei begrenzt.
+- Die hier vorgeschlagene Klausel ist eine Best-Effort-Konstruktion; im konkreten Fall ist die Wirksamkeit gegen den Verwalter immer streitig.
+- Praxis: Escrow + Sicherungslizenz + dingliche Voll-Uebertragung kombinieren.
+
+## Anschluss
+
+- Escrow: `escrow-quellcode-verwahrer-vereinbarung`
+- Sicherheiten: `sicherungslizenz-pfandrecht-an-immaterialguetern`
+
+---
+
 ## Skill: `klausel-haftung-gewaehrleistung-indemnification`
 
 _Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
@@ -200,7 +267,7 @@ Lizenzgeber garantiert, dass:
 3. Keine Drittrechte entgegen stehen
 4. Keine schwebenden Klagen / Aufhebungsverfahren
 
-> "$ 8 Garantien des Lizenzgebers.
+> "Paragraf 8 Garantien des Lizenzgebers.
 > (1) Der Lizenzgeber garantiert, dass er alleiniger Inhaber des Lizenzgegenstands ist (mit Ausnahme der in **Anlage A** gekennzeichneten Mitinhaberschaften).
 > (2) Der Lizenzgegenstand ist frei von Rechten Dritter, soweit dem Lizenzgeber nach pflichtgemaesser Prüfung bekannt.
 > (3) Keine Drittrechts-Klage oder Loeschungsverfahren ist anhaengig."
@@ -215,7 +282,7 @@ Was passiert, wenn ein Dritter die Nutzung des Lizenzgegenstands durch den Lizen
 
 Bei B2B-Vertraegen ueblich:
 
-> "$ 9 Haftungsbeschraenkungen.
+> "Paragraf 9 Haftungsbeschraenkungen.
 > (1) Die Haftung des Lizenzgebers für einfache Fahrlaessigkeit ist je Vertragsjahr auf einen Betrag in Höhe der im jeweiligen Vertragsjahr gezahlten Lizenzgebuehren begrenzt; insgesamt jedoch nicht weniger als [Betrag] EUR.
 > (2) Mittelbare Schaeden, Folgeschaeden, entgangener Gewinn und reine Vermögensschaeden sind ausgeschlossen.
 > (3) Diese Beschraenkungen gelten nicht bei Vorsatz, grober Fahrlaessigkeit, der Verletzung von Leben, Koerper oder Gesundheit sowie bei Verletzung wesentlicher Vertragspflichten ("Kardinalpflichten")."
@@ -236,72 +303,6 @@ Bei Patentlizenzen kommt hinzu: Was bei Patent-Nichtigerklaerung?
 
 - Vertragsdauer: `klausel-vertragsdauer-kuendigung-rueckwirkung`
 - Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
-
----
-
-## Skill: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
-
-_Wenn es um Insolvenz-Fortbestand der Lizenz ($ 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Insolvenz-Fortbestand der Lizenz ($ 103 InsO)
-
-## Problem
-
-Wird der **Lizenzgeber insolvent**, hat der Insolvenzverwalter nach $ 103 InsO das **Wahlrecht**:
-- Erfuellung verlangen (Lizenz besteht fort) oder
-- Erfuellung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung).
-
-Praxis: Verwalter waehlen typischerweise Erfuellungsverweigerung, wenn das IP an einen anderen Investor verkauft werden soll - mit hoeherem Erlos.
-
-## BGH-Linie (h. M.)
-
-| Entscheidung | Tragende Aussage |
-|---|---|
-| BGH IX ZR 161/05 (2007) | Wahlrecht $ 103 InsO gilt auch für Lizenzvertraege, nicht nur Kaufvertraege - live verifizieren |
-| BGH IX ZR 220/09 (2012) | Bei dinglich uebertragener Lizenz kein Wahlrecht (keine gegenseitige Pflicht mehr offen) |
-
-→ Wer dinglich uebertragene Lizenz mit Voraussetzungen für Bestaendigkeit gestaltet, schuetzt den Lizenznehmer.
-
-## Gestaltungsmoeglichkeiten
-
-### A. Sicherungslizenz (bedingt aufschiebend)
-
-Lizenz wird nur aufschiebend bedingt durch eine Bedingung gewaehrt, die jedenfalls eintritt (z. B. Zahlung des Lizenzgebers an einen Sicherheitsempfaenger). Verwalter findet im Insolvenzfall keine gegenseitig offene Pflicht mehr - $ 103 InsO greift nicht.
-
-### B. Vollabgeschlossene Lizenz mit Royalty-Vorauszahlung
-
-Wenn der Lizenznehmer alle Lizenzgebuehren upfront zahlt: keine offenen gegenseitigen Pflichten mehr - $ 103 InsO greift nicht.
-
-### C. Escrow als Realisierungsweg
-
-Insolvenz-Trigger fuehrt zur Source-Code-Herausgabe (siehe `escrow-quellcode-verwahrer-vereinbarung`). Praktisch loest das Wartung, nicht die Lizenz selbst.
-
-### D. Kollektivvereinbarung mit Sicherheitennehmer (Bank)
-
-Bank gibt Lizenz als Sicherheit; im Insolvenzfall verwertet die Bank die Sicherheit (nicht der Verwalter) - $ 103 InsO entfaellt.
-
-## Klausel-Baustein
-
-> **$ 16 Insolvenzfestigkeit.**
->
-> (1) Die Parteien sind sich einig, dass die in diesem Vertrag eingeraeumten Nutzungsrechte als dinglich uebertragen gelten, soweit dies nach deutschem Recht zulässig ist.
->
-> (2) Sollte ein Insolvenzverfahren über das Vermögen des Lizenzgebers eroeffnet werden, gilt die Hinterlegung beim Escrow-Agent gemäß $ 14 als Sicherungsmittel im Sinne der $$ 50, 51 InsO. Der Lizenznehmer ist berechtigt, die hinterlegten Materialien zu nutzen, soweit zur Wartung und Fortfuehrung des Lizenzbetriebs erforderlich, ohne dass dies einer Erfuellungswahl nach $ 103 InsO bedarf.
->
-> (3) Bereits gezahlte Lizenzgebuehren für den vereinbarten Lizenzzeitraum stehen dem Lizenznehmer als bedingt erworbene Nutzungsrechte zu und unterliegen nicht dem Wahlrecht des Insolvenzverwalters.
->
-> (4) Sofern Absatz 1 bis 3 rechtlich nicht durchgreifen, vereinbaren die Parteien eine Sicherungsabtretung des Lizenzgegenstands an [Sicherheitennehmer] gemäß separater Sicherungsabrede.
-
-## Hinweise
-
-- $ 103 InsO ist h. M. zwingendes Recht; vertragliche Abdingung dabei begrenzt.
-- Die hier vorgeschlagene Klausel ist eine Best-Effort-Konstruktion; im konkreten Fall ist die Wirksamkeit gegen den Verwalter immer streitig.
-- Praxis: Escrow + Sicherungslizenz + dingliche Voll-Uebertragung kombinieren.
-
-## Anschluss
-
-- Escrow: `escrow-quellcode-verwahrer-vereinbarung`
-- Sicherheiten: `sicherungslizenz-pfandrecht-an-immaterialguetern`
 
 ---
 
@@ -365,7 +366,7 @@ Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall
 
 ## Insolvenzfeste Gestaltung
 
-Damit der Verwalter den Escrow nicht "abwaehlen" kann ($ 103 InsO):
+Damit der Verwalter den Escrow nicht "abwaehlen" kann (Paragraf 103 InsO):
 
 1. Source Code befindet sich **rechtlich beim Lizenznehmer** mit aufschiebender Bedingung
 2. Hinterlegung beim Escrow-Agent dient nur der Realisierung
@@ -375,7 +376,7 @@ Siehe vertiefend: `insolvenz-fortbestand-paragraf-103-inso-lizenz`.
 
 ## Klausel-Baustein
 
-> **$ 14 Source-Code-Escrow.**
+> **Paragraf 14 Source-Code-Escrow.**
 >
 > (1) Der Lizenzgeber wird den vollstaendigen Source Code zur Lizenzsoftware nebst Build-Anweisungen, Dependencies-Liste, Architektur-Dokumentation und Test-Suite bei einem Escrow-Agent ("Verwahrer") hinterlegen. Verwahrer wird einvernehmlich von den Parteien innerhalb von 30 Tagen nach Vertragsunterzeichnung bestimmt.
 >
@@ -427,13 +428,13 @@ Quartalsweise Bericht; jaehrlicher Compliance-Bericht.
 | Stufe | Bei Verzug … | Maßnahme |
 |---|---|---|
 | 1 | Erstmalig + < 14 Tage | Mahnung schriftlich |
-| 2 | 14 - 60 Tage | Mahnung + Verzugszinsen $ 288 II BGB |
+| 2 | 14 - 60 Tage | Mahnung + Verzugszinsen Paragraf 288 II BGB |
 | 3 | > 60 Tage | Recht zur ausserordentlichen Kuendigung; Suspendierung der Lizenz |
 | 4 | wiederholt | Audit + Schadensersatz; Auskunftsanspruch über bisher nicht gemeldete Umsaetze |
 
 ## Verzugs- und Strafkonditionen
 
-> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz nach $ 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
+> "Zahlt der Lizenznehmer eine Lizenzgebuehr nicht oder verspaetet, schuldet er Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz nach Paragraf 247 BGB. Daneben kann der Lizenzgeber bei einem Verzug von mehr als 60 Tagen die Lizenz ausserordentlich kuendigen und Schadensersatz verlangen."
 
 ## Anschluss
 
@@ -450,9 +451,9 @@ _Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geh
 
 ## Normenanker
 
-- $ 35 UrhG - Einraeumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel)
-- $ 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht
-- $ 15 PatG analog - Patentlizenz mit Sublizenzrecht zulässig
+- Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel)
+- Paragraf 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht
+- Paragraf 15 PatG analog - Patentlizenz mit Sublizenzrecht zulässig
 - TT-GVO Art. 1 Abs. 1 Nr. 2 - Sublizenzen unter TT-GVO
 
 ## Strukturoptionen
@@ -461,17 +462,17 @@ _Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geh
 |---|---|
 | **Kein Sublizenzrecht** | Lizenznehmer darf nicht weiter lizenzieren |
 | **Sublizenz nur mit Zustimmung** | jede Sublizenz einzeln genehmigungspflichtig |
-| **Konzern-Sublizenz frei** | innerhalb $ 15 AktG-Konzern ohne Zustimmung |
+| **Konzern-Sublizenz frei** | innerhalb Paragraf 15 AktG-Konzern ohne Zustimmung |
 | **Volle Sublizenz** | beliebig; nur Anzeigepflicht |
 | **Sublizenz an benannte Dritte** | Anlage mit erlaubten Sub-Lizenznehmern |
 
 ## Klausel-Bausteine
 
 **A. Standard mit Zustimmungserfordernis:**
-> "$ 6 Sublizenzen. Der Lizenznehmer darf die unter diesem Vertrag erworbenen Nutzungsrechte nur mit vorheriger schriftlicher Zustimmung des Lizenzgebers an Dritte sublizenzieren. Die Zustimmung darf nicht ohne sachlichen Grund verweigert werden."
+> "Paragraf 6 Sublizenzen. Der Lizenznehmer darf die unter diesem Vertrag erworbenen Nutzungsrechte nur mit vorheriger schriftlicher Zustimmung des Lizenzgebers an Dritte sublizenzieren. Die Zustimmung darf nicht ohne sachlichen Grund verweigert werden."
 
 **B. Konzern-frei:**
-> "Abweichend von Absatz 1 ist der Lizenznehmer berechtigt, Sublizenzen ohne Zustimmung des Lizenzgebers an Konzernunternehmen im Sinne der $$ 15 ff. AktG zu erteilen. Verlaesst ein Konzernunternehmen den Konzern, endet die Sublizenz automatisch zum Zeitpunkt des Konzernaustritts."
+> "Abweichend von Absatz 1 ist der Lizenznehmer berechtigt, Sublizenzen ohne Zustimmung des Lizenzgebers an Konzernunternehmen im Sinne der Paragrafen 15 ff. AktG zu erteilen. Verlaesst ein Konzernunternehmen den Konzern, endet die Sublizenz automatisch zum Zeitpunkt des Konzernaustritts."
 
 **C. Royalty-Beteiligung am Sub-Lizenz-Erloes:**
 > "Erteilt der Lizenznehmer eine Sublizenz, ist der Lizenzgeber an der vom Sub-Lizenznehmer gezahlten Sublizenz-Gebuehr in Höhe von [Z] Prozent zu beteiligen. Die Beteiligung wird quartalsweise gemeldet und ausgezahlt."
@@ -479,7 +480,7 @@ _Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geh
 **D. Kettendurchgriff:**
 > "Der Lizenznehmer haftet für Verletzungen dieses Vertrages durch Sub-Lizenznehmer wie für eigene Verletzungen. Bei einer wesentlichen Vertragsverletzung durch einen Sub-Lizenznehmer ist der Lizenzgeber berechtigt, die jeweilige Sublizenz mit Wirkung gegen den Sub-Lizenznehmer ausserordentlich zu kuendigen."
 
-## Sicherungs-Hinweis $ 35 UrhG
+## Sicherungs-Hinweis Paragraf 35 UrhG
 
 Sub-Lizenzen an urheberrechtlichen Werken bestehen **nicht automatisch** weiter, wenn die Hauptlizenz endet. → Vertraglich klären: "Sublizenzen erloeschen mit der Hauptlizenz" (Standard) oder "Sublizenzen bleiben bestehen, wenn der Sub-Lizenznehmer die Lizenzgebuehren direkt an den Lizenzgeber zahlt" (selten).
 
@@ -499,8 +500,8 @@ _Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller g
 ## Normenanker
 
 - DesignG (frueher Geschmacksmustergesetz) - deutsche Designs
-- $ 28 DesignG - Schutzdauer max. 25 Jahre (5+5+5+5+5)
-- $ 31 DesignG - Uebertragung und Lizenz; analog $ 30 MarkenG
+- Paragraf 28 DesignG - Schutzdauer max. 25 Jahre (5+5+5+5+5)
+- Paragraf 31 DesignG - Uebertragung und Lizenz; analog Paragraf 30 MarkenG
 - VO (EG) Nr. 6/2002 GGV - EU-Gemeinschaftsgeschmacksmuster (EUIPO)
 - Nicht eingetragenes Gemeinschaftsgeschmacksmuster - 3 Jahre Schutz ab Veroeffentlichung
 - Neuheit + Eigenart als Schutzvoraussetzungen
@@ -552,7 +553,7 @@ _Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragse
 ## Klausel-Bausteine
 
 **A. Pauschale:**
-> "$ 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, faellig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers."
+> "Paragraf 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, faellig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers."
 
 **B. Running Royalty:**
 > "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] Prozent des Nettoumsatzes mit Lizenzprodukten. 'Nettoumsatz' bezeichnet die mit den Lizenzprodukten erzielten Brutto-Erloese abzueglich Rabatte, Boni, Skonti, Umsatzsteuer, Versand- und Versicherungskosten. Die Royalty wird kalenderquartalsweise berechnet und ist binnen 30 Tagen nach Quartalsende faellig."
@@ -591,7 +592,7 @@ Wesentliche Streitpunkte:
 
 ## Quellensteuer
 
-Royalties haben Quellensteuer (DE: 15 % nach $ 49 EStG); bei DBA-Anwendung oft Reduktion auf 0/5/10 %. → Skill `steuern-quellensteuer-und-dba-lizenz`.
+Royalties haben Quellensteuer (DE: 15 % nach Paragraf 49 EStG); bei DBA-Anwendung oft Reduktion auf 0/5/10 %. → Skill `steuern-quellensteuer-und-dba-lizenz`.
 
 ## Anschluss
 
@@ -616,14 +617,14 @@ _Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachv
 | Sicherheitennehmer | Bank/Investor, der das IP als Sicherheit haelt | Realisierungsrechte, Verwertungs-Mandat |
 | Verwahrer (Escrow Agent) | hinterlegt Source Code / IP-Dokumentation | Hinterlegungsbedingungen, Release-Trigger |
 | Cross-Licensor | beidseitige Lizenzgewaehrung (Patentpool, Forschungspartnerschaft) | Gegenseitige Lizenz, Schiedsklausel |
-| Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition $ 15 AktG / $ 17 AktG, Schutzkette |
+| Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition Paragraf 15 AktG / Paragraf 17 AktG, Schutzkette |
 
 ## Klärungs-Checkliste
 
 ### Lizenzgeber
 
 - Wirklich Inhaber? (Schutzrechtsregister, Originaltitel)
-- Mitinhaber? (Patentgemeinschaft $ 6 PatG, $ 8 UrhG)
+- Mitinhaber? (Patentgemeinschaft Paragraf 6 PatG, Paragraf 8 UrhG)
 - Vorbelastungen? (frueheren Lizenzen)
 - Konzernrechtlich: Tochtergesellschaft als Inhaber (typisch bei IP-Holding)
 
@@ -636,7 +637,7 @@ _Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachv
 ### Sicherheiten-Konstellation
 
 - Sicherungslizenz: aufschiebend bedingt + Verwertungsrecht
-- Pfandrecht: Bestellung notariell? $$ 1273 ff. BGB analog
+- Pfandrecht: Bestellung notariell? Paragrafen 1273 ff. BGB analog
 - Rangverhaeltnis bei mehreren Sicherheitennehmern
 
 ### Escrow / Verwahrer
@@ -672,12 +673,12 @@ _Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachver
 
 ## Normenanker
 
-- $ 9 PatG - Schutzwirkung Patent (Ausschlussrecht des Patentinhabers)
-- $ 15 PatG - Uebertragung und Lizenzeinraeumung; Rangschutz Lizenznehmer
-- $ 24 PatG - Zwangslizenz (oeffentliches Interesse; sehr selten)
-- $$ 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
+- Paragraf 9 PatG - Schutzwirkung Patent (Ausschlussrecht des Patentinhabers)
+- Paragraf 15 PatG - Uebertragung und Lizenzeinraeumung; Rangschutz Lizenznehmer
+- Paragraf 24 PatG - Zwangslizenz (oeffentliches Interesse; sehr selten)
+- Paragrafen 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
 - EPUe - Europaeisches Patentuebereinkommen; EPA-Patente
-- ArbnErfG - Arbeitnehmererfindergesetz; $ 9 Vergütung Erfinder
+- ArbnErfG - Arbeitnehmererfindergesetz; Paragraf 9 Vergütung Erfinder
 - VO (EU) Nr. 316/2014 (TT-GVO) - Technologietransfer-Gruppenfreistellung
 
 ## Lizenzformen
@@ -688,7 +689,7 @@ _Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachver
 | einfache Lizenz | Lizenzgeber kann weitere Lizenzen vergeben; Lizenznehmer hat eigenes Nutzungsrecht |
 | Cross-License | gegenseitige Lizenz Patentaustausch (Forschungspartner, Wettbewerber) |
 | Pool-Lizenz | gepoolte Patente, FRAND-Konditionen, Pool-Administrator |
-| Zwangslizenz | $ 24 PatG; Verteidigungsrecht im Klagefall |
+| Zwangslizenz | Paragraf 24 PatG; Verteidigungsrecht im Klagefall |
 
 ## Pflichten beider Seiten
 
@@ -703,16 +704,16 @@ _Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachver
 
 Wenn das Patent auf Arbeitnehmererfindern beruht:
 
-1. Diensterfindung vs. freie Erfindung ($ 4 ArbnErfG)
-2. Inanspruchnahme durch AG ($ 6 ArbnErfG)
-3. **Verguetungspflicht $ 9 ArbnErfG** - vor Lizenzvergabe abgeloest? Sonst Lizenznehmer mittelbar betroffen.
-4. Verguetungsbemessung nach Richtlinien (ehem. Richtlinien $ 11)
+1. Diensterfindung vs. freie Erfindung (Paragraf 4 ArbnErfG)
+2. Inanspruchnahme durch AG (Paragraf 6 ArbnErfG)
+3. **Verguetungspflicht Paragraf 9 ArbnErfG** - vor Lizenzvergabe abgeloest? Sonst Lizenznehmer mittelbar betroffen.
+4. Verguetungsbemessung nach Richtlinien (ehem. Richtlinien Paragraf 11)
 
 Im Vertrag: Garantie des Lizenzgebers, dass alle ArbnErfG-Verguetungen abgegolten sind.
 
 ## Patent Pool / FRAND
 
-Bei Standardpatenten (z. B. Mobilfunk, Codec): FRAND-Pflicht (fair, reasonable, non-discriminatory). EuGH C-170/13 Huawei/ZTE - live verifizieren auf curia.europa.eu. Implementiert wird FRAND ueblicherweise durch Pool-Lizenzen mit kartellrechtskonformer Royalty-Struktur.
+Bei standardessenziellen Patenten zunächst Standardessentialität, marktbeherrschende Stellung und FRAND-Erklärung trennen. EuGH, Urteil vom 16.07.2015 - C-170/13 (Huawei Technologies/ZTE), ordnet für den kartellrechtlich zulässigen Unterlassungsantrag aufeinander bezogene Hinweis-, Angebots- und Reaktionsschritte von Patentinhaber und angeblichem Verletzer an. Patentpool und Einzelangebot jeweils auf diskriminierungsfreie Bedingungen, Vergleichslizenzen und Portfolioumfang prüfen.
 
 ## Klausel-Bausteine (DE)
 
@@ -723,7 +724,7 @@ Bei Standardpatenten (z. B. Mobilfunk, Codec): FRAND-Pflicht (fair, reasonable, 
 > "Der Lizenznehmer zahlt eine Running Royalty in Höhe von [X] % des Nettoumsatzes mit Produkten, die unter mindestens einen Anspruch eines Lizenzpatents fallen ("Lizenzprodukte"), zuzueglich gesetzlicher Umsatzsteuer."
 
 **3. Erfindervergutung:**
-> "Der Lizenzgeber garantiert, dass alle Arbeitnehmererfindervergutungen nach $$ 9 ff. ArbnErfG hinsichtlich der Lizenzpatente vollstaendig abgegolten sind."
+> "Der Lizenzgeber garantiert, dass alle Arbeitnehmererfindervergutungen nach Paragrafen 9 ff. ArbnErfG hinsichtlich der Lizenzpatente vollstaendig abgegolten sind."
 
 **4. Verteidigung:**
 > "Der Lizenzgeber traegt die Aufrechterhaltungsgebuehren und fuehrt etwaige Nichtigkeitsklagen oder Einspruechen selbst. Der Lizenznehmer informiert den Lizenzgeber unverzueglich über Kenntnisnahme von Verletzungen Dritter."
@@ -751,12 +752,12 @@ Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert di
 | IP-Typ | Register / Quelle | Prüfen |
 | --- | --- | --- |
 | Urheberrecht (klassische Werke) | nicht registriert; Werk-Nachweis | Schoepfungsdatum, Werkkategorie, Schoepfer/Miturheber, ggf. Verwertungsgesellschaft |
-| Software | nicht registriert; Repository-Historie | Repository-Standort (GitHub etc.), Mitarbeiter-Code-Anteile $ 69b UrhG, Open-Source-Komponenten |
+| Software | nicht registriert; Repository-Historie | Repository-Standort (GitHub etc.), Mitarbeiter-Code-Anteile Paragraf 69b UrhG, Open-Source-Komponenten |
 | Patent | DPMA (deutsch), EPA (europaeisch), USPTO/WIPO | Anmeldedatum, Erteilungsdatum, Schutzdauer, Erfinder, Gemeinschaft, Arbeitnehmererfindergesetz |
 | Marke | DPMA, EUIPO, WIPO | Reg.-Nr., Wort/Bild, Klassen, Schutzgebiete, Verlaengerung, Benutzungspflicht |
 | Geschmacksmuster (Design) | DPMA, EUIPO | Reg.-Nr., Anmeldedatum, Schutzdauer (max 25 J.) |
 | Gebrauchsmuster | DPMA | Reg.-Nr., Anmeldedatum, Schutzdauer 10 J., kein Prüfverfahren |
-| Geschäftsgeheimnis/Know-how | nicht registriert; Schutzmassnahmen | Schutzmassnahmen nach $ 2 GeschGehG (NDAs, Zugriffsbeschraenkung, Branch-Protection) |
+| Geschäftsgeheimnis/Know-how | nicht registriert; Schutzmassnahmen | Schutzmassnahmen nach Paragraf 2 GeschGehG (NDAs, Zugriffsbeschraenkung, Branch-Protection) |
 | Domains | Whois / united-domains | Inhaber, Provider, Verlaengerung |
 
 ## Inventar-Schema (Anlage A des Vertrags)
@@ -772,15 +773,15 @@ Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicheru
 1. **Bestand:** Sind alle Schutzrechte tatsaechlich auf den Lizenzgeber registriert?
 2. **Lebensdauer:** Restschutzdauer, Verlaengerungspflichten, Gebuehren faellig?
 3. **Belastungen:** Lizenzen Dritter, Verpfaendungen, Sicherungsabtretungen?
-4. **Erfindervergutung:** Bei Patenten - Arbeitnehmererfindergesetz $ 9 ArbnErfG; Vergütung an Erfinder schon abgeloest?
+4. **Erfindervergutung:** Bei Patenten - Arbeitnehmererfindergesetz Paragraf 9 ArbnErfG; Vergütung an Erfinder schon abgeloest?
 5. **Drittstaaten:** Schutz in den Lizenzgebieten wirklich vorhanden? (insb. US/CN/JP)
 6. **Mitinhaber:** Bei Miturheberschaft oder Patentgemeinschaft: alle erfasst?
-7. **OSS-Compliance:** Bei Software - Open-Source-Komponenten erfasst, Lizenzkompatibilitaet $ 69c UrhG?
+7. **OSS-Compliance:** Bei Software - Open-Source-Komponenten erfasst, Lizenzkompatibilitaet Paragraf 69c UrhG?
 
 ## Hinweis bei Software
 
-- $ 69a UrhG schuetzt Computerprogramme als Werke.
-- $ 69b UrhG: Arbeitsergebnis des AN gehoert kraft Gesetzes dem AG (ausschliessliche Nutzungsrechte).
+- Paragraf 69a UrhG schuetzt Computerprogramme als Werke.
+- Paragraf 69b UrhG: Arbeitsergebnis des AN gehoert kraft Gesetzes dem AG (ausschliessliche Nutzungsrechte).
 - Prüfen: Welche Repositories? Welche Branches? Wer ist Owner? Welche Open-Source-Lizenzen sind im Stack?
 
 ## Anschluss
@@ -841,7 +842,7 @@ A.4 Know-how
 
 ## Klausel-Baustein
 
-> **$ 2 Lizenzgegenstand.**
+> **Paragraf 2 Lizenzgegenstand.**
 >
 > (1) Lizenzgegenstand sind die in **Anlage A** aufgefuehrten Schutzrechte und das in Anlage A definierte Know-how (gemeinsam "Lizenzgegenstand").
 >
@@ -864,79 +865,83 @@ A.4 Know-how
 
 ---
 
-## Skill: `kartellrecht-tt-gvo-eu-316-2014`
+## Skill: `lizenz-urheberrecht-und-software-urhg`
 
-_Wenn es um Kartellrecht — TT-GVO (EU) 316/2014 in Lizenzvertragsersteller geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
 
-# Kartellrecht — TT-GVO (EU) 316/2014
+# Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG)
 
 ## Normenanker
 
-- VO (EU) Nr. 316/2014 - Technologietransfer-Gruppenfreistellungsverordnung (TT-GVO)
-- Art. 101 AEUV - Kartellverbot
-- Art. 101 Abs. 3 AEUV - Freistellungsmoeglichkeit
-- Leitlinien zur TT-GVO (2014/C 89/03)
+- Paragraf 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschließlich)
+- Paragraf 31a UhG - Verträge über unbekannte Nutzungsarten
+- Paragraf 32 UrhG - angemessene Vergütung (Anspruch des Urhebers)
+- Paragraf 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; Paragraf 32a Abs. 2 für Dritte)
+- Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte (Sub-Lizenz)
+- Paragraf 40 UrhG - Verträge über kuenftige Werke
+- Paragraf 41 UrhG - Rueckrufsrecht wegen Nichtausuebung
+- Paragraf 42 UrhG - Rueckrufsrecht wegen gewandelter Ueberzeugung
+- Paragrafen 69a-g UrhG - Schutz von Computerprogrammen (Sonderrecht)
 
-## Anwendbarkeit
+## Lizenzformen
 
-TT-GVO gilt für **Technologietransfer-Vereinbarungen**: Lizenzvertraege, die Patente, Know-how, Designs oder Software (im Zusammenhang mit Patenten/Know-how) zum Gegenstand haben.
+| Typ | Definition | Klauselbeispiel |
+|---|---|---|
+| einfaches Nutzungsrecht | Paragraf 31 Abs. 2 UrhG; nicht-exklusiv | "Der Lizenzgeber raeumt dem Lizenznehmer das einfache Nutzungsrecht ein…" |
+| ausschliessliches Nutzungsrecht | Paragraf 31 Abs. 3 UrhG; exklusiv | "ausschliessliches Nutzungsrecht, beschraenkt auf [Territorium/Zeit/Feld]" |
+| zeitlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG | Konkrete Laufzeit mit Verlaengerungsklausel |
+| raeumlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG | Land/Region/Sprachraum |
+| inhaltlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG (Zweckuebertragungstheorie) | Konkrete Nutzungsart benennen |
 
-→ Kombinierte Lizenz Patent + Know-how + Marke: TT-GVO greift.
-→ Reine Marken-/Urheberrechts-Lizenzen: Vertikal-GVO statt TT-GVO.
+## Pflichten und Schranken
 
-## Marktanteilsschwellen (Art. 3 TT-GVO)
+- **Zweckuebertragungstheorie (Paragraf 31 Abs. 5 UrhG):** Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Im Vertrag konkrete Nutzungsarten aufzaehlen.
+- **Angemessenheits-Korrektur (Paragraf 32 UrhG):** Urheber hat Anspruch auf nachtraegliche Anpassung der Vergütung; nicht abdingbar (zwingend).
+- **Bestsellerparagraf (Paragraf 32a UrhG):** Bei auffaelligem Missverhaeltnis nachtraeglicher Korrekturanspruch; auch gegen Lizenznehmer-Sub-Lizenznehmer in der Kette.
 
-| Konstellation | Schwelle |
+## Software-Spezifika (Paragrafen 69a-g UrhG)
+
+| Norm | Inhalt |
 |---|---|
-| **Wettbewerber** (gleiche relevante Maerkte) | gemeinsam ≤ 20 % |
-| **Nicht-Wettbewerber** (vertikal) | jeweils ≤ 30 % |
+| Paragraf 69a | Schutzfaehigkeit von Computerprogrammen; Ausdrucksform |
+| Paragraf 69b | Arbeitsergebnis des Arbeitnehmers - AG erwirbt ausschliessliche Nutzungsrechte kraft Gesetzes |
+| Paragraf 69c | Zustimmungsbeduerftige Handlungen (Vervielfaeltigung, Umarbeitung, Verbreitung) |
+| Paragraf 69d | Erlaubte Handlungen ohne Zustimmung (bestimmungsgemaesse Benutzung, Sicherheitskopie) |
+| Paragraf 69e | Dekompilierung zur Interoperabilitaet |
+| Paragraf 69f | Verletzungsfolgen |
+| Paragraf 69g | Verhältnis zu sonstigen Vorschriften |
 
-Bei Ueberschreiten: Einzelfall-Prüfung nach Art. 101 III AEUV; keine automatische Freistellung.
+## Source-Code vs. Object-Code
 
-## Kernbeschraenkungen Art. 4 TT-GVO ("Schwarze Liste")
+- **Object-Code-Lizenz** (Standard): nur Ausfuehrung, keine Quellcode-Einsicht.
+- **Source-Code-Lizenz** (selten direkt): mit Recht zur Bearbeitung; meist nur als Escrow.
+- → Bei Software-Abhaengigkeit: Source-Code-Escrow vereinbaren (siehe `escrow-quellcode-verwahrer-vereinbarung`).
 
-Bei diesen Klauseln entfaellt die Freistellung **vollstaendig**:
+## Open-Source-Compliance
 
-| Klausel | Verbot |
-|---|---|
-| Preisbindung Lizenznehmer | Preise für Lizenzprodukte vorgeschrieben |
-| Quotenbeschraenkung Lizenznehmer | Mengenbeschraenkung (mit Sonderregeln) |
-| Beschraenkung passive Verkaeufe | Lizenznehmer darf nicht auf unaufgefordert Bestellungen reagieren |
-| Marktaufteilung Wettbewerber | Markt aufteilen (mit Ausnahmen für exklusive Lizenz) |
+Prüfen vor Vertragsschluss:
+- Open-Source-Bill-of-Materials (OSS-BOM): welche Komponenten sind im Stack?
+- Copyleft-Risiken: GPL, AGPL → Quellcode-Offenlegungspflicht?
+- LGPL: dynamisches Linking unproblematisch für Distribution.
+- MIT/Apache-2.0: zulaessige Mischung.
+- Lizenzkompatibilitaet Paragraf 69c UrhG; bei GPL-Verstoss: Loeschung der OSS-Komponente vor Distribution.
 
-## Nicht freigestellte Beschraenkungen Art. 5 TT-GVO ("Graue Liste")
+## Klausel-Bausteine (DE)
 
-Diese Klauseln verlieren die Freistellung, **andere Vertragsteile bleiben** freigestellt:
+**1. Lizenzgegenstand:**
+> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Nutzungsrecht an der in **Anlage A** bezeichneten Software ("Lizenzgegenstand") für die in **Anlage B** definierten Nutzungsarten ein."
 
-1. **Exklusives Grant-Back** auf nicht-abtrennbare Verbesserungen des Lizenznehmers
-2. **Non-Challenge-Klausel** (Verbot Schutzrechtsangriff)
-3. Bei Vertraegen zwischen Nicht-Wettbewerbern: Beschraenkung der Lizenznehmer-Forschung in einem nicht-lizenzierten Field
+**2. Nutzungsarten:**
+> "Die Lizenz umfasst die Vervielfaeltigung im Sinne des Paragraf 69c Nr. 1 UrhG, die bestimmungsgemaesse Benutzung im Sinne des Paragraf 69d Abs. 1 UrhG sowie [Verbreitung / Bearbeitung / oeffentliche Wiedergabe]."
 
-## Praktische Prüfroutine
-
-```
-1. IP-Typ pruefen: TT-GVO oder Vertikal-GVO?
-2. Marktanteilsschwelle pruefen: 20 % / 30 %?
-3. Klausel-Liste durchgehen: Kernbeschraenkungen (Art. 4)?
-4. Grenze gegen Grant-Back, Non-Challenge (Art. 5)?
-5. Bei Marktanteil-Ueberschreitung: Einzelfall-Pruefung Art. 101 III AEUV.
-```
-
-## Klausel-Bausteine
-
-**A. Compliance-Bestaetigung:**
-> "Die Parteien sind sich einig, dass dieser Vertrag in Uebereinstimmung mit der TT-GVO (VO (EU) Nr. 316/2014) gestaltet ist. Sollte einzelne Klauseln gegen Art. 4 oder 5 TT-GVO verstossen, vereinbaren die Parteien deren Anpassung, ohne die Wirksamkeit der uebrigen Klauseln zu beruehren ($ 139 BGB)."
-
-**B. Non-Challenge mit Kuendigungsrecht (sicherer Ersatz für Verbot):**
-> "Sollte der Lizenznehmer die Gueltigkeit eines Lizenzschutzrechts angreifen, ist der Lizenzgeber zur ausserordentlichen Kuendigung berechtigt."
-
-**C. Aktives vs. passives Gebietsschutz:**
-> "Der Lizenznehmer wird in einem ihm zugewiesenen exklusiven Gebiet aktive Verkaeufe nicht anbieten. Passive Verkaeufe (Reaktion auf unaufgeforderte Anfragen) bleiben jederzeit zulässig."
+**3. Vergütung:**
+> "Die Vergütung betraegt [Pauschale / Running Royalty in Höhe von X % des Nettoumsatzes]. Die Parteien bestaetigen, dass die Vergütung im Sinne des Paragraf 32 UrhG angemessen ist."
 
 ## Anschluss
 
-- Verbesserungen: `klausel-verbesserungen-grant-back`
-- Exklusivitaet: `klausel-exklusivitaet-sole-non-exclusive`
+- Source-Code-Escrow: `escrow-quellcode-verwahrer-vereinbarung`
+- Verguetungsklausel: `klausel-verguetung-pauschale-royalty-tiered`
+- Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
 
 ---
 

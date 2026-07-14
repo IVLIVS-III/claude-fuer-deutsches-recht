@@ -104,7 +104,7 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 - § 216 StGB Toetung auf Verlangen (gesetze-im-internet.de).
 - § 212 StGB, § 211 StGB.
-- § 217 StGB a.F. – BVerfG, Urteil vom 26.02.2020 – 2 BvR 2347/15 ua (BVerfG-Datenbank live verifizieren).
+- Paragraph 217 StGB alter Fassung - BVerfG, Urteil vom 26.02.2020 - 2 BvR 2347/15 unter anderem: Das allgemeine Persönlichkeitsrecht umfasst ein Recht auf selbstbestimmtes Sterben; die Entscheidung betrifft die damalige Strafnorm zur geschäftsmäßigen Förderung der Selbsttötung und ersetzt nicht die Tatbestandsprüfung des Paragraphen 216 StGB.
 - § 1827 BGB Patientenverfuegung (ehemals § 1901a BGB a.F.).
 - BGH staendige Rspr. zur Sterbehilfe und Abgrenzung Suizid / Toetung (2. Strafsenat – Sterbehilfe-Linie; live verifizieren).
 - §§ 26, 27 StGB Beihilfe; § 323c StGB unterlassene Hilfeleistung.

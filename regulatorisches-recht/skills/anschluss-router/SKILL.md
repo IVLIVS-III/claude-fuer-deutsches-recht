@@ -201,4 +201,4 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
 - DORA-VO EU 2022/2554 anwendbar ab 17.01.2025
-- MaRisk-Novelle 2023 der BaFin
+- MaRisk in der aktuellen Fassung des BaFin-Rundschreibens 06/2024 (BA)

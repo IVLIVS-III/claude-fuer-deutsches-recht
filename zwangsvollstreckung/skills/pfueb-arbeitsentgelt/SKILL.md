@@ -20,7 +20,7 @@ Der Gläubiger will Arbeitseinkommen beim Arbeitgeber als Drittschuldner pfände
 ## Startet bei
 
 - Titel + Klausel + Zustellung grün
-- Arbeitgeber bekannt (sonst `zv-vermoegensauskunft-gv`)
+- Arbeitgeber bekannt (sonst `vermoegensauskunft-gv`)
 - Schuldner nicht in Insolvenz
 
 ## Rechtsgrundlagen

@@ -20,7 +20,7 @@ Wenn der Fall typischerweise einen mehrstufigen Verfahrensablauf hat, darf am An
 Antragsphase  -->  Eroeffnung 27/28 InsO  -->  Berichtstermin 156 InsO
      |                     |                          |
      |                     v                          v
-$ 15a InsO       VVB $ 80 InsO              Verwertung 159 ff. InsO
+Paragraf 15a InsO       VVB Paragraf 80 InsO              Verwertung 159 ff. InsO
 3 Wochen         Treuhandkonten              Glaeubigerausschuss 160 InsO
 ```
 

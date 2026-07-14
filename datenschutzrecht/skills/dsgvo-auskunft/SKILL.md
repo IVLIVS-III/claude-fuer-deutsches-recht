@@ -152,7 +152,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Faktische Updates (Stand 05/2026)
 
 - **EuGH-Linie zu Art. 15 DSGVO und Datenkopie (Art. 15 Abs. 3):** Mehrere EuGH-Vorabentscheidungsverfahren haben das Auskunftsrecht und den Umfang der Datenkopie konkretisiert. Aktuelle Entscheidungen vor Ausgabe live über curia.europa.eu prüfen; auch BGH VI. ZS und BAG zur arbeitsrechtlichen Auskunft beobachten (Aktenzeichen vor Zitat verifizieren).
-- **EDSA-Guidelines:** Die Guidelines 01/2022 on data subject rights (Right of Access) sind in der Endfassung verbindliche Auslegungshilfe. Quelle: edpb.europa.eu. Bei nachfolgenden Updates des EDSA live prüfen.
+- **EDSA-Guidelines:** Die Guidelines 01/2022 on data subject rights (Right of Access) sind eine nicht bindende, fachlich gewichtige Orientierungshilfe. Quelle: edpb.europa.eu. Nachfolgende Aktualisierungen des EDSA vor Verwendung prüfen.
 - **Art. 82 DSGVO — Schadensersatz-Linie EuGH:** Der EuGH hat in mehreren Verfahren entschieden, dass auch der blosse Kontrollverlust einen ersatzfaehigen immateriellen Schaden begruenden kann, dass aber Kausalitaet und konkrete Darlegung erforderlich bleiben (kein verschuldensunabhaengiges Haftungsregime mit Pauschalierung; keine Bagatellgrenze, jedoch kein automatischer Anspruch aus blossem Verstoss). Konkrete Aktenzeichen und tragende Saetze vor Zitat über curia.europa.eu verifizieren.
 - **Verweigerung wegen Rechtsmissbrauch (Art. 12 Abs. 5 DSGVO):** Der EuGH hat zur restriktiven Auslegung der "offensichtlich unbegruendet oder exzessiv"-Klausel Stellung genommen. Zweistufiges Prüfschema (objektives + subjektives Element; Nachweislast beim Verantwortlichen) ist in mehreren EuGH-Entscheidungen abgesichert. Vor Zitat live prüfen.
 

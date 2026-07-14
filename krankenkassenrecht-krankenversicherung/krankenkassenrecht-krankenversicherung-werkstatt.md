@@ -217,9 +217,9 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.7. Untätigkeitsklage, Krankenkasse und Akteneinsicht
+### 15.7. Trennt Untätigkeitsklage, Genehmigungsfiktion, Eilrechtsschutz und Akteneinsicht bei verzögerter Kassenentscheidung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Trennt Untätigkeitsklage, Genehmigungsfiktion, Eilrechtsschutz und Akteneinsicht bei verzögerter Kassenentscheidung. Berechnet die richtigen Fristen, prüft zureichende Verzögerungsgründe und erstellt Sachstandsschreiben, Akteneinsichtsantrag oder Klage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit
 

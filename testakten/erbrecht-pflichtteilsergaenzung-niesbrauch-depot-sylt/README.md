@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 16 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt-einzelpdfs.zip) |
 
@@ -38,18 +38,21 @@ Pflichtteilsstreit nach dem Tod von Helga Martensen. Vorwegübertragung eines Ha
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
-| `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
-| `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
-| `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
-| `05_uebertragungsvertrag_auszug.docx` | 05 übertragungsvertrag auszug.docx |
-| `06_pflege_und_investitionen.docx` | 06 pflege und investitionen.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
-| `csv/beleganforderung.csv` | csv/beleganforderung.csv |
-| `emails/2026-06-28_anja_fragt_nach_depot.eml` | emails/2026 06 28 anja fragt nach depot.eml |
-| `pdfs/gutachterkurzbrief_keitum.pdf` | pdfs/gutachterkurzbrief keitum.pdf |
-| `xlsx/pflichtteilsergaenzung_wertband.xlsx` | xlsx/pflichtteilsergänzung wertband.xlsx |
+| `01_mandatsnotiz_erstgespraech.docx` | Ausführlicher Kanzleivermerk zu Erbfolge, Hausübertragung, Depot, Nachlasspositionen, Mandatsziel und Fristensicherung |
+| `02_chronologie_arbeitsstand.docx` | Zehnstufige Zeitachse mit Quelle, Belegstatus und offenen Punkten von der Übertragung bis zur Mandatsübernahme |
+| `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Anja Martensens zu Nutzung des Hauses, Depoterträgen, Pflege und fehlenden Nachlasspositionen |
+| `04_gegenseite_standpunkt.docx` | Vollständiges Anwaltsschreiben Karsten Martensens mit abweichender Darstellung zu Nießbrauch, Pflege, Investitionen und Depot |
+| `05_uebertragungsvertrag_auszug.docx` | Ausformulierte notarielle Urkunde mit Grundbesitz, Übertragung, Nießbrauch, Lastentragung, Zustimmungsvorbehalt und Rückforderung |
+| `06_pflege_und_investitionen.docx` | Belegbezogene Stunden-, Zahlungs- und Rechnungsaufstellung mit Versicherungsleistung und ausdrücklich markierten Lücken |
+| `07_bank_depotauskunft_2016_2026.docx` | Bankauskunft zu Depotbestand, Übertragsauftrag, Beratungsvermerk und späteren Zahlungen an die Erblasserin |
+| `08_grundbuch_und_lastenstand.docx` | Grundbuchauszug mit Eigentumsumschreibung, Nießbrauch, Rückauflassungsvormerkung und Grundschuld |
+| `09_entwurf_naechstes_schreiben.docx` | Auskunfts- und Beleganforderung mit getrennten Arbeitssträngen für Nachlass, Grundstück, Depot und Pflege |
+| `10_wertermittlungsauftrag_grundstueck.docx` | Sachverständigenauftrag zu Stichtagswert, Nießbrauchvarianten, Unterlagen, Ortstermin und Bewertungsannahmen |
+| `csv/beleganforderung.csv` | Strukturierte Beleganforderung für die fehlenden Nachlass-, Grundstücks-, Depot- und Pflegeunterlagen |
+| `emails/2026-06-28_anja_fragt_nach_depot.eml` | Mandantenmail zu Depotübertragung, Ertragszahlungen und noch vorhandenen Kontoauszügen |
+| `pdfs/gutachterkurzbrief_keitum.pdf` | Kurze sachverständige Vorbewertung des Keitumer Grundstücks mit offenen Bewertungsparametern |
+| `xlsx/pflichtteilsergaenzung_wertband.xlsx` | Rechenblatt für Nachlasswerte, Schenkungspositionen, Nießbrauch und noch ungeklärte Wertbandbreiten |
 
 ## Arbeitsnotiz
 
-Die Akte trainiert Auskunft, Wertermittlung, Pflichtteilsergänzung, Abschmelzung, Nießbrauchbewertung und Einwendungen wegen Pflege und Anstandsschenkungen.
+Die Akte ermöglicht eine vollständige Auskunfts-, Bewertungs- und Anspruchsroute. Sie trennt den Pflichtteilsanspruch gegen den Erben von einem möglichen Anspruch gegen den Beschenkten, ohne Fristbeginn, Schenkungscharakter oder Ergänzungsquote vorwegzunehmen.

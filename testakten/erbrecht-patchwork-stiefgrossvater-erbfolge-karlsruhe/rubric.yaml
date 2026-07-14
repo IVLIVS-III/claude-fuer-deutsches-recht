@@ -1,11 +1,51 @@
 name: erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe
-description: Patchwork-Erbfolge mit mehrfachen Ehen, Scheidungen, früherer Stieftochter als Ehefrau, zwei Erbfällen, alten Testamenten und Statusmatrix.
+description: Patchwork-Erbfolge mit mehrfachen Ehen, Scheidungen, früherer Stieftochter als Ehefrau, zwei Erbfällen,
+  alten Testamenten und Statusmatrix.
 checks:
-  - Moralische Bewertung strikt von Verwandtschaft, Ehe und Testament trennen.
-  - Testamente nach Errichtungszeitpunkt und Scheidungsbezug prüfen (1994 vor Scheidung Armin/Beate, 2014 nach Scheidung Armin/Dana, 2018 nach Scheidung Clemens/Dana).
-  - Fiona bei Armin als Ehefrau und testamentarisch Bedachte, nicht als Kind behandeln.
-  - Fiona bei Clemens als leibliche Tochter und testamentarische Alleinerbin behandeln.
-  - Erbfälle Armin (14.05.2026) und Clemens (02.06.2026) chronologisch getrennt lösen.
-  - Auslegungsfragen des Testaments 2014 (Erbeinsetzung oder Vermächtnis, bewusste Zuwendung nach Scheidung, Wirkung der späteren Ehe) offen benennen statt entscheiden.
-  - Beweiswert des nur in Kopie vorliegenden Zettels von 2018 und die Ablieferungspflicht ansprechen.
-  - Unterlagenbesitz und Sicherungsbedarf (Chat-Export, Ordner, Vollmacht) als tatsächliche Punkte aufnehmen.
+  - id: datei-01-familienstammbaum-und-zeitstrahl
+    check_type: file_exists
+    description: Das Primäraktenstück 01_familienstammbaum_und_zeitstrahl.docx ist für die Fallauswertung vorhanden.
+    path: 01_familienstammbaum_und_zeitstrahl.docx
+  - id: datei-02-testamente-und-scheidungen
+    check_type: file_exists
+    description: Das Primäraktenstück 02_testamente_und_scheidungen.docx ist für die Fallauswertung vorhanden.
+    path: 02_testamente_und_scheidungen.docx
+  - id: datei-15-nachlassgerichtliche-anhoerung
+    check_type: file_exists
+    description: Die nachlassgerichtliche Anhörung mit Einwendungen und Unterlagennachforderung ist vorhanden.
+    path: 15_nachlassgericht_anhaerung_und_verfuegung.docx
+  - id: datei-16-bankauskunft
+    check_type: file_exists
+    description: Die Bankauskunft zu Konten, Vollmacht, Schließfach und Immobilie Armins ist vorhanden.
+    path: 16_grundbuch_und_bankauskunft_armin.docx
+  - id: datei-17-personenstand
+    check_type: file_exists
+    description: Die Personenstandsübersicht zu Fionas Abstammung und Ehen ist vorhanden.
+    path: 17_personenstandsunterlagen_fiona.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Moralische Bewertung strikt von Verwandtschaft, Ehe und Testament trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Testamente nach Errichtungszeitpunkt und Scheidungsbezug prüfen (1994 vor Scheidung Armin/Beate,
+      2014 nach Scheidung Armin/Dana, 2018 nach Scheidung Clemens/Dana).
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Fiona bei Armin als Ehefrau und testamentarisch Bedachte, nicht als Kind behandeln.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Fiona bei Clemens als leibliche Tochter und testamentarische Alleinerbin behandeln.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Erbfälle Armin (14.05.2026) und Clemens (02.06.2026) chronologisch getrennt lösen.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Auslegungsfragen des Testaments 2014 (Erbeinsetzung oder Vermächtnis, bewusste Zuwendung nach Scheidung,
+      Wirkung der späteren Ehe) offen benennen statt entscheiden.
+  - id: fachpruefung-07
+    check_type: human_review
+    description: Beweiswert des nur in Kopie vorliegenden Zettels von 2018 und die Ablieferungspflicht ansprechen.
+  - id: fachpruefung-08
+    check_type: human_review
+    description: Unterlagenbesitz und Sicherungsbedarf (Chat-Export, Ordner, Vollmacht) als tatsächliche Punkte
+      aufnehmen.

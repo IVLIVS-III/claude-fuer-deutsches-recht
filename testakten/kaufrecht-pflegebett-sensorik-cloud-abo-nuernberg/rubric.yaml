@@ -1,2 +1,23 @@
 name: kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg
-focus: bgb-bt-pruefer
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Pflegebett, Sensorik und Cloud-Abo als verbundenes Leistungsbündel einordnen und den Sachmangel
+      am Bett vom Mangel des digitalen Elements trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Vereinbarte Sensorfunktionen, Werbeaussagen, Nutzungsprotokoll und Servicebericht für die Abweichung
+      von der geschuldeten Beschaffenheit zusammenführen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Nacherfüllung, Updatepflicht, Fristsetzung, Rücktritt oder Minderung sowie die Folgen für das laufende
+      Cloud-Abo in einer abgestuften Anspruchsstrategie ausgeben.

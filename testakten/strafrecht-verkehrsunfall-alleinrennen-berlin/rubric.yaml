@@ -1,9 +1,33 @@
 name: strafrecht-verkehrsunfall-alleinrennen-berlin
-description: Verkehrsstrafakte zu einem nächtlichen Alleinrennen in Berlin mit Dashcam, EDR-Daten, Unfallflucht, Führerscheinmaßnahme und Schadensgutachten.
+description: Verkehrsstrafakte zu einem nächtlichen Alleinrennen in Berlin mit Dashcam, EDR-Daten, Unfallflucht,
+  Führerscheinmaßnahme und Schadensgutachten.
 checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Aus der EDR-/Telematik-Zeitreihe (Datei 10) die Hoechstgeschwindigkeit von 151 km/h, die elf Sekunden ununterbrochener Fahrt ueber 100 km/h, den EDR-Stuetzwert von 128 km/h fuenf Sekunden vor dem Aufprall, den Bremsweg von rund 162 m ab Bremsbeginn und die Rotphase beim Ueberfahren der Haltelinie ableiten und diese Werte der Einlassung, es sei nur kurz beschleunigt worden, gegenueberstellen.
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-sachverhalt-chronologie
+    check_type: file_exists
+    description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
+    path: 02_sachverhalt_chronologie.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Aus der EDR-/Telematik-Zeitreihe (Datei 10) die Hoechstgeschwindigkeit von 151 km/h, die elf Sekunden
+      ununterbrochener Fahrt ueber 100 km/h, den EDR-Stuetzwert von 128 km/h fuenf Sekunden vor dem Aufprall, den
+      Bremsweg von rund 162 m ab Bremsbeginn und die Rotphase beim Ueberfahren der Haltelinie ableiten und diese
+      Werte der Einlassung, es sei nur kurz beschleunigt worden, gegenueberstellen.

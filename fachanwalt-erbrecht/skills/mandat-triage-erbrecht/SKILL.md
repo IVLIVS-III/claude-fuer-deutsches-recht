@@ -45,7 +45,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
 
 - BGH 12.03.2025 - IV ZR 88/24 (Pflichtteilsanspruch nichteheliches Kind; § 2317 Abs. 1 BGB maßgebend trotz Ausübungssperre)
-- BGH 02.07.2025 - IV ZR 93/24 (Zuwendung an behandelnden Arzt; Berufsordnung kein § 134 BGB-Verbot; Testierfreiheit; § 138 BGB Einzelfallprüfung)
+- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Das Arztvermächtnis war nicht wegen der konkret geprüften Berufsregel in Verbindung mit BGB Paragrafen 134 und 2171 Absatz 1 unwirksam; weitere Verbote und BGB Paragraf 138 gesondert prüfen.
 
 Anhängig: BVerfG 1 BvR 804/22 zur Verfassungsmäßigkeit der erbschaftsteuerlichen Begünstigung von Betriebsvermögen (Stand 05/2026 nicht entschieden).
 
@@ -142,7 +142,7 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 ## Sofort-Fristen
 
 - **Ausschlagung** sechs Wochen § 1944 BGB
-- **Pflichtteils-Verjährung** drei Jahre § 2332 BGB
+- **Pflichtteilsanspruch gegen den Erben:** Regelverjährung nach BGB Paragrafen 195 und 199 Absatz 1; **Anspruch gegen den Beschenkten:** besonderer Beginn mit dem Erbfall nach BGB Paragraf 2332 Absatz 1
 - **Erbschaftsteuer-Anzeige** drei Monate § 30 ErbStG
 - **Erbschaftsteuer-Erklärung** mind. ein Monat nach Aufforderung
 - **Anfechtung Testament** ein Jahr ab Kenntnis § 2082 BGB
@@ -173,7 +173,7 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 ## Quellen
 
-- BGB §§ 1922 ff. 1944 2303 ff. 2332 § 2082
+- BGB Paragrafen 195, 199, 1922 fortfolgende, 1944, 2082, 2303 fortfolgende und 2332
 - ErbStG § 30
 - BGH IV. Zivilsenat
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

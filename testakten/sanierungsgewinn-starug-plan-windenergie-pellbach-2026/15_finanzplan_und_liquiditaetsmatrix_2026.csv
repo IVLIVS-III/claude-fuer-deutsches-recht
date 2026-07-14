@@ -18,7 +18,7 @@ QUARTAL Q4/2026,31.12.2026,20500000,16500000,4000000,5150000,Konsolidierung
 JAHRESSUMME 2026,31.12.2026,71200000,66050000,5150000,5150000,Erstes positives Jahresende
 STEUERLAST 2026 (mit 3a EStG-Befreiung),31.12.2026,,0,,5150000,KSt 0 GewSt 0 Soli 0 — Sanierung steuerfrei
 STEUERLAST 2026 (hypothetisch ohne 3a EStG),31.12.2026,,4579500,-4579500,570500,Risikoszenario
-Position,Saldo,DES-Cash-Effekt,Verzicht-Cash-Effekt,Stundung-Cash-Effekt,
+Position,Datum,DES_Cash_Effekt_EUR,Verzicht_Cash_Effekt_EUR,Stundung_Cash_Effekt_EUR,Kumulativer_Saldo_EUR,Bemerkung
 DES (Anteilsübertragung 35Prozent),01.08.2026,0,0,0,0,Anteilsübertragung ist kein Cash-Vorgang
 Verzicht 22 Mio EUR Banken,02.07.2026,0,0,0,0,Buchungsgewinnerhoehend ohne Cash-Wirkung; Sanierungsertrag
 Stundung 5 Mio EUR Banken,02.07.2026,0,0,5000000,5150000,Cash-Effekt durch Wegfall der Zahlungsverpflichtung

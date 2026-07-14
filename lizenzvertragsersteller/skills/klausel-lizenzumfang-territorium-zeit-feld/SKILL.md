@@ -13,13 +13,13 @@ description: "Wenn es um Klausel Lizenzumfang — Territorium, Zeit, Feld in Liz
 | **Zeitlich** | 5 Jahre · bis zum Ablauf des Schutzrechts · auf unbestimmte Zeit mit Kuendigungsrecht |
 | **Anwendungsfeld (Field of Use)** | "ausschließlich für die Herstellung von Medizinprodukten der Klasse IIa" |
 
-## Zweckuebertragungstheorie $ 31 V UrhG
+## Zweckuebertragungstheorie Paragraf 31 V UrhG
 
 Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen.
 
 ## Klausel-Baustein
 
-> **$ 3 Lizenzumfang.**
+> **Paragraf 3 Lizenzumfang.**
 >
 > (1) **Raeumlich** umfasst die Lizenz das Territorium [Mitgliedstaaten der Europaeischen Union / weltweit / xxx]. Ausserhalb dieses Territoriums ist die Nutzung des Lizenzgegenstands durch den Lizenznehmer nicht gestattet.
 >

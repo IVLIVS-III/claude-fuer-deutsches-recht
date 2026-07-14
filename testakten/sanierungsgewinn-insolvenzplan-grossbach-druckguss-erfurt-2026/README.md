@@ -55,7 +55,7 @@ Schwerpunkt-Skills (Auswahl):
 | Verlustvortrag KSt | 12.000.000 EUR |
 | Verlustvortrag GewSt | 14.000.000 EUR |
 | Verbleibender Sanierungsertrag nach § 3a III EStG | 26.000.000 EUR (steuerbefreit über § 3a EStG) |
-| Konfliktpunkt | Antrag § 3a IV EStG zu spät gestellt (FG Köln 12 K 1413/25-Linie) |
+| Konfliktpunkt | Antrag auf gesonderte Feststellung nach Paragraf 3a Absatz 4 EStG erst nach Planbestätigung; Verfahrensfolgen gesondert zu prüfen |
 
 ## Aktenzeichen
 
@@ -73,7 +73,7 @@ Q3/2025: Verlust BMW-Kleinserien-Aufträge im Volumen 18 Mio EUR p.a. wegen Mode
 
 ## Steuerlicher Knackpunkt
 
-Der Verlustvortrag von 12 Mio EUR (KSt) reicht nicht aus, den Sanierungsertrag von 38 Mio EUR vollständig zu verbrauchen. Es verbleibt ein Saldo von 26 Mio EUR, der ohne § 3a EStG voll steuerpflichtig wäre und die Sanierung sofort wieder zum Scheitern bringen würde. Der Antrag nach § 3a IV EStG ist daher zwingend rechtzeitig zu stellen. StB Engelmeier hatte ihn erst nach Planbestätigung gestellt — eine offene Frage, ob die Linie des FG Köln, Urteil v. 04.11.2025 — 12 K 1413/25, hier zugunsten der Schuldnerin greift oder das FA Erfurt die Steuerbefreiung versagt.
+Der Verlustvortrag von 12 Mio EUR (KSt) reicht nicht aus, den Sanierungsertrag von 38 Mio EUR vollständig zu verbrauchen. Es verbleibt ein Saldo von 26 Mio EUR, der ohne Paragraf 3a EStG steuerpflichtig sein kann und die Sanierung gefährden würde. Der Antrag auf gesonderte Feststellung nach Paragraf 3a Absatz 4 EStG wurde erst nach Planbestätigung gestellt; die verfahrensrechtlichen Folgen sind eigenständig zu prüfen. FG Köln, Urteil vom 04.11.2025 — 12 K 1413/25, trägt hierzu keine allgemeine verfahrensrechtliche Ausschlusswirkung, sondern betrifft die materiellen Sanierungsvoraussetzungen und die Sanierungseignung im Zeitpunkt des Schuldenerlasses.
 
 ## Aktenstruktur
 
@@ -114,7 +114,7 @@ sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/
 - § 89 AO — Verbindliche Auskunft: https://dejure.org/gesetze/AO/89.html
 - § 60 InsO — Haftung des Insolvenzverwalters: https://dejure.org/gesetze/InsO/60.html
 - § 370 AO — Steuerhinterziehung: https://dejure.org/gesetze/AO/370.html
-- FG Köln, Urteil v. 04.11.2025 — 12 K 1413/25 (zur Antragstellung § 3a IV EStG)
+- FG Köln, Urteil vom 04.11.2025 — 12 K 1413/25 (materielle Voraussetzungen des Sanierungsertrags und ex-ante-Sanierungseignung; kein allgemeiner Fristenanker)
 - BFH, Urteil v. 26.02.2003 — II R 19/01 (Verbindlichkeiten bleiben über Liquidation hinaus)
 - FG Köln, Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangrücktritt und Steuerausfall mangels Körperschaftsteuersubjekt; relevanter Querverweis für das nachrangige Gesellschafterdarlehen Friedhelm Grossbach (4 Mio EUR), falls der Plan-Pfad scheitert und eine Liquidationslösung diskutiert wird.
 - OFD Frankfurt a. M. (Liquidationsbeschluss kein konkludenter Verzicht)

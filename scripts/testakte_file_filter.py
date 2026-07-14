@@ -73,6 +73,10 @@ INITIAL_OVERVIEW_PARTS = (
     "soforttriage",
 )
 
+DIDACTIC_SOLUTION_CASES = {
+    "subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann",
+}
+
 
 def _safe_text(path: Path, limit: int = 80_000) -> str:
     try:
@@ -95,12 +99,22 @@ def _is_initial_overview(path: Path, testakte_dir: Path) -> bool:
     return starts_as_front_piece and any(part in stem for part in INITIAL_OVERVIEW_PARTS)
 
 
+def is_allowed_markdown_aktenstueck(path: Path, testakte_dir: Path) -> bool:
+    """Erlaubt nur ausdrücklich kuratierte didaktische Markdown-Aktenstücke."""
+    if path.suffix.lower() != ".md" or testakte_dir.name not in DIDACTIC_SOLUTION_CASES:
+        return False
+    stem = path.stem.lower()
+    return "musterloesung" in stem or "musterlösung" in stem
+
+
 def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
     """True, wenn die Datei nicht in PDF/ZIP-Arbeitsmaterial gehoert."""
     name = path.name.lower()
     stem = path.stem.lower()
     if name == "readme.md":
         return True
+    if is_allowed_markdown_aktenstueck(path, testakte_dir):
+        return False
     if any(part in stem for part in META_NAME_PARTS):
         return True
     if _is_initial_overview(path, testakte_dir):

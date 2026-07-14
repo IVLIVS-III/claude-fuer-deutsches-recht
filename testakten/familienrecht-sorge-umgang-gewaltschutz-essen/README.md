@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 16 KB) | PDF | [`gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf`](gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 31 KB) | PDF | [`gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf`](gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip) |
 
@@ -38,17 +38,20 @@ Eilsache nach Trennung der Eheleute Derya und Cem Aydin in Essen. Es gibt einen 
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
-| `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
-| `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
-| `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
-| `05_schulsozialarbeit_notiz.docx` | 05 schulsozialarbeit notiz.docx |
-| `06_polizei_einsatzvermerk_auszug.docx` | 06 polizei einsatzvermerk auszug.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
-| `csv/fristen_eilsache.csv` | csv/fristen eilsache.csv |
-| `emails/2026-07-03_schule_abholfrage.eml` | emails/2026 07 03 schule abholfrage.eml |
-| `pdfs/fotoblatt_tuer_und_flur.pdf` | pdfs/fotoblatt tür und flur.pdf |
-| `xlsx/umgangskalender_und_risiken.xlsx` | xlsx/umgangskalender und risiken.xlsx |
+| `01_mandatsnotiz_erstgespraech.docx` | Ausführlicher Kanzleivermerk zu Polizeieinsatz, Schutzbedarf, Wohnung, Kindern, Umgangsziel und sofortiger Beweissicherung |
+| `02_chronologie_arbeitsstand.docx` | Zeitachse mit Uhrzeiten, Quellen, Widersprüchen und getrennter Fristspur für Gewaltschutz, Wohnung und Umgang |
+| `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete, differenzierte Erklärung Derya Aydins zum Ereignis, früheren Konflikten, Kindern und gewünschtem Umgang |
+| `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Cem Aydins mit abweichender Ereignisschilderung, Wohnungsabholung und stufenweisem Umgangsvorschlag |
+| `05_schulsozialarbeit_notiz.docx` | Schulvermerk mit unmittelbaren Äußerungen Leilas, Beobachtungen der Klassenleitung und ungeklärter Abholbefugnis |
+| `06_polizei_einsatzvermerk_auszug.docx` | Vollständiger Einsatzbericht zu Lage, Aussagen, objektiven Spuren, Zeugin, Rötung, Wegweisung und Strafanzeige |
+| `07_notruf_und_einsatzdisposition.docx` | Zeitgestempeltes Leitstellenprotokoll mit Notrufangaben, Hintergrundwahrnehmungen und Dispositionsverlauf |
+| `08_aerztlicher_befundbericht.docx` | Befundbericht mit klarer Trennung von Anamnese, objektivem Befund, Behandlung und begrenzter Aussagekraft |
+| `09_entwurf_naechstes_schreiben.docx` | Konkreter Eilantragsentwurf zu Schutzanordnung, Wohnung, Umgang, Anhörung, Aufklärung und Glaubhaftmachung |
+| `10_jugendamt_hausbesuch_und_hilfeplan.docx` | Jugendamtsvermerk zu Wohnlage, Kindergesprächen, vorläufiger Einschätzung und terminierten Hilfeschritten |
+| `csv/fristen_eilsache.csv` | Fristen- und Terminspur für Wegweisung, Eilantrag, Anhörung und Umgangsbegleitung |
+| `emails/2026-07-03_schule_abholfrage.eml` | Schulmail zur praktischen Abholung und zu fehlenden gerichtlichen Nachweisen |
+| `pdfs/fotoblatt_tuer_und_flur.pdf` | Fotografische Dokumentation von Türzarge, Flur und Wäschekorb mit beschränktem Beweiswert |
+| `xlsx/umgangskalender_und_risiken.xlsx` | Arbeitsmappe zu Kontakten, Übergaben, Kommunikationswegen und Sicherheitsauflagen |
 
 ## Arbeitsnotiz
 

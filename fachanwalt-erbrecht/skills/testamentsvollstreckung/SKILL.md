@@ -16,7 +16,7 @@ description: "Wenn es um Testamentsvollstreckung einrichten oder bei Streit übe
 
 **Fokus:** Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Vergütung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung.
 
-**Abgrenzungsanker:** BGH, Beschluss vom 15.01.2025 - IV ZR 166/24, ordnet die Auskunft nach Paragraf 2314 Absatz 1 Satz 1 BGB dem Erben und nicht dem Testamentsvollstrecker zu. Davon sind dessen eigene Rechenschafts- und Auskunftspflichten gegenüber den Erben, insbesondere nach Paragraf 2218 BGB, strikt zu trennen.
+Abgrenzungsanker: In der Entscheidung zum einstweiligen Vollstreckungsschutz vom 15.01.2025 - IV ZR 166/24 behandelte der BGH die Erben als Schuldner der Auskunft nach BGB Paragraf 2314 Absatz 1 Satz 1. Die Entscheidung nicht als endgültiges Sachurteil zu sämtlichen Beschaffungsfragen verwenden. Davon sind eigene Rechenschafts- und Auskunftspflichten des Testamentsvollstreckers gegenüber den Erben, insbesondere nach BGB Paragraf 2218, strikt zu trennen.
 
 ### Testamentsvollstreckung
 

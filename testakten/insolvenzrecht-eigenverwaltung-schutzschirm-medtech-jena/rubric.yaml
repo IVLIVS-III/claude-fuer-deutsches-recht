@@ -1,9 +1,23 @@
-slug: insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena
-rechtsgebiet: insolvenzrecht
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.
+checks:
+  - id: datei-01-geschaeftsfuehrer-vermerk-krisensitzung-2026-06-29
+    check_type: file_exists
+    description: Das Primäraktenstück 01_geschaeftsfuehrer_vermerk_krisensitzung_2026-06-29.docx ist vorhanden.
+    path: 01_geschaeftsfuehrer_vermerk_krisensitzung_2026-06-29.docx
+  - id: datei-02-liquiditaetsstatus-13-wochen-erlaeuterung-2026-07-03
+    check_type: file_exists
+    description: Das Primäraktenstück 02_liquiditaetsstatus_13_wochen_erlaeuterung_2026-07-03.docx ist vorhanden.
+    path: 02_liquiditaetsstatus_13_wochen_erlaeuterung_2026-07-03.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung aus Liquiditätsstatus, BWA
+      und Lieferantenlage stichtagsbezogen unterscheiden.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Voraussetzungen von Eigenverwaltung und Schutzschirm einschließlich Bescheinigung, Antragstiming,
+      Eigenverwaltungsplanung und Gläubigerinteressen prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Rangrücktritt, Bankstillhalten, Warenkreditversicherung, kritische Lieferanten und Finanzierung
+      der Verfahrensphase in einem 13-Wochen-Maßnahmenplan verbinden.

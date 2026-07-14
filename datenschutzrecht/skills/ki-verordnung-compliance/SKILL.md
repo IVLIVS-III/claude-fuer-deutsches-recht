@@ -243,8 +243,8 @@ Verbote (Auswahl):
 ## Schritt 11 — Verzahnung mit anderen Skills
 
 - **dsfa-erstellung** — bei personenbezogenen Daten kombinierte Folgenabschätzung
-- **avv-prüfung** — wenn KI durch Dienstleister
-- **drittlandstransfer-prüfung** — bei Cloud-KI außerhalb EU
+- **avv-pruefung** — wenn KI durch Dienstleister
+- **drittlandstransfer-pruefung** — bei Cloud-KI außerhalb EU
 - **anwendungsfall-triage** — wenn KI-VO-Bezug → hier herleiten
 - **mandantendaten-ki** (Kanzlei-intern) — bei eigener KI-Nutzung
 
@@ -281,7 +281,7 @@ Verbote (Auswahl):
 ## Faktische Updates (Stand 05/2026)
 
 - **Stufenweise Anwendung KI-VO (Art. 113 und Digital-Omnibus-Zeitstrahl):** 02.02.2025 — Verbote Art. 5 und Art. 4 KI-Kompetenz; 02.08.2025 — GPAI-Pflichten Art. 51-55, Sanktionsregime Art. 99; 02.08.2026 — Transparenzpflichten Art. 50 und nicht verschobene Pflichten; Hochrisiko Anhang III spätestens 02.12.2027, Hochrisiko Anhang I spätestens 02.08.2028. Quelle: VO (EU) 2024/1689 und aktueller Kommissionsstand.
-- **EDSA-Schnittstelle KI-VO / DSGVO:** EDSA-Stellungnahme 28/2024 (Modelle, die mit personenbezogenen Daten trainiert wurden) — verbindliche Auslegungshilfe zur DSGVO-Grundlage bei KI-Training und -Deployment. Quelle: edpb.europa.eu.
+- **EDSA-Stellungnahme 28/2024:** Die Stellungnahme zu Modellen, die mit personenbezogenen Daten trainiert wurden, ist eine nicht bindende aufsichtsbehördliche Orientierungshilfe. Ihre Aussagen sind am Normtext und an einschlägiger Rechtsprechung zu messen. Quelle: edpb.europa.eu.
 - **GPAI Code of Practice:** seit 2025 verfuegbar; Anbieter, die zeichnen, geniessen Vermutung der Compliance (Art. 56 KI-VO). Live-Status der Saeulen (Transparenz, Urheberrecht, Safety/Security) über digital-strategy.ec.europa.eu prüfen.
 - **EU-KI-Büro:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
 - **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live über bundestag.de prüfen.

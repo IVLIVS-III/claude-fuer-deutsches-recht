@@ -40,9 +40,9 @@ Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli
 
 ## Startet bei
 
-- Lohnpfändung in Vorbereitung (`zv-pfueb-arbeitsentgelt`)
-- Kontopfändung mit P-Konto-Berechnung (`zv-pfueb-bank` + § 850k ZPO)
-- Schuldnerseite verlangt Anpassung der Freibeträge (`zv-abwehr-schuldner`)
+- Lohnpfändung in Vorbereitung (`pfueb-arbeitsentgelt`)
+- Kontopfändung mit P-Konto-Berechnung (`pfueb-bank` + § 850k ZPO)
+- Schuldnerseite verlangt Anpassung der Freibeträge (`abwehr-schuldner`)
 
 ## Rechtsgrundlagen
 

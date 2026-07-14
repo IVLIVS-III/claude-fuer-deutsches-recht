@@ -20,7 +20,7 @@ Nachfolgend Verdachtsfälle: Aktenzeichen, deren Existenz in den geprüften öff
 
 - `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/09_anmeldung_gesellschafterdarlehen_nachrang.md:84` — "BGH, Urt. v. 13.10.2022 – IX ZR 28/21". Eine BGH-Entscheidung mit dem Datum 13.10.2022 existiert (IX ZR 130/21), das Aktenzeichen IX ZR 28/21 ist in dejure.org-Suche nicht eindeutig getroffen. Vor Verwendung verifizieren.
 
-- `testakten/gesellschaftsgruender-streit-roeschen-tech/06_Anfechtungsklage_Christine.md:115` — "BGH, Beschl. v. 08.11.2022 - II ZR 91/21". Verifiziert. Aber zugleich: "BGH, Urt. v. 25.01.2022 - II ZR 50/20" — verifiziert.
+- `testakten/gesellschaftsgruender-streit-roeschen-tech/06_Anfechtungsklage_Christine.md:115` — "BGH, Urt. v. 08.11.2022 - II ZR 91/21". Verifiziert. Aber zugleich: "BGH, Urt. v. 25.01.2022 - II ZR 50/20" — verifiziert.
 
 - `testakten/lumen-studios-insolvenz-strafverfahren/07_Vernehmung_Bergmann_22-10-2024.md:58` — "BGH II ZR 130/05 u.a." zur Ressortverteilung. Die Leit-Entscheidung zur Ressortverteilung von 2018 ist BGH II ZR 11/17. II ZR 130/05 ist nicht ohne weitere Quelle verifizierbar. Vor Verwendung prüfen.
 

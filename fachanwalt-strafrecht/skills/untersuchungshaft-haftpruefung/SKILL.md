@@ -169,7 +169,7 @@ description: "Wenn es um Untersuchungshaft und Haftprüfung nach Paragrafen 112 
 ## 10) BGH/BVerfG-Linien (Stand Mai 2026)
 
 - Verfassungsrechtliche Maßstaebe der Untersuchungshaft (Verhältnismäßigkeit, Beschleunigungsgebot in Haftsachen): Grundlage BVerfG 17.01.2013 — 2 BvR 2098/12 und BVerfG-Linie zur ueberlangen Haft; Aktualisierungen vor Ausgabe in bverfg.de und dejure.org prüfen. Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/112/1.html
-- BVerfG 23.09.2025 — 2 BvR 625/25: ANOM-Kommunikation und Verwertbarkeit im Strafverfahren; relevant für Tatverdacht und damit Haftgrund. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BVerfG, Beschluss vom 23. September 2025, 2 BvR 625/25: Die Verfassungsbeschwerde gegen eine auf ANOM-Daten gestützte Verurteilung wurde nicht zur Entscheidung angenommen; nach dem dortigen Vortrag bestanden keine verfassungsrechtlichen Bedenken gegen die Verwertung. Für die Haftprüfung folgt daraus keine pauschale Verwertbarkeitsregel. Herkunft, Authentizität, konkrete Belastungstatsachen und Einwände gegen die Verwertung im Einzelfall prüfen. Amtliche Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 112 StPO / Haftpruefung ist Stand Mai 2026 nicht in dejure.org / openjur.de mit Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 112 StPO Haftgrund" durchführen.
 
 ## Anschluss

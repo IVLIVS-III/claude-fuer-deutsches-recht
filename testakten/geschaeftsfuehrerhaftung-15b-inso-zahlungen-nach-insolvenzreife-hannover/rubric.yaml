@@ -1,84 +1,62 @@
 name: geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover
-beschreibung: >
-  Geschaeftsfuehrerhaftung nach Paragraf 15b InsO: Systemgastronomie mit elf
-  Filialen, Zahlungsunfaehigkeit nach Liquiditaetsstatus seit September 2025,
-  schriftliche Warnung der Steuerberaterin, Eigenantrag erst am 20.01.2026.
-  Zwischen Insolvenzreife und Antrag flossen 1.238.400 EUR; die Verwalterin
-  fordert 1.080.100 EUR. Prueffragen: Eintritt der Zahlungsunfaehigkeit
-  gegen Stundungs- und Zahlungsstockungseinwaende, Privilegierung nach
-  Abs. 2 und 3 nur waehrend laufender Antragsfrist, Nachweis geringerer
-  Masseschmaelerung nach Abs. 4 Satz 2, Gesellschafterzahlungen nach Abs. 5,
-  Steuerzahlungen nach Abs. 8 bei verletzter Antragspflicht,
-  Sozialversicherungsbeitraege und Paragraf 266a StGB, D&O-Deckung.
-pruefpunkte:
-  - id: p01-insolvenzreife-und-frist
-    beschreibung: >
-      Der Eintritt der Zahlungsunfaehigkeit und der Ablauf der Antragsfrist
-      des Paragraf 15a Abs. 1 InsO muessen aus den Finanzdaten selbststaendig
-      hergeleitet und gegen die Datierung des Eigenantrags gestellt werden.
-    erwartung: >
-      Aus 05_liquiditaetsstatus_stichtage_2025_2026.csv wird die zweistellige,
-      stetig wachsende Unterdeckung ab Ende April 2025 abgeleitet und der
-      Eintritt der Zahlungsunfaehigkeit spaetestens im September 2025 verortet
-      (Fristablauf 13.10.2025); die Datierung des Eigenantrags (05.01.2026)
-      wird als widerlegt erkannt; die Stundungs- und Zahlungsstockungs-
-      einwaende der Verteidigung werden anhand der Gastroquell-Mahn-E-Mails
-      und der Banknotiz gewuerdigt.
-  - id: p02-privilegierung-abs2-abs3
-    beschreibung: >
-      Die Systematik der Privilegierung nach Paragraf 15b Abs. 1 Satz 2,
-      Abs. 2 und Abs. 3 InsO muss zutreffend angewendet werden.
-    erwartung: >
-      Erkannt wird, dass Zahlungen im ordnungsgemaessen Geschaeftsgang nur
-      privilegiert sind, solange die Antragsfrist laeuft UND der
-      Geschaeftsfuehrer Sanierungs- oder Antragsvorbereitungsmassnahmen
-      betreibt, dass blosse Hoffnung auf das Weihnachtsgeschaeft und
-      undokumentierte Gespraeche keine solchen Massnahmen sind und dass nach
-      Fristablauf der strenge Massstab des Abs. 3 gilt.
-  - id: p03-kategorien-und-abs4-satz2
-    beschreibung: >
-      Die Zahlungsauswertung muss kategorienweise durchgeprueft und der
-      Massstab des Abs. 4 Satz 2 (geringere Masseschmaelerung, Beweislast
-      beim Geschaeftsfuehrer) angewendet werden.
-    erwartung: >
-      Zug-um-Zug-Wareneinkauf, Energie/Versicherung und Arbeitnehmeranteile
-      werden als vertretbar anerkannt, Nettoloehne, Arbeitgeberanteile,
-      Mieten und Leasing als erstattungspflichtig eingeordnet; das
-      Fortfuehrungs- und Arbeitsplatzargument wird an den durchgehend
-      negativen Monatsergebnissen der BWA gemessen; die Rechenwege
-      (1.238.400 abzueglich 158.300 gleich 1.080.100 EUR) werden
-      nachvollzogen.
-  - id: p04-steuern-abs8
-    beschreibung: >
-      Das Verhaeltnis von Paragraf 15b Abs. 8 InsO zu Paragraf 69 AO muss
-      fuer den Fall der verletzten Antragspflicht aufgeloest werden.
-    erwartung: >
-      Erkannt wird, dass Abs. 8 die Pflichtenkollision nur bei nicht
-      verletzter Antragspflicht oder rechtzeitigem Antrag aufloest, hier
-      saemtliche Steuerzahlungen nach dem Fristablauf am 13.10.2025 lagen
-      und die Privilegierung deshalb ausscheidet; die Differenzierung
-      zwischen Lohnsteuer, Umsatzsteuer und den ueber Paragraf 266a StGB
-      geschuetzten Arbeitnehmeranteilen wird sauber gezogen.
-  - id: p05-gesellschafterzahlungen-abs5
-    beschreibung: >
-      Das Beraterhonorar an die Ohlendorf Beteiligungs-UG muss an
-      Paragraf 15b Abs. 5 InsO gemessen und mit der Anfechtungsloesung
-      (Paragrafen 134, 135 InsO) verzahnt werden.
-    erwartung: >
-      Erkannt wird die Doppelrolle Ohlendorfs auf beiden Vertragsseiten,
-      das Fehlen jeglicher Leistungsnachweise, die WhatsApp-Aussage
-      "Das ist mein Gehalt" als Indiz fuer verdeckte Gewinnentnahme und
-      die parallele Anfechtbarkeit gegenueber der UG; der Einwand, die
-      Einzelzahlung habe die Zahlungsfaehigkeit nicht beeintraechtigt,
-      wird am Massstab des Abs. 5 gewuerdigt.
-  - id: p06-d-und-o-deckung
-    beschreibung: >
-      Die versicherungsrechtliche Dimension (D&O) muss erkannt und in die
-      Verhandlungsstrategie eingeordnet werden.
-    erwartung: >
-      Benannt werden die Einbeziehung des Paragraf-15b-Anspruchs in die
-      Innenhaftungsdeckung, der Ausschluss der wissentlichen
-      Pflichtverletzung als zentrales Deckungsrisiko angesichts des
-      Warnschreibens vom 29.09.2025 und der bestaetigten Kenntnisnahme,
-      der vorlaeufige Abwehrkostenschutz sowie die taktische Bedeutung
-      einer Gesamtloesung unter Einbeziehung des Versicherers.
+description: 'Geschäftsführerhaftung nach Paragraf 15b InsO bei einer Systemgastronomie mit elf Filialen: Liquiditätsstatus,
+  verspäteter Eigenantrag, kategorisierte Zahlungen, Gesellschafterleistungen, Steuer- und Sozialabgaben sowie Deckungsfragen
+  der D&O-Versicherung müssen zusammengeführt werden.'
+checks:
+  - id: liquiditaetsstatus-vorhanden
+    check_type: file_exists
+    description: Der stichtagsbezogene Liquiditätsstatus ist als auswertbare Tabelle vorhanden.
+    path: 05_liquiditaetsstatus_stichtage_2025_2026.csv
+  - id: zahlungsauswertung-vorhanden
+    check_type: file_exists
+    description: Die Zahlungen nach dem angenommenen Eintritt der Insolvenzreife sind kategorisiert.
+    path: 07_zahlungsauswertung_nach_insolvenzreife.csv
+  - id: sachverstaendigengutachten-vorhanden
+    check_type: file_exists
+    description: Ein Gutachten zur Zahlungsunfähigkeit steht für die Beweiswürdigung zur Verfügung.
+    path: 21_sachverstaendigengutachten_ossenberg_zahlungsunfaehigkeit.docx
+  - id: liquiditaetsstatus-stichtag-september
+    check_type: regex_match
+    description: Der September-Stichtag weist die für die Akte maßgebliche Unterdeckung aus.
+    path: 05_liquiditaetsstatus_stichtage_2025_2026.csv
+    pattern: ^30[.]09[.]2025;801000;26000;38000;421000;485000;316000;39[.]45$
+  - id: zahlungssumme
+    check_type: regex_match
+    description: Die Zahlungsauswertung enthält die rechnerische Gesamtsumme von 1.238.400 Euro.
+    path: 07_zahlungsauswertung_nach_insolvenzreife.csv
+    pattern: ^Summe geflossen;22[.]09[.]2025-20[.]01[.]2026;;1238400[.]00;
+  - id: insolvenzreife-und-antragsfrist
+    check_type: human_review
+    description: Die Zahlungsunfähigkeit wird aus den Primärdaten hergeleitet und vom im Eigenantrag behaupteten
+      Eintritt am 5. Januar 2026 getrennt.
+    note: Die Unterdeckung ist ab Ende Mai 2025 zweistellig und wächst weiter. Den Eintritt spätestens im September
+      2025, den Fristablauf am 13. Oktober 2025 und die Antragstellung am 20. Januar 2026 getrennt ausweisen.
+  - id: privilegierung-absatz-zwei-und-drei
+    check_type: human_review
+    description: Die Vermutungs- und Privilegierungsregeln des Paragraf 15b Absatz 1 Satz 2 sowie der Absätze 2
+      und 3 InsO werden zeitlich sauber angewendet.
+    note: Dokumentierte Sanierungs- oder Antragsvorbereitungsmaßnahmen, laufende Antragsfrist und Zahlungen nach
+      Fristablauf getrennt prüfen; bloße Hoffnung auf das Weihnachtsgeschäft genügt nicht.
+  - id: zahlungskategorien-und-masseschmaelerung
+    check_type: human_review
+    description: Jede Zahlungskategorie wird eigenständig geprüft und der Einwand einer geringeren Masseschmälerung
+      nach Paragraf 15b Absatz 4 Satz 2 InsO beweisbezogen behandelt.
+    note: Wareneinkauf, Energie, Löhne, Sozialabgaben, Mieten, Leasing und Gesellschafterzahlungen nicht pauschal
+      zusammenfassen; den Rechenweg von 1.238.400 Euro zur geltend gemachten Forderung von 1.080.100 Euro zeigen.
+  - id: steuerzahlungen-und-sozialabgaben
+    check_type: human_review
+    description: Steuerzahlungen und Sozialversicherungsbeiträge werden nach Gläubiger, Fälligkeit, Fristlage und
+      möglicher Pflichtenkollision getrennt.
+    note: Die erste Steuerzahlung vom 10. Oktober 2025 lag vor dem angenommenen Fristablauf am 13. Oktober; die
+      drei späteren Zahlungen lagen danach. Arbeitnehmer- und Arbeitgeberanteile sowie Paragraf 266a StGB trennen.
+  - id: gesellschafterzahlung
+    check_type: human_review
+    description: Das Beraterhonorar an die Ohlendorf Beteiligungs-UG wird an Paragraf 15b Absatz 5 InsO und den
+      einschlägigen Anfechtungsnormen gemessen.
+    note: Vier Zahlungen zu je 12.000 Euro, die rückgebuchte fünfte Rate, Doppelvertretung, fehlende Leistungsnachweise
+      und Chatnachrichten beweisbezogen einordnen.
+  - id: deckung-und-verhandlung
+    check_type: human_review
+    description: Anspruchsabwehr, Deckungsprüfung und Vergleichsstrategie werden als getrennte Arbeitsstränge behandelt.
+    note: Bedingungswerk, Abwehrkostenschutz, Wissentlichkeitsausschluss und das Warnschreiben vom 29. September
+      2025 in die Strategie einbeziehen.

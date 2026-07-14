@@ -7,7 +7,7 @@ description: "Wenn es um Drei-Säulen-Prüfung: Titel, Klausel, Zustellung in Zw
 
 ## Arbeitsbereich
 
-Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu kommandocenter (Routing) und mahnbescheid-online-mobiliar-gv (Titelerlangung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn d
 
 ## Fachkern: Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
 
-- **Spezialfrage (Drei-Säulen-Prüfung: Titel, Klausel, Zustellung):** vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung).
+- **Spezialfrage (Drei-Säulen-Prüfung: Titel, Klausel, Zustellung):** vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu kommandocenter (Routing) und mahnbescheid-online-mobiliar-gv (Titelerlangung).
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 ## Rechtsgrundlagen
@@ -116,7 +116,7 @@ Nächster Schritt: [...]
 
 ## Querverweise
 
-- `zv-mahnbescheid-online` – Mahnverfahren bis zum Titel.
-- `zv-notarielle-urkunde-grundschuld` – Klauselerteilung durch Notar.
-- `zv-tabellenauszug-201-inso` – vollstreckbare Ausfertigung des Tabellenauszugs.
+- `mahnbescheid-online-mobiliar-gv` – Mahnverfahren bis zum Titel.
+- `notarielle-urkunde-grundschuld` – Klauselerteilung durch Notar.
+- `tabellenauszug-201-inso` – vollstreckbare Ausfertigung des Tabellenauszugs.
 - `prozessrecht/vollstreckung` – Hub-Skill und Übergang in das gesamte Vollstreckungsthema.

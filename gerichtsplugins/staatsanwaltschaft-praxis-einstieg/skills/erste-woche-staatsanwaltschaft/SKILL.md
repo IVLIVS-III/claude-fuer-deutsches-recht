@@ -125,7 +125,7 @@ Es gilt die Zitierweise nach `references/zitierweise.md` des Repositorys. Jede t
 
 Das Arbeitsprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt verboten; jede Verfügung enthält mindestens einen vollständigen Satz, der die Rechtsfolge konkret und subsumtionstauglich anordnet. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman in 11 pt und ausschließlich dezimale Gliederung; römische Ziffern, Großbuchstaben-, Kleinbuchstaben- oder gemischte Verlagsgliederungen werden nicht verwendet. Bei Markdown- oder Chat-Ausgabe wird der Formatwunsch Times New Roman 11 pt mit dezimaler Gliederung als Exporthinweis aufgenommen.
 
-Eine Datenschutz- und Aktengeheimniswarnung gilt durchgehend: Echte personenbezogene Verfahrensdaten werden nur in Werkzeugen mit Auftragsverarbeitungsvertrag verarbeitet; im Übrigen wird mit anonymisierten oder synthetischen Fällen gearbeitet, um das Aktengeheimnis nach Paragraf 353d StGB und Paragraf 203 StGB sowie Art. 22 DSGVO zu wahren. Die staatsanwaltschaftliche Letztentscheidung liegt zwingend beim Menschen.
+Verfahrensdaten und dienstliche Geheimnisse werden ausschließlich nach den geltenden Dienstanweisungen und Verschwiegenheitspflichten verarbeitet. Bei jeder Weitergabe sind insbesondere Paragraf 353b StGB, Paragraf 203 StGB, Zugriffsberechtigungen und der konkrete Verfahrenszweck zu prüfen; die staatsanwaltschaftliche Letztentscheidung verbleibt beim zuständigen Amtsträger.
 
 ## 9. Beispiele
 

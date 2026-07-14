@@ -59,7 +59,7 @@ Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall
 
 ## Insolvenzfeste Gestaltung
 
-Damit der Verwalter den Escrow nicht "abwaehlen" kann ($ 103 InsO):
+Damit der Verwalter den Escrow nicht "abwaehlen" kann (Paragraf 103 InsO):
 
 1. Source Code befindet sich **rechtlich beim Lizenznehmer** mit aufschiebender Bedingung
 2. Hinterlegung beim Escrow-Agent dient nur der Realisierung
@@ -69,7 +69,7 @@ Siehe vertiefend: `insolvenz-fortbestand-paragraf-103-inso-lizenz`.
 
 ## Klausel-Baustein
 
-> **$ 14 Source-Code-Escrow.**
+> **Paragraf 14 Source-Code-Escrow.**
 >
 > (1) Der Lizenzgeber wird den vollstaendigen Source Code zur Lizenzsoftware nebst Build-Anweisungen, Dependencies-Liste, Architektur-Dokumentation und Test-Suite bei einem Escrow-Agent ("Verwahrer") hinterlegen. Verwahrer wird einvernehmlich von den Parteien innerhalb von 30 Tagen nach Vertragsunterzeichnung bestimmt.
 >

@@ -14,15 +14,15 @@ description: "Wenn es um Strafrecht Spezial Verbandssanktionengesetz Stand 2026 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Prüfraster Anknuepfungstat Leitungsperson Vermögensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung.
+**Fokus:** Verbandssanktionen Stand 06/2026: Beratung zur geltenden Verbandsgeldbuße nach Paragraph 30 OWiG, zur Aufsichtspflichtverletzung nach Paragraph 130 OWiG, zur Einziehung und zu spezialgesetzlichen Folgen. Der Regierungsentwurf von 2020 wird nur als nicht verabschiedete Reformhistorie behandelt.
 
 ### Verbandssanktionen Stand 06/2026
 
 ## Worum geht es
 
-Spezial-Mandat: Beratung Unternehmen oder Unternehmensvertretern bei drohender Verbandsgeldbusse nach **§ 30 OWiG** wegen Korruption, Geldwaesche, Steuerhinterziehung, Kartellrechtsverstoessen, Datenschutzverstoessen, Marktmissbrauch. Zugleich Beratung zum laufenden Gesetzgebungsverfahren **Verbandssanktionengesetz (VerSanG)**.
+Spezial-Mandat: Beratung von Unternehmen oder Unternehmensvertretern bei drohender Verbandsgeldbuße nach **§ 30 OWiG** wegen Korruption, Geldwäsche, Steuerhinterziehung, Kartellrechtsverstößen oder Marktmissbrauch. Der historische Regierungsentwurf eines Verbandssanktionengesetzes ist kein geltendes Recht und kein laufendes Verfahren dieses Mandats.
 
-**Wichtig zum Stand 06/2026:** Der **VerSanG-Entwurf** vom 16.06.2020 (Regierungsentwurf "Gesetz zur Staerkung der Integritaet in der Wirtschaft") wurde **in der 19. WP nicht beschlossen** und im Koalitionsvertrag 2021 zurueckgestellt. Die Ampel-Regierung 2021 hatte eine Wiederaufnahme in Aussicht gestellt, jedoch waehrend ihrer Amtszeit nicht abgeschlossen. **Stand 06/2026 ist VerSanG nicht in Kraft.** Maßgeblich bleibt **§ 30 OWiG** plus Verbands-Geldbussenrecht. Aktuellen Gesetzgebungsstand vor jeder Mandatsauskunft live verifizieren.
+**Wichtig zum Stand 06/2026:** Der Regierungsentwurf vom 16.06.2020, Bundestagsdrucksache 19/23568, wurde in der 19. Wahlperiode nicht beschlossen und ist nicht in Kraft. Maßgeblich bleiben insbesondere die Paragraphen 30 und 130 OWiG, die Einziehungsvorschriften sowie spezialgesetzliche Sanktionen. Ein späteres Reformvorhaben darf erst nach Nachweis eines neuen amtlichen Gesetzgebungsverfahrens als aktuell bezeichnet werden.
 
 ## Eingaben
 
@@ -62,18 +62,18 @@ Der VerSanG-Entwurf 2020 sah vor:
 
 - **Verbandsstrafe (nicht nur OWi).** Verbandsgeldsanktion bis 10 Prozent des Konzernumsatzes (bei Konzernen mit Umsatz über 100 Mio. EUR).
 - **Legalitaetsprinzip.** Verfolgungspflicht StA statt Opportunitaet (§ 47 OWiG).
-- **Verbandstaufloesung** in Extremfaellen.
-- **Aufgabengerechte Compliance** als Strafmilderung / Strafausschluss.
-- **Internal Investigations** mit Schutz vor Beschlagnahme bei klar dokumentierter Trennung von Verteidigung.
+- **Verwarnung mit Verbandsgeldsanktionsvorbehalt** als weitere Sanktionsform.
+- **Compliance-Maßnahmen** als Gesichtspunkt der Sanktionszumessung, nicht als automatischer Strafausschluss.
+- **Milderung bei verbandsinternen Untersuchungen** nur unter den im Entwurf vorgesehenen Kooperations-, Trennungs- und Dokumentationsanforderungen; kein pauschaler Beschlagnahmeschutz.
 - **Verbandsregister** mit Veroeffentlichungen.
 
-**Stand 06/2026 nicht in Kraft.** Bei Beratung darauf hinweisen, dass eine Reform absehbar erfolgen koennte, aber derzeit § 30 OWiG plus Spezialgesetze gelten.
+**Stand 06/2026 nicht in Kraft.** Den Entwurf nur zur Reformhistorie oder zur Gestaltung freiwilliger Compliance-Maßnahmen heranziehen, niemals als Anspruchs- oder Sanktionsgrundlage.
 
 ## Praktikertipps für Verteidigung Verband
 
 - **Compliance-Defence dokumentieren.** Bei Anlasstat eines Mitarbeiters Verbandsverantwortung reduzieren durch Nachweis wirksamen Compliance-Programms (ISO 37301).
 - Interne Untersuchungen durchführen, aber die Verteidigung der Leitungsperson und des Verbands strikt trennen. Für Durchsuchung, Sicherstellung und Beschlagnahmeschutz die BVerfG-Beschlüsse vom 27.06.2018 - 2 BvR 1287/17 und 2 BvR 1583/17 - zur Jones-Day-Untersuchung mit ihrem konkreten Mandats- und Verfahrensbezug prüfen.
-- **Selbstanzeige § 47 OWiG / § 153a StPO** strategisch prüfen.
+- **Frühe Kooperation** strategisch prüfen. Paragraph 47 OWiG begründet keine allgemeine strafbefreiende Selbstanzeige; Wirkung und Risiken einer Offenlegung delikts- und verfahrensbezogen bewerten.
 - **Sanktion-Mitigation** durch Kooperation, Wiedergutmachung, Beendigung struktureller Defizite.
 - **Vorgehen Datenraum**, Anwaltliche Verschwiegenheit § 53 StPO bei Internal-Investigations-Unterlagen — Schutz vor Beschlagnahme.
 - **Berufsverbot** drohend bei Leitungsperson — § 70 StGB / § 6 GmbHG / § 76 AktG.
@@ -101,7 +101,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 
 - **Verbandsgeldbusse § 30 OWiG** Hoechstrahmen 10 Mio. EUR bei Straftat (5 Mio. EUR bei Fahrlaessigkeit).
 - **Abschoepfung wirtschaftlicher Vorteil** über Bussgeldrahmen hinaus möglich.
-- **Wettbewerbsregister § 124 GWB** Vergabeausschluss bis 5 Jahre.
+- **Wettbewerbsregister und Vergabeausschluss** nach Wettbewerbsregistergesetz sowie Paragraphen 123 bis 126 GWB prüfen; Eintragung, Ausschlussgrund, Selbstreinigung und Höchstdauer nicht vermengen.
 - **Berufsverbot Leitungsperson** § 70 StGB / Disqualifikation § 6 GmbHG / § 76 AktG.
 - **Reputation, Schadenersatz Gläubiger / Gesellschafter** parallel zivilrechtlich.
 - **D&O-Versicherung** Inanspruchnahme; oft Deckungsstreit.
@@ -119,7 +119,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 ## Quellen Stand 06/2026
 
 - §§ 30, 130, 17, 47 OWiG https://www.gesetze-im-internet.de/owig_1968/.
-- VerSanG-Regierungsentwurf vom 16.06.2020 (BT-Drucks. 19/23568) — Stand der Beratungen vor Mandatsbearbeitung live verifizieren über https://www.bundestag.de.
+- Historischer Regierungsentwurf vom 16.06.2020, Bundestagsdrucksache 19/23568; in der 19. Wahlperiode nicht verabschiedet und nicht geltendes Recht: https://dserver.bundestag.de/btd/19/235/1923568.pdf.
 - §§ 73, 73b, 73c StGB Einziehung.
 - § 124 GWB Wettbewerbsregister.
 - BVerfG 27.06.2018 — 2 BvR 1287/17 (Jones-Day, Internal Investigations, Beschlagnahme); Volltext https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/06/rk20180627_2bvr128717.html.

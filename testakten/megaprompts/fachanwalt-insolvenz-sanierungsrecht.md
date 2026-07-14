@@ -81,7 +81,7 @@ _Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Facha
 | Anfechtungsmandat (Gläubiger / Verwalter) | `insanw-anfechtungsmandat-leitfaden` | Tatbestände §§ 129 ff. InsO, Verteidigungsstrategie |
 | Konzerninsolvenz / Gruppenkoordination | `insanw-konzerninsolvenz-koordination-spezial` | Gruppen-Gerichtsstand § 3a InsO, Koordinationsverfahren |
 
-## Norm-Radar (live verifizieren)
+## Norm-Radar
 
 - **Paragraf 15a InsO** — Insolvenzantragspflicht ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung
 - **§ 17 InsO** — Zahlungsunfähigkeit
@@ -98,12 +98,12 @@ Wenn die Akte die Frage selbst beantwortet, **diese überspringen** und direkt d
 
 ## Leitentscheidungs-Anker (Such-Wegweiser, keine fertigen Zitate)
 
-- **Verwerterpflichten; höchstmögliche Erlöserzielung** — BGH IX. Zivilsenat (Linie IX ZR 169/04 v. 13.04.2006, fortgeführt) — *live verifizieren auf* `bundesgerichtshof.de`
-- **Vorsatzanfechtung § 133 InsO; Bargeschäfts-Ausnahme** — BGH IX. Zivilsenat (Linienwandel ab 2021) — *live verifizieren auf* `bundesgerichtshof.de`
-- **Insolvenzantragspflicht § 15a InsO; § 15b InsO Zahlungsverbot** — BGH II./IX. Zivilsenat — *live verifizieren auf* `bundesgerichtshof.de`
-- **Geschäftsveräußerung im Ganzen § 1 Ia UStG** — EuGH C-497/01 (Zita Modes); EuGH C-444/10 (Schriever); BFH — *live verifizieren auf* `curia.europa.eu + bfh.bund.de`
+- **Verwertung und Betriebsveräußerung** — Paragrafen 159, 160 und 163 InsO nach Verfahrensstand, Sicherungsrechten, Beschlusslage und dokumentiertem Marktprozess prüfen. Einen Haftungsanker nach Paragraf 60 InsO nur verwenden, wenn Sachverhalt, Pflichtenkreis und tragende Aussage der Entscheidung tatsächlich passen.
+- **Vorsatzanfechtung und Bargeschäft** — Paragraphen 133 und 142 InsO tatbestandsbezogen prüfen; erst nach Festlegung von Handlung, Deckungsart, Benachteiligung und Kenntnis die passende Entscheidung des IX. Zivilsenats auswählen.
+- **Insolvenzantragspflicht und Zahlungsverbot** — Paragraphen 15a und 15b InsO strikt nach Pflichtigem, Insolvenzgrund, Frist, Zahlung und Privilegierung trennen.
+- **Geschäftsveräußerung im Ganzen** — EuGH, Urteil vom 27.11.2003 - C-497/01 (Zita Modes): Übertragung einer selbständigen wirtschaftlichen Einheit, die fortgeführt werden kann. EuGH, Urteil vom 10.11.2011 - C-444/10 (Schriever): Erforderlichkeit mitübertragener Betriebsgrundlagen, insbesondere von Räumen, hängt von Art und Umständen der Tätigkeit ab.
 
-> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle prüfen und Datum, Aktenzeichen, Randnummer abklären. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
+> Diese Anker sind Sucheinstieg. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief die konkrete Entscheidung in der amtlichen Quelle öffnen und Datum, Aktenzeichen, Randnummer sowie Übertragbarkeit auf den festgestellten Sachverhalt prüfen. Kuratierte Anker-Sammlung in `references/leitentscheidungen-anker.md`.
 
 ## Hinweis
 

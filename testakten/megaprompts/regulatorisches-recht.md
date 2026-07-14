@@ -9,13 +9,13 @@ Diese Vollprüfung enthält top-10 von 61 Skills des Plugins `regulatorisches-re
 1. **einstieg-routing** — Wenn es um Einstieg und Routing in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlag…
 2. **aufsichtsrecht-erstpruefung-und-mandatsziel** — Wenn es um Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel in Regulatorisches Recht – Plugin für deutsches ge…
 3. **feeds-compliance-dokumentation-und-akte** — Wenn es um Compliance-Dokumentation und Aktenvermerk (regulatorische Verfahren) in Regulatorisches Recht – Plugin für de…
-4. **luecken-aufzeiger** — Wenn es um Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen in Regulatorisches Recht – Plugin für deutsches…
-5. **voranmeldung-schriftsatz-brief-und-memo-bausteine** — Wenn es um Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine in Regulatorisches Recht – Plugin für deutsches geht: e…
-6. **regrecht-internal-policies-design** — Wenn es um Regrecht: Internal Policies in Regulatorisches Recht – Plugin für deutsches geht: ordnet Sachverhalt, Norm, B…
-7. **heilmwerbg-risikoampel-und-gegenargumente** — Wenn es um Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien in Regulatorisches Recht – Plugin für deutsch…
-8. **aufsichtsverfahren-anhoerung-gwg** — Wenn es um Aufsichtsverfahren, Anhörung und Maßnahmebescheid in Regulatorisches Recht – Plugin für deutsches geht: ordne…
-9. **regulator-zahlen-schwellen-und-berechnung** — Wenn es um Regulator: Zahlen, Schwellenwerte und Berechnung in Regulatorisches Recht – Plugin für deutsches geht: rechne…
-10. **stellungnahmen-beweislast-und-darlegungslast** — Wenn es um Stellungnahmen: Beweislast, Darlegungslast und Substantiierung in Regulatorisches Recht – Plugin für deutsche…
+4. **voranmeldung-schriftsatz-brief-und-memo-bausteine** — Wenn es um Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine in Regulatorisches Recht – Plugin für deutsches geht: e…
+5. **regrecht-internal-policies-design** — Wenn es um Regrecht: Internal Policies in Regulatorisches Recht – Plugin für deutsches geht: ordnet Sachverhalt, Norm, B…
+6. **heilmwerbg-risikoampel-und-gegenargumente** — Wenn es um Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien in Regulatorisches Recht – Plugin für deutsch…
+7. **aufsichtsverfahren-anhoerung-gwg** — Wenn es um Aufsichtsverfahren, Anhörung und Maßnahmebescheid in Regulatorisches Recht – Plugin für deutsches geht: ordne…
+8. **regulator-zahlen-schwellen-und-berechnung** — Wenn es um Regulator: Zahlen, Schwellenwerte und Berechnung in Regulatorisches Recht – Plugin für deutsches geht: rechne…
+9. **stellungnahmen-beweislast-und-darlegungslast** — Wenn es um Stellungnahmen: Beweislast, Darlegungslast und Substantiierung in Regulatorisches Recht – Plugin für deutsche…
+10. **regulatorik-mandatssteckbrief-behoerden-fristen** — Wenn es um Regulatorisches Mandat: Behörden, Fristen und Rollen in Regulatorisches Recht – Plugin für deutsches geht: er…
 
 ---
 
@@ -177,152 +177,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `luecken-aufzeiger`
-
-_Wenn es um Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen
-
-## Eingaben
-
-- **Aufsichtsverlautbarung:** BaFin-Rundschreiben / Leitlinie (hochgeladen oder per Link)
-- **Interne Richtlinie(n):** Zu prüfende Bestandsdokumente (hochgeladen oder aus Richtlinienbibliothek)
-- **Segment:** Art des Instituts / Unternehmens (z. B. Kreditinstitut KWG § 1, Zahlungsinstitut ZAG § 1, Wertpapierfirma WpIG § 2)
-- Optional: Übergangsfrist aus der Verlautbarung
-- Optional: Bestehende Gap-Liste aus vorherigem Lauf
-
-## Ablauf
-
-### 1. Verlautbarung einlesen und strukturieren
-
-Die Aufsichtsverlautbarung lesen und gliedern:
-
-| Modul / Abschnitt | Regelungsinhalt | Adressatenkreis | Übergangsfrist |
-|---|---|---|---|
-| [z. B. AT 4.3.2] | [Anforderung] | [Alle Institute / Bedeutende Institute] | [TT.MM.JJJJ] |
-
-Für MaRisk-Rundschreiben (BaFin RS 09/2017 i.d.F. Novelle 2023) [Modellwissen – prüfen auf aktuelle Fassung]:
-- **AT-Module:** Allgemeiner Teil (AT 1 – AT 9)
-- **BT-Module:** Besonderer Teil (BTO Kreditgeschäft, BTRO Handelsgeschäft)
-- **BTR-Module:** Besondere Anforderungen Risikosteuerung (BTR 1–4)
-
-### 2. Interne Richtlinien einlesen und zuordnen
-
-Für jede interne Richtlinie ermitteln:
-- Welches Modul / welchen Abschnitt der Verlautbarung deckt sie ab?
-- Letzte Aktualisierung
-- Verantwortlicher
-
-Zuordnungsmatrix erstellen:
-
-| Verlautbarungsabschnitt | Interne Richtlinie | Deckungsgrad | Bemerkung |
-|---|---|---|---|
-| AT 4.3.2 | IKS-Richtlinie v. 01.03.2023 | teilweise | Datenhaltungsfristen fehlen |
-| BT 3.1 | Stresstesting-Policy | vollständig | Aktuell |
-| BTR 2.3 | Liquiditätsrichtlinie | keine | Richtlinie fehlt `[prüfen]` |
-
-### 3. Gap-Identifikation
-
-Für jede identifizierte Lücke:
-
-```yaml
-gap:
- id: "[GAP-2025-001]"
- verlautbarung: "[BaFin RS 09/2017 Novelle 2023, AT 4.3.2]"
- anforderung: "[Beschreibung der neuen Anforderung]"
- bestandsregel: "[Aktuelle interne Regelung oder 'keine']"
- luecke: "[Was fehlt oder abweicht]"
- schweregrad: "[🔴 Blockierend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering]"
- frist: "[TT.MM.JJJJ oder 'keine Frist']"
- eigentuemer: "[PLATZHALTER]"
- status: "offen"
-```
-
-Schweregradkriteria:
-- 🔴 **Blockierend:** Fehlende Anforderung ist prüfungsrelevant; BaFin-Prüfung würde Mängelbescheid auslösen
-- 🟠 **Hoch:** Anforderung ist klar formuliert, Lücke vorhanden, Frist < 3 Monate
-- 🟡 **Mittel:** Anforderung besteht, Lücke marginal oder Frist > 3 Monate
-- 🟢 **Gering:** Best-Practice-Empfehlung ohne verbindlichen Charakter
-
-### 4. Gap-Bericht erstellen
-
-**Zusammenfassung:**
-- Gesamtzahl Gaps: N
-- Davon 🔴 Blockierend: N | 🟠 Hoch: N | 🟡 Mittel: N | 🟢 Gering: N
-- Nächste Frist: TT.MM.JJJJ (GAP-2025-xxx)
-
-**Detaillierte Gap-Tabelle:** (alle Gaps mit Status, Frist, Eigentümer)
-
-**Handlungsempfehlungen:** Priorisierte Liste nach Schweregrad und Frist
-
-### 5. Gap-Tracker schreiben
-
-Gap-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml` aktualisieren.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-
-Art. 20 Abs. 3 GG (Lueckenfuellungs-Pflicht) — § 5 EGBGB (Analogie) — §§ 133, 157 BGB (Auslegung) — §§ 306 Abs. 2 BGB (Lueckenfuellung AGB-Recht) — Art. 288 AEUV (Richtlinien-Umsetzungs-Luecken)
-
-## Quellen und Zitierweise
-
-Zitierweise: `../../../references/zitierweise.md`
-
-Einschlägige Verlautbarungen und Normen:
-- BaFin-Rundschreiben 09/2017 (BA) – Mindestanforderungen an das Risikomanagement (MaRisk) i.d.F. der Novelle 2023 [Modellwissen – prüfen auf aktuelle Fassung; abrufbar unter bafin.de]
-- BaFin-Rundschreiben 10/2017 (VA) – VAIT (Versicherungsaufsichtliche Anforderungen an die IT) [Modellwissen – prüfen]
-- BaFin-Rundschreiben 10/2018 (BA) – BAIT (Bankaufsichtliche Anforderungen an die IT) i.d.F. 2021 [Modellwissen – prüfen]
-- EBA-Leitlinien EBA/GL/2021/04 – IRRBB/CSRBB [Modellwissen – prüfen]
-- § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
-- § 25b KWG (Auslagerungen)
-- Art. 74 CRD V (Governance-Anforderungen)
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 1 ff. (Risikomanagement Zahlungsinstitute).
-
-## Beispiel
-
-**Eingabe:** "Bitte die MaRisk-Novelle 2023 gegen unsere Risikomanagement-Richtlinien prüfen. Richtlinien sind im Ordner /compliance/richtlinien/ hinterlegt."
-
-**Ausgabe (Auszug):**
-
-> **⚠️ Prüfernotiz**
-> - **Quellen:** MaRisk RS 09/2017 Novelle 2023 [Modellwissen – prüfen gegen bafin.de], Richtlinien [Nutzer-Input]
-> - **Gelesen:** MaRisk vollständig; 5 Richtlinien
-> - **Zu Ihrer Einschätzung:** 2 Gaps mit 🔴 markiert `[prüfen]`
-> - **Vor Verwendung:** MaRisk-Fassung gegen bafin.de aktuellen Stand prüfen
-
----
-
-**Gap-Bericht: MaRisk-Novelle 2023**
-*Erstellt: 01.06.2025 | Institut: Musterbank AG | Segment: KWG-Kreditinstitut*
-
-**Zusammenfassung:** 7 Gaps identifiziert: 🔴 2 | 🟠 3 | 🟡 2 | 🟢 0
-
-| Gap-ID | Modul | Anforderung | Lücke | Schwere | Frist |
-|---|---|---|---|---|---|
-| GAP-2025-001 | AT 4.3.2 | Datenhaltung 10 J. | Richtlinie sieht 7 J. vor | 🔴 | 31.12.2025 |
-| GAP-2025-002 | BTR 3.2 | ESG-Risikointegration | Keine ESG-Policy vorhanden | 🔴 | 31.03.2026 |
-| GAP-2025-003 | BTO 1.2.4 | Kreditvergabestandards | Teilweise abgedeckt | 🟠 | 30.06.2026 |
-
-**Handlungsempfehlungen:**
-1. **Sofort (GAP-2025-001):** IKS-Richtlinie um Datenhaltungsklausel ergänzen; Norm: AT 4.3.2 MaRisk. Verantwortlich: Compliance.
-2. **Bis 31.12.2025 (GAP-2025-002):** ESG-Risikorichtlinie neu erstellen; `/regulatorisches-recht:richtlinien-neufassung` nutzen.
-
-## Risiken / typische Fehler
-
-- **Veraltete MaRisk-Version:** BaFin novelliert MaRisk regelmäßig; stets die aktuell gültige Fassung von bafin.de verwenden. Modellwissen über MaRisk-Inhalte immer gegen die offizielle Fassung prüfen: `[Modellwissen – prüfen]`.
-- **Adressatenkreis-Fehler:** Nicht alle MaRisk-Anforderungen gelten für alle Institute gleichermaßen (Proportionalitätsgrundsatz § 25a Abs. 1 S. 3 KWG). Institutsgröße und -komplexität beachten.
-- **Fehlende Übergangsfrist:** MaRisk-Novellen enthalten oft gestaffelte Übergangsfristen für einzelne Module. Nicht alle Gaps haben dieselbe Frist.
-- **Nur formale Prüfung:** Auch wenn eine interne Richtlinie den Anforderungswortlaut übernimmt, kann sie in der Praxis nicht gelebt werden. Hinweis auf erforderliche Prozessprüfung.
-- **Auslagerungsrisiken:** § 25b KWG-Anforderungen an ausgelagerte Tätigkeiten separat prüfen – nicht durch Richtlinienprüfung allein abgedeckt.
 
 ---
 
@@ -609,6 +463,165 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `regulatorik-mandatssteckbrief-behoerden-fristen`
+
+_Wenn es um Regulatorisches Mandat: Behörden, Fristen und Rollen in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Regulatorisches Mandat: Behörden, Fristen und Rollen
+
+## Zweck
+
+Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. Im regulatorischen Recht ist ein "Mandat" typischerweise:
+- Ein bestimmter Regulierungsakt, zu dem ein Mandant beraten wird (z. B. MaRisk-Novelle-Implementierung)
+- Ein offenes Konsultationsverfahren, für das eine Stellungnahme erstellt wird
+- Eine BaFin-Prüfung oder eine DORA-GAP-Analyse für einen bestimmten Mandanten
+- Ein Anfrageverfahren oder eine Abgrenzungsanfrage an eine Behörde
+
+**Inhouse-Nutzer:** Dieser Skill ist nicht relevant. Das Praxisprofil gilt für das gesamte Unternehmen.
+
+## Eingaben
+
+- Aktives Praxisprofil mit aktivierten Mandat-Workspaces
+- Mandat-Subkommando: `neu | auflisten | wechseln | schließen | keiner`
+- Optional: Mandat-Name, Mandant, Rechtsgebiet, Frist
+
+## Ablauf
+
+### Subkommando: `neu`
+
+Abfragen:
+```
+1. Mandant (intern: nur Kürzel, kein vollständiger Name in Logs)
+2. Mandat-Bezeichnung / Slug (z. B. bafin-prüfung-2025-mandantA)
+3. Art des Mandats:
+   a) Gap-Analyse gegen Regulierungsakt
+   b) Konsultationsbeitrag
+   c) Richtlinienneufassung
+   d) Behördenanfrage
+   e) Sonstiges
+4. Zuständige Behörde(n)
+5. Leitfrist (falls bekannt)
+```
+
+Mandatsordner anlegen:
+```
+~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/mandate/<mandat-slug>/
+├── mandat.md          # Mandat-Fakten und Übersteuerungen
+├── gap-tracker.yaml   # Mandat-spezifische Gaps
+├── comment-tracker.yaml
+└── verification-log.md
+```
+
+`mandat.md` Vorlage:
+```markdown
+# Mandat: [Bezeichnung]
+Erstellt: [TT.MM.JJJJ]
+Mandant: [Kürzel]
+Art: [Typ]
+Behörde(n): [Liste]
+Leitfrist: [TT.MM.JJJJ]
+Status: aktiv
+
+## Mandat-spezifische Fakten
+[Abweichungen vom Praxisprofil; Mandant-spezifische Materialitätsschwelle usw.]
+
+## Datenschutz-Hinweis
+§ 43a Abs. 2 BRAO, § 203 StGB. Dieser Ordner enthält mandantenbezogene Daten.
+Cross-Mandat-Kontext: deaktiviert (Standard).
+```
+
+### Subkommando: `auflisten`
+
+Alle Mandate auflisten:
+```
+Aktive Mandate:
+| Slug | Mandant | Art | Behörde | Leitfrist | Status |
+|---|---|---|---|---|---|
+| bafin-prüfung-2025-A | Mandant A | Gap-Analyse | BaFin | 31.12.2025 | aktiv |
+```
+
+### Subkommando: `wechseln`
+
+```
+Zu welchem Mandat wechseln?
+[Liste der aktiven Mandate anzeigen]
+```
+Nach Auswahl: Aktives Mandat im Profil setzen. Skills lesen jetzt `mandat.md` dieses Mandats.
+
+### Subkommando: `schließen`
+
+```
+Mandat [Slug] schließen?
+Hinweis: Dateien bleiben erhalten. Status wird auf 'geschlossen' gesetzt.
+Lernerkenntnisse ins Praxisprofil übertragen? (ja/nein)
+```
+
+### Subkommando: `keiner`
+
+Aktives Mandat deaktivieren → Skills laufen wieder auf Praxisebene.
+
+## Quellen und Zitierweise
+
+Zitierweise: `../../../references/zitierweise.md`
+
+Relevante Berufsrechtsnormen:
+- § 43a Abs. 2 BRAO (Verschwiegenheitspflicht)
+- § 203 StGB (Verletzung von Privatgeheimnissen)
+- § 50 BRAO (Aktenführung)
+- BORA § 2 (Unabhängigkeit), § 6 (Handakten)
+
+## Ausgabeformat
+
+- Bestätigung der Aktion (angelegt / gewechselt / geschlossen)
+- Aktueller Workspace-Status
+- Nächster empfohlener Schritt (z. B. "Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Beispiel
+
+**Eingabe:** `/regulatorisches-recht:regulatorisches-recht-mandat-arbeitsbereich neu`
+
+**Ausgabe:**
+```
+Neues Mandat anlegen.
+
+Mandant-Kürzel (nur intern sichtbar): MandantA
+Mandat-Bezeichnung: MaRisk-GAP-2025-MandantA
+Art: Gap-Analyse
+Zuständige Behörde: BaFin
+Leitfrist: 31.12.2025
+
+Mandat angelegt unter:
+~/.../mandate/mairisk-gap-2025-mandanta/
+
+Aktives Mandat: MaRisk-GAP-2025-MandantA
+
+Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
+```
+
+## Risiken / typische Fehler
+
+- **Cross-Mandat-Kontext versehentlich aktiviert:** Skills dürfen mandantsübergreifend niemals Informationen verbinden, wenn Cross-Mandat-Kontext deaktiviert ist (Standard). Explizite Anfrage erforderlich.
+- **Klarnamen in Pfaden:** Mandanten-Klarnamen nicht in Dateinamen oder Logs verwenden. Nur Kürzel.
+- **Nicht geschlossene Mandate:** Alte aktive Mandate ohne Leitfrist überprüfen und bei Abschluss schließen; beugt Versehen mit veralteten Kontextinformationen vor.
+- **Mandantengeheimnis:** Inhalte aus `mandat.md` und den mandat-spezifischen Trackern sind vertraulich nach § 43a Abs. 2 BRAO. Nie in gemeinsame Kontexte oder Protokolle exportieren.
+## Aktuelle Rechtsprechung & Leitsätze
+
+- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+**Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 48-49 VwVfG — §§ 3-7 BORA (Berufsrecht Rechtsanwaelte)
+
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ---
 

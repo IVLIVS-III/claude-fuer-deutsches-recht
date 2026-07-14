@@ -1,6 +1,6 @@
 # verbraucher-rechtsstaat-alltag
 
-**66 Skills** · Stand `v430.0.0`
+**66 Skills** · Stand `v431.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verbraucher-rechtsstaat-alltag/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

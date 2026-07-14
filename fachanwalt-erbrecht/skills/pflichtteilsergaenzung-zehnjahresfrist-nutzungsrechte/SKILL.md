@@ -13,7 +13,7 @@ Der Erblasser hat vor dem Erbfall Vermögen übertragen und sich Nutzungen, Wohn
 
 - Paragrafen 2303, 2311, 2314, 2325 und 2329 BGB: Pflichtteil, Bewertung, Auskunft, Ergänzung und Anspruch gegen den Beschenkten.
 - Paragraf 2325 Absatz 3 BGB: jährliche Abschmelzung; bei einer Schenkung an den Ehegatten beginnt die Frist nicht vor Auflösung der Ehe.
-- Paragrafen 195, 199 und 2332 BGB: Verjährung und besondere Höchstfrist des Anspruchs gegen den Beschenkten.
+- Paragrafen 195 und 199 BGB: Regelverjährung und kenntnisunabhängige Höchstfrist; Paragraf 2332 Absatz 1 BGB: besonderer Verjährungsbeginn des Anspruchs gegen den Beschenkten mit dem Erbfall.
 - Paragrafen 1030, 1090 und 1093 BGB: Nießbrauch, beschränkte persönliche Dienstbarkeit und Wohnungsrecht.
 
 ## 3. Rechtsprechungsanker

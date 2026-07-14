@@ -60,7 +60,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH, Urteil vom 30.11.2017 - I ZR 143/16: Die Maklerpflicht kann Hilfestellung bei der Schadenregulierung und den Hinweis auf anspruchsvernichtende Ausschlussfristen umfassen.
 - BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de.
 - BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de.
-- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach Paragraf 164 Abs. 1 VVG unzulässig.
 
 ## 7. Antwortform
 

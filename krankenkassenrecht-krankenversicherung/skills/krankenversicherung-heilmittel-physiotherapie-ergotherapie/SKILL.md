@@ -1,96 +1,85 @@
 ---
 name: krankenversicherung-heilmittel-physiotherapie-ergotherapie
-description: "Wenn es um Heilmittel: Physiotherapie, Ergotherapie und Genehmigung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Verordnung und Durchsetzung von Physiotherapie, Ergotherapie, Stimm-, Sprech-, Sprach- und Schlucktherapie, Podologie und Ernährungstherapie. Trennt orientierende Menge, langfristigen Heilmittelbedarf und besonderen Verordnungsbedarf."
 ---
 
-# Heilmittel: Physiotherapie, Ergotherapie und Genehmigung
+# Heilmittel: Verordnung, Langzeitbedarf und Kostenerstattung
 
-## Arbeitsweg
+## 1. Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Verordnung, Diagnose- und Funktionsbefunde, bisherigen Therapieverlauf, Ablehnungsbescheid und Kassenakte. Ordne den Fall unmittelbar dem Heilmittelkatalog, der Diagnoseliste zum langfristigen Heilmittelbedarf oder dem besonderen Verordnungsbedarf zu. Frage nur fehlende Diagnosecodes, Diagnosegruppen, Frequenzen oder Funktionsziele nach.
 
-## Skill-Zweck
+## 2. Rechtsrahmen
 
-Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Gegenstand von Ablehnungen und Mengenbeschränkungen. Kläre den **Anspruch, die Verordnungssystematik und Genehmigungsverfahren** nach der Heilmittel-Richtlinie (HM-RL) des G-BA.
+- Paragraf 32 SGB V: Anspruch auf medizinisch notwendige Heilmittel und langfristiger Heilmittelbedarf.
+- Paragraf 12 SGB V: Wirtschaftlichkeit und Notwendigkeit.
+- Paragraf 73 und Paragraf 92 SGB V: Verordnung und Heilmittel-Richtlinie des Gemeinsamen Bundesausschusses.
+- Paragraf 106b SGB V: Wirtschaftlichkeitsprüfung und besonderer Verordnungsbedarf.
+- Heilmittel-Richtlinie in der jeweils geltenden Fassung; die auf der Website des Gemeinsamen Bundesausschusses veröffentlichte Fassung und das Inkrafttretensdatum vor jeder Endfassung prüfen.
 
-## Rechtlicher Rahmen
+## 3. Systematik
 
-- **§ 32 SGB V** – Heilmittelanspruch (Physiotherapie, Ergotherapie, Sprachtherapie, Podologie)
-- **§ 12 SGB V** – Wirtschaftlichkeitsgebot
-- **§ 73 SGB V** – Vertragsärztliche Versorgung; Verordnungsrecht des Arztes
-- **§ 92 SGB V** – G-BA: Heilmittel-Richtlinie (HM-RL)
-- **Heilmittel-Richtlinie des G-BA** (aktuell 2024): Diagnoseliste, Verordnungsmengen, Langfristversorgung
-- **§ 106b SGB V** – Wirtschaftlichkeitsprüfung der Verordnungen (KV-Regressgefahr für Arzt)
-- BSG B 3 KR 10/21 R (Heilmittel Langfristversorgung)
+| Kategorie | Rechtsfolge | Arbeitsschritt |
+| --- | --- | --- |
+| orientierende Behandlungsmenge | Orientierungswert, kein starres Leistungsmaximum | Therapieziel und weiteren Bedarf ärztlich begründen |
+| Diagnose in Anlage 2 | langfristiger Heilmittelbedarf ist anerkannt | kein Einzelfallantrag allein wegen des Langzeitbedarfs |
+| vergleichbare nicht gelistete Schädigung | Einzelfallgenehmigung möglich | Antrag mit Funktionsschäden, Langfristigkeit und Therapiebedarf |
+| besonderer Verordnungsbedarf | regressrechtliche Sonderbehandlung, nicht mit Langzeitgenehmigung verwechseln | kombinierte Diagnoseliste und Nebenbedingungen prüfen |
 
-## Heilmittel-Systematik (HM-RL)
+Bei anerkanntem langfristigem Heilmittelbedarf und besonderem Verordnungsbedarf können die notwendigen Einheiten regelmäßig für eine Behandlungsdauer von bis zu zwölf Wochen verordnet werden; die Therapiefrequenz bestimmt die Menge.
 
-| Kategorie | Bedeutung |
-|-----------|-----------|
-| Orientierende Behandlungsmenge | Regelfall; innerhalb dieser keine Genehmigung nötig |
-| Gesamtverordnungsmenge | Maximalmenge je Diagnosengruppe |
-| Langfristversorgung | Bei chronisch-schweren Erkrankungen, Genehmigung durch Kasse erforderlich |
-| Besonderer Verordnungsbedarf | Diagnosen, die außerhalb der Regelmengen liegen |
+## 4. Prüfprogramm
 
-## Prüfprogramm
+### 4.1 Verordnung
 
-### Schritt 1 – Verordnungsinhalt prüfen
-- Liegt eine gültige Verordnung vor (Formular Muster 13, Muster 18)?
-- Indikationsschlüssel korrekt? Behandlungsart und Frequenz angegeben?
-- Ausnahmetatbestand eingetragen (z.B. besonderer Verordnungsbedarf)?
+1. Muster 13, Diagnose, Diagnosegruppe, Heilmittel, Menge, Frequenz, Therapiebericht und Hausbesuch prüfen.
+2. Beginnfrist bestimmen: grundsätzlich innerhalb von achtundzwanzig Kalendertagen, bei Kennzeichnung als dringlich innerhalb von vierzehn Kalendertagen.
+3. Korrekturen anhand der Heilmittel-Richtlinie und ihrer Anlage 3 einordnen; nicht jeden Formfehler als endgültig unheilbar behandeln.
+4. Therapeutische Ausgestaltung von der ärztlichen Verordnungsentscheidung trennen.
 
-### Schritt 2 – Genehmigungspflicht klären
-- Innerhalb orientierende Behandlungsmenge (G-BA Heilmittelkatalog): keine Genehmigung nötig
-- Langfristversorgung: Antrag an Kasse, spätestens 4 Wochen vor Ablauf der laufenden Versorgung
-- Genehmigungsfiktion: § 13 Abs. 3a SGB V – bei fehlender Entscheidung innerhalb 5 Wochen gilt Genehmigung als erteilt
+### 4.2 Langfristiger Heilmittelbedarf
 
-### Schritt 3 – Ablehnungsgründe analysieren
-- **Wirtschaftlichkeit**: Verordnungsmenge überschritten → Heilmittelkatalog konsultieren, Ausnahmetatbestand dokumentieren
-- **Indikationsschlüssel falsch**: Verordnung durch Arzt korrigieren lassen; keine Heilung im Nachhinein
-- **MDK-Prüfung**: Gegengutachten des Therapeuten oder Facharztes
+1. Diagnosecode und Diagnosegruppe mit Anlage 2 der Heilmittel-Richtlinie abgleichen.
+2. Bei Listentreffer die Anerkennung dokumentieren und eine unnötige Einzelgenehmigung vermeiden.
+3. Ohne Listentreffer Schwere und Langfristigkeit der funktionellen oder strukturellen Schädigung, Aktivitätsbeeinträchtigung und nachvollziehbaren Therapiebedarf für mindestens ein Jahr belegen.
+4. Bescheid, Genehmigungsdauer und erneute Verordnungen in einem Versorgungskalender führen; keine erfundene starre Vierwochen-Vorlauffrist verwenden.
 
-### Schritt 4 – Widerspruch und Klage
-- Ablehnungsbescheid anfechtbar, § 84 SGG (1 Monat)
-- Im Widerspruch: ärztliches Attest über Behandlungsnotwendigkeit, Befundberichte des Therapeuten
-- Eilantrag (§ 86b SGG): bei akuter Verschlechterung ohne laufende Therapie
+### 4.3 Ablehnung und Selbstbeschaffung
 
-### Schritt 5 – Arztregress-Schnittstelle
-- Arzt haftet bei Überverordnung aus wirtschaftlichen Gründen; Versicherte sind nicht betroffen
-- Arzt darf Verordnung nicht aus Regressangst verweigern wenn medizinisch indiziert
-- Bei Verordnungsverweigerung: Zweitmeinung oder Beschwerde an KV
+1. Ablehnungsgrund dem richtigen Tatbestandsmerkmal zuordnen.
+2. Stellungnahme des Medizinischen Dienstes über Akteneinsicht beiziehen und medizinische Lücken mit einem gezielten Befundbericht beantworten.
+3. Die Fristen des Paragrafen 13 Absatz 3a SGB V korrekt berechnen: drei Wochen ohne Gutachten, fünf Wochen bei eingeholter gutachtlicher Stellungnahme.
+4. Behandlung nicht allein wegen Fristablaufs auf fremde Kosten beginnen. Für Kostenerstattung erforderliche Leistung, Fristablauf, Selbstbeschaffung, Kausalität und tatsächliche Kosten nachweisen.
 
-## Typische Fallen
+### 4.4 Arzt- und Therapeutenperspektive
 
-- **Verordnungsformular falsch**: Heilmittel auf Kassenrezept (Muster 13), nicht auf Privatrezept; Privatverordnung löst Kostenerstattungsverfahren aus.
-- **Therapeutenwechsel**: Neue Verordnung erforderlich bei Wechsel des Therapeuten (außer Praxisübernahme).
-- **Genehmigungsfiktion vergessen**: Kasse reagiert nicht innerhalb von 5 Wochen → schriftlich auf Fiktion hinweisen, Behandlung beginnen.
-- **Zuzahlung**: 10 % je Verordnung + 10 € Rezeptgebühr; Befreiungsgrenze (2 % / 1 % des Bruttoeinkommens) prüfen.
+- Regresssorge ersetzt keine medizinische Prüfung. Ärztliche Begründung und passende Diagnosegruppe sichern.
+- Therapeutenwechsel führt nicht automatisch zum Verlust der laufenden Verordnung; Gültigkeit, bereits erbrachte Einheiten und organisatorische Umsetzung konkret klären.
+- Behandlungsberichte sollen Funktionsverlauf, Zielerreichung und Anpassungsbedarf beschreiben, nicht lediglich Diagnose und Terminzahl wiederholen.
 
-## Output-Formate
+## 5. Beweisplan
 
-- Antragsschreiben Langfristversorgung
-- Widerspruch gegen Heilmittelablehnung
-- Genehmigungsfiktion-Schreiben
-- Arzt-Briefing zur korrekten Verordnung
-- Fristenplan (Verlängerungsanträge)
+| Beweisziel | Unterlage | Qualitätskontrolle |
+| --- | --- | --- |
+| medizinische Notwendigkeit | fachärztlicher Befundbericht | Funktion, Therapieziel und Alternative konkret |
+| langfristiger Bedarf | Verlaufsberichte und Prognose | mindestens ein Jahr nachvollziehbar |
+| richtiger Umfang | Therapieplan und Frequenz | Einheiten aus Wochenfrequenz ableiten |
+| drohende Verschlechterung | aktueller Befund | Zeitraum und irreversible Folge benennen |
+| Kostenerstattung | Antrag, Fristlauf, Rechnung, Zahlung | Beschaffungsweg und Kausalität lückenlos |
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 6. Arbeitsprodukte
 
-## Quellen
+- Verordnungs- und Richtliniencheck;
+- Antrag auf Anerkennung eines langfristigen Heilmittelbedarfs im Einzelfall;
+- fachärztliches Begründungsbriefing;
+- Widerspruch oder Klage gegen eine Ablehnung;
+- Eilantrag bei konkret drohender Funktionsverschlechterung;
+- Zwölfwochen-Therapie- und Verordnungskalender.
 
-- [§ 32 SGB V – Heilmittel](https://www.gesetze-im-internet.de/sgb_5/__32.html)
-- [Heilmittel-Richtlinie G-BA](https://www.g-ba.de/richtlinien/12/)
-- [§ 13 Abs. 3a SGB V – Genehmigungsfiktion](https://www.gesetze-im-internet.de/sgb_5/__13.html)
-- [§ 92 SGB V – G-BA](https://www.gesetze-im-internet.de/sgb_5/__92.html)
-- [BSG Heilmittelrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org § 32 SGB V](https://dejure.org/gesetze/SGB_V/32.html)
+## 7. Quellenstatus
+
+- [Paragraf 32 SGB V](https://www.gesetze-im-internet.de/sgb_5/__32.html)
+- [Heilmittel-Richtlinie](https://www.g-ba.de/richtlinien/12/)
+- [Informationen des Gemeinsamen Bundesausschusses zur Verordnung](https://www.g-ba.de/themen/veranlasste-leistungen/heilmittel/verordnung-heilmittel-vertragsaerzte/)
+- [Paragraf 13 SGB V](https://www.gesetze-im-internet.de/sgb_5/__13.html)
+- [Paragraf 106b SGB V](https://www.gesetze-im-internet.de/sgb_5/__106b.html)

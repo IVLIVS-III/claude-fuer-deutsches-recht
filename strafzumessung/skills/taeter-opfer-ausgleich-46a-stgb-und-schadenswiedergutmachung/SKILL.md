@@ -42,7 +42,7 @@ Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderu
 
 ### § 46a Nr. 1 StGB — TOA (Taeter-Opfer-Ausgleich)
 
-BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (4. Strafsenat): § 46a Nr. 1 StGB setzt einen **friedensstiftenden kommunikativen Prozess** zwischen Taeter und Opfer voraus, der eine Verantwortungsuebernahme des Taeters erkennen lässt; **blosse Schadenswiedergutmachung ohne kommunikatives Element genuegt nicht** (Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25).
+BGH, Urteil vom 20.11.2025 — 4 StR 232/25 (4. Strafsenat): § 46a Nr. 1 StGB setzt einen friedensstiftenden kommunikativen Prozess zwischen Täter und Opfer voraus, der eine Verantwortungsübernahme des Täters erkennen lässt; bloße Schadenswiedergutmachung ohne kommunikatives Element genügt nicht (offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25).
 
 Erforderlich sind also:
 
@@ -85,7 +85,7 @@ Erforderlich sind also:
 
 ### TOA bei Sexualstraftaten
 
-BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht generell ausgeschlossen, aber die Prüfung ist streng. Der kommunikative Prozess muss real stattgefunden haben und das Opfer darf nicht (re-)traumatisiert werden. Vorgehen mit Vermittler **zwingend**.
+BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht generell ausgeschlossen, aber die Prüfung ist streng. Bei schweren Straftaten gegen die sexuelle Selbstbestimmung ist regelmäßig ein Geständnis erforderlich; jedenfalls muss der Täter seine Verantwortung eindeutig übernehmen und das Opfer den Ausgleich als friedensstiftend annehmen. Ohne Einverständnis des Opfers erfolgt keine direkte Kontaktaufnahme. Eine Vermittlungsstelle kann dafür zweckmäßig sein, ist aber nicht gesetzlich vorgeschrieben.
 
 ### TOA bei Vermögensdelikten
 
@@ -109,6 +109,6 @@ BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht gen
 
 - § 46a StGB in der geltenden Fassung.
 - §§ 49 Abs. 1, 155a, 155b, 153a StPO.
-- BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (TOA bei sexuellem Missbrauch, friedensstiftender kommunikativer Prozess); offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25.
+- BGH, Urteil vom 20.11.2025 — 4 StR 232/25 (TOA bei sexuellem Missbrauch, friedensstiftender kommunikativer Prozess); offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25.
 - Weitere BGH-Rspr. — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.

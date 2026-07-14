@@ -379,9 +379,9 @@ Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli
 
 ## Startet bei
 
-- Lohnpfändung in Vorbereitung (`zv-pfueb-arbeitsentgelt`)
-- Kontopfändung mit P-Konto-Berechnung (`zv-pfueb-bank` + § 850k ZPO)
-- Schuldnerseite verlangt Anpassung der Freibeträge (`zv-abwehr-schuldner`)
+- Lohnpfändung in Vorbereitung (`pfueb-arbeitsentgelt`)
+- Kontopfändung mit P-Konto-Berechnung (`pfueb-bank` + § 850k ZPO)
+- Schuldnerseite verlangt Anpassung der Freibeträge (`abwehr-schuldner`)
 
 ## Rechtsgrundlagen
 
@@ -459,7 +459,7 @@ _Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvo
 
 ## Arbeitsbereich
 
-Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu pfueb-bank (inlaendisches Konto) und kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -619,7 +619,7 @@ _Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstr
 
 ## Arbeitsbereich
 
-Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger hat Grundschuld oder Hypothek und will eine Immobilie des Schuldners versteigern lassen. Prüfraster: Anordnungsantrag nach Paragrafen 15 ff. ZVG, Beitritt nach Paragraf 27 ZVG, geringstes Gebot, Bargebot, Verteilungstermin, vorrangige Rechte und Zwangshypothek nach Paragraf 866 ZPO. Output: ausformulierter ZVG-Antrag und Versteigerungsstrategie. Abgrenzung zu `notarielle-urkunde-grundschuld` für die Titelgrundlage und `zwv-zwangsversteigerung-grundstueck-spezial` für Vertiefungsfragen.
 
 ## Arbeitsweg
 
@@ -650,7 +650,7 @@ Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners verst
 
 ## Workflow
 
-1. **Vollstreckungsgrundlage**: dinglicher Titel (Grundschuld in Verbindung mit Unterwerfungsurkunde – siehe `zv-notarielle-urkunde-grundschuld`) oder persönlicher Titel + Zwangshypothek § 866 ZPO.
+1. **Vollstreckungsgrundlage**: dinglicher Titel (Grundschuld in Verbindung mit Unterwerfungsurkunde – siehe `notarielle-urkunde-grundschuld`) oder persönlicher Titel + Zwangshypothek § 866 ZPO.
 2. **Grundbucheinsicht** vor jedem Antrag – aktuell, weil sich Rangverhältnisse verändert haben können.
 3. **Zwangshypothek § 866 ZPO eintragen**, wenn nur persönlicher Titel: Antrag beim Grundbuchamt, Forderung mindestens 750 EUR (§ 866 Abs. 3 ZPO), nach Eintragung sechs Monate warten? Nein – Eintragung selbst genügt; die sechs Monate betreffen die Wartepflicht bei Hypothek § 1147 BGB nicht.
 4. **Antrag auf Anordnung** der Zwangsversteigerung beim Vollstreckungsgericht (Amtsgericht der belegenen Sache).
@@ -1002,7 +1002,7 @@ _Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung ge
 
 ## Arbeitsbereich
 
-Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und pfaendungstabelle-pfueb-arbeitsentgelt (Pfaendungsberechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -1161,7 +1161,7 @@ _Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigi
 
 ## Arbeitsbereich
 
-Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das im Bundesgesetzblatt 2026 I Nr. 152 verkündete Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (klassisch).
+Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das Gesetz vom 20. Mai 2026, verkündet am 26. Mai 2026 im BGBl. 2026 I Nr. 152. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu `pfueb-bank` (PfÜB gegen Konto) und `titel-klausel-zustellung` (klassisch).
 
 ## Arbeitsweg
 
@@ -1278,7 +1278,7 @@ _Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geh
 
 ## Arbeitsbereich
 
-Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu mahnbescheid-online-mobiliar-gv (Mahnbescheid-Antrag) und kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -1332,7 +1332,7 @@ Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. �
 Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung. Er trägt die Klausel kraft Gesetzes § 796 Abs. 1 ZPO. Es genügt:
 
 1. **Ausfertigung des VB** mit Zustellnachweis als Vollstreckungstitel.
-2. **Vollstreckung beginnen**: PfÜB, Mobiliarvollstreckung, Vermögensauskunft, je nach Zielobjekt – Skill `zv-kommandocenter` einsteigen lassen.
+2. **Vollstreckung beginnen**: PfÜB, Mobiliarvollstreckung, Vermögensauskunft, je nach Zielobjekt – Skill `kommandocenter` einsteigen lassen.
 
 ## Reaktion auf Einspruch nach VB
 
@@ -1358,9 +1358,9 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 
 ## Querverweise
 
-- `zv-mahnbescheid-online` – Mahnantrag.
-- `zv-titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
+- `mahnbescheid-online-mobiliar-gv` – Mahnantrag.
+- `titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
+- `pfueb-bank`, `pfueb-arbeitsentgelt`, `mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
 
 ---
@@ -1422,9 +1422,9 @@ _Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht
  - **Deutsche Rentenversicherung Bund**: aktueller Arbeitgeber oder Rentenzahlstelle
  - **Bundeszentralamt für Steuern (BZSt)**: Kontostammdaten nach § 24c KWG, alle deutschen Kreditinstitute mit Konten des Schuldners
  - **Kraftfahrt-Bundesamt**: KFZ-Halterauskunft
-4. **Ausländische Konten**: nicht über § 802l erreichbar, aber EU-Kontenpfändungsbeschluss (EuKtPVO) ist Alternative über `zv-pfueb-bank`.
+4. **Ausländische Konten**: nicht über § 802l erreichbar, aber EU-Kontenpfändungsbeschluss (EuKtPVO) ist Alternative über `pfueb-bank`.
 5. **Plausibilitätsprüfung**: Auskunft veraltet sich. Konten existieren ggf. nicht mehr, Arbeitgeber gewechselt.
-6. **Anschluss**: bekannte Bank → `zv-pfueb-bank`, bekannter Arbeitgeber → `zv-pfueb-arbeitsentgelt`.
+6. **Anschluss**: bekannte Bank → `pfueb-bank`, bekannter Arbeitgeber → `pfueb-arbeitsentgelt`.
 
 ## Voraussetzungen § 802l ZPO im Einzelnen
 

@@ -135,8 +135,8 @@ description: "Wenn es um Unfallregulierung Quoten in Fachanwalt Verkehrsrecht ge
 | BGH VI ZR 253/22 | 16.1.2024 | Werkstattrisiko Grundsatzurteil; Geschädigter trägt nicht Risiko überhöhter Werkstattkosten | juris.bundesgerichtshof.de |
 | BGH VI ZR 239/22 | 16.1.2024 | Unbezahlte Rechnung und Abtretung: besondere Risikozuordnung | juris.bundesgerichtshof.de |
 | BGH VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze; nachvollziehbare Begründung erforderlich | juris.bundesgerichtshof.de |
-| BGH VI ZR 165/25 | 24.3.2026 | Schadensrecht Wiederherstellungskosten; vor Verwendung Volltext live verifizieren | bundesgerichtshof.de |
-| BGH VI ZR 25/24 | 8.4.2025 | Schadensrecht Folgefall Werkstattrisiko; Live-Volltext prüfen | juris.bundesgerichtshof.de |
+| BGH VI ZR 165/25 | 24.3.2026 | Maßgeblicher Zeitpunkt für den Wiederbeschaffungswert bei fiktiver Schadensabrechnung; Preisentwicklung bis zur vollständigen Schadensbehebung einordnen | juris.bundesgerichtshof.de |
+| BGH VI ZR 25/24 | 8.4.2025 | Feststellungsinteresse für spätere konkrete Abrechnung nach zunächst fiktiver Abrechnung; mögliche Umsatzsteuer und Nutzungsausfallfolgen | juris.bundesgerichtshof.de |
 
 Hinweis: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen. Tabelle ist nur Recherche-Anker — vor Versand jedes Aktenzeichen erneut in offener Quelle aufrufen.
 

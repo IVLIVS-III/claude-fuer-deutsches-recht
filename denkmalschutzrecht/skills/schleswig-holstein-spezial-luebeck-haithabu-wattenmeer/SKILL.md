@@ -11,7 +11,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Schleswig-Holstein hat drei Welterbestaetten. Luebeck ist das aelteste deutsche Welterbe in der norddeutschen Backsteingotik, mit Marktkirche, Holstentor und Buddenbrookhaus. Haithabu / Danewerk ist die grenzueberschreitende archaeologische Landschaft (gemeinsam mit Daenemark), die ein Bodendenkmal-Ensemble der Wikingerzeit konserviert; Erdbewegungen jeglicher Art sind genehmigungspflichtig. Wattenmeer als Natur-Welterbe greift in die maritime Bauleitplanung ein. Mandatslagen: Hafenausbau, Daenemark-Verkehrsanbindung, Sichtachsen Luebeck, Hofbebauung Altstadt.
+Schleswig-Holstein hat drei Welterbestätten. Die Lübecker Altstadt steht für die norddeutsche Backsteingotik; bei Sichtachsen, Dachlandschaften und Hofbebauung sind Kernzone, Pufferzone und Managementplan getrennt zu prüfen. Der Archäologische Grenzkomplex Haithabu und Danewerk liegt als deutsche Welterbestätte in Schleswig-Holstein und ist keine gemeinsam mit Dänemark getragene transnationale Stätte; seine historische Grenzfunktion darf nicht mit dem heutigen Welterbestatus verwechselt werden. Das Wattenmeer ist dagegen eine transnationale Naturerbestätte. Mandatslagen: Hafenausbau, Erdarbeiten im Bodendenkmalbereich, Verkehrsprojekte, Altstadtumbau und Vorhaben in Pufferzonen.
 
 ## Ablauf / Checkliste
 

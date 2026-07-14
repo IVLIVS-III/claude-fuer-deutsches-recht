@@ -42,7 +42,7 @@ description: "Wenn es um Liquiditätsbrücke durch Bankinstrumente in Bank-Recht
 | Ist der Liquiditätsstatus nur eine OPOS-Summe? | Einzelposten, Belege, Fälligkeit und Titelstand nachfordern; sonst keine bankfeste Entscheidungsgrundlage |
 | Soll die Bank weiterfinanzieren? | Sanierungskonzept, Fortbestehensprognose, Sicherheiten, Anfechtung und Organrisiko dokumentieren |
 
-Rechtsprechungsanker für die Kreditakte: BGH IX ZR 129/22 vom 18.04.2024 zur Beleg- und Einzelpostenpflicht beim Liquiditätsstatus gegenüber außenstehenden Dritten; BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Zahlungsunfähigkeit, objektiven Rechtslage bei streitigen Forderungen und Nennwertpassivierung bei Vollstreckung aus vorläufig vollstreckbarem Titel; BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025 zur Passivierung streitiger oder titulierter Forderungen in der Liquiditätsprüfung; BGH IX ZR 133/14 und BGH IX ZR 143/17 zur Rangrücktrittslogik; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
+Rechtsprechungsanker für die Kreditakte: BGH IX ZR 129/22 vom 18.04.2024 zur Beleg- und Einzelpostenpflicht beim Liquiditätsstatus gegenüber außenstehenden Dritten; BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Zahlungsunfähigkeit, objektiven Rechtslage bei streitigen Forderungen und Nennwertpassivierung bei Vollstreckung aus vorläufig vollstreckbarem Titel; BGH II ZR 139/23 vom 11.03.2025 zum materiellen Bestand der Verbindlichkeit; BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung eines Titels beim Gläubigerantrag nach eingestellter Vollstreckung; BGH IX ZR 133/14 und BGH IX ZR 143/17 zur Rangrücktrittslogik; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
 
 ## Prüfworkflow
 

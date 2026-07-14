@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Rechtsprechung | EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung |
 | Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
 | Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
@@ -40,7 +40,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Insolvenz-Fortbestand der Lizenz ($ 103 InsO) | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Klausel Haftung, Gewaehrleistung, Indemnification | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Klausel Vergütung — Pauschale, Royalty, Tiered | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Klausel Vertragsdauer und Kündigung | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -52,8 +52,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
 - BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
 - BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
+- Paragraf 103 InsO ist h. M. zwingendes Recht; vertragliche Abdingung dabei begrenzt; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 69a UrhG schuetzt Computerprogramme als Werke; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 69b UrhG: Arbeitsergebnis des AN gehoert kraft Gesetzes dem AG (ausschließliche Nutzungsrechte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 101 AEUV - Kartellverbot; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren; die Entscheidung ersetzt weder Erforderlichkeits- noch Abwägungsprüfung.
 
 ## 7. Antwortform
 

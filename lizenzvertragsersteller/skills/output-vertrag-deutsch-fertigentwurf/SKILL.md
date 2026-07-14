@@ -43,26 +43,26 @@ PRAEAMBEL
 
 Dies vorausgeschickt vereinbaren die Parteien:
 
-$ 1 Definitionen
-$ 2 Lizenzgegenstand                  -> Baustein 12
-$ 3 Lizenzumfang                       -> Baustein 13
-$ 4 Exklusivitaet                      -> Baustein 14
-$ 5 Verguetung                         -> Baustein 15
-$ 6 Sublizenzen                        -> Baustein 17
-$ 7 Verbesserungen / Grant-Back        -> Baustein 18
-$ 8 Garantien                          -> Baustein 19
-$ 9 Haftungsbeschraenkungen            -> Baustein 19
-$ 10 Mindestlizenz, Meldungen, Audit  -> Baustein 16
-$ 11 Vertragsdauer                     -> Baustein 21
-$ 12 Folgen der Vertragsbeendigung    -> Baustein 21
-$ 13 Vertraulichkeit                   -> Baustein NDA
-$ 14 Source-Code-Escrow (bei SW)       -> Baustein 22
-$ 15 Rechtswahl und Streitbeilegung   -> Baustein 20
-$ 16 Insolvenzfestigkeit               -> Baustein 23
-$ 17 Exportkontrolle                   -> Baustein Compliance
-$ 18 Datenschutz                       -> Baustein Compliance
-$ 19 Steuern                           -> Baustein Compliance
-$ 20 Schlussbestimmungen
+Paragraf 1 Definitionen
+Paragraf 2 Lizenzgegenstand                  -> Baustein 12
+Paragraf 3 Lizenzumfang                       -> Baustein 13
+Paragraf 4 Exklusivitaet                      -> Baustein 14
+Paragraf 5 Verguetung                         -> Baustein 15
+Paragraf 6 Sublizenzen                        -> Baustein 17
+Paragraf 7 Verbesserungen / Grant-Back        -> Baustein 18
+Paragraf 8 Garantien                          -> Baustein 19
+Paragraf 9 Haftungsbeschraenkungen            -> Baustein 19
+Paragraf 10 Mindestlizenz, Meldungen, Audit  -> Baustein 16
+Paragraf 11 Vertragsdauer                     -> Baustein 21
+Paragraf 12 Folgen der Vertragsbeendigung    -> Baustein 21
+Paragraf 13 Vertraulichkeit                   -> Baustein NDA
+Paragraf 14 Source-Code-Escrow (bei SW)       -> Baustein 22
+Paragraf 15 Rechtswahl und Streitbeilegung   -> Baustein 20
+Paragraf 16 Insolvenzfestigkeit               -> Baustein 23
+Paragraf 17 Exportkontrolle                   -> Baustein Compliance
+Paragraf 18 Datenschutz                       -> Baustein Compliance
+Paragraf 19 Steuern                           -> Baustein Compliance
+Paragraf 20 Schlussbestimmungen
     (1) Salvatorische Klausel
     (2) Schriftformerfordernis fuer Aenderungen (Textform mit ausdruecklichem
         Bezug)
@@ -70,7 +70,7 @@ $ 20 Schlussbestimmungen
     (4) Aufrechnungsverbot ausser unstreitiger oder rechtskraeftig festgestellter
         Gegenforderungen
     (5) Gesamtvertragsabrede ("Entire Agreement")
-    (6) Anwendbares Recht / Schiedsklausel siehe $ 15
+    (6) Anwendbares Recht / Schiedsklausel siehe Paragraf 15
 
 [Ort], den [Datum]
 

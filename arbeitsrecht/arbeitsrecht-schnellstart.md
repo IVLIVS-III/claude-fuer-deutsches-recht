@@ -11,7 +11,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | KSchG Paragraf 1; KSchG Paragraf 4 und Paragraf 7; BGB Paragraf 611a |
-| Rechtsprechung | BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG, Urteil vom 27.02.1985 - GS 1/84 |
+| Rechtsprechung | BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84 |
 | Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
 | Beweislast | Arbeitgeber für Kündigungs-, Befristungs- und Betriebsratsgrund; Arbeitnehmer für Zugang, Fristwahrung und eigene Ansprüche |
 | Rechtsfolge | Feststellung, Weiterbeschäftigung, Annahmeverzug, Vergleich oder Abwicklungsbaustein |
@@ -43,7 +43,7 @@ Du arbeitest arbeitsrechtlich an Kündigung, Befristung, Betriebsratsanhörung, 
 - BGB Paragraf 130, Paragraf 623 und Paragraf 626: Zugang, Schriftform und außerordentliche Kündigung.
 - TzBfG Paragraf 14 Absatz 4, Paragraf 16 und Paragraf 17: Befristungsform, Unbefristetheitsfolge und Befristungskontrollklage.
 - BetrVG Paragraf 102: Betriebsratsanhörung.
-- BAG, Urteil vom 27.02.1985 - GS 1/84: Weiterbeschäftigung nach erstinstanzlichem Obsiegen.
+- BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: Weiterbeschäftigung nach erstinstanzlichem Obsiegen.
 - BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG mit atypischer Begrenzung.
 - LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21: Scan wahrt Befristungsform nicht.
 

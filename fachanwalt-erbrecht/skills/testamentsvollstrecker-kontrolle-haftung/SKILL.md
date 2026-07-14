@@ -33,4 +33,4 @@ description: "Wenn es um Testamentsvollstrecker Kontrolle Haftung in Fachanwalt 
 
 BGB §§ 2197 ff., 2218, 2227, 2219. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
 
-- BGH, Beschluss vom 15.01.2025 - IV ZR 166/24: Die Pflichtteilsauskunft nach Paragraf 2314 Absatz 1 Satz 1 BGB trifft den Erben, nicht den Testamentsvollstrecker. Für die Kontrolle des Vollstreckers deshalb Pflichtteilsauskunft, Nachlassverzeichnis nach Paragraf 2215 BGB und Rechenschaft gegenüber dem Erben nach Paragraf 2218 BGB auseinanderhalten.
+- BGH, Entscheidung zum einstweiligen Vollstreckungsschutz vom 15.01.2025 - IV ZR 166/24: Der BGH behandelte die Erben als Schuldner der Pflichtteilsauskunft nach BGB Paragraf 2314 Absatz 1 Satz 1. Nicht als abschließendes Sachurteil zu allen Beschaffungsfragen zitieren; Pflichtteilsauskunft, Nachlassverzeichnis nach BGB Paragraf 2215 und Rechenschaft nach Paragraf 2218 auseinanderhalten.

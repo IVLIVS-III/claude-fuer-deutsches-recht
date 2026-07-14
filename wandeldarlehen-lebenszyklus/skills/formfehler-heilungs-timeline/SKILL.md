@@ -51,7 +51,7 @@ description: "Wenn es um Formfehler und Heilungs-Timeline in Wandeldarlehen-Lebe
 ### Verfügungs-Geschäft (Anteils-Übertragung bei Wandlung)
 
 - **Notarielle Beurkundung** zwingend § 15 Abs. 3 GmbHG bei Verfügung über existierende Anteile
-- **Bei Wandlung durch Kapitalerhöhung** Kapitalerhöhungs-Beschluss notariell zu beurkunden § 53 Abs. 2 GmbHG
+- **Bei Wandlung durch Kapitalerhöhung:** Dreiviertelmehrheit nach Paragraf 53 Absatz 2 GmbHG und notarielle Beurkundung des Beschlusses nach Absatz 3 getrennt prüfen.
 - **Übernahme-Erklärung** beim Notar
 - **Handelsregister-Anmeldung** notariell beglaubigt § 12 Abs. 1 HGB
 

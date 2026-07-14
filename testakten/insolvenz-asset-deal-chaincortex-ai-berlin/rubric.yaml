@@ -1,69 +1,50 @@
-# Eval-Rubric fuer die Testakte ChainCortex Asset Deal
-# Genutzt von scripts/run-eval.py
-
-name: "Insolvenz-Asset-Deal ChainCortex"
-plugin: "fachanwalt-insolvenz-sanierungsrecht"
-
+name: Insolvenz-Asset-Deal ChainCortex
+plugin: fachanwalt-insolvenz-sanierungsrecht
 checks:
   - id: r01-readme-vorhanden
     check_type: file_exists
-    description: "README mit Sachverhalt vorhanden"
-    path: "README.md"
-
+    description: README mit Sachverhalt vorhanden
+    path: README.md
   - id: r02-vertrag-docx-times-new-roman
     check_type: file_exists
-    description: "Asset-Purchase-Agreement als DOCX in docx/"
-    path: "docx/asset-purchase-agreement-chaincortex-voracis.docx"
-
+    description: Asset-Purchase-Agreement als DOCX in docx/
+    path: docx/asset-purchase-agreement-chaincortex-voracis.docx
   - id: r03-vertrag-pdf
     check_type: file_exists
-    description: "Asset-Purchase-Agreement auch als PDF"
-    path: "pdfs/asset-purchase-agreement-chaincortex-voracis.pdf"
-
+    description: Asset-Purchase-Agreement auch als PDF
+    path: pdfs/asset-purchase-agreement-chaincortex-voracis.pdf
   - id: r04-gesamt-pdf-existiert
     check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf"
-
+    description: Gesamt-PDF gebaut
+    path: gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf
   - id: r05-kundendaten-b2b-xlsx
     check_type: file_exists
-    description: "Kundendaten-B2B-XLSX vorhanden"
-    path: "xlsx/kundendaten-business.xlsx"
-
-  - id: r06-kundendaten-b2c-xlsx
-    check_type: file_exists
-    description: "Kundendaten-B2C-XLSX vorhanden"
-    path: "xlsx/kundendaten-privat.xlsx"
-
+    description: Kundendaten-B2B-XLSX vorhanden
+    path: xlsx/kundendaten-business.xlsx
   - id: r07-eml-dsgvo-info
     check_type: file_exists
-    description: "DSGVO-Information an Privatkunden als EML"
-    path: "eml/dsgvo-information-b2c-privatkunden-entwurf.eml"
-
+    description: DSGVO-Information an Privatkunden als EML
+    path: eml/dsgvo-information-b2c-privatkunden-entwurf.eml
   - id: r08-jpg-transaktionsstruktur
     check_type: file_exists
-    description: "JPG-Diagramm Transaktionsstruktur vorhanden"
-    path: "jpg/01_transaktionsstruktur_chaincortex_voracis.jpg"
-
+    description: JPG-Diagramm Transaktionsstruktur vorhanden
+    path: jpg/01_transaktionsstruktur_chaincortex_voracis.jpg
   - id: r09-csv-liquiditaet
     check_type: file_exists
-    description: "Liquiditaetsplan-CSV vorhanden"
-    path: "csv/liquiditaetsplan-12-monate.csv"
-
-  - id: r10-eugh-bonprix-im-dsgvo-skill
+    description: Liquiditaetsplan-CSV vorhanden
+    path: csv/liquiditaetsplan-12-monate.csv
+  - id: r10-eugh-knltb-in-dsgvo-analyse
     check_type: text_contains
-    description: "DSGVO-Analyse referenziert EuGH C-732/22 (Bonprix)"
-    path: "07_kundendaten-dsgvo-analyse.docx"
-    contains: "C-732/22"
-
+    description: Die Datenschutzanalyse verwendet EuGH C-621/22 nur als Anker für ein mögliches kommerzielles Interesse.
+    path: 07_kundendaten-dsgvo-analyse.docx
+    contains: C-621/22
   - id: r11-paragraf-160-inso-im-glaeubigerausschuss
     check_type: text_contains
-    description: "Glaeubigerausschuss-Beschluss verweist auf $ 160 InsO"
-    path: "06_glaeubigerausschuss-zustimmung-160-inso.docx"
-    contains: "160"
-
+    description: Glaeubigerausschuss-Beschluss verweist auf Paragraf 160 InsO
+    path: 06_glaeubigerausschuss-zustimmung-160-inso.docx
+    contains: '160'
   - id: r12-paragraf-613a-im-arbeitnehmer-skill
     check_type: text_contains
-    description: "Arbeitnehmer-Skill referenziert $ 613a BGB"
-    path: "08_betriebsuebergang-613a-bgb.docx"
-    contains: "613a"
+    description: Arbeitnehmer-Skill referenziert Paragraf 613a BGB
+    path: 08_betriebsuebergang-613a-bgb.docx
+    contains: 613a

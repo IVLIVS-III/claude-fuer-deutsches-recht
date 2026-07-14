@@ -29,9 +29,12 @@ Wenn PDF, DOCX, Markdown, OCR-Text, Scan oder Aktenordner vorliegt, werte zuerst
 
 Prüfe mindestens §§ 305-310, 306, 307, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 8, Nr. 12, Nr. 15, 311b, 313, 315, 320, 323, 346 ff., 633-641, 642, 643, 650i, 650j, 650k Abs. 2/3, 650m Abs. 2, 650n, 650u, 650v, 812, 817, 818, 823 Abs. 2, 883, 925 BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG; §§ 103, 106 InsO; WEG, soweit Gemeinschaftseigentum betroffen ist.
 
-## Rechtsprechungsanker nur nach Live-Prüfung
+## Rechtsprechungsanker
 
-Aktuelle BGH-Anker: VII ZR 68/24 und VII ZR 108/24 zur Abnahme des Gemeinschaftseigentums und Verjährung; VII ZR 88/25 zur Schlussrate bei vollständiger Fertigstellung; V ZR 91/25 zu Zustimmungspflichten bei Änderungen der Teilungserklärung. Verwende sie nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+1. **BGH, Urteile vom 26. März 2026, VII ZR 68/24 und VII ZR 108/24:** Vom Bauträger gestellte Abnahmeklauseln zugunsten ausgewählter Erwerber oder eines Sachverständigen sind unwirksam, wenn dem einzelnen Erwerber nicht vorbehalten bleibt, die Abnahmefähigkeit selbst zu prüfen und die Abnahme selbst zu erklären. Den jeweils geprüften Altvertrag, den Verjährungsbeginn und die zeitliche Obergrenze getrennt auswerten.
+2. **BGH, Urteil vom 22. April 2026, VII ZR 88/25:** Die vertragliche Schlussratenvoraussetzung `vollständige Fertigstellung` ist anhand des gesamten Zahlungsplans auszulegen und nicht ohne Weiteres mit bloßer Abnahmereife gleichzusetzen. Festgestellte Restmängel und die konkrete Vertragsstaffel in die Fälligkeitsprüfung aufnehmen.
+3. **BGH, Urteil vom 23. Januar 2026, V ZR 91/25:** Eine formularmäßige Zustimmungspflicht des Verbrauchers zu nachträglichen Änderungen der Teilungserklärung ist unwirksam, wenn die Klausel die triftigen Änderungsgründe nicht im Einzelnen erkennen lässt. Eine Ersatzpflicht aus Paragraf 242 BGB besteht dann regelmäßig nicht.
+4. Weitere Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Pflichtausgabe
 

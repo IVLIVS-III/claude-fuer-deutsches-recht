@@ -5,7 +5,7 @@
 
 DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.
 
-Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Direktnavigation: [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/datenschutzrecht.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -20,7 +20,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/datenschutzrecht/datenschutzrecht-schnellstart.md" download><code>datenschutzrecht-schnellstart.md</code></a> |
 | Zugeordnete Testakten | PDF / ZIP | [19 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -73,14 +73,14 @@ Das Plugin befragt Sie zur Identifikation Ihrer Organisation: Verantwortlicher o
 Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/CLAUDE.md` und bleibt bei Plugin-Updates erhalten.
 
 ```
-/datenschutzrecht:datenschutzrecht-kaltstart-interview
+/datenschutzrecht:kaltstart-interview
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/datenschutzrecht:datenschutzrecht-kaltstart-interview` | Ersteinrichtung |
+| `/datenschutzrecht:kaltstart-interview` | Ersteinrichtung |
 | `/datenschutzrecht:anwendungsfall-triage [Verarbeitungstätigkeit]` | Benötigt diese Verarbeitung eine DSFA? Triage + Rechtsgrundlage |
 | `/datenschutzrecht:avv-pruefung [Datei]` | AVV-Prüfung nach Art. 28 DSGVO (Richtung automatisch erkannt) |
 | `/datenschutzrecht:dsgvo-auskunft-antwort` | Betroffenenanfrage (Art. 15–22 DSGVO) vollständig bearbeiten |
@@ -91,7 +91,7 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 | `/datenschutzrecht:drittlandtransfer-behoerdenpaket-output [Akte]` | Druckreifes Paket für deutsche Datenschutzaufsicht: Deckvermerk, Nachweise, Antwortschreiben, Maßnahmenplan |
 | `/datenschutzrecht:regulierungs-luecken-analyse [Leitlinie/Gesetz]` | Lückenanalyse neue Anforderung vs. aktueller Praxis |
 | `/datenschutzrecht:richtlinien-monitor` | Wöchentlicher Drift-Scan der Datenschutzerklärung und Richtlinien |
-| `/datenschutzrecht:datenschutzrecht-mandat-arbeitsbereich` | Mandate verwalten (für Mehrmandat-Kanzleien): neu, liste, wechsle, schließe |
+| `/datenschutzrecht:mandat-arbeitsbereich` | Mandate verwalten: neu, liste, wechsle, schließe |
 
 ## Skills (21)
 
@@ -99,27 +99,27 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 |---|---|
 | **kaltstart-interview** | Schreibt CLAUDE.md aus Interview und Ausgangsdokumenten |
 | **anwendungsfall-triage** | DSFA-Pflicht? Verzeichnisaufnahme, Rechtsgrundlage Art. 6/9 DSGVO |
-| **avv-prüfung** | AVV-Prüfung bi-direktional (Verantwortlicher/Auftragsverarbeiter), Art. 28 DSGVO, Sub-AV, TIA, EU-SCC, DPF |
+| **avv-pruefung** | AVV-Prüfung bi-direktional (Verantwortlicher/Auftragsverarbeiter), Art. 28 DSGVO, Sub-AV, TIA, EU-SCC, DPF |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | **dsgvo-auskunft-antwort** | Identitätsprüfung → Systemabfrage → Ausnahmen → Antwortentwurf (Art. 15–22, Art. 12 Abs. 3 DSGVO) |
 | **dsfa-erstellung** | DSFA nach Art. 35 DSGVO, BfDI-Blacklist/-Whitelist, Schwellwertanalyse |
-| **drittlandstransfer-prüfung** | Drittlandstransfer Art. 44 ff. DSGVO: Angemessenheitsbeschlüsse, SCC 2021 Module 1–4, TIA nach Schrems II, BCR — **neu in v3.3.0** |
+| **drittlandstransfer-pruefung** | Drittlandstransfer Art. 44 ff. DSGVO: Angemessenheitsbeschlüsse, SCC 2021 Module 1–4, TIA nach Schrems II, BCR |
 | **us-transfer-tia-dokumentation** | US-Transfer nach Art. 44 ff. DSGVO: EU-US Data Privacy Framework, DPF-Scope, Schrems I/II, SCC/BCR-Ausweichpfad, TIA und supplementary measures |
 | **standardvertragsklauseln-scc-paket** | SCC-Modulwahl 1–4, Annex I–III, Subprozessoren, TOMs, AVV-Schnittstelle und Unterzeichnungspaket ohne Veränderung der offiziellen Klauseln |
-| **drittlandtransfer-behördenpaket-output** | Behördenfähiges Dokumentationspaket mit Deckvermerk, Transferregister, DPF-/SCC-/TIA-Nachweisen, Antwortentwurf und Review-Kalender |
-| **regulierungs-lücken-analyse** | Neue Leitlinie/VO vs. Ist-Zustand; EDSA- und DSK-Leitlinien |
+| **drittlandtransfer-behoerdenpaket-output** | Behördenfähiges Dokumentationspaket mit Deckvermerk, Transferregister, DPF-/SCC-/TIA-Nachweisen, Antwortentwurf und Review-Kalender |
+| **regulierungs-luecken-analyse** | Neue Leitlinie oder Verordnung gegen den Ist-Zustand prüfen; EDSA- und DSK-Leitlinien einordnen |
 | **richtlinien-monitor** | Drift-Monitoring Datenschutzerklärung; Entwurf von Aktualisierungen |
 | **mandats-arbeitsbereich** | Mandate anlegen, auflisten, wechseln und schließen für Mehrmandat-Kanzleien |
 | **datenpanne-meldung** | Datenpanne Art. 33/34 DSGVO: 72h-Meldung, Betroffenenbenachrichtigung, Dokumentation |
 | **mandantendaten-ki** | Verarbeitung von Mandantendaten in externen IT-/KI-Diensten: § 203 StGB, BRAO, Art. 28 DSGVO AVV |
-| **datenschutzrecht-anpassen** | Praxisprofil gezielt anpassen ohne vollständiges Neu-Interview |
+| **anpassen** | Praxisprofil gezielt anpassen ohne vollständiges Neu-Interview |
 
 ## Schnellstart
 
 ### 1. Einrichtung
 
 ```
-/datenschutzrecht:datenschutzrecht-kaltstart-interview
+/datenschutzrecht:kaltstart-interview
 ```
 
 Bereithalten: URL Ihrer Datenschutzerklärung, AVV-Mustervorlage, eine abgeschlossene DSFA.
@@ -232,7 +232,7 @@ datenschutzrecht/
 
 ### v3.3.0 (05/2026)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **avv-prüfung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
+- **avv-pruefung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
 - Alle damals 18 Skills: Abschnitt "Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut

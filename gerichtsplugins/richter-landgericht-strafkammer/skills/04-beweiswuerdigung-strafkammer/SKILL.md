@@ -44,7 +44,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 Sucheinstiege; Aktenzeichen, Datum und Fundstelle werden vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert und nie aus dem Modellwissen ergänzt.
 
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven.
+- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen; kein allgemeiner Aussage-gegen-Aussage-Anker.
 - Ständige Rechtsprechung des BGH zu Paragraf 261 StPO: Die Beweiswürdigung muss sich auf den Inbegriff der Hauptverhandlung stützen, darf keine wesentlichen Umstände unerörtert lassen und muss frei von Lücken, Widersprüchen und Verstößen gegen Denk- und Erfahrungssätze sein.
 - Ständige Rechtsprechung des BGH zum Zweifelssatz: In dubio pro reo ist eine Entscheidungsregel für die abschließende Würdigung und keine Beweisregel für einzelne Indizien; das einschlägige Aktenzeichen wird vor Zitierung verifiziert.
 - Ständige Rechtsprechung des BGH zur Indizienbeweisführung: Die Indizien sind in einer geschlossenen Gesamtschau zu würdigen; eine isolierte Einzelbewertung trägt den Schuldspruch nicht.

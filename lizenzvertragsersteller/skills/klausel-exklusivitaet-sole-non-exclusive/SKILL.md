@@ -16,7 +16,7 @@ description: "Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusiv
 
 ## Klausel-Baustein
 
-> **$ 4 Exklusivitaet.**
+> **Paragraf 4 Exklusivitaet.**
 >
 > Option A — Ausschliessliche Lizenz:
 > Der Lizenzgeber raeumt dem Lizenznehmer eine **ausschliessliche Lizenz** ein. Der Lizenzgeber verzichtet auf eigene Nutzung des Lizenzgegenstands im Lizenzgebiet waehrend der Vertragslaufzeit; er wird auch keinen Dritten zur Nutzung berechtigen.

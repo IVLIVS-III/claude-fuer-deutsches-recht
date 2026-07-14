@@ -177,7 +177,7 @@ ist erstellt. Die laufenden Verhandlungen mit Patronen und Kreditgebern
 zeigen positive Entwicklung; mit Vollzug der Sanierungsbausteine ist die
 fristgerechte Zahlung gesichert.
 
-Über Sicherheitsleistung ($ 222 S. 2 AO) sind wir gerne im Gespraech
+Über Sicherheitsleistung (Paragraf 222 S. 2 AO) sind wir gerne im Gespraech
 (z. B. Bürgschaft des Patrons Sicherungsuebereignung Maschinen).
 
 Auf Verlangen reichen wir Folgendes nach:

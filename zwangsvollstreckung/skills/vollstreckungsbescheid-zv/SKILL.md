@@ -7,7 +7,7 @@ description: "Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvoll
 
 ## Arbeitsbereich
 
-Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu mahnbescheid-online-mobiliar-gv (Mahnbescheid-Antrag) und kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -61,7 +61,7 @@ Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. �
 Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung. Er trägt die Klausel kraft Gesetzes § 796 Abs. 1 ZPO. Es genügt:
 
 1. **Ausfertigung des VB** mit Zustellnachweis als Vollstreckungstitel.
-2. **Vollstreckung beginnen**: PfÜB, Mobiliarvollstreckung, Vermögensauskunft, je nach Zielobjekt – Skill `zv-kommandocenter` einsteigen lassen.
+2. **Vollstreckung beginnen**: PfÜB, Mobiliarvollstreckung, Vermögensauskunft, je nach Zielobjekt – Skill `kommandocenter` einsteigen lassen.
 
 ## Reaktion auf Einspruch nach VB
 
@@ -87,7 +87,7 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 
 ## Querverweise
 
-- `zv-mahnbescheid-online` – Mahnantrag.
-- `zv-titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
+- `mahnbescheid-online-mobiliar-gv` – Mahnantrag.
+- `titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
+- `pfueb-bank`, `pfueb-arbeitsentgelt`, `mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.

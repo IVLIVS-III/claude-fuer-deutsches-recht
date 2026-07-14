@@ -155,9 +155,9 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 Vor Versand jeweils Volltext in juris.bundesgerichtshof.de oder dejure.org aufrufen:
 
-- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeld; Klauselersetzung nach Intransparenz unzulässig (Pressemitteilung Nr. 47/25 v. 12.3.2025)
-- BGH IV ZR 70/25 — PKV-Beitragsanpassung; Mitteilungspflicht
-- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab
+- BGH, Urteil vom 12. März 2025, IV ZR 32/24 — Krankentagegeld: Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG nur, wenn mindestens die Voraussetzungen ergänzender Vertragsauslegung vorliegen; Festhalten am lückenhaften Vertrag ist für den Versicherer nicht schon deshalb unzumutbar
+- BGH, Urteil vom 22. April 2026, IV ZR 70/25 — PKV-Beitragsanpassung: Inhalt der Mitteilung nach Paragraf 203 Absatz 5 VVG sowie Darlegungs- und Beweislast für die materielle Rechtmäßigkeit getrennt prüfen
+- BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24 — Verkehrs-Rechtsschutz: Unklare VRB-Klauseln zur Ersatzfahrzeuganschaffung gehen nach Paragraf 305c Absatz 2 BGB zulasten des Versicherers; Deckung kann auch für ein Ereignis vor Zulassung des Ersatzfahrzeugs bestehen
 - BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU nach Ablauf der sechs-monatigen Prognosezeit
 - BGH VI ZR 183/22, Urt. v. 28.1.2025 — DSGVO-Schadensersatz Art. 82 hat nur Ausgleichs-, keine Straffunktion
 

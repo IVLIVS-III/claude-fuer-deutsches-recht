@@ -263,9 +263,9 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 Vor Versand jeweils Volltext in juris.bundesgerichtshof.de oder dejure.org aufrufen:
 
-- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeld; Klauselersetzung nach Intransparenz unzulässig (Pressemitteilung Nr. 47/25 v. 12.3.2025)
-- BGH IV ZR 70/25 — PKV-Beitragsanpassung; Mitteilungspflicht
-- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab
+- BGH, Urteil vom 12. März 2025, IV ZR 32/24 — Krankentagegeld: Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG nur, wenn mindestens die Voraussetzungen ergänzender Vertragsauslegung vorliegen; Festhalten am lückenhaften Vertrag ist für den Versicherer nicht schon deshalb unzumutbar
+- BGH, Urteil vom 22. April 2026, IV ZR 70/25 — PKV-Beitragsanpassung: Inhalt der Mitteilung nach Paragraf 203 Absatz 5 VVG sowie Darlegungs- und Beweislast für die materielle Rechtmäßigkeit getrennt prüfen
+- BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24 — Verkehrs-Rechtsschutz: Unklare VRB-Klauseln zur Ersatzfahrzeuganschaffung gehen nach Paragraf 305c Absatz 2 BGB zulasten des Versicherers; Deckung kann auch für ein Ereignis vor Zulassung des Ersatzfahrzeugs bestehen
 - BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU nach Ablauf der sechs-monatigen Prognosezeit
 - BGH VI ZR 183/22, Urt. v. 28.1.2025 — DSGVO-Schadensersatz Art. 82 hat nur Ausgleichs-, keine Straffunktion
 
@@ -354,11 +354,11 @@ _Wenn es um Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwa
 
 Vor Versand jeweils Volltext in offener Quelle aufrufen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
 
-1. **BGH, Urt. v. 12.3.2025, IV ZR 32/24** — Krankentagegeldversicherung: Klauselersetzung nach Unwirksamkeit nicht ohne Weiteres zulässig; Versicherer kann unwirksame Tagessatz-Herabsetzung nicht durch im Kern gleiche neue Klausel ersetzen. Pressemitteilung Nr. 47/25 vom 12.3.2025.
-2. **BGH, IV ZR 70/25, 2025** — PKV-Beitragsanpassung: Mitteilungsschreiben muss die konkrete Rechnungsgrundlage benennen (§ 203 Abs. 5 VVG).
-3. **BGH, IV ZR 86/24, Urt. v. 15.10.2025** — Beitragsanpassung PKV; Prüfungsmaßstab. Quelle: bundesgerichtshof.de.
+1. **BGH, Urteil vom 12. März 2025, IV ZR 32/24** — Krankentagegeldversicherung: Ersetzung unwirksamer Bedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; der Versicherer kann sich nicht schon wegen der Vertragslücke auf unzumutbare Härte berufen.
+2. **BGH, Urteil vom 22. April 2026, IV ZR 70/25** — PKV-Beitragsanpassung: Die Mitteilung nach Paragraf 203 Absatz 5 VVG muss nicht zusätzlich erklären, dass die Veränderung der maßgeblichen Rechnungsgrundlage nicht nur vorübergehend ist. Für die materielle Rechtmäßigkeit trägt der Versicherer die Darlegungs- und Beweislast; formelle Mitteilung und materielle Kalkulation getrennt prüfen.
+3. **BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24** — Verkehrs-Rechtsschutz: Auslegung unklarer VRB-Klauseln bei Anschaffung eines Ersatzfahrzeugs; Paragraf 305c Absatz 2 BGB. Quelle: bundesgerichtshof.de.
 4. **BGH, Urt. v. 14.7.2021, IV ZR 153/20** — Versicherungsfall BU: Eintritt nach Ablauf der bedingungsgemäßen sechs-monatigen Prognosezeit.
-5. **BGH, Urt. v. 28.1.2025, VI ZR 183/22** — DSGVO-Schadensersatz hat reine Ausgleichsfunktion; SCHUFA-Meldung bei streitiger Forderung unzulässig.
+5. **BGH, Urteil vom 28. Januar 2025, VI ZR 183/22** — DSGVO-Schadensersatz hat ausschließlich Ausgleichsfunktion; Dauer, Empfängerkreis und konkrete Folgen eines SCHUFA-Eintrags können für die Schadensbemessung maßgeblich sein. Die Rechtmäßigkeit der Meldung war im Revisionsverfahren nicht mehr Streitgegenstand.
 
 ### Paragrafenkette (Überblick VVG-Struktur)
 
@@ -452,11 +452,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Vor Versand jeweils Volltext in offener Quelle aufrufen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
 
-1. **BGH, Urt. v. 12.3.2025, IV ZR 32/24** — Krankentagegeldversicherung: Klauselersetzung nach Unwirksamkeit nicht ohne Weiteres zulässig; Versicherer kann unwirksame Tagessatz-Herabsetzung nicht durch im Kern gleiche neue Klausel ersetzen. Pressemitteilung Nr. 47/25 vom 12.3.2025.
-2. **BGH, IV ZR 70/25, 2025** — PKV-Beitragsanpassung: Mitteilungsschreiben muss die konkrete Rechnungsgrundlage benennen (§ 203 Abs. 5 VVG).
-3. **BGH, IV ZR 86/24, Urt. v. 15.10.2025** — Beitragsanpassung PKV; Prüfungsmaßstab. Quelle: bundesgerichtshof.de.
+1. **BGH, Urteil vom 12. März 2025, IV ZR 32/24** — Krankentagegeldversicherung: Ersetzung unwirksamer Bedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; der Versicherer kann sich nicht schon wegen der Vertragslücke auf unzumutbare Härte berufen.
+2. **BGH, Urteil vom 22. April 2026, IV ZR 70/25** — PKV-Beitragsanpassung: Die Mitteilung nach Paragraf 203 Absatz 5 VVG muss nicht zusätzlich erklären, dass die Veränderung der maßgeblichen Rechnungsgrundlage nicht nur vorübergehend ist. Für die materielle Rechtmäßigkeit trägt der Versicherer die Darlegungs- und Beweislast; formelle Mitteilung und materielle Kalkulation getrennt prüfen.
+3. **BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24** — Verkehrs-Rechtsschutz: Auslegung unklarer VRB-Klauseln bei Anschaffung eines Ersatzfahrzeugs; Paragraf 305c Absatz 2 BGB. Quelle: bundesgerichtshof.de.
 4. **BGH, Urt. v. 14.7.2021, IV ZR 153/20** — Versicherungsfall BU: Eintritt nach Ablauf der bedingungsgemäßen sechs-monatigen Prognosezeit.
-5. **BGH, Urt. v. 28.1.2025, VI ZR 183/22** — DSGVO-Schadensersatz hat reine Ausgleichsfunktion; SCHUFA-Meldung bei streitiger Forderung unzulässig.
+5. **BGH, Urteil vom 28. Januar 2025, VI ZR 183/22** — DSGVO-Schadensersatz hat ausschließlich Ausgleichsfunktion; Dauer, Empfängerkreis und konkrete Folgen eines SCHUFA-Eintrags können für die Schadensbemessung maßgeblich sein. Die Rechtmäßigkeit der Meldung war im Revisionsverfahren nicht mehr Streitgegenstand.
 
 ### Paragrafenkette (Überblick VVG-Struktur)
 

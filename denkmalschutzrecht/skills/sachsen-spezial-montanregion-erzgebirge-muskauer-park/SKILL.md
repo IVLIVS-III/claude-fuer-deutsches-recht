@@ -11,7 +11,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Sachsen verbindet zwei grenzueberschreitende Welterbestaetten. Die Montanregion Erzgebirge umfasst auf deutscher Seite Anlagen in Annaberg-Buchholz, Marienberg, Schneeberg, Freiberg und im Mansfelder Land; die Schutzkonzeption deckt Halden, Schaubergwerke, Zechenhaeuser und ganze Bergbaulandschaften. Der Muskauer Park (Pueckler) bildet mit der polnischen Schwesteranlage eine Einheit. Mandatslagen: Bauvorhaben in der Pufferzone, Restitutionsfragen, Nachnutzung bergbaulicher Anlagen, Bauleitplanung in den Welterbe-Korridoren.
+Sachsen verbindet zwei grenzüberschreitende Welterbestätten. Die Montanregion Erzgebirge/Krušnohoří umfasst sächsische und tschechische Bergbaulandschaften, darunter Teilgebiete um Freiberg, Schneeberg, Annaberg-Frohnau, Marienberg und Altenberg; das Mansfelder Land gehört nicht zu dieser Welterbestätte. Der Muskauer Park bildet beiderseits der deutsch-polnischen Grenze eine gestalterische Einheit. Mandatslagen: Bauvorhaben in Kern- und Pufferzonen, Nachnutzung bergbaulicher Anlagen, Halden- und Wasserwirtschaft, Restitutionsfragen und Bauleitplanung in Sicht- oder Landschaftskorridoren.
 
 ## Ablauf / Checkliste
 

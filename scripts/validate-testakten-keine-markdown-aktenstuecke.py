@@ -11,7 +11,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from testakte_file_filter import is_export_meta_file
+from testakte_file_filter import is_allowed_markdown_aktenstueck, is_export_meta_file
 
 ROOT = Path(__file__).resolve().parent.parent / "testakten"
 SKIP = {"megaprompts", "formatvorlagen-paradebeispiele"}
@@ -23,6 +23,8 @@ def main() -> int:
             continue
         for p in d.rglob("*.md"):
             if "gesamt-pdf" in p.parts:
+                continue
+            if is_allowed_markdown_aktenstueck(p, d):
                 continue
             if is_export_meta_file(p, d):
                 continue

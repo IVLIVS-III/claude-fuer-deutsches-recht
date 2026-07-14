@@ -90,7 +90,7 @@ Interessenkonflikt-Check in der Kanzleisoftware; schriftliche Bestätigung der P
 ### Grün — Starke Position
 - Formfehler bei der Kündigung (kein Original, fehlende Vollmacht, keine BR-Anhörung)
 - Sonderkündigungsschutz (Schwangerschaft, Elternzeit, Betriebsrat) ohne behördliche Zustimmung
-- Massenentlassungsanzeige fehlerhaft (post-BAG 6 AZR 152/22)
+- Massenentlassungsanzeige fehlt oder wurde vor Abschluss des Konsultationsverfahrens erstattet (BAG 6 AZR 152/22 und 6 AZR 157/22)
 - Befristungsabrede nicht schriftlich oder nach Dienstantritt unterzeichnet
 
 ### Gelb — Mittlere Lage

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 16 KB) | PDF | [`gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf`](gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf`](gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg-einzelpdfs.zip) |
 
@@ -38,18 +38,21 @@ Nachlass des Maschinenbauunternehmers Heinrich Baumann mit GmbH-Anteilen, Testam
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
-| `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
-| `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
-| `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |
-| `05_testament_unternehmernachfolge.docx` | 05 testament unternehmernachfolge.docx |
-| `06_bank_covenant_mail.docx` | 06 bank covenant mail.docx |
-| `09_entwurf_naechstes_schreiben.docx` | 09 entwurf nächstes schreiben.docx |
-| `csv/gesellschaftsrechtliche_to_dos.csv` | csv/gesellschaftsrechtliche to dos.csv |
-| `emails/2026-06-30_mara_bankdruck.eml` | emails/2026 06 30 mara bankdruck.eml |
-| `pdfs/satzung_nachfolgeklausel_auszug.pdf` | pdfs/satzung nachfolgeklausel auszug.pdf |
-| `xlsx/nachlass_und_gmbh_wertband.xlsx` | xlsx/nachlass und gmbh wertband.xlsx |
+| `01_mandatsnotiz_erstgespraech.docx` | Kanzleivermerk zu Nachlass, Beteiligungsstruktur, Testamentsvollstreckung, Bankdruck, Pflichtteil und Mandatskonflikten |
+| `02_chronologie_arbeitsstand.docx` | Zeitachse vom Unternehmertestament bis zur offenen Gesellschafterliste mit Vollzugsstatus und Abhängigkeiten |
+| `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung der Geschäftsführerin Mara Baumann zu Nachfolgeplanung, Bank, Liquidität und Verhältnis zu Tilo |
+| `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Tilo Baumanns zu Auskunft, unabhängiger Unternehmensbewertung, Testamentsvollstreckung und Vergleich |
+| `05_testament_unternehmernachfolge.docx` | Ausformuliertes notarielles Testament mit Erbquoten, Unternehmensbindung, Verwaltungsvollstreckung und Ersatzbestimmung |
+| `06_bank_covenant_mail.docx` | Bankbestätigung zur befristeten Kreditlinie, Kontrollwechselklausel, Unterlagenanforderung und Zwischenauflagen |
+| `07_gesellschaftsvertrag_nachfolgeklauseln.docx` | Satzungsauszug zu Anteilen, Vinkulierung, Tod, gemeinsamer Vertretung, Einziehung und Abfindung |
+| `08_kreditgeber_covenant_und_freigabe.docx` | Befristete Bankfreigabe für die Investitionsfinanzierung mit Kennzahlen, Nachweisen und Vorbehalten |
+| `09_entwurf_naechstes_schreiben.docx` | Schreiben an den Testamentsvollstrecker zu Befugnismatrix, Bewertung, Bankkommunikation und Berichtsstruktur |
+| `10_testamentsvollstrecker_bericht.docx` | Vollständiger Verwaltungsbericht mit Amtsstand, Beteiligung, vorläufigen Nachlasswerten, Konflikten und Fristen |
+| `csv/gesellschaftsrechtliche_to_dos.csv` | Vollzugsliste für Register, Gesellschafterversammlung, Bank, Gutachter und Nachlassverwaltung |
+| `emails/2026-06-30_mara_bankdruck.eml` | E-Mail der Geschäftsführerin zur Kreditfrist und den Folgen für Löhne, Lieferanten und Investition |
+| `pdfs/satzung_nachfolgeklausel_auszug.pdf` | Satzungsanlage zu Übertragung, Nachfolge und Abfindung als ergänzende PDF-Fassung |
+| `xlsx/nachlass_und_gmbh_wertband.xlsx` | Wertband für privaten Nachlass, GmbH-Anteil, Verrechnungskonto, Pflichtteil und Liquiditätswirkung |
 
 ## Arbeitsnotiz
 
-Der Fall eignet sich für Erbschein, Testamentsvollstreckerbefugnisse, Pflichtteil, gesellschaftsrechtliche Vollzugsfragen und Vergleich unter Liquiditätsdruck.
+Der Fall verbindet Erbschein, Testamentsvollstreckerbefugnisse, Pflichtteil, Gesellschaftsvollzug und Finanzierung. Satzung, Testament, Bankauflagen und operative Geschäftsführung liefern bewusst unterschiedliche Regelungsebenen, die in einer belastbaren Vollzugs- und Liquiditätsroute zusammengeführt werden müssen.

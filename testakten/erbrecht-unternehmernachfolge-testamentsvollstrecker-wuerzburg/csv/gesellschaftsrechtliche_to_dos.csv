@@ -1,4 +1,11 @@
-Datum;Thema;Dokument
-10.07.2026;Vollstreckerzeugnis;Nachlassgericht
-15.07.2026;Gesellschafterliste;Notar
-31.07.2026;Banklinie;Mainfranken Bank
+Zieldatum;Vorgang;Verantwortlich;Benötigte Unterlage;Status;Folge bei Verzögerung
+03.07.2026;Gesellschafterbestand zum Todestag feststellen;Notariat und Geschäftsführung;Gesellschafterliste, Satzung, Sterbeurkunde;in Arbeit;Stimmrechtslage bleibt offen
+06.07.2026;Vertretung bis zum Erbnachweis abstimmen;Testamentsvollstrecker und Kanzlei;Testament, Eröffnungsprotokoll, Satzung;Besprechung terminiert;Beschlüsse können angegriffen werden
+10.07.2026;Vollstreckerzeugnis vervollständigen;Dr. Fedor Lehnert;gerichtliche Zwischenverfügung und Personenstandsurkunden;Unterlagen fehlen;Bank akzeptiert Zeichnung nicht
+13.07.2026;Gesellschafterversammlung vorbereiten;Geschäftsführung;Einladung, Tagesordnung, Vollmachtslage;Entwurf offen;Investitions- und Liquiditätsbeschlüsse verzögern sich
+15.07.2026;Gesellschafterliste zum Handelsregister einreichen;Notariat;Erbnachweis, Vollstreckerzeugnis, unterschriebene Liste;nicht begonnen;Registerstand bleibt widersprüchlich
+17.07.2026;Fortführungsplanung an Bank senden;Mara Baumann und Steuerberatung;Liquiditätsplan, Auftragseingang, Covenants;Zahlenabgleich läuft;Kreditprüfung wird nicht abgeschlossen
+20.07.2026;Unternehmensbewertung beauftragen;Erbengemeinschaft;Bewertungsstichtag, Jahresabschlüsse, Planungsrechnung;Gutachterauswahl streitig;Pflichtteilsliquidität bleibt unbestimmt
+24.07.2026;Zwischenbericht Nachlassverwaltung vorlegen;Testamentsvollstrecker;Konten, Verbindlichkeiten, Maßnahmenprotokoll;angekündigt;Erben verlangen gerichtliche Klärung
+27.07.2026;Materialbestellungen absichern;Geschäftsführung und Bank;Bestellliste, Auftragsbestand, Kontodeckung;Freigabe ausstehend;Produktion ab August gefährdet
+31.07.2026;Betriebsmittellinie verlängern;Mainfranken Bank;Erbnachweis, Fortführungsplan, Registerstand;befristete Linie;Liquiditätsengpass bei Augustlöhnen

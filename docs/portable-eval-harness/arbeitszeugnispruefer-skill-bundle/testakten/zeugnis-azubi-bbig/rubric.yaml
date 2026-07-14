@@ -1,4 +1,4 @@
-name: "Zeugnis Azubi - Sonderfall $ 16 BBiG"
+name: "Zeugnis Azubi - Sonderfall Paragraf 16 BBiG"
 plugin: "arbeitszeugnis-pruefer"
 
 checks:
@@ -9,7 +9,7 @@ checks:
 
   - id: r02-bbig-rechtsgrundlage
     check_type: text_contains
-    description: "Skill erkennt $ 16 BBiG als Rechtsgrundlage"
+    description: "Skill erkennt Paragraf 16 BBiG als Rechtsgrundlage"
     path: "output.md"
     contains: "16"
 

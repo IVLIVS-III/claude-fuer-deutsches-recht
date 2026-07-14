@@ -1,2 +1,23 @@
 name: kaufrecht-wallbox-firmware-lastmanagement-essen
-focus: bgb-bt-pruefer
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte kaufrecht-wallbox-firmware-lastmanagement-essen.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Installations- und Hardwarefehler von Firmware-, Kompatibilitäts- und Updatefehlern des Lastmanagements
+      trennen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Produktblatt, Ladeprotokolle und Servicebericht darauf abgleichen, ob dynamisches Lastmanagement
+      und zugesagte Ladeleistung tatsächlich erreicht werden.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Nacherfüllungsvariante, Ausbau- und Einbaukosten, Fristsetzung und mögliche Vertragsbeendigung
+      für Wallbox und digitale Zusatzleistung getrennt bestimmen.

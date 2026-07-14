@@ -1,37 +1,34 @@
-name: "Arbeitsrecht Kuendigungsdrama Koerber"
-plugin: "fachanwalt-arbeitsrecht"
-
+name: Arbeitsrecht Kuendigungsdrama Koerber
+plugin: fachanwalt-arbeitsrecht
 checks:
   - id: r01-readme
     check_type: file_exists
-    description: "README mit Sachverhalt vorhanden"
-    path: "README.md"
-
+    description: README mit Sachverhalt vorhanden
+    path: README.md
   - id: r02-gesamt-pdf
     check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf"
-
+    description: Gesamt-PDF gebaut
+    path: gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf
   - id: r03-erstgespraech
     check_type: file_exists
-    description: "Erstgespraechs-Notiz vorhanden"
-    path: "01_erstgespraech_mandantennotiz.docx"
-
+    description: Erstgespraechs-Notiz vorhanden
+    path: 01_erstgespraech_mandantennotiz.docx
   - id: r04-kschg-3-wochen-frist
     check_type: regex_match
-    description: "Kuendigungsschutzklage-3-Wochen-Frist / $ 4 KSchG sichtbar"
-    path: "README.md"
-    pattern: "(3-Wochen|drei.{0,3}Wochen|.{0,3} 4 KSchG|Klagefrist)"
-
+    description: Kuendigungsschutzklage-3-Wochen-Frist / Paragraf 4 KSchG sichtbar
+    path: README.md
+    pattern: (3-Wochen|drei.{0,3}Wochen|.{0,3} 4 KSchG|Klagefrist)
   - id: r05-betriebsrat-erwaehnt
     check_type: regex_match
-    description: "Betriebsrat erwaehnt (BR-Anhoerung $ 102 BetrVG)"
-    path: "README.md"
-    pattern: "(Betriebsrat|BR-Anh|102 BetrVG)"
-
+    description: Betriebsrat erwaehnt (BR-Anhoerung Paragraf 102 BetrVG)
+    path: README.md
+    pattern: (Betriebsrat|BR-Anh|102 BetrVG)
   - id: r06-sozialdaten-datenkern
     check_type: regex_match
-    description: "Datenauswertungs-Kern: AT-Fuehrungskraefte-Sozialdatenmatrix nachrechenbar - Koerber 21 Punkte (hoechster Sozialschutz) und dennoch als einzige gekuendigt, waehrend Imholz Weigand und Ruhland weiterbeschaeftigt werden; Diskrepanz zur Behauptung keine anderweitige Beschaeftigung"
-    path: "23_sozialdaten_at_fuehrungskraefte_matrix.csv"
-    pattern: "Dr. Annika Koerber,Werkleiterin.*,13,3,1,4,0,21,ja"
-    erwartung: "Sozialpunkte Koerber 21, Imholz 10, Weigand 15, Ruhland 10; einzig Koerber gekuendigt trotz hoechstem Sozialschutz und offener Konzernfunktion Salzgitter"
+    description: 'Datenauswertungs-Kern: AT-Fuehrungskraefte-Sozialdatenmatrix nachrechenbar - Koerber 21 Punkte
+      (hoechster Sozialschutz) und dennoch als einzige gekuendigt, waehrend Imholz Weigand und Ruhland weiterbeschaeftigt
+      werden; Diskrepanz zur Behauptung keine anderweitige Beschaeftigung'
+    path: 23_sozialdaten_at_fuehrungskraefte_matrix.csv
+    pattern: Dr. Annika Koerber,Werkleiterin.*,13,3,1,4,0,21,ja
+    erwartung: Sozialpunkte Koerber 21, Imholz 10, Weigand 15, Ruhland 10; einzig Koerber gekuendigt trotz hoechstem
+      Sozialschutz und offener Konzernfunktion Salzgitter

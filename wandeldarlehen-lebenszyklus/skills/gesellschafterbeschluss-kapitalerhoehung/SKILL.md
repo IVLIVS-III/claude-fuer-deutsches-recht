@@ -25,9 +25,9 @@ description: "Wenn es um Gesellschafterbeschluss – Kapitalerhöhung gegen Sach
 ## Rechtlicher Rahmen
 
 ### Primärnormen
-- § 53 Abs. 2 GmbHG (Satzungsänderung durch Gesellschafterbeschluss – drei Viertel-Mehrheit, notarielle Beurkundung)
+- Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit für die Satzungsänderung) und Absatz 3 GmbHG (notarielle Beurkundung des Beschlusses)
 - § 55 Abs. 1 GmbHG (Kapitalerhöhungsbeschluss – Zulassung neuer Gesellschafter)
-- § 55 Abs. 2 GmbHG (Übernahmeerklärung des neuen Gesellschafters – notarielle Beurkundung)
+- Paragraf 55 Absatz 1 GmbHG (notariell aufgenommene oder beglaubigte Übernahmeerklärung für den neuen Geschäftsanteil)
 - § 56 GmbHG (Sacheinlage: Leistung vor Anmeldung zum Handelsregister)
 - § 56a GmbHG (Sachgründungsbericht / Sacheinlagebericht)
 - § 9 GmbHG (Differenzhaftung bei Überbewertung)
@@ -38,7 +38,7 @@ description: "Wenn es um Gesellschafterbeschluss – Kapitalerhöhung gegen Sach
 ## Vorgehen
 
 ### 1. Beschlussstruktur festlegen
-Notarielle Beurkundung (§ 53 Abs. 2 GmbHG) zwingend. Beschlussinhalt: (a) Kapitalerhöhung, (b) Ausschluss Bezugsrecht, (c) Zulassung Lender, (d) Satzungsänderung. Gleichzeitig: Übernahmeerklärung des Lenders (§ 55 Abs. 2 GmbHG) – auch notariell.
+Notarielle Beurkundung nach Paragraf 53 Absatz 3 GmbHG ist zwingend. Beschlussinhalt: Kapitalerhöhung, gegebenenfalls Bezugsrechtsausschluss, Zulassung des Darlehensgebers und Satzungsänderung. Die Übernahmeerklärung richtet sich nach Paragraf 55 Absatz 1 GmbHG und muss notariell aufgenommen oder beglaubigt werden.
 
 ### 2. Beschlusstext ausarbeiten
 "Die Gesellschafterinnen beschließen mit der erforderlichen Mehrheit von drei Vierteln der abgegebenen Stimmen die Erhöhung des Stammkapitals der Gesellschaft von EUR [alt] um EUR [Erhöhungsbetrag] auf EUR [neu] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Einbringung der Forderung aus dem Wandeldarlehensvertrag vom [Datum] in Höhe von EUR [Wandlungssumme] als Sacheinlage."
@@ -46,7 +46,7 @@ Notarielle Beurkundung (§ 53 Abs. 2 GmbHG) zwingend. Beschlussinhalt: (a) Kapit
 ### 3. Bezugsrechtsverzicht formulieren
 "Die Altgesellschafterinnen verzichten hiermit auf ihr Bezugsrecht an den neuen Geschäftsanteilen und stimmen der Zulassung von [Lender] zur Übernahme der neuen Geschäftsanteile zu."
 
-### 4. Übernahmeerklärung Lender (§ 55 Abs. 2 GmbHG)
+### 4. Übernahmeerklärung des Darlehensgebers nach Paragraf 55 Absatz 1 GmbHG
 Lender erklärt notariell die Übernahme der neuen Geschäftsanteile gegen Einbringung der Forderung. Gleichzeitig: Abtretung der Forderung an die Gesellschaft (Konfusion) oder Verzicht (§ 4.8 WDV).
 
 ### 5. Sacheinlagebericht beifügen

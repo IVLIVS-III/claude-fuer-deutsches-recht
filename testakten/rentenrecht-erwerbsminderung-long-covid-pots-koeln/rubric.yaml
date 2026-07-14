@@ -1,9 +1,23 @@
-slug: rentenrecht-erwerbsminderung-long-covid-pots-koeln
-rechtsgebiet: rentenpruefer
-aktenart: mandatsakte
-stand: 2026-07-06
-arbeitsprodukte:
-  - fristenblatt
-  - belegmatrix
-  - widerspruchs-oder-klageentwurf
-  - vergleichs-oder-strategievermerk
+name: rentenrecht-erwerbsminderung-long-covid-pots-koeln
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte rentenrecht-erwerbsminderung-long-covid-pots-koeln.
+checks:
+  - id: datei-01-antrag-erwerbsminderungsrente-2026-03-11
+    check_type: file_exists
+    description: Das Primäraktenstück 01_antrag_erwerbsminderungsrente_2026-03-11.docx ist vorhanden.
+    path: 01_antrag_erwerbsminderungsrente_2026-03-11.docx
+  - id: datei-02-reha-entlassungsbericht-auszug-2026-05-09
+    check_type: file_exists
+    description: Das Primäraktenstück 02_reha_entlassungsbericht_auszug_2026-05-09.docx ist vorhanden.
+    path: 02_reha_entlassungsbericht_auszug_2026-05-09.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Leistungsvermögen unter drei Stunden, zwischen drei und unter sechs Stunden sowie mindestens sechs
+      Stunden anhand funktioneller Befunde statt Diagnoseetiketten prüfen.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Reha-Entlassungsbericht, Kipptischbefund, Belastungstagebuch, Arbeitsplatzversuch und Alltagsprotokoll
+      auf Widersprüche und zeitliche Belastbarkeit abgleichen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Versicherungsrechtliche Voraussetzungen, Reha-vor-Rente, Widerspruchsfrist, weitere Begutachtung
+      und hilfsweise Teilrente in den Verfahrensplan aufnehmen.

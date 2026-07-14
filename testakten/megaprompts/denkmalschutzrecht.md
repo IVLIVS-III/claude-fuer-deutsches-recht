@@ -244,7 +244,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Schleswig-Holstein hat drei Welterbestaetten. Luebeck ist das aelteste deutsche Welterbe in der norddeutschen Backsteingotik, mit Marktkirche, Holstentor und Buddenbrookhaus. Haithabu / Danewerk ist die grenzueberschreitende archaeologische Landschaft (gemeinsam mit Daenemark), die ein Bodendenkmal-Ensemble der Wikingerzeit konserviert; Erdbewegungen jeglicher Art sind genehmigungspflichtig. Wattenmeer als Natur-Welterbe greift in die maritime Bauleitplanung ein. Mandatslagen: Hafenausbau, Daenemark-Verkehrsanbindung, Sichtachsen Luebeck, Hofbebauung Altstadt.
+Schleswig-Holstein hat drei Welterbestätten. Die Lübecker Altstadt steht für die norddeutsche Backsteingotik; bei Sichtachsen, Dachlandschaften und Hofbebauung sind Kernzone, Pufferzone und Managementplan getrennt zu prüfen. Der Archäologische Grenzkomplex Haithabu und Danewerk liegt als deutsche Welterbestätte in Schleswig-Holstein und ist keine gemeinsam mit Dänemark getragene transnationale Stätte; seine historische Grenzfunktion darf nicht mit dem heutigen Welterbestatus verwechselt werden. Das Wattenmeer ist dagegen eine transnationale Naturerbestätte. Mandatslagen: Hafenausbau, Erdarbeiten im Bodendenkmalbereich, Verkehrsprojekte, Altstadtumbau und Vorhaben in Pufferzonen.
 
 ## Ablauf / Checkliste
 
@@ -322,7 +322,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Sachsen-Anhalt verzeichnet fuenf Welterbestaetten. Die Bauhausstaetten Dessau (Bauhausgebaeude, Meisterhaeuser, Bundesschule Bernau, Houses with Balcony Access) sind in der erweiterten Welterbe-Eintragung 2017 differenziert beschrieben. Quedlinburg-Welterbe umfasst Altstadt, Stiftskirche und Schloss. Lutherstaetten in Eisleben und Wittenberg pruegen Reformationsgedenken. Naumburger Dom mit den Stifterfiguren des Naumburger Meisters ist herausragendes mittelalterliches Welterbe. Dessauer Gartenreich verbindet Park- und Landschaftsgestaltung. Mandatslagen: Innenausbauten, Energetik, Bauten in Pufferzonen. Live-Check im Welterbe-Managementplan.
+Sachsen-Anhalt verzeichnet fünf Welterbestätten. Zu den Dessauer Bauhaus-Komponenten gehören insbesondere Bauhausgebäude, Meisterhäuser und Laubenganghäuser; die Bundesschule Bernau liegt in Brandenburg und darf nicht den Dessauer Stätten zugerechnet werden. Quedlinburg umfasst Altstadt, Stiftskirche und Schlossberg. Die Luthergedenkstätten liegen in Eisleben und Wittenberg, der Naumburger Dom bildet eine eigenständige Welterbestätte, und das Gartenreich Dessau-Wörlitz verbindet Bau- und Landschaftsgestaltung. Mandatslagen: Innenausbau, energetische Ertüchtigung, Sichtachsen, Parkpflege und Vorhaben in Pufferzonen; jeweils den konkreten Managementplan prüfen.
 
 ## Ablauf / Checkliste
 
@@ -361,7 +361,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Sachsen verbindet zwei grenzueberschreitende Welterbestaetten. Die Montanregion Erzgebirge umfasst auf deutscher Seite Anlagen in Annaberg-Buchholz, Marienberg, Schneeberg, Freiberg und im Mansfelder Land; die Schutzkonzeption deckt Halden, Schaubergwerke, Zechenhaeuser und ganze Bergbaulandschaften. Der Muskauer Park (Pueckler) bildet mit der polnischen Schwesteranlage eine Einheit. Mandatslagen: Bauvorhaben in der Pufferzone, Restitutionsfragen, Nachnutzung bergbaulicher Anlagen, Bauleitplanung in den Welterbe-Korridoren.
+Sachsen verbindet zwei grenzüberschreitende Welterbestätten. Die Montanregion Erzgebirge/Krušnohoří umfasst sächsische und tschechische Bergbaulandschaften, darunter Teilgebiete um Freiberg, Schneeberg, Annaberg-Frohnau, Marienberg und Altenberg; das Mansfelder Land gehört nicht zu dieser Welterbestätte. Der Muskauer Park bildet beiderseits der deutsch-polnischen Grenze eine gestalterische Einheit. Mandatslagen: Bauvorhaben in Kern- und Pufferzonen, Nachnutzung bergbaulicher Anlagen, Halden- und Wasserwirtschaft, Restitutionsfragen und Bauleitplanung in Sicht- oder Landschaftskorridoren.
 
 ## Ablauf / Checkliste
 
@@ -478,7 +478,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-NRW verfuegt mit Zollverein ueber das prominenteste Industrie-Welterbe Deutschlands. Die Mandatslagen reichen von Umnutzungsvorhaben in den Industriehallen (Design-Quartier, Ruhrtriennale-Spielstaetten) ueber Sanierungsmassnahmen an den Schachtanlagen bis zur Bauleitplanung im Umfeld. Sonderkonstellation: die LWL-Denkmalpflege Westfalen-Lippe und das LVR-Amt fuer Denkmalpflege im Rheinland teilen sich die Zustaendigkeit nach der Region. Bei Zollverein zustaendig: LWL. Bei Aachener Dom: LVR. Bei Augustusburg / Falkenlust: LVR.
+Nordrhein-Westfalen verfügt mit der Zeche Zollverein in Essen über ein bedeutendes Industrie-Welterbe. Mandatslagen reichen von Umnutzungen in Industriehallen über Sanierungen an Schachtanlagen bis zur Bauleitplanung im Umfeld. Für Essen und damit Zollverein ist auf der Landschaftsverbandsebene der LVR zuständig, nicht der LWL; auch Aachener Dom sowie Augustusburg und Falkenlust liegen im Zuständigkeitsgebiet des LVR. Den konkreten Behördenweg dennoch nach Denkmalart, Kommune und Verfahrensgegenstand bestimmen.
 
 ## Ablauf / Checkliste
 

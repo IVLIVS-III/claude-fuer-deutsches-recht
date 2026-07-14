@@ -148,9 +148,6 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufru
 
 - BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de
 - BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
-- BGH IV ZR 32/24, Urt. v. 12.3.2025 — Krankentagegeldversicherung: einseitige Tagessatz-Herabsetzung durch Klauselersetzung nach § 164 Abs. 1 VVG unzulässig; Bedeutung auch für Bedingungswechsel in BU/PKV-Klauselgestaltung. Pressemitteilung Nr. 47/25 vom 12.3.2025. Quelle: bundesgerichtshof.de Pressemitteilungen
-- BGH IV ZR 70/25, 2025 — PKV-Beitragsanpassung: Begründung der Beitragsanpassung muss konkrete Rechnungsgrundlage benennen; sonst Rückforderung. Quelle: juris.bundesgerichtshof.de (Volltext vor Versand verifizieren)
-- BGH IV ZR 86/24, Urt. v. 15.10.2025 — PKV-Beitragsanpassung; Prüfungsmaßstab. Quelle: bundesgerichtshof.de (Volltext-Verifikation Pflicht)
 
 ## 9) Honorar
 
@@ -180,8 +177,6 @@ Verifizierte Aktenzeichen mit Anker zu offener Quelle. Volltext vor Versand erne
 1. **Versicherungsfall BU**: BGH, Urt. v. 14.7.2021, IV ZR 153/20 — Eintritt des Versicherungsfalls erst nach Ablauf der bedingungsgemäßen Prognosezeit (sechs Monate). Offene Quelle: juris.bundesgerichtshof.de
 2. **Vergleichstätigkeit / Verweisung**: BGH, Urt. v. 26.6.2019, IV ZR 19/18 — Tatsächlich erzieltes Einkommen aus Verweisungstätigkeit nicht ohne weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de
 3. **AVB-Auslegung Maßstab**: st. Rspr. BGH IV. ZS — Auslegung aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse. Konkrete Entscheidung mit Aktenzeichen vor Versand in offener Quelle verifizieren.
-4. **Klauselersetzung nach Intransparenz**: BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Nach Unwirksamkeit einer Bedingung darf der Versicherer keine im Kern identische neue Bedingung einseitig einführen (zur Krankentagegeldversicherung; übertragbar). Pressemitteilung Nr. 47/25 vom 12.3.2025.
-
 ### Paragrafenkette
 
 §§ 172 ff. VVG (BU-Versicherung) → § 19 VVG (Anzeigepflicht) → § 28 VVG (Obliegenheitsverletzung) → § 81 VVG (vorsätzliche/grob fahrlässige Herbeiführung) → § 286 ZPO (freie Beweiswürdigung Gutachten) → § 287 ZPO (Schadensschätzung) → § 402 ZPO (Sachverständiger) → § 195 BGB (Verjährung 3 Jahre) → § 203 BGB (Hemmung durch Verhandlungen) → § 256 ZPO (Feststellungsklage bei laufender Rente)
@@ -288,4 +283,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

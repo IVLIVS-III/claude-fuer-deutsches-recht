@@ -23,7 +23,7 @@ arbeitszeugnispruefer-skill-bundle/
     zeugnis-schaufenster-drift/  # Note 2-3 mit Drift
       README.md
       rubric.yaml                # 6 Pass/Fail-Checks
-    zeugnis-azubi-bbig/          # $ 16 BBiG-Sonderfall
+    zeugnis-azubi-bbig/          # Paragraf 16 BBiG-Sonderfall
       README.md
       rubric.yaml                # 6 Pass/Fail-Checks
 ```
@@ -93,7 +93,7 @@ Outputs gegen handgepflegte Rubrics, plus Modellvergleich und LLM-Judge.
 - `testakten/zeugnis-note-1/` - Positivreferenz, 7 Checks
 - `testakten/zeugnis-rote-flaggen/` - Note 4 mit roten Codes, 9 Checks
 - `testakten/zeugnis-schaufenster-drift/` - Drift-Pattern, 6 Checks
-- `testakten/zeugnis-azubi-bbig/` - $ 16 BBiG-Sonderfall, 6 Checks
+- `testakten/zeugnis-azubi-bbig/` - Paragraf 16 BBiG-Sonderfall, 6 Checks
 
 ## Test plan
 

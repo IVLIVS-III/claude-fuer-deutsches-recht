@@ -28,7 +28,7 @@ description: "Wenn es um Wandelereignis – Eingang Wandlungserklärung in Wande
 - § 132 BGB (Zugang bei Verweigerung der Annahme)
 - § 4.4 Wandeldarlehensvertrag (Frist: ein Monat nach Zugang Wandlungsmitteilung)
 - § 286 BGB (Verzug bei Fristversäumnis der Gesellschaft)
-- Zugangsfiktion bei einfachem Brief: seit Postrechtsmodernisierungsgesetz (PostModG, 1.1.2025) gilt regelmäßig **vier-Tage-Frist** ab Aufgabe zur Post (zuvor drei Tage); maßgeblich bei Berechnung der Wandlungsfrist, wenn Wandlungserklärung oder Wandlungsmitteilung postalisch verschickt wird
+- Für privatrechtliche Wandlungserklärungen und Wandlungsmitteilungen gibt es keine allgemeine Vier-Tage-Zugangsfiktion. Nach Paragraf 130 BGB zählt der tatsächliche Zugang; Aufgabe zur Post und Sendungsverfolgung sind nur Indizien. Vertragliche Zugangsklauseln gesondert auf Wortlaut und Wirksamkeit prüfen, bei Fristrisiko einen nachweisbaren Übermittlungsweg wählen.
 
 ### Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

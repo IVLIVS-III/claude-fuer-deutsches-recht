@@ -1,44 +1,36 @@
-name: "M&A Asset Deal MedTech Volkenrath"
-plugin: "corporate-kanzlei"
-
+name: M&A Asset Deal MedTech Volkenrath
+plugin: corporate-kanzlei
 checks:
   - id: r01-readme
     check_type: file_exists
-    description: "README mit Sachverhalt vorhanden"
-    path: "README.md"
-
+    description: README mit Sachverhalt vorhanden
+    path: README.md
   - id: r02-spa-auszug-docx
     check_type: file_exists
-    description: "SPA-Auszug als DOCX vorhanden"
-    path: "docx/spa_asset_purchase_agreement_auszug.docx"
-
+    description: SPA-Auszug als DOCX vorhanden
+    path: docx/spa_asset_purchase_agreement_auszug.docx
   - id: r03-loi-pdf
     check_type: file_exists
-    description: "LOI Term Sheet als PDF (redacted)"
-    path: "pdfs/loi_term_sheet_redacted.pdf"
-
+    description: LOI Term Sheet als PDF (redacted)
+    path: pdfs/loi_term_sheet_redacted.pdf
   - id: r04-gesamt-pdf
     check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf"
-
+    description: Gesamt-PDF gebaut
+    path: gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf
   - id: r05-paragraf-613a-im-bu-skill
     check_type: text_contains
-    description: "Betriebsuebergang-Skill referenziert $ 613a BGB"
-    path: "17_betriebsuebergang-613a-bgb.docx"
-    contains: "613a"
-
+    description: Betriebsuebergang-Skill referenziert Paragraf 613a BGB
+    path: 17_betriebsuebergang-613a-bgb.docx
+    contains: 613a
   - id: r06-jpg-transaktionsstruktur
     check_type: file_exists
-    description: "JPG-Diagramm Transaktionsstruktur"
-    path: "jpg/02_transaktionsstruktur_visualisierung.jpg"
-
+    description: JPG-Diagramm Transaktionsstruktur
+    path: jpg/02_transaktionsstruktur_visualisierung.jpg
   - id: r07-xlsx-earn-out
     check_type: file_exists
-    description: "Earn-Out-Cashflow XLSX"
-    path: "xlsx/earn_out_cashflow_berechnung.xlsx"
-
+    description: Earn-Out-Cashflow XLSX
+    path: xlsx/earn_out_cashflow_berechnung.xlsx
   - id: r08-eml-bkarta
     check_type: file_exists
-    description: "BKartA-Freigabe EML"
-    path: "eml/02_bkarta_phase1_freigabe.eml"
+    description: BKartA-Freigabe EML
+    path: eml/02_bkarta_phase1_freigabe.eml

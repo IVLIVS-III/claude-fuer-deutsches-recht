@@ -35,7 +35,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **fachanwalt-er
 
 ## Kritische Fristen Erbrecht
 - Ausschlagung: sechs Wochen ab Kenntnis vom Anfall und Berufungsgrund (§ 1944 Abs. 1 BGB); sechs Monate bei Auslandsbezug oder gewöhnlichem Auslandsaufenthalt (§ 1944 Abs. 3 BGB). Form: vor Nachlassgericht oder notariell (§ 1945 BGB).
-- Pflichtteilsverjährung: drei Jahre ab Kenntnis von Erbfall und beeinträchtigender Verfügung (§§ 2332, 195, 199 BGB); Höchstfrist 30 Jahre ab Erbfall.
+- Pflichtteilsanspruch gegen den Erben: drei Jahre nach BGB Paragrafen 195 und 199 Absatz 1, grundsätzlich ab Jahresschluss bei Anspruchsentstehung und Kenntnis oder grob fahrlässiger Unkenntnis; kenntnisunabhängige Höchstfrist nach BGB Paragraf 199 Absatz 3a. Anspruch gegen den Beschenkten nach BGB Paragraf 2329: besonderer Verjährungsbeginn mit dem Erbfall nach BGB Paragraf 2332 Absatz 1.
 - Pflichtteilsergänzung: zehn-Jahres-Frist Schenkungen ab Vollzug, Abschmelzung pro Jahr (§ 2325 Abs. 3 BGB).
 - Anfechtung Testament/Erbvertrag: ein Jahr ab Kenntnis (§ 2082 BGB).
 - Erbschaftsteuer: Anzeigepflicht drei Monate ab Kenntnis (§ 30 ErbStG); Steuererklärungsfrist nach Aufforderung mindestens einen Monat (§ 31 ErbStG).

@@ -44,7 +44,7 @@ description: "Wenn es um Verfahrenswahl und Routenentscheidung in Insolvenzplan-
 | Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert in Drei-Wochen-Liquiditätsstatus einstellen | Vollstreckungsdruck kann Paragraf 17 auslösen |
 | Vollstreckung aus Titel vorläufig eingestellt | Gesondert würdigen | Belegwirkung kann entfallen |
 
-Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025, BGH IX ZB 38/24 vom 22.05.2025. Keine prozentuale Kürzung streitiger Passiva nach Prozessrisiko.
+Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025 zum vollstreckbaren Titel und zur objektiven Rechtslage, BGH II ZR 139/23 vom 11.03.2025 zum materiellen Bestand der Verbindlichkeit sowie BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung eines Titels beim Gläubigerantrag nach eingestellter Vollstreckung. Keine prozentuale Kürzung streitiger Passiva allein nach Prozessrisiko.
 
 ## Ausgabe
 

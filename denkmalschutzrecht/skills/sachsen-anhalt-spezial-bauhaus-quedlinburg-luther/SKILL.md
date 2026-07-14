@@ -11,7 +11,7 @@ Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bu
 
 ## Inhaltlicher Schwerpunkt
 
-Sachsen-Anhalt verzeichnet fuenf Welterbestaetten. Die Bauhausstaetten Dessau (Bauhausgebaeude, Meisterhaeuser, Bundesschule Bernau, Houses with Balcony Access) sind in der erweiterten Welterbe-Eintragung 2017 differenziert beschrieben. Quedlinburg-Welterbe umfasst Altstadt, Stiftskirche und Schloss. Lutherstaetten in Eisleben und Wittenberg pruegen Reformationsgedenken. Naumburger Dom mit den Stifterfiguren des Naumburger Meisters ist herausragendes mittelalterliches Welterbe. Dessauer Gartenreich verbindet Park- und Landschaftsgestaltung. Mandatslagen: Innenausbauten, Energetik, Bauten in Pufferzonen. Live-Check im Welterbe-Managementplan.
+Sachsen-Anhalt verzeichnet fünf Welterbestätten. Zu den Dessauer Bauhaus-Komponenten gehören insbesondere Bauhausgebäude, Meisterhäuser und Laubenganghäuser; die Bundesschule Bernau liegt in Brandenburg und darf nicht den Dessauer Stätten zugerechnet werden. Quedlinburg umfasst Altstadt, Stiftskirche und Schlossberg. Die Luthergedenkstätten liegen in Eisleben und Wittenberg, der Naumburger Dom bildet eine eigenständige Welterbestätte, und das Gartenreich Dessau-Wörlitz verbindet Bau- und Landschaftsgestaltung. Mandatslagen: Innenausbau, energetische Ertüchtigung, Sichtachsen, Parkpflege und Vorhaben in Pufferzonen; jeweils den konkreten Managementplan prüfen.
 
 ## Ablauf / Checkliste
 

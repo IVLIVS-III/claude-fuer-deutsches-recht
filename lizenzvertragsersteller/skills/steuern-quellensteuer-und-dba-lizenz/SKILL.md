@@ -11,9 +11,9 @@ description: "Wenn es um Steuern und Quellensteuer — Lizenz in Lizenzvertragse
 
 | Norm | Inhalt |
 |---|---|
-| $ 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
-| $ 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
-| $ 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
+| Paragraf 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
+| Paragraf 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
+| Paragraf 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
 
 ### B. DBA-Reduktion
 
@@ -37,20 +37,20 @@ Bei Lizenzen zwischen verbundenen Unternehmen (mindestens 25 % Beteiligung) in E
 
 ### D. Umsatzsteuer
 
-- B2B Lizenz innerhalb EU: Reverse-Charge ($ 13b UStG)
+- B2B Lizenz innerhalb EU: Reverse-Charge (Paragraf 13b UStG)
 - B2C Lizenz: USt-Pflicht im Empfaengerland
-- Aussergewoehnliche Geschäftsveraeusserung im Ganzen: $ 1 Ia UStG - bei IP-Voll-Uebertragung ggf. einschlaegig (siehe EuGH Zita Modes C-497/01)
+- Aussergewoehnliche Geschäftsveraeusserung im Ganzen: Paragraf 1 Ia UStG - bei IP-Voll-Uebertragung ggf. einschlaegig (siehe EuGH Zita Modes C-497/01)
 
 ## Klausel-Bausteine
 
 **A. Quellensteuer-Klausel (Groß-up):**
-> "$ 19 Steuern.
+> "Paragraf 19 Steuern.
 > (1) Lizenzgebuehren sind ohne Abzug von Steuern, Gebuehren oder anderen Abgaben zu zahlen.
 > (2) Sofern der Lizenznehmer kraft Gesetzes verpflichtet ist, von der Lizenzgebuehr Quellensteuer einzubehalten, erhoeht sich die Lizenzgebuehr um den Betrag der Quellensteuer (Groß-up), so dass der Lizenzgeber den vertraglich vereinbarten Nettobetrag erhaelt.
 > (3) Sofern der Lizenzgeber durch DBA-Anwendung oder die EU-Zinsen-Lizenz-Richtlinie einen reduzierten Quellensteuersatz oder Steuerbefreiung beanspruchen kann, wirkt er bei der Beschaffung der erforderlichen Bescheinigungen mit."
 
 **B. Umsatzsteuer:**
-> "(4) Die Lizenzgebuehren sind Nettobetraege. Auf die Lizenzgebuehr ist die gesetzliche Umsatzsteuer hinzuzurechnen. Bei B2B-Konstellationen innerhalb der EU gilt das Reverse-Charge-Verfahren ($ 13b UStG)."
+> "(4) Die Lizenzgebuehren sind Nettobetraege. Auf die Lizenzgebuehr ist die gesetzliche Umsatzsteuer hinzuzurechnen. Bei B2B-Konstellationen innerhalb der EU gilt das Reverse-Charge-Verfahren (Paragraf 13b UStG)."
 
 **C. Steuer-Erstattung:**
 > "(5) Wird die Quellensteuer rueckwirkend reduziert oder erstattet, fliesst der Erstattungsbetrag dem Lizenzgeber zu, soweit dieser den Groß-up bereits getragen hat."

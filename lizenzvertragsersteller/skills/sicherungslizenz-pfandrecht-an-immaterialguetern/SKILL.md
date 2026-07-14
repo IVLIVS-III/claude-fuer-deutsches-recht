@@ -15,7 +15,7 @@ description: "Wenn es um Sicherungslizenz und Pfandrecht an Immaterialguetern in
 
 ## Strukturen
 
-### A. Verpfaendung ($$ 1273 ff. BGB analog)
+### A. Verpfaendung (Paragrafen 1273 ff. BGB analog)
 
 | IP-Typ | Verpfaendung |
 |---|---|
@@ -27,7 +27,7 @@ description: "Wenn es um Sicherungslizenz und Pfandrecht an Immaterialguetern in
 
 ### B. Sicherungsabtretung (uebertragender Sicherheit)
 
-Voll-Uebertragung des IP an den Sicherheitennehmer; aufschiebend bedingt durch Tilgung des gesicherten Kredits. Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein $ 103 InsO.
+Voll-Uebertragung des IP an den Sicherheitennehmer; aufschiebend bedingt durch Tilgung des gesicherten Kredits. Im Insolvenzfall: Sicherheitennehmer ist Eigentümer, kein Paragraf 103 InsO.
 
 ### C. Sicherungslizenz (aufschiebend bedingt)
 
@@ -53,7 +53,7 @@ Sicherungsabtretung an Patenten ist im DPMA-Patentregister eintragbar (deklarato
 
 ## Verhältnis zu Bestehender Lizenz
 
-Verpfaendung/Sicherungsabtretung beruehrt **nicht** bestehende einfache Lizenzen Dritter, sofern diese mit Sukzessionsschutz eingetragen sind ($ 30 III MarkenG analog).
+Verpfaendung/Sicherungsabtretung beruehrt **nicht** bestehende einfache Lizenzen Dritter, sofern diese mit Sukzessionsschutz eingetragen sind (Paragraf 30 III MarkenG analog).
 
 ## Anschluss
 

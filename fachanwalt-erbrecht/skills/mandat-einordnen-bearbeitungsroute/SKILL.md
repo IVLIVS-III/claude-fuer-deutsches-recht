@@ -30,7 +30,7 @@ description: "Wenn es um Erbrechtsmandat einordnen Bearbeitungsroute bestimmen u
 Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
 
 - BGH, Urteil vom 12.03.2025 - IV ZR 88/24: Pflichtteilsanspruch nichteheliches Kind; § 2317 Abs. 1 BGB maßgebend trotz Ausübungssperre § 1600d Abs. 5 BGB.
-- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Zuwendung von Todes wegen an behandelnden Arzt nicht wegen Verstoß gegen ärztliche Berufsordnung unwirksam; Testierfreiheit (Art. 14 GG) überwiegt; § 138 BGB bleibt Einzelfallprüfung.
+- BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Das Arztvermächtnis war nicht wegen der konkret geprüften Berufsregel in Verbindung mit BGB Paragrafen 134 und 2171 Absatz 1 unwirksam; weitere Verbote und BGB Paragraf 138 bleiben gesondert zu prüfen.
 
 Anhängig zur Verfassungsmäßigkeit der erbschaftsteuerlichen Verschonung von Betriebsvermögen: BVerfG 1 BvR 804/22 (Stand 05/2026 noch nicht entschieden); Beobachtung empfohlen.
 
@@ -66,7 +66,7 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 - **Erbschaftsannahme oder -ausschlagung** § 1944 BGB — sechs Wochen ab Kenntnis vom Erbfall und Berufungsgrund; bei Auslandsaufenthalt sechs Monate.
 - **Anfechtung Erbschaftsannahme/-ausschlagung** § 1954 BGB — sechs Wochen.
-- **Pflichtteilsanspruch** Verjährung drei Jahre ab Kenntnis (§ 2332 BGB iVm § 195 BGB).
+- **Pflichtteilsanspruch gegen den Erben:** Regelverjährung von drei Jahren nach BGB Paragrafen 195 und 199 Absatz 1, grundsätzlich ab dem Schluss des Jahres der Anspruchsentstehung und Kenntnis oder grob fahrlässigen Unkenntnis. Die kenntnisunabhängige Höchstfrist folgt aus BGB Paragraf 199 Absatz 3a.
 - **Anfechtung Testament** § 2082 BGB — ein Jahr ab Kenntnis.
 - **Schenkungsfrist Pflichtteilsergänzung** § 2325 BGB — zehn Jahre (mit Abschmelzungsmodell).
 

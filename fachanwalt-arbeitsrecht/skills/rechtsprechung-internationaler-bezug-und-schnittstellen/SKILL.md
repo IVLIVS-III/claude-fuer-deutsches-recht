@@ -64,7 +64,7 @@ Wenn ein Sachverhalt mit internationalem Bezug oder einer EU-Rechtsfrage vorlieg
 ### 5. Befristung — RL 1999/70/EG (Befristungsrichtlinie)
 
 - **Kettenbefristungsverbot:** RL schreibt Maßnahmen gegen Missbrauch vor; BAG hat Missbrauchsprüfung entwickelt
-- **EuGH zu Betriebsratsmitgliedern:** BAG 7 AZR 50/24 (18.06.2025) nach EuGH-Vorlage: Paragraf 14 Abs. 2 TzBfG gilt auch für BR-Mitglieder; Verweigerung des Folgevertrags wegen BR-Mandat = Schadensersatz
+- **BAG zu Betriebsratsmitgliedern:** BAG, Urteil vom 18.06.2025 - 7 AZR 50/24: Paragraf 14 Abs. 2 TzBfG gilt auch für Betriebsratsmitglieder; wird ein Folgevertrag gerade wegen des Mandats verweigert, kommt ein Schadensersatzanspruch nach Paragraf 78 Satz 2 BetrVG in Betracht. Das BAG hat keine Vorabentscheidung zu diesem Verfahren eingeholt; unionsrechtliche Grenzen behandelt es im Rahmen richtlinienkonformer Auslegung.
 
 ## Internationales Privatrecht — Rom I-VO Art. 8
 

@@ -9,7 +9,7 @@ description: "Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als 
 
 Dieser Skill greift, wenn nach Klageeinreichung der ursprüngliche Antrag nicht mehr sinnvoll aufrechterhalten werden kann: Die Gegenseite zahlt, rechnet auf, erhebt eine dauerhafte Einrede, die Leistung wird unmöglich oder das Rechtsschutzbedürfnis fällt weg. In solchen Fällen darf die Klägerseite nicht reflexhaft erledigen oder zurücknehmen. Zuerst ist zu prüfen, ob die Kosten des Klageverfahrens als materiell-rechtlicher Verzugsschaden weiterverfolgt werden können.
 
-Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug und war die Klage deshalb veranlasst, kann der Kläger sein Begehren auf Feststellung umstellen, dass die Beklagte die Kosten des Rechtsstreits beziehungsweise die durch die Klageeinreichung entstandenen Rechtsverfolgungskosten zu tragen hat. Das ist keine normale Kostenfestsetzung nach Paragrafen 103, 104 ZPO, sondern eine materiell-rechtliche Feststellungsklage.
+Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug und war die Klage deshalb veranlasst, kann ein materiell-rechtlicher Anspruch auf Ersatz notwendiger Rechtsverfolgungskosten bestehen. Ist dessen Höhe bereits bezifferbar, hat die Leistungsklage Vorrang. Eine Feststellungsklage setzt ein besonderes Feststellungsinteresse voraus. Das ist keine normale Kostenfestsetzung nach den Paragrafen 103 und 104 ZPO.
 
 ## Normenanker
 
@@ -20,14 +20,13 @@ Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug u
 - Paragraf 256 Abs. 1 ZPO — Feststellungsinteresse; relevant, wenn die genaue Kostenhöhe noch nicht beziffert werden soll.
 - Paragraf 261 Abs. 1 ZPO — Rechtshängigkeit tritt mit Zustellung der Klageschrift ein, nicht schon mit Eingang bei Gericht.
 - Paragrafen 280 Abs. 1 und 2, 286 BGB — Ersatz des Verzögerungsschadens; hierzu können notwendige Rechtsverfolgungskosten gehören.
-- Paragraf 104 ZPO — spätere Bezifferung im Kostenfestsetzungsverfahren, wenn ein tragfähiger Kostengrundtitel vorliegt.
+- Paragrafen 103 und 104 ZPO — betreffen die Festsetzung prozessualer Kosten aufgrund eines Kostengrundtitels; sie sind kein Bezifferungsweg für einen selbständigen materiell-rechtlichen Schadensersatzanspruch.
 
 ## Entscheidungsanker
 
 - BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht; der summarische Kostenweg ist nicht gleich sicher und wirkungsvoll.
-- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Wer nach Rechtshängigkeit trotz nachträglicher Zahlung die Klage zurücknimmt, kann kostenrechtlich in die falsche Spur geraten; Zeitpunkt der Rechtshängigkeit sauber prüfen.
-- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung nach Paragraf 269 Abs. 3 Satz 2 ZPO hineingezogen; die Verfahrensspur muss bewusst gewählt werden.
-- OLG Karlsruhe, Urteil vom 20.05.2026 - 7 U 173/25: Nach Wegfall des Klageanlasses vor Rechtshängigkeit kann eine Klageänderung auf Feststellung der Kostenerstattungspflicht zulässig sein; vor Verwendung die frei zugängliche amtliche Veröffentlichung oder eine andere verlässliche Fundstelle live verifizieren.
+- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Die Entscheidung behandelt Auslegung, Umdeutung und Widerruf einer Klagerücknahme sowie die Unverzüglichkeit nach dem damaligen Paragraf 269 Absatz 3 Satz 3 ZPO. Sie ist kein pauschaler Anker für jede Zahlung nach Rechtshängigkeit.
+- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Paragraf 269 Absatz 3 Satz 2 Halbsatz 2 Alternative 2 ZPO erlaubt grundsätzlich nicht, einen gegenläufigen materiell-rechtlichen Kostenerstattungsanspruch in die prozessuale Kostenentscheidung einzubauen; ein selbständiger materieller Anspruch bleibt nach seinen Voraussetzungen gesondert zu prüfen.
 
 ## Prüfungsworkflow
 
@@ -47,9 +46,10 @@ Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug u
    - Klagerücknahme mit Kostenantrag nach Paragraf 269 Abs. 3 Satz 3 ZPO kann bei Wegfall vor Rechtshängigkeit richtig sein, bleibt aber summarisch.
    - Die Kostenfeststellungsklage hält den materiell-rechtlichen Schadensersatzanspruch offen und kann strategisch besser sein, wenn Verzug, Veranlassung und Kausalität gut belegbar sind.
 
-4. **Klageänderung formulieren.**
-   - Der alte Zahlungs- oder Leistungsantrag wird nicht einfach aufgegeben, sondern auf Feststellung der materiellen Kostentragungspflicht umgestellt.
-   - Der Schriftsatz muss erklären, warum die ursprüngliche Hauptsache nicht mehr verfolgt wird und warum die Kosten als Verzugsschaden ersetzt verlangt werden.
+4. **Passende Anspruchsform bestimmen.**
+   - Vor Rechtshängigkeit: Rücknahme mit Kostenantrag nach Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO gegen eine gesonderte materiell-rechtliche Kostenerstattungsklage abwägen.
+   - Ist der materielle Schaden bezifferbar, einen Zahlungsantrag entwerfen. Feststellung nur bei fortbestehendem Feststellungsinteresse.
+   - Bei einer Umstellung im laufenden Verfahren Zulässigkeit nach den Paragrafen 263 und 264 ZPO sowie Rechtshängigkeit des neuen Streitgegenstands gesondert prüfen.
 
 5. **Haftungsfalle dokumentieren.**
    - Wer vor Rechtshängigkeit fälschlich erledigt, riskiert Kostenlast.
@@ -58,7 +58,7 @@ Der praktische Kniff lautet: War die Gegenseite bei Klageeinreichung in Verzug u
 
 ## Antrag und Schriftsatzbaustein
 
-### Feststellungsantrag
+### Feststellungsantrag nur bei offenem Schaden
 
 ```text
 Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin die durch die Einreichung der Klage vom [Datum] entstandenen Kosten des Rechtsstreits als Verzugsschaden zu ersetzen.

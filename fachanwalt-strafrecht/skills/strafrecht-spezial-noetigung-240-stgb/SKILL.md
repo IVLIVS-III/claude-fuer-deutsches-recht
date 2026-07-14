@@ -106,7 +106,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 ## Quellen Stand 06/2026
 
 - § 240 StGB Noetigung (gesetze-im-internet.de).
-- BVerfG, Beschluss vom 10.01.1995 – 1 BvR 718/89 ua (Sitzblockaden-Entscheidung; im BVerfG-Volltext live verifizieren).
+- BVerfG, Beschluss vom 10.01.1995 - 1 BvR 718/89, 1 BvR 719/89, 1 BvR 722/89 und 1 BvR 723/89: Rein psychisch vermittelter Zwang genügt dem Gewaltbegriff wegen Artikel 103 Absatz 2 GG nicht; bei Blockadefällen die spätere Zweite-Reihe-Rechtsprechung und die konkrete physische Sperrwirkung gesondert prüfen.
 - BGH staendige Rspr. zum Gewaltbegriff (Zweite-Reihe-Rechtsprechung).
 - BGH staendige Rspr. zur Verwerflichkeit der Mittel-Zweck-Relation.
 - § 153, § 153a StPO; § 46a StGB.

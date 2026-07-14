@@ -29,7 +29,7 @@ Diese Akte umfasst 20 Aktenstücke zur Sanierungssteuerproblematik der Grossbach
 
 ## Konfliktthemen
 
-1. **Verspäteter § 3a IV EStG-Antrag.** Stellt der StB den Antrag nach Plan-Bestätigung, wirft das die Frage nach Praeklusion auf. Die Linie des FG Koeln 12 K 1413/25 wird in 12 und 19 vertieft.
+1. **Antrag nach Paragraf 3a Absatz 4 EStG erst nach Planbestätigung.** Verfahrensweg und mögliche Folgen des Zeitpunkts sind anhand des Gesetzes und belastbarer Verfahrensrechtsprechung gesondert zu prüfen. FG Köln 12 K 1413/25 trägt hierzu keine allgemeine verfahrensrechtliche Ausschlusswirkung; die Entscheidung betrifft die materiellen Sanierungsvoraussetzungen.
 2. **Verzahnung mit § 7b GewStG.** Der Parallelantrag muss eigenständig beim Gewerbesteueramt der Stadt Erfurt gestellt werden (07, 09).
 3. **Reichweite des Verlustvortrags.** 12 Mio EUR KSt-Verlust verrechnen mit 38 Mio EUR Sanierungsertrag, es bleiben 26 Mio EUR. Ohne § 3a EStG werden diese 26 Mio EUR steuerpflichtig — die Sanierung scheitert (17).
 4. **Haftung.** IV-Haftung (§ 60 InsO) und StB-Haftung (§ 280 BGB i.V.m. Mandatsvertrag) bei verspätetem Antrag (13).

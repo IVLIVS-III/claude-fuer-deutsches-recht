@@ -1,100 +1,93 @@
 ---
 name: hilfsmittel-rollstuhl-hoergeraet-cpap-und-wirtschaftlichk
-description: "Wenn es um Hilfsmittel: Rollstuhl, Hörgerät, CPAP und Wirtschaftlichkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Hilfsmittelansprüche für Rollstuhl, Hörgerät, Beatmung und weitere Versorgungen nach Versorgungsziel, individuellem Gebrauchsvorteil und Wirtschaftlichkeit. Liefert Antrag, Versorgungsvergleich, Beweisplan sowie Widerspruchs- oder Eilantrag."
 ---
 
 # Hilfsmittel: Rollstuhl, Hörgerät, CPAP und Wirtschaftlichkeit
 
-## Arbeitsweg
+## 1. Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Werte zuerst Verordnung, Kostenvoranschläge, Erprobungsprotokolle, Kassenbescheid und Stellungnahme des Medizinischen Dienstes aus. Ermittle aus der Akte das konkrete Funktionsdefizit, das Versorgungsziel und die Alltagssituationen. Frage nicht abstrakt nach Wünschen, sondern nur nach noch unbelegten Gebrauchsvorteilen und real verfügbaren Vergleichsversorgungen.
 
-## Skill-Zweck
+## 2. Rechtsrahmen
 
-Bearbeite **Hilfsmittelversorgung** in der GKV: vom Antrag bis zur Ablehnung, von der Mehrkostenregelung bis zum Eilantrag. Schwerpunkte sind Rollstuhl, Hörgerät, CPAP/Beatmungsgeräte, Inkontinenzversorgung und orthetische Versorgung.
+- Paragraf 33 SGB V: Sicherung des Behandlungserfolgs, Vorbeugung einer drohenden Behinderung oder Behinderungsausgleich.
+- Paragraf 12 SGB V: ausreichende, zweckmäßige und wirtschaftliche Versorgung ohne Beschränkung auf eine bloße Minimalversorgung.
+- Paragraf 36 SGB V: Festbeträge; sie begrenzen den Anspruch nicht, wenn zum Festbetrag keine bedarfsgerechte Versorgung erhältlich ist.
+- Paragraf 139 SGB V: Hilfsmittelverzeichnis; die Aufnahme ist ein wichtiges Versorgungsindiz, aber keine abschließende Anspruchsvoraussetzung.
+- Paragraf 14 SGB IX: Zuständigkeitsklärung bei trägerübergreifendem Rehabilitationsbedarf, etwa berufsspezifischer Hörgeräteversorgung.
+- Paragraf 275 SGB V und Paragraf 25 SGB X: Begutachtung durch den Medizinischen Dienst und Akteneinsicht.
 
-## Rechtlicher Rahmen
+## 3. Rechtsprechungsanker
 
-- **§ 33 SGB V** – Hilfsmittelanspruch: Behinderungsausgleich, Sicherung des Behandlungserfolgs
-- **§ 12 SGB V** – Wirtschaftlichkeitsgebot: notwendig, ausreichend, zweckmäßig, wirtschaftlich
-- **§ 36 SGB V** – Festbeträge für Hilfsmittel (GKV-Spitzenverband)
-- **§ 139 SGB V** – Hilfsmittelverzeichnis des GKV-Spitzenverbands
-- **§ 275 SGB V** – MDK-Begutachtung
-- Hilfsmittel-Richtlinie (HiMi-RL) des G-BA
-- BSG B 3 KR 5/15 R (Rollstuhl, Behinderungsausgleich), BSG B 3 KR 14/13 R (CPAP)
-- BSG B 3 KR 21/14 R (Hörgerät, Festbetrag und Mehrkostenpflicht)
+- BSG, Urteil vom 18.04.2024 - B 3 KR 14/23 R: Ein motorunterstütztes Handkurbelrollstuhlzuggerät kann den geschützten Mobilitätsausgleich im Nahbereich gewährleisten; eine Nutzung über den Nahbereich hinaus schließt den Anspruch nicht aus. Ein Eigenanteil für ersparte Fahrradkosten bedarf einer gesetzlichen Grundlage.
+- BSG, Urteil vom 07.05.2020 - B 3 KR 7/19 R: Bei Mobilitätshilfen sind Behandlungssicherung, Vorbeugung einer neuen oder sich verschlimmernden Behinderung und Behinderungsausgleich sauber zu trennen; der Nahbereich ist teilhabeorientiert zu prüfen.
+- BSG, Urteil vom 12.06.2025 - B 3 KR 13/23 R: Bei Hörgeräten ist jeder ordnungsgemäß gemessene Hörgewinn relevant. Starre Schwellen von fünf oder zehn Prozentpunkten sind unzulässig; ein Anspruch über den Festbetrag hinaus setzt den durch glaubhafte Alltagserfahrungen bestätigten wesentlichen Gebrauchsvorteil voraus.
 
-## Behinderungsausgleich vs. Behandlungssicherung
+## 4. Versorgungsziel bestimmen
 
-| Typ | Beispiele | Prüfmaßstab |
-|-----|-----------|-------------|
-| Unmittelbarer Behinderungsausgleich | Rollstuhl, Hörgerät | Vollständiger Ausgleich angestrebt (BSG) |
-| Mittelbarer Behinderungsausgleich | Pflegehilfsmittel | Grundbedürfnis Mobilität, Kommunikation, Pflege |
-| Behandlungssicherung | CPAP, Insulinpumpe | Medizinische Notwendigkeit, Leitlinien |
+| Falltyp | Einordnung | Tatsachenfokus |
+| --- | --- | --- |
+| Hörgerät oder Körperersatzstück | unmittelbarer Behinderungsausgleich | möglichst weitgehender Funktionsausgleich im Alltag |
+| Rollstuhl oder Rollstuhlzuggerät | regelmäßig Mobilitätsausgleich | selbstständige Erschließung des Nahbereichs, Wohnumfeld, Kraft und Schmerzen |
+| CPAP, Insulinpumpe oder Therapieorthese | Sicherung des Behandlungserfolgs | ärztliches Therapiekonzept, Nutzen, Risiken und Anwendung |
+| Pflegehilfsmittel | gesonderte Anspruchsprüfung nach SGB XI | Pflegeerleichterung oder selbstständige Lebensführung |
 
-## Prüfprogramm
+Ein Produkt kann mehrere Zwecke erfüllen. Ordne den Schwerpunkt anhand der tatsächlichen Nutzung zu und prüfe jeden tragfähigen Anspruchsweg getrennt.
 
-### Schritt 1 – Anspruchsgrundlage § 33 SGB V
-- Hilfsmittel im Verzeichnis (§ 139 SGB V)? → GKV-Spitzenverband-Datenbank prüfen
-- Nicht im Verzeichnis: Einzelfallentscheidung möglich (§ 33 Abs. 1 Satz 1 Alt. 2 SGB V)
-- Ziel: Behinderungsausgleich oder Sicherung des Behandlungserfolgs?
+## 5. Prüfprogramm
 
-### Schritt 2 – Wirtschaftlichkeit und Festbetrag
-- Festbetrag nach § 36 SGB V: Kasse zahlt bis Festbetrag; Mehrkosten trägt Versicherter
-- Mehrkostenerklärung: Versicherter kann wirtschaftlicheres Gerät ablehnen, zahlt dann Differenz
-- Ausnahme: Aus medizinischen Gründen ist wirtschaftlicheres Gerät nicht ausreichend → vollständige Kassenleistung
+### 5.1 Bedarf und Ausschlüsse
 
-### Schritt 3 – MDK-Prüfung angreifen (§ 275 SGB V)
-- MDK-Gutachten ist keine bindende Entscheidung, sondern Beratungsleistung für Kasse
-- Gegengutachten: behandelnder Arzt, Rehamediziner, Orthopädie-Techniker
-- Akteneinsicht: MDK-Gutachten einsehen (§ 25 SGB X)
-- Formelle Fehler: Qualifikation des Gutachters, keine Untersuchung des Versicherten
+1. Funktionsdefizit und konkrete Alltagshindernisse beschreiben.
+2. Versorgungsziel einer Variante des Paragrafen 33 Absatz 1 Satz 1 SGB V zuordnen.
+3. Prüfen, ob es sich um einen allgemeinen Gebrauchsgegenstand oder einen gesetzlichen Ausschluss handelt.
+4. Hilfsmittelverzeichnis und Hilfsmittel-Richtlinie auswerten, aber eine fehlende Listung nicht als Ablehnungsautomatismus behandeln.
 
-### Schritt 4 – Fallspezifische Besonderheiten
-**Rollstuhl**:
-- Grundversorgung (einfacher Rollstuhl) vs. Spezialversorgung (Elektrorollstuhl, Aktivrollstuhl)
-- Aktivrollstuhl: BSG fordert individuelle medizinische Prüfung der Notwendigkeit
-- Schnittstelle Pflegeversicherung: § 40 SGB XI (Pflegehilfsmittel)
+### 5.2 Vergleichsversorgung und Wirtschaftlichkeit
 
-**Hörgerät**:
-- Festbetrag 2024: 784,94 € je Ohr (GKV-Spitzenverband)
-- Medizinische Mehrkostenpflicht: bei spezifischen Anforderungen (Beruf, Tinnitus) prüfen
+1. Mindestens eine aufzahlungsfreie, tatsächlich verfügbare Vergleichsversorgung benennen.
+2. Erprobung unter realistischen Bedingungen dokumentieren: Strecke, Steigung, Untergrund, Hörsituation, Bedienbarkeit, Therapietreue und Nebenwirkungen.
+3. Mehrpreis und medizinisch-funktionellen Mehrwert getrennt darstellen.
+4. Nur Komfort ohne Funktionsbezug aussondern; technische Merkmale mit wesentlichem Alltagsvorteil nicht pauschal als Luxus abwerten.
 
-**CPAP / Beatmung**:
-- § 33 Abs. 1 Satz 1 Alt. 2: Sicherung des Behandlungserfolgs (Schlafapnoe)
-- Compliance-Nachweis: Gerät muss regelmäßig genutzt werden (Kasse kann Nachweise fordern)
+### 5.3 Fallspezifische Beweisführung
 
-## Typische Fallen
+- Rollstuhl: Gehvermögen, Transferfähigkeit, Armkraft, Schmerzen, Sturzrisiko, Wohnumfeld und typische Nahbereichsziele mit Wegprotokoll oder Ortsplan belegen.
+- Hörgerät: vergleichende Messungen, Freiburger Einsilbertest, gegebenenfalls APHAB-Fragebogen und strukturiertes Hörtagebuch zusammenführen.
+- CPAP oder Beatmung: Diagnose, Druckeinstellung, Nutzungsauswertung, Therapieerfolg, Maskenverträglichkeit und Alternative durch den behandelnden Facharzt dokumentieren.
+- Orthesen und Prothesen: Funktionsgewinn im konkreten Alltag und mögliche Folgeschäden einer Minderleistung durch Erprobungsbericht und Befund sichern.
 
-- **Kostenvorbehalt missachtet**: Versicherter beschafft Hilfsmittel selbst, ohne Kostenerstattungsverfahren (§ 13 Abs. 3 SGB V) – Kasse kann ablehnen.
-- **Festbetrag als Nullleistung missverstanden**: Kasse muss mindestens ein funktionsfähiges Gerät zum Festbetrag liefern; nur wenn keines verfügbar ist, trägt Versicherter Mehrkosten.
-- **Hilfsmittelpflege**: Wartung und Reparatur sind Kassenleistung (§ 33 Abs. 1 Satz 4 SGB V).
+### 5.4 Verfahren
 
-## Output-Formate
+1. Antrag mit Verordnung, funktionsbezogener Begründung und Kostenvoranschlag einreichen.
+2. Bei Rehabilitationsbezug Eingang und Weiterleitung nach Paragraf 14 SGB IX dokumentieren.
+3. Stellungnahme des Medizinischen Dienstes und interne Kassenvermerke über Paragraf 25 SGB X beiziehen.
+4. Ablehnungsgrund punktgenau beantworten; Widerspruchsfrist und gegebenenfalls Eilbedarf sichern.
+5. Vor Selbstbeschaffung die Voraussetzungen des Kostenerstattungsanspruchs und den notwendigen Beschaffungsweg prüfen.
 
-- Antragsschreiben mit medizinischer Begründung
-- Widerspruch gegen MDK-gestützte Ablehnung
-- Gegengutachten-Briefing für Arzt
-- Mehrkostenanalyse (Tabelle)
-- Eilantrag Sozialgericht (§ 86b SGG)
+## 6. Fehlerkontrolle
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+- Keine festen Eurobeträge für Hörgeräte oder andere Festbeträge ohne datierte Primärquelle einsetzen.
+- Nicht jede Rollstuhlversorgung als unmittelbaren Behinderungsausgleich bezeichnen; das konkrete Versorgungsziel entscheidet.
+- Stellungnahmen des Medizinischen Dienstes sind Beratungsgrundlagen, keine gerichtsfesten Tatsachenfeststellungen.
+- Eine Untersuchung nach Aktenlage ist nicht allein wegen der Untersuchungsform fehlerhaft; angreifen sind konkrete Befund-, Methoden- oder Tatsachenlücken.
+- Eine vorhandene Basisversorgung schließt den Anspruch nicht aus, wenn sie das rechtlich geschuldete Versorgungsziel im Einzelfall nicht erreicht.
 
-## Quellen
+## 7. Arbeitsprodukte
 
-- [§ 33 SGB V – Hilfsmittel](https://www.gesetze-im-internet.de/sgb_5/__33.html)
-- [Hilfsmittelverzeichnis GKV-Spitzenverband](https://hilfsmittel.gkv-spitzenverband.de)
-- [Hilfsmittel-Richtlinie G-BA](https://www.g-ba.de/richtlinien/13/)
-- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org § 33 SGB V](https://dejure.org/gesetze/SGB_V/33.html)
-- [§ 139 SGB V – Hilfsmittelverzeichnis](https://www.gesetze-im-internet.de/sgb_5/__139.html)
+- funktionsbezogener Hilfsmittelantrag;
+- tabellarischer Geräte- und Gebrauchsvorteilsvergleich;
+- Hörtagebuch, Wegeprotokoll oder Erprobungsbogen;
+- Widerspruch gegen eine ablehnende Kassenentscheidung;
+- fachärztliches Fragenprogramm für Befundbericht oder Gutachten;
+- Antrag auf einstweilige Anordnung bei drohenden irreversiblen Nachteilen.
+
+## 8. Quellenstatus
+
+- [Paragraf 33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html)
+- [Hilfsmittel-Richtlinie](https://www.g-ba.de/richtlinien/13/)
+- [Hilfsmittelverzeichnis](https://hilfsmittel.gkv-spitzenverband.de)
+- [BSG B 3 KR 14/23 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_04_18_B_03_KR_14_23_R.html)
+- [BSG B 3 KR 7/19 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_05_07_B_03_KR_07_19_R.html)
+- [BSG B 3 KR 13/23 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_12_B_03_KR_13_23_R.html)

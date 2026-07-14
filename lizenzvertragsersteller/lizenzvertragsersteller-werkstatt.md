@@ -77,7 +77,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | --- | --- | --- | --- |
 | Fallkern | Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Insolvenz-Fortbestand der Lizenz ($ 103 InsO) | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -94,7 +94,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -107,12 +109,18 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
 - BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
+- Paragraf 103 InsO ist h. M. zwingendes Recht; vertragliche Abdingung dabei begrenzt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 69a UrhG schuetzt Computerprogramme als Werke; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 69b UrhG: Arbeitsergebnis des AN gehoert kraft Gesetzes dem AG (ausschließliche Nutzungsrechte); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 AEUV - Kartellverbot; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 101 Abs. 3 AEUV - Freistellungsmöglichkeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 35 UrhG - Einräumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel) - Paragraf 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 35 UrhG - Einräumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 30 MarkenG analog - Sublizenz markenrechtlich grundsätzlich zulässig, sofern Lizenz selbst Sublizenzrecht vorsieht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+- EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren; die Entscheidung ersetzt weder Erforderlichkeits- noch Abwägungsprüfung.
 
 ## 9. Prüfraster
 
@@ -166,21 +174,21 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 Lizenzgeber liefert Software/SaaS; Lizenznehmer ist Verantwortlicher; Lizenzgeber Auftragsverarbeiter. → Pflicht-AVV nach Art. 28 III Datenschutz-Grundverordnung. Beide Parteien bestimmen gemeinsam Zweck und Mittel der Verarbeitung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
-### 15.2. Insolvenz-Fortbestand der Lizenz ($ 103 InsO)
+### 15.2. Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO)
 
-Wird der Lizenzgeber insolvent, hat der Insolvenzverwalter nach $ 103 InsO das Wahlrecht: - Erfüllung verlangen (Lizenz besteht fort) oder - Erfüllung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wird der Lizenzgeber insolvent, hat der Insolvenzverwalter nach Paragraf 103 InsO das Wahlrecht: - Erfüllung verlangen (Lizenz besteht fort) oder - Erfüllung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.3. Klausel Haftung, Gewaehrleistung, Indemnification
 
-Lizenzgeber garantiert, dass: 1. Lizenzgegenstand existiert 2. Lizenzgeber alleiniger / berechtigter Inhaber ist 3. Keine Drittrechte entgegen stehen 4. Keine schwebenden Klagen / Aufhebungsverfahren ] "$ 8 Garantien des Lizenzgebers. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Lizenzgeber garantiert, dass: 1. Lizenzgegenstand existiert 2. Lizenzgeber alleiniger / berechtigter Inhaber ist 3. Keine Drittrechte entgegen stehen 4. Keine schwebenden Klagen / Aufhebungsverfahren ] "Paragraf 8 Garantien des Lizenzgebers. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Klausel Vergütung — Pauschale, Royalty, Tiered
 
-A. Pauschale: ] "$ 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, fällig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers." B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+A. Pauschale: ] "Paragraf 5 Vergütung. Der Lizenznehmer zahlt eine einmalige Lizenzgebuehr in Höhe von [Betrag] EUR zzgl. gesetzlicher Umsatzsteuer, fällig binnen 30 Tagen nach Vertragsunterzeichnung auf das Konto des Lizenzgebers." B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.5. Klausel Vertragsdauer und Kündigung
 
-A. Feste Laufzeit: ] "$ 11 Vertragsdauer. ] (1) Dieser Vertrag hat eine Laufzeit von [N] Jahren ab dem [Wirksamkeitsdatum]. Er endet automatisch mit Ablauf der Laufzeit, ohne dass es einer Kündigung bedarf." B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+A. Feste Laufzeit: ] "Paragraf 11 Vertragsdauer. ] (1) Dieser Vertrag hat eine Laufzeit von [N] Jahren ab dem [Wirksamkeitsdatum]. Er endet automatisch mit Ablauf der Laufzeit, ohne dass es einer Kündigung bedarf." B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.6. Output: Lizenzvertrag
 
@@ -208,7 +216,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.12. Klausel Exklusivitaet — sole, exclusive, non-exclusive
 
-] $ 4 Exklusivitaet. ] ] Option A — Ausschließliche Lizenz: ] Der Lizenzgeber raeumt dem Lizenznehmer eine ausschließliche Lizenz ein. Der Lizenzgeber verzichtet auf eigene Nutzung des Lizenzgegenstands im Lizenzgebiet während der Vertragslaufzeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] Paragraf 4 Exklusivitaet. ] ] Option A — Ausschließliche Lizenz: ] Der Lizenzgeber raeumt dem Lizenznehmer eine ausschließliche Lizenz ein. Der Lizenzgeber verzichtet auf eigene Nutzung des Lizenzgegenstands im Lizenzgebiet während der Vertragslaufzeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.13. Klausel Lizenzgegenstand + Anlage A
 
@@ -216,4 +224,4 @@ Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("a
 
 ### 15.14. Klausel Lizenzumfang — Territorium, Zeit, Feld
 
-Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen. ] $ 3 Lizenzumfang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bei Urheberrechtslizenzen gilt: Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Vertrag muss konkret aufzaehlen, sonst eng auszulegen. ] Paragraf 3 Lizenzumfang. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.

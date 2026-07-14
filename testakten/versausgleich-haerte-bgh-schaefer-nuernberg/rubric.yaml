@@ -1,7 +1,7 @@
-# Rubric Versorgungsausgleich Schaefer ./. Schaefer (Haerteklausel § 27 VersAusglG)
+# Rubric Versorgungsausgleich Schaefer ./. Schaefer (Härteklausel Paragraf 27 VersAusglG)
 # Pass/Fail-Checks fuer fachspezifische Plausibilitaet.
 
-name: "Versorgungsausgleich Schaefer ./. Schaefer - Haerteklausel § 27 VersAusglG"
+name: "Versorgungsausgleich Schaefer ./. Schaefer - Härteklausel Paragraf 27 VersAusglG"
 plugin: "fachanwalt-familienrecht"
 
 checks:
@@ -17,8 +17,8 @@ checks:
 
   - id: r03-mindestens-15-aktenstuecke
     check_type: file_count
-    description: "mindestens 15 Markdown-Aktenstuecke"
-    glob: "*.md"
+    description: "mindestens 15 ausformulierte Word-Aktenstücke"
+    glob: "*.docx"
     min: 15
 
   - id: r04-ag-beschluss-vorhanden
@@ -64,5 +64,5 @@ checks:
 
   - id: r12-paragraph-27-rechtsprechungsspiegel
     check_type: file_exists
-    description: "§ 27-Rechtsprechungsspiegel als Aktenstueck vorhanden"
+    description: "Rechtsprechungsspiegel zu Paragraf 27 VersAusglG als Aktenstück vorhanden"
     path: "11_paragraph_27_rechtsprechungsspiegel.docx"

@@ -9,7 +9,7 @@ description: "Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragser
 
 | Punkt | Prüfung | Belege |
 | --- | --- | --- |
-| Konfliktcheck | Vertretung Gegenseite, Vorbefassung Konzern, Vertretung Wettbewerber im selben Technologiefeld | Kanzleidatenbank, $ 43a BRAO, $ 3 BORA |
+| Konfliktcheck | Vertretung Gegenseite, Vorbefassung Konzern, Vertretung Wettbewerber im selben Technologiefeld | Kanzleidatenbank, Paragraf 43a BRAO, Paragraf 3 BORA |
 | Mandantenbasisdaten | Firma/Anschrift, HRB, gesetzliche Vertreter, UBO | HR-Auszug, Beneficial-Ownership-Register |
 | Mandatsumfang | Vertragsentwurf (Lizenzgeber/-nehmer/Cross), Prüfung Vertrag der Gegenseite, Begleitung Verhandlung, Insolvenzberatung | Mandatsmail |
 | Zielsetzung | Was soll erreicht werden? Geld, Marktzugang, Insolvenzschutz, Cross-License-Patentaustausch | Klärung im Erstgespraech |

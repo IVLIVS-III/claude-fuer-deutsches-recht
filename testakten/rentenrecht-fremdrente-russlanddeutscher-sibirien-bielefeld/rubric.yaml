@@ -1,21 +1,43 @@
 name: rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld
-description: Kontenklaerung eines 1992 zugezogenen Russlanddeutschen mit FRG-Zeiten, Qualifikationsgruppenstreit, Sechstelkuerzung glaubhaft gemachter Zeiten und abweichenden Archivnummern.
+description: Kontenklaerung eines 1992 zugezogenen Russlanddeutschen mit FRG-Zeiten, Qualifikationsgruppenstreit,
+  Sechstelkuerzung glaubhaft gemachter Zeiten und abweichenden Archivnummern.
 checks:
+  - id: datei-01-mandatsnotiz-fristsache
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_fristsache.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_fristsache.docx
+  - id: datei-02-drv-bescheid-kontenklaerung-auszug
+    check_type: file_exists
+    description: Das Primäraktenstück 02_drv_bescheid_kontenklaerung_auszug.docx ist für die Fallauswertung vorhanden.
+    path: 02_drv_bescheid_kontenklaerung_auszug.docx
   - id: r01-nachweis-glaubhaftmachung-trennen
-    beschreibung: Nachweis und Glaubhaftmachung strikt trennen und je Zeitraum getrennt bearbeiten.
-    erwartung: Zeit 1981-07 bis 1986-12 als nachgewiesen, Zeit 1987-01 bis 1992-08 als glaubhaft gemacht behandelt.
+    check_type: human_review
+    description: Nachweis und Glaubhaftmachung strikt trennen und je Zeitraum getrennt bearbeiten.
+    note: Zeit 1981-07 bis 1986-12 als nachgewiesen, Zeit 1987-01 bis 1992-08 als glaubhaft gemacht behandelt.
   - id: r02-qualifikationsgruppe-nach-herkunftstaetigkeit
-    beschreibung: Qualifikationsgruppe anhand der Taetigkeit im Herkunftsgebiet pruefen, nicht anhand der fehlenden deutschen Anerkennung.
-    erwartung: Oberingenieur-Taetigkeit als moegliche QG2 gegen die von der DRV vergebene QG3 abgegrenzt.
+    check_type: human_review
+    description: Qualifikationsgruppe anhand der Taetigkeit im Herkunftsgebiet pruefen, nicht anhand der fehlenden
+      deutschen Anerkennung.
+    note: Oberingenieur-Taetigkeit als moegliche QG2 gegen die von der DRV vergebene QG3 abgegrenzt.
   - id: r03-archivnummern-fondswechsel
-    beschreibung: Abweichende Archivnummern ueber den Fondswechsel aufklaeren statt als Widerspruch stehen zu lassen.
-    erwartung: Wechsel Fonds R-2214 auf R-2298 durch die Aufteilung des Kombinats 1988 erklaert.
+    check_type: human_review
+    description: Abweichende Archivnummern ueber den Fondswechsel aufklaeren statt als Widerspruch stehen zu lassen.
+    note: Wechsel Fonds R-2214 auf R-2298 durch die Aufteilung des Kombinats 1988 erklaert.
   - id: r04-transliteration-name
-    beschreibung: Namensvarianten Klassen und Klasssen als Transliterationsfrage behandeln und dokumentieren.
-    erwartung: Identitaet ueber Geburtsdatum 14.02.1959 und Geburtsort Karasuk gesichert, dreifaches s als Umschrift erklaert.
+    check_type: human_review
+    description: Namensvarianten Klassen und Klasssen als Transliterationsfrage behandeln und dokumentieren.
+    note: Identitaet ueber Geburtsdatum 14.02.1959 und Geburtsort Karasuk gesichert, dreifaches s als Umschrift
+      erklaert.
   - id: r05-entgeltpunkte-datenkern
-    beschreibung: Anrechenbare Entgeltpunkte und Kuerzungsbetrag aus der Berechnungstabelle 11_frg_entgeltpunkte_berechnung.csv nachrechnen.
-    erwartung: Szenario drv ergibt 66 mal 0.075 gleich 4.950 EP plus 68 mal 0.075 mal fuenf Sechstel gleich 4.250 EP, Summe 9.200 EP; nach Begrenzung mit Faktor 0.6 verbleiben 5.520 EP anrechenbar, Kuerzungsbetrag 3.680 EP. Szenario mandant mit QG2 und ohne Sechstel ergibt 13.400 EP vor Begrenzung.
+    check_type: human_review
+    description: Anrechenbare Entgeltpunkte und Kuerzungsbetrag aus der Berechnungstabelle 11_frg_entgeltpunkte_berechnung.csv
+      nachrechnen.
+    note: Szenario drv ergibt 66 mal 0.075 gleich 4.950 EP plus 68 mal 0.075 mal fuenf Sechstel gleich 4.250 EP,
+      Summe 9.200 EP; nach Begrenzung mit Faktor 0.6 verbleiben 5.520 EP anrechenbar, Kuerzungsbetrag 3.680 EP.
+      Szenario mandant mit QG2 und ohne Sechstel ergibt 13.400 EP vor Begrenzung.
   - id: r06-fristen-auseinanderhalten
-    beschreibung: Mitwirkungsfrist und Widerspruchsfrist auseinanderhalten und Erklaerung zum auslaendischen Rentenbezug fristgerecht abgeben.
-    erwartung: Mitwirkungsfrist 17.07.2026 und Widerspruchsfrist bis 17.07.2026 getrennt behandelt, Erklaerung zum auslaendischen Rentenbezug fristwahrend abgegeben.
+    check_type: human_review
+    description: Mitwirkungsfrist und Widerspruchsfrist auseinanderhalten und Erklaerung zum auslaendischen Rentenbezug
+      fristgerecht abgeben.
+    note: Mitwirkungsfrist 17.07.2026 und Widerspruchsfrist bis 17.07.2026 getrennt behandelt, Erklaerung zum auslaendischen
+      Rentenbezug fristwahrend abgegeben.

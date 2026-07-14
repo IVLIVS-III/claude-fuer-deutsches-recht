@@ -133,9 +133,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Vor Versand jeweils Volltext und Randnummer aus offener Quelle ergänzen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
 
 1. **AVB-Auslegung**: BGH IV. ZS, st. Rspr. — Auslegung aus Sicht eines durchschnittlichen, verständigen Versicherungsnehmers ohne versicherungsrechtliche Spezialkenntnisse.
-2. **Klauselersetzung nach Intransparenz**: BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Nach Unwirksamkeit einer Bedingung (Tagessatz-Herabsetzung Krankentagegeld) darf der Versicherer keine im Kern identische neue Bedingung einseitig einführen. Pressemitteilung Nr. 47/25 vom 12.3.2025.
-3. **PKV-Beitragsanpassung Mitteilungspflicht**: BGH, IV ZR 70/25, 2025 — Mitteilungsschreiben muss konkrete Rechnungsgrundlage (Versicherungsleistungen oder Sterbewahrscheinlichkeiten) benennen, deren Veränderung die Anpassung auslöst (§ 203 Abs. 5 VVG); Live-Verifikation in juris.bundesgerichtshof.de Pflicht.
-4. **GDSGVO-Schadensersatz**: BGH, Urt. v. 28.1.2025, VI ZR 183/22 — Art. 82 Abs. 1 DSGVO hat nur Ausgleichs-, keine Straffunktion (unberechtigte SCHUFA-Meldung; 500 EUR immaterieller Schadensersatz). Quelle: juris.bundesgerichtshof.de
+2. **Bedingungsanpassung in der Krankentagegeldversicherung**: BGH, Urteil vom 12. März 2025, IV ZR 32/24 — Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; Paragraf 4 Absatz 2 MB/KT 2009 begrenzt den Anspruch nicht auf den dem Nettoeinkommen entsprechenden Tagessatz.
+3. **PKV-Beitragsanpassung:** BGH, Urteil vom 22. April 2026, IV ZR 70/25 — Die Mitteilung nach Paragraf 203 Absatz 5 VVG muss nicht zusätzlich angeben, dass die Veränderung der Rechnungsgrundlage nicht nur vorübergehend ist. Formelle Mitteilung, materielle Anpassungsvoraussetzungen und Darlegungs- und Beweislast des Versicherers getrennt prüfen.
+4. **DSGVO-Schadensersatz**: BGH, Urteil vom 28. Januar 2025, VI ZR 183/22 — Artikel 82 Absatz 1 DSGVO hat nur Ausgleichs-, keine Straffunktion; im entschiedenen Fall blieb es bei 500 EUR immateriellem Schadensersatz. Quelle: juris.bundesgerichtshof.de
 
 ### Normen-Ergänzung
 

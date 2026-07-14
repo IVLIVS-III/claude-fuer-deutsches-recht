@@ -1,4 +1,11 @@
-Datum;Konto;Text;Betrag;Hinweis
-18.12.2025;Gemeinschaft;Sondertilgung Sparkasse;12000;kurz vor Trennung
-22.12.2025;Sebastian;Transfer Exchange;9500;Wallet-Bezug möglich
-03.01.2026;Milena;Renovierung Bodenmais;3100;Rechnung liegt bei
+Buchungstag;Wertstellung;Konto;Buchungstext;Betrag EUR;Empfänger oder Ziel;Primärbeleg;Offene Zuordnung
+18.12.2025;18.12.2025;Gemeinschaftskonto;Sondertilgung Darlehen 440091;12000.00;Sparkasse Passau;Kontoauszug und Darlehenskonto;Auswirkung auf Immobilienwert und Mittelherkunft
+22.12.2025;22.12.2025;Girokonto Sebastian;SEPA Instant Transfer EXC-PAY;9500.00;Exchange Payments Europe;Kontoauszug, keine Börsenabrechnung;Wallet oder bloße Einzahlung auf Handelsplattform
+29.12.2025;29.12.2025;Girokonto Sebastian;Überweisung S. Krammer;4200.00;Privatkonto unbekannt;Kontoauszug;Verwendungszweck leer, Empfängeridentität offen
+03.01.2026;03.01.2026;Girokonto Milena;Rechnung Boden & Holz GmbH;3100.00;Boden & Holz GmbH;Rechnung 2025-447;Renovierung Ferienwohnung oder Privatwohnung
+08.01.2026;08.01.2026;Gemeinschaftskonto;Hausgeld WEG Bodenmais;780.00;Hausverwaltung Bergblick;Wirtschaftsplan;Quartalszahlung Ferienwohnung
+12.01.2026;12.01.2026;Girokonto Sebastian;Kartenzahlung HARDWALLET STORE;189.00;Hardware Wallet Store;Kartenabrechnung;Gerät, Nutzer und zugehörige Wallet offen
+16.01.2026;16.01.2026;Girokonto Milena;Überweisung Steuerberatung;850.00;Kanzlei Huber & Lang;Rechnung 26-011;Aufteilung gemeinsame Erklärung und Vermietung
+21.01.2026;21.01.2026;Gemeinschaftskonto;Mieteinnahme Januar;950.00;Feriengast Sammelabrechnung;Portalabrechnung fehlt;Bruttoeinnahme oder nach Gebühren
+27.01.2026;27.01.2026;Girokonto Sebastian;SEPA Instant Transfer EXC-PAY;3100.00;Exchange Payments Europe;Kontoauszug;zweite Einzahlung, Transaktionshistorie fehlt
+02.02.2026;02.02.2026;Gemeinschaftskonto;Darlehensrate 440091;1280.00;Sparkasse Passau;Darlehenskonto;Zins- und Tilgungsanteil anfordern

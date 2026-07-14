@@ -46,4 +46,3 @@ Die Akte enthält Arbeitswerte zur Grenze von 100.000 Euro, zum Elternunterhalt 
 | 11 | `11_einwendungen_verwirkung_leistungsunfaehigkeit.docx` | Kontaktabbruch/Verwirkung Paragraf 1611 BGB, Leistungsunfähigkeit |
 | 12 | `12_strategie_und_antwortschreiben_sozialamt.docx` | Strategie und Entwurf des Antwortschreibens an das Sozialamt |
 | 13 | `13_vergleichs_und_ratenangebot.docx` | Vergleichs- und Ratenangebot |
-| 14 | `14_aktenvermerk_rechenhinweise.docx` | Bearbeiterhinweise, offene Punkte, Verifikationsbedarf |

@@ -51,9 +51,9 @@ description: "Wenn es um Prüfung von Versicherungsschadenfaellen und Deckungsab
 | Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
 |---|---|---|---|---|
 | BGH IV. ZS | IV ZR 153/20 | 14.7.2021 | Versicherungsfall BU: Eintritt nach Ablauf der bedingungsgemäßen sechs-monatigen Prognosezeit | juris.bundesgerichtshof.de |
-| BGH IV. ZS | IV ZR 32/24 | 12.3.2025 | Klauselersetzung nach Intransparenz unzulässig (Krankentagegeld; übertragbar) | bundesgerichtshof.de PM Nr. 47/25 |
-| BGH IV. ZS | IV ZR 70/25 | 2025 | PKV-Beitragsanpassung: konkrete Rechnungsgrundlage muss in Mitteilung benannt werden (§ 203 Abs. 5 VVG) | juris.bundesgerichtshof.de |
-| BGH IV. ZS | IV ZR 86/24 | 15.10.2025 | PKV-Beitragsanpassung; Prüfungsmaßstab | bundesgerichtshof.de |
+| BGH IV. ZS | IV ZR 32/24 | 12.3.2025 | Krankentagegeld: Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus | bundesgerichtshof.de |
+| BGH IV. ZS | IV ZR 70/25 | 22.4.2026 | PKV-Beitragsanpassung: keine zusätzliche Mitteilung erforderlich, dass die Veränderung der Rechnungsgrundlage nicht nur vorübergehend ist; materielle Darlegungs- und Beweislast beim Versicherer | juris.bundesgerichtshof.de |
+| BGH IV. ZS | IV ZR 86/24 | 15.10.2025 | Verkehrs-Rechtsschutz: Unklare VRB-Klauseln zur Ersatzfahrzeuganschaffung gehen nach Paragraf 305c Absatz 2 BGB zulasten des Versicherers | bundesgerichtshof.de |
 | BGH VI. ZS | VI ZR 183/22 | 28.1.2025 | DSGVO-Schadensersatz hat nur Ausgleichsfunktion, keine Straffunktion (SCHUFA) | juris.bundesgerichtshof.de |
 
 Hinweis: Reihenfolge neueste zuerst. Vor Versand jedes Aktenzeichen in offener Quelle (juris.bundesgerichtshof.de, dejure.org, openjur.de) aufrufen und Randnummer einsetzen.
@@ -268,7 +268,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | Vorvertragliche Anzeigepflicht verletzt — alle Fragen falsch beantwortet | Antragsfragen vorlegen; Wortlaut der Frage entscheidend; bei Unklarheit Auslegung gegen Verwender § 305c Abs. 2 BGB |
 | Obliegenheitsverletzung durch verspätete Anzeige | AVB-Frist prüfen; § 28 Abs. 3 VVG: Kausalität fehlt? Leistungsfreiheit entfällt |
-| Klauselersetzung nach Intransparenz | BGH, Urt. v. 12.3.2025, IV ZR 32/24 — Versicherer darf unwirksame Klausel nicht durch im Kern identische neue Klausel einseitig ersetzen |
+| Bedingungsanpassung nach Unwirksamkeit | BGH, Urteil vom 12. März 2025, IV ZR 32/24 — Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; sparten- und klauselspezifisch prüfen |
 | Risikoausschluss klar und eindeutig | Wortlaut-Analyse; § 307 BGB Transparenzprüfung |
 | Versicherungsfall nicht eingetreten — AVB-Definition | Auslegung AVB-Definition nach § 305c Abs. 2 BGB bei Unklarheit zugunsten VN |
 | Zahlung ist nicht fällig (noch in Prüfung) | § 14 VVG: Verzögerung nicht unbegrenzt; Abschlagszahlung nach 1 Monat |
@@ -306,9 +306,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Vor Versand jeweils Volltext aus offener Quelle aufrufen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
 
-1. **BGH, Urt. v. 12.3.2025, IV ZR 32/24** — Krankentagegeld; Klauselersetzung nach Intransparenz. Pressemitteilung Nr. 47/25 v. 12.3.2025.
-2. **BGH, IV ZR 70/25** — PKV-Beitragsanpassung; Mitteilungspflicht (konkrete Rechnungsgrundlage).
-3. **BGH, IV ZR 86/24, Urt. v. 15.10.2025** — PKV-Beitragsanpassung; Prüfungsmaßstab.
+1. **BGH, Urteil vom 12. März 2025, IV ZR 32/24** — Krankentagegeld: Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; Paragraf 4 Absatz 2 MB/KT 2009 begrenzt den Anspruch nicht auf einen dem tatsächlichen Nettoeinkommen entsprechenden Tagessatz.
+2. **BGH, Urteil vom 22. April 2026, IV ZR 70/25** — PKV-Beitragsanpassung; formelle Mitteilung nach Paragraf 203 Absatz 5 VVG und materielle Rechtmäßigkeit samt Beweislast strikt trennen.
+3. **BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24** — Verkehrs-Rechtsschutz: Unklare VRB-Klauseln zur Ersatzfahrzeuganschaffung gehen nach Paragraf 305c Absatz 2 BGB zulasten des Versicherers; je nach Bedingungswortlaut kann auch ein Ereignis vor Zulassung des Ersatzfahrzeugs gedeckt sein.
 4. **BGH, Urt. v. 14.7.2021, IV ZR 153/20** — Versicherungsfall BU nach Ablauf der sechs-monatigen Prognosezeit.
 5. **EuGH, Urt. v. 19.12.2013, C-209/12 (Endress / Allianz)** — Widerruf bei fehlerhafter Belehrung bei Lebensversicherung; offene Quelle: curia.europa.eu.
 

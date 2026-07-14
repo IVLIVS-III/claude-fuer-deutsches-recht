@@ -57,8 +57,8 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht.
-- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Wer nach Rechtshängigkeit trotz nachträglicher Zahlung die Klage zurücknimmt, kann kostenrechtlich in die falsche Spur geraten.
-- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Materiell-rechtliche Kostenerstattungsansprüche werden nicht beliebig in die prozessuale Kostenentscheidung nach Paragraf 269 Abs.
+- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Die Entscheidung behandelt Auslegung, Umdeutung und Widerruf einer Klagerücknahme sowie die Unverzüglichkeit nach dem damaligen Paragraf 269 Absatz 3 Satz 3.
+- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Paragraf 269 Absatz 3 Satz 2 Halbsatz 2 Alternative 2 ZPO erlaubt grundsätzlich nicht, einen gegenläufigen materiell-rechtlichen Kostenerstattungsanspruch.
 
 ## 7. Antwortform
 

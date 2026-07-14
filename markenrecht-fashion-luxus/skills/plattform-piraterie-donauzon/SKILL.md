@@ -20,17 +20,17 @@ description: "Wenn es um Plattform-Piraterie und Notice-and-Action nach DSA in m
 
 Donauzon Marketplace GmbH ist das digitale Schaulaufen der Counterfeiting-Szene: Drittanbieter auf Donauzon verkaufen täglich Dutzende gefälschte klôtzzkètté-Produkte. Die Plattform wächst, die Fälschungen häufen sich, und die Comtesse Beatrice de Klotzzkettie ist zu Recht besorgt.
 
-Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutlich schärfere Instrumente. Donauzon ist als "Mittler" nach Art. 2 lit. f DSA und als "Online-Plattform" nach Art. 2 lit. h DSA in der Pflicht.
+Seit dem Digital Services Act (DSA), vollständig anwendbar seit 17. Februar 2024, bestehen unionsweit geregelte Melde-, Begründungs- und Sorgfaltspflichten. Donauzon ist anhand von Artikel 3 Buchstabe g DSA als Vermittlungsdienst und Artikel 3 Buchstabe i DSA als Online-Plattform einzuordnen.
 
 ## Rechtsrahmen
 
-- **VO (EU) 2022/2065 (DSA — Digital Services Act):** Vollgültig seit 17.02.2024
- - Art. 16/17 DSA: Notice-and-Action-Mechanismus — Plattformen müssen legale und einfach zugängliche Meldemechanismen bereitstellen; nach Meldung: zügige Entscheidung (7 Tage bei nicht-illegalen Inhalten, unverzüglich bei offensichtlich illegalen)
- - Art. 22 DSA: Trusted Flaggers (privilegierte Meldestellen, deren Meldungen vorrangig bearbeitet werden)
- - Art. 26-30 DSA: Transparenzpflichten für Werbung, Recommender-Systeme
- - Art. 45 DSA: Zuständigkeit Koordinator für digitale Dienste
-- **Art. 14/15 E-Commerce-Richtlinie (RL 2000/31/EG):** Noch anwendbar für Haftungsprivileg (Hosting); wird durch DSA nicht vollständig ersetzt (DSA schafft kein neues Haftungsrecht, sondern Verfahrenspflichten)
-- **§§ 7-10 DDG (Digitale-Dienste-Gesetz, abgeloest § 10 TMG zum 14.5.2024):** Haftungsprivileg Hosting-Provider (Umsetzung E-Commerce-RL)
+- **Verordnung (EU) 2022/2065 (DSA):** vollständig anwendbar seit 17.02.2024
+ - Artikel 16 DSA: leicht zugänglicher Melde- und Abhilfemechanismus; Meldungen sind zeitnah, sorgfältig, frei von Willkür und objektiv zu bearbeiten. Der DSA setzt dafür keine allgemeine Siebentagesfrist.
+ - Artikel 17 DSA: klare und spezifische Begründung für Beschränkungsentscheidungen.
+ - Artikel 22 DSA: Meldungen anerkannter vertrauenswürdiger Hinweisgeber sind vorrangig und unverzüglich zu bearbeiten.
+ - Artikel 26 und 27 DSA: Werbetransparenz und Transparenz der Empfehlungssysteme; Artikel 30 DSA: Rückverfolgbarkeit gewerblicher Anbieter auf Online-Marktplätzen.
+ - Artikel 49 bis 51 DSA: Koordinatoren für digitale Dienste; die nationale Zuständigkeit folgt ergänzend aus dem DDG.
+- **Artikel 6 DSA:** Haftungsprivileg für Hostingdienste bei fehlender tatsächlicher Kenntnis und zügigem Tätigwerden nach Kenntniserlangung. Artikel 8 DSA verbietet eine allgemeine Überwachungspflicht. Das DDG regelt vor allem nationale Zuständigkeiten und Durchsetzung; es ist nicht die materielle Quelle des Hostingprivilegs.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 14 II/V MarkenG:** Verletzungsanspruch auch gegen mittelbare Verletzer
 - **§ 1004 BGB analog / § 14 V MarkenG:** Sperrverfügung als Hauptanspruch

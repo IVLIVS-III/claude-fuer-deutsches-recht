@@ -1,9 +1,33 @@
 name: strafrecht-untreue-vereinskasse-kassel
-description: Untreueverfahren gegen einen Vereinsvorstand mit Kassenbuch, Sponsoringgeldern, Barabhebungen, Einziehungsfragen und zivilrechtlicher Rückforderung.
+description: Untreueverfahren gegen einen Vereinsvorstand mit Kassenbuch, Sponsoringgeldern, Barabhebungen, Einziehungsfragen
+  und zivilrechtlicher Rückforderung.
 checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Aus dem Kassenbuch-Konto-Abgleich (Datei 10) die Summe der Barabhebungen von 71500.00 EUR und die anerkannten Belege von 22880.00 EUR ermitteln, daraus den ungeklaerten Fehlbetrag von 48620.00 EUR errechnen, die drei nicht anerkannten Quittungen ueber 4150.00 EUR gesondert ausweisen und dies der Einlassung (bare Auslagen, Belege beim Umzug verloren) gegenueberstellen.
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-sachverhalt-chronologie
+    check_type: file_exists
+    description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
+    path: 02_sachverhalt_chronologie.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Aus dem Kassenbuch-Konto-Abgleich (Datei 10) die Summe der Barabhebungen von 71500.00 EUR und die
+      anerkannten Belege von 22880.00 EUR ermitteln, daraus den ungeklaerten Fehlbetrag von 48620.00 EUR errechnen,
+      die drei nicht anerkannten Quittungen ueber 4150.00 EUR gesondert ausweisen und dies der Einlassung (bare
+      Auslagen, Belege beim Umzug verloren) gegenueberstellen.

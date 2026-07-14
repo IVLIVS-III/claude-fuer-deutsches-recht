@@ -1,2 +1,39 @@
 name: familienrecht-sorge-umgang-gewaltschutz-essen
-focus: fachanwalt-familienrecht
+description: Fachspezifische Qualitätsprüfung der vollständigen Akte familienrecht-sorge-umgang-gewaltschutz-essen.
+checks:
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-chronologie-arbeitsstand
+    check_type: file_exists
+    description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
+    path: 02_chronologie_arbeitsstand.docx
+  - id: datei-07-notruf
+    check_type: file_exists
+    description: Das zeitgestempelte Notruf- und Dispositionsprotokoll ist vorhanden.
+    path: 07_notruf_und_einsatzdisposition.docx
+  - id: datei-08-befundbericht
+    check_type: file_exists
+    description: Der ärztliche Befundbericht mit getrennter Anamnese und objektivem Befund ist vorhanden.
+    path: 08_aerztlicher_befundbericht.docx
+  - id: datei-10-jugendamt
+    check_type: file_exists
+    description: Der Jugendamtsvermerk zu Hausbesuch, Kindergesprächen und Hilfeplanung ist vorhanden.
+    path: 10_jugendamt_hausbesuch_und_hilfeplan.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Gewaltschutz, elterliche Sorge, Umgang und Kindeswohl als getrennte Verfahrensgegenstände mit jeweils
+      passenden Anträgen behandeln.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Polizeivermerk, Schulnotiz, Parteivortrag und Fotoblatt auf unmittelbare Wahrnehmung, Widersprüche
+      und aktuelle Gefährdung prüfen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Eilbedürftigkeit, geschützte Übergabe, Umgangsbegleitung, Anhörung des Kindes und mildere Maßnahmen
+      in einen konkreten Eilantrag überführen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Parteianamnese, objektive Verletzungsbefunde, Notrufangaben, Zeugenwahrnehmung und spätere Deutung
+      mit ihrem jeweils begrenzten Beweiswert auseinanderhalten.

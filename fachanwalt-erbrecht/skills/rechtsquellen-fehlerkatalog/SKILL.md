@@ -17,11 +17,11 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Fachanwalt Erbrecht** vor A
 - **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
 - **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-### 2. Parallelfrist vergessen (Pflichtteil 3 Jahre § 2332)
+### 2. Verjährungsregime beim Pflichtteil vermischt
 
-- **Symptom:** Parallelfrist vergessen (Pflichtteil 3 Jahre § 2332)
-- **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
-- **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
+- **Symptom:** BGB Paragraf 2332 wird pauschal als Verjährungsnorm für jeden Pflichtteilsanspruch verwendet.
+- **Diagnose:** Der Anspruch gegen den Erben nach BGB Paragrafen 195 und 199 wird mit dem Anspruch gegen den Beschenkten nach BGB Paragraf 2329 verwechselt, dessen Verjährung nach Paragraf 2332 Absatz 1 bereits mit dem Erbfall beginnt.
+- **Heilung:** Anspruchsgegner, Anspruchsgrundlage, Entstehung, Kenntnislage, Höchstfrist und Hemmung für jeden Anspruch getrennt erfassen.
 
 ### 3. Falsche Zuständigkeit adressiert (richtig: Nachlassgericht (AG))
 

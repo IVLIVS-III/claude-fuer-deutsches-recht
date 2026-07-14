@@ -41,4 +41,4 @@ Nutze diesen Skill, wenn Minderheitsgesellschafter Informationen verlangen, Miss
 
 ## Output
 
-Gib ein Anspruchsschreiben, eine Einwandmatrix und einen gerichtlichen Durchsetzungsfahrplan in Stichpunkten aus.
+Gib ein vollständig ausformuliertes Anspruchsschreiben, eine Einwandmatrix und einen gerichtlichen Durchsetzungsfahrplan mit konkreten Anträgen, Fristen und Belegen aus.

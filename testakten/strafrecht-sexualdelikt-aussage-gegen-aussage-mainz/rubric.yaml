@@ -1,9 +1,31 @@
 name: strafrecht-sexualdelikt-aussage-gegen-aussage-mainz
-description: Sensible Sexualstrafsache aus Mainz mit Aussagekonstanz, Chatkontext, Nebenklage, Schutzinteressen und sachverständiger Aussageanalyse ohne Vorfestlegung.
+description: Sensible Sexualstrafsache aus Mainz mit Aussagekonstanz, Chatkontext, Nebenklage, Schutzinteressen
+  und sachverständiger Aussageanalyse ohne Vorfestlegung.
 checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Aus der zusammengefuehrten Zeitleiste (Datei 10) die objektiven Anker bestimmen (erste Sprachnachricht 01:12 Uhr, Taxi-Fahrtbeginn 01:41 Uhr, Abstand 29 Minuten) und die konkurrierenden Zeitangaben daran messen: Erstangabe Hartmann 'kurz nach 1 Uhr' vereinbar, Folgeangabe 'gegen 2 Uhr' abweichend als Konstanzfrage, Angabe Reimers 'gegen 3 Uhr' rund 79 Minuten ausserhalb des Fensters; die Auswertung ergebnisoffen und ohne Vorfestlegung zur Glaubhaftigkeit halten.
+  - id: datei-01-mandatsnotiz-erstgespraech
+    check_type: file_exists
+    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
+    path: 01_mandatsnotiz_erstgespraech.docx
+  - id: datei-02-sachverhalt-chronologie
+    check_type: file_exists
+    description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
+    path: 02_sachverhalt_chronologie.docx
+  - id: fachpruefung-01
+    check_type: human_review
+    description: Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
+  - id: fachpruefung-02
+    check_type: human_review
+    description: Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
+  - id: fachpruefung-03
+    check_type: human_review
+    description: Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: fachpruefung-04
+    check_type: human_review
+    description: Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
+  - id: fachpruefung-05
+    check_type: human_review
+    description: Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
+  - id: fachpruefung-06
+    check_type: human_review
+    description: Fachliche Einzelfallprüfung
+    note: Am vollständigen Akteninhalt prüfen.

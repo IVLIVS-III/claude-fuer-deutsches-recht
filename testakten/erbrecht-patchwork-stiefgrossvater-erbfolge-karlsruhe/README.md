@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip) |
 
@@ -41,6 +41,9 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `12_testament_armin_2014_abschrift.docx` | Testament Armins von 2014 mit Zuwendungen an Dana und Fiona |
 | `13_testament_clemens_2018_abschrift.docx` | Testament Clemens' von 2018: Fiona Alleinerbin, Ausschluss Danas |
 | `14_sterbeurkunden_abschriften.docx` | Sterbeurkunden beider Erblasser mit urkundlicher Reihenfolge der Erbfälle |
+| `15_nachlassgericht_anhaerung_und_verfuegung.docx` | Nachlassgerichtliche Anhörung mit Anträgen, Einwendungen und konkreter Nachforderung von Personenstands- und Testamentsunterlagen |
+| `16_grundbuch_und_bankauskunft_armin.docx` | Bankauskunft zu Konten, Depot, Vollmacht, Schließfach, Immobilie und Verfügungen nach dem Tod |
+| `17_personenstandsunterlagen_fiona.docx` | Beglaubigte Personenstandsübersicht zu Abstammung, Ehen der Eltern, früherem Stiefverhältnis und Ehe mit Armin |
 
 ## Aktenstruktur
 
@@ -60,6 +63,9 @@ erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe/
 ├── 12_testament_armin_2014_abschrift.docx        Testament 2014 (Abschrift, eröffnet, Auslegungsfragen)
 ├── 13_testament_clemens_2018_abschrift.docx      Testament 2018 aus amtlicher Verwahrung (Abschrift)
 ├── 14_sterbeurkunden_abschriften.docx            Sterbeurkunden Armin (14.05.2026) und Clemens (02.06.2026)
+├── 15_nachlassgericht_anhaerung_und_verfuegung.docx  Anhörung im Erbscheinsverfahren und Unterlagennachforderung
+├── 16_grundbuch_und_bankauskunft_armin.docx       Konten, Depot, Vollmacht, Schließfach und Immobilie Armins
+├── 17_personenstandsunterlagen_fiona.docx         Abstammung, Ehen, Scheidungen und fehlende Adoption
 ├── README.md                                   Diese Übersicht
 ├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
 └── gesamt-pdf/

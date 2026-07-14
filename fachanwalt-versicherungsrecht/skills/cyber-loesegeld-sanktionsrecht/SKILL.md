@@ -60,7 +60,6 @@ Verifizierte Anker (Volltext vor Versand in offener Quelle aufrufen):
 
 | Gericht | Aktenzeichen / Quelle | Datum | Kernaussage |
 |---|---|---|---|
-| BGH IV. ZS | IV ZR 32/24 (juris.bundesgerichtshof.de) | 12.3.2025 | Klauselersetzung nach Intransparenz unzulässig (übertragbar auf Cyber-AVB-Anpassungen) |
 | BGH VI. ZS | VI ZR 183/22 (juris.bundesgerichtshof.de) | 28.1.2025 | DSGVO-Schadensersatz hat nur Ausgleichs-, keine Straffunktion (relevant für Cyber-Schadensersatz Drittansprüche) |
 | EuGH | C-300/21 (curia.europa.eu) | 4.5.2023 | Art. 82 DSGVO setzt konkret nachgewiesenen Schaden voraus |
 | OFAC SDN-Liste | sanctionssearch.ofac.treas.gov | laufend | US-Sanktionsliste; bei Match Zahlung verboten |

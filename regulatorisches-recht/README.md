@@ -5,7 +5,7 @@
 
 Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
 
-Dieses Plugin gehört zum Marketplace mit 234 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
+Dieses Plugin gehört zum Marketplace mit 235 Plugins für deutsches Recht. Es bündelt die zugehörigen Skills, Prüfraster, Vorlagen und Arbeitsroutinen in einem installierbaren Plugin-ZIP. Die zwei Markdown-Prompts sind vollwertige Ein-Datei-Starts für den Fall, dass kein Plugin-Setup genutzt werden soll: Werkstatt für den ausführlichen Arbeitsmodus, Schnellstart für den kompakten Einstieg.
 
 Direktnavigation: [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/regulatorisches-recht.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -20,7 +20,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/regulatorisches-recht/regulatorisches-recht-schnellstart.md" download><code>regulatorisches-recht-schnellstart.md</code></a> |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 234 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -102,7 +102,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/reg
 
 **Aufsichtsbehörden:** BaFin, Deutsche Bundesbank, BMF, Bundesnetzagentur (BNetzA), BMG, BAFA, BMJ, BMWi/BMWK, EBA, ESMA, EZB/SSM
 
-**Finanzmarktrecht:** KWG, ZAG, WpHG, WpIG, GwG, KAG/KAGB, MaRisk (BaFin-RS 09/2017 i.d.F. 2023), MaBV, BörsG
+**Finanzmarktrecht:** KWG, ZAG, WpHG, WpIG, GwG, KAGB, MaBV und BörsG; MaRisk in der aktuellen Fassung des BaFin-Rundschreibens 06/2024 (BA); DORA und die zugehörigen technischen Standards seit dem 17. Januar 2025 für den jeweils erfassten Anwendungsbereich
 
 **Energie- und Telekommunikationsrecht:** EnWG, TKG, MessZV
 
@@ -168,8 +168,8 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Jeder Sk
 | [`inkasso-rdg-luecken-mar-mifid`](skills/inkasso-rdg-luecken-mar-mifid/SKILL.md) | Wenn es um Inkassodienstleistungen (RDG) in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlag... |
 | [`interview-fristennotiz-aufsichtssanktion`](skills/interview-fristennotiz-aufsichtssanktion/SKILL.md) | Wenn es um Interview: Fristennotiz und nächster Schritt in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kaltstart-interview`](skills/kaltstart-interview/SKILL.md) | Wenn es um Ersteinrichtung – Regulatorisches Recht in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
-| [`luecken`](skills/luecken/SKILL.md) | Wenn es um Gap-Tracker in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
-| [`luecken-aufzeiger`](skills/luecken-aufzeiger/SKILL.md) | Wenn es um Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpu... |
+| [`luecken`](skills/luecken/SKILL.md) | Pflegt den aufsichtsrechtlichen Gap-Tracker ohne fachliche Befunde zu erfinden. Sortiert belegte Lücken nach Rechtsstatus, Risiko und Terminbasis und erzeugt Verantwortungs-, Eskalations- und Abschlussnachweise. |
+| [`luecken-aufzeiger`](skills/luecken-aufzeiger/SKILL.md) | Vergleicht interne Richtlinien mit dem aktuell anwendbaren Aufsichtsrahmen. Trennt verbindliches Recht, Verwaltungspraxis und Orientierungshilfen und liefert eine belegte Gap-Matrix mit Priorität, Verantwortlichem und umsetzbarer Maßnahme. |
 | [`mandat-arbeitsbereich`](skills/mandat-arbeitsbereich/SKILL.md) | Wenn es um Mandat-Workspace-Verwaltung in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`mar-mifid-eltif-uebergreifend`](skills/mar-mifid-eltif-uebergreifend/SKILL.md) | Wenn es um MAR und MiFID und ELTIF in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`massnahme-mandantenkommunikation-entscheidungsvorlage`](skills/massnahme-mandantenkommunikation-entscheidungsvorlage/SKILL.md) | Wenn es um Maßnahme: Mandantenkommunikation und Entscheidungsvorlage in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |
@@ -186,8 +186,8 @@ Automatisch generierte Komplett-Liste aller 61 Skills in diesem Plugin. Jeder Sk
 | [`regulatorik-mandatssteckbrief-behoerden-fristen`](skills/regulatorik-mandatssteckbrief-behoerden-fristen/SKILL.md) | Wenn es um Regulatorisches Mandat: Behörden, Fristen und Rollen in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofo... |
 | [`regulatorisches-richtlinien-neufassung`](skills/regulatorisches-richtlinien-neufassung/SKILL.md) | Wenn es um Praxisprofil anpassen in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | [`regulatorisches-stellungnahmen-beweislast`](skills/regulatorisches-stellungnahmen-beweislast/SKILL.md) | Wenn es um Regulatorisches: Internationaler Bezug und Schnittstellen in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Soforts... |
-| [`richtlinien-anhoerung-red-aufsichtsrecht`](skills/richtlinien-anhoerung-red-aufsichtsrecht/SKILL.md) | Wenn es um Richtlinien-Diff in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
-| [`richtlinien-neufassung`](skills/richtlinien-neufassung/SKILL.md) | Wenn es um Richtlinien-Neufassung in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`richtlinien-anhoerung-red-aufsichtsrecht`](skills/richtlinien-anhoerung-red-aufsichtsrecht/SKILL.md) | Erstellt einen prüfbaren Diff zwischen aktueller Aufsichtsquelle und interner Richtlinie. Ordnet jede Abweichung nach Geltungsstatus, Wortlaut, Umsetzung und Nachweis und übergibt konkrete Redline- und Eskalationsaufträge. |
+| [`richtlinien-neufassung`](skills/richtlinien-neufassung/SKILL.md) | Überführt eine belegte aufsichtsrechtliche Lücke in eine vollständige interne Richtlinie oder Redline. Liefert normgenaue Regelungen, Rollen, Kontrollen, Nachweise, Freigabeschritte und eine umsetzbare Inkraftsetzungsfassung. |
 | [`sonderfall-edge-case`](skills/sonderfall-edge-case/SKILL.md) | Wenn es um Kaltstart: Sonderfall und Edge-Case-Prüfung in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschri... |
 | [`spezial-anhoerung-red-team-und-qualitaetskontrolle`](skills/spezial-anhoerung-red-team-und-qualitaetskontrolle/SKILL.md) | Wenn es um Anhoerung: Red-Team und Qualitätskontrolle in Regulatorisches Recht – Plugin für deutsches geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`spezial-feeds-compliance-dokumentation-und-akte`](skills/spezial-feeds-compliance-dokumentation-und-akte/SKILL.md) | Wenn es um Feeds: Compliance-Dokumentation und Aktenvermerk in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

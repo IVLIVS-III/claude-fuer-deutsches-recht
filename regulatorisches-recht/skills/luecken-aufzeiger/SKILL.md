@@ -1,144 +1,109 @@
 ---
 name: luecken-aufzeiger
-description: "Wenn es um Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen in Regulatorisches Recht – Plugin für deutsches geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Vergleicht interne Richtlinien mit dem aktuell anwendbaren Aufsichtsrahmen. Trennt verbindliches Recht, Verwaltungspraxis und Orientierungshilfen und liefert eine belegte Gap-Matrix mit Priorität, Verantwortlichem und umsetzbarer Maßnahme."
 ---
 
-# Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen
+# Gap-Analyse für interne Richtlinien
 
-## Eingaben
+## 1. Arbeitsauftrag
 
-- **Aufsichtsverlautbarung:** BaFin-Rundschreiben / Leitlinie (hochgeladen oder per Link)
-- **Interne Richtlinie(n):** Zu prüfende Bestandsdokumente (hochgeladen oder aus Richtlinienbibliothek)
-- **Segment:** Art des Instituts / Unternehmens (z. B. Kreditinstitut KWG § 1, Zahlungsinstitut ZAG § 1, Wertpapierfirma WpIG § 2)
-- Optional: Übergangsfrist aus der Verlautbarung
-- Optional: Bestehende Gap-Liste aus vorherigem Lauf
+Erstelle keine abstrakte Aufzählung von Regelwerken. Lies zuerst die bereitgestellten Richtlinien, Prüfberichte und Aufsichtsquellen. Liefere anschließend eine zeilengenaue Gap-Matrix und für jede wesentliche Lücke einen unmittelbar umsetzbaren nächsten Schritt.
 
-## Ablauf
+## 2. Eingaben
 
-### 1. Verlautbarung einlesen und strukturieren
+1. Vollständige interne Richtlinie mit Version, Geltungsbereich und Freigabestatus.
+2. Aktuelle Primärquelle: Gesetz, Verordnung, BaFin-Rundschreiben oder EBA-Leitlinie.
+3. Institutsart, Erlaubnistatbestand, Größenklasse und DORA-Anwendbarkeit.
+4. Vorhandene Feststellungen aus Jahresabschlussprüfung, Sonderprüfung, Interner Revision oder Aufsichtsdialog.
+5. Gewünschtes Arbeitsprodukt: Gap-Bericht, Maßnahmenplan, Vorstandsvorlage oder Redline-Auftrag.
 
-Die Aufsichtsverlautbarung lesen und gliedern:
+Fehlt eine Primärquelle, rufe sie vor der Sachprüfung über die amtliche Fundstelle ab. Frage nur nach, wenn Institutsart oder Dokumentversion nicht aus der Akte hervorgehen und die Einordnung davon abhängt.
 
-| Modul / Abschnitt | Regelungsinhalt | Adressatenkreis | Übergangsfrist |
-|---|---|---|---|
-| [z. B. AT 4.3.2] | [Anforderung] | [Alle Institute / Bedeutende Institute] | [TT.MM.JJJJ] |
+## 3. Quellenhierarchie und Geltungsstatus
 
-Für MaRisk-Rundschreiben (BaFin RS 09/2017 i.d.F. Novelle 2023) [Modellwissen – prüfen auf aktuelle Fassung]:
-- **AT-Module:** Allgemeiner Teil (AT 1 – AT 9)
-- **BT-Module:** Besonderer Teil (BTO Kreditgeschäft, BTRO Handelsgeschäft)
-- **BTR-Module:** Besondere Anforderungen Risikosteuerung (BTR 1–4)
+| Ebene | Beispiel | Prüfregel |
+| --- | --- | --- |
+| Unmittelbar geltendes Recht | DORA, Delegierte Verordnungen, KWG | Tatbestand, Adressat und Anwendungsdatum exakt prüfen |
+| Nationales Gesetz | Paragrafen 25a und 25b KWG | Pflicht und Ermächtigungsgrundlage trennen |
+| Aufsichtspraxis | MaRisk, BaFin-Rundschreiben 06/2024 (BA) | Modul, Öffnungsklausel und Proportionalität belegen |
+| Europäische Leitlinie | EBA-Leitlinie | Adressatenkreis, Fassung und Comply-or-explain-Status ausweisen |
+| Interne Regel | Richtlinie, Arbeitsanweisung, Kontrollbeschreibung | Wortlaut und gelebte Umsetzung getrennt bewerten |
 
-### 2. Interne Richtlinien einlesen und zuordnen
+Ältere BAIT-, VAIT-, KAIT- oder ZAIT-Fassungen nicht ungeprüft als aktuellen Sollmaßstab verwenden. Für informations- und kommunikationstechnische Risiken zuerst klären, ob DORA und die dazugehörigen technischen Standards unmittelbar gelten; daneben verbleibende nationale Anforderungen anhand des aktuellen BaFin-Scopes bestimmen.
 
-Für jede interne Richtlinie ermitteln:
-- Welches Modul / welchen Abschnitt der Verlautbarung deckt sie ab?
-- Letzte Aktualisierung
-- Verantwortlicher
+## 4. Prüfraster
 
-Zuordnungsmatrix erstellen:
+### 4.1 Soll-Anforderungen extrahieren
 
-| Verlautbarungsabschnitt | Interne Richtlinie | Deckungsgrad | Bemerkung |
-|---|---|---|---|
-| AT 4.3.2 | IKS-Richtlinie v. 01.03.2023 | teilweise | Datenhaltungsfristen fehlen |
-| BT 3.1 | Stresstesting-Policy | vollständig | Aktuell |
-| BTR 2.3 | Liquiditätsrichtlinie | keine | Richtlinie fehlt `[prüfen]` |
+Zerlege die Primärquelle in atomare Anforderungen. Jede Zeile muss enthalten:
 
-### 3. Gap-Identifikation
+| Kennung | Fundstelle | Adressat | Pflichtinhalt | Öffnung oder Proportionalität | Anwendungsdatum |
+| --- | --- | --- | --- | --- | --- |
+| SOLL-001 | MaRisk AT 6 Tz. 2 | erfasstes Institut | Unterlagen grundsätzlich fünf Jahre aufbewahren | längere gesetzliche Fristen gehen vor | aktuell |
 
-Für jede identifizierte Lücke:
+Keine Pflicht aus Überschrift, Inhaltsverzeichnis oder Sekundärzusammenfassung ableiten. Bei DORA zusätzlich die einschlägige delegierte oder durchführende Verordnung erfassen, soweit sie den Pflichtinhalt konkretisiert.
 
-```yaml
-gap:
- id: "[GAP-2025-001]"
- verlautbarung: "[BaFin RS 09/2017 Novelle 2023, AT 4.3.2]"
- anforderung: "[Beschreibung der neuen Anforderung]"
- bestandsregel: "[Aktuelle interne Regelung oder 'keine']"
- luecke: "[Was fehlt oder abweicht]"
- schweregrad: "[🔴 Blockierend / 🟠 Hoch / 🟡 Mittel / 🟢 Gering]"
- frist: "[TT.MM.JJJJ oder 'keine Frist']"
- eigentuemer: "[PLATZHALTER]"
- status: "offen"
-```
+### 4.2 Bestandsregel und Umsetzung belegen
 
-Schweregradkriteria:
-- 🔴 **Blockierend:** Fehlende Anforderung ist prüfungsrelevant; BaFin-Prüfung würde Mängelbescheid auslösen
-- 🟠 **Hoch:** Anforderung ist klar formuliert, Lücke vorhanden, Frist < 3 Monate
-- 🟡 **Mittel:** Anforderung besteht, Lücke marginal oder Frist > 3 Monate
-- 🟢 **Gering:** Best-Practice-Empfehlung ohne verbindlichen Charakter
+Für jede Soll-Anforderung drei Ebenen getrennt lesen:
 
-### 4. Gap-Bericht erstellen
+1. Richtlinienwortlaut mit Abschnitt und Seitenangabe.
+2. Prozessnachweis, etwa Kontrollprotokoll, Register, Auslagerungsakte oder Testbericht.
+3. Wirksamkeitsnachweis, etwa Stichprobe, Revisionsfeststellung oder Wiederherstellungstest.
 
-**Zusammenfassung:**
-- Gesamtzahl Gaps: N
-- Davon 🔴 Blockierend: N | 🟠 Hoch: N | 🟡 Mittel: N | 🟢 Gering: N
-- Nächste Frist: TT.MM.JJJJ (GAP-2025-xxx)
+Eine passende Formulierung ohne Prozessnachweis ist keine vollständige Deckung. Ein gelebter Prozess ohne freigegebene Regel ist eine Dokumentationslücke.
 
-**Detaillierte Gap-Tabelle:** (alle Gaps mit Status, Frist, Eigentümer)
+### 4.3 Gap klassifizieren
 
-**Handlungsempfehlungen:** Priorisierte Liste nach Schweregrad und Frist
+| Status | Bedeutung | Mindestbegründung |
+| --- | --- | --- |
+| ROT | verbindliche Anforderung fehlt oder wird nachweislich nicht erfüllt | Fundstelle, Auswirkung, Sofortmaßnahme |
+| ORANGE | wesentliche Teildeckung oder Wirksamkeitsnachweis fehlt | fehlender Baustein und Nachforderung |
+| GELB | Dokumentation, Zuständigkeit oder Aktualisierung unklar | konkrete Klärungsfrage |
+| GRÜN | Wortlaut, Prozess und Nachweis decken die Anforderung | Belegstellen |
+| GRAU | nicht anwendbar oder nur Orientierung | tragfähige Scope-Begründung |
 
-### 5. Gap-Tracker schreiben
+Keine erfundenen Übergangsfristen oder aufsichtsrechtlichen Folgen einsetzen. Liegt keine ausdrückliche Frist vor, mit `keine besondere Übergangsfrist festgestellt; Umsetzungspriorität aus Risiko und laufender Pflicht ableiten` kennzeichnen.
 
-Gap-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml` aktualisieren.
+## 5. Arbeitsprodukt
 
-## Aktuelle Rechtsprechung & Leitsätze
+### 5.1 Entscheidungsübersicht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. Drei stärkste Risiken mit Fundstelle und Auswirkung.
+2. Drei sofort ausführbare Maßnahmen.
+3. Offene Scope- oder Quellenfragen.
+4. Freigabe- und Eskalationsbedarf.
 
-## Zentrale Normen (Paragrafenkette)
+### 5.2 Gap-Matrix
 
-Art. 20 Abs. 3 GG (Lueckenfuellungs-Pflicht) — § 5 EGBGB (Analogie) — §§ 133, 157 BGB (Auslegung) — §§ 306 Abs. 2 BGB (Lueckenfuellung AGB-Recht) — Art. 288 AEUV (Richtlinien-Umsetzungs-Luecken)
+| Gap-ID | Soll-Fundstelle | Ist-Beleg | Lücke | Status | Maßnahme | Verantwortlicher | Terminbasis |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GAP-001 | MaRisk AT 6 Tz. 2 | Richtlinie 4.2: vier Jahre | ein Jahr zu kurz, vorbehaltlich längerer Spezialfrist | ROT | Frist auf mindestens fünf Jahre anheben und Spezialfristen-Matrix ergänzen | Compliance | laufende Pflicht |
 
-## Quellen und Zitierweise
+### 5.3 Nachforderungsliste
 
-Zitierweise: `../../../references/zitierweise.md`
+Fordere nur Unterlagen nach, die eine konkrete Gap-Zeile entscheiden können. Formuliere jeweils Dokument, Zeitraum, Verantwortlichen und Entscheidungsauswirkung.
 
-Einschlägige Verlautbarungen und Normen:
-- BaFin-Rundschreiben 09/2017 (BA) – Mindestanforderungen an das Risikomanagement (MaRisk) i.d.F. der Novelle 2023 [Modellwissen – prüfen auf aktuelle Fassung; abrufbar unter bafin.de]
-- BaFin-Rundschreiben 10/2017 (VA) – VAIT (Versicherungsaufsichtliche Anforderungen an die IT) [Modellwissen – prüfen]
-- BaFin-Rundschreiben 10/2018 (BA) – BAIT (Bankaufsichtliche Anforderungen an die IT) i.d.F. 2021 [Modellwissen – prüfen]
-- EBA-Leitlinien EBA/GL/2021/04 – IRRBB/CSRBB [Modellwissen – prüfen]
-- § 25a KWG (Ordnungsgemäße Geschäftsorganisation)
-- § 25b KWG (Auslagerungen)
-- Art. 74 CRD V (Governance-Anforderungen)
+## 6. Fachliche Anker
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 1 ff. (Risikomanagement Zahlungsinstitute).
+1. **MaRisk:** BaFin-Rundschreiben 06/2024 (BA) ist die aktuelle MaRisk-Fassung. AT 6 verlangt für die Einhaltung der MaRisk wesentliche Handlungen und Festlegungen nachvollziehbar zu dokumentieren und grundsätzlich fünf Jahre aufzubewahren. Gesetzlich längere Fristen bleiben unberührt.
+2. **Geschäftsorganisation:** Paragraf 25a KWG trägt die Anforderungen an eine ordnungsgemäße Geschäftsorganisation; Proportionalität entbindet nicht von einer begründeten Scope-Entscheidung.
+3. **Auslagerung:** Paragraf 25b KWG und MaRisk AT 9 nach Leistung, Wesentlichkeit, Steuerungsmöglichkeit und Ausstiegsfähigkeit prüfen.
+4. **Digitale operationale Resilienz:** DORA, Verordnung (EU) 2022/2554, gilt seit dem 17. Januar 2025. Governance, IKT-Risikomanagement, Vorfälle, Tests und Drittparteienrisiken als getrennte Pflichtblöcke behandeln.
+5. **EBA-Leitlinien:** Nicht als Gesetz bezeichnen. Aktuelle Fassung, Adressatenkreis und nationale Umsetzung beziehungsweise Comply-or-explain-Status dokumentieren.
 
-## Beispiel
+## 7. Primärquellen
 
-**Eingabe:** "Bitte die MaRisk-Novelle 2023 gegen unsere Risikomanagement-Richtlinien prüfen. Richtlinien sind im Ordner /compliance/richtlinien/ hinterlegt."
+1. BaFin, Rundschreiben 06/2024 (BA), MaRisk: https://www.bafin.de/SharedDocs/Downloads/DE/Rundschreiben/dl_rs_06_2024_MaRisk_pdf_BA.pdf
+2. KWG Paragraf 25a: https://www.gesetze-im-internet.de/kredwg/__25a.html
+3. KWG Paragraf 25b: https://www.gesetze-im-internet.de/kredwg/__25b.html
+4. Verordnung (EU) 2022/2554: https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+5. EBA, aktuelle Leitlinien und Fassungen: https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities
 
-**Ausgabe (Auszug):**
+## 8. Fehlerbremsen
 
-> **⚠️ Prüfernotiz**
-> - **Quellen:** MaRisk RS 09/2017 Novelle 2023 [Modellwissen – prüfen gegen bafin.de], Richtlinien [Nutzer-Input]
-> - **Gelesen:** MaRisk vollständig; 5 Richtlinien
-> - **Zu Ihrer Einschätzung:** 2 Gaps mit 🔴 markiert `[prüfen]`
-> - **Vor Verwendung:** MaRisk-Fassung gegen bafin.de aktuellen Stand prüfen
-
----
-
-**Gap-Bericht: MaRisk-Novelle 2023**
-*Erstellt: 01.06.2025 | Institut: Musterbank AG | Segment: KWG-Kreditinstitut*
-
-**Zusammenfassung:** 7 Gaps identifiziert: 🔴 2 | 🟠 3 | 🟡 2 | 🟢 0
-
-| Gap-ID | Modul | Anforderung | Lücke | Schwere | Frist |
-|---|---|---|---|---|---|
-| GAP-2025-001 | AT 4.3.2 | Datenhaltung 10 J. | Richtlinie sieht 7 J. vor | 🔴 | 31.12.2025 |
-| GAP-2025-002 | BTR 3.2 | ESG-Risikointegration | Keine ESG-Policy vorhanden | 🔴 | 31.03.2026 |
-| GAP-2025-003 | BTO 1.2.4 | Kreditvergabestandards | Teilweise abgedeckt | 🟠 | 30.06.2026 |
-
-**Handlungsempfehlungen:**
-1. **Sofort (GAP-2025-001):** IKS-Richtlinie um Datenhaltungsklausel ergänzen; Norm: AT 4.3.2 MaRisk. Verantwortlich: Compliance.
-2. **Bis 31.12.2025 (GAP-2025-002):** ESG-Risikorichtlinie neu erstellen; `/regulatorisches-recht:richtlinien-neufassung` nutzen.
-
-## Risiken / typische Fehler
-
-- **Veraltete MaRisk-Version:** BaFin novelliert MaRisk regelmäßig; stets die aktuell gültige Fassung von bafin.de verwenden. Modellwissen über MaRisk-Inhalte immer gegen die offizielle Fassung prüfen: `[Modellwissen – prüfen]`.
-- **Adressatenkreis-Fehler:** Nicht alle MaRisk-Anforderungen gelten für alle Institute gleichermaßen (Proportionalitätsgrundsatz § 25a Abs. 1 S. 3 KWG). Institutsgröße und -komplexität beachten.
-- **Fehlende Übergangsfrist:** MaRisk-Novellen enthalten oft gestaffelte Übergangsfristen für einzelne Module. Nicht alle Gaps haben dieselbe Frist.
-- **Nur formale Prüfung:** Auch wenn eine interne Richtlinie den Anforderungswortlaut übernimmt, kann sie in der Praxis nicht gelebt werden. Hinweis auf erforderliche Prozessprüfung.
-- **Auslagerungsrisiken:** § 25b KWG-Anforderungen an ausgelagerte Tätigkeiten separat prüfen – nicht durch Richtlinienprüfung allein abgedeckt.
+1. Rundschreibennummer, Fassung und Modul vor jeder tragenden Aussage in der Primärquelle kontrollieren.
+2. Keine MaRisk-Anforderung pauschal auf Zahlungsinstitute, Versicherer oder Wertpapierinstitute übertragen.
+3. DORA und nationale Anforderungen nicht doppelt zählen; Überschneidung und verbleibenden Scope ausweisen.
+4. Aufbewahrungsfristen nicht aus Steuer- oder Handelsrecht in MaRisk hineinlesen.
+5. Prüfungsfeststellung, mögliche Maßnahme und bestandskräftige Anordnung sprachlich strikt trennen.

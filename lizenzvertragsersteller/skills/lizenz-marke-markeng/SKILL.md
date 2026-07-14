@@ -7,12 +7,12 @@ description: "Wenn es um Lizenz Marke (MarkenG) in Lizenzvertragsersteller geht:
 
 ## Normenanker
 
-- $ 27 MarkenG - Uebertragung der Marke (Voll-Verkauf)
-- $ 30 MarkenG - Lizenz an der Marke (Teil-Recht)
-- $ 30 Abs. 3 MarkenG - Eintragung der Lizenz im DPMA-Register (Dritt-Wirkung)
-- $ 14 MarkenG - Ausschlussrecht (Verletzungen)
-- $ 26 MarkenG - Benutzungspflicht (5 Jahre); Loeschung mangels Benutzung
-- $ 33 ff. MarkenG - Anmeldung, Eintragung, Loeschung
+- Paragraf 27 MarkenG - Uebertragung der Marke (Voll-Verkauf)
+- Paragraf 30 MarkenG - Lizenz an der Marke (Teil-Recht)
+- Paragraf 30 Abs. 3 MarkenG - Eintragung der Lizenz im DPMA-Register (Dritt-Wirkung)
+- Paragraf 14 MarkenG - Ausschlussrecht (Verletzungen)
+- Paragraf 26 MarkenG - Benutzungspflicht (5 Jahre); Loeschung mangels Benutzung
+- Paragraf 33 ff. MarkenG - Anmeldung, Eintragung, Loeschung
 - UMV (EU) 2017/1001 - Unionsmarke EUIPO
 
 ## Lizenzformen
@@ -33,14 +33,14 @@ Anders als Patent/Urheberrecht ist die **Qualitaetskontrolle** bei Markenlizenz 
 - Klausel: Lizenzgeber hat **Mitspracherecht** bei Produktqualitaet, Verpackung, Werbung, Vertriebskanaelen.
 - Prüfintervall: jaehrlich; Prüfberichts-Aufnahme.
 
-## Benutzungspflicht $ 26 MarkenG
+## Benutzungspflicht Paragraf 26 MarkenG
 
-- Lizenznehmer-Benutzung gilt als Benutzung der Marke $ 26 Abs. 2 MarkenG.
+- Lizenznehmer-Benutzung gilt als Benutzung der Marke Paragraf 26 Abs. 2 MarkenG.
 - → Vertraglich Mindestbenutzung sichern, sonst Loeschungsantrag durch Dritte.
 
 ## Eintragung im DPMA-Register
 
-- $ 30 Abs. 3 MarkenG: Eintragung der Lizenz hat **deklaratorischen Charakter**, aber wichtige Dritt-Wirkung (Sukzessionsschutz).
+- Paragraf 30 Abs. 3 MarkenG: Eintragung der Lizenz hat **deklaratorischen Charakter**, aber wichtige Dritt-Wirkung (Sukzessionsschutz).
 - Antrag durch beide Parteien; Kosten regelmaessig Lizenznehmer.
 
 ## Klausel-Bausteine (DE)
@@ -55,7 +55,7 @@ Anders als Patent/Urheberrecht ist die **Qualitaetskontrolle** bei Markenlizenz 
 > "Der Lizenznehmer wird die Lizenzmarken bestimmungsgemaess und in markenrechtlich erforderlicher Weise nutzen. Bei dauerhafter Nichtbenutzung von mehr als drei zusammenhaengenden Jahren ist der Lizenzgeber zur ausserordentlichen Kuendigung berechtigt."
 
 **4. Eintragung:**
-> "Die Parteien beantragen die Eintragung der Lizenz im Markenregister nach $ 30 Abs. 3 MarkenG. Die Eintragungsgebuehren traegt der Lizenznehmer."
+> "Die Parteien beantragen die Eintragung der Lizenz im Markenregister nach Paragraf 30 Abs. 3 MarkenG. Die Eintragungsgebuehren traegt der Lizenznehmer."
 
 ## Anschluss
 

@@ -52,12 +52,12 @@
 
 | Strang | Skills (zwangsvollstreckung) | Status |
 | --- | --- | --- |
-| 01 Grundschuld - ZVG | zv-notarielle-urkunde-grundschuld -> zv-zvg-antrag-gläubiger | Antrag in Vorbereitung; Fälligkeit dinglich am 14.10.2026 |
-| 02 Kontopfändung Postbank / DKB | zv-titel-klausel-zustellung -> zv-pfueb-bank | PfUEB-Antrag entworfen, Zustellung GV |
-| 02 Lohnpfändung Geschäftsführer | zv-pfueb-arbeitsentgelt + zv-pfaendungstabelle-2025 | Berechnung erfolgt |
-| 03 Self-hosted Wallet (Ledger) | zv-mobiliar-gv-auftrag + zv-vermoegensauskunft-gv | Auftrag GV mit Schlüsselherausgabe |
+| 01 Grundschuld - ZVG | notarielle-urkunde-grundschuld -> zvg-antrag-glaeubiger | Antrag in Vorbereitung; Fälligkeit dinglich am 14.10.2026 |
+| 02 Kontopfändung Postbank / DKB | titel-klausel-zustellung -> pfueb-bank | PfÜB-Antrag entworfen, Zustellung durch Gerichtsvollzieher |
+| 02 Lohnpfändung Geschäftsführer | pfueb-arbeitsentgelt + pfaendungstabelle-pfueb-arbeitsentgelt | Berechnung erfolgt |
+| 03 Selbst verwahrte Wallet (Ledger) | mobiliar-gv-auftrag + vermoegensauskunft-gv | Gerichtsvollzieherauftrag mit konkretisiertem Zugriff auf Hardware und Zugangsdaten |
 | 03 Custodial Wallet (Bitpanda) | zv-pfueb-mieter-finanzamt (Forderungspfändung gegen Verwahrer) | EU-Auslandsbezug: EuKtPVO / oert. Zustellung |
-| 03 Reform-Stand | zv-elektronische-zustellung-2027 | Zustellung an Bitpanda elektronisch (eBO ab 1.10.2027 Pflicht) |
+| 03 Reformstand | elektronische-zustellung-eu | Elektronische Übermittlung an den Drittschuldner nach Übergangslage prüfen; sicherer Übermittlungsweg für Kreditinstitute ab 1. Juni 2027 |
 
 ## Tagesstand 25.5.2026
 
@@ -74,5 +74,5 @@
 | 5.6.2026 | Drittschuldnererklaerung Paragraf 840 ZPO Postbank / DKB |
 | 12.6.2026 | GV-Termin Mobiliarpfaendung Ledger |
 | 20.6.2026 | Drittschuldnererklaerung Bitpanda |
-| 1.9.2026 | Status Verkündung ZVollstrDigitG im BGBl prüfen (zv-elektronische-zustellung-2027) |
+| 1.9.2026 | Umsetzungsstand des elektronischen PfÜB-Antrags zum 1. Oktober 2026 prüfen (`elektronische-zustellung-eu`) |
 | 14.10.2026 | Fälligkeit dingliche Vollstreckung Paragraf 1193 BGB - ZVG-Antrag stellen |

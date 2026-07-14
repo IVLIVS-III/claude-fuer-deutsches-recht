@@ -51,11 +51,11 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 234 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 26217 — [Gesamtübersicht](./SKILLS.md) |
+| **Plugins** | 235 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 26226 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 301 zentral / 319 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v430.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v431.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -97,7 +97,7 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
-> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 234 Plugins, 26217 Skills und 301 zentrale Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
+> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 235 Plugins, 26226 Skills und 301 zentrale Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
 >
 > - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
 > - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
@@ -116,7 +116,7 @@ Du hast einen kleinen Claude-Plan (also keinen Max- oder Team-Tarif) und die Cow
 
 ### Variante A: Einzelnes Plugin als ZIP hochladen (empfohlen)
 
-Das ist der leichteste Weg. Du lädst nur das Plugin herunter, das du wirklich brauchst — nicht die kompletten 234 Plugins.
+Das ist der leichteste Weg. Du lädst nur das Plugin herunter, das du wirklich brauchst — nicht die kompletten 235 Plugins.
 
 - Öffne das [aktuelle Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) auf GitHub.
 - Scrolle bis zu den Anhängen (Assets) ganz unten am Release.
@@ -168,66 +168,51 @@ Das ist bequemer, wenn du viele Plugins gleichzeitig ausprobieren willst. Der Do
 
 Anwälte und andere Berufsgeheimnisträger müssen vor jeder produktiven Nutzung selbst prüfen, ob die konkrete Anbieter-, Hosting- und Datenflusskonstellation mit Mandatsgeheimnis, Berufsrecht und Datenschutz vereinbar ist. Dieses Repository bestätigt keinen Anbieter und ersetzt keine Prüfung von § 203 StGB, § 43e BRAO, Art. 28 DSGVO, Kapitel V DSGVO, TOMs, Löschkonzept, Audit-Rechten, Subunternehmern, Datenresidenz und vertraglicher Verschwiegenheit.
 
-Technisch gibt es zwei saubere Wege. Welche davon in deiner installierten Oberfläche verfügbar ist, hängt von der jeweiligen Claude-/Cowork-Version und vom Anbieter ab.
+Für kleine Kanzleien gibt es diese Anleitung zusätzlich als bearbeitbares ODT-Dokument zum direkten Herunterladen: <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/anbieterneutrale-schnittstelle-kanzlei.odt" download><code>anbieterneutrale-schnittstelle-kanzlei.odt</code></a>. Sie führt vom Anschlussmodell über Schlüsselverwaltung und Dummy-Test bis zum unterschriftsreifen Freigabevermerk.
 
-### Weg A — Claude Code im Terminal
+Technisch gibt es drei mögliche Wege. Welcher davon verfügbar ist, hängt von der installierten Arbeitsoberfläche, dem freigegebenen Anschlussmodell und der Dokumentation des Schnittstellenanbieters ab. Ein Eingabefeld oder eine bestimmte Menübezeichnung darf nicht vorausgesetzt werden.
 
-Für Claude Code ist die robuste Variante die Konfiguration über Umgebungsvariablen. Der Anbieter muss dafür eine Claude-/Anthropic-kompatible API bereitstellen und dokumentieren, welche Authentifizierung verwendet wird.
+### Weg A — dokumentierte Schnittstellenmaske in der Oberfläche
 
-1. Beim Anbieter Vertrag, AVV/TOMs, Verschwiegenheitszusagen und Subunternehmerliste prüfen und dokumentieren.
-2. API-Schlüssel erzeugen und nur im Passwort-Manager bzw. in der lokalen Shell-Konfiguration speichern. Keine Schlüssel ins Repo, in Testakten oder in Screenshots schreiben.
-3. Base URL, Auth-Schema und Modellnamen exakt aus der Anbieterdokumentation übernehmen.
-4. Auf dem Mac für die aktuelle grafische Sitzung setzen:
+Dieser Weg ist für eine kleine Kanzlei am einfachsten, setzt aber voraus, dass die installierte Cowork-Oberfläche einen eigenen Endpunkt oder ein verwaltetes Gateway ausdrücklich unterstützt.
 
-```
-launchctl setenv ANTHROPIC_BASE_URL https://api.<anbieter>.de/anthropic
-launchctl setenv ANTHROPIC_AUTH_TOKEN <Ihr-Schluessel>
-launchctl unsetenv ANTHROPIC_API_KEY
-```
+1. In der aktuellen Dokumentation der Oberfläche prüfen, ob ein eigener Endpunkt unterstützt wird.
+2. Beim Schnittstellenanbieter Vertrag, Auftragsverarbeitung, technische und organisatorische Maßnahmen, Verschwiegenheit, Datenstandorte und Unterauftragnehmer prüfen.
+3. Endpunktadresse, Authentifizierungsart und Modellkennung exakt aus der Anbieterdokumentation übernehmen.
+4. Den Schlüssel ausschließlich in das dafür vorgesehene geschützte Feld eintragen. Niemals in das Repository, eine Testakte, einen Prompt oder einen Bildschirmabzug schreiben.
+5. Ausgehende Zieladressen auf die erforderlichen Anbieter-Domains beschränken, wenn die Oberfläche dies ermöglicht.
+6. Oberfläche neu starten und zunächst nur einen harmlosen Satz mit erfundenen Daten senden.
+7. Im Anbieterprotokoll prüfen, ob Nutzer, Zeit, Modellkennung und Zielendpunkt stimmen.
 
-5. Terminal neu öffnen und mit einem harmlosen Testsatz prüfen. Im Anbieter-Dashboard muss der Aufruf erscheinen; im falschen Anbieter-/Anthropic-Konto darf er nicht auftauchen.
+Fehlt eine dokumentierte Schnittstellenmaske, wird nicht mit ähnlich klingenden Menüs experimentiert. Dann kommt Weg B oder Weg C in Betracht.
 
-Für reine Terminal-Nutzung reicht alternativ eine Shell-Datei außerhalb des Repos, z. B. `~/.zshrc.local` oder `direnv`, wenn eure IT das freigibt:
+### Weg B — verwaltetes Kanzlei-Gateway
 
-```
-export ANTHROPIC_BASE_URL="https://api.<anbieter>.de/anthropic"
-export ANTHROPIC_AUTH_TOKEN="<Ihr-Schluessel>"
-unset ANTHROPIC_API_KEY
-```
+Ein Gateway der Kanzlei oder ihres IT-Dienstleisters verwaltet den eigentlichen Anbieterschlüssel zentral. Die Arbeitsoberfläche erhält nur eine interne Endpunktadresse und einen widerrufbaren Kanzleizugang. Dieser Weg erleichtert Rechtevergabe, Kostenlimits, Protokollierung, Schlüsselwechsel und eine sofortige Sperre, benötigt aber eine dokumentierte technische Einrichtung.
 
-### Weg B — Claude Desktop / Cowork-Oberfläche
+Vor der Freigabe werden Datenfluss, Zertifikate, erlaubte Zieladressen, Zeitlimits, Protokollinhalt, Aufbewahrung und Notfallsperre getestet. Der Hauptschlüssel wird nicht auf einzelnen Arbeitsplätzen verteilt.
 
-Falls deine Cowork- oder Claude-Desktop-Version einen eigenen Gateway-/Third-Party-Inference-Dialog anbietet, gilt derselbe Prüfpfad:
+### Weg C — Markdown-Arbeitsablauf in einer anderen freigegebenen Oberfläche
 
-1. Anbieterunterlagen rechtlich und technisch prüfen.
-2. Base URL und API-Schlüssel aus dem Anbieter-Dashboard übernehmen.
-3. Auth-Schema nur so einstellen, wie der Anbieter es dokumentiert, typischerweise `x-api-key` oder `Authorization: Bearer`.
-4. Erlaubte ausgehende Hosts auf die Anbieter-Domain beschränken, wenn die Oberfläche ein solches Feld anbietet.
-5. Erst ein einzelnes kleines Plugin installieren, eine Demo-Akte öffnen und prüfen, ob die Anfrage im richtigen Anbieter-Log landet.
-6. Danach erst weitere Plugins oder den Marketplace hinzufügen; große Sammelpakete nur nutzen, wenn Speicherplatz, Netzwerk und Richtlinien geprüft sind.
-7. Mit Dummy-Daten testen und die Provider-Logs kontrollieren.
+Unterstützt die Cowork-Oberfläche keinen eigenen Endpunkt, lassen sich die Werkstatt- und Schnellstart-Prompts als Markdown-Dateien in einer anderen freigegebenen Arbeitsoberfläche verwenden. Dabei muss vorher geklärt werden, ob diese Oberfläche Dateien lesen, Arbeitsprodukte speichern und die im jeweiligen Workflow benötigten Werkzeuge ausführen kann. Ein reiner Textimport ersetzt solche Funktionen nicht.
 
-Wenn der Dialog in deiner Oberfläche nicht vorhanden ist oder anders heißt, nicht raten: dann Weg A nutzen oder die aktuelle Dokumentation der App/des Anbieters prüfen. Menübezeichnungen ändern sich schneller als dieses README.
+Für den Einstieg genügt ein einzelnes Plugin und eine kleine Akte mit vollständig erfundenen PDF-Dateien. Erst wenn Dateizugriff, Quellenanzeige, Ausgabeordner und Anbieterprotokoll stimmen, werden weitere Plugins oder der vollständige Marketplace freigegeben.
 
 ### Kontrollliste vor echtem Mandatsmaterial
 
 - Vertragliche Grundlage: AVV, TOMs, Verschwiegenheit, Unterauftragsverarbeiter, Audit-/Löschrechte.
 - Datenfluss: Region, Protokollierung, Trainings-/Retention-Regeln, Support-Zugriffe.
-- Technik: Base URL, Auth-Schema, Modellname, erlaubte Hosts, Provider-Logs.
-- Kanzlei-Governance: KI-Richtlinie, Mandatsfreigabe, Betriebsvereinbarung, Dokumentation in der Akte.
-- Test: nur Dummy-Daten, Provider-Logs geprüft, keine Schlüssel im Repo.
+- Technik: Endpunktadresse, Authentifizierung, Modellkennung, erlaubte Zieladressen und Anbieterprotokolle.
+- Kanzleiorganisation: Nutzungsrichtlinie, Mandatsfreigabe, Rollen, Betriebsvereinbarung und Dokumentation in der Akte.
+- Test: nur erfundene Daten, Anbieterprotokolle geprüft, keine Schlüssel im Repository.
 
 Die Anleitung ist bewusst anbieterneutral. Sie beschreibt nur den technischen Anschlussweg und die zu dokumentierenden Prüfpunkte, nicht die rechtliche Zulässigkeit eines bestimmten Setups.
 
-### Professioneller Betrieb über Gateway, Enterprise-Proxy oder andere KI-Umgebungen
+### Professioneller Betrieb über Gateway oder eine andere Arbeitsumgebung
 
-Die Skills in diesem Repository sind im Kern große, strukturierte Markdown-Workflows. Sie sind nicht magisch an eine einzige Oberfläche gebunden: Wer ein berufsrechts-, datenschutz- und organisationskonformes Setup hat, kann sie auch in anderen KI-Systemen, in internen Gateways, in Codex-/ChatGPT-Workspaces oder in eigenen RAG-/Agentenoberflächen ausprobieren. Entscheidend ist nicht der Dateiname, sondern ob die Umgebung Mandatsgeheimnis, Zugriffsrechte, Logging, Retention, Modelltraining, Subunternehmer, Datenresidenz und Export-/Auditpfade sauber beherrscht.
+Die Skills sind strukturierte Markdown-Arbeitsabläufe. Sie können in einer anderen freigegebenen Umgebung funktionieren, wenn diese die benötigten Datei-, Werkzeug- und Ausgabefunktionen bereitstellt. Entscheidend sind ein nachvollziehbarer Datenweg, klare Zugriffsrechte, kontrollierte Protokollierung und Aufbewahrung, dokumentierte Unterauftragnehmer, Datenresidenz sowie Export- und Prüfpfade.
 
-Für Claude Code beschreibt Anthropic offiziell Enterprise-Proxy, eigene Zertifikate, mTLS und Allowlisting sowie LLM-Gateway-Varianten mit `ANTHROPIC_BASE_URL`, `ANTHROPIC_BEDROCK_BASE_URL`, `ANTHROPIC_VERTEX_BASE_URL` oder vergleichbaren Provider-Konfigurationen. Für kommerzielle Claude-for-Work/API-Nutzung beschreibt Anthropic außerdem, dass Organisationen unter den kommerziellen Bedingungen die Kontrolle über Nutzer- und Organisationsdaten behalten und Anthropic nicht ohne Opt-in mit diesen Daten trainiert. Diese Aussagen ersetzen keine berufsrechtliche Prüfung, sind aber wichtige Prüfpunkte für die IT-/Compliance-Akte.
-
-Für Codex gilt entsprechend: OpenAI beschreibt Codex als ChatGPT-/Workspace-gebundene Agentenoberfläche mit Workspace-App-Kontrollen, RBAC/Permissions und Datenkontrollen. Wer diese Skills in Codex oder ChatGPT nutzt, muss insbesondere prüfen, welcher Plan, welche Workspace-Regeln, welche Trainingsdatenkontrollen und welche verbundenen Apps aktiv sind. Berufsrechtlich gilt weiter: erst Dummy-Daten, dann Freigabe durch Kanzlei-/Unternehmens-IT und Datenschutz, und erst danach überhaupt echte Fälle.
-
-Egal welches System verwendet wird: Der Mensch macht weiter Jura. Die Skills können strukturieren, nachfragen, routen, Textentwürfe bauen und Kontrolllisten führen; die rechtliche Verantwortung, Quellenprüfung, Einordnung von Rechtsprechung, Literatur, Normstand und Tatsachen bleibt beim Nutzer.
+Unabhängig von der Oberfläche bleibt die fachliche Verantwortung beim Nutzer. Normstand, Rechtsprechung, Tatsachen, Fristen, Berechnungen und die versandfertige Endfassung sind vor Verwendung zu prüfen.
 
 **Worum es hier geht.** Dieses Repository ist eine **technische Spielwiese**, die zeigt, was mit Claude Code und Plugin-Skills im Kontext deutschen Rechts überhaupt **technisch machbar** ist. Es geht **nicht** darum, eine produktiv einsetzbare, rechtskonforme Lösung anzubieten. Jeder einzelne Nutzer prüft selbst und in eigener Verantwortung, ob, wie und unter welchen Schutzmaßnahmen ein Einsatz im konkreten Mandat oder Berufsumfeld zulässig ist – inklusive Mandatsgeheimnis, Datenschutz, Zeugnisverweigerungsrecht und Beschlagnahmeschutz, unabhängig von der einschlägigen Rechtsordnung.
 
@@ -558,7 +543,7 @@ Wenn Nutzer auf dem Mac scheitern, liegt es häufig an der heruntergeladenen Dat
 - `alle-plugins-megazip.zip` ist nur ein Sammelarchiv. Es muss zuerst entpackt werden; anschließend die darin enthaltenen Plugin-ZIPs einzeln hochladen.
 - Nicht das GitHub-Repository-ZIP aus **Code → Download ZIP** verwenden. Das ist Quellcode, kein direkt installierbares Plugin-ZIP.
 - Bei iCloud-Desktop/Downloads die ZIP erst lokal vollständig laden. Im Zweifel nach `~/Downloads/claude-plugins/` verschieben und dann aus diesem lokalen Ordner auswählen.
-- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 234 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
+- Beim Cowork-Organisations-Upload müssen Plugin-ZIPs gültige ZIP-Dateien unter 50 MB sein; für alle 235 Plugins ist GitHub-Sync/Marketplace robuster als manueller Einzelupload.
 - Technischer Check im Terminal:
 
 ```bash
@@ -620,7 +605,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 
 ### Querschnittliche Werkzeuge
 
-- **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `status-navigator-step-plan`, `memorandums-ersteller`, `tabellenreview-3d`
+- **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `schriftsatz-versandwerkstatt` (fokussierte PDF-, Anlagen-, Signatur- und beA-Endfertigung mit neun Skills), `status-navigator-step-plan`, `memorandums-ersteller`, `tabellenreview-3d`
 - **Kanzleibetrieb** – `kanzlei-allgemein`, `kanzlei-builder-hub`, `kanzlei-mandant-lifecycle`, `rechtsberatungsstelle`, `verlagsredaktion`
 - **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `rechtstheorie-rechtsphilosophie`, `preussisches-allgemeines-landrecht-pralr`, `zitierweise-deutsches-recht`, `einfache-leichte-sprache-jura`
 - **Drafting & Sprache** – `word-legal-ai-plugin-and-skill-for-german-lawyers` (39 Skills: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Klauselbibliothek, Defensive Drafting, Entwurfscheck/Red Team, Term Sheet, DE-EN Bilingual, US/UK Legal Writing, englische Verträge nach deutschem Recht), `juristische-sprache-deutsch-als-zweitsprache` (Juristendeutsch, Bescheide, Fristen und Formulare für Nichtmuttersprachler)

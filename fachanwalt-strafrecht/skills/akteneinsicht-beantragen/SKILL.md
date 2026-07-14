@@ -93,7 +93,7 @@ Mit kollegialen Gruessen
 ## Aktuelle Rechtsprechung Akteneinsicht (Stand Mai 2026)
 
 - BVerfG-Linie zur Akteneinsicht in Haftsachen: bei Untersuchungshaft sind alle haftrelevanten Aktenteile zugaenglich zu machen, sonst Verstoss gegen Art. 103 Abs. 1 GG (siehe BVerfG 04.10.2017 — 2 BvR 1198/17 und Fortgeltung). Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/147/1.html
-- BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM): Bei ANOM-Datensaetzen ist die Verteidigung auf Akteneinsicht in die Auswertungs- und Authentifizierungsprotokolle angewiesen; Aktualisierungen vor Ausgabe live in bverfg.de prüfen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
+- BVerfG, Beschluss vom 23.09.2025 — 2 BvR 625/25 (ANOM): Die Verfassungsbeschwerde wurde nicht zur Entscheidung angenommen. Nach dem dortigen Vortrag begegnete die Verwertung der aus den USA übermittelten ANOM-Daten keinen verfassungsrechtlichen Bedenken. Die Entscheidung begründet kein allgemeines Recht auf Auswertungs- oder Authentifizierungsprotokolle; ein konkretes Einsichts- oder Beweisantragsbegehren ist daher aus Aktenbestand, Paragraf 147 StPO, Aufklärungspflicht und behauptetem Verwertungsmangel herzuleiten. Amtliche Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html
 - Hinweis: Eine spezifische BGH-Leitentscheidung 2025/2026 zu § 147 StPO ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 147 StPO Akteneinsicht" durchführen.
 
 ## Normen Akteneinsicht
