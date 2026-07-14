@@ -36,10 +36,6 @@ Wer ein Gerichtsverfahren schnell erfassen muss — sei es beim Mandatswechsel, 
 - § 91a ZPO — Kosten bei Erledigterklärung
 - § 139 ZPO — Materielle Prozessleitung, richterliche Hinweispflicht
 
-## Aktuelle Rechtsprechung zum Aktenauszug und Verfahrensrecht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Voraussetzungen
 
 - Gerichtliche Akte oder wesentliche Teile davon (PDF, Word, maschinenlesbar)
@@ -195,3 +191,5 @@ Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturierte
 ## Quellenkontrolle
 
 Ein Aktenauszug übernimmt Rechtsprechung nicht als bloße Aktenzeichenliste. Jede Entscheidung wird mit Gericht, Datum, Aktenzeichen, Fundstelle, Streitfrage, tragender Aussage und prozessualer Bedeutung erfasst. Akteneinsicht und Aktenzugang richten sich nach dem konkreten Verfahren, insbesondere Paragraf 299 ZPO, Paragraf 147 StPO, Paragraf 100 VwGO, Paragraf 120 SGG oder Paragraf 13 FamFG; Normen verschiedener Rechtswege nicht vermischen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

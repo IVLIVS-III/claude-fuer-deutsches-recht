@@ -119,10 +119,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 6 I DSGVO** — Rechtsgrundlage für Aufnahme und Verarbeitung von Expert-Call-Gespraechen
 - **§ 201 StGB** — Verletzung der Vertraulichkeit des Wortes; Aufnahme ohne Einwilligung verboten in Deutschland
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Expert-Call-Compliance-Protokoll
 
 Vor dem Call:
@@ -188,5 +184,6 @@ INSIDER-COMPLIANCE-CHECK:
 ## Quellen
 
 - Art. 14, 15 MAR; § 17 UWG; § 201 StGB; Art. 6 DSGVO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ohly/Sosnitza UWG § 17; Assmann/Schneider/Muelbert WpHG Art. 14 MAR
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

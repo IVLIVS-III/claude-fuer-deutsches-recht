@@ -21,10 +21,8 @@ description: "Wenn es um Aufklärungsfehler in Fachanwalt Medizinrecht geht: pr�
 - Aufklärungspflicht § 630e Abs. 1 BGB — über sämtliche für die Einwilligung wesentlichen Umstände, insbesondere Art, Umfang, Durchführung, zu erwartende Folgen, Risiken, Notwendigkeit, Dringlichkeit, Eignung, Erfolgsaussichten der Maßnahme und Alternativen.
 - Form § 630e Abs. 2 BGB — mündlich, persönlich durch den Behandelnden oder eine Person mit notwendiger Ausbildung, rechtzeitig vor dem Eingriff so dass Patient wohlüberlegt entscheiden kann. Schriftliche Bögen ergänzen aber ersetzen Gespräch nicht.
 - Rechtzeitigkeit — bei stationären Operationen Vortag oder davor; bei ambulanten Eingriffen zumindest am Tag selbst aber vor Beginn der Vorbereitung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Selbstbestimmungsaufklärung: ihre Verletzung führt zur Rechtswidrigkeit der Behandlung und damit Haftung für jeden eingetretenen Schaden (§§ 823 Abs. 1, 280 BGB).
 - Beweislast § 630h Abs. 2 BGB — Behandelnder muss Aufklärung und wirksame Einwilligung darlegen und beweisen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mutmaßliche Einwilligung § 630d Abs. 1 Satz 4 BGB: bei Notfall und fehlender Einwilligungsfähigkeit nach dem mutmaßlichen Willen handeln.
 
 ### BGH-Rechtsprechung (Stand Mai 2026)

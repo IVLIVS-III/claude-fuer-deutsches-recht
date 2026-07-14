@@ -76,12 +76,7 @@ Profil wird geschrieben. Empfohlene nächste Skills:
 - **VO (EG) Nr. 261/2004** — Fluggastrechteverordnung des Europaeischen Parlaments und des Rates.
 - **EuGH-Rechtsprechung** — Auslegungsmaßstab für alle Mitgliedstaaten.
 - **BGB §§ 631 ff.** — Reisevertrag bei Pauschalreisen ergänzend.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verjährung** drei Jahre § 195 BGB (Ende Kalenderjahr Kenntnis § 199 Abs. 1 BGB).
-
-## Leitentscheidungen Kaltstart / Eingangsinterview
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hinweise
 
@@ -96,3 +91,5 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -77,10 +77,6 @@ Bei Bankpfändungen ab dem 1.6.2027 zusätzlich prüfen, ob die Zustellung an da
 - **Klausel zwar erteilt, aber nicht zugestellt** – die qualifizierte Klausel mit den Bedingungs-Beweisurkunden muss dem Schuldner ebenfalls zugestellt werden § 750 Abs. 2 ZPO.
 - **Sicherheitsleistung** bei vorläufig vollstreckbarem Urteil – muss erbracht und nachgewiesen sein, sonst nur Sicherungsmaßnahmen § 720a ZPO.
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ausgabeformat
 
 ```

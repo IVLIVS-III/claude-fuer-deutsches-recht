@@ -51,7 +51,6 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 - **Sprache:** Welche Sprachen spricht der Mandant? Dolmetscher notwendig?
 - **Dringlichkeit:** Abschiebung angekündigt? Ankündigungsschreiben der Ausländerbehörde?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### SGB II / Bürgergeld
 - **Bescheid:** Art des Bescheids (Bewilligung, Änderung, Ablehnung, Sanktion) und Datum der Bekanntgabe → **Widerspruchsfrist: 1 Monat ab Bekanntgabe (§ 84 SGG)**.
@@ -62,7 +61,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Vorherige Rechtsmittel:** Frühere Widersprüche oder Klagen?
 - **Dringlichkeit:** Droht Obdachlosigkeit? Einstweiliger Rechtsschutz (§ 86b SGG) nötig?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Mietrecht
 - **Mietverhältnis:** Privat, sozial gefördert (WoBindG), Genossenschaft?
@@ -70,7 +68,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Dokumente:** Mietvertrag, Kündigungsschreiben, Mieterhöhungsverlangen, Mietspiegel vorhanden?
 - **Fristen:** Datum des Kündigungsschreibens / Mieterhöhungsverlangens? Gerichtstermin?
 - **Mietspiegel:** Liegt ein qualifizierter Mietspiegel i. S. v. § 558d BGB vor? (Berlin: Berliner Mietspiegel 2023/2024)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sozialklausel:** § 574 BGB – Widerspruch des Mieters gegen Kündigung? Härtegründe?
 - **Dringlichkeit:** Räumungsklage anhängig? Vollstreckungsankündigung?
 
@@ -95,6 +92,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | **Weitervermittlung** | Außerhalb RDG-Erlaubnis; Interessenkonflikt; zu komplex für Beratungsstelle | Verweis auf RAK-Vermittlung, Pro Bono Berlin/Bremen, VB-Zentrale |
 | **Schuldnerberatung** | Überschuldung als Hauptthema | An anerkannte Schuldnerberatungsstelle (§ 305 Abs. 1 Nr. 1 InsO) verweisen |
 
+```markdown
 ## Fallprotokoll [Datum]
 
 **Mandantenkennung:** [anonymisiert – z. B. M-2024-17]
@@ -131,3 +129,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Sprachbarriere nicht dokumentiert:** Wenn der Mandant die Erläuterungen nicht verstanden hat, ist die Aufklärungspflicht nicht erfüllt.
 - **Falsche Rechtsbereichszuordnung:** Asylmandat schlägt fast immer auf SGB II durch (§ 7 Abs. 1 Satz 2 SGB II: Leistungsausschluss für bestimmte Ausländer – prüfen!).
 - **Entgeltlichkeit:** Kein Entgelt entgegennehmen – auch kein "freiwilliges Geschenk". Verletzt § 6 Abs. 2 Nr. 2 RDG (Unentgeltlichkeitspflicht) und ist bußgeldbewehrt (§ 20 RDG).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

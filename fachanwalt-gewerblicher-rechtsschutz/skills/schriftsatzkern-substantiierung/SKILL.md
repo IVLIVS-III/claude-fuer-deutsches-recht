@@ -82,10 +82,6 @@ DesignG:
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 
-## Zentrale Rechtsprechung für Substantiierung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -200,3 +196,5 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 - `erstgespraech-mandatsannahme` — Tatsachen-Grundlage und Streitwertskizze
 - `vergleichsverhandlung-strategie` — paralleler Vergleichsversuch
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-spezifische Bausteine
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -31,9 +31,6 @@ description: "Wenn es um Mandant hat Sozialleistungsbescheid erhalten und Anwalt
 4. Bei bestandskräftigem Bescheid: Überprüfungsantrag § 44 SGB X möglich (4 Jahre rückwirkend)?
 5. Folgeantrag oder Widerspruch? Einige Leistungen müssen neu beantragt werden.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kaltstart-Rückfragen
 
 1. Welche Behörde hat den Bescheid erlassen (Jobcenter, Deutsche Rentenversicherung, Krankenkasse, Versorgungsamt, Pflegekasse, Sozialamt)?
@@ -365,6 +362,7 @@ Bei Bescheiden über Aufhebung, Rückforderung oder Sanktion: Widerspruch hat ke
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

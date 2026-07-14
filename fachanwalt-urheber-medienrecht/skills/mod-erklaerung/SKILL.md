@@ -57,7 +57,6 @@ Die modifizierte Unterlassungserklärung ist das präzise Instrument zur Beseiti
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -198,7 +197,6 @@ der Unterlassung ausreicht.
 ```
 AN DAS LANDGERICHT [...]
 (= Gerichtsstand am Wohnsitz des Abgemahnten nach § 256 ZPO i.V.m.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kläger: [Mandant, Anschrift]
 Beklagte: [Abmahnerin, Anschrift]
@@ -217,7 +215,6 @@ I. Zulässigkeit, § 256 ZPO:
 Die Beklagte hat den Kläger mit Schreiben vom [Datum] abgemahnt
 und konkrete Ansprüche geltend gemacht. Das rechtliche Interesse
 des Klägers an der Feststellung des Nichtbestehens dieser
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 II. Begründetheit:
 [Werkqualität verneint / Aktivlegitimation fehlt / Schranken
@@ -283,7 +280,6 @@ des Klägers nachweisbar]
 |---|---|
 | Verletzung klar, Abmahner hat starke Position | Modifizierte UE abgeben; Hamburgeer Brauch nutzen; Schadensersatz und Kosten separat verhandeln |
 | Verletzung zweifelhaft, Aktivlegitimation unklar | Abmahnung zurückweisen; Belege anfordern; negative Feststellungsklage bei Weiterverfolgen |
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Mehrfachverletzungen in Vergangenheit | Höheres Vertragsstrafenrisiko; sorgfältige Reichweitenbegrenzung der UE wichtig |
 | Schutzschrift sinnvoll | Sobald EV-Antrag erwartet wird; bei großen Kanzleien mit bekanntem EV-Muster |
 
@@ -298,10 +294,6 @@ des Klägers nachweisbar]
 
 ---
 
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage-Fragen bei Mod-Erklaerung
 
 Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
@@ -312,8 +304,4 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

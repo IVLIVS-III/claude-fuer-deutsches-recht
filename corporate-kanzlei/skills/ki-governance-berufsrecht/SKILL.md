@@ -131,7 +131,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - CCBE/BRAK Stellungnahme 2023 — Berufsrechtliche Hinweise zu KI in Kanzleien: Mandanteninformation empfohlen; keine Verarbeitung mandatsrelevanter Daten ohne Einwilligung in Drittland-KI-Dienste
 
 ## KI-Risikoklassen (EU-KI-VO): Relevanz für Kanzleien
@@ -222,5 +221,6 @@ FAZIT: KI-Ergebnisse wurden angemessen geprueft; Eigenverantwortung des Anwalts 
 ## Quellen
 
 - § 43a BRAO; Art. 6, 9, 28 DSGVO; EU-KI-VO (EU) 2024/1689; § 93 AktG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

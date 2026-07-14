@@ -26,7 +26,6 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
 
 - **Art. 3 I lit. f DurchfVO (EU) 2018/626 zur UMV:** Positionsmarke als anerkannte Markenart
 - **§ 3 I MarkenG:** Positionsmarke unter "andere Aufmachungen" markenfähig
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bottega Veneta Intrecciato:** EUIPO R 2592/2011-4 — Webmuster-Positionsmarke für Lederhandtaschen, Verkehrsdurchsetzung nachgewiesen
 - **Burberry-Karo:** Eingetragene Marke für charakteristisches Karomuster in Beige/Schwarz/Rot — Unterscheidungskraft durch Verkehrsdurchsetzung
 
@@ -51,7 +50,6 @@ Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018
  - Marktanteil: mind. 40 % der beteiligten Verkehrskreise erkennen das Zeichen als Herkunftshinweis
  - Werbeaufwand letzte 5 Jahre (Euro-Beträge)
  - Medienberichte, Fachpresse, Social Media
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  - Umsatzzahlen
 
 5. **Warenverzeichnis:** Präzise Warenbeschreibung, da Positionsmarke an konkrete Produktkategorie gebunden
@@ -120,8 +118,8 @@ Bevor die Anmeldung eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato):** Ein charakteristisches Flechtmuster auf Lederhandtaschen kann als eingetragene Positionsmarke geschuetzt werden, wenn durch Verkehrsdurchsetzung belegt ist, dass der angesprochene Verkehr das Muster als Herkunftshinweis auf den Hersteller versteht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

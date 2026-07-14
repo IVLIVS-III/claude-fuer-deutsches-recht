@@ -21,7 +21,6 @@ description: "Wenn es um Düngerechtliche Ordnungswidrigkeit in Fachanwalt Agrar
 - Ausbringungsobergrenzen 170 kg N/ha pro Jahr aus organischem Dünger § 6 Abs. 4 DüV.
 - Stoffstrombilanz § 11a DüG — Pflicht je nach Betriebsgröße/Tierhaltung.
 - Rote Gebiete § 13a DüV — verschärfte Auflagen (20% reduzierte N-Obergrenze, längere Sperrfristen).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Verfahrensrecht OWiG: Anhörung § 55 OWiG, Bußgeldbescheid § 65 OWiG, Einspruch § 67 OWiG.
 - Verjährung § 31 OWiG: Ordnungswidrigkeiten bei Geldbußen über 15.000 EUR drei Jahre; sonst zwei Jahre.
 
@@ -101,14 +100,6 @@ Mit freundlichen Gruessen
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 14 DüV (Bußgeldtatbestände — Liste der Verstöße) → § 13a DüV (Rote Gebiete: 20%-Reduktion, verlängerte Sperrfristen) → § 11 DüG (Aufzeichnungspflicht) → § 11a DüG (Stoffstrombilanz) → § 31 OWiG (Verjährung: 3 Jahre bei Bußgeld über 15.000 EUR, 2 Jahre darunter) → § 17 OWiG (Zumessung, Verhältnismäßigkeit) → § 49 OWiG (Akteneinsicht)
@@ -116,3 +107,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

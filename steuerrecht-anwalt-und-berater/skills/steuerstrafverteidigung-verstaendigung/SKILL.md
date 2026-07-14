@@ -33,7 +33,6 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 
 **§ 370 AO** — Steuerhinterziehung; Strafrahmen bis 5 Jahre, besonders schwerer Fall § 370 Abs. 3 AO bis 10 Jahre.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 378 AO** — Leichtfertige Steuerverkürzung; Ordnungswidrigkeit mit Geldbuße.
 
@@ -289,5 +288,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - AO §§ 162, 222, 370, 371, 376, 378, 393, 397, 398a
 - StPO §§ 147, 153a, 257c, 304, 407, 410
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Joecks/Jaeger/Randt, Steuerstrafrecht, 8. Aufl. 2015, § 393 Rn. 81 ff.

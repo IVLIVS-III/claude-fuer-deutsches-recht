@@ -86,10 +86,6 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 - **Paragrafen 195, 199 BGB** — Regelverjährung drei Jahre; Mandant über Verwirkungsrisiko aufklären
 - **Paragraf 242 BGB** — Verwirkung bei jahrelanger Untätigkeit; sofortige Mandatsannahme empfohlen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Erstgesprächs-Einstieg
 
 1. Wann wurde das Zeugnis ausgestellt und wann übergeben?
@@ -97,3 +93,5 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 3. Welche Unterlagen hat der Mandant bereits mitgebracht?
 4. Welches Ziel hat der Mandant konkret? (Gesamtnote verbessern / einzelne Passagen / Schlussformel)
 5. Steht ein Vorstellungsgespräch an? → Eilbedürftigkeit prüfen!
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

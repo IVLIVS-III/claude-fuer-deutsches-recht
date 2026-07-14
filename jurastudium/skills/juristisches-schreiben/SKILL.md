@@ -32,7 +32,6 @@ Wissenschaftlicher juristischer Stil folgt Konventionen, die in Stil- und Method
 - Wissenschaftliche Schreibweise gemäß Hinweisen der Deutschen Vereinigung für Internationales Recht (DVIR) und Zeitschriftenrichtlinien JuS/NJW
 
 **Leitentscheidungen für Zitiergenauigkeit:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare und Formatnachweise:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -151,3 +150,5 @@ Nach 3+ Sitzungen: Wiederkehrende Schwächen benennen:
 Zitierhinweise in diesem Feedback folgen den gängigen deutschen Zitierkonventionen (Byrd/Lehmann, Zitierfibel für Juristen, 3. Aufl. 2022). Inhaltliche Angaben zu Rechtsnormen und Rechtsprechung sind mit `[PRÜFEN]` markiert, wenn keine Quellenverifikation möglich ist. Vor Einreichung alle Nachweise gegen aktuelle Quellen abgleichen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

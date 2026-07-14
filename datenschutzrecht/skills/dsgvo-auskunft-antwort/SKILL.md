@@ -72,7 +72,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 21 DSGVO (Widerspruch)
 - Art. 77 DSGVO (Beschwerderecht Aufsichtsbehörde)
 - §§ 34, 35 BDSG (Auskunfts- und Löscheinschränkungen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kamlah, in: Plath, DSGVO/BDSG, 3. Aufl. 2021, Art. 15 Rn. 1 ff.
 - Dix, in: Simitis/Hornung/Spiecker, Datenschutzrecht, 1. Aufl. 2019, Art. 15 Rn. 1 ff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -85,7 +84,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 
 **Identität:** E-Mail-Adresse allein reicht bei reinen Newsletter-Abonnenten aus, wenn keine weiteren personenbezogenen Daten verarbeitet werden. Vgl. EDSA-Leitlinien 01/2022, Abschn. 3.2: Verhältnismäßigkeit der Verifikation.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Ausnahmen:** § 34 BDSG: keine einschlägigen Tatbestände. Art. 17 Abs. 3 DSGVO: nicht relevant (kein Löschantrag). Keine weiteren Ausnahmen erkennbar.
 
@@ -99,13 +97,10 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Übermäßige Identitätshürde:** Passverlangen ohne Anlass verletzt Art. 12 Abs. 6 DSGVO; EDSA warnt vor übermäßiger Identifizierung als faktischem Abwehrmittel.
 - **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung "wegen Geschäftsgeheimnisse" ist nicht ausreichend.
 - **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein "strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtliche Grundlage
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als "exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
 
@@ -132,7 +127,6 @@ Beide Stufen müssen kumulativ dokumentiert sein, bevor eine Ablehnung erfolgt:
 > 1. [Objektives Element – z.B.: Ihre Anmeldung für unseren Newsletter erfolgte am [DATUM], d.h. [N] Tage vor Eingang Ihres Auskunftsantrags, ohne erkennbares Informationsinteresse.]
 > 2. [Subjektives Element – z.B.: Ihr Schreiben enthält bereits bei Antragstellung die Ankündigung von Schadensersatzforderungen nach Art. 82 DSGVO, was in der Gesamtschau auf eine instrumentalisierende Nutzung des Auskunftsrechts hindeutet.]
 >
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 >
 > Sie haben das Recht, gegen diese Entscheidung Beschwerde bei [zuständige Aufsichtsbehörde] gemäß Art. 77 DSGVO oder Klage gemäß Art. 79 DSGVO zu erheben.
 
@@ -171,22 +165,6 @@ Verantwortlich (DSB-Freigabe): [Name, Datum]
 ### Querverweise
 
 - `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` — Abschnitt "Rechtsmissbrauch" mit vollständigem Prüfschema und Indizien-Checkliste
-
-## Ergänzende Rechtsprechung (Aktualitäten)
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellen / Updates
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Aktuelle Rechtsprechung (v14.2 — Ergaenzung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 
@@ -237,3 +215,5 @@ Mit freundlichen Grüßen
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -21,6 +21,7 @@ description: "Wenn es um Fundstellenglattzieher / Zitatenkorrektor in Kanzlei-Bu
 4. Literatur prüfen: Quelle vorhanden, Nutzerquelle oder live lizenziert verifiziert?
 5. Alles Unsichere markieren, nicht ergänzen.
 
+```markdown
 ## Marker
 
 | Fall | Marker |

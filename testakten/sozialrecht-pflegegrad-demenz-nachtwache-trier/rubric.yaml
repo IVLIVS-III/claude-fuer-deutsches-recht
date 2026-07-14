@@ -1,4 +1,5 @@
 name: sozialrecht-pflegegrad-demenz-nachtwache-trier
+plugin: "fachanwalt-sozialrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte sozialrecht-pflegegrad-demenz-nachtwache-trier.
 checks:
   - id: datei-01-antrag-hoherstufung-pflegegrad-2026-05-18

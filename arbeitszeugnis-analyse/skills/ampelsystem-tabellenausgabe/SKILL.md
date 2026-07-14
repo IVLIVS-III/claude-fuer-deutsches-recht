@@ -49,10 +49,6 @@ description: "Wenn es um Ampelsystem-Tabellenausgabe in Arbeitszeugnis-Analyse g
 - **Paragraf 109 GewO** — Anspruch auf qualifiziertes Zeugnis; Wohlwollensgebot und Wahrheitspflicht
 - **Paragraf 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich formuliert sein; Codierungen, die Fortkommen erschweren, verstoßen gegen Wohlwollensgebot
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Tabellenausgabe klären
 
 1. Welche Analyse-Skills wurden bereits ausgeführt? (Leistungsbeurteilung, Verhaltensbeurteilung, Schlussformel)
@@ -74,3 +70,5 @@ Regeln:
 2. In reiner ASCII-Umgebung ersatzweise `[ROT]`, `[ORANGE]`, `[GRUEN]` in Grossbuchstaben.
 3. Im **Hauptbefund** zusaetzlich eine Ampel-Bilanz-Zeile ausgeben: `Ampel-Bilanz: 🔴 4 · 🟠 3 · 🟢 5`.
 4. Mischbefunde als Doppelsymbol: 🟢🟠.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

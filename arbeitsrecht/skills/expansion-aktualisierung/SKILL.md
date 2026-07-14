@@ -47,15 +47,12 @@ description: "Wenn es um Expansion Aktualisierung in Arbeitsrecht geht: prüft F
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsfolgen fehlender AÜG-Erlaubnis; Entstehung eines Arbeitsverhältnisses
  zum Entleiher kraft Gesetzes — Relevanz, wenn EOR ohne korrekte AÜG-Struktur
  fortgeführt wird
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Interessenausgleich und Sozialplan bei Betriebsänderungen infolge
  Auslandsexpansion — zu beachten, wenn durch den Aufbau im Ausland
  inländische Strukturen betroffen werden
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Gesamtbetrachtung bei der Statusfeststellung nach Paragraf 7a SGB IV
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -167,6 +164,7 @@ Bei AÜG-relevanten Warnungen zitieren:
 - Paragraf 1 Abs. 1b AÜG (Höchstüberlassungsdauer)
 - Paragraf 8 AÜG (Equal-Pay-Gebot)
 - Paragraf 10 Abs. 1 AÜG (Fiktion des Arbeitsverhältnisses)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

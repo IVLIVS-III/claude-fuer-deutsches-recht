@@ -29,10 +29,6 @@ description: "Wenn es um Generalklauseln prüfen in Subsumtions-Prüfer geht: or
 - Art. 20 Abs. 3 GG — Verhältnismäßigkeitsgrundsatz im öffentlichen Recht
 - Art. 5 Abs. 4 EUV — Verhältnismäßigkeit auf EU-Ebene
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wichtige Generalklauseln
 
 ### § 242 BGB — Treu und Glauben
@@ -60,7 +56,6 @@ Zeitmoment: Ungewöhnlich lange Nichtausübung?
 
 **Fallgruppen:**
 - Wucherische Rechtsgeschäfte (§ 138 Abs. 2 BGB): Ausbeutung einer Zwangslage, Leichtsinn oder Unerfahrenheit
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bürgschaftsverträge von einkommensschwachen Angehörigen (BGH ständige Rechtsprechung)
 - Knebelungsverträge, Schmiergeldabreden
 
@@ -88,3 +83,5 @@ Das System gibt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

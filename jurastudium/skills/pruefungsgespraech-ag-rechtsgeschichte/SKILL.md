@@ -24,7 +24,6 @@ description: "Wenn es um Prüfungsgespräch nach AG-Tradition in Jurastudium geh
 Das Frage-Antwort-Gespräch orientiert sich an Examensrelevanz und kanonischer Auslegung. Maßgebliche Quellen für Frage-Formulierung und Korrektheit der Kontrollantworten:
 
 **Rechtsprechung:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Quellenregel für Kontrollantworten:**
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -114,3 +113,5 @@ Falls der Studenten § 812 nennt, aber nicht die Alternative spezifiziert: "§ 8
 Kontrollantworten, die dieser Skill intern verwendet, um Antworten des Studentenn zu beurteilen, basieren auf gefestigter Literatur und Rechtsprechung (s. Rechtlicher Rahmen). Wenn ein Themengebiet nicht sicher abgedeckt werden kann, wird nur die Struktur (Frage / Nachfrage) angeboten — kein inhaltlicher Pushback aus unsicherer Quelle.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

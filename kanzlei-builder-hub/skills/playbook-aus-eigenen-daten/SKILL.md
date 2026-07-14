@@ -39,13 +39,10 @@ Pflichtangabe der Nutzerin / des Nutzers:
  Arbeitsorganisation; Abwägung gegen schutzwürdige Mandanteninteressen.
 - **Art. 32 DSGVO** — technische und organisatorische Maßnahmen
  (Zugriffsbeschränkung, Pseudonymisierung).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Schutz des Vertrauensverhältnisses zwischen Anwalt und Mandant
  (Vertraulichkeit auch gegenüber technischen Hilfsmitteln).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Anforderungen an Anonymisierung in juristischen Veröffentlichungen,
  übertragbar auf interne Mustergenerierung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Auskunftsrecht nach Art. 15 DSGVO umfasst keine Geschäftsgeheimnisse
  (anwendbar bei Mandantenauskunftsersuchen zu intern abgeleiteten
  Spielbüchern).
@@ -186,3 +183,5 @@ Mandatsworkspace ein Eintrag mit Spielbuch-Version und Treffer-Score.
 Rechtsprechung und Kommentarstellen aus dem Spielbuch werden im
 neuen Mandat auf Aktualität gegengeprüft (mindestens BGH/BAG/BFH der
 letzten 24 Monate).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

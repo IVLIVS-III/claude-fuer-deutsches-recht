@@ -52,10 +52,6 @@ Geschlechtergerechte Sprache. Bei Personenbezeichnungen entweder:
 
 Inkonsistenz vermeiden - eine Formel je Gesetz.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 43-46 HdR (einheitliche Begriffsverwendung, Terminologie-Gebot) — Art. 20 Abs. 3 GG (Bestimmtheitsgebot, Normenklarheit) — § 288 AEUV (EU-Richtlinie verlangt einheitliche terminologische Umsetzung) — §§ 1-5 DIN 1422 (Norm Terminologie-Konsistenz in Rechtstexten)
@@ -75,3 +71,5 @@ Begriffstabelle als Anhang zum Entwurf. Kritische Fälle (Bruchbildung) markiert
 ## Anschluss
 
 `zirkelschluss-pruefen`, dann `referentenentwurf-bauen`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

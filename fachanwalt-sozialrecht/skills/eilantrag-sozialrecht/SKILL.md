@@ -26,8 +26,6 @@ description: "Wenn es um Eilantrag Sozialrecht in Fachanwalt Sozialrecht geht: e
 
 ## Aktuelle Rechtsprechung
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Anwendungsfälle
 
@@ -95,3 +93,5 @@ description: "Wenn es um Eilantrag Sozialrecht in Fachanwalt Sozialrecht geht: e
 ## Sonderregel existenzsichernde Leistungen
 
 Bei drohendem Wegfall von Bürgergeld oder Asylbewerberleistungen: das BVerfG hat wiederholt entschieden dass das Eilverfahren in diesen Fällen Grundrechtsverwirklichung des Art. 1 Abs. 1 GG iVm Art. 20 Abs. 1 GG dient (Existenzminimum). Die Anforderungen an die Glaubhaftmachung sind reduziert; das SG darf Leistungen vorläufig zusprechen wenn ohne sie das Existenzminimum nicht gesichert ist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

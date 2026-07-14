@@ -53,10 +53,6 @@ KUG / Persoenlichkeitsrecht:
 Presserecht:
 LPG § 11 BlnPrG / § 10 LPG NRW (Gegendarstellung) → §§ 935, 940 ZPO (Einstweilige Verfuegung)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Aufbauschema Schriftsatz
 
 ### A. Rubrum
@@ -182,3 +178,5 @@ Anlage K2: MFM-Honorarempfehlungen
 - `urheber-abmahnung-pruefen` — vollstaendige Abmahnung-Prüfung
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Lizenzverhandlung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

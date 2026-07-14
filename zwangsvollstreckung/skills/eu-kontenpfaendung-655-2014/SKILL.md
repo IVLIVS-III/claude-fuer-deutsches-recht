@@ -24,10 +24,6 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 3. Besteht Sicherungsbedürfnis — droht der Schuldner Vermögen zu verbringen?
 4. Ist die Forderung bezifferbar und fällig?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - Verordnung (EU) Nr. 655/2014 (EuKtPVO), in Kraft seit 18.01.2017
@@ -143,9 +139,7 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 
 ## Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schlussanträge GA Szpunar v. 29.7.2019 in C-555/18
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Praxis 2026
 
@@ -156,3 +150,5 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 ## Quellen und Updates
 
 Stand: 05/2026. VO (EU) 655/2014 in Kraft seit 18.1.2017. Durchführungsverordnung (EU) 2016/1823 für Formblätter. §§ 946–959 ZPO als DurchführungsRecht. Bei Reform / DAC9-Erweiterung aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

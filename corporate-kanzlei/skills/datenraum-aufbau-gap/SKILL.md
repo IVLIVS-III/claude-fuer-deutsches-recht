@@ -128,10 +128,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 18 MAR / § 13 WpHG** — Insider-Liste; Zugriff auf borsenrelevante Informationen protokollieren
 - **§ 17 UWG** — Geschäftsgeheimnis; Schutz vor unbefugter Offenlegung; Need-to-know
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Standard-Datenraum-Index: Corporate M&A
 
 ```
@@ -251,5 +247,6 @@ Separate NDA unterzeichnet: [Ja]
 ## Quellen
 
 - Art. 5, 25, 28 DSGVO; Art. 18 MAR; § 13 WpHG; § 17 UWG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

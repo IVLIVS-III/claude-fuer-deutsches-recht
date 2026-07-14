@@ -31,9 +31,6 @@ description: "Wenn es um /mandantenbrief in Plugin für die studentische Rechtsb
 3. Enthaelt der Brief Angaben über Dritte oder interne Bewertungen, die im Mandantenbrief nicht erscheinen dürfen?
 4. Hat der anleitende Volljurist den Briefentwurf bereits freigegeben oder ist das Gate noch ausstehend?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - BORA § 11 — Mitteilungspflicht: Mandant ist über wesentliche Verfahrensschritte zu informieren
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
@@ -130,3 +127,5 @@ Mit freundlichen Grüßen
 - **Falsches Fristenverständnis beim Mandanten:** Der Brief muss Fristen, die der Mandant wahren muss (z. B. Vorlage von Dokumenten), klar und mit genauen Daten benennen. Keine vagen Formulierungen wie "möglichst bald".
 - **Keine Rückfrage-Möglichkeit:** Mandantenbrief ohne Kontaktangabe ist wertlos. Immer Erreichbarkeit der Beratungsstelle angeben.
 - **Vertraulichkeit verletzt:** Keine Drittdaten (z. B. Informationen über den Vermieter, den Arbeitgeber) im Brief an den Mandanten – es sei denn, der Mandant hat alle relevanten Informationen ohnehin selbst geliefert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

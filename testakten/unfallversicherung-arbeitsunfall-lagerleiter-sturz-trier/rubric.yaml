@@ -1,4 +1,5 @@
 name: unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier
+plugin: "fachanwalt-sozialrecht"
 description: Arbeitsunfall eines Lagerleiters durch Sturz an einer klemmenden Ueberladebruecke, mit Kameraausfall,
   Vorschaden an der Schulter und vollstaendigem Instanzenzug von Anhoerung bis Sachverstaendigengutachten.
 checks:

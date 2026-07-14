@@ -28,10 +28,6 @@ Verwaltungsstreit kann an mehreren Stellen vergleichsweise beendet werden: **vor
 - **Art. 17 GG** — Petitionsrecht
 - **MediationsG** — Mediation im Verwaltungsverfahren möglich
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## ADR-Pfade
 
 ### Pfad 1 — Anhörung § 28 VwVfG strategisch nutzen
@@ -114,10 +110,6 @@ Verwaltungsstreit kann an mehreren Stellen vergleichsweise beendet werden: **vor
 - `fachanwalt-verwaltungsrecht-widerspruch-klage` — Vorverfahren
 - `fachanwalt-verwaltungsrecht-ki-automatisierte-verwaltungsakte-35a-vwvfg` — Sonderfall
 
-## Aktuelle Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -129,3 +121,5 @@ Stand: 05/2026. VwVfG/VwGO im Kern stabil. Für die Verifikation öffentlich-rec
 - VwGO — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/)
 - VwVfG — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwvfg/)
 - BVerwG-Entscheidungsdatenbank — [bverwg.de](https://www.bverwg.de/entscheidungen)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

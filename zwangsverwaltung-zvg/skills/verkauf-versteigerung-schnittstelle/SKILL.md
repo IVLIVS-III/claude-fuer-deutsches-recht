@@ -60,10 +60,6 @@ description: "Wenn es um Schnittstelle zu Verkauf und Zwangsversteigerung in ZVG
 - ZVG Gesamtfassung
 - § 12 ZwVwV
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Versteigerungsschnittstelle
 
 § 180 ZVG (Anordnung Zwangsversteigerung parallel) → § 55 ZVG (Zuschlag Wirkungen) → § 56 ZVG (Übergabepflicht) → § 57 ZVG (Mieterschutz Ersteher) → § 57a ZVG (Sonderkündigung Ersteher) → §§ 566 BGB (Kauf bricht nicht Miete) → § 155 ZVG (Schlussrechnung bei Zuschlag)
@@ -83,3 +79,5 @@ description: "Wenn es um Schnittstelle zu Verkauf und Zwangsversteigerung in ZVG
 4. Kontostand an Vollstreckungsgericht melden
 5. Mietverhältnisse und Kautionen an Ersteher übergeben
 6. Abschluss-Bericht an Gericht und Gläubiger
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Oeffentliches Wirtschaftsrecht Oepp Schulcampus Havelstadt"
-plugin: "tbd"
+plugin: "oeffentliches-wirtschaftsrecht"
 
 checks:
   - id: r01-readme-vorhanden

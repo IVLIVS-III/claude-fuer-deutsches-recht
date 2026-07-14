@@ -179,10 +179,6 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 - **§§ 2-10 GwG** — CDD; wirtschaftlich Berechtigter; PEP; Sanktionen
 - **§§ 311 II, 241 II BGB** — vorvertragliche Pflichten ab dem ersten Kontakt
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Rote Schwellen
 
 - Kein Konflikt-Check vor dem ersten Beratungsschritt → § 43a BRAO-Risiko
@@ -192,4 +188,5 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 ## Quellen
 
 - § 43a BRAO; Art. 18 MAR; §§ 2-10 GwG; §§ 311 II BGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

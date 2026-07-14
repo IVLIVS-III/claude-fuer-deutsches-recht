@@ -30,10 +30,6 @@ description: "Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehr
 - **§ 40 VwVfG** — Ermessen der Behörde bei der Erlaubniserteilung; kein Anspruch, aber willkuerfreie Entscheidung
 - **§ 49 VwVfG** — Widerruf einer rechtmäßigen Erlaubnis
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Sondernutzungsart und Strassenkategorie bestimmen** → zuständige Behörde.
@@ -48,3 +44,5 @@ description: "Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehr
 - Gebühren müssen verhaeltnismaessig sein — bei exzessiven Gebühren Widerspruch.
 - Gleichbehandlung prüfen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
 - Anwaltliche Endkontrolle bei Antraegen und Widerspruechen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

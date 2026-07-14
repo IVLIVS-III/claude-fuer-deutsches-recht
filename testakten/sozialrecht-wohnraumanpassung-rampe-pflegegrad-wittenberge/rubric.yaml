@@ -1,4 +1,5 @@
 name: sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge
+plugin: "fachanwalt-sozialrecht"
 description: Pflegekassenstreit um eine feste Rampe bei Pflegegrad 3 mit Teilbewilligung, mobiler Alternative, Wohnumfeld,
   Sturzrisiko und moeglicher Sozialhilfe.
 checks:

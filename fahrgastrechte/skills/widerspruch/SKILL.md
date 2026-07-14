@@ -227,4 +227,4 @@ Nicht alle Informationen auf einmal abfragen, sondern nur das, was wirklich fehl
 - DB-Beförderungsbedingungen — bahn.de/agb
 - Schlichtungsstelle Reise & Verkehr e.V. — schlichtungsstelle-reise-verkehr.de
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -176,7 +176,6 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 
 ## Beweislast und Darlegungslast
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Vor-Ort-Kontrolle: Protokollinhalt hat faktische Beweiskraft — Widerspruch ohne Gegengutachten selten erfolgreich.
 
 ## Fristen
@@ -229,11 +228,8 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 - VO (EU) 2021/2116 Horizontale Verordnung
 - GAPDZG, GAPInVeKoSG, GAPKondV
 - § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

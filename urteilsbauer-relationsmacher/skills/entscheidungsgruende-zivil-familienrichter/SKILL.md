@@ -28,10 +28,6 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 3. Muss Beweiswürdigung integriert oder separat abgehandelt werden?
 4. Welche Nebenentscheidungen (Zinsen, Kosten, Vollstreckbarkeit) fehlen noch?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 313 Abs. 3 ZPO — Entscheidungsgründe: kurze Zusammenfassung der Erwägungen
@@ -120,3 +116,5 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 ## Stil
 
 Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

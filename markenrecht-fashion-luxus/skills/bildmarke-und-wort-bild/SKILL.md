@@ -25,12 +25,10 @@ Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt.
 ## Rechtsrahmen
 
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit — alle grafisch darstellbaren Zeichen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 8 II Nr. 2 MarkenG:** Unterscheidungskraft auch für Bildzeichen
 - **EUIPO-Leitlinien:** Bildmarken, Farbansprüche, Präzisionsgebot
 - **Vienna Classification:** Internationale Klassifikation bildlicher Bestandteile (Version 8), verpflichtend bei EUIPO
 - **Farbanspruch:** EUIPO Communication ex parte Nr. 2/12 — Farbmarken und Farbansprüche in Wort-Bild-Marken
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -58,7 +56,6 @@ Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt.
 6. **Prüfung Unterscheidungskraft Bildzeichen:**
  - Einfache geometrische Formen, allgemeine Ornamente ohne Schutz
  - Das Doppel-K-Signet von klôtzzkètté: eigenschöpferisch, hinreichend individuell
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Falltypische Konstellationen
 
@@ -66,7 +63,6 @@ Die Wort-Bild-Marke schützt das Zeichen in seiner konkreten grafischen Gestalt.
 Ziel: Schutz des Signets ohne Wortbestandteil (wie Chanel CC oder LV). Prüfung: Besitzt das Signet eigenständige Unterscheidungskraft? Bei zwei verschlungenen K: Ja, wenn Gestaltung hinreichend individuell (keine banale Buchstabenverbindung). Anmeldung als eigenständige Bildmarke zusätzlich zur Wort-Bild-Marke empfohlen.
 
 ### Konstellation 2: Brezelmann Discount kopiert das Signet leicht modifiziert
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation 3: Farbanspruch bei Positionsmarke
 klôtzzkètté möchte die goldene Farbkombination (Pantone 871 C) an der Verpackungsinnenseite schützen. Empfehlung: Kombination aus Wort-Bild-Marke MIT Farbanspruch (für die Verpackung) und Positionsmarke (vgl. Skill `positionsmarke`).
@@ -118,8 +114,4 @@ Bevor die Bildmarke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

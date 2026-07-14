@@ -98,10 +98,6 @@ Du bist dabei, rechtliche Schritte einzuleiten, ohne Anwalt zu sein. Das ist ges
 - **Paragraf 43a BRAO** — Dokumentationspflichten für Anwälte (Beratung über Risiken)
 - **Paragraf 626 BGB** — Fristlose Kündigung aus wichtigem Grund (besondere Triage: andere Fristen)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Keine Vorwegnahme des Ergebnisses
 
 Der Skill liefert noch keine inhaltliche Prüfung der Kündigung. Er stellt ausschließlich die Weichenfrage, welche den gesamten nachfolgenden prägt.
@@ -111,3 +107,5 @@ Der Skill liefert noch keine inhaltliche Prüfung der Kündigung. Er stellt auss
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

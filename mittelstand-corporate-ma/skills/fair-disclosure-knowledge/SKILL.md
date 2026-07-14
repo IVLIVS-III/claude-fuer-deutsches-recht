@@ -152,10 +152,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 123 BGB — arglistige Taeusching: Disclosure schuetzt nicht vor arglistigem Verschweigen; persönliche Haftung des Verkaeuf ers
 - §§ 133, 157 BGB — Auslegung: "Knowledge"-Klausel ist nach Treu und Glauben auszulegen; objektiver Empfaengerhorizont
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Knowledge-Standard prüfen:** SPA-Klausel analysieren; "Best Knowledge" vs. "Actual Knowledge" vs. "Constructive Knowledge"
@@ -168,3 +164,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Arglistiges Verschweigen trotz Disclosure: Haftungsausschluss unwirksam; persönliche Haftung
 - KI-DD ohne Transparenz: Underwriter koennte Deckung verweigern; Fair-Disclosure in Frage gestellt
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

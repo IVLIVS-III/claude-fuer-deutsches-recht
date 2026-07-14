@@ -25,7 +25,6 @@ Die rollierende Liquiditätsplanung ist das operative Herzstück des § 1 StaRUG
 - § 18 InsO (drohende Zahlungsunfähigkeit — Prognosezeitraum)
 - § 29 Abs. 2 StaRUG (Zugangsvoraussetzung: drohende ZU muss vorliegen)
 - Berufsständische Methodenlogik zu Fortbestehensprognose und Sanierungskonzepten: Liquiditätsplanung ist nur ein Baustein; bei Sanierungsaussagen müssen GuV, Bilanz, Maßnahmen, Leitbild und Dokumentation hinzukommen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -147,10 +146,6 @@ INVESTITIONEN
 
 ---
 
-## Weitere Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -158,3 +153,5 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

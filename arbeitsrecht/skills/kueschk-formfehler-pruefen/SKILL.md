@@ -42,10 +42,6 @@ description: "Wenn es um Formfehler-Prüfung bei Kündigungen: Schriftform Parag
 - Paragraf 102 Abs. 1 BetrVG — Anhörungspflicht Betriebsrat; Kündigung ohne Anhörung ist unwirksam
 - Paragrafen 17, 18 KSchG — Massenentlassungsanzeige; Unwirksamkeit bei Verstoß
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfkatalog Formfehler
 
 ### 1. Schriftform Paragraf 623 BGB
@@ -54,7 +50,6 @@ Die Kündigung eines Arbeitsverhältnisses bedarf der **Schriftform** (Paragraf 
 - Mündliche Kündigung
 - Kündigung per E-Mail
 - Kündigung per SMS oder WhatsApp
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Digitale Signatur ohne eigenhändige Unterschrift
 
 Erforderlich ist das **Original mit eigenhändiger Unterschrift** (Paragraf 126 Abs. 1 BGB). Eine Kopie oder ein Scan genügt nicht.
@@ -67,7 +62,6 @@ Erforderlich ist das **Original mit eigenhändiger Unterschrift** (Paragraf 126 
 
 Hat nicht der Arbeitgeber selbst, sondern ein Vertreter (Personalleiter, HR-Managerin, Prokurist) die Kündigung unterschrieben, muss dem Kündigungsschreiben eine **Originalvollmacht** beigefügt sein. Liegt keine Vollmacht bei, kann der Arbeitnehmer die Kündigung **unverzüglich zurückweisen** (Paragraf 174 Satz 1 BGB).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Ausnahme Paragraf 174 Satz 2 BGB:** Hatte der Arbeitgeber den Bevollmächtigten gegenüber dem Arbeitnehmer als solchen bekannt gemacht (z.B. offizieller Personalleiter, der als solcher im Betrieb bekannt ist), scheidet die Vollmachtsrüge aus.
 
@@ -95,7 +89,6 @@ Bei Massenentlassungen (Schwellenwerte: z.B. mehr als fünf Arbeitnehmer in Betr
 - Den Betriebsrat konsultieren (Paragraf 17 Abs. 2 KSchG)
 - Die Entlassungen der Bundesagentur für Arbeit **vor Zugang der Kündigung** anzeigen (Paragraf 17 Abs. 1 KSchG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Entscheidungsbaum: Formfehler-Prüfung
 
@@ -138,3 +131,5 @@ Massenentlassung?
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

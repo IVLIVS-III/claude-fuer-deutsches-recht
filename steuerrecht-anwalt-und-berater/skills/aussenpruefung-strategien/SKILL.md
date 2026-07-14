@@ -167,7 +167,6 @@ Sehr geehrte/r Frau/Herr [Prüfer],
 namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellungen wie folgt Stellung.
 
 1. Feststellung "[Bezeichnung]"
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Antrag: Diese Feststellung wird nicht in den Prüfungsbericht aufgenommen.
 
 2. Feststellung "[Bezeichnung]"
@@ -236,3 +235,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `anw-verbindliche-auskunft` — vor Sachverhalt
 - `anw-einspruch-finanzamt` — nach nachteiligem Bescheid
 - `fachanwalt-strafrecht` — bei Strafverdacht
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

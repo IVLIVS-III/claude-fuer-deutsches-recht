@@ -74,7 +74,6 @@ Haftungsklauseln haben vier Dimensionen:
 **b) Mittelbare Schäden / Folgeschäden:**
 - § 309 Nr. 7a BGB: Haftungsausschluss für Körperverletzung / Vorsatz gegenüber Verbrauchern absolut unwirksam.
 - Im B2B: Ausschluss für leichte Fahrlässigkeit bei nicht wesentlichen Pflichten möglich; bei Kardinalpflichten nach BGH-Rspr. unwirksam.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **c) Ausnahmen vom Deckel:** Vorsatz, grobe Fahrlässigkeit, Verletzung von Leben/Körper/Gesundheit, Kardinalpflichten, Datenpannen, produkthaftungsrechtliche Ansprüche.
 
@@ -86,7 +85,6 @@ Haftungsklauseln haben vier Dimensionen:
 - Mangelfreiheitspflicht § 633 BGB
 - Nacherfüllungsrecht § 634 Nr. 1, § 635 BGB (Vorrang vor Rücktritt/Minderung)
 - Verjährung § 634a BGB: 2 Jahre bei körperlichen Bauwerken/Sachen; 3 Jahre bei Arglist
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kaufvertrag (§§ 434 ff. BGB; ggf. CISG):**
 - Sachmangelfreiheit § 434 BGB; Beschaffenheitsvereinbarung prüfen
@@ -165,6 +163,7 @@ Falls Lieferant in der Lieferkette und LkSG anwendbar (§ 1 LkSG: ab 1.000 AN se
 | 2 | Should-Haves | Haftungsdeckel-Anpassungen; Freistellungsumfang; Flexibilität bei Kündigung; Audit-Rechte | Firm verhandeln; Tier-3 opfern |
 | 3 | Nice-to-Haves | Bevorzugter Gerichtsstand; Fristen-Präferenzen; kleinere Definitions-Verbesserungen | Konzessions-Kandidaten für Tier-2 |
 
+```markdown
 ## Fazit
 [2–3 Sätze: unterzeichnungsreif / [N] Punkte zu klären / blockiert durch [K.-o.-Kriterium]]
 
@@ -206,13 +205,11 @@ Zitierweise nach `../references/zitierweise.md`.
 Normen und Rspr.:
 - §§ 611, 631 BGB – Dienst-/Werkvertrag; § 433 BGB – Kaufvertrag
 - §§ 305–310 BGB – AGB-Recht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 377 HGB – Rügepflicht Handelskauf
 - §§ 1 ff. LkSG; §§ 15 ff. UrhG – Nutzungsrechte
 - Art. 28 DSGVO – AVV; Art. 1, 6 CISG – Anwendbarkeit/Abwahl
 
 Kommentare:
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Risiken / typische Fehler
@@ -222,3 +219,5 @@ Kommentare:
 - **AGB-Kollision (battle of forms):** Wenn beide Parteien AGB verwenden, prüfen, welche gilt.
 - **LkSG-Kündigungsklausel fehlt:** Ohne vertragliches Recht faktisch eingeschränkte LkSG-Durchsetzung.
 - **Mandantengeheimnis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -27,7 +27,6 @@ Im Normalzustand schuldet der Geschäftsführer seine Loyalität den Gesellschaf
 - § 43 GmbHG (Sorgfaltspflicht GF)
 - § 93 AktG (Sorgfaltspflicht Vorstand)
 - § 19 Abs. 2 InsO (Fortführungsprognose bei Überschuldung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EuInsVO Art. 3 Abs. 1 (COMI — Centre of Main Interests)
 
 ---
@@ -58,7 +57,6 @@ Der Pflichtenwandel vollzieht sich graduell, nicht schlagartig:
 
 Der "tipping point" liegt regelmäßig beim Eintritt der drohenden Zahlungsunfähigkeit nach § 18 InsO: Ab diesem Moment sind Maßnahmen, die ausschließlich dem Gesellschafterinteresse dienen (Gewinnausschüttung, riskante Investitionen), haftungsrechtlich gefährlich.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -148,3 +146,5 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

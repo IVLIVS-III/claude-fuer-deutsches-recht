@@ -24,9 +24,6 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 3. Welche Fristen und Rechtsfolgen müssen unbedingt erhalten bleiben?
 4. Sollen Bilder oder Piktogramme eingesetzt werden (Hinweis auf Grafik-Ressourcen erforderlich)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 11 BGG — Anspruch auf barrierefreie Kommunikation gegenueber Behörden
 - Art. 9 UN-BRK — Uebereinkommen über die Rechte von Menschen mit Behinderungen: Zugaenglichkeit von Informationen
@@ -168,3 +165,5 @@ Wenn keine Prüfung stattgefunden hat, schreibe:
 
 > Dieser Entwurf ist in Leichter Sprache formuliert.
 > Eine Prüfung durch Personen aus der Zielgruppe steht noch aus.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

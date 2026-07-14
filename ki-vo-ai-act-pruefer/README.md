@@ -178,8 +178,6 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 - `output-konformitaetsbescheinigung-evidence-pack` — interne Konformitätsbescheinigung/Readiness-Vermerk, EU-Konformitätserklärung, Art.-43-Nachweis, Evidence Index und Lückenliste ohne falsche finale Bescheinigung
 - `output-betreiber-checkliste-und-folgenabschaetzung`
 
-#
-
 ## Wichtige Hinweise
 
 - **Keine Rechtsberatung.** Dieses Plugin liefert mechanische Prüfungen, keine anwaltliche Beratung.

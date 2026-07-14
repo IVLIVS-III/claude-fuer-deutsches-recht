@@ -1,4 +1,5 @@
 name: strafrecht-untreue-vereinskasse-kassel
+plugin: "fachanwalt-strafrecht"
 description: Untreueverfahren gegen einen Vereinsvorstand mit Kassenbuch, Sponsoringgeldern, Barabhebungen, Einziehungsfragen
   und zivilrechtlicher Rückforderung.
 checks:

@@ -32,16 +32,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 § 812 Abs. 1 BGB (Leistungsbegriff, Zweckbestimmung) — § 129 InsO (Rechtshandlung vor Verfahrenseröffnung) — § 2 AnfG (vollstreckbarer Titel) — § 17 InsO (Zahlungsunfähigkeit: maßgeblicher Zeitpunkt) — § 199 BGB (Verjährungsbeginn: Kenntnis) — § 286 BGB (Verzugseintritt: Datum der Forderung)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ablauf
 
 ### Schritt 1 — Beteiligte Personen
@@ -104,3 +94,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -178,7 +178,7 @@ Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten, Streitwer
 
 ### 15.3. Fahrgastrechte — Anlagen bauen
 
-`yaml schriftsatz: [pfad zum Schriftsatz, z.B. widerspruch-2026-05-15.md] rohbelegeverzeichnis: [fall]/belege/ ausgabeverzeichnis: [fall]/anlagen/ bundle: true # erzeugt zusätzlich SchriftsatzmitAnlagen.pdf schriftgradstempel: 12 schriftstempel: Arial-Bold # Arial 12 FETT oben. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Liest den Schriftsatz und identifiziert alle erwähnten Anlagen anhand der Bezeichnung Anlage K 1, Anlage K 2, ... oder Anlage K1, Anlage K2. Erstellt geordnete Liste in Reihenfolge der Erwähnung im Text. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.4. Katalog der DB-Ablehnungsgründe und Gegenargumente
 
@@ -210,7 +210,7 @@ Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Art. 19 VO ungeschmälert (60/120
 
 ### 15.11. Vollmacht für Mitreisende
 
-``` Vollmacht Ich, [Vor- und Nachname Vollmachtgeber:in], geboren am [Geburtsdatum], wohnhaft [Adresse], bevollmächtige hiermit [Vor- und Nachname Vollmachtnehmer:in], geboren am [Geburtsdatum], wohnhaft [Adresse], mich in allen Angelegenheiten betreffend meinen Anspruch. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.12. Fahrgastrechte-Widerspruch — Skill
 

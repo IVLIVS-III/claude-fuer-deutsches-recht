@@ -1,4 +1,5 @@
 name: erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe
+plugin: "fachanwalt-erbrecht"
 description: Patchwork-Erbfolge mit mehrfachen Ehen, Scheidungen, früherer Stieftochter als Ehefrau, zwei Erbfällen,
   alten Testamenten und Statusmatrix.
 checks:

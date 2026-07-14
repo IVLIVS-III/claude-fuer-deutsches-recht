@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 186 KB) | PDF | [`gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf`](gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 202 KB) | PDF | [`gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf`](gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-energierecht-stadtwerke-quartier-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier-einzelpdfs.zip) |
 
@@ -157,5 +157,3 @@ Diese Akte zeigt die typische **energierechtliche Beratungspraxis** bei einem ko
 - **Wirtschaftlich­keit:** Investitions­planung, Erlös­struktur, NPV- und IRR-Berechnung für Projekt­finanzierung.
 
 ---
-
-## Disclaimer

@@ -170,14 +170,6 @@ Klassische Stolperfalle in Versicherungsvertragsrecht (Personen- und Sachversich
 
 ## Vertiefung — Rechtsprechung Vergleich Versicherungsrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 779 BGB (Vergleich) → §§ 133, 157 BGB (Auslegung Abgeltungsklausel) → § 174 VVG (Nachprüfungsverfahren BU) → § 794 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 116 SGB X (Regress-Übergang bei Sozialleistungen im Vergleich berücksichtigen)
@@ -185,3 +177,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

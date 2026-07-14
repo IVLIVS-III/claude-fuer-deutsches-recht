@@ -20,8 +20,8 @@ Maßgebliche BGH-Entscheidungen mit Verweis auf die mitgelieferten Volltexte und
 
 ## Zitierhinweise
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Jüngere Entscheidung zuerst zitieren, ältere nur ergänzend.
 - Bei mehrfachen Stellen je Entscheidung getrennt zitieren, nicht zusammenfassen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 (Stand 12.08.2021) ist berufsständischer Hintergrund (kein Recht im engeren Sinne); im Text mit "(IDW S 11, Tz. …)" zitieren und nicht über die BGH-Belege stellen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -183,7 +183,7 @@ Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten
 
 ### 15.7. Klage Amtsgericht Fluggast
 
-` beA-Konvention: - Anlagen werden im beA als separate PDFs eingereicht, jeweils mit Stempel oben rechts in Arial 12 FETT. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+beA-Konvention: - Anlagen werden im beA als separate PDFs eingereicht, jeweils mit Stempel oben rechts in Arial 12 FETT. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
 

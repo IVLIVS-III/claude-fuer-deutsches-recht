@@ -164,10 +164,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
-## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Mandatsannahme)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Erstgespraech
 
 - **§ 10 ff. GwG** — Sorgfaltspflichten und Identifizierung; § 2 Abs. 1 Nr. 10 GwG — Anwendung auf RA-Mandate
@@ -176,3 +172,5 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - **§§ 166 VwGO, 114 ZPO** — Prozesskostenhilfe im Verwaltungsverfahren
 - **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR für Asylklage
 - **§ 25 Abs. 6 AsylG** — Recht auf anwaltlichen Beistand bei BAMF-Anhörung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

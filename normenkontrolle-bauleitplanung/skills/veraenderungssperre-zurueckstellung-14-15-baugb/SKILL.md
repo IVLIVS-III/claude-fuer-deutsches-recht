@@ -30,7 +30,6 @@ Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungss
 ### Voraussetzungen
 
 a) **Aufstellungsbeschluss** für Bebauungsplan, der für das Gebiet gelten soll
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 c) **Sicherungs-Bedürfnis** zur Wahrung der Plan-Ziele
 
 ### Inhalt § 14 Abs. 1 BauGB
@@ -96,7 +95,6 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 
 - Wertminderung im Sinne der Eigentumsgarantie
 - Wirtschaftliche Folgen für Eigentümer
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 4 — Wirkung auf Vorhabenträger / Bauherrn
 
@@ -135,7 +133,6 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 #### Konkretisierungs-Mangel
 
 - Plan-Ziele zu unbestimmt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Verhältnismäßigkeit
 
@@ -255,10 +252,9 @@ d) Damit: **kein § 14-Verfahren möglich**, aber **Indiz für Gefälligkeitspla
 ## Quellen
 
 - BauGB §§ 14, 15, 17, 18, 24, 42
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
 
 ## Ergänzende Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

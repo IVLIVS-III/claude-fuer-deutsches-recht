@@ -19,9 +19,6 @@ description: "Wenn es um Lösungsschemata in Jurastudium geht: erstellt den pass
 3. Gibt es Streitfragen zum Schema selbst (z.B. Aufbaufragen im Strafrecht)?
 4. Soll das Schema als Gedaechtnisstuetze oder zum Verstaendnis-Aufbau verwendet werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 433, 280 BGB — Vertrag und Leistungsstoerung: Kern des Anspruchspruefungs-Schemas
 - §§ 13-35 StGB — Allgemeiner Teil: Fundament des Verbrechensaufbau-Schemas
@@ -173,3 +170,5 @@ Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studenten e
 ## Schlusswort
 
 Schemata sind wie Stützräder am Fahrrad. Solange sie tragen, lassen sie sich nicht ohne Folgen abbauen. Wer fahren kann, fährt ohne. Wer das Fahren lernt, fährt erstmal mit — und schämt sich nicht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

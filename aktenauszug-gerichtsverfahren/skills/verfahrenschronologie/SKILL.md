@@ -30,10 +30,6 @@ description: "Wenn es um Verfahrenschronologie in aktenauszug-gerichtsverfahren 
 - § 929 Abs. 2 ZPO — Vollziehungsfrist bei einstweiliger Verfügung (1 Monat)
 - §§ 704-945 ZPO — Zwangsvollstreckung
 
-## Rechtsprechung zu Verfahrensfristen und Zustellung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Was gehört hinein
 
 - Klageeingang / Antragseingang beim Gericht
@@ -110,3 +106,5 @@ Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als 
 - [ ] Zustellungsdaten als Grundlage der Fristberechnung angegeben?
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

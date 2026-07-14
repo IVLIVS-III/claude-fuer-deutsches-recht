@@ -34,9 +34,6 @@ description: "Wenn es um Wandlungsmechanik konzipieren in Wandeldarlehen-Lebensz
 - § 272 Abs. 2 Nr. 4 HGB (Einlage in Kapitalrücklage nach Wandlung)
 - § 138 BGB (Sittenwidrigkeit – Missbrauch Wandlungsrecht prüfen)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Trigger-Tatbestände abgrenzen
@@ -94,14 +91,8 @@ Stand: 05/2026. Bei Änderung GmbHG (§§ 55 ff.) aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 55 GmbHG (Kapitalerhöhung gegen Einlage) → § 56 GmbHG (Sacheinlage, Differenzhaftung) → § 57 GmbHG (Unversehrtheit des Stammkapitals) → § 15 GmbHG (Abtretung Geschäftsanteile) → § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage aus Wandlungsagio)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -19,10 +19,6 @@ description: "Wenn es um Eskalationsregeln in Vertragsrecht geht: entwickelt Ver
 3. Wer ist der konkrete Genehmiger laut Eskalationsmatrix (CLAUDE.md)?
 4. Bis wann muss eine Entscheidung vorliegen (Verhandlungsdeadline)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 164 ff. BGB — Vertretung; Vollmacht; Vertretungsmacht
@@ -116,6 +112,7 @@ Bei Rückfragen stehe ich gerne zur Verfügung.
 
 Entwurf anzeigen, Anwalt sendet. Niemals ohne ausdrückliche Bestätigung absenden.
 
+```markdown
 ## Eskalation: [Vertrag] mit [Vertragspartner] – [Klausel]
 
 **Eskalationsgrund:** [Betrags-Schwelle / Klausel-Abweichung / Automatischer Auslöser / Geschäftsentscheidung]
@@ -149,3 +146,5 @@ Relevante Normen:
 - **Entscheidung vorwegnehmen:** Der Entwurf bietet Optionen – er trifft keine Entscheidung. Der Genehmiger entscheidet.
 - **Frist vergessen:** Ohne Entscheidungs-Datum läuft die Verhandlung. Immer ein Datum nennen.
 - **Privilegierter Inhalt außerhalb des Kreises:** Genehmigungsanfragen intern halten; § 43a Abs. 2 BRAO, § 203 StGB beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

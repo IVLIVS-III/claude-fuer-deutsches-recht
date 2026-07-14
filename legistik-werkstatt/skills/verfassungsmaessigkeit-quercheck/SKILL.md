@@ -77,10 +77,6 @@ Wenn der Entwurf in kommunale Angelegenheiten eingreift: Eingriff in Selbstverwa
 
 Bei dynamischen Verweisungen auf EU-Recht oder andere externe Stellen: ist die demokratische Legitimation gewahrt?
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 1 Abs. 3 GG (Grundrechtsbindung) — Art. 3 GG (Gleichheitsgebot) — Art. 12 GG (Berufsfreiheit, Drei-Stufen-Theorie) — Art. 14 GG (Eigentum) — Art. 20 Abs. 3 GG (Wesentlichkeitstheorie, Bestimmtheit) — Art. 28 Abs. 2 GG (kommunale Selbstverwaltung)
@@ -100,3 +96,5 @@ Tabellarisches Querprotokoll mit allen einschlaegigen Grundrechten plus Prüferg
 ## Anschluss
 
 `folgenabschaetzung-erfuellungsaufwand`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -31,10 +31,6 @@ description: "Wenn es um Uwg Einstweilige Verfuegung in Fachanwalt Gewerblicher 
 
 § 3 ff. UWG (Tatbestand) → § 8 Abs. 1 UWG (Unterlassung) → § 8 Abs. 3 UWG (Aktivlegitimation) → § 13 UWG (Abmahnverfahren) → § 12 Abs. 1 UWG (Dringlichkeit) → § 8c UWG (Missbrauch) → §§ 935, 940 ZPO (Eilverfahren) → § 924 ZPO (Widerspruch) → § 14 UWG (Gerichtsstand)
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Dringlichkeit und Selbstwiderlegung
 
 ```
@@ -188,3 +184,5 @@ ANLAGEN: K1 [Screenshot], K2 [Kaufbeleg], K3 [Eidesstattliche Versicherung]
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — vollstaendige UWG-Abmahnung
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — Vergleichsstrategie nach Abmahnung
 - `gewerblicher-rechtsschutz/schutzschrift-eilverfuegung` — Schutzschrift auf Gegenseite
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

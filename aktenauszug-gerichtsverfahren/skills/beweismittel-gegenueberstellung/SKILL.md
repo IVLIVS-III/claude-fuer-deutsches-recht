@@ -28,10 +28,6 @@ description: "Wenn es um Beweismittel — Gegenüberstellung in aktenauszug-geri
 - § 415 ff. ZPO — Urkundenbeweis (öffentlich/privat, Echtheit, Beweiskraft)
 - § 445 ff. ZPO — Parteivernehmung (nur bei Unvollständigkeit anderer Beweismittel)
 
-## Rechtsprechung zum Beweisrecht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Tabellenstruktur
 
 ```markdown
@@ -81,3 +77,5 @@ Soweit Beweismittel vom Gericht als verspätet zurückgewiesen wurden, werden si
 - [ ] Keine Bewertung der Beweiskraft?
 - [ ] Präkludierte Beweismittel gekennzeichnet?
 - [ ] Beweisbeschluss des Gerichts (§ 359 ZPO) berücksichtigt?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

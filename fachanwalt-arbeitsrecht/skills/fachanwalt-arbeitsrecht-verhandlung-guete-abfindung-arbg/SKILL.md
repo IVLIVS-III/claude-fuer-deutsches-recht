@@ -30,10 +30,6 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren Paragraf 54 ArbGG (ca
 - **Paragraf 1 TVG** — Tarifliche Abfindungsregelungen
 - **Paragraf 779 BGB** — Vergleich
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kommunikations-/Verhandlungs-Pfade
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
@@ -157,3 +153,5 @@ Vergleichs- und abfindungsrelevante Leitentscheidungen:
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

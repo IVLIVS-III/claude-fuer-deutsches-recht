@@ -101,7 +101,6 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -153,3 +152,5 @@ Bewertung: hoch / mittel / gering
 
 Audit (Art. 37 DSA): durchgeführt am [DATUM] / ausstehend
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

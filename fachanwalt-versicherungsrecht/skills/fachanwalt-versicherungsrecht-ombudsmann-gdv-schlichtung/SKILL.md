@@ -28,10 +28,6 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - **VSBG** — Verbraucherstreitbeilegungs-Gesetz
 - **Versicherungs-Ombudsmann-Verfahrensordnung 2021** (geändert 2024)
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## ADR-Pfade
 
 ### Pfad 1 — Versicherungs-Ombudsmann (VVR e.V.)
@@ -107,19 +103,7 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - `fachanwalt-versicherungsrecht-cyberversicherung-nis2` — Sonderfall
 - `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung` — Bank-Variante
 
-## Quellen und Updates
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
@@ -128,3 +112,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

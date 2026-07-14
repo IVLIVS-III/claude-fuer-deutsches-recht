@@ -60,9 +60,9 @@ Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rückfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+- Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+- Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+- Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md)
 
 
 Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 (idF nach Aufnahme StaRUG-Bereiche). Orientierung, Gläubigerantrag, Restrukturierungsplan StaRUG, Insolvenzanfechtung. Schnittstellen zum Plugin `insolvenzrecht` (operativ) und `steuerrecht-anwalt-und-berater`.

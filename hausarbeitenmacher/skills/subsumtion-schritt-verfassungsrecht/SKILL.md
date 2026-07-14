@@ -19,9 +19,6 @@ description: "Wenn es um Subsumtion Schritt für Schritt in hausarbeitenmacher �
 3. Welche konkreten Sachverhaltsstellen belegen die Subsumtion?
 4. Ist das Tatbestandsmerkmal streitig — gibt es verschiedene Definitionen oder Abgrenzungen?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegungsgrundsaetze als Maßstab für Tatbestandsmerkmal-Definitionen
 - § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Musterbeispiel konkreter Gesetzesdefinition
@@ -228,3 +225,5 @@ Z.B. "Sache", "Person":
 ## Sanft, ermutigend, fördernd
 
 Das Plugin steht an Deiner Seite. Wenn etwas schiefgeht: Atme durch, lies die Norm nochmal, frag das Plugin nach einer anderen Sichtweise. Subsumtion ist eine Übungs-Sache. Du wirst Schritt für Schritt sicherer.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -78,10 +78,6 @@ Verwertung fremder Geheimnisse zu eigenen Zwecken. Konkurrenznorm zu § 203 StGB
 
 Im Skill `klauselvorschlaege` befindet sich ein Mustertext der Anlage Normtext §§ 203, 204 StGB, der direkt in den Vertrag übernommen werden kann.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - § 203 Abs. 1, Abs. 3 Satz 2, Abs. 4, Abs. 6 StGB — Verletzung von Privatgeheimnissen
@@ -130,3 +126,4 @@ Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE AN ANBIETER]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

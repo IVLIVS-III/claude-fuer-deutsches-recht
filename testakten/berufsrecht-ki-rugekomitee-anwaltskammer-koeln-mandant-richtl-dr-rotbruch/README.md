@@ -174,7 +174,7 @@ Arbeitsakte zum Plugin `berufsrecht-ki-vertragspruefung`.
 | Versicherungsdeckung Allianz | Abgelehnt — Deckungsklage geplant |
 | Strafrecht § 203 StGB | Kein Verfahren — Anfangsverdacht beobachtet |
 
-Bearbeiter fiktiv: **RAin Dr. Petra Wiesmann** (Klägerin), **RA Dr. Andreas Bremer** (Beklagter)
+Bearbeiter: **RAin Dr. Petra Wiesmann** (Klägerin), **RA Dr. Andreas Bremer** (Beklagter)
 
 ---
 

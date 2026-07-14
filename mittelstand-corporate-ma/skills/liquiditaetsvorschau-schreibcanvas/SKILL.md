@@ -204,5 +204,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 15a, 15b, 17, 18, 19 InsO; § 43 GmbHG; §§ 252, 264 HGB; §§ 18, 21 UStG
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

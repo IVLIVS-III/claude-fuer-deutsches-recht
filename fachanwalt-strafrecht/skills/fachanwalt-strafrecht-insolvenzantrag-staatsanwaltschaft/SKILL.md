@@ -125,7 +125,6 @@ Zum Stichtag [Datum] verfügt die Schuldnerin über folgende
 liquide Mittel: [Kontostand EUR, offene Kreditlinie EUR,
 zugesagtes Darlehen EUR (Nachweis Anlage 2)]. Die fälligen
 Verbindlichkeiten betragen [Summe EUR]. Die Liquiditätslücke
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Hilfsweise: Vergleichsbereitschaft
 
@@ -274,6 +273,7 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

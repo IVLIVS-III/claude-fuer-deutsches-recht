@@ -23,9 +23,6 @@ Erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Skeleton-Eintrag
 3. Wurde der Konfliktcheck bereits durchgefuehrt oder muss er im CRM-Eintrag als ausstehend markiert werden?
 4. Soll der Eintrag automatisch oder nach manueller Freigabe gespeichert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. b DSGVO — Vertragsanbahnung als Rechtsgrundlage für CRM-Speicherung
 - Art. 5 Abs. 1 lit. e DSGVO — Speicherbegrenzung: CRM-Eintrag nur so lange, wie für das Ziel notwendig
@@ -137,3 +134,5 @@ Konfliktcheck: AUSSTEHEND — vor Terminvergabe durchführen!
 - `dringlichkeitsmarker` — Dringlichkeitsstufe und Begründung
 - `spam-und-massen-anfrage-filter` — Spam-Check-Status
 - `konfliktcheck-vorab` — Hinweis auf ausstehenden Konfliktcheck
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

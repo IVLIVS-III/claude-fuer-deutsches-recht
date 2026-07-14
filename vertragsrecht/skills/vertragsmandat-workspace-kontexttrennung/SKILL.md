@@ -48,12 +48,9 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
   Geheimnisbruch durch Anwalt; § 43a BRAO)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
 ### Quellenregel
@@ -296,9 +293,10 @@ Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 
 Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
 - § 43a Abs. 2 BRAO (Verschwiegenheit), § 50 BRAO (Handakten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

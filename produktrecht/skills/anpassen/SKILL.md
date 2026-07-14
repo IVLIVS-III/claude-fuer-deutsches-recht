@@ -60,10 +60,8 @@ Der Nutzer hat `/produktrecht:produktrecht-anpassen` eingegeben. Er möchte etwa
 - **Leitplanken-Degradierung markieren.** Der `[prüfen]`-Flag, Quellenattributions-Tags und `[prüfen]`-Tags auf zitierten Normen sind tragende Bauelemente – nicht entfernen. Die Substanziierungsanforderung für Werbeaussagen ist das wofür `/werbeaussagen-prüfung` existiert; sie zu schwächen besiegt den Skill.
 - **Eine Änderung auf einmal.** Nicht das gesamte Interview neu stellen.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 312 ff. BGB (Verbraucherschutzrecht, Informationspflichten) — §§ 1-4 ProdHaftG (Produkthaftung) — §§ 3, 3a UWG (Wettbewerbsrecht, Marktverhaltensregel) — §§ 5-6 DDG (Impressumspflicht) — EU AI Act VO 2024/1689 (KI-Produktrecht)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

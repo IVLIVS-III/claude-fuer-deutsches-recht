@@ -168,10 +168,6 @@ Klassische Stolperfalle in Privates Baurecht, Architekten- und Ingenieurrecht:
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
-## Aktuelle Rechtsprechung Vergleichsverhandlung Baurecht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Vergleich Baurecht
 
 § 779 BGB (Vergleichsvertrag) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 123 BGB (Anfechtung arglistige Täuschung) → §§ 631 641 BGB (Werkvertragliche Grundlagen) → § 650r BGB (Kündigungsrecht Architekt) → § 15 HOAI (Pauschalhonorar)
@@ -219,3 +215,5 @@ Die Kosten des Verfahrens werden gegeneinander aufgehoben.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

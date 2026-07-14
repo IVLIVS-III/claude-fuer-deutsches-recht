@@ -1,4 +1,5 @@
 name: rentenrecht-witwenrente-einkommensanrechnung-luebeck
+plugin: "rentenpruefer"
 description: Witwenrente mit Sterbevierteljahr, grosser Witwenrente, Einkommensanrechnung, Betriebsrente, privater
   Sofortrente, KVdR-Abzuegen und daenischer Kontenluecke.
 checks:

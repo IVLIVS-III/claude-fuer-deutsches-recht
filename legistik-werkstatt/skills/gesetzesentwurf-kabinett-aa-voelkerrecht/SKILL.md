@@ -84,10 +84,6 @@ Liste der angehörten Verbände, eingegangene Stellungnahmen, Bewertung.
 7. Änderungen
 8. Kabinettsmappe zusammenstellen
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 65 GG (Ressortprinzip) — Art. 76 GG (Einbringung Bundesgesetze) — §§ 15-28 GGO (Kabinettssache, Ressortabstimmung) — § 62 GGO (Rechts- und Gesetzesfolgen-Prüfung) — Art. 80 GG (Verordnungsermaechtigung in Kabinettsbeschluss)
@@ -107,3 +103,5 @@ Vollständige Mappe mit allen 14 Bestandteilen als getrennte Dateien plus Inhalt
 ## Anschluss
 
 Nach Kabinettsbeschluss: Einbringung in den Bundestag oder Bundesrat (Bundesregierung wählt erste Lesung - Bundestag oder Bundesrat).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

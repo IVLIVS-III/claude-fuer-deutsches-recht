@@ -46,10 +46,6 @@ Bevor losgelegt wird, klaere:
 4. Koennte die Beschraenkung gerechtfertigt sein (Art. 36, 45 Abs. 3, 52 AEUV; zwingende Erfordernisse)?
 5. Verhältnismaessigkeitspruefung: Geeignetheit, Erforderlichkeit, Angemessenheit?
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Grundfreiheiten
 
 - **Art. 34-36 AEUV** — Freier Warenverkehr; Mengenmassige Beschraenkungen und Maßnahmen gleicher Wirkung; Rechtfertigungsgruende Art. 36
@@ -91,3 +87,5 @@ Sachverhalt: [KURZBESCHREIBUNG]
 [ ] Beschraenkung — gerechtfertigt
 [ ] Beschraenkung — nicht gerechtfertigt — EU-Rechtsverstoß
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

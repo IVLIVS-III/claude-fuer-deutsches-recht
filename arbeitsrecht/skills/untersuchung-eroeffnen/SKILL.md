@@ -54,14 +54,11 @@ description: "Wenn es um Untersuchung Eroeffnen in Arbeitsrecht geht: prüft Fri
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verdachtskündigung — umfassende Sachaufklärung vor Kündigung zwingend;
  Untersuchungspflicht des Arbeitgebers; Dokumentationsanforderungen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Beginn der Zwei-Wochen-Frist des Paragraf 626 Abs. 2 BGB — Fristbeginn erst
  nach ausreichender Sachaufklärung; Pflicht, Ermittlungen zügig zu führen;
  mutwillige Verzögerung kann Verwirkung begründen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Inhaltliche Anforderungen an die Anhörung der beschuldigten Person vor
  Verdachtskündigung; Frage und Antwortrecht; Protokollierungspflicht
 
@@ -113,7 +110,6 @@ Datum und Uhrzeit der Eröffnung im Protokoll festhalten. Dies ist bei
 einer eventuellen Verdachtskündigung der Ausgangszeitpunkt für die
 Fristberechnung nach Paragraf 626 Abs. 2 BGB (Frist beginnt mit sicherer
 Kenntnis, nicht mit bloßem Verdacht — aber Aufklärung ist zügig
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiel
 
@@ -140,7 +136,6 @@ Beispiel-Ausgabe nach Sachverhaltserfassung (Betriebsrat-Flag):
  der Untersuchungsunterlagen fraglich. Vor Anlegen der ersten Datei klären.
 - **Paragraf 626 Abs. 2 BGB-Uhr läuft**: Die Frist beginnt bei sicherer Kenntnis.
  Mutwillige Verzögerung der Untersuchung kann dazu führen, dass die
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Paragraf 82 Abs. 2 BetrVG versäumt**: Wenn dem Arbeitnehmer das Recht auf
  Hinzuziehung eines Betriebsratsmitglieds nicht mitgeteilt wird, kann
@@ -159,7 +154,6 @@ Bei jeder Eröffnung zitieren:
 - Paragrafen 34, 36, 37 HinSchG (bei Hinweisgebersachen)
 - Paragraf 82 Abs. 2, Paragrafen 84, 85 BetrVG (Betriebsratsrechte)
 - Paragraf 626 Abs. 2 BGB (Fristbeginn-Dokumentation)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
 
 Detaillierte Sachverhaltserfassung, Quellenchecklisten-Vorlagen und
@@ -168,10 +162,6 @@ Protokolldateiformate befinden sich in der Referenz-Skill
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-## Ergänzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Eröffnung klären
 
 1. Ist die Untersuchung anwaltsgeleitet? (→ legal privilege, Schutzstatus klären)
@@ -179,3 +169,5 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 3. Liegt ein Betriebsratsmitglied als Beschuldigte/r vor? (→ Paragraf 103 BetrVG beachten)
 4. Schwerbehindert? Werdende Mutter? (→ besonderer Kündigungsschutz)
 5. Paragraf 626 Abs. 2 BGB-Uhr: Datum/Uhrzeit der Eröffnung festhalten
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

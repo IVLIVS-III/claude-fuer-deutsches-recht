@@ -392,10 +392,6 @@ Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhörung Widers
 - **§ 4 UmwRG** — Verfahrensfehler für sich allein als Aufhebungsgrund bei UVP-Pflicht
 - **§ 5 UmwRG** — Praeklusion bei Nichtbeteiligung im Verwaltungsverfahren
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -519,7 +515,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Beschwerde OVG § 146 | 2 Wochen / Begruendung 1 Monat | § 146 VwGO |
 | Normenkontrolle OVG | 1 Jahr ab Bekanntmachung | § 47 Abs. 2 VwGO |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - EuGH hat deutsche Praeklusion § 5 UmwRG für unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
 - Praxis: Gericht prüft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance für Kläger.
@@ -1061,10 +1056,6 @@ _Wenn es um Wasser- und Bodenschutzrecht in Umweltrecht geht: erstellt den passe
 - **§ 24 BBodSchG** — Kostenerstattungsanspruch zwischen Pflichtigen (Gesamtschuldner-Ausgleich)
 - **§ 1 BodSchV** — Prüfw- und Maßnahmenwerte Boden
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -1094,7 +1085,6 @@ Kontamination festgestellt?
  JA → Wer hat verursacht?
  Bekannter Verursacher/Rechtsnachfolger → § 4 Abs. 3 BBodSchG-Haftung
  Nur Eigentuemer bekannt → Eigentuemer-Haftung § 4 Abs. 3; Verhaeltnismaessigkeit pruefen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  → Sanierungsanordnung § 10 BBodSchG:
  Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
  Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
@@ -1132,7 +1122,6 @@ Sanierungsanordnung vom [DATUM] ein.
 II. Unverhaelaenismaessigkeit
 Die angeordneten Sanierungskosten betragen ca. [BETRAG] EUR.
 Der Verkehrswert des Grundstuecks betraegt [BETRAG] EUR (Gutachten Anlage).
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wenn Sanierungskosten den Grundstueckswert wesentlich uebersteigen und
 kein ueberragend schutzwuerdiges öffentliches Interesse besteht.
 

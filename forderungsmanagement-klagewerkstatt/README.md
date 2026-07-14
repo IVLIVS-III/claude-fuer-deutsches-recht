@@ -120,10 +120,6 @@ Der erzeugte Skill enthält die Hausregeln fest verdrahtet und führt weiterhin 
 3. **Online-Adressrecherche**: `justizadressen.nrw.de` (PLZ/Ort) und bundesweit `justiz.de`; Quelle und Abrufdatum dokumentieren.
 4. BeA-SAFE-ID: aus dem beA-Adressbuch zu ergänzen.
 
-## Leitentscheidungen (Auswahl, siehe `references/rechtsprechung/INDEX.md`)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Lizenz
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
@@ -246,3 +242,5 @@ Automatisch generierte Komplett-Liste aller 85 Skills in diesem Plugin. Jeder Sk
 | [`zwangsvollstreckung-ueberblick`](skills/zwangsvollstreckung-ueberblick/SKILL.md) | Wenn es um Zwangsvollstreckung Überblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

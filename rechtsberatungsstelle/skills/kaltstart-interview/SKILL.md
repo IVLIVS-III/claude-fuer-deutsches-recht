@@ -26,9 +26,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Welche Fachbereiche sollen von Anfang an eingerichtet werden (Mietrecht, Sozialrecht, Aufenthaltsrecht)?
 4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen für erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
@@ -161,3 +158,5 @@ Anschließend empfehlen:
 - **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

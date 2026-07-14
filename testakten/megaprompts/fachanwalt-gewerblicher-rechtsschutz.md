@@ -141,10 +141,6 @@ Keine Eintragungs-Barriere vorhanden?
 | Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjaehrung 3 Jahre §§ 195, 199 BGB |
 | Patent-Nichtigkeitsklage | StdT-Recherche, BPatG, Nebenintervention | Keine Frist, aber Verletzungsverfahren dringt |
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -162,6 +158,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Bei urheberrechtlichen Vorfragen: Plugin `urheberrecht` / `fachanwalt-urheber-medienrecht`.
 - Bei kartellrechtlichen Bezuegen (Lizenzkartell, Marktmissbrauch): Plugin `kartellrecht-grundlagen`.
 - Bei steuerrechtlicher Bewertung von IP-Rechten: Plugin `steuerrecht-anwalt-und-berater`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -233,10 +231,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
-
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen und Paragrafenkette
 
@@ -400,6 +394,8 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 
 - `vergleichsverhandlung-strategie` — für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` — für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -712,10 +708,6 @@ DesignG:
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 
-## Zentrale Rechtsprechung für Substantiierung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -830,6 +822,8 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 - `erstgespraech-mandatsannahme` — Tatsachen-Grundlage und Streitwertskizze
 - `vergleichsverhandlung-strategie` — paralleler Vergleichsversuch
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-spezifische Bausteine
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

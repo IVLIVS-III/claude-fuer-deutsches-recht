@@ -1,4 +1,5 @@
 name: rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld
+plugin: "rentenpruefer"
 description: Kontenklaerung eines 1992 zugezogenen Russlanddeutschen mit FRG-Zeiten, Qualifikationsgruppenstreit,
   Sechstelkuerzung glaubhaft gemachter Zeiten und abweichenden Archivnummern.
 checks:

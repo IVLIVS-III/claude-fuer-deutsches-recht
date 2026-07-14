@@ -148,11 +148,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - StPO §§ 117 121 137 140 141 146 147 168c 201 304 314 341 410
 - StGB § 12 (Verbrechen-Vergehen)
 - BRAO § 43a
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Aktuelle Rechtsprechung Mandat-Triage
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Triage-Check
 
@@ -163,3 +158,5 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - § 141 StPO — Pflichtverteidiger-Bestellung (Zeitpunkt, Ablauf)
 - § 146 StPO — Verbot Mehrfachverteidigung
 - §§ 10 ff. GwG — Identifizierungspflichten Sorgfaltspflichten Rechtsanwalt
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

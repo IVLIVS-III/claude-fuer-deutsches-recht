@@ -340,10 +340,6 @@ _Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverw
 - §§ 9, 13, 15 ZwVwV
 - § 155 ZVG
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Betriebskosten/Hausgeld
 
 § 153 ZVG (laufende Ausgaben) → § 155 ZVG (Verteilungsplan) → § 10 Abs. 1 Nr. 2 ZVG (Rangklasse Hausgeld) → §§ 8-10 ZwVwV (Ausgaben Verwaltung) → § 16 Abs. 2 WEG (Kostentragung Wohnungseigentuemer) → §§ 556-556d BGB (Betriebskosten Mietverhältnis)
@@ -363,6 +359,8 @@ _Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverw
 4. Soll-Vorauszahlungen der Mieter gegen tatsächliche Kosten abgleichen
 5. Nachzahlungen oder Guthaben berechnen und Mieter informieren
 6. Überschüsse in Verteilungsplan nach § 155 ZVG einbeziehen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -431,10 +429,6 @@ _Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsve
 - § 3 Abs. 1 Nr. 5 ZwVwV
 - § 15 ZwVwV
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Öffentliche Lasten
 
 § 10 Abs. 1 Nr. 3 ZVG (Vorrang öffentlicher Lasten) → § 12 GrStG (Grundsteuerpflicht) → §§ 10-12 ZwVwV (Ausgaben und Rangfolge) → § 155 ZVG (Verteilungsplan) → § 80 AO (Steuerpflichten bei Vermögensverwaltung)
@@ -457,6 +451,8 @@ _Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsve
 | Erschließungs-/Anliegerbeiträge | gem. Bescheid | [...] | [ ] |
 | Müllgebühren/Straßenreinigung | gem. Bescheid | [...] | [ ] |
 | Kanalgebühren/Wasserversorgung | gem. Bescheid | [...] | [ ] |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -871,10 +867,6 @@ Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht V
 - § 4 ZwVwV
 - § 16 ZwVwV
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Gläubiger-Schuldner-Kommunikation
 
 § 154 ZVG (Aufsicht durch Gericht) → § 153 Abs. 2 ZVG (Auskunftspflicht) → §§ 13-15 ZwVwV (Buchführung Rechnungslegung) → § 20 ZwVwV (Vergütung und Rechenschaft) → § 242 BGB (Treu und Glauben, Auskunftsanspruch analog)
@@ -912,6 +904,8 @@ Nächster Auszahlungsantrag: [DATUM]
 
 [UNTERSCHRIFT ZWANGSVERWALTER]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -72,10 +72,6 @@ Berichterstattung an das Vollstreckungsgericht in der Zwangsverwaltung nach §§
 - § 3 ZwVwV
 - § 16 ZwVwV
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Berichtswesen
 
 § 153 ZVG (Pflichten laufende Verwaltung) → § 154 ZVG (Gerichtliche Aufsicht) → § 3 ZwVwV (Besitzerlangungsbericht) → § 14 ZwVwV (Jahresrechnung) → § 15 ZwVwV (Schlussrechnung) → § 20 ZwVwV (Vergütung)
@@ -113,3 +109,5 @@ am [DATUM]:
 
 [DATUM, UNTERSCHRIFT ZWANGSVERWALTER]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -34,7 +34,6 @@ description: "Wenn es um Prüfung von Softwaremangelansprüchen nach Kauf-Werk- 
 - SaaS/Cloud: Mietrecht § 535 BGB — fortlaufende Gebrauchsgewährung, Mangel § 536 BGB führt zu Minderung kraft Gesetzes.
 - Nacherfüllungspflicht: § 439 BGB (Kauf) bzw. § 635 BGB (Werk) — Nachbesserung oder Neulieferung.
 - Sekundäre Rechte nach erfolglosem Fristablauf: Rücktritt § 437 Nr. 2 i.V.m. § 323 BGB, Minderung § 441 BGB, Schadensersatz § 437 Nr. 3 i.V.m. §§ 280, 281 BGB.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -105,10 +104,6 @@ Mit freundlichen Gruessen
 - Bei laufendem SaaS: parallel Minderungsmitteilung an Vermieter nach § 536 BGB.
 - Verjährungsfrist im Aktenkalender notieren.
 
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage zu Beginn
 
 1. Vertragstyp: Kauf / Werk / Miete / Dienst / Kombination?
@@ -149,3 +144,5 @@ Verjährung: § 438 BGB 2 Jahre ab Ablieferung / § 195 BGB 3 Jahre (§ 634a BGB
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

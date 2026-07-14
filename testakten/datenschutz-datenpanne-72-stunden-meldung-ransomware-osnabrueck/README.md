@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 48 KB) | PDF | [`gesamt-pdf/datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck_gesamt.pdf`](gesamt-pdf/datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck_gesamt.pdf`](gesamt-pdf/datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck-einzelpdfs.zip) |
 
@@ -32,7 +32,7 @@ Prüfschwerpunkte sind der Beginn der 72-Stunden-Frist (Kenntnis im Sinne des Ar
 | IT-Administration | Melanie Averbeck |
 | Datenschutzbeauftragter (extern) | Dr. Klaus Rosenthal, Osnabrück |
 | Forensikdienstleister | NordicShield Forensics GmbH, Hamburg (Az. NS-2026-0614-HAS), Dr. Ingo Vahlbrecht |
-| Angreifergruppe | „DarkVault" (fiktiv) |
+| Angreifergruppe | „DarkVault" (Eigenbezeichnung aus dem Erpresserschreiben) |
 | Aufsichtsbehörde | Die Landesbeauftragte für den Datenschutz Niedersachsen, Hannover (Az. LfD-Nds 33-2026/00417), RD'in Frauke Menkhaus |
 
 ## Aktenstruktur

@@ -27,10 +27,8 @@ Die Fragen folgen dem Examensrelevanzkanon für das Erste und Zweite Staatsexame
 **Leitentscheidungen (Beispiele je Modus):**
 
 Karteikarten-Drill (Definitionen):
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Gutachtenstil-Klausurfragen:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Literatur:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -115,3 +113,5 @@ Pushback falls unvollständig: "Sie haben § 242 StGB benannt — gut. Was ist W
 Normangaben und Definitionen in Fragen und Korrekturen folgen gefestigter Rechtsprechung und kanonischer Literatur. Werden Fragen aus meinem Wissen generiert (nicht aus bereitgestellten Quellen), gilt: inhaltliche Korrektheit ist mit `[PRÜFEN]` markiert, wenn keine sichere Verifikation möglich ist. Vor dem Einlernen gegen Skript oder Kommentar abgleichen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

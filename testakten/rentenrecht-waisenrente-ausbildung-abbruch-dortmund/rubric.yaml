@@ -1,4 +1,5 @@
 name: rentenrecht-waisenrente-ausbildung-abbruch-dortmund
+plugin: "rentenpruefer"
 description: Waisenrente nach Ausbildungsabbruch mit gesundheitlicher Begruendung, Uebergangszeit, Studienzusage,
   Erstattungsbescheid und Widerspruch.
 checks:

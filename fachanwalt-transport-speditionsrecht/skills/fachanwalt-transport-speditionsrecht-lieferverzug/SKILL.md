@@ -23,7 +23,6 @@ description: "Wenn es um Lieferverzug in Fachanwalt Transport Speditionsrecht ge
 - Wertdeklaration § 449 HGB / Art. 26 CMR durchbricht Höchstbetrag.
 - Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR unbegrenzte Haftung.
 - Schadensanzeige § 438 Abs. 3 HGB / Art. 30 Abs. 3 CMR: 21 Tage nach Ablieferung — sonst Anspruch erloschen (CMR) bzw. Beweislastnachteil (HGB).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -95,3 +94,5 @@ Mit freundlichen Gruessen
 - Bei Ablehnung: Klage am Frachtführersitz bzw. Ablieferungsort.
 - Verjährungsfrist im Aktenkalender notieren.
 - Bei größerem Schaden Wertdeklaration § 449 HGB / Art. 26 CMR für künftige Aufträge empfehlen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

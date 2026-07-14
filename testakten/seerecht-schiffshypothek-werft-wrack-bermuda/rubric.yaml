@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Seerecht Schiffshypothek Werft Wrack Bermuda"
-plugin: "tbd"
+plugin: "seerecht-schifffahrtsrecht"
 
 checks:
   - id: r01-readme-vorhanden

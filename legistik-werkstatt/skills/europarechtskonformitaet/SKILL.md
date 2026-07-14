@@ -52,7 +52,6 @@ EuGH ist im Maßstab oft strenger als BVerfG.
 
 ## Prüfstation 5 - Notifizierungspflicht 2015/1535
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Prüfen: Faellt das Vorhaben unter:
 - "technische Vorschrift" iSd Art. 1 Nr. 11 RL 2015/1535
@@ -67,10 +66,6 @@ Auch wenn die EU zuständig waere - hat sie tatsächlich Recht gesetzt? Wenn nic
 ## Prüfstation 7 - Vorlagepflicht Art. 267 AEUV
 
 Anwendung im Vollzug: Wenn das nationale Gesetz zu EU-Recht Auslegungszweifel weckt, wird das Tatgericht ggf. den EuGH anrufen müssen.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -99,3 +94,5 @@ Prüfgutachten ein bis drei Seiten:
 ## Anschluss
 
 `goldplating-vermeiden`, `verfassungsmaessigkeit-quercheck`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -34,9 +34,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Enthaelt der Eingang fristwahrendes Material (Klage, Bescheid, Urteil, EB)?
 4. Sind Datenschutzrisiken oder Mandatsgeheimnis-relevante Informationen im Eingang enthalten?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 51 BRAO — Haftung für Organisationspflichtverletzungen im Kanzleibetrieb
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: alle Eingaenge unterliegen dem Mandatsgeheimnis
@@ -85,6 +82,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Eingangsstempel und Lesbarkeit prüfen.
 - Bei Fristbezug Originaleingang und Scanzeit trennen.
 
+```markdown
 ## Intake-Karte
 
 - Kanal:
@@ -108,3 +106,5 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Frist oder Handlung: `kanzlei-allgemein-fristen-monitor`.
 - Antwortentwurf oder Versand: `kanzlei-allgemein-output-versand`.
 - beA-Journal, beA-ZIP oder elektronisches Empfangsbekenntnis: `kanzlei-allgemein-bea-journal`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

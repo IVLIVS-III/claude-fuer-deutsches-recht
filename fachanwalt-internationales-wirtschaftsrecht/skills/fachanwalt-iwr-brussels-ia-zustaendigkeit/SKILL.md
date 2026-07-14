@@ -80,7 +80,6 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 ### Asymmetrische Klauseln
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - "A klagt nur in DE, B kann in DE oder am Sitz von A klagen"
 
 ## 7) Ausschließliche Zuständigkeit Art. 24
@@ -142,7 +141,6 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 ## 12) EuGH-/BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -162,7 +160,6 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 ### Ergaenzende Leitsaetze Bruessel Ia
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Gerichtsstand-Memo Bruessel Ia
 **Adressat:** Mandant — Tonfall: klar erklaerend, ergebnisorientiert
@@ -190,3 +187,4 @@ Streitgegenstand: [VERTRAG / DELIKT]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

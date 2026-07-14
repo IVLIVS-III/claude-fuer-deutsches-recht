@@ -169,7 +169,6 @@ Angesetzt: EUR [Betrag]
 Das vom Jobcenter zugrundeliegende Schlüssige Konzept ist
 angreifbar, weil [Argumentation, z.B. veraltete Daten, keine
 Differenzierung nach Wohnungsgrößen, keine Verfügbarkeitsanalyse]
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Betrag unterhalb der tatsächlichen Kosten ist unzulässig.
 
 V. Einkommensbereinigung (§ 11b SGB II)
@@ -242,11 +241,9 @@ der Sanktionsbescheid ist rechtswidrig, weil:
 
 2. Kein Verschulden: Die Pflichtverletzung war nicht ver-
  schuldet, weil [konkreter Grund: Krankheit, Irrtum,
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Sanktionen sind nur bei Verschulden verfassungskonform.
 
 3. Verhältnismäßigkeit: Die festgesetzte Minderung von [X %]
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  muss ein Härteparagraph greifen.
 
 Wir beantragen: Aufhebung des Sanktionsbescheids.
@@ -348,4 +345,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

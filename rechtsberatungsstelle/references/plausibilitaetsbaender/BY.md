@@ -13,12 +13,9 @@ Diese Datei bietet studentischen Beratern der Rechtsberatungsstelle einen schnel
 | Mietrecht – Kaution | Vermieter fordert Mietkaution | Max. 3 Nettokaltmieten; bar, auf Sparbuch oder als Bürgschaft; Rückzahlung innerhalb von 6 Monaten nach Mietende | § 551 Abs. 1 BGB |
 | Mietrecht – Mieterhöhung | Mieterhöhung auf ortsübliche Vergleichsmiete | Nur bis zur ortsüblichen Vergleichsmiete; Kappungsgrenze 20 % in 3 Jahren (München, Nürnberg, Augsburg: 15 % wegen Gebietsverordnung nach § 558 Abs. 3 S. 2 BGB) | § 558 Abs. 3 BGB; BayMietKappV |
 | Mietrecht – Modernisierung | Mieterhöhung nach Modernisierung | Max. 8 % der Modernisierungskosten p. a. auf den Mieter umlegen; Obergrenze: Miete darf durch Modernisierung nicht mehr als 3 EUR/m² in 6 Jahren steigen | §§ 559, 559e BGB |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Mietrecht – Kündigung | Außerordentliche Kündigung wegen Zahlungsverzug | Rückstand ≥ 2 Nettokaltmieten (§ 543 Abs. 2 Nr. 3a BGB); Schonfristzahlung binnen 2 Monaten nach Zustellung der Räumungsklage heilt fristlose Kündigung (§ 569 Abs. 3 Nr. 2 BGB) | §§ 543, 569 BGB |
 | Arbeitsrecht – Kündigung | Ordentliche Kündigung; KSchG-Anwendbarkeit | KSchG gilt ab 6 Monaten Betriebszugehörigkeit und mehr als 10 Arbeitnehmern (Schwellenwert § 23 KSchG); Klagefrist 3 Wochen (§ 4 KSchG) – Notfrist, keine Verlängerung möglich | § 1, § 4, § 23 KSchG |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Arbeitsrecht – Lohn | Mindestlohn unterschritten | Allgemeiner gesetzlicher Mindestlohn 2025: 12,82 EUR brutto/Stunde; Anspruch nicht verzichtbar (§ 3 MiLoG); Verjährung 3 Jahre (§ 195 BGB) | § 1 MiLoG; § 3 MiLoG |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Sozialrecht – Widerspruch | Frist für Widerspruch gegen Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugang am 4. Tag nach Aufgabe zur Post gilt als Bekanntgabe (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: 3. Tag a.F.) | § 84 SGG; § 37 SGB X |
 
 ---
@@ -89,10 +86,11 @@ Die studentischen Rechtsberatungsstellen in Bayern sind vor allem in München (L
 - BayVwVfG; AGGVG (Bayerisches Ausführungsgesetz zur VwGO)
 - BayMietKappV (Verordnung über die Gebiete mit angespanntem Wohnungsmarkt – zuletzt 2023 verlängert)
 - BayWoFG (Bayerisches Wohnraumförderungsgesetz)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Erfurter Kommentar zum Arbeitsrecht, 25. Aufl. 2025, § 1 KSchG; § 4 KSchG
 - Kallert, in: Gagel, SGB II/III, Loseblatt (Stand 2024), § 22 SGB II
 - Mietspiegel München 2023/2024 (Landeshauptstadt München, Sozialreferat)
 - Mietspiegel Nürnberg 2023 (Stadt Nürnberg, Amt für Wohnen und Stadtentwicklung)
 - Mietspiegel Augsburg 2022 (Stadt Augsburg)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

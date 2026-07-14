@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 442 BGB** — Kaeufer-Kenntnis schliesst Mangel-Haftung aus; Anti-Sandbagging schraenkt das ein
 - **§ 453 BGB** — Anteilskauf; Gewaehrleistungsregime beim Anteilskauf
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Disclosure-Struktur: Specific und General Disclosures
 
 ### Specific Disclosures
@@ -229,6 +225,7 @@ nach vernaenftiger Nachforschung.
 ## Quellen
 
 - § 444, 311 II, 442, 453 BGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 10
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

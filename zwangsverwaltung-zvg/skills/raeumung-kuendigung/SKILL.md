@@ -72,10 +72,6 @@ Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall 
 - § 149 ZVG als Schuldnerwohnraum-Schnittstelle
 - § 5 ZwVwV
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Räumung/Kündigung ZVG
 
 § 543 BGB (außerordentliche Kündigung Zahlungsverzug) → § 546 BGB (Räumungsanspruch) → § 149 ZVG (Schutz Schuldnerwohnraum) → §§ 5-6 ZwVwV (Besitzkonflikte) → §§ 885-886 ZPO (Räumungsvollstreckung) → § 940a ZPO (Räumungsverfügung einstweiliger Rechtsschutz)
@@ -113,3 +109,5 @@ und geräumt an den Kläger als Zwangsverwalter herauszugeben.
 Begründung:
 [KÜNDIGUNG VOM DATUM, ANLAGE K1; RÜCKSTANDSNACHWEIS ANLAGE K2]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -25,9 +25,7 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 ## Rechtsrahmen
 
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit grundsätzlich offen für Gerüche
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **UMV-Reform 2017:** Art. 4 UMV verlangt nun nur noch "klare und eindeutige" Darstellung (nicht mehr grafisch) — theoretisch neue Tür für Geruchsmarken; praktisch noch keine erfolgreiche EUIPO-Registrierung
 - **§ 4 Nr. 3 UWG:** Unlautere Nachahmung — schützt Duftkomposition ohne Markeneintragung
 - **Patentrecht:** § 1 PatG — Aroma-/Parfum-Kompositionen als chemische Verbindungen patentierbar
@@ -52,7 +50,6 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 
  **Option B — UWG-Schutz (§ 4 Nr. 3):**
  - Unlautere Nachahmung erfordert: wettbewerbliche Eigenart + Nachahmung + besondere Umstände
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  - Nachweis: Unique Smell Signature, Olfaktorik-Gutachten
  - Grenze: Nur gegen direkte Kopien, nicht gegen ähnliche Düfte
 
@@ -132,10 +129,11 @@ Bevor die Duftmarke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Beschl. v. 01.12.2016 — 30 2015 122 220.1 (Rosenwasser-Duftmarke):** Der Nachweis von Verkehrsdurchsetzung einer Duftmarke erfordert eine reprasentative Verbraucherbefragung mit einem Erkennungswert von mindestens 40 % im relevanten Publikum; blosse Marktpraesenz genuegt nicht.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

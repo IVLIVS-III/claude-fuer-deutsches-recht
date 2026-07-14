@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Influencer Recht Creator Sachleistungen Steuer Werbung"
-plugin: "tbd"
+plugin: "influencer-recht"
 
 checks:
   - id: r01-readme-vorhanden

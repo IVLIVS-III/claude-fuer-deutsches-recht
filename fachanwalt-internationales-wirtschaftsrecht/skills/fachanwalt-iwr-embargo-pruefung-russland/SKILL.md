@@ -43,7 +43,6 @@ Chronologische Uebersicht GTAI: https://www.gtai.de/de/trade/eu/zoll/chronologis
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Musterentscheidungen zu Art. 5a VO 833/2014 (Dienstleistungsverbote) — laufend aktualisiert.
 
 ## Prüfschema
@@ -224,11 +223,6 @@ Mit freundlichen Gruessen
 - BAFA-Russland-Hinweise: https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Embargos/Russland/russland.html
 - EU-Sanctions Map: https://www.sanctionsmap.eu/
 - GTAI Chronologie: https://www.gtai.de/de/trade/eu/zoll/chronologische-uebersicht-ueber-eu-sanktionen-gegenueber-russland-817424
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Embargo-Pruefung
 
@@ -292,3 +286,4 @@ Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

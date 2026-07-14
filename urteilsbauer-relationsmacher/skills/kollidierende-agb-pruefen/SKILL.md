@@ -15,10 +15,6 @@ Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen 
 4. Wie haben die Parteien den Vertrag danach vollzogen — ist ein Vertrag zustande gekommen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 305 BGB — Einbeziehungsvoraussetzungen AGB
@@ -78,7 +74,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Beide Parteien haben auf ihre jeweiligen AGB verwiesen. Die Parteien haben den Vertrag
 gleichwohl vollzogen (Lieferung / Zahlung). Ein Vertrag ist zustande gekommen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Klausel | AGB Kläger | AGB Beklagte | Ergebnis |
 |---|---|---|---|
@@ -110,3 +105,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Bezugnahme im Urteil
 
 Im Tatbestand: Inhalt der streitigen AGB-Klauseln knapp zitieren, Verweis auf die Anlagen mit Bezugnahme nach Paragraf 313 II 2 ZPO.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

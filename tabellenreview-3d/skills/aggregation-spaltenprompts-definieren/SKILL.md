@@ -22,7 +22,6 @@ description: "Wenn es um /tabellenreview-3d:risikoampel-aggregation in Tabellenr
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aggregationsstufen
 
@@ -66,3 +65,5 @@ Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skil
 ## Hinweis zur Prüfer-Abnahme
 
 Vor Mandatsabnahme müssen ALLE Zellen mit `prüfer-flag` durch den Prüfer abgehakt sein. Ohne Prüfer-Abnahme darf das Aggregat nicht an Mandanten gehen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -36,7 +36,6 @@ description: "Wenn es um Bussgeld Einspruch Pruefen in Fachanwalt Verkehrsrecht 
 
 - **§ 26 Abs. 3 StVG** — Verjährung drei Monate ab Tatzeit (bei Geschwindigkeitsüberschreitung etc.); Unterbrechung durch Anhörungsmaßnahmen § 33 OWiG.
 - **§ 33 OWiG** — Unterbrechungsgründe: Bekanntgabe der Einleitung des Verfahrens, Erlass des Bußgeldbescheids; Klageerhebung; nach Unterbrechung neue volle Verjährungsfrist.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 55 OWiG** — Anhörung: Betroffener muss vor Erlass des Bußgeldbescheids Gelegenheit zur Stellungnahme erhalten; Verletzung kann zu Verfahrenshindernis führen.
 - **§ 67 Abs. 1 OWiG** — Einspruch innerhalb zwei Wochen nach Bekanntgabe bei der erlassenden Behörde; schriftlich oder zur Niederschrift.
 - **§ 52 OWiG** — Wiedereinsetzung in den vorigen Stand bei unverschuldetem Fristversäumnis; unverzüglicher Antrag.
@@ -58,9 +57,7 @@ description: "Wenn es um Bussgeld Einspruch Pruefen in Fachanwalt Verkehrsrecht 
 | ProViDa 2000 | Video-Nachfahren | variabel | Abstandsberechnung fehleranfällig | Fallweise zu prüfen |
 | Multanova 6F | Radar | 3 km/h bis 100; 3 % über 100 | Schlechter Einstel-lungsnachweis | Standardisiert |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Bußgeldkatalog-Übersicht (Auszug, Stand 2024)
 
@@ -309,4 +306,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

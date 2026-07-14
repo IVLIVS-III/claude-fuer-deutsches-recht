@@ -19,9 +19,6 @@ description: "Wenn es um /anpassen — Kanzleiprofil und Einstellungen anpassen 
 3. Ist die bestehende Konfiguration vollstaendig und ohne Platzhalter (sonst Kaltstart-Interview noetig)?
 4. Betrifft die Änderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen müssen Datenschutz beruecksichtigen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer KI-Infrastruktur
@@ -166,3 +163,5 @@ TOM-Status aktualisieren:
 - Das vollständige Interview ersetzen. Bei Ersteinrichtung `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` ausführen.
 - Konfigurationsänderungen ohne explizite Genehmigung vornehmen.
 - Erste Kanzlei-Grunddaten (Kanzleiname, allgemeine Rechtsgebiete) separat von `kanzlei-profil.md` verwalten — diese immer im geteilten Profil ändern.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

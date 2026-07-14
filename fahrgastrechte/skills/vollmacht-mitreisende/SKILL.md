@@ -132,10 +132,6 @@ Liebe Grüße
 
 Bei Übergabe an eine Anwältin oder einen Anwalt: die anwaltliche Untervollmacht ist in der Vollmacht ausdrücklich erfasst ("Untervollmacht an eine Rechtsanwältin oder einen Rechtsanwalt"). Die Kanzlei legt regelmäßig ein eigenes Vollmachtsformular bei.
 
-## Leitentscheidungen Vollmacht / Familienvertretung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ausgabe
 
 - `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
@@ -150,3 +146,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

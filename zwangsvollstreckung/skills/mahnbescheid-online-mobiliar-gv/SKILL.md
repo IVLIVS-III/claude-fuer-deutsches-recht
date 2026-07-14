@@ -24,10 +24,6 @@ Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 68
 3. Hat der Schuldner einen Wohnsitz in Deutschland — Auslandszustellung schwierig?
 4. Ist der Antragsgegner Verbraucher oder Kaufmann — B2C erfordert strengere Prüfung?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 688 ZPO — Statthaftigkeit des Mahnverfahrens
@@ -125,12 +121,10 @@ Privatperson oder Vereine ohne beA: über das Online-Portal anlegen, dann ausdru
 - **Teilwiderspruch**: nur über bestrittenen Teil wird ans Streitgericht abgegeben; Restteil → Vollstreckungsbescheid möglich.
 - **Verspäteter Widerspruch** nach VB-Antrag: behandelt als Einspruch gegen den VB § 700 Abs. 3 ZPO.
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Qualitätsgates
 
 - Verbraucherdarlehen mit überhöhtem Zinssatz – Mahnverfahren unzulässig.
 - Anspruchsbezeichnung muss eindeutig sein – sonst keine Verjährungshemmung.
 - Bei Auslands-Schuldner ist Mahnverfahren oft nicht zulässig oder Europäisches Mahnverfahren (EuMahnVO) statt deutsches Mahnverfahren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

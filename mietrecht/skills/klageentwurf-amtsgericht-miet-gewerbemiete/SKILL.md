@@ -96,10 +96,6 @@ Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerich
 
 Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt für Mietrecht zu prüfen. Versäumte Tatsachen, falsche Anspruchsgrundlagen oder formale Fehler können zur Klageabweisung und Kostenlast führen. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.
 
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 - Sachliche Zuständigkeit: Paragraf 23 Nummer 2a GVG (Wohnraum), Paragraf 23 Nummer 1 GVG und Paragraf 71 Absatz 1 GVG (Gewerberaum nach Wert)
@@ -112,3 +108,5 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 
 Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt "Aktuelle Rechtsprechung" geprueft und korrigiert:
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

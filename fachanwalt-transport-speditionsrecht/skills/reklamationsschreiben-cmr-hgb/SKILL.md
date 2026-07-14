@@ -64,7 +64,6 @@ Das Reklamationsschreiben ist im Transport- und Speditionsrecht die entscheidend
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -214,7 +213,6 @@ Warenwert: EUR 75.000 (Handelsrechnung, Anlage K1)
 
 Differenz zu regulärer Haftung: EUR 65.583
 → Nachweis qualifiziertes Verschulden Art. 29 CMR
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klären ---
@@ -252,7 +250,6 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 | Gegenargument | Erwiderung |
 |---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | "Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
 | "Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
 | "Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
@@ -295,3 +292,5 @@ Differenz zu regulärer Haftung: EUR 65.583
 ## Quellen
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

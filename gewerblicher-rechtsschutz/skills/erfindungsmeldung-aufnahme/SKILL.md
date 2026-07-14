@@ -38,10 +38,6 @@ Bei formeller Erfindungsmeldung (IDF oder Unternehmensformular): Felder daraus e
 - **§§ 1–3 GebrMG** — Gebrauchsmuster als schnellerer Schutzrechtsweg (keine erfinderische Tätigkeit im gleichen Maßstab, aber Neuheit + erfinderischer Schritt erforderlich)
 - **§ 26 GeschGehG** — Geschäftsgeheimnis als Alternative bei mangelnder Erkennbarkeit der Verletzung
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Kommentare
 
 - Benkard/Melullis, PatG, 12. Aufl. 2023, § 3 Rn. 1 ff. (Neuheitsbegriff, Stand der Technik)
@@ -241,6 +237,4 @@ Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

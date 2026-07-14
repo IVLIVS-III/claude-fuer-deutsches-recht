@@ -32,9 +32,6 @@ description: "Wenn es um Gesellschafterbeschluss – Kapitalerhöhung gegen Sach
 - § 56a GmbHG (Sachgründungsbericht / Sacheinlagebericht)
 - § 9 GmbHG (Differenzhaftung bei Überbewertung)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Beschlussstruktur festlegen
@@ -102,14 +99,8 @@ Stand: 05/2026.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 §§ 53, 54 GmbHG (Satzungsänderung, notarielle Beurkundung) → § 55 GmbHG (Kapitalerhöhung durch Gesellschafterbeschluss) → § 56 GmbHG (Sacheinlage, Werthaltigkeitsprüfung) → § 57 GmbHG (Anmeldung zum Handelsregister) → § 57a GmbHG (vereinfachte Kapitalerhöhung) → § 47 GmbHG (Mehrheitserfordernisse, Stimmverbote)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -35,9 +35,6 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 - **MTRL**, **ZinsLizenzRL**.
 - **MLI**: beide Unterzeichner; das DBA-Ungarn ist Covered Tax Agreement unter dem deutschen BEPS-MLI-Anwendungsgesetz (vgl. BMF-Stand DBA 01.01.2026).
 
-### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Land-spezifisches
 
 ### Ansaessigkeit (Art. 4)
@@ -156,3 +153,5 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Unga
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Ungarn 28.02.2011, in Kraft 30.12.2011 (BGBl. 2011 II S. 1322). MLI-Anwendung (Covered Tax Agreement). AStG-Niedrigsteuerschwelle 15 Prozent (§ 8 Abs. 5 AStG). Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

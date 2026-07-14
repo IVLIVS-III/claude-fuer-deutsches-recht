@@ -29,7 +29,6 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 
 ### Gerichts-/Verwaltungsentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - FinMin NRW Erlass 2024 zu eSports-Verein-Gemeinnützigkeit (eSports nicht als Sport § 52 AO anerkannt)
 - DOSB-Beschluss 2018 (eSports keine Mitgliedssportart) — bis 2026 unverändert
 
@@ -80,7 +79,6 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 
 - Antrag auf Gemeinnützigkeit
 - Bei Ablehnung: Widerspruch + ggf. Klage Finanzgericht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Phase 5 — Verbandsanbindung
 
@@ -101,14 +99,6 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 - `fachanwalt-sportrecht-transferklausel` — bei Profi-eSports-Verträgen
 - `fachanwalt-steuerrecht-...` (steuerrecht-anwalt-und-berater) — Gemeinnützigkeits-Beratung
 
-## Quellen und Updates
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Aktuelle Rechtsprechung eSports / Vereinsrecht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen eSports-Vereinsrecht
 
 - § 21 BGB — eingetragener Verein; nicht wirtschaftlicher Verein
@@ -117,3 +107,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - § 51 AO — allgemeine Gemeinnuetzigkeitsvoraussetzungen
 - § 67a AO — Sportveranstaltungen-Steuerbefreiung
 - § 58 Nr. 7 AO — Mittelbeschaffungskoerperschaft als Ausweg
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

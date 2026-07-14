@@ -159,10 +159,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 280, 241 Abs. 2 BGB — Beraterpflichten: Anwalt muss saemtliche wesentlichen Risiken benennen und einordnen; Unterlassen ist Pflichtverletzung
 - §§ 307-309 BGB — AGB-Haftungsbeschraenkungen im Beratungsvertrag: Haftungsausschluss oder Cap für Reports oft vereinbart; Grenze: grobe Fahrlaessigkeit nicht ausschließbar
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Findings zusammenfuehren:** Legal, Commercial, Tax, HR, IP, IT, Real Estate, Litigation
@@ -176,3 +172,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Wesentliche Findings nicht adressiert: Anwaltshaftung § 280 BGB
 - Issues-to-SPA-Mapping fehlt: Kaeufer hat keine Entscheidungsgrundlage für SPA-Verhandlung
 - Executive Summary ohne klare Risikoampel: Management kann nicht priorisieren
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

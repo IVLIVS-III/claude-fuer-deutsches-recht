@@ -16,12 +16,9 @@ description: "Wenn es um Anlageberatung fehlerhaft in Fachanwalt Bank Kapitalmar
 
 ## Anspruchsgrundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anleger- und anlagegerechte Beratung — Pflicht zur vollständigen, richtigen und verständlichen Information.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anspruchsgrundlage: §§ 280 Abs. 1, 311 Abs. 2 BGB i.V.m. Beratungsvertrag (Schadensersatz wegen Pflichtverletzung).
 - Bei Vorsatz oder Sittenwidrigkeit zusätzlich § 826 BGB und § 31 BGB für Organhaftung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -80,7 +77,6 @@ Beratungsfehler liegen in folgenden Punkten:
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    510/07 Beschl. v. 20.01.2009 Rn. 12 ff.)
 2. unterlassene Aufklaerung ueber Innenprovision von [...] Prozent
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. anlegerunabhaengige Empfehlung trotz Risikoklasse [...]
 
 Wir fordern Sie auf bis [Datum vier Wochen] Zug um Zug gegen Rueckgabe
@@ -115,7 +111,6 @@ Mit freundlichen Gruessen
 5. Schadenshoehe: Differenzhypothese oder negatives Interesse berechnen?
 
 ### Ergaenzende Leitsaetze
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt-fuer-Schritt-Workflow Anlageberatungsfehler
 1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.

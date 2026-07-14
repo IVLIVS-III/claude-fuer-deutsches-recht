@@ -60,10 +60,6 @@ Kläre vor der Tarifierung:
 4. Sind Antidumping- oder Ausgleichsmassnahmen fuer die fragliche KN-Position bekannt?
 5. Gibt es Abweichungen zwischen EU-KN und HS-Nomenklatur auf 6-Steller-Ebene (WTO-Einheitlichkeit)?
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Zolltarif/vZTA
 
 - Art. 33, 34 UZK — Verbindliche Zolltarifauskunft (vZTA), Gueltigkeit 3 Jahre
@@ -106,3 +102,5 @@ Bearbeiter: [NAME]
    Alternativposition: [KN-NR.] — Risiko: [BESCHREIBUNG]
    Empfehlung: [vZTA / interne Dokumentation / Anwaltliches Opinion Letter]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

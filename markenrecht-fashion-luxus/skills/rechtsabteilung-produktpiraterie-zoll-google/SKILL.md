@@ -101,7 +101,6 @@ Zoll Hamburg beschlagnahmt Container mit 4.000 gefälschten klôtzzkètté-Handt
 Zollamt Frankfurt-Flughafen beschlagnahmt täglich 2-5 Päckchen mit Einzel-Fälschungen (Direktkauf aus China durch Endverbraucher). AWA deckt auch diese Kleinstsendungen ab. Vereinfachtes Vernichtungsverfahren. Kein Klagen gegen Endverbraucher (Ressourcen-Frage, Reputationsrisiko).
 
 ### Konstellation 3: Freie Zone / Transitware
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen-Hardening
 
@@ -146,7 +145,6 @@ beantragt. Der Importeur wurde von uns unterrichtet.
 
 - **3-Werktage-Frist:** Zoll informiert, klôtzzkètté hat 3 Werktage — Notfall-Kontakt 24/7 muss beim Zoll hinterlegt sein
 - **Lagerkosten trägt Rechteinhaber:** Bei großen Containern entstehen erhebliche Lagergebühren — schnelle Entscheidung über Vernichtung/Klage nötig
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Falsche Beschlagnahme:** Bei Irrtum über Verletzung haftet klôtzzkètté für Schäden des Importeurs (Art. 28 VO 608/2013) — gründliche Prüfung jeder Beschlagnahme
 
 ## Triage-Fragen bei Produktpiraterie
@@ -156,12 +154,6 @@ Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
 2. Hat der Zoll bereits Sendungen beschlagnahmt — wenn ja, laeuft die 3-Werktage-Frist zur Einwilligung?
 3. Ist der Importeur / Anmelder bekannt und inlaendisch greifbar (für Vernichtungsklage)?
 4. Kommt das vereinfachte Vernichtungsverfahren (Art. 23 VO 608/2013) in Betracht?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: AWA-Verlängerungs-Checkliste
 
@@ -193,3 +185,4 @@ Zoll-Kooperationspartner:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

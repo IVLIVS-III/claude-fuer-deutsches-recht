@@ -13,9 +13,6 @@ Dieses Fachmodul vor jeder Herausgabe.
 3. Gibt es bekannte Risikostellen (Fristen, Wahlrechte, Ausnahmen), die besonders geprueft werden müssen?
 4. Liegt ein Prüfgruppen-Protokoll vor oder soll das Gate nur einen Entwurfs-Check durchfuehren?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 11 BGG — Prüfpflicht der öffentlichen Hand für barrierefreie Kommunikation
 - § 58 VwGO — Fehlerhafte Rechtsbehelfsbelehrung fuehrt zur Fristverlaengerung
@@ -132,3 +129,5 @@ Stoppe die Herausgabe, wenn:
 - bei Leichter Sprache fälschlich behauptet wird, es habe eine Prüfung durch
  Zielgruppenpersonen gegeben.
 - der Text herablassend wirkt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

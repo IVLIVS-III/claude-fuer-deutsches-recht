@@ -27,10 +27,6 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 - **VersR** Berufshaftpflicht
 - **§ 84 SGB X** — MDK-Verfahren
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## ADR-Pfade
 
 ### Pfad 1 — Norddeutsche Schlichtungsstelle für Arzthaftpflichtfragen
@@ -104,7 +100,6 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 
 ## Strategie und Taktik
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Aufklärungsmangel**: Arzt muss beweisen, dass aufgeklärt wurde (Aufklärungsbogen + Gesprächs-Protokoll)
 - **Dokumentations-Mangel**: indizielle Wirkung gegen Arzt
 - **Schmerzensgeld-Tabellen** Hacks/Beck (Orientierung)
@@ -124,10 +119,6 @@ Arzthaftungs-Streit hat einen eigenen ADR-Pfad: **Gutachterkommissionen und Schl
 Stand: 05/2026. §§ 630a-h BGB seit 2013. Schlichtungsordnungen 2024 aktualisiert. BGH-Linien stabil.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -228,3 +219,4 @@ Anlagen: Patientenakte, Privatgutachten (falls vorhanden), Vollmacht
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -39,10 +39,6 @@ description: "Wenn es um Abmahnung oder Vergleich bei Domainnamen-Streit und WIP
 - **WIPO Mediation Rules** / **WIPO Arbitration Rules** (2021)
 - **§ 1066 ZPO** — Vollstreckbarkeit Schiedsspruch
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette bei Reaktion auf Abmahnung
 
 § 14 MarkenG / § 3 UWG → § 8 UWG (Unterlassungsanspruch) → § 13 Abs. 3 UWG (Kostenerstattung) → §§ 339-345 BGB (Vertragsstrafe) → § 8c UWG (Missbrauch prüfen) → ggf. § 12 UWG (einstweilige Verfuegung bei Scheitern)
@@ -194,3 +190,5 @@ Mit freundlichen Gruessen
 | Verletzergewinn | Tatsaechlicher Gewinn des Verletzers | Auskunftsklage § 19 MarkenG |
 | Einmaliger Pauschbetrag | Nach Billigkeit, haeufig 5.000-50.000 EUR | Gerichtliche Schaetzung § 287 ZPO |
 | Vertragsstrafe | Vereinbarter Betrag je Verstoß | Unterlassungserklaerung |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

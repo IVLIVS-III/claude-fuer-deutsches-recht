@@ -69,7 +69,6 @@ Falls aus dem Profil erkennbar: direkt verwenden. Andernfalls fragen. Prüfen:
 - Paragraf 18 ArbZG: Nicht anwendbar auf leitende Angestellte i.S.d. Paragraf 5 Abs. 3 BetrVG
 
 **Arbeitszeiterfassung:**
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. MiLoG (Mindestlohngesetz)
 
@@ -109,7 +108,6 @@ Hinweis: Die Minijob-Verdienstgrenze ist an den Mindestlohn gekoppelt; sie betra
 
 ### 5. Überstunden
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Freizeitausgleich vor Auszahlung bevorzugen, um Lohnnebenkostenbelastung zu reduzieren.
 - Überstunden-Dokumentationspflicht (aus BAG-Rspr. seit CCOO-Entscheidung EuGH): `[Modellwissen – prüfen]`.
 
@@ -128,14 +126,12 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 Wesentliche Quellen:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Riechert/Nimmerjahn, MiLoG, 3. Aufl. 2021, Paragraf 1 Rn. 1 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schmitt, EFZG, 9. Aufl. 2023, Paragraf 3 Rn. 1 ff.
 
 ## Beispiele
 
 **Frage:** Muss ich Überstunden bezahlen, wenn der Arbeitsvertrag sagt "Überstunden sind mit dem Gehalt abgegolten"?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Frage:** Wie viele Stunden darf ein Mitarbeiter täglich arbeiten?
 
@@ -147,3 +143,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Tarifbindung ignoriert** - Branchentarifvertraege können hoehere Mindestloehne oder abweichende Arbeitszeiten vorsehen.
 - **eAU-Umstellung uebersehen** - seit 01.01.2023 laeuft AU-Meldung digital; Arbeitgeber muss dies in HRIS-System abbilden.
 - **Arbeitszeiterfassungspflicht** - BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21 (Pflicht zur Arbeitszeiterfassung aus Paragraf 3 Abs. 2 Nr. 1 ArbSchG i.V.m. EuGH C-55/18 "CCOO"). Gesetzgeberische Konkretisierung im ArbZG noch ausstehend, Stand vor Ausgabe prüfen. Quelle: dejure.org-Vernetzung BAG 13.09.2022 - 1 ABR 22/21.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

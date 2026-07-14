@@ -179,7 +179,6 @@ II. Rechtslage
 1. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG sind erfüllt:
  a) Lebensunterhalt gesichert (monatl. Nettoeinkommen EUR [Betrag]
  übersteigt Regelbedarf SGB II EUR [Betrag] für [Personen]),
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  b) Identität geklärt, Pass gültig (Anlage K1).
  c) Kein Ausweisungsinteresse § 54 AufenthG (Anlage K2:
  Führungszeugnis ohne Eintrag).
@@ -373,3 +372,4 @@ Anlagen: 1 Vollmacht, 2 Einkommensnachweise, 3 Reisepass, 4 Fuehrungszeugnis,
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

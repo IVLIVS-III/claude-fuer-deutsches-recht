@@ -19,9 +19,6 @@ description: "Wenn es um Transaktionsstopp, Freeze und Exit in Geldwäschepräve
 3. Welche Fristen gelten für die Durchfuehrung der Sperre und für Kunden-Kommunikation?
 4. Wie wird mit Restguthaben und Kontobeendigung umgegangen?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 46 GwG — Nichtdurchfuehrung der Transaktion bei Verdacht
 - § 47 GwG — Verzoegerungsmoeglichkeit bei Verdacht (bis Verdachtsmeldeentscheidung)
@@ -50,3 +47,5 @@ description: "Wenn es um Transaktionsstopp, Freeze und Exit in Geldwäschepräve
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

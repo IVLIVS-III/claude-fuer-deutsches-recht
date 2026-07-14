@@ -231,9 +231,7 @@ datenschutzrecht/
 - Neue Testakte `datenschutz-us-transfer-cloudsuite-rheinmain` mit Behördenanfrage, DPF-Vermerk, SCC-Anlagen, TIA, TOMs, Subprozessoren und Antwortentwurf.
 
 ### v3.3.0 (05/2026)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **avv-pruefung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
 - Alle damals 18 Skills: Abschnitt "Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
 - `plugin.json` Version auf 3.3.0, description aktualisiert (TDDDG → TDDDG, Drittlandstransfer ergänzt)
@@ -633,3 +631,5 @@ Automatisch generierte Komplett-Liste aller 366 Skills in diesem Plugin. Jeder S
 | [`zeitleiste`](skills/zeitleiste/SKILL.md) | Wenn es um Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

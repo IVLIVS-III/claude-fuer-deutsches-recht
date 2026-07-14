@@ -165,9 +165,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 2 GmbHG; § 15 GmbHG — gesellschaftsrechtliche Grundlagen GmbH: relevant für alle Corporate-Mandate
 - §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen über eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
 
-### Leitsaetze aus der Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -175,3 +172,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
 - Senior Review vor Weiterleitung an Mandant oder Gegenseite
 - Dokumentation: Datum, Bearbeiter, Version, Freigabe
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

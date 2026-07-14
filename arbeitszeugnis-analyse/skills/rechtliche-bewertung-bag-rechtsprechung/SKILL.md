@@ -42,11 +42,6 @@ description: "Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeits
 
 **Beispiel 8 – Streitwert und Vertretungspflicht:** Das Gericht setzt den Streitwert nach Paragraf 3 ZPO fest; landesrechtliche Streitwertkataloge und örtliche Praxis können Orientierung geben, ersetzen aber keine Einzelfallprüfung. Eine anwaltliche Vertretung ist im ersten Rechtszug vor dem Arbeitsgericht möglich, aber nicht erforderlich. Der Klageantrag muss den verlangten Wortlaut so bestimmt wiedergeben, dass ein stattgebender Titel vollstreckbar ist.
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Leitentscheidungs-Anker (vollstaendige BAG-Linie)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
@@ -67,3 +62,5 @@ description: "Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeits
 | **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen (Paragraf 109 II 2 GewO). | frei publiziert / dejure-Suche |
 | **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich übernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
 | **BAG, Urt. v. 08.03.1995 - 5 AZR 848/93** | Zeugniserteilung ist Holschuld (Paragraf 269 BGB): Arbeitnehmer holt im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, Paragraf 242 BGB) Schickschuld. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 35 ff. GWB; FKVO (EG) 139/2004** — Vollzugsverbot; Freigabeerfordernis
 - **W&I-Versicherungsbedingungen** — Underwriter verlangen vollstaendigen DD-Report und No-Claims Declaration
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Integriertes DD-Reporting: Workstream-Matrix
 
 | Workstream | Hauptbefunde | Risikobewertung | SPA-Empfehlung |
@@ -245,6 +241,7 @@ Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Repo
 ## Quellen
 
 - §§ 311 II, 444 BGB; § 93 AktG; §§ 35 ff. GWB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

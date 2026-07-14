@@ -208,14 +208,6 @@ Vor Versand:
 
 ## Vertiefung — Rechtsprechung Agrarrecht-Schriftsatz
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung Schriftsatz Agrarrecht
 
 LwVfG Paragraf 1 Nummer 1a und Paragraf 2 (bürgerliche Landpachtstreitigkeit und ausschließliche Eingangsinstanz) → ZPO Paragrafen 138 und 253 (Tatsachenvortrag und bestimmter Antrag) → ZPO Paragraf 286 (freie Beweiswürdigung) → ZPO Paragraf 287 nur bei erfüllten Voraussetzungen für Schadens- oder Höhenschätzung → VwVfG Paragraf 24 (Amtsermittlung der Agrarbehörde) → VwGO Paragrafen 80 Absatz 5 und 114 (Eilrechtsschutz und gerichtlicher Kontrollmaßstab)
@@ -223,3 +215,5 @@ LwVfG Paragraf 1 Nummer 1a und Paragraf 2 (bürgerliche Landpachtstreitigkeit un
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

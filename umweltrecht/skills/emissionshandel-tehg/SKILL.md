@@ -34,10 +34,6 @@ description: "Wenn es um Emissionshandel und TEHG in Umweltrecht geht: erstellt 
 - **ZuV 2020** — Zuteilungsverordnung 2020 — Benchmarks, Benchmark-Kurven, Cross-Sektoral-Correction-Faktor (CSCF)
 - **BEHG** — Brennstoffemissionshandelsgesetz (nationaler ETS); § 10 BEHG Berichts- und Abgabepflicht
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **TEHG-Pflicht prüfen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
@@ -128,3 +124,5 @@ Anlagen: Produktionsdaten, Pruefstellen-Bericht, Benchmark-Berechnung
 - `esg-greenwashing-csrd` — CSRD-Berichtspflicht ETS-Kosten
 - `energierecht-industriekunden` — Befreiung BES-Regelung CO2-Kompensation
 - `umweltrecht-kommandocenter` — Mandat-Intake
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

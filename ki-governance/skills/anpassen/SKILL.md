@@ -112,9 +112,6 @@ Downstream-Auswirkungen von Konfigurationsänderungen können folgende Normen be
 - **Eine Änderung auf einmal.** Nicht das gesamte Interview neu stellen. Bei mehreren
  Änderungen sequenziell vorgehen und jede vor dem Weitermachen bestätigen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 5 KI-VO — verbotene Praktiken (jede Profileinstellung muss dagegen gecheckt werden)
 - Art. 26/29 KI-VO — Betreiberpflichten (Anpassungen an Hochrisiko-Einstellungen)
@@ -155,3 +152,5 @@ Geaendert von: [NAME], [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -123,10 +123,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 111 AktG** — Aufsichtsrats-Informationsrechte bei wesentlichen Änderungen post-Closing
 - **§§ 14 ff., 20 ff. UmwStG** — Steuerneutrale Integration; Verschmelzung; Sperrfristen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Post-Closing-Aktionsplan: Priorisierte Maßnahmen
 
 ### Sofort (bis 2 Wochen post-Closing)
@@ -213,5 +209,6 @@ Mit freundlichen Gruessen
 ## Quellen
 
 - §§ 39-45 GmbHG; §§ 291-310, 304-305 AktG; §§ 14-19 KStG; § 613a BGB; § 106 BetrVG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -25,9 +25,6 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 3. Gibt es eine Frist, die im Abschluss wiederholt werden sollte?
 4. Ist der Kontext streitig (eher sachlicher Ausblick) oder kooperativ (eher herzlicher Abschluss)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 17 BORA — Aussergerichtliche Streitbeilegung: kooperativer Abschluss unterstuetzt diesen Grundsatz
 - § 242 BGB — Treu und Glauben: Kommunikation hat auch im Abschluss Kooperationscharakter
@@ -77,3 +74,5 @@ In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne 
 
 **Vorher:** "Das ist mein letztes Wort in dieser Sache."
 **Nachher:** "Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

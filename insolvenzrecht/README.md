@@ -88,7 +88,6 @@ Das Template umfasst 11 Paragraphen: Präambel, Vertragsgegenstand mit Datenschu
 ## Abgrenzung zu den Schwester-Plugins
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es liefert die rechtlichen Subsumtionsbausteine und Beweismittel, wenn die Krise bereits eingetreten ist — Zeitpunkt der Zahlungsunfähigkeit, Überschuldungsstatus zum Stichtag, Antragspflichtfrist, Haftung Geschäftsleiter.
 
@@ -100,10 +99,6 @@ Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es li
 - **AktG**: § 92 Abs. 2 (Anzeigepflichten), § 93 (Sorgfaltspflicht)
 - **HGB**: § 252 Abs. 1 Nr. 2 (going concern)
 - **StGB**: §§ 283–283d (Bankrott, Verletzung der Buchführungspflicht), § 266a (Vorenthalten Arbeitsentgelt)
-
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 
@@ -240,3 +235,5 @@ Automatisch generierte Komplett-Liste aller 98 Skills in diesem Plugin. Jeder Sk
 | [`zahlungsunfaehigkeit-tatbestand-beweis-und-belege`](skills/zahlungsunfaehigkeit-tatbestand-beweis-und-belege/SKILL.md) | Wenn es um Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

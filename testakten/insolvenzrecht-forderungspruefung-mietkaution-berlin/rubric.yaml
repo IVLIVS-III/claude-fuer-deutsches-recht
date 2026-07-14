@@ -1,4 +1,5 @@
 name: insolvenzrecht-forderungspruefung-mietkaution-berlin
+plugin: "insolvenzrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte insolvenzrecht-forderungspruefung-mietkaution-berlin.
 checks:
   - id: datei-01-forderungsanmeldung-vermieter-2026-06-18

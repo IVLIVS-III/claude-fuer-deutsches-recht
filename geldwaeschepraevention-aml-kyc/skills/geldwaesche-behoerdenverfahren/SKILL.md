@@ -23,9 +23,6 @@ Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmen
 3. Gibt es bereits gesetzte Fristen und welches ist die naechste Handlungsfrist?
 4. Welche internen Dokumente müssen für die Behördenantwort gesichert werden?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 51 GwG — Maßnahmen der Aufsichtsbehoerden (BaFin und Länderbehoerden)
 - § 44 GwG — Kooperationspflicht mit FIU; Auskunftspflichten
@@ -54,3 +51,5 @@ Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmen
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

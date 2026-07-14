@@ -151,4 +151,4 @@ Bei Einsatz dieses Skills als Antwort auf eine Mandanten- oder Praxisfrage:
 2. Verweis auf konkrete Norm mit Schwelle.
 3. Hinweis auf passenden Folge-Skill aus diesem Plugin.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

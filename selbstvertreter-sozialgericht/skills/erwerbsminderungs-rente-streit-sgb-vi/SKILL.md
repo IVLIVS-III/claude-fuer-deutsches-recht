@@ -137,7 +137,6 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Prüfen Sie genau die Definit
 
 - **Versicherungsverlauf zwingend prüfen** — wenn die Voraussetzungen nicht erfuellt sind, ist EM-Rente nicht möglich.
 - **Befristete EM-Rente** § 102 SGB VI: meist 3 Jahre, Verlaengerung möglich.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Krankengeld-Ende** als Trigger: oft erfolgt EM-Antrag erst nach Aussteuerung.
 
 ## Typische Fehler
@@ -149,4 +148,4 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Prüfen Sie genau die Definit
 
 ## Quellen und Aktualitaet
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

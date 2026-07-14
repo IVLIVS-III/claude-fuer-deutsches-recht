@@ -51,10 +51,6 @@ description: "Wenn es um Umweltrecht-Kommandocenter in Umweltrecht geht: prüft 
 - **§ 4 UmwRG** — Verfahrensfehler als Aufhebungsgrund
 - **§ 80 Abs. 5 VwGO** — Eilrechtsschutz gegen vollziehbare Genehmigung
 
-## Leitentscheidungen (Überblick)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ampelmatrix Risikobewertung (Standard-Output)
 
 | Risiko | Ampel | Fristen | Verantwortlich | Naechste Handlung |
@@ -115,3 +111,5 @@ OFFENE FRAGEN / BENOETIGT:
 - `energietrassen-planfeststellung-rechtsschutz` — Energie-Planfeststellung
 - `esg-greenwashing-csrd` — Nachhaltigkeitsberichte
 - `klimaklagen-verbandsklage-umwrg` — Klimaklagen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

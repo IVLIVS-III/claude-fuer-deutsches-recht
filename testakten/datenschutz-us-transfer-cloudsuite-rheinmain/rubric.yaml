@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Datenschutz Us Transfer Cloudsuite Rheinmain"
-plugin: "tbd"
+plugin: "datenschutzrecht"
 
 checks:
   - id: r01-readme-vorhanden

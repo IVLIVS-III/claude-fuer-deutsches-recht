@@ -45,9 +45,6 @@ Beim Einsatz von Hochrisiko-KI-Systemen im Personalwesen sind gemäß Art. 26 Ab
 
 Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsakte der EU-Kommission und durch Leitlinien des Europäischen KI-Büros ist bis zum 2. August 2026 zu verfolgen. Ebenso sind BAG- und Landesarbeitsgericht-Entscheidungen zur Zulässigkeit von KI-Systemen im Personalwesen zu beobachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko-Kategorie: Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit
 - Art. 26 KI-VO — Betreiberpflichten bei Hochrisiko-KI Personalwesen
@@ -98,3 +95,4 @@ Verantwortlicher: [NAME], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

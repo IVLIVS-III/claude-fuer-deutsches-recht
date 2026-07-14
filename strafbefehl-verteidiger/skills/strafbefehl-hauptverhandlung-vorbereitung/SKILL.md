@@ -35,10 +35,6 @@ Hauptverhandlung nach § 411 StPO bei Einspruch. Termin Vorbereitungspflichten. 
 - **§ 46 StGB** — Strafzumessungserwaeungen; Grundlage des Plaedoyers
 - **§ 267 StPO** — Urteilsgruende; Grundlage für spaetere Revision
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorbereiungs-(1 Woche vor HV)
 
 1. **Aktenexzerpt aktualisieren** — alle Beweismittel, alle Zeugen, kritische Aktenstellen markieren.
@@ -114,3 +110,5 @@ Ich beantrage [Freispruch / Einstellung / Geldstrafe von [X] Tagessaetzen zu [Y]
 - Befangenheitsantrag unverzueglich nach Kenntnis stellen.
 - Beweisantraege spaetestens in der Hauptverhandlung vor Schluss der Beweisaufnahme stellen.
 - Anwaltliche Endkontrolle bei allen Antraegen und Schriftsaetzen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

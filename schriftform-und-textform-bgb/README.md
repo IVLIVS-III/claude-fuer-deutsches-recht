@@ -61,7 +61,6 @@ Der Formmangel führt nicht nur zu einem Beweisproblem, sondern materiell zu § 
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 130e ZPO und § 46h ArbGG seit 17.07.2024** — Formfiktion für klar erkennbare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen, auch wenn elektronische Form materiell eigentlich ausgeschlossen ist.
 
 ## Skill-Verzeichnis
@@ -204,3 +203,5 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Jeder Sk
 | [`zugang-risikoampel-und-gegenargumente`](skills/zugang-risikoampel-und-gegenargumente/SKILL.md) | Wenn es um Zugang: Risikoampel, Gegenargumente und Verteidigungslinien in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

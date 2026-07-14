@@ -1,4 +1,5 @@
 name: kaufrecht-wallbox-firmware-lastmanagement-essen
+plugin: "bgb-bt-pruefer"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte kaufrecht-wallbox-firmware-lastmanagement-essen.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

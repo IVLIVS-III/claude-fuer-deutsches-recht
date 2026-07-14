@@ -27,10 +27,6 @@ description: "Wenn es um /deaktivieren — Skill deaktivieren (ohne Dateilöschu
 - **§ 43a Abs. 2 BRAO i. V. m. § 203 StGB** — Verschwiegenheitspflicht; Skills mit Zugriff auf Mandantendaten müssen bei Sicherheitsbedenken sofort stillgelegt werden können.
 - **AI Act Art. 26** — Deployer-Pflichten: Betreiber von KI-Systemen müssen angemessene Kontrollmechanismen einrichten, einschließlich der Möglichkeit zur sofortigen Außerbetriebnahme.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12 — Anforderungen an die Kanzleiorganisation und digitale Aktenführung.
@@ -147,10 +143,11 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - § 43a Abs. 2 BRAO, § 203 StGB (Verschwiegenheit; Schutz von Mandantendaten)
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen; Deaktivierung als Sicherheitsinstrument)
 - AI Act Art. 26 (Deployer-Pflichten; Kontrollmechanismen für KI-Systeme)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 > Detaillierte Deaktivierungs-, Deinstallations- und Reaktivierungs-Arbeitsabläufe liegen im `skill-verwalter`-Referenz-Skill — vor substanzieller Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

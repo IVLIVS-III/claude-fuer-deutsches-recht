@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum_gesamt.pdf`](gesamt-pdf/strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 72 KB) | PDF | [`gesamt-pdf/strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum_gesamt.pdf`](gesamt-pdf/strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum-einzelpdfs.zip) |
 

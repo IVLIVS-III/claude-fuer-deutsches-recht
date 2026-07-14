@@ -58,19 +58,15 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Zum Verfügungsgrund im UWG-Recht; die Dringlichkeitsvermutung des Paragraf 12 Abs. 1 UWG entfällt,
  wenn der Antragsteller durch eigenes Zögern zeigt, dass er die Sache selbst nicht für dringlich
  hält; eigenes widersprüchliches Verhalten (Selbstwiderlegung der Dringlichkeit) begründet die
  Unzulässigkeit des Antrags.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Gebietet Art. 103 Abs. 1 GG, dem Antragsgegner vor Erlass einer einstweiligen Verfügung
  rechtliches Gehör zu gewähren, sofern dies ohne Rechtsnachteile für den Antragsteller möglich
  ist; nur bei echter Dringlichkeit ist eine Beschlussverfügung ohne Anhörung verfassungsgemäß.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  der Antragsteller muss die Hauptsacheentscheidung vorwegnehmen; bei Leistungsverfügungen
  (Erfüllungsverfügungen) gilt ein strengerer Maßstab als bei bloßen Unterlassungsverfügungen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  der Schadensersatzanspruch entsteht verschuldensunabhängig; erforderlich ist nur, dass die
  Verfügung von Anfang an ungerechtfertigt war oder aufgehoben wird.
 
@@ -119,10 +115,8 @@ Verfügungsanspruch überwiegend wahrscheinlich.
 
 *Verfügungsgrund (Paragraf 935 ZPO)*: Dringlichkeit nach Paragraf 12 Abs. 1 UWG analog; Kenntnis seit
 15.05.2025; Antragstellung am 05.06.2025 (21 Tage). Dringlichkeit gewahrt; keine
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Gehörsproblem*: Beschlussverfügung ohne Anhörung nur bei tatsächlicher Dringlichkeit zulässig
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Urteilsverfügung nach mündlicher Verhandlung beantragen, um Paragraf 945 ZPO-Risiko zu minimieren.
 
 ## Risiken und typische Fehler
@@ -130,7 +124,6 @@ Urteilsverfügung nach mündlicher Verhandlung beantragen, um Paragraf 945 ZPO-R
 - **Selbstwiderlegung der Dringlichkeit**: Antragsteller hat seit mehr als 1 Monat Kenntnis
  und wartet → Verfügungsgrund entfällt (BGH – "Fischdose").
 - **Paragraf 945 ZPO-Haftung**: Antragsteller haftet verschuldensunabhängig, wenn Verfügung von
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Abwägung des Prozessrisikos vor Antragstellung!
 - **Fehlende Vollziehung** (Paragraf 929 Abs. 2 ZPO analog): Beschlussverfügung nicht binnen 1 Monat
  zugestellt → Verfügung wird wirkungslos; neue Antragstellung erforderlich.
@@ -148,3 +141,5 @@ ist nach `references/zitierweise.md` zu belegen. BGH-Urteile mit vollem Zitat (D
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 mit Bearbeiter, Werk, Aufl., Paragraf, Rn. Streitstände (insbes. zu Paragraf 945 ZPO Verschulden) offen
 darstellen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -28,7 +28,6 @@ description: "Wenn es um Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO) in Date
 
 ### Rechtsprechung und Leitlinien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **EDSA, Empfehlungen 01/2020 zu Maßnahmen zur Ergänzung von Übermittlungsinstrumenten**, angenommen am 18.06.2021 (Version 2.0): Sechsstufige Prüfmethodik für Transfer Impact Assessment (TIA); massgeblich für die Schrems-II-Umsetzung in der Praxis
 - **EDSA, Leitlinien 05/2021 zum Zusammenwirken von Art. 3 und Kapitel V DSGVO**, angenommen am 18.11.2021: Klärung, wann der raeumliche Anwendungsbereich (Art. 3 DSGVO) und die Drittlandregeln (Kapitel V) kumulativ oder alternativ gelten
 - **DSK Orientierungshilfe Drittstaatentransfer**: Handlungsempfehlungen für verantwortliche Stellen bei Transfers in Drittlaender; abrufbar auf dskonferenz.de `[Modellwissen – aktuellen Stand pruefen]`
@@ -96,7 +95,6 @@ Prüfpunkte bei SCC: Richtiges Modul? Technische Anlage (Anhang I A–C und II) 
 
 ### 4. Transfer Impact Assessment (TIA) nach Schrems II
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **TIA Sechsstufige Methodik (EDSA-Empfehlungen 01/2020):**
 
@@ -180,7 +178,6 @@ Datenkategorien: [Auflistung]
  Quellen: [Transparenzberichte, Rechtsgutachten, EDSA-Länderanalysen]
 
 3. Schutzlueckenanalyse
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Ergaenzende Massnahmen
  [Verschluesselung, Pseudonymisierung, vertragliche Massnahmen]
@@ -215,7 +212,6 @@ Wer ist Exporteur?
 
 - **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen können ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
 - **Falsches SCC-Modul:** Ein Verantwortlicher, der SCC-Modul 3 (AV-zu-AV) verwendet, obwohl er selbst Verantwortlicher ist, erzeugt keine schutzwirkende Grundlage. Konstellation vor Unterzeichnung zwingend prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 49 DSGVO als Regelfall:** Die Ausnahmen des Art. 49 DSGVO sind auf Einzelfälle beschraenkt; systematische und regelmäßige Transfers auf dieser Basis sind nicht zulässig (EDSA-Leitlinien 2/2018).
 - **Sub-Processor-Kette übersehen:** SCC Modul 2/3 legt dem Importeur Pflichten für Sub-Auftragsverarbeiter auf; deren Drittlandstatus muss ebenfalls abgesichert sein (Art. 28 Abs. 4 DSGVO).
 - **Schlüsselhoheit nicht geprüft:** Verschlüsselung schuetzt nur dann, wenn Schlüssel nicht im Drittland liegen. Cloud-Dienste mit US-Schlüsselmanagement bieten keinen vollständigen Schutz gegen FISA 702-Zugriffe.
@@ -240,11 +236,6 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 - **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Überprüfung live prüfen.
 - **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live über edpb.europa.eu prüfen.
 - **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger / besonders wichtiger Einrichtungen müssen Cyber-Risiken in der Lieferkette (Art. 21 NIS-2-RL i.V.m. § 30 BSIG n.F.) bei Drittland-Cloud-Diensten zusaetzlich beruecksichtigen; Schnittstelle zu TIA dokumentieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) verifizieren.
-
-## Leitrechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn (Entscheidungsbaum)
 
@@ -294,3 +285,4 @@ Ergebnis: Übermittlung zulässig / zulässig mit Auflagen / unzulässig
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

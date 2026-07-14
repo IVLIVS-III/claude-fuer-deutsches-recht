@@ -91,7 +91,6 @@ Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeep
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -136,3 +135,5 @@ Designation bereits erfolgt: ja (Beschluss vom [DATUM]) / nein / beantragt
 Anwendbare Pflichten: Art. 5–7 DMA [LISTE EINSCHLAEGIGER PFLICHTEN]
 Empfehlung: [BERATUNGSEMPFEHLUNG]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

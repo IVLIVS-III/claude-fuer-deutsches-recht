@@ -41,7 +41,6 @@ sie wesentliche Risiken weglassen.
 
 ### Sorgfaltspflicht bei Risikoangaben
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
  als Bestandteil ordnungsgemäßer Beratung)
 
@@ -208,3 +207,5 @@ ist für Nicht-Juristen):
  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

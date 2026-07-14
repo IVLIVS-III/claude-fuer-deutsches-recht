@@ -72,7 +72,6 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 Relevante Normen je nach Änderungsbereich:
 - Neues Bundesland: Landesurlaubsgesetze, LDSG des Landes, ggf. Tarifvertrag mit Landesbezug
 - Betriebsrat: BetrVG Paragrafen 1, 87, 99, 102, 111 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiele
 
@@ -96,3 +95,5 @@ Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
 - **Landesrecht übersehen.** Bayern, Brandenburg und andere Länder haben eigene Urlaubsgesetze mit abweichenden Mindesturlaubstagen. Bei neuem Bundesland immer Landesspezifika prüfen.
 - **Tarifbindung durch Bezugnahmeklausel.** Auch ohne Verbandsmitgliedschaft kann ein Tarifvertrag vertraglich einbezogen sein. Prüfen, ob neue Tarifbindung auch bestehende Verträge erfasst.
 - **Betriebsrat-Zuständigkeit.** Bei neuem Betriebsrat: Paragraf 102 BetrVG gilt für JEDE Kündigung, Paragraf 99 BetrVG für jede Einstellung – sofort in Eskalationstabelle aufnehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

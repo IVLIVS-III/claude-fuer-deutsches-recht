@@ -86,5 +86,6 @@ Marktdefinitionsabhängigkeit des Ergebnisses: **gering (< 5 Prozentpunkte Unter
 
 ## Leitentscheidungen Marktanteile / Marktbeherrschung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Ueberragende Marktstellung § 18 Abs. 3a GWB; Marktanteil plus Netzwerkeffekte plus Datenzugang kumulativ.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

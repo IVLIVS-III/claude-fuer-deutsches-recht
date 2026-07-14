@@ -225,7 +225,6 @@ Schriftlich an Betriebsrat:
 
 - Paragraf 125 InsO Sonder-Regelungen
 - Erleichterte Kündigungsfrist
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 10 — Beweissicherung
 
@@ -266,3 +265,5 @@ Schriftlich an Betriebsrat:
 - BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei Fehlern im Anzeigeverfahren) - dejure.org / bundesarbeitsgericht.de
 - EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24 (keine Heilung fehlender oder verfruehter Anzeige) - dejure.org
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

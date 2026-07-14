@@ -45,9 +45,9 @@ Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rückfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`Install from .zip`](../references/quellenhygiene.md).
+- Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+- Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+- Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md)
 
 
 Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungsschutzklage, Betriebsratsanhörung, Befristung. Schnittstellen zum Plugin `arbeitsrecht` (operative Mandatsführung) und `kanzlei-allgemein`.
@@ -79,8 +79,6 @@ Rechtsprechungsanker: ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20; LAG B
 
 | Skill | Zweck |
 | --- | --- |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 
 ## Lizenz

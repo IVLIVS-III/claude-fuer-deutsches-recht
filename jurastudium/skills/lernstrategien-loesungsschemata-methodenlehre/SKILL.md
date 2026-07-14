@@ -19,9 +19,6 @@ description: "Wenn es um Lernstrategien für Jura in Jurastudium geht: prüft Fr
 3. Gibt es konkrete Schwachstellen (Vergessen nach kurzer Zeit, Subsumtionsprobleme, Zeitdruck)?
 4. Wie viel Zeit steht pro Lerneinheit zur Verfuegung?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: Muster-Anker für Spaced Repetition im Schuldrecht
 - §§ 242 StGB, 263 StGB — Strafrecht-Standardtatbestaende für Interleaving-Uebungen
@@ -113,3 +110,5 @@ description: "Wenn es um Lernstrategien für Jura in Jurastudium geht: prüft Fr
 - Sie schreibt keinen fertigen Lernplan (das macht `lernplan`).
 - Sie gibt keine pauschale "so musst du lernen"-Antwort. Sie nennt Strategien, der Studenten wählt.
 - Sie ist keine Motivationsberatung. Wer kein Examen schreiben will, lernt nicht effektiver, weil ein Plugin Ratschläge gibt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

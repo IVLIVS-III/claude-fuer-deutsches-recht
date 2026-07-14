@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: 'Kontokorrent-Anfechtung gegen eine Volksbank. Linie 250.000 EUR, geduldete Ueberziehung bis knapp
   310.000 EUR, im Dreimonatszeitraum 412.000 EUR Eingaenge verrechnet, Rueckfuehrung vom Hoechststand 309.900 EUR
   auf den Tiefststand 221.480 EUR. Prueffragen: Aufteilung der Rueckfuehrung in einen inkongruenten Teil (geduldete

@@ -167,7 +167,6 @@ b) welcher Standard für eine "Sanktionierung" gilt (SDN-Direkteintrag,
 c) ab welchem Grad der Verbindung zwischen Angreifer und Sanctions-Liste
    die Klausel auslöst.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 klar und verständlich formuliert sein; bei Unklarheit gilt
 § 305c Abs. 2 BGB zugunsten des Versicherungsnehmers.
 
@@ -287,16 +286,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 § 261 StGB (Geldwäsche, n.F. seit 2021) → § 16 AWG (Verstöße gegen Außenwirtschaftsgesetz bei Sanktionsbruch) → Art. 4 VO 833/2014, Art. 2 VO 269/2014 (Russland-Sanktionen, Bereitstellungsverbot) → OFAC SDN-Liste (US-Treasury, extraterritoriale Wirkung) → § 134 BGB (Nichtigkeit bei Gesetzesverstößen) → §§ 100 ff. VVG (Haftpflichtversicherung Cyber) → § 1 VVG i.V.m. Cyber-AVB (Versicherungsfall Definition) → § 81 VVG (Ausschluss vorsätzliche Schadenverursachung)
@@ -332,3 +321,5 @@ Ransomware-Angriff + Lösegeld-Forderung?
 │   └─ AML-Prüfung dokumentieren; Meldepflicht § 43 GwG?
 └─ Cyber-AVB analysieren → Lösegeld gedeckt? Sanktions-Klausel?
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

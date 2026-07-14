@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 304 KB) | PDF | [`gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf`](gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 308 KB) | PDF | [`gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf`](gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung-einzelpdfs.zip) |
 
@@ -102,7 +102,7 @@ Arbeitsakte zum Plugin `strafzumessung`.
 | [plaedoyer-strafzumessung-final.pdf](plaedoyer-strafzumessung-final.pdf) | PDF | Plädoyer als PDF |
 | [revisionsbegruendung-final.pdf](revisionsbegruendung-final.pdf) | PDF | Revisionsbegründung als PDF |
 | [lg-frankfurt-gericht-aussenansicht.jpg](lg-frankfurt-gericht-aussenansicht.jpg) | JPG | Gerichtsgebäude LG Frankfurt (Illustration) |
-| [bankert-portrait-foto.jpg](bankert-portrait-foto.jpg) | JPG | Mandantenportrait Konrad Bankert (fiktiv) |
+| [bankert-portrait-foto.jpg](bankert-portrait-foto.jpg) | JPG | Mandantenportrait Konrad Bankert |
 | [tatortdokumentation-bankert.jpg](tatortdokumentation-bankert.jpg) | JPG | Tatortdokumentation (Büro Müller & Schmitt) |
 
 ---

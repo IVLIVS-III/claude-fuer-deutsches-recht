@@ -32,7 +32,6 @@ description: "Wenn es um Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksam
 - Vertragsstrafenversprechen § 339 BGB — fällig mit Verzug oder Verstoß bei verschuldeter Pflichtverletzung.
 - Bei Werkleistung Vorbehalt nötig § 341 Abs. 3 BGB sonst Verwirkung.
 - AGB-Kontrolle: Transparenz § 307 Abs. 1 Satz 2 BGB; unangemessene Benachteiligung § 307 Abs. 1 Satz 1 BGB.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Herabsetzungsmöglichkeit § 343 BGB nur außerhalb beiderseitigen Handelsgeschäftes § 348 HGB.
 - Anrechnung auf Schadensersatz § 340 Abs. 2 BGB bzw. § 341 Abs. 2 BGB.
 
@@ -107,9 +106,6 @@ Mit freundlichen Gruessen
 - Bei Herabsetzungsantrag des Schuldners: gesonderte Stellungnahme zur Angemessenheit § 343 BGB.
 - Verjährungsfrist im Aktenkalender notieren.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 339 BGB — Verwirkung der Vertragsstrafe bei Verschulden
 - § 340 BGB — Strafe statt Erfuellung
@@ -170,3 +166,5 @@ Mit freundlichen Gruessen
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

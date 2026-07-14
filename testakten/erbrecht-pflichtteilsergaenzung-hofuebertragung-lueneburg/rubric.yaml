@@ -1,4 +1,5 @@
 name: erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg
+plugin: "fachanwalt-erbrecht"
 description: Pflichtteils- und Pflichtteilsergänzungsakte mit Hofübertragung, Vorbehaltsrechten, Baugrundstücken,
   Depotlücke, Pflegebehauptung und Auskunftsstufe.
 checks:

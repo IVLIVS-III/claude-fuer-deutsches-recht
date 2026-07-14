@@ -52,10 +52,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Art. 6 DSA — Haftungsprivileg Plattform (notice and take down)
 - VGG §§ 92 ff. — Schiedsstelle, § 128 VGG — Klage OLG Muenchen
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Routing-Matrix
 
 | Sachgebiet | Folge-Skill |
@@ -106,3 +102,5 @@ Schritt 5: Routing zum Folge-Skill
 - `erstgespraech-mandatsannahme` — vollstaendige Mandatsannahme
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
 - `fachanwalt-urheber-medienrecht-orientierung` — Normen-Übersicht
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

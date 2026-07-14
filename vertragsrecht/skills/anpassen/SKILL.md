@@ -36,17 +36,13 @@ begrenzt. Relevante Grenzen:
  für Körperverletzungen und grobe Fahrlässigkeit ist unwirksam und nicht
  verhandelbar
 - § 310 Abs. 1 BGB — Im unternehmerischen Verkehr gelten §§ 308, 309 BGB
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 438, 634a BGB — Gesetzliche Verjährungsfristen für Gewährleistung;
  Verkürzung in AGB nur in Grenzen des § 309 Nr. 8 BGB
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Zulässige Anpassung von Zinsklauseln; Transparenzgebot bei Änderungsvorbehalten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Unwirksamkeit einer AGB-Klausel bei unangemessener Benachteiligung; § 307 BGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Unwirksamkeit verkürzter Verjährungsfristen in AGB bei versteckter Klausel)
 
 ### Quellenregel
@@ -169,3 +165,5 @@ oder eine Warnung ausgelöst wird, muss die Ausgabe belegen:
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

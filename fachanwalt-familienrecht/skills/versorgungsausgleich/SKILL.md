@@ -169,10 +169,11 @@ description: "Wenn es um Versorgungsausgleich im Scheidungsverbund durchführen:
 
 ## 11) BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
 - `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — bei Unterhalts-Frage
 - `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` — bei Konflikt
 - `bav-strategie-konzern` — bei komplexer betrieblicher AV
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

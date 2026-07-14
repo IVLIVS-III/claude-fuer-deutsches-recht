@@ -247,5 +247,6 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 - SGB IX Paragrafen 168, 174
 - MuSchG Paragraf 17; BEEG Paragraf 18
 - GKG Paragraf 42
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kleinebrink/Grau/Diepenbruck Kündigung im Arbeitsrecht; APS KSchG-Kommentar
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

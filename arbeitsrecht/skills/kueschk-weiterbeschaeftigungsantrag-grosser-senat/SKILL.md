@@ -66,7 +66,6 @@ Das Interesse des Arbeitnehmers an tatsächlicher Beschäftigung überwiegt in d
 **Entscheidungsbaum Weiterbeschaeftigungsantrag:**
 ```
 BR-Widerspruch vorhanden? → Paragraf 102 Abs. 5 BetrVG (sofort ab Klage, ohne Ersturteil)
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rueckkehr nicht gewünscht? → Kein WBA stellen; Paragraf 12 KSchG oder Vergleich prüfen
 Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
 ```
@@ -74,7 +73,6 @@ Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Unterschied: Paragraf 102 Abs. 5 BetrVG
 
@@ -107,3 +105,5 @@ Bei Verurteilung zur Weiterbeschäftigung: Vollstreckung nach Paragraf 888 ZPO (
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

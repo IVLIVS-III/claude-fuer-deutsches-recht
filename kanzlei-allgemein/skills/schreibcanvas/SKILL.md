@@ -19,9 +19,6 @@ description: "Wenn es um Schreib-Canvas in Kanzlei-Allgemein geht: erstellt den 
 3. Sollen Rechtsgrundlagen automatisch vorgeschlagen oder manuell eingefuegt werden?
 4. Ist eine Frist einzuhalten, die den Schreibprozess zeitlich begrenzt?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 130 ZPO — Inhalt von Schriftsaetzen: Vollstaendigkeit von Antraegen und Tatsachen
 - § 253 Abs. 2 Nr. 2 ZPO — Bestimmtheitsgrundsatz beim Klageantrag
@@ -76,3 +73,4 @@ Formulierungen:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

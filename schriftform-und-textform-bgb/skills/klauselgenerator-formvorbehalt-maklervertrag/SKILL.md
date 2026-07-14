@@ -20,15 +20,12 @@ description: "Wenn es um Klauselgenerator — Formvorbehalt und Änderungsvorbeh
 - **Paragraf 127 BGB** — Gewillkürte Form
 - **Paragraf 305b BGB** — Vorrang der Individualabrede vor AGB
 - **Paragraf 307 BGB** — Inhaltskontrolle AGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat im Gewerbemietrecht anerkannt, dass eine qualifizierte Schriftformklausel — die auch mündliche Nebenabreden ausschließt und auch Änderungen der Klausel selbst der Schriftform unterwirft — zulässig ist und die Schriftform des Paragraf 550 BGB absichert.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Eine doppelte Schriftformklausel in AGB (die auch die Aufhebung der Schriftformklausel der Schriftform unterwirft) ist grundsätzlich zulässig. Sie kann aber Paragraf 305b BGB nicht außer Kraft setzen: Individuelle Abreden haben Vorrang vor AGB, auch wenn sie mündlich getroffen wurden. Die doppelte Schriftformklausel schützt nicht vollständig vor mündlichen individuellen Abweichungen — sie schafft aber ein Beweisindiz und eine erhöhte Hürde.
 
@@ -46,7 +43,6 @@ Vereinbarungen genügen nicht.
 
 **Anwendung**: Einfache Verträge ohne AGB-Charakter, individuelle Abreden zwischen Kaufleuten oder gewerblichen Parteien.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ```
 Paragraf [X] Schriftform
@@ -67,7 +63,6 @@ Abreden nach Paragraf 305b BGB nicht aus.
 
 **Anwendung**: Gewerbliche Mietverträge, Dienstleistungsverträge, Lizenzverträge.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ```
 Paragraf [X] Schriftform und Vertragsänderungen
@@ -148,4 +143,5 @@ benennen.
 
 - **Paragraf 305b BGB Vorrang Individualabrede**: Auch die beste doppelte Schriftformklausel in AGB schützt nicht vollständig vor mündlichen individuellen Abweichungen. Beweis der mündlichen Abrede bleibt beim Behauptenden — die Klausel schafft aber ein erhebliches Beweisindiz.
 - **Schriftformklausel selbst in AGB**: Eine Schriftformklausel ist selbst AGB-pflichtig (Paragraf 307 BGB). Sie darf nicht so formuliert sein, dass Verbraucher benachteiligt werden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

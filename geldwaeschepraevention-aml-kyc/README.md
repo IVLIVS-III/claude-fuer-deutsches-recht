@@ -39,8 +39,6 @@ Großes, freistehendes Plugin für Geldwäscheprävention, AML/CFT, KYC, GwG-Ris
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine besondere Kanzlei- oder Compliance-Software. Wenn kein KYC-Tool, Screening-Tool, goAML-Zugang, Transparenzregisterzugang, CRM, ERP oder DMS angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
 
-#
-
 ## Schnellstart
 
 1. Plugin aktivieren oder ZIP aus dem Release installieren.

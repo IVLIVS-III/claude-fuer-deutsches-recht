@@ -163,10 +163,6 @@ _Wenn es um /automatischer-aktualisierer — Automatische Aktualisierung mit Dif
 - **§ 50 BRAO** — Pflicht zur Aktenführung; das Installationsprotokoll dokumentiert alle Versionsänderungen als Teil der Kanzleiorganisation.
 - **AI Act Art. 26** — Deployer-Pflichten bei Hochrisiko-KI: Änderungen am KI-System sind zu überwachen und zu dokumentieren.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -290,11 +286,12 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - § 50 BRAO (Aktenführung; Versionsprotokollierung)
 - AI Act Art. 26 (Deployer-Pflichten; Überwachung von KI-Systemänderungen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -320,6 +317,7 @@ _Wenn es um Fundstellenglattzieher / Zitatenkorrektor in Kanzlei-Builder-Hub geh
 4. Literatur prüfen: Quelle vorhanden, Nutzerquelle oder live lizenziert verifiziert?
 5. Alles Unsichere markieren, nicht ergänzen.
 
+```markdown
 ## Marker
 
 | Fall | Marker |
@@ -745,9 +743,6 @@ _Wenn es um /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung in Kanzl
 3. Wurden die empfohlenen Skills bereits angesehen oder abgewiesen (Surfaced-Tracking beachten)?
 4. Verarbeitet der zu empfehlende Skill Mandantendaten (DSGVO-Hinweis erforderlich)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV: jeder Community-Skill-Anbieter mit Datenzugriff ist Auftragsverarbeiter
 - Art. 32 DSGVO — TOM: vor Installation eines Community-Skills TOM-Prüfung erforderlich
@@ -864,6 +859,8 @@ Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.
 - Laufende Aufgaben unterbrechen. Empfehlungen erscheinen am *Ende* einer Aufgabe, nicht mittendrin.
 - Nerven. Ein Hinweis pro Skill, nie.
 - Benachrichtigungen anzeigen, wenn die Einstellung auf `keine` steht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

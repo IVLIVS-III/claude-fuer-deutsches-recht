@@ -39,7 +39,6 @@ Alle wesentlichen Vertragsbestandteile müssen von der Schriftform erfasst sein.
 
 Der BGH hat die strenge Schriftformrechtsprechung durch die "Auflockerungsrechtsprechung" gemildert: Ergänzungen und Änderungen des Mietvertrags durch nachträgliche konkludente Vereinbarungen berühren nicht stets die Schriftform des Hauptvertrags, wenn sie von untergeordneter Bedeutung sind.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Reformdiskussion 2025/2026
 
@@ -135,3 +134,5 @@ ________________________ ________________________
 - **Lose Anlagen**: Anlagen zum Mietvertrag, die nicht fest verbunden sind und nicht eindeutig in Bezug genommen werden, gefährden die Schriftform des gesamten Vertrags. Konsequenz: Vertragspartner kann ordentlich kündigen.
 - **Mieterhöhung per E-Mail**: Wird eine Mieterhöhung für einen Langzeitmietvertrag per E-Mail vereinbart, verletzt dies die Schriftform — der Gesamtvertrag kann als auf unbestimmte Zeit geltend behandelt werden.
 - **Treuwidrigkeitseinwand**: Die Berufung auf den Schriftformmangel kann nach Paragraf 242 BGB treuwidrig sein, wenn die Partei, die sich auf den Mangel beruft, diesen selbst veranlasst hat. Die Hürde ist hoch (BGH-Dauerrechtsprechung).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

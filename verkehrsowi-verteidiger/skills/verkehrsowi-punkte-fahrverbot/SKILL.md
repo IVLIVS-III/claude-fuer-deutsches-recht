@@ -35,10 +35,6 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 - **§ 66 StVG** — Tilgungshemmung bei neuer Eintragung innerhalb der Tilgungsfrist
 - **§ 25 StVG** — Fahrverbot (separate Sanktion, keine Punkte-Konsequenz an sich)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Punkte-Tabelle nach BKatV (Auswahl)
 
 | Verstos | Punkte |
@@ -76,3 +72,5 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 - Tilgungshemmung durch neue Eintragung beachten.
 - Freiwilliger Kurs nur bei <= 5 Punkten wirksam.
 - Anwaltliche Endkontrolle bei Kursempfehlung und Verwaltungsrechtsstrategie.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

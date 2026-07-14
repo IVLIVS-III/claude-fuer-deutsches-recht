@@ -120,10 +120,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **SPA-Schnittstelle** — Vertragsklausel: "Kaeufer-Policy erhaeltlich; Verkaefer-Haftung auf Betrag X beschraenkt (Excess unter Policy)"
 - **Tax W&I / Tax-Indemnity** — separates Instrument für bekannte Steuerrisiken; nicht unter allgemeiner W&I
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## W&I-Versicherungsstruktur: Übersicht
 
 ### Kaeufer-Policy (Buyer-Side)
@@ -220,5 +216,6 @@ Datum der Abgabe: [DATUM]
 - VVG § 19 (vorvertragliche Anzeigepflicht): https://www.gesetze-im-internet.de/vvg_2008/__19.html
 - W&I-Marktstandard: LMA-Modellklauseln, GDV-Hinweise (Stand prüfen).
 - Im SPA-Kontext: §§ 311 II, 280 BGB (W&I deckt regelmaessig Garantieverletzungen § 311 I BGB oder vertragliche Schadensersatzregelungen).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

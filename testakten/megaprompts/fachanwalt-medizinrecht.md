@@ -263,14 +263,6 @@ _Wenn es um Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate in Fac
 
 ## Vertiefung — Rechtsprechung und Normenkette
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Ergänzung — Wichtige Normen Triage-Routing
 
 - § 195 BGB (regelmäßige Verjährung 3 Jahre) i.V.m. § 199 Abs. 1 BGB (Kenntnis-Beginn) und § 204 BGB (Hemmung durch Klage, Schlichtungsantrag, Mahnbescheid)
@@ -282,6 +274,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -349,16 +343,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 Arzthaftung: §§ 630a, 630b, 630c, 630d, 630e, 630f, 630g, 630h BGB → § 823 Abs. 1 BGB → § 253 BGB (Schmerzensgeld) → §§ 195, 199 BGB (Verjährung)
@@ -409,6 +393,8 @@ Sachgebiet?
 ├─ Honorar GOÄ → fachanwalt-medizinrecht-honorarvertrag-kv
 └─ Schlichtung Ärztekammer → fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -490,16 +476,6 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Medizinrecht geht
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 Arzthaftung: §§ 630a, 630b, 630c, 630d, 630e, 630f, 630g, 630h BGB → § 823 Abs. 1 BGB → § 253 BGB (Schmerzensgeld) → §§ 195, 199 BGB (Verjährung)
@@ -550,6 +526,8 @@ Sachgebiet?
 ├─ Honorar GOÄ → fachanwalt-medizinrecht-honorarvertrag-kv
 └─ Schlichtung Ärztekammer → fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -724,14 +702,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch Medizinrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normenkette Erstgespräch / Mandatsannahme
 
 § 630g BGB (Einsichtsrecht Patientenakte) → §§ 10, 11 GwG (Identifizierungspflicht RA-Mandat) → §§ 43a, 45 BRAO (Interessenkonflikt, Verschwiegenheit) → §§ 3, 3a RVG (Vergütungsvereinbarung, Stundenhonorar) → § 9 RVG (Vorschuss) → §§ 195, 199 BGB (Verjährung im Mandat sichern) → § 204 BGB (Hemmung: Klage, Mahnbescheid, Schlichtungsantrag § 278 BGB analog)
@@ -739,6 +709,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -804,7 +776,6 @@ _Wenn es um Kassenarztrecht in Fachanwalt Medizinrecht geht: erstellt den passen
 - Wirtschaftlichkeitsprüfung § 106 SGB V — Vergleich mit Vergleichsgruppe (Fachgruppendurchschnitt) bei Verordnungsverhalten und Behandlungsweise; Prüfvereinbarung der Partner.
 - Praxisbesonderheiten — können Überschreitung des Durchschnitts rechtfertigen; Patient mit besonderem Krankheitsbild, Patientenklientel.
 - Disziplinarverfahren § 81 Abs. 5 SGB V — bei Pflichtverletzungen; Maßnahmen Verwarnung, Verweis, Geldbuße, befristete Ruhensanordnung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsweg § 51 Abs. 1 Nr. 2 SGG Sozialgericht — Widerspruchsverfahren beim Berufungsausschuss vorgeschaltet § 96 SGB V; Klage erst nach Berufungsausschussentscheidung.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -906,16 +877,6 @@ Anlagen
 - Anschluss bei Zulassungssachen kassenrechtliche Spezialisten und ggf. Steuerberater einbinden.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -1030,6 +991,8 @@ IV. BEWEISANGEBOTE
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -20,10 +20,6 @@ description: "Wenn es um Output: Memo und Mandantenbrief in Subsumtions-Prüfer 
 3. Soll der Mandantenbrief eine Fristsetzung enthalten?
 4. In welcher Sprache? (Deutsch / Englisch / Zweisprachig → Skill output-fremdsprachig-en-fr)
 
-## Rechtsprechung und berufsrechtliche Grundlage
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Format 1: Interne Aktennotiz (Rechtsmemo)
 
 ### Zweck des Memos
@@ -109,3 +105,5 @@ Das System fragt: Welches Format benötigen Sie?
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

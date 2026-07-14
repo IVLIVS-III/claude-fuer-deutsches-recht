@@ -20,10 +20,6 @@ description: "Wenn es um Track Changes nur nach Frage in Vertragsausfüller geht
 3. Ist klar, welche Version als Ausgangspunkt für die Änderungsmarkierungen dient?
 4. Sollen alle Änderungen kommentiert werden oder nur materiell relevante?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 241 Abs. 2 BGB — Rücksichtnahmepflicht (Transparenz in Vertragsverhandlungen)
@@ -66,3 +62,5 @@ description: "Wenn es um Track Changes nur nach Frage in Vertragsausfüller geht
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

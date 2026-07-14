@@ -24,10 +24,6 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 3. Hat das Gericht die Berufung zugelassen (§ 511 Abs. 4 ZPO)?
 4. Welches Berufungsgericht ist zuständig — LG (bei AG-Urteilen) oder OLG (bei LG-Urteilen)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 232 ZPO — Pflicht zur Rechtsmittelbelehrung
@@ -90,3 +86,5 @@ Form und Frist:
 "Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des Urteils beim Landgericht Hamburg (Sievekingplatz Nummer 1 in 20355 Hamburg) schriftlich oder zu Protokoll der Geschäftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung schriftlich zu begründen. Vor dem Berufungsgericht besteht Anwaltszwang."
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

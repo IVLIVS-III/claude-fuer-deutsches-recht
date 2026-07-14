@@ -39,7 +39,6 @@ Das Produktsicherheits- und Produkthaftungsrecht wandelt sich insbesondere durch
 
 | Entscheidung | Relevanz |
 |---|---|
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -58,3 +57,5 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Wenn das Plugin eine Produktsicherheitspflicht, eine Haftungsregelung oder eine Meldefrist zitiert, ist anzumerken: "Das Produktrecht ist durch EU-Reformen erheblich im Wandel — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BAuA](https://www.baua.de) und auf [EUR-Lex](https://eur-lex.europa.eu). Siehe `references/currency-watch.md`."
 
 **Diese Datei veraltet.** Stand: Mai 2026. Aktualisieren Sie sie, sobald Sie Abweichungen bemerken.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

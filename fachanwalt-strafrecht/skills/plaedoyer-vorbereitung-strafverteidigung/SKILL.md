@@ -157,7 +157,6 @@ III. RECHTLICHE WÜRDIGUNG
 IV. STRAFZUMESSUNG (hilfsweise)
  Strafrahmen: § [X] StGB: [Mindeststrafe] bis [Höchststrafe].
  Strafmilderung:
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  - Erstmals straffällig
  - Schadenswiedergutmachung: [Betrag EUR] bereits geleistet
  - Familie: [X] Kinder, Alleinverdiener
@@ -304,3 +303,5 @@ Timing: Kurz (1–3 Minuten). Wirkung: Menschlichkeit zeigen.
 ## Quellen
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

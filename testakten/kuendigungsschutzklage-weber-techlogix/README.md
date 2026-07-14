@@ -163,5 +163,3 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 Dann weiter mit `kueschk-frist-und-zugang-pruefen` — die Frist ist das erste Thema.
 
 ---
-
-## Disclaimer

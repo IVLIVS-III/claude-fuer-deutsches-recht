@@ -63,9 +63,6 @@ Der Auftraggeber oder ein von ihm beauftragter Dritter ist berechtigt, die Einha
 
 Musterklauseln sind bei jeder wesentlichen Änderung der berufsrechtlichen oder datenschutzrechtlichen Anforderungen zu aktualisieren. Neue BRAK-Veröffentlichungen zu § 43e BRAO-Vereinbarungen sind besonders zu beachten. Ebenso sind neue Entscheidungen zu § 203 StGB oder zu den Anforderungen an AVV in die Klauseln einzuarbeiten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 305 BGB — Einbeziehung von AGB
 - § 307 BGB — Inhaltskontrolle (unangemessene Benachteiligung)
@@ -116,3 +113,4 @@ Eingabedaten als Geschäftsgeheimnisse i.S.d. § 2 GeschGehG zu behandeln.
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

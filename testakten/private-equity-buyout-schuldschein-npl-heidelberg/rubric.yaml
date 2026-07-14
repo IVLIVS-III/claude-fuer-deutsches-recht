@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Private Equity Buyout Schuldschein Npl Heidelberg"
-plugin: "tbd"
+plugin: "private-equity-praxis"
 
 checks:
   - id: r01-readme-vorhanden

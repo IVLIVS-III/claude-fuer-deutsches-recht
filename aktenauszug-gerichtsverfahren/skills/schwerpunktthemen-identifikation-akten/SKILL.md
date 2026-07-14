@@ -27,10 +27,6 @@ description: "Wenn es um Schwerpunktthemen-Identifikation in aktenauszug-gericht
 - § 359 ZPO — Beweisbeschluss; benennt beweisbedürftige Tatsachen
 - § 522 Abs. 2 ZPO — Berufungsverwerfung; Schwerpunkt in der Berufung ist Erfolgsaussicht
 
-## Rechtsprechung zu Schwerpunktthemen im Zivilprozess
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kriterien für ein Schwerpunktthema
 
 Ein Thema ist Schwerpunkt, wenn:
@@ -98,6 +94,7 @@ Schwerpunktthemen werden neutral dargestellt. Die Identifikation eines Themas al
 
 **Halluzinations-Reparatur durchgeführt am 27.05.2026.**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Quellen: dejure.org (https://dejure.org/2016,13484 ; https://dejure.org/2019,4759)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

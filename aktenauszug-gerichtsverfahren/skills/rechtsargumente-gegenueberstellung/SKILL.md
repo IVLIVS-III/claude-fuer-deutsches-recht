@@ -34,8 +34,6 @@ Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Partei
 - §§ 633-634a BGB — Mängelhaftung Werkvertrag; §§ 434-442 BGB — Kaufrechtliche Mängel
 - §§ 305-310 BGB — AGB-Kontrolle (Einbeziehung, unangemessene Benachteiligung)
 
-## Rechtsprechung zu Anspruchsgrundlagen und Einreden
-
 ## Tabellenstruktur
 
 ```markdown

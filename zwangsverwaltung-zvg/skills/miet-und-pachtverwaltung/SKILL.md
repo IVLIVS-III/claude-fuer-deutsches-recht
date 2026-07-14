@@ -72,10 +72,6 @@ Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebern
 - §§ 4, 5, 6 ZwVwV
 - § 152 ZVG
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Miet-/Pachtverwaltung ZVG
 
 § 152 ZVG (Rechte/Pflichten Verwalter) → § 153 ZVG (Einziehung Nutzungen) → § 57 ZVG (Schutz der Mieter) → §§ 535 566 BGB (Mietrecht) → §§ 8-9 ZwVwV (laufende Verwaltung) → § 581 BGB (Pachtvertrag) → §§ 596-599 BGB (Pächterschutz)
@@ -111,3 +107,5 @@ Ihre vertraglichen Rechte bleiben unberührt. Mängelanzeigen richten Sie bitte 
 
 [UNTERSCHRIFT]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -5,10 +5,6 @@ description: "Wenn es um Mediation / Vergleich bei Erbengemeinschaft in Fachanwa
 
 # Mediation / Vergleich bei Erbengemeinschaft
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -34,10 +30,6 @@ Erbschafts-Streit ist überwiegend Familien-/Beziehungs-Streit; harte Klage zers
 - **§ 363 FamFG** — Notarielle Vermittlung Erbauseinandersetzung
 - **§§ 1029 ff. ZPO** — Schiedsgerichts-Verfahren
 - **MediationsG** — Mediation als Verfahren
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -125,3 +117,5 @@ Erbschafts-Streit ist überwiegend Familien-/Beziehungs-Streit; harte Klage zers
 ## Quellen und Updates
 
 Stand: 05/2026. § 363 FamFG, MediationsG. BGH-Linien stabil. Bei ErbStG-Reform aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

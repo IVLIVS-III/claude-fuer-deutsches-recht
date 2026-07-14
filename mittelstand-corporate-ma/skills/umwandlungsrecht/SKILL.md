@@ -128,10 +128,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 324 UmwG i.V.m. § 613a BGB — Arbeitnehmeruebergang kraft Gesetzes bei Ausgliederung; Unterrichtungspflicht
 - §§ 2 Abs. 1, 20 Abs. 5 UmwStG — steuerliche Rueckwirkung bei Verschmelzung und Einbringung: maximal 12 Monate
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich für Form und Gremien
@@ -193,3 +189,5 @@ Steuerl. Schlusspunkt UmwStG | Steuer [NAME] | [DATUM] | [ ]
 
 - assets/templates/umwandlungsrecht-checkliste.md
 - assets/templates/verschmelzung-spaltung-formwechsel-plan.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

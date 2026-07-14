@@ -49,9 +49,6 @@ Die DSGVO verpflichtet Verantwortliche nach Art. 5 Abs. 2 DSGVO zur Rechenschaft
 
 Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusion, neue Rechtsgebiete, neue Standorte) erneut durchgeführt werden. Mindestens einmal jährlich ist zu überprüfen, ob sich die IT-Infrastruktur oder die genutzten KI-Dienstleister verändert haben, was eine Anpassung der Richtlinie erforderlich machen kann.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (kanzleigroessen-unabhaengig)
 - § 43e BRAO — IT-Dienstleister-Regelung
@@ -103,3 +100,4 @@ Erstellt: [NAME], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

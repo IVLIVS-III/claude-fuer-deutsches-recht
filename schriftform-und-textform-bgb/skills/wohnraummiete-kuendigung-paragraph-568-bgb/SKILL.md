@@ -20,7 +20,6 @@ description: "Wenn es um Wohnraummiete-Kündigung — Paragraf 568 BGB und Formf
 - **Paragraf 573c BGB** — Kündigungsfristen
 - **Paragraf 569 BGB** — Außerordentliche fristlose Kündigung: Begründungspflicht
 - **Paragraf 126 Abs. 3 BGB** i.V.m. **Paragraf 126a BGB** — Ersatz der Schriftform durch qES
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Paragraf 130 BGB** — Zugang der Willenserklärung
 
 ## BGH-Linie
@@ -29,7 +28,6 @@ description: "Wenn es um Wohnraummiete-Kündigung — Paragraf 568 BGB und Formf
 
 Die Kündigung des Wohnraummietverhältnisses bedarf gemäß Paragraf 568 Abs. 1 BGB zwingend der Schriftform. Die Schriftform kann nach Paragraf 126 Abs. 3 BGB durch die elektronische Form (qES, Paragraf 126a BGB) ersetzt werden. Ein ausdrücklicher gesetzlicher Ausschluss der qES-Möglichkeit besteht im Mietrecht — anders als z. B. in Paragraf 623 BGB (Arbeitsrecht) — nicht.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat entschieden, dass eine formwirksame qES-Kündigung dem Mieter so zugehen muss, dass er die Signatur selbst prüfen kann. Das qES-Dokument muss elektronisch beim Mieter eingehen. Ein Ausdruck durch das Gericht mit Transfervermerk (Paragraf 298 Abs. 3 ZPO) ersetzt diesen Zugang nicht.
 
@@ -153,6 +151,7 @@ Mit freundlichen Grüßen
 ## Fallstricke
 
 - **E-Mail ohne qES**: Eine bloße E-Mail des Vermieters mit dem Kündigungstext erfüllt nicht die Schriftform des Paragraf 568 Abs. 1 BGB. Nur qES ersetzt die Schriftform — einfache oder fortgeschrittene Signatur reichen nicht.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Begründung**: Fehlt die Begründung bei ordentlicher Kündigung durch den Vermieter, ist die Kündigung formell unwirksam (Paragraf 573 Abs. 3 S. 1 BGB). Nachschieben von Gründen ist eingeschränkt.
 - **Teilkündigung**: Bei Wohnraummiete grundsätzlich unzulässig.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

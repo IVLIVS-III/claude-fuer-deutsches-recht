@@ -20,10 +20,6 @@ description: "Wenn es um Term-Sheet-Mapping in Vertragsausfüller geht: prüft F
 3. Sind im Term Sheet steuerliche Punkte geregelt (USt, Grunderwerbsteuer)?
 4. Hat das Term Sheet Bindungswirkung oder ist es unverbindlich (Letter of Intent)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 311 Abs. 2 BGB — vorvertragliche Pflichten (culpa in contrahendo)
@@ -68,3 +64,5 @@ description: "Wenn es um Term-Sheet-Mapping in Vertragsausfüller geht: prüft F
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

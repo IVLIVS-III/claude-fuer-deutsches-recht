@@ -14,10 +14,6 @@ Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layo
 3. Sind alle Eingabedateien vorhanden (rubrum.yaml, tenor.md, tatbestand.md, entscheidungsgruende.md)?
 4. Welche Tenor-Variante soll übernommen werden, wenn mehrere vorliegen?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 313 ZPO — Form und Inhalt des Urteils
@@ -114,3 +110,5 @@ Ausgabe: `Urteil-{Aktenzeichen}.docx` (und `.pdf` wenn `soffice` verfügbar).
 ## Voraussetzungen
 
 `pip install python-docx pyyaml`. Für PDF: LibreOffice (`soffice`).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 379 KB) | PDF | [`gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf`](gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 399 KB) | PDF | [`gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf`](gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-rollstuhl-tannenberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg-einzelpdfs.zip) |
 

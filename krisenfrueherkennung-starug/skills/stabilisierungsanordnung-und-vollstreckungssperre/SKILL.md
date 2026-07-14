@@ -210,12 +210,6 @@ Mit freundlichen Grüßen
 
 ---
 
-## Aktuelle Leitentscheidungen — Stabilisierungsanordnung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Stabilisierungsanordnung
 
 § 49 StaRUG (Stabilisierungsanordnung) → § 50 StaRUG (Vollstreckungsverbot) → § 51 StaRUG (Sicherheitsleistung) → § 52 StaRUG (Wirkung) → § 53 StaRUG (3-Monats-Frist) → § 54 StaRUG (Aufhebung)
@@ -228,3 +222,5 @@ Mit freundlichen Grüßen
 4. **3-Monats-Frist ausreichend?** Ist Plan innerhalb von 3 Monaten abstimmungsreif?
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

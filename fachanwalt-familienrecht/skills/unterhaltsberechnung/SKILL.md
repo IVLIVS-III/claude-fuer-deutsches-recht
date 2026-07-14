@@ -34,7 +34,6 @@ description: "Wenn es um Unterhaltsberechnung in Fachanwalt Familienrecht geht: 
 
 - BGH, Beschluss vom 22.01.2025 - XII ZB 148/24: Bemessung des angemessenen Selbstbehalts des unterhaltspflichtigen Kindes beim Elternunterhalt; Familienselbstbehalt bei verheirateten Unterhaltspflichtigen (Paragraf 1603 Abs. 1 BGB, Paragraf 94 Abs. 1a SGB XII). Quelle: bundesgerichtshof.de bzw. dejure.org vor Verwendung verifizieren.
 - Düsseldorfer Tabelle 2026 in Kraft seit 01.01.2026 (Pressemitteilung OLG Düsseldorf vom 01.12.2025); Mindestunterhalt Paragraf 1612a BGB: EUR 486 / EUR 558 / EUR 653 (Altersstufen 1-3).
-- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -56,7 +55,6 @@ description: "Wenn es um Unterhaltsberechnung in Fachanwalt Familienrecht geht: 
 | Krankheitsunterhalt | Paragraf 1572 BGB | Krankheitsbedingt erwerbsunfähig |
 
 - Bereinigtes Nettoeinkommen: Brutto − Steuern − Sozialabgaben − berufsbedingte Aufwendungen (5 % pauschal, mindestens 50 EUR höchstens 150 EUR — st. Rspr.) − Vorsorgeaufwendungen (bis 4 % Bruttoeinkommen Altersvorsorge).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erwerbsobliegenheit Paragraf 1574 BGB — fiktives Einkommen bei vorwerfbarer Untätigkeit.
 - Selbstbehalt nach Duesseldorfer Tabelle Anmerkung A — die konkreten Sätze (notwendiger Selbstbehalt gegenüber minderjaehrigen Kindern, angemessener Selbstbehalt gegenüber Ehegatten und volljaehrigen Kindern) werden in der Duesseldorfer Tabelle jaehrlich neu festgelegt; immer aktuelle Fassung des laufenden Jahres heranziehen, z.B. über OLG Duesseldorf Pressestelle oder unterhalt.net.
 - Rangfolge Paragraf 1609 BGB: 1. minderjährige unverheiratete Kinder + privilegierte Volljährige, 2. Elternteile betreuender Kinder, 3. Ehegatten ab Ehe über kurze Zeit, 4. nicht privilegierte Volljährige, 5. andere Verwandte.
@@ -131,3 +129,5 @@ Mit kollegialen Gruessen
 ## Unterhalts-Stop
 
 Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

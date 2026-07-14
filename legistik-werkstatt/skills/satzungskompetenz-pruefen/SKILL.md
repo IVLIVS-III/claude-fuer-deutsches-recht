@@ -60,10 +60,6 @@ Manche Satzungen brauchen vor Bekanntmachung Genehmigung der Aufsichtsbehoerde (
 
 Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhafte Bekanntmachung kann zur Nichtigkeit führen.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze für Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
@@ -83,3 +79,5 @@ Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeind
 ## Anschluss
 
 `normenkartierung` und entweder `referentenentwurf-bauen` (wenn Satzung Volltext kommt) oder direkt Ausgabe-Format Satzung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: strafrecht-verkehrsunfall-alleinrennen-berlin
+plugin: "fachanwalt-strafrecht"
 description: Verkehrsstrafakte zu einem nächtlichen Alleinrennen in Berlin mit Dashcam, EDR-Daten, Unfallflucht,
   Führerscheinmaßnahme und Schadensgutachten.
 checks:

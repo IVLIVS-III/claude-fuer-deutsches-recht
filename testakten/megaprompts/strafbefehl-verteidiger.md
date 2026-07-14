@@ -175,10 +175,6 @@ Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch w
 - **§ 331 StPO** — kein Verboeschungsverbot bei Berufung auf Rechtsfolgen; im Einspruchsverfahren analoge Diskussion
 - **§ 46 StGB** — Strafzumessungserwägungen (Grundlage für Tagessatzanzahl)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsbaum: Beschraenkt oder unbeschraenkt?
 
 ```
@@ -255,6 +251,8 @@ Mit freundlichen Gruessen [KANZLEI]
 - Schriftliche Aufklaerung über Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
 - Einkommensnachweise vor der Hauptverhandlung vollstaendig einreichen.
 - Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch für beschraenkten Einspruch.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -655,10 +653,6 @@ _Wenn es um Wiedereinsetzung nach versaeumter Einspruchsfrist — Paragraf 44 St
 - **§ 180 ZPO** — Zustellungsfiktion bei Einwurf-Einschreiben
 - **§ 409 Abs. 1 Nr. 7 StPO** — fehlerhafte Belehrung = Frist laeuft nicht an; kein Wiedereinsetzungsbedarf
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsbaum Wiedereinsetzung
 
 ```
@@ -729,6 +723,8 @@ Mit freundlichen Gruessen [KANZLEI]
 - Eidesstattliche Versicherung des Mandanten zwingend (§ 45 Abs. 2 StPO: Glaubhaftmachung).
 - 1-Wochen-Frist des § 45 StPO ab Kenntnisnahme einhalten.
 - Verschulden des Verteidigers wird dem Mandanten zugerechnet — intern aufklaeren, aber Mandanten nicht schlechterstelllen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -840,10 +836,6 @@ Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht ers
 - **§ 231 StPO** — Unterbrechung bei Ausbleiben des Angeklagten (in der allgemeinen Hauptverhandlung; § 411 lex specialis)
 - **§ 213 StPO** — Terminbestimmung; Terminsverlegung möglich
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsbaum Abwesenheits-Strategie
 
 ```
@@ -894,6 +886,8 @@ Mit freundlichen Gruessen [KANZLEI]
 - Bei Verwerfung nach § 412 StPO: sofort Wiedereinsetzungsantrag (1-Woche-Frist § 45 StPO).
 - Mandant immer über Folgen des Nichterscheinens aufklaeren.
 - Anwaltliche Endkontrolle vor dem Termin.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

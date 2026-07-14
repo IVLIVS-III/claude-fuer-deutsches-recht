@@ -218,7 +218,6 @@ Vor Versand:
 
 ### Schlüssel-Leitsaetze Schriftsatz Vergaberecht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Schriftsatz Vergaberecht
 - §§ 160-163 GWB — Nachpruefungsantrag Vergabekammer

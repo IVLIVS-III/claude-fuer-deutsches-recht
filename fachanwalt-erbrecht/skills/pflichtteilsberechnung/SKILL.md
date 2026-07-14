@@ -340,6 +340,7 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 - ZPO § 254
 - BGH, Urteil vom 12.03.2025 - IV ZR 88/24 (Pflichtteilsanspruch nichteheliches Kind; Verjährung): dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=12.03.2025&Aktenzeichen=IV+ZR+88/24
 - BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Arztvermächtnis und Reichweite der konkret geprüften Berufsregel bei BGB Paragrafen 134 und 2171 Absatz 1; amtlichen Volltext vor Zitierung verwenden.
-- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

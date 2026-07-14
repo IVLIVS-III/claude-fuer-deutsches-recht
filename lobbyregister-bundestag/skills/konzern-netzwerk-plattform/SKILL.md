@@ -26,8 +26,6 @@ description: "Wenn es um Konzern, Netzwerk und Plattform in Lobbyregister Bundes
 2. Wer hat eigene Kontakte, Budgets, Auftraggeber oder Aussenauftritt?
 3. Welche Netzwerkteilnehmer werden nur intern koordiniert?
 
-## Quellenanker
-
 ## Spezialfall doppelte Sichtbarkeit ohne doppelte Rechtsperson
 
 Bei Konzern, Netzwerk oder Zweigniederlassung kann Transparenz praktisch mehr als eine Anschrift oder Organisationseinheit verlangen, rechtlich aber nur ein Rechtstraeger handeln. Der Skill soll deshalb eine Eintragungseinheiten-Map erzeugen: Rechtstraeger, Niederlassung, betraute Personen, Auftraggeber, Kostenstelle und Kontaktkanal. Wenn Portal- oder Registerpraxis unklar ist, wird eine Anfrage an die registerfuehrende Stelle empfohlen.

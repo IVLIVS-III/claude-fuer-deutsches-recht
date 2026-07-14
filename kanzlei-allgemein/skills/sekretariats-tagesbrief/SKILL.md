@@ -19,9 +19,6 @@ description: "Wenn es um Sekretariats-Tagesbrief in Kanzlei-Allgemein geht: erst
 3. Gibt es besondere Eingaenge vom Vortag (Klageschriften, Urteile, Bescheide), die besondere Aufmerksamkeit erfordern?
 4. Sind Geburtstage, Feiertage oder Abwesenheiten zu beachten, die die Tagesplanung beeinflussen?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 53 BRAO — Vertretungspflicht bei Verhinderung des Anwalts
 - § 51 BRAO — Haftung für Organisationspflichtverletzungen im Sekretariat
@@ -148,3 +145,4 @@ Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

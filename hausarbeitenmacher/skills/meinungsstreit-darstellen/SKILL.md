@@ -91,7 +91,6 @@ eigener Interessen, die für den Schädiger ungewöhnlich
 hart ausfallen, als sittenwidrig zu qualifizieren ist.
 
 **Nach herrschender Meinung** [Nachweis: vom Nutzer bereitgestellte oder lizenziert live geprüfte Quelle mit exakter Fundstelle;
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 auszulegen. Erforderlich ist ein besonders verwerfliches
 Verhalten, das gegen das Anstandsgefühl aller billig
 und gerecht Denkenden verstößt.
@@ -235,3 +234,5 @@ Die Argumente jeder Position lassen sich häufig auf die vier Auslegungs-Methode
 - `methodenlehre-auslegung` — methodische Argumente
 - `zitierweise-jura-fundstellen` — saubere Belege
 - `selbstkontrolle-vor-abgabe` — Endcheck Streit-Stände
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

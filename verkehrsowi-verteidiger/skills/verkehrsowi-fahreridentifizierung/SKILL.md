@@ -30,10 +30,6 @@ description: "Wenn es um Fahreridentifizierung im OWi-Verfahren in VerkehrsOWi-V
 - **Art. 6 Abs. 1 EMRK** — Recht auf faires Verfahren; keine Pflicht zur Selbstbelastung
 - **§ 261 StPO i.V.m. § 71 OWiG** — Freie Beweiswuerdigung; Richter darf Foto-Vergleich selbst vornehmen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsbaum Fahreridentifikation
 
 ```
@@ -98,3 +94,5 @@ Mit freundlichen Gruessen [KANZLEI]
 - Fahrtenbuchauflage dem Mandanten klar erklaeren — Konsequenz des Schweigens.
 - Sachverstaendigenantrag bei schlechter Foto-Qualitaet stellen — nicht pauschal.
 - Anwaltliche Endkontrolle bei Beweisantrag-Formulierung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

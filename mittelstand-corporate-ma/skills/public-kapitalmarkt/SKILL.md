@@ -125,10 +125,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 254 BGB — Mitverschulden bei unterlassener Untersuchung nach Closing
 - §§ 346 ff. BGB — Rueckabwicklung: bei MAC-Einritt und Ruecktritt; Nutzungsersatz; Wertminderung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Post-Closing-Obligations-Register:** alle SPA-Verpflichtungen nach Closing erfassen (Owner, Faelligkeit, Nachweis)
@@ -188,3 +184,5 @@ PMI-MEILENSTEINE
 
 - assets/templates/pmi-checkliste.md
 - assets/templates/post-closing-obligations-register.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

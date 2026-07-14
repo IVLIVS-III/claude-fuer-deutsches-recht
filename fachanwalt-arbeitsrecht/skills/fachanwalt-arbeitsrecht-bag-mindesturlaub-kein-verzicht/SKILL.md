@@ -66,10 +66,6 @@ Liegt eine pauschale Erledigungsklausel vor, kann die Mandantin den Urlaubsabgel
 
 Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Aufhebungsvertragsgestaltung und mit `vergleichsverhandlung-strategie` fuer den Prozessvergleich. Bei Klage auf Urlaubsabgeltung nach pauschalem Vergleich ergaenzend `schriftsatzkern-substantiierung` heranziehen.
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 - Paragrafen 1, 3 BUrlG — Urlaubsanspruch (20 Werktage Mindesturlaub)
@@ -81,3 +77,5 @@ Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Au
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

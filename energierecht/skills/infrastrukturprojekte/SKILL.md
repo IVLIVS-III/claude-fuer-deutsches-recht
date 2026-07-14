@@ -37,7 +37,6 @@ description: "Wenn es um Infrastrukturprojekte und Planfeststellung in Energiere
 
 - Verkürzte Klage-Fristen (1 Monat statt 1 Jahr)
 - Eingeschränkter Rechtsschutz
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — BBPlG (Bundesbedarfsplangesetz)
 
@@ -183,7 +182,6 @@ description: "Wenn es um Infrastrukturprojekte und Planfeststellung in Energiere
 
 ### BVerwG-Schlüssel-Urteile
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BVerwG zur Klimaschutz-Berücksichtigung in Planung
 
 ### EuGH-Bezug
@@ -194,7 +192,6 @@ description: "Wenn es um Infrastrukturprojekte und Planfeststellung in Energiere
 
 ### Aktuelle Klimaklage-Linie
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anwendung auf Fossil-Infrastruktur
 - LNG- und Pipeline-Streitigkeiten
 
@@ -241,10 +238,6 @@ description: "Wenn es um Infrastrukturprojekte und Planfeststellung in Energiere
 - Bei akuten Engpässen
 - Auflagen-Begrenzung
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 1 ff. NABEG (Bundesfachplanung) — §§ 1 ff. BBPlG (Bundesbedarfsplan) — §§ 1 ff. EnLAG (Energieleitungsausbau) — §§ 72 ff. VwVfG (Planfeststellung) — §§ 3a, 3b UVPG (UVP-Pflicht) — § 2 UmwRG (Verbandsklagebefugnis)
@@ -269,7 +262,8 @@ description: "Wenn es um Infrastrukturprojekte und Planfeststellung in Energiere
 - UmwRG § 2
 - BImSchG §§ 4, 10
 - UVPG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BNetzA-Genehmigungs-Beschlüsse
 - BSH-Beschlüsse Offshore
 - RED III delegierter Akt
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

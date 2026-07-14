@@ -43,10 +43,6 @@ description: "Wenn es um Antrag auf Einbuergerung nach StAG in Fachanwalt Migrat
 - **§ 4 Abs. 3 StAG** — Geburtserwerb: in Deutschland geborene Kinder ausländischer Eltern erwerben die deutsche Staatsangehörigkeit, wenn ein Elternteil seit acht Jahren rechtmäßig in Deutschland lebt.
 - **§ 16 StAG** — Aushändigung Einbürgerungsurkunde.
 
-### BVerwG-Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfschema
 
 | Nr. | Voraussetzung | Norm | Nachweis |
@@ -217,7 +213,6 @@ liegt nicht vor, weil [konkrete Widerlegung].
 
 - StAG §§ 4, 8–16, 12, 12a, 35, 40a; StARModG 27.06.2024
 - VwGO §§ 70, 74, 75
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Marx Aufenthalts-, Asyl- und Flüchtlingsrecht
 
@@ -287,3 +282,4 @@ behalten wir uns Klage nach § 75 VwGO vor.
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

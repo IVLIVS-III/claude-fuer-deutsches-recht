@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf`](gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 39 KB) | PDF | [`gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf`](gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-untreue-vereinskasse-kassel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-untreue-vereinskasse-kassel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip) |
 

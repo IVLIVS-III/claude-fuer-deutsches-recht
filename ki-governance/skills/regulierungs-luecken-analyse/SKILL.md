@@ -41,7 +41,6 @@ description: "Wenn es um digitale Werkzeuge-Regulierungs-Lückenanalyse in diese
 
 **Leitentscheidungen**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare**
 
@@ -135,7 +134,6 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 
 - **AI Act Art. 5, Art. 6 i.V.m. Anhang III, Art. 9–15, Art. 26/29, Art. 99.**
 - **DSGVO Art. 22** bei automatisierten Entscheidungsverfahren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **RL 2024/2853/EU** (Produkthaftung) bei Haftungslücken.
 - **DSGVO Art. 35** bei Folgenabschätzungspflicht.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5.**
@@ -172,3 +170,5 @@ NAECHSTE SCHRITTE:
 
 Erstellt: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

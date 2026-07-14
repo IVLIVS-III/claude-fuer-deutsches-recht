@@ -60,9 +60,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Gerichtliche Entscheidungen zum Umgang mit KI-generierten Fundstellen (insbesondere Entscheidungen zum Prozessbetrug oder zur anwaltlichen Haftung) sind laufend zu beobachten und in die Schulungsunterlagen aufzunehmen. BRAK und DAV werden ihre Stellungnahmen weiterentwickeln.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Gewissenhafte Berufsausuebung (Sorgfaltspflicht)
 - § 263 StGB — Prozessbetrug bei wissentlich falschen Angaben
@@ -107,3 +104,4 @@ Freigabe für Versand: [JA / NEIN — Korrekturbedarf: BESCHREIBUNG]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

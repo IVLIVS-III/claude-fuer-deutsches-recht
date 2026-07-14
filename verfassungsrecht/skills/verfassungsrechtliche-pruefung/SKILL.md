@@ -33,7 +33,6 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 - **Rechtsverordnung** (Prüfung gegen Ermächtigungsnorm und unmittelbar gegen GG)
 - **Satzung**
 - **Verwaltungsakt** oder sonstige Maßnahme der vollziehenden Gewalt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Gesamtschema
 
@@ -59,7 +58,6 @@ Vor Beginn der Prüfung ist zu klären, was eigentlich geprüft wird:
 3. **Form**
  - Bestimmtheitsgebot (rechtsstaatliches Erfordernis)
  - Zitiergebot (Art. 19 Abs. 1 S. 2 GG bei Grundrechtseinschränkungen)
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### B. Materielle Verfassungsmäßigkeit
 
@@ -79,7 +77,6 @@ Pro betroffenem Grundrecht und pro betroffener Verfassungsnorm separat:
  - Demokratieprinzip Art. 20 Abs. 1, 2 GG
  - Rechtsstaatsprinzip Art. 20 Abs. 3 GG (Vertrauensschutz, Rückwirkungsverbot, Bestimmtheit)
  - Sozialstaatsprinzip Art. 20 Abs. 1 GG
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### C. Gesamtergebnis
 
@@ -107,7 +104,6 @@ A. Formelle Verfassungsmäßigkeit
 3. Form
  - Bestimmtheit: ___
  - Zitiergebot Art. 19 Abs. 1 S. 2 GG: ___
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 B. Materielle Verfassungsmäßigkeit
 1. Grundrecht ___
@@ -139,3 +135,5 @@ Quellen
 ## Disclaimer-Wiederholung (vor jedem Output)
 
 Diese Prüfung ist eine strukturierte Modellauswertung und **kein Ersatz** für anwaltliche Mandatsbearbeitung. Insbesondere die Beurteilung der Vereinbarkeit konkreter Normen mit dem GG bleibt im Streitfall dem BVerfG vorbehalten (Verwerfungsmonopol Art. 100 GG).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

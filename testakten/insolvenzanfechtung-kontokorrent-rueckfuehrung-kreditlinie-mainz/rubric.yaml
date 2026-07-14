@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: 'Kontokorrent-Anfechtung gegen eine Sparkasse. Keine Kuendigung, sondern dreistufige Herabsetzung der
   Linie von 480.000 auf 120.000 EUR im Dreimonatszeitraum, Vereinnahmung der Eingaenge zur Saldenreduzierung und
   Rueckfuehrung des Solls um 360.000 EUR. Prueffragen: Kongruenz oder Inkongruenz der Verrechnungen, Kenntnis aus

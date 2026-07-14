@@ -28,10 +28,6 @@ description: "Wenn es um Einleitungssatz-Generator in aktenauszug-gerichtsverfah
 - § 42 VwGO — Anfechtungs- und Verpflichtungsklage
 - § 4 KSchG — Kündigungsschutzklage (Frist und Antrag)
 
-## Rechtsprechung zum Streitgegenstand und Klagebegehren
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Struktur des Einleitungssatzes
 
 **Muster:**
@@ -89,3 +85,5 @@ Nach Erstellung prüfen:
 - [ ] Keine Wertung? ja/nein
 - [ ] Maximal zwei Sätze? ja/nein
 - [ ] Streitgegenstand i.S.v. § 253 Abs. 2 Nr. 2 ZPO hinreichend bestimmt? ja/nein
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

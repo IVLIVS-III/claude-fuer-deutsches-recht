@@ -129,10 +129,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 138 BGB** — Sittenwidrigkeit; ueberlange Wettbewerbsverbote nichtig
 - **§§ 1 ff., 19 GWB** — kartellrechtliche Schranken; marktbeherrschende Stellung; Verbote
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfungsmatrix: Wesentliche Vertragsklauseln
 
 | Klausel | Prüfungsinhalt | Hauptrisiko | Handlungsempfehlung |
@@ -213,6 +209,7 @@ Lizenzvertraege für Software können Open-Source-Copyleft-Pflichten enthalten (
 ## Quellen
 
 - §§ 307, 309, 314, 613a BGB; §§ 74 ff. HGB; §§ 1, 19 GWB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 7
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -61,9 +61,6 @@ Die sorgfältige Auswahl des KI-Dienstleisters ist eine zentrale berufsrechtlich
 
 Die Zertifizierungen und die EU-US-Datenschutzrahmen sind regelmäßig auf Aktualität zu prüfen. Datenschutzbehörden-Entscheidungen zu einzelnen KI-Anbietern (z.B. Untersagungen durch DPAs) sind zu beobachten. Jährliche Neubeurteilung des eingesetzten Dienstleisters empfohlen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 28 Abs. 1 DSGVO — hinreichende Garantien des Auftragsverarbeiters
 - Art. 46 DSGVO — Drittlandtransfer-Sicherheitsnetz (SCC, Angemessenheitsbeschluss)
@@ -102,3 +99,5 @@ Gesamtbewertung: [FREIGEGEBEN / BEDINGT / ABGELEHNT]
 Auflagen: [BESCHREIBUNG]
 Geprueft von: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

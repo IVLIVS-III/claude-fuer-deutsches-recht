@@ -30,9 +30,6 @@ description: "Wenn es um Elektronische Unterzeichnung (DocuSign / Adobe Sign) in
 - § 147 AO (Aufbewahrungspflicht steuerrelevanter Unterlagen zehn Jahre)
 - § 257 HGB (Aufbewahrungspflicht handelsrelevanter Unterlagen sechs Jahre)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Checkliste Unterzeichnungsrunde
 
 | Schritt | Erledigt |
@@ -61,12 +58,8 @@ Stand: 05/2026. eIDAS-VO 910/2014; § 147 AO. Bei Änderung eIDAS 2.0 (VO 2024/1
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 126 BGB (Schriftform) → § 126a BGB (elektronische Form, QES) → § 126b BGB (Textform) → Art. 3 Nr. 12, Art. 25, 26 eIDAS-VO (qualifizierte elektronische Signatur) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsverträgen, kein elektronischer Ersatz)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

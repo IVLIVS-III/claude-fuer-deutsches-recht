@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Grosskanzlei Corporate Ma Datenraum"
-plugin: "tbd"
+plugin: "grosskanzlei-corporate-ma"
 
 checks:
   - id: r01-readme-vorhanden

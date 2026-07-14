@@ -17,9 +17,6 @@ Analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung
 3. Enthalt die E-Mail strafrechtlich relevante Aeusserungen (Beleidigung § 185 StGB, Bedrohung § 241 StGB)?
 4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: verhindert Uebernahme aggressiven Tons aus Eingangskorrespondenz
 - § 185 StGB — Beleidigung: ggf. bei strafrechtlich relevantem Inhalt Eingangs-E-Mail dokumentieren
@@ -52,3 +49,5 @@ Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder S�
 
 **Vorher:** "Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
 **Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

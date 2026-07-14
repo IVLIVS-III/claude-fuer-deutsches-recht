@@ -168,10 +168,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 47 GwG — Verschwiegenheitspflicht; keine Offenlegung geldwaescherelevanter Informationen
 - §§ 17, 18 GeschGehG — Schutz von Geschäftsgeheimnissen; Geheimhaltungsvereinbarung muss vor Datenraumzugang vorliegen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Deal-Typ und Zugriffsstruktur festlegen:** Bieter-Gruppen, Clean-Room-Bereich, Management-Zugang
@@ -186,3 +182,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Sensibler Wettbewerber-Datenraum ohne Clean Room: Kartellrechtsverstoss (Art. 7 FKVO)
 - Datenraumzugang ohne NDA: Geschäftsgeheimnisschutz verletzt (GeschGehG)
 - Insiderinformationen ohne MAR-Insiderliste: Aufsichtsrisiko (MAR Art. 18)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

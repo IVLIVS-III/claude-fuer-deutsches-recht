@@ -237,6 +237,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=141426&pos=0
  - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Änderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - Weitere Rechtsprechung vor Verwendung live über dejure.org/openjur.de/bundesgerichtshof.de prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024
 - TA Lärm (Technische Anleitung zum Schutz gegen Lärm)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

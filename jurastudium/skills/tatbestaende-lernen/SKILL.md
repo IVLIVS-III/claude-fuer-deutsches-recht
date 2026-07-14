@@ -24,9 +24,6 @@ description: "Wenn es um Tatbestaende Lernen in Jurastudium geht: prüft Frist, 
 3. Soll im Drill-Format (Abfragen) oder im Erklaer-Format (Zusammenhaenge) gearbeitet werden?
 4. Gibt es einen Klausur-/Examens-Druck oder dient die Übung der Grundlagen-Vertiefung?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende für Drill-Lernen
 - §§ 242, 263, 212 StGB — Straf-Kerntatbestaende für Drill-Lernen
@@ -105,3 +102,5 @@ Diese Skill arbeitet eng mit `karteikarten`:
 - Sie liefert keine vorgefertigten Karteikartendecks, die der Studenten nur konsumiert. Lernzweck wäre dann verfehlt. Die Definitionen muss der Studenten formulieren — die Skill korrigiert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Sie übt keine ganzen Klausuren (siehe `gutachten-uebung`).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

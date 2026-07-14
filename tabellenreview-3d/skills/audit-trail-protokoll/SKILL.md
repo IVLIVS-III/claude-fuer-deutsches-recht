@@ -14,7 +14,6 @@ description: "Wenn es um /tabellenreview-3d:audit-trail-protokoll in Tabellenrev
 
 ## Rechtliche Grundlagen zur Dokumentationspflicht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ereignistypen
 
@@ -86,3 +85,5 @@ description: "Wenn es um /tabellenreview-3d:audit-trail-protokoll in Tabellenrev
 - Pflicht vor jeder Mandatsübergabe — der Prüfer signiert den letzten Audit-Stand.
 - Bei Beschwerden Aufsicht oder Haftungsfrage rückverfolgbar nachweisen welcher Reviewlauf welchen Output produziert hat.
 - Verhindert dass Prompts schleichend geändert werden und alte Zellen `nicht mehr nachvollziehbar` sind.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -19,9 +19,6 @@ description: "Wenn es um AML/KYC-Simulationsmodus in Geldwäscheprävention, AML
 3. Welche Rollen sind beteiligt: Frontoffice, Compliance, Revision oder Geschäftsführung?
 4. Gibt es einen konkreten Schulungszweck oder einen Aufsichts-Testlauf?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: regelmässige Wirksamkeitspruefung eingeschlossen
 - § 6 Abs. 2 Nr. 1 GwG — Geldwaeschebeauftragter hat Testverantwortung
@@ -50,3 +47,5 @@ description: "Wenn es um AML/KYC-Simulationsmodus in Geldwäscheprävention, AML
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

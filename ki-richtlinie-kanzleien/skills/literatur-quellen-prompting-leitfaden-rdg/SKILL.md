@@ -52,8 +52,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 **Rechtsprechung:**
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Primärrechtsquellen:**
 - Verordnung (EU) 2024/1689 (KI-VO): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
@@ -82,9 +80,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Hinweise zur Aktualisierung
 
 Die Literaturliste ist beim halbjährlichen Richtlinien-Review vollständig zu überprüfen und um neu erschienene relevante Beiträge zu ergänzen. Sobald ein KI-VO-Durchführungsrechtsakt erscheint, ist er sofort in die Primärquellenliste aufzunehmen.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Sorgfaltspflicht und korrekte Quellenangaben
@@ -131,3 +126,4 @@ Verifiziert von: [NAME], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

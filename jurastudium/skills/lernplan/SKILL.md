@@ -37,10 +37,8 @@ Der Pflichtstoffkatalog richtet sich nach dem jeweiligen Juristenausbildungsgese
 **Prüfungsrelevante Leitentscheidungen (Planungsmaßstab):**
 
 Für BGB-Schwerpunktplanung:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Für Strafrecht-Schwerpunktplanung:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kanonische Repetitorien-Literatur:**
 - Alpmann Schmidt, Gesamtdarstellungen — kompakt, examensnah
@@ -230,3 +228,5 @@ Zeitschätzungen je Rechtsgebiet sind Orientierungswerte auf Basis typischer Exa
 Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren oder Examenscoaches, die den individuellen Kenntnisstand kennen.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

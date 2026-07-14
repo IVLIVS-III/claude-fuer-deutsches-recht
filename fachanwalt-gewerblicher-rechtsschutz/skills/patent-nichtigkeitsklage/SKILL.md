@@ -65,10 +65,6 @@ description: "Wenn es um Patent Nichtigkeitsklage in Fachanwalt Gewerblicher Rec
 - Inhalt vollstaendig offenbart (nicht nur implizit)
 - Bei Vorbenutzung: Zeugen + zeitgestempelte Dokumente (Rechnungen, Lieferscheine, interne Berichte)
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zuständigkeit und Bifurkation
 
 ### Bundespatentgericht Muenchen (DE-Patent, klassisches EP)
@@ -228,3 +224,5 @@ D2: [Titel, Veroeffentlichungsdatum]
 - `patentrecherche/freedom-to-operate-recherche` — vor Produktmarkteinfuehrung
 - `patentrecherche/neuheit-pruefen` — Entgegenhaltungsanalyse
 - `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

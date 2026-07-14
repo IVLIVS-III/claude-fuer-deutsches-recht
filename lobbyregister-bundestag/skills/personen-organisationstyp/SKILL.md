@@ -26,8 +26,6 @@ description: "Wenn es um Personen- und Organisationstyp in Lobbyregister Bundest
 2. Handelt eine Person im eigenen Namen oder für eine Organisation?
 3. Gibt es mehrere Traeger, Netzwerkpartner oder Plattformstrukturen?
 
-## Quellenanker
-
 ## Spezialfall Auslandsrechtstraeger mit deutscher Zweigniederlassung
 
 Bei einer unselbststaendigen Zweigniederlassung ist zuerst der Rechtstraeger zu bestimmen. Die Handelsregistereintragung der Zweigniederlassung macht sie nicht automatisch zu einer eigenen juristischen Person. Der Skill soll deshalb die Eintragungseinheit, die Frankfurter oder Berliner Anschrift, die betrauten Personen und die Kosten-/Taetigkeitszuordnung auseinanderhalten. Eine zweite Registrierung der Zweigniederlassung darf nur als Pruefoption vorbereitet werden, nicht als selbstverstaendlicher Portal-Schritt.

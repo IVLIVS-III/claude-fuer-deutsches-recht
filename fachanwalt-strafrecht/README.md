@@ -63,9 +63,9 @@ Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
 Norm-Radar, Leitentscheidungs-Anker und genau eine Rückfrage - bei
 klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
 
-Konvention: [`Install from .zip`](../references/anwalts-dashboard-konvention.md)
-| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
-| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+- Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+- Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+- Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md)
 
 
 ## Was dieses Plugin im Strafprozess leistet

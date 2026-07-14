@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 98 KB) | PDF | [`gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf`](gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 104 KB) | PDF | [`gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf`](gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-wandeldarlehen-beispielcase-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase-einzelpdfs.zip) |
 

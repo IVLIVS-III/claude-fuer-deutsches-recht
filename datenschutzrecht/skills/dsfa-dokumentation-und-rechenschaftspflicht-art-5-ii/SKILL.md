@@ -113,5 +113,6 @@ Zugriffskonzept
 - § 147 AO; § 257 HGB (Bezugsfristen)
 - EDSA-Leitlinien WP 248 rev.01
 - BfDI / Landesbehoerden — Hinweise zur Rechenschaftspflicht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

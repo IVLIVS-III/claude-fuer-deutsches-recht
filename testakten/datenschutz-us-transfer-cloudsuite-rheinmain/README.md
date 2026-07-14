@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf`](gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf`](gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain-einzelpdfs.zip) |
 

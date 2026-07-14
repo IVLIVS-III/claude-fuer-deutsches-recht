@@ -26,8 +26,6 @@ description: "Wenn es um Erstregistrierung ausfuellen in Lobbyregister Bundestag
 2. Welche Angaben sind noch unsicher?
 3. Welche Texte müssen vor Eintragung intern freigegeben werden?
 
-## Quellenanker
-
 ## Stop-Regel bei Zweigniederlassungen
 
 Wenn die Nutzerin eine unselbststaendige Zweigniederlassung als eigene Organisation registrieren will, muss der Skill stoppen und nachfragen: Ist die Zweigniederlassung eigener Rechtstraeger oder nur Handelsregisterzweigstelle? Liegt eine ausdrueckliche Auskunft der registerfuehrenden Stelle vor? Ohne diese Klärung nur den ausländischen oder inlaendischen Rechtstraeger als Primaerentwurf ausgeben und die Niederlassung transparent im Eintrag abbilden.

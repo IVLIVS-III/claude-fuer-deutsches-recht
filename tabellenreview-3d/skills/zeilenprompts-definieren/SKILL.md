@@ -27,7 +27,6 @@ description: "Wenn es um Zeilenprompts für einzelne Prüfpositionen im 3D-Tabel
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Typische Zeilenprompt-Muster
 
@@ -94,3 +93,5 @@ Wenn die meisten Zeilen einen ähnlichen Zeilenprompt brauchen ist das ein Hinwe
 
 - Geprüft: 27.05.2026 (Halluzinations-Reparatur, Task 234)
 - Frontmatter unveraendert. Keine Komma-Zahlen eingefuehrt. Kein Kyrillisch vorhanden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -88,7 +88,6 @@ VOB/B ist AGB-Klauselwerk und erfordert wirksame Einbeziehung:
 **Bei B2C (Verbraucher-Bauvertrag § 650i ff. BGB):**
 - VOB/B regelmäßig nicht wirksam einbezogen wegen fehlender zumutbarer Kenntnisnahme
 - § 309 Nr. 8 BGB-Problematik: verkürzte Verjährung, Nacherfüllungsrecht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Folge bei Nichteinbeziehung:** BGB-Werkvertragsrecht §§ 631–650v BGB, insbes. 5-Jahres-Verjährung § 634a BGB statt VOB/B-4-Jahres-Frist.
 
@@ -116,7 +115,6 @@ VOB/B ist AGB-Klauselwerk und erfordert wirksame Einbeziehung:
 
 ### Anerkannte Regeln der Technik (a.R.d.T.)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - DIN 4108 — Wärmeschutz
 - DIN 4109 — Schallschutz
 - DIN 18195 — Abdichtung von Bauwerken
@@ -153,7 +151,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Vor Abnahme | Mangelfreiheit | Auftragnehmer | Abnahmeprotokoll, Eigenüberwachung, Prüfzeugnisse |
 | Verjährung | Hemmungstatbestand | Auftraggeber (Kläger) | Verhandlungskorrespondenz § 203 BGB |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 6 — Rechtsfolgen und Sekundärrechte
 
@@ -161,7 +158,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - **Wahlrecht des Unternehmers:** Nachbesserung oder Neuherstellung
 - **Frist** muss angemessen sein (abhängig von Komplexität; regelmäßig 2–6 Wochen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Sekundärrechte nach Fristablauf
 
@@ -237,7 +233,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Klageantrag: Zahlung von EUR [X] als Vorschuss für Selbstvornahme-Maßnahmen
 - Berechnung: Kostenvoranschlag Drittunternehmer (Bruttokosten)
 - Abrechnung nach Durchführung (Restforderung oder Rückzahlung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

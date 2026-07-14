@@ -23,11 +23,6 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 3. Gibt es Anzeichen für Zwangsvollstreckung, Insolvenzantrag oder strafrechtliche Eile?
 4. Ist die Dringlichkeitsstufe HOCH — muss der Anwalt sofort anrufen statt auf E-Mail zu warten?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 4 KSchG — Kuendigungsschutzklage-Frist: 3 Wochen ab Zugang der Kuendigung (Notfrist)
 - § 517 ZPO — Berufungsfrist: 1 Monat ab Urteilszustellung (Notfrist, unverlaengerbar)
@@ -131,3 +126,5 @@ Bei Unsicherheit über die Dringlichkeit: Eher MITTEL als NIEDRIG. Bei Unsicherh
 - `mandatsverhaeltnis-hinweis` — bei HOCH: Langform mit Frist-Warnung
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

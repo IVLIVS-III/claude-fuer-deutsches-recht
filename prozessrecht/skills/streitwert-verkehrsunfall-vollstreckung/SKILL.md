@@ -133,7 +133,6 @@ von 110.000 € = 3 × 1.476 € = 4.428 €.
 Anwaltsgebühren (Verfahrensgebühr 1,3 aus 110.000 € = 1,3 × 2.471 € = 3.212,30 €
 zzgl. USt.) nach Nr. 3100 VV RVG i. V. m. Anlage 2 RVG.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 in: Hartmann, KostenG, 54. Aufl. 2024, Paragraf 45 GKG Rn. 18.)*
 
 ## Risiken und typische Fehler
@@ -163,3 +162,5 @@ Kommentar. Bei streitiger Streitwertbemessung (z. B. Feststellungsabschlag)
 h. M. und Gegenauffassung kenntlich machen. Tabellenwerte (GKG Anlage 2, RVG
 Anlage 2) stets auf Aktualität prüfen – Gesetzesänderungen fließen nicht
 automatisch ein.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -12,10 +12,6 @@ description: "Wenn es um Kostenentscheidung in Urteilsbauer und Relationsmacher 
 3. Sind mehrere Beklagte vorhanden — Gesamtschuldner (§ 100 Abs. 4 ZPO) oder anteilig (§ 100 Abs. 1 ZPO)?
 4. Liegt sofortiges Anerkenntnis ohne Veranlassung vor (§ 93 ZPO — Kostenfolge für Kläger)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 91 ZPO — vollständige Kostentragung durch Unterliegenden
@@ -85,3 +81,5 @@ Dies ergibt eine Obsiegensquote von [X] Prozent.
 ## Streitwert
 
 Streitwertbeschluss separat oder im Tenor. Pflicht zur Begründung bei Abweichung vom Klagantrag.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

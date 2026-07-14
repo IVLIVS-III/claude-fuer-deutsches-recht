@@ -18,9 +18,6 @@ description: "Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratu
 4. Streitwert grob abschätzbar? Stundenhonorar oder RVG (§ 3a RVG: schriftliche Vereinbarung zwingend)?
 5. Ist die Steuersache beim FA, FG oder BFH anhängig — oder noch im Vorverfahren (Einspruchsphase)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Steuerrecht (Beratung und Prozess) (Telefon, Mail, Empfehlung, Walk-in).

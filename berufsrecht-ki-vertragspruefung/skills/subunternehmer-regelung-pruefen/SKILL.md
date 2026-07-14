@@ -90,10 +90,6 @@ Der häufige Aufbau "Frontend-Anbieter — Azure-Mietservice für OpenAI-Modelle
 - US-Konzern-Mutter aller Beteiligten — Cloud Act greift (siehe `cloud-act-und-drittstaat-pruefen`)
 - Datenfluss Azure → OpenAI muss explizit beleuchtet werden
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - §§ 43e Abs. 3 Nr. 3 BRAO, 62a Abs. 3 Nr. 3 StBerG, 50a Abs. 3 Nr. 3 WPO, 39c Abs. 3 Nr. 3 PAO, 26a Abs. 3 Nr. 3 BNotO — Subunternehmer-Weiterverpflichtung
@@ -162,3 +158,4 @@ Luecken: [BESCHREIBUNG]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

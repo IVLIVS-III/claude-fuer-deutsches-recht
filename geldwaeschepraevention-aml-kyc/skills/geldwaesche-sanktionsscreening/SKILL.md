@@ -11,9 +11,6 @@ description: "Wenn es um Sanktionslistenprüfung und Embargoabgleich in Geldwäs
 3. Sind Eigentuems- oder Kontrollbeziehungen zum Sanctioned Entity zu pruefen?
 4. Gibt es eine Transaktionssperr-Pflicht oder eine Verdachtsmeldepflicht ausloesende Treffer?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 2 EU-VO 2580/2001 — Einfrierungspflicht: sofortige Sperrung bei Sanktionstreffer
 - § 25h KWG — Geldwaesche- und Betrugsverhinderung in Kreditinstituten: Screeningpflicht
@@ -67,3 +64,5 @@ Prüfe AML/KYC und Sanktions-Compliance gemeinsam, dokumentiere Trefferentscheid
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

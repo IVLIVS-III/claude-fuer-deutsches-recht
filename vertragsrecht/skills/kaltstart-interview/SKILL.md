@@ -60,13 +60,9 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Transparenzgebot bei Zinsklauseln in AGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Haftungsbeschränkung in AGB; Inhaltskontrolle § 307 BGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Einbeziehung von AGB im unternehmerischen Verkehr; § 305 Abs. 2 BGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Überraschungsklausel § 305c BGB; Leitentscheidung zur Klauselkontrolle)
 
 ### Quellenregel
@@ -411,8 +407,9 @@ Jede Vertragsanalyse und jedes Playbook-Ergebnis muss Nachweise führen aus:
 
 - Gesetzestexten (BGB, UWG, HGB, DSGVO/BDSG) mit konkretem Paragraphen
 - BGH-Rechtsprechung in korrekter Zitierweise
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -52,10 +52,6 @@ Bei zwei Konstellationen verlässt der Vorgang den Bereich des nach Abs. 1 Erfor
 
 Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 26a Abs. 4 BNotO), ist die Einwilligung des Beteiligten erforderlich. Die Erforderlichkeit nach Abs. 1 bleibt davon unberührt, tritt aber neben das Einwilligungserfordernis.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - § 43e Abs. 1 BRAO, § 62a Abs. 1 StBerG, § 50a Abs. 1 WPO, § 39c Abs. 1 PAO, § 26a Abs. 1 BNotO — Erforderlichkeitsschwelle Berufsrecht
@@ -128,3 +124,4 @@ Begruendung: [...]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

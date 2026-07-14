@@ -29,7 +29,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ablauf
 
@@ -119,3 +118,5 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/t
 ## Hinweise
 
 Dieses Plugin liefert eine Vorstrukturierung. Es ersetzt nicht die Prüfung durch einen zugelassenen Rechtsanwalt. Jede Zelle des Würfels ist ein Hinweis der Verifikation bedarf, kein abschließender Befund. Vor Mandatsabnahme erfolgt die Prüfung durch den anwaltlichen Prüfer (siehe Skill `pruefer-uebergabe-paket`).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

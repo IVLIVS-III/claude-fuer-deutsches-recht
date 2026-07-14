@@ -30,10 +30,6 @@ description: "Wenn es um Zugewinnausgleich Berechnen in Fachanwalt Familienrecht
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kaltstart-Rückfragen
 
 1. Wann wurde die Ehe geschlossen, wann wurde Trennung erklärt, wann Zustellung des Scheidungsantrags (Stichtag Paragraf 1384 BGB für Endvermögen)?
@@ -48,7 +44,6 @@ description: "Wenn es um Zugewinnausgleich Berechnen in Fachanwalt Familienrecht
 - Beendigung durch Tod, Scheidung oder Vereinbarung; Ausgleichsforderung als Geldanspruch (Paragraf 1378 Abs. 1 BGB).
 - Anfangsvermögen (Paragraf 1374 BGB) = Aktiva − Passiva bei Eheschließung; Erbschaften, Schenkungen, Ausstattung nach Paragraf 1374 Abs. 2 BGB werden hinzugerechnet (privilegierter Erwerb).
 - Endvermögen (Paragraf 1375 BGB) = Aktiva − Passiva am Stichtag Paragraf 1384 BGB (Rechtshängigkeit des Scheidungsantrags). Illoyale Vermögensminderungen werden hinzugerechnet (Paragraf 1375 Abs. 2 BGB).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zugewinn = Endvermögen − Anfangsvermögen (nicht negativ — Paragraf 1373 BGB).
 - Ausgleichsforderung = (Zugewinn des Höhergewinnenden − Zugewinn des Wenigergewinnenden) ÷ 2 (Paragraf 1378 Abs. 1 BGB).
 - Begrenzung: Ausgleichsforderung wird durch Vermögen des Schuldners am Stichtag begrenzt (Paragraf 1378 Abs. 2 BGB).
@@ -110,3 +105,5 @@ Mit kollegialen Gruessen
 - Bei Auslandsvermögen Auskunftsanspruch erstreckt sich auch auf ausländisches Vermögen.
 - Bei Unternehmenswerten Sachverständigengutachten zur Bewertung notwendig — Kosten regelmäßig vorzustrecken.
 - Anschluss: Skill `fachanwalt-familienrecht-scheidungsantrag-stellen` bei Verbund nach Paragraf 137 FamFG.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

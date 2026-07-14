@@ -119,10 +119,6 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoß.
 - `fachanwalt-transport-cmr-schadensregulierung` — bei int. Transport
 - `testakten/umweltrecht-industrieanlage-genehmigung` — bei verbundenen Anlagen
 
-## Aktuelle Rechtsprechung Gefahrgut / ADR
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen ADR / Gefahrgut
 
 - ADR (European Agreement concerning the International Carriage of Dangerous Goods by Road) — Anlage A (Einstufung, Verpackung) und Anlage B (Befoerderungsbedingungen)
@@ -134,3 +130,5 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoß.
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

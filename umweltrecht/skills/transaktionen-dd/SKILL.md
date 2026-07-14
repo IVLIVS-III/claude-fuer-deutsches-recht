@@ -33,10 +33,6 @@ description: "Wenn es um Umweltrechtliche Transaktions-Due-Diligence in Umweltre
 - **§ 1 UmwHaftG** — Haftung für Schaden durch Anlage
 - **§ 24 BBodSchG** — Erstattungsanspruch bei Sanierung durch Dritte
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-DD
 
 ### Phase 1: Kick-off und Scope-Setting
@@ -123,3 +119,5 @@ Quellen: [Dokument im Datenraum, Seite/Tab]
 - `umweltrecht-emissionshandel-tehg` — TEHG bei Transaktion
 - `umweltrecht-immissionsschutz-bimschg` — Genehmigungsrechtsnachfolge
 - `energierecht-transaktionen-dd` — Energie-Asset-DD
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

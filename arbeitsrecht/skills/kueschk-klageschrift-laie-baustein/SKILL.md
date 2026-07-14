@@ -43,10 +43,6 @@ description: "Wenn es um Bauklastenartige Klageschrift für Laien: Rubrum-Vorlag
 - Paragraf 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
 - Paragraf 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz (jede Seite trägt eigene Anwaltskosten)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zweck
 
 Erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (Paragraf 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (Paragraf 46 Abs. 2 ArbGG i.V.m. Paragraf 496 ZPO a.F.).
@@ -161,3 +157,5 @@ Die Kündigung ist formunwirksam. [FORMFEHLER BESCHREIBEN — z.B.: Die Kündigu
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

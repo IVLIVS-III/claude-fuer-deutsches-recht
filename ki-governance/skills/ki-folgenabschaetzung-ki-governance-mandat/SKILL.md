@@ -32,10 +32,6 @@ description: "Wenn es um /ki-folgenabschätzung – digitale Werkzeuge-Folgenabs
 - **§ 44b UrhG, Art. 4 DSM-RL** — Text- und Data-Mining-Schranke; Opt-out-Mechanismus bei Trainingsdaten.
 - **§ 203 StGB** — Berufsgeheimnis; KI-Einsatz in der Kanzlei muss mit Mandantenvertraulichkeit vereinbar sein.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Kommentare
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -371,9 +367,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - § 203 StGB – Mandantengeheimnis `[Primärquelle – gesetze-im-internet.de]`
 
 **Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Frenzel, in: Paal/Pauly, DSGVO BDSG, 3. Aufl. 2021, Art. 22 Rn. 12
 - Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 27 Rn. 3 (FRIA-Anforderungen)
@@ -436,3 +430,4 @@ Freigabe: [NAME], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

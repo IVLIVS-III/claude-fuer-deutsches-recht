@@ -88,7 +88,6 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 ### Phase 4 — § 1a BetrAVG 15-Prozent-Zuschuss
 
 - Bei Entgeltumwandlung in Direktversicherung/Pensionskasse/Pensionsfonds: AG-Zuschuss-Pflicht 15 Prozent.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung: für ab 2019 abgeschlossene Vereinbarungen (Bestand seit 2022).
 
 ### Phase 5 — Auszahlungsphase
@@ -123,3 +122,5 @@ Stand: 05/2026.
 - BMF v. 06.12.2017, v. 18.03.2022.
 - BRSG.
 - BBG-West RV 2025: 96.600 EUR; § 100 EStG Schwellenwert 2.575 EUR/Monat, Foerderbetrag max. 288 EUR/Jahr (Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 und BMF-Schreiben prüfen).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

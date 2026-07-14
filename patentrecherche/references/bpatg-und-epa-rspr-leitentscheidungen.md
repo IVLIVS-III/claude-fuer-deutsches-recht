@@ -6,31 +6,24 @@
 
 ### 1.1 Äquivalenzlehre — Schneidmesser-Trilogie
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.2 Verletzungsbeurteilung allgemein
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.3 Erfinderische Tätigkeit / erfinderischer Schritt
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.4 Neuheit
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.5 Ausführbarkeit / Klarheit
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 1.6 Aussetzung Verletzungsverfahren wegen anhängiger Nichtigkeitsklage
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 2. Bundespatentgericht — wichtige Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -81,7 +74,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## 6. Zitierweise (verbindlich, vgl. `../../references/zitierweise.md`)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EPA Große Beschwerdekammer: `EPA, GBK, Entsch. v. 23.03.2023 – G 2/21, ABl. EPA 2023, A85, Rn. X.`
 - EPA Technische Beschwerdekammer: `EPA, TBK, Entsch. v. TT.MM.JJJJ – T 1173/97, ABl. EPA 1999, 609, Rn. X.`
 
@@ -94,3 +86,5 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ## Disclaimer
 
 Diese Übersicht ersetzt nicht die Eigenrecherche zu konkret betroffenen Anspruchsmerkmalen. Jede zitierte Entscheidung ist im Original zu prüfen, bevor sie in einer Eingabe (Bescheid, Einspruch, Nichtigkeitsklage, Schriftsatz) zitiert wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

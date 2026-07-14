@@ -51,17 +51,13 @@ Das Modell benötigt folgende Informationen:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Wiederholungsgefahr und die Beseitigungswirkung einer Unterlassungserklärung; eine
  eingeschränkt abgegebene UE beseitigt die Wiederholungsgefahr nur für den konkret bezeichneten
  Verletzungsfall.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Reichweite einer strafbewehrten Unterlassungserklärung; der Gläubiger muss konkret
  beschreiben, welche zukünftigen Handlungen erfasst sein sollen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Abmahnung": Die Abmahnung muss die beanstandete Verletzungshandlung so klar bezeichnen, dass
  der Abgemahnte die Berechtigung prüfen kann; andernfalls ist die Abmahnung unbeachtlich.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Dringlichkeitsvermutung im einstweiligen Verfügungsverfahren; selbst nach UWG-Reform 2021
  gilt die Dringlichkeitsfrist von 1 Monat ab Kenntnis als maßgeblich.
 
@@ -109,7 +105,6 @@ Produkt übertragbar. Der Mandant, die Quickprint AG, ist Mitbewerber im selben 
 Stiftung Warentest 2023" ist eine Angabe über wesentliche Merkmale des Produkts (Qualität,
 Prüfungsdatum). Sie ist unwahr, da das Testergebnis aus 2018 stammt. Die angesprochenen
 Verkehrskreise verstehen die Jahreszahl als Beleg eines aktuellen Tests; eine irreführende
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Einsatz der Werbung.
 
@@ -146,3 +141,5 @@ Az., Fundstelle, Rn., ggf. Kurzbezeichnung). Kommentarzitate mit Bearbeiter, Wer
 § und Rn. Bei umstrittenen Fragen (z. B. Reichweite der Kerngleichheit, Höhe der Vertragsstrafe)
 h. M. und Mindermeinung getrennt darstellen. Keine pauschalen "vgl."-Verweise ohne konkrete
 Seitenangabe.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

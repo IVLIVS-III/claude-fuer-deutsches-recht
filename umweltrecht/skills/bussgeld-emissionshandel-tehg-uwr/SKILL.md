@@ -41,10 +41,6 @@ Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrig
 - **§ 30 OWiG** — Verbandsgeldbuse gegen jur. Person
 - **§ 31 OWiG** — Verjaeahrung (3 Jahre bei max. Bussgeld > 1.000 EUR)
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -156,3 +152,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-verfahren` — Gerichtsverfahren nach Einspruch
 - `umweltrecht-immissionsschutz-bimschg` — Nachtraegliche Auflagen als Busjgeld-Alternative
 - `umweltrecht-kommandocenter` — Intake und Mandats-Triage
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

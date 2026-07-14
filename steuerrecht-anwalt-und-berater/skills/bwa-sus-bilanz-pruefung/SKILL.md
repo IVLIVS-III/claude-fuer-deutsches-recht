@@ -31,7 +31,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ### Primärnormen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 19 InsO** — Überschuldung: Vermögen deckt Verbindlichkeiten nicht, es sei denn positive Fortbestehensprognose. Prognosezeitraum 24 Monate (SanInsKG, gültig bis 31.12.2026).
 
@@ -170,7 +169,6 @@ dringend die unverzügliche Konsultation eines Fachanwalts für
 Insolvenz-/Sanierungsrecht oder Steuerrecht.
 
 Als Ihr Steuerberater leisten wir mit diesem Schreiben den nach
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Eine rechtliche Beurteilung der Antragspflicht ist uns nach § 5 RDG
 nicht erlaubt.
 
@@ -222,7 +220,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - StaRUG §§ 1, 102
 - StBerG §§ 1, 33
 - RDG § 5
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzept) / IDW S 11 (Insolvenzeröffnungsgründe)
 - K. Schmidt/Herchen, InsO § 17 Rn. 5–35
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

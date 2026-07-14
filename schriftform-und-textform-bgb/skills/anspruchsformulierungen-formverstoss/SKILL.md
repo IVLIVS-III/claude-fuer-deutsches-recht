@@ -21,11 +21,9 @@ description: "Wenn es um Anspruchsformulierungen bei Formverstoß in Schriftform
 - **Paragraf 280 Abs. 1 BGB** i.V.m. Paragrafen 311 Abs. 2, 241 Abs. 2 BGB — Schadensersatz aus c.i.c.
 - **Paragraf 16 TzBfG** — Entfristung bei formwidrigem Befristungsvertrag
 - **Paragraf 985 BGB** — Herausgabeanspruch
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -63,7 +61,6 @@ Nach Paragraf 16 TzBfG gilt ein formwidrig befristeter Arbeitsvertrag als unbefr
  → Kein wirksamer Rechtsgrund
 
 3. Bereicherungssperre aufgrund Schutzzweck der Formnorm?
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  → Paragraf 766 BGB (Bürgschaft): Wenn Bürge geleistet hat, Heilung (Paragraf 766 S. 3 BGB)
  → Paragraf 311b BGB (Grundstück): Rückzahlung vor Heilung möglich
 
@@ -132,7 +129,6 @@ Paragraf 125 S. 1 BGB nichtig.
 Wir fordern Sie auf, die geleistete Provision in Höhe von [Betrag] Euro
 bis zum [Datum, 14-Tage-Frist] zurückzuzahlen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 des Schutzzwecks des Paragraf 656a BGB kein Bereicherungsanspruch auf die Provision.
 Wir bitten um Rückantwort bis zum genannten Termin.
 
@@ -141,6 +137,7 @@ Wir bitten um Rückantwort bis zum genannten Termin.
 
 ## Fallstricke
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **c.i.c.-Anspruch**: Wer arglistig eine Formnorm verschweigt oder die Formunwirksamkeit verursacht, kann nach Paragrafen 280 Abs. 1, 311 Abs. 2 BGB schadensersatzpflichtig sein — dieser Anspruch besteht unabhängig vom Bereicherungsanspruch.
 - **Drei-Wochen-Frist Entfristungsklage**: Paragraf 17 TzBfG setzt eine Klagefrist von drei Wochen ab dem vereinbarten Vertragsende. Versäumung der Frist führt zu endgültigem Verlust des Anspruchs.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

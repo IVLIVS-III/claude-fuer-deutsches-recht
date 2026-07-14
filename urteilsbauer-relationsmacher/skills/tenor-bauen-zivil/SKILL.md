@@ -14,10 +14,6 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 3. Welcher Zinssatz gilt — 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB) oder 9 Prozentpunkte (§ 288 Abs. 2 BGB, B2B)?
 4. Ist vorläufige Vollstreckbarkeit mit oder ohne Sicherheitsleistung anzuordnen (§ 708 Nr. 11 oder § 709 ZPO)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 253 Abs. 2 Nr. 2 ZPO — Bestimmtheitsgebot für den Antrag (gilt spiegelbildlich für Tenor)
@@ -95,3 +91,5 @@ Der Tenor muss aus sich heraus vollstreckbar sein. Keine Bezugnahmen auf den Tat
 Im Repository werden Geldbetraege im Fliesstext mit Punkt geschrieben (Repo-Konvention).
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -30,10 +30,6 @@ description: "Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in 
 - **§ 81 VwVfG** — Verfahrensabschluss und Mitteilungspflichten der Behörde; spiegelbildlich Informationspflicht des Vertreters gegenüber dem Mandanten.
 - **Art. 13, 14 DSGVO** — Informationspflichten beim Umgang mit personenbezogenen Daten; Statusberichte, die Verarbeitungen beschreiben, müssen den Datenschutzvorgaben genügen.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -200,3 +196,5 @@ Entsprechend der Klinik-Konfiguration:
 Statusberichte enthalten keine zitierten Normen als Primärbelege — das obliegt den zugrunde liegenden Gutachten (`/memo`). Rechtliche Behauptungen in Statusberichten müssen durch verifizierte Gutachten gedeckt sein, auf die der Bericht verweist. Kein Status-Schriftstück enthält ungeprüfte Rechtsbehauptungen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

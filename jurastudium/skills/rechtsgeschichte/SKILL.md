@@ -19,9 +19,6 @@ description: "Wenn es um Rechtsgeschichte für Juristen in Jurastudium geht: pr�
 3. Welche historischen Bezuege sind für den aktuellen Lerninhalt relevant?
 4. Gibt es Verbindungslinien zwischen Rechtsgeschichte und geltendem Recht?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 1 GG — Menschenwuerde: historisch aus NS-Reaktion entstanden
 - Art. 3 GG — Gleichheitssatz: historisch aus Ueberwindung NS-Rassegesetze
@@ -122,3 +119,5 @@ Diese Skill schlägt vor, nennt aber bewusst keine Autoritäten als Pflicht. Üb
 - Sie ist kein Vortrag und kein Lexikon. Sie ist ein Drill-Werkzeug.
 - Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

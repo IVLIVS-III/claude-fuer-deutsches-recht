@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 732 KB) | PDF | [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 746 KB) | PDF | [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betreuung-schmalfeld-kontodaten-vertraege-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege-einzelpdfs.zip) |
 

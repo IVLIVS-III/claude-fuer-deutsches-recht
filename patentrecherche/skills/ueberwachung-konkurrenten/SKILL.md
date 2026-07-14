@@ -113,8 +113,7 @@ Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 328/87 (Drittbeobachtungen):** Im EPA-Erteilungsverfahren können Dritte Beobachtungen (Art. 115 EPU) einreichen, ohne am Verfahren beteiligt zu werden; durch fruehzeitige Beobachtung können relevante Entgegenhaltungen in das Prüfungsverfahren eingebracht werden, bevor ein formeller Einspruch noetig wird.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

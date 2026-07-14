@@ -29,9 +29,6 @@ description: "Wenn es um Bescheidanalyse in Fachanwalt Sozialrecht geht: prüft 
 - **Spezialfrage (Bescheidanalyse Sozialrecht):** Behörde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Eingaben
 
 - Bescheid als PDF Foto oder Text (auch gescannt mit OCR).
@@ -88,3 +85,5 @@ Analyseprotokoll mit:
 ## Grenzen
 
 Die Analyse ersetzt nicht die anwaltliche Entscheidung. Sie strukturiert die Vorbereitung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

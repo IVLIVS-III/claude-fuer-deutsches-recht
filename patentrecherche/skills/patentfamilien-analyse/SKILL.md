@@ -101,8 +101,7 @@ Bevor die Familienanalyse begonnen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Erweiterte Beschwerdekammer, G 2/10 (Teilanmeldung):** Eine EP-Teilanmeldung kann nur Gegenstande umfassen, die in der Stammanmeldung zum Zeitpunkt der Einreichung der Teilanmeldung offenbart waren; neue Merkmale können nicht nachtraeglich in eine Teilanmeldung eingefuehrt werden.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

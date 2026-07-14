@@ -35,7 +35,6 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhältnis zu K
 - **MLI**: Deutschland und Kanada sind beide MLI-Unterzeichner. Ob das DBA-Kanada 2001 als gedecktes Steuerabkommen i.S.d. BEPS-MLI-Anwendungsgesetzes gilt, ist im aktuellen BMF-Schreiben zum Stand der DBA zu prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zu RRSP/RRIF: aktuellen Stand beim BMF prüfen.
 
 ## Land-spezifisches
@@ -59,7 +58,6 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhältnis zu K
 - Deutschland: Anrechnungsmethode bei passiven Einkuenften; Freistellung mit Progressionsvorbehalt bei aktiven Einkuenften und Aktivitaetsklausel.
 
 ### Besonderheiten
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Branch Profits Tax** Kanada: bei deutscher Filiale in Kanada — DBA-Ermaessigung prüfen.
 - **Quebec Pension Plan** vs. CPP.
 
@@ -155,4 +153,4 @@ Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kana
 
 Stand: 05/2026. DBA-Kanada 19.04.2001, BGBl. 2002 II S. 670, in Kraft 28.03.2002. Dividenden 5/15%, Zinsen 10%, Lizenzen 10%, Branch Profits Tax max. 5% (Art. 10 Abs. 6). MLI-Status: aktuellen BMF-DBA-Stand prüfen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

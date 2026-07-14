@@ -200,4 +200,5 @@ Mit freundlichen Grüßen
 - § 102 StaRUG (Hinweispflichten Steuerberater).
 - § 43a Abs. 2 BRAO, § 203 StGB.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Quelle protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

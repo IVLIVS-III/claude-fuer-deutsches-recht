@@ -53,7 +53,6 @@ Reduzierung des Netzentgelts wenn
 
 ### Historischer Streit
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Neufassung 2023
 - Rückforderungs-Welle bei Bestandsanlagen
 
@@ -109,10 +108,6 @@ Reduzierung des Netzentgelts wenn
 - 4 Mrd. € erstes Förderaufrufs-Volumen
 - BAFA-Antrag
 - KMU-Bonus
-
-### Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -294,3 +289,5 @@ Reduzierung des Netzentgelts wenn
 - BAFA-Merkblätter Strompreiskompensation und Klimaschutzverträge
 - BGH EnVR-Linien
 - BNetzA BK4-Festlegungen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

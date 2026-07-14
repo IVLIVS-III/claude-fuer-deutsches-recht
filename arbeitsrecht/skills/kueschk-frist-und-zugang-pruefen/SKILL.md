@@ -56,10 +56,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Paragraf 188 Abs. 2 BGB — Fristende: gleicher Wochentag nach 3 Wochen um 24:00 Uhr
 - Paragraf 193 BGB — Fristende fällt auf Samstag/Sonntag/Feiertag → nächster Werktag
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## KRITISCHE SOFORTPRÜFUNG (Schritte)
 
 ### Schritt 1: Zugangsdatum feststellen
@@ -136,3 +132,5 @@ Kündigung zugegangen?
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

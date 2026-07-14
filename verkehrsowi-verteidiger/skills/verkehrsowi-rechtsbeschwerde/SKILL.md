@@ -34,10 +34,6 @@ Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil ge
 - **§ 341 StPO i.V.m. § 79 Abs. 3 OWiG** — Einlegungsfrist 1 Woche ab Urteilsverkuendung
 - **§ 338 StPO i.V.m. § 79 OWiG** — Absolute Revisionsgründe gelten auch in der Rechtsbeschwerde
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfschema Rechtsbeschwerde-Zulaessigkeit
 
 ```
@@ -102,3 +98,5 @@ Mit freundlichen Gruessen [KANZLEI]
 - Begründungsfrist 1 Monat nach Urteilszustellung — nicht nach Verkuendung!
 - Zulassungsbeschwerde bei Geldbusse <= 250 EUR: Grundsatzrechtsfrage benennen.
 - Anwaltliche Endkontrolle bei Ruge-Formulierung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

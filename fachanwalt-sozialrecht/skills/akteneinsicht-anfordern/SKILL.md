@@ -29,9 +29,6 @@ description: "Wenn es um Akteneinsicht Anfordern in Fachanwalt Sozialrecht geht:
 - **Spezialfrage (Akteneinsicht anfordern):** Antragsgegner (Behörde oder Sozialgericht) Vorgangsbezeichnung vollständige Akte inkl. medizinische Gutachten Aktennotizen Sachverständigenstellungnahmen. Versand beA. Vorgehen bei Verweigerung oder Schwaerzung. Output: Akteneinsichtsantrag fertig zum Versand. Abgrenzung zu akteneinsicht-auswerten (nach Erhalt der Akte).
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Rechtsgrundlagen
 
 - **§ 25 SGB X** — Akteneinsicht im Verwaltungsverfahren. Anspruch der Beteiligten in die das Verfahren betreffenden Akten.
@@ -103,3 +100,5 @@ Versand der Akte digital über beA-Nachricht oder als Kopie an die Kanzleianschr
 ## Folgeschritt
 
 Nach Eingang der Akte: Skill `akteneinsicht-auswerten`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

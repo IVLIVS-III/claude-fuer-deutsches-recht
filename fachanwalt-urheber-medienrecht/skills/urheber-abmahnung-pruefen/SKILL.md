@@ -173,7 +173,6 @@ II. Bestreiten der Verletzungshandlung
 
 [ggf.: Der Internet-Anschluss des Mandanten wurde zum behaupteten
 Zeitpunkt auch von [Dritten] genutzt. Sekundäre Darlegungslast
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kommen [Familienangehörige, Gäste] in Betracht.]
 
 III. Streitwertbegrenzung § 97a Abs. 3 UrhG
@@ -289,10 +288,6 @@ ODER
 
 ---
 
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage-Fragen bei Urheber-Abmahnungs-Prüfung
 
 Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
@@ -303,10 +298,9 @@ Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

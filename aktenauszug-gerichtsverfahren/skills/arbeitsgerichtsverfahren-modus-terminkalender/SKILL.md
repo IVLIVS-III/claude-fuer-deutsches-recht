@@ -36,10 +36,6 @@ Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsv
 - § 80-90 ArbGG — Beschlussverfahren; § 83 ArbGG — Untersuchungsgrundsatz
 - § 12a ArbGG — Kein Anwaltskostenersatz in 1. Instanz
 
-## Rechtsprechung (BAG — aktuelle Leitsätze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Verfahrensarten
 
 ### Urteilsverfahren (§§ 46 ff. ArbGG)
@@ -123,3 +119,4 @@ Vergleichsspielraum: [BETRAG] / offenes Zeugnis / beides
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -73,9 +73,6 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 - **GPAI Code of Practice:** Bei Nutzung von GPAI-Diensten (z.B. LLM-Chatbots) Anbieter-Code-of-Practice-Anschluss prüfen — kann für Kanzlei Dokumentations- und Sorgfaltsnachweise erleichtern.
 - **DORA / NIS-2:** Bei IT-Sicherheits- oder Cyber-Risiken im KI-Betrieb der Kanzlei parallel die einschlaegigen IT-Sicherheits-Regelwerke beachten (BSIG n. F., Art. 32 DSGVO).
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
 - Art. 29 KI-VO — Weitere Betreiberpflichten (Datenverwaltung, Anleitung-Einhaltung)
@@ -113,3 +110,5 @@ Art. 27 KI-VO — FRIA:
 Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
 Verantwortlicher: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

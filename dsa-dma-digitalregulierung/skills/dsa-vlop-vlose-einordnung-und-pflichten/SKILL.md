@@ -85,7 +85,6 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -133,3 +132,5 @@ Kernpflichten-Status:
 
 Sanktionsrisiko: Art. 52 DSA — bis 6 % Jahresumsatz
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

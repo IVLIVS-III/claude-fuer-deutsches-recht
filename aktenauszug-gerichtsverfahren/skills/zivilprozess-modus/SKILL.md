@@ -35,10 +35,6 @@ description: "Wenn es um Zivilprozess Modus in aktenauszug-gerichtsverfahren geh
 - §§ 935-945a ZPO — Arrest und einstweilige Verfügung (Verfügungsanspruch, Verfügungsgrund)
 - § 929 Abs. 2 ZPO — Vollziehungsfrist 1 Monat bei einstweiliger Verfügung
 
-## Rechtsprechung (BGH — Leitsätze ZPO-Verfahren)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Verfahrensarten im ZPO-Modus
 
 ### Ordentliches Klageverfahren
@@ -107,3 +103,5 @@ description: "Wenn es um Zivilprozess Modus in aktenauszug-gerichtsverfahren geh
 - Streitwert nach §§ 2 ff. ZPO i.V.m. §§ 3 ff. ZPO und § 48 GKG angeben
 - Zuständigkeit (örtlich / sachlich / funktionell) kurz erwähnen
 - Klageart (Leistungsklage / Feststellungsklage / Gestaltungsklage) benennen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

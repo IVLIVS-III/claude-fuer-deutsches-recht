@@ -52,22 +52,29 @@ def _load_gesamt_module():
 
 
 G = _load_gesamt_module()
+ZIP_TIMESTAMP = (1980, 1, 1, 0, 0, 0)
+
+
+def write_pdf(zipf: zipfile.ZipFile, arcname: str, data: bytes) -> None:
+    """Schreibt ein PDF mit stabilen Metadaten fuer reproduzierbare Archive."""
+    info = zipfile.ZipInfo(arcname, ZIP_TIMESTAMP)
+    info.compress_type = zipfile.ZIP_DEFLATED
+    info.external_attr = 0o100644 << 16
+    zipf.writestr(info, data)
 
 
 def odt_to_flowables(path: Path) -> list:
-    """Rendert ODT-Text in Flowables. Nutzt odfpy, faellt sonst auf Hinweis."""
+    """Rendert ODT-Text in Flowables oder bricht nachvollziehbar ab."""
     out: list = []
     try:
         from odf.opendocument import load as odf_load
         from odf.element import Element
     except ImportError:
-        out.append(Paragraph("<i>odfpy nicht installiert, ODT-Inhalt uebersprungen.</i>", G.s_meta))
-        return out
+        raise G.DocumentRenderError("odfpy ist nicht installiert")
     try:
         doc = odf_load(str(path))
-    except Exception as e:  # pragma: no cover - defekte Datei
-        out.append(Paragraph(f"<i>ODT konnte nicht gelesen werden: {G.escape(str(e))}</i>", G.s_meta))
-        return out
+    except Exception as exc:  # pragma: no cover - defekte Datei
+        raise G.DocumentRenderError(f"ODT konnte nicht gelesen werden: {exc}") from exc
 
     def text_of(node) -> str:
         parts: list[str] = []
@@ -92,9 +99,12 @@ def odt_to_flowables(path: Path) -> list:
             else:
                 walk(child)
 
-    walk(doc.text)
+    # doc.text kann bei odfpy auf einen Whitespace-Textknoten zeigen. Der
+    # Dokumentkoerper enthaelt dagegen das office:text-Element und damit auch
+    # Tabellen, Listen, Absaetze und Ueberschriften in richtiger Reihenfolge.
+    walk(doc.body)
     if not out:
-        out.append(Paragraph("<i>ODT enthielt keinen lesbaren Text.</i>", G.s_meta))
+        raise G.DocumentRenderError("ODT enthält keinen lesbaren Text")
     return out
 
 
@@ -105,31 +115,43 @@ def render_document_pdf(path: Path, testakte_dir: Path) -> bytes | None:
     """
     ext = ext_of(path)
     if ext in COPY_EXTS:
-        return path.read_bytes()
+        data = path.read_bytes()
+        try:
+            pages = list(G.PdfReader(io.BytesIO(data)).pages)
+        except Exception as exc:
+            raise G.DocumentRenderError(f"{path.name}: PDF konnte nicht gelesen werden: {exc}") from exc
+        if not pages:
+            raise G.DocumentRenderError(f"{path.name}: PDF enthält keine Seite")
+        return data
 
     rel = path.relative_to(testakte_dir)
     flow: list = [Paragraph(f"<b>Datei:</b> {G.escape(str(rel))}", G.s_meta), Spacer(1, 6)]
     try:
         if ext == "md":
-            flow.extend(G.md_to_flowables(path.read_text(encoding="utf-8", errors="replace")))
+            rendered = G.md_to_flowables(path.read_text(encoding="utf-8", errors="strict"))
         elif ext == "txt":
-            flow.extend(G.txt_to_flowables(path.read_text(encoding="utf-8", errors="replace")))
+            rendered = G.txt_to_flowables(path.read_text(encoding="utf-8", errors="strict"))
         elif ext == "eml":
-            flow.extend(G.eml_to_flowables(path))
+            rendered = G.eml_to_flowables(path)
         elif ext == "csv":
-            flow.extend(G.csv_to_flowables(path))
+            rendered = G.csv_to_flowables(path)
         elif ext == "xlsx":
-            flow.extend(G.xlsx_to_flowables(path))
+            rendered = G.xlsx_to_flowables(path)
         elif ext == "docx":
-            flow.extend(G.docx_to_flowables(path))
+            rendered = G.docx_to_flowables(path)
         elif ext == "odt":
-            flow.extend(odt_to_flowables(path))
+            rendered = odt_to_flowables(path)
         elif ext in IMAGE_EXTS:
-            flow.extend(G.image_to_flowables(path))
+            rendered = G.image_to_flowables(path)
         else:  # pragma: no cover - durch is_einzelpdf_document ausgeschlossen
-            return None
-    except Exception as e:
-        flow.append(Paragraph(f"<i>Inhalt konnte nicht gerendert werden: {G.escape(str(e))}</i>", G.s_meta))
+            raise G.DocumentRenderError(f"nicht unterstützter Dokumenttyp: {ext}")
+    except Exception as exc:
+        if isinstance(exc, G.DocumentRenderError):
+            raise G.DocumentRenderError(f"{rel}: {exc}") from exc
+        raise G.DocumentRenderError(f"{rel}: {type(exc).__name__}: {exc}") from exc
+    if not rendered:
+        raise G.DocumentRenderError(f"{rel}: Konverter lieferte keine PDF-Inhalte")
+    flow.extend(rendered)
 
     buf = io.BytesIO()
     doc = SimpleDocTemplate(
@@ -139,30 +161,44 @@ def render_document_pdf(path: Path, testakte_dir: Path) -> bytes | None:
     )
     hf = G.header_footer_factory(testakte_dir.name)
     try:
-        doc.build(flow, onFirstPage=hf, onLaterPages=hf)
-    except Exception as e:
-        print(f"    FEHLER beim Rendern von {rel}: {e}")
-        return None
-    return buf.getvalue()
+        doc.build(flow, onFirstPage=hf, onLaterPages=hf, canvasmaker=G.invariant_canvas)
+        data = buf.getvalue()
+        if not list(G.PdfReader(io.BytesIO(data)).pages):
+            raise G.DocumentRenderError("erzeugtes PDF enthält keine Seite")
+        return data
+    except Exception as exc:
+        if isinstance(exc, G.DocumentRenderError):
+            raise
+        raise G.DocumentRenderError(f"{rel}: Einzel-PDF konnte nicht gebaut werden: {exc}") from exc
 
 
 def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
+    return add_testakte_many([zipf], testakte_dir)
+
+
+def add_testakte_many(zipfiles: list[zipfile.ZipFile], testakte_dir: Path) -> int:
+    """Rendert jede Quelle einmal und schreibt sie in mehrere Zielarchive."""
     count = 0
     for path, arcname in document_arcname_pairs(testakte_dir):
         data = render_document_pdf(path, testakte_dir)
         if data is None:
             continue
-        zipf.writestr(arcname, data)
+        for zipf in zipfiles:
+            write_pdf(zipf, arcname, data)
         count += 1
     return count
 
 
 def build_single(testakte_dir: Path, dist: Path) -> tuple[Path, int]:
     out = dist / f"testakte-{testakte_dir.name}-einzelpdfs.zip"
-    with zipfile.ZipFile(out, "w", compression=zipfile.ZIP_DEFLATED) as zipf:
+    tmp = out.with_name(f".{out.name}.tmp")
+    with zipfile.ZipFile(tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1) as zipf:
         count = add_testakte(zipf, testakte_dir)
     if count == 0:
+        tmp.unlink(missing_ok=True)
         out.unlink(missing_ok=True)
+    else:
+        tmp.replace(out)
     return out, count
 
 
@@ -192,26 +228,48 @@ def main() -> None:
         return
 
     built: list[Path] = []
+    pending: list[tuple[Path, Path]] = []
     total_pdfs = 0
     skipped: list[str] = []
-    for d in dirs:
-        out, count = build_single(d, dist)
-        if count == 0:
-            skipped.append(d.name)
-            continue
-        built.append(d)
-        total_pdfs += count
-        print(f"Baue {out.name}: {count} PDFs")
+    all_out = dist / "alle-testakten-einzelpdfs.zip"
+    all_tmp = all_out.with_name(f".{all_out.name}.tmp")
+    try:
+        with zipfile.ZipFile(
+            all_tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
+        ) as combined:
+            for d in dirs:
+                out = dist / f"testakte-{d.name}-einzelpdfs.zip"
+                tmp = out.with_name(f".{out.name}.tmp")
+                try:
+                    with zipfile.ZipFile(
+                        tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
+                    ) as individual:
+                        count = add_testakte_many([individual, combined], d)
+                    if count == 0:
+                        tmp.unlink(missing_ok=True)
+                        out.unlink(missing_ok=True)
+                        skipped.append(d.name)
+                        continue
+                    pending.append((tmp, out))
+                except Exception:
+                    tmp.unlink(missing_ok=True)
+                    raise
+                built.append(d)
+                total_pdfs += count
+                print(f"Baue {out.name}: {count} PDFs")
+        for tmp, out in pending:
+            tmp.replace(out)
+        all_tmp.replace(all_out)
+    except Exception:
+        all_tmp.unlink(missing_ok=True)
+        for tmp, _ in pending:
+            tmp.unlink(missing_ok=True)
+        raise
 
     if skipped:
         print(f"Hinweis: {len(skipped)} Ordner ohne renderbare Unterlagen uebersprungen: {skipped[:10]}")
 
-    all_out = dist / "alle-testakten-einzelpdfs.zip"
-    with zipfile.ZipFile(all_out, "w", compression=zipfile.ZIP_DEFLATED) as zipf:
-        all_count = 0
-        for d in built:
-            all_count += add_testakte(zipf, d)
-    print(f"Baue {all_out.name}: {all_count} PDFs aus {len(built)} Testakten")
+    print(f"Baue {all_out.name}: {total_pdfs} PDFs aus {len(built)} Testakten")
     print(f"Fertig: {len(built)} Einzel-PDF-ZIPs, {total_pdfs} PDFs")
 
 

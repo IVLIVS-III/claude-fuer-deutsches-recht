@@ -130,7 +130,6 @@ Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
 
 - **Paragraf 109 GewO** — Zeugnisanspruch: Anspruch auf einfaches oder qualifiziertes Zeugnis, Wahrheitspflicht, Wohlwollensgebot
 - **Paragraf 16 BBiG** — Zeugnisanspruch für Auszubildende
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kein Ersatz für anwaltliche Beratung. Für die gerichtliche Geltendmachung eines Zeugnisberichtigungsanspruchs ist die Beauftragung eines Rechtsanwalts empfohlen.
 
@@ -212,3 +211,5 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Jeder Sk
 | [`zufriedenheitsformel-decodierung`](skills/zufriedenheitsformel-decodierung/SKILL.md) | Wenn es um Zufriedenheitsformel-Decodierung in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

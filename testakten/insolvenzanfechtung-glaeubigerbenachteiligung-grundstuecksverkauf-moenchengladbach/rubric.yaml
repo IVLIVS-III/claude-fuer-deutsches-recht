@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Prueft, ob ein Bearbeiter die Kernfrage der Glaeubigerbenachteiligung nach Paragraf 129 InsO bei wertausschoepfender
   Belastung sauber analysiert, die beiden Anfechtungskomplexe (Grundstuecksverkauf und Provisionszahlung) trennt
   und die in der Akte verteilten Indizien findet.

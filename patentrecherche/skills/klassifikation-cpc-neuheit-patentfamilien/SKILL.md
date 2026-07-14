@@ -117,6 +117,7 @@ Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
 
 > **EPA, Technische Beschwerdekammer, T 0190/99 (Klassifikationsirrtum):** Ein Fehler in der Klassifikation einer Anmeldung beeintraichtigt die Neuheit und erfinderische Taetigkeit der Anmeldung nicht, solange der beanspruchte Gegenstand ordnungsgemaess offenbart ist; die Klassifikation ist eine verwaltungstechnische Einordnung, kein Schutzrechtsmerkmal.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; für die agentische Recherche ist die Kombination von Klassen- und Schlüssel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren können.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

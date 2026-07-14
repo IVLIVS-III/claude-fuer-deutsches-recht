@@ -19,9 +19,6 @@ description: "Wenn es um Selbst-Kontrolle vor Abgabe in hausarbeitenmacher — D
 3. Wurde die Arbeit nach einer Pause erneut gelesen (frische Perspektive)?
 4. Sind alle Formalia (Inhaltsverzeichnis, Literaturverzeichnis, Zitierweise, Seitenzahlen) geprueft?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 276 BGB — Verschulden: Maßstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
@@ -257,3 +254,5 @@ Wenn nicht — überarbeite noch eine Stunde.
 
 - Abgabe — Du hast es geschafft.
 - Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

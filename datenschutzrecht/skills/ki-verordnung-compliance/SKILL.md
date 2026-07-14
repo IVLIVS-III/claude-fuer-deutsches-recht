@@ -158,7 +158,6 @@ Verbote (Auswahl):
 
 ### Automatisierte Entscheidungen Art. 22 DSGVO
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wenn KI-System automatisierte Entscheidung trifft mit rechtlicher / ähnlich erheblicher Wirkung → DSGVO-Verbot + Ausnahmen
 - KI-VO und DSGVO parallel anwendbar
 
@@ -268,15 +267,10 @@ Verbote (Auswahl):
 
 - VO (EU) 2024/1689 (KI-Verordnung)
 - DSGVO Art. 22 35
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BNetzA-Verlautbarungen (KI-Aufsicht)
 - EDSA Empfehlungen zu KI und Datenschutz
 - EU-Kommission KI-Leitlinien
 - Lambrecht/Stürner KI-Verordnung
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -286,7 +280,6 @@ Verbote (Auswahl):
 - **EU-KI-Büro:** seit Anfang 2025 voll operativ; zuständig für GPAI, Koordination mit nationalen Behörden, Code of Practice.
 - **Nationale Aufsicht Deutschland:** Bundesnetzagentur (BNetzA) als koordinierende KI-Aufsichtsbehoerde; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt) bleiben bestehen. Konkretisierende Gesetzgebung (KI-Marktueberwachungsgesetz / KI-VO-Durchfuehrungsgesetz) live über bundestag.de prüfen.
 - **Schnittstelle Art. 22 DSGVO / KI-VO:** Bei automatisierten Einzelentscheidungen mit erheblicher Wirkung (Scoring, Personalauswahl, Kredit) parallele Prüfung Art. 22 DSGVO + Art. 26 KI-VO + ggf. FRIA Art. 27 KI-VO erforderlich.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu verifizieren.
 
 ## Triage zu Beginn
 
@@ -323,3 +316,5 @@ Kernpflichten:
 
 Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

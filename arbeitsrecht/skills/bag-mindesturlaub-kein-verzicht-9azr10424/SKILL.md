@@ -16,8 +16,6 @@ description: "Wenn es um Bag Mindesturlaub Kein Verzicht 9azr10424 in Arbeitsrec
 
 **Fokus:** Bag Mindesturlaub Kein Verzicht 9azr10424: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
-### Rechtsprechung live prüfen
-
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -56,7 +54,6 @@ Die saubere Vergleichsformulierung trennt drei Schichten: gesetzlichen Mindestur
 
 Die Parteien sind sich darüber einig, dass das Arbeitsverhältnis zum [Datum] endet. Bis zum Beendigungstermin ist der Kläger unwiderruflich von der Arbeitsleistung freigestellt. Sämtliche Urlaubsansprüche, einschließlich des gesetzlichen Mindesturlaubs, werden während der Freistellung in natura gewährt und sind damit erfüllt. Sollten gesetzliche Mindesturlaubsansprüche aufgrund von Arbeitsunfähigkeit nicht in natura gewährt werden können, werden diese mit dem Beendigungstermin als Urlaubsabgeltung in Geld in Höhe von [Betrag] ausgezahlt.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Formulierung | Problem |
 | --- | --- |
@@ -71,3 +68,5 @@ Bei unwirksamer Verzichtsklausel bleibt der Anspruch auf Urlaubsabgeltung nach P
 ## Anschluss
 
 Verbindung mit `aufhebungsvertrag` und `aufhebungsvertrag-sperrzeit-prognose` für die Gestaltung von Aufhebungsverträgen. Bei Prozessvergleichen vor dem Arbeitsgericht ist der Skill `kueschk-vergleichsverhandlung-checkliste` zu konsultieren — die Vergleichsformulierung muss die Trennung Mindesturlaub und Mehrurlaub abbilden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

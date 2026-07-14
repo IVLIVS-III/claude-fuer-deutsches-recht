@@ -50,18 +50,13 @@ nicht aus Modellwissen ergänzt werden.
 
 ### Leitentscheidungen für Playbook-Anpassungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Haftungsbeschränkung in AGB; Grenze der zulässigen Absenkung;
  § 309 Nr. 7 BGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Transparenzgebot; Änderungsklauseln müssen klar und verständlich sein)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Haftungsfreizeichnung für Vorsatz unwirksam; § 276 Abs. 3 BGB;
  § 309 Nr. 7 lit. b BGB; kein Verhandlungsspielraum für das Playbook)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Klauselkontrolle Gewährleistungsverkürzung; § 309 Nr. 8 BGB;
  Grenzen für Mängelrechtsausschluss in AGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (AGB-Einbeziehung im unternehmerischen Verkehr; § 305 Abs. 2 BGB)
 
 ### Quellenregel
@@ -166,7 +161,6 @@ Begründung: 8/10 unterzeichneter Verträge aus den letzten 12 Monaten
 wurden mit 2 Jahren abgeschlossen.
 
 Quelle:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Grenzen Gewährleistungsverkürzung in AGB)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
  (Zulässige Verjährungszeiträume in AGB)
@@ -198,3 +192,5 @@ Jeder Vorschlag in der Ausgabe muss enthalten:
  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

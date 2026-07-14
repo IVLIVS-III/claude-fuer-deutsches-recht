@@ -64,10 +64,6 @@ Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsf
 - §§ 13 bis 16 ZwVwV
 - § 155 ZVG
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Quality-Gate
 
 § 154 ZVG (Gerichtliche Aufsicht) → § 20 ZwVwV (Vergütung Ordnungsmäßigkeit) → § 13-15 ZwVwV (Buchführung Berichte) → § 839 BGB (Haftung Amtspflichtverletzung) → § 280 BGB (Pflichtverletzung Schadensersatz)
@@ -85,3 +81,5 @@ Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsf
 - [ ] Instandhaltungsmaßnahmen dokumentiert und genehmigt (falls erforderlich)
 - [ ] Keine Zahlungen an Schuldner ohne Gerichtsgenehmigung
 - [ ] Aktennotizen für außergewöhnliche Vorkommnisse vorhanden
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

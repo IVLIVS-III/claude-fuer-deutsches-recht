@@ -153,7 +153,6 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 - **Berichtigung** erfordern beim Rechnungsstellers
 - **Vor-Vorsteuer-Abzug nicht möglich** bis Berichtigung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 6 — Klein-Betrag-Rechnung § 33 UStDV
 
@@ -189,7 +188,6 @@ Pflichtangaben § 14 Abs. 4 UStG:
 ### Karussell-Geschäfte
 
 - Vorsteuer-Abzug aus Schein-Lieferungen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Aufmerksamkeits-Pflicht bei unüblich niedrigen Preisen
 - Verpflichtung zur Sorgfalts-Pflicht
 
@@ -239,3 +237,5 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - **Steueraenderungsgesetz 2025** (BGBl. 2025 I Nr. 363, verkuendet 23.12.2025): Erweiterung des ermaessigten USt-Satzes (7 %) auf Restaurant- und Verpflegungsdienstleistungen (ohne Getraenke) für Umsaetze nach dem 31.12.2025.
 - Sölch/Ringleb UStG
 - Tipke/Lang Steuerrecht
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

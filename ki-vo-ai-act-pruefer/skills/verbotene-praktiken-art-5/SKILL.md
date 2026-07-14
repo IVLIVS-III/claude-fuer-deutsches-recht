@@ -94,9 +94,6 @@ description: "Wenn es um Verbotene Praktiken — Art. 5 europäischer Technikreg
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 5 Abs. 1 lit. a KI-VO — subliminale und manipulative Techniken
 - Art. 5 Abs. 1 lit. b KI-VO — Ausnutzung von Vulnerabilitaeten
@@ -135,3 +132,5 @@ Ergebnis: [KEIN VERBOT / VERBOT: lit. X — Sanktion bis 35 Mio. EUR Art. 99 Abs
 Naechster Schritt: [EINSTELLUNG DES BETRIEBS / sachlicher-ausschluss-art-2 / Weiter-Pruefung]
 Geprueft: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

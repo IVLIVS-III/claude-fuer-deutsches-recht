@@ -50,7 +50,6 @@ description: "Wenn es um Iwr Cisg Anwendbarkeit in Fachanwalt Internationales Wi
 ### Voraussetzung
 
 - **Eindeutiger** Vertraglicher Ausschluss
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - "Es gilt deutsches Recht" -> CISG bleibt (Teil deutschen Rechts)
 - Korrekt: "Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG)"
 
@@ -73,7 +72,6 @@ description: "Wenn es um Iwr Cisg Anwendbarkeit in Fachanwalt Internationales Wi
 ### Ruegepflicht Art. 39 CISG
 
 - **Innerhalb angemessener Frist** nach Entdeckung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Versäumnis: Verlust der Gewaehrleistungs-Rechte
 
 ### Spaetestens Art. 39 II CISG
@@ -123,7 +121,6 @@ description: "Wenn es um Iwr Cisg Anwendbarkeit in Fachanwalt Internationales Wi
 
 ## 9) BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -142,7 +139,6 @@ description: "Wenn es um Iwr Cisg Anwendbarkeit in Fachanwalt Internationales Wi
 
 ### Ergaenzende Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Checkliste CISG-Anwendbarkeit
 **Adressat:** Intern (Kaltstart) — Tonfall: schnell, checkboxorientiert

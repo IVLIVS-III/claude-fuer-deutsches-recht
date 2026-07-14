@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf`](gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 180 KB) | PDF | [`gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf`](gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip) |
 

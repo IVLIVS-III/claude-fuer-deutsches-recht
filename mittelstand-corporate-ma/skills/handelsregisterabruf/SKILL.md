@@ -122,10 +122,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 20 TranspRG — Transparenzregister: wirtschaftlich Berechtigter; Meldepflicht; Zugaenglichkeit
 - § 40 GmbHG — Einreichung der Gesellschafterliste nach Anteilsuebertragung; Frist 1 Monat
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Abruf-Liste erstellen:** alle zu recherchierenden Gesellschaften (inkl. Komplementaer-GmbH, Holdinggesellschaften) auflisten
@@ -173,3 +169,5 @@ OFFENE PUNKTE: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 ## Vorlagen
 
 - assets/templates/registerabruf-protokoll.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -97,7 +97,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 *Abgabefrist Januar*: Ohne Dauerfristverlängerung: 10. Februar 2025 (§ 18 Abs. 1 Satz 4 UStG). Frist bereits abgelaufen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Dauerfristverlängerung für Zukunft*: G sollte für 2025 Dauerfristverlängerung beantragen (§ 46 UStDV); Sondervorauszahlung = 14.000/11 = 1.272,73 EUR (fällig bis 10.02.2025 – für 2025 ist Frist versäumt; ab 2026 beantragen).
 
@@ -113,10 +112,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellenpflicht
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 

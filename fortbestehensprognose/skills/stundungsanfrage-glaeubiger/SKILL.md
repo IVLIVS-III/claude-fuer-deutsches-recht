@@ -217,10 +217,6 @@ stundungen:
 - Tracker mit Status (versendet / zugesagt / abgelehnt / verhandlung).
 - Hinweis: bei Ablehnung Liquiditätsplan-Update mit weiteren Maßnahmen erforderlich.
 
-## Aktuelle Leitentscheidungen — Stundungsanfragen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Stundungsanfragen
 
 § 271 BGB (Faelligkeit) → § 222 AO (Stundung Steuer) → § 76 SGB IV (Stundung SV-Beitraege) → § 17 InsO (ZU-Beseitigung durch Stundung) → § 130 InsO (Anfechtungsrisiko bei Stundungsvereinbarung)
@@ -256,3 +252,5 @@ Wir bitten um Stundung ohne Saumniszuschlaege für den genannten Zeitraum.
 
 Anlagen: Liquiditaetsplanung (Anlage 1), aktuelle BWA (Anlage 2)
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -68,7 +68,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Angabe: vollständiger Name, vollständige Anschrift im Impressum.
 
 **Schritt 4 – Platzierung und Zugänglichkeit**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erreichbarkeit: maximal zwei Klicks von jeder Seite aus.
 - Ständige Verfügbarkeit: kein Login erforderlich, keine Paywall.
 - Bei Social-Media-Profilen: Impressum im Profilbereich (Bio/Info) oder direkt verlinkt.
@@ -80,9 +79,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -94,7 +91,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 *Impressumspflicht*: G betreibt einen geschäftsmäßigen Telemediendienst i.S.d. § 5 Abs. 1 DDG (Online-Shop + Blog mit Werbebezug). Impressumspflicht besteht unzweifelhaft.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *v.i.S.d.P.*: Der Blog mit Meinungsbeiträgen ist ein journalistisch-redaktionell gestaltetes Angebot i.S.d. § 18 Abs. 2 MStV. Eine verantwortliche Person mit vollständigem Namen und Anschrift ist zu benennen. Fehlt die Angabe, droht Bußgeld nach § 49 MStV bis 500.000 EUR.
 

@@ -17,9 +17,6 @@ Dieser Skill wandelt fordernde, vorwurfsvolle oder unklare Handlungsaufforderung
 3. Gibt es bereits eine Frist oder muss sie neu gesetzt werden?
 4. Ist die Bitte Teil einer Mahnung (beachte § 286 BGB Mahnungswirkung) oder reine organisatorische Anforderung?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 286 BGB — Verzug: Mahnungserfordernis; klare Bitte mit Frist loest Verzug aus
 - § 130 BGB — Zugang der Erklaerung als Fristbeginn
@@ -56,3 +53,5 @@ Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht "bald"), reali
 
 **Vorher:** "Das ist Ihre Pflicht, das zu tun!"
 **Nachher:** "Nach meiner Auffassung obliegt Ihnen die Erfüllung der vereinbarten Pflicht X; ich darf Sie um entsprechende Ausführung bis TT.MM.JJJJ bitten."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

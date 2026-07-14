@@ -19,9 +19,6 @@ description: "Wenn es um Kanzleitag-Simulation in Kanzlei-Allgemein geht: prüft
 3. Welche Testakten und Mandanten sollen in der Simulation vorkommen?
 4. Dient die Simulation Training, Onboarding, Demo oder Qualitaetssicherung?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus; keine echten Mandatsdaten ohne Anonymisierung
 - Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch für Trainingsumgebungen
@@ -87,3 +84,4 @@ Wenn Mandatsannahme oder GwG nicht echt angebunden ist, an `kanzlei-allgemein-ma
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

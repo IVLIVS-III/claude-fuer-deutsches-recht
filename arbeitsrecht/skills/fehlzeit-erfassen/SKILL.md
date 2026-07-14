@@ -60,13 +60,11 @@ Standort-Fußabdruck, HRIS-Status, Tarifvertrag prüfen. Falls HRIS verbunden: H
 Je nach Abwesenheitstyp:
 
 **Krankheit (EFZG):**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BEM-Prüfdatum: ab 6-wöchiger AU innerhalb von 12 Monaten (Paragraf 167 Abs. 2 SGB IX)
 - Wenn gleiche Erkrankung: Neuer EFZG-Anspruch? Letzter AU-Zeitraum prüfen.
 
 **Urlaub (BUrlG):**
 - Verfallsdatum: 31.12. des laufenden Jahres (Paragraf 7 Abs. 3 S. 1 BUrlG) bzw. 31.03. des Folgejahres bei Übertragung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Resturlaub berechnen: Gesamtanspruch − genommene Tage
 
 **Mutterschutz (MuSchG):**
@@ -115,7 +113,6 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 - Paragraf 3 MuSchG (Schutzfristen), Paragraf 17 MuSchG (Kündigungsschutz)
 - Paragrafen 15–18 BEEG (Elternzeit, Anmeldung, Kündigungsschutz)
 - Paragraf 167 Abs. 2 SGB IX (BEM-Pflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiele
 
@@ -129,5 +126,6 @@ Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
 
 - **BEEG-Anmeldung nachträglich** – Elternzeit kann nicht rückwirkend beantragt werden; Anmeldedatum prüfen.
 - **Mehrere Abwesenheitsperioden bei gleicher Erkrankung** – EFZG-Neuanspruch-Prüfung nicht vergessen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Anonymisierung** – auch im internen Register: Mitarbeiter-IDs statt Namen verwenden; Paragraf 26 BDSG.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

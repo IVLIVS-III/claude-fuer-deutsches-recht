@@ -364,7 +364,6 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 **Lohn, Arbeitszeit und sonstige Themen**
 - `lohn-arbeitszeit-fragen` — ArbZG, MiLoG, EFZG, Tarifvertraege: standortbezogene Lohn- und Arbeitszeitfragen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - `lohnsteuer-sozialversicherung` — Sozialversicherungsrechtlicher Status und lohnsteuerliche Fragen.
 - `fehlzeit-erfassen` — Neue Abwesenheit im Register anlegen: BUrlG, EFZG, MuSchG, BEEG.
 - `fehlzeiten-register` — Offene Abwesenheiten und Fristen überprüfen.
@@ -432,6 +431,8 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 | **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
 > Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -718,7 +719,6 @@ _Wenn es um Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Te
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorprüfung (Checkliste)
@@ -803,7 +803,6 @@ Das KSchG ist gemäß Paragraf 1 Abs. 1 KSchG anwendbar. Die Wartezeit von sechs
 
 [HIER EINZUFÜGEN — betriebsbedingt / personenbedingt / verhaltensbedingt — je nach Fall:]
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **D. Formfehler [soweit einschlägig]**
 
@@ -847,6 +846,8 @@ Rechtsanwältin/Rechtsanwalt
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -956,7 +957,6 @@ Die Beklagte behauptet, der Betrieb beschäftige regelmäßig weniger als zehn A
 **II. Zum behaupteten Kündigungsgrund**
 
 *Bei betriebsbedingter Kündigung:*
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Bei verhaltensbedingter Kündigung:*
 Eine Abmahnung wurde nie ausgesprochen. Dies ist unstreitig. Ohne vorherige Abmahnung ist die verhaltensbedingte Kündigung unverhältnismäßig.
@@ -1001,10 +1001,6 @@ Step 6: Schriftsatz fristgerecht einreichen
 - **Paragraf 138 Abs. 2, 3 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Erklärungslast über Tatsachenbehauptungen der Gegenseite
 - **Paragraf 139 ZPO** — Richterliche Hinweispflicht; Gericht fördert vollständigen Vortrag
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Substantiierungstiefe — Was wird erwartet?
 
 Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
@@ -1012,6 +1008,8 @@ Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird b
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1048,10 +1046,6 @@ _Wenn es um Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab ver
 - Paragrafen 187, 188 BGB — Fristberechnung
 - Paragraf 193 BGB — Verlängerung bei Wochenende/Feiertag
 - Paragraf 15 Abs. 5 TzBfG — Unbefristetes Arbeitsverhältnis bei Weiterbeschäftigung ohne Widerspruch
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Die Norm — Paragraf 17 TzBfG (vollständig)
 
@@ -1133,6 +1127,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `entfristung-guetetermin-und-kammertermin-sprechzettel`
@@ -1178,10 +1174,6 @@ _Wenn es um Sprechzettel für Guetetermin und Kammertermin in der Entfristungskl
 - Paragrafen 9, 10 KSchG i.V.m. Paragraf 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
 - Paragraf 12a ArbGG — Kein Kostenerstattungsanspruch für Rechtsanwalt in erster Instanz
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Gütetermin (Paragraf 54 ArbGG)
 
 **Was passiert:** Erster Termin vor dem Vorsitzenden allein. Ziel: gütliche Einigung. Kein Urteil möglich.
@@ -1208,7 +1200,6 @@ _Wenn es um Sprechzettel für Guetetermin und Kammertermin in der Entfristungskl
 2. Die Beklagte zu verurteilen, mich als [BERUFSBEZEICHNUNG] zu unveränderten Arbeitsbedingungen weiterzubeschäftigen."
 
 ### Wenn Gegenseite behauptet, Vertrag sei ordnungsgemäß unterschrieben
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Wenn Sachgrund behauptet wird
 "Die Beklagte hat keinen konkreten Sachgrund nach Paragraf 14 Abs. 1 TzBfG dargelegt. Der behauptete [SACHGRUND] lag bei Vertragsschluss nicht vor / trägt die Befristungsdauer nicht. Der Arbeitgeber trägt die Darlegungs- und Beweislast für das Vorliegen des Sachgrunds."
@@ -1301,10 +1292,6 @@ Vergleich vertretbar? → Im nächsten Termin Einigung anstreben
 Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, Paragraf 102 Abs. 5 BetrVG prüfen
 ```
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Das zentrale Risiko — bitte genau lesen
 
 **Das Szenario:**
@@ -1366,6 +1353,8 @@ Der sicherste Weg: Im Gütetermin oder Kammertermin einen **Vergleich mit Beendi
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1469,10 +1458,6 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 - **Paragraf 278 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Gütliche Einigung jederzeit möglich
 - **Paragraf 794 Abs. 1 Nr. 1 ZPO** — Gerichtlicher Vergleich als Vollstreckungstitel
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Nach dem Termin
 
 - Protokoll des Vergleichs oder Sitzungsprotokoll aufheben
@@ -1484,6 +1469,8 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

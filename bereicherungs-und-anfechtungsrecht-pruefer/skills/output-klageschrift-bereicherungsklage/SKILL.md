@@ -17,16 +17,6 @@ description: "Wenn es um Output: Klageschrift Bereicherungsklage in bereicherung
 
 § 812 Abs. 1 S. 1 BGB (Leistungs-/Nichtleistungskondiktion) — § 814 BGB (Ausschluss) — § 817 BGB (Gesetzes-/Sittenverstoß) — § 818 BGB (Umfang der Herausgabe) — § 819 BGB (verschärfte Haftung) — § 291 BGB (Prozesszinsen) — §§ 253, 256 ZPO (Klageerhebung) — §§ 23, 71 GVG (Zuständigkeit)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Hinweis
 
 Liefert ein strukturiertes Muster für eine Klageschrift auf Grundlage der §§ 812 ff. BGB. Er ersetzt keine anwaltliche Leistung. Bezeichnungen und Beträge sind Platzhalter.
@@ -112,3 +102,5 @@ Soweit das Gericht von einer Rückabwicklung eines gegenseitigen Vertrags ausgeh
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

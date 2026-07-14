@@ -30,16 +30,13 @@ Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutsche
 - Schmalz, Methodenlehre für das juristische Studium, 4. Aufl. 1998
 
 **Anspruchsgrundlagenprüfung (BGB):**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Strafrecht — Deliktsaufbau:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare und Literatur:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **EU-Recht im Gutachten:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 288 AEUV: Verordnungen direkt anwendbar; Richtlinien nach Umsetzung oder bei unmittelbarer Wirkung
 
 ## Ablauf
@@ -126,9 +123,9 @@ Klausurniveau: [bestanden / grenzwertig / nicht bestanden] — Begründung in ei
 
 ## Top 3 Verbesserungen (nach Priorität)
 
-1.
-2.
-3.
+1. Wichtigster Struktur- oder Subsumtionsfehler:
+2. Zweitwichtigster fachlicher Verbesserungshebel:
+3. Konkreter nächster Übungsschritt:
 
 ## Formulierungsbeispiel — zur Demonstration, nicht zur Übernahme
 
@@ -166,3 +163,5 @@ Typischer Defizit-Befund: Studenten nennen § 985 BGB (Eigentumsherausgabe) vor 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

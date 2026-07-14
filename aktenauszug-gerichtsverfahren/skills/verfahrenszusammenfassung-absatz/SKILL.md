@@ -28,10 +28,6 @@ description: "Wenn es um Verfahrenszusammenfassung — Absatz in aktenauszug-ger
 - § 139 ZPO — Richterliche Prozessleitung (Hinweise des Gerichts beeinflussen den Stand)
 - § 286 ZPO — Freie Beweiswürdigung (offene Fragen zur Beweiswürdigung)
 
-## Rechtsprechung zur Verfahrensdokumentation und Einarbeitung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Aufbau (acht bis zehn Sätze)
 
 | Satz | Inhalt |
@@ -107,3 +103,5 @@ Rechtlich offen ist die Frage [zentrale Rechtsfrage].
 - [ ] Aktueller Stand und nächster Schritt benannt?
 - [ ] Keine Wertung, keine Prognose?
 - [ ] Richterliche Hinweise nach § 139 ZPO berücksichtigt?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

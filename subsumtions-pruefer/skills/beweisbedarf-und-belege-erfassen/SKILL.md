@@ -33,10 +33,6 @@ description: "Wenn es um Beweisbedarf und Belege erfassen in Subsumtions-Prüfer
 - §§ 445-455 ZPO — Parteivernehmung (subsidiär)
 - §§ 485-494a ZPO — Selbständiges Beweisverfahren
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Beweismittel-Katalog (ZPO)
 
 | Beweismittel | § ZPO | Typische Nachweise |
@@ -145,3 +141,5 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Quellenkontrolle
 
 Die Darlegungs- und Beweislast folgt aus der jeweils geprüften Anspruchsgrundlage, Einwendung oder Vermutung; es gibt keine universelle Fallliste für jede Subsumtion. Im Zivilprozess Paragraf 138, Paragraf 286 und Paragraf 292 ZPO fallbezogen prüfen. Rechtsprechung nur einem konkreten Tatbestandsmerkmal zuordnen und mit Gericht, Datum, Aktenzeichen, tragender Aussage sowie Quelle belegen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

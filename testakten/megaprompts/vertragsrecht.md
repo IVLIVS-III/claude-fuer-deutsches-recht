@@ -166,10 +166,6 @@ Falls Referenzvorlage oder Checkliste fehlen, fragt der Skill zunächst nach —
 - **Art. 25, 28, 32 DSGVO** — bei personenbezogenen Daten im Austauschumfang ggf. AVV-Bedarf neben dem NDA
 - **§ 203 StGB** — berufsspezifische Schweigepflicht (Rechtsanwalt, Steuerberater, Arzt) tritt **neben** das NDA
 
-### Kanonische Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -306,7 +302,6 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 - §§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1, 339, 343 BGB; § 348 HGB; § 15 AktG
 - §§ 2, 3, 5, 6, 7, 10 GeschGehG
 - §§ 305, 307 BGB (bei AGB-Konstellation)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 1 GeschGehG Rn. 12 ff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -550,12 +545,9 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
   Geheimnisbruch durch Anwalt; § 43a BRAO)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
 ### Quellenregel
@@ -798,12 +790,13 @@ Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 
 Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
 - § 43a Abs. 2 BRAO (Verschwiegenheit), § 50 BRAO (Handakten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -849,7 +842,6 @@ sie wesentliche Risiken weglassen.
 
 ### Sorgfaltspflicht bei Risikoangaben
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
  als Bestandteil ordnungsgemäßer Beratung)
 
@@ -1016,6 +1008,8 @@ ist für Nicht-Juristen):
  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1308,17 +1302,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
  Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
  tatsächlich liest.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
  die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
  Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
  maßgeblich.
 
@@ -1380,7 +1370,6 @@ Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 - **Unterschätzung des B2B-Risikos**: Auch B2B-AGB unterliegen § 307 BGB; übermäßige
  Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
 - **Transparenzgebot** § 307 Abs. 1 S. 2 BGB: Preis­nachberechnungsklauseln ohne
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geltungserhaltende Reduktion**: Im deutschen AGB-Recht grundsätzlich nicht zulässig
  (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
  ersetzt.
@@ -1394,6 +1383,8 @@ eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende 
 zu zitieren (Bearbeiter, Werk, Aufl., §, Rn.). Bei abweichender Instanzrechtsprechung ist auf
 den Streitstand hinzuweisen. "Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
 Ergebnis.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

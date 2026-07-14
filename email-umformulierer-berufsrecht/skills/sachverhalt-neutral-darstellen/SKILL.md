@@ -17,9 +17,6 @@ Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sa
 3. Für welchen Adressaten: Gericht (maximale Sachlichkeit), Mandant (erklaerend), Gegner (zurueckhaltend)?
 4. Gibt es Passagen, bei denen die Distanzierungsformel ("nach Ihrer Darstellung") benoetigt wird?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot und Wahrheitspflicht bei Sachverhaltsschilderungen
 - § 138 ZPO — Wahrheitspflicht der Parteien im Prozess (Sachverhalt muss wahrheitsgemaess dargestellt werden)
@@ -55,3 +52,5 @@ Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Fo
 
 **Vorher:** "Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
 **Nachher:** "Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -124,10 +124,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 6a GrEStG** — Konzernprivileg; Befreiung von GrESt bei Umstrukturierung im Konzern
 - **§ 1 II GrEStG** — Grundstuecksuebertragung bei Asset Deal; Begruendung § 1 IIa, III, IIIa GrEStG
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Steuerneutralitaet: Voraussetzungen der Buchwertfortfuehrung
 
 | Voraussetzung | Rechtsgrundlage | Prüfung |
@@ -214,5 +210,6 @@ OFFENE PUNKTE
 ## Quellen
 
 - §§ 11-25 UmwStG; § 8c KStG; § 6a GrEStG; § 1 II GrEStG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Haritz/Menner/Bilitewski UmwStG (5. Aufl. 2019); Tipke/Lang § 17
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

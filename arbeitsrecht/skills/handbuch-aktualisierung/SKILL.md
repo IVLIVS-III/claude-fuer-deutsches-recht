@@ -52,15 +52,12 @@ description: "Wenn es um Handbuch Aktualisierung in Arbeitsrecht geht: prüft Fr
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Wirksame Einbeziehung von Personalhandbuch-Regelungen durch Bezugnahmeklausel
  im Arbeitsvertrag; AGB-Kontrolle; Maßstab der überraschenden Klausel
  nach Paragraf 305c Abs. 1 BGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verschlechterung einer durch betriebliche Übung entstandenen
  Leistungsverpflichtung — einseitige Abänderung unwirksam; Änderungskündigung
  als richtiger Weg; Vertrauensschutz der Arbeitnehmer
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Mitbestimmung des Betriebsrats bei einseitiger Änderung betrieblicher
  Regelungen, die in den Bereich des Paragraf 87 BetrVG fallen; Einigungsstellenverfahren
 
@@ -132,7 +129,6 @@ Wird durch die Änderung eine bislang gewährte Leistung reduziert oder gestrich
 
 Falls ja: Risikokennzeichnung. In der Rechtsprechung können Handbuchregelungen
 als vertragliche Vereinbarung oder betriebliche Übung bindend sein
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 eine Änderungskündigung oder eine Mitarbeiterinformation mit Zustimmungserfordernis
 erfordern. Nicht blockieren — kennzeichnen.
 
@@ -142,6 +138,7 @@ Prüfe, ob die geänderte Regelung eine "wesentliche Arbeitsbedingung" i. S. d.
 Paragraf 2 Abs. 1 NachwG darstellt. Falls ja: Informationspflicht gegenüber den
 betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
+```markdown
 ## Handbuchänderung: [Abschnitt]
 
 ### Änderung
@@ -214,7 +211,8 @@ Jede Ausgabe dieser Skill muss bei mitbestimmungsrelevanten Änderungen zitieren
 - Paragraf 87 BetrVG (Mitbestimmungstatbestand), Paragraf 77 BetrVG (Betriebsvereinbarung)
 - Paragraf 2 NachwG (Nachweispflicht)
 - Paragrafen 305 ff. BGB (AGB-Kontrolle)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

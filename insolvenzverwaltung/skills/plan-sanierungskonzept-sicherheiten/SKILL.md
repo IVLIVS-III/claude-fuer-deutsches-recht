@@ -115,10 +115,6 @@ Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie na
 
 Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette (IV-Insolvenzplan)
 
 § 217 InsO (Plan-Option) → § 218 InsO (Vorlage durch IV) → §§ 220-221 InsO (Plan-Inhalte) → § 222 InsO (Gruppenbildung) → §§ 235-244 InsO (Abstimmung) → § 245 InsO (Obstruktionsverbot) → § 248 InsO (Bestaetigung) → § 254 InsO (Wirkung) → §§ 49-51 InsO (Absonderungsrechte in Plan)
@@ -141,3 +137,5 @@ Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und voraeufige
 - `iv-plan-integrierte-planung` — GuV-/Bilanz-/Liquiditätsplanung modellieren.
 - `iv-plan-vergleichsrechnung` — Planfall gegen Liquidationsszenario rechnen.
 - `iv-plan-redteam-qualitygate` — Plan vor Einreichung hart testen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

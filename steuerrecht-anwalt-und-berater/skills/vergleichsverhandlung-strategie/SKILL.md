@@ -16,10 +16,6 @@ description: "Wenn es um Vergleichsverhandlung und Einigung im Steuerrecht (Bera
 - **Spezialfrage (Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)):** Vergleichsverhandlung Strategie: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung (Vergleich/Einigung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Steuerrecht (Beratung und Prozess), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -169,3 +165,5 @@ Klassische Stolperfalle in Steuerrecht (Beratung und Prozess):
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

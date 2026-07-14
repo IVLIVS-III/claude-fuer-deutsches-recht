@@ -19,9 +19,6 @@ description: "Wenn es um Lernprofil anpassen in Jurastudium geht: prüft Frist, 
 3. Welches Prüfungsziel gilt jetzt (Zwischenpruefung, 1. StEx, 2. StEx, Schwerpunktbereich)?
 4. Welche Ressourcen stehen zur Verfuegung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Bibliothek, Lerngruppe)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 13 JAG NRW — Prüfungsinhalte 1. Staatsexamen (exemplarisch); andere Länder äquivalent
 - Art. 3 GG — Chancengleichheit: Grundlage für bundeslandspezifische Lernprofile
@@ -113,3 +110,5 @@ Auswirkungen:
 - **Veraltete Lehrveranstaltungen nicht entfernen:** Beendete Fächer im Profil lassen laufen, führt zu Studienplan-Verzerrungen.
 - **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort "nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
 - **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-uebung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

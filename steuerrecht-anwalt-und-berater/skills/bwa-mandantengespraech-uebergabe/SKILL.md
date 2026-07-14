@@ -44,7 +44,6 @@ Die schriftliche BWA mit Erläuterungstext ist das eine; das Gespraech mit dem M
 
 - IDW PS 480 (Erstellungsgrundsaetze).
 - BStBK Berufsrichtlinien.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -136,5 +135,6 @@ Stand: 05/2026.
 - StaRUG § 102.
 - RDG § 5.
 - BGB § 627.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BStBK Berufsrichtlinien.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

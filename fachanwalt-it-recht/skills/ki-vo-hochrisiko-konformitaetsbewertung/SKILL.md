@@ -281,11 +281,6 @@ Mit freundlichen Gruessen
 - **Harmonisierte Normen:** CEN/CENELEC arbeitet an harmonisierten Normen (insb. ISO/IEC 42001 — KI-Managementsystem, ISO/IEC 23894 — Risikomanagement, ISO/IEC 24029 — Robustheit). Bei freiwilliger Anwendung Vermutung der Pflichtenkonformitaet (Art. 40 KI-VO). Live-Status der Veroeffentlichung prüfen.
 - **EU-AI-Office:** seit Beginn 2025 voll operativ; zuständig für GPAI-Modelle, Koordinierung mit nationalen Marktueberwachungsbehoerden, Best Practices.
 - **EU-Datenbank Art. 71:** Hochrisiko-KI-Datenbank (commercial, in beta) live prüfen über digital-strategy.ec.europa.eu.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) oder offizielle nationale Quellen verifizieren.
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -330,3 +325,5 @@ EU-Datenbankregistrierung (Art. 71): abgeschlossen / ausstehend
 Anwendbarkeitsdatum: [02.08.2026 / 02.08.2027]
 Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -43,10 +43,6 @@ description: "Wenn es um Aufklaerungsfehler Beweisstrategie in Fachanwalt Medizi
 - **§ 630c Abs. 3 BGB** — wirtschaftliche Aufklärung: bei Kenntnis, dass Behandlungskosten nicht vollständig übernommen werden, ist aufzuklären.
 - **§ 630h Abs. 2 BGB** — Beweislastumkehr: Behandelnder muss beweisen, dass Aufklärung ordnungsgemäß erfolgt ist und wirksame Einwilligung des Patienten vorliegt.
 
-### BGH-Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfschema
 
 | Nr. | Prüfschritt | Norm | Kernfrage |
@@ -150,7 +146,6 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
  last für eine ordnungsgemaesse Aufklaerung und eine
  wirksame Einwilligung. Diese Beweislast kann mit dem
  vorgelegten Standard-Aufklaerungsbogen nicht erfuellt werden
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 4. Keine hypothetische Einwilligung
  Die Beklagte kann sich nicht mit Erfolg auf eine
@@ -159,7 +154,6 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
  einem plausiblen Entscheidungskonflikt, weil [konkret:
  Familienplanung, weniger invasive Alternative bekannt etc.].
  Dies ergibt sich aus [Mandantenvortrag + ggf. Zeuge].
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klären ---
@@ -221,6 +215,5 @@ II. Aufklaerungsfehler §§ 630e 630h Abs. 2 BGB
 ## Quellen
 
 - BGB §§ 630c, 630d, 630e, 630h, 249, 253
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

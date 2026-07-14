@@ -45,10 +45,6 @@ Bevor losgelegt wird, klaere:
 3. Hat der nationale Gesetzgeber den Umsetzungsspielraum ausgeschoepft oder ueberschossen (Gold-Plating)?
 4. Besteht eine Auslegungsfrage ob das nationale Recht richtlinienkonform interpretiert werden kann?
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Richtlinienumsetzung
 
 - **Art. 288 Abs. 3 AEUV** — Richtlinie: verbindliches Ziel; Form und Mittel den MS ueberlassen
@@ -98,3 +94,4 @@ Zustaendiges Gericht für Vorlage: [...]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -161,10 +161,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 10, 11 GwG — GwG-Pflichten gelten für alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
 - § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten vertragliche Vereinbarung über Abrechnungsmodalitaeten; schriftliche Basis empfohlen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline
@@ -177,3 +173,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
 - Kein Conflicts-Check für Team-Mitglieder: § 43a BRAO-Verstoß
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

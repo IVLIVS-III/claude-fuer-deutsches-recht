@@ -11,9 +11,6 @@ description: "Wenn es um /verzeichnis-durchsuchen — Skill-Registry-Browser in 
 3. Soll eine neue Registry zur Watchlist hinzugefuegt werden (URL-Validierung und Sicherheitshinweis erforderlich)?
 4. Ist der Positivliste-Modus 'restrictive' (neue Registry muss auch in positivliste.yaml eingetragen werden)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 32 DSGVO — TOM: Sicherheitsprueung jeder neuen Registry vor Aufnahme in Watchlist
 - Art. 28 DSGVO — AVV: Registry-Betreiber kann Auftragsverarbeiter sein, wenn Skills Mandantendaten verarbeiten
@@ -139,3 +136,5 @@ Zuletzt verifiziert: 2024-09-01 ⚠️ Aktualität prüfen (>6 Monate)
 - Skills installieren. Das macht `skill-installierer`.
 - Skills bewerten oder Empfehlungen geben (nur Profil-Passung-Filterung). Den Rohtext prüfen; Sie urteilen.
 - Das gesamte Internet durchsuchen. Nur beobachtete Registries.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

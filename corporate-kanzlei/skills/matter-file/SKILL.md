@@ -126,10 +126,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 199 BGB** — Verjährung; Warranty-Ansprueche; Fristen in Akte dokumentieren
 - **GoBD** — unveraenderbare elektronische Archivierung; revisionssicher
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Matter-File-Struktur: Corporate M&A
 
 ```
@@ -210,5 +206,6 @@ VERTRAULICH — MANDATSGEHEIMNIS (§ 43a BRAO)
 ## Quellen
 
 - § 50 BRAO; §§ 257 f. HGB; § 147 AO; § 199 BGB; GoBD
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

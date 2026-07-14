@@ -36,9 +36,6 @@ Stellt eine Mitarbeiterin oder ein Mitarbeiter fest, dass KI-generierter Output 
 
 Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse zur Bias-Anfälligkeit bestimmter KI-Systeme sollten in Schulungen aufgenommen werden. BAG-Entscheidungen zum AGG im Kontext von KI-Personalauswahl sowie Leitlinien der EU-Kommission zur Gleichbehandlung beim KI-Einsatz sind zu beobachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 1 AGG — Schutz vor Diskriminierung (Rasse, Geschlecht, Alter, Behinderung, Herkunft)
 - § 15 AGG — Schadensersatz und Entschaedigung bei Diskriminierung
@@ -82,3 +79,5 @@ Geprueft von: [NAME], [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

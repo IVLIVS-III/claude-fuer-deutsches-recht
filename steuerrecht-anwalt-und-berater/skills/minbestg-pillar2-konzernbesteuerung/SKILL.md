@@ -47,7 +47,6 @@ description: "Wenn es um Mindestbesteuerung Pillar Two / MinBestG — Konzernbes
 
 ### Leitentscheidungen und relevante Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Hinweis: Zum MinBestG selbst (in Kraft seit 1.1.2024) liegt noch keine BFH-Rechtsprechung vor. Erste Entscheidungen sind ab 2026/2027 zu erwarten.*
 
@@ -155,3 +154,5 @@ Top-Up Tax = (15 % - ETR) × (GloBE Income - Substance-Based Income Exclusion)
 ## Quellen und Updates
 
 Stand: 05/2026. MinBestG seit 1.1.2024. OECD Administrative Guidance Stand Januar 2025; weitere Updates in 2025/2026 erwartet. Transitional Safe Harbour bis 31.12.2026. BMF-Schreiben 18.04.2024. **Mindeststeueranpassungsgesetz (MinStAnpG)** verkuendet im BGBl. 2025 I Nr. 353 (23.12.2025; in Kraft 24.12.2025) — passt MinBestG an OECD-Guidance an. Bei Verschärfung oder DAC-9-Erweiterungen aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

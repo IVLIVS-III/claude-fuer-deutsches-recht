@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Insolvenzanfechtung aus Verwaltersicht gegen die Konzernmutter eines Regensburger Automobilzulieferers
   wegen Cash-Pool-Rueckfuehrungen von saldiert 640.000 EUR im letzten Jahr vor dem Antrag und der Besicherung eines
   Altdarlehens durch Sicherungsuebereignung des Maschinenparks. Prueft die Qualifikation von Cash-Pool-Salden als

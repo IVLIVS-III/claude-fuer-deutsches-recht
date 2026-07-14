@@ -31,9 +31,6 @@ description: "Wenn es um Gesellschafterversammlung einberufen (Kapitalerhöhung)
 - § 51 Abs. 3 GmbHG (Beschlussfassung ohne Einberufung bei Einverständnis aller Gesellschafter)
 - Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit) und Absatz 3 GmbHG (notarielle Beurkundung des Satzungsänderungsbeschlusses)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Einberufungsform wählen
@@ -91,12 +88,8 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 49 ff. aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 51 GmbHG (Einberufung Gesellschafterversammlung, Frist 1 Woche) → § 51 Abs. 3 GmbHG (Vollversammlung mit Zustimmung) → § 53 GmbHG (notarielle Beurkundung, vollständige Beschlussangaben) → § 47 Abs. 1 GmbHG (Stimmrecht, Mehrheitserfordernisse)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

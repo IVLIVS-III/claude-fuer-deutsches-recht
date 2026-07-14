@@ -1,4 +1,5 @@
 name: sozialrecht-enzymsubstitution-seltene-erkrankung-jena
+plugin: "fachanwalt-sozialrecht"
 description: Krankenversicherungsakte zur Enzymsubstitution bei seltener Erkrankung mit Off-Label-Nähe, Minderjähriger,
   drohenden irreversiblen Schäden und Eilrechtsschutz.
 checks:

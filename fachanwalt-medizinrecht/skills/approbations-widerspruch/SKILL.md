@@ -52,7 +52,6 @@ description: "Wenn es um Approbations Widerspruch in Fachanwalt Medizinrecht geh
 
 ### BAG-/BVerwG-Linie
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 3) Verfahren
 
@@ -174,10 +173,6 @@ description: "Wenn es um Approbations Widerspruch in Fachanwalt Medizinrecht geh
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 § 5 Abs. 1 BÄO (Widerruf Unwürdigkeit/Unzuverlässigkeit) → § 5 Abs. 2 BÄO (Ruhen) → § 4 BÄO (Voraussetzungen Approbationserteilung) → § 28 VwVfG (Anhörung) → §§ 68 ff. VwGO (Widerspruch) → § 74 VwGO (Klagefrist) → § 80 Abs. 2 Nr. 4 VwGO (Sofortvollzug) → § 80 Abs. 5 VwGO (Eilantrag Aussetzung).
@@ -265,3 +260,4 @@ Anlagen: Widerrufsbescheid, Vollmacht, Therapienachweise
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

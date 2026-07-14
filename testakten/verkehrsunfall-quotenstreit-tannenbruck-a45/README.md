@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 573 KB) | PDF | [`gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf`](gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 579 KB) | PDF | [`gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf`](gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verkehrsunfall-quotenstreit-tannenbruck-a45-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsunfall-quotenstreit-tannenbruck-a45-einzelpdfs.zip) |
 

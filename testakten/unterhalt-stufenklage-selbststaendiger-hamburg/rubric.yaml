@@ -1,4 +1,5 @@
 name: unterhalt-stufenklage-selbststaendiger-hamburg
+plugin: "fachanwalt-familienrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte unterhalt-stufenklage-selbststaendiger-hamburg.
 checks:
   - id: datei-01-mandatsnotiz-trennung-unterhalt

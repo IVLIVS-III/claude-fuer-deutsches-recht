@@ -98,9 +98,6 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
  - `/betreuungsrecht:kalender-reminder-und-fristenmanagement` — für Berichtspflichten, Bescheidfristen und Routinekontakte
 - Hinweis auf Datenschutz, Vertraulichkeit und sparsame Verarbeitung sensibler Gesundheits- und Vermögensdaten
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Rechtlicher Rahmen
 
 - **§ 1814 ff. BGB** — Betreuungsrecht (seit 01.01.2023 reformiert)
@@ -113,3 +110,5 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/b
 ## Hinweise
 
 Dieses Plugin ersetzt keine anwaltliche Beratung. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, Gesetze im Internet) zu prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

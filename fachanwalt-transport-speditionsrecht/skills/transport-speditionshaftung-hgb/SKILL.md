@@ -102,10 +102,11 @@ description: "Wenn es um Transport Speditionshaftung HGB in Fachanwalt Transport
 
 ## 8) BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
 - `fachanwalt-transport-cmr-schadensregulierung` — bei internationaler Straße
 - `frachtfuehrerhaftung-pruefen` — Prüfraster
 - `fachanwalt-transport-speditionsrecht-orientierung` — Triage
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

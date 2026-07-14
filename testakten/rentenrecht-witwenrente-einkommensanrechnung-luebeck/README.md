@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 58 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip) |
 

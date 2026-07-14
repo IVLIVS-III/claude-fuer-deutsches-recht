@@ -19,9 +19,6 @@ description: "Wenn es um Freundlicher Kanzlei-Copilot in Kanzlei-Allgemein geht:
 3. Gibt es einen konkreten Fehler oder eine Unvollstaendigkeit, auf die hingewiesen werden soll?
 4. Soll der Hinweis sofort gegeben oder am Ende des Workflows gesammelt ausgegeben werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43 BRAO — Allgemeine Berufspflicht des Rechtsanwalts: Pflicht zur sorgfaeltigen Interessenwahrung
 - § 51 BRAO — Berufshaftpflicht: Organisationspflichtverletzung als Haftungsgrundlage
@@ -103,3 +100,4 @@ Wenn Text juristisch schwach, zu pauschal oder nicht beweisbar wirkt:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -39,10 +39,6 @@ Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokume
 - **§ 15 EStG** — Gewerbliche Einkünfte bei Daytrading-Charakter.
 - **DAC8 (KryptoStG)** — KryptoStG vom 27.12.2024 (BGBl. 2024 I Nr. 449, in Kraft 01.01.2026); Meldepflicht der CASP; Erstmeldung 31.01.2027 für 2026.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BFH-Verfahren zu DeFi-Spezifika sind anhaengig — aktuellen Stand über dejure.org / BFH-Datenbank prüfen.
-
 ## Steuerliche Behandlung pro Aktivität
 
 ### A — Lending (Aave, Compound)
@@ -121,4 +117,4 @@ Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokume
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -36,7 +36,6 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 - **MLI**: Deutschland Unterzeichner und ratifiziert; Italien hat das BEPS-MLI bislang nicht ratifiziert. DBA-Deutschland-Italien ist daher noch nicht MLI-modifiziert (Stand 01/2026). Einzelne BEPS-Maßnahmen werden durch das deutsche MLI-Anwendungsgesetz (BGBl. 2024 I Nr. 196) auch auf das DBA-IT nicht angewendet.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Aktuelle BFH-Rechtsprechung zu Holding-Substanz und Lizenzgebuhren-Quellensteuer DBA-Italien in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu DBA-Italien: aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
@@ -148,3 +147,5 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Italien 18.10.1989, in Kraft 26.12.1992 (BGBl. 1990 II S. 742). Kein MLI (Italien nicht ratifiziert, Stand 01/2026). Subject-to-Tax-Klausel in Abschn. 16 Buchst. d Protokoll zum DBA-Italien. Dividenden: 5/15 Prozent; Zinsen: 10 Prozent Quellensteuer; Lizenzen: 0 Prozent. Aktuellen DBA-Text im BMF-DBA-Verzeichnis prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

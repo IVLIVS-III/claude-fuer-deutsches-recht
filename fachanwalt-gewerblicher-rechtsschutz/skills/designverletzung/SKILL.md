@@ -143,7 +143,6 @@ weist kein identisches vorbekanntes Design auf. Es besitzt Eigenart nach
 Designs einen anderen Gesamteindruck erhält: [Ausführung der prägenden Merkmale].
 
 IV. Designverletzung § 38 DesignG
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kinderwagen I) denselben Gesamteindruck hervor wie das Klagedesign.
 Folgende prägende Gestaltungsmerkmale sind vollständig übernommen:
 [tabellarische Gegenüberstellung Klagedesign vs. Verletzungsmuster].
@@ -179,7 +178,6 @@ vertreiben oder zu bewerben.
 
 Dringlichkeit:
 Kenntnis am [Datum] durch [Testkauf / Hinweis]. Antrag nach [X] Tagen;
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Glaubhaftmachung:
 Anlage EV 1: Eidesstattliche Versicherung [Name];
@@ -303,10 +301,9 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

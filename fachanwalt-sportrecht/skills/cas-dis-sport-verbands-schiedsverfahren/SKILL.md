@@ -33,7 +33,6 @@ description: "Wenn es um Cas Dis Sport Verbands Schiedsverfahren in Fachanwalt S
 - **NADA-Code** (DE)
 - **DIS-Sportschiedsgerichtsordnung**
 - **FIFA Statutes** Art. 56-62 (Schiedsgerichtsbarkeit)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -101,7 +100,6 @@ description: "Wenn es um Cas Dis Sport Verbands Schiedsverfahren in Fachanwalt S
 
 ## Strategie und Taktik
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **CAS-Erfahrung Schiedsrichter**: aus CAS-Liste auswählen
 - **Doping-Verteidigung**: kontaminierte Nahrungsergänzungs-Mittel als gängiger Verteidigungs-Anker (BGH-Linie zu Cannabis-Verseuchung)
 - **B-Probe**: immer beantragen (Chain of Custody)
@@ -117,3 +115,5 @@ Strategische Folge für Mandate: Nach CAS-Entscheidung kann je nach Konstellatio
 - DIS-Sportschiedsgerichtsordnung — [disarb.org](https://www.disarb.org)
 - WADA-Code — [wada-ama.org](https://www.wada-ama.org)
 - Rechtsprechung im Mandat live verifizieren; keine Aktenzeichen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

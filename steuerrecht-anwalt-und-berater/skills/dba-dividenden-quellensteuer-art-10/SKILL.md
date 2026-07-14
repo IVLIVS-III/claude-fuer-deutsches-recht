@@ -39,7 +39,6 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 - **DBA** je Vertragsstaat — Hoechstsaetze Art. 10.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BVerfG-Folgewirkungen, AbzStEntModG-Reform 2021.
 - Aktuelle BFH-Rechtsprechung zu Schachtelvoraussetzungen in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu § 43b EStG / Mutter-Tochter-Richtlinie — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
@@ -152,4 +151,4 @@ Sachverhalt: Deutsche GmbH (Mutter) haelt 100 Prozent an Tochter in Frankreich (
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

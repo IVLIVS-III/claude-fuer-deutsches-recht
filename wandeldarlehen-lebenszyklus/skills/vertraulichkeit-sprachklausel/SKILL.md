@@ -30,9 +30,6 @@ description: "Wenn es um Vertraulichkeit und Sprachklausel in Wandeldarlehen-Leb
 - § 328 BGB (Vertrag zugunsten Dritter)
 - Art. 6 Abs. 1 lit. b EuGVVO (Gerichtsstand bei unternehmerischem Vertrag)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Vertraulichkeitsklausel formulieren
@@ -88,10 +85,8 @@ Stand: 05/2026. DIS-Schiedsordnung 2018. Bei Änderung BGB oder DIS-Schiedsordnu
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 §§ 280, 249 BGB (Schadensersatz bei Vertraulichkeitsverletzung) → § 307 BGB (AGB-Kontrolle pauschaler Vertraulichkeitsklauseln) → §§ 203, 204 StGB (strafrechtliche Schweigepflicht bei Berufsgeheimnisträgern) → Art. 3 Nr. 1 GeschGehG (Geheimnisschutz, Definition) → Art. 9, 10 GeschGehG (Ansprüche bei Geheimnisverletzung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

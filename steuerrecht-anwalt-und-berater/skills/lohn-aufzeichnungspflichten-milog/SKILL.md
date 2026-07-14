@@ -36,11 +36,9 @@ Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft
 
 **§ 16 ArbZG** — Aufzeichnungspflicht Mehrarbeit allgemein.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 (Aktenzeichen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.)
 
@@ -89,7 +87,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Strategie und Praxis-Tipps
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Sondersituation Außendienst, Home-Office: Aufzeichnung am Ort der Taetigkeit.
 - Bei Prüfung durch Zoll: Vorlage in Deutsch in Originalform oder beglaubigter Übersetzung.
 - Bei Minijob: Aufzeichnung ist zentrale Prüfungsstelle der Prüfer.
@@ -103,4 +100,3 @@ Stand: 05/2026.
 - MiLoG §§ 17, 21.
 - SchwarzArbG § 2a.
 - ArbZG § 16.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

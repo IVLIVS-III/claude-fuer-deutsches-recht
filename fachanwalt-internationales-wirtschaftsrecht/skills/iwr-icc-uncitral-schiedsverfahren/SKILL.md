@@ -158,7 +158,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Ergaenzende Leitsaetze Schiedsverfahren
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Schiedsverfahren
 - §§ 1025-1066 ZPO — Deutsches Schiedsrecht (UNCITRAL Modellgesetz)
@@ -216,3 +215,4 @@ Streitwert: EUR [BETRAG]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

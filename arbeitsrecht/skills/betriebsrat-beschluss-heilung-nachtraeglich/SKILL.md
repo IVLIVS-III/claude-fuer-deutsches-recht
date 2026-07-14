@@ -34,7 +34,6 @@ description: "Wenn es um Betriebsrat Beschluss Heilung Nachtraeglich in Arbeitsr
  - Leitsatz 1: Paragraf 25 Abs. 2 BetrVG ist wesentliche Verfahrensvorschrift
  - Leitsatz 2: Betriebsrat kann Freistellung von Anwaltskosten auch dann verlangen, wenn er einer zunächst auf einem unwirksamen Beschluss beruhenden Beauftragung durch späteren ordnungsgemäßen Beschluss zustimmt
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kernaussage der neuen Linie
 

@@ -25,8 +25,6 @@ Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will 
 4. Ist der Tenor vollstreckungsfähig und bestimmt genug?
 5. Besteht eine Berufungszulassungsfrage (§ 511 Abs. 4 ZPO — Streitwert unter 600 EUR)?
 
-## Aktuelle Rechtsprechung zu Berufungsgründen
-
 ## Zentrale Normen
 
 - § 529 ZPO — Tatsachenfeststellung als Grundlage des Berufungsgerichts

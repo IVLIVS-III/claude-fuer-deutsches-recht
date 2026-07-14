@@ -176,10 +176,6 @@ Bei drohender Abschiebung:
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Triage
 
 - **§ 36 AsylG** — 1-Woche-Klagefrist bei offensichtlich unbegruedet; § 74 Abs. 1 AsylG — 2-Wochen-Klagefrist
@@ -233,3 +229,5 @@ Eskalation: [ ] Sofort-Telefon [ ] Heute [ ] Diese Woche
 
 Aktennummer: [AZ]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

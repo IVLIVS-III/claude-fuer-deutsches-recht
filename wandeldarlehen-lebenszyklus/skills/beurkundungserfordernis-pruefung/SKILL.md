@@ -31,9 +31,6 @@ description: "Wenn es um Beurkundungserfordernis-Prüfung in Wandeldarlehen-Lebe
 - Paragraf 53 Absatz 3 Satz 2 GmbHG in Verbindung mit Paragraf 2 Absatz 3 Satz 1, 3 und 4 GmbHG sowie Paragrafen 16a bis 16e BeurkG (Online-Beurkundung eines einstimmigen Satzungsänderungsbeschlusses unter den gesetzlichen Voraussetzungen)
 - § 311 Abs. 1 BGB (Schuldrechtliche Verpflichtung)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Konstruktion des Wandlungsmechanismus prüfen
@@ -49,7 +46,6 @@ Alle Dokumente prüfen: Term Sheet, Gesellschaftervertrag, Investorenvereinbarun
 § 9.3 Standard: Falls entgegen Annahme Beurkundungspflicht entsteht, verpflichten sich Parteien zur unverzüglichen notariellen Beurkundung. Kosten trägt die Gesellschaft. Bis zur Beurkundung wirtschaftliche Gleichstellung (§ 9.4).
 
 ### 5. Ergebnis dokumentieren
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 6. Trennungsprinzip sicherstellen
 Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierungen im Wandeldarlehensvertrag, die einen Direkterwerb bestehender Anteile ohne Kapitalerhöhung vorsehen.
@@ -79,14 +75,6 @@ Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierunge
 | Keine Heilungsklausel | Heilung unmöglich ohne Beurkundung | Klausel unvollständig | Vollständige Heilungsklausel |
 | Kapitalerhöhungsbeschluss ohne Notar | Eintragung Handelsregister scheitert | Notar noch nicht beauftragt | Notar bereits beauftragt |
 
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -98,4 +86,5 @@ Stand: 05/2026.
 - DiRUG (BGBl. I 2021, 3338): https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl121s3338.pdf%27]
 - DiREG-Inkrafttreten 01.08.2023 (Erweiterung Online-Verfahren auf Sachgruendung, Satzungsaenderungen, Kapitalerhoehung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
 - § 19 IV GmbHG (Aufrechnung Stammeinlage gegen Gesellschafterforderung; Hinweis: Erleichterungen durch MoMiG seit 2008, Beleg für Wandlung als Sacheinlage wegen Konfusion ueblich): https://www.gesetze-im-internet.de/gmbhg/__19.html
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

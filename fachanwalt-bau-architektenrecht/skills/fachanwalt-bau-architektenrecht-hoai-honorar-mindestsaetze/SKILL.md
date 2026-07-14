@@ -98,7 +98,6 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 ### Frist zur Pruefbarmachung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Nach Schweigen Fälligkeit fingiert
 
 ## 6) Architektenvertrag § 650p ff. BGB
@@ -220,3 +219,5 @@ K 4 — Leistungsphasennachweise
 
 
 <!-- UPDATE 05/2026: EuGH C-377/17 (04.07.2019), EuGH C-261/20 (18.01.2022) Thelen, BGH VII ZR 174/19 (02.06.2022) ergaenzt; alle ueber curia.europa.eu bzw. bundesgerichtshof.de verifiziert -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

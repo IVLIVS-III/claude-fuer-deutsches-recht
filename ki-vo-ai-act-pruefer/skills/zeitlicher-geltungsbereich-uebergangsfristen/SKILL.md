@@ -85,10 +85,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - **02.12.2027 — Anhang-III-Pfad:** spätester Anwendungszeitpunkt für Hochrisiko-Systeme in Anhang-III-Bereichen nach Digital-Omnibus-Zeitstrahl. Frühere Anwendung nur mit belastbarer Quelle annehmen.
 - **02.08.2028 — Art. 6 Abs. 1 / Anhang-I-Pfad:** spätester Anwendungszeitpunkt für KI als Sicherheitsbauteil oder reguliertes Produkt nach Anhang I. Nicht mit dem Anhang-III-Pfad vermischen.
 - **Sanktionen Art. 99 KI-VO:** ab 02.08.2025 vollumfaenglich anwendbar — bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz bei Verstoss gegen Art. 5; bis 15 Mio. EUR / 3 % bei Hochrisiko- oder GPAI-Pflichtverletzungen; bis 7.5 Mio. EUR / 1 % bei Falschangaben gegenueber Behörden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (curia.europa.eu) verifizieren.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
@@ -125,3 +121,5 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

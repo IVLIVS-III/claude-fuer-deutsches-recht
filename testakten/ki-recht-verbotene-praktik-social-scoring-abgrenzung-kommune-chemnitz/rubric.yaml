@@ -1,4 +1,5 @@
 name: ki-recht-verbotene-praktik-social-scoring-abgrenzung-kommune-chemnitz
+plugin: "ki-vo-ai-act-pruefer"
 description: 'Abgrenzung zwischen verbotener Praktik der sozialen Bewertung und zulaessiger einzelzweckbezogener
   Risikobewertung nach der Verordnung (EU) 2024/1689. Die Stadt Chemnitz betreibt das System KOMPASS, das aus fachbereichsinternen
   und fachfremden Datenquellen einen Kooperations-Score bildet und daran Kontrolldichte und Leistungsgewaehrung

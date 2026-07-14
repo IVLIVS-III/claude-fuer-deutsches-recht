@@ -105,10 +105,8 @@ Siehe Arbeitsakte `legistik-pflichtpostfach`.
 - HdR-PDF, GGO-PDF, NKRG-PDF
 - Smartphone für Online-Recherche in BGBl und Bundesanzeiger
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 38-42 GGO (Legistik-Grundregeln, Schulungspflicht für Referenten) — §§ 1-5 HdR (Handbuch der Rechtsförmlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualität) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

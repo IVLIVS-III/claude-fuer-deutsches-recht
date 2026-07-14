@@ -14,9 +14,6 @@ verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 3. Darf der Text stark gekürzt werden oder muss der vollständige Rechtsinhalt erhalten bleiben?
 4. Gibt es bereits einen Hausstil oder eine Vorlage für Einfache Sprache in der Einrichtung?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 11 BGG — Barrierefreiheit von Bescheiden und öffentlichen Dokumenten
 - § 9 EBV — Einfache Sprache in Bescheiden der Erbenberatung
@@ -152,3 +149,5 @@ Gib am Ende eine Mini-Prüfung aus:
 | Rechtsfolgen erhalten | ja/nein |
 | schwere Wörter erklärt | ja/nein |
 | weiterer Prüfbedarf | kurz |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

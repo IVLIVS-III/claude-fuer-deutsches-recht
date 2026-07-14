@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Insolvenzanfechtung aus Verwaltersicht gegen den Hauptlieferanten eines Kasseler Baustoffhandels, der
   im zweiten Monat vor dem Eigenantrag das Restlager Daemmplatten an Erfuellungs statt und zwei Kundenforderungen
   zur Tilgung von 118.000 EUR erhielt. Prueft Inkongruenz der Leistung an Erfuellungs statt, das Verhaeltnis von

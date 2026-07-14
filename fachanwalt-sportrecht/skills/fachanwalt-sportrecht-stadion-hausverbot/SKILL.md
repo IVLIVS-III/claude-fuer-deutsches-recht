@@ -40,7 +40,6 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## 3) BGH-Linie
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Workflow
 
@@ -59,7 +58,6 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 - BKA "Gewalttaeter Sport" Löschungs-Antrag
 - DSGVO Art. 17 Löschungs-Anspruch
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 4 — Klage
 
@@ -93,4 +91,4 @@ Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## Ergaenzende Rechtsprechung Stadion-Hausverbot
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

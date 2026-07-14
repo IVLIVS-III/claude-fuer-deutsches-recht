@@ -97,10 +97,6 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 
 Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfüllt (§§ 185 ff., 86, 86a, 130 StGB, § 33 BDSG). Anwaltsstrategie: Sperre angreifen, ohne dem Mandanten neuen Strafvorwurf zu generieren.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - Art. 17, 20, 21, 23 DSA (VO 2022/2065) — Begründungspflicht, internes Beschwerdesystem, außergerichtliche Streitbeilegung, Transparenzberichte
@@ -167,3 +163,5 @@ Streitwert: [BETRAG EUR]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

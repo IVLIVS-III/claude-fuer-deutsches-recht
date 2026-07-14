@@ -16,8 +16,6 @@ description: "Wenn es um Rechtsprechung Livecheck Arbeitsrecht in Fachanwalt Arb
 
 **Fokus:** Live-Check für arbeitsrechtliche Rechtsprechung: Prüfprotokoll für BAG-, LAG- und EuGH-Zitate, Verifizierungswege über bundesarbeitsgericht.de, openjur.de, dejure.org, curia.europa.eu, Umgang mit nicht verifizierbaren Quellen.
 
-### Spezial: Rechtsprechung Live-Check Arbeitsrecht
-
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Spezial: Rechtsprechung Live-Check Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.

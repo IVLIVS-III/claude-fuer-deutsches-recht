@@ -22,7 +22,6 @@ description: "Wenn es um Kassenarztrecht in Fachanwalt Medizinrecht geht: erstel
 - Wirtschaftlichkeitsprüfung § 106 SGB V — Vergleich mit Vergleichsgruppe (Fachgruppendurchschnitt) bei Verordnungsverhalten und Behandlungsweise; Prüfvereinbarung der Partner.
 - Praxisbesonderheiten — können Überschreitung des Durchschnitts rechtfertigen; Patient mit besonderem Krankheitsbild, Patientenklientel.
 - Disziplinarverfahren § 81 Abs. 5 SGB V — bei Pflichtverletzungen; Maßnahmen Verwarnung, Verweis, Geldbuße, befristete Ruhensanordnung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsweg § 51 Abs. 1 Nr. 2 SGG Sozialgericht — Widerspruchsverfahren beim Berufungsausschuss vorgeschaltet § 96 SGB V; Klage erst nach Berufungsausschussentscheidung.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -124,16 +123,6 @@ Anlagen
 - Anschluss bei Zulassungssachen kassenrechtliche Spezialisten und ggf. Steuerberater einbinden.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -249,3 +238,4 @@ IV. BEWEISANGEBOTE
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

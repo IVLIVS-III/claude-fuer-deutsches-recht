@@ -17,16 +17,6 @@ description: "Wenn es um Mehrpersonenverhältnisse — Direkt- und Durchgriffsko
 
 § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion) — § 812 Abs. 1 S. 1 Alt. 2 BGB (Nichtleistungskondiktion) — § 267 BGB (Drittleistung) — § 362 BGB (Erfüllungswirkung) — § 242 BGB (Treu und Glauben, Direktanspruch bei Insolvenz des Mittlers) — § 166 BGB (Wissenszurechnung) — §§ 929 ff. BGB (Übereignung, gutgläubiger Erwerb)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Grundsatz: Keine Durchgriffskondiktion im Anweisungsfall
 
 Im Leistungsdreieck (A schuldet B, B schuldet C, A zahlt auf Anweisung des B direkt an C):
@@ -147,3 +137,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

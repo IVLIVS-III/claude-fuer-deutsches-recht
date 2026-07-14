@@ -46,14 +46,11 @@ description: "Wenn es um Untersuchung Abfrage in Arbeitsrecht geht: ordnet Akten
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verdachtskündigung — dringender Tatverdacht erfordert objektive Schwere
  auf Basis des tatsächlich Ermittelten; Protokollauswertung bestimmt, ob
  Schwelle erreicht ist
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Tatkündigung — Überzeugungsmaßstab des Arbeitgebers; Protokollauswertung
  zur Überprüfung, ob der volle Nachweis einer Pflichtverletzung vorliegt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Widersprüchliche Zeugenaussagen im Kündigungsschutzprozess — der Arbeitgeber
  trägt die Darlegungs- und Beweislast für den Kündigungsgrund; nur was
  bei der Kündigung bekannt war, zählt (Nachschieben von Gründen nur
@@ -172,7 +169,6 @@ Handlungsbedarf: Frau Schmidt als Zeugin befragen (Checkliste Punkt 3 — noch o
 
 Bei Abfragen zur Beweislage für Kündigung zitieren:
 - Paragraf 626 BGB (Tatverdacht / Wichtiger Grund)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei AGG-Sachverhalt: Paragraf 22 AGG und frei verifizierte BAG-Rechtsprechung
 
 Detaillierter Abfrageprozess, Zitierregeln und Lückendokumentations-Templates
@@ -181,12 +177,10 @@ inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-## Ergänzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Protokollabfrage klären
 
 1. Welche Art der Abfrage ist gewünscht (Sachverhalts-, Widerspruchs-, Deckungsabfrage oder Stärkeabfrage)?
 2. Ist eine Kündigung in der Schwebe? → Dann Reife-Abfrage nach Paragraf 626 BGB-Schwellenwert
 3. Liegt ein AGG-relevanter Sachverhalt vor? → Besondere Sorgfalt bei Paragraf 22 AGG-Beweislast
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

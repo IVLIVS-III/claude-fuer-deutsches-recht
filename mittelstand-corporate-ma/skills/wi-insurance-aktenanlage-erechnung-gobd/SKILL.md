@@ -125,10 +125,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 254 BGB — Mitverschulden des Kaeuf ers: mangelnde DD koennte Versicherungsanspruch mindern
 - Art. 22 DSGVO — Entscheidung durch automatisierte Verarbeitung: bei KI-gestuetzter DD koennte Bewertung Versicherungsanspruch beeinflussen; Transparenzpflicht
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **W&I-Struktur entscheiden:** Buy-side (Kaeufer versichert sich gegen Garantienverletzung des Verkaeuf ers) vs. Sell-side (Verkaeufer versichert seine Haftung); Buy-side in Europa Standard
@@ -197,3 +193,5 @@ BINDUNGSBESTAETIGUNG FRIST: bis [DATUM]
 
 - assets/templates/wi-versicherung-checkliste.md
 - assets/templates/wi-underwriting-disclosure.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

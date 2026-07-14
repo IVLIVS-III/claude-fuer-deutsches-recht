@@ -133,10 +133,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 15 Abs. 3 GmbHG — Anteilsuebertragung; Gesellschafterliste; materielle Konsequenz falscher Kapitalisierungsangaben
 - § 823 Abs. 2 BGB i.V.m. § 399 AktG — Falscheintrag im HR durch Vorstand als unerlaubte Handlung; Haftung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **DD-Scope festlegen:** Workstream-Matrix erstellen; Materiality-Schwellen mit Kaeufer abstimmen; Zeitplan und DD-Team staffeln
@@ -205,3 +201,5 @@ HUMAN-IN-THE-LOOP: [ ] Partner-Review erforderlich
 
 - assets/templates/legal-dd-findings-tabelle.md
 - assets/templates/red-flag-report-vorlage.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -139,10 +139,6 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — TIA als Bestandteil der DSFA bei Drittlandbezug
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` — Vorab-Konsultation Art. 36 DSGVO nach negativer DSFA
 
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Faktische Updates (Stand 05/2026)
 
 - **DSFA + FRIA (Art. 27 KI-VO) bei Hochrisiko-KI:** Art. 50-Transparenzpflichten bleiben ab 02.08.2026 gesondert zu prüfen. Für Hochrisiko-Systeme nach Anhang III ist nach aktuellem Digital-Omnibus-Zeitstrahl spätestens 02.12.2027 einzuplanen; Anhang-I-Systeme spätestens 02.08.2028. DSFA und FRIA können integriert werden, bleiben aber rechtlich eigenständig. Vor Außenverwendung finalen Normtext und Kommissionsstand prüfen.
@@ -201,3 +197,5 @@ Datum: [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

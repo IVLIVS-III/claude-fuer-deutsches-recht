@@ -20,7 +20,6 @@ Art. 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:
 
 - **Großkreisrechnung** (Great Circle Distance) zwischen Abflug- und Zielflughafen.
 - IATA-Standardkoordinaten der Flughaefen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab).
 
 ## Begriff innergemeinschaftlich vs nicht-innergemeinschaftlich
@@ -62,7 +61,6 @@ Folge: Stufe 1 → 125 EUR; Stufe 2 → 200 EUR; Stufe 3 → 300 EUR.
 ## Pauschalreise
 
 - Bei Pauschalreise greifen zusätzliche Ansprueche gegen den Reiseveranstalter nach §§ 651a ff. BGB.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabe
 
@@ -83,10 +81,6 @@ Halbierungsregel prüfen:
 - → 1200 EUR Anspruch in voller Hoehe
 ```
 
-## Leitentscheidungen Distanz und Ausgleich
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Hinweise
 
 - Beweislast für Distanzangaben liegt nicht beim Fluggast (Standard-Flugplandaten frei zugänglich).
@@ -101,3 +95,5 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

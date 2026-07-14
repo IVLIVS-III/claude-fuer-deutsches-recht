@@ -50,7 +50,6 @@ Standard-Fragenraster:
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
 - Risikobewertung (niedrig/mittel/hoch) abhaengig von Auslandsbezug, Vermögensherkunft, Tatvorwurf (insbesondere § 261 StGB Geldwaesche, § 370 AO Steuerhinterziehung).
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG, BRAK-Identifizierungsleitfaden).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. Vollmacht und Akteneinsicht
 
@@ -91,7 +90,6 @@ Drei Weichen am Ende des Erstgespraechs:
 ## Relevante Rechtsgrundlagen und Standards
 
 - BORA, BRAO, FAO Strafrecht (§ 13 FAO).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG, Nebenstrafrecht (StVG, WaffG, KCanG, AWG, WiStrG 1954).
 - RVG mit VV-RVG Teil 4 (Strafsachen) und Teil 5 (Bussgeldsachen).
 - DSGVO und BDSG für den Umgang mit Mandanten- und Verletzten-Daten.
@@ -199,10 +197,6 @@ Mandantschaft ist Geschäftsführer/in einer GmbH; StA hat Insolvenzantrag gemä
 - `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft` (im selben Plugin) für parallelen Insolvenzantrag der StA.
 - `kanzlei-allgemein` für Konflikt-, GwG- und Aktenanlage-Routinen.
 
-## Aktuelle Rechtsprechung Erstgespraech / Mandatsannahme
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Erstgespraech Normen-Check
 
 - § 136 Abs. 1 StPO — Beschuldigtenbelehrung: Schweigerecht, Verteidigerwahl
@@ -212,3 +206,5 @@ Mandantschaft ist Geschäftsführer/in einer GmbH; StA hat Insolvenzantrag gemä
 - §§ 10-17 GwG — Identifizierung, Risikoeinschaetzung, Dokumentation
 - § 261 StGB — Geldwaesche: Strafbarkeit auch des Verteidigers bei Vorsatz/Leichtfertigkeit
 - § 3a RVG — schriftliche Honorarvereinbarung; Mindestangaben
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -173,7 +173,6 @@ Ich beantrage Einsicht in die Verfahrensakte, insbesondere:
 Das berechtigte Interesse ergibt sich aus der bevorstehenden
 Zeugenvernehmung am [Termin]. Eine sachgerechte Vorbereitung
 ist ohne Kenntnis des Verfahrensstands und der bereits vor-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Ort, Datum]
 [Unterschrift]
@@ -235,7 +234,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Konstellation A: Familienmitglied als Zeuge gegen Angehörigen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation B: Mit-Beschuldigter als Zeuge im Parallelverfahren
 
@@ -280,3 +278,5 @@ HinSchG-Schutz prüfen (Hinweisgeberschutzgesetz 2023). Identitätsschutz und Ad
 ## Quellen
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

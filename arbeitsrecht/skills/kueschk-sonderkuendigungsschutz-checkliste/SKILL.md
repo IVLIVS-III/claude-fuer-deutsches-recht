@@ -41,10 +41,6 @@ DSB? → Paragraf 38 Abs. 2 BDSG (nur außerordentlich aus wichtigem Grund)
 Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 ```
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Checkliste: Liegt Sonderkündigungsschutz vor?
 
 ### 1. Schwangerschaft und Mutterschutz Paragraf 17 MuSchG
@@ -105,3 +101,5 @@ Liegt ein Sonderkündigungsschutz vor: Die Kündigung ist in der Regel schwebend
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -237,9 +237,8 @@ Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässi
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 14, § 14a, § 13b, § 15 UStG; §§ 145–147 AO; GoBD-Erlass BMF 28.11.2019; §§ 4, 49b BRAO; XRechnung CEN EN 16931; ZUGFeRD 2.3 (Factur-X)
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

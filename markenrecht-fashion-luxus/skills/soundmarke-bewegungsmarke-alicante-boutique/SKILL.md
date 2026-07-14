@@ -28,7 +28,6 @@ Beide Markenarten wurden durch die UMV-Reform 2017/1001 erheblich vereinfacht: G
 - **§ 8 II Nr. 1 MarkenG n.F. (seit 14.01.2019):** Übereinstimmend — ausreichend ist klare/eindeutige Darstellung
 - **EUIPO-Leitlinien Teil B Kap. 5:** Hörmarken — MP3-Datei bis 2 MB oder Notenschrift (PNG/JPEG), Sonagramm akzeptiert
 - **DPMA-Bekanntmachung 2019:** Technische Anforderungen für Hörmarken: MP3 (max. 2 MB, max. 30 Sek.) oder Notenschrift
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bewegungsmarken:** EUIPO-Leitlinien — Videoformat (mp4/AVI bis 20 MB), Frame-Beschreibung
 
 ## Prüfungsschritte
@@ -125,8 +124,8 @@ Bevor die Hörmarke eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsätzlich eintragungsfaehig für Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

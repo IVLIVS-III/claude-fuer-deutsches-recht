@@ -40,10 +40,6 @@ description: "Wenn es um Guetetermin nach Paragraf 54 ArbGG: Ablauf und Funktion
 - Paragraf 57 ArbGG — Kammertermin nach erfolglosem Gütetermin
 - Paragraf 9 KSchG — Auflösungsantrag des Arbeitnehmers (bei Misserfolg im Gütetermin prüfen)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Was ist der Gütetermin?
 
 - Erster Verhandlungstermin nach Paragraf 54 ArbGG
@@ -109,3 +105,5 @@ Keinen Vergleich im Gütetermin unter Druck unterzeichnen, wenn du die Bedingung
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

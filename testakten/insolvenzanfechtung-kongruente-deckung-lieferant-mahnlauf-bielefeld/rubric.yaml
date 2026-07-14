@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Prueft, ob ein Bearbeiter die Anfechtung kongruenter Deckungen nach Paragraf 130 Abs. 1 Satz 1 Nr.
   1 InsO methodisch sauber auf die Kenntnisfrage zuspitzt, die ambivalente Indizienkette vollstaendig hebt und die
   Insolvenzreife aus den Rohdaten (BWA, OPOS) selbst rekonstruiert.

@@ -24,10 +24,6 @@ Vertragsvorlage und Altvertrag erkennen und analysieren: Anwendungsfall Anwalt o
 3. In welcher Sprache ist die Vorlage — deutsch, englisch, zweisprachig?
 4. Gibt es strukturierte Platzhalter ([...], XXX, TBD) oder nur unstrukturierten Freitext?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - §§ 433, 535, 631, 611 BGB — Kauf, Miete, Werk, Dienst (Vertragstypen)
@@ -70,3 +66,5 @@ Vertragsvorlage und Altvertrag erkennen und analysieren: Anwendungsfall Anwalt o
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

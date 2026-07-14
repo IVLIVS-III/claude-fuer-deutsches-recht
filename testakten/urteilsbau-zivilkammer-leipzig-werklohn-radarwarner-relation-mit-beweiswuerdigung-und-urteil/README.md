@@ -91,7 +91,6 @@ Arbeitsakte zum Plugin `urteilsbauer-relationsmacher`.
 | 20 | [`20-prozesskostenhilfe-hinweis.docx`](20-prozesskostenhilfe-hinweis.docx) | Hinweis PKH-Antrag Beklagte, Prüfung §§ 114 ff. ZPO, Ergebnis: abgelehnt |
 | 21 | [`21-rechtsmittelbelehrung-entwurf.docx`](21-rechtsmittelbelehrung-entwurf.docx) | Rechtsmittelbelehrung Entwurf: Berufung OLG Dresden, Frist, Anwaltszwang |
 | 22 | [`22-checklist-veroeffentlichung-juris.docx`](22-checklist-veroeffentlichung-juris.docx) | Checkliste Juris-Veröffentlichung: Anonymisierung, Schlagworte, Leitsätze |
-
 | Anh-1 | [`anhang-subunternehmer-betonart-sachsen.docx`](anhang-subunternehmer-betonart-sachsen.docx) | Subunternehmer Betonart Sachsen GmbH: VOB/B § 4 Nr. 8, Haftung § 278 BGB, Ermittlungsstand |
 | Anh-2 | [`anhang-olg-dresden-vorprozess-18-u-14-24.docx`](anhang-olg-dresden-vorprozess-18-u-14-24.docx) | Bindungswirkung OLG Dresden 18 U 14/24: Schlussrechnung, Einheitspreise, § 322 ZPO |
 

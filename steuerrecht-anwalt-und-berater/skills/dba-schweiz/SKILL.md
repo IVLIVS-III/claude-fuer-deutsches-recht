@@ -41,7 +41,6 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 - Aktuelle BFH-Rechtsprechung zur 60-Tage-Schaedlichkeit in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zur Pauschalbesteuerung Schweiz in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zu Pensions-Saeulen DBA-Schweiz in freier amtlicher Quelle abrufen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 - Konsultationsvereinbarung Home-Office Deutschland-Schweiz vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
@@ -189,3 +188,5 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Schweiz 11.08.1971 (BGBl. 1972 II S. 1021/1022), Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68), 27.10.2010 (BGBl. 2011 II S. 1092), 21.08.2023 (BGBl. 2025 II Nr. 275, in Kraft 27.11.2025, ab 01.01.2026). ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). BMF-Schreiben zu Grenzgaengern und Wegzug im BMF-Veroeffentlichungsverzeichnis abrufen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

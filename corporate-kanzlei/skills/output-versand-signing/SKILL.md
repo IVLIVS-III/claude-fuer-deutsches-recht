@@ -121,10 +121,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 1 ff. eIDAS-VO (EU) 910/2014** — qualifizierte elektronische Signatur; grenzueberschreitend anerkannt
 - **§§ 1-14 BeurkG** — notarielle Beurkundung; Voraussetzungen; Form
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Signing-Verfahren: Vergleich
 
 | Methode | Vorteile | Nachteile | Einsatz |
@@ -192,5 +188,6 @@ RUECKFRAGEN: [NAME, EMAIL, TEL]
 ## Quellen
 
 - §§ 126, 126a, 127, 128 BGB; eIDAS-VO (EU) 910/2014; §§ 1-14 BeurkG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

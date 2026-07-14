@@ -188,7 +188,6 @@ Szenario D: Exit mit Erloes EUR 2 Mio
 
 - **Rangrücktritt** § 39 Abs. 2 InsO gilt
 - Lender erhält Quote nachrangig
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Wandlungsoptik problematisch
 
 #### Strategische Optionen
@@ -319,19 +318,12 @@ Strategie Gesellschaft:
 - Frist im Fristenbuch (Maturity-Datum Qualified-Financing-Closing-Datum etc.)
 - Risiko-Memo Insolvenz Anfechtung Steuer
 
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen
 
 - BGB §§ 133 157 § 15 GmbHG
 - InsO §§ 39 130 131 133
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11
 - Weitnauer Handbuch VC
 - Greuer Wandeldarlehensvertrag
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

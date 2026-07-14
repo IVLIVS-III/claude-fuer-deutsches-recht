@@ -23,9 +23,6 @@ Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anw
 3. Muss der Termin mit dem beA-Journal oder dem Postlauf synchronisiert werden?
 4. Sollen Erinnerungen für Vorbereitungsschritte generiert werden (z.B. drei Tage vor Gerichtstermin)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 227 ZPO — Terminsverlegung: Gründe und Antragsfrist; keine Routineverlegung
 - § 43 BRAO — Allgemeine Sorgfaltspflicht: Terminsplanung und -vorbereitung
@@ -75,3 +72,5 @@ Für Jour fixe oder interne Abstimmung:
 ## Ausgabe
 
 `assets/templates/kanzleikalender.md` und `assets/templates/jour-fixe-protokoll.md` verwenden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

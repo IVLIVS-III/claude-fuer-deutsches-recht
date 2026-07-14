@@ -193,9 +193,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - Marly Softwarerecht
 - Schneider IT-Recht
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43a BRAO — Anwaltliche Grundpflichten: Interessenkonflikt-Verbot
 - § 45 BRAO — Verbotene Taetigkeit (frueherer Mandant / Gegenpartei)
@@ -231,3 +228,5 @@ TRIAGE-PROTOKOLL IT-RECHT
 
 Bearbeiter: [NAME RA/RAin]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

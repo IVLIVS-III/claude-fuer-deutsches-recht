@@ -14,10 +14,6 @@ Prüfschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 3. Werden Daten in Drittländer übermittelt ohne SCC oder anderen Mechanismus (Art. 44 ff. DSGVO)?
 4. Hat der Käufer wirksame Einwilligung erteilt oder scheidet Einwilligung aus (Art. 7 DSGVO)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - Art. 3 DSGVO — räumlicher Anwendungsbereich (Niederlassungs- und Marktortprinzip)
@@ -91,3 +87,5 @@ richtet sich an Personen in der EU].
 ## Im Urteil
 
 Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgründen konkret die verletzten DSGVO-Artikel benennen und subsumieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

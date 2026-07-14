@@ -42,7 +42,6 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 - § 2 BORA: Konkretisierung der Verschwiegenheitspflicht, Pflicht zur Einweisung von Mitarbeitern
 - § 203 StGB: Verletzung von Privatgeheimnissen — strafrechtliche Sanktion bei unbefugter Weitergabe von Mandatsinformationen
 - § 43a Abs. 4 BRAO: Interessenkollisionsverbot — Mandat-Workspace-Trennung unterstützt die Konfliktprüfung, ersetzt sie jedoch nicht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -114,12 +113,12 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 1-4 ProdHaftG — §§ 3, 3a UWG
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
+```markdown
 ## Parteien
 
 **Mandant:** [Name]
@@ -197,3 +196,5 @@ Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließli
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
 Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die anwaltliche Arbeitsorganisation; Interessenkonflikte bewertet weiterhin der verantwortliche Rechtsanwalt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

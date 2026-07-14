@@ -167,7 +167,6 @@ IV. Anordnungsgrund — Irreparabilität
 Bei Vollziehung der Abschiebung droht [konkrete Verfolgungsgefahr].
 Dies verletzt:
 - Art. 33 GFK (Non-Refoulement-Verbot)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 4 EU-Grundrechte-Charta
 Eine Rückkehr ist irreversibel.
 
@@ -364,3 +363,5 @@ Anlagen: K1 Attest, K2 Anhörungsprotokoll, K3 BAMF-Bescheid
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

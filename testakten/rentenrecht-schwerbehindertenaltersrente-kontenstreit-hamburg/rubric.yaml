@@ -1,4 +1,5 @@
 name: rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg
+plugin: "rentenpruefer"
 description: 'Vorgezogene Altersrente fuer schwerbehinderte Menschen mit streitiger Wartezeit von 35 Jahren (420
   Kalendermonate). Die DRV erkennt 406 Monate an; es fehlen 14 Monate, die aus Kontenluecken (Ausbildungsrest, zwei
   Werftbeschaeftigungen, Arbeitslosigkeit 1993, Pflegezeiten, Minijob 2016) durch Beweisersatz zu schliessen sind.

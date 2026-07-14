@@ -49,7 +49,6 @@ description: "Wenn es um Dokumentations- und Beweisarchitektur in Schriftform un
 Der Erklärende trägt die Beweislast für den Zugang seiner Willenserklärung beim Empfänger (BGH-Dauerrechtsprechung). Kommt es zum Streit über den Zugang, muss der Erklärende beweisen:
 - Dass die Erklärung abgeschickt wurde
 - Dass sie im Machtbereich des Empfängers eingegangen ist
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Originalurkunde und Beweiskraft
 

@@ -58,9 +58,7 @@ Wenn KMU betroffen: Prüfung Verhältnismaessigkeit. Ggf. Schwellenwerte einfüh
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -81,3 +79,5 @@ Tabelle plus Beschreibung in Vorblatt-Abschnitt E und in Begründung-Abschnitt A
 ## Anschluss
 
 `folgenabschaetzung-nachhaltigkeit`, `normenkontrollrat-kmu-check`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

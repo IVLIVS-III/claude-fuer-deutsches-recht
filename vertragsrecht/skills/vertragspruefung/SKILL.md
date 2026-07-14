@@ -103,24 +103,17 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Inhaltskontrolle Haftungsbeschränkungsklausel; § 307 BGB; Grenze
  der Freizeichnung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (§ 305c BGB; Überraschungsklausel; Leitnorm zur AGB-Kontrolle)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (Transparenzgebot; § 307 Abs. 1 S. 2 BGB; Klauselkontrolle
  Zinsanpassungsklausel)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (§ 309 Nr. 8 BGB; unzulässige Einschränkung der Gewährleistungsrechte
  in AGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (§ 309 Nr. 7 lit. b BGB; Haftungsfreizeichnung für grobe Fahrlässigkeit
  in AGB unwirksam)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (§ 305 Abs. 2 BGB; AGB-Einbeziehung; Anforderungen im Verbraucher- und
  B2B-Bereich)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Drittlandübertragungen; Standardvertragsklauseln)
 - **EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2** — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen; nur deren Worte entscheiden, ob die Zahlungspflicht eindeutig erkennbar ist. Rechtsfolge anhand BGB Paragraf 312j Absatz 3 und 4 sowie der konkreten Bestellstrecke prüfen. Presseberichte ohne veröffentlichten Entscheidungstext werden nicht als Rechtsprechungsanker verwendet.
 
@@ -282,6 +275,7 @@ und Eskalationsanfrage formulieren.
 - Eintrag in Fristen-Tracker (bei automatischer Verlängerung)
 - Mandatsakte aktualisieren (wenn Mandatsarbeitsbereich aktiviert)
 
+```markdown
 ## Zusammenfassung
 
 [3–5 Sätze: Gesamtbewertung, kritischste Abweichung, Handlungsempfehlung]
@@ -299,7 +293,6 @@ und Eskalationsanfrage formulieren.
 **Gegenentwurf:**
 "[vorgeschlagene Formulierung]"
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Literatur nur als vom Nutzer bereitgestellte oder lizenziert live geprüfte Quelle mit exakter Fundstelle]*
 
 ---
@@ -320,7 +313,6 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 - Bewertung: GELB — entspricht § 309 Nr. 7 lit. b BGB (Grenze im B2C),
  im B2B zulässig (§ 310 Abs. 1 BGB), aber prüfen, ob der vollständige
  Ausschluss für leichte Fahrlässigkeit auch Kardinalpflichten erfasst
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  freigezeichnet werden)
 - Gegenentwurf: "Die Haftung für die Verletzung von Kardinalpflichten
  bleibt in Höhe des vertragstypischen, vorhersehbaren Schadens bestehen."
@@ -351,3 +343,5 @@ Jede Klauselbewertung muss belegen:
  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

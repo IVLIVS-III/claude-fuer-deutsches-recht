@@ -103,7 +103,6 @@ description: "Wenn es um Verfahren — Behörden und Gerichte in Energierecht ge
 
 ### BVerwG-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Klima-Berücksichtigung in Planung
 
 ## Schritt 4 — Stellungnahme im Bauleitplan-Verfahren
@@ -255,10 +254,6 @@ description: "Wenn es um Verfahren — Behörden und Gerichte in Energierecht ge
 - Klima-/Naturschutz-Argumentation
 - Skill `klimaklagen-verbandsklage-umwrg`
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 § 31 EnWG (BNetzA-Beschwerde Zulaessigkeit) — § 75 EnWG (OLG-Beschwerde) — § 77 EnWG (aufschiebende Wirkung Eilantrag) — § 50 VwGO (BVerwG erste Instanz NABEG) — § 80 Abs. 5 VwGO (Eilrechtsschutz VG) — § 123 VwGO (einstweilige Verfuegung Verwaltung) — § 10 BImSchG (foermliches Verfahren)
@@ -283,4 +278,5 @@ description: "Wenn es um Verfahren — Behörden und Gerichte in Energierecht ge
 - BGH KZR-Linie
 - OLG Düsseldorf VI-3 Kart-Verfahren
 - BVerwG-Linien (4 C 3.10, 9 A 5.20)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

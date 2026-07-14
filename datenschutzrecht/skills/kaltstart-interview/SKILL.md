@@ -82,7 +82,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 35 DSGVO (DSFA-Pflicht – Referenz für DSFA-Strukturanalyse)
 - § 38 BDSG (Benennungspflicht DSB)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Beispiel
 
@@ -114,10 +113,6 @@ Stand: 05/2026. Bei Änderungen der Aufsichtsbehördenstruktur (Art. 56 DSGVO), 
 **Querverweise:**
 - `datenschutzrecht/skills/datenschutzrecht-anpassen/SKILL.md` — Gezielte Anpassung einzelner Profil-Abschnitte ohne Vollinterview
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Konfiguration im Praxisprofil
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 
@@ -152,3 +147,4 @@ Naechste Schritte: [LISTE]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

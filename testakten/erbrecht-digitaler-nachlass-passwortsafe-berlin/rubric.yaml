@@ -1,4 +1,5 @@
 name: erbrecht-digitaler-nachlass-passwortsafe-berlin
+plugin: "fachanwalt-erbrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte erbrecht-digitaler-nachlass-passwortsafe-berlin.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

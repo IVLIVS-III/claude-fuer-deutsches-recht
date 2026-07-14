@@ -157,11 +157,6 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 3. Welches prozessuale Stadium: vor Beauftragung, waehrend Begutachtung, nach Vorlage des Gutachtens?
 4. Wird eine Reduktion der Sachverstaendigenverguetung (§ 8a JVEG) oder die Unverwertbarkeit des Gutachtens angestrebt?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-
 ## Zentrale Normen
 - § 407a Abs. 1 ZPO — Hoechstpersönliche Erstellungspflicht des Sachverstaendigen
 - § 407a Abs. 3 ZPO — Benennungspflicht für Hilfskraefte und Mitarbeiter
@@ -325,6 +320,8 @@ oder Hilfskräfte beteiligt waren.
 - **JVEG-Festsetzung 0 Euro** ist die schärfste Folge; nur bei objektiver Unverwertbarkeit und/oder echter Identitäts-Unklarheit erreichbar.
 - **Eigenes Gutachten widerlegt KI-Verdacht nicht**: Ein Privatgutachten der Gegenpartei kann methodische Schwächen aufzeigen, aber nicht beweisen, dass das Originalgutachten KI-erstellt war.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `ki-arbeitsauftrag-mahnwesen-honorar`
@@ -402,9 +399,6 @@ _Wenn es um Versand-Vor-Check (Pflicht vor jedem Versand) in Kanzlei-Allgemein g
 2. Ist das Dokument das aktuelle und vollstaendige Exemplar (Stand, Aktenzeichen, Unterschrift geprueft)?
 3. Stimmt der Adressat mit dem im Schriftsatz genannten Gericht oder Empfaenger ueberein?
 4. Sind alle angekuendigten Anlagen beigefuegt und im Inhaltsverzeichnis aufgefuehrt?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 130 Nr. 6 ZPO — Schriftsatz muss Unterschrift des Anwalts tragen
@@ -529,6 +523,8 @@ quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-20-versand-quittung.pdf
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `kanzlei-cowork-kaltstart-interview`
@@ -557,9 +553,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 2. Welche Rechtsform hat die Kanzlei (Einzelanwalt, GbR, PartG, GmbH, AG) und wie viele Anwaelte?
 3. Welche Buchhaltungssoftware ist im Einsatz (DATEV, Lexware, sevDesk, RA-MICRO, Advoware) oder keine?
 4. Sind beA, E-Mail-Integration und Fristenbuch bereits eingerichtet oder müssen diese konfiguriert werden?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab Kanzleigruendung
@@ -651,6 +644,8 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 
 Mandantenkommunikation und folgenreiche Versandhandlungen verbleiben in anwaltlicher Verantwortung. Vor jedem Versand `versand-vor-check`.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `rechnungserstellung-rvg`
@@ -666,7 +661,6 @@ _Wenn es um Rechnungserstellung Honorar (RVG oder Vereinbarung) in Kanzlei-Allge
 4. Sind alle Auslagen (Porto, Kopien, Fahrtkosten, Nr. 7001, 7002 VV RVG) vollstaendig erfasst?
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
@@ -798,6 +792,8 @@ Konsolen-Rechner für RVG-Gebühren nach Anlage 2 (Stand 01.01.2021):
 
 Aufruf: `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3`. Liefert Netto, USt., Brutto in deutscher Zahlenschreibweise. Ersetzt nicht die RVG-Abrechnung im Kanzleisystem, sondern hilft beim schnellen Plausibilisieren.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `aktenzeichen`
@@ -823,9 +819,6 @@ Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwen
 2. Gibt es Kollisionsgefahr bei aehnlichen Aktenzeichen-Varianten in derselben Akte?
 3. Soll das Aktenzeichen einem bereits vorhandenen Mandat zugeordnet oder als neues Mandat angelegt werden?
 4. Sind fremde Aktenzeichen (Gegner, Versicherung, Rechtsschutz) mit dem eigenen verknuepft?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 51 BRAO — Berufshaftpflicht des Rechtsanwalts; Aktenzeichen-Fehler als Pflichtverletzung
@@ -866,6 +859,8 @@ Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwen
 ## Sicherheitsregel
 
 Wenn zwei Akten plausibel sind, nicht automatisch ablegen. Immer nachfragen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -974,9 +969,6 @@ Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwen
 2. Wann ist die Forderung faellig geworden und wann ist der Verzug eingetreten (§ 286 BGB)?
 3. Besteht ein laufendes Mandatsverhältnis das die Eskalation taktisch beeinflusst?
 4. Ist ein Inkasso- oder gerichtliches Mahnverfahren (§§ 688 ff. ZPO) bereits eingeleitet oder geplant?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 286 BGB — Verzug: Voraussetzungen (Faelligkeit, Mahnung oder Kalendertermin)
@@ -1102,6 +1094,8 @@ Mandant kann verlangen Einsicht in die Akte (§ 50 Abs. 5 BRAO). Bei Streit übe
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `mandatsvereinbarung-postlauf`
@@ -1199,9 +1193,6 @@ _Wenn es um Output und Versandsteuerung in Kanzlei-Allgemein geht: erstellt den 
 3. Wurde der Versand-Vor-Check bereits durchgefuehrt (Dokument, Unterschrift, Adressat, Anlagen)?
 4. Ist ein fristgebundenes Dokument dabei, das sofort nach Versand ins Fristenbuch muss?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 130a ZPO — Elektronisches Dokument: Anforderungen an Inhalt und Uebermittlungsweg
 - § 174 ZPO — Zustellungen von Anwalt zu Anwalt: Empfangsbekenntnis und Fristen
@@ -1275,6 +1266,8 @@ Messenger nur für geeignete Inhalte nutzen. Bei Fristen, vertraulichen Dokument
 
 `assets/templates/output-versandprotokoll.md` verwenden.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `timesheet-aktenzeitung-umgang-ki`
@@ -1296,9 +1289,6 @@ _Wenn es um Timesheet und Aktenzeitung in Kanzlei-Allgemein geht: ordnet Aktenin
 2. Wird nach RVG oder nach Stundensatz abgerechnet (beeinflusst Erfassungsgenauigkeit)?
 3. Sind die Eintrage GoBD-konform (unveraenderbar, zeitnah, mit Zeitstempel)?
 4. Sollen Reports nach Mandat, Anwalt oder Zeitraum generiert werden?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 10 RVG — Taetigkeitsbeschreibung als Pflichtangabe der Honorarrechnung
@@ -1391,6 +1381,8 @@ Bei Mandatsende oder Zwischenrechnung:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `buchhaltung-konten-kanzlei-erechnung`
@@ -1412,9 +1404,6 @@ _Wenn es um Kanzlei-Buchhaltung, Konten und Zahlungsabgleich in Kanzlei-Allgemei
 2. Ist eine echte Buchhaltungssoftware (DATEV, Lexware, sevDesk) angebunden oder wird im Simulationsmodus gearbeitet?
 3. Sind offene Posten ueberfaellig und loest das Mahnwesen aus?
 4. Werden Fremdgelder kanzleiintern von eigenen Geldern getrennt gefuehrt (§ 43a Abs. 5 BRAO)?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermögen
@@ -1501,6 +1490,8 @@ Im Simulationsmodus:
 - `assets/templates/datev-uebergabe-simulation.md`.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

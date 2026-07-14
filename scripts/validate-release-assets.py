@@ -11,7 +11,6 @@ sha256 digest.
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import os
 import subprocess
@@ -20,8 +19,7 @@ import time
 from pathlib import Path
 from typing import Any
 
-
-ASSET_NAMES = {"marketplace.json", "checksums-sha256.txt"}
+from release_asset_common import expected_asset_metadata
 
 
 def fail(message: str) -> None:
@@ -46,17 +44,10 @@ def run_gh_api(resource: str) -> Any:
 
 
 def expected_assets(dist: Path) -> dict[str, dict[str, Any]]:
-    expected: dict[str, dict[str, Any]] = {}
-    for path in sorted(dist.iterdir(), key=lambda p: p.name):
-        if not path.is_file():
-            continue
-        if path.suffix not in {".zip", ".md"} and path.name not in ASSET_NAMES:
-            continue
-        data = path.read_bytes()
-        expected[path.name] = {
-            "size": len(data),
-            "digest": "sha256:" + hashlib.sha256(data).hexdigest(),
-        }
+    try:
+        expected = expected_asset_metadata(dist)
+    except (OSError, ValueError) as exc:
+        fail(str(exc))
     if not expected:
         fail(f"{dist}: no release assets found")
     return expected

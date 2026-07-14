@@ -52,9 +52,6 @@ Beim Einsatz von KI-Anbietern mit Sitz außerhalb des Europäischen Wirtschaftsr
 
 Drittlandtransfer-Regelungen sind besonders anfällig für Änderungen (Schrems-Urteile, neue Kommissionsbeschlüsse). Der Baustein ist bei neuen EuGH-Entscheidungen oder Änderungen des EU-US-Rahmens sofort zu aktualisieren. Ebenso bei neuen Datenschutzbehörden-Entscheidungen zu konkreten KI-Anbietern.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 DSGVO — Rechtsgrundlagen der Verarbeitung
 - Art. 9 DSGVO — Besondere Kategorien personenbezogener Daten
@@ -107,3 +104,4 @@ Geprueft von: [NAME DSB], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

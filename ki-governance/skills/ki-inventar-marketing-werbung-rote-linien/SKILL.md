@@ -267,9 +267,6 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
  weltweiten Jahresumsatzes nicht als theoretisch behandeln – im Kontext jeder Klassifizierung
  erwähnen. `[Modellwissen – prüfen]`
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation (Nr. 1-8)
 - Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber Definitionen
@@ -315,3 +312,4 @@ Stand: [DATUM] — Naechste Vollpruefung: [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -41,10 +41,6 @@ description: "Wenn es um Kueschk Erwiderung Arbeitgeber Strategien Typisch in Ar
 - Paragraf 138 ZPO — Substantiierungsgebot; pauschales Bestreiten unbeachtlich bei substantiiertem Vortrag der Gegenseite
 - Paragraf 12 KSchG — Einseitige Lösung nach neuem Job (Schutz gegen Rückkehrpflicht)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Strategie 1: Angriff auf Geltungsbereich und Fristen
 
 **Taktik:** Der Arbeitgeberanwalt prüft zunächst, ob das KSchG überhaupt anwendbar ist.
@@ -53,7 +49,6 @@ description: "Wenn es um Kueschk Erwiderung Arbeitgeber Strategien Typisch in Ar
 - Wird die Wartezeit bestritten? Arbeitgeber behauptet, Beschäftigung begann nach dem behaupteten Datum.
 - Wurden Fristen eingehalten? Angriff auf den Zeitpunkt des Zugangs.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Strategie 2: Pauschalbestreitung der Klagebegründung
 
@@ -115,3 +110,5 @@ Arbeitgeber bietet Vergleich an?
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

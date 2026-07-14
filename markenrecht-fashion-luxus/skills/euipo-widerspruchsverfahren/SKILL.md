@@ -141,15 +141,6 @@ Bevor der Widerspruch eingelegt wird, klaere:
 3. Besteht Verwechslungsgefahr (Art. 8 I lit. b UMV) oder Bekanntheitsschutz (Art. 8 V UMV)?
 4. Ist die Widerspruchsmarke mindestens 5 Jahre alt (wenn ja: Benutzungsnachweis für 5-Jahres-Zeitraum vorbereiten)?
 
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## EUIPO-Widerspruch 2026: Arbeitslinie
 
 1. Veröffentlichungsdatum und Dreimonatsfrist nach Art. 46 UMV sichern.
@@ -159,3 +150,5 @@ Bevor der Widerspruch eingelegt wird, klaere:
 5. Zeichenvergleich in Bild, Klang und Bedeutung trennen; Gesamteindruck und Kennzeichnungskraft erst danach verdichten.
 6. Cooling-off nur nutzen, wenn Warenbeschränkung, Aufbrauch, Gebiet und Nichtangriffszusage sauber dokumentiert sind.
 7. Beschwerdeweg über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof nur mit Prüfungsumfang und Fristplan empfehlen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

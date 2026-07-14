@@ -26,8 +26,6 @@ description: "Wenn es um Registereintrag Finalcheck in Lobbyregister Bundestag g
 2. Passen Personen, VZAE, Kosten, Auftraggeber und Vorhaben zusammen?
 3. Sind Risiken, Annahmen und Nachreichpflichten markiert?
 
-## Quellenanker
-
 ## Doppelregistrierungs-Check
 
 Vor Freigabe muss geprueft werden, ob mehrere Registerentwuerfe dieselbe juristische Person, dieselben betrauten Personen, dieselben Finanzaufwendungen oder dieselben Regelungsvorhaben doppelt abbilden. Bei Doppelungen: einen Streitvermerk erstellen, Primaerentwurf markieren und eine Anfrage an die registerfuehrende Stelle vorbereiten.

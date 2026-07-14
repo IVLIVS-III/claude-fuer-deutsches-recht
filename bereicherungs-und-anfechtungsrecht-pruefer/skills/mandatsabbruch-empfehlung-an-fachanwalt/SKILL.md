@@ -17,14 +17,6 @@ description: "Wenn es um Mandatsabbruch und Empfehlung an Fachanwalt in bereiche
 
 § 17 InsO (Zahlungsunfähigkeit) — § 19 InsO (Überschuldung) — § 138 InsO (nahestehende Personen) — Art. 3 ff. EuInsVO (internationale Zuständigkeit) — § 14a FAO (Fachanwalt für Insolvenzrecht) — § 14g FAO (Fachanwalt für Bank- und Kapitalmarktrecht) — § 208 InsO (Masseunzulänglichkeit)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Komplexitätsindikatoren
 
 ### Kategorie 1: Insolvenzrechtliche Sonderfragen
@@ -87,3 +79,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

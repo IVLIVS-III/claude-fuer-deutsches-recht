@@ -42,10 +42,6 @@ description: "Wenn es um Sprechzettel für Guetetermin und Kammertermin in der E
 - Paragrafen 9, 10 KSchG i.V.m. Paragraf 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
 - Paragraf 12a ArbGG — Kein Kostenerstattungsanspruch für Rechtsanwalt in erster Instanz
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Gütetermin (Paragraf 54 ArbGG)
 
 **Was passiert:** Erster Termin vor dem Vorsitzenden allein. Ziel: gütliche Einigung. Kein Urteil möglich.
@@ -72,7 +68,6 @@ description: "Wenn es um Sprechzettel für Guetetermin und Kammertermin in der E
 2. Die Beklagte zu verurteilen, mich als [BERUFSBEZEICHNUNG] zu unveränderten Arbeitsbedingungen weiterzubeschäftigen."
 
 ### Wenn Gegenseite behauptet, Vertrag sei ordnungsgemäß unterschrieben
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Wenn Sachgrund behauptet wird
 "Die Beklagte hat keinen konkreten Sachgrund nach Paragraf 14 Abs. 1 TzBfG dargelegt. Der behauptete [SACHGRUND] lag bei Vertragsschluss nicht vor / trägt die Befristungsdauer nicht. Der Arbeitgeber trägt die Darlegungs- und Beweislast für das Vorliegen des Sachgrunds."

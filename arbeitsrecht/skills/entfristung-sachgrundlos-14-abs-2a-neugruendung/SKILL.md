@@ -39,10 +39,6 @@ description: "Wenn es um Sachgrundlose Befristung bei Unternehmensneugründung n
 - Paragraf 16 Satz 1 TzBfG — Rechtsfolge bei Verstoß: Vertrag gilt als unbefristet
 - Paragraf 17 TzBfG — 3-Wochen-Klagefrist
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Das Neugründungsprivileg
 
 Paragraf 14 Abs. 2a TzBfG gewährt neugegründeten Unternehmen ein erweitertes Recht zur sachgrundlosen Befristung:
@@ -68,7 +64,6 @@ Paragraf 14 Abs. 2a TzBfG gewährt neugegründeten Unternehmen ein erweitertes R
 - Übernahme eines bestehenden Unternehmens (Asset Deal oder Share Deal)
 - Bloße Umfirmierung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorbeschäftigungsverbot gilt auch hier
 
@@ -97,3 +92,5 @@ Paragraf 14 Abs. 2a TzBfG ist in der Praxis selten, da es schwierig ist, die Neu
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

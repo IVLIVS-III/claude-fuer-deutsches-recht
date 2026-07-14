@@ -36,7 +36,6 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 - **MLI**: Portugal hat das MLI am 28.02.2020 ratifiziert; Deutschland ebenfalls. Das DBA DE-PT ist jedoch bislang nicht im deutschen MLI-Anwendungsgesetz erfasst (Gesetzesentwurf zur Erweiterung vom 28.01.2026 in Vorbereitung) — DBA DE-PT gilt Stand 05/2026 nicht als MLI-modifiziert.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Aktuelle BMF-Schreiben zum DBA-Portugal und zur NHR-Reform im BMF-Schreiben-Verzeichnis abrufen.
 
 ## Land-spezifisches
@@ -149,4 +148,4 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

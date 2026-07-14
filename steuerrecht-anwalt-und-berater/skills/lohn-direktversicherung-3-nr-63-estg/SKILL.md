@@ -67,7 +67,6 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 
 ### Phase 3 — § 1a BetrAVG 15-Prozent-Zuschuss
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geltung Direktversicherung/Pensionskasse/Pensionsfonds (nicht Direktzusage).
 - Seit 2019; für Altvertraege bis Ende 2021 noch Uebergangsregelung; seit 2022 voll wirksam.
 
@@ -109,3 +108,5 @@ Stand: 05/2026.
 - SvEV § 1 Abs. 1 Nr. 9.
 - BMF v. 06.12.2017 (IV C 5 - S 2333/17/10002), v. 18.03.2022 (IV C 5 - S 2333/19/10005).
 - BBG-West RV 2025: 96.600 EUR; 8 Prozent = 7.728 EUR LSt-frei; 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 prüfen).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

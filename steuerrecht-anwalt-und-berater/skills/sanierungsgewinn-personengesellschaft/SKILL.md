@@ -158,4 +158,5 @@ A trägt allein:
 - § 10a S. 1 GewStG.
 - § 180 Abs. 1 Nr. 2 AO.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

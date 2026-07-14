@@ -34,10 +34,6 @@ Liegt nur die SKILL.md vor, einmal fragen: "Haben Sie die zugehörigen Befehle, 
 - **Art. 32 DSGVO** — Technisch-organisatorische Maßnahmen; Qualitätsprüfungen sind Teil des Datenschutz-Risikoschutzes.
 - **RDG** — Unerlaubte Rechtsdienstleistung; Skills, die eigenständig Rechtsdienstleistungen produzieren und dabei keine anwaltliche Überprüfung vorsehen, sind auf RDG-Konformität zu prüfen.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45 — Qualitätssicherungspflichten beim Einsatz technischer Systeme in der Mandatsbearbeitung.
@@ -182,6 +178,7 @@ Der heuristische Scan hat Belege für Datenexfiltration, Zugangsdatendiebstahl, 
 
 ---
 
+```text
 ## Skills-QA — [skill-name]
 Quelle: [Community-Registry / Erstanbieter]
 Bewertet: [Datum]
@@ -269,9 +266,10 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 26 AI Act (Deployer-Pflichten)
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - RDG (Abgrenzung erlaubter KI-Rechtsdienstleistung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

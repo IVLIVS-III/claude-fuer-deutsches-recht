@@ -2,17 +2,17 @@
 
 | Feld | Inhalt | Status | Quelle |
 | --- | --- | --- | --- |
-| Kanzleiaktenzeichen |  | TODO |  |
-| Deal-Code |  | TODO |  |
-| Mandant |  | TODO |  |
-| Parteiperspektive | Buy-side / Sell-side / Management / W&I / Restrukturierung | TODO |  |
-| Zielgesellschaft |  | TODO |  |
-| Verkäufer / Erwerber |  | TODO |  |
-| HRB/HRA/LEI/ISIN |  | TODO |  |
-| Gegenberater |  | TODO |  |
-| Notar / Registergericht |  | TODO |  |
-| Vertraulichkeitsstufe | Normal / Clean Room / Insider / Privileged | TODO |  |
-| Signing / Closing |  | TODO |  |
+| Kanzleiaktenzeichen |  | offen |  |
+| Deal-Code |  | offen |  |
+| Mandant |  | offen |  |
+| Parteiperspektive | Buy-side / Sell-side / Management / W&I / Restrukturierung | offen |  |
+| Zielgesellschaft |  | offen |  |
+| Verkäufer / Erwerber |  | offen |  |
+| HRB/HRA/LEI/ISIN |  | offen |  |
+| Gegenberater |  | offen |  |
+| Notar / Registergericht |  | offen |  |
+| Vertraulichkeitsstufe | Normal / Clean Room / Insider / Privileged | offen |  |
+| Signing / Closing |  | offen |  |
 
 ## Pflichtentscheidungen
 

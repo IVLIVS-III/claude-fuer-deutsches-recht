@@ -24,7 +24,6 @@ Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt 
 - **Paragraf 311b Abs. 1 S. 2 BGB** — Heilung Grundstückskauf
 - **Paragraf 766 S. 3 BGB** — Heilung Bürgschaft
 - **Paragraf 518 Abs. 2 BGB** — Heilung Schenkungsversprechen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## BGH-Linie
 
@@ -65,7 +64,6 @@ Wenn keine gesetzliche Heilungsnorm existiert, können die Parteien das Rechtsge
 SCHRITT 1: Liegt tatsächlich ein Formmangel vor?
  → Welche Form war vorgeschrieben? (Gesetzliche oder gewillkürte Form?)
  → Wurde die Form eingehalten? (Unterschrift? qES? Textform?)
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 SCHRITT 2: Ist Heilung möglich?
  → Paragraf 311b Abs. 1 S. 2 BGB (Grundstück): Auflassung + Eintragung?
@@ -146,4 +144,5 @@ Paragraf 242 BGB ausgeschlossen.
 - **Hohe Hürden Paragraf 242 BGB**: Der BGH lässt den Treuwidrigkeitseinwand nur in engen Grenzen zu. Wer lediglich argumentiert, es sei "unfair", sich auf den Formmangel zu berufen, wird damit regelmäßig scheitern.
 - **Heilung ≠ Rückwirkung**: Selbst wenn Heilung möglich ist (z. B. Paragraf 766 S. 3 BGB), wirkt sie nicht auf den ursprünglichen Zeitpunkt zurück — Zwischenzeiträume (z. B. Zinslauf) bleiben ggf. unberührt.
 - **Paragraf 174 BGB Unverzüglichkeit**: Wer nicht unverzüglich (d. h. ohne schuldhaftes Zögern, in der Regel binnen einer Woche) zurückweist, verliert das Recht zur Zurückweisung wegen fehlender Vollmacht — die Kündigung gilt dann als wirksam erklärt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

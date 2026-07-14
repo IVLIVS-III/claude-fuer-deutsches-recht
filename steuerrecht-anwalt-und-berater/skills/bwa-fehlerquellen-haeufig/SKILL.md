@@ -44,7 +44,6 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480 (Erstellung).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Workflow
 
@@ -117,4 +116,5 @@ Stand: 05/2026.
 - AO §§ 146, 147.
 - StBerG §§ 33, 57.
 - BMF v. 28.11.2019 zu GoBD.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

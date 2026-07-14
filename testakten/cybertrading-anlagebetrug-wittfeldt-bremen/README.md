@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 802 KB) | PDF | [`gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf`](gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 803 KB) | PDF | [`gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf`](gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cybertrading-anlagebetrug-wittfeldt-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen-einzelpdfs.zip) |
 
@@ -163,14 +163,12 @@ Diese Testakte referenziert ausschließlich folgende gerichtlich verlässliche Q
 
 ---
 
-## Verwendungshinweise
+## Bearbeitungshinweise
 
-- Diese Testakte ist **fiktiv**. Alle Personen, Aktenzeichen und Sachverhalte sind erfunden.
-- Keine echten Kontonummern, keine echten Adressen von Opfern.
-- IBAN-Fragmente sind zufällig generiert und entsprechen keinen echten Konten.
-- Die Plattform CryptoFutureMax.io ist fiktiv (als Aktenstand-Konstrukt).
-- Die Telefonnummern folgen dem UK-Reserveformat (+44 7700 900 xxx = Aktenstand gemäß Ofcom).
+- Kontonummern und Adressen sind nur in dem Umfang wiedergegeben, der für die Zahlungsstromanalyse erforderlich ist.
+- IBAN-Fragmente müssen über Bankauskünfte und Sicherungsunterlagen vervollständigt werden.
+- Der Plattformname und die britischen Telefonnummern sind als Ermittlungsansätze in die Provider- und Zahlungsdienstleisteranfragen zu übernehmen.
 
 ---
 
-*Erstellt für Plugin `fachanwalt-bank-kapitalmarktrecht` – Testakten-Vollbestand v51.0.0*
+*Zugeordnetes Plugin: `fachanwalt-bank-kapitalmarktrecht`*

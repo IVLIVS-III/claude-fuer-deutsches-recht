@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Prueft, ob ein Bearbeiter die Anfechtung einer nach dem Eroeffnungsantrag geleisteten kongruenten Beitragszahlung
   nach Paragraf 130 Abs. 1 Satz 1 Nr. 2 InsO beherrscht, die Kenntnis- und Wissenszurechnungsfrage anhand der ambivalenten
   Beweismittel diskutiert und die in der Akte verborgene Insolvenzreife-Diskrepanz findet.

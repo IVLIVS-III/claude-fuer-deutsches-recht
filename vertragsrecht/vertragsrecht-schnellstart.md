@@ -29,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286; BGB Paragraf 305 bis Paragraf 310 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Rechtsprechung | EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 |
 | Tatbestand | Anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten |
 | Beweislast | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich |
@@ -56,6 +56,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen.
 
 ## 7. Antwortform
 

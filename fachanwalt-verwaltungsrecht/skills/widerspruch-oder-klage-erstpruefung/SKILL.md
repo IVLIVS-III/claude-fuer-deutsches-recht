@@ -137,10 +137,6 @@ Wenn nein — Realakt informelle Maßnahme — andere Klagearten Feststellungs- 
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Aktuelle Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen
 
 - VwGO §§ 40 ff. 42 43 47 58 60 68 70 74 75 80 80a 123
@@ -149,3 +145,5 @@ Wenn nein — Realakt informelle Maßnahme — andere Klagearten Feststellungs- 
 - BVerwGE Std.Spruch zur Klagebefugnis und Schutznorm
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Eyermann VwGO
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

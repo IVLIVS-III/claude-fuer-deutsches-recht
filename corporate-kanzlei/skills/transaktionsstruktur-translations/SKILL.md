@@ -131,10 +131,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 311 AktG** — faktischer Konzern; Nachteilsausgleich; Schlussbericht § 312 AktG
 - **§§ 291 ff. AktG** — Beherrschungs- und Gewinnabfuehrungsvertrag; Organschaft-Voraussetzung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsmatrix: Share Deal vs. Asset Deal
 
 | Kriterium | Share Deal | Asset Deal |
@@ -216,5 +212,6 @@ NAECHSTE SCHRITTE:
 ## Quellen
 
 - §§ 20-24 UmwStG; § 8c KStG; § 6a GrEStG; §§ 311, 291 ff. AktG; §§ 15-16 UmwStG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

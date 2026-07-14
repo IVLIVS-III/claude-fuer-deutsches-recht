@@ -20,10 +20,6 @@ description: "Wenn es um Output: Prüfungsdokument mit Warnhinweisen in Subsumti
 3. Soll das Dokument als Grundlage für eine Klageschrift / einen Widerspruch dienen?
 4. Sind Generalklauseln oder unbestimmte Rechtsbegriffe einschlägig? → Warnhinweis verschärfen
 
-## Rechtsprechung zur Dokumentationspflicht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Pflicht-Kopf (jedes Prüfungsdokument beginnt damit)
 
 ```
@@ -100,3 +96,5 @@ das gesamte Ergebnis entwerten.
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

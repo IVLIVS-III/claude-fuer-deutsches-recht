@@ -125,7 +125,6 @@ jetzt ausführen? (KI-VO Art. 9, Art. 13)
 
 ```
 🛑 Stop – dieser Streichpreis braucht einen Niedrigstpreisnachweis aus den letzten
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 I ZR 107/21)
 ```
 
@@ -146,8 +145,8 @@ Sie sind der Anwalt den Leute fragen möchten, nicht der um den sie herumrouten.
 Normen und Urteile nach `../references/zitierweise.md` kurz angeben.
 
 Typische Schnellzitate für häufige Konstellationen:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Impressumspflicht: § 5 DDG; § 16 DDG (Bußgeld bis 50.000 €)
 - Dark Patterns: § 3 UWG; Köhler, in: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 3 Rn. 1 ff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

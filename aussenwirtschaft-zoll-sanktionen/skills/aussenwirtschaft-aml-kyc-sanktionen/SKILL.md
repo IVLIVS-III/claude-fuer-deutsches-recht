@@ -60,10 +60,6 @@ Kläre vor der Pruefung:
 4. Liegt ein Sorgfaltspflichten-Treffer nach § 10 GwG (vereinfacht, standard, verstaerkt) vor?
 5. Wurde eine Verdachtsmeldung nach § 43 GwG bereits abgegeben oder ist sie erforderlich?
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette AML/KYC/Sanktionen
 
 - §§ 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstaerkte
@@ -108,3 +104,5 @@ Bearbeiter: [NAME]
    [ ] Geschaftsbeziehung abgelehnt / beendet — Grundlage: § [GwG / AWG]
    [ ] Erhoehte laufende Ueberwachung angeordnet
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

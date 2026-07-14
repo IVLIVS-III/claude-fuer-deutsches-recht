@@ -28,7 +28,6 @@ description: "Wenn es um Rom-I-Anwendbarkeit in Fachanwalt Internationales Wirts
 - Eingriffsnormen Art. 9 Rom I — auch im internationalen Wirtschaftsverkehr beachten (EU-Sanktionen Russland VO 833/2014 in der Fassung 16./17. Paket 2025; Energierecht; LkSG).
 - ordre public Art. 21 Rom I.
 - Brexit-Folge: UK seit 01.01.2021 nicht mehr Rom-I-Vertragsstaat; UK behaelt Rom I in nationaler Form als "assimilated EU law" (Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019) — seit Retained EU Law (Revocation and Reform) Act 2023 ggf. Aenderungen. Bei DE-Gerichten Art. 20 Rom I (kein Renvoi) beachten.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -110,7 +109,6 @@ Mit freundlichen Gruessen
 
 ### Ergaenzende Leitsaetze Rom I
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Rom I
 - Art. 1-3 Rom I — Anwendungsbereich, Rechtswahl
@@ -159,3 +157,4 @@ Parteien: [KLAEGER] (Sitz: [LAND]) ./. [BEKLAGTER] (Sitz: [LAND])
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 99 KB) | PDF | [`gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf`](gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 104 KB) | PDF | [`gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf`](gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone-einzelpdfs.zip) |
 

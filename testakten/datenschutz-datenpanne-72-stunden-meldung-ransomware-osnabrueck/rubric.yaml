@@ -1,4 +1,5 @@
 name: datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck
+plugin: "datenschutzrecht"
 description: 'Datenpanne nach Ransomware mit Exfiltration bei einem Osnabruecker Versandhaendler mit rund zweihundertvierzigtausend
   Kundenkonten. Prueffragen: Beginn der Zweiundsiebzig-Stunden-Frist nach Artikel 33 Absatz 1 DSGVO (Kenntnis),
   Rechtzeitigkeit und Vollstaendigkeit der Meldung, Erforderlichkeit der Betroffenenbenachrichtigung bei hohem Risiko

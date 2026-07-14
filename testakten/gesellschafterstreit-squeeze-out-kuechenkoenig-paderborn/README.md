@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 538 KB) | PDF | [`gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 537 KB) | PDF | [`gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn-einzelpdfs.zip) |
 

@@ -131,7 +131,6 @@ Alle in diesem Plugin verwendeten Personen, Kanzleinamen und Mandantennamen sind
 - §§ 15a, 17, 18, 19 InsO
 - § 43 GmbHG
 - § 93 AktG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzepte)
 - IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen)
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
@@ -223,3 +222,5 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Jeder Sk
 | [`zahlungsunfaehigkeit-compliance-dokumentation-und-akte`](skills/zahlungsunfaehigkeit-compliance-dokumentation-und-akte/SKILL.md) | Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpun... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

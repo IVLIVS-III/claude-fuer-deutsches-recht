@@ -32,10 +32,6 @@ Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jah
 - §§ 195 199 BGB — Verjährungsfrist 3 Jahre ab Kenntnis Jahresende
 - §§ 203-211 BGB — Hemmung der Verjährung (Verhandlungen, Klageerhebung)
 
-## Rechtsprechung (BGH — Leitsätze Fristen AnfG)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Überblick Anfechtungsfristen
 
 | Anfechtungstatbestand | Frist | Fristbeginn |
@@ -76,3 +72,5 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Materien- und Quellenkontrolle
 
 Anfechtung einer Willenserklärung nach Paragraf 119 oder 123 BGB, bereicherungsrechtliche Rückabwicklung nach Paragraf 812 folgende BGB, Gläubigeranfechtung nach dem Anfechtungsgesetz und Insolvenzanfechtung nach Paragraf 129 folgende InsO sind getrennte Anspruchssysteme. Zuerst Anspruchsberechtigter, Anfechtungsgegner, Rechtshandlung, Benachteiligung, subjektive Merkmale, Frist und Rechtsfolge bestimmen. Eine Entscheidung aus einem anderen System nur nach ausdrücklicher Prüfung ihrer Übertragbarkeit verwenden; jedes Zitat benötigt Gericht, Datum, Aktenzeichen, tragende Aussage und Quelle.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -14,12 +14,6 @@ Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie läs
 3. Widersprechen sich Zeugenaussagen oder Urkunde und Aussage?
 4. Ist das Sachverständigengutachten vollständig oder besteht Ergänzungsbedarf (§ 411 ZPO)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-
 ## Zentrale Normen
 
 - § 286 ZPO — freie Beweiswürdigung, Vollüberzeugung
@@ -72,3 +66,5 @@ Im Urteil immer:
 ## Bezugnahme
 
 Auf das Sitzungsprotokoll und auf das Sachverständigengutachten ist nach Paragraf 313 II 2 ZPO konkret Bezug zu nehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

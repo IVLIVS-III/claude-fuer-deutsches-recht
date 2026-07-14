@@ -75,10 +75,6 @@ Urteil ergangen, neuer Job aufgenommen, Frist läuft? → Paragraf 12 KSchG-Erkl
 Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 ```
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Abgrenzung zu Paragraf 9 KSchG
 
 | | Paragraf 9 KSchG | Paragraf 12 KSchG |
@@ -93,3 +89,5 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

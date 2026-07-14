@@ -25,9 +25,6 @@ Dieser Skill passt den Umformulierungsprozess an die spezifischen Berufspflichte
 3. Enthalt das Schreiben kritische Aeusserungen über den Vorgaenger-Steuerberater oder das Finanzamt?
 4. Hat das Schreiben rechtsverbindliche Wirkung (Einspruch, Klage) oder ist es nur informell?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 57 StBerG — Allgemeine Berufspflichten: Gewissenhaftigkeit, Verschwiegenheit, Sachlichkeit
 - § 57a StBerG — Werbung: sachliche, berufsrechtlich zulaessige Kommunikation
@@ -63,3 +60,5 @@ Einschlägige Normen: § 57 StBerG (Allgemeine Berufspflichten), § 57a StBerG (
 
 **Vorher:** "Das habe ich Ihnen doch schon hundertmal erklärt!"
 **Nachher:** "Wie bereits in meinem Schreiben vom TT.MM.JJJJ dargelegt, gilt folgendes..."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

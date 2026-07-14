@@ -21,10 +21,6 @@ description: "Wenn es um Anfechtungsklage AnfG — Prozessuales in bereicherungs
 - Paragrafen 23 Nummer 1, 71 Absatz 1 GVG: sachliche Zuständigkeit grundsätzlich Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber.
 - §§ 888 890 ZPO — Vollstreckung aus Duldungsurteil
 
-## Rechtsprechung (BGH — Leitsätze AnfG)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Klageform
 
 Die Anfechtung nach dem AnfG kann nach § 13 AnfG durch Klage oder (in laufenden Vollstreckungsverfahren) durch Widerspruch gegen die Zwangsvollstreckung geltend gemacht werden.
@@ -97,3 +93,5 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Materien- und Quellenkontrolle
 
 Anfechtung einer Willenserklärung nach Paragraf 119 oder 123 BGB, bereicherungsrechtliche Rückabwicklung nach Paragraf 812 folgende BGB, Gläubigeranfechtung nach dem Anfechtungsgesetz und Insolvenzanfechtung nach Paragraf 129 folgende InsO sind getrennte Anspruchssysteme. Zuerst Anspruchsberechtigter, Anfechtungsgegner, Rechtshandlung, Benachteiligung, subjektive Merkmale, Frist und Rechtsfolge bestimmen. Eine Entscheidung aus einem anderen System nur nach ausdrücklicher Prüfung ihrer Übertragbarkeit verwenden; jedes Zitat benötigt Gericht, Datum, Aktenzeichen, tragende Aussage und Quelle.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

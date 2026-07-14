@@ -104,7 +104,6 @@ Gesellschafterkonflikte (GmbH, AG, KG) lösen sich oft im Schiedsverfahren — D
 
 ## Strategie und Taktik
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vergleichs-Druck**: DIS-Schiedsrichter regen oft Vergleich an (50-60 % Vergleichs-Quote)
 - **Bewertung Sachverständigen-Streit**: zwei Gutachter, dann Schiedsgutachter
 - **Earn-Out-Klausel**: harte Definition KPIs zwingend; sonst typischer Konflikt-Anker
@@ -117,21 +116,7 @@ Gesellschafterkonflikte (GmbH, AG, KG) lösen sich oft im Schiedsverfahren — D
 - `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` — M&A
 - `fachanwalt-hgr-dlt-pilotregime-token` — Token-Aktien
 
-## Quellen und Updates
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -146,3 +131,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Streitwert:** Ab 500.000 EUR DIS sinnvoll; darunter eher ordentliches Gericht (Kosten-Nutzen-Abwägung).
 3. **Verfahrenseinleitung:** Schiedsantrag nach DIS-Ordnung § 3 (Schiedsklage); Schiedsrichterbestellung (3 Schiedsrichter ab 1 Mio. EUR, 1 Einzelschiedsrichter darunter).
 4. **Vollstreckung ausländischer Schiedssprüche:** New Yorker UN-Übereinkommen (UNÜ 1958) — 170 Vertragsstaaten; Vollstreckbarerklärung § 1061 ZPO.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

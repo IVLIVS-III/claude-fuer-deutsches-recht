@@ -21,7 +21,6 @@ Ein Anspruch, der nicht in dieser Bibliothek enthalten ist — Tatbestandsmerkma
 
 ### Pflichtverletzung / Nichterfüllung (§§ 280, 241 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Schuldverhältnis zwischen den Parteien
 2. Pflichtverletzung durch den Schuldner (§ 241 BGB)
 3. Vertretenmüssen (§ 276 BGB; Verschuldensvermutung nach § 280 Abs. 1 S. 2 BGB)
@@ -32,7 +31,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Verletzung der Pflicht zu Treu und Glauben (§ 242 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Bestehende Rechtsbeziehung zwischen den Parteien
 2. Kläger hat alle ihm obliegenden Pflichten (§ 241 Abs. 2 BGB) im Wesentlichen erfüllt
 3. Alle Bedingungen für die Leistung des Beklagten sind eingetreten
@@ -43,7 +41,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Vertrauenshaftung / Culpa in contrahendo (§ 311 Abs. 2 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Vorvertragliches Schuldverhältnis (Verhandlungen, Vertragsanbahnung oder ähnlicher geschäftlicher Kontakt)
 2. Verletzung einer vorvertraglichen Schutzpflicht (§ 241 Abs. 2 BGB)
 3. Vertretenmüssen
@@ -65,7 +62,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Unerlaubte Handlung / Fahrlässigkeit (§ 823 Abs. 1 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Verletzung eines der geschützten Rechtsgüter (Leben, Körper, Gesundheit, Freiheit, Eigentum oder sonstiges Recht)
 2. Handlung oder Unterlassen des Beklagten
 3. Haftungsbegründende Kausalität (Äquivalenz- und Adäquanztheorie)
@@ -77,7 +73,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Schutzgesetzverletzung (§ 823 Abs. 2 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Beklagter hat gegen ein Schutzgesetz verstoßen (Gesetz i. S. v. Art. 2 EGBGB)
 2. Das Schutzgesetz dient dem Schutz des Klägers (individuell-schützender Charakter)
 3. Der eingetretene Schaden ist vom Schutzbereich der Norm umfasst
@@ -85,7 +80,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Vorsätzliche sittenwidrige Schädigung (§ 826 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Schädigende Handlung oder Unterlassen
 2. Sittenwidrigkeit des Verhaltens (Verstoß gegen das Anstandsgefühl aller billig und gerecht Denkenden)
 3. Vorsatz hinsichtlich der Schädigung (bedingter Vorsatz genügt)
@@ -98,7 +92,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Arglist / Täuschung (§§ 123, 826 BGB; § 263 StGB analog)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Täuschung über Tatsachen (aktives Tun oder pflichtwidriges Schweigen)
 2. Kenntnis der Unrichtigkeit (Vorsatz)
 3. Absicht, den Erklärenden zur Abgabe einer Willenserklärung zu bestimmen
@@ -109,7 +102,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Fahrlässige Falschauskunft / Falschberatung (§ 280 Abs. 1 BGB i. V. m. Beratungsvertrag)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Beratungs- oder Auskunftsvertrag (auch konkludent, §§ 311, 675 BGB)
 2. Falschauskunft oder Beratungsfehler
 3. Kein vertretbarer Grund für die Richtigkeit der Auskunft
@@ -121,7 +113,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Arglistige Verschweigung (§ 123 Abs. 1 Alt. 2 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Verschweigen einer offenbarungspflichtigen Tatsache
 2. Aufklärungspflicht des Beklagten
 3. Täuschungsabsicht (dolus malus)
@@ -139,7 +130,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Üble Nachrede / Verleumdung (§§ 824, 826 BGB; §§ 185 ff. StGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Unwahre Tatsachenbehauptung (keine Meinungsäußerung)
 2. Kundgabe gegenüber einem Dritten
 3. Eignung zur Kreditgefährdung oder sonstigen Benachteiligung (§ 824 BGB) bzw. Ehrverletzung (§§ 185 ff. StGB)
@@ -150,21 +140,18 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Eigentumsbeeinträchtigung (§ 823 Abs. 1 BGB; § 1004 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Eigentum oder berechtigter Besitz des Klägers zum Zeitpunkt der Beeinträchtigung
 2. Rechtswidrige Handlung des Beklagten (Eigentumsstörung, -verletzung oder -entziehung)
 3. Schaden
 
 ### Besitzstörung (§§ 858 ff. BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Berechtigter Besitz des Klägers
 2. Verbotene Eigenmacht des Beklagten (§ 858 BGB)
 3. Besitzstörung oder -entziehung ohne den Willen des Besitzers und ohne gesetzlichen Grund
 
 ### Vorsätzliche Zufügung seelischen Leids / Persönlichkeitsrechtsverletzung (§§ 823 Abs. 1, 826 BGB; Art. 2 Abs. 1, Art. 1 Abs. 1 GG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Schwerwiegender Eingriff in das allgemeine Persönlichkeitsrecht (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG)
 2. Vorsatz oder grobe Fahrlässigkeit des Beklagten
 3. Erhebliche Beeinträchtigung (Genugtuungsinteresse überwiegt)
@@ -176,7 +163,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Verletzung der Treuepflicht (§ 43 GmbHG; §§ 76, 93 AktG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Organstellung (Geschäftsführer / Vorstandsmitglied / Aufsichtsrat)
 2. Verletzung der Sorgfaltspflicht eines ordentlichen Geschäftsmanns oder der Treuepflicht
 3. Kausalität
@@ -186,7 +172,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Beihilfe zur Verletzung organschaftlicher Pflichten
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Organschaftliche Pflichtverletzung eines Organs
 2. Kenntnis des Beklagten von der Pflichtverletzung
 3. Aktive Teilnahme oder Unterstützung des Beklagten
@@ -198,7 +183,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Kapitalmarktrechtliche Haftung (§ 97 WpHG; Prospekthaftung § 9 WpPG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Wesentliche unrichtige oder unvollständige öffentliche Kapitalmarktinformation (Ad-hoc-Mitteilung, Prospekt)
 2. Vorsatz hinsichtlich der Unrichtigkeit (§ 97 WpHG: Unterlassen unverzüglicher Veröffentlichung)
 3. Kausal-Transaktion (Erwerb oder Veräußerung des Finanzinstruments in unmittelbarem Zusammenhang)
@@ -208,7 +192,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Haftung aus Prospekt (§ 9 WpPG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Erwerb eines Wertpapiers auf der Grundlage eines Prospekts
 2. Wesentliche Unrichtigkeit oder Unvollständigkeit des Prospekts
 3. Zurückführbarkeit auf den Prospekt (Anlagestimmung oder direkte Kausalität)
@@ -221,7 +204,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Kartellrechtsverstoß / Wettbewerbsbeschränkung (§§ 1, 33a GWB; Art. 101, 102 AEUV)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Vereinbarung zwischen Unternehmen, Beschluss einer Unternehmensvereinigung oder abgestimmte Verhaltensweise
 2. Bezweckte oder bewirkte Verhinderung, Einschränkung oder Verfälschung des Wettbewerbs
 3. Spürbarkeit (de minimis-Schwelle überschritten)
@@ -230,7 +212,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Missbrauch einer marktbeherrschenden Stellung (§ 19 GWB; Art. 102 AEUV)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Marktbeherrschende Stellung im relevanten Markt (§ 18 GWB)
 2. Missbräuchliche Ausnutzung (Ausbeutungs- oder Behinderungsmissbrauch)
 3. Kartellrechtlicher Schaden
@@ -241,7 +222,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Diskriminierung (§ 3 AGG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Benachteiligung wegen eines Merkmals nach § 1 AGG (Rasse, ethnische Herkunft, Geschlecht, Religion, Weltanschauung, Behinderung, Lebensalter, sexuelle Identität)
 2. Benachteiligung bei Begründung, Durchführung oder Beendigung eines Beschäftigungs- oder Berufsausbildungsverhältnisses
 3. Indizien, die eine Benachteiligung vermuten lassen (§ 22 AGG)
@@ -250,7 +230,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Belästigung am Arbeitsplatz (§ 3 Abs. 3, 4 AGG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Zugehörigkeit zu einer geschützten Gruppe (§ 1 AGG)
 2. Unerwünschtes Verhalten
 3. Bezug zu einem Merkmal nach § 1 AGG
@@ -259,21 +238,18 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Benachteiligung wegen Widerspruchs oder Beschwerde (§ 16 AGG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Geschützte Handlung (Beschwerde nach § 13 AGG, Inanspruchnahme von Gleichbehandlungsrechten)
 2. Nachteilige Maßnahme (die einen Arbeitnehmer von der geschützten Handlung abhalten würde)
 3. Kausalzusammenhang zwischen geschützter Handlung und nachteiliger Maßnahme
 
 ### Altersdiskriminierung (§§ 1, 10 AGG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Benachteiligung wegen des Lebensalters (§ 1 AGG)
 2. Kein Rechtfertigungsgrund (§ 10 AGG: sachliche Rechtfertigung durch legitimes Ziel und angemessene Mittel)
 3. Schaden / Rechtsverletzung
 
 ### Anspruch auf Überstundenvergütung (§ 611a BGB i. V. m. Arbeitsvertrag; § 3 ArbZG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Arbeitsverhältnis (§ 611a BGB)
 2. Geleistete Überstunden auf Anordnung oder mit Billigung des Arbeitgebers
 3. Keine einzelvertragliche oder tarifvertragliche Pauschalabgeltungsvereinbarung
@@ -281,7 +257,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Unwirksame Kündigung (§§ 1, 23 KSchG; § 626 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Arbeitsverhältnis (§ 611a BGB); Anwendbarkeit des KSchG (§ 23 KSchG: Betriebsgröße ≥ 10 Arbeitnehmer, Wartezeit § 1 Abs. 1 KSchG)
 2. Kündigung (Zugang der Kündigungserklärung)
 3. Fehlende soziale Rechtfertigung (§ 1 Abs. 2 KSchG) oder fehlender wichtiger Grund (§ 626 BGB)
@@ -293,7 +268,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Verletzung von Geschäftsgeheimnissen (§§ 4, 6 GeschGehG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Information qualifiziert als Geschäftsgeheimnis (§ 2 Nr. 1 GeschGehG: nicht allgemein bekannt, wirtschaftlicher Wert durch Geheimhaltung, angemessene Geheimhaltungsmaßnahmen)
 2. Inhaber hat angemessene Geheimhaltungsmaßnahmen getroffen (§ 2 Nr. 1 Buchst. b GeschGehG)
 3. Rechtswidriger Erwerb, Nutzung oder Offenlegung (§ 4 GeschGehG)
@@ -302,7 +276,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Urheberrechtsverletzung (§§ 97, 97a UrhG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Urheberrecht oder verwandtes Schutzrecht an einem schutzfähigen Werk (§§ 2, 70 ff. UrhG)
 2. Verletzungshandlung (unerlaubte Verwertung nach §§ 15 ff. UrhG)
 
@@ -310,7 +283,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Patentverletzung (§§ 139, 140 PatG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Gültiges Patent (erteiltes und nicht für nichtig erklärtes Patent, §§ 1 ff. PatG)
 2. Benutzung der patentierten Erfindung ohne Zustimmung des Patentinhabers (§ 9 PatG: Herstellung, Anbieten, Inverkehrbringen, Gebrauch, Einführen oder Besitzen zu diesen Zwecken)
 3. Kausalität und Schaden (oder Lizenzanalogie)
@@ -319,7 +291,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Markenverletzung (§§ 14, 15 MarkenG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Inhaber einer eingetragenen Marke oder bekannten Marke (§§ 4, 14 Abs. 2 MarkenG)
 2. Benutzung eines identischen oder ähnlichen Zeichens im geschäftlichen Verkehr (§ 14 Abs. 2 MarkenG)
 3. Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2 MarkenG) oder Ausnutzung/Beeinträchtigung des Rufs einer bekannten Marke (§ 14 Abs. 2 Nr. 3 MarkenG)
@@ -332,14 +303,12 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Besitzstörung / Eigentumsstörung (§§ 858, 1004 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Eigentum oder berechtigter Besitz des Klägers
 2. Beeinträchtigung durch den Beklagten (§ 1004 Abs. 1 BGB: Störung, die nicht Entziehung oder Vorenthaltung des Besitzes ist)
 3. Wiederholungsgefahr
 
 ### Nachbarrechtliche Immission (§§ 906, 1004 BGB; NachbG der Bundesländer)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Eigentümer- oder Besitzerstellung des Klägers
 2. Wesentliche Beeinträchtigung der Benutzung des Grundstücks durch Zuführung von Gasen, Dämpfen, Gerüchen, Rauch, Ruß, Wärme, Geräusch, Erschütterungen o. ä.
 3. Handeln oder Unterlassen des Beklagten (Duldungspflicht nur bei ortsüblicher Benutzung nach § 906 Abs. 2 BGB)
@@ -361,14 +330,12 @@ Einreden haben eigene Tatbestandsmerkmale, die grundsätzlich von der Partei, di
 
 ### Verwirkung (§ 242 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Zeitablauf (Zeitmoment: Gläubiger hat den Anspruch längere Zeit nicht geltend gemacht)
 2. Vertrauenstatbestand (Umstandsmoment: Schuldner durfte annehmen, der Gläubiger werde den Anspruch nicht mehr geltend machen)
 3. Vertrauen des Schuldners in den Fortbestand dieser Lage
 
 ### Arglistige Einrede (§ 242 BGB, "tu quoque")
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Eigenes pflichtwidriges Verhalten des Klägers
 2. Unmittelbarer sachlicher Zusammenhang zum Streitgegenstand
 3. Nachteil des Beklagten durch Ausübung des Rechts
@@ -398,7 +365,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Mitverschulden (§ 254 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Eigenes schuldhaftes Verhalten des Klägers (Mitverschulden bei Entstehung oder Entwicklung des Schadens)
 2. Kausalität des Mitverschuldens für den Schaden
 3. Quotelung nach Verursachungsbeiträgen
@@ -407,7 +373,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Übernahme des Risikos (§ 254 BGB analog; § 31 StVG)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Tatsächliche Kenntnis des Klägers vom Risiko
 2. Freiwillige Übernahme des Risikos
 3. Kausalität zwischen Risikoübernahme und eingetretenem Schaden
@@ -429,3 +394,5 @@ Diese Bibliothek ist nicht abschließend. Wenn ein neuer Klagegrund oder eine ne
 3. Besonderheiten vermerken — wo die Tatbestandsmerkmale variieren, dies angeben und eine repräsentative Alternativformulierung mitgeben.
 
 Vorlagen sind eine Basislinie, keine Autorität. Die einschlägige Rechtsprechung oder das Gesetz geht immer vor.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

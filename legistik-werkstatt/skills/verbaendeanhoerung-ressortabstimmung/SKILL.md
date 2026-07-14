@@ -83,10 +83,6 @@ Alle Ressorts, deren Geschäftsbereich betroffen ist. Auch nur am Rande - eher m
 
 Pro Änderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegangen.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 47-50 GGO (Ressortabstimmung, Verbands-Anhörung) — § 63 BNatSchG (Verbandsbeteiligung Umwelt-NGOs) — § 47 Abs. 2 GGO (Fristen Ressortbeteiligung) — §§ 28, 29 VwVfG (Anhörungsrecht Betroffener, Parallele zu Verbands-Beteiligung)
@@ -109,3 +105,5 @@ Pro Änderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegan
 ## Anschluss
 
 `gesetzesentwurf-kabinett`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

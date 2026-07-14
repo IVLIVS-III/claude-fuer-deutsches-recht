@@ -156,7 +156,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 130, 133, 157 BGB — Auslegung und Zugang von Erklaerungen: Schriften müssen klar und verstaendlich sein; Auslegungsrisiken minimieren
 
 ### Leitsaetze
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -166,3 +165,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. Tonfall waehlen: sachlich-juristisch / erklaerend / konfrontativ
 3. Struktur: Einleitung, Sachverhalt, Rechtliche Wuerdigung, Ergebnis
 4. Qualitaetssicherung: Senior-Review vor Versand
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -27,7 +27,6 @@ description: "Wenn es um Behandlungsvertrag 630a in Fachanwalt Medizinrecht geht
 ### Behandlung nach Stand med. Wissenschaft § 630a II BGB
 
 - Sorgfaltspflicht des allg. anerkannten fachlichen Standards
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Aufklärung § 630e BGB
 
@@ -141,7 +140,6 @@ description: "Wenn es um Behandlungsvertrag 630a in Fachanwalt Medizinrecht geht
 
 ## 9) BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -150,10 +148,6 @@ description: "Wenn es um Behandlungsvertrag 630a in Fachanwalt Medizinrecht geht
 - `aufklaerungsfehler-beweisstrategie` — Beweis-Strategie
 
 ## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -227,3 +221,4 @@ Mit freundlichen Gruessen
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

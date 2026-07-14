@@ -33,9 +33,6 @@ Für Fragen zum zulässigen Einsatz von KI-Systemen steht [Name Datenschutzbeauf
 
 Mit zunehmender Verbreitung von KI-Funktionen in alltäglichen Arbeitstools (MS Office, E-Mail-Clients) wird die Abgrenzung zwischen autorisierter und nicht autorisierter KI-Nutzung schwieriger. Die Richtlinie muss angepasst werden, sobald neue KI-Integrationen in bestehende Kanzlei-Software eingeführt werden.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (gilt auch bei privaten Accounts)
 - Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht der Kanzlei
@@ -76,3 +73,5 @@ PRAEVENTION:
 
 Verantwortlicher: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

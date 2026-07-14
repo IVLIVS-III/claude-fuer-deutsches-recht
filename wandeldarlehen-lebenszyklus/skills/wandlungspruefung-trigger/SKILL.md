@@ -31,9 +31,6 @@ description: "Wenn es um Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)
 - § 5 Abs. 1 GmbHG (Mindestanteilsnennwert EUR 1)
 - § 271 BGB (Fälligkeit bei bestimmter Zeit)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Laufzeitprüfung
@@ -84,12 +81,8 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 §§ 488 ff. BGB (Fälligkeit bei Maturity) → §§ 135, 143 InsO (Anfechtung Rückzahlung Gesellschafterdarlehen) → § 39 InsO (Nachrang bei Wandlung nach Insolvenz) → § 315 BGB (Wahlrecht des Darlehensgebers bei Maturity) → §§ 55, 56 GmbHG (Kapitalerhöhung nach Wandlungsausübung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

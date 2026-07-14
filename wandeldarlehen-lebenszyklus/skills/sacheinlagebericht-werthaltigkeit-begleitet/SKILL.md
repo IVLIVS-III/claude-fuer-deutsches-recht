@@ -35,13 +35,9 @@ description: "Wenn es um Sacheinlagebericht und Werthaltigkeit der Forderung in 
 - § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage)
 - IDW RS HFA 42 (Werthaltigkeit von Forderungen als Sacheinlage)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Forderungsbewertung
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Konfusions-Argument
 Bei der Einbringung der Forderung als Sacheinlage geht die Forderung auf die Gesellschaft über (Konfusion, § 1976 BGB analog). Die Forderung erlischt, gleichzeitig entsteht das neue Eigenkapital. Werthaltigkeitsfrage: War die Forderung gegen die Gesellschaft vor Konfusion vollwertig?
@@ -88,14 +84,6 @@ entspricht ihrem Nennwert von EUR 275694. Eine Überbewertung liegt nicht vor.
 | Differenzhaftungsrisiko ignoriert | Persönliche Haftung Lender/Gesellschafterinnen | Risiko bekannt aber nicht quantifiziert | Konservative Bewertung |
 | GF-Versicherung in HR-Anmeldung ohne Plausibilisierung | § 9a i.V.m. § 57 IV GmbHG-Haftung GF, § 82 GmbHG strafrechtlich | Versicherung dünn dokumentiert | Plausibilisierung durch StB/WP dokumentiert |
 
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -109,4 +97,5 @@ Stand: 05/2026.
 - § 82 GmbHG (Strafbarkeit falscher Angaben): https://www.gesetze-im-internet.de/gmbhg/__82.html
 - § 272 II Nr. 4 HGB (Kapitalruecklage): https://www.gesetze-im-internet.de/hgb/__272.html
 - IDW S 1 / IDW RS HFA 42 (Werthaltigkeit von Forderungen): https://www.idw.de/idw/idw-verlautbarungen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

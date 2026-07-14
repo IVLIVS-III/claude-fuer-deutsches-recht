@@ -110,7 +110,6 @@ Ware [genaue Bezeichnung, Menge] folgende Mängel aufweist:
 
 Die Mängel wurden am [Entdeckungsdatum] nach pflichtgemäßer Untersuchung gemäß
 Art. 38 CISG festgestellt. Die Rüge erfolgt hiermit fristgerecht gemäß Art. 39 Abs. 1
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wir behalten uns alle Rechte gemäß Art. 45 ff. CISG vor, insbesondere Nachbesserung
 (Art. 46 Abs. 3 CISG), Minderung (Art. 50 CISG) und Schadensersatz (Art. 74 CISG).
@@ -209,7 +208,6 @@ Art. 49 CISG bleiben unberührt.
 |---------------|---------------------|---------|
 | Rüge verspätet | Art. 39 Abs. 1 CISG | Entdeckungszeitpunkt belegen (Untersuchungsbericht, E-Mail); versteckte Mängel: späterer Fristbeginn |
 | Mitigation versäumt | Art. 77 CISG | Deckungskauf nachweisen; Marktpreis-Alternative nachweisen; Mitigation war unmöglich (Art. 79) |
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Zinshöhe Art. 78 CISG unklar | Art. 78 CISG | Nationales Recht des Schuldnerstatuts bestimmt Zinssatz; dt. Recht: § 288 BGB (9 Prozentpunkte über Basiszinssatz im B2B) |
 
 ## Streitwert und Kosten
@@ -246,7 +244,6 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 - Aktueller Vertragsstaaten-Stand (12/2024: 97 Staaten; Ruanda seit 01.10.2024) — Liste: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status
 - UNCITRAL CLOUT-Datenbank (Case Law on UNCITRAL Texts): https://uncitral.un.org/en/case_law
 - Pace-CISG-Database: https://iicl.law.pace.edu/cisg/cisg
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur (Schlechtriem/Schwenzer, Brunner/Gottlieb etc.): nur mit Nutzerquelle oder lizenziertem Live-Zugriff zitieren (Quellenregel).
 
 ## Vertiefung: Triage und Output-Template CISG
@@ -261,7 +258,6 @@ Anwaltsgebühren: RVG 1.3 VG + 1.2 TG; bei intl. Schiedsverfahren Zeithonorar 30
 
 ### Ergaenzende Leitsaetze CISG
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template CISG-Gutachten
 **Adressat:** Mandant oder Schiedsgericht — Tonfall: sachlich-juristisch

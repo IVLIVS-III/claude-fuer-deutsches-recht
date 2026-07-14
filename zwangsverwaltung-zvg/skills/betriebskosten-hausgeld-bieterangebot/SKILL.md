@@ -68,10 +68,6 @@ description: "Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in Z
 - §§ 9, 13, 15 ZwVwV
 - § 155 ZVG
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Betriebskosten/Hausgeld
 
 § 153 ZVG (laufende Ausgaben) → § 155 ZVG (Verteilungsplan) → § 10 Abs. 1 Nr. 2 ZVG (Rangklasse Hausgeld) → §§ 8-10 ZwVwV (Ausgaben Verwaltung) → § 16 Abs. 2 WEG (Kostentragung Wohnungseigentuemer) → §§ 556-556d BGB (Betriebskosten Mietverhältnis)
@@ -91,3 +87,5 @@ description: "Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in Z
 4. Soll-Vorauszahlungen der Mieter gegen tatsächliche Kosten abgleichen
 5. Nachzahlungen oder Guthaben berechnen und Mieter informieren
 6. Überschüsse in Verteilungsplan nach § 155 ZVG einbeziehen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

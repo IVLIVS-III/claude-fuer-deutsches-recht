@@ -23,9 +23,6 @@ Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwen
 3. Soll das Aktenzeichen einem bereits vorhandenen Mandat zugeordnet oder als neues Mandat angelegt werden?
 4. Sind fremde Aktenzeichen (Gegner, Versicherung, Rechtsschutz) mit dem eigenen verknuepft?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 51 BRAO — Berufshaftpflicht des Rechtsanwalts; Aktenzeichen-Fehler als Pflichtverletzung
 - § 253 Abs. 2 Nr. 1 ZPO — Bezeichnungspflicht der Parteien und Sache in der Klageschrift
@@ -65,3 +62,5 @@ Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwen
 ## Sicherheitsregel
 
 Wenn zwei Akten plausibel sind, nicht automatisch ablegen. Immer nachfragen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

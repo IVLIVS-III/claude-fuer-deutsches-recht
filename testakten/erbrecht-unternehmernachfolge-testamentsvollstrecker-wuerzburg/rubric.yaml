@@ -1,4 +1,5 @@
 name: erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg
+plugin: "fachanwalt-erbrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

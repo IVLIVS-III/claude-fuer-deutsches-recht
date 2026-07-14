@@ -363,10 +363,6 @@ Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli
 3. Handelt es sich um privilegierte Unterhaltspfändung (§ 850d ZPO) oder reguläre Pfändung?
 4. Hat der Schuldner ein P-Konto? Dann Einrichtung nach Paragraf 850k ZPO, Sockel nach Paragraf 899 ZPO, bescheinigte Erhöhungen nach Paragrafen 902 und 903 ZPO sowie Nachzahlungen gesondert erfassen.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 850a ZPO — Unpfändbare Bezüge (Sonderzuwendungen, Aufwandsentschädigungen)
@@ -438,8 +434,6 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 ## Leitentscheidungen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Qualitätsgates
 
@@ -448,6 +442,8 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 - Niemals § 850d ZPO ohne richterliche Festsetzung als feste Zahl ausgeben.
 - Bei selbstständigem Einkommen Berechnung § 850i ZPO statt § 850c ZPO.
 - Bei Sozialleistungen § 54 SGB I prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -475,10 +471,6 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 2. Liegt ein vollstreckbarer Titel vor oder ist die Hauptsache noch anhängig?
 3. Besteht Sicherungsbedürfnis — droht der Schuldner Vermögen zu verbringen?
 4. Ist die Forderung bezifferbar und fällig?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -595,9 +587,7 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 
 ## Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schlussanträge GA Szpunar v. 29.7.2019 in C-555/18
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Praxis 2026
 
@@ -608,6 +598,8 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 ## Quellen und Updates
 
 Stand: 05/2026. VO (EU) 655/2014 in Kraft seit 18.1.2017. Durchführungsverordnung (EU) 2016/1823 für Formblätter. §§ 946–959 ZPO als DurchführungsRecht. Bei Reform / DAC9-Erweiterung aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -674,7 +666,6 @@ Gläubiger hat Grundschuld oder Hypothek und will eine Immobilie des Schuldners 
 
 ## Leitentscheidungen
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
@@ -751,15 +742,10 @@ Antrag des **Schuldners** auf einstweilige Einstellung, Beschränkung oder Aufhe
 - **§§ 766, 767, 769 ZPO** — abgrenzende Schutzwege (Erinnerung, Abwehrklage, einstweilige Einstellung bei Klage).
 - **§ 850k ZPO** — P-Konto-Schutz als vorgelagerter Standard-Schutz.
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Typische Konstellationen
 
 ### Konstellation A — Suizidgefahr
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Glaubhaftmachung**: substantielle, nicht nur behauptete Suizidgefahr.
 - **Maßnahme**: regelmäßig einstweilige Einstellung mit Wiedervorlage; Verlängerung möglich.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -910,6 +896,8 @@ Rechtsanwalt/-anwaeltin
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1068,10 +1056,6 @@ Antrag muss vor Vollstreckungsmaßnahme gestellt sein; Aussetzung § 769 ZPO mit
 ## Leitentscheidungen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -1178,10 +1162,6 @@ Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung
 3. Hat die Kanzlei-Software die XML-Unterstützung nach Paragraf 829 Absatz 5 ZPO n.F. bereits implementiert?
 4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - Paragraf 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
@@ -1268,6 +1248,8 @@ Die Aufforderung zur Drittschuldnererklärung wird zusammen mit dem Pfändungsbe
 - Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
 - Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `vollstreckungsbescheid-zv`
@@ -1294,10 +1276,6 @@ Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. �
 2. Wurde der VB-Antrag rechtzeitig gestellt (innerhalb 6 Monaten nach MB-Zustellung, § 701 ZPO)?
 3. Hat der Schuldner Einspruch gegen den VB erhoben — wenn ja, Übergang ins Streitverfahren?
 4. Ist der Schuldner insolvent — § 89 InsO Vollstreckungsverbot prüfen?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -1347,10 +1325,6 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - **Einspruch nicht gegen VB, sondern gegen "Anspruch" formuliert** – wird vom Gericht als Einspruch ausgelegt § 133 BGB, wenn Wille erkennbar.
 - **Mahnbescheid an falsche Anschrift zugestellt**: Heilung § 189 ZPO nur bei tatsächlichem Zugang; sonst muss erneut zugestellt werden, dann läuft Frist neu.
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Qualitätsgates
 
 - Niemals VB vollstrecken, ohne Zustellnachweis vorzulegen § 750 ZPO.
@@ -1362,6 +1336,8 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - `titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
 - `pfueb-bank`, `pfueb-arbeitsentgelt`, `mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1385,10 +1361,6 @@ _Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht
 2. War eine Vermögensauskunft des Schuldners bereits unergiebig oder ist der Aufenthalt unbekannt?
 3. Sollen alle drei Auskunftsstellen abgefragt werden (DRV, BZSt, KBA) oder nur eine?
 4. Ist der Schuldner ein Unternehmen — dann Handelsregistereintrag als Informationsquelle?
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 
@@ -1435,8 +1407,6 @@ _Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht
 ## Leitentscheidungen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Qualitätsgates
 
@@ -1444,6 +1414,8 @@ _Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht
 - Niemals BZSt-Kontenabruf ohne erfolglose Vermögensauskunft oder unbekannten Aufenthalt.
 - Daten sind sensibel – Datenschutz beachten, Auskunft nur für konkrete Vollstreckung.
 - Doppelte Abfragen vermeiden (Kostenfalle).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

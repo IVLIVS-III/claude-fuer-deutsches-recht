@@ -66,16 +66,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette (Überblick Agrarrecht)
 
 BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
@@ -102,3 +92,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 4. **Düngerecht / OWiG** → `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`
 5. **Tierhaltungsgenehmigung** → `fachanwalt-agrarrecht-tierhaltung-genehmigung`
 6. **Wolfsentnahme / Naturschutz** → `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

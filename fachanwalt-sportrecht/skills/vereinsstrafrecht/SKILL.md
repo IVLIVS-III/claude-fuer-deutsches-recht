@@ -154,7 +154,6 @@ II. Materielle Fehler
  verhängt: [Auflistung aus Verbandsrechtsprechung] (Anlage B9).
  Die hier ausgesprochene Sperre von [N] Spielen überschreitet
  den üblichen Strafrahmen erheblich. Art. 12 GG gebietet
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Hilfsantrag
 
@@ -293,4 +292,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

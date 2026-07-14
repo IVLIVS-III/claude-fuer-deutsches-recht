@@ -63,7 +63,6 @@ description: "Wenn es um Betriebsausgaben Werbungskosten — Prüfraster in Steu
 
 ### Aufteilungsgebot
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Reine privat-betriebliche Aufteilung nach **objektiven Kriterien**
 - Bei Aufteilbarkeit: anteiliger Abzug
 - Bei Untrennbarkeit: vollständiger Abzug oder Verbot je nach Schwerpunkt
@@ -145,7 +144,6 @@ description: "Wenn es um Betriebsausgaben Werbungskosten — Prüfraster in Steu
 
 ### Sponsoring
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei genuinem Werbe-Effekt abzugsfähig
 
 ### Spenden § 10b EStG
@@ -205,8 +203,9 @@ description: "Wenn es um Betriebsausgaben Werbungskosten — Prüfraster in Steu
 
 - EStG §§ 4 6 9 10 10b 12
 - AO §§ 90 147
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-Std-Spruch
 - Schmidt EStG
 - Frotscher/Geurts EStG
 - BMF-Schreiben Reisekosten / Bewirtung / Geschenke
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

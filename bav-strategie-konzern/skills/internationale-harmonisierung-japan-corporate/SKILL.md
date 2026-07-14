@@ -24,7 +24,6 @@ description: "Wenn es um Internationale Harmonisierung Konzern-BAV in BAV Strate
 
 - IORP II (EU-Richtlinie 2016/2341/EU) — Einrichtungen der betrieblichen Altersversorgung, insb. Art. 11–18 (Cross-border)
 - BetrAVG §§ 1–30g (deutsches Recht als Mutterrecht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - UK Pension Schemes Act 2021 / The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (SI 2005/3377)
 - ERISA (Employee Retirement Income Security Act 1974, USA) — §§ 404–412 (fiduciary duty)
 - Code de la Sécurité Sociale Art. L. 137-11 (Frankreich — régimes à prestations définies — "Article 39"-Pläne)
@@ -181,3 +180,5 @@ JP | [X] | [X] | [X]% | Mittel | DC-Reform
 - → `expatriate-pensionsplanung-und-totalization` — Expat-Sonderfragen
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

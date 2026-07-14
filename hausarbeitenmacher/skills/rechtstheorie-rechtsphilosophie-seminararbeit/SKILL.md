@@ -198,11 +198,9 @@ Folgende: ...
 
 ### Beispiel 1: § 138 BGB-Sittenwidrigkeit
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beispiel 2: Mauerschützen-Verfahren
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 8 — Reflexions-Aufgaben für Dich
 
@@ -219,3 +217,5 @@ Bevor Du eine rechtstheoretische Anbindung schreibst:
 - `meinungsstreit-darstellen` — Streit-Stände
 - `verfassungsrecht-grundrechtspruefung` — Verfassungsmäßigkeit
 - `selbstkontrolle-vor-abgabe` — Endcheck
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -89,7 +89,6 @@ Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 ### Phase 2 — Klage-Strategie
 
 - Widerspruchs-Verfahren (Landes-AusfG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eilantrag § 80 V VwGO bei Sofortvollzug
 
 ### Phase 3 — Beweisaufnahme
@@ -139,17 +138,12 @@ Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 
 ## 9) BVerwG-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 10) Honorar
 
 - Streitwert nach wirtschaftlichem Interesse
 - Bei Vereinen oft NGO-Finanzierung
 - VKH-Antrag möglich
-
-## Aktuelle BVerwG-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
 
@@ -159,3 +153,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `testakten/umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
 - `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei Stallneubau-Bezug
 - `fachanwalt-verwaltungsrecht-orientierung` — Triage
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -26,9 +26,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Welche Buchhaltungssoftware ist im Einsatz (DATEV, Lexware, sevDesk, RA-MICRO, Advoware) oder keine?
 4. Sind beA, E-Mail-Integration und Fristenbuch bereits eingerichtet oder müssen diese konfiguriert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab Kanzleigruendung
 - § 31a BRAO — beA-Einrichtungspflicht: sofort bei Zulassung
@@ -118,3 +115,5 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 ## Hinweise
 
 Mandantenkommunikation und folgenreiche Versandhandlungen verbleiben in anwaltlicher Verantwortung. Vor jedem Versand `versand-vor-check`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

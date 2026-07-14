@@ -147,8 +147,8 @@ Bevor das Interview begonnen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Richtlinien für die Prüfung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen können die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

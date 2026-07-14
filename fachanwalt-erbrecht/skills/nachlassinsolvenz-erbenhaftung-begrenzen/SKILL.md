@@ -89,7 +89,6 @@ description: "Wenn es um Nachlassinsolvenz Erbenhaftung Begrenzen in Fachanwalt 
 
 ### Praktische Hinweise
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei Überschuldungsverdacht: unverzüglich Nachlass-Überblick verschaffen; keine Aktivitäten, die Erbschaftsannahme implizieren (Konten-Abhebungen, Schuldenbegleichung aus eigenem Vermögen)
 - Konkludente Erbschaftsannahme: Zahlung von Erblasserschulden, Inbesitznahme Nachlassgegenstände, Antrag auf Erbschein
 
@@ -159,7 +158,6 @@ Das Inventar ist das vollständige Verzeichnis des Nachlasses (Aktiva und Passiv
 **Anwendung:**
 - Wenn Nachlassverwaltung oder -insolvenz nicht angeordnet/beantragt
 - Erbe kann Befriedigung auf Nachlassbestand beschränken
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Wirkung:**
 - Gläubiger können Herausgabe der Nachlassgegenstände verlangen
@@ -318,6 +316,7 @@ Saldo: EUR [-Z]
 
 - BGB §§ 1922, 1944, 1945, 1953, 1954, 1970, 1975, 1980, 1981, 1990, 1994, 2002, 2005, 2007, 2058, 2059, 1371
 - InsO §§ 315–331
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

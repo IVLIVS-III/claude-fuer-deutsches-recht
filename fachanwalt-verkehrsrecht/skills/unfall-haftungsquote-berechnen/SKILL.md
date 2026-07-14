@@ -166,7 +166,6 @@ unseres Mandanten liegt nicht vor, da [Begründung].
 [Bei Anscheinsbeweis: Der Anscheinsbeweis des Auffahrunfalls
 spricht für alleiniges Verschulden Ihres VN gemäß
 § 4 Abs. 1 StVO; ein atypischer Geschehensverlauf ist nicht
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Schaden
 [Schadensaufstellung wie oben, konkret ausfüllen]
@@ -205,7 +204,6 @@ Zu [Anschnallpflicht]: Soweit behauptet wird, unser Mandant
 sei nicht angeschnallt gewesen, fehlt hierfür jeder Beleg.
 Im Übrigen wäre die konkrete Kausalität der Anschnallpflicht-
 verletzung für die eingetretenen Verletzungen darzulegen —
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kausalität.
 ```
 
@@ -276,4 +274,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

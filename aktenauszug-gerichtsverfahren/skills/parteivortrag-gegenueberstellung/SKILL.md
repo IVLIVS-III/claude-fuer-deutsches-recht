@@ -28,10 +28,6 @@ description: "Wenn es um Parteivortrag — Gegenüberstellung in aktenauszug-ger
 - § 531 Abs. 2 ZPO — Beschränktes Vorbringen neuer Angriffs- und Verteidigungsmittel in der Berufungsinstanz
 - § 139 ZPO — Richterliche Hinweispflicht; Gericht weist auf Lücken im Vortrag hin
 
-## Rechtsprechung zum Parteivortrag und Bestreiten
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Tabellenstruktur
 
 ```markdown
@@ -78,3 +74,5 @@ Unstreitige Sachverhaltselemente werden unterhalb der Tabelle als Block "Unstrei
 - [ ] Fundstellen angegeben?
 - [ ] Unstreitiger Sachverhalt separat ausgewiesen?
 - [ ] Präkludierte Punkte (§§ 296 531 ZPO) als solche markiert?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

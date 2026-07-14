@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 1 Abs. 3, 48 ff. HGB — Prokura und Handelsvollmacht: massgeblich für Vertretung in der KG
 - § 16 GmbHG analog für Kommanditistenwechsel — Gesellschafterliste-Gedanke: Eintragung im HR als Legitimationsakt
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Rechtsform und Gesellschaftsvertrag prüfen:** aktueller HR-Auszug HRA, Gesellschaftsvertrag, Kommanditistenliste
@@ -195,3 +191,5 @@ REGISTER
 
 - assets/templates/kg-checkliste-einlage-vertretung.md
 - assets/templates/kommanditisten-abtretungsvertrag.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

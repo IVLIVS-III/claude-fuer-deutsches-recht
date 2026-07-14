@@ -16,6 +16,6 @@
 
 ## Drei Schritte
 
-1.
-2.
-3.
+1. Sofortmaßnahme:
+2. Folgeschritt:
+3. Abschlusskontrolle:

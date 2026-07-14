@@ -34,7 +34,6 @@ description: "Wenn es um Ladeinfrastruktur Elektromobilitaet in Verkehrs- und In
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Entscheidungsbaum Ladeinfrastruktur
 
@@ -59,3 +58,5 @@ Standort der Ladeinfrastruktur?
 - Sondernutzungserlaubnis für öffentliche Flaechen niemals vergessen.
 - WEG-Beschluss sorgfaeltig dokumentieren.
 - Anwaltliche Endkontrolle bei komplexen Konstellationen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

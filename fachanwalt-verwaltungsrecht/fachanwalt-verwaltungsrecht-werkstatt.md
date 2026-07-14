@@ -132,6 +132,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen.
 - BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung.
 - BVerfG, Beschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. (Klimaschutzbeschluss) — bundesverfassungsgericht.de.
+- BVerwG, Urteil vom 25. Januar 2021 - 9 C 8.19: Eine Belehrung musste im entschiedenen Altfall nicht zusätzlich auf die elektronische Übermittlung hinweisen.
 
 ## 9. Prüfraster
 
@@ -211,7 +212,7 @@ Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zu
 
 ### 15.8. Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. - Bundesland (jedes hat eigenes Klima-Gesetz, z. B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bundesland (jedes hat eigenes Klima-Gesetz, z. B. Bayern, NRW, Berlin) - Konkrete Versäumnisse (Wärmewende, Verkehrswende, Industrie-Reduktion) - Mandanten-Betroffenheit (Land-Mandanten: Eigentum-Schaden durch Klimawandel) - Vorhandene Stellungnahme der Landesregierung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.9. Klimaklage Bundesländer Ksg BVerfG
 

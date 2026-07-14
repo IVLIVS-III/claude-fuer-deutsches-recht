@@ -45,10 +45,6 @@ description: "Wenn es um Verhandlung Guete Abfindung Arbg in Fachanwalt Arbeitsr
 - **Paragraf 1 TVG** — Tarifliche Abfindungsregelungen
 - **Paragraf 779 BGB** — Vergleich
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kommunikations-/Verhandlungs-Pfade
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -162,3 +158,5 @@ Vergleichs- und abfindungsrelevante Leitentscheidungen:
 - Paragraf 1a KSchG — gesetzlicher Abfindungsanspruch bei betriebsbedingter Kündigung
 - Paragraf 779 BGB — Vergleich
 - Paragraf 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -94,7 +94,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
+| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
+| --- | --- | --- |
+| EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -118,7 +120,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+- EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2 — Bei digitalen B2C-Vertragsschlüssen die Beschriftung der auslösenden Schaltfläche isoliert prüfen.
 
 ## 9. Prüfraster
 

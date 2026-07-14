@@ -92,7 +92,6 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 ### Konkludente Abnahme
 
 **Tatbestand:** Ingebrauchnahme ohne ausdrückliche Rüge oder Vorbehalt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gefahr: Auftraggeber nimmt Werk in Betrieb → Abnahme unterstellt
 - Schutz: Nutzungsaufnahme unter Vorbehalt schriftlich erklären
 
@@ -337,3 +336,5 @@ wesentlichen Mängel möglich.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

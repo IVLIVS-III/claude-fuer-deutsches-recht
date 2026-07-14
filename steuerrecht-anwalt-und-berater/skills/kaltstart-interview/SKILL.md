@@ -35,9 +35,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **InsO** §§ 17 19 (Insolvenzgründe), § 15a (Antragspflicht)
 - **StaRUG** § 102 (Hinweispflichten bei drohender Insolvenz)
 
-### Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -131,3 +128,5 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/s
 ## Hinweise
 
 Dieses Plugin ist kein Ersatz für die individuelle Mandantenberatung durch einen Steuerberater. Es liefert Werkzeuge und Vorlagen zur Strukturierung der Arbeit. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen zu prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

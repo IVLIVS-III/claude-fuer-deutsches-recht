@@ -27,7 +27,6 @@ Impulsvorträge zu § 1 StaRUG und Krisenfrüherkennung sind mehr als akademisch
 - §§ 49-59 StaRUG (Stabilisierungsanordnung)
 - §§ 15a, 15b InsO (Insolvenzantragspflicht und Zahlungsverbot)
 - § 43 GmbHG, § 93 AktG (GF-Haftung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6, IDW S 11, IDW PS 340 n.F.
 
 ---
@@ -86,7 +85,6 @@ FOLIE 6 — DIE HAFTUNG (7:00 — 9:30)
 
 FOLIE 7 — § 102 StaRUG — DIE BERATER-PFLICHT (9:30 — 11:00)
  Steuerberater, WP, RA: unaufgeforderter Warnhinweis bei Krisensignalen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Dokumentationspflicht beider Seiten
  Talking Point: "Jede BWA, die der StB ausliest und schweigt — potenzielle Haftung."
 
@@ -136,7 +134,6 @@ FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
 "§ 102 StaRUG schützt den Berater, der warnt. Und er schadet dem Berater, der schweigt. Es gibt keine sichere Mitte. Wer als Steuerberater monatlich die BWA liest und krisenrelevante Signale ignoriert, sitzt auf einer Zeitbombe."
 
 ### Point 5 — Die Kornhaas-Entscheidung als Warnung für Gesellschaftsform-Optimierer
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -192,3 +189,5 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -35,10 +35,6 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 - **§ 41 BImSchG i.V.m. 16. BImSchV** — Laermschutz bei Infrastrukturausbau
 - **§ 74 VwVfG i.V.m. § 28 PBefG** — Planfeststellungsbeschluss; Schutzauflagen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Planfeststellung Strassenbahn
 
 1. **Trassenauswahl prufen:** Wurden Alternativen ernsthaft geprueft?
@@ -54,3 +50,5 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 - Direktvergabe EU-rechtskonform prüfen — VO (EG) 1370/2007 beachten.
 - Laermschutzberechnungen fachlich begleiten lassen (Sachverstaendiger).
 - Anwaltliche Endkontrolle bei Einwendungen und Klagen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

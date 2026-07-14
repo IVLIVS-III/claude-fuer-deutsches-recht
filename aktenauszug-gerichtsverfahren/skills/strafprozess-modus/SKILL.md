@@ -35,10 +35,6 @@ Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §�
 - §§ 314-332 StPO — Berufung (Landgericht als Berufungsgericht)
 - §§ 112-130 StPO — Untersuchungshaft (Haftgründe, Haftprüfung, Haftverschonung)
 
-## Rechtsprechung (BGH — Leitsätze Strafprozessrecht)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Typischer Verfahrensablauf
 
 1. Ermittlungsverfahren (Staatsanwaltschaft / Polizei)
@@ -102,3 +98,5 @@ Gesondert darzustellen:
 - Keine Schuldvermutung im Aktenauszug
 - Freispruch und Verurteilung neutral darstellen
 - Bei laufender Untersuchungshaft: Haftverlängerungsbeschlüsse und Haftdauer hervorheben
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

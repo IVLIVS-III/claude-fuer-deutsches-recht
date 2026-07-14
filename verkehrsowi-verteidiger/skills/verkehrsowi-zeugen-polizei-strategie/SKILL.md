@@ -33,10 +33,6 @@ Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als 
 - **§ 249 StPO i.V.m. § 71 OWiG** — Urkundsbeweis; Protokolle und Berichte verlesen
 - **§ 254 StPO i.V.m. § 71 OWiG** — Vorhalt: frueherer Wortlaut darf vorgehalten werden
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fragestrategie Polizeibeamter-Zeuge
 
 ### Einstiegsfragen (neutral)
@@ -71,3 +67,5 @@ Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als 
 - Vorhalt nur mit konkreter Fundstelle in der Akte.
 - Polizeibeamten haben grundsätzlich nicht mehr Glaubwuerdigkeit als andere Zeugen — aber das ist in der HV oft zu betonen.
 - Anwaltliche Endkontrolle bei Frageliste vor HV.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

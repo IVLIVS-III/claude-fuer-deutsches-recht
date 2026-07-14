@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf`](gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 72 KB) | PDF | [`gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf`](gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-dublin-bank-frankfurt-branch-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch-einzelpdfs.zip) |
 
@@ -77,5 +77,3 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 ## Prüffokus
 
 Die Akte zwingt das Plugin, `personen-organisationstyp`, `konzern-netzwerk-plattform`, `erstregistrierung-ausfuellen`, `registereintrag-finalcheck`, `registerfuehrende-stelle-kontakt`, `suche-open-data-monitor` und `fristen-und-quartalsmonitor` zusammenzuspielen. Entscheidend ist nicht eine voreilige Antwort, sondern eine saubere Registerpraxis: Primärentwurf, Streitvermerk, RfS-Anfrage, API-Dublettencheck und keine Doppelung ohne Klärung.
-
-## Disclaimer

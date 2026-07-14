@@ -54,10 +54,6 @@ Klimaschutzgesetz Paragraf 13. Wirkung auf Treibhausgasemissionen direkt und ind
 
 (Querverweis `normenkontrollrat-kmu-check`)
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 3-6 UVPG (Umweltvertraeglichkeitspruefung) — Art. 20a GG (Staatsziel Umweltschutz) — §§ 4-6 KSG (Klimaschutzziele, Sektorziele) — DNK Deutsche Nachhaltigkeitsstrategie — § 65 GGO (Nachhaltigkeitspruefung in Begruendung)
@@ -77,3 +73,5 @@ Folgenmatrix als Tabelle plus Text für Vorblatt G und Begründung A.VI.6.
 ## Anschluss
 
 `inkrafttreten-uebergangsrecht`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

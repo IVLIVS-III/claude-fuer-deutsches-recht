@@ -26,7 +26,6 @@ Fehlt eine Säule, ist es kein VEP. Fehlt der Plan im förmlichen Sinne und die 
 
 ### Vorhabenträger gleich Plan-Schuldner
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vorhabenträger muss zur Plan-Realisierung **verpflichtet und in der Lage** sein
 - Wechselt der Vorhabenträger nach Plan-Beschluss, bleibt der Plan nur wirksam wenn der Nachfolger den Durchführungsvertrag übernimmt
 - § 12 Abs. 5 BauGB ausdrücklich
@@ -65,7 +64,6 @@ Fehlt eine Säule, ist es kein VEP. Fehlt der Plan im förmlichen Sinne und die 
 - Durchführungsvertrag mit Vorhabenträger vor Aufstellungs-Beschluss
 - Festsetzungen sind passgenau auf das Vorhaben des Vorhabenträgers zugeschnitten
 - **Rechtsfolge:** Vertrag als § 11 BauGB-Vertrag zu prüfen, nicht § 12 BauGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation C — Reiner Erschließungs-Vertrag
 
@@ -142,7 +140,6 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 ### Rechtsschutz
 
 - Antragsteller kann Aufhebungs-Erforderlichkeit feststellen lassen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 9 — Prüfraster für die Mandantin-Vertretung
 
@@ -166,7 +163,6 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 ### Schritt 9.4 — Argumentations-Linien
 
 - Bei VEP: Vorhabenträger-Identität, Realisierungs-Status, Wirksamkeits-Folgen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stets Vorprägungs-Argument
 
 ## Schritt 10 — Anwendung auf Bebauungsplan Augsburg Nr. 900

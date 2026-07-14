@@ -20,10 +20,6 @@ description: "Wenn es um Plausibilitätscheck in Vertragsausfüller geht: prüft
 3. Stimmen Anlagenverzeichnis und Anlagenbezugnahmen im Text überein?
 4. Sind Parteidaten vollständig und aktuell (Handelsregistereintrag, Vertreter)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 551 BGB — Höchstgrenze Kaution (3 Monatskaltmieten)
@@ -69,3 +65,5 @@ description: "Wenn es um Plausibilitätscheck in Vertragsausfüller geht: prüft
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -11,9 +11,6 @@ description: "Wenn es um /verwandte-skills-vorschlag — Verwandte-Skills-Empfeh
 3. Wurden die empfohlenen Skills bereits angesehen oder abgewiesen (Surfaced-Tracking beachten)?
 4. Verarbeitet der zu empfehlende Skill Mandantendaten (DSGVO-Hinweis erforderlich)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV: jeder Community-Skill-Anbieter mit Datenzugriff ist Auftragsverarbeiter
 - Art. 32 DSGVO — TOM: vor Installation eines Community-Skills TOM-Prüfung erforderlich
@@ -130,3 +127,5 @@ Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.
 - Laufende Aufgaben unterbrechen. Empfehlungen erscheinen am *Ende* einer Aufgabe, nicht mittendrin.
 - Nerven. Ein Hinweis pro Skill, nie.
 - Benachrichtigungen anzeigen, wenn die Einstellung auf `keine` steht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

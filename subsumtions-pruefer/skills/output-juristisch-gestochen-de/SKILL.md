@@ -12,10 +12,6 @@ description: "Wenn es um Output: Juristisch gestochen (Deutsch) in Subsumtions-P
 3. Welche Klageart ist einschlägig? (Leistungs- / Feststellungs- / Gestaltungsklage)
 4. Sind Beweisangebote bereits vorhanden oder noch zu beschaffen?
 
-## Aktuelle Rechtsprechung zum Schriftsatzstil
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Struktur des Ausgabedokuments
 
 ### 1. Rubrum
@@ -75,3 +71,5 @@ Am Kopf jedes erzeugten Schriftsatzentwurfs steht:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

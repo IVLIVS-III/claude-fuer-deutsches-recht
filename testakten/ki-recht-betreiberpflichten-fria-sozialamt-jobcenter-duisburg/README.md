@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg_gesamt.pdf`](gesamt-pdf/ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 83 KB) | PDF | [`gesamt-pdf/ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg_gesamt.pdf`](gesamt-pdf/ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg-einzelpdfs.zip) |
 

@@ -188,7 +188,6 @@ description: "Wenn es um Squeeze Out Verfahren in Fachanwalt Handels- und Gesell
 
 ## 11) BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -197,16 +196,6 @@ description: "Wenn es um Squeeze Out Verfahren in Fachanwalt Handels- und Gesell
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Verfahrens-Streit
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Paragrafenkette
 
@@ -232,3 +221,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. **Anfechtungsklage (Minderheitsaktionär):** 1-Monat-Frist § 246 AktG ab Beschlussfassung; Freigabeverfahren § 246a AktG durch Hauptaktionär?
 4. **Spruchverfahren:** Angemessenheit der Barabfindung; Börsenkurs vs. Ertragswert IDW S 1; Gutachter im Verfahren.
 5. **Freigabeverfahren:** Interessenabwägung; Vollziehungsinteresse des Hauptaktionärs vs. Verlustrisiko Minderheitsaktionäre.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

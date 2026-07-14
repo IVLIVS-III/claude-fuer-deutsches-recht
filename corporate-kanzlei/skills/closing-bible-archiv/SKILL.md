@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 15 IV GmbHG** — notariell beurkundete Anteilsuebertragung; Original beim Notar; Ausfertigung an Kanzlei
 - **GoB / GoBD** — ordnungsgemaesse Buchfuehrung; elektronische Archivierung muss unveraenderbar sein (revisionssichere Aufbewahrung)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Closing Bible: Standard-Inhaltsverzeichnis
 
 | Nr. | Dokument | Datum | Version | Signatur | Fundstelle |
@@ -208,5 +204,6 @@ Erstellt von: [KANZLEI]
 ## Quellen
 
 - § 199 BGB; §§ 257 f. HGB; § 147 AO; § 15 IV GmbHG; GoBD
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 12
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -91,7 +91,6 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 ### Schritt 4 — Klage
 
 - Bei Widerspruchs-Ablehnung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OVG-Berufung bei Niederlage
 
 ## 6) Argumentations-Linien
@@ -140,7 +139,6 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 ## 10) BVerwG-/EuGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -150,7 +148,6 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 ## Vertiefung: Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Normen-Kette Ausweisung
@@ -216,7 +213,6 @@ II. RECHTLICHE WUERDIGUNG
    - Aufenthalt seit [X] Jahren — Niederlassungserlaubnis vorhanden
    - Familienleben Art. 6 GG, Art. 8 EMRK: [KINDER / EHEGATTE DETAILS]
    - Kindeswohl: [KINDER DETAILS, Alter, dt. Staatsang.]
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
      minimal nach [X] Jahren Abwesenheit.
 
 3. Abwaegung § 53 AufenthG ergibt Ueberwiegen Bleibeinteressen:
@@ -225,7 +221,6 @@ II. RECHTLICHE WUERDIGUNG
 III. HILFSANTRAG: BEFRISTUNG EINREISEVERBOT § 11 AufenthG
 Fuer den Fall der Aufrechterhaltung der Ausweisungsverfuegung wird beantragt,
 das Einreise- und Aufenthaltsverbot unverzueglich auf [1 Jahr] zu befristen
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 IV. EILRECHTSSCHUTZ
 Fuer den Fall der Aufrechterhaltung des Sofortvollzugs wird parallel
@@ -248,3 +243,4 @@ Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

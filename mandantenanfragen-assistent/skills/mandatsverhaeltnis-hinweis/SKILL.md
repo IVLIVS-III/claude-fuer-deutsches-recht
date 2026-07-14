@@ -23,9 +23,6 @@ Formuliert den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer
 3. Ist der Mandant Verbraucher (§ 13 BGB) — dann auch Widerrufsrecht und Fernkommunikationspflichten beachten?
 4. Muss zusaetzlich auf die Kostenpflicht hingewiesen werden (§ 49b Abs. 5 BRAO)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 611, 675 BGB — Anwaltsvertrag: kommt durch Angebot und Annahme zustande; konkludente Entstehung möglich
 - § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: Hinweis auf voraussichtliche Kosten vor Mandatsannahme
@@ -112,3 +109,5 @@ einen Rechtsanwalt Ihres Vertrauens oder rufen Sie uns unter
 - `vertraulichkeit-erinnerung` — weiterführender Hinweis nach Mandatsbegründung
 - `transkriptionsdienst-erklaerung` — verwendet diesen Hinweis im Transkriptions-Abschnitt
 - `dringlichkeitsmarker` — bei HOCH: Langform mit Frist-Warnung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

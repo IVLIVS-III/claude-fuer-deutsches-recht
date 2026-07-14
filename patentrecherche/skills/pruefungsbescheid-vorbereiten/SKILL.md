@@ -177,8 +177,7 @@ Bevor die Antwort auf den Prüfungsbescheid formuliert wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Erweiterte Beschwerdekammer, G 2/21 (Plausibilitaet):** Die technische Wirkung, auf die eine erfinderische Taetigkeit gestuetzt wird, muss in der Anmeldung plausibel offenbart sein; spaetere Versuchsbelege können die Plausibilitaet ersetzen, wenn der Fachmann den Effekt nachtraeglich als glaubhaft bestaetigt ansehen kann.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -2,7 +2,6 @@
 
 **Stichtag:** {Stichtag, Montag KW {KW_t}}
 **Erstellt am:** {Erstellungsdatum}
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -10,7 +9,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Ampel:** {🟢 GRÜN | 🟡 GELB | 🔴 ROT}
 **Liquiditätslücke:** {Lücke_abs €} ({Lücke_% }%)
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Position | Wert |
 |---|---:|
@@ -59,11 +57,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | davon zweifelhaft / wertberichtigt | {OF_Zweifel €} |
 | **Deckungsgrad Forderungen vs. Lücke** | **{OF/Lücke %}** |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - [ ] Lohnsteuer-Rückstände
 - [ ] Sozialversicherungs-Rückstände
@@ -87,7 +83,6 @@ Ab zwei aktiv gesetzten Indizien wird auf 🔴 eskaliert, auch wenn die Quote re
 
 ## Gutachtenstil-Kurzfazit
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Handlungsempfehlung
 
@@ -97,6 +92,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Berufsständische Methodenrahmen zu Insolvenzeröffnungsgründen und Sanierungskonzepten nur als Hintergrundmaßstab verwenden.
 - Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

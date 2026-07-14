@@ -155,8 +155,8 @@ Bevor die internationale Registrierung beantragt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO BoA, Entsch. v. 23.05.2018 — R 1511/2017-5 (Transformation Madrid):** Bei Central Attack und anschliessender Transformation gemäß Art. 9quinquies PMMA bleibt der urspruengliche IR-Anmeldetag als Prioritaetsdatum erhalten; die Transformation ist fristgebunden (3 Monate nach IR-Streichung) und erfordert aktives Handeln des Rechteinhabers.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

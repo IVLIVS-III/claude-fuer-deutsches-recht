@@ -1,4 +1,5 @@
 name: strafrecht-revision-beweisantrag-lg-duisburg
+plugin: "fachanwalt-strafrecht"
 description: Revisionsakte nach Verurteilung vor dem Landgericht Duisburg mit Protokollruege, abgelehntem Beweisantrag
   und Aufklaerungsruege; Kern ist der Abgleich der Hauptverhandlungs-Chronologie mit zwei Protokollfassungen zur
   Rekonstruktion des Verfahrensfehlers.

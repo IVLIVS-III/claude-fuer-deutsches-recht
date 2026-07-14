@@ -35,7 +35,6 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Änderungsproto
 - **Konsultationsvereinbarung Home-Office Deutschland-Schweiz** vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zu Grenzgaengern Schweiz (regelmaessig aktualisiert) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 - Konsultationsvereinbarung Home-Office — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
@@ -180,3 +179,5 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Änderungsproto
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 15a DBA-Schweiz in der Fassung Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68). Konsultationsvereinbarung Home-Office vom 11.06.2020 und Folgevereinbarungen. Konkreten Quellensteuer-Hoechstsatz und 60-Tage-Schaedlichkeitsschwelle im DBA-Text Art. 15a prüfen; aktuelle Home-Office-Konsultationsvereinbarung im BMF-Veroeffentlichungsverzeichnis abrufen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

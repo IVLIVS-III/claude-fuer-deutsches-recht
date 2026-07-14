@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf`](gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 36 KB) | PDF | [`gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf`](gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau-einzelpdfs.zip) |
 

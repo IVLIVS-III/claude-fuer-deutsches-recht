@@ -95,4 +95,5 @@ Bewertung: [belastbar / eingeschränkt belastbar / nicht belastbar]
 ## Leitentscheidungen Elastizitaeten / Diversion Ratios
 
 - EK, Horizontal Merger Guidelines 2004 Rn. 22-29 — Diversion Ratios als Evidenz für Marktabgrenzung; hohe Diversion zwischen Produkten A und B indiziert gemeinsamen Markt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

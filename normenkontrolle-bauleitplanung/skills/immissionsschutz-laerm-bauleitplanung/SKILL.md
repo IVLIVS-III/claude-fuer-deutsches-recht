@@ -186,10 +186,6 @@ description: "Wenn es um Immissionsschutz und Lärm in der Bauleitplanung in Nor
 - BVerwG, Urteil vom 9.7.2008 – 9 A 14.07 (Außenwohnbereich)
 - BVerwG, Urteil vom 19.4.2012 – 4 CN 3.11 (Verkehrslärmprognose)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Lärmschutz
 
 § 50 BImSchG (Trennungsgrundsatz) → § 41 BImSchG (Verkehrslärmschutz) → 16. BImSchV (Grenzwerte Schiene/Straße) → 18. BImSchV (Sportlärm) → DIN 18005-1 (Orientierungswerte) → § 9 Abs. 1 Nr. 24 BauGB (Schallschutzflächen) → § 1 Abs. 6 Nr. 1 BauGB (allgemeine Wohlfahrtspflege) → § 2 Abs. 3 BauGB (Ermittlungspflicht)
@@ -227,16 +223,13 @@ IV. Verstoß gegen § 50 BImSchG und § 2 Abs. 3 BauGB — Lärmermittlung unvol
 1. Kumulation Straßen- und Schienenlärm nicht berücksichtigt
  Das Schallschutzgutachten der [BUERO] vom [DATUM] behandelt Straßenlärm und Schienenlärm
  separat. Eine Summenpegel-Berechnung fehlt. Dies begründet ein Ermittlungsdefizit
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Außenwohnbereiche ungeschützt
  Für die auf Blatt [X] ausgewiesenen Balkone und Terrassen in den Fensterlagen [HIMMELSRICHTUNG]
  werden Pegelwerte von [Z] dB(A) tagsüber erreicht — [N] dB(A) über DIN 18005-Orientierungswert.
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. Abwägungsdisproportionalität
  Die Überschreitung beträgt [X] dB(A). Bei mehr als 5 dB(A) ohne aktive Schutzmaßnahmen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klären ---
@@ -258,3 +251,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

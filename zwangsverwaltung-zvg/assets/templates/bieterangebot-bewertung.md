@@ -45,4 +45,4 @@
 
 ## Ergebnisvermerk
 
--
+- Bietlimit, tragende Annahmen, Ausschlussrisiken und Freigabeentscheidung:

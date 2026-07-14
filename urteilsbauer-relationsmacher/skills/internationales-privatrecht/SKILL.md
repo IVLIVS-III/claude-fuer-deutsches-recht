@@ -14,10 +14,6 @@ Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 3. Haben die Parteien eine wirksame Rechtswahl getroffen (Art. 3 Rom-I)?
 4. Ist CISG vorrangig anwendbar (vor dem IPR-Kollisionsrecht)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - Verordnung (EG) Nr. 593/2008 (Rom-I) — vertragliche Schuldverhältnisse
@@ -89,3 +85,5 @@ Verkäufer seinen gewöhnlichen Aufenthalt hat: [STAAT].
 ## Eingriffsnormen
 
 DSGVO Artikel 3 (raeumlicher Anwendungsbereich) ist Eingriffsnorm. Das deutsche Datenschutzrecht ist auf Verarbeitungen anwendbar, die sich an Personen in der EU richten, unabhängig vom Sitz des Verantwortlichen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

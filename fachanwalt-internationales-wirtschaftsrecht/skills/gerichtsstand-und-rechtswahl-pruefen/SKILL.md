@@ -227,7 +227,6 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 - Brüssel Ia VO (EU) Nr. 1215/2012, ABl. L 351/1
 - Rom I VO (EG) Nr. 593/2008, ABl. L 177/6
 - Rom II VO (EG) Nr. 864/2007, ABl. L 199/40
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Geimer, Internationales Zivilprozessrecht, 8. Aufl. 2020
 - Schack, Internationales Zivilverfahrensrecht, 7. Aufl. 2021
 - New Yorker Übereinkommen v. 10.06.1958, BGBl. 1961 II S. 121
@@ -277,3 +276,5 @@ II. ANWENDBARES RECHT
 4. Ergebnis: Anwendbares Recht: [RECHTSORDNUNG]
 ======================================
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

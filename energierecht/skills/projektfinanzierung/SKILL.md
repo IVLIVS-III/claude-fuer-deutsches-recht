@@ -282,10 +282,6 @@ description: "Wenn es um Projektfinanzierung Energie in Energierecht geht: prüf
 2. Vermarktungs-Risiko verteilen
 3. ESG-Reporting CSRD-konform
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 1191 ff. BGB (Grundschuld als Sicherheit) — §§ 398, 399 BGB (Forderungsabtretung) — § 307 BGB (AGB-Kontrolle Take-or-Pay) — §§ 48, 49 VwVfG (Rücknahme, Widerruf Foerderbescheid) — §§ 19-21 EEG (Verguetungs-Anspruch als Sicherungs-Gegenstand) — §§ 1 ff. KWG (Finanzierung durch Kreditinstitute)
@@ -312,3 +308,5 @@ description: "Wenn es um Projektfinanzierung Energie in Energierecht geht: prüf
 - TLB / IF-Konzepte zu Project Finance Energie
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

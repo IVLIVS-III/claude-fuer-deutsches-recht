@@ -1,4 +1,5 @@
 name: unterhalt-berechnungsakte-vollstaendig-rosenheim
+plugin: "fachanwalt-familienrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte unterhalt-berechnungsakte-vollstaendig-rosenheim.
 checks:
   - id: datei-01-sachverhalt-und-trennung

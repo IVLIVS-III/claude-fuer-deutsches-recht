@@ -51,7 +51,6 @@ Die CMR ist das international zwingende Einheitsrecht für den grenzüberschreit
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -126,7 +125,6 @@ Schadenseintritts gehandelt:
 [Konkret: Keine Scans im Umschlaglager [Ort], obwohl eigenes
 Betriebshandbuch Scan-Pflicht vorsieht; kein Nachweis des
 letzten Kontaktpunkts mit der Sendung; keine Stellplatzkon-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die Haftungsbegrenzung Art. 23 Abs. 3 CMR entfällt.
 
@@ -289,3 +287,5 @@ Hilfsweise Klage auch gegen [C].
 ## Quellen
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

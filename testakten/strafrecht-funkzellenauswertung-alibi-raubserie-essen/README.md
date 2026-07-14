@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 60 KB) | PDF | [`gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf`](gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 73 KB) | PDF | [`gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf`](gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen-einzelpdfs.zip) |
 
@@ -34,7 +34,7 @@ Der Datenauswertungs-Kern verlangt den eigenständigen Abgleich dreier Quellen: 
 | Staatsanwaltschaft | StA Essen, StA Dr. Kalthoff, 70 Js 883/26 |
 | Polizei | PP Essen, KK 13, EK „Späti", KHKin Trosdorf, Tgb.-Nr. KK13-2026-1104 |
 | Ermittlungsrichter | AG Essen, 44 Gs 2107/26 (§ 100g StPO), 44 Gs 2312/26 (Haftbefehl) |
-| Mobilfunkanbieter | TeleNord Mobilfunk GmbH, Hamburg (fiktiv) |
+| Mobilfunkanbieter | TeleNord Mobilfunk GmbH, Hamburg |
 
 ## Aktenstruktur
 

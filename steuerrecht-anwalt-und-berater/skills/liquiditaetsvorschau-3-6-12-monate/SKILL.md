@@ -31,7 +31,6 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 
 ### Primärnormen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 18 InsO** — Drohende Zahlungsunfähigkeit: voraussichtliche Unfähigkeit im 24-Monats-Horizont; Grundlage Eigenantragsoption.
 
@@ -230,8 +229,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - InsO §§ 17, 18, 19, 15a, 15b
 - StaRUG §§ 1, 102
 - SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Sanierungskonzept); IDW S 11 (Insolvenzeröffnungsgründe)
 - K. Schmidt/Herchen, InsO § 17 Rn. 5–35
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

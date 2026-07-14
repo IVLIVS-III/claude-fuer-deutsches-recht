@@ -29,12 +29,6 @@ description: "Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in
 - Strafrecht: §§ 263, 266, 303, 223, 242, 249 StGB — Strafantrag bei Antragsdelikten (§ 77 StGB, 3 Monate)
 - Verwaltungsrecht: § 35 VwVfG (VA-Definition), § 42 VwGO (Anfechtungs-/Verpflichtungsklage)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-
 ## Schritt-für-Schritt-Vorgehen
 
 **Schritt 1 — Sachverhalts-Kategorisierung**
@@ -91,3 +85,5 @@ Das System weist ausdrücklich darauf hin, dass:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

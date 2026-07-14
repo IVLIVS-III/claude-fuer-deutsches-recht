@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 5193 KB) | PDF | [`gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf`](gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 5205 KB) | PDF | [`gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf`](gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup-einzelpdfs.zip) |
 

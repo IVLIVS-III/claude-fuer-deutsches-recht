@@ -54,7 +54,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **§ 28 VVG** — Obliegenheitsverletzung; Leistungsfreiheit bei Vorsatz; quotal bei grober Fahrlässigkeit; Kausalität § 28 Abs. 3 VVG.
 - **§ 81 VVG** — Herbeiführung Versicherungsfall grob fahrlässig; quotale Kürzung.
 - **§ 215 VVG** — Gerichtsstand Wohnsitz des VN; Verbraucherschutz; alternativ allgemeiner Gerichtsstand Versicherer § 17 ZPO.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 9 ZPO** — Streitwert bei wiederkehrenden Leistungen: 3,5-facher Jahreswert (deckelnder Wert bei kürzerer Restlaufzeit).
 - **§§ 280, 286, 288 BGB** — Verzug; Zinsen 5 Prozentpunkte über Basiszinssatz; Ersatz Verzugsschadens (Anwaltskosten).
 - **§§ 195, 199, 203, 204 BGB** — Verjährung 3 Jahre; Hemmung durch Verhandlungen, Ombudsstelle.
@@ -200,7 +199,6 @@ auszuüben. Sein konkretes Berufsbild umfasste folgende Tätigkeiten:
 [Detailbeschreibung der Haupttätigkeiten mit Zeitanteilen].
 
 Beweis: Sachverständigengutachten bezogen auf die konkrete
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Eine Verweisung auf Vergleichsberufe ist nach § [X] AVB
 ausgeschlossen / nach aktuellen AVB nicht vorgesehen.
@@ -208,7 +206,6 @@ ausgeschlossen / nach aktuellen AVB nicht vorgesehen.
 IV. FESTSTELLUNGSINTERESSE
 
 Feststellungsinteresse besteht, da die Beklagte die Leistungspflicht
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ### Baustein 3 — Antrag auf Prozesskostenhilfe
@@ -308,14 +305,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 

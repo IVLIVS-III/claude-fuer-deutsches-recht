@@ -48,22 +48,18 @@ Gegenstand bestimmen:
 - Verletzungsform: Identität (§ 14 Abs. 2 Nr. 1), Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2), Rufausnutzung/-beeinträchtigung bekannter Marken (§ 14 Abs. 2 Nr. 3)
 - Prüfung: Benutzung im geschäftlichen Verkehr, für Waren/Dienstleistungen, ohne Zustimmung
 - Benutzungsschonfrist: eingetragene Marke muss 5 Jahre ernsthaft benutzt sein (§ 26 MarkenG), sonst Einrede nach § 25 MarkenG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Urheberrecht (§ 97 Abs. 1 UrhG):**
 - Schutzvoraussetzungen: persönliche geistige Schöpfung (§ 2 Abs. 2 UrhG); keine Neuheitsprüfung
 - Verletzungshandlungen: Vervielfältigung (§ 16 UrhG), Verbreitung (§ 17 UrhG), öffentliche Zugänglichmachung (§ 19a UrhG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Wettbewerbsrecht (§ 8 Abs. 1 UWG):**
 - Unlautere geschäftliche Handlung: §§ 3 ff. UWG; Beispiele: Irreführung (§ 5 UWG), Anschwärzung (§ 4 Nr. 2 UWG), vergleichende Werbung (§ 6 UWG), unzumutbare Belästigung (§ 7 UWG)
 - Mitbewerber, Verbraucherverbände, qualifizierte Einrichtungen (§ 8 Abs. 3 UWG) anspruchsberechtigt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Patentrecht (§ 139 PatG):**
 - Patentanspruch muss in Kraft sein, nicht nichtig
 - Verletzungshandlungen: § 9 PatG (Herstellung, Anbieten, Inverkehrbringen, Gebrauch, Einfuhr)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 3. Abmahnschreiben formulieren
 
@@ -96,7 +92,6 @@ Streitwert bestimmt Gerichtskostenvorschuss und RVG-Gebühren:
 | UWG (Wettbewerbsverstoß, mittelständisch) | 10.000 – 100.000 € |
 | Patent (kommerziell bedeutend) | 250.000 – 2.000.000 € |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Kostenerstattungsanspruch berechnen (RVG)
 
@@ -107,7 +102,6 @@ Abmahnkosten nach § 13 Abs. 3 UWG (bei UWG-Abmahnungen) oder allgemeinen Grunds
 - Zzgl. Auslagenpauschale (Nr. 7002 VV RVG): 20 € (max. 20 % der Gebühren)
 - Zzgl. Umsatzsteuer (§ 19a UStG beachten, falls USt-pflichtig)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 6. Pre-Delivery-Gate
 
@@ -147,7 +141,6 @@ Zitierweise nach `../references/zitierweise.md`.
 **Wichtige Normen:** §§ 8, 12, 13, 14 UWG; § 97 Abs. 1, § 97a, § 139 UrhG; §§ 14, 26 MarkenG; § 139 PatG; § 42 DesignG.
 
 **Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 1.1 ff.
@@ -160,13 +153,11 @@ Zitierweise nach `../references/zitierweise.md`.
 
 **Rechtliche Einordnung (Gutachtenstil):**
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Benutzungsschonfrist:* Die Marke ist seit 2019 eingetragen; die Fünfjahresfrist (§ 26 Abs. 5 MarkenG) läuft ab 2024; ernsthafte Benutzung durch Mandant zu dokumentieren. `[prüfen]`
 
 *Unterlassungsanspruch:* Es besteht Wiederholungsgefahr (tatsächliche Verletzungshandlung); Unterlassungsanspruch aus § 14 Abs. 5 MarkenG gegeben.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Kosten:* 1,3-Geschäftsgebühr aus 50.000 € nach Nr. 2300 VV RVG = 1.641,40 € zzgl. 20 € Auslagenpauschale = 1.661,40 € zzgl. MwSt.
 
@@ -176,7 +167,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Unklarer Unterlassungsgegenstand:** Die abgemahnte Handlung muss vollstreckungstauglich beschrieben sein; andernfalls kann ein Unterlassungstitel nicht vollstreckt werden (§ 890 ZPO).
 - **Missbräuchlichkeit (§ 8c UWG):** Serielle Abmahnungen mit primärem Kostenerzielungszweck sind missbräuchlich und begründen Schadensersatzpflichten; Massenfälle vorab auf Missbrauchsrisiko prüfen.
 - **Benutzungsschonfrist (§ 26 MarkenG):** Unterlassene Prüfung gefährdet das gesamte Abmahnungsverfahren, wenn der Verletzer die Einrede erhebt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Kein Versand ohne Freigabe:** Das Plugin sendet keine Abmahnung; es entwirft und wartet auf Genehmigung durch den konfigurierten Genehmiger.
 
 ## Triage-Fragen vor Unterlassungsverlangen
@@ -186,11 +176,3 @@ Bevor das Unterlassungsverlangen formuliert wird, klaere:
 2. Ist die abgemahnte Handlung vollstreckungstauglich beschreibbar (§ 890 ZPO — keine vagen Formulierungen)?
 3. Wurde die Unterlassungserklaerung ausreichend strafbewehrt (Hamburger Brauch vs. feste Vertragsstrafe)?
 4. Ist die Dringlichkeitsfrist für eine spaetere einstweilige Verfuegung gewahrt (BGH: max. 4-6 Wochen nach Kenntniserlangung)?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

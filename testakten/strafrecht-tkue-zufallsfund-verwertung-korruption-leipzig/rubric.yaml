@@ -1,4 +1,5 @@
 name: strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig
+plugin: "aktenaufbereiter-strafrecht"
 description: Zufallsfund aus einer TKUe nach Paragraf 100a StPO in einem BtM-Verfahren belegt Bestechlichkeit eines
   Sachbearbeiters der Fahrerlaubnisbehoerde; zu pruefen sind die Verwendungsregel des Paragraf 479 Abs. 2 StPO mit
   hypothetischem Ersatzeingriff und die Quantifizierung des Telefonat-Termin-Einzahlungs-Musters aus drei CSV-Dateien

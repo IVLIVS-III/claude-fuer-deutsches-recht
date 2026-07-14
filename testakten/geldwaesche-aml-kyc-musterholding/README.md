@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1179 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1193 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip) |
 
@@ -175,5 +175,3 @@ Diese Akte vermittelt den vollständigen Compliance-Workflow nach dem deutschen 
 11. **Krisenkommunikation** — Umgang mit Medienanfragen im AML-Kontext ohne Verletzung der Meldepflicht-Vertraulichkeit (§ 47 GwG).
 
 ---
-
-## Disclaimer

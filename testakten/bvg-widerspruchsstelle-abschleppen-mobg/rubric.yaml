@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Bvg Widerspruchsstelle Abschleppen Mobg"
-plugin: "tbd"
+plugin: "fachanwalt-verwaltungsrecht"
 
 checks:
   - id: r01-readme-vorhanden

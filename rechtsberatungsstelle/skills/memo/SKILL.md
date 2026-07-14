@@ -28,10 +28,6 @@ description: "Wenn es um Internes Rechtsgutachten: Gutachten-Gerüst in Plugin f
 - **§ 43a Abs. 2 BRAO / § 203 StGB** — Mandatsgeheimnis: Das Gutachten enthält vertrauliche Mandanteninformationen und darf die Beratungsstelle nicht ohne Supervisoren-Freigabe verlassen.
 - Materialrecht des jeweiligen Rechtsgebiets (wird im Gutachten konkretisiert).
 
-### Leitentscheidungen (exemplarisch für häufige Rechtsgebiete)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -98,6 +94,7 @@ Separater Abschnitt nach den Prüfungsblöcken:
 - Rechtlich: [Was erfordert Recherche?]
 - Strategisch: [Ermessensentscheidungen für Studentenn/Supervisor]
 
+```markdown
 ## Kurzergebnis
 
 [Mandat annehmen / Ablehnen, weil X / Weitere Informationen zu Y erforderlich —
@@ -179,3 +176,5 @@ Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

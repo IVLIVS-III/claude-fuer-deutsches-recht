@@ -73,6 +73,7 @@ Indikatoren für **Einzelmandats-Tool** (Einwilligung erforderlich):
 
 Bei Unsicherheit: konservativ entscheiden und Einwilligung einholen.
 
+```markdown
 ## Eingangsdaten
 - Beruf: ...
 - Norm-Adapter: § ...
@@ -91,10 +92,6 @@ Diese Daten werden an alle folgenden Skills weitergereicht.
 ## Lückenmanagement
 
 Wenn der Auftraggeber Antworten nicht hat, ist das selbst schon ein Befund. Fehlende Anbieter-Sitzangaben, fehlende Subunternehmerliste, unklarer Verarbeitungszweck — alles davon landet ohne weiteres im Rückfragebrief.
-
-## Aktuelle Rechtsprechung zum Berufsgeheimnis
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -147,3 +144,5 @@ Beruf bestimmt?
 - Vertragsdokumente vorgelegt: [ja/nein, Datum, Anlagen]
 - Nächste Schritte: [Prüfpunkte auflisten]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

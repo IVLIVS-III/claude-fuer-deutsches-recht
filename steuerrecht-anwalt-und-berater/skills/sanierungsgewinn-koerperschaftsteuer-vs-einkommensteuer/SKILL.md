@@ -162,4 +162,5 @@ Bindungswirkung nach Feststellung: EUR ...
 - § 15, § 17 EStG.
 - § 4 Abs. 1 EStG.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

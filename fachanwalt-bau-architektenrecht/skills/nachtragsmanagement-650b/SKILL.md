@@ -113,7 +113,6 @@ Live-Verifikation Pflicht über dejure.org / bundesgerichtshof.de / olg-...nrw.d
 - Anwendbar bei wirksam einbezogener VOB/B
 - Mehrvergütung bei Änderung des Bauentwurfs
 - Basis: Kalkulationsgrundlagen des ursprünglichen Angebots
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — Vergütungsberechnung § 650c BGB
 
@@ -168,7 +167,6 @@ GESAMTBRUTTO: EUR [Summe]
 
 - Bei > 10 % Mengenabweichung einer Position: Preisanpassungsrecht
 - Auf Antrag einer der Parteien
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 3 — 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB
 
@@ -198,7 +196,6 @@ GESAMTBRUTTO: EUR [Summe]
 
 **Ohne Behinderungsanzeige:**
 - Anspruch auf Bauzeitverlängerung entfällt (§ 6 Abs. 1 Satz 2 VOB/B)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadenersatzanspruch § 6 Abs. 6 VOB/B bleibt bei Verschulden AG bestehen
 
 **§ 642 BGB — Annahmeverzug (BGB-Vertrag):**
@@ -379,8 +376,9 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 - BGB §§ 650a–650d, 650i–650v, 642
 - VOB/B §§ 1, 2, 6
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
 - Kapellmann/Schiffers, Vergütung und Bauablauf
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

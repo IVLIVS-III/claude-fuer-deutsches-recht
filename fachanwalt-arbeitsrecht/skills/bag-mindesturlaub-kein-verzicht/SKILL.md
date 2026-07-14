@@ -16,8 +16,6 @@ description: "Wenn es um Bag Mindesturlaub Kein Verzicht in Fachanwalt Arbeitsre
 
 **Fokus:** Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
-### Rechtsprechung live prüfen
-
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -85,10 +83,6 @@ Liegt eine pauschale Erledigungsklausel vor, kann die Mandantin den Urlaubsabgel
 
 Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` für die Aufhebungsvertragsgestaltung und mit `vergleichsverhandlung-strategie` für den Prozessvergleich. Bei Klage auf Urlaubsabgeltung nach pauschalem Vergleich ergaenzend `schriftsatzkern-substantiierung` heranziehen.
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 - Paragrafen 1, 3 BUrlG — Urlaubsanspruch (20 Werktage Mindesturlaub)
@@ -96,3 +90,5 @@ Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` für die Au
 - Paragraf 7 Abs. 4 BUrlG — Abgeltungsanspruch bei Beendigung
 - Paragraf 13 Abs. 1 BUrlG — Unabdingbarkeit des Mindesturlaubs
 - Paragrafen 195, 199 BGB — Verjährung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -37,7 +37,6 @@ description: "Wenn es um Schiedsklausel in Fachanwalt Internationales Wirtschaft
 - § 1029 ZPO — Schiedsvereinbarung, Begriff: Vertrag über privat-rechtlichen Rechtsstreit mit Schiedsgericht anstelle von staatlichem Gericht.
 - § 1030 ZPO — Schiedsfähigkeit: vermögensrechtliche Ansprüche stets; nicht vermögensrechtliche soweit vergleichsfähig.
 - § 1031 ZPO — Schriftform: Abs. 1 eigene Urkunde oder gewechselte Schreiben; Abs. 2 Telekommunikation genügt; Abs. 3 Bezugnahme auf Dokument mit Schiedsklausel ausreichend; Abs. 5 Verbraucher gesonderte eigenhändig unterzeichnete Urkunde zwingend.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 1040 ZPO — Kompetenz-Kompetenz: Schiedsgericht entscheidet selbst über eigene Zuständigkeit; Trennungsprinzip (Severability): Schiedsvereinbarung ist selbständig vom Hauptvertrag zu beurteilen.
 - § 1051 ZPO — Anwendbares materielles Recht nach Parteiwahl; subsidiär Recht mit engster Verbindung.
 - § 1059 ZPO — Aufhebungsantrag für inländische Schiedssprüche: abschließender Katalog; Frist drei Monate ab Empfang des Schiedsspruchs.
@@ -60,7 +59,6 @@ description: "Wenn es um Schiedsklausel in Fachanwalt Internationales Wirtschaft
 
 ### Wichtige BGH-Entscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -259,7 +257,6 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 - UNCITRAL-Modellgesetz 2006
 - DIS-Schiedsgerichtsordnung 2021
 - ICC Rules of Arbitration 2021
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schwab/Walter Schiedsgerichtsbarkeit, 7. Aufl.
 - Born International Commercial Arbitration, 3rd ed.
 - Reithmann/Martiny Internationales Vertragsrecht
@@ -276,7 +273,6 @@ Die Dreimonatsfrist des § 1059 Abs. 3 ZPO endet am [Datum].
 
 ### Ergaenzende Leitsaetze Schiedsklausel
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Schiedsklausel (ICC-Standard)
 **Adressat:** Vertragspartner — Tonfall: sachlich-vertraglich
@@ -304,3 +300,4 @@ Anwendbares Recht: [RECHTSORDNUNG]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

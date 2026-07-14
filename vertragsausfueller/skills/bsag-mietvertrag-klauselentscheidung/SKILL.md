@@ -24,10 +24,6 @@ BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede li
 3. Gibt es USt-Option (§ 9 UStG) — ist BSAG als Vermieter zum Vorsteuerabzug berechtigt?
 4. Soll eine Konkurrenzschutzklausel aufgenommen werden und welchen Umfang?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 535, 536 BGB — Miete und Mängelgewährleistung
@@ -72,3 +68,5 @@ BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede li
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

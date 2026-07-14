@@ -27,10 +27,6 @@ description: "Wenn es um /automatischer-aktualisierer — Automatische Aktualisi
 - **§ 50 BRAO** — Pflicht zur Aktenführung; das Installationsprotokoll dokumentiert alle Versionsänderungen als Teil der Kanzleiorganisation.
 - **AI Act Art. 26** — Deployer-Pflichten bei Hochrisiko-KI: Änderungen am KI-System sind zu überwachen und zu dokumentieren.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -154,8 +150,9 @@ Bei der Ausführung dieses Skills sind folgende Quellen zu berücksichtigen:
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - § 50 BRAO (Aktenführung; Versionsprotokollierung)
 - AI Act Art. 26 (Deployer-Pflichten; Überwachung von KI-Systemänderungen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

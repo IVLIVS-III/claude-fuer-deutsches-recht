@@ -1,4 +1,5 @@
 name: rentenrecht-fruehrente-kontenluecken-werft-kiel
+plugin: "rentenpruefer"
 description: Vorgezogene Altersrente einer Werftmitarbeiterin mit Kontenluecken, streitigen Wartezeitmonaten fuer
   die Rente fuer langjaehrig und besonders langjaehrig Versicherte sowie Abschlagsfrage beim Wunschbeginn.
 checks:

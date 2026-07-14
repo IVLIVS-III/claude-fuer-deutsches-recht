@@ -1,4 +1,5 @@
 name: strafrecht-vermoegensabschoepfung-einziehung-taterloese-mannheim
+plugin: "aktenaufbereiter-strafrecht"
 description: Einziehung von Tatertraegen nach den Paragrafen 73 ff. StGB bei gewerbsmaessigem Abrechnungsbetrug
   eines Pflegedienstes mit eigenstaendiger Berechnung des Erlangten aus CSV-Daten, Streit um das Abzugsverbot fuer
   Lohnkosten, Drittempfaenger-Einziehung gegen die Ehefrau, Vermoegensarrest auf das Privathaus und einem bewussten

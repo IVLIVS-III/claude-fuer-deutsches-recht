@@ -15,10 +15,6 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 4. Gibt es Widerklage oder Hilfsanträge — müssen im Tatbestand vollständig erscheinen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 313 Abs. 2 ZPO — Tatbestand: gedrängter Überblick über Vorbringen beider Parteien, Bezugnahme auf Anlagen
@@ -110,3 +106,5 @@ Auf Anlagen, Schriftsätze, Protokolle nach Paragraf 313 Abs. 2 Satz 2 ZPO konkr
 - Parteien werden als "Kläger" / "Beklagte" bezeichnet (nicht namentlich, außer zur Unterscheidung mehrerer Beklagter)
 - Streitwertangaben im Tatbestand vermeiden (gehören in den Tenor / Streitwertbeschluss)
 - "Wegen ..." gehört in den Einleitungssatz, nicht in das Rubrum
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

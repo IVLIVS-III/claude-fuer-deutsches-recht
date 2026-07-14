@@ -14,10 +14,6 @@ Die Incoterms (International Commercial Terms) der Internationalen Handelskammer
 3. Wurde die Klausel wirksam einbezogen (AGB-Recht, Einbeziehungsvereinbarung)?
 4. Hat ein Gefahrübergang stattgefunden — wann und wo?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - Art. 31 CISG — Lieferpflicht (Lieferort ohne Vereinbarung)
@@ -84,3 +80,5 @@ Incoterms sind keine gesetzliche Regelung, sondern Vertragsklausel. Sie konkreti
 ## Tatbestand
 
 Im Tatbestand die Klausel wörtlich oder als Bezugnahme angeben, im Entscheidungsgrund subsumieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

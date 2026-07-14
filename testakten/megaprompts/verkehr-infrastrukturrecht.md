@@ -206,10 +206,6 @@ Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vor
 - § 28 VwVfG — Anhörungspflicht vor belastendem Verwaltungsakt
 - § 68 VwGO — Vorverfahren (Widerspruch) als Zulassungsvoraussetzung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -322,6 +318,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Keine pauschalen Ermessensfehler — konkrete Sachverhaltsbindung nachweisen
 - Unterschied Anfechtungsklage (aufheben) vs. Verpflichtungsklage (genehmigen) klarhalten
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `autonomous-driving-interessen-grossprojekt`
@@ -431,10 +429,6 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 - **§§ 1 ff. VgV** — Vergabeverordnung; Verfahrensarten
 - **§§ 1 ff. UVgO** — Unterschwellenvergabeordnung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Vergabe
 
 1. **Schwellenwert prüfen:** EU-weite Ausschreibung oder national?
@@ -458,6 +452,8 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 - Zuwendungsrecht: Zweckbindungsfristen genau dokumentieren, vorzeitige Nutzungsaenderungen genehmigen lassen.
 - EU-Schwellenwerte regelmaessig aktualisieren (alle 2 Jahre neue EU-Verordnung).
 - Anwaltliche Endkontrolle bei Ruge und Nachpruefungsantrag.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -588,10 +584,6 @@ _Wenn es um Sondernutzung oeffentlicher Strassenflaechen in Verkehrs- und Infras
 - **§ 40 VwVfG** — Ermessen der Behoerde bei der Erlaubniserteilung; kein Anspruch, aber willkuerfreie Entscheidung
 - **§ 49 VwVfG** — Widerruf einer rechtmaessigen Erlaubnis
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -609,6 +601,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Gebuehren muessen verhaeltnismaessig sein — bei exzessiven Gebuehren Widerspruch.
 - Gleichbehandlung pruefen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
 - Anwaltliche Endkontrolle bei Antraegen und Widerspruechen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -643,10 +637,6 @@ _Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehrs- und Infras
 - **§ 40 VwVfG** — Ermessen der Behörde bei der Erlaubniserteilung; kein Anspruch, aber willkuerfreie Entscheidung
 - **§ 49 VwVfG** — Widerruf einer rechtmäßigen Erlaubnis
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Sondernutzungsart und Strassenkategorie bestimmen** → zuständige Behörde.
@@ -661,6 +651,8 @@ _Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehrs- und Infras
 - Gebühren müssen verhaeltnismaessig sein — bei exzessiven Gebühren Widerspruch.
 - Gleichbehandlung prüfen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
 - Anwaltliche Endkontrolle bei Antraegen und Widerspruechen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -700,10 +692,6 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 - **§ 41 BImSchG i.V.m. 16. BImSchV** — Laermschutz bei Infrastrukturausbau
 - **§ 74 VwVfG i.V.m. § 28 PBefG** — Planfeststellungsbeschluss; Schutzauflagen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Planfeststellung Strassenbahn
 
 1. **Trassenauswahl prufen:** Wurden Alternativen ernsthaft geprueft?
@@ -719,6 +707,8 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 - Direktvergabe EU-rechtskonform prüfen — VO (EG) 1370/2007 beachten.
 - Laermschutzberechnungen fachlich begleiten lassen (Sachverstaendiger).
 - Anwaltliche Endkontrolle bei Einwendungen und Klagen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

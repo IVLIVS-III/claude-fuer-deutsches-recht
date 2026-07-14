@@ -16,8 +16,6 @@ description: "Wenn es um Bag Freistellungsklausel Unwirksam 5azr10825 in Arbeits
 
 **Fokus:** Bag Freistellungsklausel Unwirksam 5azr10825: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
-### Rechtsprechung live prüfen
-
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -55,7 +53,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Argumentationslinie für den Arbeitnehmer
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Argumentationslinie für den Arbeitgeber
 
@@ -72,8 +69,9 @@ Soll eine Freistellung trotz fehlender Klausel durchgesetzt werden, sind die sch
 
 ## Rechtsfolgen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
 In Kombination mit `kuendigungs-pruefung` und `kueschk-anwendbarkeit-kschg-pruefen` für die Prüfung der Kündigung selbst. Bei Vergleichsverhandlungen mit Freistellung als Verhandlungsmasse den Skill `kueschk-vergleichsverhandlung-checkliste` heranziehen — die Klausel ist konkret zu fassen, nicht pauschal.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

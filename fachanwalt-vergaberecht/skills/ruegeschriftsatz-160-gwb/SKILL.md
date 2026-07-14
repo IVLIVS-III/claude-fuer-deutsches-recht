@@ -93,7 +93,6 @@ description: "Wenn es um Ruegeschriftsatz im Vergabeverfahren nach Paragraf 160 
 
 ## 6) BGH-/OLG-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Duesseldorf-Linie zur "unverzueglich"-Auslegung
 
 ## Anschluss
@@ -128,7 +127,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Ergaenzende Leitsaetze Ruegeschriftsatz
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Output-Template Ruegeschriftsatz § 160 GWB
 **Adressat:** Vergabestelle [AUFTRAGGEBER] — Tonfall: sachlich-juristisch, fristsetzend
@@ -199,3 +197,5 @@ Mit freundlichen Gruessen
 - Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

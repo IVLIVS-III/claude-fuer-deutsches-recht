@@ -638,9 +638,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Was ist das Prufungsziel (Zwischenpruefung, Schwerpunkt, 1. StEx, 2. StEx)?
 4. Welche Lernmaterialien stehen zur Verfuegung?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 13 JAG NRW (exemplarisch) — Staatspruefungs-Anforderungen als Profilierungs-Grundlage
 - Art. 3 GG — Chancengleichheit als Masstab für individuellen Lernplan
@@ -751,6 +748,8 @@ Plugin: Profil angelegt. Empfehle: /jurastudium:lernplan
 - **Falsches Bundesland:** JAG-Unterschiede sind erheblich (Klausurzahl, Prüfungsgebiete). Einmal falsch eingetragen → alle Examensprognosen und Lernpläne gehen an der Realität vorbei.
 - **Wenig Material hochladen:** Das Plugin arbeitet besser mit mehr Material. Alte JPA-Klausuren und benotete eigene Arbeiten sind besonders wertvoll für `examens-prognose` und `gutachten-uebung`.
 - **Lernstil nicht anpassen:** Drill-Modus ist intensiver und für Examensphase geeignet; Erklärungs-Modus für Grundstudium. Kann jederzeit per `/jurastudium:jurastudium-anpassen` geändert werden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

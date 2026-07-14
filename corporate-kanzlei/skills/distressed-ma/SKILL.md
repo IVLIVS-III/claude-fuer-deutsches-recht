@@ -98,10 +98,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 125-128 InsO** — Interessenausgleich; Sozialplan; Namensliste; erleichterte Kuendigung
 - **§ 35 InsO** — Insolvenzmasse; was faellt dazu?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Distressed M&A: Prozessstruktur
 
 | Phase | Dauer | Inhalt | Besonderheit |
@@ -195,5 +191,4 @@ Datum: [DATUM]
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz; in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
 - § 15a InsO (Insolvenzantragspflicht: 3 Wochen ZU / 6 Wochen UE): https://www.gesetze-im-internet.de/inso/__15a.html
 - § 15b InsO (Zahlungsverbot bei Insolvenzreife seit 01.01.2021; rechtsformneutral): https://www.gesetze-im-internet.de/inso/__15b.html
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

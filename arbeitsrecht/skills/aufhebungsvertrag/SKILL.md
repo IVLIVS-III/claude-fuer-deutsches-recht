@@ -59,16 +59,12 @@ Dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: Auflösungsve
 ### Leitentscheidungen (BGH-Stil)
 
 - **Widerruf des Aufhebungsvertrags / Überrumpelung:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Sperrzeit bei arbeitgeberseitig veranlasstem Aufhebungsvertrag:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Anfechtung wegen widerrechtlicher Drohung:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Fünftelregelung / Zusammenballung:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -88,14 +84,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Schriftform zwingend (Paragraf 623 BGB); elektronische Form ist ausgeschlossen, also auch QES/beA/Signaturportal nicht verwenden.
 - **Eigenhändige Unterschrift** beider Parteien auf **derselben Urkunde** (Paragraf 126 Abs. 2 BGB); Briefwechsel/E-Mail-Kette genügt nicht.
 - Vertretung: Vollmacht des Unterzeichners des Arbeitgebers prüfen (Prokura, Generalvollmacht, Einzelvollmacht).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3 – Sozialrechtliche Prüfung (Sperrzeit Paragraf 159 SGB III)
 
 | Situation | Sperrzeit-Risiko |
 |---|---|
 | Arbeitnehmerseitige Initiative ohne wichtigen Grund | Hohe Sperrzeit (12 Wochen) |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Abfindung ≥ 0,25 Monatsgehalt pro Beschäftigungsjahr | Indiz für wichtigen Grund |
 | Abfindung schließt ALG-Ruhen aus (Paragraf 158 SGB III) | Ruhenszeitraum prüfen |
 
@@ -107,7 +101,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Berechnung nach Paragraf 1a KSchG** (als Orientierung): 0,5 Monatsverdienste pro Beschäftigungsjahr; häufig verhandlungsrelevanter Ausgangspunkt.
 - **Monatsverdienst**: Bruttomonatsgehalt inkl. regelmäßiger Zulagen, anteiliger Sonderzahlungen.
 - **Fälligkeit**: Im Aufhebungsvertrag ausdrücklich regeln (i. d. R. bei Beendigung oder Monatsletztem danach).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sozialversicherungspflicht**: Echte Entlassungsentschädigung ist grds. sozialversicherungsfrei (Paragraf 1 Abs. 1 Satz 1 Nr. 1 SvEV); bei Anrechnung auf ALG-Ruhen beachten.
 
 ### Schritt 5 – Ausgleichsklausel
@@ -131,11 +124,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Sachverhalt:** Arbeitgeber A-GmbH will mit Arbeitnehmer B (15 Jahre Betriebszugehörigkeit, Bruttogehalt 4.000 €/Monat) einen Aufhebungsvertrag zum 31.07.2025 abschließen. A-GmbH will Abfindung zahlen, lehnt aber Weitergewährung des Firmenwagens nach Beendigung ab. B fragt nach Sperrzeit-Risiko.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
@@ -154,7 +144,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Typische Konstellation:** Während laufender Aufhebungsvertragsverhandlungen stellen Arbeitnehmer oder deren Bevollmächtigte ein Auskunftsersuchen nach Art. 15 DSGVO, um internen Druck auf den Arbeitgeber aufzubauen und die Abfindungshöhe zu treiben. Das Auskunftsersuchen dient dabei weniger dem Schutz personenbezogener Daten als vielmehr der Verhandlungsführung.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt werden, wenn der Arbeitgeber zwei Elemente kumulativ nachweist:
 
 1. **Objektives Element:** Äußere Umstände, die auf missbräuchliche Zweckverfolgung hindeuten — insbesondere der zeitliche Zusammenhang zwischen Aufhebungsverhandlung und Auskunftsantrag, massenhaftes Legal-Tech-Vorgehen oder fehlende inhaltliche Anbindung des Auskunftsersuchens an Datenschutzinteressen.
@@ -163,7 +152,6 @@ Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt
 Die Hürden sind **hoch**: Das Auskunftsrecht nach Art. 15 DSGVO ist ein Grundrecht; ein einzelner Antrag genügt nicht, um Missbrauch anzunehmen. Die Generalanwältin (GA Szpunar, Schlussanträge v. 12.09.2025 – C-526/24) betonte, dass nur außerordentliche Umstände die Ausnahmewirkung rechtfertigen.
 
 **BAG-Linie zum immateriellen Schaden nach Art. 82 DSGVO:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praxishinweise:**
 - **Nicht ignorieren:** Auch ein im Verdacht der Missbräuchlichkeit stehendes Auskunftsersuchen muss fristgerecht beantwortet oder zumindest beschieden werden (Art. 12 Abs. 3 DSGVO: einen Monat). Eine unberechtigte Ablehnung löst eigenständige Schadensersatzansprüche nach Art. 82 DSGVO aus.
@@ -193,3 +181,5 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 | **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
 > Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

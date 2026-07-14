@@ -818,10 +818,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Übersetzung als Anlage
 - **§ 30 BeurkG** — notarielle Urkunden müssen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit möglich (§ 5 BeurkG)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Terminologie-Mapping: Deutsch / Englisch
 
 | Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Äquivalent |
@@ -893,8 +889,9 @@ purposes only. In case of doubt, the German version shall prevail.
 ## Quellen
 
 - § 184 GVG; Art. 3 Rom-I-VO; Art. 10 ff. EGBGB; § 30 BeurkG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -933,10 +930,6 @@ _Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Ka
 - **§ 22 WpHG / Art. 17 MAR** — Insiderinformation: fehlerhafte Quellenattribution kann Marktmissbrauchsrisiko auslösen.
 - **§§ 242, 264 HGB** — Buchführungspflichten: Verlässlichkeit der Finanzdaten als Prüfungsgrundlage.
 - **DSGVO Art. 5 Abs. 1 lit. d** — Datenrichtigkeit: personenbezogene Daten müssen sachlich richtig und aktuell sein.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfmatrix Datenqualitätskontrolle
 
@@ -1035,7 +1028,6 @@ OFFENE PUNKTE
 - §§ 93 AktG, 43 GmbHG (BJR-Informationspflicht)
 - §§ 242, 264 HGB (Buchführungsqualität als Datengrundlage)
 - Art. 5 Abs. 1 lit. d DSGVO (Datenrichtigkeit)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -1045,6 +1037,8 @@ OFFENE PUNKTE
 - `corporate-kanzlei-board-paper-business-judgment` — Board Paper setzt Qualitätsprotokoll voraus
 - `corporate-kanzlei-due-diligence-reporting` — DD-Report nur mit verifizierten Quellen
 - `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

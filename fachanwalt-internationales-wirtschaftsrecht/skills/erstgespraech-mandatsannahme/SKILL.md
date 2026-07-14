@@ -181,7 +181,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Schlüssel-Leitsaetze Erstgespräch IWR
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen IWR Erstmandat
 - Bruessel Ia VO (EU 1215/2012) Art. 4 ff. — Internationale Zuständigkeit
@@ -236,3 +235,5 @@ Naechster Schritt: [MASSNAHME] bis [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

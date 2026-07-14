@@ -38,7 +38,6 @@ description: "Wenn es um Einspruch beim Finanzamt in Steuerrecht – Steuerberat
 
 - **Einspruch:** § 347 Abs. 1 Nr. 1 AO — Einspruch ist statthaft gegen Verwaltungsakte in Abgabenangelegenheiten.
 - **Frist:** § 355 Abs. 1 AO — ein Monat ab Bekanntgabe. Bekanntgabe bei Postzustellung nach § 122 Abs. 2 Nr. 1 AO **am vierten Tag** nach Aufgabe zur Post (seit 01.01.2025 durch Postrechtsmodernisierungsgesetz PostModG; vorher dritter Tag); fällt der Vier-Tage-Tag auf Samstag, Sonntag oder Feiertag, verschiebt er sich auf den nächsten Werktag.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verböserungsverbot — nicht absolut:** § 367 Abs. 2 S. 2 AO; bei beabsichtigter Verböserung Hinweis und Gelegenheit zur Rücknahme.
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr (§ 356 AO).
 
@@ -53,7 +52,6 @@ description: "Wenn es um Einspruch beim Finanzamt in Steuerrecht – Steuerberat
 
 - Beweislast für steuermindernde Tatsachen (Betriebsausgaben, Werbungskosten): Steuerpflichtiger.
 - Beweislast für steuererhöhende Tatsachen: Finanzbehörde.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -186,7 +184,4 @@ Mit freundlichen Grüßen
 
 ## Versand
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

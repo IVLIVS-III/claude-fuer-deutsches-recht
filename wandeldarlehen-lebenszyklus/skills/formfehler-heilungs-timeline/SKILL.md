@@ -46,7 +46,6 @@ description: "Wenn es um Formfehler und Heilungs-Timeline in Wandeldarlehen-Lebe
 
 - **Textform § 126b BGB** ausreichend (Lenders Beweis-Sicherheit)
 - **Schriftform empfohlen** für Rangrücktritt-Klarheit
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Verfügungs-Geschäft (Anteils-Übertragung bei Wandlung)
 
@@ -187,7 +186,6 @@ Vertrags-Schluss.
 
 - **Sofortige Form-Heilung** sicherstellen
 - **Beratung mit Skill** `mandat-triage-insolvenzrecht`
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wandlung erwägen** vor Insolvenz-Eröffnung
 
 ### Nach Insolvenz-Eröffnung
@@ -307,14 +305,6 @@ Termin-Vorschlag: [Datum-Vorschlaege]
 - Anfechtungs-Risiko-Memo
 - Frist im Fristenbuch (Heilung sofort)
 
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen
 
 - BGB §§ 125 126 126a 126b 128 177
@@ -322,5 +312,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - HGB § 12
 - InsO §§ 39 130 131 132 133 174
 - eIDAS-VO 910/2014 und 2024/1183
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - GNotKG
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

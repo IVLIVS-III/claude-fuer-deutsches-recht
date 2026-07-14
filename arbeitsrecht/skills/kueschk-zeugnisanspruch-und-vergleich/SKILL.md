@@ -56,10 +56,6 @@ Step 5: Ausstellungsdatum und Unterzeichner festschreiben
 Step 6: Frist für Ausstellung (z.B. zwei Wochen nach Beendigung) in Vergleich aufnehmen
 ```
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Gesetzlicher Anspruch Paragraf 109 GewO
 
 Nach Paragraf 109 Abs. 1 GewO hat der Arbeitnehmer bei Beendigung des Arbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis. Das Zeugnis muss mindestens Angaben über Art und Dauer der Tätigkeit enthalten (einfaches Zeugnis).
@@ -68,7 +64,6 @@ Nach Paragraf 109 Abs. 1 GewO hat der Arbeitnehmer bei Beendigung des Arbeitsver
 
 ## BAG-Mindeststandard: Note "befriedigend"
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Formulierung: **"zur vollen Zufriedenheit"** entspricht der Note befriedigend.
 
@@ -112,3 +107,5 @@ Falls das ausgestellte Zeugnis von der Vereinbarung abweicht oder schlechter als
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

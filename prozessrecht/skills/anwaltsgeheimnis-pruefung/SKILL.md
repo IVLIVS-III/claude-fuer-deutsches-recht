@@ -49,10 +49,6 @@ Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im d
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -105,6 +101,7 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 - Überklassifizierungsmuster? (Wenn alles als geschützt gekennzeichnet wird, ohne Differenzierung — dem Anwalt zur Kenntnis bringen; aber die Entscheidung zur Einschränkung liegt beim Anwalt)
 - Unzureichende Beschreibungen? (So vage, dass ein Gericht eine In-Camera-Prüfung anordnen könnte)
 
+```markdown
 ## Vertraulichkeitsschutz-Erstprüfung: [Mandat] — [Datum]
 
 **Anwendbare Normen:** [Paragraf 142 ZPO / Paragraf 97 StPO / Paragraf 53 StPO / Paragraf 43a BRAO — Pinpoint-Zitate] `[UNSICHER — Aktualität prüfen]`
@@ -165,7 +162,8 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 ## Quellenpflicht
 
 - Gesetzestexte: Paragrafen 142, 144 ZPO; Paragrafen 53, 53a, 97, 160a StPO; Paragrafen 43a, 46 BRAO; Paragraf 203 StGB; Paragrafen 86, 99 VwGO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

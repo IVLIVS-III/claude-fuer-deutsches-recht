@@ -40,9 +40,6 @@ Soweit wir KI-Dienste von Anbietern außerhalb des Europäischen Wirtschaftsraum
 
 Die Transparenzpflichten sind bei jedem Wechsel des KI-Anbieters und bei jeder Änderung des Drittlandtransfer-Rahmens anzupassen. Die Datenschutzerklärung der Kanzlei muss entsprechend aktualisiert und Mandanten über wesentliche Änderungen informiert werden.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 13 Abs. 1 lit. f DSGVO — Information über automatisierte Entscheidungsfindung bei Ersterhebung
 - Art. 14 DSGVO — Information bei Daten nicht direkt beim Betroffenen erhoben
@@ -90,3 +87,4 @@ Bei Fragen wenden Sie sich an: [ANSPRECHPARTNER], [EMAIL]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

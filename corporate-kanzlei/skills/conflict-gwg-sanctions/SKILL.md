@@ -130,10 +130,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **EU-Sanktionsregelungen (EG) 765/2006, 833/2014** — Belarus/Russland; Handels- und Kapitalmarktsanktionen
 - **US OFAC SDN List** — Sonderbeschraenkungsliste; Transaktionen mit gelisteten Personen verboten (auch extraterritorial)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## GwG-CDD-Pruefungsmatrix
 
 | Pruefschritt | Inhalt | Nachweis | Risikostufe |
@@ -240,5 +236,6 @@ Freigabe durch: [PARTNER-NAME], [DATUM]
 ## Quellen
 
 - §§ 43a BRAO; §§ 2-17, 43 GwG; EU-Sanktionsverordnungen (EG) 833/2014, 765/2006
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

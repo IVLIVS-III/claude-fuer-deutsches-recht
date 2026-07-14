@@ -44,10 +44,6 @@ description: "Wenn es um SPA/APA-Entwurf in Mittelstands-Corporate/M&A geht: ord
 - §§ 195, 199 BGB — Verjährung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
 - §§ 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln müssen hervorgehoben werden
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -161,3 +157,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - assets/templates/spa-gliederung-standard.md
 - assets/templates/apa-asset-deal-template.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

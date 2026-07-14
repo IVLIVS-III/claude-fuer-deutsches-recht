@@ -195,4 +195,5 @@ Strategie C: Verzicht mit Besserungsabrede
 - §§ 55, 56 GmbHG.
 - UmwStG (bei konzerninternen Umstrukturierungen).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

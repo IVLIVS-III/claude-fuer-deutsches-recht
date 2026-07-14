@@ -136,10 +136,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 307, 305 BGB** — AGB-Kontrolle; Process-Dokumente können AGB-Charakter haben
 - **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Insider-Log für alle Bieter
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Auktionsprozess: Phasen und Zeitplan
 
 | Phase | Typische Dauer | Inhalt | Ergebnis |
@@ -234,7 +230,6 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 
 ## Rote Schwellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MAR-Insider-Vorschriften bei borsennotierten Zielgesellschaften nicht eingehalten → Art. 14 MAR
 - Bieter direkt kontaktiert Management ohne Prozessbevollmaechtigten → Informationsungleichgewicht; Diskriminierungsrisiko
 - SPA-Entwurf nicht standardisiert → Bieter-Markups schwer vergleichbar; Zeitverlust
@@ -242,5 +237,6 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 ## Quellen
 
 - §§ 154, 311 II, 241 II BGB; Art. 18 MAR
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

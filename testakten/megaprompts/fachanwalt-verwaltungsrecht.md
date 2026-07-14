@@ -249,10 +249,6 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Leitentscheidungen Mandat-Triage
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen
 
 - VwGO §§ 42 58 68 70 74 75 80 80a 123
@@ -260,6 +256,8 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 - GKG § 52
 - BVerwGE Std.Spruch
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -318,10 +316,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - ARGE Verwaltungsrecht DAV.
 
-## Aktuelle Rechtsprechung (Leitsaetze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fristen im Ueberblick
 
 | Verfahrensschritt | Frist | Grundlage |
@@ -342,6 +336,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **kanzlei-allgemein** fuer Fristen Versand.
 - **fachanwalt-migrationsrecht** bei Auslaenderrecht.
 - **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -463,10 +459,6 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht 
 
 - ARGE Verwaltungsrecht DAV.
 
-## Aktuelle Rechtsprechung (Leitsaetze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fristen im Überblick
 
 | Verfahrensschritt | Frist | Grundlage |
@@ -484,6 +476,8 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Verwaltungsrecht 
 - **kanzlei-allgemein** für Fristen Versand.
 - **fachanwalt-migrationsrecht** bei Ausländerrecht.
 - **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -646,15 +640,13 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - Aktenanlage Datum
 - Naechster-Schritt
 
-## Leitentscheidungen Mandatsannahme / Erstkontakt
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -891,7 +883,6 @@ Nach der ständigen Rechtsprechung muss die Behörde in der
 Begründung das besondere öffentliche Interesse an der
 sofortigen Vollziehung auf den konkreten Einzelfall bezogen
 darlegen. Allgemeine Formulierungen und abstrakte Verweise auf
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die vorliegende Begründung beschränkt sich auf [Beschreibung
 des Floskels: "im öffentlichen Interesse" / "Gefährdung der
@@ -1005,7 +996,6 @@ Begründung
 I. Das Verwaltungsgericht hat den Begründungsmangel
 § 80 Abs. 3 VwGO unzutreffend verneint. Es hat die
 Begründung: "[Zitat]" als ausreichend angesehen, obwohl sie
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 erforderliche einzelfallbezogene Auseinandersetzung fehlt.
 
 II. Die Interessenabwägung ist fehlerhaft, weil das
@@ -1069,6 +1059,8 @@ Stand 05/2026.
 - BVerfG (für Verhältnismäßigkeits- und Folgenabwägungslinie) — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
 - Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -40,9 +40,6 @@ Bei der Verwendung von Texten aus juristischen Fachdatenbanken (amtliche oder fr
 
 Das Urheberrecht im Bereich KI entwickelt sich rasch weiter — insbesondere durch laufende Gerichtsverfahren in den USA (z.B. zu fair use beim Training von KI-Systemen) und mögliche europäische Gesetzgebung. Zudem passen amtliche/freie Quellen oder lizenzierte Datenbanken ihre AGB gelegentlich an. Halbjährlich prüfen, ob Aktualisierungen erforderlich sind.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 2 Abs. 2 UrhG — Persoenliche geistige Schoepfung (KI-Output faellt nicht darunter)
 - § 44b UrhG — Text-und-Data-Mining-Schranke (Opt-out-Vorbehalt)
@@ -79,3 +76,5 @@ wurde und die Nutzung dem Zweck des § 44b UrhG entspricht.
 (4) Haftung: Bei Verdacht auf Urheberrechtsverletzung durch KI-Output ist
 unverzueglich [ANSPRECHPARTNER] zu informieren.
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

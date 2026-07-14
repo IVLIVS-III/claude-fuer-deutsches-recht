@@ -254,7 +254,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Aktuelle Rechtsprechung Triage Transport
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -590,10 +590,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
-## Aktuelle Rechtsprechung Erstgespraech Transport
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen Erstgespraech Transport
 
 - §§ 407-413 HGB — Frachtvertrag (Grundlagen, Pflichten, Haftung)
@@ -601,6 +597,8 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - Art. 32 CMR — Verjährung im CMR-Verkehr
 - Art. 5 CMR — Frachtbrief als Beweisurkunde
 - §§ 10 ff. GwG — Identifizierungspflichten auch im Transportrechtsmandat
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -709,7 +707,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Wertdeklaration § 449 HGB / Art. 26 CMR durchbricht Höchstbetrag.
 - Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR unbegrenzte Haftung.
 - Schadensanzeige § 438 Abs. 3 HGB / Art. 30 Abs. 3 CMR: 21 Tage nach Ablieferung — sonst Anspruch erloschen (CMR) bzw. Beweislastnachteil (HGB).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -781,6 +778,8 @@ Mit freundlichen Gruessen
 - Bei Ablehnung: Klage am Frachtführersitz bzw. Ablieferungsort.
 - Verjährungsfrist im Aktenkalender notieren.
 - Bei größerem Schaden Wertdeklaration § 449 HGB / Art. 26 CMR für künftige Aufträge empfehlen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -967,7 +966,6 @@ Das Reklamationsschreiben ist im Transport- und Speditionsrecht die entscheidend
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -1117,7 +1115,6 @@ Warenwert: EUR 75.000 (Handelsrechnung, Anlage K1)
 
 Differenz zu regulärer Haftung: EUR 65.583
 → Nachweis qualifiziertes Verschulden Art. 29 CMR
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klären ---
@@ -1155,7 +1152,6 @@ Differenz zu regulärer Haftung: EUR 65.583
 
 | Gegenargument | Erwiderung |
 |---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | "Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
 | "Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
 | "Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
@@ -1198,6 +1194,8 @@ Differenz zu regulärer Haftung: EUR 65.583
 ## Quellen
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

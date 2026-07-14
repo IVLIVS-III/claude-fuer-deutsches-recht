@@ -176,14 +176,6 @@ Klassische Stolperfalle in Handels- und Gesellschaftsrecht:
 
 ## Vertiefung — Rechtsprechung Vergleich Gesellschaftsrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 779 BGB (Vergleich, Voraussetzungen) → § 53 GmbHG (Satzungsänderung, notarielle Beurkundung) → § 15 GmbHG (Anteilsübertragung im Vergleich) → § 794 ZPO (Prozessvergleich) → § 1030 ZPO (Schiedsverfahren als Alternative) → §§ 89b, 92 HGB (Handelsvertreterausgleich im Vergleich)
@@ -191,3 +183,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

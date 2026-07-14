@@ -40,10 +40,6 @@ Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungslädt die
 - **§§ 257 HGB, 147 AO** — Handels- und steuerrechtliche Aufbewahrungsfristen; Konfigurationsdateien eines Kanzlei-Skills können unter diese Fristen fallen und dürfen daher nicht automatisch mitgelöscht werden.
 - **AI Act Art. 26** — Deployer-Pflichten bei Hochrisiko-KI: Die Außerbetriebnahme eines KI-Systems muss dokumentiert werden.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -122,8 +118,9 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 5 Abs. 2, Art. 17 DSGVO (Rechenschaftspflicht, Recht auf Löschung)
 - §§ 257 HGB, 147 AO (Aufbewahrungsfristen)
 - AI Act Art. 26 (Deployer-Pflichten, Außerbetriebnahme-Dokumentation)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

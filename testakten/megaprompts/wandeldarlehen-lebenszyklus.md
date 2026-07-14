@@ -370,9 +370,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - § 55 ff. GmbHG (Kapitalerhöhung)
 - § 126b BGB (Textform)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Rechtsform und Register prüfen
@@ -438,15 +435,11 @@ Stand: 05/2026.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 §§ 488 ff. BGB (Darlehen) → §§ 55, 56 GmbHG (Kapitalerhöhung, Sacheinlage) → § 39 InsO (Nachrangige Forderungen, Gesellschafterdarlehen) → §§ 135, 143 InsO (Anfechtung, Rückzahlung) → § 40 GmbHG (Gesellschafterliste) → § 15a InsO (Insolvenzantragspflicht)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -550,9 +543,6 @@ _Wenn es um Textform vs. Schriftform vs. Notarielle Beurkundung in Wandeldarlehe
 - § 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung)
 - Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit) und Absatz 3 GmbHG (notarielle Beurkundung des Kapitalerhöhungsbeschlusses)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Formstufe für jeden Vertragsteil bestimmen
@@ -596,17 +586,11 @@ Stand: 05/2026. eIDAS-VO 910/2014, GNotKG. Bei Änderung BGB-Formvorschriften ak
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 126 BGB (Schriftform) → § 126b BGB (Textform) → § 128 BGB i.V.m. §§ 1-17 BeurkG (notarielle Form) → § 125 BGB (Nichtigkeit bei Formmangel) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsübertragung und Verpflichtung) → § 53 GmbHG (notarielle Beurkundung Satzungsänderung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -836,9 +820,6 @@ _Wenn es um Elektronische Unterzeichnung (DocuSign / Adobe Sign) in Wandeldarleh
 - § 147 AO (Aufbewahrungspflicht steuerrelevanter Unterlagen zehn Jahre)
 - § 257 HGB (Aufbewahrungspflicht handelsrelevanter Unterlagen sechs Jahre)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Checkliste Unterzeichnungsrunde
 
 | Schritt | Erledigt |
@@ -867,15 +848,11 @@ Stand: 05/2026. eIDAS-VO 910/2014; § 147 AO. Bei Änderung eIDAS 2.0 (VO 2024/1
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 126 BGB (Schriftform) → § 126a BGB (elektronische Form, QES) → § 126b BGB (Textform) → Art. 3 Nr. 12, Art. 25, 26 eIDAS-VO (qualifizierte elektronische Signatur) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsverträgen, kein elektronischer Ersatz)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -987,9 +964,6 @@ _Wenn es um Dokumenten-Upload und Datenextraktion in Wandeldarlehen-Lebenszyklus
 - § 272 HGB (Eigenkapitalausweis nach Klassen)
 - § 194 AktG analog (Wandelschuldverschreibungen und Klassen – Orientierung)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Beispiel-Extrakt Term Sheet
 
 | Parameter | Wert | Quelle |
@@ -1018,15 +992,11 @@ Stand: 05/2026. Bei Änderung GmbHG/HGB-Eigenkapitalausweis aktualisieren.
 
 ## Vertiefung — Relevante Normen
 
-### Normen-Ergänzung und Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen
 
 § 12 HGB i.V.m. § 12 HRV (elektronische Einreichung Handelsregister) → Art. 25 eIDAS-VO (qualifizierte elektronische Signatur) → § 378 FamFG (Zurückweisung bei Formmängeln) → § 40 GmbHG (Einreichungspflicht Gesellschafterliste)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1059,9 +1029,6 @@ _Wenn es um Wandlungsprüfung – Trigger Qualified Financing in Wandeldarlehen-
 - § 55 Abs. 1 GmbHG (Kapitalerhöhungsbeschluss – Voraussetzung für Wandlung)
 - § 5 Abs. 1 GmbHG (Mindestnennbetrag Anteil EUR 1)
 - § 272 Abs. 2 Nr. 4 HGB (Einlage in Kapitalrücklage)
-
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -1118,15 +1085,11 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 55 GmbHG (Kapitalerhöhung durch neue Einlagen) → §§ 241, 242 BGB (Treu und Glauben, Information des Darlehensgebers) → § 280 BGB (Schadensersatz bei Verweigerung der Information) → § 5 Abs. 1 GmbHG (Mindest-Nennbetrag, Aufrundung) → §§ 195, 199 BGB (Verjährung Wandlungsrecht)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -130,12 +130,10 @@ ca. EUR 264/Monat pfändbar nach aktueller Pfändungstabelle). PfÜB ist beim Vo
 am Wohnsitz des S zu beantragen; Drittschuldnerin ist die Musterfirma GmbH.
 
 *Empfehlung*: Zusätzlich Kontopfändung bei bekannter Hausbank (Paragraf 829 ZPO); Cave: P-Konto-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
 - **Fehlende Zustellung** (Paragraf 750 ZPO): Vollstreckung rechtswidrig; Erinnerung Paragraf 766 ZPO
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **P-Konto übersehen**: Pfändung auf Girokonto leer, wenn Schuldner P-Konto führt;
  Freibeträge sind automatisch geschützt (Paragraf 850k ZPO).
 - **Falsche Pfändungsfreigrenze**: Bei Unterhaltspflichten des Schuldners erhöhte Freigrenze
@@ -153,3 +151,5 @@ Jede Aussage zu Vollstreckungsvoraussetzungen, Pfändungsfreigrenzen und Rechtsb
 nach `references/zitierweise.md` zu belegen. BGH-Beschlüsse vollständig mit Datum, Az.,
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Stöber/Rellermeyer) Autoren, Titel, Aufl., Jahr, Rn. zitieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

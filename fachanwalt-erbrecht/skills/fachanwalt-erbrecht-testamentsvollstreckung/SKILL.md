@@ -95,7 +95,6 @@ description: "Wenn es um Testamentsvollstreckung in Fachanwalt Erbrecht geht: pr
 **Besonderheit TV-Verwaltung bei Unternehmen:**
 - Handelsregistereintragung wenn Unternehmen weitergeführt
 - Persönliche Haftung TV ausschließbar durch Hinweis-Publizität
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Dauer-TV § 2210 BGB
 
@@ -111,7 +110,6 @@ description: "Wenn es um Testamentsvollstreckung in Fachanwalt Erbrecht geht: pr
 
 ## Vergütung des TV § 2221 BGB
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Nachlasswert | Vergütungssatz | Mindesthonorar |
 |-------------|---------------|----------------|
@@ -355,5 +353,6 @@ Anlagen: Beweise für Pflichtverletzungen
 - BGB §§ 2197–2228, 2215–2219, 2221, 2227, 2368
 - ErbStG § 31
 - GNotKG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -17,16 +17,6 @@ description: "Wenn es um Weichenstellung: Bereicherung oder Anfechtung? in berei
 
 § 812 Abs. 1 BGB (Leistungskondiktion: kein Rechtsgrund) — §§ 129 ff. InsO (Insolvenzanfechtung: Verfahren eröffnet) — §§ 1–13 AnfG (Gläubigeranfechtung: Titel vorhanden, kein Insolvenzverfahren) — § 985 BGB (Vindikation: Eigentum noch vorhanden) — § 17 InsO (Zahlungsunfähigkeit) — § 2 AnfG (Titel + Fruchtlosigkeit) — § 826 BGB (sittenwidrige Schädigung, Konkurrenz)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Weichenstellungs-Schema
 
 ### Frage 1: Liegt ein Rechtsgrund für die Vermögensverschiebung vor?
@@ -102,3 +92,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

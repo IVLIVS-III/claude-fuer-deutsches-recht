@@ -74,9 +74,9 @@ Immer mit dieser Struktur starten:
 
 ## Jetzt
 
-1.
-2.
-3.
+1. Sofortmaßnahme mit Verantwortlichem
+2. Folgeschritt mit Frist
+3. Abschlusskontrolle mit Freigabestatus
 ```
 
 ## Anfängerfreundlichkeit
@@ -111,4 +111,3 @@ Immer mit dieser Struktur starten:
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

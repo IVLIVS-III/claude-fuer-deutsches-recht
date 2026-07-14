@@ -14,12 +14,6 @@ Zielgruppe: Proberichter, Assessoren, Rechtspfleger.
 3. Wird ein-tägig oder zwei-tägig geschult — welche Themenblöcke können gestrichen werden?
 4. Sollen DOCX-Rendern und PDF-Export live vorgeführt werden (technische Voraussetzungen prüfen)?
 
-## Aktuelle Rechtsprechung (für Schulungsunterlagen)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (für Schulungsunterlagen)
 
 - § 139 ZPO — Hinweis- und Aufklärungspflicht
@@ -112,3 +106,5 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

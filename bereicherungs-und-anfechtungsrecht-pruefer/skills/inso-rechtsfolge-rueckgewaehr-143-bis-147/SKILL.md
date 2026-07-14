@@ -38,7 +38,6 @@ description: "Wenn es um Rechtsfolge Insolvenzanfechtung — Paragrafen 143 bis 
 - § 146 InsO enthält keine einfache Sonderregel "zehn Jahre ab Rechtshandlung". Er verweist auf die regelmäßige Verjährung nach dem BGB. Anfechtungsfristen und Verjährung bleiben getrennt.
 - Zinsen laufen nicht automatisch ab Insolvenzeröffnung oder Rechtshandlung; § 143 Abs. 1 S. 3 InsO verlangt Verzug oder § 291 BGB.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfschema
 
@@ -70,3 +69,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ---
 
 Hinweis: Keine Rechtsberatung. Rechtsfolge nie ohne Betrag, Zinsgrund und Gegenleistungsprüfung ausgeben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

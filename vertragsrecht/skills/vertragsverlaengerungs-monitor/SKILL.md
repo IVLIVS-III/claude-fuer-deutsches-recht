@@ -12,10 +12,6 @@ description: "Wenn es um Verlängerungstracker in Vertragsrecht geht: prüft Fri
 3. Gibt es Verträge deren Verlängerungsklausel nach § 309 Nr. 9 BGB (B2C) oder § 307 BGB (B2B) unwirksam sein könnte?
 4. Welche Bundesland-Feiertage sind für die Fristberechnung relevant?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 309 Nr. 9 BGB — Laufzeit-Klauseln B2C: Erstlaufzeit max. 2 Jahre; Verlängerung max. 1 Jahr; Kündigungsfrist max. 3 Monate
@@ -53,7 +49,6 @@ Halboffene Intervalle (jeder Fälligkeitstag fällt in genau eine Kategorie):
 Einträge mit `status: aktiv` anzeigen, deren `kündigen_bis_effektiv` in der Vergangenheit liegt und kein `status: gekündigt` gesetzt ist. Konsequenzen der verpassten Frist erläutern:
 - Bei B2C: § 309 Nr. 9 BGB prüfen – war die Verlängerungsklausel überhaupt wirksam?
 - Bei B2B: § 307 BGB prüfen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Das Register
 
@@ -84,6 +79,7 @@ Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertrags
  bgb_309_9_pruefung: "B2B – § 307 BGB prüfen; nicht direkt anwendbar"
 ```
 
+```markdown
 ## 🔴 Sofortiger Handlungsbedarf (0–13 Tage bis Absende-Frist)
 
 | Vertragspartner | Vertrag | Absenden bis | Kündigen bis | Preis bei Verlängerung | Verantwortlich |
@@ -134,7 +130,6 @@ Normen und Rspr.:
 - § 309 Nr. 9 BGB – Laufzeit B2C; automatische Verlängerung max. 1 Jahr; Kündigungsfrist max. 3 Monate
 - § 307 BGB – Inhaltskontrolle B2B; unangemessen lange Bindungen
 - § 308 Nr. 3 BGB – Vorauszahlungsklauseln
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -145,3 +140,5 @@ Kommentare:
 - **§ 309 Nr. 9 BGB-Unwirksamkeit nicht geprüft:** Wenn der Vertrag B2C ist und die Verlängerungsklausel gegen § 309 Nr. 9 BGB verstößt, kann die Verlängerung unwirksam sein – aber man muss es wissen.
 - **Bundesland-Feiertage:** Feiertage variieren zwischen Bundesländern; pauschal "Montag bis Freitag" reicht nicht.
 - **Register-Lücken:** Verträge, die vor Plugin-Einrichtung unterzeichnet wurden, sind nicht im Register – einmaliger Erst-Import erforderlich.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

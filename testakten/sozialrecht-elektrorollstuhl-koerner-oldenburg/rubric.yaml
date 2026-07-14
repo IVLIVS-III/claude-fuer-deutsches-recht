@@ -1,4 +1,5 @@
 name: sozialrecht-elektrorollstuhl-koerner-oldenburg
+plugin: "fachanwalt-sozialrecht"
 description: Hilfsmittelstreit um Elektrorollstuhl nach Paragraf 33 SGB V mit MD-Ablehnung, privatem Reha-Gutachten,
   vollstaendiger Klage, Kassenverteidigung, Beweisbeschluss und gerichtlichem Sachverstaendigengutachten.
 checks:

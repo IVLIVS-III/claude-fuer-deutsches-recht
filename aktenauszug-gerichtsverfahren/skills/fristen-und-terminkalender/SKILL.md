@@ -30,10 +30,6 @@ description: "Wenn es um Fristen und Terminkalender in aktenauszug-gerichtsverfa
 - § 929 Abs. 2 ZPO — Vollziehungsfrist einstweilige Verfügung 1 Monat
 - § 4 KSchG — Klagefrist 3 Wochen (Notfrist); § 74 VwGO — Klagefrist 1 Monat
 
-## Rechtsprechung zu Fristen und Fristversäumnis
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fristenarten
 
 ### Absolute Fristen (gesetzlich, nicht verlängerbar)
@@ -107,3 +103,5 @@ Alternativ als Markdown-Tabelle:
 - [ ] Wochenende/Feiertag bei Fristende berücksichtigt (§ 222 ZPO)?
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

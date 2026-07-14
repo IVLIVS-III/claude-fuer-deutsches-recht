@@ -36,10 +36,6 @@ description: "Wenn es um Umweltinformation nach UIG und IFG in Umweltrecht geht:
 - **§ 6 IFG** — Schutz des geistigen Eigentums und Betriebs-/Geschäftsgeheimnisse
 - **§ 9 IFG** — Antrag und Frist (1 Monat)
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -151,11 +147,8 @@ I. Hiermit legen wir Widerspruch ein.
 II. Begruendung
 Die Ablehnung ist rechtswidrig:
 a) § 9 UIG Geheimnisschutz: Die Behörde hat keine eigene Abwaegung vorgenommen.
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) § 8 UIG laufende Verfahren: Das Verfahren ist abgeschlossen; Ausschlussgrund
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 c) Emissionsdaten sind nach § 9 Abs. 1 Satz 2 UIG grundsaetzlich offenzulegen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Antrag
 Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszugeben.

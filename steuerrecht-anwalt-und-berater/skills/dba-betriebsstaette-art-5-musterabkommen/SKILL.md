@@ -123,7 +123,6 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 - Home-Office als Betriebsstaette erfordert Verfuegungsmacht des Arbeitgebers (regelmaessig nicht, da kein Mietverhaeltnis); aktuelle Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) im BMF-Verzeichnis prüfen.
 - Bei Bauausfuehrung Fristenlauf dokumentieren — Subunternehmer und Verkettungen zaehlen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - MLI Art. 12 (Vertreterbetriebsstaette erweitert) gilt nur, wenn beide Vertragsstaaten optiert haben — Notification konkret prüfen.
 - Bei niedrig besteuerter Betriebsstaette: § 20 Abs. 2 AStG-Switch-Over droht.
 
@@ -186,3 +185,5 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (BStBl I 2017, 182) (Verwaltungsgrundsaetze BS-Gewinn). Aktuelle BFH-Rechtsprechung und MLI-Notifications im BMF-DBA-Verzeichnis prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

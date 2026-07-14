@@ -71,9 +71,7 @@ Fusionsbedingte Effizienzgewinne können wettbewerbsschädliche Effekte aufwiege
 
 ## Leitentscheidungen Fusionskontrolle
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Fusionspraxisfaelle Digitalmärkte; Datenzugang als Wettbewerbsfaktor.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfprotokoll Fusionskontrolle
 
@@ -88,3 +86,5 @@ SIEC-Bedenken: [Dominanz / Koordinierung / keine]
 Effizienzeinrede: [ja / nein]
 Ergebnis: [freigabefähig / mit Auflagen / kritisch]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

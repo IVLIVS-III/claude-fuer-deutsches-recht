@@ -129,10 +129,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein öffentliches Verfahren noetig
 - § 613a BGB — Betriebsuebergang bei Asset Deal: Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes; Widerspruchsrecht
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen prüfen; Liquiditaetsvorschau anfordern
@@ -208,3 +204,5 @@ OFFENE PUNKTE: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 - assets/templates/distressed-ma-liquiditaetsampel.md
 - assets/templates/insolvenzplan-ma-checklist.md
 - assets/templates/cash-bridge-13-wochen.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

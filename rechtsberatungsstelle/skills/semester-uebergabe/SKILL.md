@@ -38,10 +38,6 @@ Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studen
 - **§ 50 BRAO** — Aufbewahrungspflicht für Handakten: Der Supervisor hat Unterlagen nach Mandatsende mindestens 5 Jahre aufzubewahren; die Übergabenotizen sind Teil der Handakte im Rechtssinne.
 - **DSGVO Art. 5 Abs. 1 lit. f** (Integrität und Vertraulichkeit), **Art. 32 DSGVO** — Technische und organisatorische Maßnahmen für die Datensicherheit; sichere Übertragungswege für Übergabenotizen.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -200,3 +196,5 @@ Nach Supervisoren-Prüfung liegen die Übergabenotizen unter `handoffs/[semester
 Übergabenotizen sind interne Arbeitsdokumente, keine zitierten Rechtsgutachten. Alle darin enthaltenen offenen Rechtsfragen sind in den entsprechenden Skills (`/memo`, `/recherche-start`) mit Quellenangaben zu hinterlegen. Die Übergabenotiz verweist auf das zugrundeliegende Gutachten, zitiert aber keine Normen eigenständig ohne Verifizierung.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

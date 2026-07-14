@@ -43,10 +43,6 @@ description: "Wenn es um Anwaltliche Klageschrift Entfristungsklage mit Hauptant
 - Paragraf 42 Abs. 2 GKG — Streitwert Befristungsklage (3 Monatsverdienste)
 - Paragraf 12a ArbGG — kein Kostenerstattungsanspruch in erster Instanz
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorprüfung (Checkliste)
 
 - [ ] Dreiwochenfrist Paragraf 17 TzBfG gewahrt
@@ -120,7 +116,6 @@ Der Kläger ist seit dem [DATUM] bei der Beklagten beschäftigt (Anlage K 1). Da
 
 **I. Schriftformmangel (Paragraf 14 Abs. 4 TzBfG)**
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Rechtsfolge:** Gemäß Paragraf 16 Satz 1 TzBfG gilt der Arbeitsvertrag als auf unbestimmte Zeit geschlossen.
 
@@ -154,3 +149,5 @@ Die Klage wird innerhalb der Dreiwochenfrist des Paragraf 17 Satz 1 TzBfG erhobe
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

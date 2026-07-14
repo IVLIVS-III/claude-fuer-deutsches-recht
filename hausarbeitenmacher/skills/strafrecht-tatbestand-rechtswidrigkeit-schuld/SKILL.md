@@ -23,9 +23,6 @@ Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rec
 3. Liegen Anzeichen für Rechtfertigungsgruende vor (Notwehr § 32, rechtfertigender Notstand § 34)?
 4. Gibt es Schuldunfaehigkeitsindikatoren (Alter, psychische Erkrankung, Trunkenheit)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 13-35 StGB — Allgemeiner Teil: Tatbestand, Rechtswidrigkeit, Schuld
 - § 15 StGB — Vorsatz als Regelfall; Fahrlässigkeit nur bei ausdrücklicher Normierung
@@ -287,3 +284,5 @@ III. Schuld
 - `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 - `meinungsstreit-darstellen` — Bei Streit (z.B. Vorsatz vs. Fahrlässigkeit, Tatbestands- vs. Verbotsirrtum)
 - `gliederung-mit-tiefenstruktur` — Gliederung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

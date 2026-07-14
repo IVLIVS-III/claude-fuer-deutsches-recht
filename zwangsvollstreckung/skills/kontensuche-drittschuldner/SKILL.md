@@ -20,10 +20,6 @@ description: "Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvolls
 3. Sollen alle drei Auskunftsstellen abgefragt werden (DRV, BZSt, KBA) oder nur eine?
 4. Ist der Schuldner ein Unternehmen — dann Handelsregistereintrag als Informationsquelle?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 802l ZPO — Drittauskünfte (DRV Bund, BZSt/§ 24c KWG, KBA)
@@ -69,8 +65,6 @@ description: "Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvolls
 ## Leitentscheidungen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Qualitätsgates
 
@@ -78,3 +72,5 @@ description: "Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvolls
 - Niemals BZSt-Kontenabruf ohne erfolglose Vermögensauskunft oder unbekannten Aufenthalt.
 - Daten sind sensibel – Datenschutz beachten, Auskunft nur für konkrete Vollstreckung.
 - Doppelte Abfragen vermeiden (Kostenfalle).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

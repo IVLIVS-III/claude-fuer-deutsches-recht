@@ -92,7 +92,6 @@ Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Ve
 
 ### Folge 1 — Ehestatus und Fortführung der Ehe
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praktische Konsequenzen:**
 - Kein automatischer Scheidungsgrund durch SBGG-Wechsel
@@ -125,7 +124,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Praktisches Problem:**
 - Versicherungsverträge (BU-Versicherung, Kapitallebensversicherung) mit geschlechtsspezifischen Tabellengrundlagen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Altverträge mit geschlechtsspezifischen Tabellen: Versicherungsunternehmen anfragen ob Anpassung möglich
 
 **Versorgungsausgleich in der Scheidung:**
@@ -352,5 +350,6 @@ eines Vermittlungstermins innerhalb eines Monats.
 - SBGG (Selbstbestimmungsgesetz) Paragrafen 1–14, in Kraft 01.11.2024
 - BGB Paragrafen 1353, 1565, 1591, 1592, 1626, 1684
 - VersAusglG Paragrafen 1–49
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stand: 05/2026; weitere SBGG-Rechtsprechung im Entstehen — bei BGH-Linie aktualisieren
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

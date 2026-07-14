@@ -161,11 +161,9 @@ nach Vorliegen der DNA-Bestätigung.
 ### Phase 5 — Bei Ablehnung
 
 - **Widerspruch** mit sofortiger Begründung; kein aufschiebender Effekt ex lege
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Darlegungslast
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Schutzmaßnahmen-Standard**: Tierhalter muss positiv belegen, dass Schutzmaßnahmen wolfssicher installiert und überwunden wurden.
 - **Erhaltungszustand**: Liegt amtliches DBBW-Monitoring vor, hat Behörde keine Beurteilungs-Freiheit mehr — günstiger Zustand ist Beweistatsache, keine Prognose.
 - **Alternative**: Behörde trägt Sekundärdarlegungslast für konkrete Alternativmaßnahme, wenn sie Antrag ablehnt.
@@ -228,3 +226,5 @@ Stand 05/2026. **Achtung Rechtsänderung:** § 45a BNatSchG (Schnellabschussfass
 Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

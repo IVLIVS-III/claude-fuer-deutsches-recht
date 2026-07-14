@@ -21,10 +21,6 @@ description: "Wenn es um Unbestimmte Rechtsbegriffe prüfen in Subsumtions-Prüf
 4. Ist der Begriff durch Fallgruppen der Rechtsprechung konkretisiert?
 5. Handelt es sich um eine Wertungsfrage, die das System nicht abschließend beantworten kann?
 
-## Aktuelle Rechtsprechung zur Auslegung unbestimmter Rechtsbegriffe
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wichtige unbestimmte Rechtsbegriffe
 
 ### "Wesentlich" / "erheblich"
@@ -39,7 +35,6 @@ description: "Wenn es um Unbestimmte Rechtsbegriffe prüfen in Subsumtions-Prüf
 
 **Kontext:** § 275 Abs. 3 BGB (persönliche Leistungshindernis); § 626 BGB (wichtiger Grund); § 3 AGG; § 5 Abs. 2 ArbSchG.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Entscheidungsbaum:**
 ```
@@ -60,7 +55,6 @@ Welche Interessen stehen auf dem Spiel?
 
 **Kontext:** Verhältnismäßigkeit i.e.S.; § 307 BGB (AGB); § 20 Abs. 1 GWB; Art. 6 Abs. 1 lit. f DSGVO.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Indizien bei AGB:** Abweichung vom dispositiven Recht; keine Kompensation; fehlende Transparenz.
 
@@ -87,3 +81,5 @@ Das System nennt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

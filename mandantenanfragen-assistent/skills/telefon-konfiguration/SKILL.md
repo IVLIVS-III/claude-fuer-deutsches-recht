@@ -23,9 +23,6 @@ Dieser Skill verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Te
 3. Gibt es mehrere Kanzlei-Standorte mit unterschiedlichen Telefonnummern, die getrennt gepflegt werden müssen?
 4. Sollen die Konfigurationsdaten verschluesselt gespeichert werden (Datenschutzanforderungen)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 5 TMG — Impressumspflicht: vollstaendige Kanzlei-Kontaktdaten für elektronische Kommunikation
 - Art. 4 Nr. 7 DSGVO — Verantwortlicher: muss mit aktuellen Kontaktdaten erreichbar sein
@@ -133,3 +130,5 @@ Für jeden Standort eine separate `kanzlei-[standort].json` anlegen und beim Abr
 - `erstantwort-generator` — Hauptabnehmer der Konfigurationsdaten
 - `transkriptionsdienst-erklaerung` — benötigt `telefon_transkription`
 - `muster-erstantwort` — Platzhalter werden durch diesen Skill befüllt
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

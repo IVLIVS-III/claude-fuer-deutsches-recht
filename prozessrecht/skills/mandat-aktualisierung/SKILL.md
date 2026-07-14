@@ -33,10 +33,6 @@ description: "Wenn es um Mandats-Aktualisierung in Prozessrecht geht: prüft Fri
 - **Paragraf 11 BORA** — Sorgfaltspflicht bei Fristnotierung und Aktenführung.
 - **Paragrafen 257, 261 HGB; Paragraf 147 AO** — Aufbewahrungspflichten für Handels- und Steuerunterlagen (6–10 Jahre); relevant für den Beweissicherungsaspekt.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -119,6 +115,7 @@ Bei bestimmten Ereignistypen ist eine Wesentlichkeitsprüfung obligatorisch — 
 
 Falls das Update ein Dokument betrifft (Beschluss, Schriftsatz, Korrespondenz), wird gefragt, ob ein Pfad verlinkt werden soll.
 
+```markdown
 ## [JJJJ-MM-TT] — [Ereignistyp]: [Kurztitel]
 
 [Zusammenfassung in einem Absatz.]
@@ -177,7 +174,8 @@ Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (Paragraf 520 A
 In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen heranzuziehen und, soweit angegeben, zu zitieren:
 
 - Gesetzestexte: Paragrafen 214 ff., 516, 520, 548, 569 ZPO; Paragrafen 317 ff. StPO; Paragraf 116 VwGO; Paragraf 43a BRAO; Paragraf 11 BORA
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -55,11 +55,9 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  durch Mahnbescheid; Paragraf 204 Abs. 1 Nr. 3 BGB setzt voraus, dass die Forderung im Mahnantrag
  ausreichend individualisiert ist; pauschale Sammelbezeichnungen genügen nicht und hemmen
  die Verjährung nicht.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
  Antragsgegner die Forderung zuordnen kann; Verweis auf "Lieferscheine" ohne Nummer
  unzureichend.
@@ -77,7 +75,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. **Mahnantrag** (Paragraf 690 ZPO) über www.online-mahnantrag.de:
  - Pflichtangaben: Antragsteller/Gegner (vollständig), Forderungsbetrag, Entstehungsgrund
  (Vertragstyp + Datum), Zinsen (Fälligkeitsdatum + Zinssatz), Gerichtsgebühr (Paragraf 12 GKG)
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. **Erlass und Zustellung** (Paragrafen 692, 693 ZPO): Gericht erlässt MB ohne Sachprüfung; Zustellung
  an Antragsgegner; 2-Wochen-Frist für Widerspruch beginnt.
@@ -102,7 +99,6 @@ Das Mahnverfahren ist statthaft (Paragraf 688 Abs. 1 ZPO): Die Forderung ist auf
 bestimmten Geldsumme gerichtet; keine aufschiebende Bedingung; V hat Wohnsitz in Deutschland.
 
 *Individualisierung (Paragraf 690 Abs. 1 Nr. 3 ZPO)*: Als Entstehungsgrund ist einzutragen: "Werklohn
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Paragraf 288 Abs. 2 BGB, da V Unternehmer).
 
@@ -113,7 +109,6 @@ Nr. 3 BGB), was vorsorglich zu nutzen ist.
 ## Risiken und typische Fehler
 
 - **Unzureichende Individualisierung**: Verjährungshemmung tritt nicht ein; Vollstreckungsbescheid
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Versäumte 6-Monatsfrist** für VB-Antrag: Mahnbescheid verliert Wirkung; neues Verfahren
  erforderlich; Verjährungshemmung endet (Paragraf 204 Abs. 2 BGB).
 - **Falsche Zinsen**: Paragraf 288 Abs. 1 vs. Abs. 2 BGB (Verbraucher vs. Unternehmer);
@@ -130,3 +125,5 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Rn.). Kommentare mit Bearbeiter, Werk, Aufl., Paragraf, Rn. Keine allgemeinen Pauschalverweise.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

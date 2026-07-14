@@ -224,7 +224,6 @@ Verwandte Skills:
 
 **Typische Konstellation:** Bewerber oder Beschäftigte, die eine Diskriminierung geltend machen, stellen häufig zeitgleich mit oder unmittelbar nach der AGG-Entschädigungsklage (Paragraf 15 Abs. 2 AGG) ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist es, interne Auswahlunterlagen, Bewertungsbögen, Interviewprotokolle oder Vergleichsdaten zu erlangen, die als Indizienmittel im AGG-Verfahren dienen (Paragraf 22 AGG).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein kumulativer Missbrauchsnachweis ist erforderlich:
 
 1. **Objektives Element:** Äußere Umstände — z. B. zeitlicher Zusammenhang zwischen Absage, AGG-Geltendmachung (Zwei-Monats-Frist Paragraf 15 Abs. 4 AGG) und Auskunftsantrag; Legal-Tech-Vollmacht oder Muster massenhafter Antragstellung; fehlende inhaltliche Anbindung an Datenschutzinteressen.
@@ -236,7 +235,6 @@ Die Hürden bleiben **hoch**: Das Auskunftsrecht (Art. 8 GRCh) gilt; Ausnahmen s
 - DSGVO-Auskunft (Art. 15 DSGVO) und AGG-Entschädigungsbegehren (Paragraf 15 AGG) laufen auf verschiedenen Rechtsgebieten parallel: Auskunftsklage gehört vor das **Landgericht** (Paragraf 44 BDSG i.V.m. Art. 79 DSGVO); AGG-Entschädigungsklage vor das **Arbeitsgericht** (Paragraf 2 Abs. 1 Nr. 3 ArbGG).
 - Auskunft innerhalb eines Monats erteilen (Art. 12 Abs. 3 DSGVO); andernfalls droht eigenständiger Schadensersatz nach Art. 82 DSGVO zusätzlich zur AGG-Haftung.
 - Auswahlunterlagen und Bewertungsbögen sind personenbezogene Daten des Bewerbers — Offenlegungs- und Auskunftspflicht beachten; Geheimhaltungsinteressen Dritter (andere Bewerber) abwägen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel).
 
@@ -264,3 +262,5 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 | **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
 > Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

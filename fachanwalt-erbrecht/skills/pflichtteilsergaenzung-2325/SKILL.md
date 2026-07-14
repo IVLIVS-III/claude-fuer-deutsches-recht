@@ -73,7 +73,6 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 - Schenkungs-Wert: **niedrigster** der beiden:
  - Wert zum Schenkungs-Zeitpunkt (mit Indexierung)
  - Wert zum Erbfalls-Zeitpunkt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 4) Beispiel
 
@@ -145,3 +144,5 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 - `fachanwalt-erbrecht-erbschaftsausschlagung` — bei Pflichtteilsantritts-Frage
 - `fachanwalt-erbrecht-testamentsvollstreckung` — bei Konflikt-TV
 - `pflichtteil-berechnen` — Berechnungs-Hilfe
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -23,9 +23,6 @@ Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Sim
 3. Wurden alle Belege für den Simulationszeitraum korrekt anonymisiert (Datenschutz)?
 4. Soll der Simulationslauf als Trainings- oder Testprotokoll gespeichert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 18 UStG — Abgabepflicht der UStVA: keine Entbindung durch technischen Ausfall
 - § 87a AO — Elektronische Kommunikation mit Behörden: Form und Authentifizierungsanforderungen
@@ -113,3 +110,4 @@ Immer anhalten bei:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

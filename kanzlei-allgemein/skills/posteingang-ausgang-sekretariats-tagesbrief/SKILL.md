@@ -23,9 +23,6 @@ Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant
 3. Gibt es ein fristwahrendes Dokument (Urteil, Klageschrift, Bescheid) mit sofortigem Fristen-Handlungsbedarf?
 4. Muss der Eintrag per Audit-Trail unveraenderbar dokumentiert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 187-188 BGB i.V.m. § 222 ZPO — Fristbeginn bei Zustellung
 - Art. 7 PostModG — Vier-Tages-Zustellungsfiktion für Postsendungen ab 01.01.2025
@@ -122,3 +119,5 @@ Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und 
 - Aktualisierte Logbücher.
 - Tagesbrief-Einträge.
 - Verbindungen zu Akte Fristenbuch und Honorar-Tracker.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -33,10 +33,6 @@ description: "Wenn es um Legal Due Diligence in Corporate-Kanzlei geht: prüft F
 - **§§ 35 ff. GWB** — Fusionskontrolle; anmeldepflichtige Zusammenschluesse
 - **Art. 4 DSGVO i.V.m. Art. 28 DSGVO** — Datenschutz im Datenraum und bei Zielgesellschaft
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## LDD-Workstreams — Prüfungsmatrix
 
 | Workstream | Kerndokumente | Hauptrisiken | Vertragsmechanismus |
@@ -170,3 +166,5 @@ Der Datenraum darf keine personenbezogenen Daten enthalten, die nicht für DD-Zw
 - DiRUG/DiREG: Online-Beurkundung Kapitalmassnahmen seit 01.08.2023 — DD-Implikation für Closing-Mechanik
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -70,7 +70,6 @@ Bei Fahrzeugen über 3,5 t zulässiger Gesamtmasse:
 
 **BVerwG, Urteil vom 09.04.2014 — 3 C 5.13** — Die Einleitung einer kostenpflichtigen Abschleppmaßnahme wegen eines verbotswidrig an einem Taxenstand abgestellten Fahrzeugs ist regelmäßig auch ohne Einhaltung einer bestimmten Wartezeit mit dem bundesverfassungsrechtlichen Verhältnismäßigkeitsgrundsatz vereinbar. Nach Maßgabe der konkreten Umstände kann es allerdings geboten sein, von Abschleppmaßnahmen abzusehen — etwa wenn eine Beeinträchtigung des reibungslosen Taxen- oder ÖPNV-Verkehrs ausgeschlossen ist — oder mit der Abschleppanordnung zu warten, wenn konkrete Anhaltspunkte dafür vorliegen, dass der Verantwortliche kurzfristig wieder am Fahrzeug erscheinen und es unverzüglich selbst entfernen wird.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Gebührenschuldner Halter oder Fahrer** — § 23 Abs. 5 MobG BE benennt Halter und Fahrer als mögliche Schuldner der Umsetzungsgebühren. Die Widerspruchsstelle muss deshalb sauber festhalten, wen der Ausgangsbescheid in Anspruch nimmt, ob der Fahrer bekannt und kurzfristig greifbar war und ob besondere Umstände gegen die Heranziehung des Halters sprechen. Allgemeines Polizei- und Ordnungsrecht bleibt für Verantwortlichkeit, Verhältnismäßigkeit und Ermessensausübung wichtig; § 7 StVG ist dafür keine eigenständige Analogiegrundlage.
 
@@ -89,7 +88,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Verkehrsfläche tatsächlich eine ÖPNV-Fläche im Sinne von § 23 MobG BE — Bushaltestelle mit Zeichen 224, Sonderfahrstreifen Zeichen 245, Gleiskörper Tram?
 - Beschilderung ordnungsgemäß sichtbar zum Zeitpunkt des Abstellens — keine Verdeckung durch Begrünung, kein verdrehtes Schild, keine zwischenzeitliche Aufstellung als mobiles Haltverbot ohne ausreichende Vorlaufzeit?
 - Verstoß gegen Verkehrsregeln oder Verkehrszeichen tatsächlich gegeben?
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auswahl des Gebührenschuldners ermessensfehlerfrei — Fahrer, wenn anwesend, bekannt und kurzfristig handlungsbereit; sonst regelmäßig Halter, soweit keine aktenkundigen Sonderumstände gegen die Heranziehung sprechen.
 
 ### 3. Rechtmäßigkeit der Gebührenfestsetzung
@@ -223,3 +221,5 @@ Eine vollständige Arbeitsakte mit sechs Fallvarianten und allen Ausgangsdokumen
 - BVerwG, Urteil vom 09.04.2014 — 3 C 5.13 — [bverwg.de](https://www.bverwg.de/090414U3C5.13.0)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - VwGO §§ 68 bis 80 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/__73.html)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -19,8 +19,6 @@ description: "Wenn es um Liquiditaetsstatus Quellenbelege Live Quote in Liquidit
 
 **Fokus:** Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
-### Liquiditätsstatus nur aus belastbaren Quellenbelegen
-
 ## Fachkern: Liquiditätsstatus nur aus belastbaren Quellenbelegen
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.

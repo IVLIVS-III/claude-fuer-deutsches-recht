@@ -23,9 +23,6 @@ Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaende
 3. Ist ein Hochrisikoland nach FATF-Liste oder EU-Delegierter Verordnung betroffen?
 4. Welche verstaerkte Due Diligence wurde bereits durchgefuehrt und was fehlt noch?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 15 GwG — Verstaerkte Sorgfaltspflichten: PEP, nahestehende Personen, Hochrisikotransaktionen
 - § 1 Abs. 12 GwG — Definition PEP
@@ -61,3 +58,5 @@ Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaende
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 96 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 108 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor-einzelpdfs.zip) |
 

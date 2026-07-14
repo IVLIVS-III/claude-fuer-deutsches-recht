@@ -71,7 +71,6 @@ description: "Wenn es um VerkehrsOWi-Verteidiger — Kommandocenter in VerkehrsO
 ## Querschnitts-Rechtsprechung
 
 - BGH BGHSt 43, 277 — Standardisiertes Messverfahren befreit von Detailbegruendung, aber konkrete Einwaende sind aufzuklaeren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - OLG Bamberg NZV 2017, 494 — Sachverstaendigenantrag bei konkreten Messfehler-Angriffspunkten zwingend zu bescheiden.
 
 ## Harte Leitplanken
@@ -80,3 +79,5 @@ description: "Wenn es um VerkehrsOWi-Verteidiger — Kommandocenter in VerkehrsO
 - Frist immer zuerst sichern — kein Schritt vor Einspruch.
 - Rohmessdaten grundsätzlich anfordern.
 - Anwaltliche Endkontrolle bei allen Fristen und Antraegen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

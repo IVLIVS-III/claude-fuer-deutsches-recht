@@ -34,9 +34,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Ist ein Betriebsrat vorhanden (unwahrscheinlich bei Kleinkanzlei, aber prüfenswert ab 5 Beschäftigten)?
 4. Sind datenschutzrechtliche Anforderungen (Art. 88 DSGVO, § 26 BDSG) bei der Personalaktenfuehrung beachtet?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 620-630 BGB — Dienstvertrag: Kuendigung, Zeugnis, Grundpflichten
 - § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschäftigte
@@ -87,3 +84,4 @@ Wenn Daten fehlen:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

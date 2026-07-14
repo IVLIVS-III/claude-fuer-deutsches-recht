@@ -65,10 +65,6 @@ Aktenanlage und Objektcockpit für den Zwangsverwalter nach §§ 146 ff. ZVG. An
 - § 2 ZwVwV
 - § 13 ZwVwV
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Aktenanlage/Objektcockpit
 
 § 152 ZVG (Pflichten Zwangsverwalter) → § 153 ZVG (Nutzungen) → §§ 2-5 ZwVwV (Aufgaben Verwalter) → § 13 ZwVwV (Buchführung) → § 14 ZwVwV (Rechnungslegung) → § 154 ZVG (Gerichtliche Aufsicht) → § 159 ZVG (Aufhebung Zwangsverwaltung)
@@ -107,3 +103,5 @@ TREUHANDKONTO: [BANK, IBAN]
 LETZTER GERICHT-BERICHT: [DATUM]
 NÄCHSTER BERICHT FÄLLIG: [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

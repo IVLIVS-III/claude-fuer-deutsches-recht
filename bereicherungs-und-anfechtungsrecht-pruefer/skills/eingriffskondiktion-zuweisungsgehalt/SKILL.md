@@ -17,16 +17,6 @@ description: "Wenn es um Eingriffskondiktion — Zuweisungsgehalt in bereicherun
 
 § 812 Abs. 1 S. 1 Alt. 2 BGB (Nichtleistungskondiktion/Eingriffskondiktion) — § 818 Abs. 2 BGB (Wertersatz) — § 903 BGB (Eigentum) — § 15 UrhG (Verwertungsrechte) — § 14 MarkenG (Markenverletzung) — § 9 PatG (Patentrecht) — § 12 BGB, § 22 KunstUrhG (Persönlichkeitsrecht) — § 242 BGB (Treu und Glauben)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Grundprinzip
 
 Die Eingriffskondiktion schützt den Inhaber einer Rechtsposition gegen wirtschaftliche Ausbeutung seiner Position ohne Rechtsgrund. Maßgeblich ist der Zuweisungsgehalt der verletzten Rechtsposition.
@@ -110,3 +100,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

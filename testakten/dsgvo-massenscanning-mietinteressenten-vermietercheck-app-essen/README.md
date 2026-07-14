@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 818 KB) | PDF | [`gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf`](gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 816 KB) | PDF | [`gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf`](gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen-einzelpdfs.zip) |
 

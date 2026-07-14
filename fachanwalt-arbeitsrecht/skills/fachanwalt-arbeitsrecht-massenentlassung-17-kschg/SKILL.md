@@ -47,7 +47,6 @@ Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlas
 | 60 AN bis unter 500 AN | 10 % oder mehr als 25 Entlassungen |
 | 500 AN und mehr | Mindestens 30 Entlassungen |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidungen (Stand Mai 2026)
 
@@ -101,7 +100,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 7. Erst jetzt: Kuendigungsschreiben aushaendigen
 ```
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anzeige Paragraf 17 Abs. 3 KSchG — Mindestinhalt
 
@@ -141,7 +139,6 @@ Anlagen:
 - Erzwingbar: wenn BR und AG sich nicht einigen, entscheidet **Einigungsstelle** (Paragraf 112 Abs. 4 BetrVG)
 - Inhalt: Abfindungs-Formel, Outplacement, Qualifizierungsmassnahmen, Transfergesellschaft
 - Typische Abfindungsformel: 0.5 bis 1.0 Bruttomonatsgehaelter je Beschaeftigungsjahr
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nachteilsausgleich Paragraf 113 Abs. 3 BetrVG
 
@@ -208,7 +205,6 @@ Klageantrag:
 
 Begruendung (kumulativ):
 a) Verletzung Paragraf 17 KSchG: Anzeige bei BA fehlerhaft oder
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 b) BR-Anhoerung nach Paragraf 102 BetrVG mangelhaft;
 c) Soziale Rechtfertigung fehlt nach Paragraf 1 II KSchG.
 ```
@@ -335,5 +331,6 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 - BGB Paragrafen 195, 199
 - GKG Paragraf 42
 - RL 98/59/EG (EU-Massenentlassungs-RL); RL 2002/14/EG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

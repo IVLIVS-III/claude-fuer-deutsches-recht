@@ -65,4 +65,5 @@ Jede Frist führt `confidence`- und `verifizierung_erforderlich`-Felder. Der Ber
 - **Arbeitsgericht:** § 61b ArbGG (Kündigungsschutzklage: 3 Wochen), §§ 64, 66 ArbGG (Berufung)
 - **Berechnung:** §§ 186–193 BGB (Fristenberechnung), § 222 ZPO
 - **Zustellung:** §§ 166 ff. ZPO, beA-Verordnung (BRAV)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

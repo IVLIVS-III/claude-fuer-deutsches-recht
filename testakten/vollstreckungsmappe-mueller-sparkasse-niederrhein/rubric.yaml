@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Vollstreckungsmappe Mueller Sparkasse Niederrhein"
-plugin: "tbd"
+plugin: "zwangsvollstreckung"
 
 checks:
   - id: r01-readme-vorhanden

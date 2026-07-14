@@ -36,10 +36,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 4. Ist die Definition des TBM aus Gesetz, h.M. oder BGH-Rechtsprechung bekannt?
 5. Ist das TBM ein unbestimmter Rechtsbegriff? → Skill `unbestimmte-rechtsbegriffe-pruefen` parallel
 
-## Aktuelle Rechtsprechung zur Subsumtionsmethode
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Das Vier-Schritt-Schema
 
 ### Schritt 1 — Obersatz
@@ -109,3 +105,5 @@ Hier [liegt vor / fehlt es an]: [Sachverhaltsbeschreibung].
 Ergebnis:
 TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

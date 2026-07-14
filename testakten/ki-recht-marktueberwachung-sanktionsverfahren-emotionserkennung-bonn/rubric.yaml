@@ -1,4 +1,5 @@
 name: ki-recht-marktueberwachung-sanktionsverfahren-emotionserkennung-bonn
+plugin: "ki-vo-ai-act-pruefer"
 description: 'Marktueberwachungs- und Sanktionsverfahren nach der Verordnung (EU) 2024/1689: Ein Bonner Callcenter-Dienstleister
   analysiert die Stimmen der eigenen Beschaeftigten in Echtzeit auf Emotion und Stresslevel (VoiceMood Sentinel
   der SentiCore Analytics GmbH). Prueffragen: verbotene Praktik der Emotionserkennung am Arbeitsplatz und Reichweite

@@ -32,7 +32,6 @@ description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Sozialrec
 5. Hat die Behörde Selbstbindung durch Verwaltungsvorschriften, die Ermessen auf null reduzieren?
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Wann dieser Arbeitsgang greift
@@ -184,3 +183,5 @@ Klassische Stolperfalle in Sozialrecht (SGB I-XIV):
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

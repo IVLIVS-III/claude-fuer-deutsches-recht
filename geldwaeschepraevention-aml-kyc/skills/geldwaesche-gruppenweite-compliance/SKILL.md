@@ -23,9 +23,6 @@ Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienst
 3. Welche Auslagerungsvertraege bestehen und wie werden die AML-Pflichten dort kontrolliert?
 4. Gibt es einen gruppenweiten Policy-Rahmen oder Einzelregelungen pro Einheit?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 9 GwG — Gruppenweite Pflichten und Kontrollen
 - § 6 Abs. 2 GwG — Pflicht zur Bestellung eines Geldwaeschebeauftragten auf Gruppenebene
@@ -54,3 +51,5 @@ Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienst
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -47,7 +47,6 @@ Wenn diese Unterscheidung für die Akte entscheidend ist, zusätzlich `dba-49-es
 ## Aktuelle Rechtsprechung
 
 - **BFH, Urteil vom 04.11.2021 - VI R 22/19**: als Quellenanker für die Regel verwenden, dass DBA steuerliche Pflichten nicht selbst begründen, sondern vorhandene Doppelbesteuerung vermeiden. Vor Ausgabe über die BFH-Entscheidungsdatenbank prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
 
 ## Zentrale Normen
@@ -60,3 +59,5 @@ OECD-MA Art. 4 · Art. 5 · Art. 7 · Art. 10 · Art. 11 · Art. 12 · Art. 13 A
 - `dba-49-estg-brueckentatbestand-nationalrecht` verwenden, wenn eine DBA-Zuweisung nicht nur begrenzend wirkt, sondern als nationaler Tatbestandsbaustein in § 49 EStG auftaucht.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

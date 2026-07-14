@@ -128,10 +128,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 11, 14, 15 WpUeG** — Angebotsunterlage bei börsennotierten Zielgesellschaften erstellen, der BaFin übermitteln und erst nach Prüfung veröffentlichen
 - **§§ 8-15 UWG** — irreführende Werbung; IM darf keine unwahren Angaben enthalten
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Dokumententypen im M&A-Prozess
 
 | Dokument | Inhalt | Vertraulichkeit | Zeitpunkt |
@@ -213,5 +209,6 @@ ANLAGEN (Phase II)
 ## Quellen
 
 - §§ 311 II, 241 II, 123 BGB; Art. 17 MAR; §§ 11, 14, 15 WpUeG; §§ 8-15 UWG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

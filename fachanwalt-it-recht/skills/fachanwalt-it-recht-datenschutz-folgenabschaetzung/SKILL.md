@@ -20,7 +20,6 @@ description: "Wenn es um Datenschutz-Folgenabschätzung in Fachanwalt It Recht g
 - Einbeziehung des Datenschutzbeauftragten Art. 35 Abs. 2 DSGVO.
 - Verzeichnis von Verarbeitungstätigkeiten Art. 30 DSGVO.
 - Rechtmäßigkeit der Verarbeitung Art. 6 DSGVO bzw. Art. 9 DSGVO.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Frist
 
@@ -76,10 +75,6 @@ Mit freundlichen Gruessen
 - DSFA in Datenschutzakte ablegen und an DSB übergeben.
 - Bei Verstoß-Erkennung Meldung Art. 33 DSGVO innerhalb 72 Stunden prüfen.
 
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Faktische Updates (Stand 05/2026)
 
 - **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen muessen bestimmte Betreiber (oeffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA moeglich, rechtlich aber eigenstaendig.
@@ -123,3 +118,4 @@ Genehmigt von: [FUNKTION, NAME]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

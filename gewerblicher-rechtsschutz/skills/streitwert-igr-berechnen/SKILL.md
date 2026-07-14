@@ -59,12 +59,10 @@ Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im 
 
 - **Wirtschaftliches Interesse** des Verletzten
 - Typischer Streitwert EUR 30000 bis EUR 200000 je nach Schwere
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Schritt 2 — Eilverfahren-Reduktion
 
 - Allgemein: **etwa ein Drittel bis Halb** des Hauptsachewerts
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Begründung: vorläufige Sicherung
 - Bei Klage in der Hauptsache Streitwert hoch — nach Vergleich auch hoch
 - Bei Reduktion Wert der Begründungs-Schritte einkalkulieren
@@ -190,8 +188,4 @@ Bevor der Streitwert festgesetzt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

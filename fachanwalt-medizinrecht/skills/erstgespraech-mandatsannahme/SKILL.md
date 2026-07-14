@@ -170,14 +170,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch Medizinrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normenkette Erstgespräch / Mandatsannahme
 
 § 630g BGB (Einsichtsrecht Patientenakte) → §§ 10, 11 GwG (Identifizierungspflicht RA-Mandat) → §§ 43a, 45 BRAO (Interessenkonflikt, Verschwiegenheit) → §§ 3, 3a RVG (Vergütungsvereinbarung, Stundenhonorar) → § 9 RVG (Vorschuss) → §§ 195, 199 BGB (Verjährung im Mandat sichern) → § 204 BGB (Hemmung: Klage, Mahnbescheid, Schlichtungsantrag § 278 BGB analog)
@@ -185,3 +177,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

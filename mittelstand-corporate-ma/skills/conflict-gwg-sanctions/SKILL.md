@@ -126,10 +126,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 4 Abs. 6 GwG — Pflicht zur Risikoklassifizierung; verstaerkte Sorgfaltspflichten bei hohem Risiko
 - § 2 Abs. 1 Nr. 10 GwG — Rechtsanwaelte als Verpflichtete bei bestimmten Transaktionsberatungen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Parteien-Screening:** alle Parteien inkl. wirtschaftlich Berechtigter (mind. 25 % Beteiligungsschwelle, § 3 GwG) identifizieren und in internem Conflicts-System abgleichen
@@ -203,3 +199,5 @@ Freigabe: [PARTNER] am [DATUM]
 
 - assets/templates/conflicts-gwg-sanctions-protokoll.md
 - assets/templates/sorgfaltspflichten-geldwaesche.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

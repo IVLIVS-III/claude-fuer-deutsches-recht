@@ -55,8 +55,6 @@ Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanz
 
 Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `assets/` im ZIP-Root enthalten; `references/` ist optional, falls ein Plugin Referenzen mitliefert.
 
-#
-
 ## Was das Plugin abbildet
 
 | Phase | Skill | Zweck |

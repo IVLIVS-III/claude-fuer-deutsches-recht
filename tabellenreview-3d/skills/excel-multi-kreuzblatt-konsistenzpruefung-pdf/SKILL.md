@@ -22,7 +22,6 @@ description: "Wenn es um /tabellenreview-3d:excel-multi-sheet-export in Tabellen
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aufbau der Excel-Datei
 
@@ -82,3 +81,5 @@ Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anz
 ## Grenzen
 
 Excel kann große Stapel handeln; ab 100.000 Zellen sind PDF und CSV pro Reiter zu erwägen (siehe Skill `pdf-bericht-erzeugen`).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

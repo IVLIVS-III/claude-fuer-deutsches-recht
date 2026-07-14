@@ -24,9 +24,6 @@ description: "Wenn es um Zivilrecht Anspruchsgrundlagen Prüfung in hausarbeiten
 3. Welche Voraussetzungen der primaer einschlaegigen Anspruchsgrundlage sind streitig?
 4. Gibt es Einreden oder Einwendungen (Erloeschung, Verjährung, § 320 BGB)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 433, 634, 611, 677 BGB — Vertragsrecht als erste Prüfungsstufe der V-C-G-D-D-B
 - § 311 Abs. 2 BGB — Culpa in contrahendo als vorvertragliche Haftung
@@ -284,3 +281,5 @@ description: "Wenn es um Zivilrecht Anspruchsgrundlagen Prüfung in hausarbeiten
 - `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 - `meinungsstreit-darstellen` — bei Streit-Punkten innerhalb der Anspruchs-Grundlagen
 - `gliederung-mit-tiefenstruktur` — Gliederung mit Anspruchs-Grundlagen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

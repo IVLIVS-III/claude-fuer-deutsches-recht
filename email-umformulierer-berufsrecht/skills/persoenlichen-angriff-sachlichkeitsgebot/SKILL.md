@@ -25,9 +25,6 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 3. Gibt es zivilrechtlich oder strafrechtlich relevante Inhalte im Angriff (§ 185 StGB, § 823 BGB)?
 4. Muss der Angriff vollstaendig entfernt oder kann der sachliche Kern erhalten werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persönliche Angriffe unzulaessig
 - § 185 StGB — Beleidigung: persönliche Angriffe können strafbar sein
@@ -65,3 +62,5 @@ Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt "Sie" als hand
 | "Das können Sie nicht" | "Ich bezweifle, ob dafür die rechtliche Grundlage besteht" |
 | "Sie machen alles falsch" | "Es bestehen Korrekturbedarf in mehreren Punkten" |
 | "Sie kümmern sich nicht" | "Das Anliegen scheint bislang keine vorrangige Bearbeitung erhalten zu haben" |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

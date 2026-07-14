@@ -15,14 +15,10 @@ NRW ist mit ca. 18 Mio. Einwohnern das bevölkerungsreichste Bundesland. Es umfa
 | Mietrecht – Kaution | Vermieter fordert Mietkaution | Max. 3 Nettokaltmieten; Rückzahlung innerhalb angemessener Frist nach Mietende (Rspr.: 3–6 Monate je nach Abrechnungslage) | § 551 Abs. 1 BGB |
 | Mietrecht – Mieterhöhung | Mieterhöhung auf ortsübliche Vergleichsmiete | Kappungsgrenze 20 % in 3 Jahren; in Köln, Düsseldorf, Bonn, Münster, Aachen, Essen, Dortmund u. a. gilt 15 % aufgrund der NRW-Mietpreisbegrenzungsverordnung; Mietpreisbremse (§§ 556d ff. BGB) gilt in Köln, Düsseldorf und weiteren Kommunen | § 558 Abs. 3 BGB; NRW-MietpreisbegrenzungsVO; NRW-KappungsgrenzenVO |
 | Mietrecht – Modernisierung | Mieterhöhung nach Modernisierung | Max. 8 % der Modernisierungskosten p. a. umlegen; Mieterhöhung darf nicht mehr als 3 EUR/m² in 6 Jahren betragen (§ 559e BGB) | §§ 559, 559e BGB |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Mietrecht – Kündigung | Fristlose Kündigung wegen Zahlungsverzug | Rückstand ≥ 2 Nettokaltmieten (§ 543 Abs. 2 Nr. 3a BGB); Schonfristzahlung binnen 2 Monaten nach Zustellung der Räumungsklage heilt fristlose Kündigung (§ 569 Abs. 3 Nr. 2 BGB) | §§ 543, 569 BGB |
 | Arbeitsrecht – Kündigung | Ordentliche Kündigung; KSchG-Schwelle | KSchG gilt ab 6 Monaten Betriebszugehörigkeit und mehr als 10 Arbeitnehmern (§ 23 KSchG); Klagefrist 3 Wochen (§ 4 KSchG) – materiell-rechtliche Ausschlussfrist | § 1, § 4, § 23 KSchG |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Arbeitsrecht – Lohn | Mindestlohnunterschreitung | Allgemeiner gesetzlicher Mindestlohn 2025: 12,82 EUR brutto/Stunde; Verzichtbarkeit ausgeschlossen (§ 3 MiLoG); Verjährung 3 Jahre (§ 195 BGB); Arbeitgeberhaftung auch für Subunternehmer (§ 13 MiLoG) | §§ 1, 3, 13 MiLoG |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Sozialrecht – SGB II | Leistungsberechnung Bürgergeld | Regelbedarf 2025 Alleinstehende: 563 EUR/Monat; Kosten der Unterkunft tatsächlich, soweit angemessen (§ 22 SGB II); in Köln und Düsseldorf gelten kommunale Angemessenheitsgrenzen nach Kosten-der-Unterkunft-Richtlinien | § 20 SGB II; § 22 SGB II |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Sozialrecht – Widerspruchsfrist | Widerspruch gegen SGB-II-Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugangsfiktion: 4 Tage nach Aufgabe zur Post (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: 3 Tage a.F.) | § 84 SGG; § 37 SGB X |
 | Datenschutz – DSGVO/DSG NRW | Anfrage auf Auskunft aus Behördenakten | Auskunftsrecht Art. 15 DSGVO; Monatsfrist zur Beantwortung (Art. 12 Abs. 3 DSGVO); Datenschutzbeschwerden an LDI NRW | Art. 12, 15 DSGVO; § 5 DSG NRW |
 
@@ -95,7 +91,6 @@ Hinweis: Die NRW-Mietpreisbegrenzungsverordnung (MietBremse NRW) und die NRW-Kap
 - VwVfG NRW; VwGO §§ 68 ff., 74, 80
 - NRW-Mietpreisbegrenzungsverordnung (zuletzt verlängert 2022)
 - NRW-Kappungsgrenzenverordnung (zuletzt verlängert 2022)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Erfurter Kommentar zum Arbeitsrecht, 25. Aufl. 2025, §§ 1, 4, 17, 23 KSchG; § 102 BetrVG
 - Kallert, in: Gagel, SGB II/III, Loseblatt (Stand 2024), § 22 SGB II
@@ -104,3 +99,5 @@ Hinweis: Die NRW-Mietpreisbegrenzungsverordnung (MietBremse NRW) und die NRW-Kap
 - Mietspiegel Essen 2022 (Stadt Essen)
 - Mietspiegel Dortmund 2023 (Stadt Dortmund)
 - LDI NRW: www.ldi.nrw.de (Landesbeauftragte für Datenschutz und Informationsfreiheit NRW)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

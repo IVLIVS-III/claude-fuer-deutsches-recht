@@ -38,10 +38,6 @@ Die Protokollierungspflicht korrespondiert mit § 50 BRAO (Aktenführung) sowie 
 - **§ 257 HGB, § 147 AO** — Aufbewahrungspflichten für Geschäfts- und Steuerunterl­agen; Konfigurationsdaten von Kanzlei-Skills können unter diese Fristen fallen und dürfen daher nicht automatisch gelöscht werden.
 - **AI Act Art. 26** — Deployer-Pflichten bei Hochrisiko-KI: Außerbetriebnahme eines KI-Systems muss dokumentiert werden.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12 — Anforderungen an die Kanzleiorganisation und digitale Aktenführung.
@@ -152,8 +148,9 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Art. 5 Abs. 2, Art. 32 DSGVO (Rechenschafts- und Sicherheitspflichten)
 - §§ 257 HGB, 147 AO (Aufbewahrungsfristen)
 - AI Act Art. 26 (Deployer-Pflichten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hartung/Scharmer, in: Hartung/Scharmer, Berufs- und Fachanwaltsordnung, 7. Aufl. 2022, § 50 BRAO Rn. 12
 - Wagner, BB 2024, 579 (583)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

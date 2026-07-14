@@ -1,4 +1,5 @@
 name: markenrecht-euipo-widerspruch-sneakerkapsel-alicante
+plugin: "markenrecht-fashion-luxus"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte markenrecht-euipo-widerspruch-sneakerkapsel-alicante.
 checks:
   - id: datei-01-euipo-veroeffentlichung-capsula42-2026-06-15

@@ -54,10 +54,6 @@ Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendu
 
 Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenvermerk und Außenkommunikation. Bei echten Mandatsdaten sind Berufsgeheimnis, Datenschutz und Kanzleifreigaben zwingend zu beachten.
 
-## Rechtliche Grundlagen und Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Aktenanlage
 
 § 174 InsO (Anmeldeform) → § 175 InsO (Eintragung Tabelle) → § 176 InsO (Prüfungstermin) → § 66 InsO (Rechnungslegung und Dokumentation) → § 60 InsO (Verwalterhaftung) → § 61 InsO (persönliche Haftung IV)
@@ -68,3 +64,5 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 2. **Digitale Einreichung?** § 174 Abs. 4 InsO Erleichterungen beachten; E-Mail vs. beA.
 3. **Fristen?** Prüfungstermin § 176 InsO: Ladungsfrist 7 Tage; Tabelle muss vorher vollstaendig sein.
 4. **Dubletten-Risiko?** Gleicher Gläubiger mehrfach (z.B. Abtretung) → Deduplication-Logik einbauen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

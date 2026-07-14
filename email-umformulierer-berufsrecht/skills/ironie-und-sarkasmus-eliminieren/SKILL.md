@@ -18,9 +18,7 @@ Identifiziere ironische und sarkastische Formulierungen in beruflichen Texten un
 4. Gibt es Hinweise auf strafrechtlich relevante Herabsetzung (§ 185 StGB)?
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGH Muenchen, Beschl. v. 25.03.2015 - BayAGH III-4-14, AnwBl 2015, 560 — Sarkastische Formulierungen in Schriftsaetzen verletzen berufsrechtliches Sachlichkeitsgebot nach § 43a Abs. 3 BRAO.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot herabsetzender Aeusserungen (auch durch Ironie)
@@ -64,3 +62,5 @@ Schritt 1: Ironische/sarkastische Formulierung identifizieren. Schritt 2: Den ta
 
 **Vorher:** "Ihr,Experte' hat offenbar eine eigene Meinung zum Gesetz."
 **Nachher:** "Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

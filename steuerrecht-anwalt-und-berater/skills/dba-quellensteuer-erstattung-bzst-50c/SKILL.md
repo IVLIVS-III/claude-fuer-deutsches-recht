@@ -41,7 +41,6 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Folge: § 50d Abs. 3 EStG mit Wirkung 2021 neu gefasst durch AbzStEntModG (BGBl. 2021 I S. 1259) — aktuellen Stand der Folgeregelungen im BMF-Veroeffentlichungsverzeichnis prüfen.
 - Aktuelle BFH-Rechtsprechung zu Voraussetzungen der Freistellungsbescheinigung in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zur Anwendung § 50d Abs. 3 EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
@@ -215,3 +214,5 @@ Sachverhalt: US-Mutter haelt 60 Prozent an deutscher GmbH. Dividende 200.000 EUR
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

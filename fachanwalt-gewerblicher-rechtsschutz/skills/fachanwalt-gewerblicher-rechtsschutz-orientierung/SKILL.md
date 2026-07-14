@@ -57,10 +57,6 @@ Keine Eintragungs-Barriere vorhanden?
 | Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjaehrung 3 Jahre §§ 195, 199 BGB |
 | Patent-Nichtigkeitsklage | StdT-Recherche, BPatG, Nebenintervention | Keine Frist, aber Verletzungsverfahren dringt |
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -78,3 +74,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Bei urheberrechtlichen Vorfragen: Plugin `urheberrecht` / `fachanwalt-urheber-medienrecht`.
 - Bei kartellrechtlichen Bezuegen (Lizenzkartell, Marktmissbrauch): Plugin `kartellrecht-grundlagen`.
 - Bei steuerrechtlicher Bewertung von IP-Rechten: Plugin `steuerrecht-anwalt-und-berater`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

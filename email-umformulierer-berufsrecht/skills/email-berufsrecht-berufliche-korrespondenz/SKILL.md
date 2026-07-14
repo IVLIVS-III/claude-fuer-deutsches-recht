@@ -17,9 +17,6 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 3. Welcher Anlass: Anfrage, Mahnung, Rueckmeldung, Beschwerde, allgemeine Information?
 4. Welcher Stil ist gewuenscht: sehr foermlich, foermlich, sachlich-freundlich oder kollegial?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben als Maßstab für sachliche Korrespondenz
 - §§ 823, 824 BGB — Deliktsrecht: persoenlichkeitsrechtsverletzende oder rufschaedigende Aeusserungen
@@ -85,3 +82,5 @@ Für allgemeine Korrespondenz ohne Berufsrechtsbezug gelten keine spezifischen b
 
 **Vorher:** "Warum antwortet hier niemand??"
 **Nachher:** "Bislang habe ich auf meine E-Mail vom TT.MM.JJJJ keine Rückmeldung erhalten und bitte höflich um Nachricht."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

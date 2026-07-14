@@ -153,10 +153,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 675, 280 BGB — Beraterhaftung: Ergebnisse, die auf unzuverlaessigen Daten basieren, können Schadensersatz ausloesen; Anwalt muss Datenbasis offenlegen
 - § 43a BRAO — Unabhaengigkeit: Anwalt darf sich nicht auf Ergebnisse verlassen, die er nicht nachpruefen kann
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Datenquellen dokumentieren:** alle verwendeten Quellen mit Datum, Version, Zugaenglichkeit; Luecken explizit benennen
@@ -170,3 +166,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Keine Belegkette für wesentliche Ergebnisse: Haftungsrisiko
 - Nicht erklaerbares Ergebnis bei hohem Risiko: sofortige Senior Review; kein Versand
 - Bias oder Datenlücke nicht benannt: moeglicherweise fehlerhafte Mandatsberatung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -28,7 +28,6 @@ description: "Wenn es um Testament oder Erbvertrag entwerfen wenn Mandant Nachla
 ## Aktuelle Rechtsprechung (Stand 05/2026, Live-Verifikation zwingend)
 
 - BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Ein Vermächtnis an den behandelnden Arzt war nicht wegen der dort geprüften ärztlichen Berufsregel in Verbindung mit BGB Paragrafen 134 und 2171 Absatz 1 unwirksam. Die Entscheidung darf nicht pauschal auf Pflegeheim, Betreuer oder andere Vertrauenspersonen übertragen werden; andere Verbote und BGB Paragraf 138 sind eigenständig zu prüfen.
-- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Kaltstart-Rückfragen
 
@@ -96,3 +95,5 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 - Bei Unternehmensvermögen Nachfolgeregelung gesondert prüfen (Begünstigungen §§ 13a, 13b ErbStG).
 - Empfehlung Hinterlegung beim Amtsgericht (§ 2248 BGB) — Hinterlegungsgebühr nach GNotKG (KostO ist durch das 2. KostRMoG vom 23.07.2013, BGBl. I S. 2586, mit Wirkung zum 01.08.2013 außer Kraft getreten).
 - Anschluss-Skill bei späterem Erbfall: `fachanwalt-erbrecht-erbschein-antrag`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: sozialrecht-orphan-drug-krebsmedikament-muenster
+plugin: "fachanwalt-sozialrecht"
 description: Eilfall zur Kostenübernahme eines extrem teuren Orphan-Drug-Krebsmedikaments mit Tumorboard, MD-Ablehnung,
   Kassenbescheid und Eilantrag.
 checks:

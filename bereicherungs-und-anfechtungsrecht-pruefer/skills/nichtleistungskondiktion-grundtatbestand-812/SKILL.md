@@ -17,14 +17,6 @@ description: "Wenn es um Nichtleistungskondiktion — Grundtatbestand Paragraf 8
 
 § 812 Abs. 1 S. 1 Alt. 2 BGB (Nichtleistungskondiktion) — § 816 BGB (Verfügung Nichtberechtigter, Spezialregelung) — § 822 BGB (Bereicherung Dritter) — § 818 BGB (Umfang der Herausgabe) — § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion, vorrangig) — §§ 994 ff. BGB (Verwendungsersatz im EBV) — § 985 BGB (Vindikation)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Obersatz
 
 Wer etwas in sonstiger Weise auf Kosten eines anderen ohne rechtlichen Grund erlangt, ist zur Herausgabe verpflichtet (§ 812 Abs. 1 S. 1 Alt. 2 BGB).
@@ -86,3 +78,5 @@ Sachverhalt (kurz): [...]
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

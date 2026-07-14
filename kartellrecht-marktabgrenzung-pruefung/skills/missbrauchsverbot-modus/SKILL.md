@@ -51,7 +51,6 @@ Marktanteils-Indizien:
 **Refusal to Deal / Essential Facility:**
 - Verweigerung des Zugangs zu essenzieller Infrastruktur oder Information.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Selbstbegünstigung (Self-Preferencing):**
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -63,7 +62,6 @@ Marktanteils-Indizien:
 #### Ausbeutungsmissbrauch
 
 **Überhöhte Preise:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Selten angewendet, methodisch schwierig (kein Vergleichsmarkt).
 
 **Unfaire Geschäftsbedingungen:**
@@ -72,10 +70,6 @@ Marktanteils-Indizien:
 ### Schritt 3: Auswirkung auf Handelsbeziehungen
 
 Zwischenstaatlichkeitsklausel: Spürbare Beeinträchtigung des Handels zwischen Mitgliedstaaten.
-
-## Leitentscheidungen Missbrauchsverbot
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfprotokoll Missbrauch
 
@@ -88,3 +82,5 @@ Objektive Rechtfertigung: [ja / nein]
 Zwischenstaatlichkeit: [erfüllt / nicht erfüllt]
 Ergebnis: [missbräuchlich / nicht missbräuchlich / offen]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

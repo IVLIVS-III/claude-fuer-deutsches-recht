@@ -71,7 +71,6 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -158,7 +157,6 @@ Haftungshöchstbetrag Art. 23 Abs. 3 CMR: [Y] kg × 8.33 SZR
 IV. Hilfsweise: Qualifiziertes Verschulden
 Hilfsweise machen wir geltend, dass die Beklagte Art. 29 CMR /
 § 435 HGB unterliegt. Sie hat [Darlegung des Organisations-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Bei Erfolg: voller Warenwert EUR [X].
 
 C. ANTRAG
@@ -178,7 +176,6 @@ Aktenzeichen: [...]
 Frachtführer: [Name]
 Transport: [Strecke, Datum]
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 1. EINGANGSSCAN FEHLT
  [ ] Kein Scan bei Übernahme dokumentiert
@@ -226,7 +223,6 @@ II. KEINE LEICHTFERTIGKEIT
 
 Die Beklagte hat alle üblichen Sicherungsmaßnahmen getroffen:
 [Darlegung: Scans, Kontrollen, Parkplatzsicherung, GPS]
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kann keine Rede sein.
 
 [Ort, Datum]
@@ -309,4 +305,4 @@ kann keine Rede sein.
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

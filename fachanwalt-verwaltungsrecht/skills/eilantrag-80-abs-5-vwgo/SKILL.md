@@ -179,7 +179,6 @@ Nach der ständigen Rechtsprechung muss die Behörde in der
 Begründung das besondere öffentliche Interesse an der
 sofortigen Vollziehung auf den konkreten Einzelfall bezogen
 darlegen. Allgemeine Formulierungen und abstrakte Verweise auf
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die vorliegende Begründung beschränkt sich auf [Beschreibung
 des Floskels: "im öffentlichen Interesse" / "Gefährdung der
@@ -293,7 +292,6 @@ Begründung
 I. Das Verwaltungsgericht hat den Begründungsmangel
 § 80 Abs. 3 VwGO unzutreffend verneint. Es hat die
 Begründung: "[Zitat]" als ausreichend angesehen, obwohl sie
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 erforderliche einzelfallbezogene Auseinandersetzung fehlt.
 
 II. Die Interessenabwägung ist fehlerhaft, weil das
@@ -357,3 +355,5 @@ Stand 05/2026.
 - BVerfG (für Verhältnismäßigkeits- und Folgenabwägungslinie) — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de)
 - Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

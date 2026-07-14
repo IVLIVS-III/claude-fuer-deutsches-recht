@@ -1,4 +1,5 @@
 name: strafrecht-jugendlicher-raub-schulhof-hamburg
+plugin: "fachanwalt-strafrecht"
 description: Jugendstrafsache nach einem Schulhofraub in Hamburg-Wilhelmsburg mit Cutter-Drohung, Handyortung, Jugendgerichtshilfe,
   Diversionsfrage und Pflichtverteidigung.
 checks:

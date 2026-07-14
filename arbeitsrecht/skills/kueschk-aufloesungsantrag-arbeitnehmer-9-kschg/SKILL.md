@@ -39,10 +39,6 @@ description: "Wenn es um Kueschk Aufloesungsantrag Arbeitnehmer 9 Kschg in Arbei
 - Paragraf 10 KSchG — Abfindungsrahmen bei Auflösung
 - Paragraf 12 KSchG — Einseitige Lösung nach Aufnahme neuen Arbeitsverhältnisses (Abgrenzung)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Voraussetzungen Paragraf 9 Abs. 1 Satz 1 KSchG
 
 1. **Kündigung ist unwirksam** — das Arbeitsgericht würde die Feststellungsklage bejahen.
@@ -125,3 +121,5 @@ Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung fest
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

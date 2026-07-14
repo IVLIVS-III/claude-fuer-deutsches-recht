@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Kommunalrecht Rathaus Morgenfurt Buergerentscheid Haushalt"
-plugin: "tbd"
+plugin: "kommunalrecht-laender"
 
 checks:
   - id: r01-readme-vorhanden

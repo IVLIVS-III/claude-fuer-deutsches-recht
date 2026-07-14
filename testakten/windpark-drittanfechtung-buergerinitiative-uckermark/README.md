@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 864 KB) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 868 KB) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip) |
 
@@ -18,8 +18,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 <!-- END gesamt-pdf-section (autogen) -->
 
 **Plugin:** `fachanwalt-verwaltungsrecht`
-**Erstellt für:** Plugin-Testbetrieb / Qualitätssicherung
-**Kanzlei (fiktiv):** Maaßmann Umwelt- und Energierecht, Stadtkanal 19, 14467 Potsdam
+**Kanzlei:** Maaßmann Umwelt- und Energierecht, Stadtkanal 19, 14467 Potsdam
 **Aktenzeichen:** 4 K 218/26 (VG Potsdam) | 4 L 89/26 (Eilantrag) | OVG 2 A 18.26 (Normenkontrolle)
 **Genehmigungszeichen LfU:** 40.2-LfU-7204-22/26
 **Stand:** 25.04.2026

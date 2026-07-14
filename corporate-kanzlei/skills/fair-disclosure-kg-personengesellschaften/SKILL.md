@@ -135,9 +135,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Entscheidung B2-141/18 — Gun Jumping: Kaeufer-Verkaefer hatten vor Kartellfreigabe Informationen über Preise und Kunden ausgetauscht; Bussgeld; Clean Team nachtraeglich eingerichtet
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Insider-Management: Kategorien und Regeln
 
@@ -218,5 +216,6 @@ Ich bestatige die Kenntnis dieser Belehrung:
 ## Quellen
 
 - Art. 14, 17, 18 MAR; §§ 1, 19, 41 GWB; § 43a BRAO; § 17 UWG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR; Immenga/Mestmaecker GWB § 41
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

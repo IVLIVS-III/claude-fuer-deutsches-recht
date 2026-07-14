@@ -30,9 +30,6 @@ description: "Wenn es um Parteien erfassen – KYC und Vertretungsmacht in Wande
 - § 19 GwG (Transparenzregister)
 - § 43 GmbHG (Pflichten der Geschäftsführung)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Handelsregisterauszug anfordern / prüfen
@@ -90,12 +87,8 @@ Stand: 05/2026. Bei Änderung GwG/GmbHG aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 §§ 10, 11 GwG (Identifizierung wirtschaftlich Berechtigter) → §§ 18, 19 GwG (Transparenzregister) → § 40 GmbHG (Gesellschafterliste: Angaben Gesellschafter) → § 15 GmbHG (Abtretung, Übergang Anteile) → § 313 BGB (Identitätsbezeichnung in notariellen Urkunden)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

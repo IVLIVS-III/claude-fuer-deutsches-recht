@@ -11,9 +11,6 @@ description: "Wenn es um Transparenzregister und Unstimmigkeitsmeldung in Geldw�
 3. Soll eine Unstimmigkeitsmeldung nach § 23a GwG erstattet werden?
 4. Handelt es sich um eine initiale Eintragung, eine Aenderung oder eine Loeschung?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 18-26 GwG — Transparenzregister: Eintragungspflicht, Inhalt, Aktualisierung
 - § 23a GwG — Unstimmigkeitsmeldung bei Abweichungen
@@ -67,3 +64,5 @@ Gleiche KYC-Unterlagen mit Transparenzregisterdaten ab, markiere wirtschaftlich 
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

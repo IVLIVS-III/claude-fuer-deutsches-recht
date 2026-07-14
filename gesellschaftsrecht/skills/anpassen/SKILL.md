@@ -49,7 +49,6 @@ Relevante Vorschriften je Bereich (Referenz für Konsistenzprüfung):
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Mitbestimmung: MitbestG, DrittelbG — eine Moduländerung, die ein mitbestimmungspflichtiges Unternehmen betrifft, ist zu flaggen
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Ablauf
 

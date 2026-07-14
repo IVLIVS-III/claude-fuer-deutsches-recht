@@ -29,14 +29,6 @@ Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten
 
 § 822 BGB (Bereicherung eines Dritten) — § 812 Abs. 1 S. 1 BGB (Leistungskondiktion, Primäranspruch) — § 818 Abs. 3 BGB (Entreicherung) — § 818 Abs. 4, § 819 BGB (verschärfte Haftung) — § 816 Abs. 1 S. 2 BGB (unentgeltliche Verfügung) — § 816 Abs. 2 BGB (Leistung an Nichtberechtigten)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zweck
 
 § 822 BGB schließt eine Schutzlücke: Hat der Erstempfänger das Erlangte unentgeltlich an einen Dritten weitergegeben und ist er dadurch entreichert (§ 818 Abs. 3 BGB), hätte der Bereicherungsgläubiger keine Ansprüche mehr. § 822 BGB gibt ihm einen Direktanspruch gegen den Dritten.
@@ -95,3 +87,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

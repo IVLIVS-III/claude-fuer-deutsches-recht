@@ -51,10 +51,6 @@ description: "Wenn es um Prozessportfolio-Status in Prozessrecht geht: prüft Fr
 - **Paragraf 249 HGB** — Rückstellungspflicht für drohende Verluste aus schwebenden Rechtsstreitigkeiten; relevant für die Wesentlichkeitsklassifizierung.
 - **Paragraf 285 Nr. 3a HGB; Paragraf 340e Abs. 3 HGB** — Offenlegung wesentlicher Rechtsstreitigkeiten im Jahresabschluss; Berührungspunkt mit der Wesentlichkeitskennzeichnung.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -88,6 +84,7 @@ Sieben Prüfregeln (Details im Abschnitt Auffälligkeitsregeln).
 
 Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `## Ausgaben`. Optionen an die Ausgabe anpassen (Entwurf erstellen, eskalieren, weitere Fakten beschaffen, beobachten, anderes). Bei mehr als ca. 10 Mandaten oder auf Anfrage: Dashboard-Angebot (Risikoverteilung, Fristatimeline, sortierbare Mandatsliste mit Status und letztem Bearbeitungsdatum).
 
+```markdown
 ## Nach Risiko
 
 | Risiko | Anzahl | Mandate |
@@ -174,7 +171,6 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 ## Quellenpflicht
 
 - Gesetzestexte: Paragrafen 43a BRAO; Paragraf 11 BORA; Paragrafen 214 ff., 516, 520, 548, 569 ZPO; Paragraf 317 StPO; Paragraf 74 VwGO; Paragrafen 249, 285 HGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

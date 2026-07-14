@@ -12,7 +12,6 @@ Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es a
 1. **Nicht vorschriftsmäßige Besetzung** des Gerichts (Nr. 1)
  - Geschäftsverteilungsplan eingehalten?
  - Bei Einzelrichter: Übertragung Paragraf 348a ZPO begründet?
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Mitwirkung eines ausgeschlossenen Richters** (Nr. 2)
  - Selbst-Ausschluss Paragraf 41 ZPO geprüft (Verwandtschaft, Voreintragung)
 3. **Mitwirkung eines mit Erfolg abgelehnten Richters** (Nr. 3)
@@ -24,7 +23,6 @@ Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es a
  - Keine Entscheidungsgründe überhaupt
  - Gründe lassen die wesentliche Erwaegung nicht erkennen
  - Widerspruch zwischen Tatbestand und Gründen
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 2) Verfahrensrecht — Paragraf 545 ZPO
 
@@ -45,7 +43,6 @@ Die Beweiswürdigung muss erkennen lassen:
 - **wie** das Gericht zur Überzeugung gelangt ist
 - **warum** Gegenbeweise nicht durchgreifen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 3) Materielles Recht — Paragraf 546 ZPO
 
@@ -115,13 +112,10 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 ## 6) Aktuelle BGH-Linien zu typischen Fallen
 
 ### Begründungsmangel
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtliches Gehoer
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beweiswürdigung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 7) Selbstpruefliste vor Urteilsversand
 
@@ -171,3 +165,5 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 
 - Wenn revisionsfest: `dokumente-rendern-urteil-docx` zum finalen DOCX-/PDF-Export
 - Wenn nicht: zurueck zum mangelhaften Skill (`tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben`, `beweiswuerdigung-mit-richter-input` oder `anspruchsgrundlagen-pruefen`, je nach Mangel)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

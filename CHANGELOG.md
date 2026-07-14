@@ -1,3 +1,16 @@
+# v432.0.0 - Prüfketten, Aktenbau und Releaseablauf gehärtet
+
+- Die Aktenbewertung prüft Rubriken nun wirklich vollständig: Pluginzuordnung, eindeutige Check-IDs, unterstützte Prüftypen, sichere relative Pfade, nicht leere Suchmuster sowie JSON-, YAML-, E-Mail- und Tabelleninhalte. 205 fehlende oder unbestimmte Pluginzuordnungen wurden repariert; 301 fachliche Aktenrubriken bestehen, nur die zwei ausdrücklich ausgenommenen Metasammlungen benötigen keine Rubrik.
+- Der Gesamt-PDF- und Einzel-PDF-Bau erzeugt bei defekten oder unlesbaren Quelldateien keine stillen Platzhalter mehr. DOCX, ODT, XLSX, CSV, E-Mail, Bilder und vorhandene PDFs werden vollständig gelesen oder stoppen den Lauf mit einem konkreten Dateifehler; leere, verschlüsselte, unvollständige oder pfadunsichere ZIP-Inhalte fallen bei der Validierung auf.
+- PDF- und ZIP-Erzeugung ist reproduzierbar und transaktional. Stabile Metadaten, Zeitstempel und Dateireihenfolgen liefern bei identischem Aktenbestand byteidentische Ergebnisse; temporäre Ausgaben ersetzen ein bestehendes Paket erst nach erfolgreicher Prüfung. Der vollständige Einzel-PDF-Bau wurde zugleich von mehreren Minuten auf rund zwei Minuten verkürzt.
+- Die Releasekette berechnet Prüfsummen streamend und lädt Assets parallel, wiederaufnehmbar und hashbewusst hoch. Unveränderte Dateien werden übersprungen, veraltete Assets gezielt entfernt, fehlgeschlagene Übertragungen mit Rückoff wiederholt und ein neuer Release erst nach vollständiger Remoteprüfung aus dem Entwurfszustand veröffentlicht.
+- Mehr als 4.000 redundante Quellenhinweise wurden aus Arbeitsabläufen, Tabellen und Ausgabemustern entfernt und je Dokument auf eine klare Quellenregel verdichtet. Konkrete Quellenprüfschritte bleiben dort erhalten, wo sie fachlich Teil des Workflows sind; Promptumfang und Wiederholungsrauschen sinken deutlich.
+- Ein neuer Markdown-Strukturvalidator prüft sämtliche 28.902 Markdown-Dateien außerhalb von Codeblöcken auf leere Überschriften, Links und Listenpunkte, ungeschlossene Codeblöcke, verwaiste Tabellenzeilen, fehlerhafte Tabellenköpfe, doppelte Quellenregeln sowie inhaltslose Rechtsprechungs- und Quellenabschnitte. Sechs leere Überschriften, 34 ungeschlossene Codeblöcke, 1.295 stumme Fachabschnitte, 82 unmittelbare Quelldubletten und sämtliche dabei gefundenen Tabellen- und Vorlagenstummel wurden fachgerecht repariert.
+- Die Releaseprüfung baut zentrale und pluginlokale Gesamt-PDFs erneut, führt Regressionstests für Rubriken, PDF-Konverter und Assets aus und stoppt bei jeder nicht eingecheckten Generatorabweichung. Damit entsprechen veröffentlichte Pakete dem geprüften Tag und lassen sich aus demselben Stand erneut herstellen.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v432.0.0 synchronisiert.
+
+---
+
 # v431.0.0 - Rechtsprechungsprüfung, Fachrouten und Aktenqualität abgesichert
 
 - Die Fachanwalts-Plugins für Familien- und Erbrecht starten nun aktenbasiert und arbeitsproduktorientiert. Ihre handkuratierten Werkstatt- und Schnellstart-Prompts trennen Eilroute, Verfahrensstand, Anspruch, Stichtag, Beweislast und Ausgabeform und enthalten eng zugeordnete Fallkarten aktueller höchstrichterlicher Rechtsprechung.

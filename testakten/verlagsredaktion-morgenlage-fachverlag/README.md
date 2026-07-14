@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 80 KB) | PDF | [`gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf`](gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 86 KB) | PDF | [`gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf`](gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verlagsredaktion-morgenlage-fachverlag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verlagsredaktion-morgenlage-fachverlag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag-einzelpdfs.zip) |
 

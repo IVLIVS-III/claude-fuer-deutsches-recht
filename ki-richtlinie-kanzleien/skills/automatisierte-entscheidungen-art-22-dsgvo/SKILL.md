@@ -49,9 +49,6 @@ Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte b
 
 Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. automatische Mandatszuordnung, Dokumentenpriorisierung) steigt die Relevanz des Art. 22 DSGVO. Neue EuGH- oder BGH-Entscheidungen zur Auslegung von Art. 22 DSGVO sowie Leitlinien des Europäischen Datenschutzausschusses (EDSA) sind regelmäßig zu prüfen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
 - Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
@@ -98,3 +95,4 @@ Geprueft von: [NAME], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

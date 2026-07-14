@@ -1,4 +1,5 @@
 name: schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal
+plugin: "fachanwalt-sozialrecht"
 description: GdB-Neufeststellung bei spaetdiagnostiziertem Autismus und ADHS mit Streit um die integrative Bildung
   des Gesamt-GdB, Gleichstellung, Teilhabe am Arbeitsleben und Rentenabgrenzung.
 checks:

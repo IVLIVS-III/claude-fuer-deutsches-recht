@@ -14,10 +14,6 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie sche
 3. Welche Partei trägt die Beweislast für die streitigsten Tatbestandsmerkmale?
 4. Droht Verjährung (§§ 195, 199 BGB — regelmäßig 3 Jahre ab Jahresende Kenntnis)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 195, 199 BGB — Verjährung (regelmäßig 3 Jahre, Beginn mit Schluss des Jahres der Kenntnis)
@@ -99,3 +95,5 @@ Pro Anspruchsgrundlage eine eigene Tabelle mit allen Tatbestandsmerkmalen.
 ## Quellenkontrolle
 
 Für die Relation gelten keine universellen materiell-rechtlichen Leitentscheidungen. Zuerst Anspruchsgrundlage und Einwendungen des konkreten Streitstoffs bestimmen; pro Rechtssatz nur eine Entscheidung mit Gericht, Datum, Aktenzeichen, tragender Aussage und Quelle verwenden. Verfahrensrechtlich insbesondere Paragraf 138, Paragraf 139, Paragraf 253 Absatz 2 Nummer 2, Paragraf 286, Paragraf 296 und Paragraf 308 ZPO fallbezogen prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

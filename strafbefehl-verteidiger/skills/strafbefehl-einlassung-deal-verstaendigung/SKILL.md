@@ -37,10 +37,6 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 - **§§ 22, 23, 33 KunstUrhG/KUG** — Bildnisveröffentlichung; bloße Anfertigung von Bildern getrennt prüfen
 - **§§ 201, 201a StGB** — Tonaufnahmen und höchstpersönliche Bildinhalte; Nichtöffentlichkeit, Schutzbereich und Rechtfertigung sauber trennen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsbaum Einlassungsstrategie
 
 ```
@@ -107,3 +103,5 @@ Strafmildernd ist zu beruecksichtigen:
 - Gestaendnis nur nach Mandantenruecksprache und Aufklaerung über Tragweite.
 - Beweisverwertungsverbote aktiv prüfen — Fehler der Ermittlungsbehoerden nicht verschenken.
 - Anwaltliche Endkontrolle bei jedem Schritt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

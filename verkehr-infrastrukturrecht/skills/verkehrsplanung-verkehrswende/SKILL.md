@@ -37,10 +37,6 @@ Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder R
 - Art. 14 GG — Eigentumsgarantie; Enteignung nur gegen Entschaedigung (Art. 14 III GG)
 - § 74 VwVfG — Planfeststellungsbeschluss als rechtsgestaltender Verwaltungsakt
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Projekttyp bestimmen:** informelle Planung, Bauleitplanung (FNP/B-Plan) oder Planfeststellung (§ 74 VwVfG)
@@ -123,3 +119,5 @@ Wir beantragen:
 - Abwaegungsgebot (§ 1 VII BauGB, § 74 VwVfG) muss alle Belange erfassen
 - Keine Trassenfestlegung ohne Variantenvergleich
 - Naturschutzrechtliche Eingriffsregelung (§§ 14 ff. BNatSchG) beachten
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

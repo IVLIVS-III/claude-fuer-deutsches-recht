@@ -28,10 +28,6 @@ description: "Wenn es um Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt 
 - § 90 BVerfGG — Verfassungsbeschwerde: Erschöpfung Rechtsweg, 1-Jahres-Frist (§ 93 Abs. 1 BVerfGG)
 - §§ 1 ff. InsO — Insolvenzantragspflicht und Forderungsanmeldung erfordern Fachanwaltswissen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Abbruch-Indikatoren
 
 Das System empfiehlt Abbruch und Verweisung an Fachleute bei folgenden Konstellationen:
@@ -103,3 +99,4 @@ Suche nach Fachanwälten: www.rechtsanwaltskammer.de oder www.anwaltauskunft.de
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

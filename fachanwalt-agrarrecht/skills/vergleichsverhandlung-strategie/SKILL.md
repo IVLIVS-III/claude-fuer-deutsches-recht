@@ -170,14 +170,6 @@ Klassische Stolperfalle in Agrar-, Forst- und Lebensmittelrecht:
 
 ## Vertiefung — Rechtsprechung Vergleich Agrarrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung Vergleich Agrarrecht
 
 § 779 BGB (Vergleich) → §§ 54-62 VwVfG (öffentlich-rechtlicher Vertrag, Behördenvergleich) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich als Vollstreckungstitel) → § 13 HöfeO (Nachabfindungsanspruch — im Vergleich gesondert zu regeln) → § 593 BGB (Pachtzins-Anpassung — im Vergleich fixieren)
@@ -185,3 +177,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

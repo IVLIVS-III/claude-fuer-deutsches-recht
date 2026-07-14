@@ -109,5 +109,6 @@ Unterschrift DSB: ____________________
 - Art. 35 Abs. 9 DSGVO
 - § 26 BDSG; §§ 87, 90, 94 BetrVG
 - EDSA-Leitlinien WP 248 rev.01
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -29,10 +29,6 @@ description: "Wenn es um Anlagenverzeichnis-Extrakt in aktenauszug-gerichtsverfa
 - § 422 ZPO — Vorlegungspflicht für Urkunden (Parteibesitz)
 - § 432 ZPO — Anforderung von Urkunden durch das Gericht bei Behörden
 
-## Rechtsprechung zu Anlagen und Schriftsatz-Bezugnahmen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Anlagenbezeichnungen
 
 ### Klägerseite
@@ -108,3 +104,5 @@ Anlage ist im Schriftsatz bezeichnet aber fehlt körperlich in Akte?
 - [ ] Inhalt kurz aber aussagekräftig beschrieben?
 - [ ] Fundstelle (Schriftsatz und Blatt) angegeben?
 - [ ] Vorlageanordnungen nach § 142 ZPO berücksichtigt?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

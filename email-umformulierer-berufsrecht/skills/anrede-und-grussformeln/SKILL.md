@@ -17,9 +17,6 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 3. Traeigt der Empfaenger akademische Grade (Dr., Prof.) oder Amtsbezeichnungen?
 4. Wie eng ist die Beziehung: erstmalig, laufend, langjahrig bekannt?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 25 BORA — Kollegialitaetsgebot: korrekte Anrede als Ausdruck gegenseitigen Respekts
 - § 43a BRAO — Allgemeine Berufspflichten: Wuerde des Berufs gegenueber Adressaten
@@ -77,3 +74,5 @@ Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mi
 
 **Vorher:** (kein Abschlusssatz, nur Unterschrift)
 **Nachher:** "Mit freundlichen Grüßen" / "Mit kollegialen Grüßen"
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

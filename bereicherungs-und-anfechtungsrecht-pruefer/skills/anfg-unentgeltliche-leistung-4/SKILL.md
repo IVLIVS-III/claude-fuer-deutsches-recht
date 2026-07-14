@@ -19,10 +19,6 @@ description: "Wenn es um Unentgeltliche Leistung — Paragraf 4 AnfG in bereiche
 - §§ 516 ff. BGB — Schenkung (Vergleichsbegriff; AnfG-Unentgeltlichkeit ist weiter)
 - §§ 195 199 BGB — Verjährung des Anfechtungsanspruchs
 
-## Rechtsprechung (BGH — Leitsätze § 4 AnfG / unentgeltliche Leistung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Obersatz
 
 Anfechtbar sind unentgeltliche Leistungen des Schuldners, es sei denn, sie sind früher als vier Jahre vor der Anfechtungserklärung vorgenommen worden (§ 4 Abs. 1 AnfG).
@@ -65,3 +61,5 @@ Typische Anwendungsfälle:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

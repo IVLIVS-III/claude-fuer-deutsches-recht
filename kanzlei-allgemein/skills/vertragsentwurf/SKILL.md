@@ -23,9 +23,6 @@ Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für je
 3. Ist eine Partei Verbraucher (§ 13 BGB) oder durchgaengig B2B — wegen AGB-Kontrolle und Widerrufsrecht?
 4. Gibt es Haftungsobergrenzen, Datenschutzklauseln (Art. 28 DSGVO AVV) oder IP-Regelungen, die benoetigt werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 305-310 BGB — AGB-Recht: Einbeziehung, Inhaltskontrolle, Klauselverbote
 - § 13 BGB — Verbraucher: hoehere Schutzstandards und Widerrufsrecht (§§ 355 ff. BGB)
@@ -126,3 +123,4 @@ Vor Ausgabe prüfen:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

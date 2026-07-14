@@ -113,10 +113,6 @@ einreichungsdatum: "[TT.MM.JJJJ]"
 einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 ```
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 47-51 GGO (Verbands-Anhörung, Stellungnahme-Verfahren) — Art. 41 GRCh (Recht auf gute Verwaltung, Anhörungsrecht) — §§ 28, 29 VwVfG (Anhörungsrecht im Verwaltungsverfahren) — §§ 2, 3 UmwRG (Verbandsklage, Stellungnahme)
@@ -175,3 +171,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Verfasser-Angabe:** Viele Behörden veröffentlichen Stellungnahmen. Klären, ob anonym oder im Namen des Mandanten eingereicht werden soll.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

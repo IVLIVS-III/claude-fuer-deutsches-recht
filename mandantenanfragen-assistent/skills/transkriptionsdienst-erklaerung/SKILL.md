@@ -23,9 +23,6 @@ Formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der auto
 3. Enthaelt die Sprachaufnahme potenziell besondere Datenkategorien (Gesundheit, Strafrecht — Art. 9 DSGVO)?
 4. Wird die Einwilligung per automatisierter Ansage (Tastendruck) oder schriftlich eingeholt?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage für Sprachaufnahme vor Mandatsannahme
 - Art. 28 DSGVO — AVV mit Transkriptionsdienstleister: zwingend vor Inbetriebnahme
@@ -107,3 +104,5 @@ Aus `kanzlei.json`:
 - `mandatsverhaeltnis-hinweis` — Disclaimer zum fehlenden Mandat
 - `telefon-konfiguration` — liefert `telefon_transkription`
 - `erstantwort-generator` — bettet diesen Abschnitt in die Antwortmail ein
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

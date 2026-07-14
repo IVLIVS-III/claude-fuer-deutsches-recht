@@ -89,5 +89,3 @@ Der Vorlagebeschluss des VG Lüneburg zeigt, wie ein deutsches Verwaltungsgerich
 Die Vergabeklausel des Förderbescheids zeigt den Konflikt zwischen kommunalpolitischem Regionalismus und dem unionsrechtlichen Gleichbehandlungsgebot (Art. 49, 56 AEUV).
 
 ---
-
-## Disclaimer

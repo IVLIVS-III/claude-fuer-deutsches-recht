@@ -32,10 +32,6 @@ description: "Wenn es um Kueschk Allgemeiner Und Besonderer Feststellungsantrag 
 - Paragraf 46 Abs. 2 ArbGG — ZPO gilt im arbeitsgerichtlichen Verfahren entsprechend
 - Paragraf 5 KSchG — Nachträgliche Klagezulassung (bei unverschuldeter Fristversäumnis)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Der punktuelle Feststellungsantrag Paragraf 4 Satz 1 KSchG
 
 Der punktuelle Antrag bezieht sich **nur auf die konkrete angegriffene Kündigung**:
@@ -81,3 +77,5 @@ Fehlt der allgemeine Feststellungsantrag, kann der Arbeitgeber durch eine weiter
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

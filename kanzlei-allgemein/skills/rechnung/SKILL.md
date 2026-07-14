@@ -23,9 +23,6 @@ Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonor
 3. Ist eine Rechtsschutzversicherung involviert (Direktabrechnung oder Erstattungsanspruch des Mandanten)?
 4. Soll die Rechnung als E-Rechnung (XRechnung, ZUGFeRD) erstellt werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 10 RVG — Pflichtangaben auf der Honorarrechnung; Faelligkeit bei ordnungsgemaesser Berechnung
 - § 3a RVG — Honorarvereinbarung: Schriftform und Mindestbetrag
@@ -118,3 +115,4 @@ Keine verbindliche RVG-Gebührenberechnung, steuerliche Einordnung, GoBD-Prüfun
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

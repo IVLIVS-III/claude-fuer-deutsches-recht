@@ -147,7 +147,6 @@ Nr. 2 MarkenG).
 "FRISCH" und "KLAR" sind für Mineralwasser beschreibende Merkmale (Frische,
 Klarheit). Die Kombination könnte als Gesamtbegriff dennoch hinreichende
 Unterscheidungskraft haben, wenn sie nicht lexikalisch nachweisbar ist und vom
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 MarkenG, 13. Aufl. 2021, § 8 Rn. 55). Die Prüfung beim DPMA wird kritisch sein;
 eine Stellungnahme zur Verkehrswahrnehmung sollte vorbereitend erstellt werden.
@@ -185,11 +184,3 @@ Bevor die Anmeldung eingereicht wird, klaere:
 2. Sind absolute Schutzhindernisse (§ 8 II MarkenG) geprueft — insbesondere Beschreibungsnaehe und mangelnde Unterscheidungskraft?
 3. Wird eine Einzel- oder Multi-Class-Anmeldung bevorzugt (3 Klassen = EUR 300; jede weitere EUR 100)?
 4. Soll Prioritaet auf eine auswärtige Voranmeldung (§ 34 MarkenG — 6 Monate) beansprucht werden?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

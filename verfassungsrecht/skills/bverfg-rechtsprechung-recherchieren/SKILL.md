@@ -58,7 +58,6 @@ Pflichtangaben für jede Aussage:
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Datum** der Entscheidung
 - **Randnummer** der einschlägigen Passage (z. B. `Rn. 117`)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **URL** der amtlichen Sammlung
 
 ### Schritt 5 — Zitat formatieren
@@ -66,7 +65,6 @@ Pflichtangaben für jede Aussage:
 Standardformat in allen Outputs dieses Plugins:
 
 ```
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html
 ```
 

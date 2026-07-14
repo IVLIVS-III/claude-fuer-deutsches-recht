@@ -11,9 +11,6 @@ description: "Wenn es um Bußgeld, Haftung und Reputation in Geldwäscheprävent
 3. Welche Remediation-Massnahmen wurden bereits eingeleitet?
 4. Gibt es eine externe Kommunikations- oder PR-Strategie fuer den Reputationsschaden?
 
-## Aktuelle Rechtsprechung und Behoerdenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 56 GwG — Bußgeldtatbestaende (bis 5 Mio. EUR oder 10 % des Jahresumsatzes bei Kreditinstituten)
 - § 57 GwG — Veroeffentlichung von Massnahmen (Naming and Shaming)
@@ -75,3 +72,5 @@ Arbeite Bußgeldrisiko, Compliance-Lücke, Kommunikationslinie und Nachbesserung
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

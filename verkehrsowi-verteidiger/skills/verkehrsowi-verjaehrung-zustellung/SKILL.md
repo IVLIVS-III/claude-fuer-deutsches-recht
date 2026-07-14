@@ -34,10 +34,6 @@ Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand
 - **§ 28 OWiG** — Bekanntgabe des Bussgeldbescheids; fehlerhafte Bekanntgabe = keine Unterbrechung
 - **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Verjaerungs-Prüfschema
 
 ```
@@ -76,3 +72,5 @@ Wenn Zustellungsmangel vorliegt:
 - Absolute Verjährung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
 - Zustellungsmangel-Prufung ist Standardbestandteil jedes OWi-Mandats.
 - Anwaltliche Endkontrolle bei Verjaerungs-Berechnung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

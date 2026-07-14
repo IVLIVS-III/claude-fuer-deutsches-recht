@@ -19,9 +19,6 @@ description: "Wenn es um AG/Seminar-Vorbereitung (Cold-Call-Prep) in Jurastudium
 3. Wie viel Zeit bis zur AG — und welche Vorbereitung ist bisher erfolgt?
 4. Gibt es spezifische Fragen oder Schwachpunkte, die besonders geuebt werden sollen?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegung als AG-Dauerthema
 - § 280 Abs. 1 BGB — Schadensersatz: Standard-AG-Anspruch
@@ -88,7 +85,6 @@ In der AG wird das **mündliche Zitieren** erwartet – kein vollständiges Lite
 
 **Quellen in AGs:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beispiel
 
@@ -119,3 +115,5 @@ Nachbohren: "Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung
 - **Sachverhaltsmodifikationen nicht antizipieren:** Fast jede AG endet mit Modifikationsfragen. Diese üben und im Lernprofil protokollieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Defensives Schweigen:** Lieber eine strukturierte Antwort auf falschem Fundament als gar keine Antwort – der AG-Leiter kann nur korrigieren, was er hört.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

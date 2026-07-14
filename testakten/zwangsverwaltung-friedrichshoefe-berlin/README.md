@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 410 KB) | PDF | [`gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 425 KB) | PDF | [`gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-friedrichshoefe-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zwangsverwaltung-friedrichshoefe-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin-einzelpdfs.zip) |
 
@@ -96,5 +96,3 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 ## Passendes Plugin
 
 `zwangsverwaltung-zvg` — vollständiger Workflow von Anordnung bis Schlussrechnung.
-
-## Disclaimer

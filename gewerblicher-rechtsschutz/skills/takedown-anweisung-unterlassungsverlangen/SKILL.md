@@ -39,10 +39,6 @@ Befehlsargument:
 **NetzDG / weitere:**
 - **§§ 1–3 NetzDG** — Plattformpflichten bei Hassrede und sonstigen strafbaren Inhalten; spezialgesetzliche Entfernungspflicht unabhängig vom allgemeinen Notice-and-Take-Down
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Kommentare
 
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 2.1 (Unterlassungsanspruch; Störerhaftung)
@@ -321,7 +317,6 @@ Bei DSA-Plattformen: Beschwerdemechanismus nach Art. 20 DSA nutzen; ggf. außerg
 Alle Aussagen zu Haftung, Schranken und Verfahren müssen belegbar sein:
 
 - **Gesetze:** §§ 7, 10 DDG (entspr. TMG); §§ 51, 51a, 97 UrhG; Art. 16, 17, 20, 21 DSA; §§ 1–3 NetzDG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Kommentar:** Spindler/Schuster eMedienR oder Köhler/Bornkamm/Feddersen UWG mit § und Randnummer
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
 
@@ -335,8 +330,8 @@ Bevor der Takedown ausgeloest wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DSA (EU) 2022/2065, Art. 16/17 (Digital Services Act):** Hosting-Dienstleister müssen wirksame und zugaengliche Melde- und Abhilfemechanismen einrichten; bei VLOP gelten verstaerkte Transparenz- und Reaktionspflichten; Verstoss kann zu Bussgeldern bis 6 % des globalen Jahresumsatzes fuehren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

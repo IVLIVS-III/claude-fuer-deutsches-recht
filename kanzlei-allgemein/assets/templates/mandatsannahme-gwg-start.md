@@ -40,6 +40,6 @@
 - Mandatsannahme: offen / nach Klärung / angenommen / abgelehnt
 - Nächste drei Schritte:
 
-1.
-2.
-3.
+1. Sofortmaßnahme:
+2. Fehlende Unterlage oder Freigabe:
+3. Verantwortlicher und Frist:

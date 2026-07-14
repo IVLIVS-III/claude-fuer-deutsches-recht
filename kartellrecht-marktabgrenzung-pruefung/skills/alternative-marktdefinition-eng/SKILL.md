@@ -42,7 +42,6 @@ Kriterien für den Ausschluss:
 ### Schritt 3: Juristische Begründung
 
 Referenz auf Rechtsprechung, die engere Definitionen stützt:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 4: Ökonomische Begründung
@@ -67,10 +66,8 @@ Bewertung der Vertretbarkeit der engeren Definition:
 - **Vertretbar**: Einige Anhaltspunkte, aber nicht eindeutig.
 - **Schwach**: Nur theoretisch argumentierbar.
 
-## Leitentscheidungen Engere Marktdefinition
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Standardformulierung für Schriftsatz
 
 > "Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

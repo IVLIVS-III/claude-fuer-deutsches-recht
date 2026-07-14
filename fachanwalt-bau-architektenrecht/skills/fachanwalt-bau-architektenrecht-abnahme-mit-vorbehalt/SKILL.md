@@ -80,7 +80,6 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 ### Konkludente Abnahme
 
 **Tatbestand:** Ingebrauchnahme ohne ausdrückliche Rüge oder Vorbehalt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gefahr: Auftraggeber nimmt Werk in Betrieb → Abnahme unterstellt
 - Schutz: Nutzungsaufnahme unter Vorbehalt schriftlich erklären
 
@@ -325,3 +324,5 @@ wesentlichen Mängel möglich.
 - Vor Verwendung weiterer Rechtsprechung: dejure.org / bundesgerichtshof.de Verifikation
 - Keine Kommentar- oder Handbuchfundstellen aus Modellwissen als Beleg verwenden; tragende Aussage nur mit frei prüfbarer Norm, Behördenquelle oder Gerichtsentscheidung ausgeben.
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: strafrecht-haeusliche-gewalt-koerperverletzung-dresden
+plugin: "fachanwalt-strafrecht"
 description: Ermittlungsakte zu häuslicher Gewalt in Dresden mit ärztlichem Befund, Nachbarzeugen, Kontaktverbot,
   Aussagekonstanz und Verteidigungs- wie Opferschutzperspektive.
 checks:

@@ -23,11 +23,6 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 3. Welches prozessuale Stadium: vor Beauftragung, waehrend Begutachtung, nach Vorlage des Gutachtens?
 4. Wird eine Reduktion der Sachverstaendigenverguetung (§ 8a JVEG) oder die Unverwertbarkeit des Gutachtens angestrebt?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-
 ## Zentrale Normen
 - § 407a Abs. 1 ZPO — Hoechstpersönliche Erstellungspflicht des Sachverstaendigen
 - § 407a Abs. 3 ZPO — Benennungspflicht für Hilfskraefte und Mitarbeiter
@@ -190,3 +185,5 @@ oder Hilfskräfte beteiligt waren.
 - **Frist für Befangenheitsantrag** (§ 406 Abs. 2 ZPO) im Auge behalten — zwei Wochen ab Kenntnis vom Ablehnungsgrund.
 - **JVEG-Festsetzung 0 Euro** ist die schärfste Folge; nur bei objektiver Unverwertbarkeit und/oder echter Identitäts-Unklarheit erreichbar.
 - **Eigenes Gutachten widerlegt KI-Verdacht nicht**: Ein Privatgutachten der Gegenpartei kann methodische Schwächen aufzeigen, aber nicht beweisen, dass das Originalgutachten KI-erstellt war.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

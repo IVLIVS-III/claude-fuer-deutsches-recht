@@ -71,9 +71,6 @@ Art. 2 Abs. 3 bis 12 KI-VO enthält explizite Ausnahmen. Relevante Ausnahmen wer
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 2 Abs. 1 KI-VO — Anwendungsbereich (EU-Marktplatzierung, EU-Inbetriebnahme, Betreiber in EU)
 - Art. 2 Abs. 2 KI-VO — KI-Ausgaben in der EU auch bei Anbieter ausserhalb EU
@@ -109,3 +106,5 @@ Ergebnis: [KI-VO ANWENDBAR / NICHT ANWENDBAR: Ausnahme Art. 2 Abs. X]
 Naechster Schritt: [sachlicher-ausschluss-art-2 / persönlicher-anwendungsbereich-rollen-art-3]
 Geprueft: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -41,8 +41,6 @@ Freistehendes Außenwirtschafts-, Sanktions-, Zoll- und CBAM-Plugin für interna
 
 Dieses Plugin ist **vollständig freistehend**. Es verweist nicht auf andere Plugins und bringt eigene Skills, Vorlagen, Leitplanken, Vorschau und Testakte mit. Wenn keine Schnittstelle zu ERP, Zollsoftware, Screening-Tool, CBAM-Register, ELAN-K2, Bundesbank-Portal oder Kanzleisystem besteht, arbeitet es mit manuellen Uploads oder einem ausdrücklich gekennzeichneten Simulationsmodus.
 
-#
-
 ## Schnellstart
 
 1. Plugin aktivieren oder ZIP aus dem Release installieren.

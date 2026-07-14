@@ -82,12 +82,10 @@ Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt f�
 
 Protokoll als Markdown mit den oben genannten Abschnitten plus Quellenangabe (woher stammt jede Information: Mietvertrag, Augenschein, Energieausweis, Straßenverzeichnis). Dieses Protokoll ist Input für alle weiteren Skills.
 
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 - Ortsueblliche Vergleichsmiete: § 558 BGB
 - Begruendungsmittel: § 558a BGB
 - Kappungsgrenze: § 558 Abs. 3 BGB
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

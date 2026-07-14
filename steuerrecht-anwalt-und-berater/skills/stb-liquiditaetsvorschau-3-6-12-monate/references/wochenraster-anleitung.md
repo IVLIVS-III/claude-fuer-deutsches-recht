@@ -60,6 +60,7 @@ Y  Ampel = WENN(X >= 10%; "ROT"; WENN(X > 0%; "GELB"; "GRÜN"))
 
 - IDW S 11 Rn. 35 ff. (Liquiditätsstatus, 3-Wochen-Finanzplan)
 - IDW S 6 Tz. 6.4 (integrierte Planung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - K. Schmidt/Herchen, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 InsO Rn. 12
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

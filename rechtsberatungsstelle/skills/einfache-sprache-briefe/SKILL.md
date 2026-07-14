@@ -31,10 +31,6 @@ Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine S
 - **Art. 13 DSGVO** — Informationspflichten: Falls ein Brief erstmals über die Verarbeitung personenbezogener Daten informiert, müssen DSGVO-Pflichtangaben enthalten sein.
 - **§§ 2, 3 BerHG** — Beratungshilfe: Bei Mandanten mit Beratungshilfe-Schein muss die Korrespondenz den Leistungsrahmen einhalten; keine Erweiterung ohne neuen Schein.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -91,3 +87,5 @@ Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und K
 Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben zu Mandantenbriefen: `skills/status/SKILL.md`, Sektion "Quellenpflicht", und `skills/mandantenbrief/SKILL.md`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

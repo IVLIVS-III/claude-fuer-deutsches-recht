@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 17 MAR / § 26 WpHG** — Ad-hoc-Pflicht; Insiderinformation im M&A-Prozess.
 - **§§ 2 ff. StaRUG** — Restrukturierungsrahmen; Anzeigepflicht und Planverfahren bei drohender Zahlungsunfähigkeit.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Deal-Routing-Matrix
 
 | Dealtyp / Thema | Primärer Fachmodul | Sekundärer Fachmodul |
@@ -219,5 +215,6 @@ FREIGABEGRAD: [Entwurf / Freigegeben durch Partner / Vertraulich — nur intern]
 - § 40 AWG; §§ 55 ff. AWV (FDI-Investitionsprüfung)
 - Art. 17 MAR; § 26 WpHG (Insiderinformation)
 - §§ 2 ff. StaRUG (Restrukturierungsanzeige)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

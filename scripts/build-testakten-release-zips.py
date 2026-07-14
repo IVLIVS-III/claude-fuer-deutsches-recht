@@ -9,6 +9,7 @@ Download eher einem echten Aktenordner als einer Demo-Mappe.
 from __future__ import annotations
 
 import sys
+import shutil
 import zipfile
 from pathlib import Path
 
@@ -19,6 +20,7 @@ TESTAKTEN = REPO_ROOT / "testakten"
 SKIP_DIRS = {
     "megaprompts",
 }
+ZIP_TIMESTAMP = (1980, 1, 1, 0, 0, 0)
 
 
 def iter_export_files(testakte_dir: Path):
@@ -27,19 +29,40 @@ def iter_export_files(testakte_dir: Path):
             yield path
 
 
+def write_file(zipf: zipfile.ZipFile, path: Path, arcname: str) -> None:
+    """Schreibt eine Datei streamend mit stabilen ZIP-Metadaten."""
+    info = zipfile.ZipInfo(arcname, ZIP_TIMESTAMP)
+    info.compress_type = zipfile.ZIP_DEFLATED
+    info.external_attr = 0o100644 << 16
+    with path.open("rb") as source, zipf.open(info, "w") as target:
+        shutil.copyfileobj(source, target, length=1024 * 1024)
+
+
 def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
     count = 0
     for path in iter_export_files(testakte_dir):
         arcname = Path(testakte_dir.name) / path.relative_to(testakte_dir)
-        zipf.write(path, arcname.as_posix())
+        write_file(zipf, path, arcname.as_posix())
         count += 1
     return count
 
 
 def build_single(testakte_dir: Path, dist: Path) -> tuple[Path, int]:
     out = dist / f"testakte-{testakte_dir.name}.zip"
-    with zipfile.ZipFile(out, "w", compression=zipfile.ZIP_DEFLATED) as zipf:
-        count = add_testakte(zipf, testakte_dir)
+    temporary = out.with_name(f".{out.name}.tmp")
+    try:
+        with zipfile.ZipFile(
+            temporary, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
+        ) as zipf:
+            count = add_testakte(zipf, testakte_dir)
+        if count == 0:
+            temporary.unlink(missing_ok=True)
+            out.unlink(missing_ok=True)
+        else:
+            temporary.replace(out)
+    except Exception:
+        temporary.unlink(missing_ok=True)
+        raise
     return out, count
 
 
@@ -60,10 +83,18 @@ def main() -> None:
         print(f"Baue {out.name}: {count} Dateien")
 
     all_out = dist / "alle-testakten.zip"
-    with zipfile.ZipFile(all_out, "w", compression=zipfile.ZIP_DEFLATED) as zipf:
-        all_count = 0
-        for d in dirs:
-            all_count += add_testakte(zipf, d)
+    all_temporary = all_out.with_name(f".{all_out.name}.tmp")
+    try:
+        with zipfile.ZipFile(
+            all_temporary, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
+        ) as zipf:
+            all_count = 0
+            for d in dirs:
+                all_count += add_testakte(zipf, d)
+        all_temporary.replace(all_out)
+    except Exception:
+        all_temporary.unlink(missing_ok=True)
+        raise
     print(f"Baue {all_out.name}: {all_count} Dateien aus {len(dirs)} Testakten")
     print(f"Fertig: {len(dirs)} Einzel-ZIPs, {total_files} Dateien")
 

@@ -103,10 +103,6 @@ Bei einem Beratungsfall **alle relevanten Anker prüfen**:
 - **Wer trägt die Beweislast?** — Gerichtsstand, prozessuale Strategie
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - Art. 2 Abs. 4 DSA — DSGVO bleibt unberührt
@@ -142,3 +138,5 @@ Anspruchs-Matrix:
 Empfohlene Strategie: [BESCHREIBUNG]
 Nächste Schritte: [LISTE]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

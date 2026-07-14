@@ -51,7 +51,6 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
  i.V.m. Anhang III: Hochrisiko-KI. Art. 9–15: Anbieterpflichten. Art. 25–29:
  Betreiberpflichten.
 - **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Widerspruchsrecht
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Trainingsdaten.
 - **UrhG § 44b**: Text-und-Data-Mining-Schranke bei KI-Training.
 - **BSI-Gesetz (BSIG)**: KI-Systeme in kritischer Infrastruktur.
@@ -60,12 +59,9 @@ Erstgespräch klärt die Rolle systembezogen (nicht unternehmensweit).
 
 **Leitentscheidungen**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn
  KI-Note maßgebliche Grundlage für Drittentscheidung ist.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  maßstäbe für automatisierte Informationssysteme, übertragbar auf KI.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
  Systemen.
 
@@ -165,14 +161,10 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 
 - **AI Act Art. 3, 5, 6 i.V.m. Anhang III, 9–15, 25–29** — VO (EU) 2024/1689.
 - **DSGVO Art. 22** bei automatisierten Einzelentscheidungen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 3 Rn. 12 ff.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.**
 - Ausgaben auf Basis von Gesprächsangaben: `[ANGABEN AUS INTERVIEW —
  anwaltliche Prüfung empfohlen]` kennzeichnen.
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 3 Nr. 3/4 KI-VO — Definitionen Anbieter / Betreiber
@@ -223,3 +215,5 @@ PRAXISPROFIL KI-GOVERNANCE — ERSTERFASSUNG
 Erstellt: [NAME], [DATUM]
 Naechste Pruefung: [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

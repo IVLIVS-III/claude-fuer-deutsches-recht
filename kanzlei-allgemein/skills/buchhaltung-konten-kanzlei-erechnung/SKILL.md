@@ -19,9 +19,6 @@ description: "Wenn es um Kanzlei-Buchhaltung, Konten und Zahlungsabgleich in Kan
 3. Sind offene Posten ueberfaellig und loest das Mahnwesen aus?
 4. Werden Fremdgelder kanzleiintern von eigenen Geldern getrennt gefuehrt (§ 43a Abs. 5 BRAO)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43a Abs. 5 BRAO — Pflicht zur Trennung von Fremdgeld und eigenem Vermögen
 - §§ 238-241 HGB — Buchfuehrungspflicht: Grundsaetze ordnungsmäßiger Buchfuehrung
@@ -107,3 +104,5 @@ Im Simulationsmodus:
 - `assets/templates/datev-uebergabe-simulation.md`.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

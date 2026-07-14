@@ -56,15 +56,10 @@ Bevor losgelegt wird, kläre:
 - **Paragrafen 322 ff., 324 UmwG** — Umwandlungsrecht; Paragraf 613a entsprechend anwendbar bei Spaltung und Verschmelzung
 - **Paragraf 125 InsO** — erleichterte Kündigung im Insolvenzverfahren; Paragraf 613a BGB gilt auch in Insolvenz
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ablauf
 
 ### Schritt 1 — Tatbestand: Identitätswahrung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Sieben-Punkte-Prüfung BAG / EuGH:**
 
@@ -106,7 +101,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
  - Widerspruchsrecht mit Frist (Paragraf 613a Abs. 6 BGB)
 
 **Folge fehlerhafter Unterrichtung:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadensersatz bei schuldhafter Verletzung
 
 ### Schritt 4 — Widerspruchsrecht Paragraf 613a Abs. 6 BGB
@@ -214,5 +208,6 @@ Handlungsempfehlungen:
 Zitierstandard: `../references/zitierweise.md`.
 
 - Paragraf 613a BGB; Paragrafen 111–113 BetrVG; Paragrafen 322 ff. UmwG; Paragraf 125 InsO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

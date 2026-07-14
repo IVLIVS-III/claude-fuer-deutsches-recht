@@ -1,4 +1,5 @@
 name: ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin
+plugin: "ki-vo-ai-act-pruefer"
 description: 'Schnittstellen-Akte zu GPAI und Deepfake-Transparenz nach der Verordnung (EU) 2024/1689: Eine Berliner
   Agentur erzeugt mit dem Integrator-Dienst SzenenWerk Studio (Kampagnenschmiede GmbH) auf Basis des GPAI-Modells
   Nordlys Vision 3 (Nordlys Model Works ApS, Daenemark) zwei fotorealistische Deepfake-Videos eines OB-Kandidaten

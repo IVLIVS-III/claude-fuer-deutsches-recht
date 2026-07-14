@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-schenkung-familie-oldenburg
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Anfechtung unentgeltlicher Leistungen an Familienmitglieder nach Paragraf 134 InsO mit Fristenfrage,
   Gegenleistungs-Streit, Gelegenheitsgeschenk-Einwand und einer Insolvenzreife-Diskrepanz zwischen Eigenantrag und
   Finanzunterlagen.

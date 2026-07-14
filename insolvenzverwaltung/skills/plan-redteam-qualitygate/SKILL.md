@@ -83,10 +83,6 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette (IV-Insolvenzplan)
 
 § 217 InsO (Plan-Option) → § 218 InsO (Vorlage durch IV) → §§ 220-221 InsO (Plan-Inhalte) → § 222 InsO (Gruppenbildung) → §§ 235-244 InsO (Abstimmung) → § 245 InsO (Obstruktionsverbot) → § 248 InsO (Bestaetigung) → § 254 InsO (Wirkung) → §§ 49-51 InsO (Absonderungsrechte in Plan)
@@ -114,3 +110,5 @@ BGH, Beschluss vom 23.04.2026 — IX ZB 18/25 (ECLI:DE:BGH:2026:230426BIXZB18.25
 - Die sofortige Beschwerde gegen die Aufhebung bleibt zulässig: Weder der Wirkungsverlust der Anzeige (Paragraf 31 Abs. 4 Nr. 3 StaRUG) noch der Ablauf der Sechs-Monats-Frist (Paragraf 31 Abs. 4 Nr. 4 StaRUG) lassen das Rechtsschutzinteresse entfallen; bei Beschwerdeerfolg erlangt die Anzeige ihre Wirkung wieder, einer erneuten Anzeige bedarf es nicht.
 
 Praxisfolge: Wer den Stabilisierungs- und Restrukturierungsrahmen trotz eingetretener Insolvenzreife halten will, muss Planreife, rechtlich gesicherte Finanzierungsbeiträge und die Quotenlogik der Vergleichsrechnung nach Paragraf 6 Abs. 2 StaRUG konkret dartun — sonst ist der richtige Ort der Krisenbewältigung das Insolvenzverfahren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

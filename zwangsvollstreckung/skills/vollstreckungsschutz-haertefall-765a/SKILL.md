@@ -36,15 +36,10 @@ Antrag des **Schuldners** auf einstweilige Einstellung, Beschränkung oder Aufhe
 - **§§ 766, 767, 769 ZPO** — abgrenzende Schutzwege (Erinnerung, Abwehrklage, einstweilige Einstellung bei Klage).
 - **§ 850k ZPO** — P-Konto-Schutz als vorgelagerter Standard-Schutz.
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Typische Konstellationen
 
 ### Konstellation A — Suizidgefahr
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Glaubhaftmachung**: substantielle, nicht nur behauptete Suizidgefahr.
 - **Maßnahme**: regelmäßig einstweilige Einstellung mit Wiedervorlage; Verlängerung möglich.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -195,3 +190,5 @@ Rechtsanwalt/-anwaeltin
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

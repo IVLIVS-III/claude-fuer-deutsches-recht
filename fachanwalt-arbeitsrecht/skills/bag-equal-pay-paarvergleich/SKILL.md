@@ -16,8 +16,6 @@ description: "Wenn es um Bag Equal Pay Paarvergleich in Fachanwalt Arbeitsrecht 
 
 **Fokus:** Fachanwalt Arbeitsrecht Bag Equal Pay Paarvergleich: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
-### Rechtsprechung live prüfen
-
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -82,10 +80,6 @@ Die Klägerin hat Anspruch auf Differenzentgelt nach Paragraf 3 Absatz 1 iVm Par
 
 Verbindung mit `fachanwalt-arbeitsrecht-orientierung` zur Mandatsaufnahme. Bei zusaetzlichen AGG-Aspekten ergaenzend prüfen. Im Vergleichsstadium die Skills zur Verhandlungsstrategie heranziehen.
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## EU-Lohngerechtigkeitsrichtlinie 2023/970 (Umsetzungsfrist 07.06.2026)
 
 Die Richtlinie (EU) 2023/970 vom 10. Mai 2023 (ABl. L 132 vom 17.05.2023, S. 21) verpflichtet die Mitgliedstaaten zur Umsetzung bis zum 07. Juni 2026. Die nationale Umsetzung in deutsches Recht steht zum Stand Mai 2026 noch aus. Beratungsrelevante Pflichten:
@@ -116,3 +110,5 @@ Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
 - Paragraf 10 EntgTranspG — Auskunftsanspruch
 - Paragraf 15 AGG — Entschädigung (Frist zwei Monate)
 - Paragraf 22 AGG — Beweislastverteilung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

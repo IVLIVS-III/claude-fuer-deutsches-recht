@@ -32,10 +32,6 @@ description: "Wenn es um Überschuldungsprüfung Paragraf 19 InsO (Steuerberater
 - **§ 17 InsO** — Zahlungsunfähigkeit als Parallel-Tatbestand.
 - **§ 102 StaRUG** — Krisenfrüherkennungspflicht der Geschäftsleitung; Hinweisrecht/-pflicht des Steuerberaters bei wesentlichen Krisensignalen.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Berufsständischer Hintergrund
 
 - **IDW S 11** (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen, Stand 12.8.2021) — maßgebliche Anleitung für die zweistufige Prüfung.
@@ -141,7 +137,6 @@ Nur bei negativer Stufe-1-Prognose. Liquidationswerte ansetzen — stille Reserv
 
 ## Eigene Haftungsvermeidung Steuerberater
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Form des Hinweises** schriftlich, mit Eingangsbeleg (Einschreiben oder beA an Mandantenvertretung; **kein ELSTER**, da nicht Empfänger Finanzbehörde).
 - **Inhalt** klar: konkrete Krisensignale benennen, Empfehlung anwaltlicher Beratung, Hinweis auf § 15a InsO und § 102 StaRUG. Keine eigene rechtliche Beurteilung (§ 5 RDG).
 - **Wiedervorlage und erneuter Hinweis** dokumentieren, wenn die Krise fortbesteht.
@@ -150,3 +145,5 @@ Nur bei negativer Stufe-1-Prognose. Liquidationswerte ansetzen — stille Reserv
 ## Quellen und Updates
 
 Stand: 05/2026. Maßgebliche Reformen berücksichtigt: SanInsKG (24-Monats-Prognose bis 31.12.2026), SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.), § 102 StaRUG. Bei Verlängerung/Auslaufen des SanInsKG ab 1.1.2027 Prognosezeitraum-Default zurück auf 12 Monate — bitte Stichtag prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

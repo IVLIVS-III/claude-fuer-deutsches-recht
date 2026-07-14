@@ -31,9 +31,6 @@ description: "Wenn es um Wandlungsausschluss-Prüfung in Wandeldarlehen-Lebenszy
 - § 242 BGB (Treu und Glauben – Verwirkung nach langem Zuwarten)
 - § 93 InsO (Anfechtung von Verfügungen über Wandlungsrechte)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Fristprüfung (§ 4.4)
@@ -79,12 +76,8 @@ Stand: 05/2026. Bei Änderung BGB-Verjährungsrecht aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 305c Abs. 2 BGB (Unklarheitenregelung gegen Verwender) → § 307 BGB (AGB-Kontrolle) → § 39 InsO (Nachrang Gesellschafterdarlehen) → § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln) → §§ 55, 56 GmbHG (Kapitalerhöhung, Voraussetzung Wandlung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

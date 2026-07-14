@@ -29,9 +29,6 @@ description: "Wenn es um Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt
 - **Spezialfrage (Fachanwalt für Sozialrecht — Orientierung):** Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing).
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## FAO-Voraussetzungen (§ 11 FAO)
 
 - Lehrgang 120 Stunden + drei Klausuren.
@@ -79,7 +76,6 @@ description: "Wenn es um Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt
 - Sozialgericht (SG) — erste Instanz, Kammern.
 - Landessozialgericht (LSG) — Berufung.
 - Bundessozialgericht (BSG) — Revision, Kassel.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Berufsverband
@@ -98,3 +94,5 @@ description: "Wenn es um Einstieg in den Skill-Verbund Sozialrecht in Fachanwalt
 - **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-arbeitsrecht`** bei Sperrzeit Arbeitslosengeld und Schwerbehinderung im Arbeitsverhältnis.
 - **`fachanwalt-medizinrecht`** bei medizinischer Begutachtung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

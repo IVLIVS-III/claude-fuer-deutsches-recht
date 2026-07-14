@@ -159,10 +159,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 443, 311 BGB — Garantievereinbarung: Formulierung entscheidet über Haftungsumfang; "Best Knowledge" vs. "actual knowledge" hat unterschiedliche Rechtsfolgen
 - §§ 195, 199 BGB — Verjährungsfristen: vertragliche Abkuerzung auf 18-24 Monate ueblich; laengere Fristen bei Tax und Title
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Key Issues List erstellen:** alle nicht geklarten Punkte aus Term Sheet extrahieren; Prioritaet festlegen
@@ -174,3 +170,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Arglist-Ausnahme nicht geklauselt: Cap ggf. unwirksam für arglistige Taeusching
 - Verjährung nicht abgegrenzt: Tax Warranties können unter kurzfristiger Gewaehrleistung fallen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

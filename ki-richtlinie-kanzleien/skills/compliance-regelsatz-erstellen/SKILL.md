@@ -77,9 +77,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitern müssen über Änderungen informiert und neu geschult werden.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit
 - § 43e BRAO — IT-Dienstleister-Anforderungen
@@ -124,3 +121,4 @@ Verabschiedet von: [GESCHAEFTSFUEHRUNG], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

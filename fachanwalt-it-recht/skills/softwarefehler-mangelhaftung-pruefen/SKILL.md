@@ -56,10 +56,6 @@ description: "Wenn es um Strukturierte Prüfung bei mangelhafter Software mit Ve
 - **§§ 327–327u BGB** — Digitale-Produkte-Richtlinie B2C: Aktualisierungspflicht § 327f BGB, Sachmangel § 327e BGB, Beweislastumkehr § 327k BGB ein Jahr.
 - **§ 377 HGB** — Untersuchungs- und Rügeobliegenheit bei beidseitig kaufmännischem Handelsgeschäft: unverzüglich nach Lieferung bei offensichtlichem Mangel, nach Entdeckung bei verborgenem Mangel; Verlust Mängelrechte bei Versäumnis.
 
-### BGH-Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfschema
 
 | Nr. | Prüfschritt | Norm | Kernfrage |
@@ -226,7 +222,6 @@ gemaess Kostenvoranschlag (Anlage K4) EUR ____.
 - BGB §§ 280, 327–327u, 433–453, 535–548, 631–650
 - HGB § 377
 - DSGVO Art. 32
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Marly Praxishandbuch Softwarerecht, 8. Aufl.
 - Schneider IT-Recht, 5. Aufl.
 
@@ -282,3 +277,4 @@ Anlagen: Fehlerprotokoll, Screenshots, Log-Auszuege (Anlage K1–K3)
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

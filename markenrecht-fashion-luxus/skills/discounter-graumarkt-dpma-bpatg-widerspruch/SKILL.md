@@ -27,7 +27,6 @@ Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt l
 - **§ 24 MarkenG:** Erschöpfung im deutschen Recht — Markeninhaber kann Weitervertrieb nicht untersagen, wenn Ware mit Zustimmung in EWR in Verkehr gebracht wurde
 - **Art. 15 UMV:** Erschöpfung der Unionsmarke (inhaltsgleich)
 - **§ 24 II MarkenG / Art. 15 II UMV:** Erschöpfungsausnahme: "Berechtigte Gründe" des Inhabers — insbesondere Zustandsveränderungen oder Rufschädigung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -116,8 +115,4 @@ Bevor rechtliche Schritte eingeleitet werden, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

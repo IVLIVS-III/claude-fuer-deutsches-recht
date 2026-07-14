@@ -329,6 +329,7 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 - VOB/B §§ 2, 6
 - NachwV (Nachweisverordnung Gefahrenabfall)
 - KrWG §§ 3, 28
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar- oder Handbuchfundstellen aus Modellwissen als Beleg verwenden; tragende Aussage nur mit frei prüfbarer Norm, Behördenquelle oder Gerichtsentscheidung ausgeben.
 - Stand: 05/2026; PFAS-Regulierung im Wandel (TFA, GenX), bei Neuregelung EU-Trinkwasserrichtlinie aktualisieren
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

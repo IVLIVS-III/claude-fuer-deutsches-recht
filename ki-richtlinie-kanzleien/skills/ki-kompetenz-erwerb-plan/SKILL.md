@@ -44,9 +44,6 @@ Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat
 
 Neue Leitlinien des Europäischen KI-Büros zur Auslegung des Art. 4 KI-VO sowie EU-FAQs zur KI-Kompetenz (FAQ der EU-Kommission zur KI-Kompetenz) und Hinweise der Bundesnetzagentur sind in die Schulungsunterlagen aufzunehmen. Die Schulung sollte zudem aktuelle Urteile zur KI-Haftung einbeziehen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 KI-VO — KI-Kompetenzverpflichtung für Anbieter und Betreiber
 - § 43 BRAO — Gewissenhafte Berufsausuebung (Kompetenzpflicht)
@@ -92,3 +89,4 @@ NAECHSTE ÜBERPRÜFUNG: [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

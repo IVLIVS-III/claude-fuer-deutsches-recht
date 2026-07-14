@@ -23,9 +23,6 @@ Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle r
 3. Kann die anfragende Person identifiziert werden (Name, E-Mail, Telefon) oder ist die Anfrage anonym?
 4. Ist die Anfrage in deutscher Sprache oder in einer Fremdsprache (Weiterleitung an mehrsprachige-antwort)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. b, f DSGVO — Rechtsgrundlage für Verarbeitung von Erstanfrage-Daten
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten aus der Anfrage extrahieren
@@ -118,3 +115,5 @@ Nach der Extraktion:
 ## Quellenkontrolle
 
 Für Eingang, Weiterleitung und Antwort einer Mandantenanfrage zuerst Mandatsstatus, Interessenkollision, Verschwiegenheit, Datenschutz und laufende Fristen bestimmen. Paragraf 43a BRAO, Paragraf 2 BORA, Paragraf 203 StGB und Artikel 5, 6 und 32 DSGVO nur nach konkreter Datenverarbeitung anwenden. Rechtsprechung gehört nur dann in das Arbeitsergebnis, wenn ihre tragende Aussage die konkrete Anfrage tatsächlich entscheidet.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

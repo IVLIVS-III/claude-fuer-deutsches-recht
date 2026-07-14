@@ -5,7 +5,6 @@
 | Erkennen | Behandlung |
 | --- | --- |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | `Rn 12` | `Rn. 12` |
 | `Rn. 12 ff.` | nur übernehmen, wenn die Spanne aus der Quelle hervorgeht |
 | Datenbanknummer ohne Volltext | `[DATENBANKFUNDSTELLE PRÜFEN]` |
@@ -29,3 +28,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Kurzregel
 
 Der Glattzieher macht aus schlechten Belegen keine guten Quellen. Er formatiert Vorhandenes und markiert alles, was verifiziert werden muss.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

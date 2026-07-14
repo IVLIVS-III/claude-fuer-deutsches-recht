@@ -39,10 +39,8 @@ Richtlinien-Verpflichtungen und Anwendungsfall-Register aus `CLAUDE.md`.
 
 **Leitentscheidungen**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  KI-Richtlinie ohne Adressierung von Scoring-Systemen schafft materielle
  Lücke, wenn entsprechende Systeme operativ eingesetzt werden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Vergessen I): Grundrechtliche Schutzpflichten gegenüber algorithmischen
  Systemen; Transparenzgebot beim KI-Einsatz.
 
@@ -95,6 +93,7 @@ Abgleich gegen Richtlinie und Register:
 | Offenlegung ggü. Betroffenen | [Richtlinien-Zusage] | [erforderlich?] | |
 | Anbieter-Datennutzung | [Playbook-Position] | [Anbieter-Bedingungen] | |
 
+```markdown
 ## ERFORDERLICHE Änderungen
 ### [Lücke]
 Quelle: [Datei] | Was geschieht: [Beschreibung]
@@ -149,7 +148,6 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 - **AI Act Art. 29** (Betreiberpflichten, Überwachung).
 - **DSGVO Art. 5 Abs. 2** (Rechenschaftspflicht) bei Richtlinien-Dokumentation.
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 17.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 5 Rn. 62 ff.**
 
@@ -159,9 +157,6 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 3. Gibt es bereits bekannte Richtlinien-Praxis-Kluft (z.B. Anwendungsfall ohne Richtlinien-Deckung)?
 4. Betrifft die neue Praxis einen Hochrisiko-Bereich (Art. 9 KI-VO Qualitaetsmanagement)?
 5. Ist eine Betriebsrats-Beteiligung nach § 87 Abs. 1 Nr. 6 BetrVG relevant?
-
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template — Richtlinien-Monitor-Bericht
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: sachlich-strukturiert
@@ -192,3 +187,5 @@ NAECHSTE SCHRITTE:
 Naechster Sweep: [DATUM]
 Erstellt: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

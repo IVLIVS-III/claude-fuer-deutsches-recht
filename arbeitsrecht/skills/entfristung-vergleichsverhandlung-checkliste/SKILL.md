@@ -57,10 +57,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Paragraf 34 EStG — Fünftel-Regelung für Abfindungen (steuerliche Behandlung prüfen)
 - Paragraf 109 GewO — Zeugnisanspruch
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Option A: Entfristungsbestätigung (Arbeitgeber gibt nach)
 
 Der Arbeitgeber erkennt an, dass das Arbeitsverhältnis unbefristet ist. Dann:
@@ -129,3 +125,5 @@ Die Parteien schließen zur Erledigung des Rechtsstreits folgenden Vergleich:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

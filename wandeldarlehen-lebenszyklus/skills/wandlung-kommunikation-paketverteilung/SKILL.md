@@ -30,9 +30,6 @@ description: "Wenn es um Wandlung – Kommunikation und Paketverteilung in Wande
 - § 246 HGB (Vollständigkeit der Buchführung)
 - § 8 Wandeldarlehensvertrag (Vertraulichkeit – an wen darf kommuniziert werden?)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Bestätigungsschreiben an Lender
@@ -81,12 +78,8 @@ Stand: 05/2026. Bei Änderung HGB § 272 oder UmwStG § 20 aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 47 Abs. 4 GmbHG (Stimmverbot eigene Sache) → § 40 GmbHG (Gesellschafterliste nach Wandlung) → § 53 Abs. 1 GmbHG (Zustimmung Gesellschafter zur Satzungsänderung) → § 16 GmbHG (Legitimationswirkung) → §§ 130, 132 BGB (Zugang Erklärungen)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

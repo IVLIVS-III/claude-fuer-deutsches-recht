@@ -137,4 +137,5 @@ IV. Folge
 - § 7, § 16, § 28 GewStG.
 - § 8c, § 8d KStG (analog).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

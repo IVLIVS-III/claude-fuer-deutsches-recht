@@ -1,4 +1,5 @@
 name: erbrecht-volljaehrigenadoption-unternehmer-erfurt
+plugin: "fachanwalt-erbrecht"
 description: Unternehmernachlass mit Volljährigenadoption, Alleinerbeneinsetzung, Pflichtteil leiblicher Kinder,
   GmbH-Bewertung und Erbscheinstaktik.
 checks:

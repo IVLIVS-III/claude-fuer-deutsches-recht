@@ -136,10 +136,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 225a Abs. 2, 3 InsO — Debt-Equity-Swap: Umwandlung von Gläubigerforderungen in Eigenkapital; Zustimmung Anteilseigner nicht erforderlich bei Ueberschuldung
 - § 8c KStG — steuerlicher Verlustuntergang bei schaedlichem Anteilserwerb; Ausnahme: Sanierungsklausel § 8c Abs. 1a KStG
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Insolvenztatbestand feststellen:** §§ 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
@@ -206,3 +202,5 @@ GESTALTENDER TEIL
 
 - assets/templates/starug-restrukturierungsplan.md
 - assets/templates/insolvenzplan-klassen-tabelle.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

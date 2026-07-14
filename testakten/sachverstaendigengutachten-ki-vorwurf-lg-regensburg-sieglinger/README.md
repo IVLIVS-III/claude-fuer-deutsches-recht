@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 72 KB) | PDF | [`gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf`](gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 78 KB) | PDF | [`gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf`](gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger-einzelpdfs.zip) |
 
@@ -91,9 +91,6 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 - 16_befangenheitsantrag_entwurf.docx — Entwurf Befangenheitsantrag nach Anhörung 22.01.2026
 - 17_gegen_gutachten_wallner_notiz.docx — Inhaltliche Skizze des Wallner-II-Privatgutachtens
 - 18_mandanten_email_sieglinger_nach_anhörung.docx — Mandanten-E-Mail mit Folgekosten- und Strategiefragen
-
-## Disclaimer
-
 
 ## Empfohlener Workflow
 

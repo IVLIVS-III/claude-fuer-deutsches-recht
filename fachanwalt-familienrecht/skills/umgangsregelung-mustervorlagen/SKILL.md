@@ -160,7 +160,6 @@ b) Andere Ferien: wie Paragraf 3 Residenzmodell
 
 Paragraf 4 Kindesunterhalt
 Beim paritätischen Wechselmodell verrechnen sich die
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Mehrverdiener zahlt Ausgleich an den Minderverdienenden
 nach Maßgabe der Einkommensunterschiede (berechnet nach
 aktueller Düsseldorfer Tabelle).
@@ -276,7 +275,6 @@ Vollstreckungstitel muss enthalten:
 - Ordnungsgeld bis EUR 25.000 je Verstoß
 - Ordnungshaft, wenn Ordnungsgeld keinen Erfolg verspricht oder nicht beigetrieben werden kann
 - Voraussetzung: Vollstreckungstitel mit Hinweis nach FamFG Paragraf 89 Absatz 2; das Ordnungsmittel unterbleibt, wenn der Verpflichtete fehlendes Vertretenmüssen darlegt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Vermittlungsverfahren Paragraf 165 FamFG
 
@@ -366,3 +364,5 @@ Vollstreckungstitel muss enthalten:
 - Schwab Familienrecht, 29. Aufl.
 - Wendl/Dose Unterhaltsrecht, 11. Aufl.
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

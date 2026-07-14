@@ -89,7 +89,6 @@ description: "Wenn es um Mandant will vor Klage Bank-Streit durch Ombudsmann-Ver
 - **Ombudsmann zuerst**: kostengünstig, oft Vergleichsdruck auf Bank
 - **BaFin parallel**: bei systematischen Verstößen (Beratungsfehler, MiFID-Pflichten)
 - **Beweislast-Erleichterungen** § 280 BGB i.V.m. WpHG-Beratungspflichten dokumentieren
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **MiFID-Beratungsdokumentation** rügen: Bank muss vollständig dokumentieren
 
 ## Quellen und Updates
@@ -100,7 +99,6 @@ Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-
 
 ### Leitsaetze zum Ombudsmann und ADR-Verfahren
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette ADR-Schlichtung
 - § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
@@ -185,3 +183,5 @@ Anlagen:
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

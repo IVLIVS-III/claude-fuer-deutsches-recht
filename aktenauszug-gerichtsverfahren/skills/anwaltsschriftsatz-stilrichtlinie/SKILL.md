@@ -21,10 +21,6 @@ description: "Wenn es um Anwaltsschriftsatz-Stilrichtlinie in aktenauszug-gerich
 - § 520 Abs. 3 ZPO — Berufungsbegründung: Bezeichnung der Angriffspunkte, neues Vorbringen
 - § 551 Abs. 3 ZPO — Revisionsbegründung: Angabe der Revisionsgründe
 
-## Rechtsprechung zum Schriftsatzstil und Schriftsatz-Anforderungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Sprache
 
 ### Allgemeine Grundsätze
@@ -117,3 +113,5 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 - [ ] Beträge mit EUR-Präfix?
 - [ ] Überschriften-Hierarchie korrekt?
 - [ ] Schriftsatz erfüllt Mindestanforderungen §§ 130-131 ZPO?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

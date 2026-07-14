@@ -1,4 +1,5 @@
 name: strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum
+plugin: "aktenaufbereiter-strafrecht"
 description: 'BtM- und Waffenverfahren der StA Bochum. Am 12.05.2026 wird die Wohnung des Beschuldigten ohne richterlichen
   Beschluss durchsucht, gestuetzt auf Gefahr im Verzug; der Vermerk behauptet, der Bereitschaftsrichter sei telefonisch
   nicht erreichbar gewesen. Die Bearbeitung muss die Zeitkette aus Einsatzprotokoll-CSV, Telefonvermerk-CSV der

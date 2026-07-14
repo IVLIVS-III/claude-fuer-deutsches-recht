@@ -29,10 +29,6 @@ description: "Wenn es um Norm-Historie und Änderungen in Subsumtions-Prüfer ge
 - Art. 49 GRCh — Rückwirkungsverbot auf Unionsebene
 - Art. 99 KI-VO — gestaffeltes Inkrafttreten (August 2024 - August 2027)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfungsschritte
 
 ### Schritt 1 — Maßgeblicher Zeitpunkt
@@ -91,3 +87,5 @@ Das System gibt in jedem Fall den Hinweis: "Diese Angaben zur Normfassung entspr
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -57,10 +57,6 @@ Step 5: Vergleich bei Zustimmung protokollieren lassen (Paragraf 794 Abs. 1 Nr. 
 Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist vereinbaren)
 ```
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Checkliste: Was muss in den Vergleich?
 
 ### 1. Beendigungsdatum
@@ -92,7 +88,6 @@ Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist 
 ### 5. Zeugnis
 
 - Welche **Note** wird im Zeugnis erteilt? (Mindest: "zur vollen Zufriedenheit" = befriedigend)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zeugnis **ohne qualifizierte Aussage** über Führung und Leistung ist ein Schlechzeugnis.
 - Formulierung prüfen: Keine geheimen negativen Formulierungen (z.B. "bemühte sich stets" statt "erledigte stets").
 - Ausstellungsdatum: Beendigungsdatum oder anderes Datum?
@@ -136,3 +131,5 @@ Die Parteien schließen zur Erledigung des Rechtsstreits folgenden Vergleich:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

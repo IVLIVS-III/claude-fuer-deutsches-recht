@@ -20,10 +20,6 @@ description: "Wenn es um Quality Gate — Vertragsausfueller in Vertragsausfüll
 3. Ist die Ampel des Quality Gate grün oder gibt es offene No-go-Kriterien?
 4. Hat der Mandant ausdrücklich Track Changes / Redline bestätigt?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 307 Abs. 1 S. 2 BGB — Transparenzgebot (Klausel muss klar und verständlich sein)
@@ -193,3 +189,5 @@ Empfehlung: Go / Go mit Warnungen / No-go
 - `vaf-redline-qa` — Review von Track-Changes-Fassungen
 - `vaf-clean-output` — finaler Clean-Entwurf nach GRUEN-Ampel
 - `vaf-track-changes-nur-nach-frage` — Track Changes nur nach Bestätigung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

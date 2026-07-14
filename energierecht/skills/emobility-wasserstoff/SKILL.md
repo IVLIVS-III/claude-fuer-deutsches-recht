@@ -235,10 +235,6 @@ description: "Wenn es um E-Mobilität und Wasserstoff in Energierecht geht: prü
 3. CBAM-Aspekte
 4. Skill `energierecht-industriekunden`
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 § 37a BImSchG (THG-Quote) — §§ 7 ff. LSV (Ladesaeulenverordnung) — Art. 3 AFIR 2023/1804 (Mindestanforderungen Ladeinfrastruktur) — §§ 2, 6 MessEG (Eichrecht) — §§ 1, 5 EEG (Erneuerbarkeits-Kriterien RED III) — § 28 EnWG (Wasserstoff-Netz)
@@ -266,3 +262,5 @@ description: "Wenn es um E-Mobilität und Wasserstoff in Energierecht geht: prü
 - H2-Stammnetz-Beschluss BNetzA
 - UBA THG-Quoten-Verwaltung
 - BVerwG-/EuGH-Linien zu E-Mobilität (begrenzt)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

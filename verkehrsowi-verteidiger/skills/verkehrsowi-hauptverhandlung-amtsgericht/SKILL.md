@@ -36,10 +36,6 @@ Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nac
 - **§ 79 OWiG** — Rechtsbeschwerde: zulässig bei Geldbusse > 250 EUR oder Fahrverbot
 - **§ 80 OWiG** — Zulassung der Rechtsbeschwerde bei grundsaetzlicher Bedeutung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorbererungs-Checkliste (1 Woche vor HV)
 
 ```
@@ -124,3 +120,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Entbindungsantrag rechtzeitig (vor HV) stellen.
 - Rechtsbeschwerde nur bei Geldbusse > 250 EUR oder Fahrverbot; sonst kein Rechtsmittel.
 - Anwaltliche Endkontrolle bei Plaedoyer und Antraegen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

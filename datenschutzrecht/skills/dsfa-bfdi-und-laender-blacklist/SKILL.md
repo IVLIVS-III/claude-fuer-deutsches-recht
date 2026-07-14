@@ -97,5 +97,6 @@ Unterschrift: ____________________
 - BfDI: bfdi.bund.de — Pflichtliste und Whitelist (live prüfen)
 - LfDI Baden-Wuerttemberg, LDA Bayern, BlnBDI Berlin, HmbBfDI Hamburg, HBDI Hessen, LfDI Rheinland-Pfalz, LfD Niedersachsen, LDI NRW, ULD Schleswig-Holstein, LfDI Saarland, SaechsDSB, LfD Sachsen-Anhalt, TLfDI, LfD Mecklenburg-Vorpommern, LfDI Bremen, LfD Brandenburg — eigene Listen abrufen
 - EDSA-Leitlinien WP 248 rev.01
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

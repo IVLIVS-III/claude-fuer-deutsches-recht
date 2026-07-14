@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 31 KB) | PDF | [`gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf`](gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 37 KB) | PDF | [`gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf`](gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel-einzelpdfs.zip) |
 

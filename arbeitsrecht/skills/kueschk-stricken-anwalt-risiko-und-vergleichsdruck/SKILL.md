@@ -39,10 +39,6 @@ Vergleich vertretbar? → Im nächsten Termin Einigung anstreben
 Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, Paragraf 102 Abs. 5 BetrVG prüfen
 ```
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Das zentrale Risiko — bitte genau lesen
 
 **Das Szenario:**
@@ -104,3 +100,5 @@ Der sicherste Weg: Im Gütetermin oder Kammertermin einen **Vergleich mit Beendi
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

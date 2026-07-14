@@ -131,10 +131,6 @@ Wenn der Status stille Reserven enthält (Skill `bilanzieller-status-aufnehmen`)
 - Empfehlung: bei mehr als zwei nicht-belastbaren oder ambitionierten Annahmen die das Ergebnis tragen ist die Prognose **nicht positiv** zu werten.
 - Liste konkreter Maßnahmen zur Verbesserung der Belastbarkeit (Belegnachholung Verhandlungsabschluss Drittvereinbarung).
 
-## Aktuelle Leitentscheidungen — Annahmen-Plausibilitaet
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Annahmen-Plausibilitaet
 
 § 19 Abs. 2 InsO (Fortbestehensprognose) → § 15b InsO (Haftung bei fehlerhafter Prognose) → IDW S 11 Rn. 45 ff. (Annahmen-Qualitaet) → IDW S 6 Rn. 90 ff. (Plausibilitaetspruefung Sanierungskonzept)
@@ -147,3 +143,5 @@ Bevor losgelegt wird, klaere:
 2. **Vergangenheits-Abgleich:** Welche Wachstumsraten wurden in den letzten 3 Jahren tatsaechlich erreicht? Neue Annahmen müssen daraus ableitbar sein.
 3. **Sensitivity-Test:** Welche Annahme ist am kritischsten? Was passiert wenn Haupt-Kunden 20% weniger abnimmt?
 4. **Worst-Case-Szenario:** Prognose auch bei pessimistischsten Annahmen noch positiv?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg
+plugin: "fachanwalt-sozialrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg.
 checks:
   - id: datei-01-antrag-teilhabeassistenz-2026-05-04

@@ -11,7 +11,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 50 KB) | PDF | [`gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf`](gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 52 KB) | PDF | [`gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf`](gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen-einzelpdfs.zip) |
 

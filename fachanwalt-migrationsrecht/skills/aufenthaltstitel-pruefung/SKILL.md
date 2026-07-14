@@ -171,7 +171,6 @@ Begründung:
 Die Behörde hat den Lebensunterhalt als nicht gesichert abgelehnt.
 Diese Einschätzung ist unzutreffend.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 gegeben, wenn das Nettoeinkommen den nach SGB II maßgeblichen Bedarf
 aller Familienmitglieder übersteigt. Maßgeblich sind:
 
@@ -385,3 +384,4 @@ VI. NAECHSTE SCHRITTE
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -17,16 +17,6 @@ description: "Wenn es um Falsche-Wiese-Warnung: Bereicherung und Anfechtung in b
 
 § 812 Abs. 1 BGB (Leistungskondiktion, Nichtleistungskondiktion) — §§ 134, 138, 142 BGB (Nichtigkeitsgründe) — §§ 129 ff. InsO (Insolvenzanfechtung) — §§ 1 ff. AnfG (Gläubigeranfechtung außerhalb InsO) — § 985 BGB (Herausgabeanspruch des Eigentümers) — § 2 AnfG (Vollstreckungstitel Voraussetzung)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Falschverortung 1: Vertrag statt Bereicherungsrecht
 
 **Fehler:** Nutzer begehrt Rückzahlung einer Leistung, stützt sich aber auf den unwirksamen Vertrag selbst.
@@ -85,3 +75,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

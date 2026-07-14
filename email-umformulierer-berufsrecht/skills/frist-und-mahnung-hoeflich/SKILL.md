@@ -18,9 +18,6 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 4. Ist der Schuldner Verbraucher (besonderer Schutz nach §§ 305 ff. BGB) oder Unternehmer?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 286 BGB — Schuldnerverzug: Mahnungserfordernis und -wirkung
 - § 203 BGB — Hemmung der Verjährung durch Verhandlungen (anwaltliche Mahnung kann Hemmung ausloesen)
@@ -109,3 +106,5 @@ Zulässig: "Ich behalte mir vor, die Angelegenheit gerichtlich geltend zu machen
 
 **Vorher:** "Jetzt reicht es mir mit Ihnen!"
 **Nachher:** "Da trotz mehrfacher Erinnerung keine Reaktion erfolgt ist, sehe ich mich gehalten, formell zu mahnen und eine Frist bis TT.MM.JJJJ zu setzen."
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

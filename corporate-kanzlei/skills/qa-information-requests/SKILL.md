@@ -126,10 +126,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Q&A können Insider-Infos enthalten; nur autorisierte Personen dürfen antworten
 - **§ 17 UWG** — Geschäftsgeheimnis; manche Fragen zielen auf vertrauliche Informationen ab
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Q&A-Prozess: Standardablauf
 
 | Schritt | Inhalt | Owner | Frist |
@@ -195,5 +191,6 @@ DURCHSCHNITTLICHE ANTWORTZEIT: [Tage]
 ## Quellen
 
 - §§ 311 II, 444 BGB; Art. 18 MAR; § 17 UWG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 6
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

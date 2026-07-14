@@ -100,6 +100,7 @@ Compliance-Pflicht. Im Eintrag explizit vermerken: "Vorstufe. Kommentierungsfris
 Für jeden Eintrag oberhalb "Zur Kenntnis": einzeilige Zusammenfassung + Relevanzhinweis
 + Link + Inkrafttreten bzw. Kommentierungsfrist. "Zur Kenntnis"-Einträge: nur Anzahl.
 
+```markdown
 ## Regulatorischer Feed-Check — [Datum]
 Zeitraum: [letzter Lauf] – [jetzt] | Quellen: [...] | Einträge: [N]
 
@@ -159,6 +160,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 Jeder Eintrag muss enthalten: Behörde, Dokumenttyp, Datum, Direktlink zur Primärquelle,
 Quellenkennung und ggf. Kommentierungsfrist. Zitierweise Rechtsprechung:
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Zitierweise Kommentare:
 `Sachs/Sachs, GG, 10. Aufl. 2021, Art. 20 Rn. 78`
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

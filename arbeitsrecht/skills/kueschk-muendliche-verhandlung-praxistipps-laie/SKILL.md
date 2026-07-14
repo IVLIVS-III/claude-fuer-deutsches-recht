@@ -99,10 +99,6 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 - **Paragraf 278 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Gütliche Einigung jederzeit möglich
 - **Paragraf 794 Abs. 1 Nr. 1 ZPO** — Gerichtlicher Vergleich als Vollstreckungstitel
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Nach dem Termin
 
 - Protokoll des Vergleichs oder Sitzungsprotokoll aufheben
@@ -114,3 +110,5 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

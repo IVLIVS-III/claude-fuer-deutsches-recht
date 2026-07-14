@@ -172,14 +172,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch HGR
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normenkette Erstgespräch HGR
 
 § 246 AktG (Monatsfrist Anfechtungsklage AG) → § 47 GmbHG (analoge Anfechtungsfrist GmbH) → § 15 GmbHG (Anteilsabtretung notariell) → §§ 43a, 45 BRAO (Interessenkonflikt bei GmbH-Gesellschaft + GF) → §§ 3, 3a RVG (Honorarvereinbarung) → §§ 10, 11 GwG (GwG-Pflichten bei GmbH/AG-Mandaten) → § 15a InsO (Insolvenzantragspflicht — im Erstgespräch auf Krisensignale prüfen)
@@ -187,3 +179,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

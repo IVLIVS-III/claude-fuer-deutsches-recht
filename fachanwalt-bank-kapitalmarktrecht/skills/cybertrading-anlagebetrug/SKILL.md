@@ -50,7 +50,6 @@ description: "Wenn es um Cybertrading Anlagebetrug in Fachanwalt Bank Kapitalmar
 ### Bankrecht
 
 - **AGB-Banken Nr. 11** — Pflicht der Bank, Kunden auf evidente Betrugsrisiken hinzuweisen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sofortmaßnahmen — Erste 72 Stunden
 
@@ -254,7 +253,6 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - KWG § 25h; GwG §§ 2, 60
 - AGB-Banken Nr. 11
 - EStG §§ 20 Abs. 2, 10d
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin-Datenbank unerlaubte Tätigkeiten (bafin.de/unerlaubt)
 - BMF-Schreiben Krypto 22.11.2024
 
@@ -262,7 +260,6 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ### Ergaenzende Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen Cybertrading-Betrug
 - § 263 Abs. 1, Abs. 3 StGB — Betrug, gewerbsmäßiger Betrug
@@ -272,3 +269,5 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - § 823 Abs. 2 BGB i.V.m. § 263 StGB — Schutzgesetzverletzung
 - § 25h KWG — Sorgfaltspflichten Bank bei Verdachtsmeldung
 - § 675x BGB — SEPA-Rueckbuchungsrecht (8 Wochen)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

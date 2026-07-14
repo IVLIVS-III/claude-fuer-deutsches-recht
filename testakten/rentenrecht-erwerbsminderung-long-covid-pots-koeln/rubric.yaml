@@ -1,4 +1,5 @@
 name: rentenrecht-erwerbsminderung-long-covid-pots-koeln
+plugin: "rentenpruefer"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte rentenrecht-erwerbsminderung-long-covid-pots-koeln.
 checks:
   - id: datei-01-antrag-erwerbsminderungsrente-2026-03-11

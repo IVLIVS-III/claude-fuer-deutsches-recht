@@ -32,7 +32,6 @@ description: "Wenn es um Betriebsrat Ladung Und Ersatzmitglieder Pruefen in Arbe
 - **Paragraf 24 BetrVG** — Erlöschen der Mitgliedschaft
 - **Paragraf 25 Abs. 1 BetrVG** — Nachrücken in den Betriebsrat
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Warum diese Prüfung — Anker für die ganze Beschlussfassung
 

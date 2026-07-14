@@ -68,9 +68,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Prompting-Techniken entwickeln sich mit den KI-Systemen weiter. Was heute gut funktioniert, kann bei einem Modell-Update weniger effektiv sein. Die Schulungsunterlagen sollten jährlich mit aktuellen Erfahrungen und neuen Erkenntnissen aus der juristischen KI-Praxis aktualisiert werden.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43 BRAO — Gewissenhafte Berufsausuebung (gilt auch für Prompting-Qualitaet)
 - Art. 4 KI-VO — KI-Kompetenzverpflichtung (beinhaltet effektiven Umgang mit KI)
@@ -119,3 +116,4 @@ FRAGEN: [ANSPRECHPARTNER KI]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

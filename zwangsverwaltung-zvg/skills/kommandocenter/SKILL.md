@@ -60,10 +60,6 @@ description: "Wenn es um Zwangsverwaltungs-Kommandocenter in ZVG-Zwangsverwaltun
 - §§ 150, 152 ZVG
 - §§ 1, 3 ZwVwV
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Kommandocenter
 
 § 154 ZVG (Gerichtliche Aufsicht) → § 20 ZwVwV (Vergütung und Rechenschaft) → §§ 13-15 ZwVwV (Buchführung und Berichte) → § 159 ZVG (Aufhebung Zwangsverwaltung)
@@ -80,3 +76,5 @@ description: "Wenn es um Zwangsverwaltungs-Kommandocenter in ZVG-Zwangsverwaltun
 | Versicherungsprämien gezahlt | Fälligkeitsdatum | [ ] |
 | Grundsteuer-Vorauszahlung | 15.02./15.05./15.08./15.11. | [ ] |
 | Hausgeldabrechnung WEG (falls EWZ) | Gem. WEG-Plan | [ ] |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

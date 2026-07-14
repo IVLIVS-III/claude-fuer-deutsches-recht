@@ -41,10 +41,6 @@ description: "Wenn es um Sachgrundlose Befristung nach Paragraf 14 Abs in Arbeit
 - Paragraf 16 Satz 1 TzBfG — Rechtsfolge bei Verstoß: Vertrag gilt als unbefristet
 - Paragraf 17 TzBfG — 3-Wochen-Klagefrist
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Voraussetzungen der sachgrundlosen Befristung
 
 Nach Paragraf 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
@@ -101,3 +97,5 @@ Ist Paragraf 14 Abs. 2 TzBfG verletzt (Vorbeschäftigung, Überschreitung Dauer 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

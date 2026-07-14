@@ -35,7 +35,6 @@ description: "Wenn es um Werbeaussagen-Prüfung (Marketing Claims Review) in Pro
 - Anlage 1 zu § 3 Abs. 3 UWG: Stets unzulässige geschäftliche Handlungen (Schwarze Liste)
 
 **Klimaaussagen und Nachhaltigkeitswerbung**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - RL (EU) 2024/825 (EmpCo-RL, Umsetzung bis 27.03.2026): Verschärfte Anforderungen an Nachhaltigkeitsaussagen, insbesondere gegen unbelegte generische Umweltaussagen und nicht transparente Kompensations-/Klimaneutralitätsclaims.
 
 **Gesundheitsbezogene Angaben**
@@ -44,10 +43,8 @@ description: "Wenn es um Werbeaussagen-Prüfung (Marketing Claims Review) in Pro
 - LMIV VO (EU) 1169/2011: Irreführungsverbot für Lebensmittelkennzeichnung und -werbung
 
 **Vergleichende Werbung und Konkurrentennennung**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Influencer-Werbung und Kennzeichnungspflicht**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 22 MStV (Medienstaatsvertrag): Werbekennzeichnungspflicht für Telemedien und Social Media
 
 ### Quellenregel
@@ -99,7 +96,6 @@ Messbare, spezifische Aussagen, auf die ein vernünftiger Verbraucher vertraut.
 
 **Klimaneutralitäts- und Nachhaltigkeitsaussagen (besonderer Fokus)**
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Aussage | Prüfmuster |
 |---|---|
@@ -199,17 +195,13 @@ Für längere Assets (> 300 Wörter): Änderungs-Diff als Aufzählung.]
 
 **Beispiel-Ergebnis:**
 - **(1) "Stärkt Ihr Immunsystem"** → 🔴 **Streichen oder ersetzen.** Gesundheitsbezogene Angabe für Nahrungsergänzungsmittel nur zulässig, wenn in der Positivliste der Health-Claims-VO (EG) 1924/2006 gelistet. "Vitamin C trägt zur normalen Funktion des Immunsystems bei" wäre zulässig (Art. 13-Claim, zugelassen). Allgemein gehaltener Immunsystem-Claim ohne Nährstoffbezug ist nicht gelistet → Abmahnrisiko.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **(3) "50 % wirksamer als…"** → ⚠️ **Nachweis erforderlich.** Vergleichende Werbung (§ 6 UWG) zulässig nur mit objektivem, aktuellem, nachweisbarem Vergleich. Head-to-Head-Studie mit offengelegter Methodik vorlegen oder Formulierung streichen.
 
 ## Risiken und typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Ungesicherte Alleinstellungsbehauptungen:** "Die Nr. 1", "Marktführer", "Einzig" — nur zulässig mit aktuellem, belastbarem Beleg (Marktanteilsstudie, Zertifikat o. Ä.).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Health-Claims außerhalb der Positivliste:** Jede gesundheitsbezogene Angabe für Lebensmittel und Nahrungsergänzungsmittel benötigt einen zugelassenen Claim nach Art. 13 oder 14 VO 1924/2006. Eigene Formulierungen sind grundsätzlich unzulässig.
 - **HWG-Verstöße in Heilmittelwerbung:** § 3 HWG verbietet irreführende Werbung für Arzneimittel, Medizinprodukte und Verfahren. § 11 HWG verbietet spezifisch Laienempfehlungen, Vorher-Nachher-Bilder, Angst- und Druckwerbung gegenüber Verbrauchern.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Substantiierung bei absoluten Behauptungen:** "100 %" und "immer" unterliegen einem Nulltoleranzmaßstab; ein einziges dokumentiertes Gegenbeispiel genügt für eine begründete Abmahnung.
 
 ## Quellenpflicht
@@ -224,3 +216,5 @@ Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

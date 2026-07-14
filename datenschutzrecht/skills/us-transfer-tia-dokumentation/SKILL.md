@@ -74,7 +74,6 @@ Prüfe und dokumentiere:
 
 Für die Akte:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EU-US Data Privacy Framework: aktueller Angemessenheitsbeschluss der EU-Kommission vom 10.07.2023; nutzbar nur für teilnehmende US-Organisationen im sachlichen Umfang der Zertifizierung.
 
 Formuliere nie, dass Safe Harbor oder Privacy Shield heute eine gültige Rechtsgrundlage seien.
@@ -136,3 +135,5 @@ Erzeuge auf Wunsch ein zusammenhängendes Paket:
 - Offizielle DPF-Liste: Data Privacy Framework Program, Participant Search.
 - EU-Kommission: Standardvertragsklauseln nach Durchführungsbeschluss (EU) 2021/914.
 - EDSA: Recommendations 01/2020 zu ergänzenden Maßnahmen, Final Version 18.06.2021.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

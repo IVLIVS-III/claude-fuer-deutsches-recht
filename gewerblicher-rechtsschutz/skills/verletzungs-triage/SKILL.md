@@ -61,7 +61,6 @@ Zunächst bestimmen, welches Recht verletzt sein könnte:
 - [ ] Ist die Marke schutzfähig und nicht durch Einreden (Benutzungsschonfrist § 26 MarkenG, Verfalls § 53 MarkenG) gefährdet?
 - [ ] Greift keine Schranke (§§ 20–26 MarkenG: beschreibende Benutzung, rein dekorative Benutzung)?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Patentrecht (§ 9 PatG)
 
@@ -87,7 +86,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - [ ] Keine Schranke (§§ 44a ff. UrhG: Zitat, Karikaturl Parodik)?
 - [ ] Nachweis der Verletzung ausreichend (z. B. Hash-Vergleich bei Filesharing)?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### Wettbewerbsrecht (§ 8 UWG)
 
@@ -99,7 +97,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - [ ] Mitbewerber, qualifizierte Einrichtung oder Verbraucherschutzverband anspruchsberechtigt (§ 8 Abs. 3 UWG)?
 - [ ] Besondere Gefahr des Leistungsschutzes nach § 4 Nr. 3 UWG (konkrete Nachahmung)?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Schwere der Verletzung bewerten
 
@@ -125,7 +122,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | **E) Hauptsacheklage** | Klage auf Unterlassung, Schadensersatz, Auskunft | Schwere Verletzung; Abmahnung erfolglos; hoher Streitwert; Grundsatzklärung |
 
 **Dringlichkeitsprüfung für einstweilige Verfügung:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EV-Antrag muss schlüssig und mit eidesstattlichen Versicherungen gestützt sein
 - Vollziehungsfrist: EV muss innerhalb 1 Monat zugestellt werden (§ 929 Abs. 2 ZPO)
 
@@ -153,7 +149,6 @@ Zitierweise nach `../references/zitierweise.md`.
 **Normen:** §§ 14, 15 MarkenG; §§ 9, 10, 139 PatG; §§ 97, 97a UrhG; §§ 3, 8 UWG; §§ 935–945 ZPO (EV); § 256 ZPO (NFL).
 
 **Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 1.100 ff.
@@ -168,3 +163,5 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Gegenangriff nicht einkalkulieren:** Besonders bei Patentverfahren besteht erhebliches Nichtigkeitsrisiko; bei Marken Löschungsantrag möglich.
 - **Missbrauchsrisiko § 8c UWG:** Serielle Abmahnungen mit primärem Gebührenerzielungszweck sind missbräuchlich; anwaltliche Prüfung des Gesamtbilds erforderlich.
 - **Verjährung beachten:** § 20 MarkenG (3 Jahre), § 141 PatG (3 Jahre), § 102 UrhG (3 Jahre), § 11 UWG (6 Monate ab Kenntnis / 3 Jahre absolut); `[Modellwissen – prüfen]`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

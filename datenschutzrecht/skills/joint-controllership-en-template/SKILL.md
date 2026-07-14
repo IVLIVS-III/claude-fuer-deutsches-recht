@@ -152,4 +152,3 @@ Date: Date:
 - CJEU C-40/17 (Fashion ID) – verified.
 - Full texts available via curia.europa.eu.
 - Citation rules: `../../../references/zitierweise.md`.
-```

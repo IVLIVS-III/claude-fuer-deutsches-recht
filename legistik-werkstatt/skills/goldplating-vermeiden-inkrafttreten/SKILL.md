@@ -59,10 +59,6 @@ Pro Abweichung: notwendig für die Funktion der nationalen Rechtsordnung? Oder V
 
 Bei vollharmonisierenden Richtlinien (z.B. Verbraucherrechte-RL 2011/83) ist Goldplating in der Regel unzulaessig.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 § 62 Abs. 2 GGO (Goldplating-Vermeidungsgebot) — Art. 288 AEUV (Richtlinien-Regelungs-Spielraum) — §§ 1-3 GoldplatingV (Bundesregierung 2012, Berichtspflicht) — Art. 5 EUV (Verhältnismäßigkeit, Subsidiaritaet)
@@ -82,3 +78,5 @@ Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
 ## Anschluss
 
 `verfassungsmaessigkeit-quercheck`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

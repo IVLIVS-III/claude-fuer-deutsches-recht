@@ -73,18 +73,15 @@ das einer Einlagensicherung angehört.
 
 ### Kanonische Rechtsprechung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Das Vermögensverzeichnis muss alle vermögensrechtlich relevanten
 Positionen aufführen. Fahrzeugen, Schmuck und sonstigen beweglichen
 Sachen sind mit Schätzwert anzugeben; pauschale Auslassungen sind
 unzureichend.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Die Rechnungslegung muss in **kontinuierlicher** Buchführung erfolgen.
 Eine einmal jährliche zusammenfassende Aufstellung ohne Belege genügt
 nicht; das Gericht muss die Mittelverwendung nachprüfen können.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Verstöße gegen die Pflicht zur mündelsicheren Anlage (§ 1839 BGB) können
 Ersatzansprüche der betreuten Person nach § 1826 BGB iVm § 280 Abs. 1
 BGB auslösen; Zinsausfallschäden sind ersatzfähig.
@@ -238,9 +235,10 @@ des Betreuers. Verstöße können strafrechtliche Folgen haben (Untreue
 Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 
 - §§ 1835, 1839, 1841, 1845, 1865 BGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 
 ---
 *Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.*
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

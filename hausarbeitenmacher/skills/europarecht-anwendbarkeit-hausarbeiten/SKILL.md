@@ -75,7 +75,6 @@ Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnun
 ### Marleasing-Doktrin
 
 - Nationales Gericht muss nationales Recht **im Lichte und im Sinne der Richtlinie** auslegen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Auch bei nicht-rechtzeitiger Umsetzung
 - Auslegungs-Grenze: nationale Methodenlehre, Wortlaut, contra-legem-Verbot
 
@@ -228,3 +227,5 @@ Wenn Du argumentierst: "Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 
 - `methodenlehre-auslegung` — Auslegungs-Methoden inkl. EU-konform
 - `verfassungsrecht-grundrechtspruefung` — Verhältnis zu nationalen Grundrechten
 - `meinungsstreit-darstellen` — Bei EU-rechtlichen Streit-Fragen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

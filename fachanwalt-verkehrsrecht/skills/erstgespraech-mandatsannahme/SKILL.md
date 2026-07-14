@@ -164,10 +164,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
-## Aktuelle Rechtsprechung Erstgespraech Verkehrsrecht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen Erstgespraech Verkehrsrecht
 
 - § 67 OWiG — Einspruchsfrist Bussgeldbescheid (2 Wochen)
@@ -176,3 +172,5 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - §§ 10-17 GwG — Identifizierungs- und Sorgfaltspflichten
 - § 9 RVG — Vorschussanforderung
 - §§ 3a, 4a RVG — schriftliche Honorarvereinbarung, Erfolgshonorar-Schranken
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

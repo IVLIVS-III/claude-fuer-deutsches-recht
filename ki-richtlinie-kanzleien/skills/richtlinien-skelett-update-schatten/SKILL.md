@@ -88,9 +88,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrechtsakte, neue BRAK-Hinweise, neue BAG- oder OLG-Entscheidungen) anzupassen. Der Skill `richtlinien-update-zyklus` legt das Prüfintervall fest.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 KI-VO — KI-Kompetenzverpflichtung als Richtlinien-Anforderung
 - Art. 26/29 KI-VO — Betreiberpflichten in Richtlinie operationalisieren
@@ -154,3 +151,4 @@ Genehmigt von: [UNTERSCHRIFT], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

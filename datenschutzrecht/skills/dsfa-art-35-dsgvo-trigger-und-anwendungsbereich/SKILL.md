@@ -112,5 +112,6 @@ Unterschrift DSB: ____________________
 - EDSA-Leitlinien WP 248 rev.01 zur DSFA
 - BfDI: bfdi.bund.de — aktuelle Blacklist und Whitelist live prüfen
 - Landesdatenschutzbehoerden (LfDI BW, LDA Bayern u.a.) — eigene Listen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle oder lizenziertem Live-Zugriff
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -38,10 +38,6 @@ Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistiku
 - VO (EG) 561/2006 — Lenk- und Ruhezeiten Gueterverkehr
 - § 22 StVO — Ladung; Hoechstgewicht, Breite, Laenge
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Bedarf analysieren:** Welche Betriebe brauchen Lieferflaeche, welche Frequenz, welche Fahrzeugklassen?
@@ -125,3 +121,5 @@ Mit freundlichen Gruessen
 - Sondernutzungsgebuehren vertraglich absichern und kalkulieren
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

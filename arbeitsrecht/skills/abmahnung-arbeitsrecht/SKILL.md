@@ -53,16 +53,12 @@ description: "Wenn es um Abmahnung Arbeitsrecht in Arbeitsrecht geht: ordnet Akt
 ### Leitentscheidungen (BGH-Stil)
 
 - **Warnfunktion / Bestimmtheit:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Entbehrlichkeit der Abmahnung:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Abmahnung als Kündigung vorbereitende Maßnahme:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Entfernung aus Personalakte:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -138,7 +134,6 @@ in Betracht ziehen werden.
 
 ### Schritt 6 – Verhältnis zur Kündigung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Mehrere Abmahnungen wegen gleichartiger Verstöße erhöhen die Kündbarkeit der Pflichtverletzung.
 
@@ -150,7 +145,6 @@ in Betracht ziehen werden.
 
 > "Wir rügen folgendes Verhalten: Am 03.03.2025 haben Sie Ihre Arbeitsleistung nicht wie vertraglich geschuldet um 08:00 Uhr, sondern erst um 08:45 Uhr aufgenommen, ohne uns vorher über die Verspätung zu informieren. Sie haben dadurch gegen Ihre arbeitsvertragliche Pflicht zur pünktlichen Erbringung der Arbeitsleistung verstoßen. Wir fordern Sie auf, Ihre Arbeit künftig pünktlich um 08:00 Uhr aufzunehmen und uns bei absehbaren Verspätungen rechtzeitig zu informieren. Wir weisen Sie ausdrücklich darauf hin, dass wir im Wiederholungsfall arbeitsrechtliche Konsequenzen bis hin zur Kündigung des Arbeitsverhältnisses in Betracht ziehen werden."
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
 
@@ -165,7 +159,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Inhaltlich falsche Tatsachen | Anspruch auf Entfernung (Paragraf 242 BGB) | Sachverhalt vor Abmahnung sorgfältig aufklären |
 | Datenschutz / Paragraf 203 StGB | Strafbarkeit bei unbefugter Weitergabe | Abmahnungsinhalt nicht an Dritte ohne Rechtsgrundlage |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenpflicht
 

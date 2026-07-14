@@ -24,10 +24,6 @@ Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vert
 3. Gibt es branchenspezifische Pflichtklauseln (z.B. Indexklausel § 557b BGB bei Wohnraummiete)?
 4. Sind Vertragsstrafen, Haftungsbeschränkungen oder Schiedsklauseln vorgesehen?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 307 BGB — Inhaltskontrolle Generalklausel (unangemessene Benachteiligung)
@@ -74,3 +70,5 @@ Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vert
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

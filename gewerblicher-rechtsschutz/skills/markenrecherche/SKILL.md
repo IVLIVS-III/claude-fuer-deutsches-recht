@@ -33,7 +33,6 @@ Art des Zeichens bestimmen und Schutzfähigkeit vorprüfen:
 | Wortmarke (Fantasiebegriff) | i. d. R. schutzfähig; Prüfung auf absolute Schutzhindernisse |
 | Wortmarke (beschreibend) | Schutzhindernis § 8 Abs. 2 Nr. 2 MarkenG; Art. 7 Abs. 1 lit. c UMV; Verkehrsdurchsetzung möglich |
 | Bildmarke / Logo | Schutz für bildliche Gestaltung; Wortbestandteile separat prüfen |
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Dreidimensionale Marke | Funktionale Formen vom Schutz ausgeschlossen (§ 3 Abs. 2 MarkenG) |
 
 Absolute Schutzhindernisse prüfen (§ 8 MarkenG; Art. 7 UMV): Fehlende Unterscheidungskraft, beschreibende Angaben, täuschende Angaben, Gattungsbezeichnungen.
@@ -63,7 +62,6 @@ Absolute Schutzhindernisse prüfen (§ 8 MarkenG; Art. 7 UMV): Fehlende Untersch
 
 ### 3. Kollidierende Zeichen analysieren – Verwechslungsfaktoren
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Faktoren der Verwechslungsgefahr (§ 9 Abs. 1 Nr. 2 MarkenG; Art. 8 Abs. 1 lit. b UMV):**
 
@@ -79,7 +77,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Klangliche Ähnlichkeit: Vokal- und Silbenstruktur, Akzentuierung, dominierender Bestandteil
 - Schriftbildliche Ähnlichkeit: Buchstabenfolge, Länge, Groß-/Kleinschreibung
 - Konzeptionelle Ähnlichkeit: Bedeutungsgehalt; bei Fantasiebegriffen ohne Bedeutung entfällt dieser Aspekt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 4. Risikobewertung erstellen
 
@@ -109,7 +106,6 @@ Zitierweise nach `../references/zitierweise.md`.
 **Normen:** §§ 4, 5, 8, 9, 14, 26 MarkenG; Art. 7, 8 VO (EU) 2017/1001 (UMV).
 
 **Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 9 Rn. 165 ff.; § 14 Rn. 345 ff. `[Modellwissen – prüfen; neuere Rspr. beachten]`
@@ -128,7 +124,6 @@ Zitierweise nach `../references/zitierweise.md`.
 
 *Waren-/Dienstleistungsähnlichkeit:* Kl. 25 identisch.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 🔴 **Bewertung: Blocking.** Identische Eintragung in identischer Klasse. Anmeldung unter diesem Zeichen nicht empfehlenswert ohne Abstandsvergrößerung oder vorherige Freigabe durch Inhaber.
 
@@ -142,8 +137,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

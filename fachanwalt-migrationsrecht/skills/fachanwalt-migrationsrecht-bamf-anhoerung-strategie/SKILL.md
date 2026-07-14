@@ -83,7 +83,6 @@ Im Migrationsrecht gibt es kein klassisches Schiedsverfahren / ADR — Verfahren
 
 - Anhörungs-Protokoll prüfen
 - Korrektur-Schriftsatz fristgerecht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Phase 5 — Bei Erfolg
 
@@ -113,9 +112,7 @@ Stand: 05/2026. AsylG, AufenthG. GEAS-Reform ab 12.6.2026 wirksam.
 
 ## Vertiefung: Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette BAMF-Anhoerung
 
@@ -213,3 +210,4 @@ Anlagen: K1 [Beschreibung], K2 [...]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

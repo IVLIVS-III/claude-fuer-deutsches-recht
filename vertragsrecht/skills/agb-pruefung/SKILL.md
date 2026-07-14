@@ -50,17 +50,13 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  von AGB im Onlinehandel; der bloße Verweis auf "unsere AGB" genügt, wenn die Klauseln vor
  Vertragsschluss klar zugänglich sind; kein Erfordernis, dass der Verbraucher die AGB
  tatsächlich liest.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  § 307 Abs. 1 S. 2 BGB; eine Preisanpassungsklausel ist unwirksam, wenn sie dem Verwender
  die einseitige Anpassung ermöglicht, ohne dass der Vertragspartner die Höhe vorhersehen kann.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Laufzeitklauseln im B2B-Bereich; auch im B2B gilt § 307 BGB; eine übermäßig lange
  Bindungsfrist kann den Vertragspartner unangemessen benachteiligen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  § 305c Abs. 2 BGB; bei zwei vertretbaren Auslegungen ist die für den Verwender ungünstigere
  maßgeblich.
 
@@ -122,7 +118,6 @@ Verbraucher nicht erkennen kann, welche konkreten Änderungen gelten sollen.
 - **Unterschätzung des B2B-Risikos**: Auch B2B-AGB unterliegen § 307 BGB; übermäßige
  Haftungsfreizeichnungen und einseitige Preisänderungsrechte werden vom BGH kassiert.
 - **Transparenzgebot** § 307 Abs. 1 S. 2 BGB: Preis­nachberechnungsklauseln ohne
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geltungserhaltende Reduktion**: Im deutschen AGB-Recht grundsätzlich nicht zulässig
  (BGH st. Rspr.); unwirksame Klausel entfällt ersatzlos oder wird durch dispositives Recht
  ersetzt.
@@ -136,3 +131,5 @@ eingestufte Klausel ist die einschlägige BGH-Entscheidung oder die herrschende 
 zu zitieren (Bearbeiter, Werk, Aufl., §, Rn.). Bei abweichender Instanzrechtsprechung ist auf
 den Streitstand hinzuweisen. "Die Klausel ist unwirksam" ohne Beleg ist kein ausreichendes
 Ergebnis.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -20,10 +20,6 @@ description: "Wenn es um Rückfrageninterview in Vertragsausfüller geht: prüft
 3. Hat der Mandant Zeit für ein ausführliches Interview oder soll ein Schnell-Entwurf mit Platzhaltern erstellt werden?
 4. Gibt es bereits Dokumente (E-Mail, Term Sheet) die Teilantworten enthalten?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 280 BGB — Schadensersatz wegen Pflichtverletzung (Beratungshaftung)
@@ -66,3 +62,5 @@ description: "Wenn es um Rückfrageninterview in Vertragsausfüller geht: prüft
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

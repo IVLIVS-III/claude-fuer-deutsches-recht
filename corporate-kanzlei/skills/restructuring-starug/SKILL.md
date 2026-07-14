@@ -237,5 +237,6 @@ ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - §§ 1–93 StaRUG; §§ 15a, 15b, 17–19, 217–251 InsO; § 3a EStG; § 7b GewStG
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -128,10 +128,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 8c KStG — Verlustuntergang bei schaedlichem Anteilserwerb (mehr als 50 % innerhalb von fuenf Jahren)
 - §§ 17, 23 EStG — private Veraeusserungsgewinne bei Anteils- und Betriebsveraeu0erung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich für Strukturentscheidung
@@ -194,3 +190,5 @@ Offene Punkte: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 
 - assets/templates/transaktionsstruktur-options.md
 - assets/templates/carve-out-structure-plan.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

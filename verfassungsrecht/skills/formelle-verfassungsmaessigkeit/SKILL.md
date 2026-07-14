@@ -74,7 +74,6 @@ Aus dem **Rechtsstaatsprinzip** (Art. 20 Abs. 3 GG) folgt:
 
 **Stufenverhältnis:** Je intensiver der Grundrechtseingriff, desto höher die Bestimmtheitsanforderungen. Bei strafrechtlichen Normen verschärft durch Art. 103 Abs. 2 GG (`nullum crimen sine lege`).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Schritt 3 — Zitiergebot (Art. 19 Abs. 1 S. 2 GG)
 
@@ -87,7 +86,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Schritt 4 — Wesentlichkeitstheorie und Parlamentsvorbehalt
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kerngedanke:** Wesentliche Entscheidungen muss der Gesetzgeber selbst treffen; sie dürfen nicht der Exekutive (Verordnungsgeber, Verwaltung) überlassen werden.
 
@@ -110,10 +108,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - In keinem Fall darf ein Grundrecht in seinem **Wesensgehalt** angetastet werden.
 - Diese "Schranken-Schranke" bildet die absolute Untergrenze jeder Grundrechtseinschränkung.
-
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -140,7 +134,6 @@ Prüfungsgegenstand: <Gesetz / Norm>
 2. Form
  - Bestimmtheitsgebot: ___
  - Zitiergebot (Art. 19 Abs. 1 S. 2 GG): ___
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  - Einzelfallverbot (Art. 19 Abs. 1 S. 1 GG): ___
  - Wesensgehalt (Art. 19 Abs. 2 GG): ___
 
@@ -161,3 +154,5 @@ Ergebnis: [formell verfassungsgemäß / formell verfassungswidrig — Grund: ___
 ## Disclaimer-Wiederholung
 
 Auch eine sorgfältige Prüfung der formellen Verfassungsmäßigkeit ersetzt nicht die anwaltliche Mandatsbearbeitung. Die verbindliche Verwerfung obliegt allein dem BVerfG.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

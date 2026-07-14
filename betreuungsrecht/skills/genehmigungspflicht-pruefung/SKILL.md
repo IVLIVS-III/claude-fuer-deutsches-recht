@@ -121,7 +121,6 @@ anzubringen sowie ein leichtes Sedativum (Pipamperon 20 mg) zu verabreichen.
 >
 > *3. Subsumtion:*
 > - Maßnahme: Bettgitter + sedierende Medikation
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 > Rn. 27 ff. — auch in offener Einrichtung)
 > - Sedativum: Wenn primär zur Bewegungseinschränkung verabreicht
 > (nicht therapeutisch), ebenfalls § 1832 BGB
@@ -173,7 +172,6 @@ greift bei vorzeitiger Antragstellung.
 
 **6. Verkehrswert nicht belegt**
 Beim Grundstücksverkauf ist Verkehrswertgutachten oder Maklerwert-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Behauptungen genügen nicht.
 
 **7. Vorsorgevollmacht verdrängt Betreuung**
@@ -186,7 +184,6 @@ ist subsidiär.
 Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 
 - §§ 1848 ff. BGB, §§ 1831, 1832 BGB (einschlägige Rechtsnormen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 - Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; nur Nutzerquelle oder lizenzierte Live-Verifikation verwenden.
@@ -195,3 +192,5 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 *Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.
 Vor jeder genehmigungspflichtigen Maßnahme ist der Antrag durch den
 verantwortlichen Betreuer zu prüfen.*
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -18,7 +18,6 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 4. Ist das Ergebnis für sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
@@ -71,3 +70,5 @@ Um die Tabelle übersichtlich zu halten, können folgende Kürzel verwendet werd
 ## Anpassungen je nach Kontext
 
 Für sehr kurze E-Mails (unter fünf Sätze) kann die Tabelle auf die wesentlichsten Änderungen beschränkt werden. Für lange Schreiben sollte die Tabelle nach Abschnitten gegliedert werden. Bei mehrsprachigen Schreiben ist die Tabelle zweisprachig zu führen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

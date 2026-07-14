@@ -31,7 +31,6 @@ In der Krise entscheidet oft nicht das Handeln über die Haftung, sondern der Be
 - § 15a InsO (Insolvenzantragspflicht — Nachweis der Kenntnis und des Handelns)
 - § 15b InsO (Zahlungsverbot — Nachweis erlaubter Zahlungen)
 - § 102 StaRUG (Dokumentation der Warnung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW PS 340 n.F. (Systemdokumentation als Anforderung)
 
 ---
@@ -235,4 +234,4 @@ Erstellt von: ___________________ Datum: ___________
 
 ## Weitere Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

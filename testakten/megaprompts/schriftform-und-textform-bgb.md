@@ -284,7 +284,6 @@ Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über offizielle ode
 - Paragraf 130 BGB — Zugang
 - Paragrafen 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
 - Paragraf 46h ArbGG — arbeitsgerichtliche Formfiktion
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Referenzanker: `references/amtlicher-formkern-bgb-zpo.md`
 - Fachmodul: `amtlicher-formkern-bgb-zpo-check`
 
@@ -461,6 +460,8 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 - **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach Paragraf 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
 - **WhatsApp-Geräteaustausch**: Nach Gerätewechsel können WhatsApp-Nachrichten verloren gehen, wenn kein Backup aktiviert war. Für Beweiszwecke: Screenshots und Chat-Export sofort nach der Erklärung sichern.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `kuendigung-per-mandantenkorrespondenz-zugang`
@@ -509,7 +510,6 @@ Ein Schriftsatz ist prozessual nach Paragraf 130a Abs. 3 ZPO wirksam eingereicht
 
 Das ist aber nicht automatisch die materielle elektronische Form nach Paragraf 126a BGB. Für Paragraf 126a BGB braucht das elektronische Dokument den Namen des Ausstellers und eine qES. Die bloße sichere Übermittlung aus dem beA ersetzt diese qES nicht, solange keine gesetzliche Formfiktion eingreift.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Vor Paragraf 130e ZPO musste bei einer schriftformbedürftigen Kündigung in einem qES-Schriftsatz geprüft werden, ob die qES-Datei dem Erklärungsempfänger elektronisch mit prüfbarer Signatur zugegangen ist. Ein Ausdruck mit Transfervermerk nach Paragraf 298 Abs. 3 ZPO genügte nicht. Auch eine beA-Weiterleitung war nicht allein deshalb ausreichend, weil die Einreichung gegenüber dem Gericht prozessual ordnungsgemäß war. Entscheidend blieb die Verifikationsfunktion gegenüber dem materiell-rechtlichen Empfänger.
 
@@ -632,6 +632,8 @@ Vollmachtsurkunde im Original vorgelegt wurde (Paragraf 174 Satz 1 BGB).
 - **beA ohne qES**: Eine einfache Signatur plus beA kann Paragraf 130a ZPO erfüllen, aber nicht automatisch Paragraf 126a BGB. Erst Paragraf 130e ZPO oder Paragraf 46h ArbGG kann die materielle Formfrage über eine gesetzliche Fiktion lösen.
 - **Paragraf 130e ZPO nicht als Zustellungsnorm missverstehen**: Die Norm fingiert Form und Zugang der Willenserklärung, wenn Zustellung oder Mitteilung ordnungsgemäß erfolgt ist. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - **Andere Prozessordnungen**: VwGO, SGG, FGO, FamFG und StPO haben eigene ERV-Regeln. Eine Formfiktion wie Paragraf 130e ZPO nur anwenden, wenn die jeweilige Prozessordnung sie ausdrücklich enthält oder eindeutig verweist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1049,14 +1051,12 @@ _Wenn es um Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverh
 
 ## Rechtsgrundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Paragraf 568 Abs. 1 BGB** — Schriftform Wohnraummiete-Kündigung
 - **Paragraf 126a Abs. 1 BGB** — qES als Schriftformersatz
 - **Paragraf 130 Abs. 1 BGB** — Zugang empfangsbedürftiger Willenserklärungen
 
 ## BGH-Linie
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Folge für die Praxis**: Vermieter können künftig wirksame Kündigungen per E-Mail-Anhang (PDF mit qES) oder ggf. per WhatsApp-Dateianhang übermitteln. Mieter, die solche digitalen Nachrichten ignorieren, löschen oder nicht zur Kenntnis nehmen, riskieren, dass eine wirksame Kündigung bereits zugegangen ist.
 
@@ -1102,7 +1102,6 @@ Betreff: Achtung — Wohnraumkündigung kann künftig wirksam per E-Mail zugehen
 Sehr geehrte(r) Frau/Herr [Name],
 
 nach live verifizierter Rechtsprechung zu elektronischer Form, qES und Zugang
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Wohnraumkündigung wirksam per E-Mail oder WhatsApp übermitteln, wenn
 er dabei eine qualifizierte elektronische Signatur (qES) verwendet.
 
@@ -1144,7 +1143,6 @@ Betreff: Kündigung Wohnraummietverhältnis — Formempfehlung 2025/2026
 
 Sehr geehrte(r) Frau/Herr [Name],
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 des Wohnraummietverhältnisses per qualifizierter elektronischer Signatur
 (qES) erklären, wenn das qES-Dokument dem Mieter so digital zugeht,
 dass er die Signatur prüfen kann.
@@ -1155,7 +1153,6 @@ Option A (sicherste Methode):
  Papierkündigung mit eigenhändiger Unterschrift, übergeben durch
  einen Boten gegen schriftliche Empfangsquittung.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  PDF mit qES per E-Mail an den Mieter. Eingangsbestätigung anfordern.
  Sendebericht aufbewahren. Hinweistext in der E-Mail einfügen.
 
@@ -1194,6 +1191,8 @@ Löschen Sie die Datei NICHT, bevor wir sie geprüft haben.
 - **Fehlende qES erkannt**: Wenn das PDF keine prüfbare qES enthält, ist die Schriftform nicht gewahrt — Kündigung formunwirksam. Diesen Einwand unverzüglich gegenüber dem Vermieter erheben.
 - **Frist versäumt durch Ignorieren der E-Mail**: Selbst wenn der Mieter die E-Mail nicht gelesen hat, beginnt die Frist für ggf. erforderliche Handlungen ab Zugang zu laufen.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `zugang-empfangsbeduerftiger-formgerechter`
@@ -1231,7 +1230,6 @@ Maßgebend ist der **Empfänger-Horizont**: Wann ist gewöhnlicherweise mit Kenn
 - Einwurf nach der üblichen Postzustellungszeit (z. B. abends 18 Uhr) → Zugang erst am nächsten Werktag
 - Bei gewerblichem Empfänger: Bürozeiten maßgebend
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - E-Mail geht zu, wenn sie auf dem Mailserver des Empfängers eingegangen und abrufbar ist
 - Nicht erst, wenn der Empfänger sie tatsächlich gelesen hat
 - Absendung allein reicht nicht: Eingang im Postfach des Empfängers erforderlich
@@ -1286,7 +1284,6 @@ Option A — Papier:
 Option B — Elektronisch (qES):
  qES-Dokument per E-Mail an Empfänger; Eingangsbestätigung anfordern.
  Achtung: Ausdruck durch Gericht oder Dritte wahrt keine Formwirksamkeit
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Option C — Gerichtliche Zustellung:
  Bei streitigem Verhältnis: Antrag auf Zustellung nach Paragraf 132 BGB möglich.
@@ -1309,6 +1306,8 @@ Option C — Gerichtliche Zustellung:
 - **Urlaubsabwesenheit des Empfängers**: Zugang tritt ein, wenn Brief im Briefkasten liegt — auch wenn Empfänger im Urlaub ist und Brief erst später liest. Ausnahme: Empfänger hat Urlaubs-Abwesenheit angekündigt und Erklärende wusste davon (einzelfallabhängig).
 - **Spam-Filter**: E-Mail landet im Spam-Ordner → BGH und OLG-Rechtsprechung uneinheitlich. Sicherheitshalber zusätzlich per Post übermitteln oder Empfangsbestätigung anfordern.
 - **qES und Zugang**: Die qES-Erklärung muss digital (nicht als Papierausdruck) beim Empfänger ankommen, damit Formwirksamkeit und Zugang zusammenfallen (→ `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

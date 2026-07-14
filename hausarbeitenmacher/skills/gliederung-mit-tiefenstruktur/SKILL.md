@@ -19,9 +19,6 @@ description: "Wenn es um Gliederung mit Tiefen-Struktur in hausarbeitenmacher �
 3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein müssen?
 4. Sollen Hilfsweise-Prüfungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben: Gliederung muss die rechtlichen Beziehungen vollstaendig abbilden
 - § 308 ZPO — Bindung an Antraege: Gliederung darf nicht über den Bearbeitungsvermerk hinausgehen
@@ -269,3 +266,5 @@ B. Ansprüche des B gegen A....................................... 15
 - `zivilrecht-anspruchsgrundlagen-pruefung` — Detail Zivilrecht-Schema
 - `öffentliches-recht-statthaft-zulaessig-begruendet` — ÖR-Schema
 - `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Strafrecht-Schema
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

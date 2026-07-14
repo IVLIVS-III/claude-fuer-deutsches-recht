@@ -27,7 +27,6 @@ Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie i
 - § 17 InsO (eingetretene Zahlungsunfähigkeit)
 - § 19 InsO (Überschuldung)
 - § 29 Abs. 2 StaRUG (Zugangsschwelle: drohende ZU muss vorliegen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -181,13 +180,11 @@ Unterschrift GF: ___________________ Datum: ___________
 
 ---
 
-## Weitere Leitentscheidungen — Krisenstadien und Stakeholder
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Krisenstadien-Einordnung
 
 1. **Krisenstadium?** Stakeholderkrise (Vertrauen) → Erfolgskrise (EBIT) → Liquiditaetskrise (Cashflow) → Insolvenzgefahr.
 2. **Fruehzeitige Stakeholder-Einbindung?** Bank, Hauptlieferanten, FA, PSV frueizeitig kontaktieren.
 3. **Vertraulichkeit?** Stakeholder-Informationen ohne NDA riskant (Weitergabe, Bonitaetsschaden).
 4. **Eskalationskette?** GF → Aufsichtsrat → Anwalt → Bank → FA je nach Stadium.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

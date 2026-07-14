@@ -220,7 +220,6 @@ Plan-Cashflow (12 Monate, stark vereinfacht):
 | Gesellschafterdarlehen (§ 39 InsO-Nachrang, | |
 | OHNE qualifizierten Rangrücktritt) | 200.000 |
 | **Summe Passiva** |**1.150.000**|
-
 | **Saldo (Unterdeckung)** |**–300.000**|
 
 → Ergebnis Stufe 2: **Rechnerische Überschuldung** i.H.v. 300.000 EUR.

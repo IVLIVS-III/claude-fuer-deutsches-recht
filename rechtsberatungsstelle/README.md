@@ -168,7 +168,6 @@ Nur der anleitende Jurist kann diesen Vermerk entfernen. Dokumente, die diesen V
 ## Zitierweise
 
 Alle juristischen Quellen folgen `../references/zitierweise.md`. Beispiele:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 45.
 
 
@@ -260,3 +259,5 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Jeder Sk
 | [`workflow-unterlagen-lueckenliste`](skills/workflow-unterlagen-lueckenliste/SKILL.md) | Wenn es um Unterlagen- und Lückenliste in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

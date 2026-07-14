@@ -161,10 +161,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 101 UrhG — Transkription: urheberrechtliche Fragen bei automatisierter Transkription
 - §§ 201 StGB — unbefugte Tonbandaufnahmen im Gespraech sind strafbar; Einwilligung aller Teilnehmer erforderlich
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Einwilligung sichern:** alle Teilnehmer müssen Aufzeichnung genehmigen; bei boersennotierten Gesellschaften: MAR-Hinweis
@@ -177,3 +173,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Aufzeichnung ohne Einwilligung: § 201 StGB strafbar; Beweismittel unverwertbar
 - Expert Call mit Insider ohne MAR-Protokoll: Aufsichtsrisiko
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

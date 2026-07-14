@@ -1,4 +1,5 @@
 name: ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund
+plugin: "ki-vo-ai-act-pruefer"
 description: 'KI-Vorfall mit Doppel- und Dreifachrelevanz nach der Verordnung (EU) 2024/1689, der Datenschutz-Grundverordnung
   und dem Haftungs- und Arbeitsschutzrecht. Ein autonomer Lagerroboter verletzt einen Leiharbeitnehmer; ursaechlich
   ist ein seit dem Firmware-Update 4.2 bekannter Sensorfehler, dessen Behebung (Firmware 4.3) nicht eingespielt

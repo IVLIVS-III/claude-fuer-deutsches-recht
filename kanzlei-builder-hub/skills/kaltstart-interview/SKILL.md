@@ -26,9 +26,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Sind datenschutzrechtliche Grundlagen (AVV, TOM, Verarbeitungsverzeichnis) für den KI-Einsatz bereits geprueft?
 4. Welche technischen Integrationen (beA, E-Mail, DMS, Buchhaltung) sind vorhanden und angebunden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 28 DSGVO — AVV mit KI-Infrastrukturanbieter: Pflicht bei jeder Auftragsverarbeitung
 - Art. 35 DSGVO — Datenschutz-Folgenabschaetzung bei hohem Risiko für Mandantendaten
@@ -194,3 +191,5 @@ Kanzleiprofil erstellt am 2025-01-15:
 - **Falsche Deployment-Kontext-Angabe:** Kanzlei-intern erfordert AVV mit KI-Infrastrukturanbieter (Art. 28 DSGVO).
 - **TOM-Vergessen:** KI-Skills in der Kanzlei erfordern TOM-Prüfung vor dem Einsatz — dieser Schritt darf nicht übersprungen werden.
 - **Praxisprofil zu generisch:** Ein generisches Profil ergibt generische Empfehlungen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

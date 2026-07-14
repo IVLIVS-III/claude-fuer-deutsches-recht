@@ -307,10 +307,6 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und StaRUG-Pläne. Konkrete Klauseln sind im Einzelfall mit Notar, IP-Fachanwalt und Datenschutzbeauftragtem abzustimmen.
 
-## Aktuelle Leitentscheidungen — Asset-Deals im Plan
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Asset-Deal im Plan
 
 Bevor losgelegt wird, klaere:
@@ -318,3 +314,5 @@ Bevor losgelegt wird, klaere:
 2. **Rechte Dritter?** Pfandrechte, Sicherungsuebereignungen, Eigentumsvorbehalte an Assets?
 3. **DSGVO?** Kundendaten-Uebertragung: Art. 6 Abs. 1 lit. b DSGVO Vertragsuebernahme oder neue Einwilligung?
 4. **Grundbuch?** Grundstuecks-Auflassung nicht aufschiebbar auf Plan-Vollzug; Grundbuchamt einbinden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

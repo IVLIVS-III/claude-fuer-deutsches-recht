@@ -214,14 +214,6 @@ Vor Versand:
 
 ## Vertiefung — Rechtsprechung Gesellschaftsrechts-Schriftsatz
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 43 GmbHG (Haftung, Beweislast) → § 93 Abs. 2 Satz 2 AktG (Beweislastumkehr analog) → § 246 AktG (Beschlussanfechtung, Monatsfrist) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 1, 3 UmwG (Umwandlungsmaßnahmen, Protokoll) → § 89b HGB (Handelsvertreterausgleich, Berechnung) → § 138 Abs. 2, 3 ZPO (Substantiierungspflicht, qualifiziertes Bestreiten)
@@ -229,3 +221,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

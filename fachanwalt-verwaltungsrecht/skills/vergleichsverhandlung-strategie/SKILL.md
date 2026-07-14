@@ -163,11 +163,9 @@ Klassische Stolperfalle in Allgemeines Verwaltungs- und Bauplanungsrecht:
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
 - **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz für noch nicht erkannte Schaeden ggf. weg.
 
-## Leitentscheidungen Vergleichsstrategie
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Cross-Refs
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

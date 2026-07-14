@@ -33,7 +33,6 @@
   Spielbuch.
 - **Strafverfahren**: Verfahrensstand, Schuldfeststellungen,
   Persönlichkeitsdaten Beschuldigter werden vollständig entfernt
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   Schutz aus Art. 6 EMRK).
 - **Gesundheitsdaten** (Art. 9 DSGVO): Ersatz durch generische
   Beeinträchtigungsklassen, nie konkrete Diagnose.
@@ -57,9 +56,7 @@
 - BDSG § 26 Abs. 8 Satz 2 (anonymisiert ≠ pseudonymisiert).
 - § 43a Abs. 2 BRAO; § 203 Abs. 1 Nr. 3 StGB.
 - GeschGehG §§ 2, 3.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Anonymisierungsmaßstab).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   (Vertrauensschutz Anwalt–Mandant).
 
 ## Kommentare
@@ -67,3 +64,5 @@
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
   Art. 4 Nr. 5 Rn. 8 (Pseudonymisierung vs. Anonymisierung).
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -14,7 +14,6 @@ description: "Wenn es um /tabellenreview-3d:arbeitsblatt-perspektiven-definieren
 
 ## Rechtliche Grundlagen für Prüfer-Perspektiven
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Standard-Perspektiven
 
@@ -94,3 +93,5 @@ Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

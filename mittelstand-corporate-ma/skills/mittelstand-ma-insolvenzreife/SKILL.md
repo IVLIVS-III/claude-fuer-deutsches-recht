@@ -149,7 +149,6 @@ OPOS Kreditoren [Datum]) teilen wir Ihnen folgende erste Einschätzung mit:
 
 LIQUIDITÄTSSTATUS: Die fälligen Verbindlichkeiten übersteigen die verfügbare Liquidität
 um EUR [X] (ca. [Y] %). Dies überschreitet die BGH-Schwelle für Zahlungsunfähigkeit
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 PERSÖNLICHE HAFTUNG: Bei Eintritt der Zahlungsunfähigkeit sind Sie als Geschäftsführer
 verpflichtet, innerhalb von 3 Wochen Insolvenzantrag zu stellen (§ 15a InsO). Zahlungen,
@@ -244,3 +243,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
 - §§ 823, 826 BGB (Insolvenzverschleppungs-Haftung gegenueber Gläubigern als Schutzgesetz iVm § 15a InsO): https://www.gesetze-im-internet.de/bgb/__823.html
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

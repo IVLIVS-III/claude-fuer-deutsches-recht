@@ -19,9 +19,6 @@ description: "Wenn es um Postlauf um 11 Uhr in Kanzlei-Allgemein geht: prüft Fr
 3. Muss das beA-Journal aktualisiert werden (neue Nachrichten, ZIP-Export, EB-Entscheidungen)?
 4. Welche offenen Action-Items aus dem letzten Postlauf sind noch ausstehend?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 173 ZPO — Zeitpunkt der beA-Zustellung: Eingang im Empfangspostfach
 - § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Datum massgebend für Fristbeginn
@@ -61,3 +58,5 @@ Wenn die Umgebung Automationen unterstützt, den Nutzer fragen:
 > Soll ich eine tägliche Erinnerung um 11 Uhr für den Postlauf einrichten?
 
 Ohne Automationsunterstützung eine manuelle Checkliste erzeugen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

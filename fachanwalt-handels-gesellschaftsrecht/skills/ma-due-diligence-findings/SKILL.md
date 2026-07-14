@@ -202,14 +202,6 @@ description: "Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und G
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 §§ 311, 241 BGB (Garantien als eigenständige Haftungsversprechen) → § 442 BGB (Kenntnis des Käufers, Ausschluss Gewährleistung) → §§ 280, 281 BGB (Schadensersatz bei Garantieverletzung) → § 275 BGB (Unmöglichkeit bei MAC) → §§ 437, 439-441 BGB (Kaufrechtliche Gewährleistung — subsidiär bei Share Deal ohne Garantien) → § 123 BGB (Anfechtung wegen arglistiger Täuschung) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 17 ff. AktG (Aktienübertragung)
@@ -276,3 +268,5 @@ EMPFEHLUNG
 OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

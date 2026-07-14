@@ -33,6 +33,8 @@ description: "Wenn es um Anspruchslandkarte BGB-Nachbarrecht in Nachbarschaftsst
 Gib eine Tabelle:
 
 | Anspruchsteller | Gegner | Tatsache | Anspruch | Einwendung | Beweis | nächster Schritt |
+| --- | --- | --- | --- | --- | --- | --- |
+| `[Name und Rolle]` | `[Name und Rolle]` | `[konkreter Störungsbeitrag]` | `[Norm und Rechtsfolge]` | `[Einwendung oder Einrede]` | `[Beweismittel]` | `[fristgebundene Maßnahme]` |
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

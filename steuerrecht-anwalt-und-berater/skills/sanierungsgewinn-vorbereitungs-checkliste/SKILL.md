@@ -164,4 +164,5 @@ Gläubiger C — kein Verzicht ► Verhandlungsvermerk ... Bl. ...
 - § 89 AO (verbindliche Auskunft, Gebühr).
 - BMF-Schreiben vom 27.04.2017 — Stand vor Verwendung verifizieren.
 - IDW S 6, IDW S 11.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren. FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12): bei Liquidation mit nachrangigem Gesellschafterdarlehen ist der rechentheoretisch im Loeschungszeitpunkt entstehende Gewinn mangels Koerperschaftsteuersubjekt nicht festsetzbar.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

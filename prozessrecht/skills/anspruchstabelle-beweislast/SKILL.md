@@ -48,11 +48,9 @@ Zwei Modi:
 Verbindlich: `../references/zitierweise.md`.
 
 Zivilrecht:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Patent:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Mes, PatG, 5. Aufl. 2020, Paragraf 9 Rn. 22 ff.
 - Schulte/Voß, PatG, 10. Aufl. 2017, Paragraf 9 Rn. 48 ff.
 

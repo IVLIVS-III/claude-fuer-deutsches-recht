@@ -63,10 +63,6 @@ Die Klaegerin hat Anspruch auf Differenzentgelt nach Paragraf 3 Absatz 1 iVm Par
 
 Verbindung mit `fachanwalt-arbeitsrecht-orientierung` zur Mandatsaufnahme. Bei zusaetzlichen AGG-Aspekten ergaenzend pruefen. Im Vergleichsstadium die Skills zur Verhandlungsstrategie heranziehen.
 
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## EU-Lohngerechtigkeitsrichtlinie 2023/970 (Umsetzungsfrist 07.06.2026)
 
 Die Richtlinie (EU) 2023/970 vom 10. Mai 2023 (ABl. L 132 vom 17.05.2023, S. 21) verpflichtet die Mitgliedstaaten zur Umsetzung bis zum 07. Juni 2026. Die nationale Umsetzung in deutsches Recht steht zum Stand Mai 2026 noch aus. Beratungsrelevante Pflichten:
@@ -101,3 +97,5 @@ Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

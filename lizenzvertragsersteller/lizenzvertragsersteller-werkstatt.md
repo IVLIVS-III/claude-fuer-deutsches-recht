@@ -196,7 +196,7 @@ A. Feste Laufzeit: ] "Paragraf 11 Vertragsdauer. ] (1) Dieser Vertrag hat eine L
 
 ### 15.7. Output: Licence Agreement
 
-International deal with non-German party - Governing law not German (e.g., English, NY, Swiss) - Arbitration in English-speaking forum - Parent-company headquartered abroad ``` LICENCE AGREEMENT between [Licensor], [address], represented by [representative] - the "Licensor". Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+International deal with non-German party - Governing law not German (e.g., English, NY, Swiss) - Arbitration in English-speaking forum - Parent-company headquartered abroad Sec. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.8. Escrow / Quellcode-Verwahrer-Vereinbarung
 
@@ -208,7 +208,7 @@ zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert e
 
 ### 15.10. IP-Identifikation und Bestandsaufnahme
 
-Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A des Vertrags. ` ` Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veröffentlichungen die Patentschutz gefährden. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert die IP-Inventur für die Anlage A des Vertrags. Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veröffentlichungen die Patentschutz gefährden. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Kartellrecht — TT-GVO (EU) 316/2014
 
@@ -220,7 +220,7 @@ rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine 
 
 ### 15.13. Klausel Lizenzgegenstand + Anlage A
 
-Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehörigkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("alle IP, die der Lizenzgeber besitzt"), riskiert später Streit über Zugehörigkeit. ] Paragraf 2 Lizenzgegenstand. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.14. Klausel Lizenzumfang — Territorium, Zeit, Feld
 

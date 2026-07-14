@@ -74,7 +74,6 @@ description: "Wenn es um Digitaler Nachlass — Krypto-Wallet und Multi-Sig in F
 | 3 | Bei Verweigerung: Klage auf Herausgabe des Kontoguthabens | § 985 BGB analog (Quasi-Eigentümer) |
 | 5 | Jahresfrist § 23 EStG prüfen: Anschaffung des Erblassers relevant | BMF 22.11.2024 |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation D — Unbekannte Wallets und unvollständige Dokumentation
 
@@ -199,7 +198,6 @@ Antragstellers zu leisten.
 Verfügungsanspruch: Die Antragstellerin ist Alleinerbin nach
 dem Testament vom [Datum], beurkundet durch Notar [Name].
 Die Krypto-Assets in der Multi-Sig-Wallet sind Nachlassbestandteil
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Verfügungsgrund: Dringende Gefahr durch drohende technische
 Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
@@ -271,6 +269,7 @@ Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
 - ErbStG §§ 10, 12, 16, 19, 31
 - EStG §§ 22, 23
 - BewG §§ 9, 12
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben vom 22.11.2024 zur ertragsteuerlichen Behandlung von Kryptowährungen
 - Stand: 05/2026; MiCA und EU-Krypto-Regulierung beachten
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

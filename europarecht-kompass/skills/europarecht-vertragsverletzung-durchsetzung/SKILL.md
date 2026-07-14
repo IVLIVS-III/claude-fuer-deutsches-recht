@@ -59,10 +59,6 @@ Bevor losgelegt wird, klaere:
 4. Alternativ: Staatshaftungsklage vor nationalem Gericht (Francovich) als direkter Rechtsbehelf?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette
 
 - **Art. 258 AEUV** — Vertragsverletzungsverfahren durch Kommission; Vorverfahren; EuGH-Klage
@@ -119,3 +115,4 @@ Wir bitten die Kommission, ein Vorverfahren nach Art. 258 AEUV zu eroeeffnen.
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

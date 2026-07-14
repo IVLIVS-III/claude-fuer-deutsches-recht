@@ -5,10 +5,6 @@ description: "Wenn es um Erbschein-Antrag in Fachanwalt Erbrecht geht: erstellt 
 
 # Erbschein-Antrag
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -86,3 +82,5 @@ Anlagen
 - Bei Streit über Erbenstellung Übergang in Erbenfeststellungsklage — eigener Workflow.
 - Bei Auslandsvermögen ergänzend Europäisches Nachlasszeugnis beantragen.
 - Bei Pflichtteilsansprüchen Skill `fachanwalt-erbrecht-pflichtteilsberechnung` aufrufen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

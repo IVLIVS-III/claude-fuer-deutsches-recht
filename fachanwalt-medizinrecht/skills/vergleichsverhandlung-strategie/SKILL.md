@@ -174,12 +174,6 @@ Klassische Stolperfalle in Arzthaftungs-, Berufs- und Vertragsarztrecht:
 
 ## Vertiefung — Rechtsprechung und Normenkette Vergleich Medizinrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normenkette Vergleich
 
 § 779 BGB (Begriff Vergleich — gegenseitiges Nachgeben) → §§ 133, 157 BGB (Auslegung Abgeltungsklausel) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich als Vollstreckungstitel) → § 796a ZPO (Anwaltsvergleich) → § 116 SGB X (Regress-Übergang bei Sozialversicherungsleistungen — im Vergleich berücksichtigen) → § 3 VVG (Haftpflichtversicherung, Versicherer-Beteiligung)
@@ -187,3 +181,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -251,14 +251,6 @@ _Wenn es um Mandat Triage Agrarrecht in Fachanwalt Agrarrecht geht: klärt Rolle
 
 ## Vertiefung — Rechtsprechung und Normenkette Triage
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung Triage-Routing
 
 LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz) → VwGO Paragrafen 70 und 74 (Vorverfahren und Klagefrist bei Förderbescheiden) → BGB Paragrafen 195, 199 und 203 (Verjährung und Verhandlungshemmung) → GrdstVG (Genehmigung im Grundstücksverkehr) → LPachtVG Paragraf 2 (Anzeige binnen eines Monats)
@@ -266,6 +258,8 @@ LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz) → V
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -336,16 +330,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette (Überblick Agrarrecht)
 
 BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
@@ -372,6 +356,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 4. **Düngerecht / OWiG** → `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`
 5. **Tierhaltungsgenehmigung** → `fachanwalt-agrarrecht-tierhaltung-genehmigung`
 6. **Wolfsentnahme / Naturschutz** → `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -452,16 +438,6 @@ _Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Agrarrecht geht: 
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette (Überblick Agrarrecht)
 
 BGB Paragrafen 581 bis 597 (Pacht und Landpacht) → LPachtVG (Anzeige und Beanstandung) → GrdstVG (Grundstücksverkehr) → HöfeO Paragrafen 1 ff. (Erbrecht landwirtschaftlicher Betriebe) → Verordnungen (EU) 2021/2115 und 2021/2116 (GAP, Direktzahlungen, Konditionalität) → DüG und DüV (Düngerecht) → BNatSchG Paragrafen 13 ff. (Naturschutz, Eingriffsregelung) → BauGB Paragraf 35 (Außenbereich) → TierSchG und TierGesG → LwVfG Paragrafen 1 und 2 (Landwirtschaftsgericht)
@@ -488,6 +464,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 4. **Düngerecht / OWiG** → `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`
 5. **Tierhaltungsgenehmigung** → `fachanwalt-agrarrecht-tierhaltung-genehmigung`
 6. **Wolfsentnahme / Naturschutz** → `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -658,14 +636,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch Agrarrecht
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normenkette Erstgespräch Agrarrecht
 
 LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz klären) → VwGO Paragrafen 70 und 74 (Vorverfahren und Klagefrist bei Förderbescheiden prüfen) → GrdstVG (Genehmigungspflicht prüfen) → GwG Paragrafen 10 und 11 (Identifizierung, insbesondere bei Gesellschaften) → RVG Paragrafen 3a und 9 (Vergütungsvereinbarung und Vorschuss) → BGB Paragrafen 195 und 199 (Verjährungsstand ermitteln)
@@ -673,6 +643,8 @@ LwVfG Paragrafen 1 und 2 (Gegenstand und ausschließliche Eingangsinstanz kläre
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -273,10 +273,6 @@ ANLAGEN
 
 ---
 
-## Aktuelle Leitentscheidungen — StaRUG-Plan-Architektur
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Plan-Architektur
 
 § 7 StaRUG (Planinhalt allgemein) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 11 StaRUG (Anlagen) → §§ 14-19 StaRUG (Planbetroffene) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
@@ -287,6 +283,8 @@ ANLAGEN
 2. **Gestaltender Teil praezise?** Forderungstabelle, Quoten, Stundungen, Sicherheiten klar bezeichnen.
 3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
 4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -318,7 +316,6 @@ Impulsvorträge zu § 1 StaRUG und Krisenfrüherkennung sind mehr als akademisch
 - §§ 49-59 StaRUG (Stabilisierungsanordnung)
 - §§ 15a, 15b InsO (Insolvenzantragspflicht und Zahlungsverbot)
 - § 43 GmbHG, § 93 AktG (GF-Haftung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6, IDW S 11, IDW PS 340 n.F.
 
 ---
@@ -377,7 +374,6 @@ FOLIE 6 — DIE HAFTUNG (7:00 — 9:30)
 
 FOLIE 7 — § 102 StaRUG — DIE BERATER-PFLICHT (9:30 — 11:00)
  Steuerberater, WP, RA: unaufgeforderter Warnhinweis bei Krisensignalen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Dokumentationspflicht beider Seiten
  Talking Point: "Jede BWA, die der StB ausliest und schweigt — potenzielle Haftung."
 
@@ -427,7 +423,6 @@ FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
 "§ 102 StaRUG schützt den Berater, der warnt. Und er schadet dem Berater, der schweigt. Es gibt keine sichere Mitte. Wer als Steuerberater monatlich die BWA liest und krisenrelevante Signale ignoriert, sitzt auf einer Zeitbombe."
 
 ### Point 5 — Die Kornhaas-Entscheidung als Warnung für Gesellschaftsform-Optimierer
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -483,6 +478,8 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1537,12 +1534,6 @@ Mit freundlichen Grüßen
 
 ---
 
-## Aktuelle Leitentscheidungen — Stabilisierungsanordnung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Stabilisierungsanordnung
 
 § 49 StaRUG (Stabilisierungsanordnung) → § 50 StaRUG (Vollstreckungsverbot) → § 51 StaRUG (Sicherheitsleistung) → § 52 StaRUG (Wirkung) → § 53 StaRUG (3-Monats-Frist) → § 54 StaRUG (Aufhebung)
@@ -1555,6 +1546,8 @@ Mit freundlichen Grüßen
 4. **3-Monats-Frist ausreichend?** Ist Plan innerhalb von 3 Monaten abstimmungsreif?
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1744,7 +1737,7 @@ Unterschriften: _________________ / _________________
 
 ## Weitere Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1780,7 +1773,6 @@ In der Krise entscheidet oft nicht das Handeln über die Haftung, sondern der Be
 - § 15a InsO (Insolvenzantragspflicht — Nachweis der Kenntnis und des Handelns)
 - § 15b InsO (Zahlungsverbot — Nachweis erlaubter Zahlungen)
 - § 102 StaRUG (Dokumentation der Warnung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW PS 340 n.F. (Systemdokumentation als Anforderung)
 
 ---
@@ -1984,7 +1976,7 @@ Erstellt von: ___________________ Datum: ___________
 
 ## Weitere Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -2247,12 +2239,6 @@ Sonstiges:
 
 ---
 
-## Aktuelle Leitentscheidungen — Restrukturierungsbeauftragter und Sachwalter
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 §§ 270-270f InsO (Eigenverwaltung und Sachwalter) → § 274 InsO (Pflichten Sachwalter) → § 275 InsO (Mitwirkung bei Kassengeschaeften) → §§ 73-90 StaRUG (Restrukturierungsbeauftragter) → § 73 Abs. 2 StaRUG (Unabhaengigkeit)
@@ -2263,6 +2249,8 @@ Sonstiges:
 2. **Unabhaengigkeit geprueft?** Frueherer Berater des Schuldners → Problematisch.
 3. **Interessen-Konflikt?** Sachwalter darf kein eigenes Interesse an Verwertungs-Ergebnis haben.
 4. **Pflichten-Umfang?** § 274 InsO: Kassenprueung, Zahlungsverkehr-Kontrolle, Bericht an Gericht und Ausschuss.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 568 KB) | PDF | [`gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf`](gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 567 KB) | PDF | [`gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf`](gesamt-pdf/familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familie-amiri-asylfolge-dublin-iv-fluechtlingsanerkennung-einzelpdfs.zip) |
 

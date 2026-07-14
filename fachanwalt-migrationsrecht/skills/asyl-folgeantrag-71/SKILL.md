@@ -151,7 +151,6 @@ description: "Wenn es um Asyl Folgeantrag 71 in Fachanwalt Migrationsrecht geht:
 
 ## 10) BVerwG-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anschluss
 
@@ -161,7 +160,6 @@ description: "Wenn es um Asyl Folgeantrag 71 in Fachanwalt Migrationsrecht geht:
 
 ## Vertiefung: Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Normen-Kette Folgeantrag
@@ -212,7 +210,6 @@ verfuegbar waren: [ATTEST / DOKUMENT / ZEUGNIS]. Anlage 3.
 [Variante C — Konversion / LGBTQ / persönliche Aenderung:]
 Der Antragsteller ist am [DATUM] zum [Christentum / Islam / ...] konvertiert.
 Bescheinigung beigefuegt Anlage 4. Die innere Uberzeugung ist echt und stabil
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. FRIST § 51 ABS. 2 VWVFG
 Der Antragsteller hat von dem o.g. Wiederaufgreifensgrund am [DATUM]
@@ -237,3 +234,4 @@ Anlagen: K1 bis K[X]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

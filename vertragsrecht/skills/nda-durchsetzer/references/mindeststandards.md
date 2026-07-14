@@ -162,7 +162,6 @@ Geschäftsgeheimnisse zwingend.
 ### Rote Linien
 - Klausel: "Eine Pflichtverletzung wird vermutet, wenn die offengelegten
   Informationen bei einem Dritten auftauchen." — **NACHTEILIG**, gegen
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Klausel: "Die empfangende Partei trägt die Beweislast für das Eingreifen
   von Ausnahmen." — **akzeptabel**, bewährter Marktstandard.
 
@@ -308,7 +307,6 @@ Geschäftsgeheimnisse zwingend.
 
 ### Soll-Inhalt
 - Salvatorische Klausel **zurückhaltend** formulieren wegen BGH-Rspr.
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
   pauschale Salvatorik kann § 307 BGB verletzen, weil sie die Risikoverteilung
   zulasten des Vertragspartners verlagert.
 - Klassische Formulierung: "die Parteien werden eine wirksame Regelung
@@ -341,3 +339,5 @@ in Abschnitt 4 (Fehlende Regelungen) der Analyse aufzunehmen.
 Roten-Linien-Verstöße werden in der priorisierten Änderungsliste
 (Abschnitt 6 der Analyse) auf **Priorität 1** gesetzt; Verstöße gegen
 Mindeststandards ohne rote Linie auf **Priorität 2**.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

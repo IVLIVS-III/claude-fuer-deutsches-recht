@@ -24,10 +24,6 @@ Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. �
 3. Hat der Schuldner Einspruch gegen den VB erhoben — wenn ja, Übergang ins Streitverfahren?
 4. Ist der Schuldner insolvent — § 89 InsO Vollstreckungsverbot prüfen?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 699 ZPO — Antrag auf Vollstreckungsbescheid (frühestens 14 Tage nach MB-Zustellung)
@@ -76,10 +72,6 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - **Einspruch nicht gegen VB, sondern gegen "Anspruch" formuliert** – wird vom Gericht als Einspruch ausgelegt § 133 BGB, wenn Wille erkennbar.
 - **Mahnbescheid an falsche Anschrift zugestellt**: Heilung § 189 ZPO nur bei tatsächlichem Zugang; sonst muss erneut zugestellt werden, dann läuft Frist neu.
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Qualitätsgates
 
 - Niemals VB vollstrecken, ohne Zustellnachweis vorzulegen § 750 ZPO.
@@ -91,3 +83,5 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - `titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
 - `pfueb-bank`, `pfueb-arbeitsentgelt`, `mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

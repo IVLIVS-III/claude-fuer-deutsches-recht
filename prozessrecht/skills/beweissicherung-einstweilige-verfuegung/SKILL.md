@@ -34,10 +34,8 @@ description: "Wenn es um Aufbewahrungspflicht und Beweissicherung in Prozessrech
 | Lohnunterlagen (SV-relevant) | 10 Jahre | Paragraf 28f Abs. 2 SGB IV |
 
 **Prozessuale Aufbewahrungspflicht:**
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Konsequenzen der Beweisvereitelung:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Paragraf 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen.
 - Paragrafen 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (Paragraf 274 StGB) bei vorsätzlicher Vernichtung.
 
@@ -75,9 +73,7 @@ Tabelle aller aktiven Sicherungsanordnungen im Portfolio mit:
 
 Verbindlich: `../references/zitierweise.md`.
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen).
 - Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte).
 
@@ -125,7 +121,8 @@ Kontakt: [Anwalt, Kanzlei, Telefon]
 
 ## Risiken / typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Zu enger Anwendungsbereich:** Custodians und Dokumentenkategorien zu eng gewählt; alle betroffenen Abteilungen und IT-Systeme (E-Mail-Archiv, Cloud-Speicher) einschließen.
 - **Datenschutzkollision:** Aufbewahrungspflicht und DSGVO-Löschpflicht können kollidieren; bei Widerspruch gilt prozessuale Sicherungspflicht im Zweifel (vgl. Art. 17 Abs. 3 lit. e DSGVO: Aufbewahrung für Rechtsstreitigkeiten).
 - **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; Paragraf 485 ZPO-Antrag frühzeitig stellen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

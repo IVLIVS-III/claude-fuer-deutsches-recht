@@ -48,7 +48,6 @@ Systemmärkte bestehen aus einem Primärmarkt (z.B. Gerät, Maschine, Software) 
 
 ### Pelikan-Doktrin
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### EuGH — Bronner
 
@@ -81,4 +80,5 @@ Liegt ein Cluster- oder Systemmarkt vor? Begründung und Auswirkung auf Marktant
 ## Leitentscheidungen Cluster- und Systemmaerkte
 
 - EK, Entsch. v. 22.07.2009 — COMP/M.5529 (Oracle/Sun Microsystems) — Systemmarkt Hardware/Software; Buendelungsstrategien als wettbewerbsrelevante Faktoren; After-Sales-Markt separat zu betrachten.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

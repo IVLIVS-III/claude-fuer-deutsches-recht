@@ -1,0 +1,21 @@
+# Strukturelle Baseline-Rubrik.
+# Fallbezogene Inhaltschecks können ergänzend aufgenommen werden.
+
+name: "Krankenkassenrecht Off Label Use Seltene Erkrankung Mainz"
+plugin: "krankenkassenrecht-krankenversicherung"
+
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: "README.md vorhanden"
+    path: "README.md"
+
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: "Gesamt-PDF gebaut"
+    path: "gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf"
+
+  - id: r03-mindestens-3-arbeitsunterlagen
+    check_type: working_file_count
+    description: "Mindestens drei exportierbare Arbeitsunterlagen vorhanden"
+    min: 3

@@ -143,10 +143,6 @@ Prüfung untergesetzlicher Rechtsnormen (Bebauungspläne, Satzungen, Rechtsveror
 3. **Mängel pauschal vorgetragen**
 4. **Heilungs-Pflicht nach § 215 BauGB ignoriert**
 
-## 11) Aktuelle BVerwG-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -155,3 +151,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `normenkontrolle-bauleitplanung` (Vollplugin) — Vertieftes Verfahren
 - `fachanwalt-verwaltungsrecht-orientierung` — Triage
 - `widerspruch-oder-klage-erstpruefung` — bei anderer VG-Sache
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

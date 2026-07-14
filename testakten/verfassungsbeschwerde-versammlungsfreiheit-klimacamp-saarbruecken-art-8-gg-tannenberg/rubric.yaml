@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Verfassungsbeschwerde Versammlungsfreiheit Klimacamp Saarbruecken Art 8 Gg Tannenberg"
-plugin: "tbd"
+plugin: "verfassungsrecht"
 
 checks:
   - id: r01-readme-vorhanden

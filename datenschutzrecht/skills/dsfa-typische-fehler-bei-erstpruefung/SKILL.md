@@ -151,5 +151,6 @@ Unterschrift Pruefer: ____________________
 - Art. 35, 36, 5 Abs. 2, 83 Abs. 4 lit. a DSGVO
 - EDSA-Leitlinien WP 248 rev.01
 - BfDI- und Landesbehoerden-Prüfberichte (live abzurufen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

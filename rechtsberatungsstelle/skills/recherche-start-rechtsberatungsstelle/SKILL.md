@@ -28,9 +28,6 @@ description: "Wenn es um Recherchefahrplan: Orientierung, keine Recherche in Plu
 - **Gesetzliche Grundlage → Ausführungsverordnung → Verwaltungsvorschrift** — Hierarchie im Verwaltungsrecht.
 - Für studentische Beratungsstellen besonders relevant: **BGB, ZPO, VwVfG, VwGO, AGG, KSchG, BerHG, RDG**.
 
-### Leitentscheidungen zur Recherchemethodik (exemplarisch)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -105,6 +102,7 @@ Wenn der Studenten bereits Recherchematerial hochgeladen hat: lesen, was abgedec
 > - Lücke: [Was der Fahrplan oben nahelegt, aber noch nicht gefunden wurde]
 > - `[PRÜFEN: Die zitierte Entscheidung [Name] — per Datenbank-Zitieranalyse prüfen, ob sie nicht durch spätere Rspr. eingeschränkt wurde]`
 
+```markdown
 ## Vorlagendokumente der Klinik (zuerst lesen)
 
 [Per Schritt 0. Passende Klinikdokumente mit Erläuterung benennen.
@@ -175,3 +173,5 @@ Jeder im Fahrplan vorgeschlagene Hinweis ist mit der Herkunft zu kennzeichnen: `
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

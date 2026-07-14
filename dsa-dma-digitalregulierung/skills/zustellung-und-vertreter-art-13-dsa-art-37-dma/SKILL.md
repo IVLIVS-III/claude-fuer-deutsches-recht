@@ -91,10 +91,6 @@ description: "Wenn es um Zustellung Und Vertreter Art 13 Dsa Art 37 Dma in DSA, 
 - Bundesnetzagentur als DSC führt **öffentliches Verzeichnis** der Art.-13-Vertreter
 - Bei Pflichtverstoß (kein Vertreter benannt): Bußgeld nach DDG, ggf. Diensteinschränkung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - Art. 13 DSA — Pflicht zur Benennung eines gesetzlichen Vertreters in der EU für Nicht-EU-Anbieter
@@ -132,3 +128,5 @@ Bevorzugter Zustellungsweg:
 Internationale Zuständigkeit: Art. [X] Bruessel-Ia-VO (VO 1215/2012)
 Gerichtsstand: [GERICHT]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

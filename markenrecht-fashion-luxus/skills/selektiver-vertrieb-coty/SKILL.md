@@ -24,12 +24,10 @@ Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, 
 
 ## Rechtsrahmen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Art. 101 AEUV:** Kartellverbot — selektive Vertriebssysteme können unter Art. 101 I fallen, sind aber in der Regel nach Art. 101 III freigestellt
 - **Vertikal-GVO (EU) 2022/720:** Gruppenfreistellung für vertikale Vereinbarungen; Marktanteilsschwelle 30 % für Lieferant und Händler; vgl. Skill `vertikale-preisbindung-vbe-vo`
 - **Art. 4 lit. b/c Vertikal-GVO:** Hardcore-Beschränkungen (auch bei Selektivvertrieb)
 - **§ 1 GWB:** Deutsches Kartellverbot (inhaltsgleich mit Art. 101 AEUV für DE-Markt)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -122,8 +120,4 @@ Bevor das selektive Vertriebssystem eingerichtet oder ein Haendler ausgeschlosse
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

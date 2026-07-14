@@ -75,9 +75,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Die BRAK und der DAV aktualisieren ihre Hinweise und Stellungnahmen fortlaufend. Nach jeder Neuveröffentlichung sind die Bausteine zu überprüfen. Ebenso bei neuen OLG- oder BGH-Entscheidungen zur Haftung bei Verwendung von KI-Output in Schriftsätzen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
 - § 43e BRAO — IT-Dienstleister und berufsrechtliche Absicherung
@@ -125,3 +122,4 @@ Geprueft von: [NAME], [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

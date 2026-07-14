@@ -3,7 +3,6 @@ name: zugang-formgerechter-erklaerung-bgh-viii-zr-159-23
 description: "Wenn es um Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23 in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtsgrundlagen
 
@@ -84,7 +83,6 @@ Schritt 4: Empfänger muss Signatur prüfen können
 ```
 Thema: Kündigung Wohnraummiete per qualifizierter elektronischer Signatur
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Die Kündigung per qES ist grundsätzlich zulässig (Paragraf 568 Abs. 1 BGB i.V.m.
 Paragraf 126a Abs. 1 BGB). Aber: Das qES-Dokument muss dem Mieter so zugehen,
@@ -109,3 +107,5 @@ mit Originalunterschrift, übergeben durch Boten gegen Quittung.
 - → `wohnraummiete-kuendigung-paragraph-568-bgb`
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
 - → `kuendigung-per-schriftsatz-zustellung-formfragen`
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

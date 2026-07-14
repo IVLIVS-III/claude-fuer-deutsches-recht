@@ -37,10 +37,6 @@ description: "Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukt
 - § 43a Abs. 4 BRAO, § 3 BORA — Interessenkonflikt
 - §§ 10 ff. GwG — Identifizierungspflicht
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Phasen des Erstgespraechs
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
@@ -159,3 +155,5 @@ Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
 - `urheber-abmahnung-pruefen` — Abmahnpruefung
 - `fachanwalt-urheber-medienrecht-gegendarstellung-presse` — Gegendarstellung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

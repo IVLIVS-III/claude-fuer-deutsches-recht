@@ -71,8 +71,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - EDSA-Leitlinien 05/2020 zu Einwilligung
 - EDSA-Empfehlungen 01/2020 (TIA)
 - DSK-Orientierungshilfe zu Telemedien (aktuell Stand) `[Modellwissen – aktuellen Stand auf dskonferenz.de prüfen]`
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
@@ -87,7 +85,6 @@ Organisation nutzt AWS US-East als Backup-System. AVV enthält EU-SCC Modul 2. K
 - EDSA-Empfehlungen 01/2020, Schritt 3: Rechtslage im Empfängerland bewerten.
 - EDSA-Empfehlungen 01/2020, Schritt 4: Auf Lücken in Schutzäquivalenz prüfen.
 - EDSA-Empfehlungen 01/2020, Schritte 5–6: Ergänzende Maßnahmen / Zurückhalten der Übermittlung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Maßnahme (Priorität 🟠):**
 1. TIA für AWS US-East nach EDSA-Empfehlungen 01/2020 erstellen (2 Wochen, DSB + IT-Sicherheit).
@@ -110,10 +107,6 @@ Stand: 05/2026. Lückenliste laufend aktualisieren bei neuen EDSA-Leitlinien (ed
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Gap-Analyse bei neuen Angemessenheitsbeschlüssen oder SCC-Änderungen
 - `datenschutzrecht/skills/richtlinien-monitor/SKILL.md` — Interner Praxis-Drift nach regulatorischer Änderung
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — DSFA-Pflicht bei neuen regulatorischen Anforderungen
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 
@@ -146,3 +139,5 @@ Geringe Lücken (GRUEN): [X]
 
 Empfehlung: Maßnahmenplan bis [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

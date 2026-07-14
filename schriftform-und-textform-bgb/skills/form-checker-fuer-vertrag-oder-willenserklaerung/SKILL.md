@@ -68,7 +68,6 @@ Welches Rechtsgeschäft liegt vor?
 → Wohnraummiete-Kündigung
  → Schriftform Paragraf 568 Abs. 1 BGB
  → qES möglich, aber Zugang mit prüfbarer Signatur erforderlich
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Gewerberaummietvertrag länger als 1 Jahr
  → Schriftform Paragraf 550 BGB
@@ -77,7 +76,6 @@ Welches Rechtsgeschäft liegt vor?
 → Maklervertrag Wohnraum (Kauf)
  → Textform Paragraf 656a BGB
  → E-Mail-Austausch reicht, kein Bereicherungsanspruch bei Verstoß
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 → Bürgschaft (Nicht-Kaufmann)
  → Schriftform Paragraf 766 BGB

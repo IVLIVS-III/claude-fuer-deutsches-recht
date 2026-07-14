@@ -62,7 +62,6 @@ description: "Wenn es um Aufhebungsvertrag Sperrzeit Prognose in Arbeitsrecht ge
 
 - **Vernünftige Person an Stelle des Arbeitnehmers** hätte gleichermaßen gehandelt
 - Sachlicher Grund den Arbeitnehmer akzeptieren konnte
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellationen wichtiger Grund
 
@@ -91,7 +90,6 @@ description: "Wenn es um Aufhebungsvertrag Sperrzeit Prognose in Arbeitsrecht ge
 - Schriftverkehr bei Mobbing
 - Auseinandersetzungs-Dokumentation
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Kernaussage
 
@@ -364,3 +362,5 @@ und die Empfehlung verstanden habe."
 - BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Prüfdichte für rechtmäßige drohende Kuendigung (dejure.org-Vernetzung).
 - Fachliche Weisungen der Bundesagentur für Arbeit zu Paragraf 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Quellenregel: Literatur (z.B. Krodel) nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

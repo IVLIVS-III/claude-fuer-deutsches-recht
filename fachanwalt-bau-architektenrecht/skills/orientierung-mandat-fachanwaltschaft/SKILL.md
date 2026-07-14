@@ -78,10 +78,6 @@ description: "Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Bau 
 - **Verwaltungsgericht** öffentliches Baurecht, Baugenehmigung, Bebauungsplan
 - **Vergabekammer** (Bund/Länder) + OLG-Vergabesenat bei Vergaberechtssachen
 
-## Aktuelle Rechtsprechung BGH VII. Zivilsenat (Auswahl)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Bevor du loslegst, kläre
 
 1. **Mandantenrolle**: Bauherr, Auftragnehmer, Architekt/Ingenieur, Subunternehmer, Bauträger, Investor?
@@ -110,3 +106,5 @@ description: "Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Bau 
 
 - ARGE Baurecht im Deutschen Anwaltverein (DAV)
 - Deutscher Baugerichtstag (alle zwei Jahre Hamm)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

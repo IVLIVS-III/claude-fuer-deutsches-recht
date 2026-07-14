@@ -109,5 +109,6 @@ Unterschrift DSB: ____________________
 - Art. 70 Abs. 1 lit. e DSGVO
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen — Auslegungshilfe für Kriterium 8
 - BfDI- und Landeslisten (live prüfen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

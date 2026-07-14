@@ -23,9 +23,6 @@ Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach 
 3. Gibt es historische Transaktionsdaten für einen Musterabgleich (90-Tage-Fenster, Jahresdurchschnitt)?
 4. Liegt der Alert bereits bei FIU-Meldepflicht-Schwelle oder noch in Pre-Suspicion-Phase?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 25h KWG — Pflicht zur Einrichtung Transaktionsmonitoring für Kreditinstitute
 - § 43 GwG — Meldepflicht bei Verdacht; Monitoring als Fruehwarnsystem
@@ -54,3 +51,5 @@ Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach 
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

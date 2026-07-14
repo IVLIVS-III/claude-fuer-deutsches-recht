@@ -14,7 +14,6 @@ description: "Wenn es um /tabellenreview-3d:spaltenprompts-definieren in Tabelle
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bibliothek (Auszug)
 
@@ -73,3 +72,5 @@ description: "Wenn es um /tabellenreview-3d:spaltenprompts-definieren in Tabelle
 ## Grenzen
 
 Spaltenprompts ersetzen nicht das Lesen des Dokuments. Sie machen das Lesen reproduzierbar und vergleichbar.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -57,7 +57,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Schritt 1 – Zulässigkeitsprüfung: Inkassodienstleistung i.S.d. RDG**
 - Liegt Einziehung fremder oder abgetretener Forderungen als eigenständiges Geschäft vor (§ 2 Abs. 2 Satz 1 RDG)?
 - Abgrenzung zu unerlaubter Rechtsberatung: Geht die Tätigkeit über Forderungseinziehung hinaus (umfassende Rechtsberatung)? → Unzulässig ohne Anwaltszulassung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 2 – Registrierung prüfen (§ 13 RDG)**
 - Registrierung beim zuständigen OLG (§ 13 Abs. 1 RDG) vorhanden?
@@ -77,7 +76,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Schritt 4 – Vergütung (§ 4 RDGEG)**
 - Vergütung nach RVG-Grundsätzen analog (Inkassovergütungsverordnung außer Kraft, nunmehr § 4 RDGEG).
 - Verbraucher-Schuldner: Inkassokosten nur in Höhe der nach RVG erstattungsfähigen Kosten (§ 4 Abs. 5 RDGEG); keine Kostenwälzung oberhalb RVG-Niveau auf Schuldner.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 5 – Datenschutz (Art. 6 Abs. 1 lit. f DSGVO)**
 - Rechtsgrundlage für Verarbeitung von Schuldnerdaten: berechtigtes Interesse des Forderungsgläubigers/Inkassounternehmens (Art. 6 Abs. 1 lit. f DSGVO; ErwGr. 47).
@@ -91,7 +89,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Gutachtenstil**:
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Hinweispflicht (§ 13d RDG)*: Das Schreiben an V muss V auf sein Recht hinweisen, die Forderung zu bestreiten. Das Fehlen dieses Hinweises verletzt § 13d RDG und kann als irreführende Geschäftspraxis nach § 5 UWG abgemahnt werden.
 
@@ -99,7 +96,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Risiken und typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Fehlende Hinweispflichten (§ 13d RDG)**: Erstes Schreiben ohne vollständige Pflichtangaben ist abmahn- und bußgeldfähig; v.a. fehlender Widerspruchshinweis.
 - **Überhöhte Inkassokosten**: Verbraucher-Schuldnern dürfen über RVG-Niveau hinausgehende Kosten nicht auferlegt werden (§ 4 Abs. 5 RDGEG); Überschreitung → Rückforderungsanspruch.
 - **Datenschutzverletzung bei Auskunftei-Meldung**: SCHUFA-Meldung ohne vorherige Mahnung und ohne Verhältnismäßigkeit ist ein eigenständiger DSGVO-Verstoß.

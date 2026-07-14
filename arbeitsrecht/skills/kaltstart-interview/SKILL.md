@@ -176,7 +176,8 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 
 ## Risiken / typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Tarifbindung übersehen.** Nachwirkung (Paragraf 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (Paragraf 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
 - **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (Paragraf 1 BetrVG). Auf Paragraf 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
 - **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; Paragraf 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

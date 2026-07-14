@@ -18,7 +18,6 @@ description: "Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO Vorp
 
 ## Powerplugin-Hinweis
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende ausdrücklich die Hinweispflicht nach § 102 StaRUG dokumentieren.
 
@@ -42,7 +41,6 @@ Minimum (für die Schnellrunde):
 - **Eröffnungsbestand liquider Mittel** zum Stichtag (Mo): Bank, Kasse, ungenutzte zugesagte Kreditlinien (nicht ausgeschöpfte und nicht gekündigte!).
 - **Fällige Verbindlichkeiten** der nächsten 3 Kalenderwochen, getrennt nach: Lohn/Gehalt + AG-Anteil SV, Lohnsteuer, Umsatzsteuer-Vorauszahlung, Sozialversicherungsbeiträge (monatliche Drittellast), Miete/Leasing, kritische Lieferanten, Zins+Tilgung, sonstige.
 - **Erwartete Zahlungseingänge** der nächsten 3 Wochen aus Debitoren (mit realistischem Ausfallrisiko / Skonto).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wenn Daten fehlen: Annahmen explizit dokumentieren und im Worst Case rechnen.
 
@@ -76,16 +74,13 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Spalten KW *t*, *t+1*, *t+2*.
 - Pro Spalte: Anfangsbestand, Einzahlungen je Bucket, Auszahlungen je Bucket, Endbestand, fällige Verbindlichkeiten der Folgewoche.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - `Lücke_t = max(0, fällige Verbindlichkeiten in t − verfügbare Mittel in t)`
 - `Lücke_3W = Summe aller offen bleibenden fälligen Verbindlichkeiten in t, t+1, t+2 abzüglich erwarteter Zugänge in t+1, t+2`
 - `Quote = Lücke_3W / fällige Verbindlichkeiten in t`
 - **Ampel**:
  - 🟢 **Grün**: Quote < 10 % (Zahlungsfähigkeit gegeben).
  - 🟡 **Gelb (Zahlungsstockung)**: Quote ≥ 10 %, aber Lücke_3W am Ende von *t+2* gleich null (binnen 3 Wochen schließbar).
- - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Hinweise auf Zahlungsunfähigkeit auch bei 🟡: SV-Rückstände, Lastschriftrückläufer, Stundungsanfragen, eingestellte Zahlungen an Finanzamt/Krankenkasse. Falls ≥ 2 Indizien → Eskalation wie 🔴.
 
 **Schritt 5 – Ergebnis und Eskalation**
@@ -102,18 +97,14 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - KW 22: Eingang 14.400 EUR (80 % von 18.000), verbleibende Lücke kumuliert 38.600 EUR.
 - KW 23: Eingang 9.500 EUR, verbleibende Lücke 50.700 EUR plus neue Fälligkeit 17.600 EUR.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Typische Fehler
 
 - **Kontokorrent voll als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) wie eine Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt. Eine Herausnahme von AdV-Beträgen aus Passiva I führt zu falschem "nicht zahlungsunfähig"-Ergebnis.
 - **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab **Eintritt** der Zahlungsunfähigkeit.
 - **Erwartete Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Lohnsteuer aufschieben**: Lohnsteuer-Rückstände sind ein klassisches Insolvenzindiz und persönlich haftungsauslösend.
 
 ## Quellenpflicht

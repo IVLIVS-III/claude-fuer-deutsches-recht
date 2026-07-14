@@ -45,10 +45,6 @@ Dies dient zugleich der Einhaltung kanzleiinterner Informationssicherheitspflich
 - **AI Act Art. 26** (Deployer-Pflichten, Hochrisiko-KI) — Kanzleien als Deployer von Hochrisiko-KI-Systemen haben Sorgfaltspflichten bei der Inbetriebnahme.
 - **§ 11 BRAO i. V. m. BORA** — Berufsrechtliche Grundsätze für den Einsatz externer Dienstleister und technischer Hilfsmittel in der Kanzlei.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -221,7 +217,6 @@ Bei jeder Ausführung dieser Skill sind folgende Quellen als anwendbares Recht z
 - § 203 StGB (Berufsgeheimnis)
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - AI Act Art. 26 (Deployer-Pflichten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -229,3 +224,5 @@ Bei jeder Ausführung dieser Skill sind folgende Quellen als anwendbares Recht z
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

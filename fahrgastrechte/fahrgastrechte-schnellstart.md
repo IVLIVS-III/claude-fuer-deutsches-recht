@@ -41,7 +41,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Entschädigung berechnen | Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Klage zum Amtsgericht (Fahrgastrechte) | Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten, Streitwert-Risiko, Auslagen). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fahrgastrechte — Anlagen bauen | `yaml schriftsatz: [pfad zum Schriftsatz, z.B. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fahrgastrechte — Anlagen bauen | Liest den Schriftsatz und identifiziert alle erwähnten Anlagen anhand der Bezeichnung Anlage K 1, Anlage K 2,. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Katalog der DB-Ablehnungsgründe und Gegenargumente | Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Eigenbeförderung und Betreuung (Art. 18, 20 VO; Paragraf 11 EVO) | Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn | VO (EU) 2021/782 vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

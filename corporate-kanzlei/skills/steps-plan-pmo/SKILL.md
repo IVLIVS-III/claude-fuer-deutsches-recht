@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 41 GWB** — Vollzugsverbot; gun jumping; Bussgeld bis 10 % Weltumsatz
 - **Art. 7 FKVO** — EU-Vollzugsverbot
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Steps Plan Struktur
 
 Ein Steps Plan listet alle Aktionen zur vollstaendigen Transaktionsdurchfuehrung:
@@ -230,5 +226,6 @@ Stand: [DATUM]
 ## Quellen
 
 - §§ 35-43 GWB; § 56 AWV; §§ 158, 162 BGB; Art. 7 FKVO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

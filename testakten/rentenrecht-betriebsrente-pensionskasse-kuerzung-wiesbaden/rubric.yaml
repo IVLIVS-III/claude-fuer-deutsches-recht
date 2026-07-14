@@ -1,4 +1,5 @@
 name: rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden
+plugin: "rentenpruefer"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte rentenrecht-betriebsrente-pensionskasse-kuerzung-wiesbaden.
 checks:
   - id: datei-01-versorgungsordnung-auszug-1998

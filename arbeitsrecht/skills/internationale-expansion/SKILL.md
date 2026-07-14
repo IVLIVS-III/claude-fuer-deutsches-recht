@@ -42,10 +42,8 @@ description: "Wenn es um Internationale Expansion in Arbeitsrecht geht: prüft F
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Arbeitnehmerbegriff bei grenzüberschreitenden Tätigkeiten; Indizien für
  Weisungsgebundenheit — maßgeblich für Contractor- vs. Arbeitnehmerstatus
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach Paragraf 10 Abs. 1 AÜG
  bei unerlaubter Arbeitnehmerüberlassung
 
@@ -383,7 +381,8 @@ Fragen für CFO/Steuerberatung]
 
 Jede Ausgabe zu AÜG-Konstellationen zitiert:
 - Paragrafen 1, 8, 10 AÜG, Paragraf 7 SGB IV, Art. 8 Rom I-VO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AÜG: Erlaubnispflicht, Höchstüberlassungsdauer und Equal Pay nach Gesetz, Tariftext und frei verifizierter Rechtsprechung prüfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

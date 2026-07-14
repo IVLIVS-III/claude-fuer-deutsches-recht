@@ -1,4 +1,5 @@
 name: rentenrecht-riester-zulagenrueckforderung-augsburg
+plugin: "rentenpruefer"
 description: Riester-Zulagenrueckforderung mit Mindesteigenbeitrag, Anbieterhinweis, Kinderzulage, Kindergeldwechsel
   und Einspruch gegen die Zentrale Zulagenstelle.
 checks:

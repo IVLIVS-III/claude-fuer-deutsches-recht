@@ -19,14 +19,14 @@
 
 ## Jetzt
 
-1.
-2.
-3.
+1. Sofortmaßnahme:
+2. Folgeschritt:
+3. Abschlusskontrolle:
 
 ## Nicht tun ohne Freigabe
 
--
+- Handlung, Sperrgrund und erforderliche Freigabe:
 
 ## Offen
 
--
+- Offener Punkt, Verantwortlicher und Frist:

@@ -12,8 +12,8 @@
 
 ## Antrag
 
-1.
-2.
+1. Hauptantrag:
+2. Hilfsantrag oder Kostenantrag:
 
 ## Eil- und Fristlage
 

@@ -125,15 +125,8 @@ Bevor die Anmeldekaskade gestartet wird, kläre:
 4. Wurde die 5-Jahres-Benutzungspflicht für bestehende Eintragungen beachtet?
 5. Ist eine Madrid-IR-Basismarke bereits konsolidiert und Central-Attack-resistent?
 
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Quellenkontrolle
 
 Deutsche Marke und Unionsmarke getrennt prüfen. Für absolute Schutzhindernisse insbesondere Paragraf 8 Markengesetz und Artikel 7 UMV, für Widerspruch und Verletzung die jeweils einschlägigen Tatbestände, Benutzungsschonfrist und Verfahrensregeln verwenden. Entscheidungen von Bundesgerichtshof, Bundespatentgericht, Gericht der Europäischen Union oder Gerichtshof der Europäischen Union nur mit konkretem Prüfmerkmal und verifizierter tragender Aussage zuordnen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

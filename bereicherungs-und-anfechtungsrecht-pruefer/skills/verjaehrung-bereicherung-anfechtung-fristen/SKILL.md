@@ -17,16 +17,6 @@ description: "Wenn es um Verjährung: Bereicherung, AnfG und InsO-Anfechtung in 
 
 § 195 BGB (Regelverjährung drei Jahre) — § 199 BGB (Verjährungsbeginn und Höchstfristen) — §§ 203–213 BGB (Verjährungshemmung) — § 15 AnfG (Verjährung AnfG-Anspruch) — § 146 InsO (Verjährung InsO-Anfechtung) — §§ 3, 4 AnfG (Anfechtungsfristen zehn / vier Jahre) — §§ 130–135 InsO (Anfechtungszeiträume)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Übersicht Verjährungsfristen
 
 | Anspruchsgrundlage | Verjährungsfrist | Beginn | Absolute Grenze |
@@ -80,3 +70,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

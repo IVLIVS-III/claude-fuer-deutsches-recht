@@ -23,7 +23,6 @@ Der Skill greift nicht, wenn der Bedachte **ehrenamtlicher** Betreuer im Sinne d
 
 - BGH, Urteil vom 02.07.2025 - IV ZR 93/24: Strukturanaloge Bestätigung der Trennung von Berufsrecht und Erbrecht. Eine Zuwendung von Todes wegen an den behandelnden Arzt ist nicht deshalb unwirksam, weil sie gegen § 32 Abs. 1 S. 1 (M)BO-Ä verstößt. Die Berufsordnung ist kein Verbotsgesetz i.S.d. § 134 BGB; die Testierfreiheit (Art. 14 GG) überwiegt; § 138 BGB bleibt Einzelfallprüfung. Übertragbarkeit der Argumentationsstruktur auf § 30 BtOG-Konstellationen ist sehr nahe liegend, BGH hat zu § 30 BtOG aber noch nicht ausdrücklich entschieden. Quelle: bundesgerichtshof.de PM 2025/2025122.html.
 - OLG Nürnberg (Live-Verifikation erforderlich für Aktenzeichen und Datum): bestätigte vor BGH-Entscheidung bereits, dass § 30 BtOG kein § 134 BGB-Verbotsgesetz ist, das Testament wirksam bleibt, aber berufsrechtliche Sanktion droht.
-- Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
 ## Pflichtbestandteile der Antwort
 
@@ -160,7 +159,7 @@ Die Faustformel "Berufsbetreuer darf nicht erben" ist daher zu pauschal und in d
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Pinpoint-Zitierung mit Randnummer und juengere Entscheidungen zuerst.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

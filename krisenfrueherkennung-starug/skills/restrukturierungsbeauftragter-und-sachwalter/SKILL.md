@@ -164,12 +164,6 @@ Sonstiges:
 
 ---
 
-## Aktuelle Leitentscheidungen — Restrukturierungsbeauftragter und Sachwalter
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 §§ 270-270f InsO (Eigenverwaltung und Sachwalter) → § 274 InsO (Pflichten Sachwalter) → § 275 InsO (Mitwirkung bei Kassengeschaeften) → §§ 73-90 StaRUG (Restrukturierungsbeauftragter) → § 73 Abs. 2 StaRUG (Unabhaengigkeit)
@@ -180,3 +174,5 @@ Sonstiges:
 2. **Unabhaengigkeit geprueft?** Frueherer Berater des Schuldners → Problematisch.
 3. **Interessen-Konflikt?** Sachwalter darf kein eigenes Interesse an Verwertungs-Ergebnis haben.
 4. **Pflichten-Umfang?** § 274 InsO: Kassenprueung, Zahlungsverkehr-Kontrolle, Bericht an Gericht und Ausschuss.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

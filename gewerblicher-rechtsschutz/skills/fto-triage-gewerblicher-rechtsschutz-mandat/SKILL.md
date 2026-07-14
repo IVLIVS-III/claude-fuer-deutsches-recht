@@ -94,7 +94,6 @@ Für jedes potenziell sperrende Patent:
 
 🔴 **Blocking:** Alle Merkmale des Anspruchs im Produkt vorhanden; Patent in Kraft; keine eindeutige Äquivalenzlücke; anwaltliche FTO-Analyse dringend erforderlich vor Markteinführung.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 🟡 **Mittel:** Einige Überschneidungen; erhebliche Merkmale nicht vorhanden; Design-around möglich; patentanwaltliche Prüfung empfohlen.
 
@@ -117,7 +116,6 @@ Zitierweise nach `../references/zitierweise.md`.
 **Normen:** §§ 9, 14, 16, 21 PatG; § 14 GebrMG; VO (EG) 469/2009 (SPC-VO Pharma); Art. 64 EPÜ (nationale Wirkung EP-Patent).
 
 **Leitentscheidungen:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Kraßer/Ann, Patentrecht, 7. Aufl. 2016, § 33 Rn. 45 ff. (Schutzbereichsbestimmung). `[Modellwissen – prüfen; neuere Auflage verwenden falls verfügbar]`
@@ -149,3 +147,5 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Kein FTO-Gutachten:** Diese Triage ersetzt kein formelles FTO-Gutachten durch einen Patentanwalt; bei 🔴/🟠-Ergebnissen ist patentanwaltliche Einschaltung zwingend.
 - **Äquivalenz ist Recht, nicht Technik:** Die Äquivalenzprüfung erfordert rechtliche Wertung (BGH "Pemetrexed"); nicht dem Ingenieur überlassen.
 - **Geheimhaltung:** Technologiebeschreibungen sind vertraulich (§ 43a Abs. 2 BRAO; Geschäftsgeheimnis § 2 GeschGehG); nur intern und über gesicherte Kanäle verarbeiten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

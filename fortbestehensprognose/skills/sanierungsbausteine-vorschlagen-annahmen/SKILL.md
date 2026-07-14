@@ -48,7 +48,6 @@ Aus der Zusammenführung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 
 - Bestehendes Gesellschafterdarlehen wird mit **qualifiziertem Rangrücktritt** versehen.
 - Im Status nicht passiviert (§ 19 Abs. 2 S. 2 InsO).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Form: **notariell oder mit Schriftform unterzeichnet von beiden Parteien**.
 - Skill `gesellschafterdarlehen-rangruecktritt`.
 
@@ -147,10 +146,6 @@ empfehlungen:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Aktuelle Leitentscheidungen — Sanierungsbausteine
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Sanierungsbausteine
 
 § 19 Abs. 2 InsO (Fortbestehensprognose) → §§ 29 ff. StaRUG (vorinsolvenzliche Sanierung) → § 39 Abs. 4 InsO (Sanierungsprivileg Gesellschafterdarlehen) → § 3a EStG (steuerfreier Sanierungserloes) → § 133 InsO (Anfechtungsschutz bei echtem Sanierungskonzept)
@@ -161,3 +156,5 @@ empfehlungen:
 2. **Gläubiger-Einbindung noetig?** Stundungsanfragen, Verzichte — Zustimmung einholen.
 3. **Steuerliche Wirkung?** Sanierungserloes § 3a EStG: Voraussetzungen prüfen; Steuerberater einbinden.
 4. **Gesamtkonzept?** Alle Bausteine zusammen müssen eine positive Prognose tragen (IDW S 11 Konformitaet).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

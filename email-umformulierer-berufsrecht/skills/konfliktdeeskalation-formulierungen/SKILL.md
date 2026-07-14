@@ -17,9 +17,6 @@ Dieser Skill stellt eine kuratierte Sammlung deeskalierender Formulierungsbauste
 3. Steht ein Gerichtsverfahren kurz bevor oder gibt es noch Raum für aussergerichtliche Einigung?
 4. Wer ist der Adressat der deeskalierenden Formulierung: Kollege, Mandant, Gegner oder Gericht?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 17 BORA — Aussergerichtliche Streitbeilegung als berufsrechtlich unterstuetzter Weg
 - § 242 BGB — Treu und Glauben: Kooperationspflichten der Parteien
@@ -53,3 +50,5 @@ Deeskalierende Kommunikation folgt vier Grundprinzipien: (1) Verständnis zeigen
 ## Berufsrechtlicher Hintergrund
 
 § 43a Abs. 3 BRAO verlangt sachliche Kommunikation. Deeskalation ist berufsrechtlich nicht vorgeschrieben, aber strategisch klug: Sie hält die Kommunikation offen und vermeidet unnötige Eskalation, die häufig zu berufsrechtlich problematischen Reaktionen auf beiden Seiten führt. § 17 BORA (außergerichtliche Streitbeilegung) unterstreicht den Wert einvernehmlicher Lösungen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -51,15 +51,12 @@ description: "Wenn es um Untersuchung Ergaenzen in Arbeitsrecht geht: ordnet Akt
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Beweisverwertungsverbot bei rechtswidrig erlangten Dokumenten — heimliche
  Videoüberwachung ohne Betriebsratsinhaber führt zum Verwertungsverbot
  auch im Kündigungsschutzprozess; Grundsatz gilt sinngemäß für
  rechtswidrig ausgewertete Kommunikation
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verdachtskündigung — Anforderungen an die Dokumentation des Tatverdachts;
  objektive Schwere; inhaltliche Mindestanforderungen an die Anhörung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Erstattungsfähigkeit von Untersuchungskosten (Detektivkosten) — nur bei
  konkreter Verdachtslage bei Beauftragung und Verhältnismäßigkeit
 
@@ -172,7 +169,6 @@ Bei Ausgaben zu Dokumentenverarbeitung zitieren:
 - Paragraf 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung)
 - Art. 5 Abs. 1 lit. c DSGVO (Datenminimierung)
 - Paragraf 626 Abs. 2 BGB (Zwei-Wochen-Frist, Kenntnisdatum)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
 
 Detaillierte Auswahlkriterien, Protokolleintrag-Format und
@@ -181,12 +177,10 @@ Deckungsverifikationsregeln befinden sich in der Referenz-Skill
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-## Ergänzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Dateneingabe klären
 
 1. Handelt es sich um neue Zeugenaussagen, Dokumentenlieferung oder anwaltliche Notizen?
 2. Liegt eine Paragraf 87 Abs. 1 Nr. 6 BetrVG-freigabe für E-Mail-/IT-Auswertungen vor?
 3. Begründet die neue Erkenntnis erstmals einen konkreten Tatverdacht? → Dann Kenntnisdatum für Paragraf 626 Abs. 2 BGB festhalten!
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

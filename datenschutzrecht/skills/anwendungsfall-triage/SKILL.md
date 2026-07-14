@@ -45,15 +45,11 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  — Ungültigkeit EU-US-Privacy-Shield; Standardvertragsklauseln erfordern Transfer
  Impact Assessment; maßgeblich für Art. 44 ff. DSGVO.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  — Automatisiertes Scoring als Entscheidung i. S. d. Art. 22 DSGVO, wenn Dritte
  maßgeblich darauf abstellen; zentral für Triage von KI-/Scoring-Vorhaben.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  — Datenschutzrechtliche Haftung Art. 82 DSGVO; Beweislastverteilung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  *(Recht auf Vergessen I)* — Datenschutz als Teil des allgemeinen Persönlichkeitsrechts
  (Art. 2 Abs. 1 i. V. m. Art. 1 Abs. 1 GG); Abwägung mit Kommunikationsfreiheiten.
 
@@ -87,7 +83,6 @@ Konfiguriertes Prüfraster aus CLAUDE.md lesen. Trigger erfüllt → mindestens
 
 **Pflichttatbestände (Art. 35 Abs. 3, DSK-Positivliste):**
 - Systematische automatisierte Bewertung persönlicher Aspekte inkl. Profiling mit
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9 DSGVO).
 - Systematische umfangreiche Überwachung öffentlich zugänglicher Bereiche.
 
@@ -141,7 +136,6 @@ Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisie
 
 ### Schritt 6: Weiterleitung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  KI-Folgenabschätzung erwägen.
 - **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
  94 BetrVG) prüfen.
@@ -153,7 +147,6 @@ automatisierte Kreditentscheidung.
 
 **Klassifikation:** DSFA PFLICHT — Art. 35 Abs. 3 lit. a DSGVO: systematische
 automatisierte Bewertung persönlicher Aspekte mit erheblichen Auswirkungen
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 (Schufa-Scoring) reicht es, dass Dritte maßgeblich auf das Scoring abstellen.
 DSB-Konsultation und Verarbeitungsverzeichnis-Eintrag (Art. 30) zwingend.
 
@@ -177,7 +170,6 @@ DSK-Listenfundstelle bei DSFA-Pflicht, einschlägige Rechtsprechung in korrekter
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 Beispiel Rechtsprechung:
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Beispiel Kommentar:
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -190,10 +182,6 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen der DSK-Blacklist/Whitelist 
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — vollständige DSFA bei positiver Triage
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Drittlandbezug in der Triage
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — bei Auftragsverarbeitung als Verarbeitungsbestandteil
-
-## Aktuelle Rechtsprechung (Ergaenzung v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template — Triage-Ergebnis
 
@@ -226,3 +214,5 @@ Verantwortlich: [PERSON / ROLLE]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

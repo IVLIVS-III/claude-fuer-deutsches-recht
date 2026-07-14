@@ -22,7 +22,6 @@ description: "Wenn es um /tabellenreview-3d:prompt-versionierung in Tabellenrevi
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Versionierungsschema
 
@@ -79,3 +78,5 @@ Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-p
 ## Grenzen
 
 Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

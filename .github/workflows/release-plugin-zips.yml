@@ -37,11 +37,23 @@ jobs:
       - name: YAML-Frontmatter validieren
         run: python3 scripts/validate-yaml-frontmatter.py
 
+      - name: Testakten-Rubriken vollständig auswerten
+        run: |
+          python3 scripts/test-run-eval.py
+          python3 scripts/run-eval.py --quiet
+
+      - name: Release- und PDF-Helfer testen
+        run: |
+          python3 scripts/test-release-assets.py
+          python3 scripts/test-testakte-pdf-build.py
+
       - name: Skill-Aktivierungssignale prüfen
         run: python3 scripts/audit-skill-activation.py
 
-      - name: Gesamt-PDFs der Testakten validieren
-        run: python3 scripts/validate-testakten-gesamt-pdf.py
+      - name: Gesamt-PDFs der Testakten reproduzierbar bauen und validieren
+        run: |
+          python3 scripts/build-testakte-gesamt-pdf.py
+          python3 scripts/validate-testakten-gesamt-pdf.py
 
       - name: Keine Markdown-Aktenstücke in Testakten validieren
         run: python3 scripts/validate-testakten-keine-markdown-aktenstuecke.py
@@ -90,12 +102,13 @@ jobs:
         run: |
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/validate-readme-navigation.py
-
-      - name: Python-Abhaengigkeiten fuer den PDF-Bau installieren
-        run: python3 -m pip install --quiet reportlab pypdf python-docx openpyxl odfpy
+          python3 scripts/validate-markdown-structure.py
 
       - name: Pluginlokale Gesamt-PDFs der Testakten bauen
         run: python3 scripts/build-plugin-testakte-gesamt-pdfs.py
+
+      - name: Generierte Dateien gegen den Tag prüfen
+        run: git diff --exit-code
 
       - name: Liste aller Plugins aus marketplace.json lesen
         id: plugins
@@ -285,20 +298,7 @@ jobs:
           ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-pluginlokalen-testakten.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
-        run: |
-          python3 - <<'PY'
-          import hashlib
-          from pathlib import Path
-          dist = Path("dist")
-          assets = sorted(
-              p for p in dist.iterdir()
-              if p.is_file() and (p.suffix in {".zip", ".md"} or p.name == "marketplace.json")
-          )
-          with (dist / "checksums-sha256.txt").open("w", encoding="utf-8") as fh:
-              for path in assets:
-                  fh.write(f"{hashlib.sha256(path.read_bytes()).hexdigest()}  {path.name}\n")
-          PY
-          test -s dist/checksums-sha256.txt
+        run: python3 scripts/build-release-checksums.py dist
 
       - name: Tag bestimmen
         id: tagref
@@ -309,82 +309,26 @@ jobs:
             echo "tag=${{ github.event.inputs.tag }}" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Release veroeffentlichen (gedrosselter ZIP-Upload)
+      - name: Release-Dateien parallel und wiederaufnehmbar hochladen
         if: steps.tagref.outputs.tag != ''
         env:
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ steps.tagref.outputs.tag }}
         run: |
-          set -euo pipefail
-          gh_retry() {
-            local attempt
-            for attempt in 1 2 3 4 5 6; do
-              if "$@"; then
-                return 0
-              fi
-              echo "GitHub API-Aufruf fehlgeschlagen (Versuch $attempt): $*" >&2
-              sleep $((attempt * 60))
-            done
-            echo "GitHub API-Aufruf endgueltig fehlgeschlagen: $*" >&2
-            return 1
-          }
-
-          release_exists=0
-          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
-            echo "Release $RELEASE_TAG existiert bereits; fehlende/aktualisierte Assets werden ueberschrieben."
-            release_exists=1
-          else
-            gh_retry gh release create "$RELEASE_TAG" --title "$RELEASE_TAG" --generate-notes
-          fi
-
-          # GitHub kann bei sehr vielen Release-Assets ein Secondary Rate Limit
-          # ausloesen. Deshalb laden wir bewusst einzeln und mit kleinen Pausen.
-          upload_asset() {
-            local asset="$1"
-            local asset_name
-            asset_name="$(basename "$asset")"
-            local attempt
-            for attempt in 1 2 3 4 5 6 7 8; do
-              # "gh release upload --clobber" kann bei sehr vielen Assets
-              # gelegentlich erfolgreich zurueckkehren, ohne das entfernte
-              # Asset tatsaechlich sichtbar zu ersetzen. Bei bestehenden
-              # Releases loeschen wir deshalb vorhandene Assets explizit.
-              # Bei frisch erzeugten Releases sparen wir den Delete-Call, damit
-              # der Actions-Installation-Token nicht unnoetig Rate-Limit frisst.
-              if [ "$release_exists" = "1" ]; then
-                gh release delete-asset "$RELEASE_TAG" "$asset_name" -y >/dev/null 2>&1 || true
-                sleep 1
-              fi
-              if timeout 180s gh release upload "$RELEASE_TAG" "$asset" --clobber; then
-                return 0
-              fi
-              echo "Upload fehlgeschlagen (Versuch $attempt): $asset_name"
-              sleep $((attempt * 180))
-            done
-            echo "Upload endgueltig fehlgeschlagen: $asset_name" >&2
-            return 1
-          }
-
-          count=0
-          asset_list="$(mktemp)"
-          find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort > "$asset_list"
-          total="$(wc -l < "$asset_list" | tr -d ' ')"
-          while IFS= read -r asset; do
-            count=$((count + 1))
-            echo "Lade $count/$total: $(basename "$asset")"
-            upload_asset "$asset"
-            if [ $((count % 50)) -eq 0 ]; then
-              sleep 20
-            else
-              sleep 1
-            fi
-          done < "$asset_list"
+          python3 scripts/upload-release-assets.py dist "$RELEASE_TAG" \
+            --repo "${{ github.repository }}" --workers 4 --attempts 6
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: python3 scripts/validate-release-assets.py dist "${{ steps.tagref.outputs.tag }}" --repo "${{ github.repository }}" --timeout-seconds 900 --poll-seconds 10
+
+      - name: Vollständigen Release veröffentlichen
+        if: steps.tagref.outputs.tag != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release edit "${{ steps.tagref.outputs.tag }}" --draft=false --repo "${{ github.repository }}"
 
       - name: Artefakte hochladen (immer)
         if: always()
@@ -394,7 +338,6 @@ jobs:
           path: |
             dist/*.zip
             dist/*.md
-            dist/**/*.zip
             dist/marketplace.json
             dist/checksums-sha256.txt
           retention-days: 30

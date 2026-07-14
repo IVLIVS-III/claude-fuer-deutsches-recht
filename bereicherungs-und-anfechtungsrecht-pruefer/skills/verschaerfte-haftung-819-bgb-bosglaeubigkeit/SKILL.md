@@ -18,16 +18,6 @@ description: "Wenn es um Verschärfte Haftung — Paragraf 819 BGB bei Bösgläu
 
 § 819 Abs. 1 BGB (Bösgläubigkeit: Kenntnis des Mangels) — § 819 Abs. 2 BGB (Gesetz-/Sittenverstoß) — § 818 Abs. 3 BGB (Entreicherungseinrede: ausgeschlossen) — § 818 Abs. 4 BGB (Rechtshängigkeit) — § 292 BGB (Haftung bei Pflicht zur Herausgabe) — §§ 987–993 BGB (EBV, entsprechend) — § 817 S. 1 BGB (verbotener Zweck beim Empfänger)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Tatbestand § 819 Abs. 1 BGB — Kenntnis des Mangels
 
 **Voraussetzung:** Positive Kenntnis der Tatsachen, aus denen sich das Fehlen des Rechtsgrundes ergibt. Grob fahrlässige Unkenntnis genügt nach dem Gesetzeswortlaut nicht (str.).
@@ -96,3 +86,5 @@ Sachverhalt (kurz): [...]
 3. Sind Anschlusswege erwünscht? [Mediation / Direktgespräch / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

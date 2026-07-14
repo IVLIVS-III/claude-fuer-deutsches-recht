@@ -64,4 +64,5 @@ Unterschrift Geschäftsführer: __________________________
 - §§ 15a, 15b, 17, 18, 19 InsO
 - Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 102 StaRUG Rn. 8–35
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

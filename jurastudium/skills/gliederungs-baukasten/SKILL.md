@@ -34,10 +34,8 @@ Der Prüfungsstoff des Ersten Staatsexamens ist in den Juristenausbildungsgesetz
 **Maßgebliche Pflichtstoff-Leitentscheidungen:**
 
 Für BGB AT und Schuldrecht:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Für Strafrecht:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kanonische Lernmaterialien:**
 - Alpmann Schmidt, Gesamtdarstellungen (BGB AT, SchuldR, StGB AT/BT etc.)
@@ -164,3 +162,5 @@ D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studentenn bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

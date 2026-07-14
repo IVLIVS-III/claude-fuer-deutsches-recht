@@ -420,10 +420,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **Spezialfrage (Mandat-Triage Steuerrecht):** Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Änderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung (Orientierung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ablauf — acht Fragen
 
 ### Frage 1 — Mandantenrolle?
@@ -583,6 +579,8 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Tipke/Lang Steuerrecht
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `orientierung`
@@ -596,10 +594,6 @@ _Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht – Steuerbera
 - **Normen:** § 6a, §§ 122, §§ 347.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Aktuelle Rechtsprechung (Orientierung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Wichtige Normen
 
@@ -660,6 +654,8 @@ Nur relevant für den Erwerb des Fachanwaltstitels "Fachanwalt für Steuerrecht"
 
 Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl für Fachanwaeltinnen/Fachanwaelte als auch für alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `erstgespraech-mandatsannahme`
@@ -680,9 +676,6 @@ _Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozes
 3. Interessenkonflikt (§ 43a Abs. 4 BRAO, § 3 BORA): Gegnerin oder Sachzusammenhang bekannt?
 4. Streitwert grob abschätzbar? Stundenhonorar oder RVG (§ 3a RVG: schriftliche Vereinbarung zwingend)?
 5. Ist die Steuersache beim FA, FG oder BFH anhängig — oder noch im Vorverfahren (Einspruchsphase)?
-
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Wann dieser Arbeitsgang greift
 
@@ -871,7 +864,6 @@ _Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragr
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
 
 ## Zentrale Normen
@@ -883,6 +875,8 @@ _Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragr
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -925,7 +919,6 @@ _Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesfinanzhof.de, bundesverfassungsgericht.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
 
 ## Zentrale Normen
@@ -937,6 +930,8 @@ _Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -981,16 +976,11 @@ Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestel
 - **§ 15a Abs. 1 Satz 1 InsO** — Insolvenzantragspflicht. Zahlungsunfähigkeit (§ 17 InsO) → drei Wochen. Überschuldung (§ 19 InsO) → sechs Wochen.
 - **§ 15a Abs. 4 InsO** — Strafbarkeit Insolvenzverschleppung (Freiheitsstrafe bis 3 Jahre / Geldstrafe; bei Fahrlässigkeit bis 1 Jahr).
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife. Geschäftsführerhaftung gegen die Gesellschaft (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 19 InsO** — Überschuldung (zweistufig: rechnerisch und Fortbestehensprognose; vgl. `stb-ueberschuldungspruefung-19-inso`).
 - **§ 18 InsO** — Drohende Zahlungsunfähigkeit (24-Monats-Horizont; Antragsrecht, keine Pflicht — Zugangstor StaRUG).
 - **§ 102 StaRUG** — Krisenfrüherkennungspflicht GF; ergänzt § 91 Abs. 2 AktG analog auf alle haftungsbeschränkten Gesellschaften.
 - **§ 64 StBerG / § 43a Abs. 5 BRAO** — bei Honorarrückständen Berücksichtigung; keine Beratung ohne Vergütungsvereinbarung in Hochrisikofällen.
 - **§ 826 BGB / § 823 Abs. 2 BGB i.V.m. § 15a InsO** — Außenhaftung GF gegenüber Neugläubigern bei Insolvenzverschleppung.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -1068,7 +1058,6 @@ sechs Wochen ab Eintritt der Ueberschuldung].
  gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
 3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
  BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Empfehlung:**
 
@@ -1113,6 +1102,8 @@ Rechtsanwalt/-anwaeltin
 ## Quellen und Updates
 
 Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanInsKG (24-Monats-Prognose § 19 InsO bis 31.12.2026) berücksichtigt. § 11 BORA-Schriftformpflicht zentral. Bei Änderung InsO/BORA aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

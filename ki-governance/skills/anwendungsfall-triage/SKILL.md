@@ -61,7 +61,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 **Leitentscheidungen**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kommentare**
 
@@ -161,7 +160,6 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber (Art. 13 DSGVO).
  jeder Klassifikation.
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-Überwachungs-/Bewertungstools.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 5 Rn. 8 und Anhang III Rn. 15.**
 - **Ehmann/Selmayr, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10.**
 - **Müller-Glöge, in: Erfurter Kommentar, 25. Aufl. 2025, § 87 BetrVG Rn. 32.**
@@ -206,3 +204,5 @@ Erstellt: [NAME], [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

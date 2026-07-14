@@ -41,10 +41,6 @@ description: "Wenn es um Entfristung Rechtsfolge 16 Tzbfg Unbefristet in Arbeits
 - Paragraf 615 BGB — Annahmeverzugslohn des Arbeitgebers bei Weigerung der Weiterbeschäftigung
 - Paragrafen 9, 10 KSchG i.V.m. Paragraf 17 Satz 2 TzBfG — Auflösungsantrag des Arbeitnehmers auf Abfindung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt: Was folgt aus Paragraf 16 TzBfG?
 
 ### Schritt 1: Feststellung der Rechtsfolge
@@ -104,3 +100,5 @@ Der Feststellungsantrag lautet:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

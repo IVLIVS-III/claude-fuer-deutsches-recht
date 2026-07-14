@@ -1,4 +1,5 @@
 name: schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg
+plugin: "fachanwalt-sozialrecht"
 description: Aenderungsantrag bei Parkinson mit Streit um das Merkzeichen G und den Grad der Behinderung, motorische
   Fluktuationen sowie spaetere Altersrente fuer schwerbehinderte Menschen.
 checks:

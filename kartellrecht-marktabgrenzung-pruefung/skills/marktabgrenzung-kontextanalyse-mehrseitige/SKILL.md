@@ -60,6 +60,6 @@ Der Output dieser Kontextanalyse fließt in alle nachfolgenden Prüfungsschritte
 
 ## Leitentscheidungen Kontextanalyse
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 10-30 — Kontextfaktoren: Regulierung, Substitution, Technologie, Verhalten.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

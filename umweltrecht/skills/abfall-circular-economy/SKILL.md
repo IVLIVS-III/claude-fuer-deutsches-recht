@@ -34,10 +34,6 @@ description: "Wenn es um Abfallrecht und Circular Economy in Umweltrecht geht: p
 - **§ 62 KrWG** — Anordnungsrecht der Behörde
 - **Art. 6 Richtlinie 2008/98/EG** — Ende der Abfalleigenschaft EU-Recht
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Stoff-Klassifikation**: Ist Stoff Abfall, Nebenprodukt oder nicht-Abfall nach §§ 3-5 KrWG + Europaeischem Abfallverzeichnis (AVV)?
@@ -101,3 +97,5 @@ Anlagen: Liefervertrag, SDS-Datenblatt, Laboranalyse
 - `umweltrecht-transaktionen-dd` — Abfallrisiken in M&A
 - `esg-greenwashing-csrd` — CSRD-Berichtspflicht Kreislaufwirtschaft
 - `umweltrecht-wasser-bodenschutz` — Altlasten bei Deponien
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: Insolvenzanfechtung aus Verwaltersicht gegen eine Verpackungsmittel-Glaeubigerin, die im letzten Monat
   vor dem Eigenantrag 41.750 EUR durch Zwangsvollstreckung und eine Zahlung zur Abwendung der Vollstreckung erhalten
   hat. Prueft inkongruente Deckung, Fristenrechnung, die Kenntnis-Falle bei Paragraf 131 Abs. 1 Nr. 1 InsO und die

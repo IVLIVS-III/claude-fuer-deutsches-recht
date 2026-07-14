@@ -89,10 +89,6 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - "Mieter verlangt Zahlungsbelege zur Betriebskostenabrechnung 2025. Erstelle Antwort und Belegeinsichtsplan."
 - "WEG-Verwalterabrechnung liegt vor; welche Positionen dürfen in die Mieterabrechnung?"
 
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 - Schimmel/Mangel: §§ 536, 536a BGB, § 538 BGB
@@ -109,3 +105,5 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - `betriebskostenabrechnung-erstellen-asset-management`
 - `betriebskostenabrechnung-pruefen-asset-management`
 - `weg-abrechnung-mieterschnittstelle-datenpaket`
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

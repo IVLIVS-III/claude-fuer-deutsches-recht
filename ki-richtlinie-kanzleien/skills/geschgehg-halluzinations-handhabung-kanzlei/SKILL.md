@@ -48,9 +48,6 @@ Mandanten sind vor dem Einsatz von KI-Systemen für die Bearbeitung ihrer Angele
 
 Das GeschGehG ist ein vergleichsweise junges Gesetz (in Kraft seit 26. April 2019), das sich in der Rechtsprechung noch weiter konturiert. Neue Entscheidungen des BGH oder der Oberlandesgerichte zum GeschGehG im Kontext digitaler Dienstleistungen sind zu beobachten und ggf. in die Richtlinie einzuarbeiten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 1 GeschGehG — Anwendungsbereich
 - § 2 Nr. 1 GeschGehG — Definition Geschäftsgeheimnis (angemessene Geheimhaltungsmassnahmen)
@@ -95,3 +92,4 @@ abgeschlossen sein, der die Nutzung zur Modellverbesserung ausschliess.
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

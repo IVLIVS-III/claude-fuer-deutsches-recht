@@ -139,10 +139,6 @@ Step 7: Einreichungshinweise ausgeben
 - **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
 - **Paragraf 46 Abs. 2 ArbGG i.V.m. Paragraf 496 ZPO** — Klage kann zu Protokoll der Geschäftsstelle erklärt werden
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Einreichungshinweise
 
 1. **Frist:** Die Klageschrift muss innerhalb von **drei Wochen** nach Zugang der Kündigung beim Arbeitsgericht eingehen.
@@ -156,3 +152,5 @@ Step 7: Einreichungshinweise ausgeben
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

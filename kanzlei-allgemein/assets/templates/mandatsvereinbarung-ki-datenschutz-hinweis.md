@@ -22,4 +22,4 @@ Soweit gesetzlich erforderlich, erhebt und prüft die Kanzlei Angaben zur Identi
 
 ## Offene Anpassungen
 
--
+- Klausel, Anpassungsbedarf, Verantwortlicher und Frist:

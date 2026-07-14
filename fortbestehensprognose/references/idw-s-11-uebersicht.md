@@ -46,7 +46,6 @@ Nach IDW S 11:
 
 Die "überwiegende Wahrscheinlichkeit" der Fortführung ist methodisch nichts anderes als die Wahrscheinlichkeit dass das Unternehmen über den 12-Monats-Horizont **nicht in die Zahlungsunfähigkeit nach § 17 InsO** gerät. Das ist der Grund warum die Liquiditätsplanung den Kern der Prognose bildet.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Deckung der fälligen Verbindlichkeiten mindestens 90 Prozent** (Liquiditätslücke unter zehn Prozent).
 - **Vorübergehende Unterdeckung höchstens drei Wochen** und mit Aussicht auf Schließung binnen dieser Frist.
@@ -77,7 +76,6 @@ Die Prognose ist nur dann tragfähig wenn die 90-Prozent-Schwelle nicht nur im B
 ### Berücksichtigungsfähig
 
 - **Harte externe Patronatserklärung** mit insolvenzfester Klausel (Forderungsverzicht im Insolvenzfall).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Forderungsverzicht** mit Besserungsschein.
 - **Stundungsvereinbarungen** schriftlich.
 - **Schriftliche Bankzusage** auf Kreditlinienerhöhung.
@@ -114,3 +112,5 @@ Bei jeder Erstellung der Fortbestehensprognose: aktuellsten IDW S 11 prüfen.
 ## Hinweis
 
 Diese Übersicht ersetzt nicht das Originaldokument des IDW. Vor jeder gerichtsverwertbaren Prüfung: Originalstandard heranziehen und ggf. mit WP / Steuerberater abstimmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

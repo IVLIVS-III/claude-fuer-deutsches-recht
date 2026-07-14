@@ -58,10 +58,6 @@ Wenn das Vorhaben nach RL 2015/1535 notifiziert wurde, darf erst nach Ablauf der
 
 Außenwirkung beginnt erst mit Verkündung im BGBl bzw. Landesgesetzblatt. Eintrag im Bundesanzeiger ist nur für Verwaltungsvorschriften relevant.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 20 Abs. 3 GG (Rechtsstaat, Vertrauensschutz) — Art. 14 GG (Eigentumsschutz bei Uebergangsrecht) — §§ 6-7 HdR (Inkrafttreten, Uebergangsbestimmungen) — § 49 Abs. 6 VwVfG (Bestandsschutz laufender Bewilligungen) — Art. 79 EGBGB (Uebergangsregelungen BGB)
@@ -78,3 +74,4 @@ Letzter Artikel oder Schlussparagraf des Entwurfs plus separate Übergangsregelu
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

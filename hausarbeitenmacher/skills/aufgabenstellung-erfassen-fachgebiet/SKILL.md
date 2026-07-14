@@ -19,9 +19,6 @@ description: "Wenn es um Aufgabenstellung erfassen in hausarbeitenmacher — Did
 3. Gibt es im Bearbeitungsvermerk explizite Einschraenkungen ("Verjährung ist nicht zu prüfen")?
 4. Wie viel Zeit bleibt bis zur Abgabe?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Maßstab für Sachverhaltswuerdigung
 - § 195 BGB — Regelverjaehrung 3 Jahre: Zeitstrahl-Relevanz bei Klage/Mahnung/Verjährungsbeginn
@@ -161,3 +158,5 @@ Wenn Du die Aufgabenstellung erfasst hast, gehe weiter zu
 
 - `fachgebiet-routing-zivil-oeffentlich-straf` — Welches Fachgebiet?
 - `bearbeitungsplan-erstellen` — Zeitplan und Stoff-Aufteilung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

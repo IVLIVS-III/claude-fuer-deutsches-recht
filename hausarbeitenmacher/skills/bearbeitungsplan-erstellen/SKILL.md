@@ -19,9 +19,6 @@ description: "Wenn es um Bearbeitungs-Plan erstellen in hausarbeitenmacher — D
 3. Welche Bibliotheksressourcen stehen zur Verfügung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, physische Kommentare)?
 4. Gibt es persönliche Kapazitaetseinschraenkungen (Nebenjob, Pflege, Krankheit)?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 13 JAG NRW analog — Mindestanforderungen an juristische Arbeitstechnik im Examen
 - § 273 ZPO — Fruehzeitige Vorbereitung als Grundsatz ziviler Prozessfuehrung (Analogie: Hausarbeits-Vorbereitung)
@@ -185,3 +182,5 @@ Wenn der Plan steht, gehe zu
 - `gutachtenstil-vs-urteilsstil` — Schreibweise lernen
 - `gliederung-mit-tiefenstruktur` — Gliederung erarbeiten
 - `methodenlehre-auslegung` — Methodische Grundlagen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

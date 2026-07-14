@@ -93,7 +93,6 @@ Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie):
 
 ### Wohnungsdurchsuchung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 102 StPO** Beschuldigten-Wohnung
 - Fund von Beweismitteln über Anordnungs-Gegenstand hinaus — Zufallsfund § 108 StPO
 
@@ -160,11 +159,10 @@ Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie):
 ## Quellen
 
 - StPO §§ 136 136a 137 140 141 147 163a
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BGH 2. und 5. Strafsenat (Verwertungsverbote)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Beulke/Swoboda Strafprozessrecht
 
 ## Aktuelle Rechtsprechung Aktenauswertung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

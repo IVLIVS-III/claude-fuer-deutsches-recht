@@ -37,7 +37,6 @@ VO 261/2004 gilt für Fluggäste:
   - 2 Stunden bei Flügen ≤ 1500 km;
   - 3 Stunden bei innergemeinschaftlichen Flügen > 1500 km und nicht-innergemeinschaftlichen Flügen 1500–3500 km;
   - 4 Stunden bei nicht-innergemeinschaftlichen Flügen > 3500 km.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgleichsanspruch (Art. 7)
 
@@ -108,7 +107,6 @@ Fluggast hat das Wahlrecht zwischen:
 
 ## Gerichtsstand
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Subsidiär Sitz/Niederlassung der Airline in Deutschland (§§ 12 13 17 ZPO).
 
 ## Hinweise
@@ -116,3 +114,5 @@ Fluggast hat das Wahlrecht zwischen:
 - Die EU-Kommission arbeitet seit Jahren an einer Reform der VO 261/2004 (Aktualisierungspaket). Stand 2026 ist die Verordnung noch in ihrer ursprünglichen Fassung in Kraft — vor Verwendung amtlichen Text prüfen.
 - Bei einer Pauschalreise ergänzen sich Ansprüche aus VO 261/2004 (gegen Airline) und §§ 651a ff. BGB (gegen Reiseveranstalter).
 - Bei UK-Flügen seit Brexit: für UK-eigenständiges Pendant zu VO 261/2004 (UK261); Anwendung sorgfältig prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

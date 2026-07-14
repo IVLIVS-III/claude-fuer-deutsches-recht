@@ -14,10 +14,6 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 3. Ist der Kläger Verbraucher — besonderer Gerichtsstand nach Art. 17 ff. EuGVVO?
 4. Gibt es eine ausschließliche Gerichtsstandsvereinbarung (§ 38 ZPO, Art. 25 EuGVVO)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 13 GVG — ordentlicher Rechtsweg
@@ -89,3 +85,5 @@ da der Streitwert [BETRAG] EUR beträgt und damit die aktuelle Grenze von 10.000
 ## Ausgabe
 
 Tabelle: Prüfpunkt / Norm / Ergebnis / Begründung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

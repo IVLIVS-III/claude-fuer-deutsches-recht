@@ -25,16 +25,6 @@ description: "Wenn es um Umfang der Herausgabe — Paragraf 818 BGB und Entreich
 
 § 818 Abs. 1 BGB (Herausgabe, Nutzungen, Surrogate) — § 818 Abs. 2 BGB (Wertersatz) — § 818 Abs. 3 BGB (Entreicherungseinrede) — § 818 Abs. 4 BGB (Rechtshängigkeit) — § 819 BGB (verschärfte Haftung Bösgläubigkeit) — § 292 BGB (Haftung des Schuldners ab Rechtshängigkeit) — §§ 987–993 BGB (EBV, entsprechend anwendbar)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Primäranspruch: Herausgabe des Erlangten (§ 818 Abs. 1 BGB)
 
 **Gegenstand:** Alles Erlangte einschließlich:
@@ -151,3 +141,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

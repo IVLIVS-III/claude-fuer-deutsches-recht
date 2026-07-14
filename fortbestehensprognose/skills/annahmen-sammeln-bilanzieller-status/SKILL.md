@@ -159,10 +159,6 @@ annahmen:
 - Liste fehlender Belege als Prüfer-Flag.
 - Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität übernehmen — oder explizit als "Modellannahme ohne Beleg" markieren.
 
-## Aktuelle Leitentscheidungen — Annahmen-Sammlung Fortbestehensprognose
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Annahmen-Vollstaendigkeit
 
 1. **Einnahmen-Seite vollstaendig?** Auftragsbestand, Rahmenvertraege, Neukundenpipeline — alle konkret belegbar?
@@ -173,3 +169,5 @@ annahmen:
 ## Paragrafenkette
 
 § 19 Abs. 2 InsO (Fortbestehensprognose) → IDW S 11 Rn. 30-65 (Annahmen-Basis) → § 43 GmbHG (Sorgfaltspflicht GF bei Prognose)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -35,10 +35,6 @@ description: "Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in
 - **§§ 242, 264 HGB** — Buchführungspflichten: Verlässlichkeit der Finanzdaten als Prüfungsgrundlage.
 - **DSGVO Art. 5 Abs. 1 lit. d** — Datenrichtigkeit: personenbezogene Daten müssen sachlich richtig und aktuell sein.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfmatrix Datenqualitätskontrolle
 
 | Dimension | Prüffrage | Ampel | Maßnahme bei Rot |
@@ -136,7 +132,6 @@ OFFENE PUNKTE
 - §§ 93 AktG, 43 GmbHG (BJR-Informationspflicht)
 - §§ 242, 264 HGB (Buchführungsqualität als Datengrundlage)
 - Art. 5 Abs. 1 lit. d DSGVO (Datenrichtigkeit)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
@@ -146,3 +141,5 @@ OFFENE PUNKTE
 - `corporate-kanzlei-board-paper-business-judgment` — Board Paper setzt Qualitätsprotokoll voraus
 - `corporate-kanzlei-due-diligence-reporting` — DD-Report nur mit verifizierten Quellen
 - `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -218,5 +218,3 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 - → `harmonisierung-und-migration-rechtssicher` — Mitbestimmungsphase der Harmonisierung
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Sozialplan parallel zur BV
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Ergebnisdokumentation in BV
-
-## Ergaenzende Rechtsprechung (v14.2)

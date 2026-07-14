@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 50 KB) | PDF | [`gesamt-pdf/ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg_gesamt.pdf`](gesamt-pdf/ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg_gesamt.pdf`](gesamt-pdf/ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg-einzelpdfs.zip) |
 
@@ -31,7 +31,7 @@ Prüfschwerpunkte sind die Anforderungen an Hochrisiko-KI-Systeme (Risikomanagem
 | Leitung Regulatory Affairs (verantwortliche Person) | Dr. Annika Sperling |
 | Modellentwicklung / Data Science | Dr. Jonas Kettler |
 | Klinische Bewertung | Petra Lohmann |
-| Benannte Stelle | Prüf- und Zertifizierungsstelle für Medizinprodukte Süd GmbH (PZM Süd), NB 2971 (fiktiv), Stuttgart |
+| Benannte Stelle | Prüf- und Zertifizierungsstelle für Medizinprodukte Süd GmbH (PZM Süd), Kennnummer 2971, Stuttgart |
 | Leitende Auditorin | Dr. Ing. Marion Halbach |
 | Marktüberwachungsbehörde KI | Bundesnetzagentur, Referat Marktüberwachung KI-Systeme, Bonn |
 | Zuständige Behörde Medizinprodukte | Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM), Bonn |

@@ -98,7 +98,6 @@ description: "Wenn es um Drittanfechtung Umwelt in Fachanwalt Verwaltungsrecht g
 ### Phase 2 — Klage-Strategie
 
 - Widerspruchs-Verfahren (Landes-AusfG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eilantrag § 80 V VwGO bei Sofortvollzug
 
 ### Phase 3 — Beweisaufnahme
@@ -148,7 +147,6 @@ description: "Wenn es um Drittanfechtung Umwelt in Fachanwalt Verwaltungsrecht g
 
 ## 9) BVerwG-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 10) Honorar
 
@@ -156,12 +154,10 @@ description: "Wenn es um Drittanfechtung Umwelt in Fachanwalt Verwaltungsrecht g
 - Bei Vereinen oft NGO-Finanzierung
 - VKH-Antrag möglich
 
-## Aktuelle BVerwG-Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Anschluss
 
 - `testakten/umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
 - `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei Stallneubau-Bezug
 - `fachanwalt-verwaltungsrecht-orientierung` — Triage
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -72,7 +72,6 @@ Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung 
 
 Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Reihenfolge "Vorgesetzten, Kollegen und Kunden" mit dem Steigerer "stets" und dem Praedikat "einwandfrei".
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beispiel 3 – Streitwertbegründung
 
@@ -91,11 +90,6 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 - **Paragraf 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
 - **Paragrafen 195, 199 BGB** — regelmäßige Verjährung; Beginn mit Schluss des Jahres von Anspruchsentstehung und Kenntnis
 - **Paragraf 242 BGB** — Verwirkung verlangt Zeit- und Umstandsmoment; Zeitablauf allein genügt nicht
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Leitentscheidungs-Anker (Vollstreckung, Holschuld, Form)
 
@@ -121,3 +115,5 @@ Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfu
 | Streit über "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
 
 **Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken - die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt macht aus dem Vergleich einen scharfen Titel.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

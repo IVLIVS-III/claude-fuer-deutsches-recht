@@ -164,7 +164,6 @@ I. UVP-Defizite
 Der UVP-Bericht weist folgende materielle Lücken auf:
 — Alternativenprüfung unvollständig: Die Erdkabel-Variante
  entlang der Bestandsautobahn A[x] wurde nicht ernsthaft
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 — Artenschutzrechtliche Prüfung (saP) fehlerhaft: Rotmilan-
  Kartierung nur an [n] Terminen außerhalb der Hauptaktivitäts-
  zeiten.
@@ -173,7 +172,6 @@ II. Klimaschluss
 Das Vorhaben [LNG-Terminal / Erdgas-Pipeline] erhöht die
 Treibhausgasemissionen um [x] t CO2-Äquivalente p.a. und
 konterkariert die Pflicht des Staates zum Schutz künftiger
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wir beantragen die Gewährung von Akteneinsicht in die vollständige
 Planfeststellungsakte sowie angemessene Verlängerung der
@@ -290,10 +288,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `eilantrag-80-abs-5-vwgo` — Vertiefung Eilantrag-Schriftsatz
 - `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — Grundlagen einstweiliger Rechtsschutz
 
-## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen
 
 - EnLAG §§ 1, 4
@@ -305,4 +299,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - BNatSchG §§ 13, 44
 - UVPG
 - Aarhus-Konvention Art. 9 / EU-RL 2003/35
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -35,7 +35,6 @@ Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unt
 - **§ 13 UWG n.F. (seit 12.2021):** Abmahnkosten-Regulation im UWG — beachte: im reinen Markenrecht gilt das UWG-Abmahnkostenrecht nicht unmittelbar, ist aber Maßstab
 - **Hamburger Brauch:** Richterrechtliche Vertragsstrafe-Klausel bei unklarer Verletzungsart — Verletzer unterwirft sich einer Vertragsstrafe "nach billigem Ermessen der Gläubigerin, im Streitfall durch Gericht überprüfbar"
 - **Neue Hamburger Formel:** Alternativ: Feste Vertragsstrafe ab EUR 5.000 je Verletzungshandlung (planungssicherer, aber weniger flexibel)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 8 IV UWG:** Missbrauchsverbot bei UWG-Abmahnungen (beschränkt auf UWG-Ansprüche)
 - **§ 12 UWG:** Prozessuale Absicherung (Unterlassungsklage nach erfolgloser Abmahnung)
 
@@ -138,15 +137,8 @@ Bevor die Abmahnung abgeschickt wird, kläre:
 5. Liegt Wiederholungsgefahr oder (erst) Erstbegehungsgefahr vor?
 6. Ist eine Abmahnung sinnvoll oder besteht Missbrauchsrisiko (§ 8 IV UWG analog)?
 
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Quellenkontrolle
 
 Deutsche Marke und Unionsmarke getrennt prüfen. Für absolute Schutzhindernisse insbesondere Paragraf 8 Markengesetz und Artikel 7 UMV, für Widerspruch und Verletzung die jeweils einschlägigen Tatbestände, Benutzungsschonfrist und Verfahrensregeln verwenden. Entscheidungen von Bundesgerichtshof, Bundespatentgericht, Gericht der Europäischen Union oder Gerichtshof der Europäischen Union nur mit konkretem Prüfmerkmal und verifizierter tragender Aussage zuordnen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

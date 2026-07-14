@@ -187,7 +187,6 @@ Risikobewertung: [🔴 / 🟡 / 🟢]
 
 *Sachverhalt:* Softwareentwickler K soll als "freier Mitarbeiter" für 12 Monate ausschließlich für einen Auftraggeber tätig sein, arbeitet täglich im Büro des Auftraggebers, nutzt dessen Laptop, nimmt an Daily-Standup-Meetings teil, erhält Aufgaben über das Jira-Board des Auftraggebers.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken / typische Fehler
 
@@ -203,4 +202,5 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 
 Wesentliche Quellen:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

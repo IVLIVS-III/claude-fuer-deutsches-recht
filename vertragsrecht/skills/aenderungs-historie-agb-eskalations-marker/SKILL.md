@@ -19,10 +19,6 @@ description: "Wenn es um Nachtragsverwaltung in Vertragsrecht geht: entwickelt V
 3. Soll eine Gesamtübersicht (Modus 1) oder eine Klausel-Rückverfolgung (Modus 2) erstellt werden?
 4. Gibt es Widersprüche zwischen Nachträgen die auf Auslegung nach § 157 BGB (lex posterior) hinweisen?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - §§ 133, 157 BGB — Vertragsauslegung (lex posterior-Prinzip bei widersprüchlichen Klauseln)
@@ -216,7 +212,6 @@ Relevante Normen:
 - § 311 BGB – Vertragsänderungen; Schriftformerfordernis prüfen (§ 126 BGB)
 - §§ 133, 157 BGB – Auslegung; bei Widersprüchen zwischen Basisvertrag und Nachtrag gilt der jüngere Nachtrag (lex posterior-Prinzip), sofern kein expliziter Vorrang)
 - § 154 BGB – Fehlen der Einigung über einzelne Punkte
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -242,3 +237,5 @@ Vorher: s. o. | Jetzt:
 - **Stiller Widerspruch:** Nachtrag N ändert eine Bestimmung, ohne Nachtrag N-1 ausdrücklich aufzuheben. lex-posterior-Grundsatz anwenden und als Hinweis markieren.
 - **Schriftformklausel:** Mündliche Nebenabsprachen können durch eine Schriftformklausel (§ 125 BGB i. V. m. Vertragsklausel) unwirksam sein. Prüfen, ob eine solche Klausel im Basisvertrag oder einem Nachtrag steht.
 - **Skill-Grenzen:** Dieser Skill stellt nicht fest, welches Dokument bei Widersprüchen vorgeht – das ist eine Auslegungsfrage. Er kennzeichnet Widersprüche und leitet an die Rechtsabteilung weiter. Er entwirft keine neuen Nachträge. Er prüft nicht gegen das Playbook – das ist Aufgabe des Lieferantenvertrag-Prüfungs-Skills.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

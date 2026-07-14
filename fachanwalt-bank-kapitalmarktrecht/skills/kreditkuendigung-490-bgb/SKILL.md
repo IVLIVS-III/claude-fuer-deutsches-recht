@@ -165,7 +165,6 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 
 ## Beweislast und Darlegungslast
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bank**: muss bei § 498 BGB belegen, dass Verzugsschwelle + Mahnung + Frist eingehalten wurden.
 - **Kreditnehmer**: kann Gegenbeweis durch Liquiditätsplan, aktuelle BWA, Sachverständigengutachten erbringen.
 - **SCHUFA-Meldung**: Bank muss Berechtigung nach § 31 BDSG belegen; ggf. Anspruch auf Löschung.
@@ -199,5 +198,4 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 - ZVG §§ 30b, 83, 100
 - ZPO §§ 767, 935, 940
 - BDSG § 31; DSGVO Art. 4
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Nobbe Kommentar Kreditrecht; Schimansky/Bunte/Lwowski Bankrechts-Handbuch

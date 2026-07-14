@@ -21,7 +21,6 @@ Die folgenden Entscheidungen sind aus systematischen Gründen weiterhin maßgebl
 
 **Thema:** Höhere Gewalt und außergewöhnliche Umstände im Eisenbahnverkehr.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernaussage:** Der EuGH hat klargestellt, dass „außergewöhnliche Umstände" im Eisenbahnverkehr eng auszulegen sind. Betriebsbedingte Verspätungen (technischer Defekt, Personalausfall, Signalstörung, vorherige Verspätung in der Wagenumlaufkette) gehören zum normalen Betriebsrisiko und befreien das EVU nicht von der Entschädigungspflicht.
 
@@ -31,7 +30,6 @@ Die folgenden Entscheidungen sind aus systematischen Gründen weiterhin maßgebl
 
 **Thema:** Anwendbarkeit der VO auf grenzüberschreitende Strecken.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Kernaussage:** VO gilt auch dann, wenn Verspätungen außerhalb der Union eingetreten sind — diese Zeit wird allerdings bei der Berechnung der Entschädigungsdauer **nicht berücksichtigt** (Art. 19 Abs. 4 VO 2021/782).
 
@@ -46,7 +44,6 @@ Seit Inkrafttreten am 7. Juni 2023. Aktuelle Curia-Suche unmittelbar vor jedem S
 - 100-Min-Frist nach Art. 18 Abs. 3 Unterabs. 2 (eigene Beförderung);
 - Mindest-Auszahlbetrag 4 EUR pro Fahrkarte (Art. 19 Abs. 8) — Anwendung auf Mehrpersonen-Tickets.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -58,7 +55,6 @@ Der BGH hat zur VO (EG) 1371/2007 mehrere Grundsatzentscheidungen erlassen. Rele
 - Beweislast für außergewöhnliche Umstände beim EVU;
 - Verhältnis VO-Anspruch zu §§ 280 ff. BGB (Schadensersatz Verspätungsfolgen).
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Recherchekanäle:
 
@@ -77,7 +73,6 @@ Fahrgastrechte-Klagen landen typischerweise vor dem **Amtsgericht Frankfurt am M
 
 **Zitierfähig nur mit Aktenzeichen und Datum, Quelle: openJur, Justiz-Datenbanken der Länder, oder anwaltliche Eigenrecherche.**
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -92,3 +87,5 @@ Vor jeder tragenden Verwendung einer Entscheidung:
 5. Bei Amtsgerichts-Entscheidungen: openJur, kostenfreie Justizportale der Länder, oder anwaltliche Datenbankzugänge.
 
 Eine neue Entscheidung kann ein Argument tragen oder kippen. Lieber kurz nachrecherchieren als veraltete Zitate riskieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

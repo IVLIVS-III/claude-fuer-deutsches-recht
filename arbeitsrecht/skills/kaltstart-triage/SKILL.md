@@ -318,7 +318,6 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 **Lohn, Arbeitszeit und sonstige Themen**
 - `lohn-arbeitszeit-fragen` — ArbZG, MiLoG, EFZG, Tarifvertraege: standortbezogene Lohn- und Arbeitszeitfragen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - `lohnsteuer-sozialversicherung` — Sozialversicherungsrechtlicher Status und lohnsteuerliche Fragen.
 - `fehlzeit-erfassen` — Neue Abwesenheit im Register anlegen: BUrlG, EFZG, MuSchG, BEEG.
 - `fehlzeiten-register` — Offene Abwesenheiten und Fristen überprüfen.
@@ -386,3 +385,5 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 | **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
 > Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

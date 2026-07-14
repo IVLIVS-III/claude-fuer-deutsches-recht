@@ -100,10 +100,8 @@ Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Pro
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Rechtlicher Rahmen und Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Kaltstart
 
 § 19 InsO (Ueberschuldungsgrund) → § 15a InsO (Antragspflicht) → § 15b InsO (Zahlungs-/Haftungsrisiko) → § 43 GmbHG (Sorgfaltspflicht GF) → IDW S 11 (Standard Insolvenz-Beurteilung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

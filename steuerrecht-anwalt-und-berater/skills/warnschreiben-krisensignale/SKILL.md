@@ -126,7 +126,6 @@ Vorab per Telefax [Fax-Nr.], dann per Einschreiben mit Rückschein
 
 Unsere Mandats-Nr.: [Nr.]
 Betreff: Hinweis auf erkennbare Krisensituation Ihrer Gesellschaft
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Sehr geehrte/r Herr / Frau [GF-Name],
 
@@ -165,7 +164,6 @@ Entwicklungen zu überwachen. Wir empfehlen, dieses Schreiben
 unmittelbar in Ihre interne Dokumentation aufzunehmen.
 
 Wir leisten mit diesem Schreiben den nach ständiger BGH-Rechtsprechung
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Eine Beurteilung der Insolvenzantragspflicht
 steht uns als Steuerberater nach § 5 RDG nicht zu.
 
@@ -298,7 +296,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - InsO §§ 15a, 15b, 17, 19
 - StaRUG §§ 1, 102
 - StBerG §§ 1, 33; RDG § 5; BGB § 627
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6 (Krisenstadien-Schema)
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

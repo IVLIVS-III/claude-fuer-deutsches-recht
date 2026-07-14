@@ -34,10 +34,6 @@ description: "Wenn es um Gegen-TBM und Einreden prüfen in Subsumtions-Prüfer g
 - § 273 BGB, § 320 BGB — Zurückbehaltungsrecht, Einrede des nicht erfüllten Vertrags
 - § 242 BGB — Verwirkung (Treu und Glauben)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Systematik der Gegenrechte
 
 ### 1. Rechtshindernde Einwendungen (Anspruch entsteht gar nicht)
@@ -67,7 +63,6 @@ Rechtshindernde Einwendungen verhindern die Entstehung des Anspruchs:
 
 ### 4. Verwirkung (§ 242 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Mitverschulden (§ 254 BGB)
 
@@ -94,3 +89,5 @@ Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreife
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

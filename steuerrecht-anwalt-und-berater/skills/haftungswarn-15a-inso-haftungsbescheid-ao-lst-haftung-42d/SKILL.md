@@ -40,16 +40,11 @@ Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestel
 - **§ 15a Abs. 1 Satz 1 InsO** — Insolvenzantragspflicht. Zahlungsunfähigkeit (§ 17 InsO) → drei Wochen. Überschuldung (§ 19 InsO) → sechs Wochen.
 - **§ 15a Abs. 4 InsO** — Strafbarkeit Insolvenzverschleppung (Freiheitsstrafe bis 3 Jahre / Geldstrafe; bei Fahrlässigkeit bis 1 Jahr).
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife. Geschäftsführerhaftung gegen die Gesellschaft (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 19 InsO** — Überschuldung (zweistufig: rechnerisch und Fortbestehensprognose; vgl. `stb-ueberschuldungspruefung-19-inso`).
 - **§ 18 InsO** — Drohende Zahlungsunfähigkeit (24-Monats-Horizont; Antragsrecht, keine Pflicht — Zugangstor StaRUG).
 - **§ 102 StaRUG** — Krisenfrüherkennungspflicht GF; ergänzt § 91 Abs. 2 AktG analog auf alle haftungsbeschränkten Gesellschaften.
 - **§ 64 StBerG / § 43a Abs. 5 BRAO** — bei Honorarrückständen Berücksichtigung; keine Beratung ohne Vergütungsvereinbarung in Hochrisikofällen.
 - **§ 826 BGB / § 823 Abs. 2 BGB i.V.m. § 15a InsO** — Außenhaftung GF gegenüber Neugläubigern bei Insolvenzverschleppung.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vorgehen
 
@@ -127,7 +122,6 @@ sechs Wochen ab Eintritt der Ueberschuldung].
  gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
 3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
  BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Empfehlung:**
 
@@ -172,3 +166,5 @@ Rechtsanwalt/-anwaeltin
 ## Quellen und Updates
 
 Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanInsKG (24-Monats-Prognose § 19 InsO bis 31.12.2026) berücksichtigt. § 11 BORA-Schriftformpflicht zentral. Bei Änderung InsO/BORA aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

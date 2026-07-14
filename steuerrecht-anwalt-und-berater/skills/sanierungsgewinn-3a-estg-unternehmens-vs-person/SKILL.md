@@ -153,4 +153,5 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 - § 27 KStG.
 - §§ 286 ff. InsO (Restschuldbefreiung).
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

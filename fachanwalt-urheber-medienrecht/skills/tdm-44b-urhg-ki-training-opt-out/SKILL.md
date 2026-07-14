@@ -57,7 +57,6 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | US District Court NY (Reuters vs. Ross) | US District Court, 11.02.2025 | Fair Use abgelehnt: Training eines KI-Recherchetools mit Rechtsartikeln ist keine transformative Nutzung; kommerzieller Zweck schadet |
 
 ---
@@ -231,7 +230,6 @@ Nachweise:
 - Zeitstempel-zertifizierte Kopie: [notarielle Bestätigung]
 - EXIF-Daten der Bilder: [Anlage 2]
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 prospektiv; für Trainingsdaten erhoben vor Opt-out-Setzung
 gelten Ansprüche nach § 44b Abs. 3 UrhG nicht.
 Rückwirkungsklage erfordert anderen Anspruchsweg (§ 97 UrhG
@@ -266,8 +264,6 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 | Gegenargument | Erwiderung |
 |---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | "Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
 
 ---
@@ -305,10 +301,6 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 ---
 
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
 
 Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
@@ -316,14 +308,6 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
 3. Liegen Nachweise dafür vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
 4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -333,3 +317,5 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 - **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live über dejure.org und openjur.de verifizieren.
 - **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live über nationale Gerichtsdatenbanken und curia.europa.eu prüfen.
 - **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte über VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -52,10 +52,6 @@ Synopse ist gut für den Vergleich. Eine **Lesefassung** zeigt die geänderte No
 
 Beispiel "Lesefassung_HGB_Paragraf_33.md" - das ist der Paragraf, wie er nach Inkrafttreten lautet.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 42-48 GGO (Synopse als Bestandteil der Begr.) — §§ 1-4 HdR (Rechtsfoermlichkeit, Vergleichs-Darstellungen) — Art. 76 Abs. 2 GG (Einbringungs-Unterlagen inkl. erläuternder Materialien)
@@ -63,3 +59,5 @@ Beispiel "Lesefassung_HGB_Paragraf_33.md" - das ist der Paragraf, wie er nach In
 ## Anschluss
 
 `lesefassung-konsolidiert`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

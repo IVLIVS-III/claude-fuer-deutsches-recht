@@ -45,10 +45,6 @@ description: "Wenn es um Annahmeverzugslohn nach Paragraf 615 BGB und Paragraf 1
 - Paragraf 615 Satz 2 BGB — anderweitiger Erwerb: Arbeitnehmer muss sich anrechnen lassen
 - Paragraf 297 BGB — Annahmeverzug entfällt wenn Arbeitnehmer nicht leistungsfähig/-willig
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Annahmeverzug Paragraf 615 BGB
 
 **Voraussetzungen:**
@@ -73,7 +69,6 @@ Nach Paragraf 11 Nr. 1 KSchG muss sich der Arbeitnehmer auf den Annahmeverzugslo
 
 Arbeitnehmer muss sich auch dasjenige anrechnen lassen, was er **böswillig** nicht verdient hat.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Berechnung (Beispiel)
 
@@ -122,3 +117,5 @@ Hinweis: Annahmeverzugslöhne sind lohnsteuerpflichtig (keine Fünftel-Regelung)
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

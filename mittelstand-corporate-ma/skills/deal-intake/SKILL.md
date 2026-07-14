@@ -177,10 +177,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 17-18 GeschGehG — Vertraulichkeitspflicht; NDA muss vor Informationsaustausch vorliegen
 - § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten auch Erfolgshonorar nach RVG möglich; schriftliche Vereinbarung empfohlen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Parteien extrahieren:** Verkaeufer, Kaeufer, Zielgesellschaft, Intermediar, Finanzier — volle Bezeichnung, Sitz, HR-Nummer
@@ -196,3 +192,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Keine Conflicts-Prüfung vor Mandatsannahme: § 43a BRAO, Haftung
 - GwG-Sorgfaltspflichten verletzt: Bussgeld
 - Insiderinformation ohne MAR-Protokoll: aufsichtsrechtliche Konsequenzen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

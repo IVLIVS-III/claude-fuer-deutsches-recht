@@ -18,19 +18,19 @@
 
 ## Jetzt
 
-1.
-2.
-3.
+1. Dringendste Aktion:
+2. Danach auszuführender Schritt:
+3. Abschließende Kontrolle:
 
 ## Ich brauche von dir
 
-1.
-2.
-3.
+1. Fehlende Pflichtangabe:
+2. Fehlender Beleg:
+3. Erforderliche Entscheidung:
 
 ## Darf noch nicht
 
--
+- Gesperrte Handlung und Freigabevoraussetzung:
 
 ## Übergabe
 

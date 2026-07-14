@@ -82,10 +82,8 @@ Strukturiere die Ruege in Abschnitte:
 7. Hilfsweise Hinweise auf § 5 WiStrG 1954 und § 291 StGB falls einschlägig.
 8. **Disclaimer am Ende** — kein anwaltliches Schreiben, Empfehlung Rechtsrat einzuholen.
 
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 §§ 556d, 556e, 556f, 556g BGB — Mietpreisbremse und Rüge; § 5 WiStrG 1954 — Mietpreisüberhöhung; § 8 WiStrG 1954 — Abführung des Mehrerlöses; § 291 StGB — Wucher.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

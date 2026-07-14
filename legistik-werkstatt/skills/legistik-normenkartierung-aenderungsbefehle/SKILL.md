@@ -67,10 +67,6 @@ Wird eine der zu ändernden Normen zur gleichen Zeit in einem anderen Gesetzgebu
 
 Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlichen Verträge sind betroffen?
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 42-44 GGO (Normenkartierung im Referentenentwurf, Pflichten) — Art. 3 Abs. 1 GG (Gleichheitssatz bei inkonsistenter Normgebung) — Art. 20 Abs. 3 GG (Normenklarheit als Rechtsstaat-Gebot) — § 1 EGBGB (Kollisionsrecht bei Normenkonkurrenz)
@@ -82,3 +78,5 @@ Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlich
 ## Anschluss
 
 `terminologie-konsistenz`, `zirkelschluss-pruefen`, dann `referentenentwurf-bauen`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

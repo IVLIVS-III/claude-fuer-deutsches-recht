@@ -190,4 +190,4 @@ Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klae
 
 > **ABA Model Rules of Professional Conduct, Rule 1.7 / Rule 1.10:** Konflikte müssen schon vor Mandatsbeginn gecheckt werden; ein später entdeckter Interessenkonflikt erfordert Niederlegung des Mandats und kann US-Anwaltszulassung gefaehrden; internationale Kanzleien mit gemeinsamen Mandanten müssen einen konsolidierten Conflicts-Check fuehren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 685 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 682 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck-einzelpdfs.zip) |
 

@@ -38,13 +38,9 @@ Die Verteidigung muss Indizien zerlegen, nicht nur bestreiten.
 | Sanierung war aussichtslos | Gibt es ein Sanierungskonzept, Beraterkorrespondenz, Finanzierungszusage oder Vollbefriedigungsperspektive? |
 | Liquiditätsstatus beweist Zahlungsunfähigkeit | Ist der Liquiditätsstatus einzelfallbezogen substantiiert und belegt? |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bargeschäft § 142 InsO
 
@@ -61,7 +57,6 @@ Keine pauschale 30-Tage-Regel verwenden; der zeitliche Zusammenhang ist geschäf
 
 § 146 InsO verweist auf die regelmäßige Verjährung nach BGB. Der Verwalter muss seine Kenntnis- und Ermittlungslage offenlegen, wenn Verjährung streitig wird.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nach § 291 BGB zu verzinsen; Nutzungsherausgabe darüber hinaus ist ausgeschlossen.
 
@@ -89,3 +84,5 @@ Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nac
 ---
 
 Hinweis: Keine Rechtsberatung. Verteidigung nie pauschal führen; jeder Zahlungsvorgang braucht eigene Norm, eigene Frist und eigene Beleglage.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -123,10 +123,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 56 AWV** — Meldefrist 2 Monate ab sicherem Abschluss; Erwerb ab 10 % bei kritischen Sektoren
 - **Verordnung (EU) 2019/452** — EU-FDI-Screening-Rahmen; nationale Stellen melden an EU-Kommission
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fusionskontrolle: Aufgreifschwellen
 
 ### Bundeskartellamt (§ 35 GWB)
@@ -223,5 +219,6 @@ Datum: [DATUM]
 ## Quellen
 
 - §§ 35-43 GWB; Art. 1-21 FKVO (EG) 139/2004; §§ 55, 56, 60 AWV; Verordnung (EU) 2019/452
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Immenga/Mestmaecker GWB (6. Aufl. 2020) §§ 35 ff.; Ohler AWG/AWV (2021)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

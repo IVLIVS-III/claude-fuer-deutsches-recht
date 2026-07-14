@@ -40,11 +40,6 @@ description: "Wenn es um Negationen und Auslassungen erkennen in Arbeitszeugnis-
 - **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
 - **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Leitentscheidungs-Anker (Empfaengerhorizont, Grenzen der Decodierung)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
@@ -53,3 +48,5 @@ description: "Wenn es um Negationen und Auslassungen erkennen in Arbeitszeugnis-
 | --- | --- | --- |
 | **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

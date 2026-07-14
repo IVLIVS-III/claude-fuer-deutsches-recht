@@ -29,10 +29,6 @@ Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: "Die Beratun
 - **§§ 1, 2 BerHG** — Beratungshilfe: Häufig in der Mandatsarbeit relevant; Studenten müssen wissen, wann ein Beratungshilfe-Schein vor Leistungsbeginn einzuholen ist.
 - **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Voraussetzungen und typisches Prozedere in der Mandatsarbeit.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -154,3 +150,5 @@ Teil 3, Übung 1: Fiktiver Fall "Frau Erdem — Heizung defekt seit November". H
 Übung 3: `/recherche-start "§ 536 BGB Mietminderung Heizungsausfall"` → Fahrplan mit ungeprüften Normen. Hofer wählt § 536c BGB und erklärt: Prüfung über juris mit Aktualitätsdatum.
 
 Teil 4: Verifikationsgewohnheiten besprochen. Abschluss: `/einarbeitung --karte` aufgerufen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

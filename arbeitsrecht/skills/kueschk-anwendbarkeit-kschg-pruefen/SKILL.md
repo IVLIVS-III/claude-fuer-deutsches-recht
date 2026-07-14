@@ -41,10 +41,6 @@ description: "Wenn es um Kueschk Anwendbarkeit Kschg Pruefen in Arbeitsrecht geh
 - Paragrafen 138, 242 BGB — allgemeiner Kündigungsschutz (Treu und Glauben, Sittenwidrigkeit)
 - Paragrafen 17, 18 MuSchG; Paragraf 18 BEEG; Paragraf 168 SGB IX — Sonderkündigungsschutz unabhängig von KSchG
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Prüfung
 
 ### Schritt 1: Wartezeit Paragraf 1 Abs. 1 KSchG
@@ -120,3 +116,5 @@ Bei Nichtanwendbarkeit des KSchG: Kündigung muss trotzdem Grundsätze von Treu 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

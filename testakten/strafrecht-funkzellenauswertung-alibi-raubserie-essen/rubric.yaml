@@ -1,4 +1,5 @@
 name: strafrecht-funkzellenauswertung-alibi-raubserie-essen
+plugin: "aktenaufbereiter-strafrecht"
 description: Haftsache der StA Essen wegen einer Raubserie auf drei Spaetverkaufsstellen (17.04., 02.05. und 15.05.2026).
   Der Beschuldigte beruft sich fuer alle drei Abende auf ein Alibi bei seiner Schwester in Duisburg-Hochfeld; die
   Schwester bestaetigt pauschal. Die Bearbeitung muss die Verkehrsdaten-CSV, die Taten-Uebersicht, den Fahrzeiten-Vermerk

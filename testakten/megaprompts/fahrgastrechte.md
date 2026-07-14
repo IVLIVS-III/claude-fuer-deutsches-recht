@@ -778,10 +778,6 @@ beA-Konvention:
 - § 204 Abs. 1 Nr. 4 BGB — Verjährungshemmung durch Schlichtung
 - § 709 ZPO — vorläufige Vollstreckbarkeit gegen Sicherheitsleistung; bei geringen Streitwerten alternativ § 708 Nr. 11 i.V.m. § 711 ZPO erwägen (Prüfung im Einzelfall)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → Schlichtungsstelle Reise & Verkehr e.V. erst aus­schöpfen (kostenfrei); danach Klage.
@@ -793,6 +789,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Adressat & Tonfall
 
 Adressat: Amtsgericht am gewählten Gerichtsstand — Tonfall sachlich-juristisch; Klageschrift ohne Anwaltszwang trotzdem nach § 253 ZPO-Mindestinhalt strukturiert (Parteien, Antrag, Begründung, Beweisangebote).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -946,7 +944,7 @@ Gesamtforderung Fahrgastrechte:
 
 ## Leitentscheidungen Eigenbeförderung und Hilfeleistung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1178,7 +1176,7 @@ Nicht alle Informationen auf einmal abfragen, sondern nur das, was wirklich fehl
 - DB-Beförderungsbedingungen — bahn.de/agb
 - Schlichtungsstelle Reise & Verkehr e.V. — schlichtungsstelle-reise-verkehr.de
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1454,7 +1452,7 @@ Bei Einsatz dieses Skills als Antwort auf eine Mandanten- oder Praxisfrage:
 2. Verweis auf konkrete Norm mit Schwelle.
 3. Hinweis auf passenden Folge-Skill aus diesem Plugin.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1584,7 +1582,7 @@ Nächster Skill: entschaedigung-berechnen (exakte Berechnung)
 
 ## Leitentscheidungen Einordnung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1745,7 +1743,7 @@ Wenn die Bahnreise Teil einer Pauschalreise (Reiseveranstalter) ist, ergänzen s
 
 ## Leitentscheidungen Datenerfassung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -2151,7 +2149,7 @@ bezeichnung: "Anlage K"
 
 ## Rechtsprechung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -2288,10 +2286,6 @@ Liebe Grüße
 
 Bei Übergabe an eine Anwältin oder einen Anwalt: die anwaltliche Untervollmacht ist in der Vollmacht ausdrücklich erfasst ("Untervollmacht an eine Rechtsanwältin oder einen Rechtsanwalt"). Die Kanzlei legt regelmäßig ein eigenes Vollmachtsformular bei.
 
-## Leitentscheidungen Vollmacht / Familienvertretung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ausgabe
 
 - `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
@@ -2305,6 +2299,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -2498,7 +2494,7 @@ Nächster Skill: forderung-an-db-erste-stufe
 
 ## Leitentscheidungen Berechnung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

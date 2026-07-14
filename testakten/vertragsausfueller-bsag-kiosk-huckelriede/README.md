@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 56 KB) | PDF | [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip) |
 
@@ -78,5 +78,3 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rück
 - Offene Rückfragen formulieren, bevor der Vertrag finalisiert wird
 - Clean-Entwurf vor Versand systematisch prüfen
 - Track-Changes-Fassung nur auf ausdrücklichen Wunsch erzeugen
-
-## Disclaimer

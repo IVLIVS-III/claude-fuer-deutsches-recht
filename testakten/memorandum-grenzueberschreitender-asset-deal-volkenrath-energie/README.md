@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 685 KB) | PDF | [`gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf`](gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 693 KB) | PDF | [`gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf`](gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie-einzelpdfs.zip) |
 
@@ -118,8 +118,7 @@ Die Akte ist für den `memorandums-ersteller` konzipiert. Das Plugin erzeugt aus
 - Rechtsgebietsspezifischer Subsumtion
 - Priorisierter Handlungsempfehlung
 
-## Hinweise zur Testakte
+## Bearbeitungsstand
 
-- Alle Namen, Aktenzeichen und Sachverhaltsdetails sind fiktiv und ausschließlich für Testzwecke erstellt.
-- Die Akte enthält bewusst Widersprüche und offene Rechtsfragen, um die Leistungsfähigkeit des Plugins unter realen Mandatsbedingungen zu erproben.
-- Verfahrensstände sind auf dem fiktiven Datum 15. Mai 2026 eingefroren.
+- Die Unterlagen enthalten Widersprüche und offene Rechtsfragen, die vor einer Empfehlung aufzulösen sind.
+- Maßgeblicher Aktenstand ist der 15. Mai 2026.

@@ -33,10 +33,6 @@ description: "Wenn es um Umwandlungsrecht — Verschmelzung, Spaltung, Formwechs
 - **§§ 5, 21, 29 UmwG** — Pflichten gegenueber Arbeitnehmern; Auskunftsrechte; Widerspruchsrecht
 - **Richtlinie (EU) 2019/2121** — Grenzueberschreitende Umwandlungen; Umgesetzt in §§ 305 ff. UmwG (n.F.)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfungsschema: Verschmelzung (§§ 2 ff. UmwG)
 
 | Schritt | Inhalt | Norm | Frist/Formalitaet |
@@ -148,5 +144,6 @@ Minderheitsgesellschafter können im Spruchverfahren (§§ 2, 34 ff. SpruchG) ei
 ## Quellen
 
 - §§ 2-304 UmwG; §§ 11-25 UmwStG; § 613a BGB; SpruchG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

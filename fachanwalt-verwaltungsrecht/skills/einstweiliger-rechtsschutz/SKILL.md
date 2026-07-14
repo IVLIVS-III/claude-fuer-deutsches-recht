@@ -160,7 +160,6 @@ nicht. Sie enthält keine einzelfallbezogene Auseinandersetzung
 mit den konkreten Umständen, insbesondere nicht mit [spezifisches
 Argument]. Eine bloße Wiederholung der Tatbestandsvoraussetzungen
 und abstrakte Gemeinwohlformeln erfüllen § 80 Abs. 3 VwGO nicht
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Erfolgsaussichten Hauptsache
 Der Verwaltungsakt ist aus folgenden Gründen voraussichtlich
@@ -218,7 +217,6 @@ Antragsteller nicht zumutbar, weil [Begründung].
 III. Kein Fall der Hauptsache-Vorwegnahme
 [Falls Vorwegnahme bejaht: unzumutbare Nachteile ohne
 einstweiligen Rechtsschutz + überwiegende Erfolgsaussicht
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Anlagen: eidesstattliche Versicherung, Bescheide, Vollmacht
 ```
@@ -258,7 +256,6 @@ III. Formelle Fehler Vollziehungsanordnung übersehen
 
 Das Verwaltungsgericht hat den Begründungsmangel nach § 80 Abs. 3
 VwGO nicht berücksichtigt. Die Begründung: "[Zitat]" ist
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Es wird beantragt, die aufschiebende Wirkung wiederherzustellen.
 ```
@@ -319,3 +316,5 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 - GKG § 52 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gkg_2004/)
 - BVerwG-Entscheidungen — [bverwg.de](https://www.bverwg.de)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

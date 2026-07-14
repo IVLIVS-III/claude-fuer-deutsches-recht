@@ -20,9 +20,9 @@
 
 ## Mini-Plan
 
-1.
-2.
-3.
+1. Sofort ausführen:
+2. Ergebnis prüfen:
+3. Folgeaktion terminieren:
 
 ## Automationsvorschlag
 

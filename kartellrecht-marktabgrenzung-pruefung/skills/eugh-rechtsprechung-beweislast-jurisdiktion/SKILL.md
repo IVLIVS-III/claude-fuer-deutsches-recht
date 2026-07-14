@@ -28,7 +28,6 @@ Vor Verwendung im Schriftsatz immer über [curia.europa.eu](https://curia.europa
 
 **EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche / Kommission):** Separate Märkte für einzelne Vitamingruppen (A, B1, B2, B6, C usw.), da Kreuzpreiselastizitäten zwischen Gruppen niedrig. Grundlegende Definition marktbeherrschender Stellung als "wirtschaftliche Machtstellung, die ein Unternehmen in die Lage versetzt, einen wirksamen Wettbewerb auf dem relevanten Markt zu verhindern, indem sie ihm die Möglichkeit verschafft, sich seinen Wettbewerbern, seinen Abnehmern und schließlich den Verbrauchern gegenüber in einem nennenswerten Umfang unabhängig zu verhalten".
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Erneuerungsreifen für schwere Nutzfahrzeuge als eigener Markt — kein Substitut für PKW-Reifen oder Neureifen. Aftermarkt-Aspekte.
 
 ### Rechtsprechung live prüfen
@@ -75,4 +74,4 @@ Alle Entscheidungen müssen mit dem konkreten Sachverhalt abgeglichen werden. An
 
 ## Kerneintscheidungen EuGH Wettbewerbsrecht (Chronologisch)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

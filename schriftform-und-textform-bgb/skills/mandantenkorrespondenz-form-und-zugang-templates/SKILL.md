@@ -20,7 +20,6 @@ description: "Wenn es um Mandantenkorrespondenz — Form und Zugang: Templates i
 
 ## Rechtsgrundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Paragrafen 126a, 126b, 130, 568, 656a BGB
 
 ## Templates
@@ -45,7 +44,6 @@ wir möchten Sie auf eine aktuelle Entwicklung in der Rechtsprechung hinweisen,
 die unmittelbar Ihr Mietverhältnis betreffen kann.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wirksam per E-Mail erklärt werden kann, wenn das angehängte PDF-Dokument mit einer
 qualifizierten elektronischen Signatur (qES) versehen ist.
 
@@ -109,7 +107,6 @@ Empfohlene Vorgehensweise (Papier per Boten):
 
 Warum empfehlen wir Papier?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 per E-Mail mit qualifizierter elektronischer Signatur (qES) grundsätzlich
 möglich. Jedoch bestehen praktische Risiken:
 
@@ -211,7 +208,6 @@ Wohnung [Adresse] als PDF-Dokument.
 
 Das Dokument ist mit einer qualifizierten elektronischen Signatur
 nach Paragraf 126a BGB versehen, die die gesetzliche Schriftform des
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Bitte beachten Sie:
 
@@ -233,4 +229,5 @@ Mit freundlichen Grüßen
 
 - **Template nie ungeprüft verwenden**: Alle Templates sind Mustertexte, die auf den Einzelfall angepasst werden müssen. Fristen, Namen und Daten sind zwingend zu ergänzen.
 - **Mandantenbrief ≠ Rechtsgutachten**: Die Mandantenbriefe ersetzen keine vollständige rechtliche Beratung. Bei komplexen Sachverhalten ist ein ausführlicheres Beratungsschreiben erforderlich.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

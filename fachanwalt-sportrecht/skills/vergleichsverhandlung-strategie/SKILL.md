@@ -170,9 +170,7 @@ Klassische Stolperfalle in Sport- und Sponsoringrecht:
 
 ## Aktuelle Rechtsprechung Vergleich Sportrecht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - CAS 2018/A/5783 (WADA v. Sharapova Foundation) — Vergleich im Antidoping-Verfahren: CAS-Verfahren kann durch schriftlichen Vergleich beendet werden; CAS-Schiedsgericht bestatigt den Vergleich als endgueltigen Schiedsspruch nach Art. R65 CAS-Code.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen Vergleich Sportrecht
 
@@ -180,3 +178,5 @@ Klassische Stolperfalle in Sport- und Sponsoringrecht:
 - §§ 1025 ff. ZPO — Schiedsverfahren; Schiedsspruch mit vereinbartem Wortlaut (§ 1053 ZPO)
 - Art. R65 CAS-Code — Vergleich im CAS-Berufungsverfahren
 - §§ 796a-796c ZPO — Anwaltsvergleich als Vollstreckungstitel
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

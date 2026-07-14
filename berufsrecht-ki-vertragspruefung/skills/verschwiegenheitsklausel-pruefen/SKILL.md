@@ -72,10 +72,6 @@ Ausdrücklicher Verweis auf §§ 203, 204 StGB. Idealerweise als Anlage der Norm
 - US-AGB mit "trade secret"-Sprache statt deutscher Berufsgeheimnis-Anlehnung
 - Klausel im FAQ oder Trust Center statt im Vertragstext
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - §§ 43e Abs. 3 Nr. 1, 43e Abs. 3 Nr. 2 BRAO — Verschwiegenheits- und Belehrungspflicht in Textform
@@ -125,3 +121,4 @@ Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

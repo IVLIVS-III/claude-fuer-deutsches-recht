@@ -27,10 +27,6 @@ description: "Wenn es um Aktenauszug — Strukturprüfung in aktenauszug-gericht
 - § 495a ZPO — Vereinfachtes Verfahren unter 600 EUR
 - §§ 355-414 ZPO — Beweisaufnahme (Zeugenbeweis, Sachverständigenbeweis, Augenschein)
 
-## Rechtsprechung zu Vollstaendigkeit und Ordnung der Akte
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfcheckliste
 
 ### Baustein 1 — Verfahrensidentifikation
@@ -126,3 +122,5 @@ Adressat: Sachbearbeiter / Kanzleiintern — Tonfall: sachlich-juristisch, präz
 ## Quellenkontrolle
 
 Ein Aktenauszug übernimmt Rechtsprechung nicht als bloße Aktenzeichenliste. Jede Entscheidung wird mit Gericht, Datum, Aktenzeichen, Fundstelle, Streitfrage, tragender Aussage und prozessualer Bedeutung erfasst. Akteneinsicht und Aktenzugang richten sich nach dem konkreten Verfahren, insbesondere Paragraf 299 ZPO, Paragraf 147 StPO, Paragraf 100 VwGO, Paragraf 120 SGG oder Paragraf 13 FamFG; Normen verschiedener Rechtswege nicht vermischen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

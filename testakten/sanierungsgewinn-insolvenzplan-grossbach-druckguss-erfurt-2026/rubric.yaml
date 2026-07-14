@@ -1,5 +1,5 @@
 name: Sanierungsgewinn Insolvenzplan Grossbach Druckguss Erfurt 2026
-plugin: tbd
+plugin: "steuerrecht-anwalt-und-berater"
 checks:
   - id: r01-readme-vorhanden
     check_type: file_exists

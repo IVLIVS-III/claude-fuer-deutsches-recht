@@ -128,10 +128,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Art. 18 MAR / § 13 WpHG** — Insider-Liste muss alle Teammitglieder mit Zugang zu kursrelevanten Informationen enthalten
 - **§§ 666, 675 BGB** — Auskunftspflicht des Auftragnehmers; Rechenschaftspflicht; Kostenvorschuss
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Team-Staffing-Matrix
 
 | Workstream | Seniorität | Verantwortlich | Stunden (Plan) | Status |
@@ -198,5 +194,6 @@ Strategische Fragen → [Fuehrender Partner NAME]
 ## Quellen
 
 - §§ 43a, 45 BRAO; § 3 BORA; Art. 18 MAR; §§ 666, 675 BGB
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -31,9 +31,6 @@ description: "Wenn es um Bilinguale Vertragserstellung DE/EN in Wandeldarlehen-L
 - § 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung)
 - § 10.1 Standardklausel: Vorrang der deutschen Fassung
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Dokumentstruktur festlegen
@@ -84,10 +81,8 @@ Stand: 05/2026. Bei Änderung BGB-Formvorschriften oder GmbHG aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 Paragrafen 133 und 157 BGB (Auslegung mehrdeutiger Verträge) → Artikel 3 Rom-I-VO (Rechtswahl) → Paragraf 5 BeurkG (Urkundssprache) → Paragraf 55 Absatz 1 GmbHG (Form der Übernahmeerklärung). Gerichtssprache nach Paragraf 184 GVG und Urkundssprache nicht vermischen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

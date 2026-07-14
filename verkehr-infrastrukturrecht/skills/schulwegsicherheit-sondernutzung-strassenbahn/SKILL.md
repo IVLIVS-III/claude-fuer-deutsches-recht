@@ -34,10 +34,6 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 - **§ 823 Abs. 1 BGB** — Deliktische Haftung für Verkehrsgefahren
 - **KMK-Empfehlungen** — Schulwegplan-Empfehlungen der Kultusministerkonferenz
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Situation vor Ort analysieren:** Gefahrenstellen, Sichtbehinderungen, fehlende Querungshilfen.
@@ -52,3 +48,5 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 - 30er-Zone-Antrag erfordert Nachweis besonderer Gefaehrdung (§ 45 Abs. 9 StVO).
 - Schadensfall sofort dokumentieren: Fotos, Zeugen, Polizeiprotokoll.
 - Anwaltliche Endkontrolle bei Amtshaftungsklagen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

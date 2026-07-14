@@ -151,4 +151,5 @@ the German tax authorities.
 - § 50d Abs. 8, 9 EStG.
 - Doppelbesteuerungsabkommen — jeweils einschlägiges DBA.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

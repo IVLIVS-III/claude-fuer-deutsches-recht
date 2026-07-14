@@ -49,7 +49,6 @@ Die Beklagte behauptet, der Betrieb beschäftige regelmäßig weniger als zehn A
 **II. Zum behaupteten Kündigungsgrund**
 
 *Bei betriebsbedingter Kündigung:*
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Bei verhaltensbedingter Kündigung:*
 Eine Abmahnung wurde nie ausgesprochen. Dies ist unstreitig. Ohne vorherige Abmahnung ist die verhaltensbedingte Kündigung unverhältnismäßig.
@@ -94,10 +93,6 @@ Step 6: Schriftsatz fristgerecht einreichen
 - **Paragraf 138 Abs. 2, 3 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Erklärungslast über Tatsachenbehauptungen der Gegenseite
 - **Paragraf 139 ZPO** — Richterliche Hinweispflicht; Gericht fördert vollständigen Vortrag
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Substantiierungstiefe — Was wird erwartet?
 
 Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
@@ -105,3 +100,5 @@ Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird b
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

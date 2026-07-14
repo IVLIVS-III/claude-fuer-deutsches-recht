@@ -159,10 +159,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 40 GmbHG — Gesellschafterliste: Einreichung innerhalb 1 Monat nach Anteilsuebertragung
 - § 20 TranspRG — Transparenzregister: Meldung wirtschaftlich Berechtigte innerhalb 2 Wochen nach Änderung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Fristenregister anlegen:** alle Fristen aus SPA, Regulatorik und Gesetz extrahieren
@@ -175,3 +171,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Frist versaeumt ohne Wiedervorlage: Haftung nach § 280 BGB
 - Longstop Date uebersehen: automatisches Ruecktrittsrecht entsteht
 - Gesellschafterliste nicht fristgerecht: Stimmrechte fraglich
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

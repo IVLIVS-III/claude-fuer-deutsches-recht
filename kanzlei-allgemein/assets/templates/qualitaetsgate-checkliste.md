@@ -55,6 +55,6 @@
 
 ## Nächste Schritte
 
-1.
-2.
-3.
+1. Zwingende Korrektur vor Freigabe:
+2. Ergänzung oder Rückfrage:
+3. Versand- und Ablagekontrolle:

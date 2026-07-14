@@ -39,7 +39,6 @@ Kriterien für den Einschluss:
 
 Referenz auf Rechtsprechung, die breitere Definitionen stützt:
 - EU-Bekanntmachung 2024, Rn. 28 ff.: Supply-Side Substitution als Marktabgrenzungsinstrument.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Praxis der Kommission: Fusionsfälle, in denen Markt breit definiert wurde.
 
 ### Schritt 4: Ökonomische Begründung
@@ -66,9 +65,7 @@ Auswirkung auf Verfahrensergebnis: [...]
 
 ## Leitentscheidungen Weitere Marktdefinition
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Weiter Markt Wearables; Substitution zwischen Smart-Watch und Fitness-Band trotz Unterschiede möglich.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Standardformulierung für Schriftsatz
 
@@ -79,3 +76,5 @@ Auswirkung auf Verfahrensergebnis: [...]
 Wenn nationale Marktdefinition angegriffen werden soll:
 - EWR-weiter Markt: Importquote analysieren, Preiskonvergenz nachweisen.
 - Globaler Markt: Globale Anbieter und Handelsströme dokumentieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

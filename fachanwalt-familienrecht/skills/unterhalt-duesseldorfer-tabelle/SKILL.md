@@ -93,7 +93,6 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 
 ### Bedarfsdeckung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Eigeneinkommen anrechnen.
 - Wohnvorteil bewerten.
 
@@ -117,7 +116,6 @@ Beim Erwerbstaetigenbonus: jeweils ein Siebtel des eigenen Erwerbseinkommens ble
 ### Erwerbsobliegenheit
 
 - Nach Trennungsphase Erwerbsobliegenheit prüfen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Auskunftsanspruch Paragraf 1605 BGB
 
@@ -170,3 +168,5 @@ Detaillierte Sonderfälle (Auslandsbezug fiktives Einkommen Selbstständige Wohn
 ## Unterhalts-Stop
 
 Wenn aktuelle Tabelle, vollständige Belege, Steuerlast, Wohnvorteil, Selbstständigenunterlagen oder Betreuungsmodell fehlen, wird nicht gerechnet, sondern ein Auskunfts- und Belegplan erstellt. Jede Zahl braucht eine Aktenfundstelle oder den Hinweis, dass sie nur Platzhalter bis zur Belegprüfung ist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Nis2 Cybersecurity Lahnwerke Slack Airtags It Sicherheit"
-plugin: "tbd"
+plugin: "nis2-cybersecurity-compliance"
 
 checks:
   - id: r01-readme-vorhanden

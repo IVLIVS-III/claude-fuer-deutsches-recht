@@ -53,9 +53,6 @@ Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deut
 - **Paragraf 97 Abs. 1 Nr. 1 StPO** — Beschlagnahmeverbot für schriftliche Mitteilungen zwischen Beschuldigtem und Rechtsanwalt im Gewahrsam des Anwalts.
 - **Paragraf 97 Abs. 2 StPO** — Beschlagnahmeverbot erstreckt sich auf alle Gegenstände, auf die das Zeugnisverweigerungsrecht sich bezieht.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -69,7 +66,6 @@ Vor der Analyse der Beweisanordnung: Welches Verfahren und welche Normen gelten?
 - **ZPO-Verfahren**: Paragrafen 142, 144, 273 ZPO; Verweigerungsrechte nach Paragrafen 383, 384 ZPO; Fristberechnung nach Paragrafen 214 ff. ZPO.
 - **StPO-Verfahren**: Paragrafen 94, 97, 102, 103, 161a StPO; Paragraf 53 StPO bei Zeugnisverweigerungsrecht; sofortiger Widerspruch bei Beschlagnahme von Verteidigerunterlagen.
 - **VwGO**: Paragrafen 86, 99, 111 VwGO; behördliche Vorlagebeschlüsse; In-camera-Verfahren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Vor Einreichung in Schriftsätzen oder gegenüber dem Gericht sind alle Angaben gegen eine Primärquelle (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) zu verifizieren.
 
@@ -156,6 +152,7 @@ Alle Fristen aus der Schritt-0-Recherche verwenden. Einwendungsfristen können b
 
 Alle Fristen sofort im Fristenkontrollsystem notieren.
 
+```markdown
 ## Schlüsselfelder
 
 - **Anordnende Stelle:** [Gericht/Behörde]
@@ -276,14 +273,14 @@ Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und intern
 
 - **Beschlagnahmeschutz Paragraf 97 StPO:** Bei Kanzleidurchsuchungen sofort Widerspruch erklären; jede Herausgabe ohne Prüfung kann den Schutz endgültig beseitigen.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Einwendungsfristen:** Laufen teilweise bereits ab Zustellung; kein einheitliches Datum ohne Normprüfung annehmen.
 - **Quellenverifizierung:** Alle Norm- und Entscheidungshinweise sind vor Einreichung zu verifizieren.
 
 ## Quellenpflicht
 
 - Gesetzestexte: Paragrafen 142, 144, 273, 373 ff., 383, 384 ZPO; Paragrafen 53, 94, 97, 102, 103, 160a, 161a, 163a StPO; Paragrafen 86, 99 VwGO; Paragraf 43a BRAO; GeschGehG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: kaufrecht-smartwatch-gesundheitsabo-update-hannover
+plugin: "bgb-bt-pruefer"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte kaufrecht-smartwatch-gesundheitsabo-update-hannover.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

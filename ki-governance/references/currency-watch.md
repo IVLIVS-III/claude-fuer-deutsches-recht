@@ -54,7 +54,6 @@ Der AI Act tritt gestaffelt in Kraft. Die nachfolgende Tabelle entspricht dem St
 
 ## EuGH — Rechtsprechung mit KI-Bezug
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorabentscheidungsverfahren zur Art. 22 DSGVO:** Mehrere Verfahren zur Reichweite automatisierter Entscheidungsfindung anhängig. Prüfen Sie den Stand beim [EuGH](https://curia.europa.eu).
 - **Erwägungsgründe AI Act:** Erwägungsgrund 12 (Abgrenzung zu DSGVO), ErwGr. 70–72 (Hochrisiko-KI Beschäftigung), ErwGr. 99 (GPAI systemisches Risiko). Erwägungsgründe sind bei der Auslegung heranzuziehen, aber nicht verbindlich.
 
@@ -75,3 +74,5 @@ Der AI Act tritt gestaffelt in Kraft. Die nachfolgende Tabelle entspricht dem St
 Wenn das Plugin ein Geltungsdatum, eine Pflichtenkategorie oder einen Schwellenwert aus dem AI Act oder der DSGVO Art. 22 zitiert, ist anzumerken: "Das KI-Recht entwickelt sich sehr schnell weiter — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie beim [AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) und auf [EUR-Lex](https://eur-lex.europa.eu). Siehe `references/currency-watch.md` für die laufend gepflegte Liste."
 
 **Diese Datei veraltet.** Stand: Mai 2026. Aktualisieren Sie sie, sobald ein aufgeführtes Datum verstrichen oder eine Regelung geändert wurde. Eine veraltete Aktualitätsliste ist schlechter als gar keine Aktualitätsliste.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

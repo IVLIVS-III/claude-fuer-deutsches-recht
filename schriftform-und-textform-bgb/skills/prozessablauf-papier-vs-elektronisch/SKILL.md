@@ -41,7 +41,6 @@ Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über offizielle ode
 - Paragraf 130 BGB — Zugang
 - Paragrafen 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
 - Paragraf 46h ArbGG — arbeitsgerichtliche Formfiktion
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Referenzanker: `references/amtlicher-formkern-bgb-zpo.md`
 - Fachmodul: `amtlicher-formkern-bgb-zpo-check`
 
@@ -217,3 +216,5 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 - **beA mit einfacher Signatur**: Prozessual kann das genügen; materiell trägt es nur über eine gesetzliche Formfiktion wie Paragraf 130e ZPO oder Paragraf 46h ArbGG.
 - **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach Paragraf 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
 - **WhatsApp-Geräteaustausch**: Nach Gerätewechsel können WhatsApp-Nachrichten verloren gehen, wenn kein Backup aktiviert war. Für Beweiszwecke: Screenshots und Chat-Export sofort nach der Erklärung sichern.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

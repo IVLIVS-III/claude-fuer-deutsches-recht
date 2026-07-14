@@ -34,10 +34,6 @@ Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskr
 - **§ 74 OWiG** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
 - **§ 28 OWiG** — Bekanntmachung des Bussgeldbescheids; Fristbeginn
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fristen-Berechnungsschema
 
 ```
@@ -106,3 +102,5 @@ Mit freundlichen Gruessen [KANZLEI]
 - 3-Tage-Vorlauffrist-Erinnerung setzen.
 - Beschraenkter Einspruch nur nach Mandantenruecksprache.
 - Anwaltliche Endkontrolle vor dem Versand.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

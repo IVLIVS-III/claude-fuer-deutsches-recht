@@ -20,10 +20,6 @@ description: "Wenn es um Redline-QA in Vertragsausfüller geht: prüft Frist, Fo
 3. Entsprechen alle materiellen Änderungen freigegebenen Klauselentscheidungen?
 4. Hat der Mandant die Herausgabe der Redline ausdrücklich bestätigt?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 119 ff. BGB — Anfechtung (bei verdeckten Änderungen im Redline-Prozess)
@@ -68,3 +64,5 @@ description: "Wenn es um Redline-QA in Vertragsausfüller geht: prüft Frist, Fo
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

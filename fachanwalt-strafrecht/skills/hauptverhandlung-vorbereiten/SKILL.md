@@ -30,7 +30,6 @@ description: "Wenn es um Hauptverhandlung Vorbereiten in Fachanwalt Strafrecht g
 
 - Beweisantragsrecht § 244 Abs. 3 StPO — Gericht darf nur unter engen Voraussetzungen ablehnen (Unzulässigkeit, Wahrunterstellung, Aufklärungsverpflichtung).
 - Präklusion § 244 Abs. 6 Satz 2 StPO — verspätete Anträge können zurückgewiesen werden wenn Vorbringen ohne erkennbaren Grund verspätet erfolgt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Befangenheit § 24 StPO — Ablehnung gegen Richter wegen Besorgnis der Befangenheit; Vortrag der Ablehnungsgründe § 26 StPO.
 - Beweisaufnahme nach § 244 Abs. 2 StPO Aufklärungspflicht des Gerichts.
 - Schlussvorträge § 258 StPO — Reihenfolge StA, Nebenkläger, Angeklagter mit Verteidiger; letztes Wort dem Angeklagten § 258 Abs. 2 StPO.
@@ -42,7 +41,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Konkrete Tatsachenbehauptung (Beweisthema).
 - Konkretes Beweismittel (Zeuge mit Name und Anschrift, Sachverständiger, Urkunde, Augenschein).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ablehnungsgründe abschließend § 244 Abs. 3 Satz 2 StPO — Unzulässigkeit, Offenkundigkeit, Aufklärung bedeutungslos, Wahrunterstellung, bereits erwiesen, Beweismittel völlig ungeeignet, Beweismittel unerreichbar, Beweisermittlungsantrag.
 
 ## Schreibvorlage Beweisantrag
@@ -103,10 +101,6 @@ Dieses Fachmodul nicht nur für die große Strategie, sondern auch für die Tage
 - Bei Verständigungsversuch ergebnisoffen — Dokumentation der Belehrung.
 - Anschluss: Skill `fachanwalt-strafrecht-akteneinsicht-beantragen` ggf. nochmals für ergänzende Aktenbestandteile.
 
-## Zentrale Rechtsprechung Hauptverhandlung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage-Fragen vor Hauptverhandlung
 
 1. Gericht und Besetzung: Strafrichter (§ 25 GVG), Schoeffengericht (§ 28 GVG) oder Strafkammer (§ 74 GVG)?
@@ -114,3 +108,5 @@ Dieses Fachmodul nicht nur für die große Strategie, sondern auch für die Tage
 3. Beweisantraege: Welche Entlastungszeugen, Sachverstaendige, Urkunden — Konnexitaet geprueft?
 4. Befangenheitsantrag noetig? Vorgehensweise: Ablehnungsgesuch schriftlich vor Beginn der Vernehmung.
 5. Einlassung oder Schweigen: Letzte Entscheidung mit Mandant vor HV-Beginn abklaeren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

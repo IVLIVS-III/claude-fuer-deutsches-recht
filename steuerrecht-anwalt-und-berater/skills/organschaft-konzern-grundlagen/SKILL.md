@@ -76,7 +76,6 @@ description: "Wenn es um Anw Organschaft Konzern Grundlagen in Steuerrecht – S
 2. **Wirtschaftliche Eingliederung** — Organgesellschaft erbringt für Organträger oder Konzern wirtschaftlich bedeutsame Leistungen (Lieferungen, Dienstleistungen).
 3. **Organisatorische Eingliederung** — Organträger kann seine Willen tatsächlich durchsetzen (personell verflochtene Geschäftsführung, Beherrschungsvertrag, weisungsabhängige GF).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Wirkungen
 
@@ -92,7 +91,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Praxis-Punkte 2026
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Reform** der UStOrg-Anwendung diskutiert; bis dahin gilt klare Rechtslage.
 - Bei Mehrmütter-Organschaft komplexer; ggf. nicht möglich.
 
@@ -151,4 +149,4 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

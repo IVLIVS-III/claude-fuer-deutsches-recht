@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 693 KB) | PDF | [`gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf`](gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 695 KB) | PDF | [`gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf`](gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-governance-konzern-rollout-thalheim-industries.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip) |
 

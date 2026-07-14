@@ -17,16 +17,6 @@ description: "Wenn es um Parallel- und Konkurrenzprüfung in bereicherungs-und-a
 
 § 812 Abs. 1 BGB (Leistungs-/Nichtleistungskondiktion) — §§ 129 ff. InsO (Insolvenzanfechtung) — §§ 1–13 AnfG (Gläubigeranfechtung) — § 985 BGB (Vindikation) — § 826 BGB (sittenwidrige Schädigung) — § 55 InsO (Masseverbindlichkeiten) — § 144 InsO (Gegenleistungsrückgewähr)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Konstellation 1: § 812 BGB neben AnfG
 
 **Möglich, wenn:** Rechtsgrund nachträglich weggefallen (§ 142 BGB) UND Gläubigerbenachteiligung. Gläubiger wählt günstigeren Weg; Doppelherausgabe ausgeschlossen.
@@ -69,3 +59,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

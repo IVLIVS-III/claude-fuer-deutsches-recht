@@ -67,10 +67,6 @@ Bei US-Anbietern oder US-Töchtern greift der US-CLOUD Act und kann § 97 StPO f
 - Keine Pflicht zur Vorab-Information der Kanzlei
 - Nur US-Eskalationspfad, kein deutsches Verfahren möglich
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - §§ 53, 53a StPO — Zeugnisverweigerungsrecht und dessen Erstreckung auf Berufshelfer
@@ -119,3 +115,4 @@ Handlungsbedarf: [...]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

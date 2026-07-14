@@ -637,6 +637,11 @@ def sanitize(text: str) -> str:
 
 
 def clean(text: str, limit: int | None = None) -> str:
+    # Aus Skilltext übernommene Auszüge dürfen keine offenen Blockmarken in
+    # Tabellenzellen oder Fließtext tragen. Vollständige Codeblöcke werden
+    # bereits bei der Exzerptbildung ausgelassen; dies fängt beschädigte oder
+    # einzeilige Quellen defensiv ab.
+    text = re.sub(r"(?:`{3,}|~{3,})", "", text)
     text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
     text = re.sub(r"`([^`]+)`", r"\1", text)
     text = re.sub(r"[*_]{1,3}([^*_]+)[*_]{1,3}", r"\1", text)
@@ -884,8 +889,19 @@ def is_source_noise(line: str) -> bool:
 def skill_body_excerpt(text: str) -> str:
     body = re.sub(r"^---\s*\n[\s\S]*?\n---\s*", "", text).strip()
     lines = []
+    fence_marker: str | None = None
     for raw in body.splitlines():
         line = raw.strip()
+        fence = re.match(r"^(`{3,}|~{3,})", line)
+        if fence:
+            marker = fence.group(1)[0]
+            if fence_marker is None:
+                fence_marker = marker
+            elif fence_marker == marker:
+                fence_marker = None
+            continue
+        if fence_marker is not None:
+            continue
         if not line or line.startswith("#"):
             continue
         if line.startswith("|") or line.startswith("<!--"):

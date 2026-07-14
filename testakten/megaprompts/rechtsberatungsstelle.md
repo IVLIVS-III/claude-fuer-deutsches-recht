@@ -167,10 +167,6 @@ Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine S
 - **Art. 13 DSGVO** — Informationspflichten: Falls ein Brief erstmals über die Verarbeitung personenbezogener Daten informiert, müssen DSGVO-Pflichtangaben enthalten sein.
 - **§§ 2, 3 BerHG** — Beratungshilfe: Bei Mandanten mit Beratungshilfe-Schein muss die Korrespondenz den Leistungsrahmen einhalten; keine Erweiterung ohne neuen Schein.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -227,6 +223,8 @@ Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und K
 Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben zu Mandantenbriefen: `skills/status/SKILL.md`, Sektion "Quellenpflicht", und `skills/mandantenbrief/SKILL.md`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -310,10 +308,6 @@ _Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in Plugin für d
 - **§§ 128–142 ZPO** — Schriftsätze an Gericht: Form- und Inhaltsvorgaben für gerichtliche Statusberichte; örtliche Geschäftsordnungen beachten.
 - **§ 81 VwVfG** — Verfahrensabschluss und Mitteilungspflichten der Behörde; spiegelbildlich Informationspflicht des Vertreters gegenüber dem Mandanten.
 - **Art. 13, 14 DSGVO** — Informationspflichten beim Umgang mit personenbezogenen Daten; Statusberichte, die Verarbeitungen beschreiben, müssen den Datenschutzvorgaben genügen.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -481,6 +475,8 @@ Entsprechend der Klinik-Konfiguration:
 Statusberichte enthalten keine zitierten Normen als Primärbelege — das obliegt den zugrunde liegenden Gutachten (`/memo`). Rechtliche Behauptungen in Statusberichten müssen durch verifizierte Gutachten gedeckt sein, auf die der Bericht verweist. Kein Status-Schriftstück enthält ungeprüfte Rechtsbehauptungen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -715,10 +711,6 @@ Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in de
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Ausgefüllte Formulare, die Rechtspositionen des Mandanten begründen oder geltend machen, sind keine formale Routineaufgabe — sie erfordern inhaltliche Supervisoren-Prüfung.
 - **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Formulare enthalten sensitive Mandantendaten; strenge Vertraulichkeit.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -765,6 +757,8 @@ Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben bei konkreten S
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -925,10 +919,6 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studenten erfolg
 - **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
 - **§ 70 VwGO** — Form des Widerspruchs (schriftlich oder zur Niederschrift); Einreichungsfrist nach §§ 70, 58, 74 VwGO.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -987,6 +977,7 @@ Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgensc
 - **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
 - **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
+```markdown
 ## Prüfliste für Studenten
 
 Vor Vorlage an [Supervisor]:
@@ -1027,6 +1018,8 @@ Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidu
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `memo`
@@ -1057,10 +1050,6 @@ _Wenn es um Internes Rechtsgutachten: Gutachten-Gerüst in Plugin für die stude
 - **§ 6 RDG** — Rechtsdienstleistungen durch studentische Beratungsstellen: zulässig als unentgeltliche Rechtsdienstleistung unter anwaltlicher Aufsicht. Das Gutachten ist ein internes Arbeitsmittel und kein Rechtsgutachten im Sinne eines anwaltlichen Leistungsprodukts.
 - **§ 43a Abs. 2 BRAO / § 203 StGB** — Mandatsgeheimnis: Das Gutachten enthält vertrauliche Mandanteninformationen und darf die Beratungsstelle nicht ohne Supervisoren-Freigabe verlassen.
 - Materialrecht des jeweiligen Rechtsgebiets (wird im Gutachten konkretisiert).
-
-### Leitentscheidungen (exemplarisch für häufige Rechtsgebiete)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -1128,6 +1117,7 @@ Separater Abschnitt nach den Prüfungsblöcken:
 - Rechtlich: [Was erfordert Recherche?]
 - Strategisch: [Ermessensentscheidungen für Studentenn/Supervisor]
 
+```markdown
 ## Kurzergebnis
 
 [Mandat annehmen / Ablehnen, weil X / Weitere Informationen zu Y erforderlich —
@@ -1209,6 +1199,8 @@ Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -47,4 +47,5 @@ Die Hinweispflicht ist regelmäßig ausgelöst, wenn **mindestens eines** der fo
 
 - `references/hinweisschreiben-102-starug.md` – Mustertext
 - IDW S 11 (Stand 22.08.2016 + Updates) – berufsständische Verlautbarung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

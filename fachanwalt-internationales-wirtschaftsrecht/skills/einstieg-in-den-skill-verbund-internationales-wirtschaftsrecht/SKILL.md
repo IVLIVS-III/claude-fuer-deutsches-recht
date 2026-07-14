@@ -83,7 +83,6 @@ description: "Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaf
 
 ### Schlüssel-Leitsaetze Internationales Wirtschaftsrecht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Überblick IWR
 | Materie | Zentralnorm |
@@ -107,3 +106,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Verjaebrung (BGB) | §§ 195, 199 BGB: 3 Jahre |
 | Schiedsklage-Einleitung | Vertraglich vereinbart oder Verjaebrung Hauptanspruch |
 | Vollstreckungsantrag NY Convention | Kein Zeitlimit; aber Einrede möglich |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

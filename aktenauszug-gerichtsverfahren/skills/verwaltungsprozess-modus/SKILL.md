@@ -36,10 +36,6 @@ Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Beru
 - § 132 VwGO — Revisionszulassung (Divergenz, Grundsatzbedeutung, Verfahrensmangel)
 - § 58 Abs. 2 VwGO — Jahresfrist bei fehlerhafter Rechtsbehelfsbelehrung
 
-## Rechtsprechung (BVerwG — Leitsätze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Klagenarten (§ 42 VwGO)
 
 | Klageart | Ziel | Voraussetzung |
@@ -102,3 +98,5 @@ Berufung bedarf der Zulassung durch das Oberverwaltungsgericht. Zulassungsgründ
 - Verwaltungsakt mit vollständigem Inhalt und Datum erfassen
 - Widerspruchsbescheid als eigenes Dokument in der Sachverhaltschronologie
 - Behördliche Aktenzeichen neben Gerichtsaktenzeichen angeben
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

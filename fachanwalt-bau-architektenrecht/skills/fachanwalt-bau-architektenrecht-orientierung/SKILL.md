@@ -65,10 +65,6 @@ description: "Wenn es um Fachanwalt für Bau- und Architektenrecht — Orientier
 - **Verwaltungsgericht** öffentliches Baurecht, Baugenehmigung, Bebauungsplan
 - **Vergabekammer** (Bund/Länder) + OLG-Vergabesenat bei Vergaberechtssachen
 
-## Aktuelle Rechtsprechung BGH VII. Zivilsenat (Auswahl)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -100,3 +96,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - ARGE Baurecht im Deutschen Anwaltverein (DAV)
 - Deutscher Baugerichtstag (alle zwei Jahre Hamm)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

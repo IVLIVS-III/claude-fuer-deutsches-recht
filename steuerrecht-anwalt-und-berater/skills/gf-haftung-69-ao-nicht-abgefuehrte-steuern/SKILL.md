@@ -45,10 +45,6 @@ Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohns
 - **§ 266a StGB** — Beitragsvorenthaltung Sozialversicherung (Arbeitgeberanteil + Arbeitnehmeranteil); paralleles Strafverfahren bei Lohnsteuer-/SV-Vorenthaltung typisch.
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Zusammenspiel mit § 69 AO (Doppelmandat des GF).
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Haftungsvoraussetzungen § 69 AO
 
 1. **Vertreter-Stellung** — GF im fraglichen Zeitraum (auch nach Bestellungsende für laufende Verpflichtungen).
@@ -59,7 +55,6 @@ Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohns
 
 ## Verteidigungslinien
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Wenn liquide Mittel **nicht für alle Gläubiger** ausreichten, war der GF berechtigt, die Mittel **proportional** zu verteilen. Berechnung:
 
@@ -69,7 +64,6 @@ Wenn liquide Mittel **nicht für alle Gläubiger** ausreichten, war der GF berec
 - Proportional auf FA: Z × Y / X
 - → **Haftung nur in Höhe der nicht-anteiligen Differenz.**
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Linie 2 — Verschulden bestreiten
 
@@ -98,7 +92,6 @@ Bei mehreren GF: schriftliche **Aufgabenverteilung** vorgelegt? Hat der Steuerve
 
 **Vorsicht — anders als § 69 AO:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Anteilige-Tilgung-Argument der § 69 AO greift bei § 266a StGB **nicht**.
 - Strategie: Steuerstrafrechtliche Selbstbelastung vermeiden (§ 393 AO trotz Verteidigung StB-Akte). Vgl. `anw-steuerstrafverteidigung-verstaendigung`.
 - Bei parallelem Strafverfahren: Verteidigung primär im Strafverfahren (§ 266a StGB-Folge ist Freiheitsstrafe; § 69 AO-Folge ist Vermögenshaftung).
@@ -150,3 +143,5 @@ Bei Ablehnung Einspruch: Klage nach `anw-klage-finanzgericht`; AdV beim FG § 69
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

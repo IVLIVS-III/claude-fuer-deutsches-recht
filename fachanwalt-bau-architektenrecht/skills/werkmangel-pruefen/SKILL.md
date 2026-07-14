@@ -89,7 +89,6 @@ Weitere Entscheidungen vor Ausgabe über dejure.org / bundesgerichtshof.de mit A
 
 **Kostenvorschuss § 637 Abs. 3 BGB**: Vor Ausführung der Selbstvornahme einklagbar; Höhe: voraussichtliche Selbstvornahmekosten nach SV-Gutachten.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Minderung § 638 BGB
 

@@ -93,7 +93,6 @@ Nur einbeziehen wenn eine Behörde sich aktiv für diesen Bereich interessiert. 
 Hat ein anderes Unternehmen etwas Ähnliches gemacht? Was passierte?
 
 **Relevante Präzedenzfälle im deutschen Produktrecht:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Vorrang nicht überschätzen. Regulierungsbehörden ändern Prioritäten; dass ein Unternehmen damit durchgekommen ist bedeutet nicht dass das nächste es auch tut.
 
@@ -135,7 +134,6 @@ Vor der Fertigstellung gegen `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 Prüfen:
 - Könnte das Feature Verbraucher über wesentliche Merkmale irren? (§ 5 UWG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Werden wesentliche Informationen verschwiegen? (§ 5a UWG)
 - Werden Verbraucher unzumutbar belästigt? (§ 7 UWG: unerwünschte E-Mail, Telefonwerbung, Push-Nachrichten)
 - Vergleichende Werbung: objektiv, kein Anschwärzen, Vergleich wesentlicher Merkmale? (§ 6 UWG)
@@ -199,7 +197,6 @@ Prüfen:
 
 **Pflicht-Beispielzitate für häufige Konstellationen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Köhler, in: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 5 Rn. 1.50 ff.
 
 ## Zitierprüfung
@@ -215,3 +212,5 @@ Wenn die Bewertung Fälle, Normen, Verordnungen oder Vollzugsmaßnahmen zitiert 
 - **Beweislast UWG.** Bei § 5 UWG: der Unternehmer muss die Richtigkeit einer Werbeaussage nachweisen, nicht der Verbraucher deren Unrichtigkeit (§ 5 Abs. 4 UWG für nachprüfbare Tatsachen).
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

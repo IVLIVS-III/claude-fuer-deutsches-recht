@@ -20,10 +20,6 @@ description: "Wenn es um DOCX-Stripper in Vertragsausfüller geht: ordnet Akteni
 3. Gibt es strukturierte Platzhalter (eckige Klammern, XXX, TBD) oder nur unstrukturierte Freitextfelder?
 4. Sind Tabellen vorhanden die als Feldinventar extrahiert werden sollen?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - §§ 133, 157 BGB — Vertragsauslegung (Auslegung nach Treu und Glauben)
@@ -66,3 +62,5 @@ description: "Wenn es um DOCX-Stripper in Vertragsausfüller geht: ordnet Akteni
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

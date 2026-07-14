@@ -20,10 +20,6 @@ description: "Wenn es um Einreden und Verteidigung des Anfechtungsgegners — An
 - § 142 InsO — Bargeschäftsprivileg (analoge Anwendung im AnfG str.)
 - §§ 812 ff. BGB — Bereicherungsrecht (Gegenleistungs-Rückforderung gegen Schuldner)
 
-## Rechtsprechung (BGH — Verteidigung gegen AnfG-Klage)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Überblick
 
 Der Anfechtungsgegner hat verschiedene Verteidigungsmöglichkeiten gegen eine AnfG-Anfechtungsklage. Sie richten sich nach dem jeweiligen Anfechtungstatbestand.
@@ -67,3 +63,5 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Materien- und Quellenkontrolle
 
 Anfechtung einer Willenserklärung nach Paragraf 119 oder 123 BGB, bereicherungsrechtliche Rückabwicklung nach Paragraf 812 folgende BGB, Gläubigeranfechtung nach dem Anfechtungsgesetz und Insolvenzanfechtung nach Paragraf 129 folgende InsO sind getrennte Anspruchssysteme. Zuerst Anspruchsberechtigter, Anfechtungsgegner, Rechtshandlung, Benachteiligung, subjektive Merkmale, Frist und Rechtsfolge bestimmen. Eine Entscheidung aus einem anderen System nur nach ausdrücklicher Prüfung ihrer Übertragbarkeit verwenden; jedes Zitat benötigt Gericht, Datum, Aktenzeichen, tragende Aussage und Quelle.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

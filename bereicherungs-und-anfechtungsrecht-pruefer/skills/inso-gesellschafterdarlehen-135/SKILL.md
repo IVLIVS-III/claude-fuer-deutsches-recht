@@ -39,7 +39,6 @@ description: "Wenn es um Gesellschafterdarlehen — Paragraf 135 InsO in bereich
 | externer Kreditgeber ohne Einfluss | grundsätzlich kein § 135 Abs. 1; § 133 oder § 130 gesondert prüfen |
 | Gesellschafter als Bürge oder Sicherungsgeber | § 135 Abs. 2 und § 143 Abs. 3 prüfen |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Sanierungs- und Kleinbeteiligtenprüfung
 
@@ -80,3 +79,5 @@ Wenn diese Punkte streitig sind, wird der Vorgang als Human Review markiert.
 ---
 
 Hinweis: Keine Rechtsberatung. § 135 InsO ist besonders anfällig für Rollen- und Konzernfehler; wirtschaftliche Gleichstellung nie ohne belastbare Tatsachen annehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

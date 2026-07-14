@@ -19,9 +19,6 @@ description: "Wenn es um Seminararbeit-Modus in hausarbeitenmacher — Didaktisc
 3. Gibt es Pflicht-Literaturquellen, die vom Lehrstuhl vorgegeben wurden?
 4. In welchem Format soll der Vortrag erfolgen und wie viel Zeit steht für Disputation zur Verfügung?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit als Grundlage der Seminararbeit
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Ausbildungsziel
@@ -238,3 +235,5 @@ Die Lehrkraft wird Deinen Vortrag und Deine Arbeit hören — und manche werden 
 - `meinungsstreit-darstellen` — Streit-Darstellung wissenschaftlich
 - `methodenlehre-auslegung` — Methodische Grundlagen
 - `rechtstheorie-rechtsphilosophie-anbindung` — Wissenschaftliche Tiefe
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -125,10 +125,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 254 BGB — Mitverschulden: nicht genuegend aufmerksamer Kaeufer kann Ansprueche mindern
 - §§ 305-310 BGB — AGB-Kontrolle: General Disclosure-Klauseln in Standardvertraegen können einer AGB-Prüfung unterfallen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **SPA-Garantienliste erstellen:** alle Business Warranties mit Disclosure-Vorbehalt identifizieren; je Garantie: Scope, Carve-out, Disclosure-Methode
@@ -199,4 +195,5 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 - assets/templates/disclosure-schedule-index.md
 
 ---
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -17,16 +17,6 @@ description: "Wenn es um Leistungsbegriff: Bewusste und zweckgerichtete Mehrung 
 
 § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion) — § 812 Abs. 1 S. 1 Alt. 2 BGB (Nichtleistungskondiktion) — § 814 BGB (Ausschluss bei Kenntnis) — § 817 BGB (Gesetzes-/Sittenverstoß) — § 267 BGB (Drittleistung) — § 362 BGB (Erfüllungswirkung) — § 242 BGB (Treu und Glauben bei Durchgriff)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Definition
 
 Nach h.M. und ständiger BGH-Rechtsprechung ist Leistung i.S.d. § 812 Abs. 1 S. 1 Alt. 1 BGB jede **bewusste und zweckgerichtete Mehrung fremden Vermögens**.
@@ -101,3 +91,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

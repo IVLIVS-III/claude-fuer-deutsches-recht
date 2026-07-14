@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf`](gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf`](gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-revision-beweisantrag-lg-duisburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg-einzelpdfs.zip) |
 

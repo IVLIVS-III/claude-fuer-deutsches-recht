@@ -164,4 +164,5 @@ Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
 - § 89 AO (verbindliche Auskunft).
 - § 347 AO (Einspruch).
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

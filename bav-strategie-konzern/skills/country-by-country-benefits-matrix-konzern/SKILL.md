@@ -176,13 +176,11 @@ J. Lokaler Rechtsberater-Kontakt: [...]
 - → `expatriate-pensionsplanung-und-totalization` — Expatriate-Sonderfragen
 - → `japan-bav-und-corporate-pension-iorp` — Japan-Vertiefung
 
-## Aktuelle Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Matrix-Erstellung
 
 1. Welche Länder sind im Konzern-Fussabdruck enthalten?
 2. Gibt es DB-Plaene mit bilanzieller Relevanz (IAS 19)?
 3. Kommen Expats vor, die Anwartschaften in mehreren Ländern aufgebaut haben?
 4. Ist eine M&A-Transaktion der Anlass? → Dann Due-Diligence-Fokus
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

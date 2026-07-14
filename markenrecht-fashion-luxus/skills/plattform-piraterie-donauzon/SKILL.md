@@ -31,7 +31,6 @@ Seit dem Digital Services Act (DSA), vollständig anwendbar seit 17. Februar 202
  - Artikel 26 und 27 DSA: Werbetransparenz und Transparenz der Empfehlungssysteme; Artikel 30 DSA: Rückverfolgbarkeit gewerblicher Anbieter auf Online-Marktplätzen.
  - Artikel 49 bis 51 DSA: Koordinatoren für digitale Dienste; die nationale Zuständigkeit folgt ergänzend aus dem DDG.
 - **Artikel 6 DSA:** Haftungsprivileg für Hostingdienste bei fehlender tatsächlicher Kenntnis und zügigem Tätigwerden nach Kenntniserlangung. Artikel 8 DSA verbietet eine allgemeine Überwachungspflicht. Das DDG regelt vor allem nationale Zuständigkeiten und Durchsetzung; es ist nicht die materielle Quelle des Hostingprivilegs.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 14 II/V MarkenG:** Verletzungsanspruch auch gegen mittelbare Verletzer
 - **§ 1004 BGB analog / § 14 V MarkenG:** Sperrverfügung als Hauptanspruch
 
@@ -142,8 +141,8 @@ Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DSA (EU) 2022/2065, Art. 16/17/45:** Sehr große Online-Plattformen müssen wirksame Notice-and-Action-Verfahren einrichten, innerhalb angemessener Frist auf qualifizierte Notices reagieren und dem Melder den Bearbeitungsstatus mitteilen; Nichteinhaltung kann zu Bussgeldern bis zu 6 % des globalen Jahresumsatzes fuehren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

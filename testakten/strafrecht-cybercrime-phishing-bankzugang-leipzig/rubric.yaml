@@ -1,4 +1,5 @@
 name: strafrecht-cybercrime-phishing-bankzugang-leipzig
+plugin: "fachanwalt-strafrecht"
 description: Cybercrime-Akte zu Phishing, Computerbetrug, Kontoleihe, IP-Spuren, TAN-Freigaben, Geldwäscheverdacht
   und digitaler Beweissicherung.
 checks:

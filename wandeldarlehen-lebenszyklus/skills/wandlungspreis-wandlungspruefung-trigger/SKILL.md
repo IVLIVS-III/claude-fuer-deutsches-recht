@@ -33,9 +33,6 @@ description: "Wenn es um Wandlungspreis-Berechnung in Wandeldarlehen-Lebenszyklu
 - § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage nach Wandlung)
 - § 9 GmbHG (Differenzhaftung bei Überbewertung der Sacheinlage)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Wandlungssumme C berechnen
@@ -95,12 +92,8 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 5 und 55 ff. sowie HGB § 272 aktualisi
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 5 Abs. 1 GmbHG (Mindest-Nennbetrag 1 EUR pro Anteil, Aufrundung) → § 56 Abs. 2 GmbHG (Differenzhaftung bei Unterschreitung Sachwert) → § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage für Wandlungsagio) → §§ 488 ff. BGB (Zinslauf bis Wandlungsstichtag) → § 138 BGB (Sittenwidrigkeit bei Preis-Manipulation)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

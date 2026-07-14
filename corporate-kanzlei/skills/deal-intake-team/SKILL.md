@@ -151,10 +151,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 3-5 BORA** — Berufspflichten; Interessenwiderstreit; Need-to-know
 - **§ 675 BGB** — Mandate als Dienstvertrag; Pflicht zur vollstaendigen Information des Mandanten
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Deal-Intake-Checkliste
 
 ### A. Erste Informationen sichern
@@ -253,5 +249,6 @@ NÄCHSTE AKTION: [konkrete Aktion] — Verantwortlich: [Name] — Frist: [Datum]
 ## Quellen
 
 - §§ 43, 43a, 45 BRAO; §§ 2-17 GwG; Art. 18 MAR; § 13 WpHG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

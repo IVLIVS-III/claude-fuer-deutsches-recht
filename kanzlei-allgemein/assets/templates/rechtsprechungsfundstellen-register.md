@@ -9,15 +9,12 @@
 ### Zentrale Linie
 
 
-### Gegenrechtsprechung
-
-
 ### Offene Recherchepunkte
 
 
 ### Zitierfähige Bausteine
 
--
+- Fundstelle, tragender Rechtssatz und konkrete Verwendung:
 
 ## Aktualitätscheck
 

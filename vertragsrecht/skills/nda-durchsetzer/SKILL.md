@@ -31,10 +31,6 @@ Falls Referenzvorlage oder Checkliste fehlen, fragt der Skill zunächst nach —
 - **Art. 25, 28, 32 DSGVO** — bei personenbezogenen Daten im Austauschumfang ggf. AVV-Bedarf neben dem NDA
 - **§ 203 StGB** — berufsspezifische Schweigepflicht (Rechtsanwalt, Steuerberater, Arzt) tritt **neben** das NDA
 
-### Kanonische Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -171,7 +167,6 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 - §§ 241 Abs. 2, 311 Abs. 2, 280 Abs. 1, 339, 343 BGB; § 348 HGB; § 15 AktG
 - §§ 2, 3, 5, 6, 7, 10 GeschGehG
 - §§ 305, 307 BGB (bei AGB-Konstellation)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 1 GeschGehG Rn. 12 ff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

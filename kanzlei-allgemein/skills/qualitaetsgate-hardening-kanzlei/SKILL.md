@@ -23,9 +23,6 @@ Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Prof
 3. Gibt es eine laufende Frist, die den Prüfumfang begrenzt?
 4. Soll das Qualitaetsgate-Protokoll als Aktenbestandteil gespeichert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 43 BRAO — Sorgfaltspflicht: Qualitaetssicherung als Grundpflicht vor jedem Ausgang
 - § 130 ZPO — Inhalt von Schriftsaetzen: Antraege und Begruendung müssen vollstaendig sein
@@ -134,3 +131,4 @@ Wenn der Entwurf bereits gut ist:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

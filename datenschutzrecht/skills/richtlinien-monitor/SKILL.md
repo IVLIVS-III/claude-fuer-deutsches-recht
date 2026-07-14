@@ -85,7 +85,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 **Analyse:**
 - Neue Datenkategorie: Nein (Nutzungsverhalten bereits erfasst).
 - Neuer Empfänger (Drittland USA): **Ja** – Art. 13 Abs. 1 lit. f DSGVO (Drittlandtransfer mit Transfermechanismus angeben).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Consent-Management: Ist der Anbieter nur nach Einwilligung aktiv (§ 25 TDDDG)? Dann Cookie-Banner anpassen (neue Kategorie / neuer Anbieter).
 - DSFA: `anwendungsfall-triage` empfehlen – bei umfangreichem Tracking ggf. DSFA nach Art. 35 DSGVO erforderlich.
 
@@ -108,10 +107,6 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen des TDDDG, neuen EDSA-Leitli
 - `datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md` — Eingehende neue Anforderungen vs. Praxis-Drift
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Passagen in Datenschutzerklärungen
 - `datenschutzrecht/skills/anwendungsfall-triage/SKILL.md` — Neue Verarbeitungstätigkeiten identifizieren
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -150,3 +145,5 @@ Keine Abweichungen: [LISTE GEPRÜFTER BEREICHE]
 Empfehlung: Aktualisierung bis [DATUM]
 Verantwortlich: [PERSON/ROLLE]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

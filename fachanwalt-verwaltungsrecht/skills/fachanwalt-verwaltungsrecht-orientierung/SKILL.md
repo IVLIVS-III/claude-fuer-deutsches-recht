@@ -54,10 +54,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - ARGE Verwaltungsrecht DAV.
 
-## Aktuelle Rechtsprechung (Leitsaetze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fristen im Ueberblick
 
 | Verfahrensschritt | Frist | Grundlage |
@@ -78,3 +74,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **kanzlei-allgemein** fuer Fristen Versand.
 - **fachanwalt-migrationsrecht** bei Auslaenderrecht.
 - **fachanwalt-sozialrecht** bei Abgrenzung Sozialgericht vs. Verwaltungsgericht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

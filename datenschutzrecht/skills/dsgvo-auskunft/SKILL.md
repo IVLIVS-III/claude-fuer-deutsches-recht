@@ -94,11 +94,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Leitentscheidung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Grundsatz
 
@@ -143,12 +141,6 @@ Vorzugsweise vollständige, fristgerechte Auskunft erteilen. Ablehnung nur als u
 
 - `datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md` — Abschnitt "Ablehnung wegen Rechtsmissbrauch" mit Formulierungsbausteinen
 
-## Ergänzende Rechtsprechung (Aktualitäten)
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Faktische Updates (Stand 05/2026)
 
 - **EuGH-Linie zu Art. 15 DSGVO und Datenkopie (Art. 15 Abs. 3):** Mehrere EuGH-Vorabentscheidungsverfahren haben das Auskunftsrecht und den Umfang der Datenkopie konkretisiert. Aktuelle Entscheidungen vor Ausgabe live über curia.europa.eu prüfen; auch BGH VI. ZS und BAG zur arbeitsrechtlichen Auskunft beobachten (Aktenzeichen vor Zitat verifizieren).
@@ -164,10 +156,6 @@ Quellen-URLs:
 - curia.europa.eu — EuGH-Suche zu Art. 15 DSGVO und Art. 82 DSGVO
 - edpb.europa.eu — EDSA Guidelines 01/2022 Right of Access
 - dejure.org / openjur.de — nationale Rechtsprechung BGH / BAG / OLG
-
-## Aktuelle Rechtsprechung (v14.2 — Ergaenzung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 
@@ -203,3 +191,5 @@ Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 [Unterschrift, Datenschutzbeauftragter]
 [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

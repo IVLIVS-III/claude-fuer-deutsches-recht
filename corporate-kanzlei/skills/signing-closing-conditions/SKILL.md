@@ -121,10 +121,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 56 AWV** — AWW-Investitionspruefung; Meldefrist und Prüfdauer
 - **§§ 154, 155 BGB** — offener Einigungsmangel; Formpflicht beim Vertragsschluss
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Standard-Closing-Conditions-Matrix
 
 | CP-Typ | Typischer Inhalt | CP-Owner | Prüfung | Frist |
@@ -220,6 +216,7 @@ VORAUSSICHTLICHES CLOSING: [DATUM]
 ## Quellen
 
 - § 158, 160, 162 BGB; § 41 GWB; § 56 AWV
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -11,9 +11,6 @@ description: "Wenn es um Output und Versandsteuerung in Kanzlei-Allgemein geht: 
 3. Wurde der Versand-Vor-Check bereits durchgefuehrt (Dokument, Unterschrift, Adressat, Anlagen)?
 4. Ist ein fristgebundenes Dokument dabei, das sofort nach Versand ins Fristenbuch muss?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 130a ZPO — Elektronisches Dokument: Anforderungen an Inhalt und Uebermittlungsweg
 - § 174 ZPO — Zustellungen von Anwalt zu Anwalt: Empfangsbekenntnis und Fristen
@@ -86,3 +83,5 @@ Messenger nur für geeignete Inhalte nutzen. Bei Fristen, vertraulichen Dokument
 ## Ausgabe
 
 `assets/templates/output-versandprotokoll.md` verwenden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

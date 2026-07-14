@@ -113,7 +113,6 @@ FINANZIERUNG
 
 ## Aktuelle Leitentscheidungen — Integrierte Planung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - IDW S 6 — Anforderungen an Sanierungskonzepte, aktuelle Fassung 2023; integrierte Unternehmensplanung als Kernbaustein jedes belastbaren Sanierungskonzepts.
 
@@ -128,3 +127,5 @@ FINANZIERUNG
 3. **Szenarien?** Base-Case, Best-Case, Worst-Case durchgerechnet?
 4. **Saldo-Check?** Integrierte Planung muss bilanziell schliessen (Bilanzsumme immer ausgeglichen).
 5. **Sanierungsbezug?** Jede tragende Planverbesserung muss auf Ursache, Maßnahme, Timing und Beleg zurückgeführt werden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

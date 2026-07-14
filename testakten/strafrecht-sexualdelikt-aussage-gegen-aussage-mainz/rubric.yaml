@@ -1,4 +1,5 @@
 name: strafrecht-sexualdelikt-aussage-gegen-aussage-mainz
+plugin: "fachanwalt-strafrecht"
 description: Sensible Sexualstrafsache aus Mainz mit Aussagekonstanz, Chatkontext, Nebenklage, Schutzinteressen
   und sachverständiger Aussageanalyse ohne Vorfestlegung.
 checks:

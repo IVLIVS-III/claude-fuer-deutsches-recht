@@ -216,7 +216,6 @@ Das Ausgabedokument ist eine **juristische Stellungnahme im Gutachtenstil** und 
  (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
 4. **Ampel-Ergebnis** je Woche mit rechtlicher Bewertung (GRÜN/GELB/ROT + Begründung)
 5. **Stundungsabzüge und Streitforderungen** — Einzelauflistung aller herausgerechneten Verbindlichkeiten, aller streitigen Passiva und aller Titel mit Bestand, Fälligkeit, Vollstreckungsstand und Begründung
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **24-Monats-Vorschau** (sofern Fortbestehensprognose zu beurteilen) — monatlicher
  Cashflow, Prämissenblatt, Szenarioanalyse
 7. **Rechtliche Subsumtion** — Abschließende Einordnung: liegt § 17 InsO vor, wenn ja
@@ -268,7 +267,6 @@ Forderungseingänge 14.300 EUR. Summe verfügbarer Mittel: 23.700 + 14.300 = **3
 
 *III. Fällige und binnen 3 Wochen fällig werdende Verbindlichkeiten (Passivseite):*
 Fällige Verbindlichkeiten 87.400 EUR abzüglich dokumentierte Stundung Fischer
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 binnen-3-Wochen-Verbindlichkeiten 34.600 EUR. Passivseite gesamt: **117.800 EUR**.
 
 *IV. Liquiditätslücke:*
@@ -276,13 +274,11 @@ binnen-3-Wochen-Verbindlichkeiten 34.600 EUR. Passivseite gesamt: **117.800 EUR*
 
 *V. Ampel-Bewertung:*
 Die Liquiditätslücke beträgt 67,7 % und liegt damit weit über dem Schwellenwert von
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 binnen drei Wochen ist angesichts der abgelehnten Kreditlinienerweiterung, des hohen
 SV-Rückstands und des begrenzten Auftragsbestands nicht überwiegend wahrscheinlich.
 **Ergebnis: ROT — Zahlungsunfähigkeit nach § 17 InsO liegt vor.**
 
 *VI. Zeitpunkt der Zahlungsunfähigkeit:*
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 SV-Beiträge Februar 2025, die am 28.02.2025 fällig waren; Überziehung der KK-Linie
 auf 92 % bereits seit Januar 2025 laut Kontoauszügen) ist Zahlungsunfähigkeit nicht
 erst am 10.03.2025, sondern spätestens **Ende Februar 2025** eingetreten. Die
@@ -299,7 +295,6 @@ begeht einen methodischen Fehler.
 
 **2. Unkritische Übernahme von Stundungsbehauptungen**
 Die bloße Duldung durch einen Gläubiger (kein Mahn-, kein Vollstreckungsschreiben)
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 nachweis führt zur Aufnahme der Position in die Passivseite.
 
 **2a. Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) fälschlich als Stundung werten**
@@ -370,3 +365,5 @@ Bevor losgelegt wird, klaere:
 3. **Zeitraum?** 3 Wochen (akute ZU-Prüfung), 13 Wochen (operativer Forecast), 12-24 Monate (Fortbestehensprognose).
 4. **Eingabedaten?** Offene Posten (OPOS), Bankkontoauszuege, Steuer- und SV-Verbindlichkeiten.
 5. **Stichtag?** Für InsO-Verfahren muss Stichtag tag-genau sein.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

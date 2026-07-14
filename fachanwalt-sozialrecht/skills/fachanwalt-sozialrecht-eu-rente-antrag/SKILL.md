@@ -114,12 +114,10 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 3. **Sprachkenntnis nicht beachtet** Auslands-Bescheid
 4. **Verjaehrung Renten-Antrag** unbeachtet
 
-## 9) BSG-Linien und aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Anschluss
 
 - `fachanwalt-sozialrecht-orientierung` — Triage
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei vorgelagertem KG
 - `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Gerichts-Frage Ausland
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

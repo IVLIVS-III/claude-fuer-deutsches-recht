@@ -16,8 +16,6 @@ description: "Wenn es um Rechtsprechungsrecherche in Großkanzlei Corporate/M&A 
 
 **Fokus:** Corporate und M&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. Paragraf 93 und 179a AktG, Paragraf 15 AktG Verfahren. Prüfraster amtliche Bundes- und Landesquellen, Aktenzeichen-Verifizierung, Randnummern, Fundstellen-Kette, aktuelle BGH-Senats-Rechtsprechung. Output Rechtsprechungs-Digest mit Datum, Aktenzeichen, Leitsatz und Deal-Relevanz. Abgrenzung zu inhaltlicher Vertragsgestaltung in SPA/APA-Entwurf und zu Board-Paper.
 
-### Corporate-Rechtsprechungsrecherche
-
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate-Rechtsprechungsrecherche` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
@@ -120,8 +118,6 @@ Nach diesem Skill weiter mit:
 Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
-
-### Corporate-Rechtsprechungsrecherche
 
 ## Arbeitsmodus
 

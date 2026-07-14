@@ -43,7 +43,6 @@ AGB-Kontrolle nach §§ 305–310 BGB:
 - Einbeziehungsvoraussetzungen (§ 305 Abs. 2 BGB) prüfen
 - Überraschende Klauseln (§ 305c BGB)
 - Transparenzgebot (§ 307 Abs. 1 S. 2 BGB)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei B2B: § 310 Abs. 1 BGB – eingeschränkte Kontrolle, aber § 307 BGB gilt
 
 ### Schritt 2: Standard-Playbook-Prüfung
@@ -79,7 +78,6 @@ Prüfen und mit CLAUDE.md vergleichen:
 | Überverbrauch-Preise | Veröffentlichte Preisliste / Prämienrate / undefiniert |
 | Umfang "Vergütung" | nur Abonnement / "Zusatzleistungen" weit definiert |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 3.3 Datenportabilität und Exit
 
@@ -137,6 +135,7 @@ Falls Vertragsstrafe (z. B. bei SLA-Verstößen oder Datenschutzverstößen) ver
 - Verhältnis zur Haftungsklausel: Ist die Vertragsstrafe auf den Haftungsdeckel angerechnet?
 - Kumulationsproblem: Mehrere Vertragsstrafen-Tatbestände?
 
+```markdown
 ## Zusammenfassung
 
 [3–5 Sätze: Was ist das Wichtigste, was muss der Anwalt wissen?]
@@ -183,10 +182,8 @@ Zitierweise nach `../references/zitierweise.md`.
 
 Normen und Rspr.:
 - §§ 305–310 BGB – AGB-Recht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 309 Nr. 7 BGB – Haftungsausschlussverbote
 - § 309 Nr. 9 BGB – Vertragslaufzeit
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Art. 28 DSGVO – AVV; Art. 82 DSGVO – Datenschutz-Schadensersatz
 - § 339 BGB – Vertragsstrafe; § 343 BGB – Herabsetzung
 
@@ -201,3 +198,5 @@ Kommentare:
 - **Credit-als-einzige-Abhilfe + Null-Haftung:** Wechselwirkung ergibt de-facto-Haftungsausschluss; im B2C regelmäßig unwirksam nach § 307 BGB.
 - **CISG-Abwahl vergessen:** Falls der SaaS-Anbieter im Ausland sitzt, CISG ausschließen.
 - **Berufsrechtlicher Hinweis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -157,10 +157,6 @@ Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klausel
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Aktuelle Leitentscheidungen — Forderungsverzicht und Besserungsschein
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Forderungsverzicht
 
 § 19 Abs. 2 InsO (Ueberschuldungsbereinigung) → § 3a EStG (steuerfreier Sanierungsgewinn) → § 397 BGB (Erlass/Verzicht) → § 158 BGB (haengende Bedingung Besserungsschein) → § 133 InsO (Anfechtungsrisiko bei selektivem Verzicht)
@@ -171,3 +167,5 @@ Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klausel
 2. **Steuerliche Folge?** Sanierungsgewinn § 3a EStG: Nachweise Sanierungsplan, Sanierungsabsicht, Sanierungseignung vorbereiten.
 3. **Besserungsschein-Formulierung?** Bedingung klar definiert (Wiederherstellung ZF anhand konkreter Liquiditaets-Schwelle).
 4. **Anfechtungsschutz?** Verzicht muss Teil eines Gesamtsanierungskonzepts sein (IDW S 6 Qualitaet) um Vorsatzanfechtung § 133 InsO auszuschliessen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

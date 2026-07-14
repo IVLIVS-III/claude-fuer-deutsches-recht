@@ -30,14 +30,6 @@ Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshan
 
 § 129 InsO (Grundtatbestand) — § 130 InsO (kongruente Deckung) — § 131 InsO (inkongruente Deckung) — § 132 InsO (unmittelbar nachteilige Rechtshandlung) — § 133 InsO (Vorsatzanfechtung) — § 134 InsO (unentgeltliche Leistung) — § 142 InsO (Bargeschäftsprivileg) — § 143 InsO (Rechtsfolge Rückgewähr) — § 27 InsO (Verfahrenseröffnung)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Tatbestandsmerkmale § 129 Abs. 1 InsO
 
 ### 1. Rechtshandlung
@@ -102,3 +94,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

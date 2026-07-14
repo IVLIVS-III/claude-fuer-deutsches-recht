@@ -31,16 +31,23 @@ def zip_entries(zip_path: Path) -> list[str]:
         fail(f"{zip_path}: empty ZIP")
     try:
         with zipfile.ZipFile(zip_path) as archive:
-            bad = archive.testzip()
-            if bad is not None:
-                fail(f"{zip_path}: corrupt member {bad}")
             names = [n.replace("\\", "/") for n in archive.namelist() if not n.endswith("/")]
             for n in names:
                 if not n.lower().endswith(".pdf"):
                     fail(f"{zip_path}: non-PDF entry {n}")
+                parts = Path(n).parts
+                if Path(n).is_absolute() or ".." in parts:
+                    fail(f"{zip_path}: unsafe member path {n}")
             for info in archive.infolist():
-                if not info.filename.endswith("/") and info.file_size <= 0:
+                if info.filename.endswith("/"):
+                    continue
+                if info.file_size <= 0:
                     fail(f"{zip_path}: empty member {info.filename}")
+                if info.flag_bits & 0x1:
+                    fail(f"{zip_path}: encrypted member {info.filename}")
+                data = archive.read(info)
+                if not data.startswith(b"%PDF-") or b"%%EOF" not in data[-2048:]:
+                    fail(f"{zip_path}: member is not a complete PDF: {info.filename}")
             return sorted(names)
     except zipfile.BadZipFile as exc:
         fail(f"{zip_path}: invalid ZIP: {exc}")

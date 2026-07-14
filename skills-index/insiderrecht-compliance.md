@@ -1,6 +1,6 @@
 # insiderrecht-compliance
 
-**111 Skills** · Stand `v431.0.0`
+**111 Skills** · Stand `v432.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insiderrecht-compliance/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

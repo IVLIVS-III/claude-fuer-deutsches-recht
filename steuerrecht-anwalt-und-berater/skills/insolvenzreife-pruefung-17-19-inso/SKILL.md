@@ -313,6 +313,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - EStG § 41a
 - SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
 - SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 11 (Insolvenzeröffnungsgründe)
 - IDW S 6 (Sanierungskonzept)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

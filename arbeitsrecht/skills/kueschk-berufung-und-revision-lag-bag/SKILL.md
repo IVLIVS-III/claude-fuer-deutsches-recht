@@ -42,10 +42,6 @@ description: "Wenn es um Kueschk Berufung Und Revision Lag Bag in Arbeitsrecht g
 - Paragraf 74 ArbGG — Revisionsfristen (1 Monat/2 Monate)
 - Paragraf 12a ArbGG — Keine Kostenerstattung erste Instanz; ab LAG gilt ZPO-Kostenrecht
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zweite Instanz — Berufung beim Landesarbeitsgericht (LAG)
 
 ### Voraussetzungen der Berufung
@@ -143,3 +139,5 @@ In Kündigungsschutzfällen endet der Streit meist in erster oder zweiter Instan
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

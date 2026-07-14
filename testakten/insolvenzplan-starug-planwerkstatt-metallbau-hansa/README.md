@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 252 KB) | PDF | [`gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf`](gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 288 KB) | PDF | [`gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf`](gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa-einzelpdfs.zip) |
 
@@ -122,5 +122,3 @@ Diese Akte zeigt den gesamten Workflow der Insolvenzplan- und StaRUG-Planwerksta
 10. **Planvollzug:** Wie sieht ein realistischer Planvollzugskalender über vier Jahre aus?
 
 ---
-
-## Disclaimer

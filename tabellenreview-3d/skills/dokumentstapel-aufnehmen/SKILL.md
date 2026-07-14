@@ -14,7 +14,6 @@ description: "Wenn es um /tabellenreview-3d:dokumentstapel-aufnehmen in Tabellen
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingabequellen
 
@@ -59,3 +58,5 @@ description: "Wenn es um /tabellenreview-3d:dokumentstapel-aufnehmen in Tabellen
 ## Grenzen
 
 Klassifikation ist heuristisch. Bei Konfidenz unter 80 Prozent fragt der Skill zurück. OCR-Qualität hängt vom Scan ab. Belegkette ist nur so gut wie die OCR-Konfidenz.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

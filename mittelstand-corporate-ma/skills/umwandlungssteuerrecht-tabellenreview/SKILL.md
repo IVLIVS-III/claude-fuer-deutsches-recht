@@ -133,10 +133,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 1 Abs. 2a, 2b GrEStG — Grunderwerbsteuer-Ergaenzungstatbestand: 90 % Anteilsuebergang an grundbesitzender Gesellschaft loest GrESt aus; Steuersatz je nach Bundesland 3,5-6,5 %
 - § 3a EStG — steuerfreier Sanierungsertrag bei Forderungsverzicht im Sanierungsplan; Voraussetzungen: Sanierungsabsicht, Sanierungseignung, Sanierungsbeitraege aller Gläubiger
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielstruktur mit Corporate-Team abstimmen:** welche Umwandlungsform (Verschmelzung, Ausgliederung, Formwechsel) ist beabsichtigt?
@@ -197,3 +193,5 @@ Offene Fragen an Steuerteam: [konkrete Frage] — Verantwortlich: [Name] — Fri
 
 - assets/templates/steuerliche-strukturmatrix.md
 - assets/templates/umwandlungssteuer-checkliste.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

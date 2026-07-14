@@ -172,7 +172,6 @@ Begründung:
 1. BauGB-Privilegierung
    Die Futtergrundlage des Betriebs beläuft sich auf
    [ha], was [%] des Jahresbedarfs deckt. Damit ist
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    Der Bescheid verkennt die Berechnung.
 
 2. UVP-Vorprüfung
@@ -201,7 +200,6 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 ## Beweislast und Darlegungslast
 
 - **Antragsteller** muss alle Voraussetzungen durch Gutachten belegen; Behörde entscheidet auf Basis der vorgelegten Unterlagen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei UVP-Fehler: Verfahrensfehler ist selbstständiger Aufhebungsgrund nach § 4 UmwRG ohne Kausalitätsnachweis.
 
 ## Fristen
@@ -255,13 +253,12 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 - TierSchG § 2
 - TierSchNutztV
 - § 34 BNatSchG (FFH-Verträglichkeit)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Jarass BImSchG-Kommentar; Koch/Pache Immissionsschutzrecht
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

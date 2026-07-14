@@ -45,16 +45,11 @@ Bevor losgelegt wird, klaere:
 3. Richtet sich die Wirkung gegen den Staat (vertikale Direktwirkung) oder zwischen Privaten (horizontale Direktwirkung — sehr begrenzt)?
 4. Ist der nationale Richter verpflichtet, entgegenstehendes nationales Recht unangewendet zu lassen (Vorrangpflicht)?
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Vorrang / Unmittelbare Wirkung
 
 - **Art. 288 AEUV** — Verordnung (allg. verbindlich und unmittelbar anwendbar), Richtlinie (Umsetzungspflicht), Beschluss
 - **Art. 4 Abs. 3 EUV** — Unionsreue; nationales Gericht muss EU-Recht vollen Vorrang sichern
 - **Art. 19 EUV** — Effektiver Rechtsschutz; nationales Gericht als Erstgericht EU-Recht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Output-Template: Vorrang-Kurzpruefung
 
@@ -89,3 +84,5 @@ Kausalitaet: [gegeben / fraglich]
 E. NAECHSTE SCHRITTE
 [...]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

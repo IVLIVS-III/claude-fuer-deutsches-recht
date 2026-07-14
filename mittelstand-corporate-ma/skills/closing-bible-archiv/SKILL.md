@@ -131,10 +131,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 41 GmbHG — Pflicht zur Buchfuehrung nach Registereintragung
 - § 179 AktG — Satzungsaenderung erfordert notarielle Beurkundung und HR-Anmeldung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
@@ -207,3 +203,5 @@ TAB D — POST-CLOSING OBLIGATIONS
 
 - assets/templates/closing-bible-index.md
 - assets/templates/closing-deliverables-register.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

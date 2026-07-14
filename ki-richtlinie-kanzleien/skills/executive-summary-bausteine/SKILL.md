@@ -84,9 +84,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Die Eckpunkte sind zu überarbeiten, wenn neue BRAK-Hinweise oder DAV-Stellungnahmen veröffentlicht werden oder wenn die KI-VO durch Durchführungsrechtsakte konkretisiert wird. Auch neue Gerichtsentscheidungen zur Haftung bei KI-Nutzung können eine Anpassung erforderlich machen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - § 43a Abs. 2 BRAO — Verschwiegenheit (Kern jedes Executive Summary)
 - Art. 28 DSGVO — AVV-Pflicht (kein Einsatz ohne AVV)
@@ -139,3 +136,4 @@ Vollstaendige Richtlinie: [REFERENZ]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

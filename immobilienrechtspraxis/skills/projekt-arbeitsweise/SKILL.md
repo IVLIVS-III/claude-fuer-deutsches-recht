@@ -165,8 +165,6 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
  wurden im Projekt Erbpacht Tegel zwischen Januar und März
  angewandt?"
 
-## Aktuelle Rechtsprechung — Projekt-relevante Normen
-
 ## Paragrafenkette Projekt-Setup
 
 - Mandatsdokumentation: BRAO § 43, BORA § 1 ff.

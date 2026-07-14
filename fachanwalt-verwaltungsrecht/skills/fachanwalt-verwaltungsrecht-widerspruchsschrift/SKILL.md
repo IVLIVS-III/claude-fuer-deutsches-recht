@@ -305,15 +305,12 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `energieanlagen-bimschg-genehmigung-verfahren` — Widerspruch gegen BImSchG-Bescheid
 - `energietrassen-planfeststellung-rechtsschutz` — Einwendungen im Planfeststellungsverfahren
 
-## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen
 
 - VwGO §§ 42, 58, 68–79, 80, 113, 114
 - VwVfG §§ 28, 35, 39, 40, 41, 43, 44, 45, 80
 - GKG § 52
 - RVG Nr. 2300 VV
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

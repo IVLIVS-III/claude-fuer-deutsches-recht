@@ -59,19 +59,13 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Paragraf 26 BDSG / Art. 6 Abs. 1 lit. b, c DSGVO — Beschäftigtendatenschutz
 - Paragraf 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei Einführung des Erfassungssystems
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt 1 — Rechtliche Grundlage Arbeitszeit-Erfassung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **14.5.2019**
 - **Mitgliedstaaten müssen** Arbeitgeber zur Einrichtung eines objektiven verlässlichen zugänglichen Systems zur Erfassung der gesamten Arbeitszeit verpflichten
 - Begründung: Effektivität der Arbeitszeit-Richtlinie 2003/88/EG (Höchst-Arbeitszeit Ruhezeiten)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Auslegung Paragraf 3 Abs. 2 Nr. 1 ArbSchG**
 - Bereits geltendes Recht: Arbeitgeber **muss** Arbeitszeit erfassen
@@ -96,7 +90,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Beweis-Erleichterung Mindestlohn-Klage
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Bei fehlender Erfassung** Arbeitnehmer-Vortrag ausreichend wenn substantiiert
 - **Arbeitgeber muss** Gegen-Vortrag bringen
 - Praktisch: Beweis-Umkehrungs-ähnliche Wirkung
@@ -147,12 +140,10 @@ Beispiel:
 ### Was zählt zur Arbeitszeit
 
 - **Tätigkeits-Zeit** am Arbeitsplatz
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Pausen** wenn Mandant arbeitsbereit (echte Pause nicht)
 
 ### Was nicht zählt
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Echte Pausen** ohne Arbeitsbereitschaft
 
 ### Bereitschaftsdienst vs. Rufbereitschaft
@@ -217,7 +208,6 @@ Beispiel:
 
 ```
 Besteht ein Zeiterfassungssystem?
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  (objektiv, verlässlich, zugänglich, gesamte Arbeitszeit)
  Ja → Aufbewahrung 6 Jahre Paragraf 17 MiLoG gewährleistet?
  Ja → OK
@@ -363,7 +353,6 @@ diesen Zeitraum das Mindestlohnversprechen verletzt.
 
 Die Beklagte fuehrte kein objektives verlaessliches
 zugaengliches Arbeitszeit-Erfassungs-System
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Die Klaeger/in hat ihre Stunden dokumentiert
 (Anlage K1).
 
@@ -424,5 +413,4 @@ Wir empfehlen folgende Sofortmassnahmen:
 - BDSG Paragraf 26
 - DSGVO Art. 6
 - AO Paragraf 147
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

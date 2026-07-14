@@ -109,12 +109,10 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 3. **Gegendarstellung zu lang**
 4. **Schmaeh in Gegendarstellung** -> Ablehnung
 
-## 8) BGH-Linien und aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Anschluss
 
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — bei verbundener Frage
 - `gegendarstellung-presse` (Power-Tool) — Prüfraster
 - `fachanwalt-urheber-medienrecht-filesharing-verteidigung` — bei anderer Streitart
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

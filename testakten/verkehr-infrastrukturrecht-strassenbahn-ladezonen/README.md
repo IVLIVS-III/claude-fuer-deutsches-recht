@@ -140,5 +140,3 @@ Diese Akte zeigt das Zusammenspiel mehrerer öffentlich-rechtlicher Verfahren be
 8. **Rechtsschutz:** Widerspruch, Drittanfechtungsklage, aufschiebende Wirkung von Klagen gegen Planfeststellungsbeschlüsse (§ 80 VwGO).
 
 ---
-
-## Disclaimer

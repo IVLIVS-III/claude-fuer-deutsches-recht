@@ -33,9 +33,6 @@ description: "Wenn es um Darlehensbetrag und Konditionen in Wandeldarlehen-Leben
 - § 44 InsO, § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln)
 - §§ 3, 4 StaRUG (Einschränkung Kündigungsrechte im Restrukturierungsrahmen)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Darlehensbetrag festhalten
@@ -81,14 +78,8 @@ Stand: 05/2026. Bei Änderung BGB-Darlehensrecht aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 §§ 488, 491 ff. BGB (Darlehensvertrag) → § 490 BGB (Kündigung, vertraglich ausgeschlossen) → § 314 BGB (Kündigung wichtiger Grund, unberührt) → § 138 BGB (Sittenwidrigkeit überhöhter Zins) → §§ 135, 143 InsO (Anfechtung Rückzahlung Gesellschafterdarlehen) → § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln) → §§ 3, 4 StaRUG (Restrukturierungsrahmen)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

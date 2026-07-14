@@ -152,7 +152,6 @@ Berechnung der Liquiditätsquote:
 Eine Quote ≥ 100 % schließt Zahlungsunfähigkeit aus. Eine Quote zwischen 90 % und 99 %
 (Unterdeckung < 10 %) begründet bei kurzfristiger Behebbarkeit nur Zahlungsstockung.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Unterdeckung < 10 % und Beseitigung innerhalb 3 Wochen absehbar → Zahlungsstockung,
  keine Zahlungsunfähigkeit
 - Unterdeckung < 10 %, aber Beseitigung nicht innerhalb 3 Wochen → Zahlungsunfähigkeit
@@ -284,7 +283,6 @@ Betrachtung führt zu Fehlsubsumtionen.
 
 Jedes auf diesem Skill basierende Gutachten muss mindestens folgende Quellen ausweisen:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 5 ff., 22 ff., 32
 - IDW S 11 (Stand 12.08.2021), Tz. 16 f., 31–37

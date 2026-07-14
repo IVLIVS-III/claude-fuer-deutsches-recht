@@ -23,9 +23,6 @@ Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt
 3. Ist die Anfrage nicht auf Deutsch — andere Anredekonventionen (EN, FR, IT) beachten?
 4. Handelt es sich um eine Erbengemeinschaft, ein Ehepaar oder eine juristische Person mit besonderer Anredeform?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 2 BORA — Gewissenhaftigkeit: korrekte Mandantenkommunikation als Grundpflicht
 - Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG — Allgemeines Persoenlichkeitsrecht: korrekte Namens- und Titelanrede ist Teil des Persoenlichkeitsschutzes
@@ -126,3 +123,5 @@ Hierarchie der Titelführung nach deutschem Recht:
 ## Quellenkontrolle
 
 Für Eingang, Weiterleitung und Antwort einer Mandantenanfrage zuerst Mandatsstatus, Interessenkollision, Verschwiegenheit, Datenschutz und laufende Fristen bestimmen. Paragraf 43a BRAO, Paragraf 2 BORA, Paragraf 203 StGB und Artikel 5, 6 und 32 DSGVO nur nach konkreter Datenverarbeitung anwenden. Rechtsprechung gehört nur dann in das Arbeitsergebnis, wenn ihre tragende Aussage die konkrete Anfrage tatsächlich entscheidet.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -1,4 +1,5 @@
 name: strafrecht-korruption-bauamt-vergabestelle-muenchen
+plugin: "fachanwalt-strafrecht"
 description: Korruptionsakte aus einer kommunalen Vergabestelle mit drei Zuschlaegen knapp unter der internen Kontrollschwelle,
   Einladungsvorteilen und einer als Beratungshonorar getarnten Zahlung; Kern ist der zeitliche Abgleich von Zuschlagsliste,
   Kalender und Kontobewegungen zur Ableitung der Unrechtsvereinbarung und der Vorteilssumme.

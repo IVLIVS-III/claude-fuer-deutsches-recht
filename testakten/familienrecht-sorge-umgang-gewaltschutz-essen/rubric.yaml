@@ -1,4 +1,5 @@
 name: familienrecht-sorge-umgang-gewaltschutz-essen
+plugin: "fachanwalt-familienrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte familienrecht-sorge-umgang-gewaltschutz-essen.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

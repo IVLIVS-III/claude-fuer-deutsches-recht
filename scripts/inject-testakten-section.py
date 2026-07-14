@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Entfernt den frueher autogenerierten '<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->'-
-Block aus allen Plugin-READMEs. Plugin-READMEs erhalten ihre Testakten-Auflistung
-inzwischen ausschliesslich aus 'scripts/inject-plugin-sofort-download-section.py'.
+Block aus allen Plugin-READMEs. Plugin-READMEs erhalten ihre Download-Auflistung
+inzwischen ausschließlich aus 'scripts/inject-direkt-loslegen-section.py'.
 
 Dieses Skript dient nur noch der Bereinigung: Wenn ein alter Block irgendwo
 zurueckkehrt (z. B. durch Wiedereinspielen alter Skripte), entfernt der Aufruf

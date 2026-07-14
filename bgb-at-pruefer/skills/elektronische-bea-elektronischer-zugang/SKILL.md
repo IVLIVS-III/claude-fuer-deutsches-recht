@@ -22,7 +22,6 @@ description: "Wenn es um Elektronische Form BeA QES Formfiktion in BGB AT Prüfe
 - § 173 ZPO: elektronische Zustellung auf sicherem Übermittlungsweg
 - § 186 ZPO: Anwalt-zu-Anwalt-Zustellung, auch elektronisch mit eEB
 - § 46c, § 46g, § 46h ArbGG als arbeitsgerichtliche Parallelstruktur
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Intake
 
@@ -48,11 +47,9 @@ description: "Wenn es um Elektronische Form BeA QES Formfiktion in BGB AT Prüfe
 
 ## BGH-Kernlinien
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ein qES-Schriftsatz konnte vor § 130e ZPO nur dann als formgerechte empfangsbedürftige Willenserklärung zugehen, wenn die qualifizierte elektronische Signatur für den Empfänger prüfbar elektronisch erhalten blieb. Die bloße sichere Übermittlung aus dem beA zum Gericht ersetzte diese Verifikationsfunktion gegenüber dem materiell-rechtlichen Empfänger nicht.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ein Ausdruck eines qES-Dokuments mit Transfervermerk nach § 298 Abs. 3 ZPO wahrt den formgerechten Zugang nicht. Der Empfänger muss die elektronische Signatur selbst prüfen können; Papier macht aus der qES-Datei keine formgerechte elektronische Erklärung.
 
@@ -87,3 +84,5 @@ Ein aus dem eigenen beA versandter und einfach signierter Schriftsatz kann § 13
 - schriftform-und-textform-bgb: elektronische-form-paragraph-126a-bgb-qes
 - schriftform-und-textform-bgb: kuendigung-per-schriftsatz-zustellung-formfragen
 - prozessrecht
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

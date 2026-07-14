@@ -19,9 +19,6 @@ description: "Wenn es um UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung in Ka
 3. Gibt es ungeklärte Buchungsposten oder fehlende Belege, die vor der UStVA-Vorbereitung geklaert werden müssen?
 4. Soll die Übergabe an ELSTER, Steuerkanzlei oder an eine Buchhaltungssoftware erfolgen?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 18 UStG — Voranmeldungspflicht; Abgabefrist 10. des Folgemonats
 - § 14 UStG — Pflichtangaben auf Rechnungen; Vorsteuerabzug
@@ -98,3 +95,5 @@ Für jede Eingangsrechnung erfassen:
 - `assets/templates/ustva-elster-simulation.md`, wenn nur geübt wird.
 - Bei Rechnungen zusätzlich `assets/templates/gobd-rechnungsprotokoll.md`.
 - Bei Kontenabgleich zusätzlich `assets/templates/offene-posten-debitoren.md` und `assets/templates/zahlungseingang-matching.md`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

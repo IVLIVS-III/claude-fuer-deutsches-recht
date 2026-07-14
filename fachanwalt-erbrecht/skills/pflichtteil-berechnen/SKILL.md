@@ -163,12 +163,10 @@ Pflichtteilsquote = 1/2 × gesetzlicher Erbteil
 
 ### Ausnahme: Ehegatte-Schenkungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schenkung an Ehegatte vor 30 Jahren ist relevant wenn Ehe bei Tod noch bestand
 
 ### Ausnahme: Schenkung unter Nießbrauchsvorbehalt
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Erblasser verschenkt Immobilie aber behält lebenslangen Nießbrauch → Frist ab Tod/Aufgabe Nießbrauch
 
 ### Bewertung der Schenkung § 2325 Abs. 2 BGB
@@ -355,7 +353,8 @@ III. Zahlungsstufe:
 
 - BGB §§ 2303–2338, 2346, 1924 ff., 1371
 - ZPO § 254
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Burandt/Rojahn Erbrecht
 - Stand: 05/2026
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

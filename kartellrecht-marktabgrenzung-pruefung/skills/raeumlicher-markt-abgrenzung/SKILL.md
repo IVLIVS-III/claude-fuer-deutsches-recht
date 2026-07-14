@@ -86,6 +86,6 @@ Bewertung: [korrekt / zu eng / zu weit]
 
 ## Leitentscheidungen Raeumlicher Markt
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 70-90 — Raeumliche Abgrenzung Methodik; Preiskorrelation, Handelsstroeome, regulatorische Grenzen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -19,9 +19,6 @@ description: "Wenn es um Audit und interne Revision in Geldwäscheprävention, A
 3. Welche Aufsichtsbehoerde und welche Berichtspflichten bestehen (BaFin, Staatsanwaltschaft, AMLA)?
 4. Welcher Zeitraum und welche Stichprobenmenge sollen erfasst werden?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: Pflicht zur internen Revision
 - § 7 GwG — Geldwäschebeauftragter und Berichtspflichten an Geschäftsleitung
@@ -50,3 +47,5 @@ description: "Wenn es um Audit und interne Revision in Geldwäscheprävention, A
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

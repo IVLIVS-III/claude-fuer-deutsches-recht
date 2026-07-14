@@ -27,7 +27,6 @@ Die Antwort ist ernüchternd ehrlich: Tastmarken sind rechtlich kaum eintragbar,
 ### Markenrecht (Eintragungsversuch)
 - **§ 3 I MarkenG / Art. 4 UMV:** Markenfähigkeit offen für jede Art von Zeichen — Tasteindrücke sind abstrakt denkbar
 - **§ 8 II Nr. 1 MarkenG n.F. / Art. 4 UMV:** Seit UMV-Reform 2017 keine grafische Darstellbarkeit mehr erforderlich — "klare und eindeutige" Darstellung genügt
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **USPTO US-Marke 3.896.100 (David Yurman — Fabrikgewebe-Haptik):** US-Trademark für die haptische Wahrnehmung eines geflochtenen Kabelmusters auf Schmuckstücken — eingetragen mit Nachweis von Secondary Meaning. Zeigt: In den USA ist Haptik-Marke theoretisch möglich (vgl. Skill `us-trade-dress-und-secondary-meaning`)
 - **DPMA-Praxis:** Sehr restriktiv; keine bekannte erfolgreiche Tastmarken-Eintragung in Deutschland
@@ -157,8 +156,4 @@ Bevor der Schutzweg gewaehlt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

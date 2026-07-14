@@ -19,9 +19,6 @@ description: "Wenn es um Fallbearbeitung im Gutachtenstil in Jurastudium geht: p
 3. Gibt es spezifische Anspruchsgrundlagen oder Streitstaende, die besonders durchgearbeitet werden sollen?
 4. Soll das Ergebnis als Lernuebung (mit Rueckfragen) oder als fertiges Gutachten ausgegeben werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 433-453 BGB — Kaufrecht: Standardkomplex für Zivilrecht-Gutachten
 - §§ 241-304 BGB — Leistungsstoerungsrecht: Kern-Anspruchsgrundlagen
@@ -125,7 +122,6 @@ Beispiel-Korrektur:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 **Leitentscheidungen (Beispiele für häufige Streitstände):**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiel
 
@@ -166,3 +162,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Konkurrenzfragen nicht lösen:** Wenn § 823 Abs. 1 BGB und §§ 437, 280 BGB nebeneinander bestehen, dies kurz konstatieren (kumulative Anspruchskonkurrenz).
 - **Zu lange Obersätze:** Der Obersatz soll die Rechtsfolge benennen, nicht die gesamte Prüfung vorwegnehmen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

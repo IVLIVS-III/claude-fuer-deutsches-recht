@@ -1,4 +1,5 @@
 name: strafrecht-urkundenfaelschung-au-pflegedienst-bremen
+plugin: "fachanwalt-strafrecht"
 description: Urkundenfälschungs- und Betrugsverdacht um veränderte Arbeitsunfähigkeitsnachweise in einem ambulanten
   Pflegedienst mit Praxissoftware-Spuren und arbeitsrechtlichen Folgen.
 checks:

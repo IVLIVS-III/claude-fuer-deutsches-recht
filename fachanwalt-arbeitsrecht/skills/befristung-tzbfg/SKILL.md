@@ -34,7 +34,6 @@ description: "Wenn es um Befristungskontrolle und Befristungsgestaltung nach TzB
 
 ## Rechtsgrundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Sachgrundbefristung:** Paragraf 14 Abs. 1 TzBfG, sachliche Gründe in S. 2 Nr. 1 bis 8.
 - **Sachgrundlos:** Paragraf 14 Abs. 2 TzBfG — bis zu zwei Jahre, höchstens dreimalige Verlängerung in dieser Zeit.
 - **Form der Befristungsabrede:** Paragraf 14 Abs. 4 TzBfG verlangt weiterhin Schriftform. Zulässig sind Papieroriginal mit eigenhändiger Unterschrift beider Parteien (Paragraf 126 BGB) oder echte qES beider Parteien (Paragraf 126a BGB). Textform, E-Mail, PDF-Scan, einfache Signatur und fortgeschrittene Signatur ohne qualifiziertes Zertifikat genügen nicht.
@@ -129,3 +128,5 @@ Rechtliche Bewertung:
 - Paragraf 126a BGB — elektronische Form nur bei echter qualifizierter elektronischer Signatur beider Parteien
 - Paragraf 17 TzBfG — Befristungskontrollklage (Frist drei Wochen ab vereinbartem Ende)
 - Paragraf 16 TzBfG — Rechtsfolge Unwirksamkeit: Arbeitsverhältnis gilt als unbefristet geschlossen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

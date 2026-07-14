@@ -196,9 +196,6 @@ Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte b
 
 Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. automatische Mandatszuordnung, Dokumentenpriorisierung) steigt die Relevanz des Art. 22 DSGVO. Neue EuGH- oder BGH-Entscheidungen zur Auslegung von Art. 22 DSGVO sowie Leitlinien des Europäischen Datenschutzausschusses (EDSA) sind regelmäßig zu prüfen.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
 - Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
@@ -244,6 +241,8 @@ Geprueft von: [NAME], [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -674,9 +673,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäische KI-Büro oder Gerichte ist zu beobachten. Ebenso entwickeln Berufsverbände (z.B. Presserats-Äquivalente für juristische Veröffentlichungen) möglicherweise eigene Standards zur Kennzeichnung.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)
 - Art. 50 Abs. 4 KI-VO — Kennzeichnung synthetischer Inhalte (Deepfake)
@@ -728,6 +724,8 @@ Internes Kennzeichnungs-Symbol: [SYMBOL / TAG z.B. [KI-draft]]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -893,9 +891,6 @@ Beim Einsatz von Hochrisiko-KI-Systemen im Personalwesen sind gemäß Art. 26 Ab
 
 Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsakte der EU-Kommission und durch Leitlinien des Europäischen KI-Büros ist bis zum 2. August 2026 zu verfolgen. Ebenso sind BAG- und Landesarbeitsgericht-Entscheidungen zur Zulässigkeit von KI-Systemen im Personalwesen zu beobachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko-Kategorie: Beschäftigung, Personalmanagement und Zugang zur Selbstständigkeit
 - Art. 26 KI-VO — Betreiberpflichten bei Hochrisiko-KI Personalwesen
@@ -945,6 +940,8 @@ Verantwortlicher: [NAME], [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1188,9 +1185,6 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 - **GPAI Code of Practice:** Bei Nutzung von GPAI-Diensten (z.B. LLM-Chatbots) Anbieter-Code-of-Practice-Anschluss prüfen — kann für Kanzlei Dokumentations- und Sorgfaltsnachweise erleichtern.
 - **DORA / NIS-2:** Bei IT-Sicherheits- oder Cyber-Risiken im KI-Betrieb der Kanzlei parallel die einschlaegigen IT-Sicherheits-Regelwerke beachten (BSIG n. F., Art. 32 DSGVO).
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
 - Art. 29 KI-VO — Weitere Betreiberpflichten (Datenverwaltung, Anleitung-Einhaltung)
@@ -1228,6 +1222,8 @@ Art. 27 KI-VO — FRIA:
 Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
 Verantwortlicher: [NAME], [DATUM]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1324,9 +1320,6 @@ Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person au
 
 Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die Kanzlei sollte halbjährlich prüfen, ob neue oder verbesserte Tools zur Verfügung stehen. Ebenso sind neue Datenschutzbehörden-Empfehlungen zur Anonymisierung zu beachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 Nr. 1 DSGVO — Begriff personenbezogene Daten
 - Art. 4 Nr. 5 DSGVO — Pseudonymisierung
@@ -1380,6 +1373,8 @@ DSGVO anwendbar: [JA / NEIN]
 ## Quellenkontrolle
 
 Die Richtlinie muss Berufsrecht, Verschwiegenheit, Datenschutz, Arbeitsrecht und technische Organisation getrennt abbilden. Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 203 StGB sowie Artikel 5, 28 und 32 DSGVO nur für den jeweils geregelten Vorgang verwenden. Rechtsprechung nur mit einer konkret passenden tragenden Aussage aufnehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

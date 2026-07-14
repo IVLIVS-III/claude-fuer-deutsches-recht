@@ -60,18 +60,14 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Beschuldigten auf Beistand eines Verteidigers (Paragraf 137 StPO) ist Ausfluss des Grundrechts auf
  ein faires Verfahren (Art. 2 Abs. 1 i. V. m. Art. 20 Abs. 3 GG) und des Grundsatzes der
  Waffengleichheit; der Staat darf die Verteidigung nicht strukturell erschweren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  bei unterlassener Belehrung nach Paragraf 136 StPO; eine ohne ordnungsgemäße Belehrung über das
  Schweigerecht gewonnene Aussage des Beschuldigten ist unverwertbar, wenn der Fehler nicht
  geheilt wurde; Heilung durch späteres Einverständnis des Beschuldigten möglich (str.).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  an einen förmlichen Beweisantrag (Paragraf 244 Abs. 3 StPO); Beweisbehauptung muss bestimmt sein;
  bloße Beweisermittlungsanträge sind nach anderen Regeln zu bescheiden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  des Verteidigers Paragraf 147 StPO; der Verteidiger hat Anspruch auf vollständige Akteneinsicht
  sobald die Anklageschrift beim Gericht eingereicht wurde; Ausnahmen nur nach Paragraf 147 Abs. 2
  StPO im laufenden Ermittlungsverfahren.
@@ -156,21 +152,18 @@ sich nicht in Haft; die Anklageschrift wurde zugestellt; HV-Termin ist in 4 Woch
  Körperverletzung ist Vergehen). Pflichtverteidigerfall nach Paragraf 140 Abs. 2 StPO wäre zu prüfen,
  wenn M sich nicht selbst verteidigen kann. Ggf. Wahlverteidigermandat.
 3. *Akteneinsicht* (Paragraf 147 Abs. 1 StPO): Da Anklage erhoben, sofortiger Anspruch; Antrag
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rn. 10).
 4. *Strategie*: Schweigen bis nach Akteneinsicht; danach Entscheidung über Einlassung.
 
 ## Risiken und typische Fehler
 
 - **Fehlende Belehrung Paragraf 136 StPO**: Aussagen des Mandanten bei Polizei ohne Belehrung sind
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  in der Hauptverhandlung erklären (Paragraf 257 StPO).
 - **Zu frühe Einlassung**: Ohne vollständige Akteneinsicht einlassen → Selbstbelastung durch
  Detailwissen, das Ermittler noch nicht hatten.
 - **Versäumte Haftprüfungsfrist**: Bei U-Haft sind Fristen (Paragrafen 117, 122 StPO) absolute
  Priorität; Fristenkontrolle täglich.
 - **Unzulässiger Beweisantrag** (Paragraf 244 Abs. 3 StPO): Beweisbehauptung zu unbestimmt →
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  BGHSt 53, 112 Rn. 12).
 - **Interessenkonflikt** (Paragraf 43a Abs. 4 BRAO, Paragraf 3 BORA): Darf nicht gleichzeitig Mitbeschuldigten
  oder Verletzten vertreten.
@@ -187,3 +180,5 @@ Beweisverwertungsverboten ist nach `references/zitierweise.md` zu belegen. BVerf
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kommentare mit Bearbeiter, Werk, Aufl. bzw. Ed. (Stand), Paragraf, Rn. Mindermeinungen bei
 umstrittenen Heilungsfällen Paragraf 136 StPO ausdrücklich benennen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

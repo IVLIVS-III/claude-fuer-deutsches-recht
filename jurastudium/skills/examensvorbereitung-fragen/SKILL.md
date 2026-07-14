@@ -19,9 +19,6 @@ description: "Wenn es um Examensvorbereitungs-Fragen in Jurastudium geht: prüft
 3. Zeitdruck-Simulation oder inhaltliches Verstaendnis-Training?
 4. Welche Schwachpunkte wurden in frueheren Uebungsklausuren identifiziert?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmaßstab (exemplarisch für alle Bundeslaender)
 - § 195 BGB — Regelverjaehrung: Dauerklassiker in Zivilrecht-Klausuren
@@ -124,7 +121,6 @@ II. Anspruch aus § 280 Abs. 1 BGB
 
 **Literaturnachweise:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Deine Lücken diese Sitzung:** [Protokoll]
 ```
@@ -174,3 +170,5 @@ Literaturfundstellen nur ergänzen, wenn der Nutzer die Quelle bereitstellt oder
 - **Scheinprobleme ignorieren:** Examsklausuren enthalten bewusste Ablenkungen. Offensichtlich vorliegende Tatbestandsmerkmale kurz abarbeiten, nicht übergehen.
 - **Konkurrenzprobleme:** Reihenfolge der Anspruchsgrundlagen (vertraglich vor außervertraglich) beachten – vgl. `../references/methodik-buergerliches-recht.md`.
 - **Fehlende Fundstellen im Gutachten:** Im 1. StEx ist das Fehlen von Kommentarzitaten ein Bewertungsminus.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

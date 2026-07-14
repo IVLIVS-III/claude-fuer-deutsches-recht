@@ -35,10 +35,6 @@ Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch w
 - **§ 331 StPO** — kein Verboeschungsverbot bei Berufung auf Rechtsfolgen; im Einspruchsverfahren analoge Diskussion
 - **§ 46 StGB** — Strafzumessungserwägungen (Grundlage für Tagessatzanzahl)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Entscheidungsbaum: Beschraenkt oder unbeschraenkt?
 
 ```
@@ -115,3 +111,5 @@ Mit freundlichen Gruessen [KANZLEI]
 - Schriftliche Aufklaerung über Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
 - Einkommensnachweise vor der Hauptverhandlung vollstaendig einreichen.
 - Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch für beschraenkten Einspruch.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

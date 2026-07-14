@@ -536,18 +536,14 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Der Geschädigte kann Reparaturkosten bis zu 130 % des Wiederbeschaffungswerts verlangen,
  wenn er das Fahrzeug tatsächlich repariert und es mindestens 6 Monate weiternutzt; maßgeblich
  ist das Integritätsinteresse.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  entschädigung; der Geschädigte hat Anspruch auf Nutzungsausfallentschädigung (nach Tabelle
  Sanden/Danner/Küppersbusch), sofern er auf das Fahrzeug angewiesen war; bloße Freizeitnutzung
  genügt nicht für Nutzungsausfall, wohl aber gewerbliche und Alltagsnutzung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  eine merkantile Wertminderung entsteht durch das Bekanntwerden eines Unfallschadens auch bei
  fachgerechter Reparatur; Berechnungsmethode Ruhkopf/Sahm.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -594,7 +590,6 @@ nach Paragraf 7 StVG ebenfalls aus Betriebsgefahr; eine konkrete Verkehrspflicht
 nachgewiesen → Haftungsquote 100 % G (vorbehaltlich genauer Unfallrekonstruktion).
 
 *130%-Grenze (Paragraf 249 BGB)*: Reparaturkosten EUR 8.200 = 109 % des WBW (EUR 7.500). Unter der
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 wirtschaftlich vertretbar; M kann Reparaturkostenersatz verlangen.
 
 Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
@@ -623,6 +618,8 @@ Jede Aussage zur Haftungsquote, 130%-Grenze, Nutzungsausfall und Schmerzensgeldb
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 Beck'sche Tabelle) als eigenständige Quellen mit Auflage und Jahr zitieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -726,10 +723,6 @@ Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im d
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -782,6 +775,7 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 - Überklassifizierungsmuster? (Wenn alles als geschützt gekennzeichnet wird, ohne Differenzierung — dem Anwalt zur Kenntnis bringen; aber die Entscheidung zur Einschränkung liegt beim Anwalt)
 - Unzureichende Beschreibungen? (So vage, dass ein Gericht eine In-Camera-Prüfung anordnen könnte)
 
+```markdown
 ## Vertraulichkeitsschutz-Erstprüfung: [Mandat] — [Datum]
 
 **Anwendbare Normen:** [Paragraf 142 ZPO / Paragraf 97 StPO / Paragraf 53 StPO / Paragraf 43a BRAO — Pinpoint-Zitate] `[UNSICHER — Aktualität prüfen]`
@@ -842,10 +836,11 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 ## Quellenpflicht
 
 - Gesetzestexte: Paragrafen 142, 144 ZPO; Paragrafen 53, 53a, 97, 160a StPO; Paragrafen 43a, 46 BRAO; Paragraf 203 StGB; Paragrafen 86, 99 VwGO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

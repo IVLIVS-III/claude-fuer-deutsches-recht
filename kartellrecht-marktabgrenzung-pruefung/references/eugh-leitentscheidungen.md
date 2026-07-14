@@ -8,22 +8,18 @@ Diese Referenzliste enthält die wichtigsten Entscheidungen des Europäischen Ge
 
 ## EuGH-Grundsatzentscheidungen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Stichworte:** Sachliche Marktabgrenzung, Produktsubstitution, Art. 102 AEUV.
 
 Erste grundlegende Entscheidung zur Marktdefinition unter Art. 86 EWGV (heute Art. 102 AEUV). Das Gericht erkannte, dass es für Fleisch- und Fischkonserven einerseits sowie Metalldeckel andererseits getrennte Märkte gibt. Maßgeblich ist die Austauschbarkeit aus Sicht der Nachfrager (Dosenkonservenproduzenten). Grundlage für alle nachfolgenden Marktdefinitionsfälle.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Stichworte:** Sondermarkt für Bananen, qualitative Nachfrageanalyse, Verbrauchersegmentierung.
 
 Bananen bilden einen eigenständigen sachlichen Markt, weil sie sich von anderen Früchten durch charakteristische Eigenschaften unterscheiden: weiche Konsistenz für Kleinkinder, Kranke und ältere Menschen, kontinuierliche Verfügbarkeit, keine ausgeprägte Saisonalität. Festlegung des qualitativen Bedarfsdeckungsansatzes.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Stichworte:** Vitaminmärkte, granulare Produktdefinition, Marktmacht durch Marktanteile.
 
 Separate Märkte für jede Vitamingruppe (A, B1, B2, B6, B12, C, E, H): Nachfrager benötigen spezifische Vitamine, keine wechselseitige Substituierbarkeit. Entwicklung der strukturellen Analyse dominierender Stellungen durch Marktanteile und andere Faktoren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Stichworte:** Reifenmarkt, Aftermarkt, Nutzfahrzeuge vs. PKW.
 
 Erneuerungsreifen für schwere Nutzfahrzeuge bilden einen eigenständigen Markt, da sie weder mit PKW-Reifen noch mit Neureifen für schwere Fahrzeuge austauschbar sind. Frühe Systemmarkt-Überlegung: Händler sind bei Nutzfahrzeugreifen von Michelin abhängig.
@@ -95,7 +91,6 @@ Markt für Online-Reisebuchungsplattformen als eigenständiger Markt; direktes H
 
 ## BGH-Entscheidungen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 **Stichworte:** Soziale Netzwerke Deutschland, Marktbeherrschung, Datenzugang.
 
 BGH bestätigt BKartA-Marktdefinition: Soziale Netzwerke für private Nutzer in Deutschland. WhatsApp und Instagram sind trotz Konzernzugehörigkeit keine Substitute für das soziale Netzwerk Facebook (unterschiedliche Nutzungsweisen). Facebook marktbeherrschend mit Marktanteil weit über 90 Prozent.
@@ -132,9 +127,5 @@ Amazon als Unternehmen mit überragender marktübergreifender Bedeutung. Eigenst
 |--------|-----------------|------------------------------|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

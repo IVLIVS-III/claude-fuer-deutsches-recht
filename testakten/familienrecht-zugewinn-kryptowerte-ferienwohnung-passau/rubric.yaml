@@ -1,4 +1,5 @@
 name: familienrecht-zugewinn-kryptowerte-ferienwohnung-passau
+plugin: "fachanwalt-familienrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

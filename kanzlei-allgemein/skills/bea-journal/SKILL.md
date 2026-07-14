@@ -23,9 +23,6 @@ Dokumentation von beA-Verbindungen, Nachrichten, Versand und Empfangsbekenntniss
 3. Gibt es Empfangsbekenntnisse (EB), die aktuell zur Entscheidung anstehen?
 4. Sind fristwahrende Dokumente dabei, die sofort ins Fristenbuch müssen?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 173 Abs. 2 ZPO — Zustellung per beA: Zustelldatum ist der Tag des EB-Klicks
 - § 31a BRAO — Pflicht zur Einrichtung und Nutzung des beA
@@ -117,3 +114,5 @@ Wenn das System beA nicht selbst bedienen kann:
 ## Ausgabe
 
 `assets/templates/bea-nachrichtenjournal.md` verwenden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

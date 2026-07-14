@@ -64,10 +64,6 @@ Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsv
 - § 155 ZVG
 - §§ 11, 12 ZwVwV
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Verteilungsplan
 
 § 155 ZVG (Verteilungsplan) → § 10 ZVG (Rangklassen) → § 11 ZwVwV (Vorschüsse) → § 12 ZwVwV (Auszahlungen) → § 154 ZVG (Gerichtsgenehmigung bei Zweifeln) → § 20 ZwVwV (Vergütung als Ausgabe)
@@ -107,3 +103,5 @@ Empfänger | Betrag | Bankverbindung | Datum
 
 [ORT, DATUM, UNTERSCHRIFT ZWANGSVERWALTER]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -12,7 +12,6 @@ description: "Wenn es um Rechnungserstellung Honorar (RVG oder Vereinbarung) in 
 4. Sind alle Auslagen (Porto, Kopien, Fahrtkosten, Nr. 7001, 7002 VV RVG) vollstaendig erfasst?
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
@@ -143,3 +142,5 @@ Konsolen-Rechner für RVG-Gebühren nach Anlage 2 (Stand 01.01.2021):
 - Umsatzsteuer (Default 19 %).
 
 Aufruf: `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3`. Liefert Netto, USt., Brutto in deutscher Zahlenschreibweise. Ersetzt nicht die RVG-Abrechnung im Kanzleisystem, sondern hilft beim schnellen Plausibilisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

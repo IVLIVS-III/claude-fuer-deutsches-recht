@@ -13,9 +13,6 @@ Dieses Fachmodul vor und nach jeder Übertragung.
 3. Gibt es Ausnahmen oder Vorbehalte, die praktisch wichtig sein können?
 4. Sind rechtliche Unsicherheiten oder offene Prüfungen im Originaltext erkennbar?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 58 VwGO — Rechtsbehelfsbelehrung und Fristverlaengerung bei fehlerhafter Belehrung
 - § 355 BGB — Widerrufsrecht: Frist, Belehrung, Folgen bei fehlender Belehrung
@@ -109,3 +106,5 @@ Gib am Ende einen Vermerk aus:
 - Begriffe erklärt: ...
 - Nicht geklärt: ...
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

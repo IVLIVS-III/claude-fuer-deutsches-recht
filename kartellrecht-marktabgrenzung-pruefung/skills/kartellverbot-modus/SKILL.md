@@ -58,10 +58,6 @@ Gruppenfreistellungsverordnung Vertikale Vereinbarungen (VO 2022/720):
 
 Marktanteilsschwellen 20 Prozent (Wettbewerber) und 30 Prozent (Nicht-Wettbewerber) auf dem Technologiemarkt und dem Produktmarkt.
 
-## Leitentscheidungen Kartellverbot
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfprotokoll Kartellverbot
 
 ```
@@ -74,3 +70,5 @@ GVO anwendbar?: [ja → VO-Nummer / nein]
 Art. 101 Abs. 3 Freistellung: [prüfen / nicht relevant]
 Ergebnis: [verboten / freigestellt / zweifelhaft]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

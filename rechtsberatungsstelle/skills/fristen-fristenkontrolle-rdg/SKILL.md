@@ -38,10 +38,6 @@ description: "Wenn es um Fristenverwaltung in Plugin für die studentische Recht
 - **§§ 12–17 BeratungshilfeG (BerHG)** — Verfahren bei Beratungshilfe; Beratungshilfeschein vor Mandatsbeginn einholen.
 - **§§ 114–127a ZPO** — Prozesskostenhilfe (PKH): Antrag vor oder mit Klageerhebung, keine Unterbrechung laufender Fristen durch PKH-Antrag (§ 204 Abs. 1 Nr. 14 BGB beachten).
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -156,3 +152,5 @@ Jede eingetragene Frist muss eine **Quellnorm** enthalten (Gesetz, Gerichtsurtei
 Jeder Fristeneintrag, der außerhalb des Plausibilitätsbands liegt und dennoch bestätigt wurde, erhält automatisch den Hinweis: `warnung: außerhalb-plausibilitätsband — vom Supervisor zu prüfen`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Alle Fristenberechnungen sind vom begleitenden Supervisor zu prüfen und freizugeben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

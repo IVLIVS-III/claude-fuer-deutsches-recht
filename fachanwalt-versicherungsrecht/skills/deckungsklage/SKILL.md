@@ -40,7 +40,6 @@ description: "Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: er
 - **§ 23 Nr. 1 GVG** — Sachliche Zuständigkeit AG: bis EUR 10000 (ab 01.01.2026 Justizreform).
 - **§ 71 Abs. 1 GVG** — Sachliche Zuständigkeit LG: ab EUR 10000.
 - **§ 9 ZPO** — Streitwert wiederkehrender Leistungen: 3,5-facher Jahreswert; gedeckelter Wert bei kürzerer Restlaufzeit.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 114 ZPO** — PKH bei wirtschaftlicher Bedürftigkeit und hinreichenden Erfolgsaussichten; Beiordnung eines RA.
 - **§ 379 ZPO** — Sachverständigenvorschuss; bei PKH Übernahme durch Staatskasse.
 - **§ 72 ZPO** — Streitverkündung; Makler, Vermittler bei Beratungspflichtverletzung einbeziehen.
@@ -158,7 +157,6 @@ III. FESTSTELLUNGSINTERESSE
 
 Die Beklagte bestreitet die Leistungspflicht dem Grunde nach.
 Das Feststellungsinteresse gemäß § 256 ZPO ist gegeben —
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 IV. RECHTLICHE WÜRDIGUNG
 
@@ -166,7 +164,6 @@ IV. RECHTLICHE WÜRDIGUNG
  Der Kläger ist nach ärztlichen Attesten (Anlagen K5–K8)
  und nach dem SV-Gutachten [Name] vom [Datum] (Anlage K9)
  seit [Datum] zu mindestens 50 % berufsunfähig bezogen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 2. Keine Obliegenheitsverletzung
  [Ablehnungsgrund Versicherer + Widerlegung]
@@ -312,16 +309,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 § 256 ZPO (Feststellungsklage bei laufender BU-Rente) → § 215 VVG (örtliche Zuständigkeit Klage VN gegen Versicherer) → §§ 23, 71 GVG (sachliche Zuständigkeit AG/LG nach Streitwert) → § 1 VVG (Hauptleistungspflicht) → § 286 ZPO (Beweislast und freie Beweiswürdigung) → § 402 ZPO (gerichtlicher Sachverständiger) → § 114 ZPO (PKH bei Bedürftigkeit) → § 286 ZPO (Beweiswürdigung Privatgutachten)
@@ -339,3 +326,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Verjährung hemmen:** Bei Verhandlungen § 203 BGB; sonst Klageschrift einreichen vor Ablauf der 3-Jahres-Frist.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

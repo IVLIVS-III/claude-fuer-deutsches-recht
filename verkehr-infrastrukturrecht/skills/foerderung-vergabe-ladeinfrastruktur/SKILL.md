@@ -36,10 +36,6 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 - **§§ 1 ff. VgV** — Vergabeverordnung; Verfahrensarten
 - **§§ 1 ff. UVgO** — Unterschwellenvergabeordnung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Vergabe
 
 1. **Schwellenwert prüfen:** EU-weite Ausschreibung oder national?
@@ -63,3 +59,5 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 - Zuwendungsrecht: Zweckbindungsfristen genau dokumentieren, vorzeitige Nutzungsaenderungen genehmigen lassen.
 - EU-Schwellenwerte regelmaessig aktualisieren (alle 2 Jahre neue EU-Verordnung).
 - Anwaltliche Endkontrolle bei Ruge und Nachpruefungsantrag.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

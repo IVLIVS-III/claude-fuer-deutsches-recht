@@ -17,16 +17,6 @@ description: "Wenn es um Ausschluss nach Paragraf 814 BGB — Kenntnis der Nicht
 
 § 814 BGB (Ausschluss bei Kenntnis der Nichtschuld bzw. sittlicher Pflicht) — § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion) — § 813 BGB (dauernde Einrede) — § 817 BGB (Gesetzes-/Sittenverstoß) — § 242 BGB (Treu und Glauben, venire contra factum proprium)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Obersatz
 
 Hat der Leistende gewusst, dass er zur Leistung nicht verpflichtet war, ist die Rückforderung nach § 814 Alt. 1 BGB ausgeschlossen.
@@ -84,3 +74,5 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

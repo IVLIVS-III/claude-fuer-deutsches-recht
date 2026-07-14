@@ -60,10 +60,6 @@ description: "Wenn es um Simulation und Training in ZVG-Zwangsverwaltung - Verwa
 - ZVG Gesamtfassung
 - ZwVwV Gesamtfassung
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Aus-/Fortbildung ZVG
 
 § 152 ZVG (Sorgfaltspflicht ordnungsgemäße Verwaltung) → § 280 BGB (Haftung Pflichtverletzung) → ZwVwV vollständig (Pflichtenprogramm)
@@ -88,3 +84,5 @@ Lösung: [VORGEHEN SCHRITT FÜR SCHRITT]
 Normen: [EINSCHLÄGIGE PARAGRAPHEN]
 Häufige Fehler: [TYPISCHE FEHLER IN DIESER SITUATION]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

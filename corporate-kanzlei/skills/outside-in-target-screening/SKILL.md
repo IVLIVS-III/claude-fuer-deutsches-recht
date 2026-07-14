@@ -120,10 +120,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 325 HGB** — Offenlegungspflicht Jahresabschluss; Abrufbar im Bundesanzeiger
 - **§ 9 HGB** — Handelsregister-Einsichtsrecht; jedermann kann einsehen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Outside-In-Quellen-Matrix
 
 | Quelle | Informationen | Verfuegbarkeit | Verlaesslichkeit |
@@ -235,5 +231,6 @@ VERTRAULICH
 ## Quellen
 
 - § 3 GwG; § 9 HGB; § 325 HGB; §§ 33 ff. WpHG; Art. 14 DSGVO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 1
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -29,13 +29,8 @@ description: "Wenn es um Anw Stundung Erlass Vollstreckungsaufschub in Steuerrec
 - **§ 227 AO** — Erlass aus Billigkeitsgründen (sachlich oder persönlich); endgültiger Verzicht oder vorläufiger Erlass (§ 163 AO als materiellrechtliche Variante).
 - **§ 163 AO** — Abweichende Festsetzung aus Billigkeitsgründen (häufig als Vorgriff vor § 227 AO genutzt).
 - **§ 258 AO** — Vollstreckungsaufschub: einstweilige Einstellung oder Beschränkung der Vollstreckung; **kein Verzicht auf die Forderung**.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 240 AO** — Säumniszuschläge: 1 % pro angefangenem Monat der Säumnis (Mindestbetrag 5 EUR). Bei Stundung **keine** Säumniszuschläge.
 - **AEAO** zu §§ 222, 227, 258 AO — Verwaltungsanweisungen mit Praxis-Maßstab.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Drei-Stufen-Vorgehen
 
@@ -160,3 +155,5 @@ angebot]
 ## Quellen und Updates
 
 Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu § 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform der Säumnis-/Stundungszinsen aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

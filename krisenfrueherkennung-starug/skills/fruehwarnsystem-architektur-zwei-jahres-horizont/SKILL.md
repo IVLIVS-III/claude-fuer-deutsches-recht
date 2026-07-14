@@ -112,10 +112,6 @@ Die Geschäftsführung beschließt:
 
 ---
 
-## Aktuelle Leitentscheidungen — Fruehwarnsystem und § 1 StaRUG
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Fruehwarnsystem
 
 § 1 StaRUG (Pflicht zur Fruehwarnung) → § 102 StaRUG (Rechtsberater-Warnpflicht) → § 43 GmbHG (Sorgfaltspflicht GF) → § 93 AktG (Vorstandshaftung) → § 91 Abs. 2 AktG (Fruehwarnsystem-Pflicht AG) → § 15a InsO (Antragspflicht bei erkannter ZU/Ueberschuldung)
@@ -126,3 +122,5 @@ Die Geschäftsführung beschließt:
 2. **Ampelsystem vorhanden?** Gruene, gelbe, rote Schwellen definiert?
 3. **Eskalationskette?** Wer wird bei roten Ampeln informiert? GF → Aufsichtsrat → Anwalt?
 4. **Historische Daten?** 2 Jahre Ruckschau für Trend-Erkennung vorhanden?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

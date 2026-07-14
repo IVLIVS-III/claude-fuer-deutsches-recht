@@ -14,9 +14,6 @@ Einfache Sprache oder Leichte Sprache.
 3. Darf der Text inhaltlich gekuerzt werden oder muss alles erhalten bleiben?
 4. Gibt es einen institutionellen Hausstil oder Prüfgruppen für Leichte Sprache?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 11 BGG — Barrierefreiheit: Behörden müssen Informationen in Leichter Sprache oder Einfacher Sprache bereitstellen
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung (gilt für öffentliche Stellen)
@@ -117,3 +114,5 @@ Liefere bei jedem Ergebnis:
 2. **Kurzprotokoll**, welche juristischen Inhalte erhalten wurden.
 3. **Glossar** für schwere Wörter.
 4. **Offene Prüfungen**, insbesondere Nutzerprüfung bei Leichter Sprache.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

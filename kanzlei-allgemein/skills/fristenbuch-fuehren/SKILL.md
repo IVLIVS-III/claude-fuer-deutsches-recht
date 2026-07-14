@@ -19,9 +19,6 @@ description: "Wenn es um Zentrales Fristenbuch der Kanzlei in Kanzlei-Allgemein 
 3. Gilt die neue Vier-Tages-Fiktion nach PostModG (ab 01.01.2025) oder noch die Drei-Tages-Fiktion?
 4. Wer ist verantwortlicher Anwalt und wer ist Vertretung bei Abwesenheit?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 222 ZPO i.V.m. §§ 187-188 BGB — Fristberechnung nach dem Zivilprozessrecht
 - § 517 ZPO — Berufungsfrist ein Monat ab Zustellung des Urteils (Notfrist)
@@ -142,3 +139,5 @@ Beim Eintragen automatisch berücksichtigen — bei nachweislich früherem Zugan
 ## Haftungshinweis
 
 Das Fristenbuch ist nur so gut wie seine Pflege. Die Letztverantwortung liegt beim Anwalt. Bei Versäumnis Wiedereinsetzung prüfen (jeweilige Verfahrensordnung).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

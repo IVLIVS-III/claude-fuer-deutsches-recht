@@ -37,10 +37,6 @@ Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhae
 - § 438 BGB — Sonderverjährung Kaufmängel (2 Jahre / 5 Jahre Bau)
 - § 634a BGB — Sonderverjährung Werkvertragsansprüche (2 Jahre / 5 Jahre)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Verjährungsfristen im deutschen Recht
 
 ### Regelfrist § 195 BGB
@@ -66,7 +62,6 @@ Prüft Verjährungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB), kenntnisabhae
 
 ### Verjährung im Arbeitsrecht
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Hemmung der Verjährung §§ 203–213 BGB
 
@@ -75,13 +70,11 @@ Hemmung: Die Verjährungsfrist läuft nicht; die Restfrist läuft nach Ende des 
 **Wichtige Hemmungstatbestände:**
 - Klageerhebung (§ 204 Abs. 1 Nr. 1 BGB): Hemmung mit Einreichung, wenn demnächst zugestellt
 - Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB): Hemmung bei Zustellung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Stillhaltevereinbarung (§ 205 BGB): vertragliche Stundung
 
 ## Neubeginn der Verjährung § 212 BGB
 
 Der Neubeginn löscht die bisher abgelaufene Verjährungszeit:
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Zwangsvollstreckungshandlung
 
 ## Prozessuale Notfristen
@@ -105,3 +98,5 @@ Anspruch entstanden wann?
  ├─ Ja → neue Frist ab Neubeginnzeitpunkt
  └─ Nein → Ergebnis: verjährt / nicht verjährt
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

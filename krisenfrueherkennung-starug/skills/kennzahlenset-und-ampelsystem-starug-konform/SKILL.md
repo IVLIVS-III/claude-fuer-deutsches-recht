@@ -26,7 +26,6 @@ Ein Ampelsystem ohne kalibrierte Schwellenwerte ist eine Farbenspielerei ohne St
 - IDW PS 340 n.F. (Risikobewertung, Schwellenwerte, Eskalationsstufen)
 - IDW S 6 Tz. 40 ff. (Leistungsfähigkeitsanalyse, Kennzahlen)
 - IDW S 11 (Beurteilung Insolvenzeröffnungsgründe — Liquiditätstest)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -185,10 +184,6 @@ MAßNAHMEN BEI GELB/ROT:
 
 ---
 
-## Weitere Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -196,3 +191,5 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

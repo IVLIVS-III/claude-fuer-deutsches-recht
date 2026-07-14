@@ -33,9 +33,6 @@ description: "Wenn es um Erbrechtlichen Streit durch Vergleich lösen und Verhan
 5. Ist für den Vergleich Vollstreckbarkeit erforderlich (Ratenzahlung, Herausgabepflicht) — dann notariell oder Anwaltsvergleich § 796a ZPO?
 6. Steuerliche Einordnung: Abfindung versus Erbschaftsteuer-relevante Leistung klären vor Unterzeichnung.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Erb- und Pflichtteilsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -185,3 +182,5 @@ Klassische Stolperfalle in Erb- und Pflichtteilsrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

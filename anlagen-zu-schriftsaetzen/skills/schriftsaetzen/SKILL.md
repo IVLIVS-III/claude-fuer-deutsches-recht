@@ -18,10 +18,6 @@ description: "Wenn es um Zuordnung von Anlagen zu gerichtlichen Schriftsätzen i
 
 § 130 ZPO (Schriftsätze allgemein) — § 130a ZPO (elektronisches Dokument) — § 130d ZPO (Nutzungspflicht für vorbereitende Schriftsätze und Anträge durch professionelle Einreicher) — § 253 ZPO (Klageschrift) — §§ 286, 371 ff. ZPO (Beweiswürdigung, Urkundsbeweis, Augenschein) — § 142 ZPO (Urkundenvorlage) — § 294 ZPO (Glaubhaftmachung im Eilverfahren) — § 520 ZPO (Berufungsbegründung) — § 31a BRAO (besonderes elektronisches Anwaltspostfach) — ERVV und ERVB in der jeweils aktuellen Fassung.
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Eingaben
 
 - **Schriftsatz-Entwurf** (PDF oder DOCX) — Pflicht.
@@ -138,3 +134,5 @@ Anzahl Anlagen-Dateien vorhanden: [...]
 ---
 
 Hinweis: Die Letztverantwortung für Vollständigkeit, Tatsachenvortrag, Verschwiegenheit (§ 43a BRAO, § 203 StGB), Datenschutz und Versand liegt beim Anwalt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

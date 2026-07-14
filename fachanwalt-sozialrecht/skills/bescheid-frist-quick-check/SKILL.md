@@ -30,9 +30,7 @@ description: "Wenn es um 60-Sekunden-Sofortprüfung der Frist eines sozialrechtl
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Sofort-Eingangstür zu jedem Bescheid. Vor Bescheidanalyse, vor Widerspruchsentwurf. **Nichts** vorher tun.
 
@@ -124,3 +122,5 @@ Wenn nicht alle erfüllt → kein Wiedereinsetzungsantrag, stattdessen `§ 44 SG
 | Ampel verstrichen, Wiedereinsetzung möglich | `widerspruch-formulieren` mit Antrag § 67 SGG |
 | Ampel verstrichen, keine Wiedereinsetzung | Prüfung § 44 SGB X (eigenständiger Pfad) |
 | Eilbedarf | `eilantrag-sozialrecht` parallel |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

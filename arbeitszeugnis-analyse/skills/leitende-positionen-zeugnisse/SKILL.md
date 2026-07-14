@@ -39,11 +39,6 @@ description: "Wenn es um Arbeitszeugnisse für leitende Positionen in Arbeitszeu
 - **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
 - **Paragrafen 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Leitentscheidungs-Anker (Notenstufen + Empfaengerhorizont)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
@@ -54,3 +49,5 @@ description: "Wenn es um Arbeitszeugnisse für leitende Positionen in Arbeitszeu
 | **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast für bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

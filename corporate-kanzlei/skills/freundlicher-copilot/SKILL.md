@@ -110,7 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart möglich für Kaeufer.
 
 ### Was ist eine MAC-Klausel?
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Was ist die Business Judgment Rule (BJR)?
 § 93 I 2 AktG: Vorstand haftet nicht bei unternehmerischen Entscheidungen, wenn er angemessen informiert im Unternehmensinteresse gehandelt hat. Wichtig: Board Paper erstellen; Informationsgrundlage dokumentieren.
@@ -139,12 +138,10 @@ Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen
 | GF-Haftung | `geschaeftsfuehrer-haftung-43-gmbhg` |
 | Konzernrecht | `gesellschaftsrecht-mandat-arbeitsbereich` |
 
-## Aktuelle Rechtsprechung (Grundbegriffe)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Rote Schwellen
 
 - Unbekannte Materie → an Fach-Skill oder Senior Partner weiterleiten
 - Mandatsgeheimnis: keine vertraulichen Details an unberechtigte Dritte
 - Fristen immer mit Kalender absichern; Verjährung und CP-Fristen sind kritisch
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

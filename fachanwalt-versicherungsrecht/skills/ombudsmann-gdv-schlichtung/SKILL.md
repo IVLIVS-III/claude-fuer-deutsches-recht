@@ -37,10 +37,6 @@ description: "Wenn es um Ombudsmann Gdv Schlichtung in Fachanwalt Versicherungsr
 - **VSBG** — Verbraucherstreitbeilegungs-Gesetz
 - **Versicherungs-Ombudsmann-Verfahrensordnung 2021** (geändert 2024)
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## ADR-Pfade
 
 ### Pfad 1 — Versicherungs-Ombudsmann (VVR e.V.)
@@ -109,19 +105,7 @@ description: "Wenn es um Ombudsmann Gdv Schlichtung in Fachanwalt Versicherungsr
 - **Sachverständigen-Verfahren**: bei klar bezifferbarem Schaden günstig; bei rechtlichen Fragen ungeeignet
 - **BU-Versicherung**: 50-%-Berufsunfähigkeits-Anforderung; Sachverständigen-Strategie kritisch
 
-## Quellen und Updates
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ergänzung
 
@@ -130,3 +114,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

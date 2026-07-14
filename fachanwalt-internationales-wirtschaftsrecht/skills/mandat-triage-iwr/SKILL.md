@@ -186,7 +186,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Schlüssel-Leitsaetze IWR-Triage
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Überblick IWR-Triage
 - Bruessel Ia VO Art. 4, 7, 25 — Gerichtsstand
@@ -215,3 +214,5 @@ Prioritaet: [ROT / GELB / GRUEN]
 Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 =========================================
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

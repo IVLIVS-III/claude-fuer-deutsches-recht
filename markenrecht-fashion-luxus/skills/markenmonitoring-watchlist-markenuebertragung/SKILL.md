@@ -119,10 +119,6 @@ Domain-Monitor meldet: "klotzkette.shop" soeben registriert, Inhaber anonym (Pri
 - Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
-## Aktuelle Rechtsprechung zum Markenmonitoring
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Templates
 
 ### Watchlist-Konfigurationsdatei (intern)
@@ -161,3 +157,5 @@ Reaktions-SLA:
 - **False Positives:** Zu breite Suchparameter generieren zu viele Alerts → Fatigue; sorgfältige Kalibrierung
 - **Domain-Privacy-Shields:** Anonyme Domainhaber erschweren UDRP — WHOIS-Lookup + UDRP-Registrar-Daten oft der einzige Weg
 - **Monitoring ≠ Registrierung:** Monitoring ersetzt keine Markenanmeldung in neuen Märkten — beide müssen parallel laufen
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

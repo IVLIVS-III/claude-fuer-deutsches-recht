@@ -29,16 +29,6 @@ Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- ode
 
 § 817 BGB (Kondiktionsausschluss bei Verstoß) — § 134 BGB (Verbotsgesetz) — § 138 BGB (Sittenwidrigkeit) — § 812 Abs. 1 S. 1 BGB (Leistungskondiktion) — § 1 Abs. 2 SchwarzArbG — § 299 StGB (Bestechung im geschäftlichen Verkehr) — § 823 Abs. 2 BGB (Schutzgesetzverletzung)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Norm
 
 § 817 BGB regelt zwei Fallgruppen:
@@ -101,3 +91,5 @@ Sachverhalt (kurz): [...]
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

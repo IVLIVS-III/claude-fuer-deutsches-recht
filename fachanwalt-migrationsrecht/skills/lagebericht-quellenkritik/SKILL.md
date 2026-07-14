@@ -16,8 +16,6 @@ description: "Wenn es um Länderquellen-Kritik: Fachmodul im Migrationsrecht in 
 
 **Fokus:** Länderquellen-Kritik: Fachmodul im Migrationsrecht; prüft AA-Lagebericht, EUAA, UNHCR, NGOs, Aktualität, Widersprüche; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck.
 
-### Länderquellen-Kritik
-
 ## Einstieg
 1. Wer ist betroffen, wer fragt, und welches konkrete Ziel besteht?
 2. Welche Staatsangehörigkeit/Gebietszuordnung, welcher Aufenthaltsort und welcher aktuelle Status liegen vor?

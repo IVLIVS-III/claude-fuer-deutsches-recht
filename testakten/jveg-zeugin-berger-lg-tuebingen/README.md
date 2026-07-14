@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 82 KB) | PDF | [`gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf`](gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 83 KB) | PDF | [`gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf`](gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip) |
 
@@ -136,5 +136,3 @@ Diese Akte zeigt das **JVEG-Entschädigungsrecht** an einem praxisnahen internat
 Die Akte deckt die gesamte Prozesskette ab: Ladung → Vorschussantrag → Ablehnung → Verhandlung → Festsetzungsantrag → Festsetzungsbeschluss → Erinnerung. Sie eignet sich damit als Referenzfall für plugin-gestützte JVEG-Prüfung (jveg-kostenprüfer) und für die manuelle Fehleranalyse.
 
 ---
-
-## Disclaimer

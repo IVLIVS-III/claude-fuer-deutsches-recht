@@ -34,10 +34,6 @@ Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilant
 - § 183 SGG — Keine Gerichtskosten für Versicherte (Kostenprivileg)
 - § 66 Abs. 2 SGG — Jahresfrist bei fehlerhafter Rechtsbehelfsbelehrung
 
-## Rechtsprechung (BSG / BVerfG — Leitsätze)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Sachgebiete der Sozialgerichtsbarkeit
 
 - Krankenversicherung (SGB V)
@@ -95,3 +91,5 @@ Das Sozialgericht ermittelt den Sachverhalt von Amts wegen. Beweisangebote der P
 - Leistungsart und Leistungszeitraum im Verfahrensidentifikationsblock aufführen
 - Gutachten (ärztliche / berufskundliche) als eigene Kategorie in Beweismittel-Tabelle
 - Kostenrecht: keine Gerichtskosten für Versicherte (§ 183 SGG)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

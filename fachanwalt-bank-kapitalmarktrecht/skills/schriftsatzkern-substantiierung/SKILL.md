@@ -225,7 +225,6 @@ Vor Versand:
 
 ### Schlüssel-Leitsaetze Substantiierung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Schriftsatz Bank-/Kapitalmarktrecht
 - §§ 280, 311 BGB — Anspruchsgrundlage Beratungsfehler
@@ -233,3 +232,5 @@ Vor Versand:
 - § 64 WpHG — Geeignetheitspruefung (ab 2018)
 - § 287 ZPO — Schadensschaetzung durch Gericht
 - § 296 ZPO — Zurueckweisung verspaeteten Vortrags
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

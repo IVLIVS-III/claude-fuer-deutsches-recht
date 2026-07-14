@@ -18,9 +18,7 @@ Prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für
 4. Gibt es Hinweise auf Direktkontakt mit dem Mandanten des Kollegen (§ 12 BORA)?
 
 ## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
 - § 2 BORA — Verschwiegenheitspflicht (Erweiterung der BRAO-Pflicht auf alle Kommunikationsmittel)
@@ -59,3 +57,5 @@ Maßgebliche Normen: § 2 BORA (Verschwiegenheit), § 6 BORA (Werbung), § 12 BO
 
 **Vorher:** "Wir sind bekannt für unsere Erfolge vor dem BGH."
 **Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 6 BORA, sofern nicht durch öffentliche Informationen (Urteilslisten) belegt. Empfehlung: Konkrete, nachprüfbare Angabe.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

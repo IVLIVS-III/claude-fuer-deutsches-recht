@@ -29,10 +29,6 @@ description: "Wenn es um Substantiierten Schriftsatzkern für steuerrechtliche V
 - **Spezialfrage (Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)):** Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag müssen begründet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruchsgrundlagen-Kette Beweisangebote Hilfsanträge. § 76 FGO Amtsermittlung setzt schluessigen Vortrag voraus. Replik- und Duplik-Vorausschau. Output Schriftsatz-Geruest mit Tatsachen Normen Beweismitteln Anträgen. Abgrenzung zu anw-einspruch-finanzamt und anw-klage-finanzgericht fertige Schriftsaetze.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung (Substantiierung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Steuerrecht (Beratung und Prozess) erstellt werden, typischerweise: Einspruch, Klage FG, Revision BFH, Stundungs-/Erlassantrag.
@@ -220,3 +216,5 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

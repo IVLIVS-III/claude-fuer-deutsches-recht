@@ -36,10 +36,6 @@ description: "Wenn es um Stoerfall, Anlagenbetrieb und Betreiberpflichten in Umw
 - **§ 17 BImSchG** — Nachtraegliche Auflagen und Anordnungen
 - **§ 62 BImSchG** — Ordnungswidrigkeiten (Bussgeld bis 50.000 EUR)
 
-## Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -154,3 +150,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-bussgeld-sanktionen` — Bussgeld nach Stoerfall
 - `umweltrecht-verfahren` — Klageverfahren gegen Behördenanordnung
 - `umweltrecht-transaktionen-dd` — Stoerfall-Risiken in M&A
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

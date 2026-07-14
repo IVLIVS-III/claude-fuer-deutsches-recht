@@ -30,9 +30,6 @@ description: "Wenn es um Wandelereignis – Eingang Wandlungserklärung in Wande
 - § 286 BGB (Verzug bei Fristversäumnis der Gesellschaft)
 - Für privatrechtliche Wandlungserklärungen und Wandlungsmitteilungen gibt es keine allgemeine Vier-Tage-Zugangsfiktion. Nach Paragraf 130 BGB zählt der tatsächliche Zugang; Aufgabe zur Post und Sendungsverfolgung sind nur Indizien. Vertragliche Zugangsklauseln gesondert auf Wortlaut und Wirksamkeit prüfen, bei Fristrisiko einen nachweisbaren Übermittlungsweg wählen.
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Eingang dokumentieren
@@ -89,12 +86,8 @@ Stand: 05/2026. Bei Änderung BGB Zugangsregeln aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 488 BGB (Darlehensvertrag, Wandlungsrecht als Nebenabrede) → §§ 130, 132 BGB (Zugang der Wandlungsmitteilung) → § 280 BGB (Schadensersatz bei Verletzung Mitteilungspflicht) → § 55 GmbHG (Kapitalerhöhung nach Wandlungserklärung) → §§ 195, 199 BGB (Verjährung des Wandlungsrechts)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

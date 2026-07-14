@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Haushaltsrecht Bho Szenario Buergergeld Verteidigung"
-plugin: "tbd"
+plugin: "haushaltsrecht-bho-bund-laender"
 
 checks:
   - id: r01-readme-vorhanden

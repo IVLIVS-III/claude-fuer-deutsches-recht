@@ -124,5 +124,6 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - VO (EU) 2024/1689 KI-VO, insbesondere Art. 6, 14, 26, 27, 50, Anhang III
 - EDSA-Stellungnahme 28/2024 zu KI-Modellen
 - EDSA-Leitlinien WP 248 rev.01
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -153,7 +153,6 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 - Vermögensbetreuungspflicht: Rechtsgrund (Anstellungsvertrag, gesetzliche Pflicht, Geschäftsführer).
 - Pflichtverletzung: konkrete Handlung gegen das Innenverhaeltnis.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vorsatz auch hinsichtlich Pflichtwidrigkeit.
 
 ## Antrags-Muster nach Verfahrenstyp
@@ -242,3 +241,5 @@ Vor Versand:
 - `erstgespraech-mandatsannahme` (im selben Plugin) für Mandatsannahme und Erstprognose.
 - `vergleichsverhandlung-strategie` (im selben Plugin) für Verstaendigung § 257c StPO, Einstellung § 153a StPO und Adhaesion.
 - `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` für Beweisantraege in der Hauptverhandlung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

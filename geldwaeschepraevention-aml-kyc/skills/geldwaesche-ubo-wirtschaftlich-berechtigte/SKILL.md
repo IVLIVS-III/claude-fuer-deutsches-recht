@@ -23,9 +23,6 @@ Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstr
 3. Liegt ein Nominee-Hinweis oder eine Treuhandstruktur vor, die transparent gemacht werden muss?
 4. Gibt es Indikatoren dafür, dass der angegebene UBO nicht der tatsaechliche wirtschaftlich Berechtigte ist?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 3 GwG — Wirtschaftlich Berechtigter: Definition und 25-Prozent-Schwelle
 - § 13 GwG — Pflicht zur Ermittlung des wirtschaftlich Berechtigten
@@ -61,3 +58,5 @@ Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstr
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

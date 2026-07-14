@@ -19,9 +19,6 @@ description: "Wenn es um Professor erkennen und Strategie wählen in hausarbeite
 3. Gibt es erkennbare Lehrstuhl-Praeferenzen bei bestimmten Streitstaenden?
 4. Soll die eigene Stellungnahme mit der Lehrmeinung uebereinstimmen oder respektvoll abweichen?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit: eigene wissenschaftliche Position ist geschuetzt und erwuenscht
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Berufsziel: wird im Studium durch eigenstaendiges Denken vorbereitet
@@ -175,3 +172,5 @@ Das ist die Königsklasse. Und sie ist erlernbar.
 - `aufgabenstellung-erfassen` — Nun den Sachverhalt zerlegen
 - `seminararbeit-modus` — Spezifika für Seminararbeiten
 - `meinungsstreit-darstellen` — Faire Streit-Darstellung trotz Adressaten-Orientierung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

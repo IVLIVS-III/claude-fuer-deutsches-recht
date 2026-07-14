@@ -165,11 +165,9 @@ Paragraf 102 Abs. 2 BetrVG (Frist endet am [Datum]).
 - Voraussetzungen: wirksamer Widerspruch des BR nach Paragraf 102 Abs. 3 + Kündigungsschutzklage des Arbeitnehmers
 - Arbeitgeber muss Arbeitnehmer bis zur Klärung des Kündigungsstreits weiterbeschäftigen
 - AG kann Befreiung beantragen, wenn Kündigung offensichtlich wirksam, Weiterbeschäftigung unverhältnismäßig belastend
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beweislast und Darlegungslast
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Arbeitnehmer** bei Anhörungsrüge: muss konkreten Mangel darlegen (z.B. fehlende Sozialauswahl, nicht genannte Abmahnung).
 - Einwand "subjektiv vollständig": Arbeitgeber kann geltend machen, er habe gutgläubig alle ihm bekannten Gründe mitgeteilt.
 
@@ -193,5 +191,4 @@ Paragraf 102 Abs. 2 BetrVG (Frist endet am [Datum]).
 
 - BetrVG Paragrafen 1, 26, 79, 102
 - KSchG Paragrafen 1, 4
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar Paragraf 102; DKKW BetrVG Paragraf 102

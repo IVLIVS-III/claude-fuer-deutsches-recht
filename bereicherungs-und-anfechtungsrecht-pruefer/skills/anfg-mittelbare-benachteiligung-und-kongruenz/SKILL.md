@@ -19,10 +19,6 @@ description: "Wenn es um Mittelbare Benachteiligung und Kongruenz — AnfG in be
 - § 4 AnfG — Unentgeltliche Leistung (stets unmittelbare Benachteiligung)
 - § 142 InsO — Bargeschäftsprivileg (analoge Anwendung im AnfG str.)
 
-## Rechtsprechung (BGH — Benachteiligung und Kongruenz)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Gläubigerbenachteiligung als Voraussetzung
 
 Alle Anfechtungstatbestände des AnfG setzen voraus, dass Gläubiger durch die Rechtshandlung benachteiligt werden. Unterschieden wird zwischen unmittelbarer und mittelbarer Benachteiligung.
@@ -68,3 +64,5 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Materien- und Quellenkontrolle
 
 Anfechtung einer Willenserklärung nach Paragraf 119 oder 123 BGB, bereicherungsrechtliche Rückabwicklung nach Paragraf 812 folgende BGB, Gläubigeranfechtung nach dem Anfechtungsgesetz und Insolvenzanfechtung nach Paragraf 129 folgende InsO sind getrennte Anspruchssysteme. Zuerst Anspruchsberechtigter, Anfechtungsgegner, Rechtshandlung, Benachteiligung, subjektive Merkmale, Frist und Rechtsfolge bestimmen. Eine Entscheidung aus einem anderen System nur nach ausdrücklicher Prüfung ihrer Übertragbarkeit verwenden; jedes Zitat benötigt Gericht, Datum, Aktenzeichen, tragende Aussage und Quelle.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

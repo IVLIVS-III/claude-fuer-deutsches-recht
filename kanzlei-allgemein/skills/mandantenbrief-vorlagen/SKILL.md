@@ -19,9 +19,6 @@ description: "Wenn es um Mandantenbrief-Vorlagen in Kanzlei-Allgemein geht: erst
 3. Muss eine Kostenbelehrung (§ 49b Abs. 5 BRAO) oder ein Datenschutzhinweis (Art. 13 DSGVO) beigefuegt werden?
 4. Soll das Schreiben postalisch, per E-Mail oder über beA versandt werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 49b Abs. 5 BRAO — Pflicht zur Kostenbelehrung bei Auftragsannahme
 - Art. 13 DSGVO — Informationspflicht bei Ersterhebung personenbezogener Daten (Mandantenaufnahme)
@@ -216,3 +213,5 @@ Mit freundlichen Grüßen
 ## Versand
 
 Vor Versand der Skill `versand-vor-check` aus diesem Plugin. Eintrag im Postausgang.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

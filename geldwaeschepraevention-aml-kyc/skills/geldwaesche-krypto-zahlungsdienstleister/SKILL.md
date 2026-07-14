@@ -23,9 +23,6 @@ AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleiste
 3. Gibt es Hinweise auf Mixer, Anonymisierungstools oder High-Risk-Wallets laut Blockchain-Analyse?
 4. Ist der VASP (Virtual Asset Service Provider) in der EU registriert oder aus einem Drittland?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 2 Abs. 1 Nr. 2a GwG — Kryptowertedienstleister als Verpflichtete
 - Art. 14-16 TFR (Transfer of Funds Regulation) — Travel Rule ab 1.000 EUR
@@ -54,3 +51,5 @@ AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleiste
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

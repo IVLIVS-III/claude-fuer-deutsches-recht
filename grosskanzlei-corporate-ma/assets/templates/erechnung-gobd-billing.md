@@ -4,13 +4,13 @@
 
 | Feld | Inhalt | Status |
 | --- | --- | --- |
-| Rechnungsnummer |  | TODO |
-| Mandant |  | TODO |
-| Aktenzeichen |  | TODO |
-| Leistungszeitraum |  | TODO |
-| Umsatzsteuerlogik | Inland / EU / Drittland / Reverse Charge / befreit | TODO |
-| Format | PDF / XRechnung / ZUGFeRD | TODO |
-| Export | DATEV / CSV / manuell | TODO |
+| Rechnungsnummer |  | offen |
+| Mandant |  | offen |
+| Aktenzeichen |  | offen |
+| Leistungszeitraum |  | offen |
+| Umsatzsteuerlogik | Inland / EU / Drittland / Reverse Charge / befreit | offen |
+| Format | PDF / XRechnung / ZUGFeRD | offen |
+| Export | DATEV / CSV / manuell | offen |
 
 ## Leistungspositionen
 

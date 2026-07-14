@@ -215,7 +215,7 @@ Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die
 
 ### 15.10. Klagefreigabe belegte Forderung
 
-Bevor Klage eingereicht wird durchläuft die Forderung ein Pflicht-Prüfraster. Liefere das Raster und das Freigabe-Vermerksmuster. `` Klagefreigabe Forderungssache [Schuldner] - Akte [...] 1. Anspruchsgrund [Norm und Sachverhalt] 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bevor Klage eingereicht wird durchläuft die Forderung ein Pflicht-Prüfraster. Liefere das Raster und das Freigabe-Vermerksmuster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
 
 ### 15.11. Klagewerkstatt — Lernlauf aus eigenen Mustern
 

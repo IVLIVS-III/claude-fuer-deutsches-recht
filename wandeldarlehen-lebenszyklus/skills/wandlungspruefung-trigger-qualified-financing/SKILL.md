@@ -29,9 +29,6 @@ description: "Wenn es um Wandlungsprüfung – Trigger Qualified Financing in Wa
 - § 5 Abs. 1 GmbHG (Mindestnennbetrag Anteil EUR 1)
 - § 272 Abs. 2 Nr. 4 HGB (Einlage in Kapitalrücklage)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Schwellentest Qualified Financing
@@ -87,12 +84,8 @@ Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 55 GmbHG (Kapitalerhöhung durch neue Einlagen) → §§ 241, 242 BGB (Treu und Glauben, Information des Darlehensgebers) → § 280 BGB (Schadensersatz bei Verweigerung der Information) → § 5 Abs. 1 GmbHG (Mindest-Nennbetrag, Aufrundung) → §§ 195, 199 BGB (Verjährung Wandlungsrecht)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -63,10 +63,6 @@ Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwälten entfällt 
 - **Paragraf 1 Abs. 1 KSchG** — Wartezeit sechs Monate
 - **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wo dieser Baustein erscheint
 
 - Vor jedem Klageschrift-Entwurf (Skill `kueschk-klageschrift-laie-baustein`)
@@ -82,3 +78,5 @@ Der Warnblock ist kein optionaler Hinweis, sondern Pflichtbestandteil. Er darf w
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

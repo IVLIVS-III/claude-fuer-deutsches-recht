@@ -68,10 +68,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
 - **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen und Paragrafenkette
 
 - § 43a Abs. 4 BRAO — Interessenkonflikt
@@ -234,3 +230,5 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 
 - `vergleichsverhandlung-strategie` — für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` — für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

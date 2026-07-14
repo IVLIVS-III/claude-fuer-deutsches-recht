@@ -84,13 +84,11 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 - "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
  Bestellungsbeschluss als Anlage einfügen."
 
-## Aktuelle Rechtsprechung — Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette
 
 - Schriftform: § 550 BGB, § 311b BGB
 - Mietpreisbremse: §§ 556d ff. BGB
 - Modernisierung: §§ 555a ff. BGB
 - WEG-Verwaltervertrag: §§ 26 ff. WEG
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

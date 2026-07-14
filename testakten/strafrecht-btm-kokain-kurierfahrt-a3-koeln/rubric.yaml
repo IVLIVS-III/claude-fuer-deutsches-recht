@@ -1,4 +1,5 @@
 name: strafrecht-btm-kokain-kurierfahrt-a3-koeln
+plugin: "fachanwalt-strafrecht"
 description: Betäubungsmittelverfahren nach A3-Kontrolle mit Kokainfund, Durchsuchung, DNA-Spuren, Handyforensik,
   Kurierwissen und Haftfrage.
 checks:

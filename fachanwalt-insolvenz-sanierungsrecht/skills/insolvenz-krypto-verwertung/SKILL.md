@@ -232,9 +232,7 @@ Erzwingungshaft-Verfahren: Gerichtsgebühren gering (ca. 150–300 EUR); Hauptko
 ## Quellen
 
 - InsO §§ 35, 47, 80, 97, 98, 148, 159
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben v. 22.11.2024 zur ertragsteuerlichen Behandlung von Kryptowährungen
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - US Bankruptcy Court SDNY, In re FTX Trading Ltd., 22-11068 (2022/2023)
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Chainalysis Blockchain Analytics Platform (forensische Wallet-Analyse)
@@ -248,3 +246,5 @@ Bevor losgelegt wird, klaere:
 3. **Anfechtungsrisiko?** Krypto-Transfers in den letzten 4 Jahren vor Antrag → § 133 InsO.
 4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit prüfen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
 5. **Verjährung § 146 InsO?** Anfechtungsfristen für Krypto-Transfers laufen ab → sofort Inventur.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -272,10 +272,6 @@ Bei drohender Abschiebung:
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Triage
 
 - **§ 36 AsylG** — 1-Woche-Klagefrist bei offensichtlich unbegruedet; § 74 Abs. 1 AsylG — 2-Wochen-Klagefrist
@@ -329,6 +325,8 @@ Eskalation: [ ] Sofort-Telefon [ ] Heute [ ] Diese Woche
 
 Aktennummer: [AZ]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -799,10 +797,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
-## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Mandatsannahme)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette Erstgespraech
 
 - **§ 10 ff. GwG** — Sorgfaltspflichten und Identifizierung; § 2 Abs. 1 Nr. 10 GwG — Anwendung auf RA-Mandate
@@ -811,6 +805,8 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - **§§ 166 VwGO, 114 ZPO** — Prozesskostenhilfe im Verwaltungsverfahren
 - **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR für Asylklage
 - **§ 25 Abs. 6 AsylG** — Recht auf anwaltlichen Beistand bei BAMF-Anhörung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

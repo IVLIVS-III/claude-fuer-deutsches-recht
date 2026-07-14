@@ -111,10 +111,6 @@ IT-Vertrag-Verhandlung ist Verhandlungs-intensiv: SaaS, Cloud, Lizenz, IT-Projek
 
 Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schiedsordnung. Bei VSBG-Reform aktualisieren.
 
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 - §§ 305–310 BGB — AGB-Recht; § 307 (Generalklausel), § 309 Nr. 7/8 (verbotene Klauseln)
@@ -179,3 +175,4 @@ Nächster Termin: [DATUM]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

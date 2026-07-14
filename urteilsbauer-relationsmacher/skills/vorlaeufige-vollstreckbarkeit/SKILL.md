@@ -12,10 +12,6 @@ description: "Wenn es um Vorläufige Vollstreckbarkeit in Urteilsbauer und Relat
 3. Ist Berufung statthaft (Beschwer > 600 EUR) — wenn nein: § 713 ZPO (ohne Sicherheit)?
 4. Hat die unterlegene Partei einen Schutzantrag nach § 711 ZPO gestellt?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 708 ZPO — Vollstreckbarkeit ohne Sicherheitsleistung (Nr. 1-11 Aufzählung)
@@ -89,3 +85,5 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 - Bei Schutzantrag: "Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 von hundert des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht der Kläger Sicherheit in Höhe des jeweils zu vollstreckenden Betrages leistet."
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

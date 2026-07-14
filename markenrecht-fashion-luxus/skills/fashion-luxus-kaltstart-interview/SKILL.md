@@ -36,10 +36,6 @@ Dieser strukturierte Fragenkatalog und die IP-Audit-Checkliste sind das Handwerk
 - **Datenschutz (DSGVO / § 4 BORA):** Mandanteninformationen streng vertraulich; Aktenführung nach Kanzlei-Standards
 - **IP-Audit-Grundlage:** Markenrecht (§§ 3-9 MarkenG, UMV), Designrecht (DesignG, GGV), Urheberrecht (UrhG), Patentrecht (PatG), Know-how (GeschGehG)
 
-## Aktuelle Rechtsprechung für IP-Audit Luxusmarken
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Prüfungsschritte — Fragenkatalog
 
 ### Abschnitt 1: Unternehmens-Grunddaten
@@ -214,3 +210,5 @@ ENFORCEMENT
 - **Unvollständige Inventur:** Fehlende Marken werden erst bei Verletzungsfall entdeckt — regelmäßige Updates des Audits (jährlich)
 - **Fristenkontrolle sofort:** Bereits im Erstgespräch alle Ablauffristen notieren; keine Woche Pause bis zur Fristenübersicht
 - **Vertraulichkeit des Mandats:** Mandantendaten (Umsätze, Designpläne, Kampagnen) streng nach DSGVO behandeln; keine Nutzung in anderen Mandaten
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

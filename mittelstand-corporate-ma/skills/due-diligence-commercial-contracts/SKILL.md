@@ -161,10 +161,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 613a BGB — Betriebsuebergang: bei Asset Deal gehen Arbeitsverhaeltnisse kraft Gesetzes über; Change-of-Control in Arbeitsvertraegen unwirksam, soweit sie § 613a BGB umgehen
 - §§ 15 ff. MarkenG / §§ 58 ff. PatG — IP-Lizenzvertraege: Einschrankung der Rechte bei Inhaberwechsel; Zustimmungsvorbehalte
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Vertragsmatrix erstellen:** alle materiellen Verträge auflisten; je Vertrag: Parteien, Laufzeit, Kuendigungsrechte, Wert, Change-of-Control-Klausel
@@ -179,3 +175,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Wesentlicher Kundenvertrag mit Change-of-Control ohne Kaeufer-Consent: Deal-Breaker-Risiko
 - Exklusivitaet zulasten Kaeufer nach Closing: wirtschaftlicher Schaden
 - IP-Lizenz mit Kuendigungsrecht: Verlust wesentlicher IP-Basis
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

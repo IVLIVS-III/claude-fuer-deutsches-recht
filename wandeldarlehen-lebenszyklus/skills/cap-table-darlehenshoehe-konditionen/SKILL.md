@@ -29,9 +29,6 @@ description: "Wenn es um Cap-Table Update – Pre-Money und Post-Money in Wandel
 - § 5 Abs. 1 GmbHG (Mindestanteilsnennwert EUR 1)
 - § 272 HGB (Eigenkapitalausweis)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Beispiel Pre-Money-Cap-Table (Sonnenglas UG)
 
 | Gesellschafter | Anteile | Nennwert (EUR) | Prozent |
@@ -72,12 +69,8 @@ Stand: 05/2026. Bei Änderung GmbHG § 40 aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 40 GmbHG (Gesellschafterliste, unverzügliche Aktualisierung nach Wandlung) → § 15 GmbHG (Abtretung Anteile) → § 17 GmbHG (Mehrfachabtretung) → § 16 GmbHG (Gesellschafterstellung, Legitimationswirkung Liste) → § 55 GmbHG (Kapitalerhöhungsbeschluss, neue Anteile)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

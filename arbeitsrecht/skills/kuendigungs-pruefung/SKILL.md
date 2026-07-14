@@ -38,7 +38,6 @@ description: "Wenn es um Kuendigungs Prüfung in Arbeitsrecht geht: prüft Frist
 
 **Schwellenwert:** KSchG gilt für Arbeitnehmer, die länger als 6 Monate beschäftigt sind (Paragraf 1 Abs. 1 KSchG), wenn im Betrieb **mehr als 10 Arbeitnehmer** i.S.d. Paragraf 23 KSchG beschäftigt sind (Vollzeitkräfte zählen voll; Teilzeitkräfte bis 20 h = 0,5; bis 30 h = 0,75; Leiharbeitnehmer ohne Berücksichtigung).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 2. Sonderkündigungsschutz-Check (vor allem anderen)
 
@@ -60,7 +59,6 @@ Falls Betriebsrat vorhanden: **Jede Kündigung vor Ausspruch anhören.** Ohne or
 
 Checkliste:
 - Ist der BR schriftlich informiert worden?
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Frist abgewartet? (ordentlich: 1 Woche; außerordentlich: 3 Tage; Paragraf 102 Abs. 2 BetrVG)
 - Ordnungsgemäße Bedenken des BR beachtet (keine Vetorechte bei ordentlicher Kündigung, aber Widerspruch nach Paragraf 102 Abs. 3 BetrVG gibt Weiterbeschäftigungsanspruch Paragraf 102 Abs. 5 BetrVG)
 
@@ -119,7 +117,6 @@ Verweis auf separaten Skill: `/arbeitsrecht:abmahnung-arbeitsrecht`
 
 Tarifvertragliche Abweichungen prüfen! Ggf. günstigere Individualvereinbarung.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 6. Abfindungsangebot (Paragraf 1a KSchG)
 
@@ -129,7 +126,6 @@ Arbeitgeber kann mit der Kündigung eine Abfindung nach Paragraf 1a KSchG anbiet
 
 **Typische Konstellation:** Unmittelbar vor oder nach Ausspruch der Kündigung – oft zeitgleich mit der Ankündigung einer KSchG-Klage – stellt der Arbeitnehmer oder sein Bevollmächtigter ein Auskunftsersuchen nach Art. 15 DSGVO. Ziel ist häufig, über den Umweg des Datenschutzrechts Einblick in interne Personalakten, Abmahnungsunterlagen oder Vermerke zu erlangen und so den Arbeitgeber unter Vergleichsdruck zu setzen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt oder mit angemessenen Kosten belegt werden, wenn der Verantwortliche (Arbeitgeber) zwei Elemente nachweist:
 
 1. **Objektives Element:** Äußere Umstände lassen auf missbräuchliche Zweckverfolgung schließen — z. B. ungewöhnlich kurzer zeitlicher Abstand zwischen Zugang der Kündigung und Auskunftsantrag, Muster massenhafter Legal-Tech-gestützter Antragstellung, Anmeldung zur Datenverarbeitung allein zum Zweck der Anfrage.
@@ -138,7 +134,6 @@ Ein Auskunftsersuchen kann nach Art. 12 Abs. 5 S. 2 DSGVO als exzessiv abgelehnt
 Hürden sind **hoch**: Das Auskunftsrecht ist ein Grundrecht (Art. 8 GRCh); Ausnahmen sind eng auszulegen. Auch ein erstmaliges Ersuchen kann exzessiv sein, aber bloße Mehrfachanträge oder die bloße Tatsache vergangener Auskunftsansprüche genügen nicht.
 
 **BAG-Linie zu Art. 82 DSGVO:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Praxishinweise für den Arbeitgeber:**
 - DSGVO-Auskunft fristgerecht innerhalb eines Monats beantworten (Art. 12 Abs. 3 DSGVO); unberechtigte Ablehnung kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen.
@@ -155,7 +150,6 @@ Wesentliche Quellen:
 - Dörner/Vossen, in: KR, 13. Aufl. 2022, Paragraf 1 KSchG Rn. 1 ff. (Sozialauswahl)
 - Becker/Wolff, in: APS, 6. Aufl. 2021, Paragraf 1 KSchG Rn. 500 ff. (betriebsbedingte Kündigung)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 

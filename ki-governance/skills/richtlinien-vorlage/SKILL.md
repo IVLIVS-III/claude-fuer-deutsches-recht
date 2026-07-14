@@ -42,10 +42,8 @@ description: "Wenn es um digitale Werkzeuge-Richtlinien-Starter in diesem Spezia
 
 **Leitentscheidungen**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
  Entscheidungen operationalisieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
  Mitarbeiterbewertung.
 
@@ -140,7 +138,6 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-KI.
 - **GeschGehG §§ 2, 4** bei Abschnitt zu vertraulichen Daten.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Entscheidungen.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**
@@ -205,3 +202,4 @@ Datenschutzbeauftragter: [NAME, EMAIL]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

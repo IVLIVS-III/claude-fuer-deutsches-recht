@@ -150,10 +150,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Art. 6 DSA — Haftungsprivileg Plattform (notice and take down)
 - VGG §§ 92 ff. — Schiedsstelle, § 128 VGG — Klage OLG Muenchen
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Routing-Matrix
 
 | Sachgebiet | Folge-Skill |
@@ -204,6 +200,8 @@ Schritt 5: Routing zum Folge-Skill
 - `erstgespraech-mandatsannahme` — vollstaendige Mandatsannahme
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
 - `fachanwalt-urheber-medienrecht-orientierung` — Normen-Übersicht
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -261,10 +259,6 @@ KI-Training und Text-Data-Mining?
 | EU-Recht | InfoSoc-RL 2001/29; DSM-RL 2019/790; DSA |
 | KI-Training | § 44b UrhG; DSM-RL Art. 3, 4 |
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Typische Mandate mit Zeitschiene
 
 | Mandatstyp | Erstschritte | Frist |
@@ -291,6 +285,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Bei markenrechtlichen Aspekten: Plugin `gewerblicher-rechtsschutz` / `fachanwalt-gewerblicher-rechtsschutz`.
 - Bei Verlagsvertraegen: Plugin `verlagsredaktion`.
 - Bei Plattformhaftung/DSA: Plugin `fachanwalt-it-recht` / DSA-Kompetenz.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -331,10 +327,6 @@ _Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und M
 - LPG (jeweiliges Bundesland) — Gegendarstellungsanspruch
 - § 43a Abs. 4 BRAO, § 3 BORA — Interessenkonflikt
 - §§ 10 ff. GwG — Identifizierungspflicht
-
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Phasen des Erstgespraechs
 
@@ -454,6 +446,8 @@ Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
 - `urheber-abmahnung-pruefen` — Abmahnpruefung
 - `fachanwalt-urheber-medienrecht-gegendarstellung-presse` — Gegendarstellung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -587,7 +581,6 @@ Das Training großer KI-Modelle (LLMs, Bildgeneratoren, Musikgeneratoren) erford
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | US District Court NY (Reuters vs. Ross) | US District Court, 11.02.2025 | Fair Use abgelehnt: Training eines KI-Recherchetools mit Rechtsartikeln ist keine transformative Nutzung; kommerzieller Zweck schadet |
 
 ---
@@ -762,7 +755,6 @@ Nachweise:
 - Zeitstempel-zertifizierte Kopie: [notarielle Bestätigung]
 - EXIF-Daten der Bilder: [Anlage 2]
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 prospektiv; für Trainingsdaten erhoben vor Opt-out-Setzung
 gelten Ansprüche nach § 44b Abs. 3 UrhG nicht.
 Rückwirkungsklage erfordert anderen Anspruchsweg (§ 97 UrhG
@@ -797,8 +789,6 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 | Gegenargument | Erwiderung |
 |---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | "Wir sind in den USA und US-Recht gilt" | EU-Niederlassung oder Auftragsverarbeiter in EU begründet EU-Gerichtsstand; zudem: EU-Nutzer sind betroffen → Marktortprinzip |
 
 ---
@@ -836,10 +826,6 @@ direkt wenn § 44b Abs. 1 UrhG nicht greift).
 
 ---
 
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage-Fragen bei TDM/KI-Training-Opt-out-Mandat
 
 Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
@@ -847,14 +833,6 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 2. Wurde ein Opt-out vor dem Trainings-Zeitpunkt erklaert (maschinenlesbar: robots.txt, TDM Reserved Right)?
 3. Liegen Nachweise dafuer vor, dass ein KI-Anbieter das Werk tatsaechlich verwendet hat (Modellergebnis, Trainingsdaten-Erklaerung)?
 4. Ist § 60d UrhG (Wissenschaftliches TDM) als Privilegierungstatbestand einschlaegig?
-
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Faktische Updates (Stand 05/2026)
 
@@ -864,6 +842,8 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 - **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
 - **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
 - **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1041,7 +1021,6 @@ II. Bestreiten der Verletzungshandlung
 
 [ggf.: Der Internet-Anschluss des Mandanten wurde zum behaupteten
 Zeitpunkt auch von [Dritten] genutzt. Sekundäre Darlegungslast
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 kommen [Familienangehörige, Gäste] in Betracht.]
 
 III. Streitwertbegrenzung § 97a Abs. 3 UrhG
@@ -1157,10 +1136,6 @@ ODER
 
 ---
 
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage-Fragen bei Urheber-Abmahnungs-Prüfung
 
 Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
@@ -1171,13 +1146,12 @@ Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

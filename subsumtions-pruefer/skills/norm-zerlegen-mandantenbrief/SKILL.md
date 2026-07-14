@@ -45,8 +45,6 @@ Das System liest den Normtext und unterteilt in:
 2. Fälligkeit des Anspruchs (§§ 271 ff. BGB)
 3. Nicht erfüllt (§ 362 BGB: noch keine Erfüllung)
 
-### Schritt 3 — Definitionen aus h.M. und Rechtsprechung
-
 ## Quellen für Definitionen und Methodik
 
 - **Normtext zuerst:** Wortlaut, Satzstruktur, Verweisungen, Ausnahmen und Rechtsfolge sichtbar zerlegen.

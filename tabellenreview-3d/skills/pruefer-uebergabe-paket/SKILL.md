@@ -14,7 +14,6 @@ description: "Wenn es um /tabellenreview-3d:prüfer-übergabe-paket in Tabellenr
 
 ## Rechtliche Grundlagen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bestandteile
 
@@ -77,3 +76,5 @@ Erst nach dokumentierter Prüfer-Abnahme darf das Paket (oder Auszüge davon) an
 - BRAO Paragraph 43a Absatz 2 — Verschwiegenheit
 - StGB Paragraph 203 — Privatgeheimnisse
 - RDG Paragraph 2 — Rechtsdienstleistung darf nur durch Rechtsanwalt erbracht werden — der Würfel ist Vorbereitung, die Abnahme ist die Rechtsdienstleistung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

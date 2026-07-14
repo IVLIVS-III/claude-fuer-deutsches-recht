@@ -157,8 +157,8 @@ Bevor der Bericht formatiert wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen für IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben über bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

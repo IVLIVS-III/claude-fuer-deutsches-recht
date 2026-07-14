@@ -58,10 +58,6 @@ Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
 - Bei Änderung der Materialitätsschwelle: Hinweis, dass der `aufsichts-feed-monitor` beim nächsten Lauf die neue Schwelle anwendet.
 - Bei Änderung des Richtlinienspeichers: Hinweis, dass `richtlinien-vergleich` den neuen Pfad nutzt.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 §§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Änderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
@@ -94,3 +90,5 @@ Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderu
 - **Versehentliches Überschreiben:** Dieser Skill ändert nur den angegebenen Abschnitt. Nie das gesamte Profil überschreiben.
 - **Ungültige Feed-URLs:** Feed-URL vor dem Speichern testen; defekte Feeds führen zu stillen Fehlern im `aufsichts-feed-monitor`.
 - **Fehlende Neuindizierung:** Nach Änderung des Richtlinienspeichers muss die Bibliothek neu indiziert werden. Hinweis geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

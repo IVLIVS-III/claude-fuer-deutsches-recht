@@ -584,8 +584,6 @@ EMPFEHLUNG:
 - → `pension-buyout-strukturierung-und-de-risking` — Buyout als Post-Closing-Maßnahme
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
 
-## Ergaenzende Rechtsprechung (v14.2)
-
 ---
 
 ## Skill: `governance-und-anpassungsmechanismen`
@@ -1386,7 +1384,6 @@ _Wenn es um Internationale Buyout-Datenflows und Datenschutz in BAV Strategie Ko
 - DSGVO Art. 6 (Rechtmäßigkeit der Verarbeitung — Interessenabwägung, Vertrag, rechtliche Verpflichtung)
 - DSGVO Art. 46 (Drittlandübermittlung — Standardvertragsklauseln SCC; Binding Corporate Rules BCR)
 - DSGVO Art. 28 (Auftragsverarbeitungsvertrag — AV-Vertrag mit Versicherer/Buyout-Partner)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EU-US Data Privacy Framework (DPF, seit 10.7.2023) — neuer Angemessenheitsbeschluss USA
 - DSGVO Art. 13/14 (Informationspflichten bei Datenerhebung/-weitergabe — Berechtigte informieren)
 - DSGVO Art. 30 (Verarbeitungsverzeichnis)
@@ -1569,6 +1566,8 @@ Allgemein:
 - → `japan-bav-und-corporate-pension-iorp` — APPI Japan im Detail
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1878,7 +1877,7 @@ Beitragsgrenze (2024) | Keine Obergrenze | JPY 55.000 p.m. (ohne anderen Plan)
 
 ## Aktuelle Rechtsprechung und Leitsaetze
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -2411,8 +2410,6 @@ D. RECHTLICHE DOKUMENTATION
 - → `buyout-im-ma-deal-asset-vs-share` — Buy-out im M&A-Kontext
 - → `internationale-buyout-datenflows-und-datenschutz` — Datenschutz bei Datenraum
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriff in Versorgungsrechte durch Ablösung
-
-## Ergaenzende Rechtsprechung (v14.2)
 
 ---
 

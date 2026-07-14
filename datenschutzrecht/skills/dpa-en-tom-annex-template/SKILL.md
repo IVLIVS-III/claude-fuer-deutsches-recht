@@ -135,4 +135,3 @@ ________________________________ ____________________________
 - BSI C5:2020.
 - SOC 2 Trust Services Criteria (AICPA, 2017, as amended).
 - Citation rules: `../../../references/zitierweise.md`.
-```

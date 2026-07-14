@@ -45,7 +45,6 @@ Ein Schriftsatz ist prozessual nach Paragraf 130a Abs. 3 ZPO wirksam eingereicht
 
 Das ist aber nicht automatisch die materielle elektronische Form nach Paragraf 126a BGB. Für Paragraf 126a BGB braucht das elektronische Dokument den Namen des Ausstellers und eine qES. Die bloße sichere Übermittlung aus dem beA ersetzt diese qES nicht, solange keine gesetzliche Formfiktion eingreift.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Vor Paragraf 130e ZPO musste bei einer schriftformbedürftigen Kündigung in einem qES-Schriftsatz geprüft werden, ob die qES-Datei dem Erklärungsempfänger elektronisch mit prüfbarer Signatur zugegangen ist. Ein Ausdruck mit Transfervermerk nach Paragraf 298 Abs. 3 ZPO genügte nicht. Auch eine beA-Weiterleitung war nicht allein deshalb ausreichend, weil die Einreichung gegenüber dem Gericht prozessual ordnungsgemäß war. Entscheidend blieb die Verifikationsfunktion gegenüber dem materiell-rechtlichen Empfänger.
 
@@ -168,3 +167,5 @@ Vollmachtsurkunde im Original vorgelegt wurde (Paragraf 174 Satz 1 BGB).
 - **beA ohne qES**: Eine einfache Signatur plus beA kann Paragraf 130a ZPO erfüllen, aber nicht automatisch Paragraf 126a BGB. Erst Paragraf 130e ZPO oder Paragraf 46h ArbGG kann die materielle Formfrage über eine gesetzliche Fiktion lösen.
 - **Paragraf 130e ZPO nicht als Zustellungsnorm missverstehen**: Die Norm fingiert Form und Zugang der Willenserklärung, wenn Zustellung oder Mitteilung ordnungsgemäß erfolgt ist. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - **Andere Prozessordnungen**: VwGO, SGG, FGO, FamFG und StPO haben eigene ERV-Regeln. Eine Formfiktion wie Paragraf 130e ZPO nur anwenden, wenn die jeweilige Prozessordnung sie ausdrücklich enthält oder eindeutig verweist.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -41,10 +41,6 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studenten erfolg
 - **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
 - **§ 70 VwGO** — Form des Widerspruchs (schriftlich oder zur Niederschrift); Einreichungsfrist nach §§ 70, 58, 74 VwGO.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -103,6 +99,7 @@ Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgensc
 - **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
 - **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
+```markdown
 ## Prüfliste für Studenten
 
 Vor Vorlage an [Supervisor]:
@@ -142,3 +139,5 @@ Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: 
 Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

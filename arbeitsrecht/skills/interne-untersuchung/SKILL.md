@@ -48,7 +48,6 @@ Betriebsvereinbarung zur Unternehmensführung erforderlich.
 
 **Detektivkosten**: Kosten für externe Ermittler sind nach der
 BAG-Rechtsprechung nur unter engen Voraussetzungen als Schadensersatz
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Rechtlicher Rahmen
@@ -72,17 +71,13 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verdachtskündigung — Voraussetzungen: dringender Tatverdacht auf Basis
  objektiver Umstände, Verhältnismäßigkeit, vorherige Anhörung des
  Arbeitnehmers als zwingende Wirksamkeitsvoraussetzung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Erstattungsfähigkeit von Detektivkosten — nur soweit konkrete Verdachtslage
  bei Beauftragung bestand und Verhältnismäßigkeit gewahrt ist
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verwertungsverbot rechtswidrig erlangter Erkenntnisse — heimliche
  Videoüberwachung ohne Mitbestimmung des Betriebsrats; Beweisverwertungsverbot
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Anhörung vor Verdachtskündigung — inhaltliche Mindestanforderungen und
  Fehlerfolgen bei fehlerhafter Anhörung
 
@@ -711,8 +706,9 @@ soll sie unterstützen?
 Bei jeder Ausgabe zu Untersuchungsverfahren zitieren:
 - Paragraf 26 BDSG (Beschäftigtendatenschutz, Verhältnismäßigkeit)
 - Paragraf 87 Abs. 1 Nr. 6 BetrVG (Mitbestimmung bei technischer Überwachung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Beschäftigtendatenschutz: Paragraf 26 BDSG, Art. 5 und 6 DSGVO; Fachliteratur nur mit Nutzerquelle oder verifiziertem Live-Zugriff.
 - Paragraf 626 BGB: Zwei-Wochen-Frist, Verdachtskündigung und Anhörung nur mit verifizierter BAG-Rechtsprechung oder Nutzerquelle vertiefen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

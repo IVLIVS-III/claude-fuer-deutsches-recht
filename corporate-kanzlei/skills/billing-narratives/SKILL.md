@@ -128,10 +128,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 675 BGB** — Auftragsverhaeltnis; Auslagenpflicht; Rechenschaftspflicht
 - **GoBD (Grundsaetze ordnungsmäßiger Buchfuehrung)** — elektronische Rechnungsarchivierung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Narrative-Typen und Formulierungen
 
 ### Allgemeine Time-Narrative-Formel
@@ -197,12 +193,12 @@ IBAN: [IBAN]
 ## Rote Schwellen
 
 - Narrative enthaelt mandatsgeheimnisrelevante Details → § 43a BRAO; Vertraulichkeitspflicht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechnungsadresse falsch (Fonds statt Portfolio-Gesellschaft) → Mehrwertsteuer-Problem
 - E-Rechnung-Pflicht ab 2025 nicht beachtet → § 14a UStG-Verstoss; Abzugsfaehigkeit fraglich
 
 ## Quellen
 
 - § 49b BRAO; §§ 14, 14a UStG; §§ 3a, 4 BORA; GoBD
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

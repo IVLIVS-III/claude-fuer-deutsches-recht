@@ -24,10 +24,6 @@ Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli
 3. Handelt es sich um privilegierte Unterhaltspfändung (§ 850d ZPO) oder reguläre Pfändung?
 4. Hat der Schuldner ein P-Konto? Dann Einrichtung nach Paragraf 850k ZPO, Sockel nach Paragraf 899 ZPO, bescheinigte Erhöhungen nach Paragrafen 902 und 903 ZPO sowie Nachzahlungen gesondert erfassen.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 850a ZPO — Unpfändbare Bezüge (Sonderzuwendungen, Aufwandsentschädigungen)
@@ -99,8 +95,6 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 ## Leitentscheidungen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Qualitätsgates
 
@@ -109,3 +103,5 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 - Niemals § 850d ZPO ohne richterliche Festsetzung als feste Zahl ausgeben.
 - Bei selbstständigem Einkommen Berechnung § 850i ZPO statt § 850c ZPO.
 - Bei Sozialleistungen § 54 SGB I prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -142,4 +142,5 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 - BMF-Schreiben vom 27.04.2017 (Sanierungserlass-Nachfolge) — vor Verwendung am aktuellen BMF-Stand verifizieren.
 - Wachstumschancengesetz (BGBl. I 2024) — gesetzliche Verankerung; Stand prüfen.
 - IDW S 6 (Sanierungskonzept), IDW S 11 (Insolvenzeröffnungsgründe).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren. Vor Ausgabe Quelle mit Gericht, Datum, Aktenzeichen, Fundstelle, Randnummer protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

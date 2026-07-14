@@ -104,10 +104,6 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 - Erste Risikobewertung (grün / gelb / rot).
 - Empfehlung: bei rot direkt zu `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.
 
-## Aktuelle Leitentscheidungen — Ausloesende Ereignisse
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Ausloesende Ereignisse
 
 § 102 StaRUG (Warnpflicht Rechtsberater) → § 19 InsO (Ueberschuldung als Eröffnungsground) → § 15a InsO (Antragspflicht 3/6 Wochen) → § 15b InsO (Haftung GF) → § 43 GmbHG (Sorgfaltspflicht)
@@ -118,3 +114,5 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 2. **Datum des Signals?** Tag-genau dokumentieren → Beginn der Haftungszeit-Uhr.
 3. **Schriftliche Dokumentation?** E-Mail, Aktenvermerk, Protokoll vorhanden?
 4. **Sofortmassnahmen?** Liquiditaetsplanung starten, Anwalt einschalten, Steuerberater beauftragen?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

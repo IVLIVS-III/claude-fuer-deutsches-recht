@@ -44,10 +44,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - § 93 BVerfGG — 1-Jahres-Frist Verfassungsbeschwerde (absolut)
 - §§ 511 ff. ZPO — Berufungsfristen (1 Monat ab Zustellung)
 
-## Aktuelle Rechtsprechung zu Triage-Pflichten
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ablauf
 
 **Schritt 1 — Eingabeerfassung**
@@ -108,3 +104,5 @@ Wichtige Fristen in Ihrem Fall:
 
 Bitte bestätigen Sie, dass ich den Sachverhalt richtig erfasst habe.
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -67,15 +67,11 @@ Anbieter mit unseren Daten macht).
 
 **Leitentscheidungen**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Vertragsgestaltung muss DSGVO Art. 22 Widerspruchs- und Prüfungsrechte
  operationalisieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  von Haftungsausschlüssen bei komplexen IT-Systemen; Maßstab für KI-
  Anbieter-Haftungsklauseln.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Anforderungen an Vertragsgestaltung zum Schutz von Geschäftsgeheimnissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Datenübermittlung an externe Dienstleister; übertragbar auf KI-AVV.
 
 **Kommentare**
@@ -156,6 +152,7 @@ Widerspruchsrecht nicht operationalisiert. Jeden Widerspruch kennzeichnen.
 So klein wie möglich. Wort → Phrase → Unterklausel → Satz → Klausel.
 Chirurgische Redlines signalisieren: wir haben sorgfältig gelesen.
 
+```markdown
 ## Ergebnis
 [2 Sätze: Können wir einsetzen? Was muss sich zuerst ändern?]
 Befunde: [N]❌ [N]🟠 [N]⚠️ [N]✅
@@ -198,7 +195,6 @@ Betreiberpflichten Art. 26/29 dokumentieren. AVV: DSGVO Art. 28 prüfen.
 - **DSGVO Art. 28** bei Auftragsverarbeitung.
 - **GeschGehG § 2 Nr. 1** bei Training-auf-Daten.
 - **BGB §§ 305 ff. (§ 307)** bei AGB-Haftungsklauseln.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5** (Doppelautoren-Kommentar).
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.**
@@ -244,3 +240,5 @@ WENN ANBIETER NICHT NACHGIBT:
 
 Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Prüfung einholen.
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

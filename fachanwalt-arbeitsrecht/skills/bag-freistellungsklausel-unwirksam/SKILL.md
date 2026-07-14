@@ -16,8 +16,6 @@ description: "Wenn es um Bag Freistellungsklausel Unwirksam in Fachanwalt Arbeit
 
 **Fokus:** Fachanwalt Arbeitsrecht Bag Freistellungsklausel Unwirksam: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
-### Rechtsprechung live prüfen
-
 ## Fachlicher Kern — Arbeitsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsprechung live prüfen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
@@ -63,7 +61,6 @@ Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsp
 
 ## Wann ist Freistellung weiterhin zulässig
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Freistellungsgrund | Anforderung |
 |---|---|
@@ -73,7 +70,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Störung Betriebsfrieden | Konkrete erhebliche Störung, dokumentiert; bloße Antipathie reicht nicht |
 | Überlapping-Beschäftigung nicht möglich | Stelle bereits neu besetzt; Tätigkeiten physisch nicht mehr vorhanden |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Anwaltliche Strategie
 
@@ -147,7 +143,6 @@ Es wird beantragt:
  Fälligkeit zu zahlen.
 
 Begründung:
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 unwirksam. Die Beklagte ist seit [Datum] in Annahme-
 verzug. Die Vergütung für den Annahmeverzugszeitraum
 berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
@@ -160,7 +155,6 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 
 ## Beweislast und Darlegungslast
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - AGB-Inhaltskontrolle prüft das Gericht von Amts wegen; keine Beweislast der Parteien.
 
 ## Prüfschema Freistellung
@@ -188,7 +182,6 @@ berechnet sich wie folgt: [Monat x Brutto-Monatsgehalt].
 - **Erste Instanz**: Paragraf 12a ArbGG — keine Kostenerstattung.
 - **Wirtschaftlicher Hauptwert**: meist im Vergleich (Abfindungs-Erhöhung wegen Beschäftigungsanspruch).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 | Klausel-Wortlaut | Bewertung |
 |---|---|
@@ -206,5 +199,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellen
 
 - BGB Paragrafen 307, 615, 611a
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -51,7 +51,6 @@ Strafrechtsspezifische Interessen-Cluster:
 
 ### 3. Hebel und Grenzen im Strafverfahren
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Schadenswiedergutmachung / Zahlung an Verletzte oder gemeinnuetzige Einrichtung als Auflage bei § 153a StPO.
 - Beweisantraege als verfahrensoekonomischer Hebel (Erkenntnis: lange Beweisaufnahme oder Abkuerzung mit Strafmilderung).
 - Keine Druckdrohung mit Klage einreichen - das ist im Strafverfahren strukturell unzutreffend; die Anklage ist Sache der Staatsanwaltschaft, nicht des Verteidigers.
@@ -167,10 +166,6 @@ Strafrechtsspezifische Interessen-Cluster:
 - `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) für Adhaesion und Vergleich gemäß § 405 StPO.
 - `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) für Verhandlungen mit Nebenklage.
 
-## Aktuelle Rechtsprechung Verstaendigung / Einigung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen Verstaendigung
 
 - § 153 StPO — Einstellung bei Geringfuegigkeit (ohne Auflage)
@@ -180,3 +175,5 @@ Strafrechtsspezifische Interessen-Cluster:
 - § 257c StPO — Verstaendigung (Inhalt, Bindungswirkung, Widerruf)
 - § 46a StGB — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
 - § 302 StPO — Rechtsmittelverzicht nach Verstaendigung verboten (§ 302 I 2 StPO)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -124,6 +124,8 @@ Pro Datenbank:
 Tabelle mit Spalten:
 
 | Veröff.-Nr. | Anmelder | Anmeldetag (Prio) | CPC / IPC | Titel | Status | Link | Quelldatenbank |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| `[Veröffentlichungsnummer]` | `[Anmelder]` | `[Datum]` | `[Klasse]` | `[Titel, gegebenenfalls MT]` | `[Rechtsstand]` | `[Direktlink]` | `[Register]` |
 
 ### Schritt 5: Patentfamilien deduplizieren
 
@@ -173,8 +175,8 @@ Bevor die Datenbankrecherche gestartet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 1090/12 (Funktionale Merkmale):** Eine Entgegenhaltung nimmt ein funktionales Merkmal vorweg, wenn sie eine Vorrichtung beschreibt, die geeignet ist, die beanspruchte Funktion zu erfuellen; die tatsaechliche Ausfuehrung der Funktion ist nicht erforderlich.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

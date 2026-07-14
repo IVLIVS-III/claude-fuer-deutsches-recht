@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 192 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 194 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart-einzelpdfs.zip) |
 

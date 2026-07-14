@@ -110,5 +110,6 @@ Unterschrift DSB: ____________________
 - CNIL: cnil.fr — PIA Software, Knowledge Base, Methodology, Templates
 - DSK Datenschutzkonferenz: datenschutzkonferenz-online.de — SDM V3.0
 - BSI: bsi.bund.de — Grundschutz-Fachüberblick, Baustein zum Datenschutz
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

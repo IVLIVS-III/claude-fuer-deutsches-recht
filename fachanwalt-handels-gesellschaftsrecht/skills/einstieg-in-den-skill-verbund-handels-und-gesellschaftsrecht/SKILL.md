@@ -59,10 +59,6 @@ description: "Wenn es um Einstieg in den Skill-Verbund Handels- und Gesellschaft
 - Streit zwischen Gesellschaftern (Hinauskündigungsklauseln, Abfindung).
 - Handelsvertreterausgleich § 89b HGB.
 
-## Maßgebliche Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Übergabe
 
 - Bei Krisenfällen Schnittstelle zum Plugin `insolvenzrecht` und zu `fachanwalt-insolvenz-sanierungsrecht`.
@@ -72,13 +68,9 @@ description: "Wenn es um Einstieg in den Skill-Verbund Handels- und Gesellschaft
 
 ## Vertiefung — Ergänzende Rechtsprechung 2020-2024
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Ergänzende Literatur
 
 - K. Schmidt, Gesellschaftsrecht, 5. Aufl. 2021: MoPeG-Neukommentierung GbR-Recht ab 2024; Vergleich Personengesellschaft/Kapitalgesellschaft.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -204,10 +204,6 @@ ANLAGEN
 
 ---
 
-## Aktuelle Leitentscheidungen — StaRUG-Plan-Architektur
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Plan-Architektur
 
 § 7 StaRUG (Planinhalt allgemein) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 11 StaRUG (Anlagen) → §§ 14-19 StaRUG (Planbetroffene) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
@@ -218,3 +214,5 @@ ANLAGEN
 2. **Gestaltender Teil praezise?** Forderungstabelle, Quoten, Stundungen, Sicherheiten klar bezeichnen.
 3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
 4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

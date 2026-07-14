@@ -16,10 +16,6 @@ description: "Wenn es um Selbstanzeige nach Paragraf 371 AO in Steuerrecht – S
 - **Spezialfrage (Selbstanzeige nach § 371 AO):** Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollständigkeit aller unverjährten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgründe § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklärung. Pflichtprüfung Hoechstrisikobereich mehrere Anwaelte.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
-## Disclaimer (Schlüsselstelle — mehrfach beachten)
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kaltstart-Rückfragen
 
 1. Welche Steuerart(en) sind betroffen?
@@ -33,7 +29,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Selbstanzeige bei Steuerhinterziehung:** § 371 AO.
 - **Selbstanzeige bei leichtfertiger Steuerverkürzung:** § 378 Abs. 3 AO.
 - **Absehen von Verfolgung in besonderen Fällen:** § 398a AO. Gestaffelte Zuschlagshöhe (seit 2015): bei Hinterziehungsbetrag > 25 000 EUR ein Zuschlag von **10 %**, > 100 000 EUR **15 %**, > 1 000 000 EUR **20 %** des hinterzogenen Betrags je Tat (zusätzlich zu Steuer und Zinsen).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Verjährung Steuerhinterziehung:** § 376 AO — fünfzehn Jahre seit der Beendigung; bei besonders schwerem Fall § 370 Abs. 3 AO ebenfalls fünfzehn Jahre.
 
 ## Abgrenzung § 153 AO — KEIN eigenständiger Strafbefreiungsgrund
@@ -54,7 +49,6 @@ Durch das DAC7-Umsetzungsgesetz (BGBl. 2022 I S. 2730) wurde § 153 Abs. 4 AO ei
 
 BMF-Schreiben vom 23.05.2016 (AEAO zu § 153 AO) und Aktualisierungen — Abgrenzung Berichtigung / Selbstanzeige; Indizwirkung eines Tax Compliance Management Systems (Tax-CMS) gegen Vorsatz und Leichtfertigkeit. Aktuellen AEAO-Stand über bundesfinanzministerium.de prüfen.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Wirksamkeitsvoraussetzungen § 371 Abs. 1 AO
 
@@ -91,7 +85,6 @@ Die Selbstanzeige ist **gesperrt**, wenn:
  - Liegt eine Sperrwirkung vor? Wenn ja, in welchem Umfang?
 3. Berichtigungsumfang ermitteln
  - Belegmäßige Aufarbeitung; Schätzung nur als ultima ratio
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  BGHSt 55, 180 Rn. 28).
 4. Zahlbarkeit prüfen
  - Hinterzogene Steuer + Hinterziehungszinsen § 235 AO + ggf.
@@ -201,3 +194,5 @@ Mit freundlichen Grüßen
 ## Hinweis
 
 Dieser Skill ist Werkzeug zur Vorbereitung. Die Entscheidung Selbstanzeige zu erstatten verbleibt beim Mandanten nach vollständiger anwaltlicher Beratung. Steuerstrafrechtliche Bezüge erfordern besondere Expertise — bei Zweifeln Steuerstrafverteidiger hinzuziehen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

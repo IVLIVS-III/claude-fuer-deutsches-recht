@@ -1,4 +1,5 @@
 name: rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel
+plugin: "rentenpruefer"
 description: Abgelehnte Erwerbsminderungsrente mit Diskrepanz zwischen Reha-Entlassungsbericht und behandelnden
   Ärzten, gemischter orthopädisch-psychischer Lage, Widerspruch und Klagevorbereitung.
 checks:

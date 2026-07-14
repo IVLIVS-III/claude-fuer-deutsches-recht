@@ -61,16 +61,12 @@ Dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus so
 ### Leitentscheidungen (BGH-Stil)
 
 - **Abgrenzungskriterien abhängige Beschäftigung / Selbständigkeit:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Einzelfallabwägung / unternehmerisches Risiko:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Rückwirkung des Statusfeststellungsbescheids:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Paragraf 266a StGB / Vorsatz:**
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Quellenregel
 
@@ -92,7 +88,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Eigene Arbeitnehmer | Keine eigenen AN | Beschäftigt eigene AN |
 | Auftreten am Markt | Kein Auftritt als Unternehmer | Eigene Werbung, Kunden etc. |
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vertragswortlaut ist nicht maßgeblich**, wenn tatsächliche Durchführung abweicht.
 
 ### Schritt 2 – Statusfeststellungsverfahren (Paragraf 7a SGB IV)
@@ -116,7 +111,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Strafrechtlich:**
 - Paragraf 266a StGB: Strafbarkeit des Arbeitgebers (Geschäftsführer, Vorstand) bei vorsätzlichem Vorenthalten von Beiträgen; Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Selbstanzeige / Nachentrichten: Bei Paragraf 266a StGB existiert – anders als bei Paragraf 371 AO – keine strafbefreiende Selbstanzeige; freiwillige Nachzahlung ist aber strafmildernd.
 
 ### Schritt 4 – Gestaltungsoptionen und Risikominimierung
@@ -131,7 +125,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Freiberufler nach Paragraf 18 EStG unterliegen keiner Gewerbesteuer, jedoch ggf. der SV-Pflicht als Beschäftigte, wenn Eingliederung vorliegt.
 - Künstlerische und publizistische Tätigkeiten → Künstlersozialversicherung (KSVG) prüfen: Abgabepflicht des Auftraggebers (Paragrafen 24, 25 KSVG).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Beispiel
 
@@ -140,11 +133,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Ergebnis:** Erhebliche Indizien sprechen für abhängige Beschäftigung, Scheinselbständigkeit liegt nahe.
 
 **Bewertung:**
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Eingliederung:* F ist in die Organisation der U-GmbH eingebunden (Projektmanagement, fremde IT).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Empfehlung:* Statusfeststellungsverfahren nach Paragraf 7a SGB IV sofort prüfen; SV-Beitragsrisiko nach Paragraf 25 SGB IV sauber zeitlich aufbauen (regelmäßige Verjährung vier Jahre, bei vorsätzlich vorenthaltenen Beiträgen dreißig Jahre), Säumniszuschläge und strafrechtliches Risiko Paragraf 266a StGB getrennt dokumentieren. Keine Kommentarstelle aus Modellwissen zitieren; für Rechtsprechung `rechtsstand-mai-2026-faktenbank` laden.
 
@@ -173,3 +164,5 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei umstrittenen Fragen (z. B. Abgrenzung tatsächliche vs. vertragliche Verhältnisse) h. M. und Gegenauffassung getrennt nennen.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen vor Einreichung bei DRV, Sozialgericht oder Finanzgericht verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

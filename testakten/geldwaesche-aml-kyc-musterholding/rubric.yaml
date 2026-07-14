@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Geldwaesche Aml Kyc Musterholding"
-plugin: "tbd"
+plugin: "geldwaeschepraevention-aml-kyc"
 
 checks:
   - id: r01-readme-vorhanden

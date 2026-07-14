@@ -38,7 +38,6 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 
 ### Leitentscheidungen und Verwaltungsanweisungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag: massgeblich sind die allgemeinen Grundsaetze des § 252 HGB und die EStG-Periodenregelungen; konkrete BFH-Aktenzeichen zur Periodenabgrenzung in amtliche/freie Quellen oder lizenzierte Datenbanken unter den Suchbegriffen "Periodenabgrenzung Betriebsausgaben" abrufbar.
 - BMF-Schreiben zu GoBD: massgeblich ist das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269; etwaige Aktualisierungen ueber bundesfinanzministerium.de pruefen.
 - IDW PS 480 — Grundsaetze fuer die Erstellung von Jahresabschluessen (analog fuer hochwertige BWA-Erstellung).
@@ -132,3 +131,5 @@ Stand: 05/2026.
 - DATEV Standard-BWA Form 01.
 - StBerG §§ 1, 33, 57 Abs. 3.
 - Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in amtliche/freie Quellen oder lizenzierte Datenbanken gegenpruefen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -134,7 +134,6 @@ Prüfung der OSS-Lizenz-Konformität — vor Produkt-Launch, vor M&A-Due-Diligen
 
 ### Klage-Risiko
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Streitwert nach Lizenz-Höhe + Schadensersatz
 
 ## 8) M&A-Kontext
@@ -170,10 +169,6 @@ Prüfung der OSS-Lizenz-Konformität — vor Produkt-Launch, vor M&A-Due-Diligen
 - `fachanwalt-gewerblicher-rechtsschutz-orientierung` — bei IP-Streit
 - `corporate-kanzlei` — bei M&A
 
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage zu Beginn
 
 1. Welche Lizenzen sind im Software-Stack vorhanden? (SBOM-Analyse erforderlich?)
@@ -202,7 +197,6 @@ Handlungsempfehlungen:
 1. [Quellcode-Offenlegung für GPL-Komponenten bis DATUM]
 2. [Lizenzwechsel oder Isolierung der AGPL-Komponente]
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
@@ -213,3 +207,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -220,5 +220,3 @@ EMPFEHLUNG:
 - → `psv-pensionssicherungsverein-und-haftungsketten` — § 613a und PSV
 - → `pension-buyout-strukturierung-und-de-risking` — Buyout als Post-Closing-Maßnahme
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
-
-## Ergaenzende Rechtsprechung (v14.2)

@@ -197,7 +197,6 @@ Diese Pflichtverletzungen machen das Verbleiben des Beklagten in der
 Gesellschaft unzumutbar.
 
 II. Abfindung
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Satzungsklauseln mit Buchwertabfindung sind anzupassen, soweit sie zu
 einer evident unangemessenen Unterbewertung führen.
 

@@ -64,7 +64,6 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -152,7 +151,6 @@ IV. QUALIFIZIERTES VERSCHULDEN § 435 HGB
 Die Beklagte hat leichtfertig im Bewusstsein des wahrschein-
 lichen Schadenseintritts gehandelt:
 – Kein Eingangsscan bei Übernahme im Depot [Ort]
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 – Kein Nachweis des letzten Kontaktpunkts mit der Sendung
 – Fahrzeug war [X Stunden] auf unbewachtem Parkplatz abgestellt
 
@@ -197,7 +195,6 @@ Der Frachtführer betreibt ein vollständiges Kontrollsystem:
 – GPS-Fahrzeugdaten (lückenlose Strecke, Anlage B5)
 – Abgesicherter Parkplatz [Standort] mit Videoüberwachung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. HILFSWEISE HAFTUNGSHÖCHSTBETRAG § 431 HGB
 
@@ -273,7 +270,6 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 | "Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
 | "Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
 | "Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -311,4 +307,4 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

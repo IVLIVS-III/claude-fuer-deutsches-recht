@@ -31,9 +31,6 @@ description: "Wenn es um Schriftsatzkern Substantiierung in Fachanwalt Sozialrec
 4. Beweisangebote vorhanden (Atteste, Gutachten, Zeugen)? Sozialrecht: Amtsermittlungsgrundsatz (§ 103 SGG), aber Darlegungsobliegenheit bleibt.
 5. Prozesskostenhilfe für Mandant erforderlich (§ 73a SGG i.V.m. § 114 ZPO)?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Sozialrecht (SGB I-XIV) erstellt werden, typischerweise: Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X.
@@ -221,3 +218,5 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

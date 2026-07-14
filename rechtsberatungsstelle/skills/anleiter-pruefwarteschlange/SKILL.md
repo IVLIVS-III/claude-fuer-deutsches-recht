@@ -22,10 +22,6 @@ description: "Wenn es um Supervisoren-Prüfwarteschlange (Optional) in Plugin f�
 - **§ 50 BRAO** — Handakten: Freigegebene Dokumente sind Teil der Handakte und unterliegen der 5-jährigen Aufbewahrungspflicht.
 - **DSGVO Art. 5, 32** — Sicherheit der Verarbeitung: Die Prüfwarteschlange verarbeitet personenbezogene Mandantendaten; technische und organisatorische Maßnahmen (Zugangsbeschränkung, Verschlüsselung) sind erforderlich.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -115,3 +111,5 @@ Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studenten
 Prüfentscheidungen werden im Protokoll mit Datum und Supervisorenname dokumentiert. Begründungen für Rücksendungen sind inhaltlich und konkret (nicht "bitte nochmals prüfen", sondern "§ 4 KSchG-Frist: Zustellungsnachweis fehlt"). Das Protokoll ist Teil der Mandantenakte.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine volljuristische Supervision nach § 6 Abs. 2 RDG.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

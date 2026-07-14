@@ -61,7 +61,6 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 - Σ Fällig = Passiva I + Passiva II.
 - **Liquiditätslücke (absolut) = max(0, Σ Fällig − Σ Liquide)**.
 - Streitig heißt nicht automatisch ausklammern. Besteht die Verbindlichkeit materiell und ist sie fällig, wird sie mit dem Nennwert angesetzt. Besteht sie materiell nicht oder ist sie rechtlich nicht fällig, wird sie nicht passiviert. Liegt ein vorläufig vollstreckbarer Titel vor und hat der Gläubiger die Vollstreckung eingeleitet, ist der Nennwert in die Passiva aufzunehmen. Ein Abschlag nach Prozessrisiko ist kein zulässiger Rechenschritt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 5 — Ampel und 3-Wochen-Schließbarkeit**
 - 🟢 **Grün**: Liquiditätsquote < 10 % und am Ende von *t+2* ist die Liquidität nicht negativ und weniger als zwei Indizien gesetzt.
@@ -88,7 +87,6 @@ Erst nach Auslieferung der Vorschau anbieten:
 
 > Soll ich zusätzlich ein Kurz-Memo im Gutachtenstil mit Subsumtion nach § 17 InsO erstellen?
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 9 — Eskalation**
 Bei Rot: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus dem Plugin `insolvenzrecht` hinweisen und bei einschlägigem Beratermandat Paragraf 102 StaRUG prüfen. Die Dreiwochenfrist des Paragrafen 15a InsO ist nur die Höchstfrist bei Zahlungsunfähigkeit; die Pflicht besteht ohne schuldhaftes Zögern ab objektivem Eintritt und nicht erst ab Kenntnis oder Planerstellung.
@@ -140,18 +138,15 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Passiva I (KW 21) = 61.500 €. Passiva II (KW 22 + KW 23) = 39.600 €. Σ Fällig = 101.100 €.
 - Liquiditätslücke absolut = 46.700 €. Quote = 46,2 %.
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei einschlägigem Beratermandat Hinweis nach Paragraf 102 StaRUG dokumentieren. Antragspflicht ohne schuldhaftes Zögern ab objektivem Eintritt; Dreiwochenfrist nur als Höchstfrist bei Zahlungsunfähigkeit.
 
 ## Typische Fehler
 
 - **Voll ausgeschöpften Kontokorrent als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
 - **Dreiwochen-Höchstfrist statisch ab Planerstellung oder Kenntnis rechnen:** Maßgeblich ist der objektive Eintritt der Zahlungsunfähigkeit; die Höchstfrist darf nicht ausgeschöpft werden, wenn eine rechtzeitige Beseitigung nicht ernsthaft zu erwarten ist.
 - **SV- und Lohnsteuer-Rückstände kleinreden**: Starke Indizien und persönlich haftungsauslösend.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Vorlage verändern**: Die Excel-Vorlage hat eine vorgegebene Form (Kategorien-Zeilen × KW-Spalten). Nicht in ein anderes Layout umbauen.
 
 ## Quellenpflicht
@@ -199,3 +194,5 @@ Wochen 10-13 (langfristig): [...]
 ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
 ANNAHMEN: [Auflistung der Schluesselannahmen]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

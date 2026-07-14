@@ -46,9 +46,6 @@ Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person au
 
 Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die Kanzlei sollte halbjährlich prüfen, ob neue oder verbesserte Tools zur Verfügung stehen. Ebenso sind neue Datenschutzbehörden-Empfehlungen zur Anonymisierung zu beachten.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 4 Nr. 1 DSGVO — Begriff personenbezogene Daten
 - Art. 4 Nr. 5 DSGVO — Pseudonymisierung
@@ -102,3 +99,5 @@ DSGVO anwendbar: [JA / NEIN]
 ## Quellenkontrolle
 
 Die Richtlinie muss Berufsrecht, Verschwiegenheit, Datenschutz, Arbeitsrecht und technische Organisation getrennt abbilden. Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 203 StGB sowie Artikel 5, 28 und 32 DSGVO nur für den jeweils geregelten Vorgang verwenden. Rechtsprechung nur mit einer konkret passenden tragenden Aussage aufnehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

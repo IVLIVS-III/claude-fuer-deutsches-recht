@@ -1,4 +1,5 @@
 name: pressebericht-verdachtsberichterstattung-wirtschaftsverfahren-koeln
+plugin: "juristische-presseberichterstattung"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte pressebericht-verdachtsberichterstattung-wirtschaftsverfahren-koeln.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

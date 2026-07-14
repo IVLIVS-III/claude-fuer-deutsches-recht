@@ -173,4 +173,5 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - § 10a S. 1-3, 6 GewStG.
 - § 7b GewStG.
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

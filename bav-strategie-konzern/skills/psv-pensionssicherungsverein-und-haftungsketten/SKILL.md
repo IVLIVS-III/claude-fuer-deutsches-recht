@@ -29,7 +29,6 @@ description: "Wenn es um PSV — Pensionssicherungsverein und Haftungsketten in 
 - § 11 BetrAVG (Beitragsbemessungsgrundlage — Teilwert § 6a EStG oder versicherungstechnischer Barwert)
 - § 14 BetrAVG (Meldepflichten gegenüber PSV)
 - § 7 Abs. 4 BetrAVG (Konzernhaftung: bei Konzernverbund Haftungsketten)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - InsO §§ 35, 47, 80 (Insolvenzmasse, Aussonderung, Verwaltungsrecht Insolvenzverwalter)
 - § 613a BGB (Betriebsübergang — Haftungsübergang auf Erwerber)
 

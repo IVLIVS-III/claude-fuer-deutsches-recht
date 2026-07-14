@@ -26,10 +26,6 @@ description: "Wenn es um Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen R
 - **WIPO Mediation Rules** / **WIPO Arbitration Rules** (2021)
 - **§ 1066 ZPO** — Vollstreckbarkeit Schiedsspruch
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette bei Reaktion auf Abmahnung
 
 § 14 MarkenG / § 3 UWG → § 8 UWG (Unterlassungsanspruch) → § 13 Abs. 3 UWG (Kostenerstattung) → §§ 339-345 BGB (Vertragsstrafe) → § 8c UWG (Missbrauch pruefen) → ggf. § 12 UWG (einstweilige Verfuegung bei Scheitern)
@@ -198,3 +194,5 @@ Mit freundlichen Gruessen
 - `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` — Eil-Verfahren nach Scheitern
 - `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` — Marken-Verfahren parallel
 - `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

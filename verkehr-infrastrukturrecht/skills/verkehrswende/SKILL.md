@@ -33,10 +33,6 @@ description: "Wenn es um Verkehrswende und Verkehrsberuhigung — Rechtliche Ums
 - § 8 StVO — Vorfahrtregelung bei Verkehrsberuhigung
 - STVO-Bussgeldkatalog — Sanktionen bei Verstoss
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Maßnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
@@ -64,7 +60,6 @@ Anordnung per Verkehrszeichen (§ 45 StVO)?
  |
 Begruendung ausreichend?
  Laerm/Unfall nachgewiesen ──→ Anordnung tragfaehig
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  |
 Ausnahmen noetig?
  Lieferverkehr ──→ zeitliche Freigabe + Zeichen 1026-37
@@ -109,3 +104,5 @@ Bekanntgabe Widerspruch eingelegt werden.
 - Lieferverkehr nie vollstaendig ausschliessen — wirtschaftliche Grundversorgung sichern
 - Ausnahmegenehmigungen (§ 46 StVO) für Anlieger mit Behinderung / Gewerbe einplanen
 - Anfechtungsrecht der Anlieger bei Vollsperrungen: Eilrechtsschutz § 80 V VwGO wahrscheinlich
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

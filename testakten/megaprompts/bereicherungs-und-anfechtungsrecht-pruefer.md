@@ -350,14 +350,6 @@ Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstige
 
 § 812 Abs. 1 S. 1 Alt. 2 BGB (Nichtleistungskondiktion) — § 816 BGB (Verfügung Nichtberechtigter, Spezialregelung) — § 822 BGB (Bereicherung Dritter) — § 818 BGB (Umfang der Herausgabe) — § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion, vorrangig) — §§ 994 ff. BGB (Verwendungsersatz im EBV) — § 985 BGB (Vindikation)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Obersatz
 
 Wer etwas in sonstiger Weise auf Kosten eines anderen ohne rechtlichen Grund erlangt, ist zur Herausgabe verpflichtet (§ 812 Abs. 1 S. 1 Alt. 2 BGB).
@@ -420,6 +412,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `leistungskondiktion-grundtatbestand-812-i-1-alt-1`
@@ -459,16 +453,6 @@ Prüfe die Leistungskondiktion nicht als bloße Rückholung eines Gegenstands. B
 5. **Risikozuweisung:** Würde eine Rückforderung eine gesetzliche oder vertragliche Risikoverteilung unterlaufen?
 
 Wenn eine dieser Ebenen unklar bleibt, verwende zuerst `rechtsgrund-und-behaltensgrund-prüfen` und bei gegenseitigen Verträgen zusätzlich `saldotheorie-rueckabwicklung-nichtiger-vertraege`.
-
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Obersatz
 
@@ -552,6 +536,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `nichtleistungskondiktion-grundtatbestand-812`
@@ -571,14 +557,6 @@ _Wenn es um Nichtleistungskondiktion — Grundtatbestand Paragraf 812 Abs. 1 S. 
 ## Zentrale Normen
 
 § 812 Abs. 1 S. 1 Alt. 2 BGB (Nichtleistungskondiktion) — § 816 BGB (Verfügung Nichtberechtigter, Spezialregelung) — § 822 BGB (Bereicherung Dritter) — § 818 BGB (Umfang der Herausgabe) — § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion, vorrangig) — §§ 994 ff. BGB (Verwendungsersatz im EBV) — § 985 BGB (Vindikation)
-
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Obersatz
 
@@ -642,6 +620,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `inso-verteidigung-anfechtungsgegner`
@@ -683,13 +663,9 @@ Die Verteidigung muss Indizien zerlegen, nicht nur bestreiten.
 | Sanierung war aussichtslos | Gibt es ein Sanierungskonzept, Beraterkorrespondenz, Finanzierungszusage oder Vollbefriedigungsperspektive? |
 | Liquiditätsstatus beweist Zahlungsunfähigkeit | Ist der Liquiditätsstatus einzelfallbezogen substantiiert und belegt? |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bargeschäft § 142 InsO
 
@@ -706,7 +682,6 @@ Keine pauschale 30-Tage-Regel verwenden; der zeitliche Zusammenhang ist geschäf
 
 § 146 InsO verweist auf die regelmäßige Verjährung nach BGB. Der Verwalter muss seine Kenntnis- und Ermittlungslage offenlegen, wenn Verjährung streitig wird.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nach § 291 BGB zu verzinsen; Nutzungsherausgabe darüber hinaus ist ausgeschlossen.
 
@@ -734,6 +709,8 @@ Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nac
 ---
 
 Hinweis: Keine Rechtsberatung. Verteidigung nie pauschal führen; jeder Zahlungsvorgang braucht eigene Norm, eigene Frist und eigene Beleglage.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -788,13 +765,9 @@ Die Verteidigung muss Indizien zerlegen, nicht nur bestreiten.
 | Sanierung war aussichtslos | Gibt es ein Sanierungskonzept, Beraterkorrespondenz, Finanzierungszusage oder Vollbefriedigungsperspektive? |
 | Liquiditätsstatus beweist Zahlungsunfähigkeit | Ist der Liquiditätsstatus einzelfallbezogen substantiiert und belegt? |
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Bargeschäft § 142 InsO
 
@@ -811,7 +784,6 @@ Keine pauschale 30-Tage-Regel verwenden; der zeitliche Zusammenhang ist geschäf
 
 § 146 InsO verweist auf die regelmäßige Verjährung nach BGB. Der Verwalter muss seine Kenntnis- und Ermittlungslage offenlegen, wenn Verjährung streitig wird.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nach § 291 BGB zu verzinsen; Nutzungsherausgabe darüber hinaus ist ausgeschlossen.
 
@@ -839,6 +811,8 @@ Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nac
 ---
 
 Hinweis: Keine Rechtsberatung. Verteidigung nie pauschal führen; jeder Zahlungsvorgang braucht eigene Norm, eigene Frist und eigene Beleglage.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -871,16 +845,6 @@ Prüfe die Leistungskondiktion nicht als bloße Rückholung eines Gegenstands. B
 5. **Risikozuweisung:** Würde eine Rückforderung eine gesetzliche oder vertragliche Risikoverteilung unterlaufen?
 
 Wenn eine dieser Ebenen unklar bleibt, verwende zuerst `rechtsgrund-und-behaltensgrund-prüfen` und bei gegenseitigen Verträgen zusätzlich `saldotheorie-rueckabwicklung-nichtiger-vertraege`.
-
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Obersatz
 
@@ -964,6 +928,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `anfg-einreden-verteidigung-anfechtungsgegner`
@@ -986,10 +952,6 @@ _Wenn es um Einreden und Verteidigung des Anfechtungsgegners — AnfG in bereich
 - § 11 Abs. 2 AnfG — Wertersatz (bei Untergang des Gegenstands)
 - § 142 InsO — Bargeschäftsprivileg (analoge Anwendung im AnfG str.)
 - §§ 812 ff. BGB — Bereicherungsrecht (Gegenleistungs-Rückforderung gegen Schuldner)
-
-## Rechtsprechung (BGH — Verteidigung gegen AnfG-Klage)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Überblick
 
@@ -1034,6 +996,8 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Materien- und Quellenkontrolle
 
 Anfechtung einer Willenserklärung nach Paragraf 119 oder 123 BGB, bereicherungsrechtliche Rückabwicklung nach Paragraf 812 folgende BGB, Gläubigeranfechtung nach dem Anfechtungsgesetz und Insolvenzanfechtung nach Paragraf 129 folgende InsO sind getrennte Anspruchssysteme. Zuerst Anspruchsberechtigter, Anfechtungsgegner, Rechtshandlung, Benachteiligung, subjektive Merkmale, Frist und Rechtsfolge bestimmen. Eine Entscheidung aus einem anderen System nur nach ausdrücklicher Prüfung ihrer Übertragbarkeit verwenden; jedes Zitat benötigt Gericht, Datum, Aktenzeichen, tragende Aussage und Quelle.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

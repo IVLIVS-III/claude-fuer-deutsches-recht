@@ -21,10 +21,6 @@ description: "Wenn es um Falsche-Wiese-Warnung in Subsumtions-Prüfer geht: prü
 4. Sind Strafbehörden involviert oder droht eine Strafverfolgung?
 5. Hat der Sachverhalt einen EU-Bezug? → Anwendungsvorrang Unionsrecht prüfen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen zur Einordnung
 
 - § 35 VwVfG — Definition Verwaltungsakt (Regelung, Einzelfall, Außenwirkung)
@@ -66,7 +62,6 @@ Hat das staatliche Handeln Regelungscharakter (§ 35 VwVfG)?
 
 **Muster:** Nutzer prüft nationales Datenschutzgesetz (BDSG), obwohl die DSGVO als EU-Verordnung unmittelbar gilt.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Weitere typische Muster
 
@@ -93,3 +88,4 @@ Das System setzt die Prüfung der ursprünglich gewählten Norm nur auf ausdrüc
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

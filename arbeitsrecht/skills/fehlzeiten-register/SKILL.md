@@ -39,14 +39,12 @@ Falls HRIS verbunden: Abwesenheitsdaten abrufen. Falls nicht: `urlaubsregister.y
 
 **A – Urlaub (BUrlG):**
 - Gesetzlicher Mindesturlaub: 20 Werktage (Paragraf 3 Abs. 1 BUrlG bei 5-Tage-Woche) bzw. 24 Werktage (Paragraf 3 Abs. 1 BUrlG bei 6-Tage-Woche)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wartefrist:** Voller Urlaubsanspruch erst nach 6-monatigem Bestehen (Paragraf 4 BUrlG); vorher anteiliger Anspruch (Paragraf 5 BUrlG)
 - **Urlaubsabgeltung** bei Beendigung des Arbeitsverhältnisses (Paragraf 7 Abs. 4 BUrlG); steuer- und sozialversicherungspflichtig
 
 **B – Entgeltfortzahlung (EFZG):**
 - 6-Wochen-Frist pro Erkrankung (Paragraf 3 Abs. 1 EFZG)
 - **Beginn neuer Anspruch bei gleicher Krankheit:** Erst nach 6-monatiger Unterbrechung oder 12-Monats-Zeitraum seit letzter AU (Paragraf 3 Abs. 1 S. 2 EFZG)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Wiedereingliederung (stufenweise):** Paragraf 74 SGB V, Paragraf 28 SGB IX; Anspruch auf Zustimmung zur stufenweisen Wiedereingliederung
 
 **C – Mutterschutz (MuSchG):**
@@ -78,8 +76,6 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 
 Wesentliche Quellen:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Beispiele
 
@@ -107,7 +103,8 @@ Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 
 ## Risiken / typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **BEEG-Anmeldefrist verpasst** – Elternzeit kann nicht rückwirkend genommen werden; späteste Anmeldung 7 Wochen vor Beginn.
 - **BEM-Pflicht vor Kündigung** – ohne BEM erhöhte Darlegungslast des Arbeitgebers bei krankheitsbedingter Kündigung.
 - **Mutterschutzfristen falsch berechnet** – bei Mehrlingsbirth oder Frühgeburt gelten abweichende Schutzfristen (Paragraf 3 Abs. 2 S. 2 MuSchG: 12 Wochen statt 8 Wochen).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -30,10 +30,6 @@ description: "Wenn es um Erbschein beantragen wenn Erbfolge nachgewiesen werden 
 - **Spezialfrage (Erbschein-Antrag):** Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht für Europaeisches Nachlasszeugnis.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kaltstart-Rückfragen
 
 1. Wann und wo ist der Erblasser verstorben? Wo war der letzte gewöhnliche Aufenthalt (Zuständigkeitsfrage § 343 FamFG)?
@@ -108,3 +104,5 @@ Anlagen
 - Bei Streit über Erbenstellung Übergang in Erbenfeststellungsklage — eigener Workflow.
 - Bei Auslandsvermögen ergänzend Europäisches Nachlasszeugnis beantragen.
 - Bei Pflichtteilsansprüchen Skill `fachanwalt-erbrecht-pflichtteilsberechnung` aufrufen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

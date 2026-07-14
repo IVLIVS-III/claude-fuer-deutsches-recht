@@ -27,10 +27,6 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 - **Paragraf 45 BRAO** — Tätigkeitsverbote bei Interessenkonflikten; vor Mandatsanlage ist die Konfliktkontrolle unerlässlich.
 - **Paragraf 2 Abs. 1 DSGVO i.V.m. Paragraf 1 BDSG** — Personenbezogene Daten in Mandatsakten unterliegen dem Datenschutzrecht; organisatorische Trennung ist technisch-organisatorische Maßnahme i.S.d. Art. 32 DSGVO.
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -199,7 +195,8 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 ## Quellenpflicht
 
 - Gesetzestexte: Paragrafen 43a, 45, 46, 50 BRAO; Paragraf 3 BORA; Art. 32 DSGVO; Paragraf 1 BDSG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

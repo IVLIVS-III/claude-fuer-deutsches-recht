@@ -20,10 +20,6 @@ description: "Wenn es um Kommandocenter in Vertragsausfüller geht: ordnet Akten
 3. Soll ein bestehender Vertrag ergänzt oder ein neuer erstellt werden?
 4. Welche Parteien und welcher Vertragstyp (Kauf, Miete, Werk, Dienstleistung)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - §§ 145 ff. BGB — Vertragsschluss (Angebot und Annahme)
@@ -67,3 +63,5 @@ description: "Wenn es um Kommandocenter in Vertragsausfüller geht: ordnet Akten
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

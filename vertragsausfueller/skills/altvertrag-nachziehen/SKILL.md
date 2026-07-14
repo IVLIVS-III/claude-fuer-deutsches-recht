@@ -20,10 +20,6 @@ description: "Wenn es um Altvertrag nachziehen in Vertragsausfüller geht: prüf
 3. Welche Parteien haben seit dem Altvertrag gewechselt (Firmen, Kontaktpersonen)?
 4. Gibt es gesetzliche Neuregelungen seit Abschluss des Altvertrags (z.B. Mietrecht, AGB-Recht)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 305, 305c BGB — Einbeziehung und Auslegung von AGB
@@ -73,3 +69,5 @@ description: "Wenn es um Altvertrag nachziehen in Vertragsausfüller geht: prüf
 ## Quellenkontrolle
 
 Vertragsart, Parteien, Form, Einbeziehung und Änderungsmechanismus vor jeder Ergänzung bestimmen. Paragraf 133 und 157 BGB für Auslegung, Paragraf 145 folgende BGB für den Vertragsschluss und Paragraf 305 folgende BGB für vorformulierte Bedingungen nur fallbezogen anwenden. Rechtsprechung darf erst nach Zuordnung zur konkreten Klausel und Verifizierung der tragenden Aussage ergänzt werden.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

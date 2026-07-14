@@ -144,7 +144,6 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `/steuerrecht-anwalt-und-berater:stb-drv-sozialversicherungspruefung` | Begleitung der DRV-Sozialversicherungsprüfung § 28p SGB IV — Statusfeststellung, Phantomlohn, Mindestlohn, § 266a StGB-Risiken — **NEU** |
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **Power-Plugin Liquidität:** Die vollständige Power-Version der Liquiditätsvorschau (BGH-Schema Passiva II, Excel-Vorlage, HTML-Padlet, insolvenzrechtliche Stichtagsbilanz) lebt im Plugin [`liquiditaetsplanung/`](../liquiditaetsplanung/). Die `stb-`-Skills hier sind die Steuerberater-Sicht zur Krisenfrüherkennung und triggern die Power-Version bei tiefergehender Begutachtung.
 
@@ -159,7 +158,6 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
             ↓  Krisensignal erkannt
   [stb-ueberschuldungspruefung-19-inso] + [stb-liquiditaetsvorschau-3wochen]
             ↓  gelbe / rote Ampel
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
             ↓  Mandantin sucht Anwalt auf
   [anw-insolvenzreife-pruefung-17-19-inso]  — Diagnose
             ↓
@@ -180,7 +178,6 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
             ↓  Einspruch erfolglos
   [anw-klage-finanzgericht]
             ↓  parallel bei Strafverdacht (z. B. § 370 AO, § 26c UStG)
-  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 ### C) M&A-Steuer-Workflow
@@ -643,3 +640,5 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Jeder S
 | [`zollwert-unionszollkodex`](skills/zollwert-unionszollkodex/SKILL.md) | Wenn es um Zollwert und Tarifierung — Unionszollkodex (UZK) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

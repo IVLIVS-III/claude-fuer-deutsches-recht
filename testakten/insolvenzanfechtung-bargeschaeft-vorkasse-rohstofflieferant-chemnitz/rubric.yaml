@@ -1,4 +1,5 @@
 name: insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz
+plugin: "fachanwalt-insolvenz-sanierungsrecht"
 description: 'Bargeschaefts-Testakte nach Paragraf 142 InsO. Eine Spritzguss-GmbH erhaelt von ihrem Granulatlieferanten
   nur noch Ware gegen Vorkasse oder Zahlung bei Lieferung (null bis fuenf Tage Vorlauf); im Dreimonatszeitraum fliessen
   214.000,08 EUR. Prueffragen: Unmittelbarkeit, Gleichwertigkeit trotz 4-Prozent-Krisenaufschlags auf zwei Rechnungen,

@@ -31,9 +31,6 @@ description: "Wenn es um Gesellschafterliste aktualisieren (Paragraf 40 GmbHG) i
 - § 15 GmbHG (Anteilsübertragung – Vollwirkung erst mit Eintragung)
 - § 19 GwG (Transparenzregister – wirtschaftlich Berechtigte nach Änderung melden; Vollregister seit August 2021)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Listenentwurf erstellen
@@ -92,12 +89,8 @@ Stand: 05/2026. Bei Änderung GmbHG § 40/§ 16 aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 40 GmbHG (Gesellschafterliste, Einreichungspflicht, Haftung des GF) → § 16 GmbHG (Legitimationswirkung, gutgläubiger Erwerb) → § 15 GmbHG (Abtretung Geschäftsanteile) → § 12 HGB i.V.m. FamFG (Handelsregisteranmeldung) → § 57 GmbHG (Anmeldung Kapitalerhöhung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

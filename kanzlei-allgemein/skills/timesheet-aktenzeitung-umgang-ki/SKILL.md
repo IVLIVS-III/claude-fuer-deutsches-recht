@@ -19,9 +19,6 @@ description: "Wenn es um Timesheet und Aktenzeitung in Kanzlei-Allgemein geht: o
 3. Sind die Eintrage GoBD-konform (unveraenderbar, zeitnah, mit Zeitstempel)?
 4. Sollen Reports nach Mandat, Anwalt oder Zeitraum generiert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 10 RVG — Taetigkeitsbeschreibung als Pflichtangabe der Honorarrechnung
 - § 3a RVG — Stundensatz-Vereinbarung: setzt nachvollziehbare Zeiterfassung voraus
@@ -113,3 +110,4 @@ Bei Mandatsende oder Zwischenrechnung:
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

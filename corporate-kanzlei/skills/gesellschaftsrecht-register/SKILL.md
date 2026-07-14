@@ -121,10 +121,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 3-6 HRV (Handelsregisterverordnung)** — Anmeldeformulare; elektronische Einreichung
 - **§ 15 GmbHG** — Anteilsuebertragung; Gesellschafterliste (neue Fassung); Notar
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Anmelde-Checkliste: GF-Wechsel (GmbH)
 
 1. Gesellschafterversammlungs-Beschluss über Abberufung altes GF / Bestellung neues GF
@@ -200,5 +196,6 @@ Notariell beglaubigte Unterschrift des neuen GF (Anlage)
 ## Quellen
 
 - §§ 39-45 GmbHG; §§ 179-184 AktG; §§ 8-10 HGB; § 12 HGB (elektronische Anmeldung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

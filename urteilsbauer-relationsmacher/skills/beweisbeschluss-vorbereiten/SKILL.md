@@ -14,10 +14,6 @@ Vor der Beweisaufnahme das, was streitig und beweisbedürftig ist, förmlich fes
 3. Wer trägt die Beweislast für welche Tatsache?
 4. Ist Beweis bereits ganz oder teilweise erhoben — was steht noch aus?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 286 ZPO — freie richterliche Beweiswürdigung, Vollüberzeugung
@@ -77,3 +73,5 @@ Termin: [DATUM].
 Paragraf 286 ZPO - volle Überzeugung des Gerichts. Wahrscheinlichkeit alleine reicht nicht.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

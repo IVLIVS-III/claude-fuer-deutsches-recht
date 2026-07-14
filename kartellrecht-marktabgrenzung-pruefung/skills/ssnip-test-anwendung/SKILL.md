@@ -73,9 +73,7 @@ Leitfälle:
 
 ## Leitentscheidungen SSNIP-Test
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EK, Horizontal Merger Guidelines 2004, Rn. 18-21 — SSNIP-Test als primaere Methode; kritische Verlustanalyse; Cellophane Fallacy Einschraenkung.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Dokumentation
 
@@ -87,3 +85,5 @@ Tatsächlicher Verlust (Schätzung): [%]
 Ergebnis: [Markt bestätigt / Markt zu eng / Cellophane-Fallacy-Risiko]
 Begründung: [...]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

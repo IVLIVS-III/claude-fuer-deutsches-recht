@@ -1,4 +1,5 @@
 name: familienrecht-unterhalt-zugewinn-bad-nauheim
+plugin: "fachanwalt-familienrecht"
 description: Akte Neumann zu Kindesunterhalt, Trennungsunterhalt, Wohnwert, Auskunft und Zugewinn mit gemischten
   Unterlagen.
 checks:

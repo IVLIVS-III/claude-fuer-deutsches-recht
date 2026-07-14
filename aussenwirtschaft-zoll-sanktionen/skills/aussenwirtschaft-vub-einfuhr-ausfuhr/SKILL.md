@@ -60,10 +60,6 @@ Kläre vor der Pruefung:
 4. Welche Waren-/Ursprungspruefung soll abgesichert werden — Praeferenz, Antidumping, Einfuhrpolitik?
 5. Gibt es zeitliche Dringlichkeit durch anstehende Lieferungen oder laufende Zollanmeldungen?
 
-## Vertiefung: Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Normen-Kette VUB/Einfuhr-Ausfuhr
 
 - Art. 33-34 UZK — Verbindliche Zolltarifauskunft (vZTA), Gueltigkeit 3 Jahre
@@ -112,3 +108,5 @@ Art des Antrags: [ ] vZTA / [ ] vUA
    Einspruch bei ausstellender Behoerde: Frist [DATUM]
    Klage: FG [STANDORT], Frist nach Einspruchsentscheidung
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

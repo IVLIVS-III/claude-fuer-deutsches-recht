@@ -92,7 +92,6 @@ Sofort zur **Heilungssitzung** raten, bevor der Arbeitgeber den Mangel rügt:
 
 ### Variante C — Mangel erst im laufenden Verfahren entdeckt
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Heilungsbeschluss in ordnungsgemäßer Sitzung fassen.
 - Heilungsbeschluss im Verfahren vortragen (Schriftsatznachreichung oder in der Verhandlung).
 - Heilung wirkt nach Paragraf 184 Abs. 1 BGB auf den Zeitpunkt der ursprünglichen Beauftragung zurück.
@@ -134,7 +133,6 @@ ursprüngliche Mandatierung gemäß Paragraf 184 Abs. 1 BGB
 rückwirkend genehmigt.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Genehmigung möglich ist und die Erforderlichkeitsprüfung
 nach Paragraf 40 Abs. 1 BetrVG durch die Rückwirkung nicht
 relativiert wird, sofern der nachgeholte Beschluss einen
@@ -171,10 +169,8 @@ Begründung:
 
 ## Fallstricke aus Anwaltssicht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Heilung ≠ Neuvornahme**: Der Wille muss inhaltlich identisch sein. Bei inhaltlicher Änderung liegt ein neuer Beschluss vor, keine Heilung.
 - **Heilungssitzung selbst mangelfrei**: Eine fehlerhaft einberufene oder falsch besetzte Heilungssitzung heilt nichts.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geschlechterquote bei Nachrücken**: Paragraf 15 Abs. 2 BetrVG gilt auch für Ersatzmitglieder; falsche Reihenfolge ist eigenständiger Mangel.
 
 ## Praktische Checkliste bei Erstkontakt mit Betriebsrat
@@ -236,5 +232,4 @@ Begründung:
 - BetrVG Paragrafen 15, 25, 26, 29, 33, 40
 - BGB Paragraf 184 Abs. 1
 - ArbGG Paragrafen 12a, 78
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Fitting BetrVG-Kommentar; DKKW BetrVG

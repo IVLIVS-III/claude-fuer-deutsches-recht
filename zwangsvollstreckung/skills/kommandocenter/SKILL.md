@@ -20,10 +20,6 @@ description: "Wenn es um Zwangsvollstreckung – Kommandocenter in Zwangsvollstr
 3. Sind Vermögenswerte bekannt (Konto, Arbeitgeber, Grundbesitz)?
 4. Ist der Schuldner in Insolvenz — § 89 InsO Vollstreckungsverbot prüfen?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 704 ZPO — Vollstreckungstitel
@@ -91,3 +87,5 @@ Das Gesetz vom 20. Mai 2026 wurde am 26. Mai 2026 im BGBl. 2026 I Nr. 152 verkü
 ## Arbeitsstil
 
 Disziplinarisch, klar, ohne juristisches Wortgeklingel. Wenn Säulen wackeln, ist das die einzige Botschaft. Wenn der Schuldner offensichtlich vermögenslos ist, sagt der Skill das frühzeitig und schickt nicht in eine teure Mobiliarvollstreckung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

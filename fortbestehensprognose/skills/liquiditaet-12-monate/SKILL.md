@@ -106,7 +106,6 @@ ist die Liquidität über den Horizont zu sichern.
 
 ## 90-Prozent-Deckung ist der operative Maßstab
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **In jedem Zeitabschnitt** muss die Deckung der fälligen Verbindlichkeiten mindestens **90 Prozent** betragen (Liquiditätslücke unter zehn Prozent).
 - **Eine vorübergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht "fortfuehrbar".
@@ -128,10 +127,6 @@ Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf da
 - Hinweis auf Prüfer-Flag bei roten Monaten.
 - Empfehlung auf nächsten Skill `fortbestehensprognose-zusammenfuehren`.
 
-## Aktuelle Leitentscheidungen — 12-Monats-Liquiditaetsplanung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette 12-Monats-Liquiditaet
 
 § 17 InsO (Zahlungsunfaehigkeit, 10%-Schwelle) → § 19 Abs. 2 InsO (Fortbestehensprognose — Liquiditaet als Kernbestandteil) → IDW S 11 Rn. 50-65 (Liquiditaetsplanung als Prognosebaustein) → § 15a InsO (Antragspflicht bei negativem Forecast)
@@ -142,3 +137,5 @@ Die "mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf da
 2. **Periode?** Monatsgranularitaet Minimum; Wochen-Granularitaet wenn ZU-nahe.
 3. **Annahmen konsistent?** Mit Umsatz- und Kostenplanung aus `annahmen-sammeln-fortfuehrung` abgestimmt?
 4. **Engpaesse sichtbar?** Negative Saldi in einzelnen Monaten klar hervorgehoben und mit Gegenmassnahmen unterlegt?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -27,7 +27,6 @@ description: "Wenn es um Textform Paragraf 126b BGB — Dauerhafter Datenträger
 
 ## BGH-Linie
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Der BGH hat in der Leitentscheidung zum Maklervertrag Paragraf 656a BGB bestätigt:
 
@@ -111,6 +110,6 @@ Begründung: [Vergleichswohnungen / Mietspiegel / Sachverständigengutachten]
 
 ## Fallstricke
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **WhatsApp-Sicherung**: WhatsApp-Nachrichten können als dauerhafter Datenträger dienen — aber: nach Verlust des Geräts oder Löschen der App sind Nachrichten ggf. nicht mehr reproduzierbar. Für Beweissicherung Screenshot anfertigen und in Akte nehmen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

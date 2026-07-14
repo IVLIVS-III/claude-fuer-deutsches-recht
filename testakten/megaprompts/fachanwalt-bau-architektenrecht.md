@@ -231,10 +231,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Aktuelle Rechtsprechung — Triage-Relevante Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Fristen-Sofort-Check bei Triage
 
 | Frist | Norm | Zeitfenster |
@@ -253,6 +249,8 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - HOAI
 - BGH VII. Zivilsenat
 - Werner/Pastor Bauprozess
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -322,10 +320,6 @@ _Wenn es um Fachanwalt für Bau- und Architektenrecht — Orientierung in Fachan
 - **Verwaltungsgericht** öffentliches Baurecht, Baugenehmigung, Bebauungsplan
 - **Vergabekammer** (Bund/Länder) + OLG-Vergabesenat bei Vergaberechtssachen
 
-## Aktuelle Rechtsprechung BGH VII. Zivilsenat (Auswahl)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -357,6 +351,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - ARGE Baurecht im Deutschen Anwaltverein (DAV)
 - Deutscher Baugerichtstag (alle zwei Jahre Hamm)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -492,10 +488,6 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Bau Architektenre
 - **Verwaltungsgericht** öffentliches Baurecht, Baugenehmigung, Bebauungsplan
 - **Vergabekammer** (Bund/Länder) + OLG-Vergabesenat bei Vergaberechtssachen
 
-## Aktuelle Rechtsprechung BGH VII. Zivilsenat (Auswahl)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — Bevor du loslegst, kläre
 
 1. **Mandantenrolle**: Bauherr, Auftragnehmer, Architekt/Ingenieur, Subunternehmer, Bauträger, Investor?
@@ -524,6 +516,8 @@ _Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Bau Architektenre
 
 - ARGE Baurecht im Deutschen Anwaltverein (DAV)
 - Deutscher Baugerichtstag (alle zwei Jahre Hamm)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

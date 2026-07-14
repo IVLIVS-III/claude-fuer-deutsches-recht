@@ -112,7 +112,6 @@ Dieses Interview-Skill zitiert keine primären Rechtsquellen; es konfiguriert da
 
 ## Rechtlicher Hintergrund: Relevante Normen bei Kanzleieinrichtung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 43a Abs. 2 BRAO – Verschwiegenheitspflicht: Schutzrechtsportfolio und Genehmigungsmatrix enthalten mandantenbezogene Daten und unterliegen der Verschwiegenheit; nur in gesicherter Umgebung speichern.
 - § 203 StGB – Schutz mandantenbezogener Daten: Weitergabe des Kanzleiprofils an Dritte ohne Mandantenzustimmung strafbewehrt.
 - FAO § 14k – Fachanwalt gewerblicher Rechtsschutz: Einrichtung des Profils hilft beim Nachweis der Fallzahlen (80 Fälle in 3 Jahren, davon 50 rechtsfoermlich) durch strukturiertes Mandatsmanagement.
@@ -124,3 +123,5 @@ Dieses Interview-Skill zitiert keine primären Rechtsquellen; es konfiguriert da
 - **Durchsetzungsstrategie zu vage:** "Ausgewogen" ohne spezifizierte Auslöser führt zu inkonsistenter Genehmigungsmatrix; nachfragen, bis Auslöser konkret sind.
 - **Integrationsstatus nicht verifiziert:** Das Plugin prüft nicht ob eine Datenbank tatsächlich erreichbar ist; Nutzer darauf hinweisen, dass `--check-integrations` dies jederzeit prüfen kann.
 - **Vertraulichkeit:** Das Kanzleiprofil enthält mandantenbezogene Strukturinformationen; nicht in Klartext über ungesicherte Kanäle übertragen (§ 43a Abs. 2 BRAO, § 203 StGB).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

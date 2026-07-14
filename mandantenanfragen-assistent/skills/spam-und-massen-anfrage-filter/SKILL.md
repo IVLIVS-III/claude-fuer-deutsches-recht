@@ -23,9 +23,6 @@ Dieser Skill erkennt und kennzeichnet eingehende E-Mails, die keine legitimen Ma
 3. Soll die Anfrage zur Aussortierung markiert oder direkt verworfen werden?
 4. Gibt es Zweifelsfaelle, bei denen die Sekretariatsmitarbeiterin manuell entscheiden soll?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - Art. 32 DSGVO — TOM: Spam-Filter als Sicherheitsmassnahme für Kanzleikommunikation
 - § 263 StGB — Betrug: 419-Scam als strafrechtlich relevanter Betrugsversuch; Nichtbearbeitung ist pflichtgemaess
@@ -122,3 +119,5 @@ Der Filter ist bewusst konservativ eingestellt. Im Zweifel lieber `VERDÄCHTIG` 
 - `folgekorrespondenz-vorbereiten` — erhält den Spam-Status
 - `dringlichkeitsmarker` — läuft nur bei KLAR-Status
 - `erstantwort-generator` — wird nur bei KLAR-Status ausgeführt
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

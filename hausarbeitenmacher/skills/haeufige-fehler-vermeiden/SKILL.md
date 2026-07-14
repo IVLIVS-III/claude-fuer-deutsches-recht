@@ -19,9 +19,6 @@ description: "Wenn es um Häufige Fehler vermeiden — Top-20 in hausarbeitenmac
 3. Liegt bereits eine Bewertung eines Tutors vor, die Schwachstellen benennt?
 4. Ist die Arbeit zum ersten Mal gelesen (Ersterkennung) oder nach einer Pause (frische Perspektive)?
 
-## Aktuelle Rechtsprechung und Methodik
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 195 BGB — Regelverjaehrung: haeufig vergessener Prüfungspunkt, fuehrt zu Fehler 19
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie für korrekte Sachverhaltserfassung
@@ -119,7 +116,6 @@ description: "Wenn es um Häufige Fehler vermeiden — Top-20 in hausarbeitenmac
 
 ### Fehler 11: Fehlende Fundstelle
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Korrektur**:
 - Volle Fundstelle: Gericht, Datum, Aktenzeichen, Zeitschrift Jahrgang Anfangs-Seite konkrete Stelle / Randnummer.
@@ -233,3 +229,5 @@ Idealerweise jemand mit juristischer Vorbildung. Selbst Nicht-Juristen finden St
 
 - `selbstkontrolle-vor-abgabe` — Endcheck-Vorgang
 - `gutachtenstil-vs-urteilsstil` — Stil-Übung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

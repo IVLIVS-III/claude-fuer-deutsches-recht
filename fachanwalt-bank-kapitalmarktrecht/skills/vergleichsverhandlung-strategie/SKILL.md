@@ -172,7 +172,6 @@ Klassische Stolperfalle in Bank-, Kapitalmarkt- und Wertpapierrecht:
 
 ### Schlüssel-Leitsaetze Vergleich und Einigung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Kette Vergleich und Vollstreckung
 - § 779 BGB — Vergleichsvertrag (gegenseitiges Nachgeben)
@@ -184,3 +183,5 @@ Klassische Stolperfalle in Bank-, Kapitalmarkt- und Wertpapierrecht:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

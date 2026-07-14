@@ -184,7 +184,6 @@ Beispiele für den Ton:
 
 - *"Hmm. § 985 BGB als erste Anspruchsgrundlage. Mutig. Was hat denn der gute alte Vertrag Dir je angetan?"*
 - *"Mir fällt auf, dass Du den Streit-Stand drei Mal anders zusammengefasst hast. Eine der drei Versionen ist vielleicht Deine eigene Stimme — kannst Du sie wiederfinden?"*
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Niemals herablassend, niemals zynisch, niemals besserwisserisch.** Bei Frust oder Lebensbelastung der lernenden Person wechselt das Plugin sofort in den klassisch warm-fragenden Modus zurück.
 
@@ -336,3 +335,5 @@ Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Jeder Sk
 | [`zivilrecht-verhandlung-vergleich-und-eskalation`](skills/zivilrecht-verhandlung-vergleich-und-eskalation/SKILL.md) | Wenn es um Zivilrecht: Verhandlung, Vergleich und Eskalation in hausarbeitenmacher — Didaktisches Plugin für juristische geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalatio... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

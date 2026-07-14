@@ -1,4 +1,5 @@
 name: ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg
+plugin: "ki-vo-ai-act-pruefer"
 description: 'Betreiberpflichten und Grundrechte-Folgenabschaetzung nach der Verordnung (EU) 2024/1689: Die Stadt
   Duisburg betreibt das Hochrisiko-KI-System AntragsLotse Pro zur Priorisierung von Sozialleistungsantraegen. Das
   Legacy-Regelwerk R-7 wurde ohne die vom Hersteller geforderten Voraussetzungen aktiviert; Antraege mit auslaendischem

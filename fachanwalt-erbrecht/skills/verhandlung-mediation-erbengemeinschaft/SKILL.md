@@ -30,10 +30,6 @@ description: "Wenn es um Streit in der Erbengemeinschaft durch Verhandlung oder 
 - **Spezialfrage (Mediation / Vergleich bei Erbengemeinschaft):** Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage.
 - **Arbeitsweise:** Erst Sachverhalt, Norm, Frist, Zuständigkeit und Beweis klären; Rechtsprechung nur verifiziert als tragenden Beleg einsetzen.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Eingaben
 
 - Mandantenrolle (Erbe, Pflichtteilsberechtigte, Vermächtnisnehmerin, Testamentsvollstrecker)
@@ -52,10 +48,6 @@ description: "Wenn es um Streit in der Erbengemeinschaft durch Verhandlung oder 
 - **§ 363 FamFG** — Notarielle Vermittlung Erbauseinandersetzung
 - **§§ 1029 ff. ZPO** — Schiedsgerichts-Verfahren
 - **MediationsG** — Mediation als Verfahren
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
@@ -136,3 +128,5 @@ description: "Wenn es um Streit in der Erbengemeinschaft durch Verhandlung oder 
 ## Quellen und Updates
 
 Stand: 05/2026. § 363 FamFG, MediationsG. BGH-Linien stabil. Bei ErbStG-Reform aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

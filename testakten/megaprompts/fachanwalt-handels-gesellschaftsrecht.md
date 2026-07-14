@@ -151,10 +151,6 @@ _Wenn es um Orientierung Handels- und Gesellschaftsrecht in Fachanwalt Handels- 
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Maßgebliche Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Übergabe
 
 - Bei Krisenfällen Schnittstelle zum Plugin `insolvenzrecht` und zu `fachanwalt-insolvenz-sanierungsrecht`.
@@ -164,16 +160,12 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Vertiefung — Ergänzende Rechtsprechung 2020-2024
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Ergänzende Literatur
 
 - K. Schmidt, Gesellschaftsrecht, 5. Aufl. 2021: MoPeG-Neukommentierung GbR-Recht ab 2024; Vergleich Personengesellschaft/Kapitalgesellschaft.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -350,14 +342,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Vertiefung — Normenkette und Rechtsprechung Erstgespräch HGR
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normenkette Erstgespräch HGR
 
 § 246 AktG (Monatsfrist Anfechtungsklage AG) → § 47 GmbHG (analoge Anfechtungsfrist GmbH) → § 15 GmbHG (Anteilsabtretung notariell) → §§ 43a, 45 BRAO (Interessenkonflikt bei GmbH-Gesellschaft + GF) → §§ 3, 3a RVG (Honorarvereinbarung) → §§ 10, 11 GwG (GwG-Pflichten bei GmbH/AG-Mandaten) → § 15a InsO (Insolvenzantragspflicht — im Erstgespräch auf Krisensignale prüfen)
@@ -365,6 +349,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -602,14 +588,6 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 §§ 311, 241 BGB (Garantien als eigenständige Haftungsversprechen) → § 442 BGB (Kenntnis des Käufers, Ausschluss Gewährleistung) → §§ 280, 281 BGB (Schadensersatz bei Garantieverletzung) → § 275 BGB (Unmöglichkeit bei MAC) → §§ 437, 439-441 BGB (Kaufrechtliche Gewährleistung — subsidiär bei Share Deal ohne Garantien) → § 123 BGB (Anfechtung wegen arglistiger Täuschung) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 17 ff. AktG (Aktienübertragung)
@@ -676,6 +654,8 @@ EMPFEHLUNG
 OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -882,14 +862,6 @@ _Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsr
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 §§ 311, 241 BGB (Garantien als eigenständige Haftungsversprechen) → § 442 BGB (Kenntnis des Käufers, Ausschluss Gewährleistung) → §§ 280, 281 BGB (Schadensersatz bei Garantieverletzung) → § 275 BGB (Unmöglichkeit bei MAC) → §§ 437, 439-441 BGB (Kaufrechtliche Gewährleistung — subsidiär bei Share Deal ohne Garantien) → § 123 BGB (Anfechtung wegen arglistiger Täuschung) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 17 ff. AktG (Aktienübertragung)
@@ -956,6 +928,8 @@ EMPFEHLUNG
 OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

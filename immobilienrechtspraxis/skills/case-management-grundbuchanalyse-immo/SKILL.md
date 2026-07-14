@@ -128,9 +128,7 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 
 ## Aktuelle Rechtsprechung — Leitsaetze für Case-Management
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - § 45 WEG: Anfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb zweier Monate ab Beschlussfassung begruendet werden; beide Fristen sind materiell-rechtliche Ausschlussfristen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Relevante Fristen im Immobilienrecht
 
@@ -141,3 +139,5 @@ verifizierbarer Fundstelle vorliegen. Bei Unsicherheit Markierung
 | Vorkaufsrecht Gemeinde | §§ 24 ff. BauGB | 2 Monate nach Mitteilung |
 | Mietkaution-Abrechnung | § 551 Abs. 3 BGB | Ca. 6 Monate nach Auszug |
 | Verjährung Mietforderung | §§ 195, 199 BGB | 3 Jahre ab Jahresende |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -60,11 +60,9 @@ description: "Wenn es um Richtlinien Entwurf in Arbeitsrecht geht: prüft Frist,
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Betriebliche Übung als Anspruchsgrundlage; einseitige Verschlechterung
  einer durch betriebliche Übung entstandenen Leistungspflicht unwirksam;
  Änderungskündigung als erforderliches Instrument
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Mitbestimmungspflicht bei einseitiger Änderung betrieblicher Regelungen
  in Paragraf 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
  Einigung
@@ -181,6 +179,7 @@ Ergänzungen knapp halten — nur Abweichendes; Kernregelung nicht wiederholen.
 - AGG-Konformität: Enthält die Regelung mittelbare Benachteiligungen wegen
  geschützter Merkmale nach Paragraf 1 AGG?
 
+```markdown
 ## Kernregelung
 
 **Geltung:** [alle Arbeitnehmer / bestimmte Gruppen / Standorte]
@@ -273,7 +272,6 @@ Jede Ausgabe dieser Skill zitiert je nach Relevanz:
 - Paragrafen 305 ff. BGB (AGB-Kontrolle), Paragraf 307 BGB (Inhaltskontrolle)
 - Paragraf 2 NachwG (Nachweispflicht)
 - Paragraf 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Paragraf 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 > **Entwurf, keine geltende Regelung.** Dieser Entwurf ist ein Arbeitsdokument
@@ -300,4 +298,4 @@ Anpassungsbedarf.
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

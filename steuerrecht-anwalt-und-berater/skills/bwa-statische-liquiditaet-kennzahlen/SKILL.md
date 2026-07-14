@@ -30,7 +30,6 @@ Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkei
 
 ### Primaernormen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **§ 19 InsO** — Ueberschuldung mit Fortbestehensprognose.
 
@@ -124,6 +123,7 @@ Stand: 05/2026.
 - InsO §§ 17, 19.
 - HGB §§ 252, 268.
 - StaRUG § 102.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - IDW S 6, IDW S 11.
 - BBE-Branchenkennzahlen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

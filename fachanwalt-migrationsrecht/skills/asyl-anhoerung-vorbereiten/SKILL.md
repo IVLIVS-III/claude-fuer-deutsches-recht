@@ -173,7 +173,6 @@ II. Verfahrensfehler
  [konkret] wurde nicht abschließend erörtert.
 2. Dolmetscher sprach nicht den Dialekt des Mandanten [konkret].
 3. Trauma-Attest wurde dem BAMF nicht zur Kenntnis gegeben;
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 III. Materielles Schutzbegehren
 [Verfolgungshandlungen, Akteur, fehlender Schutz, keine
@@ -182,7 +181,6 @@ innerstaatliche Fluchtalternative]
 IV. Anordnungsgrund
 Ohne aufschiebende Wirkung droht Überstellung nach [Staat] /
 Abschiebung in den Herkunftsstaat. Dies verletzt Art. 33 GFK,
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 M.S.S. ./. Belgien).
 
 Mit freundlichen Grüßen
@@ -351,3 +349,5 @@ Naechste Schritte:
 1. [Schritt 1 — Owner — Frist]
 2. [Schritt 2]
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

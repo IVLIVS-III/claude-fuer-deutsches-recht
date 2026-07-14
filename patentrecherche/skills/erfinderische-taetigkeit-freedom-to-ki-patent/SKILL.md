@@ -126,8 +126,7 @@ Bevor der Problem-Solution-Approach angewendet wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der über das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz für erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

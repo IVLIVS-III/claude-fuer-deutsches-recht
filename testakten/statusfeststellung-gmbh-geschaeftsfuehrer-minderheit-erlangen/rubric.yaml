@@ -1,4 +1,5 @@
 name: statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen
+plugin: "sozialversicherungsstatus-pruefer"
 description: Statusfeststellung eines Minderheits-Gesellschafter-Geschaeftsfuehrers mit 32 Prozent, gestaffelter
   Sperrminoritaet, Buergschaft, DRV-Verfahren von Anhoerung bis Vergleich.
 checks:

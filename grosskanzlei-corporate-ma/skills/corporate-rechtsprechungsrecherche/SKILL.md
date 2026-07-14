@@ -106,8 +106,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-### Corporate-Rechtsprechungsrecherche
-
 ## Arbeitsmodus
 
 - Amtliche Bundes- und Landesquellen bevorzugen.

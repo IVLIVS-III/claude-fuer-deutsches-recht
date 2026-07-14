@@ -29,10 +29,6 @@ description: "Wenn es um Akteneinsicht in Steuerakten in Steuerrecht – Steuerb
 - **§ 88 AO** Untersuchungsgrundsatz im Verwaltungsverfahren.
 - **§ 30 AO** Steuergeheimnis — Grenze der Einsicht in Drittdaten.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 § 364 AO (Akteneinsicht Einspruch) · § 78 FGO (Klageverfahren) · § 71 Abs. 2 FGO (Beiziehung VA) · Art. 15 DSGVO · § 30 AO (Steuergeheimnis) · § 93a AO (Kontrollmitteilungen) · § 87a Abs. 1 S. 2 AO n.F. (ELSTER-Pflicht gegenüber FA)
@@ -107,7 +103,6 @@ In der Streitsache [NAME] ./. Finanzamt [ORT] beantragen wir:
 
 ### Prüfungsanmerkungen und interne Vermerke
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Kontrollmitteilungen aus § 93a AO, DAC7-Meldedaten, FATCA-Daten ggf. relevant.
 
 ### Internationaler Datenaustausch
@@ -200,3 +195,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Aktenchronik nach Eingang `aktenchronik-<az>.md`.
 - Prüfkatalog mit `[prüferflag]`-Einträgen.
 - Eintrag im Fristenbuch (Reaktionsfrist FA beobachten — Skill `anw-fristenbuch-steuerrecht`).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

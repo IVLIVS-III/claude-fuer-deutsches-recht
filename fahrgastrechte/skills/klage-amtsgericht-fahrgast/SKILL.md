@@ -317,10 +317,6 @@ beA-Konvention:
 - § 204 Abs. 1 Nr. 4 BGB — Verjährungshemmung durch Schlichtung
 - § 709 ZPO — vorläufige Vollstreckbarkeit gegen Sicherheitsleistung; bei geringen Streitwerten alternativ § 708 Nr. 11 i.V.m. § 711 ZPO erwägen (Prüfung im Einzelfall)
 
-## Rechtsprechung
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → Schlichtungsstelle Reise & Verkehr e.V. erst aus­schöpfen (kostenfrei); danach Klage.
@@ -332,3 +328,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Adressat & Tonfall
 
 Adressat: Amtsgericht am gewählten Gerichtsstand — Tonfall sachlich-juristisch; Klageschrift ohne Anwaltszwang trotzdem nach § 253 ZPO-Mindestinhalt strukturiert (Parteien, Antrag, Begründung, Beweisangebote).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -63,10 +63,6 @@ Die AVV regelt **nicht** das Berufsgeheimnis. Sie schützt nicht die Verschwiege
 - **§§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO** — Berufsrecht läuft parallel
 - **§§ 203, 204 StGB** — Strafrecht: Verschwiegenheitspflicht als Straftatbestand
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Was das Berufsrecht zusätzlich verlangt
 
 Die berufsrechtliche Dienstleisterregelung (§§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO) verlangt darüber hinaus:
@@ -167,3 +163,5 @@ Unterschrift: [SACHBEARBEITER]
 ## Quellenkontrolle
 
 Berufsrecht, Geheimnisschutz und Datenschutz getrennt prüfen: Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 2 BORA, Paragraf 203 StGB sowie Artikel 28 und 32 DSGVO. Eine Gerichtsentscheidung nur einsetzen, wenn ihr Sachverhalt die konkrete Vertrags-, Verschwiegenheits- oder Sicherheitsfrage trägt; ein nicht erläutertes Aktenzeichen ist kein Rechtsanker.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

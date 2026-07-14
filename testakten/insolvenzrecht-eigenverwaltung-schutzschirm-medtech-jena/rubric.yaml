@@ -1,4 +1,5 @@
 name: insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena
+plugin: "insolvenzrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.
 checks:
   - id: datei-01-geschaeftsfuehrer-vermerk-krisensitzung-2026-06-29

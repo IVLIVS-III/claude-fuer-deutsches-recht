@@ -159,7 +159,6 @@ Belegt durch:
 - Reha-Entlassungsbericht [Klinik] vom [Datum] (Anlage W4)
 
 Die Erkrankungen sind in ihrer Gesamtwirkung zu beurteilen
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 [Falls 3–6 Stunden angenommen wird:]
 IV. Verschlossener Teilzeitarbeitsmarkt
@@ -180,7 +179,6 @@ Unsere Mandantschaft hat Geburtsjahrgang [Jahr] und fällt
 damit in den Anwendungsbereich des § 240 SGB VI. Sie ist
 als [Beruf] im bisherigen Beruf nicht mehr zu sechs Stunden
 täglich einsetzbar. Eine sozial und gesundheitlich zumutbare
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 worden.
 
 Wir beantragen:
@@ -330,3 +328,5 @@ Mit freundlichen Grüßen
 - Weitere Rechtsprechung vor Verwendung live in dejure.org / openjur.de / bsg.bund.de verifizieren.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

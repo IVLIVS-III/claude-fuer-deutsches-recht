@@ -5,9 +5,6 @@ description: "Wenn es um Fachanwalt für Sozialrecht — Orientierung in Fachanw
 
 # Fachanwalt für Sozialrecht — Orientierung
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -58,7 +55,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Sozialgericht (SG) — erste Instanz, Kammern.
 - Landessozialgericht (LSG) — Berufung.
 - Bundessozialgericht (BSG) — Revision, Kassel.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellenregel
@@ -80,3 +76,5 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-arbeitsrecht`** bei Sperrzeit Arbeitslosengeld und Schwerbehinderung im Arbeitsverhältnis.
 - **`fachanwalt-medizinrecht`** bei medizinischer Begutachtung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

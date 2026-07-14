@@ -34,10 +34,6 @@ description: "Wenn es um IP-Klausel-Prüfung in Plugin: Gewerblicher Rechtsschut
 - **§§ 4, 5 ArbnErfG** — Zuordnung von Arbeitnehmererfindungen (Patent-/Gebrauchsmusterrechte beim Arbeitgeber nach Inanspruchnahme)
 - **§§ 433 ff., 311, 280 BGB** — Gewährleistungs- und Haftungsregelungen bei Rechtsmängeln
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Kommentare
 
 - Leistner, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 31 Rn. 1 (Nutzungsrechte, Übertragbarkeit)
@@ -246,3 +242,5 @@ Bevor die Klauselanalyse beginnt, klaere:
 4. Ist die Zweckuebertragungslehre (§ 31 V UrhG) bei zu engen Klauseln zu beachten?
 
 ## Aktuelle Rechtsprechung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

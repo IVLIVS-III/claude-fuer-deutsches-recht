@@ -39,7 +39,6 @@ description: "Wenn es um Fachanwalt für Arbeitsrecht — Orientierung in Fachan
 - **Kündigungsschutzklage** Paragraf 4 KSchG — drei Wochen ab Zugang der schriftlichen Kündigung.
 - **Befristungskontrollklage** Paragraf 17 TzBfG — drei Wochen nach vereinbartem Ende.
 - **AGG-Entschädigung** Paragraf 15 Abs. 4 AGG — schriftliche Geltendmachung binnen zwei Monaten; Klagefrist Paragraf 61b ArbGG drei Monate.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Anhörung des Betriebsrats** Paragraf 102 BetrVG — eine Woche bei ordentlicher, drei Tage bei außerordentlicher Kündigung.
 - **Sozialplanverhandlungen** Paragraf 112 Abs. 2, 3 BetrVG — Einigungsstelle nach Scheitern.
 
@@ -93,3 +92,5 @@ Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in off
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

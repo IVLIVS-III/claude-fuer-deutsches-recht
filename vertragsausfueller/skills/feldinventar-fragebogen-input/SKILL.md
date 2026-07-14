@@ -20,10 +20,6 @@ description: "Wenn es um Feldinventar in Vertragsausfüller geht: prüft Frist, 
 3. Welche Felder kommen aus dem Term Sheet direkt — welche müssen erfragt werden?
 4. Sind Felder vorhanden, die nur bei bestimmten Vertragsoptionen relevant sind (bedingte Felder)?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - §§ 145, 150 BGB — Angebot und Annahme (essentialia negotii)
@@ -70,3 +66,5 @@ description: "Wenn es um Feldinventar in Vertragsausfüller geht: prüft Frist, 
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

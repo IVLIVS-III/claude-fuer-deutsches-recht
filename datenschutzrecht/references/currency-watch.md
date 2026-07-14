@@ -35,12 +35,10 @@ Das Datenschutzrecht entwickelt sich laufend weiter. Vor jeder Aussage zu einer 
 
 Die folgende Rechtsprechung kann den Beratungsinhalt des Plugins unmittelbar berühren:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Weitere Vorabentscheidungsverfahren:** Prüfen Sie laufende Verfahren zum Art. 82 DSGVO (Schadensersatz) und Art. 77–79 DSGVO (Beschwerderecht) beim [EuGH-Urteilsfinder](https://curia.europa.eu).
 
 ## BGH / BVerwG — nationale Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **BVerwG:** Für Verwaltungs- und Behördenmandate prüfen Sie Entscheidungen zur behördlichen Datenschutzkontrolle und zum Informationszugang.
 
 ## Behördliche Orientierungshilfen und DSK-Beschlüsse
@@ -72,3 +70,5 @@ Die Plugin-Standardwerte für diese Fristen können für neu hinzugetretene nati
 Wenn das Plugin einen DSGVO-Artikel, eine Frist oder einen Schwellenwert zitiert, ist anzumerken: "Das Datenschutzrecht entwickelt sich laufend weiter — dieser Stand kann sich seit dem Trainings-Datenstand verändert haben. Verifizieren Sie bei [BfDI](https://www.bfdi.bund.de) / [EDSA](https://www.edpb.europa.eu). Siehe `references/currency-watch.md`."
 
 **Diese Datei veraltet.** Stand: Mai 2026. Aktualisieren Sie sie, sobald Sie Abweichungen bemerken.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

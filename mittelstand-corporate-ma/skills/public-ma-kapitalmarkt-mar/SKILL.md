@@ -134,7 +134,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Emittentenleitfaden, Modul C (Insiderinformation) und Modul D (Ad-hoc-Meldung), aktualisierte Fassung 2023
 
 ## Schritt-für-Schritt-Workflow
@@ -214,3 +213,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - assets/templates/insiderliste-mar-art18.md
 - assets/templates/ad-hoc-pruefungsprotokoll.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

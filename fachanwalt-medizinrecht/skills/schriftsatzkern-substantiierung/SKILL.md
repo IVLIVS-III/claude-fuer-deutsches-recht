@@ -212,16 +212,6 @@ Vor Versand:
 
 ## Vertiefung — Rechtsprechung und Besonderheiten Arzthaftungsschriftsatz
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Ergänzung Paragrafenkette Arzthaftungsklage
 
 § 630h BGB (Beweislastverteilung) → §§ 630a, 630e BGB (Behandlungs- und Aufklärungspflicht) → § 823 Abs. 1, § 253 BGB (deliktische Ansprüche, Schmerzensgeld) → § 286 ZPO (freie Beweiswürdigung) → § 287 ZPO (Schadensschätzung Arzthaftung) → § 402 ZPO (Sachverständigenbeweis) → §§ 249 ff. BGB (Schadensumfang, Heilbehandlungskosten, Haushaltsführungsschaden)
@@ -229,3 +219,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

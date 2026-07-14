@@ -35,10 +35,6 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 - **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
 - **§ 31a StVG** — Recht auf Fahrerauskunft (nur Halter-Auskunft, nicht Fahrernennung)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Anhörungsbogen — Strategie
 
 ```
@@ -93,3 +89,5 @@ Mit freundlichen Gruessen [KANZLEI]
 - Einspruchsfrist 2 Wochen ab Zustellung (§ 67 OWiG) — sofort notieren.
 - Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG prüfen.
 - Anwaltliche Endkontrolle bei Einspruchsformulierung.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

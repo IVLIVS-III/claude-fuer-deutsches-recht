@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 116 KB) | PDF | [`gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf`](gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 130 KB) | PDF | [`gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf`](gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg-einzelpdfs.zip) |
 
@@ -35,7 +35,7 @@ Kern der Akte ist die Geldflussanalyse: Der polizeiliche Auswertevermerk liefert
 | Polizei | KPI Nürnberg, K 25 (Wirtschaftskriminalität), KHK Salzner, Tgb.-Nr. K25-2026-0387 |
 | Ermittlungsrichter | AG Nürnberg, 57 Gs 1289/26 (Durchsuchung), 57 Gs 1544/26 (Vermögensarrest) |
 | Angerufenes Gericht | LG Nürnberg-Fürth, 12. Strafkammer als Wirtschaftsstrafkammer (Anklageentwurf) |
-| Hausbank | Frankenbank Nürnberg eG (fiktiv) |
+| Hausbank | Frankenbank Nürnberg eG |
 
 ## Aktenstruktur
 

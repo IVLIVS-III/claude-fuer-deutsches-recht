@@ -42,7 +42,6 @@ Klar, knapp, vollstreckbar. **Imperative Form**, keine Konditionalsätze.
 
 ### Gründe
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Rechtsmittelbelehrung
 

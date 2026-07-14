@@ -182,10 +182,6 @@ Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artens
 - BVerwG, Urteil vom 23.4.2014 – 9 A 25.12 (Tötungsverbot)
 - BayVGH, Urteil vom 30.3.2017 – 14 N 16.1112 (Stadtarten)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Artenschutz/Naturschutz
 
 § 44 Abs. 1 Nr. 1-3 BNatSchG (Zugriffsverbote) → § 44 Abs. 5 BNatSchG (Legalausnahme Planung) → § 45 Abs. 7 BNatSchG (Ausnahme) → § 67 BNatSchG (Befreiung) → § 34 BNatSchG (FFH-Verträglichkeit) → § 1a Abs. 3 BauGB (Eingriffsregelung) → § 2 Abs. 3 BauGB (Ermittlungspflicht) → § 1 Abs. 7 BauGB (Abwägungsgebot)
@@ -222,17 +218,14 @@ III. Verstoß gegen § 44 Abs. 1 Nr. 3 BNatSchG — Lebensstättenschutz [NAME A
 
 1. Bestandsaufnahme methodisch unzureichend (§ 2 Abs. 3 BauGB)
  Die saP der [BUERO] vom [DATUM] enthält zur Art [NAME] lediglich [SATZ AUS GUTACHTEN].
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Insbesondere wurde die [KONKRETER MANGEL: Begehung im Maerz statt im Hochsommer / Kartierung nur Kerngebiet ohne Puffer].
 
 2. CEF-Maßnahme nicht verbindlich festgesetzt
  Die Maßnahme [BEZEICHNUNG] ist nur in Begründung Seite X erwähnt, aber nicht in den textlichen
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 3. FCS-Nachweis fehlt
  Der Erhaltungszustand der Lokalpopulation von [ART] wird nicht bewertet.
  Ohne diesen Nachweis ist die Ausnahme nach § 45 Abs. 7 BNatSchG nicht erfüllt
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ```
 
 --- vor Versand klären ---
@@ -245,3 +238,5 @@ Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -225,7 +225,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - **VK-Gebühren:** § 182 GWB; Gebührensatz 2500 EUR bis 50000 EUR; Bemessung nach Auftragswert und Aufwand.
 - **Unterlegener trägt** Verfahrensgebühren und notwendige Aufwendungen der obsiegenden Partei (§ 182 Abs. 3 GWB).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **OLG-Verfahren:** § 171 Abs. 3 GWB; Kosten nach GKG/ZPO; Streitwert = Auftragswert.
 - **Schadensersatz § 181 GWB:** Negativinteresse (Angebotskosten, Bearbeitungsaufwand) ohne besonderen Nachweis; Positivinteresse (entgangener Gewinn) nur bei hochgradiger Auftragschance und schuldhafter Verletzung.
 
@@ -244,10 +243,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `fachanwalt-vergaberecht-nachpruefungsantrag-vk` — vollständige Antragsstruktur
 - `fachanwalt-vergaberecht-eignungspruefung` — Eignungsfehler als Antragsgrundlage
 - `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` — IT-Vergabe-Spezifika
-
-## Quellen
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Vertiefung: Output-Template Erfolgsaussichten-Memo
 
@@ -309,3 +304,5 @@ Datum Memo: [TT.MM.JJJJ]
 - Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

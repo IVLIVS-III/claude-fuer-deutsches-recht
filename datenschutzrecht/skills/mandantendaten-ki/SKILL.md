@@ -128,10 +128,6 @@ Stand: 05/2026. Aktualität prüfen bei Anpassungen von § 203 StGB, neuen BRAO-
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Vollständige TIA-Methodik bei US- oder Drittland-KI-Diensten
 - **ki-richtlinie-kanzleien** (geplant ab v3.3.0): Kanzleiweite KI-Nutzungsrichtlinien, Rollen und Freigabeprozesse für den Einsatz von KI-Werkzeugen in der Rechtsberatung. Querverweis sobald Plugin verfügbar.
 
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage zu Beginn
 
 1. Welche Mandatsdaten sollen verarbeitet werden? (personenbezogen oder nur nicht-personenbezogen)

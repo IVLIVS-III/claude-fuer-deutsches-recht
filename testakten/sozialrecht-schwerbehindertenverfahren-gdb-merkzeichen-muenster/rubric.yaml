@@ -1,4 +1,5 @@
 name: sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster
+plugin: "fachanwalt-sozialrecht"
 description: Schwerbehindertenverfahren mit GdB-Erhöhungsantrag, streitigem Merkzeichen G, versorgungsärztlicher
   Stellungnahme nach Aktenlage und nachgereichten Facharztbefunden.
 checks:

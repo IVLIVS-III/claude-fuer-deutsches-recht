@@ -24,10 +24,6 @@ Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung
 3. Hat die Kanzlei-Software die XML-Unterstützung nach Paragraf 829 Absatz 5 ZPO n.F. bereits implementiert?
 4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - Paragraf 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
@@ -113,3 +109,5 @@ Die Aufforderung zur Drittschuldnererklärung wird zusammen mit dem Pfändungsbe
 - XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
 - Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
 - Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

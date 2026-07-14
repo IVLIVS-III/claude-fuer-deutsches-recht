@@ -40,10 +40,6 @@ description: "Wenn es um Sachgrundlose Befristung für aeltere Arbeitnehmer nach
 - Paragraf 1 AGG, Paragraf 10 AGG — Zulässigkeit altersbezogener Regelungen
 - EU-RL 2000/78/EG — Gleichbehandlung in Beschäftigung und Beruf
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Die Regelung
 
 Paragraf 14 Abs. 3 TzBfG erlaubt eine sachgrundlose Befristung unter erleichterten Bedingungen, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat und unmittelbar vor Beginn des befristeten Arbeitsverhältnisses mindestens vier Monate beschäftigungslos i.S.d. Paragraf 119 Abs. 1 Nr. 1 SGB III war, Transferkurzarbeitergeld bezogen hat oder an einer öffentlich geförderten Beschäftigungsmaßnahme teilgenommen hat.
@@ -94,3 +90,5 @@ Der EuGH hat zu Paragraf 14 Abs. 3 TzBfG a.F. entschieden, dass eine generelle B
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

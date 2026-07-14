@@ -36,10 +36,6 @@ description: "Wenn es um VOB/B-Schiedsgutachten und Schlichtung als Alternative 
 - **SOBau 2020** — DIS-Streitlösungsordnung für Bauwesen
 - **§ 17 ArchitektenG** — Pflichten Architekt
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## ADR-Pfade
 
 ### Pfad 1 — Selbständiges Beweisverfahren § 485 ZPO
@@ -117,3 +113,5 @@ description: "Wenn es um VOB/B-Schiedsgutachten und Schlichtung als Alternative 
 ## Quellen und Updates
 
 Stand: 05/2026. SOBau 2020. § 18 VOB/B unverändert. BGH-Linien stabil. Bei VOB-Reform aktualisieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

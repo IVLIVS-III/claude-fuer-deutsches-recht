@@ -87,7 +87,6 @@ Wünsche der betreuten Person dokumentieren und rechtzeitig Hilfe holen.
 
 Alle Skills zitieren nach den in der deutschen Rechtspraxis üblichen Konventionen:
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
@@ -245,3 +244,5 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Jeder S
 | [`zwangsbehandlung-beweislast-ueberforderung`](skills/zwangsbehandlung-beweislast-ueberforderung/SKILL.md) | Wenn es um Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstich... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

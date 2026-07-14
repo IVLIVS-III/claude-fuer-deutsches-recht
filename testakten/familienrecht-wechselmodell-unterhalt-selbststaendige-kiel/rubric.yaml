@@ -1,4 +1,5 @@
 name: familienrecht-wechselmodell-unterhalt-selbststaendige-kiel
+plugin: "fachanwalt-familienrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

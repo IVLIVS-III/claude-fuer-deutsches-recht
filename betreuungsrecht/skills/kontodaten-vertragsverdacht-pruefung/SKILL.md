@@ -22,9 +22,6 @@ Genehmigung oder Strafbarkeit, sondern bereitet diese Prüfungen sauber vor.
 4. Frist für SEPA-Widerruf (8 Wochen für autorisierte Zahlung, 13 Monate für nicht-autorisierte) — bereits abgelaufen?
 5. Strafanzeige (§§ 263, 266 StGB) erwägen wenn konkrete Fremdeinwirkung auf Konto erkennbar.
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Eingangsdaten
 
 Frage zu Beginn knapp nach:
@@ -170,3 +167,5 @@ Optional kann das Hilfsskript genutzt werden:
 python betreuungsrecht/scripts/betreuung_konto_vertragscheck.py \
  testakten/betreuung-schmalfeld-kontodaten-vertraege/05_schmalfeld_verdaechtige_transaktionen.json
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

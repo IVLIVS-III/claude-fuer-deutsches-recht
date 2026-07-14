@@ -83,10 +83,6 @@ belege:
 - Verbraucher-relevante öffentliche Datenquellen sind regelmäßig **zahlungspflichtig oder nicht autoritativ** (FlightAware FlightRadar24 etc.); im Streit beweisbedeutsam ist die **Eingangsbestätigung der Airline** und die offizielle **Verspätungs-/Annullierungsmeldung** der Airline.
 - Bei strittiger Ist-Zeit: Empfehlung **eigenhändige Dokumentation am Tag des Ereignisses** (Fotos Anzeigentafel SMS-Eingaenge) als späterer Beweis.
 
-## Leitentscheidungen Informationserfassung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Ausgabe
 
 - `fallakte.yaml` mit allen Stammdaten.
@@ -106,3 +102,5 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

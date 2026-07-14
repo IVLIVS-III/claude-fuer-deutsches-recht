@@ -1,4 +1,5 @@
 name: erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt
+plugin: "fachanwalt-erbrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt.
 checks:
   - id: datei-01-mandatsnotiz-erstgespraech

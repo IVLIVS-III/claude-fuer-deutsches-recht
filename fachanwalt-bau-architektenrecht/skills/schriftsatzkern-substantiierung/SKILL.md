@@ -221,10 +221,6 @@ Vor Versand:
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
 
-## Aktuelle Rechtsprechung Bau-/Architektenrecht
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Substantiierung Bauprozess
 
 § 631 BGB (Werkvertrag) → §§ 633-638 BGB (Mängelhaftung) → § 641 BGB (Fälligkeit) → § 650a BGB (Bauvertrag) → § 650p BGB (Architektenvertrag) → VOB/B § 13 (Mängelhaftung VOB) → VOB/B § 14 (Abrechnung) → §§ 130, 131 ZPO (Schriftsatz-Anforderungen) → § 296 ZPO (Zurückweisung verspäteten Vortrags)
@@ -286,3 +282,5 @@ III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

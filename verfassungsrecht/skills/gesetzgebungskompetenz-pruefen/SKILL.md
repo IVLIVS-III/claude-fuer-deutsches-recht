@@ -79,7 +79,6 @@ Bund darf nur, wenn und soweit die Herstellung gleichwertiger Lebensverhältniss
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 #### 4c. Abweichungsgesetzgebung Art. 72 Abs. 3 GG
 
@@ -119,10 +118,6 @@ Gesetzgebungskompetenz nicht verwechseln mit Verwaltungskompetenz:
 - **Kompetenzwidrig:** Gesetz ist insgesamt nichtig (Verwerfungsmonopol BVerfG, Art. 100 Abs. 1 GG).
 - **Teilkompetenzwidrigkeit:** nur die kompetenzfremden Regelungen sind nichtig, sofern abtrennbar.
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 Art. 70-74 GG (Kompetenzverteilung) — Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle)
@@ -158,3 +153,5 @@ Prüfungsgegenstand: <Gesetz / Norm>
 ## Disclaimer-Wiederholung
 
 Diese Kompetenzprüfung ist eine strukturierte Modellauswertung; die verbindliche Verwerfung obliegt allein dem BVerfG (Art. 100 Abs. 1 GG).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

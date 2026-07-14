@@ -131,10 +131,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 158 BGB** — Bedingungseintritt; CP-Erfuellung; Fristen-Monitoring
 - **Art. 5, 25 DSGVO** — Monitoring ohne unnoetigen Zugang auf personenbezogene Daten
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Monitoring-Typen und Konfiguration
 
 | Monitor | Datenquelle | Frequenz | Eskalationsschwelle | Owner |
@@ -181,5 +177,6 @@ Stand: [DATUM]
 ## Quellen
 
 - Art. 17, 18 MAR; § 41 GWB; § 56 AWV; Art. 5, 25 DSGVO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 9
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

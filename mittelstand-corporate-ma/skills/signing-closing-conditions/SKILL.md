@@ -127,10 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 55 ff. AWV — FDI-Screening: Investitionspruefung; aufschiebende Wirkung bei priifpflichtigen Transaktionen
 - §§ 346-348 BGB — Rueckgewahr bei Ruecktritt vom Vertrag; Nutzungsersatz, Wertminderung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behördenbescheid, Beschluss, Zertifikat), Eskalationsstufe
@@ -191,3 +187,5 @@ AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 
 - assets/templates/cp-tracker-signing-closing.md
 - assets/templates/closing-deliverables-register.md
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

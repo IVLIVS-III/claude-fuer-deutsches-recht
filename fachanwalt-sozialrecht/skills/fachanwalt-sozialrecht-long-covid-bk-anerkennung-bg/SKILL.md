@@ -142,16 +142,13 @@ Stellungnahme Betriebsarzt).
 III. Kausalität
 
 Die haftungsbegründende Kausalität ist überwiegend wahr-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 ereignisse am [Datum] mit [Kontaktpersonen] sind dokumentiert
 (Anlage W5: Kontakttagebuch / Schichtprotokoll).
 
 IV. Versicherungsfall Long-COVID / ME/CFS
 
 Long-COVID als Folge von COVID-19 ist eine Erkrankung im Sinne
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Anwendbarkeit der BK 3101 auf Infektionskrankheiten im
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Long-COVID als anerkennungsfähige Folge anerkannt.
 
 Wir beantragen:
@@ -188,7 +185,6 @@ licher Höhe zu gewähren.
 Begründung:
 
 [Zusammenfassung Sachverhalt, Anwendungsbereich BK 3101,
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 L 17 U 232/22, Ablehnung der BG mit Gegenargumenten]
 
 Beweisangebot:
@@ -283,4 +279,4 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

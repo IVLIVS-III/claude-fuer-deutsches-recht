@@ -1,4 +1,5 @@
 name: ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg
+plugin: "ki-vo-ai-act-pruefer"
 description: 'Konformitaetsbewertung eines Hochrisiko-KI-Systems an der Schnittstelle zum Medizinprodukterecht nach
   der Verordnung (EU) 2024/1689 und der Verordnung (EU) 2017/745. Die SaniScore Medizintechnik GmbH will das Software-Medizinprodukt
   TriageAssist in Verkehr bringen. Die technische Dokumentation und der Entwurf der EU-Konformitaetserklaerung behaupten

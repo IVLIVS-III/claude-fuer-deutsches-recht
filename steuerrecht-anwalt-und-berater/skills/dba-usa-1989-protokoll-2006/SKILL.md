@@ -40,7 +40,6 @@ Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Änderungsprotokollen vom 
 - **MLI**: USA nicht Unterzeichner — DBA-USA bleibt bilateral.
 
 ### Leitentscheidungen und BMF-Schreiben
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BMF-Schreiben zur steuerrechtlichen Einordnung von US-LLCs vom 19.03.2004 (BStBl. I 2004, 411): Prüfung anhand Merkmalskatalog (Haftung, Geschäftsführung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung), ob PersGes oder KapGes.
 - BMF-Schreiben zu Pension Protection und IRA/401(k): aktuellen Stand beim BMF prüfen.
 
@@ -106,7 +105,6 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemäß 
 4. Sonst Discretionary Benefits?
 
 ### Phase 4 — Einkunftsart einordnen
-### Phase 5 — Quellensteuer-Hoechstsatz
 ### Phase 6 — Pension Protection bei IRA/401(k)
 ### Phase 7 — Branch Profits Tax prüfen
 ### Phase 8 — Erstattung / Erklaerung
@@ -168,3 +166,5 @@ Bei Wegzug DE-Anteilseigner natuerliche Person in die USA: § 6 AStG-Wegzugsbest
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-USA 29.08.1989, BGBl. 1991 II S. 354, in Kraft 21.08.1991. Protokoll 2006 vom 01.06.2006, BGBl. 2006 II S. 1184, in Kraft 28.12.2007 (BGBl. 2008 II S. 611). Dividenden 5/15%, Zinsen 0%, Lizenzen 0%. LOB: Art. 28. BMF US-LLC: BStBl. I 2004, 411. BVerfG Treaty Override: 2 BvL 1/12.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -64,9 +64,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäische KI-Büro oder Gerichte ist zu beobachten. Ebenso entwickeln Berufsverbände (z.B. Presserats-Äquivalente für juristische Veröffentlichungen) möglicherweise eigene Standards zur Kennzeichnung.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)
 - Art. 50 Abs. 4 KI-VO — Kennzeichnung synthetischer Inhalte (Deepfake)
@@ -119,3 +116,4 @@ Internes Kennzeichnungs-Symbol: [SYMBOL / TAG z.B. [KI-draft]]
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

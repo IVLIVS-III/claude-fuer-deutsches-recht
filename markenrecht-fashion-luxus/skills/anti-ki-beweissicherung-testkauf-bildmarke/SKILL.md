@@ -137,17 +137,11 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 3. Gibt es bereits bestehende "Human Made"-Marken in den relevanten Klassen (DPMA/EUIPO-Vorrecherche)?
 4. Ist die interne KI-Nutzung im Marketing (Bildgenerierung, Texterstellung) nach EU AI Act Art. 50 gekennzeichnet?
 
-## Aktuelle Rechtsprechung
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Faktische Updates (Stand 05/2026)
 
 - **KI-VO Art. 50:** Anwendbar ab 02.08.2026; Transparenzpflichten für Chatbots, Deepfakes, KI-generierten Text bei öffentlichem Interesse und Emotionserkennung. Quelle: VO (EU) 2024/1689, Art. 113 lit. c.
 - **EUIPO-Praxis zu KI-bezogenen Marken:** EUIPO hat 2024/2025 verstaerkt Anmeldungen mit "AI"/"KI"-Bezug zurueckgewiesen, sofern beschreibend oder freihaltebeduerftig. Live-Recherche im EUIPO eSearch plus erforderlich.
 - **DPMA-Praxis "Human Made" / Authentizitaetsmarken:** Aktuelle DPMA-/BPatG-Entscheidungen zu Authentizitaets- und Negativ-Marken ("AI Free", "ohne KI") live über dpma.de und bpatg.bund.de prüfen.
 - **UWG § 5 Abs. 1 / § 5a UWG bei KI-Marketing:** BGH-Linie zur Irrefuehrung durch unzureichende Kennzeichnung KI-generierter Werbung / Influencer-Inhalte live über dejure.org prüfen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -39,7 +39,6 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 - **§§ 57-62 MarkenG:** Erinnerungsverfahren vor der Markenstelle
 - **§§ 66-68 MarkenG:** Beschwerde zum BPatG
 - **§ 83 MarkenG:** Rechtsbeschwerde zum BGH
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Prüfungsschritte
 
@@ -83,13 +82,11 @@ Die Wortmarke ist das Fundament: Sie schützt das Wort unabhängig von Schriftar
 ## Falltypische Konstellationen
 
 ### Konstellation 1: "klôtzzkètté" — Unterscheidungskraft?
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Konstellation 2: "ATELIER DE LUXE" — fehlende Unterscheidungskraft
 klôtzzkètté möchte den Slogan "ATELIER DE LUXE" als Wortmarke schützen. Prognose: Klare Zurückweisung nach § 8 II Nr. 2 und Nr. 3 MarkenG — beschreibt unmittelbar das Tätigkeitsfeld. Empfehlung: Als Slogan-Marke gestalten (vgl. Skill `slogan-marke`) oder auf Bildmarke ausweichen.
 
 ### Konstellation 3: "KLOTZ" allein — Kurzmarke
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Quellen-Hardening
 
@@ -156,6 +153,4 @@ Bevor die Anmeldung erfolgt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

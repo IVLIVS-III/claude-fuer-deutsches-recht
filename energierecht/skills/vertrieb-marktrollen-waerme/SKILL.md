@@ -33,7 +33,6 @@ description: "Wenn es um Vertrieb und Marktrollen in Energierecht geht: prüft F
 - Wirtschaftlich angemessen
 - Veröffentlichungs-Pflicht im Internet und im Versorgungsgebiet
 - BNetzA-Marktmonitoring
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Tarif-Änderung
 
@@ -56,7 +55,6 @@ description: "Wenn es um Vertrieb und Marktrollen in Energierecht geht: prüft F
 
 ### Tarif-Anpassungs-Klauseln
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Transparenz-Erfordernis
 - Begrenzungs- und Ausgleichs-Mechanismen
 - Bei AGB-Unwirksamkeit: Vertrag mit ursprünglichem Preis fortgesetzt — erheblicher Schaden Versorger
@@ -229,10 +227,6 @@ description: "Wenn es um Vertrieb und Marktrollen in Energierecht geht: prüft F
 - Bilanzkreis-Pflichten sicherstellen
 - PPA-Optionen erschließen
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 36-38 EnWG (Grundversorgung, Ersatzversorgung) — § 41 EnWG (Vertragsaenderung Haushaltskunden) — § 42 EnWG (Stromkennzeichnung) — §§ 305-310 BGB (AGB-Kontrolle) — § 315 BGB (billiges Ermessen Preisbestimmung) — § 5 MaStRV (Marktstammdatenregister Pflichten)
@@ -256,3 +250,5 @@ description: "Wenn es um Vertrieb und Marktrollen in Energierecht geht: prüft F
 - BNetzA-Marktmonitoring-Berichte
 - UBA HKN-Register
 - Schiedsstelle Energie
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

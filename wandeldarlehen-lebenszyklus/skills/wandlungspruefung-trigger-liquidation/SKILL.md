@@ -30,9 +30,6 @@ description: "Wenn es um Wandlungsprüfung – Trigger Liquidation Event in Wand
 - § 15 Abs. 3, Abs. 4 GmbHG (Anteilsübertragung – notarielle Beurkundung)
 - § 20 UmwStG analog (steuerliche Behandlung der Wandlung bei Tauschvorgang)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Tatbestand prüfen
@@ -87,3 +84,5 @@ Stand: 05/2026. Bei Änderung GmbHG § 15/UmwStG § 20 aktualisieren.
 ### Normen-Ergänzung
 
 § 161 UmwG (Spaltung als Liquidation Event?) → § 2 UmwG (Verschmelzung als Exit) → §§ 60 ff. GmbHG (Liquidation GmbH) → § 39 InsO (Nachrang bei Insolvenz) → § 15 GmbHG (Share Deal — Anteilsübertragung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

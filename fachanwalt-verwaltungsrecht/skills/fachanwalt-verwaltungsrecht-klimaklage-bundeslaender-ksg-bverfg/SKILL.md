@@ -7,7 +7,6 @@ description: "Wenn es um Klimaklage gegen Bundesländer — KSG / BVerfG 2021 in
 
 ## Zweck
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -26,10 +25,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **§ 47 VwGO** — Normenkontrolle gegen Landesverordnungen
 - **§ 80 V VwGO** — Eilantrag
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Klagearten
 
 ### Variante A — Verpflichtungsklage § 42 Abs. 1 VwGO
@@ -42,7 +37,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Antrag: Feststellung, dass Bundesland gegen KSG-Reduktionsziele verstößt
 - Niedrigere Hürde, da kein konkretes Beanspruchungsziel
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Variante C — Verfassungsbeschwerde / Landesverfassungsbeschwerde
 
@@ -72,7 +66,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Phase 3 — Klagebegründung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EGMR Verein KlimaSeniorinnen (Art. 8 EMRK)
 - Sektor-Ziele KSG-Bezug
 - Verhältnismäßigkeits-Prüfung
@@ -114,3 +107,5 @@ Stand 05/2026. Rechtsprechung im Schriftsatz live verifizieren — Aktenzeichen 
 - BVerfG-Entscheidungsdatenbank — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SiteGlobals/Forms/Suche/EN/Entscheidungensuche_Formular.html)
 
 Hinweis: BVerfG hat im Klimabeschluss 2021 die Erstreckung der Schutzpflicht auf künftige Freiheitsgrundrechte etabliert (intertemporale Freiheitssicherung). EGMR KlimaSeniorinnen 04/2024 erweitert die Art. 8 EMRK-Schutzpflicht. Beide Linien sind in Klagebegründungen tragfähig, wenn Mandantenbetroffenheit substantiiert wird.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

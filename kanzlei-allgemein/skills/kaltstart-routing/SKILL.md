@@ -26,9 +26,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Welche Rechtsgebiete und Mandatsarten sind typisch für diese Kanzlei?
 4. Sind beA, E-Mail, DMS oder Buchhaltungssoftware bereits vorhanden und angebunden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag
 - § 51 BRAO — Pflichtversicherung: muss bei Kanzleigruendung bestehen
@@ -103,3 +100,5 @@ Ein `Kanzlei-Lebenszyklus-Profil` mit:
 ## Übergabe
 
 Danach an `kanzlei-allgemein-kommandocenter`, `kanzlei-allgemein-integrationen-simulation`, `kanzlei-allgemein-freundlicher-copilot`, `kanzlei-allgemein-kanzleikalender`, `kanzlei-allgemein-intake` und bei neuer Akte an `kanzlei-allgemein-mandatsannahme-gwg`, sobald ein Eingang oder eine neue Akte vorliegt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

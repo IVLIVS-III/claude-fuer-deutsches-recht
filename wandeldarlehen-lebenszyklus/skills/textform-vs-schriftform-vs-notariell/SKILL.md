@@ -32,9 +32,6 @@ description: "Wenn es um Textform vs. Schriftform vs. Notarielle Beurkundung in 
 - § 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung)
 - Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit) und Absatz 3 GmbHG (notarielle Beurkundung des Kapitalerhöhungsbeschlusses)
 
-### Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorgehen
 
 ### 1. Formstufe für jeden Vertragsteil bestimmen
@@ -78,14 +75,8 @@ Stand: 05/2026. eIDAS-VO 910/2014, GNotKG. Bei Änderung BGB-Formvorschriften ak
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Normen-Ergänzung
 
 § 126 BGB (Schriftform) → § 126b BGB (Textform) → § 128 BGB i.V.m. §§ 1-17 BeurkG (notarielle Form) → § 125 BGB (Nichtigkeit bei Formmangel) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsübertragung und Verpflichtung) → § 53 GmbHG (notarielle Beurkundung Satzungsänderung)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

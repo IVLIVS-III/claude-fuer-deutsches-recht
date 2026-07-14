@@ -388,14 +388,9 @@ Anhang 3: Innenhaftungs-Quote
 ## Quellen
 
 - DSGVO Art. 26 28 82 83
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EDSA Guidelines 7/2020 zu Verantwortliche und Auftragsverarbeiter
 - BfDI-Informationen
 - DSK Kurzpapier
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Triage zu Beginn
 
@@ -440,3 +435,5 @@ Gesamtschuldnerisch; interner Regressausgleich nach Verschuldensanteilen.
 Das Wesentliche dieser Vereinbarung wird Betroffenen gemäß Art. 26 Abs. 2 DSGVO
 über [DATENSCHUTZERKLAERUNG / DIREKTINFORMATION] zugänglich gemacht.
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

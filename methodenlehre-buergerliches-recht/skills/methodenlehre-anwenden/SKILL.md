@@ -59,7 +59,6 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 
 ## Verfassungskonforme und unionsrechtskonforme Auslegung
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Unionsrechtskonforme Auslegung des nationalen Rechts:**
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -70,7 +69,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Begriffe des Unionsrechts werden unabhängig vom nationalen Begriffsverständnis ausgelegt. „Schaden" in Art. 82 DSGVO ist nicht der Schadensbegriff der §§ 249 ff. BGB.
 - Erwägungsgründe sind **Auslegungshilfe**, nicht **Auslegungssubstitut**. Sie dürfen nicht **entgegen** dem klaren Wortlaut des verfügenden Teils herangezogen werden.
 - Bei zweifelhaftem Wortlaut Sprachfassungen vergleichen; alle Amtssprachen sind verbindlich.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Lückenfüllung
 
@@ -153,3 +151,5 @@ Die ausführliche methodische Grundlage einschließlich der Sektionen zu Anspruc
 - **`zitierweise-deutsches-recht`** — Jede Aussage wird nach der Hauszitierweise belegt; insbesondere BGH-Zitate mit `Az.`-Marker, Pinpoint mit Rn., Hierarchie der Gerichte.
 - **`bgb-at-pruefer`** — Mechanische BGB-AT-Prüfungen (Vertragsschluss, Anfechtung, Stellvertretung, Form, Verjährung) bauen auf dieser Methodenlehre auf.
 - Alle Rechtsgebiet-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, `kindeswohlgefaehrdung-eilantrag`, `arbeitsrecht`, `gesellschaftsrecht-legal-english`, `kanzlei-allgemein` etc.) setzen diese Methodenlehre voraus; sie greifen über relative Pfade auf die Repo-Referenz [`references/methodik-buergerliches-recht.md`](../../references/methodik-buergerliches-recht.md) zu.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

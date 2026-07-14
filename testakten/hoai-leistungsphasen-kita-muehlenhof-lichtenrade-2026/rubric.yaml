@@ -1,4 +1,5 @@
 name: hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026
+plugin: "hoai-leistungsphasen-praxis"
 description: HOAI-Leistungsphasen und Bauueberwachung beim Kita-Neubau Muehlenhof mit eigenstaendiger Berechnung
   des bei erreichtem Leistungsstand verdienten Honoraranteils, Aufloesung der Diskrepanz Grundleistung gegen Besondere
   Leistung, Budgetdrift ueber die Kostenverfolgung, Stufenbeauftragung ohne schriftlichen Abruf sowie Nachtrag ohne

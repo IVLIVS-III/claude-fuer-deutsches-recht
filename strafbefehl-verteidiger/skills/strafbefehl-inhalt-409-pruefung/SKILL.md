@@ -39,7 +39,6 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
@@ -104,3 +103,5 @@ Mandantenhinweis: verstaendlich-erklaerend, Fachbegriffe erklaeren.
 - Nichtigkeit des Strafbefehls fuehrt nicht automatisch zum Freispruch — Anklageerhebung möglich.
 - Einspruch immer fristgerecht einlegen, unabhaengig von Fehlerruegen.
 - Anwaltliche Endkontrolle vor Versand.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

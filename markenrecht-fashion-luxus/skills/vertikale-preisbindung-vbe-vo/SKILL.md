@@ -140,8 +140,8 @@ Bevor die Preisklauseln in Händlerverträgen verabschiedet werden, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **Bundeskartellamt, Beschl. v. 26.08.2015 — B 11-13/14 (Sennheiser):** Hersteller verstoessen gegen Art. 101 AEUV, wenn sie Online-Haendler durch Preismonitoring-Software und drohende Lieferstopps faktisch auf die UPE verpflichten; die Absicht, das Luxusimage zu schuetzen, entschuldigt nicht.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

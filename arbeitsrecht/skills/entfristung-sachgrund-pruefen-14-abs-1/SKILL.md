@@ -51,7 +51,6 @@ description: "Wenn es um Sachgrundprüfung Befristung nach Paragraf 14 Abs in Ar
 
 **Voraussetzung:** Der betriebliche Bedarf an der Arbeitsleistung ist nur vorübergehend (z.B. Saisonarbeit, zeitlich begrenztes Projekt).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Entscheidungsbaum:**
 ```
@@ -68,7 +67,6 @@ Stelle nach Vertragsende wieder besetzt?
 
 **Voraussetzung:** Der Arbeitnehmer wird zur Vertretung eines anderen Arbeitnehmers beschäftigt (z.B. Elternzeitvertretung, Krankheitsvertretung).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Indirekter Vertretungsbedarf:** BAG erkennt auch indirekte Vertretung an (Mitarbeiter A vertritt B, C übernimmt Aufgaben von A), wenn kausal nachweisbar.
 
@@ -80,7 +78,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Voraussetzung:** Befristung zur Erprobung des Arbeitnehmers.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nr. 6 — In der Person des Arbeitnehmers liegende Gründe
 
@@ -90,7 +87,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Voraussetzung:** Arbeitnehmer wird aus Haushaltsmitteln vergütet, die haushaltsrechtlich für eine befristete Beschäftigung bestimmt sind.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nr. 8 — Gerichtlicher Vergleich
 
@@ -134,3 +130,5 @@ Nächster Schritt: [Klage nach Paragraf 17 TzBfG / weitere Ermittlung]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

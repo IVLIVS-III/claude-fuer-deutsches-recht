@@ -25,7 +25,6 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ### Stornogebuehr
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei alten Verträgen oft Rückforderung möglich
 
 ## 2) Widerrufs-Joker
@@ -33,7 +32,6 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 ### Hintergrund
 
 - Fehlerhafte Widerrufsbelehrung in Versicherung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bei BGH-Bestätigung: Vertrag kann auch nach Jahren widerrufen werden
 
 ### Voraussetzung
@@ -89,7 +87,6 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ## 5) Aktualität — BGH-Linien
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 6) Honorar
 
@@ -113,16 +110,6 @@ Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
-### Leitsatz-Zitate
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Paragrafenkette
 
 § 169 VVG (Rückkaufswert, Mindestbetrag) → § 153 VVG (Überschussbeteiligung) → § 165 VVG (Beitragsfreistellung) → §§ 8, 9 VVG (Widerrufsrecht) → § 307 BGB (AGB-Inhaltskontrolle Stornogebühren) → § 346 BGB (Rückabwicklung nach Widerruf) → § 195 BGB (Verjährung 3 Jahre) → § 199 BGB (Kenntnis-Beginn)
@@ -142,7 +129,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 1. **Vertragsabschluss vor oder nach 01.01.2008?** → Vor 2008 (alter VVG): Widerrufs-Joker prüfen; nach 2008 § 8 VVG (30-Tage-Frist).
 2. **Belehrungstext prüfen:** Entspricht er dem Gesetzesmuster? Wesentliche Elemente (Fristbeginn, Form, Rechtsfolgen) klar angegeben?
-   - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
    - Korrekt → ordentlicher Widerruf nur innerhalb von 30 Tagen möglich.
 3. **Rückkaufswert-Berechnung:** Angebot des Versicherers mit gesetzlichem Mindestbetrag § 169 Abs. 3 VVG abgleichen.
 4. **Stornogebühren im Vertrag?** → AGB-Kontrolle § 307 BGB; unwirksam wenn Rückkaufswert unter Mindestbetrag fällt.
@@ -182,7 +168,6 @@ vom [ABSCHLUSSDATUM].
 Begründung:
 Die Widerrufsbelehrung entspricht nicht den gesetzlichen Anforderungen
 des § __ VVG [a.F./n.F.]. [Konkret: fehlendes Element]. Die
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Ich fordere Sie auf, bis zum [DATUM + 4 WOCHEN] folgendes zurückzuzahlen:
 - Alle eingezahlten Prämien: EUR [BETRAG GESAMT]
@@ -197,3 +182,5 @@ Mit freundlichen Grüßen
 [KANZLEI, UNTERSCHRIFT, DATUM]
 Anlage: Vollmacht
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

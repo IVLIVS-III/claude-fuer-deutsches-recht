@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 189 KB) | PDF | [`gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf`](gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 248 KB) | PDF | [`gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf`](gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar-einzelpdfs.zip) |
 
@@ -123,5 +123,3 @@ Diese Akte zeigt folgende typische Prüfungsprobleme im Insolvenzrecht:
 12. **Vorsteuerberichtigung** (§ 17 UStG): Entstehen der Forderung mit Eröffnung, Einordnung als Insolvenzforderung.
 
 ---
-
-## Disclaimer

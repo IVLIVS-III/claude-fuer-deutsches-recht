@@ -64,10 +64,6 @@ description: "Wenn es um ZVG-Portal-Recherche in ZVG-Zwangsverwaltung - Verwalte
 - Amtliches Portal: `https://www.zvg-portal.de/`
 - Suchformular: `https://www.zvg-portal.de/index.php?button=Termine%20suchen`
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Paragrafenkette Portal-Recherche
 
 § 12 GBO (Einsicht Grundbuch) → § 14 GBO (berechtigtes Interesse) → § 2 ZVG (Vollstreckungsgericht) → § 750 ZPO (vollstreckbarer Titel) → §§ 899-900 BGB (Grundbucheinsicht und Wirkung)
@@ -84,3 +80,5 @@ description: "Wenn es um ZVG-Portal-Recherche in ZVG-Zwangsverwaltung - Verwalte
 | Liegenschaftskataster | Flurstücke Grundfläche | [ ] |
 | Grundsteuerbescheid | Aktueller Steuermessbetrag | [ ] |
 | Mietverträge | alle Einheiten vollständig | [ ] |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

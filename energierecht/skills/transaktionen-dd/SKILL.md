@@ -267,10 +267,6 @@ description: "Wenn es um Energie-Transaktionen und Due Diligence in Energierecht
 3. Skalen-Vorteile (Wartung, Vermarktung)
 4. Exit-Strategie 5-7 Jahre
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 453, 437, 434 BGB (Rechtskauf, Maengelhaftung, Beschaffenheitsvereinbarung) — §§ 75 ff. UmwG (Spaltung, Umstrukturierung Energiegesellschaft) — §§ 48, 49 VwVfG (Widerruf Foerderbescheid) — § 33 EEG (MaStR-Eintrag) — Art. 107, 108 AEUV (Beihilfen-Rueckforderung)
@@ -297,3 +293,5 @@ description: "Wenn es um Energie-Transaktionen und Due Diligence in Energierecht
 - Bundeskartellamt-Praxis Energie-Fusionen
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

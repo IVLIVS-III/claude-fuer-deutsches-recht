@@ -70,7 +70,6 @@ description: "Wenn es um Energie-Verträge — Strukturierung und Prüfung in En
 
 ### Wirksamkeits-Kriterien BGH
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Häufige Klausel-Fehler
 
@@ -128,7 +127,6 @@ description: "Wenn es um Energie-Verträge — Strukturierung und Prüfung in En
 
 ### BGH-Linie
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BGH EnVR-Linie zu Übernahme-Bedingungen
 
 ## Schritt 5 — Industrie-Sondervertrag
@@ -166,7 +164,6 @@ Kern-Punkte hier:
 
 - AVBFernwärmeV als Standard-AGB
 - Preisanpassungs-Klauseln nach § 24 Abs. 4 AVBFernwärmeV
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vertragsdauer max. 10 Jahre + Verlängerung
 
 ## Schritt 7 — Mieterstrom-Vertrag
@@ -284,3 +281,5 @@ Weitere Aktenzeichen vor Ausgabe per dejure.org / curia.europa.eu verifizieren.
 - EuGH C-359/11 (Schulz, 23.10.2014); BGH VIII ZR 158/11 (28.10.2015); BGH VIII ZR 178/08 (24.03.2010); BGH VIII ZR 295/09 (09.02.2011); EuGH C-718/18 (02.09.2021)
 - DIS / ICC Schieds-Standards
 - Schiedsstelle Energie
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

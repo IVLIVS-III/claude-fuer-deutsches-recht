@@ -65,7 +65,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 32 DSGVO (TOM)
 - Art. 44–49 DSGVO (Drittlandtransfer)
 - Beschluss 2021/914/EU (EU-SCC, neue Standardvertragsklauseln)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - EDSA-Empfehlungen 01/2020 zur Transferfolgenabschätzung (TIA), Stand 2022
 - EDSA-Leitlinien 07/2022 zu Zertifizierungen als Transfermechanismus
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
@@ -98,7 +97,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 > "Der Auftragsverarbeiter informiert den Verantwortlichen mindestens **30 (dreißig)** Tage im Voraus über geplante Änderungen an der Sub-Auftragsverarbeiter-Liste. Innerhalb dieser Frist kann der Verantwortliche Einspruch erheben. Bei berechtigtem Einspruch, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Maßnahmen ausräumen kann, ist der Verantwortliche zur außerordentlichen Kündigung berechtigt."
 
 **Analyse Drittlandtransfer (USA, Support-Systeme):**
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 1. Rechtslage im Empfängerland (USA: FISA Section 702, EO 14086 – PPD-28-Nachfolger) `[Modellwissen – prüfen]`
 2. Praktische Wahrscheinlichkeit des Zugriffs (Support-Systeme mit Personalbezug: mittel)
 3. Zusätzliche Schutzmaßnahmen erforderlich? (Empfehlung: Pseudonymisierung Support-Daten, Zugriffsprotokolle)
@@ -122,10 +120,6 @@ Stand: 05/2026. Aktualität prüfen bei neuen EDSA-Leitlinien zur Auftragsverarb
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Vollständige TIA-Methodik und SCC-Modul-Auswahl-Matrix
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — DSFA bei Hochrisiko-AVV-Konstellationen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Faktische Updates (Stand 05/2026)
 
 - **EDSA Guidelines 07/2020 zu Verantwortlichen und Auftragsverarbeitern:** Die Endfassung ist eine nicht bindende, fachlich gewichtige Orientierungshilfe; bei der Rollenzuordnung berücksichtigen, aber nicht als Rechtsnorm behandeln. Quelle: https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_en
@@ -143,7 +137,6 @@ Prüfungsrichtung?
  Unklar → Richtungserkennung über Parteienbezeichnung und Weisungsklausel
 
 Drittlandbezug?
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Nein → kein TIA erforderlich
 
 Sub-AVs mit Drittlandexposure?
@@ -191,3 +184,5 @@ Empfehlung: Unterzeichnen / Mit Redlines / Ablehnen
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

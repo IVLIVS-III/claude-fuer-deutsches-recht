@@ -79,10 +79,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Schritt 6 – Dokumentation**
 - 30-Tage-Preishistorie für alle Produkte mit Aktionen intern dokumentieren und archivieren (Beweislast im UWG-Prozess beim Händler).
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 1-4 PAngV (Preisangaben, Gesamtpreis, Grundpreis) — § 11 PAngV (30-Tage-Niedrigstpreisregel) — §§ 3, 5 UWG (Irreführende Werbung, Preisgestaltung) — Art. 6a RL 98/6/EG i.d.F. Omnibus-RL 2019/2161 (Preisreduzierungen)
@@ -103,7 +99,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 *Grundpreis (§ 4 PAngV)*: Olivenöl ist ein Lebensmittel nach Volumen; Grundpreis pro Liter = 8,99 €/l muss neben dem Gesamtpreis angegeben werden. Fehlt im Sachverhalt; Verstoß gegen § 4 PAngV.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Rechtsfolge*: Verstoß gegen § 11 PAngV begründet Abmahnrisiko nach § 3a UWG (Sosnitza, in: Ohly/Sosnitza, UWG, 8. Aufl. 2023, PAngV Vorbem. Rn. 18); Bußgeld nach § 19 PAngV bis 25.000 EUR.
 

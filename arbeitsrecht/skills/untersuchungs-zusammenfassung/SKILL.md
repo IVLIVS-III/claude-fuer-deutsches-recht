@@ -53,14 +53,11 @@ description: "Wenn es um Untersuchungs Zusammenfassung in Arbeitsrecht geht: pr�
 
 **Leitentscheidungen:**
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Inhalt der BR-Anhörung — die Anhörung muss den Sachverhalt vollständig
  und richtig wiedergeben; fehlerhafte Grundlage (z. B. aus unvollständiger
  HR-Zusammenfassung) macht die Kündigung unwirksam
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Verdachtskündigung — Ergebnisse müssen auf objektiven Tatsachen beruhen,
  die auch in einer HR-Kommunikation lückenlos nachvollziehbar sind
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Informationspflichten der Geschäftsleitung gegenüber dem Aufsichtsrat bei
  laufenden Untersuchungen; Dokumentationspflicht für Governance-Entscheidungen
 
@@ -206,7 +203,6 @@ Bei allen Ausgaben zitieren (zielgruppenspezifisch):
 - Bei AGG-relevantem Sachverhalt: Paragraf 22 AGG und frei verifizierte BAG-Rechtsprechung
 - Bei Hinweisgebersachen: Paragrafen 8, 37 HinSchG
 - Bei GF/AR-Briefing: Paragrafen 93, 116 AktG / Paragraf 43 GmbHG;
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Paragraf 26 BDSG (Zweckbindung, Datenminimierung)
 
 Detaillierte Zielgruppen-Stripping-Regeln und Zusammenfassungs-Templates
@@ -215,13 +211,11 @@ inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-## Ergänzende Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Zusammenfassung klären
 
 1. Für welche Zielgruppe ist die Zusammenfassung bestimmt? (HR / Geschäftsführung/AR / externe Bevollmächtigte)
 2. Welche Entscheidung soll die Zusammenfassung unterstützen? (Disziplinarmaßnahme / Governance / Prozessvorbereitung)
 3. Liegt ein HinSchG-Sachverhalt vor? → Identitätsschutz sicherstellen
 4. Dient sie als Grundlage für die BR-Anhörung? → Paragraf 102 BetrVG, Vollständigkeitspflicht!
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

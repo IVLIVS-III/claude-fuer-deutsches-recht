@@ -153,10 +153,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 311, 241 Abs. 2 BGB — Offenbarungspflicht des Verkaeuf ers: wesentliche Risiken müssen offengelegt werden; Fair Disclosure nach BGH
 - Art. 7, 17 MAR — bei boersennotiertem Zielobjekt: Insiderinformationen im Datenraum erfordern MAR-konforme Zugangsprotokollierung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Schritt-für-Schritt-Workflow
 
 1. **Datenraum-Index auswerten:** Kategorien, Vollstaendigkeit, Duplikate, Versionierung
@@ -170,3 +166,5 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Kartellrechtlich sensible Infos im normalen Datenraum: Clean-Room-Pflicht verletzt
 - IM-Widersprueche: Misrepresentation-Risiko des Verkaeuf ers
 - Fehlende wesentliche Dokumente ohne IRL: DD unvollstaendig; Garantierisiko
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -62,7 +62,6 @@ description: "Wenn es um Wärme, Quartier und Fernwärme in Energierecht geht: p
 - **Wirtschaftliche Vorteilhaftigkeit** Fernwärme
 - **Versorgungssicherheit** garantiert
 - **Verhältnismäßigkeits-Prüfung** Einzelfall: Eigentümer-Eingriff vs. öffentliches Interesse
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Streit-Konstellation
 
@@ -86,7 +85,6 @@ description: "Wenn es um Wärme, Quartier und Fernwärme in Energierecht geht: p
 
 ### Preisanpassungs-Klauseln Streit
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Transparenz-Erfordernis
 - Bezugnahme auf nachvollziehbare Indizes (Erdgaspreis, Holzpellet-Index, Inflation)
 - **Spotpreis-Indizierung problematisch** wenn nicht für den Lieferanten-Bedarf typisch
@@ -265,10 +263,6 @@ f) Wasserstoff-Heizung (eingeschränkt)
 2. Heizkosten-Abrechnung kontrollieren
 3. Wahlrecht Lieferant sicherstellen
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 §§ 3, 14 WPG (Kommunale Waermeplanung, Fristen) — §§ 71, 72 GEG (65%-EE-Anforderung Heizung) — AVBFernwaermeV (Vertragsbeziehungen Fernwaerme) — §§ 1, 5 BEW (Bundesfoerderung Waermenetze) — § 21 EEG (Mieterstrom) — §§ 313, 315 BGB (Anpassung, billiges Ermessen)
@@ -289,8 +283,9 @@ f) Wasserstoff-Heizung (eingeschränkt)
 - EnWG § 42a
 - EEG § 21
 - BGB §§ 305 ff. AGB-Kontrolle
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - KfW-BEW-Förderrichtlinie 442
 - BMWK-Hinweise Wärmeplanung
 - Bayerische, NRW, Hessische GO-Vorschriften zu AuB-Satzung
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

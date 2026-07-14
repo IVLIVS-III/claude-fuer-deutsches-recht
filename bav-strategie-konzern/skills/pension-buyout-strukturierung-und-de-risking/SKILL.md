@@ -215,5 +215,3 @@ D. RECHTLICHE DOKUMENTATION
 - → `buyout-im-ma-deal-asset-vs-share` — Buy-out im M&A-Kontext
 - → `internationale-buyout-datenflows-und-datenschutz` — Datenschutz bei Datenraum
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriff in Versorgungsrechte durch Ablösung
-
-## Ergaenzende Rechtsprechung (v14.2)

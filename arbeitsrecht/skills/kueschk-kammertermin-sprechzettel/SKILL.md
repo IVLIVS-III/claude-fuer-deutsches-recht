@@ -41,12 +41,6 @@ description: "Wenn es um Kueschk Kammertermin Sprechzettel in Arbeitsrecht geht:
 - Paragraf 9 KSchG — Auflösungsantrag des Arbeitnehmers (bis Schluss der letzten mündlichen Verhandlung)
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Was ist der Kammertermin?
 
 - Hauptverhandlung mit vollständiger Kammer (Paragraf 57 ArbGG)

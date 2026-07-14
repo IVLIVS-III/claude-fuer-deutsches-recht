@@ -152,7 +152,6 @@ Wähle einen dieser Wege und sage dem Nutzer, welchen Weg du nimmst.
 - **Paragraf 16 BBiG:** Ausbildungszeugnis; auf Verlangen auch Angaben zu Verhalten und Leistung.
 - **Wahrheit vor Wohlwollen:** Ein gutes Zeugnis darf nicht unwahr sein. Wohlwollen steuert die Ausdrucksweise, ersetzt aber keine Tatsachen.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Geheimcode:** Nicht jede unglückliche Formulierung ist automatisch ein unzulässiger Code. Prüfe den objektiven Empfängerhorizont und den Gesamtzusammenhang.
 - **Keine Mathematik-Illusion:** Ampel, Note und Drift sind Arbeitsinstrumente. Die Ausgabe muss als begründete Spanne erscheinen, nicht als Scheingenauigkeit.
 
@@ -274,11 +273,6 @@ _Wenn es um Widersprüchliche Bewertungen erkennen und kommentieren in Arbeitsze
 - **Paragraf 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
 - **Paragraf 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Leitentscheidungs-Anker (Empfaengerhorizont, Grenzen der Decodierung)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
@@ -287,6 +281,8 @@ _Wenn es um Widersprüchliche Bewertungen erkennen und kommentieren in Arbeitsze
 | --- | --- | --- |
 | **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -331,10 +327,6 @@ _Wenn es um Bereichs-Drift-Detektor (Schaufenster-Pattern) in Arbeitszeugnis-Ana
 - **Paragraf 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich sein; widersprüchliche Bewertungen im selben Themenbereich verstoßen gegen Wohlwollensgebot
 - **Paragraf 242 BGB** — Treu und Glauben; innerhalb desselben Zeugnisabschnitts darf der Arbeitgeber nicht gleichzeitig Bestnoten und Mängel bescheinigen
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Drift-Prüfung
 
 1. Welche Themenblöcke sind im Zeugnis enthalten? (Fachkenntnisse, Motivation, Qualität, Teamverhalten, Führung, Schluss)
@@ -350,6 +342,8 @@ _Wenn es um Bereichs-Drift-Detektor (Schaufenster-Pattern) in Arbeitszeugnis-Ana
 | --- | --- | --- |
 | **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -647,7 +641,7 @@ Spitzensaetze sind authentisch (Fachkenntnisse, Arbeitsweise, Arbeitsergebnis, E
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -694,11 +688,6 @@ _Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Ar
 
 **Beispiel 8 – Streitwert und Vertretungspflicht:** Das Gericht setzt den Streitwert nach Paragraf 3 ZPO fest; landesrechtliche Streitwertkataloge und örtliche Praxis können Orientierung geben, ersetzen aber keine Einzelfallprüfung. Eine anwaltliche Vertretung ist im ersten Rechtszug vor dem Arbeitsgericht möglich, aber nicht erforderlich. Der Klageantrag muss den verlangten Wortlaut so bestimmt wiedergeben, dass ein stattgebender Titel vollstreckbar ist.
 
-## Ergänzende Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
 ## Leitentscheidungs-Anker (vollstaendige BAG-Linie)
 
 > Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
@@ -719,6 +708,8 @@ _Wenn es um Rechtliche Bewertung und BAG-Rechtsprechung zum Arbeitszeugnis in Ar
 | **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen (Paragraf 109 II 2 GewO). | frei publiziert / dejure-Suche |
 | **BAG, Beschl. v. 07.05.2026 - 8 AZB 25/25** | Im gerichtlichen Vergleich übernommene Pflicht, Zeugnis nach dem ENTWURF des Arbeitnehmers zu erteilen mit Abweichungs-Vorbehalt aus wichtigem Grund, hat vollstreckungsfaehigen Inhalt. | bundesarbeitsgericht.de / dejure.org (vor Schriftsatzverwendung live verifizieren - Entscheidung aus 2026) |
 | **BAG, Urt. v. 08.03.1995 - 5 AZR 848/93** | Zeugniserteilung ist Holschuld (Paragraf 269 BGB): Arbeitnehmer holt im Betrieb ab; nur ausnahmsweise (Unzumutbarkeit, Paragraf 242 BGB) Schickschuld. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -844,7 +835,6 @@ Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung 
 
 Zweitens, in der Verhaltensbeurteilung statt "Kollegen und Vorgesetzten" die Reihenfolge "Vorgesetzten, Kollegen und Kunden" mit dem Steigerer "stets" und dem Praedikat "einwandfrei".
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Beispiel 3 – Streitwertbegründung
 
@@ -863,11 +853,6 @@ Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, 
 - **Paragraf 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
 - **Paragrafen 195, 199 BGB** — regelmäßige Verjährung; Beginn mit Schluss des Jahres von Anspruchsentstehung und Kenntnis
 - **Paragraf 242 BGB** — Verwirkung verlangt Zeit- und Umstandsmoment; Zeitablauf allein genügt nicht
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 
 ## Leitentscheidungs-Anker (Vollstreckung, Holschuld, Form)
 
@@ -893,6 +878,8 @@ Wenn Urteil oder Vergleich vorliegt, der Arbeitgeber aber nicht oder falsch erfu
 | Streit über "wichtigen Grund" der Abweichung | Arbeitgeber muss den wichtigen Grund darlegen; sonst Zwangsmittel |
 
 **Praxisregel:** Schon beim Vergleichsschluss an die Vollstreckung denken - die Entwurfsklausel mit Wichtiger-Grund-Vorbehalt macht aus dem Vergleich einen scharfen Titel.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -1052,7 +1039,6 @@ Gegenüber Kollegen und Vorgesetzten verhielt sich Herr Beispiel korrekt. Er zei
 **Schlussformel:**
 Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunft alles Gute.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ---
 
@@ -1074,7 +1060,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

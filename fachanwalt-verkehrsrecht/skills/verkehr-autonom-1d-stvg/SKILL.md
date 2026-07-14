@@ -39,7 +39,6 @@ description: "Wenn es um Unfall mit autonomem Fahrzeug oder Frage zur Haftung be
 ### Leitentscheidungen
 
 - BGH-anhängig (2025/2026)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Drei-Stufen-Haftungsanalyse
 
@@ -118,9 +117,6 @@ description: "Wenn es um Unfall mit autonomem Fahrzeug oder Frage zur Haftung be
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Aktuelle Rechtsprechung Autonomes Fahren
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- BGH VI ZR 12/24 entfernt: tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128); kein Bezug zu autonomem Fahren (27.05.2026) -->
 
 ## Normen Autonomes Fahren
@@ -131,3 +127,5 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 - § 7 StVG — Halterhaftung bleibt bestehen auch bei autonomem Modus
 - §§ 1-4 ProdHaftG — Herstellerhaftung bei Produktfehler (Software als Produkt)
 - VO (EU) 2019/2144 — allgemeine Fahrzeugsicherheitsverordnung (ALKS, Notbremssysteme)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

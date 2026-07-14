@@ -73,10 +73,6 @@ Pro Artikel und pro Paragraf:
 - [ ] Erfüllungsaufwand mit Zahlen
 - [ ] EU-Bezug und Notifizierung adressiert
 
-## Aktuelle Rechtsprechung & Leitsätze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 
 § 39 VwVfG (Begruendungspflicht Verwaltungsakt) — § 41 VwVfG (Heilung von Begruendungsmaengeln) — § 76 GGO (Begruendung Referentenentwurf) — §§ 1-4 UVPG (Umwelt-Begruendungspflichten) — § 35 BauGB (Begruendung Abwaegungsergebnis Bauleitplanung)
@@ -96,3 +92,5 @@ Markdown-Datei "Begruendung.md".
 ## Anschluss
 
 `synopse-erstellen`.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -231,12 +231,7 @@ Compliance-Kosten (Prävention): Screening-Software 5.000–50.000 EUR/Jahr; Rec
 - EG-VO 428/2009 (Dual-Use-VO)
 - OFAC Regulations 31 CFR Part 500 ff.; SDN List (treasury.gov)
 - UK Sanctions and Anti-Money Laundering Act 2018; OFSI
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Merkblätter Embargorecht (bafa.de), Stand 2024
-
-## Vertiefung: Aktuelle Rechtsprechung und Leitsaetze
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen-Kette Sanktions-Compliance
 
@@ -292,3 +287,5 @@ Naechster Review: [DATUM — z.B. bei Erneuerung/Zahlungseingang]
 [KANZLEI], [ORT], [DATUM]
 [RECHTSANWAELTIN NAME], LL.M.
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -38,10 +38,6 @@ description: "Wenn es um Branchenspezifische Formulierungen in Arbeitszeugnis-An
 
 - **Paragraf 109 GewO** — Wohlwollend formuliertes qualifiziertes Zeugnis; tatsächliche Tätigkeit und Anforderungsprofil prägen den Maßstab
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Triage — vor der Branchenanalyse
 
 1. Welcher Branche ist das Zeugnis zuzuordnen?
@@ -57,3 +53,5 @@ description: "Wenn es um Branchenspezifische Formulierungen in Arbeitszeugnis-An
 | --- | --- | --- |
 | **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Nach einer vom Arbeitnehmer veranlassten Berichtigung darf der Arbeitgeber unbeanstandete Zeugnisbestandteile grundsätzlich nicht grundlos verschlechtern; Zeugnisklarheit beurteilt sich nach dem objektiven Empfängerhorizont. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

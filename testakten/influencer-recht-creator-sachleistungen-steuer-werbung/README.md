@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 109 KB) | PDF | [`gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf`](gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 111 KB) | PDF | [`gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf`](gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-influencer-recht-creator-sachleistungen-steuer-werbung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung-einzelpdfs.zip) |
 

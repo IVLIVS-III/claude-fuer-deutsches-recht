@@ -45,7 +45,6 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 - **BMF-Schreiben zur Anwendung der DBA auf Personengesellschaften** vom 26.09.2014 (BStBl I 2014, 1258) (Bestandsschutz und Folgeschreiben) — aktuellen Stand und Aktualisierungen im BMF-Veroeffentlichungsverzeichnis oder in freier amtlicher Quelle prüfen.
 - **BMF-Schreiben zur Anwendung des MLI** — aktuellen Stand und Datum im BMF-Veroeffentlichungsverzeichnis prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Aufbau eines typischen DBA
 
@@ -187,4 +186,4 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ## Quellen und Updates
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

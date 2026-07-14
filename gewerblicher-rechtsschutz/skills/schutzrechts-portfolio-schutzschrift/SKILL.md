@@ -49,10 +49,6 @@ Befehlsargument:
 - **§ 64 UrhG** — Schutzfrist: 70 Jahre nach Tod des Urhebers; keine aktive Verlängerung erforderlich
 - **§§ 70–72 UrhG** — Verwandte Schutzrechte: abweichende Fristen
 
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ### Kommentare
 
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 47 Rn. 1 ff. (Schutzdauer und Verlängerung), § 49 Rn. 1 ff. (Löschung wegen Nichtbenutzung)
@@ -265,4 +261,4 @@ Alle Fristenangaben müssen auf konkreten Normen beruhen. Pflichtquellen:
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

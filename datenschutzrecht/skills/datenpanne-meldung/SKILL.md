@@ -125,7 +125,3 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Datenpannen mit Drittlandbezug (Benachrichtigungspflicht des Importeurs)
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — Nachträgliche DSFA-Prüfung nach Datenpanne; Vorab-Konsultation Art. 36 DSGVO
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Meldepflicht des Auftragsverarbeiters nach Art. 33 Abs. 2 DSGVO im AVV-Kontext
-
-## Aktuelle Rechtsprechung (v14.2)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

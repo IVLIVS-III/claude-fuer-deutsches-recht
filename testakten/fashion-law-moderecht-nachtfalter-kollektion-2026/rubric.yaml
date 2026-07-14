@@ -3,7 +3,7 @@
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
 name: "Fashion Law Moderecht Nachtfalter Kollektion 2026"
-plugin: "tbd"
+plugin: "fashion-law-moderecht"
 
 checks:
   - id: r01-readme-vorhanden

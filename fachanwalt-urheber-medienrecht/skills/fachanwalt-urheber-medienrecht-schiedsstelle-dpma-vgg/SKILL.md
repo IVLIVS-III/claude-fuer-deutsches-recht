@@ -105,10 +105,8 @@ Streit zwischen Verwertungsgesellschaften (GEMA, VG Wort, VG Bild-Kunst, GVL) un
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Lizenz
 - `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` — KI-Training
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Quellen und Updates
 
 Stand: 05/2026. VGG seit 2016. DPMA-Schiedsstellen-Praxis stabil. DSM-RL ab 7.6.2021 (Online-Inhalte).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

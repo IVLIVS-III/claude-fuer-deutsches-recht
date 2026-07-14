@@ -23,9 +23,6 @@ KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freiga
 3. Welche Unterlagen liegen bereits vor und welche fehlen für die vollstaendige Identifizierung nach § 10 GwG?
 4. Welche Risikoklasse (niedrig/normal/erhoehte Sorgfalt/verstaerkte Sorgfalt) wird erwartet?
 
-## Aktuelle Rechtsprechung und Behördenpraxis
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - §§ 10-17 GwG — Allgemeine und vereinfachte Sorgfaltspflichten
 - § 13 GwG — Identifizierung des wirtschaftlich Berechtigten
@@ -54,3 +51,5 @@ KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freiga
 - Keine Transaktion fortführen, wenn Mittelherkunft, Sanktionshit oder Verdachtslage ungeklärt bleibt.
 - Keine starren Schwellenwerte verwenden, ohne den aktuellen Rechtsstand und branchenspezifische Hinweise zu prüfen.
 - Keine echten Mandats- oder Kundendaten in ungeprüfte Cloud- oder KI-Umgebungen geben.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

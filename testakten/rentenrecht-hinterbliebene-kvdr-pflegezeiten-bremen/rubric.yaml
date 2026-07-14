@@ -1,4 +1,5 @@
 name: rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen
+plugin: "rentenpruefer"
 description: Witwenrente mit Einkommensanrechnung, Verbeitragung dreier Zahlungsstroeme in der Krankenversicherung
   der Rentner, Pflegebeitragsluecken und streitiger KVdR-Vorversicherungszeit.
 checks:

@@ -253,5 +253,3 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Paragraf 406, 407a, 411, 412, 1059 ZPO; Paragraf 4, 8a JVEG
-
-## Ergaenzende Rechtsprechung (v14.2)

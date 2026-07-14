@@ -43,7 +43,6 @@
 
 ## 7. Aussage zur Sanierungsfähigkeit
 - **Eintritt nachhaltige Sanierungsfähigkeit** = überwiegend wahrscheinlich, dass am Ende des Planungszeitraums **branchenübliche Ertragskraft** und **angemessene Eigenkapitalausstattung** erreicht werden.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## 8. Zusammenfassung und Empfehlungen
 - Klare Aussage: positive oder negative Sanierungsfähigkeit; positive oder negative Fortführungsprognose.
@@ -52,4 +51,5 @@
 ## Querverweise
 - IDW S 11 (Insolvenzeröffnungsgründe) – für Liquiditätsstatus und Überschuldungsstatus.
 - IDW S 9 (Bescheinigung StaRUG) – wenn StaRUG-Restrukturierungsverfahren in Betracht kommt.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

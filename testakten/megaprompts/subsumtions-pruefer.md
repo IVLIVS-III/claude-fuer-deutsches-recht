@@ -296,12 +296,6 @@ _Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-
 - Strafrecht: §§ 263, 266, 303, 223, 242, 249 StGB — Strafantrag bei Antragsdelikten (§ 77 StGB, 3 Monate)
 - Verwaltungsrecht: § 35 VwVfG (VA-Definition), § 42 VwGO (Anfechtungs-/Verpflichtungsklage)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-
-
 ## Schritt-für-Schritt-Vorgehen
 
 **Schritt 1 — Sachverhalts-Kategorisierung**
@@ -358,6 +352,8 @@ Das System weist ausdrücklich darauf hin, dass:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -642,10 +638,6 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 4. Ist die Definition des TBM aus Gesetz, h.M. oder BGH-Rechtsprechung bekannt?
 5. Ist das TBM ein unbestimmter Rechtsbegriff? → Skill `unbestimmte-rechtsbegriffe-pruefen` parallel
 
-## Aktuelle Rechtsprechung zur Subsumtionsmethode
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Das Vier-Schritt-Schema
 
 ### Schritt 1 — Obersatz
@@ -716,6 +708,8 @@ Ergebnis:
 TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
 
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
 ---
 
 ## Skill: `tbm-grundrechte-grch-kandidatenloesung`
@@ -753,10 +747,6 @@ _Wenn es um Gegen-TBM und Einreden prüfen in Subsumtions-Prüfer geht: ordnet S
 - § 273 BGB, § 320 BGB — Zurückbehaltungsrecht, Einrede des nicht erfüllten Vertrags
 - § 242 BGB — Verwirkung (Treu und Glauben)
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Systematik der Gegenrechte
 
 ### 1. Rechtshindernde Einwendungen (Anspruch entsteht gar nicht)
@@ -786,7 +776,6 @@ Rechtshindernde Einwendungen verhindern die Entstehung des Anspruchs:
 
 ### 4. Verwirkung (§ 242 BGB)
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### 5. Mitverschulden (§ 254 BGB)
 
@@ -813,6 +802,8 @@ Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreife
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

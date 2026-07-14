@@ -284,7 +284,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Schlüssel-Leitsaetze IWR-Triage
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Überblick IWR-Triage
 - Bruessel Ia VO Art. 4, 7, 25 — Gerichtsstand
@@ -313,6 +312,8 @@ Prioritaet: [ROT / GELB / GRUEN]
 Folge-Skill: [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 =========================================
 ```
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -390,7 +391,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Schluessel-Leitsaetze Internationales Wirtschaftsrecht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Ueberblick IWR
 | Materie | Zentralnorm |
@@ -414,6 +414,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Verjaebrung (BGB) | §§ 195, 199 BGB: 3 Jahre |
 | Schiedsklage-Einleitung | Vertraglich vereinbart oder Verjaebrung Hauptanspruch |
 | Vollstreckungsantrag NY Convention | Kein Zeitlimit; aber Einrede moeglich |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -599,7 +601,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ### Schlüssel-Leitsaetze Erstgespräch IWR
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen IWR Erstmandat
 - Bruessel Ia VO (EU 1215/2012) Art. 4 ff. — Internationale Zuständigkeit
@@ -654,6 +655,8 @@ Naechster Schritt: [MASSNAHME] bis [DATUM]
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -945,7 +948,6 @@ _Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fa
 
 ### Schlüssel-Leitsaetze Internationales Wirtschaftsrecht
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Normen-Überblick IWR
 | Materie | Zentralnorm |
@@ -969,6 +971,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Verjaebrung (BGB) | §§ 195, 199 BGB: 3 Jahre |
 | Schiedsklage-Einleitung | Vertraglich vereinbart oder Verjaebrung Hauptanspruch |
 | Vollstreckungsantrag NY Convention | Kein Zeitlimit; aber Einrede möglich |
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

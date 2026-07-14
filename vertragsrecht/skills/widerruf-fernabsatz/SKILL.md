@@ -56,18 +56,14 @@ Das Modell benötigt:
 
 ### Leitentscheidungen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Wertersatzanspruch des Unternehmers für die Benutzung der Ware vor Ausübung des Widerrufs nur
  dann zu leisten, wenn er die Ware über das zur Prüfung notwendige Maß hinaus benutzt hat; eine
  pauschale Nutzungsentschädigung ist mit dem Widerrufsrecht unvereinbar.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  fehlerhafter Widerrufsbelehrung; die Widerrufsfrist beginnt nicht zu laufen, wenn der
  Unternehmer keine oder eine fehlerhafte Belehrung erteilt hat; der Verbraucher kann auch
  Monate nach Lieferung noch widerrufen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  versiegelte Waren § 312g Abs. 2 Nr. 3 BGB; die Entsiegelung muss produktspezifisch
  hygienisch bedeutsam sein; eine Schutzfolie auf einem Buch fällt nicht darunter.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Widerrufsrechts bei Verbraucherdarlehen; auch bei formell fehlerhafter Belehrung kann das
  Widerrufsrecht verwirkt sein, wenn der Verbraucher jahrelang Leistungen erbracht hat.
 
@@ -115,7 +111,6 @@ in Gang gesetzt, sofern die übrigen Belehrungsinhalte korrekt waren. Widerruf a
 (19 Tage nach Lieferannahme) ist verspätet, sofern Lieferung vor dem 06.03.2025 erfolgte.
 
 *Kostenfolge*: Da U nicht über die Pflicht zur Übernahme der Rücksendekosten informiert hat,
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Risiken und typische Fehler
@@ -127,7 +122,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 - **Wertersatz nach § 357 Abs. 7 BGB**: Zu hohe Forderung → Verbraucher schuldet nur
  Verschlechterung über normalen Prüfgebrauch hinaus; pauschale Nutzungsentschädigung
  unionsrechtswidrig (EuGH – "Messner").
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Berufsrecht**: Mandantendaten (Bestell- und Zahlungsdaten) unterliegen § 43a Abs. 2 BRAO,
  § 203 StGB; Verarbeitung nur in gesicherten Systemen.
@@ -139,3 +133,5 @@ Jede Aussage zur Belehrungspflicht, Fristberechnung und Rückabwicklung ist nach
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 dass Rechtsprechung insoweit nicht vorliegt.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

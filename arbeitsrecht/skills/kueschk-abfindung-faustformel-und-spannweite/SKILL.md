@@ -41,10 +41,6 @@ description: "Wenn es um Kueschk Abfindung Faustformel Und Spannweite in Arbeits
 - Paragraf 158 SGB III — Ruhenszeitraum bei Abfindung und vorzeitiger Beendigung (Sperrzeit-ähnlicher Effekt)
 - Paragraf 159 SGB III — Sperrzeit bei Eigenkündigung oder Aufhebungsvertrag auf eigene Veranlassung
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Die Faustformel
 
 Die in der Praxis häufig verwendete Faustformel lautet:
@@ -132,3 +128,5 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

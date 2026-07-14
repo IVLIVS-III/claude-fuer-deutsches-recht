@@ -1,4 +1,5 @@
 name: strafrecht-brandstiftung-lagerhalle-magdeburg
+plugin: "fachanwalt-strafrecht"
 description: Brandstiftungsakte mit Versicherungsmotiv, Brandsachverstaendigem, Videoausfall und Zutrittslog; Kern
   ist das Minutenprotokoll der Brandnacht zur Ableitung des Legungsindizes sowie der Abgleich von Versicherungssumme
   und Inventarwert zur Ueberversicherung.

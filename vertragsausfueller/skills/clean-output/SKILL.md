@@ -12,10 +12,6 @@ description: "Wenn es um Clean-Output in Vertragsausfüller geht: prüft Frist, 
 3. Ist das Ausgabeformat bestimmt — Word (.docx), PDF oder beides?
 4. Wird Track Changes / Redline gewünscht — wenn ja: ausdrückliche Bestätigung eingeholt?
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 
 - § 305 BGB — Einbeziehungsvoraussetzungen AGB
@@ -61,3 +57,5 @@ description: "Wenn es um Clean-Output in Vertragsausfüller geht: prüft Frist, 
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
 
 ---
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

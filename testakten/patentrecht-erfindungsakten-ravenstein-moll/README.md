@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1093 KB) | PDF | [`gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf`](gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1097 KB) | PDF | [`gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf`](gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-patentrecht-erfindungsakten-ravenstein-moll.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-patentrecht-erfindungsakten-ravenstein-moll-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll-einzelpdfs.zip) |
 

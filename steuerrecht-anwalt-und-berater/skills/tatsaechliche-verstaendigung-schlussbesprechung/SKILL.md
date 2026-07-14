@@ -38,15 +38,9 @@ description: "Wenn es um Tatsächliche Verständigung / Schlussbesprechung / Ste
 - **§ 364a AO** — Erörterung im Einspruchsverfahren
 - **§ 79 FGO** — Erörterungstermin Finanzgericht
 - **§ 76 FGO** — Sachaufklärungs-Pflicht
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Leitentscheidungen
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## ADR-Pfade
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - **Nur** über Sachverhalts-Fragen (nicht Rechtsfragen)
 - Voraussetzung: tatsächliche Ungewissheit oder unverhältnismäßige Aufklärungs-Schwierigkeit
@@ -118,7 +112,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Strategie und Taktik
 
 - **Sachverhalts-Streit vs. Rechtsfragen-Streit unterscheiden** — nur erster ist verhandelbar
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **§ 153 AO Berichtigungs-Pflicht beachten** — keine Strafbefreiung, aber Pflichten
 - **Bei Schätzungen § 162 AO**: Verständigung über Schätzungs-Grundlagen häufig möglich
 - **Außenprüfung Streit-Phasen**: nicht eskalieren vor Schlussbesprechung
@@ -127,3 +120,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

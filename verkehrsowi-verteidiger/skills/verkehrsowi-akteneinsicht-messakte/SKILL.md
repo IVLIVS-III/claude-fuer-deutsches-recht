@@ -30,10 +30,6 @@ description: "Wenn es um Akteneinsicht und Messakte im OWi-Verfahren in Verkehrs
 - **§ 6 MessEG** — Eichpflicht für Verkehrsueberwachungsgeraete
 - **§ 77 OWiG** — Beweisaufnahme in der Hauptverhandlung des Amtsgerichts
 
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vollstaendige Messakte — Was muss enthalten sein?
 
 ```

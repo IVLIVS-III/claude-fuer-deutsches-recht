@@ -177,8 +177,6 @@ Handlungsempfehlungen:
 ## Quellen und Zitierweise
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Typische Fehler
 
@@ -187,3 +185,5 @@ Handlungsempfehlungen:
 - **3-Wochen-Klagefrist** Paragraf 17 TzBfG — beginnt ab vereinbartem Vertragsende, nicht ab tatsächlichem Ende
 - **NachwG-Reform 2022** — neu eingeführte Pflichtangaben vielen Arbeitgebern unbekannt; Bußgeld bis 2.000 Euro je Verstoß
 - **Wettbewerbsverbot ohne Karenzentschädigung** — führt zu Unverbindlichkeit, nicht Nichtigkeit (Paragraf 74a HGB)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

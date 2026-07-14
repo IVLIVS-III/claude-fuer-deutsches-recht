@@ -11,10 +11,6 @@ description: "Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht �
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aktuelle Rechtsprechung (Orientierung)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Wichtige Normen
 
 | Bereich | Norm |
@@ -73,3 +69,5 @@ Nur relevant für den Erwerb des Fachanwaltstitels "Fachanwalt für Steuerrecht"
 - 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
 
 Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl für Fachanwaeltinnen/Fachanwaelte als auch für alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

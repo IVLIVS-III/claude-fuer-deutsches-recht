@@ -240,7 +240,6 @@ Relevante Normen und Rspr.:
 - § 241 Abs. 2 BGB – Schutzpflichten im Schuldverhaeltnis
 - § 307 BGB – AGB-Inhaltskontrolle (bei vorformulierten Klauseln)
 - § 339 BGB – Vertragsstrafe; § 343 BGB – richterliche Herabsetzung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Kommentare:
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 2 GeschGehG Rn. 5 ff.
@@ -254,3 +253,5 @@ Kommentare:
 - **Wettbewerbsverbote ohne Karenzentschädigung:** Bei Arbeitnehmern unwirksam (§§ 74 ff. HGB); bei Geschäftsführern/Freelancern gesondert prüfen.
 - **Jurisdiktionswechsel:** Wenn die NDA ausländisches Recht wählt, überträgt sich die Triage nicht 1:1. ROT-kennzeichnen und Spezialist einschalten.
 - **Mandantengeheimnis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

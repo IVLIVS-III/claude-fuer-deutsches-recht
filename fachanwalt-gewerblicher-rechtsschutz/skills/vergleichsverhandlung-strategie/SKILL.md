@@ -36,10 +36,6 @@ description: "Wenn es um Vergleichsverhandlung Strategie in Fachanwalt Gewerblic
 - § 9 UWG — Schadensersatz bei UWG-Verstoß
 - § 242 BGB — Treuwidrigkeitspruefu ng bei Abgeltungsklausel
 
-## Zentrale Rechtsprechung
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Vorbereitung der Verhandlung
 
 ### 1. BATNA und ZOPA bestimmen
@@ -191,3 +187,5 @@ dieses Anwaltsvergleichs nach § 796a ZPO durch das [GERICHT].
 - `erstgespraech-mandatsannahme` — Erstaufnahme und Streitwertgrundlage
 - `schriftsatzkern-substantiierung` — wenn Vergleich scheitert und Klage noetig
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — WIPO-Mediation bei internationalem Bezug
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -32,9 +32,6 @@ description: "Wenn es um /leitfaden-erstellen in Plugin für die studentische Re
 3. Gibt es einen bestehenden Leitfaden, der ueberarbeitet werden soll, oder wird er neu erstellt?
 4. Welche spezifischen Prüfungsgates und RDG-Grenzen sollen für diesen Fachbereich konfiguriert werden?
 
-## Aktuelle Rechtsprechung
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des anleitenden Anwalts: gilt auch für Leitfaden-Inhalte und Mandatsdaten
@@ -172,3 +169,5 @@ Ausgabe: `guides/<fachbereich>.md` mit den Sektionen:
 - **RDG-Grenzen nicht klar kommuniziert:** Studenten ohne klare Anleitungsstruktur überschreiten versehentlich § 3 RDG.
 - **Fehlende Konfliktprüfung:** Ohne explizite Gate-Regel übersehen Studenten, wann sie den Anleiter einschalten müssen.
 - **Sprachbarrieren bei Geflüchteten:** Leitfaden sollte Dolmetscherressourcen und Sprach-Level-Anforderungen an Mandantenbriefe festlegen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -49,9 +49,6 @@ Art. 28 Abs. 1 DSGVO: Beauftragung nur von Auftragsverarbeitern mit hinreichende
 
 Die Anforderungen an AVV können sich durch Entscheidungen der Datenschutzbehörden oder neue EuGH-Rechtsprechung ändern. Ebenso müssen AVV bei wesentlichen Änderungen der Datenverarbeitungstätigkeit aktualisiert werden. Bei Änderungen der Unterauftragsverarbeiter des KI-Anbieters ist zu prüfen, ob eine erneute Risikobeurteilung erforderlich ist.
 
-## Aktuelle Rechtsprechung (v14.2)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Zentrale Normen (Paragrafenkette)
 - Art. 28 DSGVO — Auftragsverarbeitung (Pflichtinhalt AVV)
 - Art. 46 DSGVO — Drittlandtransfer-Garantien (SCC, Angemessenheitsbeschluss)
@@ -104,3 +101,5 @@ Geprueft von: [NAME]
 ## Quellenkontrolle
 
 Die Richtlinie muss Berufsrecht, Verschwiegenheit, Datenschutz, Arbeitsrecht und technische Organisation getrennt abbilden. Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 203 StGB sowie Artikel 5, 28 und 32 DSGVO nur für den jeweils geregelten Vorgang verwenden. Rechtsprechung nur mit einer konkret passenden tragenden Aussage aufnehmen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
