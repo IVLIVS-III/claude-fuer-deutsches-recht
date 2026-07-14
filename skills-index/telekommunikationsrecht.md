@@ -1,6 +1,6 @@
 # telekommunikationsrecht
 
-**57 Skills** · Stand `v432.0.0`
+**57 Skills** · Stand `v432.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../telekommunikationsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

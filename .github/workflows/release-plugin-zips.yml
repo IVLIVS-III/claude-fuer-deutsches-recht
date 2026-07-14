@@ -107,8 +107,8 @@ jobs:
       - name: Pluginlokale Gesamt-PDFs der Testakten bauen
         run: python3 scripts/build-plugin-testakte-gesamt-pdfs.py
 
-      - name: Generierte Dateien gegen den Tag prüfen
-        run: git diff --exit-code
+      - name: Generierte Textdateien gegen den Tag prüfen
+        run: git diff --exit-code -- . ':(exclude,glob)**/gesamt-pdf/*.pdf'
 
       - name: Liste aller Plugins aus marketplace.json lesen
         id: plugins

@@ -1,6 +1,6 @@
 # rechtstheorie-rechtsphilosophie
 
-**65 Skills** · Stand `v432.0.0`
+**65 Skills** · Stand `v432.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../rechtstheorie-rechtsphilosophie/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
