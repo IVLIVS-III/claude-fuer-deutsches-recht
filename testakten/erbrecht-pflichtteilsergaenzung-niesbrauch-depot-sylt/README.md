@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 120 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-niesbrauch-depot-sylt-einzelpdfs.zip) |
 
@@ -48,10 +48,13 @@ Pflichtteilsstreit nach dem Tod von Helga Martensen. Vorwegübertragung eines Ha
 | `08_grundbuch_und_lastenstand.docx` | Grundbuchauszug mit Eigentumsumschreibung, Nießbrauch, Rückauflassungsvormerkung und Grundschuld |
 | `09_entwurf_naechstes_schreiben.docx` | Auskunfts- und Beleganforderung mit getrennten Arbeitssträngen für Nachlass, Grundstück, Depot und Pflege |
 | `10_wertermittlungsauftrag_grundstueck.docx` | Sachverständigenauftrag zu Stichtagswert, Nießbrauchvarianten, Unterlagen, Ortstermin und Bewertungsannahmen |
+| `11_telefonnotiz_anja_kalenderfund.docx` | Telefonnotiz zum aufgefundenen Kalender und einer Nachricht Karstens |
+| `12_vollmacht_und_postausgang.docx` | Vollmacht, Identitätsprüfung, Zustellungsnachweise und Fristenkontrolle |
+| `13_rvg_kostenentwurf.docx` | Kosten-, Vorschuss- und Fremdkostenübersicht ohne verfrühte Wertfestlegung |
 | `csv/beleganforderung.csv` | Strukturierte Beleganforderung für die fehlenden Nachlass-, Grundstücks-, Depot- und Pflegeunterlagen |
 | `emails/2026-06-28_anja_fragt_nach_depot.eml` | Mandantenmail zu Depotübertragung, Ertragszahlungen und noch vorhandenen Kontoauszügen |
-| `pdfs/gutachterkurzbrief_keitum.pdf` | Kurze sachverständige Vorbewertung des Keitumer Grundstücks mit offenen Bewertungsparametern |
-| `xlsx/pflichtteilsergaenzung_wertband.xlsx` | Rechenblatt für Nachlasswerte, Schenkungspositionen, Nießbrauch und noch ungeklärte Wertbandbreiten |
+| `pdfs/gutachterkurzbrief_keitum.pdf` | Sachverständiger Markt- und Unterlagenbrief mit zwei Stichtagen und Kostenangebot |
+| `xlsx/pflichtteilsergaenzung_wertband.xlsx` | Intern abgestimmte Immobilien-, Depot- und Nachlasswerte mit Quellen und offenen Fragen |
 
 ## Arbeitsnotiz
 

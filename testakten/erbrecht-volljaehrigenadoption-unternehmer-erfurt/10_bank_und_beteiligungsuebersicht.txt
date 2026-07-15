@@ -1,44 +1,33 @@
 Bank- und Beteiligungsübersicht
 Nachlass Ralf Sander, verstorben am 08.06.2026
-Arbeitsstand 24.06.2026, zusammengestellt von RAin Dr. Weigand aus Bankauskünften, Steuerberatermail und Grundbuchdaten
+Arbeitsstand 24.06.2026, 17:35 Uhr
+Zusammengestellt von Rechtsanwältin Dr. Carolin Weigand aus Bankauskünften, Steuerberatermail, Gesellschaftsunterlagen und Grundbuchdaten. Werte sind Arbeitswerte; fehlende Belege sind gekennzeichnet.
 
-Konten:
+1. Konten bei der Erfurter Bank
+Girokonto DE41 8205 0000 0010 0882 31: Saldo Todestag 84219,77 EUR.
+Nach dem Tod: Eingang 6400,00 EUR Miete Lagerhalle und 1280,00 EUR Erstattung Krankenversicherung; Abgang 4980,00 EUR Bestattungsanzahlung und 2100,00 EUR Vorschuss Oldtimergutachter. Verfügender nach Bankprotokoll: Jonas Mielke-Sander aufgrund transmortaler Vollmacht; Belege angefordert.
 
-Erfurter Bank Girokonto 10088231
-Saldo Todestag: 84.219,77 EUR
-Eingänge nach Tod: 6.400,00 EUR Miete Lagerhalle, 1.280,00 EUR Erstattung Krankenversicherung
-Abgänge nach Tod: 4.980,00 EUR Bestattung Anzahlung, 2.100,00 EUR Gutachter Oldtimer
+Depot 770091: ETF Welt 198600,00 EUR, Bundesanleihe 2030 nominal 60000,00 EUR, Medizintechnik-Aktien 51400,00 EUR. Kurswert gesamt zum Todestag rund 310000,00 EUR. Stichtagsabrechnung liegt vor.
 
-Depot Erfurter Bank 770091
-ETF Welt: 198.600,00 EUR Kurswert Todestag
-Bundesanleihe 2030: 60.000,00 EUR nominal
-Einzelaktien Medizintechnik: 51.400,00 EUR Kurswert Todestag
-Depotwert gesamt am Todestag: rund 310.000,00 EUR (deckt sich mit der Angabe von Jonas in Stück 04)
+2. Gesellschaftspositionen
+Sander Präzisionsteile GmbH, 86 Prozent, HRB 512344 Amtsgericht Jena. Bandbreite aus den vorliegenden Unterlagen: 2064000,00 EUR auf buchwertnaher Grundlage bis 5332000,00 EUR nach grober Ertragswertspanne. Kein unabhängiges Gutachten.
 
-Beteiligungen:
+Noch nicht ausgezahlte Ausschüttung 2025: 154800,00 EUR Anteil Ralf. Gesellschafterdarlehen Ralf an GmbH: 280000,00 EUR. Kaufpreisrestforderung gegen Jonas aus dem Anteilserwerb 2023: 48000,00 EUR.
 
-Sander Präzisionsteile GmbH, 86 Prozent Geschäftsanteil (HRB 512344, Amtsgericht Jena)
-Streitige Bewertungsbandbreite:
-- buchwertnahe Betrachtung nach Gesellschaftsvertrag: 2.064.000,00 EUR für 86 Prozent (Grundlage der Angabe von Jonas)
-- Ertragswert grob nach Steuerberater: 4.128.000,00 bis 5.332.000,00 EUR für 86 Prozent
-Dazu: noch nicht ausgezahlte Ausschüttung 2025, Anteil Ralf Sander 154.800,00 EUR
-Forderung aus Darlehen der GmbH-Gesellschafterebene: Darlehen Ralf Sander an die GmbH, valutierend 280.000,00 EUR
-Kaufpreisrestforderung gegen Jonas Mielke-Sander aus Anteilsverkauf 2023: 48.000,00 EUR
+3. Immobilien
+Wohnhaus Am Mühlgraben 3, Erfurt-Bischleben, Grundbuch Blatt 1120. Maklerkurzbrief 740000,00 EUR. Darlehen 118000,00 EUR.
 
-Privatimmobilien:
+Ferienwohnung Dünenstraße 18, Zinnowitz. Maklerbrief 312000,00 EUR, nach Mandantenunterlagen lastenfrei. Diese Position fehlt in Jonas' vorläufiger Aufstellung. Grundbuchauszug ist beantragt; Eigentum und aktueller Lastenstand sind noch nicht abschließend belegt.
 
-Wohnhaus Erfurt-Bischleben, Grundbuch Bischleben Blatt 1120, Marktwert laut Maklerkurzbewertung vom 19.06.2026: 740.000,00 EUR, valutierendes Darlehen 118.000,00 EUR.
-Ferienwohnung Zinnowitz, Marktwert laut Maklerbrief 312.000,00 EUR, lastenfrei. Diese Position fehlt in der vorläufigen Nachlassaufstellung von Jonas (Stück 04).
+4. Weitere Verbindlichkeiten
+Privater Kontokorrentkredit 102000,00 EUR. Zusammen mit dem Hausdarlehen 220000,00 EUR. Bestattung und Gutachtervorschuss sind als Buchungen nach dem Tod gesondert erfasst und nicht doppelt als Todestagsschuld angesetzt.
 
-Weitere Verbindlichkeiten:
+5. Offene Belegfragen
+5.1 Zuordnung der beschlossenen Ausschüttung.
+5.2 Fälligkeit und Werthaltigkeit der Kaufpreisrestforderung.
+5.3 Eigentum und Lasten der Ferienwohnung Zinnowitz.
+5.4 Unabhängiger Unternehmenswert zum 08.06.2026.
+5.5 Vollständige Nachlasspassiva und lebzeitige Übertragungen.
 
-Kontokorrentkredit privat, Erfurter Bank: 102.000,00 EUR zum Todestag.
-(Zusammen mit dem Hausdarlehen ergeben sich private Bankverbindlichkeiten von 220.000,00 EUR; so auch die Angabe von Jonas.)
-
-Offene Fragen:
-
-1. Gehört die noch nicht ausgezahlte Ausschüttung 2025 (154.800,00 EUR) zum Nachlassbestand oder ist sie gesellschaftsrechtlich anders zuzuordnen?
-2. Ist die Kaufpreisrestforderung gegen Jonas Mielke-Sander werthaltig und fällig, und wie verhält sie sich zur Stundungsabrede?
-3. Welche Wirkungen hat die Volljährigenadoption für Pflichtteilsquote und gesetzliche Erbfolge, wenn kein Erbvertrag vorliegt?
-4. Welche Bewertung ist für eine kurzfristige Abschlagszahlung tragfähig, ohne die Liquidität der GmbH zu gefährden?
-5. Warum fehlt die Ferienwohnung Zinnowitz in der Aufstellung der Gegenseite?
+Bearbeitungsvermerk:
+Paula Schenk hat die Zahlen am 24.06.2026 mit der XLSX-Arbeitsmappe abgeglichen. Dr. Weigand hat den Text am selben Tag um 17:35 Uhr freigegeben. Die Übersicht enthält keine abschließende Erb- oder Pflichtteilsberechnung.

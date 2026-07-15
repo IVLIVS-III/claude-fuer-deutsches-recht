@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip) |
 
@@ -21,19 +21,19 @@ Arbeitsakte zum Plugin `fachanwalt-erbrecht`.
 
 ## Kurzbild
 
-Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Prokuristen Jonas Mielke als Volljährigen. Nach Ralfs Tod 2026 streiten die leiblichen Kinder Nele und Peer mit Jonas über Erbquote, Pflichtteil, Unternehmensnachfolge und die Reichweite der Volljährigenadoption. Die Adoption wurde familiengerichtlich ausgesprochen, aber die Kinder behaupten, sie sei nur zur Pflichtteilsverkürzung betrieben worden.
+Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Mitarbeiter, Geschäftsführer und Mitgesellschafter Jonas Mielke als Volljährigen. Nach Ralfs Tod 2026 streiten die leiblichen Kinder Nele und Peer mit Jonas über Erbschein, Pflichtteil, Unternehmensnachfolge und die Bedeutung der Adoption. Nele erfuhr erst nach dem Erbfall von dem rechtskräftigen Beschluss; die Adoptionsakte dokumentiert persönliche und wirtschaftliche Motive, ohne eines davon vorzugeben.
 
 ## Aktenstücke
 
 | Datei | Inhalt |
 | --- | --- |
 | `01_mandatsnotiz_leibliche_tochter.docx` | Erstkontakt, Beteiligte, Ziel |
-| `02_adoptionsbeschluss_und_beziehung.docx` | Volljährigenadoption, Beziehungsdarstellung |
+| `02_adoptionsbeschluss_und_beziehung.docx` | Beschluss, Beziehungstatsachen, wirtschaftliche Umstände und fehlende Kinderbeteiligung |
 | `03_testament_und_gesellschaft.docx` | Unternehmertestament, GmbH-Anteile, Nachfolge |
 | `04_pflichtteil_und_auskunft.docx` | Pflichtteil, Auskunft, Bewertung |
-| `05_erbschein_streit.docx` | Erbscheinanträge und Gegenposition |
-| `06_quoten_und_vermoegen.csv` | Vermögen, Quotenvarianten, Bewertungsrisiko |
-| `07_vergleichsvorschlag_pflichtteil.docx` | Vergleich zu Auskunft, Abschlag und Unternehmensfortführung |
+| `05_erbschein_streit.docx` | Erbscheinantrag, Einwendungen, gerichtlicher Hinweis und offene Verfahrensoptionen |
+| `06_quoten_und_vermoegen.csv` | Parteibehauptungen, Wertbänder, Quellen und noch offene Quotenprüfung |
+| `07_vergleichsvorschlag_pflichtteil.docx` | Neutrale Bausteine für eine mögliche Zwischenvereinbarung |
 | `08_familiengericht_adoptionsakte_auszug.docx` | Auszug aus der Adoptionsakte des AG Erfurt (36 F 1874/24) mit Anhörungen und Beschlussformel |
 | `09_email_steuerberater_gesellschaft.eml` | Steuerberatermail zu GmbH-Anteilen, Ausschüttung 2025 und Bewertungsspanne |
 | `10_bank_und_beteiligungsuebersicht.txt` | Bank- und Beteiligungsübersicht mit Bewertungs- und Liquiditätsfragen |
@@ -41,37 +41,18 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Prokur
 | `12_sterbeurkunde_abschrift.docx` | Beglaubigte Abschrift der Sterbeurkunde des Standesamts Erfurt |
 | `13_kanzleischreiben_auskunft_wertermittlung.docx` | Anwaltsschreiben: notarielles Nachlassverzeichnis und Unternehmensbewertung bis 31.07.2026 |
 | `14_gesellschaftsvertrag_auszug.docx` | Auszug aus dem Gesellschaftsvertrag: Vinkulierung, Einziehung, Buchwertabfindung |
-| `15_adoptionsantrag_beziehungsdarstellung.docx` | Vollständiger Adoptionsantrag mit persönlicher Beziehung, Familienkontakten, wirtschaftlichen Gesichtspunkten und Beweismitteln |
-| `16_stellungnahmen_leibliche_kinder.docx` | Unterschiedliche Stellungnahmen von Nele und Peer zu Beziehung, Motiven und wirtschaftlichem Zusammenhang |
-| `17_familiengerichtliche_anhaerungsniederschrift.docx` | Persönliche Anhörung aller Beteiligten mit offengelegten Motiven und weiterer Aufklärungsverfügung |
+| `15_adoptionsantrag_beziehungsdarstellung.docx` | Notarieller Antrag mit Beziehungstatsachen, Anteilskauf und Anlagenverzeichnis |
+| `16_stellungnahmen_bezugspersonen.docx` | Aussagen einer langjährigen Bekannten und des früheren Betriebsleiters |
+| `17_familiengerichtliche_anhaerungsniederschrift.docx` | Anhörung von Ralf und Jonas mit wirtschaftlichen Fragen und weiterer Aufklärung |
+| `18_telefonnotiz_nele_aus_dem_auto.docx` | Telefonnotiz zur bislang fehlenden Ferienwohnung Zinnowitz |
+| `19_postausgang_und_fristenblatt.docx` | Getrennte Fristen und Versandnachweise für Adoption, Erbschein und Auskunft |
+| `20_rvg_kostenentwurf.docx` | Kosten-, Vorschuss- und Fremdkostenübersicht mit offenen Gegenstandswerten |
+| `xlsx/nachlass_beteiligung_belegstatus.xlsx` | Nachlasswerte, Gesellschaftsereignisse und Belegstatus |
 
-## Aktenstruktur
+## Ordnerlogik
 
-```text
-erbrecht-volljaehrigenadoption-unternehmer-erfurt/
-├── 01_mandatsnotiz_leibliche_tochter.docx        Erstgespräch: Beteiligte, Konflikt, Mandatsziel
-├── 02_adoptionsbeschluss_und_beziehung.docx      Volljährigenadoption 2024 und Beziehungsdarstellung
-├── 03_testament_und_gesellschaft.docx            Testament 2025, GmbH-Anteile, Unternehmenszahlen
-├── 04_pflichtteil_und_auskunft.docx              Briefwechsel Nele/Jonas und vorläufiger Nachlass
-├── 05_erbschein_streit.docx                      Erbscheinantrag, Einwendungen, gerichtlicher Hinweis
-├── 06_quoten_und_vermoegen.csv                 Quotenvarianten mit und ohne Adoptionswirkung
-├── 07_vergleichsvorschlag_pflichtteil.docx       Vergleichslinie: Auskunft, Gutachter, Abschlag
-├── 08_familiengericht_adoptionsakte_auszug.docx  Akteneinsicht in die Adoptionsakte 36 F 1874/24
-├── 09_email_steuerberater_gesellschaft.eml     Steuerberater Hesse zu Anteilen, Ausschüttung, Wert
-├── 10_bank_und_beteiligungsuebersicht.txt      Konten, Depot, Beteiligung, Immobilien, offene Fragen
-├── 11_eroeffnungsniederschrift_nachlassgericht.docx  Testamentseröffnung 4 VI 388/26
-├── 12_sterbeurkunde_abschrift.docx               Sterbeurkunde S 897/2026 des Standesamts Erfurt
-├── 13_kanzleischreiben_auskunft_wertermittlung.docx  Auskunftsverlangen der Kanzlei Dr. Weigand
-├── 14_gesellschaftsvertrag_auszug.docx           Vinkulierung, Einziehung im Erbfall, Buchwertklausel
-├── 15_adoptionsantrag_beziehungsdarstellung.docx  Antrag mit Beziehungstatsachen und offen benannten Vermögensfolgen
-├── 16_stellungnahmen_leibliche_kinder.docx        Abweichende Sichtweisen von Nele und Peer
-├── 17_familiengerichtliche_anhaerungsniederschrift.docx  Anhörung zu Beziehung, Motiven und Nachfolgeplanung
-├── README.md                                   Diese Übersicht
-├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
-└── gesamt-pdf/
-    └── erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf  Lesefassung der Gesamtakte
-```
+Die Aktenstücke trennen Adoptionsverfahren, Erbschein, Pflichtteils- und Gesellschaftsfragen. Gerichtliche Originale, Parteischreiben, Bank- und Steuerunterlagen bleiben als eigenständige Quellen erkennbar. CSV und XLSX führen nur belegte oder ausdrücklich offene Werte; die abschließenden Kanzleistücke dokumentieren Telefonat, Fristen und Kosten.
 
 ## Bearbeitungsziel
 
-Die Akte trainiert die Schnittstelle von Volljährigenadoption, gesetzlicher Erbfolge, Pflichtteil, Testament und Unternehmensbewertung. Zu vermeiden ist ein Schnellschluss: Die familiengerichtliche Adoption ist nicht im Erbscheinsverfahren beiläufig zu ignorieren, ihre konkreten Wirkungen müssen aber genau bestimmt werden.
+Die Akte verbindet Volljährigenadoption, gesetzliche Erbfolge, Pflichtteil, Testament und Unternehmensbewertung. Der rechtskräftige Beschluss, sein genauer Wirkungsumfang, mögliche Verfahrenswege und die davon getrennte Bewertung des Nachlasses müssen anhand der Originalunterlagen geprüft werden.

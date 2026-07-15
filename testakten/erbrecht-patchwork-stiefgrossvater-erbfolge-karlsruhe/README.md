@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip) |
 
@@ -31,9 +31,9 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `02_testamente_und_scheidungen.docx` | Frühere Verfügungen und Scheidungsklauseln |
 | `03_nachlass_armin.docx` | Vermögen Armin, Ehe mit Fiona, Streit um Ehegattenerbrecht |
 | `04_nachlass_clemens.docx` | Vermögen Clemens, Tochter Fiona, frühere Ehe mit Dana |
-| `05_erbscheinantrag_fiona.docx` | Antrag und Gegenargumente |
-| `06_stammbaum_matrix.csv` | Personen, Verwandtschaft, erbrechtliche Rolle |
-| `07_pruefvermerk_erbreihenfolge.docx` | Chronologische Lösung der beiden Erbfälle |
+| `05_erbscheinantrag_fiona.docx` | Antrag, Parteipositionen und noch einzureichende Unterlagen |
+| `06_stammbaum_matrix.csv` | Personenstand, Urkundenbeleg, mögliche Verfahrensrolle und offene Punkte |
+| `07_pruefvermerk_erbreihenfolge.docx` | Offene Tatsachen- und Verfahrensreihenfolge beider Erbfälle |
 | `08_standesamt_registerauszuege.docx` | Standesamtliche Registerauskunft zu Ehen, Scheidungen, Abstammung und Namensführung |
 | `09_email_nachlassgericht_rueckfrage.eml` | Nachlassgerichtliche Rückfrage zu Personenstand und Antragsfassung (4 VI 312/26) |
 | `10_familienchat_auszug.txt` | Familiennachrichten mit tatsächlichen Hinweisen zu Beziehungen und Nachlassbesitz |
@@ -44,33 +44,14 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `15_nachlassgericht_anhaerung_und_verfuegung.docx` | Nachlassgerichtliche Anhörung mit Anträgen, Einwendungen und konkreter Nachforderung von Personenstands- und Testamentsunterlagen |
 | `16_grundbuch_und_bankauskunft_armin.docx` | Bankauskunft zu Konten, Depot, Vollmacht, Schließfach, Immobilie und Verfügungen nach dem Tod |
 | `17_personenstandsunterlagen_fiona.docx` | Beglaubigte Personenstandsübersicht zu Abstammung, Ehen der Eltern, früherem Stiefverhältnis und Ehe mit Armin |
+| `18_telefonnotiz_fiona_nach_gericht.docx` | Telefonnotiz zu möglichem Ehevertrag und Fundfotos nach dem Gerichtstermin |
+| `19_fristkalender_und_postausgang.docx` | Getrennte Fristen und Versandnachweise für beide Nachlassverfahren |
+| `20_rvg_kostenentwurf.docx` | Kosten- und Streitwertnotiz mit getrennten Auslagen je Erbfall |
+| `xlsx/nachlasspositionen_und_belegstatus.xlsx` | Nachlasswerte, Urkunden und Belegstatus für Armin und Clemens |
 
-## Aktenstruktur
+## Ordnerlogik
 
-```text
-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe/
-├── 01_familienstammbaum_und_zeitstrahl.docx      Personen, Ehen, Scheidungen, Todesfälle im Zeitstrahl
-├── 02_testamente_und_scheidungen.docx            Überblick über alle Verfügungen und Scheidungsfolgen
-├── 03_nachlass_armin.docx                        Vermögen Armins, Erbscheinlage, Ehe mit Fiona
-├── 04_nachlass_clemens.docx                      Vermögen Clemens', Tochter Fiona, frühere Ehe mit Dana
-├── 05_erbscheinantrag_fiona.docx                 Antrag Fionas, Gegenargumente von Beate und Dana
-├── 06_stammbaum_matrix.csv                     Statusmatrix: Person, Verwandtschaft, mögliche Rolle
-├── 07_pruefvermerk_erbreihenfolge.docx           Kanzleivermerk zur chronologischen Lösung beider Erbfälle
-├── 08_standesamt_registerauszuege.docx           Registerauskunft des Standesamts Karlsruhe an das Nachlassgericht
-├── 09_email_nachlassgericht_rueckfrage.eml     Rückfrage des AG Karlsruhe zum Erbscheinantrag
-├── 10_familienchat_auszug.txt                  Messenger-Export: Unterlagenbesitz und Positionen der Beteiligten
-├── 11_testament_armin_beate_1994_abschrift.docx  Gemeinschaftliches Testament 1994 (Abschrift, eröffnet)
-├── 12_testament_armin_2014_abschrift.docx        Testament 2014 (Abschrift, eröffnet, Auslegungsfragen)
-├── 13_testament_clemens_2018_abschrift.docx      Testament 2018 aus amtlicher Verwahrung (Abschrift)
-├── 14_sterbeurkunden_abschriften.docx            Sterbeurkunden Armin (14.05.2026) und Clemens (02.06.2026)
-├── 15_nachlassgericht_anhaerung_und_verfuegung.docx  Anhörung im Erbscheinsverfahren und Unterlagennachforderung
-├── 16_grundbuch_und_bankauskunft_armin.docx       Konten, Depot, Vollmacht, Schließfach und Immobilie Armins
-├── 17_personenstandsunterlagen_fiona.docx         Abstammung, Ehen, Scheidungen und fehlende Adoption
-├── README.md                                   Diese Übersicht
-├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
-└── gesamt-pdf/
-    └── erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf  Lesefassung der Gesamtakte
-```
+Die nummerierten Aktenstücke bilden Personenstand, Verfügungen, beide Nachlässe und die gerichtliche Anhörung ab. CSV und XLSX dienen ausschließlich dem Beleg- und Zahlenabgleich; E-Mail und Familienchat bleiben in ihren Originalformaten erhalten. Die drei abschließenden Kanzleistücke dokumentieren Telefonat, Fristen und Kosten, ohne die Erbfolge vorzugeben.
 
 ## Bearbeitungsziel
 

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 37 KB) | PDF | [`gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf`](gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 114 KB) | PDF | [`gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf`](gesamt-pdf/erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-unternehmernachfolge-testamentsvollstrecker-wuerzburg-einzelpdfs.zip) |
 
@@ -48,10 +48,13 @@ Nachlass des Maschinenbauunternehmers Heinrich Baumann mit GmbH-Anteilen, Testam
 | `08_kreditgeber_covenant_und_freigabe.docx` | Befristete Bankfreigabe für die Investitionsfinanzierung mit Kennzahlen, Nachweisen und Vorbehalten |
 | `09_entwurf_naechstes_schreiben.docx` | Schreiben an den Testamentsvollstrecker zu Befugnismatrix, Bewertung, Bankkommunikation und Berichtsstruktur |
 | `10_testamentsvollstrecker_bericht.docx` | Vollständiger Verwaltungsbericht mit Amtsstand, Beteiligung, vorläufigen Nachlasswerten, Konflikten und Fristen |
+| `11_gesellschafterversammlung_18_mai.docx` | Niederschrift zu Vertretung, Investitionsplan, Bankabruf und Protokollvorbehalten |
+| `12_telefonnotiz_bank_claudia_rehm.docx` | Telefonvermerk zu Liquiditätsreserve, Bankunterlagen und Unterschriftenmatrix |
+| `13_fristkalender_und_postausgang.docx` | Fristen, Datenraumversionen, Banktermine und Versandnachweise |
 | `csv/gesellschaftsrechtliche_to_dos.csv` | Vollzugsliste für Register, Gesellschafterversammlung, Bank, Gutachter und Nachlassverwaltung |
 | `emails/2026-06-30_mara_bankdruck.eml` | E-Mail der Geschäftsführerin zur Kreditfrist und den Folgen für Löhne, Lieferanten und Investition |
-| `pdfs/satzung_nachfolgeklausel_auszug.pdf` | Satzungsanlage zu Übertragung, Nachfolge und Abfindung als ergänzende PDF-Fassung |
-| `xlsx/nachlass_und_gmbh_wertband.xlsx` | Wertband für privaten Nachlass, GmbH-Anteil, Verrechnungskonto, Pflichtteil und Liquiditätswirkung |
+| `pdfs/satzung_nachfolgeklausel_auszug.pdf` | Beglaubigter Satzungsauszug zu Vinkulierung, Todesfall und Abfindung |
+| `xlsx/nachlass_und_gmbh_wertband.xlsx` | Konsistentes Nachlass-, Pflichtteils- und Bankliquiditätsband mit Formeln und Quellen |
 
 ## Arbeitsnotiz
 

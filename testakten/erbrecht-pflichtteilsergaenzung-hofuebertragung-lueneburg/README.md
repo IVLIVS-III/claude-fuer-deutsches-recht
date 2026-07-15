@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 63 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip) |
 
@@ -41,30 +41,15 @@ Nach dem Tod von Helmut Rieken streitet sein enterbter Sohn Moritz gegen seine S
 | `12_eroeffnungsniederschrift_nachlassgericht.docx` | Übersendungsschreiben und Eröffnungsniederschrift des Nachlassgerichts (4 VI 218/26) |
 | `13_grundbuchauszug_kirchgellersen.docx` | Abdruck des Grundbuchblatts 812 mit Wohnungsrecht und Rückauflassungsvormerkung |
 | `14_vermerk_zahlung_35000.docx` | Handschriftlicher Vermerk des Erblassers zur Zahlung an Moritz nebst Kontobeleg |
+| `15_telefonnotiz_moritz_werkstatt.docx` | Telefonnotiz zu Werkstattrechnungen, Gesprächssituation und möglichem Zeugen |
+| `16_fristkalender_und_postausgang.docx` | Fristen, Vorfristen, Versandkanäle und Zustellungsnachweise |
+| `17_sachverstaendigenanfrage_hofwert.docx` | Bewertungsanfrage für zwei Stichtage mit Rechte- und Unterlagenmatrix |
+| `99_nachtrag_wohnrecht_pflege_ackerpacht.docx` | Pachtvertrag, Pflegekalender, Heimschreiben und Zahlungsabgleich |
+| `xlsx/pflichtteil_wertband_quellen.xlsx` | Wertband, Quellen, Zahlungsfluss und Belegstatus |
 
-## Aktenstruktur
+## Ordnerlogik
 
-```text
-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg/
-├── 01_mandatsnotiz_enterbter_sohn.docx          Erstgespräch: Familienlage, Anlass, Mandatsziel
-├── 02_testament_und_nachlassverzeichnis.docx    Testament 2022 und lückenhafte Nachlassangaben der Erbin
-├── 03_uebertragungsvertrag_resthof.docx         Notarielle Übergabeurkunde 811/2019 als Abschrift
-├── 04_immobilienwerte_und_depot.docx            Maklereinschätzung, Baugrundstücke, Depotverdacht
-├── 05_auskunftsschreiben_an_erbin.docx          Kanzleischreiben: Auskunft und Wertermittlung bis 25.07.2026
-├── 06_berechnungspfad_pflichtteil.csv         Wertstufen und Streitpunkte für die Pflichtteilsrechnung
-├── 07_stufenklage_entwurf.docx                  Klageentwurf mit Auskunfts-, Versicherungs- und Zahlungsstufe
-├── 08_bank_depot_und_schenkungsverkehr.docx     NordBank-Nachlassservice: Buchungen, Depot, Vollmacht
-├── 09_email_notariat_grundbuchauszug.eml      Notariat Dr. Wilkens zu Urkunde und Grundbuchstand
-├── 10_ortstermin_hofinventar.txt              Protokoll des Ortstermins vom 25.06.2026
-├── 11_sterbeurkunde_abschrift.docx              Sterbeurkunde S 412/2026 des Standesamts Lüneburg
-├── 12_eroeffnungsniederschrift_nachlassgericht.docx  Testamentseröffnung beim AG Lüneburg
-├── 13_grundbuchauszug_kirchgellersen.docx       Grundbuch Blatt 812: Eigentum, Abteilung II und III
-├── 14_vermerk_zahlung_35000.docx                Vermerk „H. Rieken" vom 03.06.2019 und Überweisungsbeleg
-├── README.md                                  Diese Übersicht
-├── rubric.yaml                                Prüfkriterien für die Bearbeitung
-└── gesamt-pdf/
-    └── erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf  Lesefassung der Gesamtakte
-```
+Die Hauptstücke folgen vom Erstgespräch über Testament, Übertragungsvertrag, Bank- und Grundbuchunterlagen bis zum gerichtlichen Entwurf. Der Nachtrag hält später eingegangene Pacht- und Pflegebelege gesondert. CSV und XLSX führen dieselben Positionen mit Stichtag, Quelle und offenem Arbeitsschritt, ohne einen Endwert vorzugeben.
 
 ## Bearbeitungsziel
 

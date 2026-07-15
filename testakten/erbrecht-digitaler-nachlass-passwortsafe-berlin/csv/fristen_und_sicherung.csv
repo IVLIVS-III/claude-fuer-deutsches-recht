@@ -1,8 +1,10 @@
-Datum;Vorgang;Naechster Schritt
-07.07.2026;Abo Bildplattform bucht ab;Nachlasskonto klaeren
-15.07.2026;Agentur Auszahlungslauf;Sperrhinweis erneuern
-18.07.2026;Frist Auskunftsverlangen an Ralf Lohse;Mahnschreiben versenden
-22.07.2026;Reaktion Bildagentur auf Erbnachweis erwartet;Rueckfrage vorbereiten
-31.07.2026;Kundenfrist Hochzeitsbilder;Archivzugang sichern
-31.07.2026;Vorlage eidesstattliche Versicherung Erbschein;Termin beim Nachlassgericht abstimmen
-01.08.2026;Wiedervorlage Testamentsauslegung;Ergebnis Anhoerung pruefen
+Datum;Uhrzeit;Art;Vorgang;Verantwortlich;Quelle;Status;Nächster Schritt
+07.07.2026;12:00;Vertrag;Galerieplattform Jahresabo;Eva Lohse;Bankauskunft NL-6604-26;Lastschrift vorgemerkt;Bestand sichern und Widerruf entscheiden
+09.07.2026;12:00;gesetzte Frist;Bestätigung Sicherungstermin;Ralf Lohse;Schreiben 07.07.2026;offen;Telefonische Rückfrage erst nach Fristablauf
+13.07.2026;10:00;Termin;Neutrale IT-Sicherung;Paul Nissen;Protokoll Stück 18;vorgeschlagen;Anwesenheit und Verwahrung bestätigen
+15.07.2026;;Vertrag;Cloudspeicher Abbuchung;Kanzlei;Kontoauszug;offen;Kündigung erst nach Bestandssicherung
+18.07.2026;;gesetzte Frist;Auskunft und Übergabe;Ralf Lohse;Postausgang Stück 16;zugestellt 24.06.2026;Reaktion auswerten
+22.07.2026;;Wiedervorlage;Nordfenster Erbnachweis;Marlene Voß;E-Mail 25.06.2026;Auszahlung gesperrt;Zwischenanweisung abstimmen
+31.07.2026;;Vertrag;Auftrag Ahlers;Eva Lohse;Auftragsbestätigung;Dateien unzugänglich;Rückzahlung und Lieferung getrennt prüfen
+31.07.2026;;Gericht;Eidesstattliche Versicherung;Eva Lohse;Erbscheinsentwurf;Termin offen;Originale und Personenstand vollständig machen
+03.08.2026;;intern;Original Notizzettel;Mina Duarte;Stück 05;nur Foto;Rückseitenfoto und versiegelte Übergabe anfordern

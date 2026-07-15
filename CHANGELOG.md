@@ -1,3 +1,13 @@
+# v432.1.0 - Sechs Erbrechtsakten als vollständige Kanzleivorgänge ausgebaut
+
+- Sechs Erbrechtsakten wurden anhand der Gesamt-PDFs, Release-ZIPs und sämtlicher Originalunterlagen von 103 auf 125 Aktenstücke erweitert. Der auswertbare Textumfang stieg je Akte um 26 bis 154 Prozent, ohne Lösungsvorgaben oder bloße Fülltexte einzuführen.
+- Digitaler Nachlass, Patchwork-Erbfolge, Hofübertragung, Nießbrauch und Depot, Unternehmernachfolge sowie Volljährigenadoption enthalten nun zusätzliche Telefon-, Postausgangs-, Fristen-, Kosten-, Bank-, IT-, Bewertungs- und Gesellschaftsunterlagen mit glaubwürdigen Briefköpfen und vollständigen Signaturen.
+- Verdeckte Altfälle und aktenfremde Tabellen wurden ersetzt. Todesdaten, Personenstand, Adoptionsverlauf, Grundbuchangaben, Depotstände, Zahlungsflüsse, Beteiligungsquoten, Bankauflagen und gerichtliche Aktenzeichen sind innerhalb der jeweiligen Akte konsistent.
+- Alle 93 Word-Dokumente wurden gerendert und visuell kontrolliert. READMEs führen jede Originalunterlage vollständig; Gesamt-PDFs, Akten-ZIPs und 125 Einzel-PDFs wurden aus demselben Stand neu gebaut und geprüft.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v432.1.0 synchronisiert.
+
+---
+
 # v432.0.2 - Entwurfsrelease und Uploadwiederaufnahme abgesichert
 
 - Der parallele Asset-Uploader und die nachgelagerte Remoteprüfung lesen die Datenbank-ID eines neu angelegten Entwurfsreleases nun unmittelbar über die Releaseabfrage aus. Beide sind nicht mehr vom REST-Tag-Endpunkt abhängig, der Entwürfe trotz erfolgreicher Anlage mit einem vorübergehenden 404 beantworten kann.
