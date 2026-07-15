@@ -1,6 +1,6 @@
 # bautraegervertragspruefer
 
-**30 Skills** · Stand `v433.0.0`
+**30 Skills** · Stand `v433.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bautraegervertragspruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

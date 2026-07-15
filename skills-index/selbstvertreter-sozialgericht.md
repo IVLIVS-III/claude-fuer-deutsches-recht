@@ -1,6 +1,6 @@
 # selbstvertreter-sozialgericht
 
-**138 Skills** · Stand `v433.0.0`
+**138 Skills** · Stand `v433.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../selbstvertreter-sozialgericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

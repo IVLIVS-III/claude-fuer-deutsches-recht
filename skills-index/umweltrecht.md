@@ -1,6 +1,6 @@
 # umweltrecht
 
-**58 Skills** · Stand `v433.0.0`
+**58 Skills** · Stand `v433.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../umweltrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

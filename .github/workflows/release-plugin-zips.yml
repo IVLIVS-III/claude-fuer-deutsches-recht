@@ -37,7 +37,7 @@ jobs:
       - name: Layoutgetreue Office-PDF-Konvertierung bereitstellen
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libreoffice-writer fonts-dejavu-core fonts-liberation2
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc libreoffice-impress fonts-dejavu-core fonts-liberation2
 
       - name: YAML-Frontmatter validieren
         run: python3 scripts/validate-yaml-frontmatter.py

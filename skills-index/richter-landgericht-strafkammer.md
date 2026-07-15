@@ -1,6 +1,6 @@
 # richter-landgericht-strafkammer
 
-**13 Skills** · Stand `v433.0.0`
+**13 Skills** · Stand `v433.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-landgericht-strafkammer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

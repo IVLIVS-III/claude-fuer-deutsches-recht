@@ -1,6 +1,6 @@
 # venture-capital-geber
 
-**105 Skills** · Stand `v433.0.0`
+**105 Skills** · Stand `v433.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../venture-capital-geber/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

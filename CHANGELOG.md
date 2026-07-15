@@ -1,3 +1,11 @@
+# v433.0.1 - Office-Konvertierung im Release vollständig bereitgestellt
+
+- Der Release-Runner installiert neben LibreOffice Writer nun auch Calc und Impress. Damit entspricht die Umgebung dem dokumentierten Konvertierungsumfang für Text-, Tabellen- und Präsentationsdateien und kann insbesondere XLSX-Anlagen der Versandwerkstatt zuverlässig in PDF umwandeln.
+- Der Ende-zu-Ende-Test der Versandmappe bleibt streng: Sobald LibreOffice verfügbar ist, müssen DOCX und XLSX erfolgreich konvertiert werden; eine nur teilweise installierte Office-Umgebung darf keinen unvollständigen Versandordner freigeben.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v433.0.1 synchronisiert.
+
+---
+
 # v433.0.0 - Einzelakten vollständig und layoutgetreu aufbereitet
 
 - 52 Arbeits-, Familien-, Erb-, Renten- und Sozialrechtsakten wurden dokumentweise geprüft und überarbeitet. 1001 formale Originalunterlagen erfüllen nun verbindliche Mindestanforderungen an Umfang, Briefkopf, Datum, Anrede, Absender, Aktenzeichen, Signatur, Umlaute und scharfes S.
