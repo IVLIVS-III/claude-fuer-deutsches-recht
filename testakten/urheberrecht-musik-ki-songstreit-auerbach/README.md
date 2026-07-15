@@ -12,7 +12,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 239 KB) | PDF | [`gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf`](gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf`](gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-urheberrecht-musik-ki-songstreit-auerbach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-urheberrecht-musik-ki-songstreit-auerbach-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach-einzelpdfs.zip) |
 

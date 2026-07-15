@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 551 KB) | PDF | [`gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf`](gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf`](gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld-einzelpdfs.zip) |
 

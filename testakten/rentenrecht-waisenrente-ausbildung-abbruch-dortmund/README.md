@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 719 KB) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip) |
 

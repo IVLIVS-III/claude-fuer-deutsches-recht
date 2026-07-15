@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 756 KB) | PDF | [`gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf`](gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf`](gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cyber-vorfall-ransomware-frischetrans-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz-einzelpdfs.zip) |
 

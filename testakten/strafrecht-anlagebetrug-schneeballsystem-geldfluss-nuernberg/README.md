@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 130 KB) | PDF | [`gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf`](gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf`](gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg-einzelpdfs.zip) |
 

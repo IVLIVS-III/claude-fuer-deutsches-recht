@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf`](gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf`](gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip) |
 

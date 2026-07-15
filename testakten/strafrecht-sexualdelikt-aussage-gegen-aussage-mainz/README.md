@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 39 KB) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip) |
 

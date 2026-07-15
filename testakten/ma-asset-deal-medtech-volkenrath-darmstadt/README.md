@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 742 KB) | PDF | [`gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf`](gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf`](gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ma-asset-deal-medtech-volkenrath-darmstadt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ma-asset-deal-medtech-volkenrath-darmstadt-einzelpdfs.zip) |
 

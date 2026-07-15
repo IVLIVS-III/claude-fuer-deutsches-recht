@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 79 KB) | PDF | [`gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf`](gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf`](gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betaeubungsmittelrecht-apotheke-substitution-festival-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betaeubungsmittelrecht-apotheke-substitution-festival-einzelpdfs.zip) |
 

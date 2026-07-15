@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 3265 KB) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-kuendigungsdrama-koerber-werk-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk-einzelpdfs.zip) |
 

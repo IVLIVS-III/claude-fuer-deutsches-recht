@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf`](gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf`](gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau-einzelpdfs.zip) |
 

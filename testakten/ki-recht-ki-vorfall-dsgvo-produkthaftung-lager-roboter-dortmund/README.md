@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 52 KB) | PDF | [`gesamt-pdf/ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund_gesamt.pdf`](gesamt-pdf/ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund_gesamt.pdf`](gesamt-pdf/ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund-einzelpdfs.zip) |
 

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 89 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot-einzelpdfs.zip) |
 

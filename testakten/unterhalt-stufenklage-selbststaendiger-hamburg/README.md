@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 554 KB) | PDF | [`gesamt-pdf/unterhalt-stufenklage-selbststaendiger-hamburg_gesamt.pdf`](gesamt-pdf/unterhalt-stufenklage-selbststaendiger-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/unterhalt-stufenklage-selbststaendiger-hamburg_gesamt.pdf`](gesamt-pdf/unterhalt-stufenklage-selbststaendiger-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-unterhalt-stufenklage-selbststaendiger-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-stufenklage-selbststaendiger-hamburg-einzelpdfs.zip) |
 

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 149 KB) | PDF | [`gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf`](gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf`](gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit-einzelpdfs.zip) |
 

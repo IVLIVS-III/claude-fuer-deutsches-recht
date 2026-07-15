@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 719 KB) | PDF | [`gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf`](gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf`](gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-robotikrecht-roboterflotte-vellbruck-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen-einzelpdfs.zip) |
 

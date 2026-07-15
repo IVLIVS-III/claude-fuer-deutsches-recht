@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 100 KB) | PDF | [`gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf`](gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf`](gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip) |
 

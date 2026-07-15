@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 155 KB) | PDF | [`gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf`](gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf`](gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 

@@ -1,6 +1,6 @@
 {
   "name": "arbeitszeugnisgenerator",
-  "version": "433.0.1",
+  "version": "433.0.2",
   "description": "Erstellt deutsche Arbeitszeugnisse Schritt fuer Schritt: Rolle, Stammdaten, Taetigkeiten, Leistungs- und Verhaltensbewertung, Notenwahl per Ampelsystem, Schlussformeln. Wahlweise vorgegebene Note oder gefuehrte Einschaetzung. Mehrere Harnesses: qualifiziert, einfach, Ausbildung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

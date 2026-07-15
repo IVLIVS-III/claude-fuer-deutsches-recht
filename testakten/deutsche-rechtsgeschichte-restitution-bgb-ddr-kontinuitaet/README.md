@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 113 KB) | PDF | [`gesamt-pdf/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet_gesamt.pdf`](gesamt-pdf/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet_gesamt.pdf`](gesamt-pdf/deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-deutsche-rechtsgeschichte-restitution-bgb-ddr-kontinuitaet-einzelpdfs.zip) |
 

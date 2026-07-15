@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 868 KB) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip) |
 

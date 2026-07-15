@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 80 KB) | PDF | [`gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf`](gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf`](gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt-einzelpdfs.zip) |
 

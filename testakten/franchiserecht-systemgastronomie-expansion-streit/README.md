@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 122 KB) | PDF | [`gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf`](gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf`](gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-franchiserecht-systemgastronomie-expansion-streit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-franchiserecht-systemgastronomie-expansion-streit-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit-einzelpdfs.zip) |
 

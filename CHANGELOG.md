@@ -1,3 +1,11 @@
+# v433.0.2 - Plattformstabile Downloadsektionen für Testakten
+
+- Die Downloadsektionen aller 301 zentralen Testakten verwenden keine lokal berechneten PDF-Dateigrößen mehr. Ihre Inhalte bleiben dadurch nach einem vollständigen Linux-Neubau bytegleich zum eingecheckten Stand, obwohl Office- und PDF-Renderer plattformbedingt geringfügig andere Binärgrößen erzeugen können.
+- Der Generator ersetzt weiterhin den gesamten markierten Abschnitt und bleibt idempotent. Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP sind unverändert direkt erreichbar; nur die für den Download entbehrliche Größenangabe entfällt.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v433.0.2 synchronisiert.
+
+---
+
 # v433.0.1 - Office-Konvertierung im Release vollständig bereitgestellt
 
 - Der Release-Runner installiert neben LibreOffice Writer nun auch Calc und Impress. Damit entspricht die Umgebung dem dokumentierten Konvertierungsumfang für Text-, Tabellen- und Präsentationsdateien und kann insbesondere XLSX-Anlagen der Versandwerkstatt zuverlässig in PDF umwandeln.

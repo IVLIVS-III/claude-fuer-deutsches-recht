@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 160 KB) | PDF | [`gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf`](gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf`](gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip) |
 

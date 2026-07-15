@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 34 KB) | PDF | [`gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf`](gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf`](gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-brandstiftung-lagerhalle-magdeburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg-einzelpdfs.zip) |
 

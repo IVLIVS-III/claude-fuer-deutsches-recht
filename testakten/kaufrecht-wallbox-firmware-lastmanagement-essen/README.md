@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 16 KB) | PDF | [`gesamt-pdf/kaufrecht-wallbox-firmware-lastmanagement-essen_gesamt.pdf`](gesamt-pdf/kaufrecht-wallbox-firmware-lastmanagement-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/kaufrecht-wallbox-firmware-lastmanagement-essen_gesamt.pdf`](gesamt-pdf/kaufrecht-wallbox-firmware-lastmanagement-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kaufrecht-wallbox-firmware-lastmanagement-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-wallbox-firmware-lastmanagement-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kaufrecht-wallbox-firmware-lastmanagement-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-wallbox-firmware-lastmanagement-essen-einzelpdfs.zip) |
 

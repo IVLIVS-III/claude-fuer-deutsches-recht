@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1193 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip) |
 

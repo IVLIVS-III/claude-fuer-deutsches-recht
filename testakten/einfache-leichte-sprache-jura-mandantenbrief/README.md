@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 85 KB) | PDF | [`gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf`](gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf`](gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip) |
 

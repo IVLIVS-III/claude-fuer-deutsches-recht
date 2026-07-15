@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 515 KB) | PDF | [`gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf`](gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf`](gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg-einzelpdfs.zip) |
 

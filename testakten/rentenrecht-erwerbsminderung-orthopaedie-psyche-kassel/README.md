@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 562 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel-einzelpdfs.zip) |
 

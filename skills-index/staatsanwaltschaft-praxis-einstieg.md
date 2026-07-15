@@ -1,6 +1,6 @@
 # staatsanwaltschaft-praxis-einstieg
 
-**145 Skills** · Stand `v433.0.1`
+**145 Skills** · Stand `v433.0.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

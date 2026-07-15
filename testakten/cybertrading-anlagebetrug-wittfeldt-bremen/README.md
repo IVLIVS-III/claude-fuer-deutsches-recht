@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 803 KB) | PDF | [`gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf`](gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf`](gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cybertrading-anlagebetrug-wittfeldt-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen-einzelpdfs.zip) |
 

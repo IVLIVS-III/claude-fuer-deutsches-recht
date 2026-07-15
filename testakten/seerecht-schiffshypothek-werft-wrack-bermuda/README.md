@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 80 KB) | PDF | [`gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf`](gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf`](gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip) |
 

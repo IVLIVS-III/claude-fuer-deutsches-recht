@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 311 KB) | PDF | [`gesamt-pdf/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg_gesamt.pdf`](gesamt-pdf/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg_gesamt.pdf`](gesamt-pdf/schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg-einzelpdfs.zip) |
 

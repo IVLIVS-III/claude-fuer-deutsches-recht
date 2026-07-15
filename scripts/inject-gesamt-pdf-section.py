@@ -10,7 +10,7 @@ Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor allen
 weiteren Sektionen (insbesondere vor dem Direkt-Download-Block).
 
 Ohne Argumente werden alle Akten bearbeitet. Optional koennen konkrete
-Testakten-Namen angegeben werden, um nur deren Groessenangaben zu erneuern.
+Testakten-Namen angegeben werden, um nur deren Downloadsektionen zu erneuern.
 """
 from __future__ import annotations
 
@@ -39,7 +39,7 @@ RELEASE_BASE = (
 )
 
 
-def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einzelpdf: bool = False) -> str:
+def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -> str:
     zip_url = f"{RELEASE_BASE}/testakte-{slug}.zip"
     einzel_url = f"{RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip"
     einzel_row = (
@@ -52,9 +52,9 @@ def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einze
         if has_einzelpdf
         else ""
     )
-    if pdf_rel is not None and size_kb is not None:
+    if pdf_rel is not None:
         rows = (
-            f"| Gesamt-PDF (alles in einer Datei, {size_kb} KB) | PDF | [`{pdf_rel}`]({pdf_rel}) |\n"
+            f"| Gesamt-PDF (alles in einer Datei) | PDF | [`{pdf_rel}`]({pdf_rel}) |\n"
             f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
             f"{einzel_row}"
         )
@@ -106,13 +106,11 @@ def normalize_marker_spacing(text: str) -> str:
 def inject(readme: Path, slug: str) -> str:
     pdf = readme.parent / "gesamt-pdf" / f"{slug}_gesamt.pdf"
     if pdf.exists():
-        size_kb = max(1, round(pdf.stat().st_size / 1024))
         pdf_rel = f"gesamt-pdf/{slug}_gesamt.pdf"
     else:
-        size_kb = None
         pdf_rel = None
     has_einzelpdf = bool(expected_arcnames(readme.parent))
-    new_section = section_block(slug, pdf_rel, size_kb, has_einzelpdf)
+    new_section = section_block(slug, pdf_rel, has_einzelpdf)
     text = readme.read_text(encoding="utf-8")
 
     # Falls bereits eingefuegt: ersetzen

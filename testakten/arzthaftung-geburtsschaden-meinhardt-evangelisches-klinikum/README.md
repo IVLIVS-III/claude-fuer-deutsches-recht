@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 531 KB) | PDF | [`gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf`](gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf`](gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum-einzelpdfs.zip) |
 

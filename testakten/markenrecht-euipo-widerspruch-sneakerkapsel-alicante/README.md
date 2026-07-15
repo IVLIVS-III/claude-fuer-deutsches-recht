@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 14 KB) | PDF | [`gesamt-pdf/markenrecht-euipo-widerspruch-sneakerkapsel-alicante_gesamt.pdf`](gesamt-pdf/markenrecht-euipo-widerspruch-sneakerkapsel-alicante_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/markenrecht-euipo-widerspruch-sneakerkapsel-alicante_gesamt.pdf`](gesamt-pdf/markenrecht-euipo-widerspruch-sneakerkapsel-alicante_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-markenrecht-euipo-widerspruch-sneakerkapsel-alicante.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-euipo-widerspruch-sneakerkapsel-alicante.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-markenrecht-euipo-widerspruch-sneakerkapsel-alicante-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-euipo-widerspruch-sneakerkapsel-alicante-einzelpdfs.zip) |
 

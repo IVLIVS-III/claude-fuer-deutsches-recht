@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 43 KB) | PDF | [`gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf`](gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf`](gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln-einzelpdfs.zip) |
 

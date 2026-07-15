@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 85 KB) | PDF | [`gesamt-pdf/ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin_gesamt.pdf`](gesamt-pdf/ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin_gesamt.pdf`](gesamt-pdf/ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin-einzelpdfs.zip) |
 

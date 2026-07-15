@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 63 KB) | PDF | [`gesamt-pdf/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen_gesamt.pdf`](gesamt-pdf/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen_gesamt.pdf`](gesamt-pdf/datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen-einzelpdfs.zip) |
 

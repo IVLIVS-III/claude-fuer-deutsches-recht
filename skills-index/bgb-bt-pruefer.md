@@ -1,6 +1,6 @@
 # bgb-bt-pruefer
 
-**108 Skills** · Stand `v433.0.1`
+**108 Skills** · Stand `v433.0.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bgb-bt-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

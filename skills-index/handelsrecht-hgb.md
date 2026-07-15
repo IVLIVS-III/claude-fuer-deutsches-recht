@@ -1,6 +1,6 @@
 # handelsrecht-hgb
 
-**56 Skills** · Stand `v433.0.1`
+**56 Skills** · Stand `v433.0.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../handelsrecht-hgb/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
