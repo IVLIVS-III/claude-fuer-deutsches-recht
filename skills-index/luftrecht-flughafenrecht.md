@@ -1,6 +1,6 @@
 # luftrecht-flughafenrecht
 
-**239 Skills** · Stand `v432.1.0`
+**239 Skills** · Stand `v432.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../luftrecht-flughafenrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

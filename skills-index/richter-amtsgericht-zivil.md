@@ -1,6 +1,6 @@
 # richter-amtsgericht-zivil
 
-**13 Skills** · Stand `v432.1.0`
+**13 Skills** · Stand `v432.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-amtsgericht-zivil/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

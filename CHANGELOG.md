@@ -1,3 +1,11 @@
+# v432.1.1 - E-Mail-Briefkopf plattformstabil gerendert
+
+- Der Absender des gerichtlichen Terminhinweises in der Berliner Akte verwendet nun einen eindeutig decodierbaren UTF-8-Header. Dadurch bleibt „Geschäftsstelle“ auch beim PDF-Bau auf unterschiedlichen Betriebssystemen ungetrennt.
+- Das Berliner Gesamt-PDF wurde erneut gebaut und visuell geprüft; Inhalt, Seitenzahl und Dateizuordnung bleiben unverändert.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v432.1.1 synchronisiert.
+
+---
+
 # v432.1.0 - Sechs Erbrechtsakten als vollständige Kanzleivorgänge ausgebaut
 
 - Sechs Erbrechtsakten wurden anhand der Gesamt-PDFs, Release-ZIPs und sämtlicher Originalunterlagen von 103 auf 125 Aktenstücke erweitert. Der auswertbare Textumfang stieg je Akte um 26 bis 154 Prozent, ohne Lösungsvorgaben oder bloße Fülltexte einzuführen.

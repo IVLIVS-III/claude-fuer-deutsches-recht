@@ -1,6 +1,6 @@
 # verbraucherschutzverband-durchsetzung
 
-**121 Skills** · Stand `v432.1.0`
+**121 Skills** · Stand `v432.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verbraucherschutzverband-durchsetzung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
