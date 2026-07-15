@@ -1,6 +1,6 @@
 ---
 name: engagement-motivation-formeln
-description: "Wenn es um Engagement- und Motivations-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert Initiative, Einsatzbereitschaft und Motivation aus konkreten Verhaltensbelegen und stimmt Häufigkeit, Intensität und Gesamtnote aufeinander ab. Erkennt bloße Bereitschafts-, Bemühens- und Mitläuferformulierungen und ersetzt sie sachgerecht."
 ---
 
 # Engagement- und Motivations-Formeln
@@ -32,7 +32,7 @@ Engagement und Motivation mit der richtigen Notenstufe formulieren und passive o
 
 > Sie/Er arbeitete motiviert und zielorientiert.
 
-„Zeigte Engagement" ohne Adverb ist Note 3 — mittelmäßig, aber nicht abwertend.
+„Zeigte Engagement" ohne Adverb ist eine zurückhaltende Aussage. Ihre Wirkung hängt von Aufgabe, Beispielen, Hauptformel und Gesamtzeugnis ab; sie ist nicht automatisch einer festen Schulnote zuzuordnen.
 
 ### Note 4 — Engagement und Motivation
 > Frau/Herr [Name] war bemüht, die ihr/ihm übertragenen Aufgaben zu erledigen.
@@ -53,7 +53,7 @@ Engagement und Motivation mit der richtigen Notenstufe formulieren und passive o
 
 ## Eigeninitiative vs. Anpassung
 
-Eigeninitiative ist ein Positivsignal — Anpassung und Akzeptanz von Entscheidungen können als Passivität gelesen werden. Wenn Note 2 oder Note 1 beabsichtigt ist, müssen Eigeninitiative-Formulierungen verwendet werden.
+Eigeninitiative kann für selbstständige Rollen ein Positivsignal sein. In stark geregelten oder sicherheitskritischen Tätigkeiten kann dagegen verlässliche Umsetzung von Vorgaben prägend sein. Formulierungen werden deshalb an Funktion und belegtes Verhalten angepasst, nicht an eine starre Wortliste.
 
 | Eigeninitiative (positiv) | Anpassung (riskant) |
 |---|---|
@@ -63,13 +63,13 @@ Eigeninitiative ist ein Positivsignal — Anpassung und Akzeptanz von Entscheidu
 
 ## Qualitätscheck vor Ausgabe
 
-1. Passt das Adverb vor „Engagement" zur Gesamtnote?
-2. Kein Mitläufer- oder Passivitätssignal in der Engagementaussage?
-3. Bei Noten 1 und 2: Eigeninitiative explizit formuliert?
+1. Welche konkrete Situation belegt Initiative, Beharrlichkeit oder zusätzlichen Einsatz?
+2. Passt die Aussage zur Funktion und zum Entscheidungsspielraum?
+3. Stimmen Häufigkeit, Qualität und Ergebnis mit der Gesamtbewertung überein?
 
 ## Stolpersteine
 
-- „engagiert" ohne Adverb klingt nach Note 2, ist aber Note 3.
+- „engagiert" ohne Adverb mechanisch einer Note zuordnen.
 - „stets einsatzbereit" klingt wie Note 2, aber ohne Qualitätsnachweise ist es eine leere Phrase.
 - Engagement loben, aber Leistungsnote auf Note 4 setzen — das ist Drift.
 
@@ -78,6 +78,13 @@ Eigeninitiative ist ein Positivsignal — Anpassung und Akzeptanz von Entscheidu
 - „bemüht" verwenden und denken, es sei ein neutrales Positivsignal — es ist Note 4.
 - „arbeitete im Rahmen seiner Möglichkeiten" als ehrliche Einschätzung einbauen — das ist ein Negativcode.
 - Mitläufer-Formulierungen als Harmoniebeschreibung einbauen.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19 bis 24: Eine überdurchschnittliche Bewertung braucht im Streitfall konkrete Leistungstatsachen. Intensitätswörter ersetzen den Beleg nicht.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Die Bedeutung einer Wendung folgt dem objektiven Empfängerhorizont und dem Gesamtzusammenhang, nicht einem isolierten Codeverzeichnis.
+
+Liefere je Aussage den Tatsachenbeleg, eine zurückhaltende und eine stärkere Fassung sowie den Hinweis, welche zusätzliche Tatsache die stärkere Fassung tragen würde.
 
 ## Ausgabeformat
 

@@ -1,0 +1,6 @@
+﻿Datum;Kunde;Vorgang;Stunden;Netto_EUR;Fälligkeit;Status;Beleg
+2026-05-31;Waldglas;Rechnung 2026-044;38.0;3420.00;2026-06-30;IBAN-Rückfrage;PDF Rechnung und Mail Einkauf
+2026-06-30;Waldglas;Video-Korrekturrunde;1.5;135.00;offen;noch nicht berechnet;Kalender und Notiz
+2026-07-02;Waldglas;Sprachfassungen;4.0;360.00;offen;in Arbeit;Zeiterfassung
+2026-07-06;Waldglas;Druckdatenreparatur;2.25;202.50;offen;wartet auf Schrift;Mail Druckerei
+2026-07-08;Nordhain Verlag;Titelillustration;12.0;1080.00;2026-08-07;beauftragt;Angebot NF-18

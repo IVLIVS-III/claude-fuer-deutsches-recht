@@ -1,6 +1,6 @@
 ---
 name: kopfdaten-und-aussere-form
-description: "Wenn es um Kopfdaten und äußere Form in Arbeitszeugnisgenerator geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Prüft Briefkopf, Datum, Überschrift, Beschäftigungszeitraum, Fließtext, Unterzeichner und Papier- oder elektronische Form eines Arbeitszeugnisses. Liefert eine Formalienmängelliste und eine ausgabefertige, geschäftsübliche Fassung."
 ---
 
 # Kopfdaten und äußere Form
@@ -19,15 +19,12 @@ Die Formalia des Zeugnisses korrekt generieren, damit keine Berichtigungsansprü
 | Position | exakte Funktionsbezeichnung, ggf. mit Hierarchiestufe | zu niedrige Bezeichnung, fehlender Titel |
 | Beschäftigungszeitraum | vollständig, ohne Lücken | Lücken, falsches Eintrittsdatum |
 | Aufgabenkatalog | umfassend, Schlüsselverantwortungen erwähnt | unvollständig |
-| Unterschrift | eigenhändig; genau die Person, die in Maschinenschrift steht | andere Person unterschrieben, fehlende Unterschrift |
+| Unterschrift | bei Papier eigenhändig durch den erkennbaren Aussteller oder Vertreter | Paraphe, unklarer Aussteller, fehlende Unterschrift |
 | Format | Fließtext | Ankreuzschema, Tabelle, Stichpunkte |
 
-## Unterschrift — Pflicht nach BAG
+## Unterschrift und Aussteller
 
-Nach BAG, Urteil v. 21.09.1999 – 9 AZR 893/98:
-- Schließt das Zeugnis mit Name und Funktion einer Person in Maschinenschrift, muss genau diese Person eigenhändig unterschreiben.
-- Eine Unterzeichnung durch eine andere Person (z.B. HR-Sachbearbeiter statt dem genannten Vorgesetzten) ist ein formaler Mangel.
-- Eine quer durch den Text laufende Unterschrift oder ein Smiley in der Unterschrift sind unzulässige Distanzierungszeichen (LAG Hamm, Beschluss v. 14.11.2016 – 12 Ta 475/16; ArbG Kiel, Urteil v. 18.04.2013 – 5 Ca 80 b/13).
+Bei Papierform muss die Unterschrift den Aussteller oder einen erkennbar für ihn handelnden Vertreter ausweisen. Maschinenschriftlicher Name, Funktion und tatsächliche Unterschrift werden auf Übereinstimmung geprüft. Eine bloße Paraphe genügt der Schriftform nicht. Auffällige Gestaltungen werden nur beanstandet, wenn sie aus Sicht eines objektiven Lesers Distanzierung oder mangelnde Ernstlichkeit vermitteln.
 
 ## Fließtextgebot
 
@@ -42,12 +39,19 @@ Ohne ausdrückliche Einwilligung gilt: Papierzeugnis mit eigenhändiger Untersch
 ## Datum-Regeln
 
 - Ausstellungsdatum sollte möglichst nah am Austrittsdatum liegen.
-- Rückdatierung auf den letzten Arbeitstag ist üblich und zulässig.
+- Das gewünschte Datum muss zum tatsächlichen Ausstellungs- und Beendigungssachverhalt passen; keine automatische Rückdatierung.
 - Ausstellungsdatum deutlich nach dem Austrittsdatum kann auf Verweigerung oder Verzögerung hindeuten — kein automatischer Berichtigungspunkt, aber Kontext prüfen.
 
-## Holschuld
+## Bereitstellung
 
-Das Zeugnis ist Holschuld des Arbeitnehmers nach Paragraf 269 BGB (BAG, Urteil v. 08.03.1995 – 5 AZR 848/93) — der Arbeitnehmer holt es ab. Nur ausnahmsweise bei Unzumutbarkeit wird daraus eine Schickschuld.
+Arbeitspapiere und damit grundsätzlich auch Zeugnisse sind am Sitz des Arbeitgebers abzuholen, soweit Ort, Vereinbarung oder Zumutbarkeit nichts anderes ergeben. Vor einem Versandverlangen werden Vertrag, betriebliche Handhabung und konkrete Umstände geprüft.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 10 bis 20: Äußere Form und Inhalt folgen dem Zeugniszweck; ein qualifiziertes Zeugnis in schulnotenartiger Tabellenform genügt regelmäßig nicht.
+- BAG, Urteil vom 21.09.1999 - 9 AZR 893/98, herangezogen in BAG 9 AZR 262/20, Rn. 11: Das Zeugnis muss den im Geschäftsleben selbstverständlich erwarteten Formanforderungen entsprechen.
+- BAG, Urteil vom 14.06.2016 - 9 AZR 8/15, Rn. 12 bis 16: Die Wahrheitspflicht erfasst auch Datumsangaben; ein bestimmtes Rückdatum wird nicht allein wegen seiner Außenwirkung geschuldet.
+- BAG, Urteil vom 28.01.2025 - 9 AZR 48/24, Rn. 17: Das Gericht bestätigt unter Hinweis auf BAG 5 AZR 848/93 den Grundsatz der Holschuld bei Arbeitspapieren.
 
 ## Generier-Platzhalter für Formalia
 
@@ -72,7 +76,7 @@ Arbeitszeugnis
 ## Anti-Muster
 
 - Datum des Zeugnisses deutlich vor dem Austrittsdatum setzen (noch aktives Arbeitsverhältnis).
-- HR-Generalist als Unterzeichner nennen, obwohl der direkte Vorgesetzte verfügbar wäre.
+- Einen Unterzeichner einsetzen, dessen Name, Funktion oder Vertretungsrolle nicht erkennbar ist.
 - Qualifiziertes Zeugnis mit grafischer Tabelle (Schulnoten-Schema) formatieren.
 
 ## Ausgabeformat

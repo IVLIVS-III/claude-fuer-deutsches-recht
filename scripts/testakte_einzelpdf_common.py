@@ -2,9 +2,9 @@
 """Gemeinsame Definitionen fuer die Testakten-Einzel-PDF-ZIPs.
 
 Die Einzel-PDF-ZIPs liefern jede Unterlage einer Testakte als eigene PDF-Datei
-(im Gegensatz zum Gesamt-PDF, das alles in ein Dokument zusammenfasst). Builder
-und Validator teilen sich hier dieselbe Auswahl- und Benennungslogik, damit die
-erzeugten ZIPs und die Pruefung garantiert deckungsgleich sind.
+(im Gegensatz zum Gesamt-PDF, das alles in ein Dokument zusammenfasst). Alle
+PDFs liegen direkt auf der ZIP-Wurzelebene. Builder und Validator teilen sich
+dieselbe Auswahl- und Benennungslogik.
 """
 
 from __future__ import annotations
@@ -13,16 +13,33 @@ from collections import Counter
 from pathlib import Path
 
 from testakte_file_filter import include_in_working_dump
+from testakte_zip_common import flat_archive_pairs
 
-# Dokumente, die in eine eigene PDF gerendert werden.
-RENDER_EXTS = {"md", "txt", "eml", "csv", "xlsx", "docx", "odt"}
+# Dokumente, die in eine eigene PDF gerendert werden. Strukturierte Rohdaten
+# bleiben im Arbeitsdateien-ZIP im Originalformat und erhalten zusätzlich eine
+# lesbare Einzel-PDF, damit beide Archive denselben Aktenbestand abbilden.
+RENDER_EXTS = {
+    "md",
+    "txt",
+    "eml",
+    "csv",
+    "xlsx",
+    "docx",
+    "odt",
+    "json",
+    "yaml",
+    "yml",
+    "xml",
+    "ics",
+    "abc",
+}
 # Bilder werden in eine PDF-Seite eingebettet.
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
 # PDFs werden unveraendert uebernommen (Original-Layout bleibt erhalten).
 COPY_EXTS = {"pdf"}
 
-# Reine Konfigurations-/Metadaten-Formate sind keine "Unterlagen" und werden
-# nicht in PDFs umgewandelt (z. B. rubric.yaml, *.json, *.ics).
+# Reine redaktionelle Metadaten wie rubric.yaml scheidet bereits der gemeinsame
+# Exportfilter aus. Alle verbleibenden Formate sind echte Aktenunterlagen.
 DOCUMENT_EXTS = RENDER_EXTS | IMAGE_EXTS | COPY_EXTS
 
 
@@ -49,7 +66,7 @@ def iter_documents(testakte_dir: Path):
 def _clean_arcname(path: Path, testakte_dir: Path) -> str:
     rel = path.relative_to(testakte_dir)
     out_rel = rel if ext_of(path) == "pdf" else rel.with_suffix(".pdf")
-    return (Path(testakte_dir.name) / out_rel).as_posix()
+    return out_rel.as_posix()
 
 
 def _qualified_arcname(path: Path, testakte_dir: Path) -> str:
@@ -57,7 +74,7 @@ def _qualified_arcname(path: Path, testakte_dir: Path) -> str:
     (z. B. ``vertrag.odt`` -> ``vertrag.odt.pdf`` neben ``vertrag.docx.pdf``)."""
     rel = path.relative_to(testakte_dir)
     out_rel = rel.with_name(rel.name + ".pdf")
-    return (Path(testakte_dir.name) / out_rel).as_posix()
+    return out_rel.as_posix()
 
 
 def document_arcname_pairs(testakte_dir: Path) -> list[tuple[Path, str]]:
@@ -70,13 +87,13 @@ def document_arcname_pairs(testakte_dir: Path) -> list[tuple[Path, str]]:
     docs = list(iter_documents(testakte_dir))
     clean = {p: _clean_arcname(p, testakte_dir) for p in docs}
     collisions = {name for name, n in Counter(clean.values()).items() if n > 1}
-    pairs: list[tuple[Path, str]] = []
+    desired: list[tuple[Path, Path]] = []
     for p in docs:
         name = clean[p]
         if name in collisions and ext_of(p) != "pdf":
             name = _qualified_arcname(p, testakte_dir)
-        pairs.append((p, name))
-    return pairs
+        desired.append((p, Path(name)))
+    return flat_archive_pairs(desired)
 
 
 def expected_arcnames(testakte_dir: Path) -> list[str]:

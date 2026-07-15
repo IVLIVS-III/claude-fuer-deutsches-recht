@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -33,6 +33,20 @@ Gesamt-PDF: [`gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_ges
 | `05-eilnotiz-verletzung-und-schutzschrift.docx` | prozessuale Sofortnotiz zur Verletzungslage |
 | `06-fristen-und-optionen.xlsx` | Fristen, Maßnahmen, Kosten, Entscheidungsmatrix |
 | `07-bildanlage-sensorhalter.jpg` | schematische technische Bildanlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `gebrauchsmusterrecht`, `patentrecht`, `gewerblicher-rechtsschutz`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_laborbuch_auszug_schnellverschluss_s14.docx`](12_laborbuch_auszug_schnellverschluss_s14.docx) | Laborbuchauszug mit Prototypen, Chargen und Fehlbeobachtungen |
+| [`13_email_konstrukteur_messefoto.eml`](13_email_konstrukteur_messefoto.eml) | Konstrukteursmail zur tatsächlichen Messevorführung |
+| [`14_pruefwerte_s14_prototypen.csv`](14_pruefwerte_s14_prototypen.csv) | Unbearbeitete Prüfwerte der Versuchsreihe |
+
+<!-- END nachgereichte-originalunterlagen -->

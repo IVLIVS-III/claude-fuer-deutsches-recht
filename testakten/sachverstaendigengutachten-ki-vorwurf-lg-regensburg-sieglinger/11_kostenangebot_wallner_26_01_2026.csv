@@ -1,0 +1,12 @@
+Position;Leistung;Menge;Einzelpreis_Euro;Netto_Euro;Faelligkeit;Beleg
+1;Akten_und_Datensichtung;8_Stunden;165;1320;bei_Auftrag;Angebot_W-2026-017
+2;Ortstermin_Strangmessung;20_Personenstunden;165;3300;nach_Ortstermin;Angebot_W-2026-017
+3;Elektrofachbetrieb_Wechselrichteroeffnung;Pauschale;1450;1450;nach_Ortstermin;Angebot_W-2026-017
+4;Dachdecker_und_Sicherung;Pauschale;2380;2380;nach_Ortstermin;Angebot_W-2026-017
+5;Mess_und_Fotodokumentation;6_Stunden;165;990;nach_Ortstermin;Angebot_W-2026-017
+6;Schriftliche_Ausarbeitung;14_Stunden;165;2310;mit_Schlussrechnung;Angebot_W-2026-017
+7;Fahrt_und_Nebenkosten;Pauschale;430;430;mit_Schlussrechnung;Angebot_W-2026-017
+8;Gesamt_netto;;;12180;;
+9;Umsatzsteuer_19_Prozent;;;2314.20;;
+10;Gesamt_brutto;;;14494.20;;
+11;Vorschuss_50_Prozent;;;7247.10;bei_Auftrag;

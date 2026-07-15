@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,20 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Fabrikbetrieb, Import/Export, De-Risking, IP, Daten, Lieferkette, Exportkontrolle und politisches Risiko.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Dokumente und Problemkern |
-| `02-fristen-risiken-dashboard.csv` | Fristen-, Risiko- und Entscheidungsübersicht |
-| `03-email-mandat-und-rueckfrage.eml` | E-Mail aus dem Mandat |
-| `04-arbeitsvermerk.docx` | Word-Vermerk für die Bearbeitung |
-| `05-dashboard.xlsx` | Excel-/Tracker-Arbeitsblatt |
-| `06-lagekarte.jpg` | Bildanlage als Whiteboard-/Lagekarte |
-| `07-quellen-und-streitpunkte.pdf` | PDF-Memo mit Streitpunkten und Quellenlogik |
-| `08-entwurf-naechster-schritt.docx` | Entwurf für Memo, Antrag, Klausel oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
-
+| --- | --- |
+| `01_zollbeschau_tghu7712049.docx` | Beschau Container TGHU7712049, Sensoren RS-440 |
+| `02_container_seriennummern_und_bom_abgleich.xlsx` | Tabellarische Rohdaten Serienabgleich mit 7 Datensätzen |
+| `03_email_lanhai_funkmodul_revision.eml` | E-Mail mit vollständigem Header: TGHU7712049 / R6 module and revised documents |
+| `04_werkzeuginventur_shenzhen_lanhai.docx` | Inventur der bezahlten Spritzgusswerkzeuge und Zugriff am Standort Bao'an |
+| `05_container_packliste_und_zollbefund_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_qualitaet_seriennummern.eml` | E-Mail mit vollständigem Header: RS-26 / Abgleich R6-Seriennummern und Fotos aus der Beschau |
+| `07_compliance_nachfrage_coordination_fee.docx` | Position local coordination fee in der Beteiligungskalkulation |
 ## Passende Plugins
 
 `festlandchina-wirtschaftsverkehr`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_zollbeschau_container_shenzhen_hamburg.docx`](12_zollbeschau_container_shenzhen_hamburg.docx) | Zollbeschau mit konkreten Modell- und Serienabweichungen |
+| [`13_email_lieferant_funkmodul_seriennummern.eml`](13_email_lieferant_funkmodul_seriennummern.eml) | Lieferantenmail aus der Produktionsakte |
+| [`14_container_packliste_seriennummern_roh.csv`](14_container_packliste_seriennummern_roh.csv) | Unbereinigte Pack- und Seriennummernliste |
+
+<!-- END nachgereichte-originalunterlagen -->

@@ -444,6 +444,61 @@ SENTINELS = (
         ),
     ),
     Sentinel(
+        "vorläufige Eigenverwaltung fälschlich Paragraf 270a InsO zugeordnet",
+        re.compile(
+            r"(?:Anordnung|Antrag)\s+(?:der\s+|auf\s+)?vorl(?:äufig|aeufig)e\s+"
+            r"Eigenverwaltung.{0,100}(?:§|Paragraf)\s*270a\s+InsO|"
+            r"vorl(?:äufig|aeufig)e\s+Eigenverwaltung.{0,100}"
+            r"(?:§|Paragraf)\s*270a\s+InsO",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Sachverständigengutachten fälschlich als zwingende Voraussetzung nach Paragraf 270a InsO bezeichnet",
+        re.compile(
+            r"Sachverst(?:ä|ae)ndigengutachten.{0,80}zwingend.{0,100}"
+            r"(?:§|Paragraf)\s*270a\s+InsO|"
+            r"(?:§|Paragraf)\s*270a\s+InsO.{0,100}"
+            r"Sachverst(?:ä|ae)ndigengutachten.{0,80}zwingend",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Vierjahreszeitraum fälschlich der kongruenten Deckung nach Paragraf 130 InsO zugeordnet",
+        re.compile(
+            r"(?:vier|4)\s+Jahre.{0,100}kongruente\s+Deckung.{0,100}"
+            r"(?:§|Paragraf)\s*130\s+InsO|"
+            r"kongruente\s+Deckung.{0,100}(?:§|Paragraf)\s*130\s+InsO"
+            r".{0,100}(?:vier|4)\s+Jahre",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "überholte Schlechterstellungsformel als Voraussetzung der Eigenverwaltung",
+        re.compile(
+            r"Eigenverwaltung.{0,180}Voraussetzung.{0,120}"
+            r"keine\s+Anhaltspunkte.{0,120}Gl(?:ä|ae)ubiger.{0,80}schlechter",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "Restrukturierungsgericht fälschlich als Landgericht bezeichnet",
+        re.compile(
+            r"Restrukturierungsgericht\s*(?:\([^)]*LG[^)]*\)|"
+            r"(?:=|ist)\s*(?:das\s+)?(?:LG|Landgericht)|.{0,40}"
+            r"(?:LG|Landgericht)\s+(?:am|beim)\s+(?:OLG|Oberlandesgericht))",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "StaRUG-Planbestätigung fälschlich Paragraf 74 zugeordnet",
+        re.compile(
+            r"Planbest(?:ä|ae)tigung.{0,100}(?:§|Paragraf)\s*74\s+StaRUG|"
+            r"(?:§|Paragraf)\s*74\s+StaRUG.{0,100}Planbest(?:ä|ae)tigung",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
         "veraltete Zehnjahresfrist für besonders schwere Steuerhinterziehung",
         re.compile(
             r"(?:10|zehn)\s+Jahre.{0,160}(?:schwere|besonders\s+schwere)\s+"
@@ -1445,6 +1500,12 @@ SENTINEL_HINTS = (
     ("zahlungsunfähigkeit",),
     ("wochen ab bestellung",),
     ("wochen ab eröffnung",),
+    ("vorläufige eigenverwaltung", "vorlaeufige eigenverwaltung"),
+    ("sachverständigengutachten", "sachverstaendigengutachten"),
+    ("kongruente deckung",),
+    ("schlechter", "eigenverwaltung"),
+    ("restrukturierungsgericht", "landgericht"),
+    ("74 starug", "planbestätigung", "planbestaetigung"),
     ("steuerhinterziehung",),
     ("146 inso",),
     ("138 inso",),

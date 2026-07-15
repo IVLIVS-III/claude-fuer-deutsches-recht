@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,19 +24,17 @@ Diese Akte gehört zu den Plugins `datenbankrecht`, `urheberrecht`, `softwarerec
 - [Gesamt-PDF](gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf)
 - Die Einzeldateien in diesem Ordner bilden den Aktenwust aus E-Mail, Tabelle, Vermerk, Bild und Anlagen ab.
 
-## Aktenstücke
+## Kernunterlagen
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
-| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
-| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
-| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
-| `05-dashboard.csv` | strukturierte Prüfspur |
-| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
-| `gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf` | Gesamt-PDF der Akte |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
-
+| `01_sicherheitsbericht_api_abrufe_2026-06-18.docx` | Ungewöhnliche Abrufe von Objekt- und Preisdaten zwischen 3. Mai und 17. Juni 2026 |
+| `02_api_abrufe_konten_und_objektfelder.xlsx` | Tabellarische Rohdaten API-Abrufe mit 5 Datensätzen |
+| `03_email_quadratlotse_antwort_2026-06-26.eml` | E-Mail mit vollständigem Header: AM-26/441 / technische Sicherung und Kontenzuordnung |
+| `04_auskunft_ehemaliger_entwickler_crm_export.docx` | Niederschrift zum CRM-Export vom 12. Februar 2026 |
+| `05_hashmanifest_und_logsegmente.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_investor_datenasset_due_diligence.eml` | E-Mail mit vollständigem Header: Projekt Speicher / Datenherkunft, API-Vorfall und Data-Asset-Anlage |
+| `07_abmahnschreiben_quadratlotse_2026-06-24.docx` | Abrufe aus der HavelImmo-Datenbank und Nutzung von Maklerkontaktdaten |
 ## Sachstand
 
 - Ein Immobilienportal entdeckt massenhafte API-Zugriffe eines Preisvergleichsdienstes.

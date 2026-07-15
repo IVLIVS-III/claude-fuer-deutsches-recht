@@ -1275,7 +1275,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Zuständigkeit
 - **Insolvenzgericht** = Amtsgericht am Sitz des Schuldners (§ 2 InsO). Bei Sitzverlegung in den letzten 6 Monaten: vorheriger Sitz (§ 3 Abs. 1 InsO).
 - **Beschwerden gegen Verwalter-Entscheidungen:** sofortige Beschwerde § 6 InsO.
-- **Restrukturierungsgericht** = Landgericht beim OLG-Sitz (§ 34 StaRUG) — nur für StaRUG-Verfahren.
+- **Restrukturierungsgericht:** Nach Paragraf 34 StaRUG grundsätzlich das Amtsgericht am Sitz eines Oberlandesgerichts; landesrechtliche Konzentration und örtliche Zuständigkeit nach Paragraf 35 StaRUG aktuell prüfen. Es ist vom Insolvenzgericht des konkreten Insolvenzverfahrens zu trennen.
 
 ## Form
 - Berichte und Anträge zum Insolvenzgericht: schriftlich (Schriftsatz) oder beA-Übermittlung; Anlagen elektronisch oder in Papier.

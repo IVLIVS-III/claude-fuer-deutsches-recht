@@ -1,0 +1,8 @@
+﻿Datum;Beleg oder Flug;Kennzeichen;Betrag_EUR;Fälligkeit;Status;Quelle
+15.10.2025;FD-2025-8817;D-AWRB;118440;15.10.2025;offen;Flughafenrechnung
+31.10.2025;FD-2025-9122;Flotte;286300;15.11.2025;offen;Flughafenrechnung
+07.11.2025;Teilzahlung;Flotte;-80000;07.11.2025;gebucht;Kontoauszug
+18.11.2025;WR218;D-AWRB;0;22:14;gelandet;Bewegungsdaten
+20.11.2025;WR301;D-AWRB;0;06:40;annulliert;Slotmeldung
+20.11.2025;WR402;D-AWRC;0;07:15;annulliert;Slotmeldung
+21.11.2025;Standentgelt;D-AWRB;2480;täglich;laufend;Flughafentarif

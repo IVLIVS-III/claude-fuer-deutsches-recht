@@ -1,6 +1,6 @@
 ---
 name: besondere-leistungen-projekte
-description: "Wenn es um Besondere Leistungen und Projekte in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Verdichtet konkrete Projekte, Verbesserungen, Umsätze, Einsparungen oder Krisenbeiträge zu glaubwürdigen Zeugnispassagen. Trennt persönlichen Anteil, Teamleistung und messbares Ergebnis und verhindert unbelegte Superlative oder Schaufenstertext."
 ---
 
 # Besondere Leistungen und Projekte
@@ -54,14 +54,26 @@ Eine Leistungsaussage ohne Kontext ist schwächer als eine mit Referenzpunkt:
 
 ## Abgrenzung: Besondere Leistung vs. reguläre Aufgabe
 
-Besondere Leistungen sind solche, die über die reguläre Stellenbeschreibung hinausgehen. Wenn etwas zur normalen Tätigkeit gehörte, ist es ein Aufgabenblock-Element, kein besonderes Leistungs-Highlight.
+Besondere Leistungen können auch innerhalb der regulären Aufgabe liegen, wenn Ergebnis, Schwierigkeit oder persönlicher Beitrag deutlich hervortreten. Entscheidend ist nicht die Etikettierung als Sonderprojekt, sondern eine belastbare Tatsachengrundlage: Ausgangslage, eigener Anteil, Zeitraum, Ergebnis und Beleg.
+
+## Belegmatrix und Rechtsprechungsanker
+
+| Aussage | Mindestbeleg | Prüffrage |
+| --- | --- | --- |
+| Umsatz oder Einsparung | Controlling-Auszug oder bestätigte Kennzahl | Welcher Anteil ist der Person zurechenbar? |
+| Projektabschluss | Projektauftrag, Abnahme oder Statusbericht | Waren Zeit, Budget und Qualität tatsächlich erreicht? |
+| Innovation | Freigabe, Einführung oder Nutzungsnachweis | Wurde die Lösung umgesetzt oder nur vorgeschlagen? |
+| Auszeichnung | Urkunde oder veröffentlichte Entscheidung | Wer hat wann wofür ausgezeichnet? |
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19 bis 24: Eine überdurchschnittliche Bewertung muss im Streitfall mit konkreten Tatsachen getragen werden; allgemeine Notenstatistiken ersetzen den Leistungsbeleg nicht.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Prägende Tätigkeiten und Eigenschaften sind individuell zu gewichten. Projekterfolge werden deshalb nicht als austauschbare Schmuckformeln angefügt.
 
 ## Qualitätscheck vor Ausgabe
 
-1. Ist die besondere Leistung nachweisbar und wahr?
-2. Ist sie über die normale Aufgabe hinausgehend?
-3. Ist sie mit aktivem Verb und Kontext formuliert?
-4. Passt sie zur Gesamtnote?
+1. Sind Ausgangslage, persönlicher Anteil, Zeitraum und Ergebnis belegt?
+2. Ist Teamleistung als Teamleistung gekennzeichnet?
+3. Ist die Aussage mit aktivem Verb und überprüfbarem Kontext formuliert?
+4. Stützt sie die Gesamtbewertung, ohne diese allein zu ersetzen?
 
 ## Stolpersteine
 

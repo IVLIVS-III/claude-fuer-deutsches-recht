@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,21 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Kommunalakte Morgenfurt: Bürgerentscheid, Kita-Satzung, Haushaltssicherung, Stadtwerke, Sondernutzung und Kommunalaufsicht.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
-| `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
-| `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
-| `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
-| `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
-| `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-
+| --- | --- |
+| `01_eingangsbestaetigung_buergerbegehren_kita.docx` | Eingang des Bürgerbegehrens „Bezahlbare Betreuung in Morgenfurt“ |
+| `02_unterschriftenpruefung_buergerbegehren.xlsx` | Tabellarische Rohdaten Prüfung mit 10 Datensätzen |
+| `03_email_stadtwerke_ausschuettung_2026-06-29.eml` | E-Mail mit vollständigem Header: Ausschüttung 2025 / Haushaltsansatz Stadt / Sitzung Aufsichtsrat 21. Juli |
+| `04_kommunalaufsicht_haushaltsnachforderung.docx` | Nachtragshaushalt, Kita-Beiträge und geplante Ausschüttung der Stadtwerke |
+| `05_haushaltsansaetze_und_beschlussstaende.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_vertrauenspersonen_blaetter_2026-06-30.eml` | E-Mail mit vollständigem Header: BÜB 2/2026 / Unterschriftenblätter 18-22 und Beobachtung der Zählung |
+| `07_protokoll_unterschriftenpruefung_2026-07-01.docx` | Protokoll der stichprobenweisen Nachprüfung der Unterschriftenordner 12 bis 18 |
 ## Passende Plugins
 
 `kommunalrecht-laender`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_niederschrift_aeltestenrat_kita_buergerentscheid.docx`](12_niederschrift_aeltestenrat_kita_buergerentscheid.docx) | Ratsbüro-Niederschrift mit Anwesenheit, Zahlenstand und offenen Punkten |
+| [`13_email_kaemmerei_deckungsluecke.eml`](13_email_kaemmerei_deckungsluecke.eml) | Interne Kämmerermail zur korrigierten Deckungslücke |
+| [`14_kita_beitragskalkulation_rohdaten.csv`](14_kita_beitragskalkulation_rohdaten.csv) | Unbereinigte Belegungs- und Beitragsdaten der Einrichtungen |
+
+<!-- END nachgereichte-originalunterlagen -->

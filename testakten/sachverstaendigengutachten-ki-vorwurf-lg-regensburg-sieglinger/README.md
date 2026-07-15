@@ -1,11 +1,11 @@
-# Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH
+# Sieglinger gegen Burgwald Energietechnik GmbH
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -17,86 +17,35 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## ⬇️ Direkt-Download
+## Gegenstand
 
-| Akte | Direkt-Download |
-| --- | --- |
-| `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger` (Akte) | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+Hartmut Sieglinger streitet mit der Burgwald Energietechnik GmbH über Ertrag, Wechselrichter und Dachanschlüsse einer Photovoltaikanlage auf seinem landwirtschaftlichen Betrieb. Das Landgericht Regensburg hat ein technisches Gutachten eingeholt. Nach dessen Erläuterung bleiben Widersprüche zwischen Monitorwerten, Zählerkorrekturen, Netzereignissen, Ortsterminsbefunden und den Darstellungen beider Parteien.
 
-Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
+Die Akte endet während der laufenden Beweisaufnahme. Sie enthält Parteivortrag, Rohdaten, Korrespondenz, Gutachten, gerichtliche Dokumente und Kostenunterlagen, aber keine Musterlösung und keine vorweggenommene Bewertung des Ausgangs.
 
+## Aktenstücke
 
-## Zweck der Akte
+| Nummer | Dokument | Inhalt |
+| --- | --- | --- |
+| 01 | `01_klage_schriftsatz.docx` | Vollständige Klageschrift mit Anträgen, Tatsachenvortrag, Beweisangeboten und Schadenspositionen |
+| 02 | `02_klageerwiderung_burgwald.docx` | Vollständige Klageerwiderung mit abweichender Ertrags- und Ursachenbewertung |
+| 03 | `03_beweisbeschluss_15_01_2025.docx` | Beweisfragen zu Ertrag, Wechselrichtern und Dachanschlüssen |
+| 04 | `04_gutachten_pfaffenberger_28_10_2025.docx` | Technisches Gerichtsgutachten mit Datengrundlage, Aussagegrenzen und Kostenrahmen |
+| 05 | `05_anlagenmonitor_monatswerte.csv` | Monatliche Monitorwerte, Eigenverbrauchskorrekturen und dokumentierte Störungen |
+| 06 | `06_mandantenbesprechung_18_11_2025.docx` | Tatsächliche Angaben des Mandanten und noch vorhandene Unterlagen |
+| 07 | `07_wechselrichter_ereignisspeicher.csv` | Zeitstempel, Fehlercodes, Betriebszustände und Servicemaßnahmen |
+| 08 | `08_reklamationsmail_sieglinger_19_11_2023.eml` | Zeitnahe Meldung von Wassereintritt und Wechselrichterfehler |
+| 09 | `09_antwort_stadtwerke_regensburg_02_12_2023.eml` | Netzauskunft zu einzelnen Störungszeitpunkten |
+| 10 | `10_sitzungsprotokoll_anhoerung_22_01_2026.docx` | Vollständiges Protokoll der sachverständigen Anhörung |
+| 11 | `11_kostenangebot_wallner_26_01_2026.csv` | Aufgeschlüsselte Kosten einer ergänzenden technischen Untersuchung |
+| 12 | `12_email_sachverstaendiger_an_kammer.eml` | Rückfrage des Sachverständigen vor der Anhörung |
+| 13 | `13_anlagenverzeichnis.docx` | Vollständiges Anlagen- und Fristenverzeichnis der Klägerakte |
+| 14 | `14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.docx` | Gerichtliche Terminierung und Anforderung ergänzender Arbeitsunterlagen |
+| 15 | `15_stellungnahme_sv_pfaffenberger_aktenherausgabe.docx` | Sachverständigenstellungnahme zu Methode, Hilfskräften und Aussagegrenzen |
+| 16 | `16_angebot_privatsachverstaendige_wallner.docx` | Angebot für Strangmessung, Geräteprüfung und Öffnung von Dachanschlüssen |
+| 17 | `17_deckungsanfrage_rechtsschutz_27_01_2026.eml` | Deckungsanfrage zu den ergänzenden Untersuchungskosten |
+| 18 | `18_mandantenmail_nach_anhoerung_23_01_2026.eml` | Mandantenangaben zu Fotos, Rechnungen, Kosten und Terminlage |
 
+## Sachgerechter Einstieg
 
-Sie dient dem **Plugin `vertragsrecht`** als Erprobungsfall und kann gleichzeitig folgende Skills aktivieren:
-
-- `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` (allgemeine Anwaltsseite)
-- `pruefung-sachverstaendigengutachten-ki-deklaration` (Plugin `jveg-kostenpruefer`)
-- `ki-einsatz-bei-gutachten-mandatsseite` (Plugin `grosskanzlei-corporate-ma`)
-
-## Hinweis zur Fragmentaritaet
-
-Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur als Auszug enthalten (Klageerwiderung, E-Mail des Sachverständigen, Kostenkalkulation Privatgutachten). Manche Daten fehlen (Vergleichsgutachten). Verschiedene **Dateiformate** sind beigemischt — Markdown, JSON, CSV, EML, TXT. Das spiegelt eine reale Mandatslage wider, in der die Anwältin oder der Anwalt mit unvollständigen Informationen arbeiten muss.
-
-## Sachverhalt — Kurz
-
-- Kläger: Landwirt mit Hofladen, hat Photovoltaikanlage auf Stallgebäude errichten lassen
-- Beklagte: ausführendes Unternehmen
-- Streit: Minderleistung, Wechselrichter-Störungen, Wassereintritt durch Modulhaltermangel
-- Gerichtsbestellter Sachverständiger hat Gutachten eingereicht
-- Mandant ist mit Gutachten unzufrieden — methodisch dünn, stilistisch auffällig
-- Anwaltsteam sammelt Indizien und plant gestufte Eskalation
-
-## Vorgang in Stichworten
-
-1. Klage erhoben am 04.06.2024
-2. Klageerwiderung mit Verjährungseinrede
-3. Beweisbeschluss vom 15.01.2025 — Sachverständiger Pfaffenberger bestellt
-4. Gutachten Pfaffenberger eingereicht am 28.10.2025 (64 Seiten)
-5. Anwaltsteam bemerkt Auffälligkeiten:
-   - mehrfach gleichförmige Satzanfänge
-   - unbearbeitete Textmarke im Gutachten
-   - vermutliche Norm-Halluzination
-   - pauschale Schätzungen
-   - Stilbrueche
-6. Mandantenbesprechung am 18.11.2025
-7. Interne Strategieskizze (19.11.2025) — Stufenmodell
-8. Quality Review durch Senior-Kollegen (20.11.2025)
-9. Schriftsatzentwurf — Anhörung und Aktenherausgabe
-10. Nachfrage der Kammer beim Sachverständigen (E-Mail-Auszug vom 24.11.2025)
-11. Gerichtliche Verfügung vom 09.12.2025 — Anhörungstermin 22.01.2026 und Aktenherausgabe nach § 407a Abs. 5 ZPO
-12. Schriftliche Stellungnahme des SV vom 08.01.2026 — eingeräumter Einsatz eines KI-Schreibassistenten und VDE-Norm-Korrektur
-13. Mündliche Anhörung am 22.01.2026 — SV räumt fehlende Messungen ein
-14. Entwurf Befangenheitsantrag (§ 406 ZPO) und Wallner-II-Privatgutachten in Vorbereitung; Frist § 406 Abs. 2 ZPO bis 05.02.2026
-
-## Aktenverzeichnis
-
-- 00_aktenübersicht.md — Aktenübersicht und Verfahrenslage
-- 01_klage_schriftsatz.docx — Klageschrift
-- 02_klageerwiderung_burgwald.docx — Klageerwiderung (FRAGMENT) mit Anlagenverzeichnis B 1 bis B 7
-- 03_beweisbeschluss_15_01_2025.docx — Beweisbeschluss
-- 04_gutachten_pfaffenberger_auszug.txt — Gutachtenauszuege (auffällige Stellen)
-- 05_indizien_ki_einsatz.csv — Tabelle der Auffälligkeiten
-- 06_mandantenbesprechung_18_11_2025.docx — Aktenvermerk Besprechung
-- 07_strategieskizze_anwalt.docx — Interne Strategie
-- 08_schriftsatzentwurf_anhörungsantrag.docx — Schriftsatzentwurf
-- 09_vergleich_andere_gutachten_pfaffenberger.json — Vergleichsrecherche (FRAGMENT, mit vier Vergleichsverfahren)
-- 10_protokoll_internes_quality_review.docx — Senior-Review
-- 11_kostenkalkulation_privatgutachten.csv — Kostenkalkulation Wallner II
-- 12_email_sachverständiger_an_kammer.eml — E-Mail-Auszug mit Folge-Anmerkung Kanzlei
-- 13_anlagenverzeichnis.docx — Anlagenverzeichnis (FRAGMENT) erweitert um Kläger-Anlagen K 10 bis K 13 und Verfahrensakte G 1 bis G 7
-- 14_gerichtsverfuegung_anhörung_und_aktenherausgabe.docx — Verfügung der Kammer vom 09.12.2025
-- 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.docx — Schriftliche Stellungnahme des SV mit eingeräumtem KI-Einsatz
-- 16_befangenheitsantrag_entwurf.docx — Entwurf Befangenheitsantrag nach Anhörung 22.01.2026
-- 17_gegen_gutachten_wallner_notiz.docx — Inhaltliche Skizze des Wallner-II-Privatgutachtens
-- 18_mandanten_email_sieglinger_nach_anhörung.docx — Mandanten-E-Mail mit Folgekosten- und Strategiefragen
-
-## Empfohlener Workflow
-
-1. Aktenübersicht lesen (00_aktenübersicht.md)
-2. Beweisbeschluss und Klageschrift kurz scannen
-3. Auszug Gutachten und Indizien-CSV prüfen
-4. Mit dem entsprechenden Skill arbeiten (siehe oben)
-5. Schriftsatzentwurf gegen den vorhandenen Entwurf abgleichen
-6. Eigene Strategie mit der internen Strategieskizze vergleichen
+Zuerst sollten Klage, Klageerwiderung und Beweisbeschluss gelesen werden. Anschließend lassen sich das Gutachten mit den Monatswerten, dem Ereignisspeicher und der Netzauskunft abgleichen. Die späteren Gerichts- und Sachverständigendokumente zeigen, welche tatsächlichen Fragen in der Beweisaufnahme noch offen sind.

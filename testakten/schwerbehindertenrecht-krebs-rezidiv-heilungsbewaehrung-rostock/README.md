@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -63,3 +63,18 @@ schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock/
 ## Bearbeitungsziel
 
 Aus der Zeitleiste, dem Onkologiebericht und den Stellungnahmen ist der GdB-Verlauf nachzurechnen: Erstdiagnose 2019 mit Heilungsbewährung bis 2024 (GdB 50), Herabsetzung auf 30, Rezidiv 2026 mit erneuter Geschwulstentfernung am 04.04.2026 und dadurch neuer, bis 04.04.2031 laufender Heilungsbewährung. Herauszuarbeiten ist, dass während dieser Heilungsbewährung ein Grad der Behinderung von mindestens 50 maßgeblich ist und damit die Schwerbehinderteneigenschaft besteht, während der Bescheid bei 40 verharrt. Die Diskrepanz zwischen dem Bescheidwert 40 und dem Heilungsbewährungssatz 50 sowie der widersprüchliche Umgang der Behörde mit der laufenden Therapie gehören zur Beweiswürdigung. Parallel sind Krankengeld, onkologische Reha und die Rentenabgrenzung zu sichern.
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`16_onkologischer_verlaufsbericht_rezidiv.docx`](16_onkologischer_verlaufsbericht_rezidiv.docx) | Onkologischer Verlauf mit messbaren Funktionsbeeinträchtigungen |
+| [`17_email_arbeitgeber_fehlzeiten_anpassung.eml`](17_email_arbeitgeber_fehlzeiten_anpassung.eml) | Arbeitgebermail zur tatsächlich gelebten Arbeitsplatzanpassung |
+| [`18_therapie_lymphoedem_und_belastung.csv`](18_therapie_lymphoedem_und_belastung.csv) | Therapie-, Mess- und Fehlzeitendaten |
+
+<!-- END nachgereichte-originalunterlagen -->

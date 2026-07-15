@@ -35,13 +35,13 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **fachanwalt-in
 
 ## Schlüsselfristen InsO/StaRUG
 - Insolvenzantragspflicht juristische Personen: drei Wochen Zahlungsunfähigkeit, sechs Wochen Überschuldung (§ 15a InsO); Verletzung strafbar (§ 15a Abs. 4 InsO) und Haftung § 64 GmbHG aF/§ 15b InsO.
-- Anfechtungsfrist nach §§ 129-147 InsO: vier Jahre kongruente Deckung (§ 130), zehn Jahre vorsätzliche Benachteiligung (§ 133 InsO).
+- Anfechtungszeiträume tatbestandsbezogen bestimmen: Bei kongruenter Deckung nach Paragraf 130 InsO grundsätzlich die letzten drei Monate vor dem Eröffnungsantrag und die Zeit nach dem Antrag prüfen. Der Vierjahreszeitraum des Paragrafen 133 Absatz 2 InsO gilt für Rechtshandlungen, die Sicherung oder Befriedigung gewähren oder ermöglichen; für sonstige Fälle des Paragrafen 133 Absatz 1 InsO kann der Zehnjahreszeitraum gelten.
 - Forderungsanmeldung Insolvenztabelle: Anmeldefrist im Eröffnungsbeschluss; Nachmeldung möglich mit Säumniszuschlag.
 - Restschuldbefreiung: regulär drei Jahre ab Eröffnung (§ 287 Abs. 2 InsO seit 1.10.2020).
 - StaRUG-Restrukturierungsplan: keine starre Frist; aber Anzeige beim Restrukturierungsgericht nach § 31 StaRUG; Stabilisierungsanordnung max. drei Monate, verlängerbar.
 - Schutzschirmverfahren § 270d InsO: max. drei Monate.
 
 ## Trade-off
-- Eigenverwaltung (§§ 270 ff. InsO) vs. Regelverwaltung: Eigenverwaltung bewahrt Steuerungsmacht, erfordert aber Sachverständigengutachten und Liquiditätsplan (§ 270a InsO).
+- Eigenverwaltung nach Paragrafen 270 ff. InsO vs. Regelverfahren: Die Eigenverwaltung belässt Verwaltungs- und Verfügungsbefugnis beim Schuldner unter Sachwalteraufsicht. Zwingend sind Antrag und vollständige Eigenverwaltungsplanung nach Paragraf 270a InsO; die vorläufige Anordnung richtet sich nach Paragraf 270b InsO. Ein externes Sachverständigengutachten ist keine pauschale Zulässigkeitsvoraussetzung.
 - StaRUG-Plan vs. Insolvenzplan (§§ 217 ff. InsO): StaRUG vor Eintritt Insolvenzgrund, weniger Eingriff in Arbeitnehmerrechte, aber keine Massesicherung.
 - Anfechtungsklage vs. Vergleich: Vergleich spart Zeit/Kosten, aber Risiko unentdeckter weiterer Anfechtungstatbestände.

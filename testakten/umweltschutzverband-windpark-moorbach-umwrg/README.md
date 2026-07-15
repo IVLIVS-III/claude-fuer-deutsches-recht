@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,21 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Umweltverbandsakte Moorbach: Windpark, UVP-Vorprüfung, Artenschutz, UIG-Akte, Einwendung, Eilantrag und § 47-VwGO-Reserve.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
-| `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
-| `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
-| `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
-| `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
-| `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-
+| --- | --- |
+| `01_bekanntmachung_genehmigungsverfahren_windfeld_nord.docx` | Genehmigungsverfahren Windfeld Nord · acht Windenergieanlagen |
+| `02_anlagenstandorte_abstaende_und_revisionen.xlsx` | Tabellarische Rohdaten Standorte mit 9 Datensätzen |
+| `03_email_projektierer_standortverschiebung_2026-06-21.eml` | E-Mail mit vollständigem Header: WEA 4 / korrigierte Koordinate und Zuwegung / III-67.4-WEA-MB-2026/18 |
+| `04_protokoll_akteneinsicht_umweltamt_2026-06-23.docx` | Akteneinsicht des Naturschutzbundes Moorbach am 23. Juni 2026 |
+| `05_datenraum_dateien_und_aenderungsstaende.csv` | Rohdatenexport mit 7 Einträgen und unveränderten Quellenangaben |
+| `06_email_verband_fehlende_anlagen_2026-06-24.eml` | E-Mail mit vollständigem Header: Akteneinsicht 23.06 / fehlende Anlagen A 7.3 und A 7.4 / WEA 4 |
+| `07_stellungnahme_jagdpaechter_2026-06-28.docx` | Beobachtungen im Gehölz am Wiesengraben und auf der südlichen Feuchtwiese |
 ## Passende Plugins
 
 `umweltschutzverband-verbandsklage`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_feldprotokoll_rotmilan_moorbach.docx`](12_feldprotokoll_rotmilan_moorbach.docx) | Feldprotokoll mit Ort, Wetter und Beobachtungsgrenzen |
+| [`13_email_landwirtin_mahd_und_nahrungssuche.eml`](13_email_landwirtin_mahd_und_nahrungssuche.eml) | Landwirtinnenmail zu Mahd und eigener Wahrnehmung |
+| [`14_feldbeobachtungen_m1_m4_rohdaten.csv`](14_feldbeobachtungen_m1_m4_rohdaten.csv) | Unbewertete Beobachtungsdaten der vier Punkte |
+
+<!-- END nachgereichte-originalunterlagen -->

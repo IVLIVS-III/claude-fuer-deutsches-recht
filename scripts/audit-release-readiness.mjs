@@ -143,13 +143,20 @@ for (const file of walk(root)) {
 
 const workflow = readText(path.join(root, '.github', 'workflows', 'release-plugin-zips.yml'));
 for (const needle of [
-  'build-werkstatt-schnellstart-sammelzips.py',
-  'alle-werkstatt-prompts.zip',
-  'alle-schnellstart-prompts.zip',
   'testakte-*-einzelpdfs.zip',
 ]) {
   assert(workflow.includes(needle), `.github/workflows/release-plugin-zips.yml: ${needle} fehlt`);
 }
+for (const forbidden of [
+  'alle-werkstatt-prompts.zip',
+  'alle-schnellstart-prompts.zip',
+]) {
+  assert(!workflow.includes(forbidden), `.github/workflows/release-plugin-zips.yml: unerlaubtes Prompt-ZIP ${forbidden}`);
+}
+assert(
+  !fs.existsSync(path.join(root, 'scripts', 'build-werkstatt-schnellstart-sammelzips.py')),
+  'Sammel-ZIP-Builder für Werkstatt- und Schnellstart-Prompts ist nicht zulässig',
+);
 
 if (errors.length) {
   console.error(`audit-release-readiness: ${errors.length} Fehler`);

@@ -14,7 +14,7 @@ import sys
 import zipfile
 from pathlib import Path
 
-from testakte_file_filter import include_in_working_dump
+from testakte_zip_common import working_dump_flat_pairs
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -29,12 +29,13 @@ def fail(message: str) -> None:
 
 
 def expected_entries(testakte_dir: Path) -> list[str]:
-    entries: list[str] = []
-    for path in sorted(testakte_dir.rglob("*"), key=lambda p: str(p.relative_to(testakte_dir)).lower()):
-        if include_in_working_dump(path, testakte_dir, include_gesamt_pdf=True):
-            rel = Path(testakte_dir.name) / path.relative_to(testakte_dir)
-            entries.append(rel.as_posix())
-    return entries
+    return [
+        arcname
+        for _, arcname in working_dump_flat_pairs(
+            testakte_dir,
+            include_gesamt_pdf=True,
+        )
+    ]
 
 
 def zip_entries(zip_path: Path) -> list[str]:
@@ -47,7 +48,15 @@ def zip_entries(zip_path: Path) -> list[str]:
             bad = archive.testzip()
             if bad is not None:
                 fail(f"{zip_path}: corrupt member {bad}")
-            return sorted(name.replace("\\", "/") for name in archive.namelist() if not name.endswith("/"))
+            names = [name.replace("\\", "/") for name in archive.namelist() if not name.endswith("/")]
+            for name in names:
+                if "/" in name:
+                    fail(f"{zip_path}: Unterordner im ZIP: {name}")
+                if name.lower().endswith(".md"):
+                    fail(f"{zip_path}: Markdown-Datei im Akten-ZIP: {name}")
+            if len({name.casefold() for name in names}) != len(names):
+                fail(f"{zip_path}: Dateinamen kollidieren ohne Beachtung der Grossschreibung")
+            return sorted(names)
     except zipfile.BadZipFile as exc:
         fail(f"{zip_path}: invalid ZIP: {exc}")
 
@@ -71,10 +80,11 @@ def assert_same(label: str, expected: list[str], actual: list[str]) -> None:
 def main() -> None:
     dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
     targets = set(sys.argv[2:])
-    dirs = sorted(
+    all_dirs = sorted(
         (d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS),
         key=lambda p: p.name,
     )
+    dirs = all_dirs
     if targets:
         missing_targets = sorted(targets - {d.name for d in dirs})
         if missing_targets:
@@ -83,30 +93,35 @@ def main() -> None:
     if not dirs:
         fail("no testakten directories found")
 
-    combined_expected: list[str] = []
     empty_dirs: list[str] = []
     gesamt_pdf_count = 0
+    individual_archives = [
+        f"testakte-{d.name}.zip"
+        for d in all_dirs
+        if expected_entries(d)
+    ]
 
     for testakte_dir in dirs:
         entries = expected_entries(testakte_dir)
         if not entries:
             empty_dirs.append(testakte_dir.name)
             continue
-        if f"{testakte_dir.name}/gesamt-pdf/{testakte_dir.name}_gesamt.pdf" in entries:
+        if f"{testakte_dir.name}_gesamt.pdf" in entries:
             gesamt_pdf_count += 1
-        combined_expected.extend(entries)
         actual = zip_entries(dist / f"testakte-{testakte_dir.name}.zip")
         assert_same(f"testakte-{testakte_dir.name}.zip", entries, actual)
-
     if empty_dirs:
         fail(f"testakten without exportable files: {empty_dirs[:20]}")
 
     combined_actual = zip_entries(dist / "alle-testakten.zip")
-    assert_same("alle-testakten.zip", combined_expected, combined_actual)
+    assert_same("alle-testakten.zip", individual_archives, combined_actual)
+    if any(not name.lower().endswith(".zip") for name in combined_actual):
+        fail("alle-testakten.zip: enthaelt andere Dateien als Einzel-ZIPs")
 
     print(
         "validate-testakten-release-zips OK "
-        f"({len(dirs)} testakte ZIPs, {len(combined_expected)} files, {gesamt_pdf_count} Gesamt-PDFs)"
+        f"({len(dirs)} flache Testakten-ZIPs, {sum(len(expected_entries(d)) for d in dirs)} Dateien, "
+        f"{gesamt_pdf_count} Gesamt-PDFs)"
     )
 
 

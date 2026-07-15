@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-geldwaesche-aml-kyc-musterholding` (Akte) | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 Arbeitsakte für ein mittelständisches Konglomerat mit internationalem Vertrieb, das als Verpflichteter nach dem Geldwäschegesetz (GwG) eingestuft ist. Die Akte zeigt den vollständigen Compliance-Zyklus: Risikoanalyse, KYC-Prüfung, UBO-Ermittlung, PEP/Sanktionsscreening, Transaktionsmonitoring, Verdachtsmeldung an die FIU, Behördenkommunikation, Mitarbeiterschulung, internes Audit und Krisenkommunikation.
 
@@ -110,15 +109,13 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | Datei | Inhalt |
 |---|---|
 | [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Zeitachse, Dateitabelle und Prüffokus |
-| [Fall_Übersicht_Onepager.pdf](Fall_Uebersicht_Onepager.pdf) | One-Pager mit Stammdaten, Eckdaten und Beteiligten (Druckversion) |
-| [Fall_Übersicht_Onepager.png](Fall_Uebersicht_Onepager.png) | One-Pager als PNG (Bildschirmversion) |
 | [Fall_Zeitstrahl_AML_Musterholding.pdf](Fall_Zeitstrahl_AML_Musterholding.pdf) | Zeitstrahl der Ereignisse 07.04.–28.05.2026 (Druckversion) |
 | [Fall_Zeitstrahl_AML_Musterholding.png](Fall_Zeitstrahl_AML_Musterholding.png) | Zeitstrahl als PNG (Bildschirmversion) |
-| [01_intake/email_compliance_leitung.txt](01_intake/email_compliance_leitung.txt) | Eskalations-E-Mail Compliance-Abteilung an GF |
-| [01_intake/email_compliance_eskalation_v2.txt](01_intake/email_compliance_eskalation_v2.txt) | Nachfass-E-Mail Compliance an GF (zweite Eskalationsstufe) |
-| [01_intake/email_vertrieb_eskalation.txt](01_intake/email_vertrieb_eskalation.txt) | Erstmeldung Vertrieb an Compliance zum Neukunden Danube |
-| [01_intake/email_bank_rueckfrage.txt](01_intake/email_bank_rueckfrage.txt) | E-Mail der Hausbank zur Drittzahlung Adriatic Commerce |
-| [01_intake/email_vorstand_klarstellung.txt](01_intake/email_vorstand_klarstellung.txt) | Interne Anfrage Geschäftsführung an Compliance |
+| [01_intake/email_compliance_leitung.eml](01_intake/email_compliance_leitung.eml) | Eskalations-E-Mail der Compliance-Leitung zur Drittzahlung und zur Beteiligungskette |
+| [01_intake/email_compliance_eskalation_v2.eml](01_intake/email_compliance_eskalation_v2.eml) | Nachfass-E-Mail der Compliance-Leitung an die Geschäftsführung |
+| [01_intake/email_vertrieb_eskalation.eml](01_intake/email_vertrieb_eskalation.eml) | E-Mail des Vertriebs zur ausstehenden Freigabe von Danube |
+| [01_intake/email_bank_rueckfrage.eml](01_intake/email_bank_rueckfrage.eml) | E-Mail der Hausbank zur Drittzahlung von Adriatic Commerce |
+| [01_intake/email_vorstand_klarstellung.eml](01_intake/email_vorstand_klarstellung.eml) | Interne Weisung der Geschäftsführung an Compliance |
 | [01_intake/mandatsnotiz_eingangsgespraech.docx](01_intake/mandatsnotiz_eingangsgespraech.docx) | Mandatsnotiz zum Eingangs­gespräch bei RA Dr. Heller (05.05.2026) |
 | [01_intake/mandatsvollmacht.pdf](01_intake/mandatsvollmacht.pdf) | Mandatsvollmacht zugunsten Kanzlei Heller & Schönfeld (PDF) |
 | [01_intake/sachverhaltsmemo.pdf](01_intake/sachverhaltsmemo.pdf) | Sachverhaltsmemo Kanzlei: chronologische Darstellung des Mandats |
@@ -137,19 +134,19 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | [07_transaktionen/ungewöhnliche_zahlung.csv](07_transaktionen/ungewoehnliche_zahlung.csv) | Rohdaten Zahlungseingang Drittzahler |
 | [07_transaktionen/transaktionsmonitoring_alert.docx](07_transaktionen/transaktionsmonitoring_alert.docx) | Transaktionsmonitoring-Alert-Bericht (Drittzahlung 187.500 EUR) |
 | [07_transaktionen/transaktionshistorie_12monate_danube.xlsx](07_transaktionen/transaktionshistorie_12monate_danube.xlsx) | XLSX: 12-Monats-Transaktionshistorie Danube mit Anomalie-Flags |
-| [08_mittelherkunft/source_of_funds_antwort.txt](08_mittelherkunft/source_of_funds_antwort.txt) | Rohdaten Mittelherkunftsantwort |
+| [08_mittelherkunft/source_of_funds_antwort.eml](08_mittelherkunft/source_of_funds_antwort.eml) | Antwort zur Drittzahlung und zu noch fehlenden Mittelherkunftsbelegen |
 | [08_mittelherkunft/mittelherkunftsnachweis_anforderung.docx](08_mittelherkunft/mittelherkunftsnachweis_anforderung.docx) | Schreiben: Anforderung Mittelherkunftsnachweis an Danube Trade |
-| [08_mittelherkunft/email_an_adriatic_commerce.txt](08_mittelherkunft/email_an_adriatic_commerce.txt) | E-Mail an Adriatic Commerce Ltd. zur Klärung der Drittzahlung |
+| [08_mittelherkunft/email_an_adriatic_commerce.eml](08_mittelherkunft/email_an_adriatic_commerce.eml) | E-Mail an Adriatic Commerce Ltd. zur Klärung der Drittzahlung |
 | [09_verdachtsmeldung/goaml_entwurfsnotiz.docx](09_verdachtsmeldung/goaml_entwurfsnotiz.docx) | Vollständige Verdachtsmeldung (SAR) an FIU, VM-MH-2026-0041 |
-| [09_verdachtsmeldung/email_fiu_eingangsbestaetigung.txt](09_verdachtsmeldung/email_fiu_eingangsbestaetigung.txt) | Eingangsbestätigung FIU zur Verdachtsmeldung VM-MH-2026-0041 |
+| [09_verdachtsmeldung/email_fiu_eingangsbestaetigung.eml](09_verdachtsmeldung/email_fiu_eingangsbestaetigung.eml) | Eingangsbestätigung der FIU zur Verdachtsmeldung VM-MH-2026-0041 |
 | [10_transparenzregister/unstimmigkeit_register.docx](10_transparenzregister/unstimmigkeit_register.docx) | Unstimmigkeitsmeldung Transparenzregister Immobilien-Tochter |
 | [11_behoerde/auskunftsersuchen_landesaufsicht.docx](11_behoerde/auskunftsersuchen_landesaufsicht.docx) | Antwortschreiben an RP Darmstadt (Aufsichtsbehörde) |
-| [11_behoerde/email_kanzlei_update_mandant.txt](11_behoerde/email_kanzlei_update_mandant.txt) | Kanzlei-Update an Mandant zum Stand des Behördenverfahrens |
+| [11_behoerde/email_kanzlei_update_mandant.eml](11_behoerde/email_kanzlei_update_mandant.eml) | Kanzlei-Update an den Mandanten zum Stand des Behördenverfahrens |
 | [12_schulung/schulungsstand.csv](12_schulung/schulungsstand.csv) | Schulungsstand-Übersicht Mitarbeiter |
 | [12_schulung/schulungsunterlage_aml_kyc.docx](12_schulung/schulungsunterlage_aml_kyc.docx) | Schulungsunterlage Geldwäscheprävention für Mitarbeiter |
 | [12_schulung/schulungstracking_2025_2026.xlsx](12_schulung/schulungstracking_2025_2026.xlsx) | XLSX: Schulungstracking 2025/2026 mit Quoten und Auffrischungsfristen |
 | [13_audit/internal_audit_findings.docx](13_audit/internal_audit_findings.docx) | Internes Audit-Memo AML-Compliance |
-| [14_presse/presseanfrage.txt](14_presse/presseanfrage.txt) | Eingehende Presseanfrage |
+| [14_presse/presseanfrage.eml](14_presse/presseanfrage.eml) | Eingehende Presseanfrage mit Fragenkatalog und Antwortfrist |
 | [14_presse/krisenkommunikation_entwurf.docx](14_presse/krisenkommunikation_entwurf.docx) | Entwurf Krisenkommunikation / Pressemitteilung |
 | [09_verdachtsmeldung/verdachtsmeldung_FIU.docx](09_verdachtsmeldung/verdachtsmeldung_FIU.docx) | DOCX: Verdachtsmeldung SAR (druckfertig) |
 | [11_behoerde/antwort_rp_darmstadt.docx](11_behoerde/antwort_rp_darmstadt.docx) | DOCX: Schreiben an RP Darmstadt / BaFin |

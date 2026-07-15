@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-lobbyregister-dublin-bank-frankfurt-branch` (Akte) | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 Akte für das Plugin `lobbyregister-bundestag`. Sie bündelt die schwierige Eintragungseinheit bei einer ausländischen Bank mit unselbstständiger deutscher Zweigniederlassung.
 
@@ -45,7 +44,7 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | Datei | Inhalt |
 |---|---|
 | [00_aktenuebersicht.md](00_aktenuebersicht.md) | Aktenplan, Prüffokus und Arbeitsauftrag |
-| [01_mandatsanfrage_email.txt](01_mandatsanfrage_email.txt) | E-Mail der Bank an die Kanzlei |
+| [01_mandatsanfrage_email.eml](01_mandatsanfrage_email.eml) | E-Mail der Bank an die Kanzlei |
 | [02_cro_registerauszug_dublin.docx](02_cro_registerauszug_dublin.docx) | Irischer Registerauszug |
 | [03_handelsregister_frankfurt_zweigniederlassung.docx](03_handelsregister_frankfurt_zweigniederlassung.docx) | Handelsregisterauszug der Zweigniederlassung |
 | [04_bafin_passporting_notiz.docx](04_bafin_passporting_notiz.docx) | Notiz zu BaFin/Passporting und Erlaubnislage |

@@ -1,7 +1,3 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
 name: "Common Law Kompass Crossborder Contract"
 plugin: "common-law-kompass"
 
@@ -10,19 +6,20 @@ checks:
     check_type: file_exists
     description: "README.md vorhanden"
     path: "README.md"
-
   - id: r02-gesamt-pdf-vorhanden
     check_type: file_exists
     description: "Gesamt-PDF gebaut"
     path: "gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf"
-
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
-
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: "Mindestens zehn exportierbare Arbeitsunterlagen vorhanden"
+    min: 10
+  - id: r04-einzelmails
+    check_type: file_exists
+    description: "Verhandlungskorrespondenz liegt als einzelne E-Mail vor"
+    path: "05c_dispute_clause_agreed_draft_2024-04-12.eml"
+  - id: r05-wertabweichung
+    check_type: file_contains
+    description: "Abweichende Jahreswerte bleiben in der Rohdatenliste sichtbar"
+    path: "06_clause_positions.csv"
+    contains: "figure_inconsistent"

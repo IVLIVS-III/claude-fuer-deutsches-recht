@@ -4,12 +4,13 @@ Testakten sind keine Examensfälle mit sauberer Lösungsskizze. Sie sind Arbeits
 
 ## Pflichtstruktur
 
-Jede Testakte enthält künftig zwei parallele Zugänge:
+Jede Testakte wird in drei gleichwertigen Fassungen ausgeliefert:
 
-1. Disparate Arbeitsakte: Einzeldateien in realistischen Formaten, zum Beispiel Markdown-Notizen, EML-Dateien, DOCX-Schreiben, Excel/CSV-Tabellen, PDFs, JPEG-Screenshots, Chat-Exporte oder Scan-PDFs.
-2. Gesamt-PDF: ein konsolidiertes, lesbares PDF unter `gesamt-pdf/<aktenordner>_gesamt.pdf`, damit man die Akte am Stück lesen, ausdrucken und in Vorführungen schnell öffnen kann.
+1. Gesamt-PDF: ein konsolidiertes, durchsuchbares PDF unter `gesamt-pdf/<aktenordner>_gesamt.pdf`, damit sich die Akte am Stück lesen und ausdrucken lässt.
+2. Einzel-PDF-ZIP: jede Unterlage als eigene PDF. Sämtliche PDFs liegen unmittelbar auf der Wurzelebene des ZIPs; frühere Ordnernamen werden bei Bedarf mit doppeltem Unterstrich in den Dateinamen übernommen.
+3. Akten-ZIP: die disparaten Originaldateien in realistischen Formaten, etwa EML, DOCX, XLSX, CSV, PDF, JPG, PNG oder TXT. Auch dieses ZIP ist vollständig flach und enthält weder Unterordner noch Markdown-Dateien.
 
-Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben dem Aktenchaos.
+Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben den heterogenen Originaldateien. Die beiden ZIPs müssen nach dem Öffnen sofort ihre Dateien zeigen, ohne vorgeschalteten Aktenordner.
 
 ## Inhaltliche Qualität
 
@@ -25,8 +26,9 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 
 Der Akten-ZIP-Export ist das Herzstück der Lebensnähe: ein hybrider, bewusst unaufgeräumter Formatemix, wie er im Anwaltsalltag anfällt. Daran wird gezeigt, wie eine KI echte Dateien liest, umbenennt und umwandelt. Deshalb gilt verbindlich — auch für jede künftig von Menschen oder Coding-Agents erzeugte Testakte:
 
-- **Kein Markdown als Aktenstück.** Aktenstücke liegen in lebensechten Formaten vor: gut formatierte Word-Dokumente mit Briefkopf (DOCX, Times New Roman 11 pt), generierte oder gescannt wirkende PDFs, krude Excel-Tabellen (XLSX/CSV), echte E-Mail-Dateien (EML), Screenshots und Fotos (JPG/PNG), Chat-Exporte (TXT) und gelegentlich eine PowerPoint. Je gemischter, desto besser — Inhalt und Nummerierung bleiben mit dem Gesamt-PDF identisch.
-- **Markdown ist nur erlaubt** für README, `rubric.yaml`-Begleitung und Meta-/Lösungsdateien, die `scripts/testakte_file_filter.py` ohnehin vom PDF/ZIP-Export ausschließt.
+- **Kein Markdown als Aktenstück.** Aktenstücke liegen in lebensechten Formaten vor: Word-Dokumente mit Briefkopf, schlichte Bürodateien, generierte oder gescannt wirkende PDFs, unbereinigte Excel-Tabellen, echte E-Mail-Dateien, Screenshots, Fotos und Chat-Exporte. Inhalt und Nummerierung bleiben mit dem Gesamt-PDF konsistent.
+- **Markdown bleibt außerhalb der Auslieferung.** README-Dateien und redaktionelle Begleittexte dürfen im Repository als Markdown vorliegen, werden aber aus Akten-ZIP und Einzel-PDF-ZIP ausnahmslos herausgefiltert.
+- **Flache Archive sind verbindlich.** Weder das Akten-ZIP noch das Einzel-PDF-ZIP darf Verzeichniseinträge oder Dateipfade mit `/` enthalten. Gleichnamige Dateien aus früheren Unterordnern erhalten kollisionssichere Namen mit doppeltem Unterstrich.
 - **Werkzeuge:** `scripts/convert-testakte-aktenstuecke-nativ.py` wandelt Markdown-Aktenstücke in formatierte DOCX um (bestehende gleichnamige DOCX-Zwillinge gewinnen); `scripts/validate-testakten-keine-markdown-aktenstuecke.py` prüft die Regel repo-weit. Der Gesamt-PDF-Builder liest DOCX, XLSX, PDF, Bilder und EML nativ.
 - **Neue Akten** werden von Anfang an in nativen Formaten angelegt; wer schneller in Markdown entwirft, konvertiert vor dem Commit und baut das Gesamt-PDF neu.
 
@@ -34,7 +36,7 @@ Der Akten-ZIP-Export ist das Herzstück der Lebensnähe: ein hybrider, bewusst u
 
 - Gesamt-PDF ohne offensichtlichen Textüberlauf, mit lesbarem Cover und Dateiabschnitten.
 - Umlaute und ß in menschlichem Text verwenden.
-- Einzeldateien sinnvoll benennen, aber nicht steril.
+- Einzeldateien sinnvoll benennen, aber nicht steril. Ein Aktenstück bildet genau ein Dokument ab; mehrere Schreiben dürfen nicht als Sammeldokument in einer Einzel-PDF zusammengezogen werden.
 - Download-Hinweise gehören in README-Dateien, nicht in die Aktenstücke selbst; README und zentrale Übersicht müssen Gesamt-PDF, Akten-ZIP und Einzel-PDF-ZIP aufführen.
 - Der CI-Check `scripts/validate-testakten-gesamt-pdf.py` muss grün sein.
 - Der CI-Check `scripts/validate-testakten-readme-downloads.py` muss grün sein.
@@ -43,9 +45,13 @@ Der Akten-ZIP-Export ist das Herzstück der Lebensnähe: ein hybrider, bewusst u
 
 ```bash
 python3 scripts/build-testakte-gesamt-pdf.py <aktenordner>
+python3 scripts/build-testakten-release-zips.py dist/testakten <aktenordner>
+python3 scripts/build-testakten-einzelpdf-zips.py dist/testakten <aktenordner>
 python3 scripts/inject-gesamt-pdf-section.py
 python3 scripts/validate-testakten-gesamt-pdf.py
 python3 scripts/validate-testakten-readme-downloads.py
+python3 scripts/validate-testakten-release-zips.py dist/testakten <aktenordner>
+python3 scripts/validate-testakten-einzelpdf-zips.py dist/testakten <aktenordner>
 ```
 
 In der lokalen Desktop-Umgebung kann dafür der gebündelte Python verwendet werden, wenn die normale Python-Umgebung keine PDF-Bibliotheken enthält.

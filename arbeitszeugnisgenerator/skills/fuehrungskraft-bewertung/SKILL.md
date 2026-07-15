@@ -1,23 +1,23 @@
 ---
 name: fuehrungskraft-bewertung
-description: "Wenn es um Führungskraft-Bewertung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt und prüft Führungskräftezeugnisse anhand von Führungsspanne, Zielerreichung, Personalentwicklung, Entscheidungen, Budget und Veränderungserfolgen. Liefert einen belegten Führungsabschnitt, der operative Leistung und Führungswirkung sauber trennt."
 ---
 
 # Führungskraft-Bewertung
 
 ## Ziel
 
-Den Führungsabschnitt vollständig und mit der richtigen Notenstufe generieren. Ein Führungszeugnis ohne Führungsabschnitt ist unvollständig.
+Den Führungsabschnitt aus tatsächlicher Führungsspanne, Befugnissen und Ergebnissen entwickeln. Bei einer prägenden Leitungsfunktion kann ihr vollständiges Verschweigen ein unzutreffendes Tätigkeitsbild erzeugen; starre Pflichtwortlisten gibt es jedoch nicht.
 
 ## Fünf Pflichtbausteine im Führungszeugnis
 
 | Baustein | Fehlen bedeutet | Notenrelevanz |
 |---|---|---|
-| Mitarbeiterführung und -entwicklung | Führungsversagen | rot |
-| Strategische Verantwortung | keine Strategiebeteiligung | orange bis rot |
-| Budget- und P&L-Verantwortung | keine wirtschaftliche Führungsrolle | orange |
-| Repräsentation nach außen | keine externe Wirkung | orange |
-| Loyalitätsaussage gegenüber Gesellschaftern oder Vorstand | Loyalitätsproblem | rot |
+| Mitarbeiterführung und -entwicklung | tatsächliche Führungsspanne und Personalentscheidungen prüfen | regelmäßig prägend |
+| Strategische Verantwortung | nur bei echter Strategie- oder Veränderungsverantwortung | rollenabhängig |
+| Budget- und Ergebnisverantwortung | Betrag, Freigabegrenze und Zielerreichung belegen | rollenabhängig |
+| Repräsentation nach außen | Kunden, Behörden oder Gremien konkretisieren | rollenabhängig |
+| Vertrauen und Integrität | nur aus Tatsachen und Funktion ableiten | keine Pflichtformel |
 
 ## Formeln nach Note
 
@@ -52,7 +52,7 @@ Den Führungsabschnitt vollständig und mit der richtigen Notenstufe generieren.
 
 ## Loyalitätsaussage
 
-Führungskräfte auf Ebene Abteilungsleitung und höher brauchen eine explizite Loyalitätsaussage. Ohne sie entsteht ein Negativsignal.
+Eine Loyalitätsaussage ist kein allgemeiner Pflichtbaustein. Bei Vertrauenspositionen kann sie praktisch sinnvoll sein, wenn Funktion und Tatsachen sie tragen. Ihr Fehlen beweist kein Loyalitätsproblem.
 
 **Note 1:**
 > Frau/Herr [Name] genoss das vollste Vertrauen der Geschäftsführung und handelte stets im besten Interesse des Unternehmens.
@@ -72,13 +72,20 @@ Führungskräfte auf Ebene Abteilungsleitung und höher brauchen eine explizite 
 
 - Führungsabschnitt weglassen, weil der Nutzer die Funktion nicht als „Führungskraft" bezeichnet — ab zwei unterstellten Mitarbeitern ist ein Führungsabschnitt sinnvoll.
 - Mitarbeiterzahl weglassen: „führte ein Team" ohne Zahl ist schwächer als „führte acht Mitarbeiterinnen und Mitarbeiter".
-- Loyalitätsaussage weglassen bei Geschäftsführung oder Vorstand — das ist ein rotes Signal.
+- Eine Loyalitätsaussage ohne Tatsachengrundlage oder als starre Pflichtformel ergänzen.
 
 ## Anti-Muster
 
 - Führungsabschnitt komplett weglassen bei Leitungsfunktion.
 - „verstand es zu motivieren" als Note-1-Führungsaussage verwenden.
 - Erfolgsnachweis ohne Zahl oder Referenzpunkt (z.B. „steigerte die Effizienz" ohne messbare Bezugsgröße).
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Prägende Merkmale sind individuell hervorzuheben; schematische Kriterienlisten ersetzen die Gesamtbeurteilung nicht.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19 bis 24: Überdurchschnittliche Wertungen brauchen im Streitfall konkrete Leistungstatsachen.
+
+Liefere eine Führungsmatrix mit Führungsspanne, Befugnis, Ziel, Ergebnis, Beleg und Zeitraum. Daraus entsteht ein ausformulierter Abschnitt; unbelegte Budget-, Strategie- oder Vertrauensaussagen werden als offene Punkte markiert.
 
 ## Ausgabeformat
 

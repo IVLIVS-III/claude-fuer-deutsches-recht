@@ -18,7 +18,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-familiengericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md" download><code>richter-familiengericht-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-familiengericht/richter-familiengericht-schnellstart.md" download><code>richter-familiengericht-schnellstart.md</code></a> |
-| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -28,7 +28,6 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-familiengericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-testakte.zip) | [`richter-familiengericht-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-familiengericht-testakte-einzelpdfs.zip) |
 | [Familienrecht — Sorge, Umgang und Gewaltschutz in Essen](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/README.md) | [Gesamt-PDF](../../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../../testakten/README.md)

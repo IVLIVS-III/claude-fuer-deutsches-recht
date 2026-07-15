@@ -1,0 +1,6 @@
+﻿Zeitpunkt;Quelle;Ereignis;Wert;Einheit;Gerät;Hinweis
+2026-06-24 15:58;Altzähler;Ausbaustand;18842;kWh;F-7718;Foto vorhanden
+2026-06-24 16:08;SMX-900;Einbaustand;0.6;kWh;9SMX26004471;Plombe 88714
+2026-06-24 16:43;Portal;Aktivierung;KomfortPlus;;mobiles Endgerät;Textstand 24.06
+2026-06-25 00:00;SMX-900;Tageswert;5.8;kWh;9SMX26004471;Mobilfunk schwach
+2026-07-01 00:00;SMX-900;Wochenwert;46.2;kWh;9SMX26004471;Portal synchronisiert

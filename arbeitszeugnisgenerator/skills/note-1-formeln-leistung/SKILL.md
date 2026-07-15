@@ -1,23 +1,20 @@
 ---
 name: note-1-formeln-leistung
-description: "Wenn es um Note 1 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arbeitsweise, Qualität, Menge und Erfolg konsistent ab. Liefert eine glaubwürdige Bestnotenfassung plus Belegcheck für ein mögliches Berichtigungsverfahren."
 ---
 
 # Note 1 — Formeln Leistung
 
 ## Ziel
 
-Konsistente Note-1-Formulierungen generieren, die Maximalsteigerer, starke Verben und nachweisbare Ergebnisse enthalten.
+Eine sehr gute Gesamtbewertung aus nachweisbaren Spitzentatsachen entwickeln. Die etablierte Zufriedenheitsformel ordnet die Gesamtbewertung ein; Einzelsätze werden aus Funktion und Belegen formuliert und nicht mit einer Mindestzahl von Superlativen gefüllt.
 
 ## Hauptformel (Zufriedenheitsformel)
 
-**Pflichtformel Note 1:**
+**Etablierte Gesamtformel:**
 > Alle ihr/ihm übertragenen Aufgaben erledigte sie/er stets zu unserer vollsten Zufriedenheit.
 
-**Verstärkte Variante:**
-> Alle Aufgaben erledigte Frau/Herr [Name] stets zu unserer vollsten und uneingeschränkten Zufriedenheit.
-
-Die Hauptformel muss am Ende des Leistungsabschnitts stehen und die vorangehenden Einzelsätze zusammenfassen.
+Die Formel soll die vorangehenden Einzelsätze zusammenfassen. Ihre Position folgt dem lesbaren Aufbau; eine zusätzliche Häufung wie „vollsten und uneingeschränkten" ist regelmäßig entbehrlich.
 
 ## Einzelsatz-Formeln Note 1
 
@@ -52,7 +49,7 @@ Die Hauptformel muss am Ende des Leistungsabschnitts stehen und die vorangehende
 
 ## Adverbien und Verstärker (Note 1)
 
-Folgende Maximalsteigerer müssen in Note-1-Zeugnissen vorkommen:
+Die folgenden Wörter können bei passender Tatsachengrundlage verwendet werden; keines davon ist außerhalb der etablierten Gesamtformel zwingend:
 
 | Adverb | Einsatz |
 |---|---|
@@ -67,14 +64,14 @@ Folgende Maximalsteigerer müssen in Note-1-Zeugnissen vorkommen:
 ## Qualitätscheck vor Ausgabe
 
 - Enthält die Hauptformel „stets" und „vollsten"?
-- Enthält der Leistungsabschnitt mindestens drei Maximalsteigerer?
-- Sind alle Einzelsätze auf demselben Niveau (keine Drift nach Note 3)?
-- Endet der Leistungsabschnitt mit der Hauptformel?
+- Belegen mindestens zwei konkrete Tatsachen die überdurchschnittliche Qualität oder den besonderen Erfolg?
+- Bleiben Unterschiede zwischen einzelnen Merkmalen sachlich erklärbar?
+- Fasst die Gesamtformel die belegte Bewertung widerspruchsfrei zusammen?
 
 ## Stolpersteine
 
 - „stets zur vollen Zufriedenheit" ist Note 2, nicht Note 1 — der Unterschied liegt im „vollsten".
-- Maximalsteigerer in jeden Satz zu packen wirkt übertrieben und kann als ironische Überhöhung gelesen werden (LAG Hamm, Beschluss v. 14.11.2016 – 12 Ta 475/16). Gezielt und glaubwürdig einsetzen.
+- Maximalsteigerer in jeden Satz zu packen wirkt unglaubwürdig und verdeckt den Tatsachenkern. Gezielt und belegbezogen einsetzen.
 - Alle Einzelsätze auf Note 1 formulieren, aber die Hauptformel vergessen oder auf Note 2 setzen — das ist Drift.
 
 ## Anti-Muster
@@ -82,6 +79,14 @@ Folgende Maximalsteigerer müssen in Note-1-Zeugnissen vorkommen:
 - Hauptformel „zur vollen Zufriedenheit" (Note 2) verwenden und trotzdem behaupten, es sei ein Note-1-Zeugnis.
 - Superlative ohne Tatsachenkern stapeln: „stets hervorragend, exzellent, außerordentlich, überragend" in einem Satz ist Ironie-Risiko.
 - Ergebnisbehauptungen ohne konkrete Referenzpunkte: „steigerte den Umsatz um 400 Prozent" ohne Belastbarkeit.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 13 und 19 bis 24: „stets zur vollsten Zufriedenheit" steht für eine sehr gute Gesamtbewertung; der Arbeitnehmer muss die hierfür erforderlichen überdurchschnittlichen Tatsachen darlegen und beweisen.
+- BAG, Urteil vom 14.10.2003 - 9 AZR 12/03: Ausgangspunkt der Darlegungs- und Beweislast ist die durchschnittliche Bewertung; eine bessere Beurteilung verlangt konkrete Tatsachen.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Einzelmerkmale sind individuell zu gewichten, nicht als gleichförmige Notenliste abzubilden.
+
+Liefere zuerst eine Belegmatrix mit Merkmal, Spitzentatsache, Zeitraum und Quelle. Fehlt die Grundlage, gib eine vorläufige Fassung mit offen markierter Beleglücke statt einer unbelegten Bestnote aus.
 
 ## Ausgabeformat
 

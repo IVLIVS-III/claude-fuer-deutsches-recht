@@ -1,21 +1,21 @@
 ---
 name: langzeit-arbeitsverhaeltnis
-description: "Wenn es um Langzeit-Arbeitsverhältnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnden Schwerpunkten. Verdichtet die Historie ohne prägende Tätigkeiten oder Entwicklungsstufen zu verlieren und vermeidet schematische Jahreschroniken."
 ---
 
 # Langzeit-Arbeitsverhältnis
 
 ## Ziel
 
-Zeugnisse für langjährig Beschäftigte (ab ca. zehn Jahren Betriebszugehörigkeit) adäquat formulieren, die der besonderen Bindung und dem Beitrag zum Unternehmen gerecht werden.
+Zeugnisse für langjährig Beschäftigte so verdichten, dass Rollenentwicklung, prägende Aufgaben und belastbare Leistungen sichtbar bleiben. Die Dauer allein begründet weder eine besondere Note noch einen Anspruch auf emotionale Schlussformeln.
 
 ## Was ein Langzeit-Zeugnis anders macht
 
 Ein zehnjähriges Arbeitsverhältnis hat besondere Merkmale:
 - Die Person hat das Unternehmen maßgeblich mitgeprägt.
-- Loyalität und Verlässlichkeit über lange Zeit sind extra hervorzuheben.
-- Positionsentwicklung und Karriereschritte während der Beschäftigung sind dokumentationspflichtig.
-- Ein kurzes, karges Zeugnis wirkt nach zehn Jahren besonders kalt und signalisiert eine schwierige Trennung.
+- Loyalität und Verlässlichkeit werden nur hervorgehoben, wenn die Tatsachen sie tragen.
+- Prägende Positionsentwicklung und Karriereschritte müssen für ein zutreffendes Tätigkeitsbild erfasst werden.
+- Der Umfang folgt Tätigkeitsvielfalt und Zeugniszweck, nicht einer festen Seitenzahl.
 
 ## Pflicht-Elemente im Langzeit-Zeugnis
 
@@ -23,9 +23,9 @@ Ein zehnjähriges Arbeitsverhältnis hat besondere Merkmale:
 |---|---|
 | Gesamtdauer explizit nennen | „während ihrer zehnjährigen Betriebszugehörigkeit" |
 | Positionsentwicklung oder Beförderungen | muss vollständig abgebildet sein |
-| Langzeitloyalität | explizite Aussage zur dauerhaften Verlässlichkeit |
+| Langzeitloyalität | nur mit Tatsachengrundlage und Rollenbezug |
 | Beitrag zur Unternehmensentwicklung | bei langen Verhältnissen besonders wichtig |
-| Vollständige Schlussformel | bei langer Betriebszugehörigkeit ist karge Schlussformel besonders auffällig |
+| Schlussabschnitt | freiwillig; von der gesetzlichen Leistungsbeurteilung trennen |
 
 ## Formulierungen für Langzeit-Aspekte
 
@@ -46,9 +46,7 @@ Ein zehnjähriges Arbeitsverhältnis hat besondere Merkmale:
 
 ## Schlussformel bei Langzeit-Arbeitsverhältnis
 
-Eine vollständige, herzliche Schlussformel ist bei langer Betriebszugehörigkeit besonders erwartet. Drei Bausteine oder weniger wirken nach zehn Jahren kalt und werden als Distanzsignal gelesen.
-
-Empfehlung: Fünf Bausteine bei Note 1 bis 2; mindestens vier bei Note 3.
+Eine persönliche Schlussformel kann bei langer Betriebszugehörigkeit praktisch naheliegen, ist aber nicht gesetzlich geschuldet. Ihre Länge wird nicht nach Bausteinzahlen bemessen. Gewünscht, bereits erteilt und rechtlich erzwingbar sind drei getrennte Fragen.
 
 **Beispiel für langjährigen Abgang:**
 > Frau/Herr [Name] scheidet nach [Anzahl] Jahren auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies außerordentlich und sind dankbar für den außergewöhnlichen Beitrag, den sie/er in dieser langen Zeit geleistet hat. Für den weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm alles Gute, Gesundheit und weiterhin großen Erfolg.
@@ -64,13 +62,21 @@ Beim Langzeit-Verhältnis ist der Beendigungsgrund besonders signalstark:
 
 - Zeugnis für eine zehn Jahre tätige Führungskraft mit vier kurzen Sätzen beenden.
 - Positionswechsel während des Langzeit-Verhältnisses nicht aufführen.
-- Schlussformel kürzen, obwohl die Betriebszugehörigkeit außergewöhnlich lang war.
+- Die Länge der Schlussformel als festen Notenschlüssel behandeln.
 
 ## Anti-Muster
 
 - Standardzeugnis ohne Anpassung für besondere Dauer verwenden.
 - Betriebszugehörigkeit nicht explizit nennen.
 - Karge Schlussformel bei langjähriger Betriebszugehörigkeit.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Das Zeugnis muss die prägenden Tätigkeiten und Eigenschaften individuell gewichten. Bei langen Verläufen verlangt das eine sachgerechte Verdichtung der Rollenentwicklung.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Dank, Bedauern und Zukunftswünsche sind auch nach langer Beschäftigung kein gesetzlicher Pflichtinhalt.
+- BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 14 bis 23 und 35: Eine bereits erteilte Schlussformel darf nicht als Reaktion auf ein zulässiges Berichtigungsverlangen grundlos gestrichen werden; frühere Beurteilungen können zudem für die Tatsachengrundlage bedeutsam sein.
+
+Liefere zunächst eine Rollen- und Zeitachse. Danach folgen ein verdichteter Tätigkeitsblock, die belegte Entwicklung der Leistung und eine separat gekennzeichnete optionale Schlussfassung.
 
 ## Ausgabeformat
 

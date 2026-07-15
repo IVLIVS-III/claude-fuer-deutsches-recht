@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,21 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Einheitsvertragsakte Lindenau: Treuhandzuordnung, Bodenreformvermerk, Mauergrundstück, VermG-Restitution und Grundbuchkette.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
-| `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
-| `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
-| `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
-| `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
-| `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-
+| --- | --- |
+| `01_mandantenschreiben_auenfeld_grundstueck_2026-06-22.docx` | Unterlagen aus dem Nachlass meiner Mutter und Schreiben des Grundbuchamts |
+| `02_flurstuecke_grundbuch_kataster_abgleich.xlsx` | Tabellarische Rohdaten Flurstücke mit 6 Datensätzen |
+| `03_email_gewerbehof_geplanter_verkauf_2026-06-24.eml` | E-Mail mit vollständigem Header: Merseburger Straße 211 / Flurstück 184/7 / Ihre Anfrage vom 23. Juni |
+| `04_grundbuchamt_zwischenverfuegung_2026-06-15.docx` | Ihre Eingabe vom 3. Juni 2026 betreffend Flurstück 184/7 |
+| `05_post_und_archivfundstellen_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_vermessungsbuero_grenzpunkte_2026-06-29.eml` | E-Mail mit vollständigem Header: Grenzniederschrift 2014 / Lindenau Flur 12, Flurstücke 184/7 und 184/12 |
+| `07_niederschrift_tante_ingrid_2026-06-25.docx` | Niederschrift der Angaben von Ingrid Maaß, geboren am 9. August 1943 |
 ## Passende Plugins
 
 `einigungsvertrag-vermoegensrecht`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_archivauskunft_flurstueck_184_7.docx`](12_archivauskunft_flurstueck_184_7.docx) | Archivauskunft mit konkreten Beständen und Fundstellen |
+| [`13_email_nachbarin_grenzzaun_und_nutzung.eml`](13_email_nachbarin_grenzzaun_und_nutzung.eml) | Zeitzeugenmail zur Nutzung und früheren Grenzlage |
+| [`14_archivfundstellen_flurstueck_184_7.csv`](14_archivfundstellen_flurstueck_184_7.csv) | Unbearbeitete Archivsignaturen und Randvermerke |
+
+<!-- END nachgereichte-originalunterlagen -->

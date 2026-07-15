@@ -1,0 +1,7 @@
+﻿Datum;Version;Schaltfläche;Preis_sichtbar;Ticket;Status;Quelle
+24.06.2026;MC-Web 6.2;Werte anzeigen;unterhalb Scrollbereich;;produktiv;Änderungsarchiv
+30.06.2026;MC-Web 6.2;KomfortPlus verwalten;Kontoübersicht;MC-771902;eingegangen;Support
+01.07.2026;MC-Web 6.3;KomfortPlus starten;direkt darüber;MC-771902;Prüfung;Release-Log
+02.07.2026;MC-Web 6.3;Dienst beenden;Kontoübersicht;MC-771902;Sperre gesetzt;Support
+15.07.2026;Payment;Lastschrift;26,70 EUR;MC-771902;retour;Bankdatei
+12.08.2026;Forderung;Übergabe;26,70 EUR;MC-771902;Inkasso;Debitorenexport

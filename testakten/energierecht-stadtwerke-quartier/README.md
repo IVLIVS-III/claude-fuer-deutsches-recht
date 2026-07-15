@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-energierecht-stadtwerke-quartier` (Akte) | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 **Aktenzeichen:** SWK/ENR/2024-047
 **Mandant:** Stadtwerke Klotzkette AG, Bahnhofstraße 12, 59348 Lüdinghausen
@@ -116,7 +115,7 @@ Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) sol
 | Datei | Inhalt |
 |---|---|
 | [README.md](README.md) | Gesamtüberblick, Sachverhalt, Eckdaten, Zeitleiste, Dateiverzeichnis |
-| [01_intake/email_mandant_stadtwerke.txt](01_intake/email_mandant_stadtwerke.txt) | Erste E-Mail des Mandanten mit Projektanfrage |
+| [01_intake/email_mandant_stadtwerke.eml](01_intake/email_mandant_stadtwerke.eml) | Projektanfrage der Stadtwerke zum Quartier Hafenbogen |
 | [01_intake/mandatsnotiz_erstgespraech.docx](01_intake/mandatsnotiz_erstgespraech.docx) | Interner Aktenvermerk zum Erstgespräch vom 15.03.2024 |
 | [02_projekt/quartier_wärme_strom_konzept.docx](02_projekt/quartier_waerme_strom_konzept.docx) | Vollständige Konzeptskizze mit technischen Eckdaten, Varianten, Offene-Punkte-Liste |
 | [03_netzanschluss/netzanschluss_sonderkonstellation.docx](03_netzanschluss/netzanschluss_sonderkonstellation.docx) | Rechtlicher Vermerk: Netzanschluss, Kundenanlage vs. GVN, Messkonzept |

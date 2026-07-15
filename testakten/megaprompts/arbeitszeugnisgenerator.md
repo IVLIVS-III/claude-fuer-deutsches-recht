@@ -6,466 +6,204 @@ Diese Vollprüfung enthält top-15 von 40 Skills des Plugins `arbeitszeugnisgene
 
 ## Inhaltsverzeichnis
 
-1. **zeugnisklarheit-objektiver-empfaengerhorizont** — Wenn es um Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10) in Arbeitszeugnisgenerator ge…
-2. **drift-und-schaufenster-vermeiden** — Wenn es um Drift und Schaufenster vermeiden in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-3. **taetigkeitsbeschreibung-erheben** — Wenn es um Tätigkeitsbeschreibung erheben in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-4. **rollen-und-harness-wahl** — Wenn es um Rollen und Harness-Wahl in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
-5. **schlussformel-baukasten** — Wenn es um Schlussformel-Baukasten in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
-6. **rechtlicher-anker-109-gewo** — Wenn es um Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen in Arbeitszeugnisgenerator geht: prüft Frist, Form…
-7. **verhalten-vorgesetzte-kollegen-kunden** — Wenn es um Verhalten gegenüber Vorgesetzten, Kollegen und Kunden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zus…
-8. **kopfdaten-und-aussere-form** — Wenn es um Kopfdaten und äußere Form in Arbeitszeugnisgenerator geht: erstellt den passenden Entwurf aus Sachverhalt, No…
-9. **notenwahl-modus** — Wenn es um Notenwahl-Modus in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näc…
-10. **zeugnisart-ausbildungszeugnis-16-bbig** — Wenn es um Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zust…
-11. **steigerungsadverbien-katalog** — Wenn es um Steigerungsadverbien-Katalog in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachford…
-12. **zeugnisart-qualifiziert** — Wenn es um Zeugnisart: Qualifiziertes Arbeitszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, …
-13. **bag-leitentscheidungen-beweislast** — Wenn es um BAG-Leitentscheidungen zur Beweislast in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rech…
-14. **bag-leitentscheidungen-notenstufen** — Wenn es um BAG-Leitentscheidungen zu Notenstufen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rech…
-15. **stammdaten-erhebung** — Wenn es um Stammdaten-Erhebung in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; …
+1. **auslassungen-vermeiden** — Prüft Arbeitszeugnisse auf rechtlich erhebliche Auslassungen, wenn Tätigkeiten, Leistungen oder Verhaltensaspekte fehlen…
+2. **note-1-formeln-leistung** — Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arb…
+3. **verhalten-vorgesetzte-kollegen-kunden** — Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitar…
+4. **bag-leitentscheidungen-beweislast** — Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertunge…
+5. **einfuehrung-mandantenanliegen** — Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt…
+6. **langzeit-arbeitsverhaeltnis** — Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnd…
+7. **taetigkeitsbeschreibung-erheben** — Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldunge…
+8. **zeugnisart-zwischenzeugnis** — Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbe…
+9. **stammdaten-erhebung** — Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorha…
+10. **revision-und-aenderungswuensche** — Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründun…
+11. **frequenzadverbien-katalog** — Prüft Wörter wie stets, regelmäßig, häufig, meist und jederzeit in ihrem konkreten Satz- und Gesamtkontext. Trennt Häufi…
+12. **compliance-integritaet-formeln** — Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen. Pr…
+13. **mehrere-positionen-im-zeugnis** — Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugni…
+14. **note-5-formeln-leistung** — Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage. Prüft Dokumentation, Gesamtzusammenhang…
+15. **notenwahl-modus** — Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt ei…
 
 ---
 
-## Skill: `zeugnisklarheit-objektiver-empfaengerhorizont`
+## Skill: `auslassungen-vermeiden`
 
-_Wenn es um Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10) in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Prüft Arbeitszeugnisse auf rechtlich erhebliche Auslassungen, wenn Tätigkeiten, Leistungen oder Verhaltensaspekte fehlen, die ein objektiver Leser bei dieser konkreten Funktion erwartet. Liefert eine rollenbezogene Erwartungs-, Beleg- und Ergänzungsmatrix statt pauschaler Geheimcode-Listen._
 
-# Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)
-
-## Ziel
-
-Formulierungen generieren, die klar und eindeutig sind — weder als versteckte Negativcodes noch als ironische Überhöhungen gelesen werden können.
-
-## Rechtsgrundlage
-
-Paragraf 109 Abs. 2 GewO: Das Zeugnis muss klar und verständlich formuliert sein. Zeugnisse dürfen keine Geheimzeichen oder Formulierungen enthalten, die etwas anderes besagen, als aus dem Wortlaut ersichtlich ist.
-
-## Leitentscheidungen zur Zeugnisklarheit
-
-### BAG, Urteil v. 21.06.2005 – 9 AZR 352/04
-Maßgeblich ist der **objektive Empfängerhorizont**, nicht die Absicht des Ausstellers. Was ein kundiger Leser aus der Formulierung herausliest, entscheidet — nicht was der Aussteller gemeint hat.
-
-### BAG, Urteil v. 15.11.2011 – 9 AZR 386/10
-„Kennen gelernt" ist allein und losgelöst vom übrigen Zeugnisinhalt kein unzulässiger Geheimcode. Der Arbeitgeber hat bei Werturteilen einen Formulierungsspielraum. Die Grenzen sind Zeugniswahrheit und Zeugnisklarheit.
-
-### BAG, Urteil v. 11.12.2012 – 9 AZR 227/11
-Kein Anspruch auf Dank und gute Wünsche in der Schlussformel. Empfindungsäußerungen des Arbeitgebers gehören nicht zum geschuldeten Zeugnisinhalt.
-
-## Drei Klarheitsgebote beim Generieren
-
-### 1. Kein Widerspruch zwischen Wortlaut und Signalwirkung
-Eine Formulierung darf nicht positiv klingen und negativ gemeint sein. Beispiel:
-- „Wir hatten an seiner Arbeit nichts auszusetzen" — klingt positiv, ist aber Note 4 bis 5.
-- Wenn diese Formel generiert wird, muss der Generator auf ihre Negativwirkung hinweisen.
-
-### 2. Kein Ironie-Code
-Erkennbar nicht ernst gemeintes Über-Lob ist ein unzulässiger Code (LAG Hamm, Beschluss v. 14.11.2016 – 12 Ta 475/16). Gestapelte Superlative ohne Tatsachenkern sind zu vermeiden.
-
-Verbotenes Beispiel:
-> „Wenn es bessere Noten als sehr gut gäbe, würden wir ihn damit beurteilen."
-
-Das erfüllt den Zeugnisanspruch nicht — es ist ironische Distanzierung.
-
-### 3. Formulierungsspielraum nutzen, aber Grenzen kennen
-
-Der Arbeitgeber hat bei Werturteilen einen Spielraum. Er darf zwischen Note-2-Variante A und Note-2-Variante B wählen. Er darf aber keine Formel wählen, die aus Empfängerhorizont Note 4 bedeutet, obwohl Note 2 gemeint ist.
-
-## Checkliste Zeugnisklarheit
-
-| Frage | Soll |
-|---|---|
-| Klingt die Formulierung nach dem, was die Note bedeutet? | ja |
-| Ist der Wortlaut eindeutig für einen kundigen Empfänger? | ja |
-| Enthält der Text doppelte Verneinungen? | nein |
-| Enthält der Text ironische Überhöhungen? | nein |
-| Sind Verstärker und Abschwächer korrekt eingesetzt? | ja |
-
-## Grenze der Decodierung
-
-Nicht jede unübliche oder blasse Formulierung ist ein Geheimcode. Das BAG (9 AZR 352/04; 9 AZR 386/10) verlangt für einen Verstoß gegen Paragraf 109 Abs. 2 S. 2 GewO, dass die Formulierung aus Sicht des objektiven Zeugnislesers etwas anderes aussagt als ihr Wortlaut. Blasse, aber klar lesbare Formulierungen sind kein Verstoß.
-
-## Stolpersteine
-
-- Übliche Positivformeln durch kreativere Varianten ersetzen, die der kundige Leser nicht kennt — das erzeugt Unklarheit.
-- Verneinungen zur Abschwächung einsetzen: „nicht unzuverlässig" ist unklar und tendiert zu Note 4.
-- Schlussformel-Fehlen als Klarheitsproblem behandeln — nach BAG ist das Fehlen kein Mangel.
-
-## Anti-Muster
-
-- Formulierungen „erfinden", die kein erfahrener Personaler kennt.
-- Doppelte Verneinung als neutralen Ausdruck einsetzen.
-- Ironie-Lob als Bestnote ausgeben.
-
----
-
-## Skill: `drift-und-schaufenster-vermeiden`
-
-_Wenn es um Drift und Schaufenster vermeiden in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Drift und Schaufenster vermeiden
+# Auslassungen vermeiden
 
 ## Ziel
 
-Konsistente Zeugnisse generieren, in denen alle Abschnitte dieselbe Notenstufe tragen und keine versteckten Abwertungen durch Drift eingebaut werden.
+Sicherstellen, dass das Zeugnis die für die konkrete Tätigkeit prägenden Aufgaben, Leistungen und Verhaltensaspekte erkennen lässt. Eine Auslassung wird nicht schematisch als Geheimcode behandelt, sondern anhand der Funktion, der Branchenüblichkeit, des Gesamttexts und der belegbaren Tatsachen geprüft.
 
-## Was ist Drift?
+## Grundprinzip
 
-Drift entsteht, wenn einzelne Sätze oder Abschnitte eines Zeugnisses eine andere Note tragen als die anderen. Drei Arten:
+Der Arbeitgeber entscheidet grundsätzlich, welche Leistungen und Eigenschaften er hervorhebt. Die Grenze ist erreicht, wenn ein verständiger Zeugnisleser gerade an dieser Stelle eine positive Hervorhebung erwartet und das Schweigen deshalb ein unzutreffendes Bild erzeugt. Maßgeblich ist der objektive Empfängerhorizont, nicht eine starre Liste vermeintlicher Codewörter.
 
-### Schaufenster-Drift
-Langer, positiver Aufgabenkatalog oder ausführliche Spitzensätze → dann schwache Hauptformel. Das schöne Schaufenster verdeckt die Abwertung im Kern.
+## Erwartungskarte nach Funktion
 
-### Bereichs-Drift
-Innerhalb eines Themenblocks (z.B. Fachkenntnisse) stehen zwei Sätze mit unterschiedlichen Notenniveaus direkt nebeneinander.
-
-**Beispiel aus dem Quellmaterial:**
-- Satz A: „verfügt auch in Randbereichen über äußerst profundes Fachwissen" (Note 1)
-- Satz B direkt danach: „nahm an Weiterbildungsseminaren teil" (Note 3)
-→ Drift zwei Stufen im Themenblock Fachkenntnisse — rot.
-
-### Achsen-Drift
-Eine Achse (Leistung oder Verhalten) ist deutlich stärker als die andere, ohne dass das sachlich begründet ist.
-
-## Drift-Erkennungsraster
-
-| Drift-Befund | Signalwirkung | Bewertung |
+| Möglicher Schwerpunkt | Wann eine Aussage naheliegt | Was vor Ergänzung belegt sein muss |
 |---|---|---|
-| Note 1 und Note 3 zum selben Thema direkt aufeinanderfolgend | Schaufenster mit kodierter Korrektur | rot |
-| Spreizung zwei Stufen innerhalb eines Bereichs | systematische Abwertung | rot |
-| Spreizung eine Stufe innerhalb eines Bereichs | bewusste Vorsicht | orange |
-| Drift bei Lernbereitschaft trotz starker Fachkenntnisse | Stagnationssignal | rot |
-| Drift bei Sozialverhalten trotz starker Leistungsteile | Konfliktsignal | rot |
-| Leistung Note 1, Schlussformel Note 3 | Widerspruch, nicht konsistent | orange bis rot |
-| Konstante Note auf allen Achsen | konsistent, kein Drift | gruen |
+| Kassen- und Vermögensverantwortung | Bargeld, Zahlungsfreigaben oder Buchungsrechte prägten die Tätigkeit | konkrete Verantwortung, Kontrollumfang und dokumentierte Arbeitsweise |
+| Vertriebsleistung | Ziele, Kundenbindung oder Akquise gehörten zum Aufgabenbild | Zielzeitraum, Zielwert, Ergebnis und persönlicher Beitrag |
+| Führung | disziplinarische oder fachliche Leitung war prägend | Führungsspanne, Entscheidungen, Personalentwicklung und Ergebnisse |
+| Kunden- oder Patientenkontakt | Außenkontakt war ein wesentlicher Teil der Tätigkeit | Art des Kontakts, Rückmeldungen und konkrete Verantwortung |
+| Belastungssituationen | Fristen, Schichten, Spitzenlasten oder Krisen gehörten regelmäßig zur Funktion | beobachtbare Situation und Qualität des Arbeitsergebnisses |
+| Diskretion und Regelkonformität | Zugriff auf Personal-, Finanz- oder besonders vertrauliche Daten war prägend | Aufgabenbezug und belastbare Tatsachen statt bloßer Ehrlichkeitsformel |
 
-## Konsistenzregel beim Generieren
+## Rechtsprechungsanker
 
-Vor dem Ausgeben des vollständigen Zeugnisses:
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Wortwahl und Auslassung sind aus Sicht des objektiven Zeugnislesers zu beurteilen; eine erwartbare positive Hervorhebung darf nicht so fehlen, dass ein falscher Eindruck entsteht.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Verbreitete Übersetzungslisten ersetzen die Prüfung des konkreten Wortlauts und Gesamtzusammenhangs nicht.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20 und 27: Das Zeugnis muss prägende Merkmale gewichten und als einheitliches Ganzes gelesen werden.
 
-1. Welche Note ist für Leistung festgelegt?
-2. Ist jeder Leistungssatz auf dieser Notenstufe?
-3. Welche Note ist für Verhalten festgelegt?
-4. Ist jeder Verhaltenssatz auf dieser Notenstufe?
-5. Passt die Schlussformel zur Hauptnote?
+## Auslassungs-Check vor Ausgabe
 
-## Beispiel Schaufenster-Drift (aus dem Quellmaterial)
+1. Tatsächliche Funktion, Verantwortung und Dauer aus den Unterlagen bestimmen.
+2. Prägende Aufgaben von bloßen Nebenaufgaben trennen.
+3. Für jede vermisste Aussage festhalten, warum ein verständiger Leser sie gerade bei dieser Funktion erwarten könnte.
+4. Fundstelle und Tatsachengrundlage der gewünschten Ergänzung zuordnen.
+5. Gesamttext prüfen: Erzeugt das Fehlen wirklich einen unzutreffenden Eindruck oder ist der Punkt an anderer Stelle abgedeckt?
+6. Nur belegte Ergänzungen formulieren; bei fehlender Grundlage eine gezielte Tatsachenfrage stellen.
 
-Zeugnis aus Muster 2: Viele Note-1-Einzelsätze (äußerst profundes Fachwissen, außerordentliche Arbeitsmoral), aber konstante Note-3-Sätze in Lernbereitschaft, Innovation und Sozialverhalten → aggregierte Note 2 bis 3.
+## Beispielsprüfung
 
-Der erste Eindruck (schöne Spitzensätze) verdeckt die systematische Absenkung in anderen Bereichen.
+Ein Buchhalterzeugnis erwähnt Monatsabschlüsse und Zahlungsfreigaben, bewertet aber nur Fachwissen und Arbeitstempo. Das ist ein Prüfhinweis, noch kein feststehender Rechtsmangel. Zu klären sind Umfang der Zahlungsbefugnis, dokumentierte Genauigkeit und die Frage, ob der Gesamttext diese Aspekte bereits durch konkrete Ergebnisse abbildet.
 
-## Spezialfall: Widerspruch zwischen Einzelsätzen
+Ein Pflegezeugnis beschreibt Dienstplanung und Dokumentation, schweigt aber vollständig zum prägenden Patientenkontakt. Hier ist eine Ergänzung eher erwartbar, wenn die Patientenversorgung tatsächlich den Schwerpunkt bildete und sich die Aussage aus Beurteilungen oder Rückmeldungen belegen lässt.
 
-Ein direkt widersprüchliches Satzpaar:
-> „Herr Braun arbeitete stets eigenverantwortlich" + „Er erledigte die nach Anweisung zugewiesenen Aufgaben zuverlässig."
-
-→ Eigenverantwortlichkeit und Auftragserfüllung nach Anweisung stehen im Widerspruch.
-
-Der Generator muss solche Kombinationen ausschließen.
-
-## Qualitätsprüfung vor Ausgabe
-
-- Enthält der Leistungsabschnitt Sätze aus mehr als einer Notenstufe?
-- Ist die Schlussformel zur Hauptnote konsistent?
-- Gibt es im Verhaltensabschnitt Sätze, die zur Leistungsnote im Widerspruch stehen?
-- Gibt es direkte Widersprüche (eigenverantwortlich vs. nach Anweisung)?
+Bei einer Projektleiterin reicht die bloße Angabe, an Projekten mitgewirkt zu haben, regelmäßig nicht für ein klares Tätigkeitsbild. Der Entwurf soll Verantwortungsumfang, Projektphase und belegtes Ergebnis nennen, ohne einen Erfolg zu erfinden.
 
 ## Stolpersteine
 
-- Musterzitate aus verschiedenen Notenstufen kombinieren, weil sie „gut klingen".
-- Spitzensätze aus Note-1-Zeugnissen mit einer Note-3-Hauptformel kombinieren.
-- Verhaltensabschnitt auf Note 3, Leistungsabschnitt auf Note 1 — das ist ein Konfliktsignal.
+- Jede branchenübliche Eigenschaft ungeprüft als zwingenden Zeugnisinhalt behandeln.
+- Aus dem Fehlen einer Aussage sofort einen konkreten Vorwurf wie Diebstahl, Krankheit oder Konflikte ableiten.
+- Eine positive Ergänzung ohne Tatsachengrundlage einsetzen und damit die Wahrheitspflicht verletzen.
 
 ## Anti-Muster
 
-- Aufgabenbeschreibung sehr umfangreich und beeindruckend gestalten, um eine schwache Note zu kompensieren.
-- Einzelnen Satz aus einem Musterbaustein übernehmen, ohne zu prüfen, ob er zur gewählten Note passt.
-- Schlussformel-Niveau beliebig von der Leistungsnote abkoppeln.
+- Starre Tabelle „Aussage fehlt, deshalb Note vier" ohne Funktions- und Kontextprüfung.
+- Internet-Codelexikon als alleinige Rechtsquelle.
+- Ergänzung eines Superlativs, obwohl nur die Relevanz des Themenfelds, nicht aber eine Spitzenleistung belegt ist.
+
+## Ausgabeformat
+
+Liefere eine Matrix mit vermisster Aussage, Erwartungsgrund, Aktenfundstelle, möglicher Gegenposition, rechtlicher Relevanz und konkreter Ergänzungsfassung. Das fertige Zeugnis wird in vollständigem Fließtext ausgegeben; Tabellen sind nur Prüf- und Abstimmungswerkzeug.
 
 ---
 
-## Skill: `taetigkeitsbeschreibung-erheben`
+## Skill: `note-1-formeln-leistung`
 
-_Wenn es um Tätigkeitsbeschreibung erheben in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arbeitsweise, Qualität, Menge und Erfolg konsistent ab. Liefert eine glaubwürdige Bestnotenfassung plus Belegcheck für ein mögliches Berichtigungsverfahren._
 
-# Tätigkeitsbeschreibung erheben
+# Note 1 — Formeln Leistung
 
 ## Ziel
 
-Einen vollständigen Aufgabenblock generieren, der die tatsächliche Funktion widerspiegelt. Ein zu dünner Aufgabenblock ist ein eigenständiges Qualitätsproblem — fehlende Schlüsselverantwortungen sind implizite Negativsignale.
+Eine sehr gute Gesamtbewertung aus nachweisbaren Spitzentatsachen entwickeln. Die etablierte Zufriedenheitsformel ordnet die Gesamtbewertung ein; Einzelsätze werden aus Funktion und Belegen formuliert und nicht mit einer Mindestzahl von Superlativen gefüllt.
 
-## Eingang — was wird abgefragt
+## Hauptformel (Zufriedenheitsformel)
 
-Der Generator fragt nach:
+**Etablierte Gesamtformel:**
+> Alle ihr/ihm übertragenen Aufgaben erledigte sie/er stets zu unserer vollsten Zufriedenheit.
 
-1. **Kernaufgaben** — Was waren die drei bis fünf Hauptverantwortlichkeiten?
-2. **Führungsverantwortung** — Wie viele Personen, direkt oder indirekt unterstellt?
-3. **Budget/P&L** — Verantwortete die Person ein Budget oder Ergebnisziele?
-4. **Externe Repräsentation** — Kundenkontakt, Lieferantenverhandlungen, Behördenkontakte?
-5. **Besondere Projekte** — Projektleitung, Implementierungen, Restrukturierungen?
-6. **Berichte/Schnittstellen** — An wen berichtet, welche Abteilungen koordiniert?
+Die Formel soll die vorangehenden Einzelsätze zusammenfassen. Ihre Position folgt dem lesbaren Aufbau; eine zusätzliche Häufung wie „vollsten und uneingeschränkten" ist regelmäßig entbehrlich.
 
-## Generier-Regeln
+## Einzelsatz-Formeln Note 1
 
-- Aktive Verben verwenden: „verantwortete", „führte", „koordinierte", „entwickelte", „leitete" — nicht „war zuständig für" oder „wurde eingesetzt".
-- Aufzählung in Fließtext, nicht in Spiegelstrichen — qualifiziertes Zeugnis erfordert Fließtext (BAG, Urteil v. 27.04.2021 – 9 AZR 262/20).
-- Führungsabschnitt mit konkreter Mitarbeiterzahl nennen: „mit zwölf direkt unterstellten Mitarbeiterinnen und Mitarbeitern" — nicht „mit einem Team".
-- Branchenspezifische Pflichtaussagen einbauen:
+### Fachkenntnisse
+> Frau/Herr [Name] verfügt über hervorragende Fachkenntnisse, die sie/er stets sicher, souverän und mit außerordentlichem Erfolg eingesetzt hat.
 
-| Branche | Pflichtformulierung im Aufgabenblock |
+> Ihre/Seine Fachkenntnisse übertreffen die Anforderungen der Position in allen Bereichen.
+
+### Arbeitsweise
+> Ihre/Seine Arbeitsweise war stets strukturiert, präzise und ergebnisorientiert.
+
+> Sie/Er arbeitete stets äußerst sorgfältig, planvoll und mit höchster Zuverlässigkeit.
+
+> Alle Aufgaben führte sie/er jederzeit vollkommen selbstständig, äußerst sorgfältig und planvoll durch.
+
+### Ergebnisse und Zielerreichung
+> Auch in Phasen hoher Arbeitsbelastung behielt sie/er stets die Übersicht und erzielte konstant hervorragende Ergebnisse.
+
+> Ihre/Seine Eigeninitiative und ihr/sein außerordentliches Engagement haben unser Unternehmen maßgeblich vorangebracht.
+
+> Sie/Er übertraf ihre/seine Ziele im gesamten Beobachtungszeitraum durchgehend.
+
+### Analytische und konzeptionelle Stärke
+> Ihr/Sein strategisches Denkvermögen ermöglichte es ihr/ihm, auch bei neuen Entwicklungen stets in kürzester Zeit optimale Lösungen zu entwickeln.
+
+> Sie/Er entwickelte stets hervorragende innovative Lösungsansätze, die nachhaltig umgesetzt wurden.
+
+### Engagement
+> Ihr/Sein Engagement ging weit über das gewöhnliche Maß hinaus.
+
+> Sie/Er zeigte zu jeder Zeit außerordentliche Einsatzbereitschaft und Motivation.
+
+## Adverbien und Verstärker (Note 1)
+
+Die folgenden Wörter können bei passender Tatsachengrundlage verwendet werden; keines davon ist außerhalb der etablierten Gesamtformel zwingend:
+
+| Adverb | Einsatz |
 |---|---|
-| Vertrieb | Kundenbindung, Neukundengewinnung, Zielerreichung |
-| Finanzwesen/Buchhaltung | Zuverlässigkeit, Genauigkeit, Vertrauen |
-| Pflege | Patientenversorgung, Empathie |
-| IT | Projektumsetzung, Technologiekompetenz |
-| Einzelhandel | Kassenführung, Warenkenntnis |
+| stets | vor Hauptformel und zentralen Einzelsätzen |
+| jederzeit | Variante zu „stets" |
+| vollsten | in der Hauptformel zwingend |
+| äußerst | bei Fachkenntnissen und Arbeitsweise |
+| außerordentlich | bei Engagement und Ergebnissen |
+| uneingeschränkt | Verstärkung der Hauptformel |
+| in höchstem Maße | bei besonderen Einzelleistungen |
 
-## Beispiel aus dem Quellmaterial
+## Qualitätscheck vor Ausgabe
 
-Vollständiger Aufgabenblock aus Muster 1 (Note 1):
-
-> Frau Musterfrau verantwortete die vollständige Führung unserer Controlling-Abteilung mit zwölf direkt unterstellten Mitarbeiterinnen und Mitarbeitern. Sie war zuständig für die monatliche Ergebnisberichterstattung an den Vorstand, die Erstellung der Jahresplanung und des mittelfristigen Finanzplans, die Durchführung von Abweichungsanalysen sowie die Koordination externer Prüfungsgesellschaften.
+- Enthält die Hauptformel „stets" und „vollsten"?
+- Belegen mindestens zwei konkrete Tatsachen die überdurchschnittliche Qualität oder den besonderen Erfolg?
+- Bleiben Unterschiede zwischen einzelnen Merkmalen sachlich erklärbar?
+- Fasst die Gesamtformel die belegte Bewertung widerspruchsfrei zusammen?
 
 ## Stolpersteine
 
-- Aufgaben aus dem Arbeitsvertrag übernehmen, ohne zu prüfen, ob die Person sie tatsächlich ausgeübt hat — Zeugniswahrheit gilt auch hier.
-- Schlüsselaufgaben weglassen, weil der Nutzer sie für selbstverständlich hält: Das Fehlen ist ein Negativsignal (z.B. Kassierer ohne Kassenaussage).
-- Aufgaben im Passiv formulieren: „war verantwortlich für ..." schwächt den Eindruck gegenüber „verantwortete ...".
+- „stets zur vollen Zufriedenheit" ist Note 2, nicht Note 1 — der Unterschied liegt im „vollsten".
+- Maximalsteigerer in jeden Satz zu packen wirkt unglaubwürdig und verdeckt den Tatsachenkern. Gezielt und belegbezogen einsetzen.
+- Alle Einzelsätze auf Note 1 formulieren, aber die Hauptformel vergessen oder auf Note 2 setzen — das ist Drift.
 
 ## Anti-Muster
 
-- Aufgabenblock als Spiegelstrichliste statt Fließtext.
-- Führungsverantwortung ohne Zahl der unterstellten Personen.
-- Aufgaben aufblasen, die die Person faktisch nicht ausübte — Verstoß gegen Zeugniswahrheit.
-- Budget oder P&L-Verantwortung ohne Belege nennen lassen.
+- Hauptformel „zur vollen Zufriedenheit" (Note 2) verwenden und trotzdem behaupten, es sei ein Note-1-Zeugnis.
+- Superlative ohne Tatsachenkern stapeln: „stets hervorragend, exzellent, außerordentlich, überragend" in einem Satz ist Ironie-Risiko.
+- Ergebnisbehauptungen ohne konkrete Referenzpunkte: „steigerte den Umsatz um 400 Prozent" ohne Belastbarkeit.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 13 und 19 bis 24: „stets zur vollsten Zufriedenheit" steht für eine sehr gute Gesamtbewertung; der Arbeitnehmer muss die hierfür erforderlichen überdurchschnittlichen Tatsachen darlegen und beweisen.
+- BAG, Urteil vom 14.10.2003 - 9 AZR 12/03: Ausgangspunkt der Darlegungs- und Beweislast ist die durchschnittliche Bewertung; eine bessere Beurteilung verlangt konkrete Tatsachen.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Einzelmerkmale sind individuell zu gewichten, nicht als gleichförmige Notenliste abzubilden.
+
+Liefere zuerst eine Belegmatrix mit Merkmal, Spitzentatsache, Zeitraum und Quelle. Fehlt die Grundlage, gib eine vorläufige Fassung mit offen markierter Beleglücke statt einer unbelegten Bestnote aus.
 
 ## Ausgabeformat
 
 Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
-
----
-
-## Skill: `rollen-und-harness-wahl`
-
-_Wenn es um Rollen und Harness-Wahl in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Rollen und Harness-Wahl
-
-## Ziel
-
-Das richtige Generier-Harness aktivieren, damit Aufbau, Pflichtaussagen und Bewertungsachsen zur Zeugnisart passen.
-
-## Eingang — was wird abgefragt
-
-- Liegt eine Beendigung des Arbeitsverhältnisses vor oder läuft es noch?
-- Handelt es sich um ein Ausbildungsverhältnis nach BBiG?
-- Hat der Arbeitnehmer ausdrücklich ein qualifiziertes Zeugnis verlangt oder genügt ein einfaches?
-- Ist es ein Praktikum (keine gesetzliche Grundlage in Paragraf 109 GewO, aber analoge Anwendung üblich)?
-
-## Harness-Übersicht
-
-| Harness | Rechtsgrundlage | Pflichtinhalt | Leistung/Verhalten |
-|---|---|---|---|
-| Qualifiziertes Zeugnis | Paragraf 109 Abs. 1 S. 3 GewO | Art, Dauer, Leistung, Verhalten, Schluss | ja, immer |
-| Einfaches Zeugnis | Paragraf 109 Abs. 1 S. 1-2 GewO | Art und Dauer der Tätigkeit | nein |
-| Zwischenzeugnis | Paragraf 109 GewO analog, BAG-Linie | wie qualifiziertes Zeugnis, bezogen auf laufenden Zeitabschnitt | ja |
-| Ausbildungszeugnis | Paragraf 16 BBiG | Ausbildungsberuf, -dauer, erworbene Fertigkeiten; Leistung/Verhalten nur auf Verlangen | auf Verlangen |
-
-## Generier-Regeln
-
-- Qualifiziertes Zeugnis: immer Fließtext, nie Ankreuzschema (BAG, Urteil v. 27.04.2021 – 9 AZR 262/20).
-- Zwischenzeugnis: Präsens verwenden, kein Vergangenheitstempus; keine Beendigungsaussage.
-- Ausbildungszeugnis: Lernfortschritt und Berufsschule explizit ansprechen bei dualer Ausbildung.
-- Praktikumszeugnis: kein gesetzlicher Anspruch auf Leistungs-/Verhaltensaussage, aber üblich; nach Wunsch generieren.
-
-## Beispiele
-
-Wählt ein Mitarbeiter nach neun Jahren qualifiziertes Zeugnis: Harness „qualifiziert" aktivieren, Führungsabschnitt prüfen, Schlussformel mit allen fünf Bausteinen anbieten.
-
-Verlangt ein Auszubildender nach bestandener Prüfung nur ein einfaches Zeugnis: Harness „Ausbildungszeugnis einfach" — nur Ausbildungsberuf und -dauer, keine Bewertung.
-
-## Stolpersteine
-
-- Arbeitgeber erteilt von sich aus nur ein einfaches Zeugnis; Arbeitnehmer hat aber nach Paragraf 109 Abs. 1 S. 3 GewO Anspruch auf das qualifizierte — Generator muss darauf hinweisen.
-- Zwischenzeugnis darf keine Beendigungsformulierung enthalten, sonst signalisiert es das Ende des Arbeitsverhältnisses.
-- Harness-Wahl beeinflusst alle Pflichtaussagen — nachträglicher Wechsel erfordert vollständige Neugenerierung.
-
-## Anti-Muster
-
-- Für ein Ausbildungszeugnis dasselbe Template wie für ein Führungskräfte-Zeugnis verwenden.
-- Ein Zwischenzeugnis mit Schlussformel („Wir bedauern es ...") versehen, die das Ende andeutet.
-- Praktikumszeugnis ohne Hinweis erstellen, dass kein gesetzlicher Anspruch auf Bewertung besteht.
-
----
-
-## Skill: `schlussformel-baukasten`
-
-_Wenn es um Schlussformel-Baukasten in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Schlussformel-Baukasten
-
-## Ziel
-
-Eine vollständige, zur Gesamtnote passende Schlussformel generieren. Die Schlussformel ist kein automatischer Klagepunkt, aber das stärkste Signal im Bewerbungsverkehr.
-
-## Die fünf Bausteine der Schlussformel
-
-Eine vollständige Schlussformel (Note 1 bis 2) enthält alle fünf Bausteine:
-
-| Baustein | Funktion | Beispiel |
-|---|---|---|
-| 1. Bedauern | signalisiert echten Verlust | „Wir bedauern es außerordentlich, Frau X zu verlieren" |
-| 2. Dank | Wertschätzung für geleistete Arbeit | „und danken ihr herzlich für ihre hervorragenden Leistungen" |
-| 3. Beruflicher Wunsch | gute Wünsche für die Karriere | „für ihren weiteren beruflichen Weg" |
-| 4. Persönlicher Wunsch | Interesse an der Person | „und persönlichen Weg alles erdenklich Gute" |
-| 5. Erfolgswunsch | zukunftsorientierter Abschluss | „und weiterhin viel Erfolg" |
-
-## Vollständige Schlussformel (Note 1)
-
-> Frau/Herr [Name] scheidet auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies außerordentlich und danken ihr/ihm herzlich für ihre/seine hervorragenden Leistungen, ihren/seinen unermüdlichen Einsatz und ihren/seinen wertvollen Beitrag zum Erfolg unseres Unternehmens. Für ihren/seinen weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm nur das Allerbeste und weiterhin großen Erfolg.
-
-## Varianten nach Notenbereich
-
-### Vier Bausteine (Note 2)
-> Wir danken Frau/Herrn [Name] herzlich für ihre/seine sehr guten Leistungen und ihren/seinen engagierten Einsatz. Für ihren/seinen weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm alles Gute und weiterhin viel Erfolg.
-
-### Drei Bausteine (Note 3)
-> Wir danken Frau/Herrn [Name] für ihre/seine Mitarbeit und wünschen ihr/ihm für den weiteren beruflichen und persönlichen Weg alles Gute.
-
-### Zwei Bausteine / kühler Schluss (Note 3 bis 4)
-> Wir danken Frau/Herrn [Name] für ihre/seine Mitarbeit und wünschen ihr/ihm für die Zukunft alles Gute.
-
-### Sachlich-kalter Schluss (Signal Note 4)
-> Frau/Herr [Name] scheidet auf eigenen Wunsch aus. Wir wünschen ihr/ihm für die Zukunft alles Gute.
-
-## Bedauern-Varianten nach Kontext
-
-| Kontext | Bedauern |
-|---|---|
-| Eigenkündigung, Note 1 | „Wir bedauern dies außerordentlich" |
-| Eigenkündigung, Note 2 | „Wir bedauern es, Frau/Herrn [Name] zu verlieren" |
-| Arbeitgeberkündigung | kein Bedauern (wäre unglaubwürdig) |
-| Aufhebungsvertrag | optional Bedauern bei gutem Verhältnis |
-
-## Rechtlicher Hintergrund
-
-Nach BAG, Urteil v. 20.02.2001 – 9 AZR 44/00 und BAG, Urteil v. 11.12.2012 – 9 AZR 227/11 besteht kein gesetzlicher Anspruch auf eine Schlussformel mit Dank und guten Wünschen. Das Fehlen macht das Zeugnis nicht unvollständig. Ist eine Schlussformel einmal erteilt, kann der Arbeitgeber sie in einer Folgefassung nicht ohne weiteres streichen — das wäre ein Verstoß gegen das Maßregelungsverbot (BAG, Urteil v. 06.06.2023 – 9 AZR 272/22).
-
-## Stolpersteine
-
-- Bedauern bei Arbeitgeberkündigung einbauen — das klingt unglaubwürdig und wirkt ironisch.
-- Note-1-Leistungsabschnitt mit Drei-Bausteine-Schluss kombinieren — das ist Drift.
-- Zukunftswunsch mit negativem Subtext: „wünschen ihr für die Zukunft mehr Erfolg" (riskante Lesart: bisher erfolglos).
-
-## Anti-Muster
-
-- Schlussformel automatisch weglassen, weil es keinen Anspruch gibt — sie hat reale Signalwirkung.
-- Bei Arbeitgeberkündigung eine vollständige Schlussformel generieren, die unglaubwürdig wirkt.
-- „wünschen ihm Gesundheit" als freundliche Geste — riskante Krankheits-Lesart.
-
-## Ausgabeformat
-
-Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
-
-## v392 Schlussformel nach Sonderzweck
-
-Bei Zwischenzeugnissen wird kein Ausscheiden behauptet; der Abschluss dankt für die bisherige Mitarbeit und erwartet eine weitere gute Zusammenarbeit. Bei Zeugnisberichtigung wird geprüft, ob eine frühere Schlussformel bereits erteilt war. Bei Prozessvergleich wird die Schlussformel als Verhandlungsbestandteil formuliert, aber nicht als zwingender gesetzlicher Anspruch dargestellt. Bei Arbeitgeberkündigung wird Bedauern nur verwendet, wenn es zum Sachverhalt passt.
-
----
-
-## Skill: `rechtlicher-anker-109-gewo`
-
-_Wenn es um Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen
-
-## Ziel
-
-Den Generator auf ein korrektes Rechtsfundament stellen. Alle generierten Zeugnisse und Hinweise müssen mit diesen Normen vereinbar sein.
-
-## Paragraf 109 GewO — Zeugnisanspruch
-
-- **Paragraf 109 Abs. 1 S. 1 und 2 GewO:** Bei Beendigung eines Arbeitsverhältnisses hat der Arbeitnehmer Anspruch auf ein schriftliches Zeugnis. Dieses muss mindestens Angaben zu Art und Dauer der Tätigkeit enthalten (einfaches Zeugnis).
-- **Paragraf 109 Abs. 1 S. 3 GewO:** Auf Verlangen muss das Zeugnis auch Angaben zu Leistung und Verhalten im Arbeitsverhältnis enthalten (qualifiziertes Zeugnis).
-- **Paragraf 109 Abs. 2 S. 1 GewO:** Das Zeugnis muss klar und verständlich formuliert sein.
-- **Paragraf 109 Abs. 2 S. 2 GewO:** Geheimzeichen oder Formulierungen, die etwas anderes als aus der Wortwahl ersichtlich aussagen, sind unzulässig.
-- **Paragraf 109 Abs. 3 GewO (neu seit 1.1.2025):** Elektronische Form mit Einwilligung des Arbeitnehmers und qualifizierter elektronischer Signatur (Paragraf 126a BGB) ist zulässig. Davor war die elektronische Form ausgeschlossen.
-
-## Paragraf 16 BBiG — Ausbildungszeugnis
-
-- **Paragraf 16 Abs. 1 BBiG:** Anspruch auf einfaches Zeugnis bei Beendigung des Berufsausbildungsverhältnisses.
-- **Paragraf 16 Abs. 2 BBiG:** Qualifiziertes Zeugnis mit Angaben zu Verhalten und Leistung nur auf Verlangen.
-- Elektronische Form mit Einwilligung und qualifizierter elektronischer Signatur seit 1.8.2024 zulässig (Berufsbildungsvalidierungs- und -digitalisierungsgesetz).
-
-## Paragraf 241 Abs. 2 BGB und Paragraf 280 Abs. 1 BGB
-
-Nebenpflicht des Arbeitgebers, ein leistungsgerechtes, wahres und klares Zeugnis zu erteilen. Verletzt er diese Pflicht schuldhaft, etwa durch ein bewusst oder fahrlässig entwertendes Zeugnis, verspätete Erteilung trotz konkreten Schadens oder unvertretbare Negativcodes, kann der Arbeitnehmer Schadensersatz verlangen. Der Generator kennzeichnet deshalb jede risikoträchtige Abwertung mit Belegbedarf und Arbeitgeber-Beweislast.
-
-## Weitere relevante Normen
-
-| Norm | Relevanz |
-|---|---|
-| Paragraf 612a BGB | Maßregelungsverbot — Schlussformel darf nach Berichtigungsverlangen nicht gestrichen werden |
-| Paragraf 269 BGB | Holschuld — Zeugnis ist im Betrieb abzuholen |
-| Paragraf 195 und 199 BGB | Regelmäßige Verjährung drei Jahre |
-| Paragraf 2 Abs. 1 Nr. 3 ArbGG | Zuständigkeit Arbeitsgericht |
-| Paragraf 12a ArbGG | Keine Anwaltskostenerstattung in erster Instanz |
-
-## Beweislastregel
-
-- Note 3 (befriedigend / zur vollen Zufriedenheit) ist der Ausgangspunkt.
-- Besser als Note 3 möchte: Arbeitnehmer trägt Darlegungs- und Beweislast (BAG, Urteil v. 14.10.2003 – 9 AZR 12/03).
-- Schlechter als Note 3 bescheinigen: Arbeitgeber trägt Darlegungs- und Beweislast (BAG, Urteil v. 18.11.2014 – 9 AZR 584/13).
-
-## Schlussformel und Maßregelung
-
-Dank, Bedauern und Zukunftswünsche sind starke Signale, aber nach der BAG-Linie grundsätzlich nicht als bestimmte Wunschformel erzwingbar. Der sichere Anspruch ist das klare, wahre Zeugnis; taktisch kann eine warme Schlussformel verhandelt werden. Wird eine bereits erteilte Schlussformel nach einem berechtigten Berichtigungsverlangen gestrichen, ist Paragraf 612a BGB als Maßregelungsverbot gesondert zu prüfen.
-
-## Sofortprüfung vor Ausgabe
-
-Vor jedem fertigen Zeugnis prüft der Generator:
-
-1. Stimmen Zeugnisart, Tätigkeitsdauer, Funktion und Unterschrift?
-2. Tragen Aufgabenblock, Leistungsformel, Verhalten und Schlussformel dieselbe Notenlogik?
-3. Gibt es eine verdeckte Abwertung, Auslassung oder ungewöhnliche Reihenfolge?
-4. Ist jede Bewertung schlechter als Note 3 durch Tatsachen belegbar?
-5. Wird ein Sonderzweck wie Zwischenzeugnis, Vergleich, Ausland oder Beförderung sauber sichtbar?
-
-## Verifizierungspflicht
-
-Alle Rechtsprechungsangaben sind als Arbeitsgrundlage eingebettet. Vor jeder Verwendung in einem Schriftsatz, Aufforderungsschreiben oder vor Gericht sind die Entscheidungen erneut auf Fortgeltung und genauen Wortlaut zu verifizieren — über die Entscheidungsdatenbank des BAG, dejure.org oder das Rechtsprechungsportal des Bundes.
-
-## Stolpersteine
-
-- Rechtsprechung aus dem Gedächtnis zitieren statt live zu verifizieren.
-- Elektronische Form ohne ausdrückliche Einwilligung des Arbeitnehmers verwenden.
-- Vergessen, dass Paragraf 109 GewO nur für Arbeitnehmer gilt (nicht für Praktikanten im engeren Sinne).
-
-## Anti-Muster
-
-- Zeugnisanspruch bejahen, obwohl kein Arbeitsverhältnis vorlag.
-- Schriftsatz mit Rechtsprechungsangaben erstellen, ohne vorherige Verifikation.
-- Paragraf 16 BBiG für Arbeitszeugnisse zitieren (gilt nur für Ausbildungsverhältnisse).
 
 ---
 
 ## Skill: `verhalten-vorgesetzte-kollegen-kunden`
 
-_Wenn es um Verhalten gegenüber Vorgesetzten, Kollegen und Kunden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitarbeitern, Kunden und Behörden. Liefert eine belegte, vollständig kontextualisierte Passage und bewertet Reihenfolge oder Auslassung nicht schematisch._
 
 # Verhalten gegenüber Vorgesetzten, Kollegen und Kunden
 
 ## Ziel
 
-Den Verhaltensabschnitt korrekt in der Pflicht-Reihenfolge und mit der richtigen Notenformulierung generieren.
+Den Verhaltensabschnitt für die tatsächlich relevanten Personengruppen klar, vollständig und mit einer zur Tatsachengrundlage passenden Bewertung formulieren.
 
-## Pflicht-Reihenfolge
+## Geschäftsübliche Reihenfolge als Prüfhinweis
 
-Die Reihenfolge im Verhaltensabschnitt ist normiert:
+Häufig wird folgende Reihenfolge verwendet:
 
 1. Vorgesetzte
 2. Kollegen (und Mitarbeiter bei Führungskräften)
 3. Kunden / externe Partner (wenn Kundenkontakt bestand)
 
-Eine falsche Reihenfolge (z.B. Kollegen vor Vorgesetzten) ist ein Berichtigungspunkt. Fehlt eine Gruppe ganz, obwohl sie für die Position relevant war, ist das Schweigen ein Negativsignal.
+Die Reihenfolge ist keine gesetzlich normierte Notenskala. Eine Abweichung oder Auslassung wird nur beanstandet, wenn sie im konkreten Gesamttext aus Sicht eines objektiven Lesers eine unzutreffende Abwertung vermittelt. Nicht vorhandene Kontaktgruppen werden nicht erfunden.
 
 ## Formeln nach Note
 
@@ -489,7 +227,7 @@ Achtung: „stets einwandfrei gegenüber Vorgesetzten und Kollegen" ohne Kundena
 ### Note 4 — Verhalten
 > Das Verhalten gegenüber Vorgesetzten und Kollegen war korrekt.
 
-„Korrekt" allein ist ein Negativsignal — distanziert, kühl, ohne Wärme.
+„Korrekt" beschreibt ein eher zurückhaltendes Niveau. Seine Wirkung hängt von Adverb, Satzumfeld und Gesamtbewertung ab und wird nicht isoliert als feste Note behandelt.
 
 ## Riskante Formulierungen im Verhaltensabschnitt
 
@@ -503,11 +241,11 @@ Achtung: „stets einwandfrei gegenüber Vorgesetzten und Kollegen" ohne Kundena
 
 ## Auslassung als Negativsignal
 
-Fehlt der Kundenkontakt-Satz bei einer Kundenposition, wird das als Kundenproblem gelesen. Fehlt der Kollegen-Satz, wird das als Teamkonflikt gelesen. Immer alle relevanten Gruppen ansprechen.
+Fehlt eine für die Tätigkeit prägende Kontaktgruppe, wird zunächst geprüft, ob das Gesamtzeugnis den Kontakt an anderer Stelle abbildet und welche Tatsachen eine Ergänzung tragen. Aus dem Schweigen allein wird kein konkreter Konflikt behauptet.
 
 ## Qualitätscheck vor Ausgabe
 
-1. Ist die Reihenfolge Vorgesetzte → Kollegen → Kunden eingehalten?
+1. Sind die tatsächlich relevanten Personengruppen erfasst und sinnvoll geordnet?
 2. Sind alle relevanten Gruppen für diese Position erwähnt?
 3. Ist das Adverb (stets, korrekt) konsistent mit der gewählten Leistungsnote?
 4. Keine riskanten Formulierungen aus dem Negativkatalog?
@@ -515,8 +253,8 @@ Fehlt der Kundenkontakt-Satz bei einer Kundenposition, wird das als Kundenproble
 ## Stolpersteine
 
 - Kundenkontakt weglassen, weil der Nutzer ihn nicht explizit erwähnte — bei Außendienst, Vertrieb, Pflege, Handel immer nachfragen.
-- „korrekt" als höfliche Standardformulierung verwenden — es ist ein Negativsignal.
-- Die Reihenfolge umkehren, weil die Formulierung besser klingt — Reihenfolge ist Pflicht.
+- „korrekt" ohne Prüfung des Satz- und Gesamtzusammenhangs als feste Schulnote behandeln.
+- Aus einer abweichenden Reihenfolge automatisch einen Berichtigungsanspruch ableiten.
 
 ## Anti-Muster
 
@@ -524,415 +262,11 @@ Fehlt der Kundenkontakt-Satz bei einer Kundenposition, wird das als Kundenproble
 - Verhaltensabschnitt mit Note 3 formulieren, aber Leistungsabschnitt mit Note 1 — das ist ein Drift-Signal.
 - „brachte sich engagiert in Diskussionen ein" als positiven Verhaltenshinweis verwenden — riskante Konfliktfreude-Lesart.
 
-## Ausgabeformat
-
-Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
-
----
-
-## Skill: `kopfdaten-und-aussere-form`
-
-_Wenn es um Kopfdaten und äußere Form in Arbeitszeugnisgenerator geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Kopfdaten und äußere Form
-
-## Ziel
-
-Die Formalia des Zeugnisses korrekt generieren, damit keine Berichtigungsansprüche aus formalen Mängeln entstehen.
-
-## Prüfposten
-
-| Prüfposten | Soll | Typischer Mangel |
-|---|---|---|
-| Briefkopf | offizielles Firmenpapier mit vollständiger Anschrift | privates Papier, fehlende Anschrift, veraltete Adresse |
-| Datum | Ausstellungsdatum plausibel nahe am Austrittsdatum | fehlendes Datum, unplausibel langes Intervall |
-| Überschrift | „Arbeitszeugnis" oder „Zeugnis" | fehlt oder lautet „Beurteilung" (andere Signalwirkung) |
-| Position | exakte Funktionsbezeichnung, ggf. mit Hierarchiestufe | zu niedrige Bezeichnung, fehlender Titel |
-| Beschäftigungszeitraum | vollständig, ohne Lücken | Lücken, falsches Eintrittsdatum |
-| Aufgabenkatalog | umfassend, Schlüsselverantwortungen erwähnt | unvollständig |
-| Unterschrift | eigenhändig; genau die Person, die in Maschinenschrift steht | andere Person unterschrieben, fehlende Unterschrift |
-| Format | Fließtext | Ankreuzschema, Tabelle, Stichpunkte |
-
-## Unterschrift — Pflicht nach BAG
-
-Nach BAG, Urteil v. 21.09.1999 – 9 AZR 893/98:
-- Schließt das Zeugnis mit Name und Funktion einer Person in Maschinenschrift, muss genau diese Person eigenhändig unterschreiben.
-- Eine Unterzeichnung durch eine andere Person (z.B. HR-Sachbearbeiter statt dem genannten Vorgesetzten) ist ein formaler Mangel.
-- Eine quer durch den Text laufende Unterschrift oder ein Smiley in der Unterschrift sind unzulässige Distanzierungszeichen (LAG Hamm, Beschluss v. 14.11.2016 – 12 Ta 475/16; ArbG Kiel, Urteil v. 18.04.2013 – 5 Ca 80 b/13).
-
-## Fließtextgebot
-
-Ein qualifiziertes Zeugnis in Tabellenform oder als Ankreuzschema erfüllt den Anspruch aus Paragraf 109 GewO regelmäßig nicht (BAG, Urteil v. 27.04.2021 – 9 AZR 262/20).
-
-## Elektronische Form ab 1.1.2025
-
-Seit dem Vierten Bürokratieentlastungsgesetz (in Kraft 1.1.2025) erlaubt Paragraf 109 Abs. 3 GewO die elektronische Form mit Einwilligung des Arbeitnehmers. Voraussetzung: qualifizierte elektronische Signatur (Paragraf 126a BGB). Einfaches PDF, Scan oder E-Mail genügen nicht.
-
-Ohne ausdrückliche Einwilligung gilt: Papierzeugnis mit eigenhändiger Unterschrift.
-
-## Datum-Regeln
-
-- Ausstellungsdatum sollte möglichst nah am Austrittsdatum liegen.
-- Rückdatierung auf den letzten Arbeitstag ist üblich und zulässig.
-- Ausstellungsdatum deutlich nach dem Austrittsdatum kann auf Verweigerung oder Verzögerung hindeuten — kein automatischer Berichtigungspunkt, aber Kontext prüfen.
-
-## Holschuld
-
-Das Zeugnis ist Holschuld des Arbeitnehmers nach Paragraf 269 BGB (BAG, Urteil v. 08.03.1995 – 5 AZR 848/93) — der Arbeitnehmer holt es ab. Nur ausnahmsweise bei Unzumutbarkeit wird daraus eine Schickschuld.
-
-## Generier-Platzhalter für Formalia
-
-```
-[Firmenname] | [Straße, PLZ Ort]
-
-Arbeitszeugnis
-
-[Ort], [Datum]
-
-[Unterschrift]
-[Vorname Nachname]
-[Funktion]
-```
-
-## Stolpersteine
-
-- Unterzeichner und Maschinenschrift-Name stimmen nicht überein — häufiger Praxisfehler.
-- Datum fehlt — ist ein formaler Mangel.
-- Zeugnis auf privatem Briefpapier statt Firmenpapier.
-
-## Anti-Muster
-
-- Datum des Zeugnisses deutlich vor dem Austrittsdatum setzen (noch aktives Arbeitsverhältnis).
-- HR-Generalist als Unterzeichner nennen, obwohl der direkte Vorgesetzte verfügbar wäre.
-- Qualifiziertes Zeugnis mit grafischer Tabelle (Schulnoten-Schema) formatieren.
-
-## Ausgabeformat
-
-Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
-
----
-
-## Skill: `notenwahl-modus`
-
-_Wenn es um Notenwahl-Modus in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Notenwahl-Modus
-
-## Ziel
-
-Die Note sauber festlegen, bevor Formulierungen generiert werden. Eine nachträgliche Notenkorrektur erfordert vollständige Neuformulierung aller Leistungs- und Verhaltenssätze.
-
-## Eingang — was wird abgefragt
-
-Der Generator fragt genau eine Frage:
-
-> „Möchten Sie die Note direkt vorgeben (z.B. Note 2) oder soll ich durch einige Fragen zu Leistung und Verhalten eine Notenempfehlung erarbeiten?"
-
-### Modus A: Direkte Notenvorgabe
-
-Der Nutzer nennt eine Note von 1 bis 5 (oder eine Beschreibung wie „sehr gut", „befriedigend"). Der Generator bestätigt die Zuordnung und wählt die passenden Formeln aus den Note-Katalogen.
-
-Notenskala:
-| Note | Bezeichnung | Zufriedenheitsformel |
-|---|---|---|
-| 1 | sehr gut | stets zur vollsten Zufriedenheit |
-| 2 | gut | stets zur vollen Zufriedenheit |
-| 3 | befriedigend | zur vollen Zufriedenheit |
-| 4 | ausreichend | zur Zufriedenheit |
-| 5 | mangelhaft | im Großen und Ganzen zur Zufriedenheit |
-
-### Modus B: Notenermittlung durch Fragen
-
-Der Generator stellt maximal fünf Fragen:
-
-1. Hat die Person ihre Kernaufgaben vollständig und fristgerecht erfüllt?
-2. Gab es messbare Erfolge (Ziele, Projekte, Umsatz, Qualität)?
-3. Wie war das Verhalten gegenüber Vorgesetzten und Kollegen?
-4. Gab es Beanstandungen oder Abmahnungen?
-5. Empfehlen Sie die Person für eine vergleichbare Stelle?
-
-Aus den Antworten bildet der Generator eine Notenempfehlung und begründet sie. Der Nutzer bestätigt oder korrigiert.
-
-## Rechtlicher Hintergrund
-
-Note 3 (befriedigend / zur vollen Zufriedenheit) ist nach BAG, Urteil v. 14.10.2003 – 9 AZR 12/03 der Ausgangspunkt der Skala. Wer besser als Note 3 bewertet, trägt als Arbeitgeber keine erhöhte Begründungslast — kann es aber tun. Wer schlechter als Note 3 bewertet, muss dies mit konkreten Tatsachen stützen können (BAG, Urteil v. 18.11.2014 – 9 AZR 584/13).
-
-## Generier-Regeln
-
-- Die gewählte Note zieht sich konsistent durch alle Leistungssätze, Verhaltenssätze und die Schlussformel.
-- Brüche zwischen Einzelnoten und der Hauptformel vermeiden (Drift).
-- Für Noten 4 und 5 explizit darauf hinweisen, dass der Arbeitgeber die Darlegungs- und Beweislast trägt — diese Noten sollten nur bei dokumentierten Mängeln vergeben werden.
-
-## Stolpersteine
-
-- Nutzer nennt verbale Beschreibung statt Ziffer: „ein guter Mitarbeiter" kann Note 1 oder Note 2 bedeuten — immer klärende Nachfrage.
-- Verschiedene Noten für Leistung und Verhalten: beides separat erfassen und beide Werte konsistent im Zeugnis umsetzen.
-- Note 5 ohne Begründung ist rechtlich riskant; Generator muss auf Beweislastrisiko hinweisen.
-
-## Anti-Muster
-
-- Note direkt in Formulierung übersetzen ohne Bestätigung durch den Nutzer.
-- Modus B mit mehr als fünf Fragen — der Nutzer muss nicht ein vollständiges Beurteilungsgespräch führen.
-- Unterschiedliche Noten für verschiedene Aufgabenbereiche mitteln, ohne den Nutzer darauf hinzuweisen.
-
----
-
-## Skill: `zeugnisart-ausbildungszeugnis-16-bbig`
-
-_Wenn es um Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG
-
-## Ziel
-
-Ein vollständiges Ausbildungszeugnis nach BBiG generieren, das die Besonderheiten des Ausbildungsverhältnisses berücksichtigt.
-
-## Rechtsgrundlage
-
-- Paragraf 16 Abs. 1 BBiG: Anspruch auf einfaches Zeugnis bei Beendigung des Berufsausbildungsverhältnisses.
-- Paragraf 16 Abs. 2 BBiG: Qualifiziertes Zeugnis mit Angaben zu Verhalten und Leistung nur auf Verlangen.
-- Elektronische Form nur mit Einwilligung der Auszubildenden und qualifizierter elektronischer Signatur (Paragraf 16 Abs. 1 BBiG seit 1.8.2024).
-
-## Pflichtinhalt (einfaches Ausbildungszeugnis)
-
-| Element | Pflicht |
-|---|---|
-| Name und Geburtsdatum | ja |
-| Ausbildungsberuf | ja |
-| Ausbildungszeitraum | ja |
-| Wesentliche Ausbildungsinhalte/Fertigkeiten | ja |
-| Beendigungssatz | ja |
-| Unterschrift des Ausbildenden | ja |
-
-## Zusätzlicher Inhalt (qualifiziertes Ausbildungszeugnis, auf Verlangen)
-
-| Element |
-|---|
-| Lernfortschritt und fachliche Entwicklung |
-| Berufsschulleistungen (bei dualer Ausbildung) |
-| Verhalten gegenüber Ausbildern, Kollegen, Kunden |
-| Engagement und Lernbereitschaft |
-
-## Formulierungen für Lernfortschritt
-
-### Sehr gut (Note 1)
-> Herr/Frau [Name] hat die Ausbildungsinhalte stets schnell und sicher aufgenommen und zeigte großes Interesse an ihrem/seinem Ausbildungsberuf.
-
-> Sie/Er zeichnete sich durch hervorragende Berufsschulleistungen aus.
-
-### Gut (Note 2)
-> Herr/Frau [Name] hat die Ausbildungsinhalte zuverlässig erworben und sicher angewendet.
-
-> Ihre/Seine Leistungen in der Berufsschule waren gut.
-
-### Befriedigend (Note 3)
-> Herr/Frau [Name] hat sich die Ausbildungsinhalte erarbeitet und die Anforderungen erfüllt.
-
-### Ausreichend/Mangelhaft (Note 4 bis 5)
-> Herr/Frau [Name] war bereit, die Ausbildungsinhalte zu erlernen, und hat die Anforderungen im Wesentlichen erfüllt.
-
-„War bereit zu erlernen" ist ein doppeltes Negativsignal — unterdurchschnittlicher Fortschritt.
-
-## Azubi-Codes (Achtung beim Generieren)
-
-| Formulierung | Bedeutung | Bewertung |
-|---|---|---|
-| „schnell und sicher aufgenommen" | hervorragender Lernfortschritt | gruen |
-| „zuverlässig die Ausbildungsinhalte angeeignet" | guter Lernfortschritt | gruen |
-| „hat sich die Inhalte erarbeitet" | befriedigender Fortschritt | orange |
-| „war bereit zu erlernen" | unterdurchschnittlicher Fortschritt | rot |
-| fehlender Berufsschulabschnitt (duale Ausbildung) | Schulprobleme möglich | orange |
-| fehlende Pünktlichkeitsaussage | Fehlzeiten oder Verspätungen | orange |
-
-## Triage-Checkliste
-
-1. Abschlusszeugnis oder Zwischenzeugnis?
-2. Duale Ausbildung — Berufsschulbewertung erforderlich?
-3. Ausbildung abgebrochen — auch dann Anspruch auf Leistungs-/Verhaltensaussage auf Verlangen.
-4. Beendigungsgrund: bestandene Prüfung oder Kündigung/Aufhebung?
-
-## Besonderheit: Abgebrochene Ausbildung
-
-Auch bei abgebrochener Ausbildung besteht Anspruch auf ein einfaches Zeugnis; qualifiziertes Zeugnis auf Verlangen. Beendigungsgrund (Kündigung, Aufhebung) neutral formulieren.
-
-## Stolpersteine
-
-- Berufsschulleistungen weglassen bei dualer Ausbildung — deren Fehlen ist ein Negativsignal.
-- Azubi-Zeugnis mit demselben Template wie Führungskräfte-Zeugnis generieren — andere Terminologie, andere Maßstäbe.
-- „positiv entwickelt" weglassen, obwohl es ein standardisierter Positivcode im Azubi-Bereich ist.
-
-## Anti-Muster
-
-- Qualifiziertes Ausbildungszeugnis erstellen, ohne dass der Auszubildende es verlangt hat.
-- Berufsschulleistungen erfinden, wenn der Nutzer keine Angaben macht.
-- Azubi-Zeugnis ohne Ausbildungsberuf und -zeitraum.
-
-## Ausgabeformat
-
-Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
-
----
-
-## Skill: `steigerungsadverbien-katalog`
-
-_Wenn es um Steigerungsadverbien-Katalog in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Steigerungsadverbien-Katalog
-
-## Ziel
-
-Beim Generieren jedes Leistungssatzes das richtige Adverb wählen, das exakt die gewünschte Note ausdrückt.
-
-## Maximalsteigerer — Note 1
-
-| Adverb | Wirkung | Beispieleinsatz |
-|---|---|---|
-| stets vollsten | Maximalformel, Note 1 | stets zur vollsten Zufriedenheit |
-| jederzeit äußerst | Maximalformel, Note 1 | jederzeit äußerst sorgfältig |
-| vollkommen | Maximalsteigerer, Note 1 | vollkommen selbstständig |
-| äußerst | Maximalsteigerer, Note 1 | äußerst profundes Fachwissen |
-| in höchstem Maße | Maximalsteigerer, Note 1 | in höchstem Maße belastbar |
-| uneingeschränkt | Maximalsteigerer, Note 1 | uneingeschränkt zuverlässig |
-| absolut | Maximalsteigerer, Note 1 | absolut vertrauenswürdig |
-| in allen Belangen | Bereichssteigerer, Note 1 | in allen Belangen überzeugend |
-| außerordentlich | Maximalsteigerer, Note 1 | außerordentliches Engagement |
-
-## Standardsteigerer — Note 1 bis 2
-
-| Adverb | Wirkung | Hinweis |
-|---|---|---|
-| stets | hebt um eine Note | zentrales Adverb für Hauptformel |
-| jederzeit | hebt um eine Note | Variante zu „stets" |
-| immer | hebt um eine Note | seltener im Zeugnis, aber korrekt |
-| durchgehend | hebt um eine Note | für Zuverlässigkeit und Konsistenz |
-| zu jeder Zeit | hebt um eine Note | betonende Variante |
-| ohne Ausnahme | Bereichssteigerer, Note 1 | selten, aber klar positiv |
-
-## Scheinsteigerer — Note 3
-
-Diese Adverbien klingen positiv, signalisieren aber tatsächlich Note 3. Nur einsetzen, wenn Note 3 beabsichtigt ist.
-
-| Adverb | Wirkung | Falle |
-|---|---|---|
-| regelmäßig | Häufigkeit, keine Qualität | klingt nach Note 2, ist Note 3 |
-| im Allgemeinen | Standardlage, Note 3 | Ausnahmen mitgedacht |
-| zumeist | Mehrzahl der Fälle | nicht in Hauptformel |
-| oft | Note 2 bis 3 | Frequenzadverb, kein Qualitätssignal |
-| meist | Note 3 | schwaches Frequenzadverb |
-| häufig | Note 3 | wie „oft" |
-
-## Abschwächer — Note 3 bis 4
-
-Abschwächer signalisieren Einschränkungen und senken die Note. Nie in einer positiven Formulierung verwenden.
-
-| Adverb | Wirkung | Beispiel |
-|---|---|---|
-| überwiegend | Ausnahmen mitgedacht | überwiegend zuverlässig |
-| weitgehend | Ausnahmen mitgedacht | weitgehend ordnungsgemäß |
-| grundsätzlich | Ausnahmen mitgedacht | grundsätzlich pünktlich |
-
-## Starke Negativsteigerer — Note 4 bis 5
-
-| Adverb / Phrase | Wirkung |
-|---|---|
-| im Wesentlichen | erhebliche Mängel, Note 4 |
-| im Großen und Ganzen | erhebliche Mängel, Note 4 bis 5 |
-
-## Auslassungsregel
-
-Fehlt ein Steigerer vollständig in der Hauptformel:
-- „zur vollen Zufriedenheit" ohne „stets" = Note 3 (nicht Note 2)
-- „zur Zufriedenheit" ohne jedes Adverb = Note 4
-
-Fehlt der Steigerer an einer einzelnen Stelle im Zeugnis, während er überall sonst gesetzt ist, ist das ein Drift-Signal, das auf eine gezielte Abschwächung hinweist.
-
-## Qualitätscheck
-
-Vor Ausgabe jedes Leistungssatzes prüfen:
-1. Ist das Adverb enthalten?
-2. Entspricht das Adverb der gewünschten Note?
-3. Ist das Adverb konsistent mit allen anderen Sätzen desselben Abschnitts?
-
-## Stolpersteine
-
-- „regelmäßig" als Standardadverb für Note 2 verwenden — es ist ein Scheinsteigerer.
-- „grundsätzlich" als positive Verstärkung einsetzen — es ist ein Abschwächer.
-- Adverb weglassen, weil der Satz „gut klingt" — Note ohne Adverb ist immer eine Stufe schlechter.
-
-## Anti-Muster
-
-- Maximalsteigerer (außerordentlich, vollkommen) in einem Note-3-Zeugnis einsetzen.
-- Abschwächer (überwiegend, weitgehend) in der Hauptformel eines Note-2-Zeugnisses verwenden.
-- Scheinsteigerer (regelmäßig) in der Hauptformel als Note-2-Signal ausgeben.
-
----
-
-## Skill: `zeugnisart-qualifiziert`
-
-_Wenn es um Zeugnisart: Qualifiziertes Arbeitszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Zeugnisart: Qualifiziertes Arbeitszeugnis
-
-## Ziel
-
-Ein vollständiges qualifiziertes Arbeitszeugnis in der korrekten Abfolge und mit allen Pflichtabschnitten generieren.
-
-## Rechtsgrundlage
-
-Paragraf 109 Abs. 1 S. 3 GewO: Der Arbeitnehmer kann verlangen, dass das Zeugnis Angaben zu Leistung und Verhalten im Arbeitsverhältnis enthält.
-
-## Pflichtabschnitte in der Reihenfolge
-
-| Abschnitt | Inhalt | Pflicht |
-|---|---|---|
-| 1. Briefkopf | Unternehmen, Anschrift, Datum | ja |
-| 2. Überschrift | „Arbeitszeugnis" oder „Zeugnis" | ja |
-| 3. Einleitungssatz | Name, Geburtsdatum, Beschäftigungszeitraum, Positionsbezeichnung | ja |
-| 4. Aufgabenbeschreibung | Kernaufgaben, Verantwortungsbereiche, ggf. Führungsumfang | ja |
-| 5. Leistungsbeurteilung | Fachkenntnisse, Arbeitsweise, Ergebnisse, Engagement, Belastbarkeit | ja |
-| 6. Verhaltensbeurteilung | Verhalten gg. Vorgesetzte, Kollegen, Kunden (Reihenfolge!) | ja |
-| 7. Schlussformel | Beendigungssatz, ggf. Bedauern, Dank, Wünsche | empfohlen |
-| 8. Datum und Unterschrift | Ausstellungsort, Datum, Firmenstempel, Unterschrift mit Name und Funktion | ja |
-
-## Formvorschriften
-
-- **Fließtext:** Qualifiziertes Zeugnis muss in Fließtext verfasst sein — kein Ankreuzschema, keine Tabellenform, keine Spiegelstriche (BAG, Urteil v. 27.04.2021 – 9 AZR 262/20).
-- **Papier oder elektronische Form:** Papier ist der Regelfall. Elektronische Form nur mit Einwilligung des Arbeitnehmers und qualifizierter elektronischer Signatur (Paragraf 109 Abs. 3 GewO seit 1.1.2025).
-- **Unterschrift:** Eigenhändige Unterschrift der befugten Person, deren Name und Funktion in Maschinenschrift erscheint (BAG, Urteil v. 21.09.1999 – 9 AZR 893/98).
-
-## Muster-Einleitungssatz
-
-> Frau Anna Musterfrau, geboren am 1. Januar 1985, war vom 1. März 2018 bis zum 28. Februar 2025 in unserem Unternehmen als Leiterin der Abteilung Controlling tätig.
-
-## Muster-Schlussabschnitt
-
-> Frau Musterfrau scheidet auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies außerordentlich und danken ihr herzlich für ihre hervorragenden Leistungen. Für ihren weiteren beruflichen und persönlichen Weg wünschen wir ihr nur das Allerbeste und weiterhin großen Erfolg.
->
-> Musterstadt, 01. März 2025
->
-> [Unterschrift]
-> Max Mustermann
-> Geschäftsführer
-
-## Qualitätscheck vor Ausgabe
-
-1. Sind alle acht Abschnitte vorhanden?
-2. Ist der Verhaltensabschnitt in der richtigen Reihenfolge (Vorgesetzte → Kollegen → Kunden)?
-3. Ist das Zeugnis in Fließtext?
-4. Ist der Unterzeichner befugt?
-5. Stimmt das Ausstellungsdatum mit dem Austrittsdatum überein?
-
-## Stolpersteine
-
-- Leistungsabschnitt vergessen, weil der Nutzer nur den Aufgabenblock übergibt.
-- Verhaltensabschnitt weglassen, weil er „schon im Leistungsabschnitt enthalten ist" — er ist ein eigener Pflichtabschnitt.
-- Schlussformel als Pflichtinhalt ausgeben — sie ist empfohlen, aber nach BAG-Rechtsprechung nicht klagbar.
-
-## Anti-Muster
-
-- Qualifiziertes Zeugnis in Stichpunkten oder Tabellen formatieren.
-- Leistungs- und Verhaltensabschnitt ohne Trennung in einen einzigen Absatz zusammenfassen.
-- Datum des Briefkopfs erheblich nach dem Austrittsdatum setzen ohne Erklärung.
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Entscheidend ist der objektive Empfängerhorizont; isolierte Codelexika tragen die Bewertung nicht.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20 und 27: Die individuellen, prägenden Merkmale und der Gesamtzusammenhang sind maßgeblich.
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Eine Auslassung ist kontextbezogen zu prüfen und darf kein unwahres Bild erzeugen.
 
 ## Ausgabeformat
 
@@ -942,7 +276,7 @@ Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch saube
 
 ## Skill: `bag-leitentscheidungen-beweislast`
 
-_Wenn es um BAG-Leitentscheidungen zur Beweislast in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertungen, Tätigkeitsangaben und behauptete Tatsachen. Liefert eine Beweismittelmatrix mit Anspruchsziel, Ausgangsniveau, Gegenbehauptung und Prozessrisiko._
 
 # BAG-Leitentscheidungen zur Beweislast
 
@@ -1014,74 +348,320 @@ Der Entwurf trennt drei Ebenen: gewünschte Note, belegte Tatsachen und gerichtl
 
 ---
 
-## Skill: `bag-leitentscheidungen-notenstufen`
+## Skill: `einfuehrung-mandantenanliegen`
 
-_Wenn es um BAG-Leitentscheidungen zu Notenstufen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt und dringende Lücken und liefert sofort einen ersten Entwurf oder Berichtigungsvermerk. Fragt nur den nächsten entscheidenden fehlenden Punkt nach._
 
-# BAG-Leitentscheidungen zu Notenstufen
+# Einführung und Mandantenanliegen
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens einen blockierenden Punkt nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Ziel
 
-Die relevanten BAG-Entscheidungen zur Notenstufenmatrix kennen und beim Generieren korrekt anwenden.
+Den Auftrag klären, bevor das erste Wort generiert wird. Falsche Rollenannahmen führen zu einem Zeugnis, das die falsche Partei begünstigt oder das falsche Format hat.
 
-## Kernentscheidungen
+## Eingang — was wird abgefragt
 
-### BAG, Urteil v. 14.10.2003 – 9 AZR 12/03
-„Zur vollen Zufriedenheit" entspricht einer durchschnittlichen Leistung (Note 3). Wer eine bessere als die durchschnittliche Beurteilung verlangt, trägt die Darlegungs- und Beweislast. Für eine unterdurchschnittliche Beurteilung trägt der Arbeitgeber die Darlegungs- und Beweislast.
+Wenn die Antwort nicht aus den Unterlagen hervorgeht, bündelt der Generator die folgenden Punkte in einer einzigen kurzen Rückfrage:
 
-**Konsequenz für den Generator:** Note 3 ist der Ausgangspunkt. Noten besser als 3 können frei vergeben werden — bei einer Klage muss der Arbeitnehmer aber nachweisen, dass er die bessere Note verdient. Noten schlechter als 3 erfordern dokumentierte Belege des Arbeitgebers.
+1. **Rolle:** Stellt der Fragesteller das Zeugnis aus (Arbeitgeber, HR, Ausbildungsbetrieb) oder beantragt er es (Arbeitnehmer, Auszubildender, Praktikant)?
+2. **Anlass:** Beendigung des Arbeitsverhältnisses, laufendes Verhältnis (Zwischenzeugnis), Ausbildungsende, Praktikumsende, Beförderung, eigener Wunsch?
+3. **Ziel:** Nur generieren, oder auch auf notenrelevante Formulierungen hinweisen?
 
-### BAG, Urteil v. 18.11.2014 – 9 AZR 584/13
-„Befriedigend" ist die mittlere Note der Zufriedenheitsskala. Der Arbeitnehmer trägt die Darlegungs- und Beweislast für eine bessere Note — auch dann, wenn in der Branche überwiegend gute oder sehr gute Noten vergeben werden. **Branchenüblichkeit verschiebt die Beweislast nicht.**
+Ohne erkennbare Rolle wird nicht stillschweigend für eine Partei entschieden. Der erste Zwischenstand trennt neutral zwischen Ausstellerfassung und Berichtigungsziel; nur die eine blockierende Rollenfrage bleibt offen.
 
-**Konsequenz für den Generator:** Der Generator soll bei Note 3 nicht davon abraten, nur weil die Branche üblicherweise Note 2 vergibt. Das ist zulässig, aber die Beweislast-Realität bleibt beim Arbeitnehmer, der Note 2 einklagen möchte.
+## Fünf Pflichtweichen vor dem ersten Entwurf
 
-### BAG, Urteil v. 15.11.2011 – 9 AZR 386/10
-Der Arbeitgeber hat bei Werturteilen einen Formulierungsspielraum. Grenzen sind Zeugniswahrheit und Zeugnisklarheit. „Kennen gelernt" allein ist kein unzulässiger Geheimcode.
+Wenn der Nutzer nur "mach ein Zeugnis" sagt und keine Unterlagen erkennbar sind, bündele diese fünf Punkte in einer kompakten Eingabezeile und liefere zugleich eine erste Struktur:
 
-**Konsequenz für den Generator:** Innerhalb einer Notenstufe darf der Arbeitgeber zwischen mehreren korrekten Formulierungen wählen. Beispiel: Für Note 2 gibt es Variante A und Variante B — beides ist zulässig.
+| Weiche | Warum sie zählt | Mindestantwort |
+| --- | --- | --- |
+| Funktion | steuert Tätigkeitsblock, Hierarchie und Unterschrift | letzte Positionsbezeichnung und Führungsspanne |
+| Aufgaben | verhindert austauschbaren Text | fünf bis acht prägende Tätigkeiten |
+| Leistungsstufe | legt Hauptformel und Beweislast fest | Note 1 bis 5 oder belegte Tendenz |
+| Verhalten | getrennte Bewertung gegenüber Vorgesetzten, Kollegen, Kunden | Standardreihenfolge und Besonderheiten |
+| Sonderzweck | Zwischenzeugnis, Bewerbungsdruck, Vergleich, Beförderung, Ausland | Zweck mit gewünschtem Ton |
 
-## Notenstufen-Matrix nach BAG-Rechtsprechung
+Fehlt eine Antwort, arbeite mit einem markierten Platzhalter weiter. Nur die Leistungsnote und ein Sonderzweck mit rechtlicher Außenwirkung dürfen den Entwurf stoppen.
 
-| Note | Bezeichnung | Hauptformel | Beweislast |
-|---|---|---|---|
-| 1 | sehr gut | stets zur vollsten Zufriedenheit | kein Streit; Arbeitgeber hat Spielraum |
-| 2 | gut | stets zur vollen Zufriedenheit | kein Streit; Arbeitgeber hat Spielraum |
-| 3 | befriedigend (Ausgangspunkt) | zur vollen Zufriedenheit | Arbeitnehmer trägt Beweislast für bessere Note |
-| 4 | ausreichend | zur Zufriedenheit | Arbeitgeber trägt Beweislast |
-| 5 | mangelhaft | im Großen und Ganzen zur Zufriedenheit | Arbeitgeber trägt Beweislast, erhöht |
+## Prüfraster
 
-## Praktische Konsequenzen
+| Frage | Antwort | Konsequenz |
+|---|---|---|
+| Wer fragt? | Arbeitgeber/HR | Generator produziert fertige Formulierungen aus AG-Perspektive |
+| Wer fragt? | Arbeitnehmer | Generator berät zu Formulierungsrechten und hilft, einen Wunschentwurf zu erstellen |
+| Anlass klar? | ja | Harness (Zeugnisart) wählen |
+| Anlass klar? | nein | Rückfrage nach Beendigungsdatum und Grund |
 
-- Wenn ein Arbeitnehmer Note 2 statt Note 3 möchte: Er muss Vorzeugnis, Boni, Zielvereinbarungen oder andere Belege liefern.
-- Wenn ein Arbeitgeber Note 4 ausgibt: Er muss dokumentieren (Abmahnungen, Leistungsbeurteilungen, Beschwerden).
-- Branchenüblichkeit ist kein Argument vor Gericht.
+## Beispiel aus dem Quellmaterial
 
-## Verifikationspflicht
-
-Alle Angaben sind als Arbeitsgrundlage eingebettet. Vor Verwendung in einem Schriftsatz sind die Entscheidungen erneut über die Entscheidungsdatenbank des BAG, dejure.org oder das Rechtsprechungsportal des Bundes auf Fortgeltung zu prüfen.
+Ein Buchhaltungsleiter, der nach zehn Jahren aus eigenem Antrieb ausscheidet, benötigt ein qualifiziertes Zeugnis mit Führungsabschnitt, Loyalitätsaussage und vollständiger Schlussformel. Ein Praktikant nach sechs Wochen benötigt kein Führungskapitel, aber eine Aussage zu Lernbereitschaft und Engagement.
 
 ## Stolpersteine
 
-- Note 3 als „schlechtes" Zeugnis kommunizieren — es ist der gesetzliche Ausgangspunkt.
-- Beweislast umkehren: bei Note 4 trägt der Arbeitgeber die Last, nicht der Arbeitnehmer.
-- Branchenüblichkeit als Argument für Note 2 einsetzen — das ändert nichts an der Beweislastsituation.
+- Arbeitnehmer reicht einen „Wunschentwurf" ein, der objektiv zu positiv ist und gegen die Zeugniswahrheit verstoßen würde. Der Generator muss auf dieses Risiko hinweisen.
+- Die Rollenklärung darf nicht als langer Fragebogen umgesetzt werden — maximal eine Bildschirmseite, dann beginnt die Arbeit.
+- Wird keine Rolle angegeben, nicht spekulieren: beide denkbaren Zielrichtungen knapp trennen und nur bei unterschiedlicher Rechtsfolge nachfragen.
 
 ## Anti-Muster
 
-- Dem Arbeitnehmer sagen, er habe „automatisch" Anspruch auf Note 2, weil in seiner Branche Note 2 Standard ist.
-- Note 3 mit Note 4 verwechseln — die Formulierungen unterscheiden sich klar.
-- BAG-Entscheidungen ohne Verifikation in Schriftsätzen zitieren.
+- Ohne Rollenklärung direkt mit Formulierungen beginnen.
+- Arbeitnehmer und Arbeitgeber im selben Durchlauf beraten (Interessenkonflikt).
+- Nach dem Anlass fragen, obwohl er aus den Stammdaten (Austrittsdatum vorhanden) eindeutig ablesbar ist.
 
-## v392 Notenanker für die Ausgabe
+## Rechtsprechungsanker für die erste Weiche
 
-Bei jedem Zeugnis wird die Hauptformel mit den Einzelfeldern abgeglichen. Sehr gut verlangt durchgängige Beständigkeit, besondere Qualität und klaren Erfolg. Gut verlangt verlässlich überdurchschnittliche Leistung. Befriedigend ist nicht als Abwertung zu behandeln, sondern als mittlere Ausgangsstufe. Die Schlussformel darf die Hauptnote nicht unterlaufen: Eine sehr gute Leistungsformel mit kaltem Abschluss wird als Drift markiert; ein sehr warmer Abschluss bei schwacher Leistung wird als Wahrheitsrisiko markiert.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Eine bessere als durchschnittliche Bewertung verlangt konkrete Leistungstatsachen; deshalb werden Belege vor Wunschformulierungen ausgewertet.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20: Das qualifizierte Zeugnis muss individuell und zusammenhängend formuliert sein; deshalb startet der Workflow mit Funktion, prägenden Aufgaben und persönlicher Leistung statt mit einer Notentabelle.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21: Dank, Bedauern und Zukunftswünsche sind kein zwingender Inhalt; ein Wunsch nach Schlussformel blockiert den ersten Entwurf nicht.
+
+---
+
+## Skill: `langzeit-arbeitsverhaeltnis`
+
+_Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnden Schwerpunkten. Verdichtet die Historie ohne prägende Tätigkeiten oder Entwicklungsstufen zu verlieren und vermeidet schematische Jahreschroniken._
+
+# Langzeit-Arbeitsverhältnis
+
+## Ziel
+
+Zeugnisse für langjährig Beschäftigte so verdichten, dass Rollenentwicklung, prägende Aufgaben und belastbare Leistungen sichtbar bleiben. Die Dauer allein begründet weder eine besondere Note noch einen Anspruch auf emotionale Schlussformeln.
+
+## Was ein Langzeit-Zeugnis anders macht
+
+Ein zehnjähriges Arbeitsverhältnis hat besondere Merkmale:
+- Die Person hat das Unternehmen maßgeblich mitgeprägt.
+- Loyalität und Verlässlichkeit werden nur hervorgehoben, wenn die Tatsachen sie tragen.
+- Prägende Positionsentwicklung und Karriereschritte müssen für ein zutreffendes Tätigkeitsbild erfasst werden.
+- Der Umfang folgt Tätigkeitsvielfalt und Zeugniszweck, nicht einer festen Seitenzahl.
+
+## Pflicht-Elemente im Langzeit-Zeugnis
+
+| Element | Bedeutung |
+|---|---|
+| Gesamtdauer explizit nennen | „während ihrer zehnjährigen Betriebszugehörigkeit" |
+| Positionsentwicklung oder Beförderungen | muss vollständig abgebildet sein |
+| Langzeitloyalität | nur mit Tatsachengrundlage und Rollenbezug |
+| Beitrag zur Unternehmensentwicklung | bei langen Verhältnissen besonders wichtig |
+| Schlussabschnitt | freiwillig; von der gesetzlichen Leistungsbeurteilung trennen |
+
+## Formulierungen für Langzeit-Aspekte
+
+### Betriebszugehörigkeit hervorheben
+> Während ihrer/seiner zehnjährigen Betriebszugehörigkeit hat Frau/Herr [Name] das Unternehmen maßgeblich mitgestaltet und durch herausragende Leistungen zur Unternehmensentwicklung beigetragen.
+
+> In den [Anzahl] Jahren ihrer/seiner Zugehörigkeit zu unserem Unternehmen hat Frau/Herr [Name] stets überzeugt.
+
+### Langzeitloyalität
+> Frau/Herr [Name] war über all diese Jahre eine verlässliche und loyale Stütze unseres Unternehmens.
+
+> Ihr/Sein langjähriges Engagement und ihre/seine ungebrochene Motivation haben das Unternehmen nachhaltig geprägt.
+
+### Kompetenzentwicklung über die Zeit
+> Im Laufe der Jahre hat Frau/Herr [Name] ihre/seine Kenntnisse und Fähigkeiten kontinuierlich ausgebaut und stets auf dem neuesten Stand gehalten.
+
+> Sie/Er hat sich über die gesamte Beschäftigungszeit fachlich und persönlich weiterentwickelt.
+
+## Schlussformel bei Langzeit-Arbeitsverhältnis
+
+Eine persönliche Schlussformel kann bei langer Betriebszugehörigkeit praktisch naheliegen, ist aber nicht gesetzlich geschuldet. Ihre Länge wird nicht nach Bausteinzahlen bemessen. Gewünscht, bereits erteilt und rechtlich erzwingbar sind drei getrennte Fragen.
+
+**Beispiel für langjährigen Abgang:**
+> Frau/Herr [Name] scheidet nach [Anzahl] Jahren auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies außerordentlich und sind dankbar für den außergewöhnlichen Beitrag, den sie/er in dieser langen Zeit geleistet hat. Für den weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm alles Gute, Gesundheit und weiterhin großen Erfolg.
+
+## Beendigungsgrund bei Langzeit-Verhältnis
+
+Beim Langzeit-Verhältnis ist der Beendigungsgrund besonders signalstark:
+- Eigenkündigung nach zehn Jahren: oft altersbedingt, Familienplanung, Neuorientierung — neutral formulieren.
+- Betriebsbedingte Kündigung nach zehn Jahren: explizit als betriebsbedingt kennzeichnen — das schützt den Arbeitnehmer.
+- Ruhestand: gesonderte Ruhestandsformel empfohlen.
+
+## Stolpersteine
+
+- Zeugnis für eine zehn Jahre tätige Führungskraft mit vier kurzen Sätzen beenden.
+- Positionswechsel während des Langzeit-Verhältnisses nicht aufführen.
+- Die Länge der Schlussformel als festen Notenschlüssel behandeln.
+
+## Anti-Muster
+
+- Standardzeugnis ohne Anpassung für besondere Dauer verwenden.
+- Betriebszugehörigkeit nicht explizit nennen.
+- Karge Schlussformel bei langjähriger Betriebszugehörigkeit.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Das Zeugnis muss die prägenden Tätigkeiten und Eigenschaften individuell gewichten. Bei langen Verläufen verlangt das eine sachgerechte Verdichtung der Rollenentwicklung.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Dank, Bedauern und Zukunftswünsche sind auch nach langer Beschäftigung kein gesetzlicher Pflichtinhalt.
+- BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 14 bis 23 und 35: Eine bereits erteilte Schlussformel darf nicht als Reaktion auf ein zulässiges Berichtigungsverlangen grundlos gestrichen werden; frühere Beurteilungen können zudem für die Tatsachengrundlage bedeutsam sein.
+
+Liefere zunächst eine Rollen- und Zeitachse. Danach folgen ein verdichteter Tätigkeitsblock, die belegte Entwicklung der Leistung und eine separat gekennzeichnete optionale Schlussfassung.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+---
+
+## Skill: `taetigkeitsbeschreibung-erheben`
+
+_Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldungen und gewichtet sie nach Verantwortung. Liefert einen vollständigen, individualisierten Tätigkeitsblock mit Fundstellen und offenen Tatsachenfragen._
+
+# Tätigkeitsbeschreibung erheben
+
+## Ziel
+
+Einen vollständigen Aufgabenblock generieren, der die tatsächliche Funktion widerspiegelt. Ein zu dünner Aufgabenblock ist ein eigenständiges Qualitätsproblem — fehlende Schlüsselverantwortungen sind implizite Negativsignale.
+
+## Eingang — was wird abgefragt
+
+Der Generator fragt nach:
+
+1. **Kernaufgaben** — Was waren die drei bis fünf Hauptverantwortlichkeiten?
+2. **Führungsverantwortung** — Wie viele Personen, direkt oder indirekt unterstellt?
+3. **Budget/P&L** — Verantwortete die Person ein Budget oder Ergebnisziele?
+4. **Externe Repräsentation** — Kundenkontakt, Lieferantenverhandlungen, Behördenkontakte?
+5. **Besondere Projekte** — Projektleitung, Implementierungen, Restrukturierungen?
+6. **Berichte/Schnittstellen** — An wen berichtet, welche Abteilungen koordiniert?
+
+## Generier-Regeln
+
+- Aktive Verben verwenden: „verantwortete", „führte", „koordinierte", „entwickelte", „leitete" — nicht „war zuständig für" oder „wurde eingesetzt".
+- Aufzählung in Fließtext, nicht in Spiegelstrichen — qualifiziertes Zeugnis erfordert Fließtext (BAG, Urteil v. 27.04.2021 – 9 AZR 262/20).
+- Führungsabschnitt mit konkreter Mitarbeiterzahl nennen: „mit zwölf direkt unterstellten Mitarbeiterinnen und Mitarbeitern" — nicht „mit einem Team".
+- Branchenspezifische Pflichtaussagen einbauen:
+
+| Branche | Pflichtformulierung im Aufgabenblock |
+|---|---|
+| Vertrieb | Kundenbindung, Neukundengewinnung, Zielerreichung |
+| Finanzwesen/Buchhaltung | Zuverlässigkeit, Genauigkeit, Vertrauen |
+| Pflege | Patientenversorgung, Empathie |
+| IT | Projektumsetzung, Technologiekompetenz |
+| Einzelhandel | Kassenführung, Warenkenntnis |
+
+## Beispiel aus dem Quellmaterial
+
+Vollständiger Aufgabenblock aus Muster 1 (Note 1):
+
+> Frau Musterfrau verantwortete die vollständige Führung unserer Controlling-Abteilung mit zwölf direkt unterstellten Mitarbeiterinnen und Mitarbeitern. Sie war zuständig für die monatliche Ergebnisberichterstattung an den Vorstand, die Erstellung der Jahresplanung und des mittelfristigen Finanzplans, die Durchführung von Abweichungsanalysen sowie die Koordination externer Prüfungsgesellschaften.
+
+## Stolpersteine
+
+- Aufgaben aus dem Arbeitsvertrag übernehmen, ohne zu prüfen, ob die Person sie tatsächlich ausgeübt hat — Zeugniswahrheit gilt auch hier.
+- Schlüsselaufgaben weglassen, weil der Nutzer sie für selbstverständlich hält: Das Fehlen ist ein Negativsignal (z.B. Kassierer ohne Kassenaussage).
+- Aufgaben im Passiv formulieren: „war verantwortlich für ..." schwächt den Eindruck gegenüber „verantwortete ...".
+
+## Anti-Muster
+
+- Aufgabenblock als Spiegelstrichliste statt Fließtext.
+- Führungsverantwortung ohne Zahl der unterstellten Personen.
+- Aufgaben aufblasen, die die Person faktisch nicht ausübte — Verstoß gegen Zeugniswahrheit.
+- Budget oder P&L-Verantwortung ohne Belege nennen lassen.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+---
+
+## Skill: `zeugnisart-zwischenzeugnis`
+
+_Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbeurteilung ohne Ausscheidensformel. Berücksichtigt Vorgesetztenwechsel, Aufgabenänderung, Betriebsübergang, Elternzeit und spätere Bindungswirkung._
+
+# Zeugnisart: Zwischenzeugnis
+
+## Ziel
+
+Ein Zwischenzeugnis korrekt in Präsens formulieren, ohne Beendigungshinweise und mit einem klar bezeichneten Beurteilungszeitraum.
+
+## Was ist das Zwischenzeugnis?
+
+Das Zwischenzeugnis wird erteilt, während das Arbeitsverhältnis noch läuft. Es dokumentiert Leistung und Verhalten für einen abgeschlossenen Zeitabschnitt und dient häufig als Referenz für Bewerbungen oder bei internen Wechseln.
+
+## Typische Anlässe
+
+- Vorgesetztenwechsel oder Umstrukturierung
+- Beförderung oder Positionswechsel
+- Beginn einer Bewerbungsphase
+- Beginn von Elternzeit oder Pflegezeit
+- bevorstehende Beendigung, wenn das Zwischenzeugnis für Bewerbungen benötigt wird
+
+Ohne tarifliche Regelung setzt der Anspruch einen triftigen Grund voraus. Ein bloßer Wunsch ohne nachvollziehbares Interesse genügt nicht automatisch.
+
+## Formunterschiede zum Endzeugnis
+
+| Merkmal | Endzeugnis | Zwischenzeugnis |
+|---|---|---|
+| Tempus | Vergangenheit | Präsens |
+| Beendigungssatz | ja | nein |
+| Schlussformel | optional, mit Bedauern | optional, ohne Bedauern; stattdessen Wunsch für weiteren Verlauf |
+| Datum | Ausstellungsdatum nach Beendigung | Ausstellungsdatum während des Beschäftigungsverhältnisses |
+| Beurteilungszeitraum | gesamte Beschäftigung | abgeschlossener Zeitabschnitt |
+
+## Einleitungssatz Zwischenzeugnis
+
+> Frau/Herr [Name], geboren am [Datum], ist seit dem [Eintrittsdatum] in unserem Unternehmen als [Positionsbezeichnung] tätig.
+
+> Das folgende Zwischenzeugnis bezieht sich auf den Zeitraum vom [Datum] bis [Datum].
+
+## Leistungsformulierung in Präsens (Beispiel Note 1)
+
+> Frau/Herr [Name] verfügt über hervorragende Fachkenntnisse, die sie/er stets sicher und souverän einsetzt. Alle ihr/ihm übertragenen Aufgaben erledigt sie/er stets zu unserer vollsten Zufriedenheit.
+
+## Schlussformel Zwischenzeugnis
+
+Keine Beendigungsformel. Stattdessen Blick nach vorn:
+> Wir freuen uns auf die weitere Zusammenarbeit und wünschen Frau/Herrn [Name] für ihren/seinen weiteren Berufsweg alles Gute.
+
+Oder bei Elternzeit:
+> Frau [Name] befindet sich derzeit in Elternzeit. Wir freuen uns auf ihre Rückkehr.
+
+## Stolpersteine
+
+- Vergangenheitsformen im Zwischenzeugnis verwenden — das klingt wie ein Endzeugnis und suggeriert Beendigung.
+- Beendigungssatz hinzufügen, der das laufende Verhältnis konterkariert.
+- Schlussformel mit Bedauern über das Ausscheiden — das Arbeitsverhältnis läuft noch.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 20.05.2020 - 7 AZR 100/19, Rn. 42: Ein Zwischenzeugnis ist gesetzlich nicht allgemein geregelt; als vertragliche Nebenpflicht setzt es einen triftigen Grund voraus, etwa bevorstehende Beendigung, Vorgesetztenwechsel oder Tätigkeitsänderung.
+- BAG, Urteil vom 21.06.2005 - 9 AZR 352/04, bestätigt in BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 35: Frühere Wissenserklärungen können eine Selbstbindung begründen; Abweichungen brauchen neue sachliche Umstände.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 16 bis 20: Auch eine Zwischenbeurteilung soll individuell gewichten und nicht auf ein Notenraster reduziert werden.
+
+## Qualitätscheck vor Ausgabe
+
+1. Ist das gesamte Zeugnis in Präsens formuliert?
+2. Kein Beendigungssatz?
+3. Beurteilungszeitraum klar angegeben?
+4. Schlussformel ohne Trennungssignal?
+
+## Anti-Muster
+
+- Endzeugnis-Template mit geändertem Datum als Zwischenzeugnis ausgeben.
+- „scheidet aus" oder „verlässt" im Zwischenzeugnis verwenden.
+- Zwischenzeugnis ohne Zeitraumangabe erstellen.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
 
 ---
 
 ## Skill: `stammdaten-erhebung`
 
-_Wenn es um Stammdaten-Erhebung in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorhandenen Dateien. Liefert eine belegte Stammdatenkarte, markiert Widersprüche und fragt nur entscheidende, nicht aus der Akte lösbare Angaben nach._
 
 # Stammdaten-Erhebung
 
@@ -1123,7 +703,7 @@ Platzhalter niemals stillschweigend erfinden — der Nutzer muss sie explizit be
 
 ## Formalia-Check
 
-Nach Paragraf 109 GewO und BAG, Urteil v. 21.09.1999 – 9 AZR 893/98 muss der Unterzeichner genau die Person sein, deren Name und Funktion am Ende des Zeugnisses in Maschinenschrift erscheint. HR-Sachbearbeiter dürfen nicht für den Vorgesetzten unterzeichnen, wenn dieser namentlich genannt wird.
+Bei Papierform muss die Person unterschreiben, die im Unterschriftsblock mit Name und Funktion ausgewiesen ist. Nach BAG, Urteil vom 21.09.1999 - 9 AZR 893/98 darf neben dem Arbeitgeber ein erkennbar vertretungsberechtigter und gegenüber dem Arbeitnehmer ranghöherer Vertreter unterzeichnen. Deshalb werden Zeichnungsbefugnis, Funktion und Hierarchie geprüft; ein Personalsachbearbeiter ist nicht allein wegen seiner Abteilungszugehörigkeit ausgeschlossen, muss aber als geeigneter Vertreter erkennbar sein. In elektronischer Form treten mit Einwilligung des Arbeitnehmers die qualifizierte elektronische Signatur und Paragraf 126a BGB an die Stelle der eigenhändigen Unterschrift.
 
 ## Stolpersteine
 
@@ -1140,6 +720,506 @@ Nach Paragraf 109 GewO und BAG, Urteil v. 21.09.1999 – 9 AZR 893/98 muss der U
 ## Ausgabeformat
 
 Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+---
+
+## Skill: `revision-und-aenderungswuensche`
+
+_Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründung gegenüber. Prüft Maßregelungsverbot, Wahrheit, Belege, Schlussformel und Folgewirkungen jeder Änderung und liefert eine konsolidierte Fassung._
+
+# Revision und Änderungswünsche
+
+## Ziel
+
+Nachträgliche Änderungen am generierten Zeugnis konsistent und korrekt umsetzen, ohne ungewollte Drift oder Widersprüche zu erzeugen.
+
+## Arten von Änderungswünschen
+
+| Änderungstyp | Anforderung |
+|---|---|
+| Einzelnen Satz ändern | prüfen, ob Notenebene des Satzes zur Gesamtnote passt |
+| Note anpassen (z.B. von Note 3 auf Note 2) | alle Sätze der betroffenen Achse neu generieren |
+| Aufgabenblock ergänzen | neue Aufgaben in den Fließtext integrieren |
+| Schlussformel anpassen | zur neuen Note konsistent wählen |
+| Formalia korrigieren (Name, Datum, Position) | isolierte Änderung ohne Auswirkung auf Inhalt |
+| Gesamtes Zeugnis überarbeiten | Neustart mit bestätigten Stammdaten |
+
+## Konsistenzgebot bei Notenänderung
+
+Ändert sich die Note, müssen alle Sätze der betroffenen Achse angepasst werden. Beispiel: Notenerhöhung von Note 3 auf Note 2 bei Leistung:
+- Hauptformel ändern: „zur vollen Zufriedenheit" → „stets zur vollen Zufriedenheit"
+- Fachkenntnisse-Satz anpassen: „gute Fachkenntnisse" → „sehr gute Fachkenntnisse"
+- Engagement-Satz anpassen: Scheinsteigerer entfernen, Standardsteigerer einsetzen
+- Schlussformel prüfen: passt sie noch?
+
+## Änderungsschutz bei Schlussformel
+
+Nach BAG, Urteil v. 06.06.2023 – 9 AZR 272/22 gilt: Wurde eine Schlussformel bereits einmal erteilt, darf der Arbeitgeber sie nicht allein deshalb streichen, weil der Arbeitnehmer berechtigte Änderungswünsche geltend macht. Das ist ein Verstoß gegen das Maßregelungsverbot (Paragraf 612a BGB).
+
+**Konsequenz für den Generator:**
+Wenn ein Nutzer einen bereits erteilten Text überarbeiten lässt und dabei die Schlussformel verändern oder streichen möchte: Hinweis ausgeben, dass eine einmal erteilte Schlussformel nicht wegen eines Berichtigungsverlangens gestrichen werden darf.
+
+## Revisions-Workflow
+
+1. **Änderungswunsch klären:** Was soll konkret geändert werden?
+2. **Auswirkungscheck:** Welche anderen Sätze sind betroffen?
+3. **Konsistenzcheck:** Passt die Änderung zur Gesamtnote?
+4. **Drift-Check:** Erzeugt die Änderung eine neue Inkonsistenz?
+5. **Ausgabe:** Geänderter Entwurf mit Markierung der geänderten Stellen.
+
+## Markierung von Änderungen
+
+Geänderte Stellen im revidierten Entwurf klar kennzeichnen:
+> **[Geändert]** Alle ihr übertragenen Aufgaben erledigte sie **stets** zu unserer **vollen** Zufriedenheit.
+
+## Hinweise auf rechtliche Grenzen bei Revisionen
+
+### Arbeitgeberkündigung nach Revisionsanfrage
+Nach Paragraf 612a BGB ist eine Maßregelung des Arbeitnehmers wegen Geltendmachung seiner Rechte verboten. Das gilt auch für das Zeugnis: ein nach Berichtigungsverlangen verschlechtertes Zeugnis ist eine Maßregelung.
+
+### Wunschformulierung durch Arbeitnehmer
+Wenn ein Arbeitnehmer einen Wunschentwurf vorlegt, der objektiv zu positiv ist (Note 1 für nachweislich schlechte Leistung), muss der Generator auf die Zeugniswahrheitspflicht hinweisen und ggf. ablehnen.
+
+## Checkliste nach Revision
+
+- Sind alle Leistungssätze konsistent auf der neuen Notenstufe?
+- Sind alle Verhaltenssätze konsistent auf der neuen Notenstufe?
+- Passt die Schlussformel zur neuen Note?
+- Sind keine neuen Drift-Muster entstanden?
+- Sind keine neuen Geheimcodes oder Auslassungen entstanden?
+
+## Stolpersteine
+
+- Einzelnen Satz auf Note 1 ändern, ohne die anderen Sätze auf Note 1 anzuheben — erzeugt Drift.
+- Schlussformel nach Nutzerrevision streichen, ohne auf BAG 9 AZR 272/22 hinzuweisen.
+- Keine Markierung der Änderungen — der Nutzer verliert den Überblick.
+
+## Anti-Muster
+
+- Notenerhöhung ohne Formulierungsanpassung — Schaufenster-Drift.
+- Änderungen akzeptieren, die die Zeugniswahrheit verletzen.
+- Schlussformel bei Revision ohne Prüfung des Erteilungsschutzes streichen.
+
+---
+
+## Skill: `frequenzadverbien-katalog`
+
+_Prüft Wörter wie stets, regelmäßig, häufig, meist und jederzeit in ihrem konkreten Satz- und Gesamtkontext. Trennt Häufigkeitsangabe von Qualitätssteigerung und liefert eine konsistente Ersatzfassung, ohne starre Übersetzungstabellen als Rechtsregel auszugeben._
+
+# Frequenzadverbien-Katalog
+
+## Ziel
+
+Frequenzadverbien von Qualitätsaussagen unterscheiden und ihre Wirkung im konkreten Satz prüfen. Nur die etablierte Zufriedenheitsformel lässt eine vergleichsweise belastbare Noteneinordnung zu; andere Wörter werden nicht mechanisch übersetzt.
+
+## Was ist ein Frequenzadverb?
+
+Frequenzadverbien beschreiben, wie oft etwas geschieht, nicht wie gut es geschieht. In der Zeugnissprache werden sie trotzdem als Qualitätssignale gelesen, weil sie die Erwartung von Kontinuität (impliziert durch „stets") unterschreiten.
+
+## Frequenzadverbien und ihre mögliche Wirkung
+
+| Adverb | mögliche Lesart | Prüffrage |
+|---|---|---|
+| stets | Kontinuität ohne erkennbare Ausnahme | Bezieht es sich auf Qualität oder nur Häufigkeit? |
+| oft, häufig | positive Fälle mit erkennbaren Ausnahmen | Ist die Einschränkung beabsichtigt und belegt? |
+| meist, zumeist | überwiegend, aber nicht durchgehend | Welche Fälle bleiben ausgespart? |
+| regelmäßig | wiederkehrend; nicht automatisch gut oder schlecht | Beschreibt es einen Turnus oder eine Bewertung? |
+| gelegentlich, bisweilen | seltenes Auftreten | Ist das Merkmal überhaupt zeugnisrelevant? |
+
+## Abgrenzung: Frequenzadverb vs. echter Steigerer
+
+| Echter Steigerer | Frequenzadverb |
+|---|---|
+| stets | oft |
+| jederzeit | häufig |
+| immer | regelmäßig |
+| durchgehend | zumeist |
+| zu jeder Zeit | gelegentlich |
+
+Echter Steigerer drückt Ausnahmslosigkeit aus. Frequenzadverb drückt Häufigkeit aus — das ist ein entscheidender Unterschied in der Zeugnisbewertung.
+
+## Einsatzregeln
+
+- In der Zufriedenheitsformel nur eine bewusst gewählte, etablierte Gesamtformel verwenden.
+- In Einzelsätzen Frequenz nur nennen, wenn gerade die Kontinuität eine belegte und relevante Aussage ist.
+- Keine gezielte Abschwächung durch scheinbar freundliche Wörter verstecken; Einschränkungen müssen wahr und klar bleiben.
+
+## Beispiele
+
+**Note-2-Zeugnis mit falschem Frequenzadverb (Fehler):**
+> Sie/Er erledigte die Aufgaben häufig zu unserer vollen Zufriedenheit.
+→ Die Aussage enthält eine erkennbare Einschränkung. Nur durch „stets" ersetzen, wenn die Tatsachen durchgehende Leistung tragen.
+
+**Note-3-Zeugnis mit bewusstem Frequenzadverb (korrekt):**
+> Sie/Er zeigte regelmäßig Engagement und Einsatzbereitschaft.
+→ beschreibt nur wiederkehrendes Engagement; Qualität und Ergebnis bleiben offen.
+
+**Note-4-Signal durch Frequenzadverb:**
+> Sie/Er zeigte gelegentlich Eigeninitiative.
+→ die Eigeninitiative erscheint als Ausnahme. Vor Verwendung prüfen, ob diese Aussage gewollt, relevant und belegt ist.
+
+## Stolpersteine
+
+- „regelmäßig" als vermeintlichen festen Notenschlüssel behandeln.
+- „oft" in der Hauptformel verwenden, ohne die erkennbare Einschränkung zu erklären.
+- Aus „oft sehr gut" ohne Kontext eine exakte Gesamtnote ableiten.
+
+## Anti-Muster
+
+- „regelmäßig" als positiven Standardausdruck ohne Sachbezug verwenden.
+- „gelegentlich" in einer Schlüsselaussage (Zuverlässigkeit, Pünktlichkeit) ohne Bewusstsein über die Note-4-Wirkung einsetzen.
+- Frequenzadverbien in der Hauptformel platzieren.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 13 und 19 bis 24: Die Zufriedenheitsformeln und die Verstärkung durch „stets" sind für die Gesamtbewertung bedeutsam; eine bessere Bewertung bleibt tatsachenabhängig.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Andere Wendungen sind nach objektivem Empfängerhorizont und Gesamtzusammenhang auszulegen.
+
+Gib eine Fundstellenliste aller Frequenzwörter aus. Für jeden Treffer folgen Bezugswort, mögliche Lesart, Tatsachenbeleg und eine klare Ersatzfassung; eine Schulnote wird nur angegeben, soweit die etablierte Gesamtformel sie trägt.
+
+---
+
+## Skill: `compliance-integritaet-formeln`
+
+_Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen. Prüft Kassen-, Finanz-, Personal- und Vertrauenspositionen auf sachgerechte Hervorhebung und vermeidet verdächtig isolierte Ehrlichkeitscodes._
+
+# Compliance- und Integritäts-Formeln
+
+## Ziel
+
+Integrität und Compliance korrekt formulieren und riskante Codes vermeiden, die Vertrauensbrüche oder Loyalitätsprobleme suggerieren.
+
+## Wann ist Integrität ein prägender Bewertungsaspekt?
+
+| Position | Sachgerechter Prüfpunkt |
+|---|---|
+| Kassierer/in, Zahlungsverkehr | Zuverlässigkeit und Ehrlichkeit bei Kassenführung |
+| Buchhaltung, Controlling | Genauigkeit, Vertrauen, Zuverlässigkeit |
+| Führungskräfte | Loyalitätsaussage gegenüber Unternehmensführung |
+| Personalverantwortung | Diskretion und Vertrauenswürdigkeit |
+| IT-Administration, Datenzugang | Vertrauenswürdigkeit im Umgang mit Daten |
+
+Das Fehlen einer isolierten Integritätsformel ist kein automatischer Negativcode. Zu prüfen ist, ob das Zeugnis die prägende Vermögens-, Daten- oder Vertrauensverantwortung insgesamt wahr und aussagekräftig abbildet.
+
+## Formeln nach Note
+
+### Note 1 — Integrität
+> Frau/Herr [Name] handelte stets integer, vertrauenswürdig und im besten Interesse des Unternehmens.
+
+> Ihr/Sein Verhalten war zu jeder Zeit von höchster Loyalität und absoluter Zuverlässigkeit geprägt.
+
+> Vertrauliche Informationen behandelte sie/er stets mit größter Diskretion.
+
+### Note 2 — Integrität
+> Frau/Herr [Name] war stets loyal und verantwortungsbewusst.
+
+> Ihr/Sein Verhalten war stets vertrauenswürdig und regelkonform.
+
+### Note 3 — Integrität
+> Frau/Herr [Name] verhielt sich korrekt und im Rahmen der betrieblichen Anforderungen.
+
+> Sie/Er hielt die betrieblichen Regelungen ein.
+
+### Kassenposition Note 1
+> Frau/Herr [Name] führte die Kasse stets fehlerfrei und mit größter Sorgfalt.
+
+> Alle Abrechnungen erfolgten stets korrekt und nachvollziehbar.
+
+## Riskante Formulierungen (generieren vermeiden)
+
+| Formulierung | Riskante Lesart | Bewertung |
+|---|---|---|
+| „war ehrlich und korrekt (ohne Kontext)" | riskante Eigentums-/Vertrauenslesart | rot |
+| „erledigte die ihm übertragenen Geldgeschäfte zuverlässig" | riskante Vertrauens-/Eigentumslesart | rot |
+| „achtete auf eine korrekte Abrechnung (bei Nicht-Kassenposition)" | riskante Abrechnungsunregelmäßigkeitslesart | rot |
+| „achtete auf die Vertraulichkeit dienstlicher Angelegenheiten (auffällig betont)" | riskantes Verschwiegenheitssignal | rot |
+| „war im Rahmen seiner Fähigkeiten loyal" | riskante Lesart eingeschränkter Loyalität | rot |
+| „identifizierte sich mit den von ihm übernommenen Aufgaben" | Identifikation mit Unternehmen fehlt | orange |
+
+## Betriebsratstätigkeit
+
+Tätigkeiten in einer Interessenvertretung gehören regelmäßig nicht zur geschuldeten Arbeitsleistung. Sie werden nicht ohne dokumentierten Anlass und gesonderte Prüfung von Zweck, Einverständnis und Benachteiligungsrisiko in die Leistungsbeurteilung aufgenommen. Folgende Andeutungen sind jedenfalls zu vermeiden:
+
+| Formulierung | Riskante Lesart |
+|---|---|
+| „setzte sich auch für die Belange der Belegschaft ein" | riskanter Hinweis auf Betriebsratstätigkeit |
+| „brachte sich in Mitarbeiterfragen aktiv ein" | riskanter Hinweis auf gewerkschaftliche Tätigkeit |
+| „nahm seine Mitwirkungsrechte umfassend wahr" | riskanter Hinweis auf aktives Betriebsratsamt |
+
+## Qualitätscheck vor Ausgabe
+
+1. Ist Vermögens-, Daten- oder Vertrauensverantwortung für diese Position prägend und belegt?
+2. Keine riskanten Vertrauens- oder Eigentumsformulierungen?
+3. Keine versteckten Betriebsratstätigkeits-Hinweise?
+4. Bildet der Gesamttext die tatsächlich getragene Verantwortung klar ab?
+
+## Stolpersteine
+
+- Bei Buchhaltern ohne Prüfung des konkreten Aufgabenbilds automatisch eine Ehrlichkeitsformel einsetzen.
+- „loyal und verantwortungsbewusst" formulieren und gleichzeitig keinen Kontext dazu bieten — klingt nach einer Pflichtformulierung ohne Überzeugung.
+- Diskretion betonen, obwohl die Person keine vertraulichen Informationen hatte.
+
+## Anti-Muster
+
+- Kassenposition ohne Integritätsaussage.
+- „hat zur Erfüllung der Aufgaben beigetragen" als Integritätssignal verwenden — das ist nur eine schwache Leistungsaussage.
+- Formulierungen einbauen, die indirekt auf Betriebsratstätigkeit hinweisen.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Ob eine Hervorhebung erwartet wird, richtet sich nach Funktion und objektivem Empfängerhorizont, nicht nach einer starren Pflichtwortliste.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Prägende Eigenschaften sind individuell zu gewichten; gleichförmige Kriterienkataloge reichen nicht.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19: Wahrheit ist der bestimmende Grundsatz; eine positive Integritätsaussage benötigt Tatsachengrundlage.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+---
+
+## Skill: `mehrere-positionen-im-zeugnis`
+
+_Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugnis ein. Liefert Rollenchronologie, Tätigkeitsblöcke und eine Gesamtbewertung, ohne frühere Positionen zu verwischen oder doppelt zu bewerten._
+
+# Mehrere Positionen im Zeugnis
+
+## Ziel
+
+Zeugnisse für Personen korrekt generieren, die während ihrer Beschäftigung die Position gewechselt, befördert wurden oder mehrere Funktionen innehatten.
+
+## Grundregel
+
+Alle für das berufliche Bild prägenden Positionen, Verantwortungsstufen und Aufgabenwechsel werden mit belastbaren Zeiträumen erfasst. Kurzzeitige oder bedeutungslose Vertretungen müssen nicht schematisch aufgezählt werden; ihr Weglassen darf das Tätigkeitsbild aber nicht verfälschen.
+
+## Varianten
+
+### Lineare Beförderung
+Person war zunächst Sachbearbeiter, wurde dann Teamleiter. Klare Aufwärtsentwicklung.
+
+**Formulierung:**
+> Frau/Herr [Name] war zunächst vom [Datum1] bis [Datum2] als [Erstposition] tätig. Zum [Datum2] wurde sie/er zur/zum [Zweitposition] befördert und hatte diese Funktion bis zu ihrem/seinem Ausscheiden am [Datum3] inne.
+
+### Versetzung auf gleicher Ebene
+Positionswechsel ohne Beförderung, z.B. aus einer Abteilung in eine andere.
+
+**Formulierung:**
+> Frau/Herr [Name] war vom [Datum1] bis [Datum2] als [Erstposition] in der Abteilung [Abteilung1] tätig. Ab [Datum2] übernahm sie/er die Funktion als [Zweitposition] in der Abteilung [Abteilung2].
+
+### Mehrere Positionen mit eigenständigen Aufgabenblöcken
+Bei sehr unterschiedlichen Tätigkeiten kann jede Position einen eigenen Aufgabenblock erhalten.
+
+**Formulierung:**
+> **Zeitraum 1 ([Datum1] bis [Datum2]):** Als [Erstposition] verantwortete Frau/Herr [Name] ...
+>
+> **Zeitraum 2 ([Datum2] bis [Datum3]):** Mit der Beförderung zur/zum [Zweitposition] übernahm sie/er ...
+
+## Leistungsbewertung bei mehreren Positionen
+
+### Einheitliche Note über die gesamte Beschäftigungszeit
+Standard bei gleichbleibender Leistungsqualität trotz Positionswechsel.
+
+> Während der gesamten Beschäftigungszeit erledigte Frau/Herr [Name] alle ihr/ihm übertragenen Aufgaben stets zu unserer vollsten Zufriedenheit.
+
+### Positionsweise Bewertung
+Wenn die Leistung in einer Funktion deutlich besser oder schlechter war als in der anderen.
+
+> In ihrer/seiner Funktion als [Erstposition] erledigte Frau/Herr [Name] alle Aufgaben stets zu unserer vollsten Zufriedenheit. In der Funktion als [Zweitposition] hat sie/er die Aufgaben zu unserer vollen Zufriedenheit erledigt.
+
+**Hinweis:** Positionsweise Bewertung ist selten und kann als Hinweis auf Schwierigkeiten in einer Funktion gelesen werden. Nur einsetzen, wenn es sachlich und wahrheitsgemäß erforderlich ist.
+
+## Beförderungsformel
+
+Eine Beförderung ist ein positives Signal und kann hervorgehoben werden:
+> Aufgrund ihrer/seiner hervorragenden Leistungen wurde Frau/Herr [Name] zum [Datum] zur/zum [Neue Position] befördert.
+
+## Projektrollen und temporäre Funktionen
+
+Temporäre Funktionen (Projektleitung, Vertretung, Task Force) können im Aufgabenblock erwähnt werden:
+> Darüber hinaus übernahm Frau/Herr [Name] von [Datum] bis [Datum] die Projektleitung für [Projekt].
+
+## Schlussformel bei Positionswechsel
+
+Die Schlussformel bezieht sich auf das Gesamtverhältnis, nicht auf die letzte Position.
+
+## Stolpersteine
+
+- Nur die letzte Position nennen und dadurch eine prägende Entwicklung oder frühere Kernfunktion verschweigen.
+- Positionsbezeichnungen nicht datieren — führt zu Unklarheit, wann welche Funktion wahrgenommen wurde.
+- Beförderung nicht erwähnen, obwohl sie ein starkes positives Signal ist.
+
+## Anti-Muster
+
+- Alle Positionen ohne Zeitraum in einem Satz zusammenfassen.
+- Positionsweise Bewertung einsetzen, ohne dass sachliche Gründe vorliegen.
+- Temporäre Vertretungsrolle als vollständige Beförderung darstellen.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Prägende Tätigkeiten und Eigenschaften sind individuell zu gewichten; eine bloße Tabelle oder schematische Kriterienfolge genügt nicht.
+- BAG, Urteil vom 21.06.2005 - 9 AZR 352/04, bestätigt in BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 35: Frühere Beurteilungen können eine tatsächliche Selbstbindung begründen. Abweichungen bei späteren Rollen brauchen nachvollziehbare neue Umstände.
+
+Liefere eine Rollenchronologie mit Beginn, Ende, Funktion, prägender Verantwortung, Führungsspanne und Beleg. Danach folgen ein verdichteter Tätigkeitsblock und eine Gesamtbewertung; positionsbezogene Unterschiede werden nur mit dokumentierter Tatsachengrundlage ausgewiesen.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+---
+
+## Skill: `note-5-formeln-leistung`
+
+_Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage. Prüft Dokumentation, Gesamtzusammenhang, Beweislast und Zeugnisklarheit und erzeugt eine sachliche, nicht codierte Fassung samt Warnung vor unbelegten oder ironischen Abwertungen._
+
+# Note 5 — Formeln Leistung
+
+## Ziel
+
+Note-5-Formulierungen korrekt generieren und gleichzeitig das Klagerisiko klar kommunizieren.
+
+## Pflicht-Hinweis vor Generierung
+
+> Hinweis: Eine deutlich unterdurchschnittliche Bewertung ist nur mit konkreten, zeitraumbezogenen Tatsachen vertretbar. Der Arbeitgeber muss die Tatsachen für eine unterdurchschnittliche Leistung darlegen und beweisen. Eine Abmahnung ist dafür keine allgemeine Voraussetzung, kann aber ein Beleg unter mehreren sein.
+
+## Hauptformel (Zufriedenheitsformel)
+
+**Standardformel Note 5:**
+> Alle ihr/ihm übertragenen Aufgaben erledigte sie/er im Großen und Ganzen zu unserer Zufriedenheit.
+
+**Variante:**
+> Ihre/Seine Leistungen entsprachen im Großen und Ganzen unseren Anforderungen.
+
+## Einzelsatz-Formeln Note 5
+
+### Fachkenntnisse
+> Frau/Herr [Name] verfügt über grundlegende Kenntnisse für ihren/seinen Aufgabenbereich.
+
+### Arbeitsweise
+> Sie/Er hat die übertragenen Aufgaben zu erledigen versucht.
+
+> Ihre/Seine Arbeitsweise war im Wesentlichen strukturiert.
+
+### Engagement
+> Sie/Er war bemüht, den Anforderungen gerecht zu werden.
+
+### Belastbarkeit
+> Den üblichen Anforderungen war sie/er weitgehend gewachsen.
+
+## Signalwörter Note 5
+
+| Adverb / Phrase | Wirkung |
+|---|---|
+| im Großen und Ganzen | Hauptsignal Note 5 |
+| zu erledigen versucht | extremes Negativsignal |
+| bemüht, den Anforderungen gerecht zu werden | Note 5 |
+| arbeitete im Rahmen seiner Möglichkeiten | Note 5, Hinweis auf eingeschränkte Leistungsfähigkeit |
+| hat unsere Erwartungen in Teilen erfüllt | Note 4 bis 5 |
+
+## Grenze nach unten: Note 6
+
+Es gibt keine etablierte Standardformel für Note 6 in der deutschen Zeugnissprache. Arbeitgeber, die eine schlechtere Bewertung als Note 5 ausdrücken wollen, stehen vor dem Problem, dass jede Formulierung außerhalb der etablierten Skala gegen das Zeugnisklarheitsgebot (Paragraf 109 Abs. 2 GewO) verstoßen kann.
+
+## Abgrenzung Note 4 / Note 5
+
+| Signal | Note 4 | Note 5 |
+|---|---|---|
+| Hauptformel | zur Zufriedenheit | im Großen und Ganzen zur Zufriedenheit |
+| Fachkenntnisse | ausreichend | grundlegend |
+| Arbeitsweise | nach Anweisung | zu erledigen versucht |
+| Ergebnisse | weitgehend erreicht | in Teilen erreicht |
+
+## Schlussformel bei Note 5
+
+Dank, Bedauern und Zukunftswünsche sind freiwillig und werden gesondert vom gesetzlichen Leistungsabschnitt behandelt. Ihre Länge folgt keiner festen Notenskala. Eine freiwillige freundliche Schlussformel hebt eine belegte Leistungsbewertung nicht automatisch auf.
+
+## Stolpersteine
+
+- „im Großen und Ganzen" in einem Nebensatz verwenden und denken, es sei unschädlich — das Gericht liest es als Hauptsignal Note 5.
+- Note-5-Zeugnis ausstellen, ohne konkrete Leistungstatsachen, Zeiträume, Erwartungen und Belege zusammenzustellen.
+- „hat die Aufgaben versucht zu erledigen" statt „zu erledigen versucht" — Wortstellungsänderung ändert die Schärfe kaum, aber die korrekte Form ist die zitierte.
+
+## Anti-Muster
+
+- Note 5 ohne Dokumentation ausgeben, weil der Arbeitgeber „einfach unzufrieden" war.
+- „im Großen und Ganzen" als harmlosen Füller in einem ansonsten positiven Zeugnis platzieren.
+- Note-5-Zeugnis mit normaler Schlussformel kombinieren.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 14.10.2003 - 9 AZR 12/03: Für eine unterdurchschnittliche Bewertung trägt der Arbeitgeber die Darlegungs- und Beweislast.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19 bis 24: Wahrheit bleibt der bestimmende Grundsatz; die Tatsachengrundlage ist entscheidend, nicht die bloße Wahl einer Formel.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Eine Schlussformel ist kein zwingender Zeugnisinhalt und deshalb nicht mechanisch an die Leistungsnote zu koppeln.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Vermeintliche Codebedeutungen sind am objektiven Empfängerhorizont und am Gesamtzusammenhang zu prüfen.
+
+Liefere zunächst eine Mängelmatrix mit Erwartung, konkretem Vorfall, Zeitraum, Beleg, Stellungnahme des Arbeitnehmers und Gewicht. Erst daraus entsteht eine klare, nicht ironische Fassung; bei Beleglücken wird keine schlechte Bewertung fingiert.
+
+## Ausgabeformat
+
+Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
+
+---
+
+## Skill: `notenwahl-modus`
+
+_Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt eine Wunschziffer ungeprüft zu übernehmen. Liefert eine Achsenbewertung mit Quellenstatus, Unsicherheiten und konsistenter Formulierungsstufe._
+
+# Notenwahl-Modus
+
+## Ziel
+
+Die Note sauber festlegen, bevor Formulierungen generiert werden. Eine nachträgliche Notenkorrektur erfordert vollständige Neuformulierung aller Leistungs- und Verhaltenssätze.
+
+## Eingang — was wird abgefragt
+
+Der Generator fragt genau eine Frage:
+
+> „Möchten Sie die Note direkt vorgeben (z.B. Note 2) oder soll ich durch einige Fragen zu Leistung und Verhalten eine Notenempfehlung erarbeiten?"
+
+### Modus A: Direkte Notenvorgabe
+
+Der Nutzer nennt eine Note von 1 bis 5 (oder eine Beschreibung wie „sehr gut", „befriedigend"). Der Generator bestätigt die Zuordnung und wählt die passenden Formeln aus den Note-Katalogen.
+
+Notenskala:
+| Note | Bezeichnung | Zufriedenheitsformel |
+|---|---|---|
+| 1 | sehr gut | stets zur vollsten Zufriedenheit |
+| 2 | gut | stets zur vollen Zufriedenheit |
+| 3 | befriedigend | zur vollen Zufriedenheit |
+| 4 | ausreichend | zur Zufriedenheit |
+| 5 | mangelhaft | im Großen und Ganzen zur Zufriedenheit |
+
+### Modus B: Notenermittlung durch Fragen
+
+Der Generator stellt maximal fünf Fragen:
+
+1. Hat die Person ihre Kernaufgaben vollständig und fristgerecht erfüllt?
+2. Gab es messbare Erfolge (Ziele, Projekte, Umsatz, Qualität)?
+3. Wie war das Verhalten gegenüber Vorgesetzten und Kollegen?
+4. Gab es Beanstandungen oder Abmahnungen?
+5. Empfehlen Sie die Person für eine vergleichbare Stelle?
+
+Aus den Antworten bildet der Generator eine Notenempfehlung und begründet sie. Der Nutzer bestätigt oder korrigiert.
+
+## Rechtlicher Hintergrund
+
+Note 3 (befriedigend / zur vollen Zufriedenheit) ist nach BAG, Urteil v. 14.10.2003 – 9 AZR 12/03 der Ausgangspunkt der Skala. Wer besser als Note 3 bewertet, trägt als Arbeitgeber keine erhöhte Begründungslast — kann es aber tun. Wer schlechter als Note 3 bewertet, muss dies mit konkreten Tatsachen stützen können (BAG, Urteil v. 18.11.2014 – 9 AZR 584/13).
+
+## Generier-Regeln
+
+- Die gewählte Note zieht sich konsistent durch alle Leistungssätze, Verhaltenssätze und die Schlussformel.
+- Brüche zwischen Einzelnoten und der Hauptformel vermeiden (Drift).
+- Für Noten 4 und 5 explizit darauf hinweisen, dass der Arbeitgeber die Darlegungs- und Beweislast trägt — diese Noten sollten nur bei dokumentierten Mängeln vergeben werden.
+
+## Stolpersteine
+
+- Nutzer nennt verbale Beschreibung statt Ziffer: „ein guter Mitarbeiter" kann Note 1 oder Note 2 bedeuten — immer klärende Nachfrage.
+- Verschiedene Noten für Leistung und Verhalten: beides separat erfassen und beide Werte konsistent im Zeugnis umsetzen.
+- Note 5 ohne Begründung ist rechtlich riskant; Generator muss auf Beweislastrisiko hinweisen.
+
+## Anti-Muster
+
+- Note direkt in Formulierung übersetzen ohne Bestätigung durch den Nutzer.
+- Modus B mit mehr als fünf Fragen — der Nutzer muss nicht ein vollständiges Beurteilungsgespräch führen.
+- Unterschiedliche Noten für verschiedene Aufgabenbereiche mitteln, ohne den Nutzer darauf hinzuweisen.
 
 ---
 

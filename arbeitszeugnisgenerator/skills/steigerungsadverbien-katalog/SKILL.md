@@ -1,51 +1,48 @@
 ---
 name: steigerungsadverbien-katalog
-description: "Wenn es um Steigerungsadverbien-Katalog in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Prüft Steigerungs- und Abschwächungswörter in Leistungs- und Verhaltenssätzen auf konsistente Wirkung im Gesamtzeugnis. Liefert kontextbezogene Alternativen und warnt davor, einzelne Adverbien ohne Tatsachengrundlage als feste Notenschlüssel zu behandeln."
 ---
 
 # Steigerungsadverbien-Katalog
 
 ## Ziel
 
-Beim Generieren jedes Leistungssatzes das richtige Adverb wählen, das exakt die gewünschte Note ausdrückt.
+Steigerungs- und Abschwächungswörter im konkreten Satz und Gesamtzeugnis prüfen. Außerhalb der etablierten Zufriedenheitsformel drücken einzelne Adverbien keine exakte Schulnote aus.
 
-## Maximalsteigerer — Note 1
+## Starke Steigerungswörter
 
 | Adverb | Wirkung | Beispieleinsatz |
 |---|---|---|
-| stets vollsten | Maximalformel, Note 1 | stets zur vollsten Zufriedenheit |
-| jederzeit äußerst | Maximalformel, Note 1 | jederzeit äußerst sorgfältig |
-| vollkommen | Maximalsteigerer, Note 1 | vollkommen selbstständig |
-| äußerst | Maximalsteigerer, Note 1 | äußerst profundes Fachwissen |
-| in höchstem Maße | Maximalsteigerer, Note 1 | in höchstem Maße belastbar |
-| uneingeschränkt | Maximalsteigerer, Note 1 | uneingeschränkt zuverlässig |
-| absolut | Maximalsteigerer, Note 1 | absolut vertrauenswürdig |
-| in allen Belangen | Bereichssteigerer, Note 1 | in allen Belangen überzeugend |
-| außerordentlich | Maximalsteigerer, Note 1 | außerordentliches Engagement |
+| stets zur vollsten Zufriedenheit | etablierte sehr gute Gesamtformel | nur mit Tatsachengrundlage |
+| jederzeit äußerst | sehr starke Aussage | Zeitraum und Bezugsmerkmal prüfen |
+| vollkommen, äußerst | starke Qualitätsaussage | nicht ohne konkreten Beleg stapeln |
+| in höchstem Maße, uneingeschränkt | umfassende Aussage | Ausnahmen und Beobachtungsbasis prüfen |
+| absolut, in allen Belangen | besonders weitreichend | regelmäßig zu pauschal |
+| außerordentlich | deutlich überdurchschnittlich | Ergebnis oder Verhalten konkretisieren |
 
 ## Standardsteigerer — Note 1 bis 2
 
 | Adverb | Wirkung | Hinweis |
 |---|---|---|
-| stets | hebt um eine Note | zentrales Adverb für Hauptformel |
-| jederzeit | hebt um eine Note | Variante zu „stets" |
-| immer | hebt um eine Note | seltener im Zeugnis, aber korrekt |
-| durchgehend | hebt um eine Note | für Zuverlässigkeit und Konsistenz |
-| zu jeder Zeit | hebt um eine Note | betonende Variante |
-| ohne Ausnahme | Bereichssteigerer, Note 1 | selten, aber klar positiv |
+| stets | betont Kontinuität | in der Zufriedenheitsformel notenprägend |
+| jederzeit | betont Kontinuität | Bezugsmerkmal und Zeitraum prüfen |
+| immer | betont Kontinuität | nur bei tragfähiger Beobachtungsbasis |
+| durchgehend | schließt erkennbare Schwankungen aus | Zeitraum konkretisieren |
+| zu jeder Zeit | betont Kontinuität | nicht mit weiteren Verstärkern überladen |
+| ohne Ausnahme | umfassende Aussage | nur bei gesicherter Tatsachengrundlage |
 
-## Scheinsteigerer — Note 3
+## Wörter mit einschränkender oder offener Wirkung
 
-Diese Adverbien klingen positiv, signalisieren aber tatsächlich Note 3. Nur einsetzen, wenn Note 3 beabsichtigt ist.
+Diese Wörter beschreiben Häufigkeit oder Regelmäßigkeit, nicht ohne Weiteres Qualität. Ihre Wirkung ist kontextabhängig.
 
 | Adverb | Wirkung | Falle |
 |---|---|---|
-| regelmäßig | Häufigkeit, keine Qualität | klingt nach Note 2, ist Note 3 |
-| im Allgemeinen | Standardlage, Note 3 | Ausnahmen mitgedacht |
+| regelmäßig | Häufigkeit, keine Qualität | Turnus oder Einschränkung? |
+| im Allgemeinen | Ausnahmen mitgedacht | Welche Ausnahme bleibt offen? |
 | zumeist | Mehrzahl der Fälle | nicht in Hauptformel |
 | oft | Note 2 bis 3 | Frequenzadverb, kein Qualitätssignal |
-| meist | Note 3 | schwaches Frequenzadverb |
-| häufig | Note 3 | wie „oft" |
+| meist | überwiegende Häufigkeit | keine exakte Note |
+| häufig | wiederkehrende Häufigkeit | keine exakte Note |
 
 ## Abschwächer — Note 3 bis 4
 
@@ -66,27 +63,34 @@ Abschwächer signalisieren Einschränkungen und senken die Note. Nie in einer po
 
 ## Auslassungsregel
 
-Fehlt ein Steigerer vollständig in der Hauptformel:
+Für die etablierte Hauptformel gilt:
 - „zur vollen Zufriedenheit" ohne „stets" = Note 3 (nicht Note 2)
 - „zur Zufriedenheit" ohne jedes Adverb = Note 4
 
-Fehlt der Steigerer an einer einzelnen Stelle im Zeugnis, während er überall sonst gesetzt ist, ist das ein Drift-Signal, das auf eine gezielte Abschwächung hinweist.
+Fehlt ein Steigerer an einer einzelnen Stelle, ist dies ein Prüfhinweis, aber noch kein Beweis für eine gezielte Abwertung. Merkmal, Satzbau, Tatsachen und Gesamtzusammenhang entscheiden.
 
 ## Qualitätscheck
 
 Vor Ausgabe jedes Leistungssatzes prüfen:
-1. Ist das Adverb enthalten?
-2. Entspricht das Adverb der gewünschten Note?
-3. Ist das Adverb konsistent mit allen anderen Sätzen desselben Abschnitts?
+1. Welche Tatsachenaussage verstärkt oder beschränkt das Adverb?
+2. Ist diese Reichweite belegt?
+3. Entsteht im Gesamtzusammenhang ein Widerspruch oder eine sachlich vertretbare Differenzierung?
 
 ## Stolpersteine
 
-- „regelmäßig" als Standardadverb für Note 2 verwenden — es ist ein Scheinsteigerer.
+- „regelmäßig" als festen Notenschlüssel verwenden.
 - „grundsätzlich" als positive Verstärkung einsetzen — es ist ein Abschwächer.
-- Adverb weglassen, weil der Satz „gut klingt" — Note ohne Adverb ist immer eine Stufe schlechter.
+- Das Fehlen eines Adverbs außerhalb der Hauptformel automatisch als eine Stufe schlechter bewerten.
 
 ## Anti-Muster
 
 - Maximalsteigerer (außerordentlich, vollkommen) in einem Note-3-Zeugnis einsetzen.
 - Abschwächer (überwiegend, weitgehend) in der Hauptformel eines Note-2-Zeugnisses verwenden.
 - Scheinsteigerer (regelmäßig) in der Hauptformel als Note-2-Signal ausgeben.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 13 und 19 bis 24: In der etablierten Zufriedenheitsskala ist „stets" für die Einordnung bedeutsam; die bessere Gesamtbewertung setzt dennoch konkrete Tatsachen voraus.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Einzelne Wörter sind nach objektivem Empfängerhorizont und Gesamtzusammenhang zu verstehen, nicht nach einer starren Übersetzungsliste.
+
+Liefere eine Trefferliste mit Satz, Bezugsmerkmal, Reichweite, Beleg und Ersatzoption. Eine Notenangabe erfolgt nur für die etablierte Gesamtformel oder als ausdrücklich kontextabhängige Arbeitshypothese.

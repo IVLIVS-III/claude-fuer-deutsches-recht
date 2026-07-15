@@ -76,8 +76,10 @@ Wenn ein **Entwurf** vor Erteilung geprueft werden soll (HR, Geschäftsführung,
    keine mehrdeutigen, ironischen oder überzogenen Formulierungen
    (LAG Hamm 12 Ta 475/16).
 4. Formalia-Check: Fliesstext (BAG 9 AZR 262/20 verbietet Ankreuzschemata),
-   Unterschrift durch genannte Person (BAG 9 AZR 893/98), keine
-   elektronische Form (Paragraf 109 III GewO).
+   bei Papierform Unterschrift durch den im Unterschriftsblock genannten,
+   geeigneten Aussteller (BAG 9 AZR 893/98); elektronische Form nur mit
+   Einwilligung und qualifizierter elektronischer Signatur (Paragraf 109
+   Absatz 3 GewO, Paragraf 126a BGB).
 5. Konsistenz: Hauptformel, Einzelsaetze, Schlussformel auf derselben
    Notenstufe? Drift vermeiden, bevor sie entsteht.
 ```

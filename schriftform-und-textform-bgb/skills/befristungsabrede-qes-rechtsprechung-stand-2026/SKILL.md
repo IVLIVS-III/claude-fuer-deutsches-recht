@@ -109,7 +109,7 @@ Für **Kündigung** und **Aufhebungsvertrag** gilt Paragraf 623 BGB: Schriftform
 |----|----|----|
 | Kündigung des Arbeitsverhältnisses (Paragraf 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; Paragraf 46h ArbGG im Prozess prüfen |
 | Aufhebungsvertrag (Paragraf 623 BGB) | Schriftform — elektronische Form ausgeschlossen | direkt nein; Paragraf 46h ArbGG im Prozess prüfen |
-| Arbeitszeugnis (Paragraf 109 GewO) | Schriftform — elektronische Form ausgeschlossen | **Nein** |
+| Arbeitszeugnis (Paragraf 109 GewO) | Papierform oder mit Einwilligung elektronische Form | ja, mit Einwilligung und qES nach Paragraf 126a BGB |
 
 ## Templates und Hinweise
 

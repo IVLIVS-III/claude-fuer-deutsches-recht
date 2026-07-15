@@ -15,14 +15,21 @@ import io
 import re
 import sys
 import csv
+import json
 import tempfile
+import xml.etree.ElementTree as ET
+from copy import deepcopy
 from email import policy
 from email.parser import BytesParser
+from html import unescape as html_unescape
+from html.parser import HTMLParser
 from pathlib import Path
+
+import yaml
 
 # Drittabhaengigkeiten
 from openpyxl import load_workbook
-from pypdf import PdfReader, PdfWriter
+from pypdf import PageObject, PdfReader, PdfWriter, Transformation
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import cm
@@ -66,6 +73,7 @@ SURFACE = HexColor("#F7F6F2")
 # auf Netzwerk-Downloads, damit das Skript offline laeuft.
 FONT_REG = "Helvetica"
 FONT_BOLD = "Helvetica-Bold"
+A4_PORTRAIT = (float(A4[0]), float(A4[1]))
 
 
 def invariant_canvas(*args, **kwargs):
@@ -126,14 +134,27 @@ s_partlabel = ParagraphStyle(
 )
 
 # Reihenfolge der Datei-Typen im Gesamt-PDF
-TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "odt", "image", "pdf"]
+TYPE_ORDER = [
+    "md",
+    "txt",
+    "eml",
+    "csv",
+    "xlsx",
+    "structured",
+    "docx",
+    "odt",
+    "image",
+    "pdf",
+]
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
+STRUCTURED_EXTS = {"json", "yaml", "yml", "xml", "ics", "abc"}
 TYPE_LABEL = {
     "md": "Aktenstücke",
     "txt": "Notizen und Textdateien",
     "eml": "E-Mails",
     "csv": "CSV-Tabellen",
     "xlsx": "Excel-Tabellen",
+    "structured": "Strukturierte Rohdaten und Kalenderdateien",
     "docx": "Word-Dokumente",
     "odt": "OpenDocument-Textdateien",
     "image": "Bildanlagen und Screenshots",
@@ -273,6 +294,102 @@ def txt_to_flowables(text: str) -> list:
     return out
 
 
+class _MailHTMLTextExtractor(HTMLParser):
+    """Reduziert HTML-Mails auf ihren sichtbaren Text für die PDF-Ausgabe."""
+
+    BLOCK_TAGS = {
+        "address",
+        "blockquote",
+        "br",
+        "div",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "hr",
+        "li",
+        "ol",
+        "p",
+        "table",
+        "td",
+        "th",
+        "tr",
+        "ul",
+    }
+    SKIP_TAGS = {"head", "script", "style"}
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.parts: list[str] = []
+        self.skip_depth = 0
+
+    def handle_starttag(self, tag: str, attrs) -> None:
+        tag = tag.lower()
+        if tag in self.SKIP_TAGS:
+            self.skip_depth += 1
+        elif not self.skip_depth and tag in self.BLOCK_TAGS:
+            self.parts.append("\n")
+
+    def handle_endtag(self, tag: str) -> None:
+        tag = tag.lower()
+        if tag in self.SKIP_TAGS and self.skip_depth:
+            self.skip_depth -= 1
+        elif not self.skip_depth and tag in self.BLOCK_TAGS:
+            self.parts.append("\n")
+
+    def handle_data(self, data: str) -> None:
+        if not self.skip_depth:
+            self.parts.append(data)
+
+    def text(self) -> str:
+        joined = html_unescape("".join(self.parts)).replace("\xa0", " ")
+        lines = [re.sub(r"[ \t]+", " ", line).strip() for line in joined.splitlines()]
+        return "\n".join(line for line in lines if line).strip()
+
+
+def html_mail_to_text(raw_html: str) -> str:
+    parser = _MailHTMLTextExtractor()
+    parser.feed(raw_html)
+    parser.close()
+    return parser.text()
+
+
+def structured_text_to_flowables(path: Path) -> list:
+    """Rendert strukturierte Originaldaten lesbar, ohne ihren Inhalt zu deuten."""
+    try:
+        raw = path.read_text(encoding="utf-8")
+    except UnicodeDecodeError:
+        raw = path.read_text(encoding="latin-1")
+    except Exception as exc:
+        raise DocumentRenderError(f"Strukturierte Datei konnte nicht gelesen werden: {exc}") from exc
+
+    ext = path.suffix.lower()
+    try:
+        if ext == ".json":
+            content = json.dumps(json.loads(raw), ensure_ascii=False, indent=2)
+        elif ext in {".yaml", ".yml"}:
+            content = yaml.safe_dump(
+                yaml.safe_load(raw),
+                allow_unicode=True,
+                sort_keys=False,
+                default_flow_style=False,
+            )
+        elif ext == ".xml":
+            root = ET.fromstring(raw)
+            ET.indent(root)
+            content = ET.tostring(root, encoding="unicode")
+        else:
+            content = raw
+    except Exception as exc:
+        raise DocumentRenderError(f"{ext[1:].upper()} konnte nicht geparst werden: {exc}") from exc
+
+    if not content.strip():
+        raise DocumentRenderError("strukturierte Datei enthält keinen lesbaren Inhalt")
+    return txt_to_flowables(content)
+
+
 def eml_to_flowables(path: Path) -> list:
     out = []
     try:
@@ -281,11 +398,16 @@ def eml_to_flowables(path: Path) -> list:
         headers = [
             ("Von", msg.get("From", "")),
             ("An", msg.get("To", "")),
+            ("Kopie", msg.get("Cc", "")),
             ("Datum", msg.get("Date", "")),
             ("Betreff", msg.get("Subject", "")),
+            ("Anlagen", msg.get("X-Attachments", "")),
         ]
+        headers = [(label, value) for label, value in headers if value]
         body_part = msg.get_body(preferencelist=("plain", "html"))
         body = body_part.get_content() if body_part else ""
+        if body_part and body_part.get_content_type() == "text/html":
+            body = html_mail_to_text(body)
     except Exception as exc:
         raise DocumentRenderError(f"E-Mail konnte nicht gelesen werden: {exc}") from exc
 
@@ -648,6 +770,9 @@ def collect_files(testakte_dir: Path) -> dict[str, list[Path]]:
         if ext in IMAGE_EXTS:
             files_by_type["image"].append(f)
             continue
+        if ext in STRUCTURED_EXTS:
+            files_by_type["structured"].append(f)
+            continue
         if ext not in TYPE_ORDER:
             continue
         files_by_type[ext].append(f)
@@ -704,6 +829,8 @@ def build_text_pdf(
                     rendered = csv_to_flowables(f)
                 elif t == "xlsx":
                     rendered = xlsx_to_flowables(f)
+                elif t == "structured":
+                    rendered = structured_text_to_flowables(f)
                 elif t == "docx":
                     rendered = docx_to_flowables(f)
                 elif t == "odt":
@@ -744,6 +871,36 @@ def build_text_pdf(
     return office_attachments, pdf_attachments, True
 
 
+def a4_normalized_page(source_page):
+    """Setzt nicht-A4-Seiten proportional und zentriert auf einen A4-Bogen.
+
+    Das Aktenstück selbst bleibt unverändert. Die Normalisierung betrifft nur
+    das zusammengeführte Gesamt-PDF, damit Druck, Durchsicht und Seitennavigation
+    nicht zwischen Letter-, A4- und Sonderformaten springen.
+    """
+    page = deepcopy(source_page)
+    if getattr(page, "rotation", 0):
+        page.transfer_rotation_to_content()
+
+    width = float(page.mediabox.width)
+    height = float(page.mediabox.height)
+    portrait = width <= height
+    target_width, target_height = A4_PORTRAIT
+    if not portrait:
+        target_width, target_height = target_height, target_width
+
+    if abs(width - target_width) < 1 and abs(height - target_height) < 1:
+        return page
+
+    scale = min(target_width / width, target_height / height)
+    x_offset = (target_width - width * scale) / 2
+    y_offset = (target_height - height * scale) / 2
+    target = PageObject.create_blank_page(width=target_width, height=target_height)
+    transform = Transformation().scale(scale).translate(x_offset, y_offset)
+    target.merge_transformed_page(page, transform, over=True)
+    return target
+
+
 def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, testakte_name: str) -> None:
     try:
         attachment_pages = list(PdfReader(str(pdf_path)).pages)
@@ -773,7 +930,7 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
     for p in PdfReader(sep).pages:
         writer.add_page(p)
     for page in attachment_pages:
-        writer.add_page(page)
+        writer.add_page(a4_normalized_page(page))
 
 
 def append_pdf_bytes_with_separator(
@@ -810,7 +967,7 @@ def append_pdf_bytes_with_separator(
     for page in PdfReader(sep).pages:
         writer.add_page(page)
     for page in attachment_pages:
-        writer.add_page(page)
+        writer.add_page(a4_normalized_page(page))
 
 
 def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:

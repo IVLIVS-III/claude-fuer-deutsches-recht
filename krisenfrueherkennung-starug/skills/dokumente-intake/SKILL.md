@@ -48,7 +48,7 @@ Dieser Dokumenten-Intake für **Krisenfrueherkennung Starug** ordnet Anlagen, Re
 - Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Krisenfrüherkennung und StaRUG-Frage.
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
 - Tragende Normen vorläufig zuordnen: StaRUG §§ 1, 29, 31, 39, 49–55, 84, 102, InsO §§ 15a, 17, 18, 19, HGB § 252, IDW S 11 — Endfeststellung erst nach Live-Check.
-- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG) prüfen.
+- Sensible Daten nach Berufsrecht und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragtem und dem nach Paragrafen 34 und 35 StaRUG zuständigen Restrukturierungsgericht prüfen.
 
 ## Qualitätsanker
 

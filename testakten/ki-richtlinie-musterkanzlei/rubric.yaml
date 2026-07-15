@@ -1,8 +1,4 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Ki Richtlinie Musterkanzlei"
+name: "Organisationsakte Koenig Brehm Partner"
 plugin: "ki-richtlinie-kanzleien"
 
 checks:
@@ -10,19 +6,20 @@ checks:
     check_type: file_exists
     description: "README.md vorhanden"
     path: "README.md"
-
   - id: r02-gesamt-pdf-vorhanden
     check_type: file_exists
     description: "Gesamt-PDF gebaut"
     path: "gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf"
-
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
-
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: "Mindestens zehn exportierbare Arbeitsunterlagen vorhanden"
+    min: 10
+  - id: r04-zugriffsstoerung
+    check_type: file_exists
+    description: "E-Mail zur Zugriffsstoerung vorhanden"
+    path: "02_sekretariat_zugriffsstoerung_2026-05-21.eml"
+  - id: r05-abrechnungsabweichung
+    check_type: file_contains
+    description: "Ungeklaerte Kostenstelle bleibt in den Rohdaten erhalten"
+    path: "05_lizenzabrechnung_2026-q2.csv"
+    contains: "Sammelkonto Bibliothek"

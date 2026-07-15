@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -34,6 +34,20 @@ Gesamt-PDF: [`gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_g
 | `06-register-und-prioritaetscheck.docx` | Register- und Prioritätsnotiz mit Varianten |
 | `07-bildanlage-stuhlvergleich.jpg` | Bildanlage mit drei schematischen Produktansichten |
 | `08-budget-und-fristen.xlsx` | Fristen, Kostenannahmen, Entscheidungsoptionen |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `designrecht-geschmacksmusterrecht`, `markenrecht-fashion-luxus`, `gewerblicher-rechtsschutz`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_testkauf_wareneingang_nordufer_stuhl.docx`](12_testkauf_wareneingang_nordufer_stuhl.docx) | Testkaufprotokoll mit Sicherung und konkreten Messungen |
+| [`13_email_designer_entwurfsstaende.eml`](13_email_designer_entwurfsstaende.eml) | Designermail zu datierten Entwurfsständen |
+| [`14_vermessung_l27_und_n18_roh.csv`](14_vermessung_l27_und_n18_roh.csv) | Unbewertete Vergleichsmessungen beider Stühle |
+
+<!-- END nachgereichte-originalunterlagen -->

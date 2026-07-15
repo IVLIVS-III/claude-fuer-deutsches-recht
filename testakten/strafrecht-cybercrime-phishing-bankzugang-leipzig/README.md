@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -98,3 +98,18 @@ strafrecht-cybercrime-phishing-bankzugang-leipzig/
 ## Passende Arbeitsrichtungen
 
 `fachanwalt-strafrecht`, `aktenaufbereiter-strafrecht`, `staatsanwaltschaft-praxis-einstieg`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`16_bank_sicherheitsbericht_login_tan.docx`](16_bank_sicherheitsbericht_login_tan.docx) | Bankseitiger Sicherheitsbericht mit Zeitstempeln und Aussagegrenzen |
+| [`17_email_kontoinhaber_sms_und_anruf.eml`](17_email_kontoinhaber_sms_und_anruf.eml) | Kontoinhabermail zum konkreten Anruf und SMS-Code |
+| [`18_login_und_transaktionsereignisse_roh.csv`](18_login_und_transaktionsereignisse_roh.csv) | Unveränderte Login- und Transaktionsereignisse |
+
+<!-- END nachgereichte-originalunterlagen -->

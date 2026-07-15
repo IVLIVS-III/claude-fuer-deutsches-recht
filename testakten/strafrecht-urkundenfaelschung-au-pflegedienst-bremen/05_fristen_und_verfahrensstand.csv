@@ -1,8 +1,8 @@
 Datum;Ereignis;Friststatus;Bearbeitungsvermerk
-03.02.2026;Beginn krankheitsbedingte Fehlzeit laut Arbeitgeberausdruck;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-05.02.2026;eAU-Abfrage der Arbeitgeberin ohne Treffer für 03.02. bis 07.02.;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-06.02.2026;Übersendung eines eingescannten Praxisformulars per E-Mail;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-25.03.2026;Strafanzeige der Arbeitgeberin;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-12.06.2026;Praxissoftware-Auszug wird zur Akte genommen;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-01.08.2026;arbeitsgerichtlicher Gütetermin parallel;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-laufend;Akteneinsicht und Nachlieferungen;offen;jede neue Datei mit Blattzahl und Beweisrichtung erfassen
+03.02.2026;Beginn krankheitsbedingte Fehlzeit laut Arbeitgeberausdruck;aktenkundig;Dienstplan weist Frühdienst 06:00 Uhr aus, Krankmeldung telefonisch um 05:41 Uhr notiert
+05.02.2026;eAU-Abfrage der Arbeitgeberin ohne Treffer für 03.02. bis 07.02.;aktenkundig;Abfragekennung AG-883107 und Rückmeldung „Nachweis nicht vorhanden“ gesichert
+06.02.2026;Übersendung eines eingescannten Praxisformulars per E-Mail;aktenkundig;Dateiname und Kopfzeilen der E-Mail erfasst, Scan enthält keinen maschinenlesbaren Aussteller
+25.03.2026;Strafanzeige der Arbeitgeberin;aktenkundig;Eingangsbestätigung der Polizei Bremen vom 28.03.2026 liegt vor
+12.06.2026;Praxissoftware-Auszug wird zur Akte genommen;aktenkundig;Export umfasst Behandlungen vom 01. bis 10.02., Benutzerkennung „MW-02“ ungeklärt
+01.08.2026;arbeitsgerichtlicher Gütetermin parallel;aktenkundig;Ladung zum Arbeitsgericht Bremen 4 Ca 811/26 am 09.06. zugestellt
+laufend;Akteneinsicht und Nachlieferungen;offen;Metadaten jeder neuen Praxisdatei und die jeweilige Übermittlungskette gesondert dokumentieren

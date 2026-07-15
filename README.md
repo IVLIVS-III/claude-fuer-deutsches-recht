@@ -53,9 +53,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 235 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
 | **Skills (SKILL.md)** | 26226 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 301 zentral / 319 gesamt |
+| **Testakten** | 301 zentral / 304 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v433.0.2` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v434.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -65,8 +65,8 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
 | **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Direkt nutzbare Marketplace-Definition für alle Plugins. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Reine `SKILL.md`-Dateien aller Plugins plus die plugin-lokalen Werkstatt- und Schnellstart-Prompts. Einzelne Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
-| **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur mit PDF, DOCX, XLSX, JPEG, EML, Markdown und jeweiligem Gesamt-PDF. |
-| **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Jede Testakte mit jeder einzelnen Unterlage als separater, sauber gerenderter PDF im Originalordnerlayout. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
+| **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelarchiv der einzelnen Akten-ZIPs. In jedem Akten-ZIP liegen PDF, DOCX, XLSX, JPEG, EML und weitere Originalformate flach auf der Wurzelebene; Markdown und Unterordner sind ausgeschlossen. |
+| **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelarchiv der einzelnen PDF-ZIPs. In jedem Akten-ZIP liegt jede Unterlage als separate, sauber gerenderte PDF flach auf der Wurzelebene. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
 | **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. Werkstatt- und Schnellstart-Prompts sind als Markdown-Dateien innerhalb der Plugin-Ordner enthalten und werden zusätzlich pro Plugin als Markdown-Direkt-Download verlinkt. |
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |

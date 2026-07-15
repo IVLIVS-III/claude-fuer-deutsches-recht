@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -65,3 +65,18 @@ schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg/
 ## Bearbeitungsziel
 
 Aus dem Mobilitäts-Assessment, dem Gehtagebuch und den Stellungnahmen ist zu prüfen, ob das Merkzeichen G zusteht. Nachzurechnen ist, dass die dokumentierten Alltagsstrecken von 120 bis 350 Metern in den Off-Phasen einem Gehtempo von rund 13 bis 20 Metern je Minute entsprechen und für zwei Kilometer zwischen etwa 100 und 150 Minuten bedeuten, also weit mehr als die maßgeblichen dreißig Minuten. Die Diskrepanz zwischen der versorgungsärztlichen On-Phasen-Annahme (zwei Kilometer in dreißig Minuten) und der Alltagsdokumentation ist der Kern des Falls. Nicht die Diagnose, sondern Freezing, posturale Instabilität, Sturzereignisse und schwankende Gehfähigkeit prägen die Teilhabebeeinträchtigung. Zusätzlich sind die Neubewertung des Grades der Behinderung und die Bedeutung der Feststellung für die spätere Altersrente für schwerbehinderte Menschen zu prüfen.
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`16_physiotherapie_gehstreckenbericht.docx`](16_physiotherapie_gehstreckenbericht.docx) | Physiotherapeutischer Bericht mit gemessenen Strecken und Freezing |
+| [`17_email_ehefrau_stuerze_wege.eml`](17_email_ehefrau_stuerze_wege.eml) | Ehegattenmail mit konkreten Alltagssituationen |
+| [`18_sturz_und_gehprotokoll_roh.csv`](18_sturz_und_gehprotokoll_roh.csv) | Zeitnah geführtes Sturz- und Gehprotokoll |
+
+<!-- END nachgereichte-originalunterlagen -->

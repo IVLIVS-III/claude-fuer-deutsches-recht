@@ -1,6 +1,6 @@
 ---
 name: stammdaten-erhebung
-description: "Wenn es um Stammdaten-Erhebung in Arbeitszeugnisgenerator geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorhandenen Dateien. Liefert eine belegte Stammdatenkarte, markiert Widersprüche und fragt nur entscheidende, nicht aus der Akte lösbare Angaben nach."
 ---
 
 # Stammdaten-Erhebung
@@ -43,7 +43,7 @@ Platzhalter niemals stillschweigend erfinden — der Nutzer muss sie explizit be
 
 ## Formalia-Check
 
-Nach Paragraf 109 GewO und BAG, Urteil v. 21.09.1999 – 9 AZR 893/98 muss der Unterzeichner genau die Person sein, deren Name und Funktion am Ende des Zeugnisses in Maschinenschrift erscheint. HR-Sachbearbeiter dürfen nicht für den Vorgesetzten unterzeichnen, wenn dieser namentlich genannt wird.
+Bei Papierform muss die Person unterschreiben, die im Unterschriftsblock mit Name und Funktion ausgewiesen ist. Nach BAG, Urteil vom 21.09.1999 - 9 AZR 893/98 darf neben dem Arbeitgeber ein erkennbar vertretungsberechtigter und gegenüber dem Arbeitnehmer ranghöherer Vertreter unterzeichnen. Deshalb werden Zeichnungsbefugnis, Funktion und Hierarchie geprüft; ein Personalsachbearbeiter ist nicht allein wegen seiner Abteilungszugehörigkeit ausgeschlossen, muss aber als geeigneter Vertreter erkennbar sein. In elektronischer Form treten mit Einwilligung des Arbeitnehmers die qualifizierte elektronische Signatur und Paragraf 126a BGB an die Stelle der eigenhändigen Unterschrift.
 
 ## Stolpersteine
 

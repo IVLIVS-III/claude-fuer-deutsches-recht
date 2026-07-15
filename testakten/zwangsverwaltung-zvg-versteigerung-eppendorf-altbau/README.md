@@ -1,11 +1,11 @@
-# Akte: ZVG-Versteigerung Eppendorf-Altbau
+# Akte: Zwangsversteigerung einer vermieteten Eigentumswohnung in Hamburg-Eppendorf
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -17,124 +17,56 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## ⬇️ Direkt-Download
+## Sachstand
 
-| Akte | Direkt-Download |
-| --- | --- |
-| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` (Akte) | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
+Gegenstand des Verfahrens ist die vermietete Wohnung Nr. 9 im Haus Eppendorfer Mühlenbogen 16 / Heilwigbogen 4 in Hamburg. Als Eigentümer ist die Erbengemeinschaft nach Jonas R. Albrecht eingetragen. Die Nordelbe Kreditbank AG betreibt aus einer Grundschuld zunächst die Zwangsverwaltung und anschließend die Zwangsversteigerung.
 
-Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
-
-Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vom Anordnungsbeschluss bis zum Zuschlag und Teilungsplan. Der Fall spielt in Hamburg-Eppendorf und umfasst eine vermietete Eigentumswohnung in einem Gründerzeit-Altbau. Die Akte deckt die gesamte Verfahrensstrecke ab: ZVG-Portal-Recherche, Grundbuchanalyse, Verkehrswertgutachten, Terminvorbereitung, Biettermin, Zuschlagsbeschluss und Erlösverteilung.
-
----
-
-## Sachverhalt
-
-Jonas R. Albrecht hinterlässt beim Tod seine Eigentumswohnung Nr. 9 im dritten Obergeschoss links des Altbau-Mehrfamilienhauses Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg. Die Wohnung gehört zur WEG Eppendorf Blatt 48291 (Flurstück 1842/7, 612 qm, MEA 39,20/1.000) und hat laut Teilungserklärung eine Wohnfläche von 95,30 qm. Das Gebäude wurde um 1890 errichtet; das Dachgeschoss wurde um 1994 ausgebaut.
-
-Die Erbengemeinschaft – bestehend aus den Miterben Heinrich J. Albrecht und Sofie Albrecht-Wegener  – bedient die Grundschuld der Nordelbe Kreditbank AG in Höhe von 520.000,00 EUR nicht mehr. Die Kreditbank erwirkt zunächst die Anordnung der Zwangsverwaltung (Az. 71 L 44/25, eingetragen 18.11.2025) und anschließend die Anordnung der Zwangsversteigerung (Az. 71 K 18/26, eingetragen 12.02.2026). Die Wohnung ist seit dem 01.11.2021 an L. Sommer vermietet; die Nettokaltmiete beträgt seit Mai 2023 monatlich 1.320,00 EUR. Auffällig sind drei Klingelnamenschilder sowie der Briefkastenzusatz "Atelier Nordbogen" – die tatsächliche Nutzung bleibt ungeklärt.
-
-Der vom Gericht bestellte Sachverständige Dipl.-Ing. Thorsten Malkwitz erstellt zum Stichtag 28.04.2026 ein Verkehrswertgutachten. Da eine Innenbesichtigung vom Mieter verweigert wird, stützt er sich auf Außenbesichtigung und Vergleichsdaten des Gutachterausschusses Hamburg. Der Verkehrswert wird auf 685.000,00 EUR festgesetzt; Abschläge für fehlende Innenbesichtigung (−25.000,00 EUR) und ungeklärte Nutzung (−10.000,00 EUR) sind eingerechnet. Die WEG hält eine Sonderumlage für Steigleitungen und Dachentwässerung im Raum; ein Beschluss hierüber liegt noch nicht vor.
-
-Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnies am Amtsgericht Hamburg statt. Drei Bieter erscheinen: Nordhafen Immobilien UG (), Elke Sonnenberg und BH Capital GmbH & Co. KG. Nach 15 Geboten erteilt die Rechtspflegerin der Nordhafen Immobilien UG den Zuschlag zum Bargebot von 534.000,00 EUR. Der Erlös übersteigt die 7/10-Grenze (479.500,00 EUR), sodass kein Versagungsgrund nach § 74a ZVG vorliegt. Der Teilungsplan weist nach Abzug von öffentlichen Lasten, WEG-Hausgeld und Verfahrenskosten einen Restbetrag an die betreibende Gläubigerin Nordelbe Kreditbank AG aus; ein Überschuss zugunsten der Schuldner verbleibt nicht.
-
----
+Die Akte setzt nicht bei einer fertigen Fallzusammenfassung an. Grundbuch, Mietvertrag, Terminsbekanntmachung, Verkehrswertgutachten, Bericht des Zwangsverwalters und die späteren gerichtlichen Dokumente müssen miteinander abgeglichen werden. Besonders klärungsbedürftig sind der Umfang der Wohnnutzung, die nicht gewährte Innenbesichtigung, die Mietsicherheit, mögliche Maßnahmen der Wohnungseigentümergemeinschaft und die Auswirkungen dieser Punkte auf Wert, Gebot und Erlösverteilung.
 
 ## Eckdaten
 
-| Merkmal | Wert |
-|---------|------|
-| **Aktenzeichen ZVG** | 71 K 18/26 |
-| **Aktenzeichen ZV** | 71 L 44/25 |
-| **Gericht** | Amtsgericht Hamburg, Abteilung 71 |
-| **Grundbuch** | Eppendorf Blatt 48291 |
-| **Flurstück / Fläche** | 1842/7, Gemarkung Eppendorf, 612 qm |
-| **MEA** | 39,20/1.000 |
-| **Wohnfläche WE Nr. 9** | 95,30 qm (laut TE) |
-| **Baujahr** | um 1890 (DG-Ausbau um 1994) |
-| **Adresse** | Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg |
-| **Schuldner** | Erbengemeinschaft Albrecht: Heinrich J. Albrecht + Sofie Albrecht-Wegener |
-| **Betreibende Gläubigerin** | Nordelbe Kreditbank AG |
-| **Grundschuld** | 520.000,00 EUR (Abt. III Nr. 1) |
-| **Zwangssicherungshypothek WEG** | 38.400,00 EUR (Abt. III Nr. 2) |
-| **Mieter** | L. Sommer (), seit 01.11.2021 |
-| **Nettokaltmiete aktuell** | 1.320,00 EUR/Monat (ab 01.05.2023) |
-| **Hausgeld WEG** | 512,00 EUR/Monat (inkl. 126,00 EUR Erhaltungsrücklage) |
-| **Verkehrswert (§ 74a ZVG)** | 685.000,00 EUR (Stichtag 28.04.2026) |
-| **7/10-Grenze** | 479.500,00 EUR |
-| **5/10-Grenze** | 342.500,00 EUR |
-| **Sicherheitsleistung** | 68.500,00 EUR |
-| **Versteigerungstermin** | 16.07.2026, 10:00 Uhr, Saal 214 |
-| **Höchstgebot / Zuschlag** | 534.000,00 EUR (Nordhafen Immobilien UG) |
-| **Gutachter** | Dipl.-Ing. Thorsten Malkwitz (), Gutachtennr. 2026-HH-117 |
-| **Zwangsverwalter** | Ralf Benderoth (), Benderoth & Kassel Immobilienverwaltung GmbH |
+| Merkmal | Aktenstand |
+| --- | --- |
+| Vollstreckungsgericht | Amtsgericht Hamburg, Abteilung 71 |
+| Zwangsversteigerung | 71 K 18/26 |
+| Zwangsverwaltung | 71 L 44/25 |
+| Grundbuch | Eppendorf Blatt 48291 |
+| Wohnung | Nr. 9, ungefähr 95,30 Quadratmeter |
+| Eigentümer | Heinrich J. Albrecht und Sofie Albrecht-Wegener in Erbengemeinschaft |
+| Betreibende Gläubigerin | Nordelbe Kreditbank AG |
+| Mieter | Lukas Sommer, Mietbeginn 1. November 2021 |
+| Gutachtenstichtag | 28. April 2026 |
+| Versteigerungstermin | 16. Juli 2026, 10:00 Uhr |
 
----
+## Aktenverzeichnis
 
-## Dateien in dieser Akte
+### Grundstück, Mietverhältnis und Wertermittlung
 
-| Datei | Format | Inhalt |
-|-------|--------|--------|
-| [00_hinweis_anonymisierung.docx](00_hinweis_anonymisierung.docx) | MD | Fiktions- und Abgrenzungsvermerk, alle anonymisierten Stammdaten |
-| [01_zvg_portal_rechercheprotokoll.docx](01_zvg_portal_rechercheprotokoll.docx) | MD | Dokumentierte ZVG-Portal-Suche Hamburg/Eppendorf mit Wiederholungsanweisung |
-| [02_terminsbekanntmachung.docx](02_terminsbekanntmachung.docx) | MD | Terminsbekanntmachung (§ 39 ZVG): Objekt, Termin, Verkehrswert, Hinweise |
-| [03_grundbuchauszug_anonymisiert.docx](03_grundbuchauszug_anonymisiert.docx) | MD | Wohnungsgrundbuchauszug: Bestandsverzeichnis, Abt. I–III |
-| [04_verkehrswertgutachten_kurzfassung.docx](04_verkehrswertgutachten_kurzfassung.docx) | MD | Gutachten-Kurzfassung: Miettabellen, WEG, Abschläge, Ergebnis 685.000 EUR |
-| [05_mietvertrag_kurznotiz.docx](05_mietvertrag_kurznotiz.docx) | MD | Mietstruktur, besondere Abreden, Auffälligkeiten (Atelier Nordbogen) |
-| [06_bieterangebot_bewertung.docx](06_bieterangebot_bewertung.docx) | MD | Bewertung eines vorgerichtlichen Bieterangebots (515.000 EUR); Bietlimit 525.000 EUR |
-| [07_versteigerungsteilnahme_checkliste.docx](07_versteigerungsteilnahme_checkliste.docx) | MD | Termin-Checkliste: Sicherheitsleistung, Mitzunehmendes, Begriffe, harte Bietregel |
-| [08_risikomatrix.csv](08_risikomatrix.csv) | CSV | Strukturierte Risikoübersicht (Wahrscheinlichkeit / Auswirkung) |
-| [09_bietlimit_rechenblatt.csv](09_bietlimit_rechenblatt.csv) | CSV | Einfache Bietlimit-Kalkulation (Verkehrswert minus Risikoabschläge) |
-| [10_quality_gate.docx](10_quality_gate.docx) | MD | Vollständige Verfahrens-Prüfliste A–H vor Bieterentscheidung; Abbruchkriterien |
-| [11_geringstes_gebot_berechnung.docx](11_geringstes_gebot_berechnung.docx) | MD | Rechtliche Analyse des geringsten Gebots (§ 49 ZVG), Schutzgrenzen, Bietlimit-Abgrenzung |
-| [12_verkehrswertgutachten_vollständig.docx](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Gutachten: Vergleichswert (Sachwert/Ertragswert), 7 Kapitel, Risikohinweise |
-| [12_verkehrswertgutachten_vollständig.docx](12_verkehrswertgutachten_vollstaendig.docx) | MD | Markdown-Vorschau des Gutachtens |
-| [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | DOCX | Terminprotokoll: Anwesende, Versteigerungsbedingungen, 15 Gebote, Zuschlag |
-| [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | MD | Markdown-Vorschau des Terminprotokolls |
-| [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | DOCX | Zuschlagsbeschluss mit Rubrum, Tenor, Gründen und Rechtsbehelfsbelehrung |
-| [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | MD | Markdown-Vorschau des Zuschlagsbeschlusses |
-| [15_schuldnermitteilung.docx](15_schuldnermitteilung.docx) | MD | Schuldnermitteilung des Zwangsverwalters: Mietkonto, Hausgeld, WEG, Verwalterkosten |
-| [16_bietverzeichnis.xlsx](16_bietverzeichnis.xlsx) | XLSX | Chronologisches Bietverzeichnis: 15 Gebote, 3 Bieter, Deltas, Höchstgebot-Zusammenfassung |
-| [16_bietverzeichnis.docx](16_bietverzeichnis.docx) | MD | Markdown-Vorschau des Bietverzeichnisses |
-| [17_teilungsplan.xlsx](17_teilungsplan.xlsx) | XLSX | Teilungsplan §§ 109–145 ZVG: Rangklassen § 10 ZVG, Erlösverteilung, Formelblatt |
-| [17_teilungsplan.docx](17_teilungsplan.docx) | MD | Markdown-Vorschau des Teilungsplans |
-| [18_verkehrswert_ermittlung.xlsx](18_verkehrswert_ermittlung.xlsx) | XLSX | Zwei-Blatt-Kalkulation: Vergleichswert (Vergleichsdaten + Korrekturen) + Ertragswert (Plausibilisierung) |
-| [18_verkehrswert_ermittlung.docx](18_verkehrswert_ermittlung.docx) | MD | Markdown-Vorschau der Wertermittlung |
+| Datei | Format | Dokument |
+| --- | --- | --- |
+| [`02_terminsbekanntmachung.docx`](02_terminsbekanntmachung.docx) | DOCX | Terminsbekanntmachung des Amtsgerichts Hamburg |
+| [`03_grundbuchauszug_anonymisiert.docx`](03_grundbuchauszug_anonymisiert.docx) | DOCX | Anonymisierte Grundbuchabschrift mit Bestandsverzeichnis und Abteilungen I bis III |
+| [`05_mietvertrag_wohnung_eppendorfer_muehlenbogen.docx`](05_mietvertrag_wohnung_eppendorfer_muehlenbogen.docx) | DOCX | Vollständiger Wohnraummietvertrag vom 26. August 2021 |
+| [`12_verkehrswertgutachten_vollstaendig.docx`](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Verkehrswertgutachten mit Vergleichs- und Ertragswertansätzen |
+| [`15_schuldnermitteilung.docx`](15_schuldnermitteilung.docx) | DOCX | Bericht des Zwangsverwalters mit Mietkonto, Hausgeld und Verfahrenskosten |
+| [`18_verkehrswert_ermittlung.xlsx`](18_verkehrswert_ermittlung.xlsx) | XLSX | Rohdaten und Rechenschritte aus der Wertermittlung |
 
----
+### Termin und weiterer Verfahrensstand
 
-## Prüffokus
+| Datei | Format | Dokument |
+| --- | --- | --- |
+| [`13_versteigerungstermin_protokoll.docx`](13_versteigerungstermin_protokoll.docx) | DOCX | Protokoll des Versteigerungstermins mit Anwesenheiten und Gebotsfolge |
+| [`14_zuschlagsbeschluss.docx`](14_zuschlagsbeschluss.docx) | DOCX | Gerichtlicher Beschluss nach dem Versteigerungstermin |
+| [`16_bietverzeichnis.xlsx`](16_bietverzeichnis.xlsx) | XLSX | Chronologisches Bietverzeichnis mit Zeitstempeln und Sicherheitsleistungen |
+| [`17_teilungsplan.xlsx`](17_teilungsplan.xlsx) | XLSX | Gerichtlicher Rechenstand zur späteren Erlösverteilung |
 
-**Verfahrensstruktur:**
-- Zusammenspiel von Zwangsverwaltung (§§ 146 ff. ZVG) und Zwangsversteigerung (§§ 15 ff. ZVG) in einer Akte
-- Anordnungs- und Vollziehungsvoraussetzungen; Grundbuchvermerke nach §§ 19, 20 ZVG
-- Aufhebungs- und Einstellungsoptionen (§§ 30, 30a ZVG); Bedeutung von Terminstatus-Prüfungen
+## Offene Prüfpunkte
 
-**Wertermittlung:**
-- Vergleichswertverfahren vs. Ertragswertverfahren (ImmoWertV): Anwendungsvoraussetzungen, Verfahrenswahl
-- Abschlagslogik bei fehlender Innenbesichtigung und ungeklärter Nutzung
-- Schutzgrenzen §§ 74a, 85a ZVG: 7/10 und 5/10 des festgesetzten Verkehrswerts
+- Stimmen Grundbuch, Terminsbekanntmachung und Rubren bei Eigentümern, Belastungen und Aktenzeichen überein?
+- Welche Folgen hat die verweigerte Innenbesichtigung für Tatsachengrundlage und Verkehrswert?
+- Ist die tatsächliche Nutzung der Wohnung mit dem Mietvertrag vereinbar?
+- Welche Mietkaution ist belegt, und welche Kontobewegungen fehlen?
+- Welche Hausgeldpositionen, öffentlichen Lasten und Verfahrenskosten sind für die Verteilung maßgeblich?
+- Welche zeitlichen und formellen Voraussetzungen ergeben sich aus den gerichtlichen Dokumenten?
 
-**Geringstes Gebot und bestehenbleibende Rechte:**
-- Abgrenzung geringstes Gebot (§ 49 ZVG) vom wirtschaftlichen Bietlimit
-- Bestehenbleibende Rechte (§ 52 ZVG): Rangverhältnisse, wirtschaftliche Belastung für Ersteher
-- Deckungsprinzip: Mindest-Bargebot muss Verfahrenskosten decken
-
-**Rangklassen und Teilungsplan:**
-- Rangklassen § 10 Abs. 1 Nr. 1–5 ZVG (öff. Lasten, WEG-Hausgeld, Verfahrenskosten, Grundpfandrechte)
-- 5 %-Grenze für WEG-Hausgeld (§ 10 Abs. 1 Nr. 2 ZVG): max. 34.250,00 EUR
-- Erlösverteilung in formular-basiertem Teilungsplan; Resterlös-Kaskade
-
-**Verfahrenspraxis und Taktik:**
-- Sicherheitsleistung: zulässige Formen (§ 67 ZVG), Rechtzeitigkeit
-- Biettermin-Dynamik: Schrittgebote, Dreimal-Regel, Zuschlagsvoraussetzungen
-- Checklisten-Denken: Quality Gate mit acht Prüfbereichen (A–H)
-
----
-
-## Disclaimer
-
-
-Die Inhalte dienen ausschließlich der Ausbildung und dürfen nicht als Rechtsberatung im Einzelfall verstanden werden. Für konkrete rechtliche Fragen zu Zwangsversteigerungsverfahren ist stets anwaltlicher Rat einzuholen.
+Die Akte enthält keine gesonderte Lösungsskizze, keine Bietempfehlung und keine vorgefertigte Risikomatrix.

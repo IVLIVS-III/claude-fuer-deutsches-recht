@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,21 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Verbandsakte Abo-Falle: VDuG-Abhilfeklage, UKlaG-Unterlassung, Betroffenenpool, Registertext und Vergleichsrisiko.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
-| `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
-| `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
-| `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
-| `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
-| `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-
+| --- | --- |
+| `01_beschwerde_miriam_jaekel_fitplan.docx` | Zwei Abbuchungen zu je 89,90 Euro nach kostenlosem Ernährungsplan |
+| `02_betroffenenpool_buchungen_und_belege.xlsx` | Tabellarische Rohdaten Betroffene mit 6 Datensätzen |
+| `03_email_fitplan_support_2026-03-28.eml` | E-Mail mit vollständigem Header: Abbuchung 89,90 Euro / ich wollte nur den kostenlosen Plan |
+| `04_anbieter_stellungnahme_fitplan_2026-07-11.docx` | Ihre Anfrage zu Miriam Jäkel und weiteren Buchungen FitPlan Premium |
+| `05_seitenversionen_und_supportereignisse.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_payport_haendlerantwort_2026-07-14.eml` | E-Mail mit vollständigem Header: PP-CB-99188 / Händlerantwort FitPlan vom 13. Juli |
+| `07_telefonvermerk_weitere_betroffene_2026-07-08.docx` | Gespräch mit Dennis Maaß, ehemaliger Produktmanager FitPlan |
 ## Passende Plugins
 
 `verbraucherschutzverband-durchsetzung`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_verbraucherschilderung_buchung_und_abbuchungen.docx`](12_verbraucherschilderung_buchung_und_abbuchungen.docx) | Unterzeichnete Verbraucherschilderung mit konkretem Buchungsablauf |
+| [`13_email_zahlungsdienst_chargeback_daten.eml`](13_email_zahlungsdienst_chargeback_daten.eml) | Zahlungsdienstmail mit Transaktionskennungen |
+| [`14_betroffenenbuchungen_rohdaten_auszug.csv`](14_betroffenenbuchungen_rohdaten_auszug.csv) | Noch unbereinigte Buchungen aus dem Betroffenenpostfach |
+
+<!-- END nachgereichte-originalunterlagen -->

@@ -1,0 +1,7 @@
+﻿Datum;Version;Schaltfläche;Preisposition;Vorgang;Quelle
+18.03.2026;3.8-A;Plan anzeigen;unter Produkttext;Aktivierung Jäkel;Eventlog
+28.03.2026;3.8-A;Plan anzeigen;unter Produkttext;Supportmail Jäkel;Postfach
+22.04.2026;3.8-B;Plan anzeigen;farbig, unter Produkttext;A/B-Test;Aufgabenboard
+09.05.2026;3.9;Premium kostenpflichtig starten;oberhalb Schaltfläche;Produktänderung;Release-Log
+26.06.2026;3.9;Premium kostenpflichtig starten;oberhalb Schaltfläche;zweite Zahlung Jäkel;Paymentlog
+02.07.2026;3.9;Kündigung bestätigen;Kontoverwaltung;Kündigung Jäkel;Supportsystem

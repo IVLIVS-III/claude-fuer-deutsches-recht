@@ -1,0 +1,17 @@
+Zeitpunkt;Geraet;Code;Anzeige;Betriebszustand;Massnahme;Quelle
+2023-05-19_14-22;WR2;P-12;Strangleistung_unter_Vergleich;Betrieb;Telefonmeldung_an_Burgwald;Monitorprotokoll
+2023-05-24_09-18;WR2;P-12;Strangleistung_unter_Vergleich;Betrieb;E-Mail_an_Burgwald;Monitorprotokoll
+2023-06-02_11-06;WR2;RESET;Neustart_durch_Service;Wartung;Neustart_Karl_Saubacher;Servicezettel
+2023-08-08_13-41;WR2;E-37;Netzspannung_ausserhalb_Toleranz;Abschaltung;automatischer_Neustart;Ereignisspeicher
+2023-08-08_13-43;WR3;E-37;Netzspannung_ausserhalb_Toleranz;Abschaltung;automatischer_Neustart;Ereignisspeicher
+2023-08-21_12-09;WR2;T-19;Temperatursensor_unplausibel;Abschaltung;Service_angefordert;Ereignisspeicher
+2023-08-24_15-52;WR3;E-37;Netzspannung_ausserhalb_Toleranz;Abschaltung;automatischer_Neustart;Ereignisspeicher
+2023-09-04_08-35;WR2;SERVICE;Temperatursensor_getauscht;Wartung;Sensor_T2_neu;Servicebericht
+2023-09-04_09-27;WR3;SERVICE;Temperatursensor_getauscht;Wartung;Sensor_T2_neu;Servicebericht
+2023-10-18_14-06;WR2;T-19;Temperatursensor_unplausibel;Abschaltung;keine_Vor-Ort-Pruefung;Ereignisspeicher
+2023-11-11_10-33;WR3;T-19;Temperatursensor_unplausibel;Abschaltung;Telefonmeldung_an_Burgwald;Ereignisspeicher
+2024-02-07_16-44;WR1;E-37;Netzspannung_ausserhalb_Toleranz;Abschaltung;automatischer_Neustart;Ereignisspeicher
+2024-06-18_12-20;WR2;P-12;Strangleistung_unter_Vergleich;Betrieb;keine_Massnahme;Monitorprotokoll
+2025-07-16_11-16;WR1;READ;Anzeige_abgelesen;Betrieb;Ortstermin_Pfaffenberger;Zeitprotokoll
+2025-07-16_11-18;WR2;READ;Anzeige_abgelesen;Betrieb;Ortstermin_Pfaffenberger;Zeitprotokoll
+2025-07-16_11-20;WR3;READ;Anzeige_abgelesen;Betrieb;Ortstermin_Pfaffenberger;Zeitprotokoll

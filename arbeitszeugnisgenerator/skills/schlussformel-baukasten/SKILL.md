@@ -1,17 +1,17 @@
 ---
 name: schlussformel-baukasten
-description: "Wenn es um Schlussformel-Baukasten in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Entwirft freiwillige Dank-, Bedauerns- und Wunschformeln passend zu Beendigungsgrund und Gesamtzeugnis. Trennt Gestaltung von einklagbarem Inhalt, berücksichtigt bereits erteilte Formeln und liefert mehrere wahrheitsgemäße Varianten ohne ungewollte Abwertung."
 ---
 
 # Schlussformel-Baukasten
 
 ## Ziel
 
-Eine vollständige, zur Gesamtnote passende Schlussformel generieren. Die Schlussformel ist kein automatischer Klagepunkt, aber das stärkste Signal im Bewerbungsverkehr.
+Eine freiwillige, wahrheitsgemäße Schlussformel entwerfen, die nicht im Widerspruch zum Zeugnis und zum Beendigungsgrund steht. Gesetzlicher Anspruch, bereits erteilte Fassung und bloßer Gestaltungswunsch werden getrennt ausgewiesen.
 
 ## Die fünf Bausteine der Schlussformel
 
-Eine vollständige Schlussformel (Note 1 bis 2) enthält alle fünf Bausteine:
+Für eine warme Schlussgestaltung können bis zu fünf Bausteine kombiniert werden. Diese Bausteine bilden keine gesetzliche Notenskala:
 
 | Baustein | Funktion | Beispiel |
 |---|---|---|
@@ -25,18 +25,18 @@ Eine vollständige Schlussformel (Note 1 bis 2) enthält alle fünf Bausteine:
 
 > Frau/Herr [Name] scheidet auf eigenen Wunsch aus unserem Unternehmen aus. Wir bedauern dies außerordentlich und danken ihr/ihm herzlich für ihre/seine hervorragenden Leistungen, ihren/seinen unermüdlichen Einsatz und ihren/seinen wertvollen Beitrag zum Erfolg unseres Unternehmens. Für ihren/seinen weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm nur das Allerbeste und weiterhin großen Erfolg.
 
-## Varianten nach Notenbereich
+## Tonale Varianten
 
-### Vier Bausteine (Note 2)
+### Warm und ausführlich
 > Wir danken Frau/Herrn [Name] herzlich für ihre/seine sehr guten Leistungen und ihren/seinen engagierten Einsatz. Für ihren/seinen weiteren beruflichen und persönlichen Weg wünschen wir ihr/ihm alles Gute und weiterhin viel Erfolg.
 
-### Drei Bausteine (Note 3)
+### Freundlich und knapp
 > Wir danken Frau/Herrn [Name] für ihre/seine Mitarbeit und wünschen ihr/ihm für den weiteren beruflichen und persönlichen Weg alles Gute.
 
-### Zwei Bausteine / kühler Schluss (Note 3 bis 4)
+### Sachlich freundlich
 > Wir danken Frau/Herrn [Name] für ihre/seine Mitarbeit und wünschen ihr/ihm für die Zukunft alles Gute.
 
-### Sachlich-kalter Schluss (Signal Note 4)
+### Nur Beendigung und Wunsch
 > Frau/Herr [Name] scheidet auf eigenen Wunsch aus. Wir wünschen ihr/ihm für die Zukunft alles Gute.
 
 ## Bedauern-Varianten nach Kontext
@@ -45,17 +45,19 @@ Eine vollständige Schlussformel (Note 1 bis 2) enthält alle fünf Bausteine:
 |---|---|
 | Eigenkündigung, Note 1 | „Wir bedauern dies außerordentlich" |
 | Eigenkündigung, Note 2 | „Wir bedauern es, Frau/Herrn [Name] zu verlieren" |
-| Arbeitgeberkündigung | kein Bedauern (wäre unglaubwürdig) |
+| Arbeitgeberkündigung | Bedauern nur, wenn es tatsächlich erklärt werden soll und zum Sachverhalt passt |
 | Aufhebungsvertrag | optional Bedauern bei gutem Verhältnis |
 
 ## Rechtlicher Hintergrund
 
-Nach BAG, Urteil v. 20.02.2001 – 9 AZR 44/00 und BAG, Urteil v. 11.12.2012 – 9 AZR 227/11 besteht kein gesetzlicher Anspruch auf eine Schlussformel mit Dank und guten Wünschen. Das Fehlen macht das Zeugnis nicht unvollständig. Ist eine Schlussformel einmal erteilt, kann der Arbeitgeber sie in einer Folgefassung nicht ohne weiteres streichen — das wäre ein Verstoß gegen das Maßregelungsverbot (BAG, Urteil v. 06.06.2023 – 9 AZR 272/22).
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Weder Paragraf 109 GewO noch Paragraf 241 Abs. 2 BGB begründen einen Anspruch auf Dankes- und Wunschformeln.
+- BAG, Urteil vom 11.12.2012 - 9 AZR 227/11, Leitsätze und Rn. 9 bis 19: Ist der Arbeitnehmer mit einer freiwilligen Schlussformel nicht einverstanden, kann er grundsätzlich deren Entfernung, nicht eine beliebige Wunschfassung verlangen.
+- BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 14 bis 23: Eine bereits erteilte Schlussformel darf nicht als Reaktion auf ein zulässiges Berichtigungsverlangen grundlos gestrichen werden.
 
 ## Stolpersteine
 
 - Bedauern bei Arbeitgeberkündigung einbauen — das klingt unglaubwürdig und wirkt ironisch.
-- Note-1-Leistungsabschnitt mit Drei-Bausteine-Schluss kombinieren — das ist Drift.
+- Eine auffällig kühle Schlussformel ohne Kontextprüfung automatisch als Herabstufung behandeln.
 - Zukunftswunsch mit negativem Subtext: „wünschen ihr für die Zukunft mehr Erfolg" (riskante Lesart: bisher erfolglos).
 
 ## Anti-Muster
@@ -68,6 +70,6 @@ Nach BAG, Urteil v. 20.02.2001 – 9 AZR 44/00 und BAG, Urteil v. 11.12.2012 –
 
 Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
 
-## v392 Schlussformel nach Sonderzweck
+## Schlussformel nach Sonderzweck
 
 Bei Zwischenzeugnissen wird kein Ausscheiden behauptet; der Abschluss dankt für die bisherige Mitarbeit und erwartet eine weitere gute Zusammenarbeit. Bei Zeugnisberichtigung wird geprüft, ob eine frühere Schlussformel bereits erteilt war. Bei Prozessvergleich wird die Schlussformel als Verhandlungsbestandteil formuliert, aber nicht als zwingender gesetzlicher Anspruch dargestellt. Bei Arbeitgeberkündigung wird Bedauern nur verwendet, wenn es zum Sachverhalt passt.

@@ -16,6 +16,8 @@ from docx import Document
 from openpyxl import load_workbook
 from pypdf import PdfReader
 
+from testakte_file_filter import META_EXACT_NAMES, include_in_working_dump
+
 
 REPO = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO / "testakten"
@@ -40,6 +42,21 @@ PREFIXES = (
     "versausgleich-",
 )
 FORMAL_EXTS = {".docx", ".eml", ".pdf"}
+EXPORT_TEXT_EXTS = {
+    ".csv",
+    ".docx",
+    ".eml",
+    ".htm",
+    ".html",
+    ".json",
+    ".pdf",
+    ".rtf",
+    ".tsv",
+    ".txt",
+    ".xlsm",
+    ".xlsx",
+    ".xml",
+}
 MIN_FORMAL_TEXT = 600
 META_MARKERS = (
     "beispielakte",
@@ -56,6 +73,27 @@ META_MARKERS = (
     "bewusst keine",
     "bewusst mehrere",
 )
+EXPORT_META_PATTERNS = {
+    "Testkennzeichnung": re.compile(
+        r"\b(?:testakte|testdokument|test-dokument|testmaterial|plugin-test|plugin-testakte)\b",
+        re.IGNORECASE,
+    ),
+    "Vorführkennzeichnung": re.compile(
+        r"\b(?:demonstrationsdokument|demonstrationsauszug|demonstrations-testakte|demonstrationszweck(?:en)?)\b",
+        re.IGNORECASE,
+    ),
+    "Übungskennzeichnung": re.compile(
+        r"\b(?:übungsakte|uebungsakte|ausbildungszweck(?:en)?|lernakte|ki-kurs)\b",
+        re.IGNORECASE,
+    ),
+    "Fiktionshinweis": re.compile(
+        r"(?:alle|sämtliche)\s+[^\n.]{0,120}\b(?:fiktiv|erfunden)\b|"
+        r"\bfiktives?\s+(?:beispiel|test|übungs|uebungs|lern)[\w-]*|"
+        r"\bkein realer mandatsbezug\b",
+        re.IGNORECASE,
+    ),
+    "Arbeitsmarker": re.compile(r"\bTODO\b|\[AZ\s+fiktiv\]|\[fiktiv\]", re.IGNORECASE),
+}
 REMOVED_AGGREGATES = {
     "arbeitsrecht-kuendigungsdrama-koerber-werk/03_arbeitsvertrag_at_koerber_2012.docx",
     "arbeitsrecht-kuendigungsdrama-koerber-werk/04_organigramm_und_stellenbeschreibung.docx",
@@ -189,6 +227,11 @@ TRANSLITERATION = re.compile(
 )
 
 
+def prose_without_technical_names(text: str, path: Path) -> str:
+    prose = PROTECTED_PROSE.sub("", text)
+    return re.sub(re.escape(path.stem), "", prose, flags=re.IGNORECASE)
+
+
 def docx_text(path: Path) -> str:
     document = Document(path)
     paragraphs = [paragraph.text for paragraph in document.paragraphs]
@@ -198,7 +241,13 @@ def docx_text(path: Path) -> str:
         for row in table.rows
         for cell in row.cells
     ]
-    return "\n".join(paragraphs + cells)
+    headers_and_footers = [
+        paragraph.text
+        for section in document.sections
+        for area in (section.header, section.footer)
+        for paragraph in area.paragraphs
+    ]
+    return "\n".join(paragraphs + cells + headers_and_footers)
 
 
 def eml_text(path: Path) -> str:
@@ -229,6 +278,29 @@ def pdf_is_a4(path: Path) -> bool:
     return True
 
 
+def export_text(path: Path) -> str:
+    suffix = path.suffix.lower()
+    if suffix == ".docx":
+        return docx_text(path)
+    if suffix in {".xlsx", ".xlsm"}:
+        workbook = load_workbook(path, read_only=True, data_only=False)
+        try:
+            return "\n".join(
+                str(value)
+                for sheet in workbook.worksheets
+                for row in sheet.iter_rows(values_only=True)
+                for value in row
+                if value is not None
+            )
+        finally:
+            workbook.close()
+    if suffix == ".pdf":
+        return pdf_text(path)
+    if suffix == ".eml":
+        return eml_text(path)
+    return path.read_text(encoding="utf-8", errors="ignore")
+
+
 def is_a4(document: Document) -> bool:
     for section in document.sections:
         width = section.page_width.cm
@@ -248,6 +320,51 @@ def main() -> int:
         for path in sorted(TESTAKTEN.iterdir())
         if path.is_dir() and path.name.startswith(PREFIXES)
     ]
+
+    for path in sorted(TESTAKTEN.rglob("*")):
+        if not path.is_file() or "gesamt-pdf" in path.parts:
+            continue
+        if path.name.lower() in META_EXACT_NAMES:
+            errors.append(
+                f"{path.relative_to(REPO)}: überholtes Standard-Aktenstück vorhanden"
+            )
+        if path.suffix.lower() != ".eml":
+            continue
+        try:
+            message = eml_message(path)
+        except Exception as exc:
+            errors.append(f"{path.relative_to(REPO)}: E-Mail nicht lesbar: {exc}")
+            continue
+        for header in ("From", "To", "Date", "Subject", "Message-ID"):
+            if not message.get(header):
+                errors.append(
+                    f"{path.relative_to(REPO)}: E-Mail-Header {header} fehlt"
+                )
+        raw = path.read_text(encoding="utf-8", errors="replace").lower()
+        if ".invalid" in raw:
+            errors.append(
+                f"{path.relative_to(REPO)}: künstliche .invalid-Adresse vorhanden"
+            )
+
+    export_files_checked = 0
+    for case in sorted(path for path in TESTAKTEN.iterdir() if path.is_dir()):
+        for path in sorted(case.rglob("*")):
+            if not include_in_working_dump(path, case):
+                continue
+            export_files_checked += 1
+            if path.suffix.lower() not in EXPORT_TEXT_EXTS:
+                continue
+            try:
+                text = export_text(path)
+            except Exception as exc:
+                errors.append(f"{path.relative_to(REPO)}: Exportquelle nicht lesbar: {exc}")
+                continue
+            for label, pattern in EXPORT_META_PATTERNS.items():
+                match = pattern.search(text)
+                if match:
+                    errors.append(
+                        f"{path.relative_to(REPO)}: {label} {match.group(0)!r}"
+                    )
 
     for relative in sorted(REMOVED_AGGREGATES):
         old_path = TESTAKTEN / relative
@@ -276,7 +393,7 @@ def main() -> int:
                     errors.append(f"{path.relative_to(REPO)}: Paragrafenzeichen vorhanden")
                 if re.search(r"\bParagraph(?:en|e|s)?\b", text, re.IGNORECASE):
                     errors.append(f"{path.relative_to(REPO)}: 'Paragraf' nicht ausgeschrieben")
-                prose = PROTECTED_PROSE.sub("", text)
+                prose = prose_without_technical_names(text, path)
                 match = TRANSLITERATION.search(prose)
                 if match:
                     errors.append(
@@ -295,7 +412,7 @@ def main() -> int:
                     errors.append(f"{path.relative_to(REPO)}: Paragrafenzeichen vorhanden")
                 if re.search(r"\bParagraph(?:en|e|s)?\b", text, re.IGNORECASE):
                     errors.append(f"{path.relative_to(REPO)}: 'Paragraf' nicht ausgeschrieben")
-                prose = PROTECTED_PROSE.sub("", text)
+                prose = prose_without_technical_names(text, path)
                 match = TRANSLITERATION.search(prose)
                 if match:
                     errors.append(
@@ -326,7 +443,7 @@ def main() -> int:
                     errors.append(f"{path.relative_to(REPO)}: Paragrafenzeichen vorhanden")
                 if re.search(r"\bParagraph(?:en|e|s)?\b", text, re.IGNORECASE):
                     errors.append(f"{path.relative_to(REPO)}: 'Paragraf' nicht ausgeschrieben")
-                prose = PROTECTED_PROSE.sub("", text)
+                prose = prose_without_technical_names(text, path)
                 match = TRANSLITERATION.search(prose)
                 if match:
                     errors.append(
@@ -344,11 +461,6 @@ def main() -> int:
                         errors.append(f"{path.relative_to(REPO)}: kein A4-Format")
                 elif path.suffix.lower() == ".eml":
                     message = eml_message(path)
-                    for header in ("From", "To", "Date", "Subject"):
-                        if not message.get(header):
-                            errors.append(
-                                f"{path.relative_to(REPO)}: E-Mail-Header {header} fehlt"
-                            )
                     text = eml_text(path)
                 else:
                     text = pdf_text(path)
@@ -377,7 +489,7 @@ def main() -> int:
                     errors.append(
                         f"{path.relative_to(REPO)}: verräterischer Metahinweis {marker!r}"
                     )
-            prose = PROTECTED_PROSE.sub("", text)
+            prose = prose_without_technical_names(text, path)
             match = TRANSLITERATION.search(prose)
             if match:
                 errors.append(
@@ -397,7 +509,7 @@ def main() -> int:
 
     print(
         f"Dokumentqualität OK: {len(cases)} Akten, "
-        f"{checked_files} formale Dokumente"
+        f"{checked_files} formale Dokumente, {export_files_checked} Exportdateien"
     )
     return 0
 

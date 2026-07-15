@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -43,3 +43,18 @@ Die Akte enthält Statusberichte, Budgettabellen, E-Mails, Rechnungsnarrative, G
 ## Passende Plugins
 
 `kanzlei-mandant-lifecycle`, `fachanwalt-medizinrecht`, `gesellschaftsrecht`, `vertragsrecht`, `datenschutzrecht`, `ki-vo-ai-act-pruefer`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`22_rechnungskuerzung_sachverhaltsabgleich.docx`](22_rechnungskuerzung_sachverhaltsabgleich.docx) | Mandantenschreiben mit einzelnen beanstandeten Buchungspositionen |
+| [`23_email_general_counsel_prioritaeten.eml`](23_email_general_counsel_prioritaeten.eml) | Priorisierungsmail des General Counsel |
+| [`24_zeiteintraege_juni_roh.csv`](24_zeiteintraege_juni_roh.csv) | Unveränderte Zeiteinträge mit offenen Zuordnungen |
+
+<!-- END nachgereichte-originalunterlagen -->

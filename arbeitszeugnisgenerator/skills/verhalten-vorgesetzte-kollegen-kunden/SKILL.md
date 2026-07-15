@@ -1,23 +1,23 @@
 ---
 name: verhalten-vorgesetzte-kollegen-kunden
-description: "Wenn es um Verhalten gegenüber Vorgesetzten, Kollegen und Kunden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitarbeitern, Kunden und Behörden. Liefert eine belegte, vollständig kontextualisierte Passage und bewertet Reihenfolge oder Auslassung nicht schematisch."
 ---
 
 # Verhalten gegenüber Vorgesetzten, Kollegen und Kunden
 
 ## Ziel
 
-Den Verhaltensabschnitt korrekt in der Pflicht-Reihenfolge und mit der richtigen Notenformulierung generieren.
+Den Verhaltensabschnitt für die tatsächlich relevanten Personengruppen klar, vollständig und mit einer zur Tatsachengrundlage passenden Bewertung formulieren.
 
-## Pflicht-Reihenfolge
+## Geschäftsübliche Reihenfolge als Prüfhinweis
 
-Die Reihenfolge im Verhaltensabschnitt ist normiert:
+Häufig wird folgende Reihenfolge verwendet:
 
 1. Vorgesetzte
 2. Kollegen (und Mitarbeiter bei Führungskräften)
 3. Kunden / externe Partner (wenn Kundenkontakt bestand)
 
-Eine falsche Reihenfolge (z.B. Kollegen vor Vorgesetzten) ist ein Berichtigungspunkt. Fehlt eine Gruppe ganz, obwohl sie für die Position relevant war, ist das Schweigen ein Negativsignal.
+Die Reihenfolge ist keine gesetzlich normierte Notenskala. Eine Abweichung oder Auslassung wird nur beanstandet, wenn sie im konkreten Gesamttext aus Sicht eines objektiven Lesers eine unzutreffende Abwertung vermittelt. Nicht vorhandene Kontaktgruppen werden nicht erfunden.
 
 ## Formeln nach Note
 
@@ -41,7 +41,7 @@ Achtung: „stets einwandfrei gegenüber Vorgesetzten und Kollegen" ohne Kundena
 ### Note 4 — Verhalten
 > Das Verhalten gegenüber Vorgesetzten und Kollegen war korrekt.
 
-„Korrekt" allein ist ein Negativsignal — distanziert, kühl, ohne Wärme.
+„Korrekt" beschreibt ein eher zurückhaltendes Niveau. Seine Wirkung hängt von Adverb, Satzumfeld und Gesamtbewertung ab und wird nicht isoliert als feste Note behandelt.
 
 ## Riskante Formulierungen im Verhaltensabschnitt
 
@@ -55,11 +55,11 @@ Achtung: „stets einwandfrei gegenüber Vorgesetzten und Kollegen" ohne Kundena
 
 ## Auslassung als Negativsignal
 
-Fehlt der Kundenkontakt-Satz bei einer Kundenposition, wird das als Kundenproblem gelesen. Fehlt der Kollegen-Satz, wird das als Teamkonflikt gelesen. Immer alle relevanten Gruppen ansprechen.
+Fehlt eine für die Tätigkeit prägende Kontaktgruppe, wird zunächst geprüft, ob das Gesamtzeugnis den Kontakt an anderer Stelle abbildet und welche Tatsachen eine Ergänzung tragen. Aus dem Schweigen allein wird kein konkreter Konflikt behauptet.
 
 ## Qualitätscheck vor Ausgabe
 
-1. Ist die Reihenfolge Vorgesetzte → Kollegen → Kunden eingehalten?
+1. Sind die tatsächlich relevanten Personengruppen erfasst und sinnvoll geordnet?
 2. Sind alle relevanten Gruppen für diese Position erwähnt?
 3. Ist das Adverb (stets, korrekt) konsistent mit der gewählten Leistungsnote?
 4. Keine riskanten Formulierungen aus dem Negativkatalog?
@@ -67,14 +67,20 @@ Fehlt der Kundenkontakt-Satz bei einer Kundenposition, wird das als Kundenproble
 ## Stolpersteine
 
 - Kundenkontakt weglassen, weil der Nutzer ihn nicht explizit erwähnte — bei Außendienst, Vertrieb, Pflege, Handel immer nachfragen.
-- „korrekt" als höfliche Standardformulierung verwenden — es ist ein Negativsignal.
-- Die Reihenfolge umkehren, weil die Formulierung besser klingt — Reihenfolge ist Pflicht.
+- „korrekt" ohne Prüfung des Satz- und Gesamtzusammenhangs als feste Schulnote behandeln.
+- Aus einer abweichenden Reihenfolge automatisch einen Berichtigungsanspruch ableiten.
 
 ## Anti-Muster
 
 - Alle drei Gruppen in einem Satz ohne Differenzierung: „verhielt sich gegenüber allen Beteiligten korrekt" — das ist Note 4 für alle.
 - Verhaltensabschnitt mit Note 3 formulieren, aber Leistungsabschnitt mit Note 1 — das ist ein Drift-Signal.
 - „brachte sich engagiert in Diskussionen ein" als positiven Verhaltenshinweis verwenden — riskante Konfliktfreude-Lesart.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Entscheidend ist der objektive Empfängerhorizont; isolierte Codelexika tragen die Bewertung nicht.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20 und 27: Die individuellen, prägenden Merkmale und der Gesamtzusammenhang sind maßgeblich.
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Eine Auslassung ist kontextbezogen zu prüfen und darf kein unwahres Bild erzeugen.
 
 ## Ausgabeformat
 

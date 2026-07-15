@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-praktikum
-description: "Wenn es um Zeugnisart: Praktikumszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt Praktikumsnachweise und -zeugnisse nach Status, Vertrag und Ausbildungszweck. Trennt Pflichtpraktikum, freiwilliges Arbeitsverhältnis und bloßen Tätigkeitsnachweis und formuliert Aufgaben, Lernfortschritt und Verhalten nur aus belegten Angaben."
 ---
 
 # Zeugnisart: Praktikumszeugnis
@@ -13,7 +13,7 @@ Ein vollständiges und glaubwürdiges Praktikumszeugnis generieren, das dem Prak
 
 Paragraf 109 GewO gilt für Arbeitnehmer im engeren Sinne. Pflichtpraktika (Schüler, Studenten) fallen nicht in den Anwendungsbereich — es gibt keinen gesetzlichen Anspruch auf ein Praktikumszeugnis nach GewO. Freiwillige Praktika im Rahmen eines Arbeitsverhältnisses können unter Paragraf 109 GewO fallen.
 
-In der Praxis wird ein Praktikumszeugnis regelmäßig erteilt und enthält häufig Aussagen zu Leistung und Verhalten. Maßstab ist der Wohlwollensgrundsatz analog.
+Ob ein Anspruch besteht und welchen Inhalt er hat, hängt vom Status, Praktikumsvertrag, Ausbildungsrecht und gegebenenfalls vom Arbeitsverhältnis ab. Eine freiwillige Bewertung bleibt an Wahrheit, klare Sprache und die belegten Praktikumsinhalte gebunden; eine pauschale Analogie ersetzt die Statusprüfung nicht.
 
 ## Pflichtinhalt (empfohlen)
 
@@ -47,7 +47,7 @@ In der Praxis wird ein Praktikumszeugnis regelmäßig erteilt und enthält häuf
 
 - Kürzere Beschäftigungsdauer (wenige Wochen bis Monate) — Bewertungsmaßstab anpassen.
 - Lernfortschritt und Entwicklung stärker gewichten als Endergebnis.
-- Bei Schülerpraktika: Pünktlichkeit und Zuverlässigkeit explizit erwähnen.
+- Bei Schülerpraktika: Pünktlichkeit und Zuverlässigkeit nur aufnehmen, wenn sie bewertet und belegt wurden.
 - Hochschulpraktika: fachliche Einbindung und eigenständige Beiträge hervorheben.
 
 ## Schlussformel Praktikum
@@ -65,6 +65,12 @@ In der Praxis wird ein Praktikumszeugnis regelmäßig erteilt und enthält häuf
 - Praktikumszeugnis ohne Angabe, ob Pflicht- oder freiwilliges Praktikum.
 - Aufgabenbeschreibung weglassen und nur „war in unserem Unternehmen tätig" schreiben.
 - Bewertung nach Erwachsenen-Maßstäben ohne Anpassung an Ausbildungsstand.
+
+## Normen- und Rechtsprechungsanker
+
+- Paragraf 109 GewO gilt nur, wenn ein Arbeitsverhältnis vorliegt; bei Pflichtpraktika ist der konkrete Status zu prüfen.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 16 bis 20, betrifft das qualifizierte Arbeitszeugnis, gibt für freiwillige qualifizierte Praktikumsbewertungen aber eine belastbare Orientierung: individuelle Tätigkeiten und prägende Merkmale in Fließtext darstellen.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19: Eine positive Bewertung bleibt der Wahrheit verpflichtet; Lernfortschritt und Spitzenleistung werden nicht erfunden.
 
 ## Ausgabeformat
 

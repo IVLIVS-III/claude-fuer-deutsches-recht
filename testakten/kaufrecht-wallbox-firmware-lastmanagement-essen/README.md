@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -52,3 +52,18 @@ Verbraucherin kauft eine vernetzte Wallbox mit App, PV-Überschussladen und dyna
 ## Arbeitsnotiz
 
 Die Akte zwingt zur Trennung von Hardwaremangel, digitalem Element, dauerhafter Bereitstellung, Updatepflicht, Verbrauchsgüterkauf, Beweislast und angemessener Nacherfüllung.
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`13_installationsmessung_wallbox_lastmanagement.docx`](13_installationsmessung_wallbox_lastmanagement.docx) | Elektrotechnisches Messprotokoll unter Last |
+| [`14_email_netzbetreiber_steuerbefehl.eml`](14_email_netzbetreiber_steuerbefehl.eml) | Netzbetreiberauskunft zum fehlenden Reduzierungsbefehl |
+| [`15_ladevorgaenge_heliocharge_w7_juni_juli.csv`](15_ladevorgaenge_heliocharge_w7_juni_juli.csv) | Lade- und Leistungsrohdaten vor Ort |
+
+<!-- END nachgereichte-originalunterlagen -->

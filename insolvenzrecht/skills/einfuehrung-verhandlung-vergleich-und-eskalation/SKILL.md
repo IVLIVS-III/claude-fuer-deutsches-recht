@@ -40,7 +40,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verhandlungs- und Eskalationspfade im Insolvenzrecht
 - **Vorinsolvenzlich:** Stillhalteabkommen (Standstill) — gesondert Schriftform, Laufzeit max. 90 Tage typisch; Sanierungsmoderator §§ 94 ff. StaRUG für strukturierte Vermittlung; StaRUG-Restrukturierungsplan § 4 ff. StaRUG bei drohender Zahlungsunfähigkeit (§ 18 InsO).
-- **Eigenverwaltung § 270 InsO:** Mit § 270a-Antrag oder Schutzschirm § 270d InsO. Vorteil: Geschäftsführung bleibt. Voraussetzung: Eigenverwaltungsplanung und keine Anhaltspunkte, dass Gläubiger durch Eigenverwaltung schlechter stehen.
+- **Eigenverwaltung:** Antrag und vollständige Eigenverwaltungsplanung nach Paragraf 270a InsO, vorläufige Anordnung nach Paragraf 270b InsO und Anordnung im eröffneten Verfahren nach Paragraf 270f InsO auseinanderhalten. Beim Schutzschirm kommen die besonderen Voraussetzungen des Paragrafen 270d InsO hinzu. Die Planung muss vollständig und schlüssig sein; nachteilige Umstände aus Paragraf 270b Absatz 2 InsO offenlegen und belastbar entkräften.
 - **Regelverfahren:** Insolvenzverwalter führt das Verfahren; Eigenverwaltung wird abgelehnt oder nicht beantragt.
 - **Insolvenzplan §§ 217 ff. InsO:** Sanierung im eröffneten Verfahren; auch durch Verwalter (§ 218 Abs. 1 InsO).
 - **Verhandlungslinie Gläubiger:** Vor Antrag Stundung/Vergleich; nach Antrag Forderungsanmeldung und ggf. Plan-Mitwirkung; bei Anfechtung Verteidigungslinien (§ 142 Bargeschäft, fehlende Kenntnis bei § 130, fehlende Inkongruenz bei § 131).

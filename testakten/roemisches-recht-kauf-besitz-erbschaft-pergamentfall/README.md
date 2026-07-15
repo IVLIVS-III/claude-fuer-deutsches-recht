@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,20 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Kauf, Besitzschutz, Servitut, Erbschaft und Digestenargument in einer Lehr- und Gutachtenakte.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Dokumente und Problemkern |
-| `02-fristen-risiken-dashboard.csv` | Fristen-, Risiko- und Entscheidungsübersicht |
-| `03-email-mandat-und-rueckfrage.eml` | E-Mail aus dem Mandat |
-| `04-arbeitsvermerk.docx` | Word-Vermerk für die Bearbeitung |
-| `05-dashboard.xlsx` | Excel-/Tracker-Arbeitsblatt |
-| `06-lagekarte.jpg` | Bildanlage als Whiteboard-/Lagekarte |
-| `07-quellen-und-streitpunkte.pdf` | PDF-Memo mit Streitpunkten und Quellenlogik |
-| `08-entwurf-naechster-schritt.docx` | Entwurf für Memo, Antrag, Klausel oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
-
+| --- | --- |
+| `01_restaurierungsprotokoll_av1938_77.docx` | Pergament und Wachstafeln aus Depotkiste AV-1938-77 |
+| `02_objektinventar_und_provenienzquellen.xlsx` | Tabellarische Rohdaten Objekte mit 6 Datensätzen |
+| `03_email_valeria_termin_herausgabe.eml` | E-Mail mit vollständigem Header: Sammlung Valeria / Termin am 27. April und Unterlagen aus 1938 |
+| `04_inventarkarte_und_leihbuch.docx` | Inventareinträge zur Sammlung Valeria und Kiste AV-1938-77 |
+| `05_klimadaten_und_fotoaufnahmen_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_lateinische_transkription.eml` | E-Mail mit vollständigem Header: AV-1938-77 / vorläufige Lesung der Digitalaufnahmen |
+| `07_besuchervermerk_erben_valeria.docx` | Besuch Anna Valeria und Lukas Valeria, Einsicht in Depotunterlagen |
 ## Passende Plugins
 
 `roemisches-recht`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_restaurierungsprotokoll_pergament_und_tafeln.docx`](12_restaurierungsprotokoll_pergament_und_tafeln.docx) | Konservatorisches Primärprotokoll ohne rechtliche Deutung |
+| [`13_email_kurator_fundkiste_1938.eml`](13_email_kurator_fundkiste_1938.eml) | Kuratorenmail zur lückenhaften Herkunftskette |
+| [`14_objektinventar_sammlung_valeria_roh.csv`](14_objektinventar_sammlung_valeria_roh.csv) | Museumsinventar mit sichtbaren Befunden |
+
+<!-- END nachgereichte-originalunterlagen -->

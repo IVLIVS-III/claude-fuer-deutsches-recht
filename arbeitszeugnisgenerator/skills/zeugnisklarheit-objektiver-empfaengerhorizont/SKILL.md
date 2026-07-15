@@ -1,6 +1,6 @@
 ---
 name: zeugnisklarheit-objektiver-empfaengerhorizont
-description: "Wenn es um Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10) in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft zweideutige Formulierungen und vermeintliche Geheimcodes aus Sicht eines objektiven Zeugnislesers und im Zusammenhang des gesamten Textes. Liefert eine Klarheitsanalyse mit Wortlaut, Kontext, möglicher Lesart und rechtssicherer Ersatzfassung."
 ---
 
 # Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)

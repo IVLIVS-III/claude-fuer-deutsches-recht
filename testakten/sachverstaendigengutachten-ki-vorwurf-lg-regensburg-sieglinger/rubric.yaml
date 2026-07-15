@@ -1,8 +1,4 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Sachverstaendigengutachten Ki Vorwurf Lg Regensburg Sieglinger"
+name: "Sachverstaendigengutachten Regensburg Sieglinger"
 plugin: "vertragsrecht"
 
 checks:
@@ -16,13 +12,26 @@ checks:
     description: "Gesamt-PDF gebaut"
     path: "gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf"
 
-  - id: r03-mindestens-3-aktenstuecke
+  - id: r03-vollstaendige-parteischriftsaetze
     check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
+    description: "Klage und Klageerwiderung liegen als vollstaendige DOCX vor"
+    glob: "0[12]_*.docx"
+    min: 2
 
-  - id: r04-fachspezifischer-check-zu-ergaenzen
+  - id: r04-technische-rohdaten
+    check_type: file_count
+    description: "Monitorwerte und Ereignisspeicher liegen als getrennte Tabellen vor"
+    glob: "0[57]_*.csv"
+    min: 2
+
+  - id: r05-keine-platzhalter
     check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+    description: "Kein exportiertes Aktenstueck enthaelt Auslassungszeichen, redaktionelle Platzhalter oder interne Loesungshinweise"
+
+  - id: r06-konsistente-ertragswerte
+    check_type: human_review
+    description: "Die Monatswerte fuer 2024 summieren sich auf den im Gutachten genannten korrigierten Ertrag von 73140 kWh"
+
+  - id: r07-getrennte-dokumente
+    check_type: human_review
+    description: "Parteischriftsaetze, Gutachten, gerichtliche Verfuegung, Stellungnahme und Sitzungsprotokoll sind jeweils eigene Dokumente"

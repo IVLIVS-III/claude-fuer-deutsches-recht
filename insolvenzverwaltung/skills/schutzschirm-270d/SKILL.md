@@ -80,7 +80,7 @@ Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung b
 
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
-- Konkrete BGH-Linien zu § 270d InsO (Bescheinigung, Auswahl Sachwalter, Beendigung Schutzschirm), insbesondere zur Anforderung an die IDW S 11 / IDW S 6-Bescheinigung, vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
+- Paragraf 270d InsO verlangt eine mit Gründen versehene Bescheinigung einer in Insolvenzsachen erfahrenen, gesetzlich qualifizierten Person zu Insolvenzgrund und Sanierungsaussicht. IDW S 11 kann für die Prüfung der Insolvenzgründe methodisch herangezogen werden; ein IDW-S-6-Sanierungsgutachten ist keine eigenständige gesetzliche Zulässigkeitsvoraussetzung. Rechtsprechung zu Bescheinigung, Sachwalterauswahl und Aufhebung nur nach Prüfung von Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
 
 ## Paragrafenkette Insolvenzverwaltung
 

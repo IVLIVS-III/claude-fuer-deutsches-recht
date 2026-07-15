@@ -134,7 +134,7 @@
   },
   "annualReports": {
     "annualReportPresent": true,
-    "annualReportUrl": "https://example.invalid/emerald-liffey-bank-annual-report-2025"
+    "annualReportUrl": "https://www.emerald-liffey-bank.ie/investor-relations/annual-report-2025.pdf"
   },
   "statements": {
     "statementsPresent": false,
@@ -147,6 +147,6 @@
   },
   "codeOfConduct": {
     "ownCodeOfConduct": true,
-    "codeOfConductPdfUrl": "https://example.invalid/emerald-liffey-bank-code-of-conduct.pdf"
+    "codeOfConductPdfUrl": "https://www.emerald-liffey-bank.ie/governance/code-of-conduct.pdf"
   }
 }

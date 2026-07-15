@@ -1,0 +1,6 @@
+﻿Zeitpunkt;Ereignis;Geraet;IP_Kuerzel;Betrag_EUR;Empfaenger;Systemstatus
+2026-06-18 20:41:12;Login;DEV-NEW-884;IP-77A;;;erfolgreich
+2026-06-18 20:43:08;Gerät vorgemerkt;DEV-NEW-884;IP-77A;;;Code versandt
+2026-06-18 20:51:44;Gerät aktiviert;DEV-NEW-884;IP-77A;;;Code korrekt
+2026-06-18 21:04:19;Überweisung;DEV-NEW-884;IP-77A;9800;DE88...441;freigegeben
+2026-06-18 21:26:03;Notfallsperre;DEV-BEST-118;IP-HOME;;;Zugang gesperrt

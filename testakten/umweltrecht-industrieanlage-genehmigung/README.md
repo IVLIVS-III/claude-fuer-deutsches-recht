@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-umweltrecht-industrieanlage-genehmigung` (Akte) | [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 Arbeitsakte über einen komplexen umweltrechtlichen Beratungsfall rund um die geplante Erweiterung einer Spezialchemie-Anlage in Nordrhein-Westfalen. Die Akte deckt das gesamte Spektrum des modernen betrieblichen Umweltrechts ab: Immissionsschutz, Emissionshandel, Wasserrecht, Bodenschutz, Naturschutz, Ordnungswidrigkeiten und umweltrechtliche Due Diligence bei einem Unternehmensverkauf.
 
@@ -88,7 +87,7 @@ Schließlich prüft ein Investor die Übernahme von Gesellschaftsanteilen an der
 
 | Ordner / Datei | Inhalt |
 |---|---|
-| [01_intake/email_anlagenbetreiber.txt](01_intake/email_anlagenbetreiber.txt) | Erstes E-Mail-Briefing der Betreiberin an die Kanzlei; Auflistung aller Themen |
+| [01_intake/email_anlagenbetreiber.eml](01_intake/email_anlagenbetreiber.eml) | Vollständiges E-Mail-Briefing zu Linie 4, Beschwerden, UIG-Antrag und Anhörung |
 | [02_bimschg/aenderungsanzeige_roh.docx](02_bimschg/aenderungsanzeige_roh.docx) | Vollständige Änderungsanzeige nach § 15 BImSchG mit Briefkopf, Anlagenbeschreibung, Emissionsprognose, Abgrenzung § 16 BImSchG, Nachbarschaftsstellungnahme |
 | [02_bimschg/aenderungsanzeige_roh.docx](02_bimschg/aenderungsanzeige_roh.docx) | DOCX-Fassung der Änderungsanzeige (Word-Dokument) |
 | [03_tehg/zuteilung_dehst_notiz.docx](03_tehg/zuteilung_dehst_notiz.docx) | Interner Aktenvermerk zur TEHG-Kapazitätsänderungsprüfung + förmliches DEHSt-Schreiben zur Monitoring-Plan-Revision 4 |

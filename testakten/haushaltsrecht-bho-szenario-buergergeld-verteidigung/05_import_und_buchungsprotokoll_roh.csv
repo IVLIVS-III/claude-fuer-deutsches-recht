@@ -1,0 +1,7 @@
+﻿Zeitpunkt;Datei;Aktion;Beleg;Betrag_EUR;Benutzer;Status
+21.06.2026 22:18;KM_2026_05_v2.xml;Import;L-2026-05-07-A;97200000;batch_hh2;Timeout Anzeige
+22.06.2026 00:07;KM_2026_05_v2.xml;Import erneut;L-2026-05-07-B;97200000;bereitschaft01;gebucht
+26.06.2026 11:42;;Storno;L-2026-05-07-B;-97200000;s.maessler;gebucht
+30.06.2026 23:59;Monatsabschluss;Auszug;;0;system;erstellt
+03.07.2026 14:28;Differenzliste_1843.csv;Nachreichung Land;;0;r.esswein;eingegangen
+04.07.2026 09:12;;Sperrbuchung;SP-1101-26;125000000;f.mass;aktiv

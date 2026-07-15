@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-kanzlei-allgemein-alltag` (Akte) | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 Kanzlei-Alltag der **Kanzlei Lindenstraße Rechtsanwältin Jana Reuter**, Berlin. Die Akte ist als Arbeitsmappe für **Kanzlei-Allgemein-Plugin** (`kanzlei-allgemein`) gebaut: edles Claude-Cowork-Dashboard, Nachtblau/Silber/Orange-Look, Kommandocenter, freundlicher Copilot, Integrationscheck, Simulationsmodus, Mandatsannahme/GwG, KYC, PEP, Kontoblatt, Schreib-Canvas, Klage-/Replik-Turbo, Rechtsprechungsrecherche, Vertragsentwurf, Handelsregisterabruf, Qualitätsgate, beA-Journal, EB, Fristen, Kanzleikalender, HR, Urlaub, Krankheit, Payroll, Zeitnarrative, Rechnung, Geschäftskonto, Bankmatching, E-Rechnung, UStVA und Tagesabschluss.
 
@@ -72,7 +71,7 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 
 | Datei | Inhalt |
 |-------|--------|
-| [01_posteingang/email_mandantin_meyer.txt](01_posteingang/email_mandantin_meyer.txt) | E-Mail von Clara Meyer mit Schilderung des Schlössertauschs |
+| [01_posteingang/email_mandantin_meyer.eml](01_posteingang/email_mandantin_meyer.eml) | E-Mail von Clara Meyer mit Schilderung des Schlössertauschs |
 | [01_posteingang/fax_verfügung_amtsgericht.txt](01_posteingang/fax_verfuegung_amtsgericht.txt) | Fax-Verfügung des AG Mitte mit Fristsetzung 23.05.2026 |
 | [01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.docx](01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.docx) | Beschreibung eines abgeschnittenen WhatsApp-Screenshots (Anlage K5) |
 

@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -20,3 +20,18 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 Arbeitsakte zu einer Off-Label-Use-Kostenübernahme für ein sehr teures Arzneimittel bei seltener neuroimmunologischer Erkrankung, mit Klinikgutachten, MD-Ablehnung, Eilantrag und rentenberaterlicher Folgeprüfung. Die Akte ist für `krankenkassenrecht-krankenversicherung`, `fachanwalt-sozialrecht` und `rentenpruefer` gedacht.
 
 Enthalten sind ausformulierte Aktenstücke, Bescheide, medizinische oder betriebliche Unterlagen, Fristenmaterial, Tabellen und Arbeitsentwürfe. Die rechtliche Bewertung bleibt offen; die Unterlagen liefern den Sachverhalt für Widerspruch, Klage, Eilverfahren, Statusprüfung, Reha- und Rentenfolgefragen.
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`13_neurologischer_verlaufsbericht_neravexor.docx`](13_neurologischer_verlaufsbericht_neravexor.docx) | Ausführlicher neurologischer Verlaufsbericht mit Vorbehandlungen |
+| [`14_email_klinikapotheke_beschaffung_und_kosten.eml`](14_email_klinikapotheke_beschaffung_und_kosten.eml) | Apothekenmail zu konkreter Beschaffung und Kühlkette |
+| [`15_verlauf_labor_gehstrecke_2025_2026.csv`](15_verlauf_labor_gehstrecke_2025_2026.csv) | Zeitlich geordnete Rohwerte ohne Wirksamkeitsprognose |
+
+<!-- END nachgereichte-originalunterlagen -->

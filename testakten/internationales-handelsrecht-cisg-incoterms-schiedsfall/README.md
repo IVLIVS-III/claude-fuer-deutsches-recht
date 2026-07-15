@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,20 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 CISG-Liefervertrag, Incoterms, Akkreditiv, Sanktionen, Force Majeure und ICC-Schiedsstrategie.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Dokumente und Problemkern |
-| `02-fristen-risiken-dashboard.csv` | Fristen-, Risiko- und Entscheidungsübersicht |
-| `03-email-mandat-und-rueckfrage.eml` | E-Mail aus dem Mandat |
-| `04-arbeitsvermerk.docx` | Word-Vermerk für die Bearbeitung |
-| `05-dashboard.xlsx` | Excel-/Tracker-Arbeitsblatt |
-| `06-lagekarte.jpg` | Bildanlage als Whiteboard-/Lagekarte |
-| `07-quellen-und-streitpunkte.pdf` | PDF-Memo mit Streitpunkten und Quellenlogik |
-| `08-entwurf-naechster-schritt.docx` | Entwurf für Memo, Antrag, Klausel oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
-
+| --- | --- |
+| `01_wareneingangsbericht_nh480.docx` | Wareneingang 18 Turbinenlager NH-480, Feuchtigkeit und Messabweichungen |
+| `02_lieferlose_messwerte_und_transport.xlsx` | Tabellarische Rohdaten Lager und Logger mit 7 Datensätzen |
+| `03_email_spedition_umschlag_rotterdam.eml` | E-Mail mit vollständigem Header: MRSU 441208-7 / transshipment Rotterdam 28 April |
+| `04_transportversicherer_nachforderung.docx` | Schadenanzeige NL-884, Container MRSU 441208-7 |
+| `05_transportereignisse_mrsu4412087_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_valnera_endpruefung.eml` | E-Mail mit vollständigem Header: NL-884 / final inspection records and joint survey |
+| `07_produktionsmeldung_linie_2.docx` | Materialstatus Linie 2 nach Sperrung Los NH-480 |
 ## Passende Plugins
 
 `internationales-handelsrecht-lex-mercatoria`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_wareneingangspruefung_turbinenlager.docx`](12_wareneingangspruefung_turbinenlager.docx) | Werkseitige Wareneingangsprüfung mit Messwerten und Sicherungszustand |
+| [`13_email_spedition_umschlag_rotterdam.eml`](13_email_spedition_umschlag_rotterdam.eml) | Speditionsmail zu Umschlag und Wetterereignis |
+| [`14_lieferlose_messwerte_transport.csv`](14_lieferlose_messwerte_transport.csv) | Rohdaten der betroffenen und unauffälligen Lieferteile |
+
+<!-- END nachgereichte-originalunterlagen -->

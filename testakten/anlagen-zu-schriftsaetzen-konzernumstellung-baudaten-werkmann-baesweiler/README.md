@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -180,7 +180,7 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 | Datei | Inhalt |
 |---|---|
 | [`bea_uebertragungsprotokoll_xjustiz_redacted.pdf`](bea_uebertragungsprotokoll_xjustiz_redacted.pdf) | beA-Transferprotokoll (SHA-256-Hashes K1–K247), redaktiert (Kanzlei-Netzwerkpfade entfernt) |
-| [`aufmassprotokoll_lackieranlage_eschweiler_redacted.pdf`](aufmassprotokoll_lackieranlage_eschweiler_redacted.pdf) | Muster-Aufmaßprotokoll AMP-2024-023 V2 (Seiten 1–3 von 6), Messergebnisse Rohrleitungen |
+| [`aufmassprotokoll_lackieranlage_eschweiler.pdf`](aufmassprotokoll_lackieranlage_eschweiler.pdf) | Vollständiges Aufmaßprotokoll AMP-2024-023 mit Mengenermittlung, örtlichen Feststellungen, Anlagen- und Unterschriftsblatt |
 
 ### Fotos
 

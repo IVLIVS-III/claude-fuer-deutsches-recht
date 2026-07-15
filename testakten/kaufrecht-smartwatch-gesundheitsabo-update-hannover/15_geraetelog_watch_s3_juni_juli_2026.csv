@@ -1,0 +1,6 @@
+﻿Zeitpunkt;Firmware;Ereignis;Uhrwert;Vergleichswert;Übertragung;Notiz
+2026-06-19 22:14;8.4.2;Update abgeschlossen;;;Cloud bestätigt;WLAN Wohnzimmer
+2026-06-21 07:42;8.4.2;EKG abgebrochen;Fehler 17;;keine Datei;zweiter Versuch identisch
+2026-06-24 18:05;8.4.2;Sturzerkennung;Alarm;;Kontakt nicht erreicht;Sturz im Garten
+2026-07-09 10:31;8.4.2;Ruhepuls Werkstatt;63;74;lokal;Referenzgerät 72
+2026-07-10 15:18;8.4.2;Praxisvergleich;61-83;72;PDF gesperrt;Plus-Tarif verlangt

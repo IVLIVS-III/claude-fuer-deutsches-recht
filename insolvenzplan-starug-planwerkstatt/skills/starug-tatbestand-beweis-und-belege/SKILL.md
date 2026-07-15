@@ -44,7 +44,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Drohende Zahlungsunfähigkeit § 18 InsO **muss** vorliegen — 24-Monats-Prognose.
  - Eintritt Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO **schließt StaRUG aus** (§ 33 Abs. 2 Nr. 1 StaRUG, Aufhebungspflicht).
 - **StaRUG-Anzeige § 31 StaRUG:**
- - Adressat: Restrukturierungsgericht (LG am OLG-Sitz, § 34 StaRUG).
+ - Adressat: das nach Paragraf 34 StaRUG sachlich und nach Paragraf 35 StaRUG örtlich zuständige Restrukturierungsgericht; grundsätzlich Amtsgericht am Sitz eines Oberlandesgerichts, vorbehaltlich landesrechtlicher Konzentration.
  - Form: schriftlich oder elektronisch; § 32 StaRUG verlangt Plan-Konzept, Krisenursachen, Sanierungsschritte, Liste der betroffenen Forderungen.
  - Wirkung: Aufnahme als Restrukturierungssache, Voraussetzung für Stabilisierungsanordnung § 49 StaRUG und Restrukturierungsbeauftragten § 73 StaRUG.
 

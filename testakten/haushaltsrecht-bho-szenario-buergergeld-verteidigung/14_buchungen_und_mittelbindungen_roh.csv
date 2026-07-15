@@ -1,0 +1,6 @@
+﻿Buchungstag;Kapitel_Titel;Vorgang;Betrag_EUR;Fälligkeit;Status;Belegnummer
+2026-06-18;1101-63611;Länderabruf Nordland Mai;184200000;2026-06-30;geprüft;L-2026-05-01
+2026-06-21;1101-63611;Länderabruf Küstenmark Mai;97200000;2026-06-30;Datei abweichend;L-2026-05-07
+2026-06-24;1101-63611;Länderabruf Westhain Mai;221600000;2026-06-30;geprüft;L-2026-05-11
+2026-06-26;1101-63611;Storno Doppelimport;-97200000;2026-06-26;technisch;ST-8841
+2026-06-29;1405-55421;Nordschirm Rate 4;640000000;2026-11-30;Planung geändert;V-NS-04

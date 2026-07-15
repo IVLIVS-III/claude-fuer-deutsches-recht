@@ -59,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Behörden- und Gerichtsweg
 
-- **Restrukturierungsgericht (§ 34 StaRUG):** Landgericht am Sitz des OLG zuständig.
+- **Restrukturierungsgericht:** Nach Paragraf 34 StaRUG grundsätzlich das Amtsgericht am Sitz eines Oberlandesgerichts; abweichende landesrechtliche Konzentration und örtliche Zuständigkeit nach Paragraf 35 StaRUG aktuell prüfen.
 - **StaRUG-Anzeige § 31 StaRUG:** beim Restrukturierungsgericht, Voraussetzung für Restrukturierungsbeauftragten § 73 StaRUG und Stabilisierungsanordnungen § 49 ff. StaRUG.
 - **Register:** Restrukturierungssache wird **nicht öffentlich** bekannt gemacht (im Gegensatz zur Insolvenz) — Vertraulichkeit erhalten.
 - **Steuerliche Seite:** § 3a EStG Sanierungsgewinn (Restrukturierungsplan zählt zu „sonstigen Maßnahmen zur Schuldenüberwindung" — Verifikation Stand BMF-Schreiben).

@@ -1,6 +1,6 @@
 ---
 name: belastbarkeit-formeln
-description: "Wenn es um Belastbarkeit-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Entwickelt belegbare Aussagen zu Belastbarkeit, Priorisierung und Leistung unter Zeit- oder Mengendruck, ohne Krankheit, Fehlzeiten oder Einschränkungen zu codieren. Liefert zur Funktion passende Formulierungsvarianten mit Tatsachenkern und Notenwirkung."
 ---
 
 # Belastbarkeit-Formeln
@@ -9,16 +9,16 @@ description: "Wenn es um Belastbarkeit-Formeln in Arbeitszeugnisgenerator geht: 
 
 Belastbarkeitsaussagen mit der richtigen Notenstufe generieren und riskante Formulierungen vermeiden, die auf Krankheit oder Fehlzeiten hindeuten.
 
-## Wann ist Belastbarkeit Pflicht?
+## Wann ist Belastbarkeit prägend?
 
-Belastbarkeit muss erwähnt werden bei:
+Eine besondere Belastbarkeitsaussage kann sinnvoll sein bei:
 - Führungskräften
 - Positionen mit regelmäßigen Deadlines oder Hochphasen
 - Außendienst und Reisebereitschaft
 - Schichtarbeit oder unregelmäßigen Arbeitszeiten
 - Krisenrelevanten Positionen (Notaufnahme, IT-Support, Produktion)
 
-Fehlt die Belastbarkeitsaussage bei diesen Positionen, wird das als Belastbarkeitsdefizit gelesen.
+Das Fehlen ist kein automatischer Rechtsmangel. Es löst eine Kontextprüfung aus, wenn Belastungssituationen die Tätigkeit nachweislich prägten und der Gesamttext hierzu sonst kein aussagekräftiges Bild vermittelt.
 
 ## Formeln nach Note
 
@@ -44,7 +44,7 @@ Fehlt die Belastbarkeitsaussage bei diesen Positionen, wird das als Belastbarkei
 ### Note 4 — Belastbarkeit
 > Frau/Herr [Name] war mit den üblichen Belastungen vertraut.
 
-„Mit den üblichen Belastungen vertraut" bedeutet: konnte sie nicht wirklich bewältigen — deutliches Negativsignal.
+„Mit den üblichen Belastungen vertraut" beschreibt nur Kenntnis, nicht Bewältigung. Die Formulierung ist deshalb unklar und wird durch eine Aussage zu beobachtbarer Arbeitsweise und Ergebnisqualität ersetzt.
 
 ## Riskante Formulierungen (generieren vermeiden)
 
@@ -58,11 +58,17 @@ Fehlt die Belastbarkeitsaussage bei diesen Positionen, wird das als Belastbarkei
 
 ## Fehlzeiten und Krankheit
 
-Krankheitsbedingte Fehlzeiten dürfen im Zeugnis nicht erwähnt werden — weder direkt noch durch kodierte Formulierungen. Der Generator darf keine Formulierungen erzeugen, die auf Krankheit oder Fehlzeiten hindeuten, auch wenn der Nutzer das explizit verlangt.
+Krankheit und Fehlzeiten sind keine Leistungs- oder Verhaltensnote. Sie werden nicht durch Nebenformulierungen offengelegt. Behauptet eine Partei einen seltenen Ausnahmefall, in dem das Verschweigen den Beschäftigungszeitraum oder das Tätigkeitsbild objektiv verfälschen könnte, wird vor jeder Erwähnung die aktuelle Rechtslage gesondert verifiziert; der Skill erzeugt hierfür keine automatische Standardklausel.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Ein qualifiziertes Zeugnis muss die für die konkrete Tätigkeit prägenden Leistungsmerkmale individuell gewichten.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 8 bis 19: Eine überdurchschnittliche Bewertung verlangt Tatsachen, die über das durchschnittlich Erwartbare hinausgehen; bloße Steigerungswörter ersetzen diese Grundlage nicht.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Riskante Nebenbedeutungen sind am objektiven Empfängerhorizont und im Gesamtzusammenhang zu prüfen.
 
 ## Qualitätscheck vor Ausgabe
 
-1. Ist Belastbarkeit für diese Position Pflicht?
+1. War Belastbarkeit für diese Position tatsächlich prägend und belegt?
 2. Passt die Belastbarkeitsformel zur Gesamtnote?
 3. Keine riskanten Krankheits- oder Fehlzeiten-Formulierungen?
 

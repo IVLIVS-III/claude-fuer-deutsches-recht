@@ -18,19 +18,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-amtsgericht-insolvenz-restrukturierung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md" download><code>richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md" download><code>richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md</code></a> |
-| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 235 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
-
-## Zugeordnete Testakten
-
-Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
-
-| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
-| --- | --- | --- | --- |
-| Pluginlokale Akte | [Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf) | [`richter-amtsgericht-insolvenz-restrukturierung-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-testakte.zip) | [`richter-amtsgericht-insolvenz-restrukturierung-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-insolvenz-restrukturierung-testakte-einzelpdfs.zip) |
-
-[Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.

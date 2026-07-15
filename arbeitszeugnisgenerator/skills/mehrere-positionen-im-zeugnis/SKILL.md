@@ -1,6 +1,6 @@
 ---
 name: mehrere-positionen-im-zeugnis
-description: "Wenn es um Mehrere Positionen im Zeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugnis ein. Liefert Rollenchronologie, Tätigkeitsblöcke und eine Gesamtbewertung, ohne frühere Positionen zu verwischen oder doppelt zu bewerten."
 ---
 
 # Mehrere Positionen im Zeugnis
@@ -11,7 +11,7 @@ Zeugnisse für Personen korrekt generieren, die während ihrer Beschäftigung di
 
 ## Grundregel
 
-Alle Positionen, die die Person während der Beschäftigung innehatte, müssen im Zeugnis aufgeführt werden — mit jeweiligen Zeiträumen. Eine fehlende Position ist ein Formfehler.
+Alle für das berufliche Bild prägenden Positionen, Verantwortungsstufen und Aufgabenwechsel werden mit belastbaren Zeiträumen erfasst. Kurzzeitige oder bedeutungslose Vertretungen müssen nicht schematisch aufgezählt werden; ihr Weglassen darf das Tätigkeitsbild aber nicht verfälschen.
 
 ## Varianten
 
@@ -65,7 +65,7 @@ Die Schlussformel bezieht sich auf das Gesamtverhältnis, nicht auf die letzte P
 
 ## Stolpersteine
 
-- Nur die letzte Position nennen und frühere Funktionen weglassen — Formfehler.
+- Nur die letzte Position nennen und dadurch eine prägende Entwicklung oder frühere Kernfunktion verschweigen.
 - Positionsbezeichnungen nicht datieren — führt zu Unklarheit, wann welche Funktion wahrgenommen wurde.
 - Beförderung nicht erwähnen, obwohl sie ein starkes positives Signal ist.
 
@@ -74,6 +74,13 @@ Die Schlussformel bezieht sich auf das Gesamtverhältnis, nicht auf die letzte P
 - Alle Positionen ohne Zeitraum in einem Satz zusammenfassen.
 - Positionsweise Bewertung einsetzen, ohne dass sachliche Gründe vorliegen.
 - Temporäre Vertretungsrolle als vollständige Beförderung darstellen.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Prägende Tätigkeiten und Eigenschaften sind individuell zu gewichten; eine bloße Tabelle oder schematische Kriterienfolge genügt nicht.
+- BAG, Urteil vom 21.06.2005 - 9 AZR 352/04, bestätigt in BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 35: Frühere Beurteilungen können eine tatsächliche Selbstbindung begründen. Abweichungen bei späteren Rollen brauchen nachvollziehbare neue Umstände.
+
+Liefere eine Rollenchronologie mit Beginn, Ende, Funktion, prägender Verantwortung, Führungsspanne und Beleg. Danach folgen ein verdichteter Tätigkeitsblock und eine Gesamtbewertung; positionsbezogene Unterschiede werden nur mit dokumentierter Tatsachengrundlage ausgewiesen.
 
 ## Ausgabeformat
 

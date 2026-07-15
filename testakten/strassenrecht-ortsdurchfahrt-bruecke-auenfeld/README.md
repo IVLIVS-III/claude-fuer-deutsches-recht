@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,21 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Straßenrechtsakte Auenfeld: Ortsdurchfahrt, Brückensanierung, Widmung, Sondernutzung, Umleitung, Anliegerkonflikt und Planänderung.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
-| `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
-| `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
-| `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
-| `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
-| `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-
+| --- | --- |
+| `01_verkehrsbeschraenkung_bruecke_auenfeld.docx` | Sofortige Gewichtsbeschränkung der Brücke über die Kleine Eder |
+| `02_fahrzeuge_umleitung_fahrzeiten.xlsx` | Tabellarische Rohdaten Fahrzeuge mit 6 Datensätzen |
+| `03_email_feuerwehr_hilfsfrist_2026-06-27.eml` | E-Mail mit vollständigem Header: Brücke Kleine Eder / Fahrzeuge über 7,5 Tonnen / Einsatzweg Ortsteil Mühle |
+| `04_anliegerschreiben_muehle_2026-06-30.docx` | Zufahrt Mühle und Lieferungen während der Gewichtsbeschränkung |
+| `05_messwerte_bruecke_und_busfahrten.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_bauunternehmen_nachtrag_signalanlage_2026-07-01.eml` | E-Mail mit vollständigem Header: S 18-441/26 / provisorische Ampel, Schutzgerüst und Nachtbereitschaft |
+| `07_ortstermin_niederschrift_2026-06-29.docx` | Niederschrift Brücke Kleine Eder und Umleitungsführung |
 ## Passende Plugins
 
 `strassenrecht-infrastruktur`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_brueckenpruefung_auenfeld_schadstellen.docx`](12_brueckenpruefung_auenfeld_schadstellen.docx) | Technischer Sonderprüfbericht mit Messwerten und Schadstellen |
+| [`13_email_busunternehmen_umleitung.eml`](13_email_busunternehmen_umleitung.eml) | Betriebsmail des Busunternehmens zur realen Umleitungsfolge |
+| [`14_verkehrszaehlung_bruecke_werktage.csv`](14_verkehrszaehlung_bruecke_werktage.csv) | Verkehrszählung ohne rechtliche oder technische Bewertung |
+
+<!-- END nachgereichte-originalunterlagen -->

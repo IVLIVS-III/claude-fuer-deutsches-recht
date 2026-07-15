@@ -1,0 +1,55 @@
+From: Lin Wei <lin.wei@lanhai-electronics.cn>
+To: Vera Morgenstern <vera.morgenstern@rheinwerk-sensorik.de>
+Cc: Daniel Ufer <daniel.ufer@rheinwerk-sensorik.de>,
+ Zhang Min <zhang.min@lanhai-electronics.cn>
+Date: Fri, 15 May 2026 17:22:11 +0800
+Subject: Re: TGHU7712049 / duplicated serial numbers and LHR-6E modules
+X-Attachments: Packing_List_TGHU7712049_v7.xlsx;
+ Serial_Reconciliation_11883_11884.pdf; LHR6E_Firmware_Statement_unsigned.pdf
+Message-ID: <2a17bac08d6c62c1c9dc@lanhai-electronics.cn>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Dear Ms. Morgenstern,
+
+we compared the photographs from the second inspection with the production ex=
+port. Serial number RS440-26-11883 was printed twice during the label roll ch=
+ange on 24 March. The unit in carton C-044 should have number RS440-26-12883 =
+according to the assembly station log. We have not yet confirmed whether the =
+electronic controller also stores 12883 because the retained unit cannot be c=
+onnected in Hamburg.
+
+Serial number 11884 appears twice in packing list version 5 because row 1248 =
+was copied into the replacement carton list. Our warehouse count shows one ph=
+ysical unit. The attached version 7 removes that duplicate but still lists 84=
+00 units in total. Please note that the file was exported by Ms. Zhang today =
+at 15:06 local time and has not been signed by our certification manager.
+
+For the LHR-6E module, 1260 housings from production dates 22 to 26 March con=
+tain the board. The radio function is disabled in the customer firmware, but =
+the diagnostic service image can activate it. We are preparing the test repor=
+t and German product description requested by customs. The supplier of the bo=
+ard has asked until Monday because its laboratory report refers to module des=
+ignation LHR-6 instead of LHR-6E.
+
+We understand that three additional samples remain with customs. Please keep =
+their carton labels and antistatic bags together. The missing CE marks on the=
+ four housings resulted from a printing interruption; we are checking whether=
+ more units in the closed cartons are affected.
+
+Best regards
+Lin Wei
+International Sales Manager
+Shenzhen Lanhai Electronics Co., Ltd.
+Bao'an District, Shenzhen
+Tel. +86 755 8821 4470
+
+From: Vera Morgenstern <vera.morgenstern@rheinwerk-sensorik.de>
+Sent: Thursday, 14 May 2026 15:40
+To: Lin Wei <lin.wei@lanhai-electronics.cn>
+Subject: TGHU7712049 / duplicated serial numbers and LHR-6E modules
+
+Customs identified two physical units marked 11883. Please reconcile the prod=
+uction and packing records, confirm the number of installed LHR-6E boards and=
+ provide the missing technical documents before 18 May, 10:00 German time.

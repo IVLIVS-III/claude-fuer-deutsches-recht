@@ -1,6 +1,6 @@
 ---
 name: wohlwollensgrundsatz-und-wahrheit
-description: "Wenn es um Wohlwollensgrundsatz und Wahrheit in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Löst Konflikte zwischen beruflichem Fortkommen und Zeugniswahrheit. Prüft jede positive oder negative Aussage auf Tatsachengrundlage, Klarheit und unnötige Erschwerung und liefert eine rechtlich tragfähige Fassung mit offenem Quellenstatus."
 ---
 
 # Wohlwollensgrundsatz und Wahrheit
@@ -63,10 +63,19 @@ Wenn der Nutzer eine Note vorgibt, die sachlich nicht zutrifft:
 
 ## Anti-Muster
 
-- Für Note 4 eine Schlussformel mit fünf Bausteinen generieren, weil der Nutzer „nett klingen will" — das ist Unwahrheit.
+- Eine freiwillige Schlussformel nach der Zahl ihrer Bausteine als wahr oder unwahr einstufen.
 - Abmahnungsgrund aus Wohlwollen weglassen, aber im Zeugnis indirekt andeuten.
 - Wohlwollen und Wahrheit als gleichwertig behandeln — Wahrheit hat Vorrang.
 
-## v392 Konfliktauflösung
+## Konfliktauflösung
 
 Wenn Wunsch und Tatsachengrundlage auseinanderfallen, hat die Zeugniswahrheit Vorrang. Die wohlwollende Lösung liegt in Ton, Auswahl und Klarheit, nicht in erfundener Leistung. Der Generator gibt deshalb eine belegbare Fassung aus und nennt knapp, welche Unterlagen eine bessere Bewertung tragen könnten. Negative Tatsachen werden nicht verschlüsselt, sondern entweder weggelassen, wenn sie nicht tragend sind, oder sachlich und verhältnismäßig eingeordnet.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19: Zeugniswahrheit ist der bestimmende Grundsatz; Wohlwollen reicht nur bis zur Grenze der Wahrheit.
+- BAG, Urteil vom 14.06.2016 - 9 AZR 8/15, Rn. 12 bis 16: Die Wahrheitspflicht erfasst auch Datum und zeitliche Einordnung.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Ob eine Formulierung verdeckt abwertet, beurteilt sich aus Sicht des objektiven Zeugnislesers im Gesamtzusammenhang.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Dank, Bedauern und Zukunftswünsche sind kein zwingender Inhalt und werden nicht als Beweis für die Leistungsnote behandelt.
+
+Liefere eine Aussage-für-Aussage-Matrix mit Tatsachenkern, Beleg, gewünschter Wertung, vertretbarer Formulierung und Risiko. Danach folgt eine klare Gesamtfassung ohne Codes und ohne erfundene Positivtatsachen.

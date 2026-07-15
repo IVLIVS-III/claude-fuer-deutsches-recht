@@ -1,6 +1,6 @@
 ---
 name: note-5-formeln-leistung
-description: "Wenn es um Note 5 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage. Prüft Dokumentation, Gesamtzusammenhang, Beweislast und Zeugnisklarheit und erzeugt eine sachliche, nicht codierte Fassung samt Warnung vor unbelegten oder ironischen Abwertungen."
 ---
 
 # Note 5 — Formeln Leistung
@@ -11,7 +11,7 @@ Note-5-Formulierungen korrekt generieren und gleichzeitig das Klagerisiko klar k
 
 ## Pflicht-Hinweis vor Generierung
 
-> **Hinweis:** Note 5 (mangelhaft / „im Großen und Ganzen zur Zufriedenheit") trägt die höchste Beweislast für den Arbeitgeber. Diese Note ist nur vertretbar bei schwerwiegenden, dokumentierten Leistungsmängeln. Das Klagerisiko ist erheblich. Bitte bestätigen Sie das Vorliegen entsprechender Dokumentation.
+> Hinweis: Eine deutlich unterdurchschnittliche Bewertung ist nur mit konkreten, zeitraumbezogenen Tatsachen vertretbar. Der Arbeitgeber muss die Tatsachen für eine unterdurchschnittliche Leistung darlegen und beweisen. Eine Abmahnung ist dafür keine allgemeine Voraussetzung, kann aber ein Beleg unter mehreren sein.
 
 ## Hauptformel (Zufriedenheitsformel)
 
@@ -62,12 +62,12 @@ Es gibt keine etablierte Standardformel für Note 6 in der deutschen Zeugnisspra
 
 ## Schlussformel bei Note 5
 
-Eine Schlussformel bei Note 5 sollte maximal zwei Bausteine haben. Keine warme Schlussformel setzen — das erzeugt einen offensichtlichen Widerspruch, der das Zeugnis insgesamt unglaubwürdig macht.
+Dank, Bedauern und Zukunftswünsche sind freiwillig und werden gesondert vom gesetzlichen Leistungsabschnitt behandelt. Ihre Länge folgt keiner festen Notenskala. Eine freiwillige freundliche Schlussformel hebt eine belegte Leistungsbewertung nicht automatisch auf.
 
 ## Stolpersteine
 
 - „im Großen und Ganzen" in einem Nebensatz verwenden und denken, es sei unschädlich — das Gericht liest es als Hauptsignal Note 5.
-- Note-5-Zeugnis ausstellen ohne zu prüfen, ob eine Abmahnung vorliegt — sonst kann der Arbeitnehmer sowohl Berichtigung als auch Schadensersatz verlangen.
+- Note-5-Zeugnis ausstellen, ohne konkrete Leistungstatsachen, Zeiträume, Erwartungen und Belege zusammenzustellen.
 - „hat die Aufgaben versucht zu erledigen" statt „zu erledigen versucht" — Wortstellungsänderung ändert die Schärfe kaum, aber die korrekte Form ist die zitierte.
 
 ## Anti-Muster
@@ -75,6 +75,15 @@ Eine Schlussformel bei Note 5 sollte maximal zwei Bausteine haben. Keine warme S
 - Note 5 ohne Dokumentation ausgeben, weil der Arbeitgeber „einfach unzufrieden" war.
 - „im Großen und Ganzen" als harmlosen Füller in einem ansonsten positiven Zeugnis platzieren.
 - Note-5-Zeugnis mit normaler Schlussformel kombinieren.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 14.10.2003 - 9 AZR 12/03: Für eine unterdurchschnittliche Bewertung trägt der Arbeitgeber die Darlegungs- und Beweislast.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19 bis 24: Wahrheit bleibt der bestimmende Grundsatz; die Tatsachengrundlage ist entscheidend, nicht die bloße Wahl einer Formel.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Eine Schlussformel ist kein zwingender Zeugnisinhalt und deshalb nicht mechanisch an die Leistungsnote zu koppeln.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Vermeintliche Codebedeutungen sind am objektiven Empfängerhorizont und am Gesamtzusammenhang zu prüfen.
+
+Liefere zunächst eine Mängelmatrix mit Erwartung, konkretem Vorfall, Zeitraum, Beleg, Stellungnahme des Arbeitnehmers und Gewicht. Erst daraus entsteht eine klare, nicht ironische Fassung; bei Beleglücken wird keine schlechte Bewertung fingiert.
 
 ## Ausgabeformat
 

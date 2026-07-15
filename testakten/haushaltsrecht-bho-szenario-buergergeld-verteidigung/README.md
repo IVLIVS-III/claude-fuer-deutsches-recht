@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,21 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Haushaltsakte Bund/Land: Bürgergeld-Krankenversicherung, Verteidigungstitel, Sondervermögen, Deckungsfähigkeit, Nachtragshaushalt und Dashboard.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
-| `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
-| `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
-| `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
-| `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
-| `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-
+| --- | --- |
+| `01_pruefmitteilung_bundesrechnungshof_mittelabrufe.docx` | Stichprobenprüfung der Länderabrufe zu Unterkunftskosten im Haushaltsjahr 2026 |
+| `02_mittelbindungen_abrufe_und_stornos.xlsx` | Tabellarische Rohdaten Abrufe mit 6 Datensätzen |
+| `03_email_land_kuestenmark_korrekturdatei.eml` | E-Mail mit vollständigem Header: Länderabruf Mai 2026 / fehlende 1843 Datensätze / Korrektur bis Montag |
+| `04_haushaltssperre_verfuegung_2026-07-04.docx` | Vorläufige Bewirtschaftungsauflage für Kapitel 1101 Titel 636 11 |
+| `05_import_und_buchungsprotokoll_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_bmf_trennung_nordschirm_2026-07-02.eml` | E-Mail mit vollständigem Header: Bewirtschaftungsstand Kapitel 1101 / Nordschirm nicht saldieren |
+| `07_vermerk_doppelimport_kuestenmark.docx` | Vermerk zum Doppelimport des Länderabrufs Küstenmark Mai 2026 |
 ## Passende Plugins
 
 `haushaltsrecht-bho-bund-laender`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_mittelzuweisung_haushaltsvollzug_2026.docx`](12_mittelzuweisung_haushaltsvollzug_2026.docx) | Ressortschreiben zum tatsächlichen Buchungsstand |
+| [`13_email_ressortabgleich_faelligkeiten.eml`](13_email_ressortabgleich_faelligkeiten.eml) | Fachmail zu abweichenden Länderabrufen |
+| [`14_buchungen_und_mittelbindungen_roh.csv`](14_buchungen_und_mittelbindungen_roh.csv) | Rohbuchungen mit Storno- und Prüfstatus |
+
+<!-- END nachgereichte-originalunterlagen -->

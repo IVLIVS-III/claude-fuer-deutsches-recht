@@ -1,6 +1,6 @@
 ---
 name: schlussformel-notenwirkung
-description: "Wenn es um Schlussformel-Notenwirkung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bewertet, ob eine vorhandene Schlussformel den Gesamteindruck praktisch verändert, ohne aus ihr eine starre Schulnote oder einen gesetzlichen Anspruch abzuleiten. Liefert Kontextanalyse, Anspruchsstatus und taktische Änderungsoptionen."
 ---
 
 # Schlussformel-Notenwirkung
@@ -9,29 +9,27 @@ description: "Wenn es um Schlussformel-Notenwirkung in Arbeitszeugnisgenerator g
 
 Die Schlussformel so wählen, dass sie zur Gesamtnote passt und keinen Widerspruch erzeugt.
 
-## Notenwirkungstabelle
+## Wirkungskarte ohne starre Notenzuordnung
 
-| Schlussformel | Signal | Notenwirkung |
+| Schlussformel | Möglicher Eindruck | Rechtlicher Status |
 |---|---|---|
-| Alle fünf Bausteine: Bedauern + Dank + beruflicher Wunsch + persönlicher Wunsch + Erfolgswunsch | Maximalformel, herzlich und persönlich | Note 1 |
-| Vier Bausteine: Dank + Bedauern + zwei Wünsche | starke Formel | Note 2 |
-| Drei Bausteine: Dank + zwei Wünsche | solide, aber kein Bedauern | Note 3 |
-| Zwei Bausteine: Dank + allgemeiner Wunsch | kühler Schluss | Note 3 bis 4 |
-| Nur allgemeiner Wunsch ohne Dank | sachlich-kalt | Note 4 |
-| Schlussformel fehlt vollständig | kein Signal — nach BAG rechtlich kein Mangel | neutral bis Note 3 |
-| Sachlicher Hinweis auf Beendigungsdatum ohne weitere Worte | Distanzsignal | rot |
+| Bedauern, Dank und konkrete Wünsche | warm und persönlich | freiwillige Gestaltung, kein gesetzlicher Notenschlüssel |
+| Dank und allgemeiner Wunsch | freundlich und knapp | freiwillige Gestaltung |
+| Nur allgemeiner Wunsch | sachlich | freiwillige Gestaltung |
+| Schlussformel fehlt vollständig | keine Aussage über persönliche Empfindungen | nach BAG grundsätzlich kein Mangel |
+| Nur Beendigungsdatum | nüchterner Abschluss | nicht allein wegen der Kürze rechtswidrig |
 
 ## Verstärker in der Schlussformel
 
 | Formulierung | Wirkung |
 |---|---|
-| „außerordentlich bedauern" | stärker als nur „bedauern" — Note 1 |
+| „außerordentlich bedauern" | stärker als nur „bedauern"; keine feste Note |
 | „herzlich danken" | persönlicher als nur „danken" |
-| „hervorragende Leistungen" | Note 1 im Danksteil |
+| „hervorragende Leistungen" | muss zur belegten Leistungsbeurteilung passen |
 | „für ihren weiteren beruflichen und persönlichen Weg" | vollständige Formulierung; nur „für die Zukunft" ist schwächer |
 | „weiterhin viel Erfolg" | Standard-Erfolgswunsch |
-| „weiterhin großen Erfolg" | verstärkter Erfolgswunsch, Note 1 |
-| „jederzeit gerne wieder" | Schlussverstärker, Note 1 — Empfehlung durch den Arbeitgeber |
+| „weiterhin großen Erfolg" | verstärkter Erfolgswunsch |
+| „jederzeit gerne wieder" | ausdrückliche Empfehlung; nur bei wahrer Tatsachengrundlage |
 
 ## Abschwächer in der Schlussformel
 
@@ -43,19 +41,9 @@ Die Schlussformel so wählen, dass sie zur Gesamtnote passt und keinen Widerspru
 | Passivkonstruktion: „Das Arbeitsverhältnis endet am ..." | Distanzsignal | orange |
 | Schlussformel mit Datumsangabe ohne Worte | Kalte Trennung | rot |
 
-## Konsistenzregel Schlussformel / Hauptnote
+## Konsistenzprüfung Schlussformel und Gesamtzeugnis
 
-Die Schlussformel muss zur Hauptnote passen:
-
-| Hauptnote | Passende Schlussformel |
-|---|---|
-| Note 1 | fünf Bausteine, herzlich mit Bedauern |
-| Note 2 | vier Bausteine, warm ohne Übertreibung |
-| Note 3 | drei Bausteine, sachlich freundlich |
-| Note 4 | maximal zwei Bausteine, sachlich |
-| Note 5 | allenfalls ein sachlicher Wunsch |
-
-Eine vollständige warme Schlussformel bei Note 4 oder 5 ist ein Widerspruch und macht das Zeugnis unglaubwürdig.
+Eine Schlussformel wird nicht in eine Schulnote umgerechnet. Geprüft wird nur, ob sie tatsächliche Aussagen über Leistung, Beendigungsgrund oder persönliche Empfindungen enthält, die dem übrigen Zeugnis widersprechen. Ein warmer Schluss bei zurückhaltender Leistungsbeurteilung kann erklärungsbedürftig sein, ist aber nicht automatisch unwahr oder unwirksam.
 
 ## Erteilungsschutz
 
@@ -72,6 +60,12 @@ Wurde eine Schlussformel bereits erteilt, darf der Arbeitgeber sie bei einer Neu
 - Note-1-Hauptabschnitt und Zwei-Bausteine-Schluss — stärkster Widerspruch, der das Gesamtzeugnis abwertet.
 - Wunschformeln mit negativem Unterton als „neutrale" Formulierungen ausgeben.
 - Schlussformel so verlängern, dass sie ironisch überhöht wirkt (stapeln von Superlativen im Schluss).
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21, Rn. 12 bis 24: Kein Anspruch auf Dankes- und Wunschformel; positive Schlusssätze können Bewerbungen praktisch unterstützen, gehören aber nicht zum gesetzlichen Zeugniszweck.
+- BAG, Urteil vom 11.12.2012 - 9 AZR 227/11, Leitsätze und Rn. 9 bis 19: Keine freie gerichtliche Umformulierung freiwilliger Empfindungsäußerungen; grundsätzlich kommt eine Entfernung in Betracht.
+- BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 14 bis 23: Maßregelungsverbot bei grundloser Streichung einer zuvor erteilten Formel nach zulässigem Berichtigungsverlangen.
 
 ## Ausgabeformat
 

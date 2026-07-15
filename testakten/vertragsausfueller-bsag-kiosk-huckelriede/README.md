@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -17,22 +17,11 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## ⬇️ Direkt-Download
+## Aktenlage
 
-| Akte | Direkt-Download |
-| --- | --- |
-| `testakte-vertragsausfueller-bsag-kiosk-huckelriede` (Akte) | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
+Die Bremer Straßenbahn AG verhandelt mit der Scherflein GmbH über die Vermietung des Kiosks an der Haltestelle Huckelriede. Neben der Vertragsvorlage und dem Term Sheet liegen das förmliche Vermietungsangebot, technische Bestandsangaben, Anschlusswerte, Lieferantenangebote, Korrespondenz der Beteiligten, Begehungsdaten und die Finanzierungsbestätigung der Hausbank vor.
 
-Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
-
-## Sachverhalt
-
-Die Bremer Straßenbahn AG (BSAG) vermietet ein Kioskobjekt im Haltestellenbereich Huckelriede an die Scherflein GmbH, die dort einen Imbiss-Kiosk mit Zeitungsverkauf, Heissgetraenkeausschank und Lottoannahmestelle betreiben möchte. Es liegen zwei Word-Dokumente vor: eine standardisierte BSAG-Mietvertragsvorlage mit Ausfüllfeldern (zum Beispiel `<<MIETER>>`, `<<KALTMIETE>>`) und ein konkretes Term Sheet mit den vereinbarten Eckdaten zum Fall.
-
-Aufgabe des Vertragsausfüllers ist es, die Vorlage aufzunehmen, ein Feldinventar zu erzeugen, die Werte aus dem Term Sheet sauber zu mappen und einen Clean-Entwurf zu erzeugen. Wegen Abweichungen zwischen Vorlage (zweimal zwei Jahre Verlängerung, kein Konkurrenzschutz) und Term Sheet (zweimal drei Jahre Verlängerung, Konkurrenzschutz 150 m, Sortimentsbindung Imbiss/Zeitungen) sind Rückfragen an die BSAG zwingend, bevor der Vertrag final wird. Die Akte ist bewusst so geschnitten, dass der Workflow von Feldinventar über Mapping, Rückfragen, Clean-Entwurf bis hin zu Track Changes durchgespielt werden kann.
-
-Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rückbaupflicht, Umsatzsteueroption, Verlängerungsoptionen. Track-Changes-Fassungen werden nur auf ausdrücklichen Wunsch erzeugt.
+Die Dokumente stammen aus unterschiedlichen Bearbeitungsständen. Angaben zu Laufzeit, Verlängerungsoptionen, Konkurrenzschutz, Ausstattung, Betriebskosten, Zählerständen und Rückbau sind deshalb anhand der jeweiligen Quelle und ihres Datums abzugleichen.
 
 ## Eckdaten
 
@@ -41,40 +30,26 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rück
 | Vermieter | Bremer Straßenbahn AG, Flughafendamm 12, 28199 Bremen |
 | Mieter | Scherflein GmbH (Geschäftsführer: Karl Scherflein) |
 | Mietobjekt | Kiosk Haltestelle Huckelriede, ca. 18 qm Verkaufsraum + 6 qm Lager |
-| Nutzung | Imbiss-Kiosk, Zeitungsverkauf, Heissgetraenke, Lotto |
+| Nutzung | Imbiss-Kiosk, Zeitungsverkauf, Heißgetränke, Lotto |
 | Kaltmiete | 1.450 EUR / Monat netto |
 | Nebenkosten-Pauschale | 320 EUR / Monat netto |
 | Gesamtmiete | 1.770 EUR / Monat netto (zzgl. USt nach Option) |
 | Kaution | 5.310 EUR (3 Bruttomonatsmieten) |
 | Laufzeit | 5 Jahre fest, Verlängerungsoption 2 x 3 Jahre |
 | Sonderbedingungen | Konkurrenzschutz 150 m, Sortiment, Fettabscheider, Rückbau |
-| USt-Option nach § 9 UStG | Ja, beide Seiten optieren |
+| Umsatzsteueroption | im Term Sheet vorgesehen |
 | Aktenzeichen Kanzlei | VAF-2026-BSAG-007 |
 
 ## Dateien
 
 | Datei | Beschreibung |
 |---|---|
-| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.docx](BSAG-Mietvertrag-Vorlage.docx) | Standardisierte Vermietungsvorlage der BSAG mit Ausfüllfeldern für alle Mieterdaten, Preise und Sonderbedingungen |
-| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
-| [01_feldinventar_bsag.csv](01_feldinventar_bsag.csv) | Aus der Vorlage extrahiertes Feldinventar (Ausfüllfeld, Typ, Bemerkung) |
-| [02_mapping_notiz.docx](02_mapping_notiz.docx) | Mapping zwischen Vorlage-Feldern und Term-Sheet-Werten inklusive Konfliktstellen |
-| [03_rueckfragen_bsag.docx](03_rueckfragen_bsag.docx) | Offene Rückfragen an die BSAG vor Erstellung des Clean-Entwurfs |
-| [04_clean_entwurf_checkliste.docx](04_clean_entwurf_checkliste.docx) | Prüfliste vor Versand des Clean-Entwurfs an Mieter und Vermieter |
-
-## Testablauf
-
-1. Starte `vaf-kommandocenter`.
-2. Lasse die Vorlage strippen und ein Feldinventar erzeugen (-> `01_feldinventar_bsag.csv`).
-3. Mappe das Term Sheet auf die Mietvertragsvorlage (-> `02_mapping_notiz.docx`).
-4. Lasse offene Rückfragen ausgeben (-> `03_rueckfragen_bsag.docx`).
-5. Erstelle einen Clean-Entwurf nach Prüfliste (-> `04_clean_entwurf_checkliste.docx`).
-6. Erst wenn ausdrücklich gewünscht: Track-Changes- oder Redline-Fassung vorbereiten.
-
-## Prüffokuse
-
-- Feldinventar aus DOCX-Vorlage extrahieren und systematisch ablegen
-- Konfliktstellen zwischen Vorlage und Term Sheet identifizieren (Verlängerung, Konkurrenzschutz, Sortiment)
-- Offene Rückfragen formulieren, bevor der Vertrag finalisiert wird
-- Clean-Entwurf vor Versand systematisch prüfen
-- Track-Changes-Fassung nur auf ausdrücklichen Wunsch erzeugen
+| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) | Vertragsvorlage der Vermieterin mit noch offenen Ausfüllfeldern |
+| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) | Term Sheet aus den bisherigen Vertragsverhandlungen |
+| [01_bsag_vermietungsangebot_kiosk_huckelriede.docx](01_bsag_vermietungsangebot_kiosk_huckelriede.docx) | Förmliches Vermietungsangebot mit Bezugsdaten und Anlagen |
+| [02_geraete_anschlusswerte_und_angebote.xlsx](02_geraete_anschlusswerte_und_angebote.xlsx) | Geräteliste, Anschlusswerte und Lieferantenangebote |
+| [03_email_scherflein_sortiment_und_oeffnungszeiten.eml](03_email_scherflein_sortiment_und_oeffnungszeiten.eml) | Nachricht der Mietinteressentin zu Sortiment und Öffnungszeiten |
+| [04_technischer_bestandsbericht_kiosk.docx](04_technischer_bestandsbericht_kiosk.docx) | Technischer Bericht zum Zustand des Kiosks und zu den Anschlüssen |
+| [05_begehung_zaehler_und_maengel_roh.csv](05_begehung_zaehler_und_maengel_roh.csv) | Unbereinigter Export der Begehungsfeststellungen und Zählerstände |
+| [06_email_bsag_betriebskosten_zaehler.eml](06_email_bsag_betriebskosten_zaehler.eml) | Nachricht der Vermieterin zu Betriebskosten und Zählerzuordnung |
+| [07_bank_finanzierungsbestaetigung_umbau.docx](07_bank_finanzierungsbestaetigung_umbau.docx) | Finanzierungsbestätigung für den geplanten Umbau |

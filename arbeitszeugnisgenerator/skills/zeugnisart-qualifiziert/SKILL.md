@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-qualifiziert
-description: "Wenn es um Zeugnisart: Qualifiziertes Arbeitszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt ein individuelles qualifiziertes Arbeitszeugnis zu Art, Dauer, Leistung und Verhalten in durchgehendem Fließtext. Führt Tätigkeitsbild, belegte Bewertungsachsen, Gesamtnote, Form und optionalen Schluss widerspruchsfrei zusammen."
 ---
 
 # Zeugnisart: Qualifiziertes Arbeitszeugnis

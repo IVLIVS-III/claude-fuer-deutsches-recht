@@ -1,0 +1,6 @@
+﻿Datum;Uhrzeit;Ort;Strecke_Meter;Pausen;Freezing;Sturz;Zeuge
+2026-03-14;10:20;Wohnungsflur;12;0;Türschwelle;ja;Ehefrau
+2026-04-02;09:45;Weg Bäcker;220;3;zweimal;nein;Ehefrau
+2026-05-19;15:10;Bushaltestelle;84;1;beim Einsteigen;ja;Busfahrer
+2026-06-18;11:05;Gehweg Ruhrstraße;146;2;Menschen entgegen;ja;Nachbar Rüß
+2026-06-22;08:52;Parkplatz zur Physio;168;3;Bordstein;Beinahe-Sturz;Physiotherapeutin

@@ -2,10 +2,11 @@
 """Baut pro Testakte ein ZIP, das jede Unterlage als eigene PDF enthaelt.
 
 Anders als das Gesamt-PDF (alles in einem Dokument) liefert dieses ZIP jede
-Akte-Unterlage als separate, sauber gerenderte PDF-Datei. Original-PDFs werden
-unveraendert uebernommen, alle anderen Dokumente (MD/TXT/EML/CSV/XLSX/DOCX/ODT
-und Bilder) in jeweils eine eigene PDF gerendert. Die Ordnerstruktur der Akte
-bleibt erhalten.
+Akte-Unterlage als separate, sauber gerenderte PDF-Datei. Original-PDFs und
+Office-Ausgaben werden bei Bedarf proportional auf A4 normalisiert; alle
+anderen Dokumente (TXT/EML/CSV/XLSX/DOCX/ODT und Bilder) werden in jeweils eine
+eigene PDF gerendert. Alle PDFs liegen unmittelbar auf der ZIP-Wurzelebene;
+ehemalige Pfadbestandteile stehen lesbar im Dateinamen.
 
 Aufruf:
   python3 scripts/build-testakten-einzelpdf-zips.py [dist]            # alle Testakten
@@ -20,6 +21,7 @@ from __future__ import annotations
 
 import importlib.util
 import io
+import shutil
 import sys
 import zipfile
 from pathlib import Path
@@ -54,6 +56,7 @@ def _load_gesamt_module():
 
 G = _load_gesamt_module()
 ZIP_TIMESTAMP = (1980, 1, 1, 0, 0, 0)
+SKIP_DIRS = {"megaprompts"}
 
 
 def write_pdf(zipf: zipfile.ZipFile, arcname: str, data: bytes) -> None:
@@ -64,9 +67,53 @@ def write_pdf(zipf: zipfile.ZipFile, arcname: str, data: bytes) -> None:
     zipf.writestr(info, data)
 
 
+def write_archive(zipf: zipfile.ZipFile, path: Path) -> None:
+    """Schreibt ein Einzel-ZIP streamend mit reproduzierbaren Metadaten."""
+    info = zipfile.ZipInfo(path.name, ZIP_TIMESTAMP)
+    info.compress_type = zipfile.ZIP_DEFLATED
+    info.external_attr = 0o100644 << 16
+    with path.open("rb") as source, zipf.open(info, "w") as target:
+        shutil.copyfileobj(source, target, length=1024 * 1024)
+
+
 def odt_to_flowables(path: Path) -> list:
     """Kompatibilitätswrapper für den gemeinsamen strengen ODT-Fallback."""
     return G.odt_to_flowables(path)
+
+
+def normalize_pdf_to_a4(data: bytes, label: str) -> bytes:
+    """Normalisiert nicht-A4-Seiten, ohne passende Originale neu zu schreiben."""
+    try:
+        reader = G.PdfReader(io.BytesIO(data))
+        pages = list(reader.pages)
+    except Exception as exc:
+        raise G.DocumentRenderError(f"{label}: PDF konnte nicht gelesen werden: {exc}") from exc
+    if not pages:
+        raise G.DocumentRenderError(f"{label}: PDF enthält keine Seite")
+
+    a4_width, a4_height = map(float, A4)
+
+    def is_a4(page) -> bool:
+        width = float(page.mediabox.width)
+        height = float(page.mediabox.height)
+        return (
+            abs(width - a4_width) < 1 and abs(height - a4_height) < 1
+        ) or (
+            abs(width - a4_height) < 1 and abs(height - a4_width) < 1
+        )
+
+    if all(is_a4(page) for page in pages):
+        return data
+
+    writer = G.PdfWriter()
+    for page in pages:
+        writer.add_page(G.a4_normalized_page(page))
+    out = io.BytesIO()
+    writer.write(out)
+    normalized = out.getvalue()
+    if not normalized.startswith(b"%PDF-"):
+        raise G.DocumentRenderError(f"{label}: A4-Normalisierung lieferte kein PDF")
+    return normalized
 
 
 def render_document_pdf(
@@ -76,18 +123,11 @@ def render_document_pdf(
 ) -> bytes | None:
     """Rendert eine Einzeldatei in eine PDF und liefert die Bytes.
 
-    Original-PDFs werden unveraendert zurueckgegeben.
+    Bereits passende A4-PDFs werden unveraendert zurueckgegeben.
     """
     ext = ext_of(path)
     if ext in COPY_EXTS:
-        data = path.read_bytes()
-        try:
-            pages = list(G.PdfReader(io.BytesIO(data)).pages)
-        except Exception as exc:
-            raise G.DocumentRenderError(f"{path.name}: PDF konnte nicht gelesen werden: {exc}") from exc
-        if not pages:
-            raise G.DocumentRenderError(f"{path.name}: PDF enthält keine Seite")
-        return data
+        return normalize_pdf_to_a4(path.read_bytes(), path.name)
 
     if ext in OFFICE_EXTS:
         try:
@@ -95,7 +135,7 @@ def render_document_pdf(
         except OfficeRenderError as exc:
             raise G.DocumentRenderError(f"{path.name}: {exc}") from exc
         if native is not None:
-            return native
+            return normalize_pdf_to_a4(native, path.name)
 
     rel = path.relative_to(testakte_dir)
     flow: list = [Paragraph(f"<b>Datei:</b> {G.escape(str(rel))}", G.s_meta), Spacer(1, 6)]
@@ -114,6 +154,8 @@ def render_document_pdf(
             rendered = G.docx_to_flowables(path)
         elif ext == "odt":
             rendered = odt_to_flowables(path)
+        elif ext in G.STRUCTURED_EXTS:
+            rendered = G.structured_text_to_flowables(path)
         elif ext in IMAGE_EXTS:
             rendered = G.image_to_flowables(path)
         else:  # pragma: no cover - durch is_einzelpdf_document ausgeschlossen
@@ -138,7 +180,7 @@ def render_document_pdf(
         data = buf.getvalue()
         if not list(G.PdfReader(io.BytesIO(data)).pages):
             raise G.DocumentRenderError("erzeugtes PDF enthält keine Seite")
-        return data
+        return normalize_pdf_to_a4(data, str(rel))
     except Exception as exc:
         if isinstance(exc, G.DocumentRenderError):
             raise
@@ -198,8 +240,12 @@ def main() -> None:
             targets.append(arg)
     dist.mkdir(parents=True, exist_ok=True)
 
-    dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir())
+    all_dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
+    dirs = all_dirs
     if targets:
+        unknown = sorted(set(targets) - {d.name for d in all_dirs})
+        if unknown:
+            raise SystemExit(f"Unbekannte Testakten: {unknown}")
         dirs = [d for d in dirs if d.name in targets]
     if not dirs:
         print("Keine Testakten gefunden.")
@@ -212,31 +258,43 @@ def main() -> None:
     all_out = dist / "alle-testakten-einzelpdfs.zip"
     all_tmp = all_out.with_name(f".{all_out.name}.tmp")
     try:
+        for d in dirs:
+            out = dist / f"testakte-{d.name}-einzelpdfs.zip"
+            tmp = out.with_name(f".{out.name}.tmp")
+            try:
+                with zipfile.ZipFile(
+                    tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
+                ) as individual:
+                    count = add_testakte(individual, d)
+                if count == 0:
+                    tmp.unlink(missing_ok=True)
+                    out.unlink(missing_ok=True)
+                    skipped.append(d.name)
+                    continue
+                pending.append((tmp, out))
+            except Exception:
+                tmp.unlink(missing_ok=True)
+                raise
+            built.append(d)
+            total_pdfs += count
+            print(f"Baue {out.name}: {count} PDFs")
+        for tmp, out in pending:
+            tmp.replace(out)
+        bundle_archives = [dist / f"testakte-{d.name}-einzelpdfs.zip" for d in all_dirs]
+        missing_archives = [path.name for path in bundle_archives if not path.is_file()]
+        if missing_archives:
+            raise G.DocumentRenderError(
+                "Zentralarchiv unvollständig; zuerst fehlende Einzelarchive bauen: "
+                + ", ".join(missing_archives[:10])
+            )
+        combined_pdfs = 0
         with zipfile.ZipFile(
             all_tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
         ) as combined:
-            for d in dirs:
-                out = dist / f"testakte-{d.name}-einzelpdfs.zip"
-                tmp = out.with_name(f".{out.name}.tmp")
-                try:
-                    with zipfile.ZipFile(
-                        tmp, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
-                    ) as individual:
-                        count = add_testakte_many([individual, combined], d)
-                    if count == 0:
-                        tmp.unlink(missing_ok=True)
-                        out.unlink(missing_ok=True)
-                        skipped.append(d.name)
-                        continue
-                    pending.append((tmp, out))
-                except Exception:
-                    tmp.unlink(missing_ok=True)
-                    raise
-                built.append(d)
-                total_pdfs += count
-                print(f"Baue {out.name}: {count} PDFs")
-        for tmp, out in pending:
-            tmp.replace(out)
+            for archive in bundle_archives:
+                with zipfile.ZipFile(archive) as individual:
+                    combined_pdfs += len(individual.infolist())
+                write_archive(combined, archive)
         all_tmp.replace(all_out)
     except Exception:
         all_tmp.unlink(missing_ok=True)
@@ -247,7 +305,10 @@ def main() -> None:
     if skipped:
         print(f"Hinweis: {len(skipped)} Ordner ohne renderbare Unterlagen uebersprungen: {skipped[:10]}")
 
-    print(f"Baue {all_out.name}: {total_pdfs} PDFs aus {len(built)} Testakten")
+    print(
+        f"Baue {all_out.name}: {len(bundle_archives)} flache Einzel-ZIPs "
+        f"mit {combined_pdfs} PDFs"
+    )
     print(f"Fertig: {len(built)} Einzel-PDF-ZIPs, {total_pdfs} PDFs")
 
 

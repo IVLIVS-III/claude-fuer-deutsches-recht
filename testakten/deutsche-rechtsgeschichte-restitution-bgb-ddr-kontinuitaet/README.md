@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -19,20 +19,32 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 Restitution, BGB-Entstehung, DDR-Rechtsüberleitung und heutige Grundstücks-/Entschädigungsfrage.
 
-## Dateien
+## Kernunterlagen
 
 | Datei | Inhalt |
-|---|---|
-| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Dokumente und Problemkern |
-| `02-fristen-risiken-dashboard.csv` | Fristen-, Risiko- und Entscheidungsübersicht |
-| `03-email-mandat-und-rueckfrage.eml` | E-Mail aus dem Mandat |
-| `04-arbeitsvermerk.docx` | Word-Vermerk für die Bearbeitung |
-| `05-dashboard.xlsx` | Excel-/Tracker-Arbeitsblatt |
-| `06-lagekarte.jpg` | Bildanlage als Whiteboard-/Lagekarte |
-| `07-quellen-und-streitpunkte.pdf` | PDF-Memo mit Streitpunkten und Quellenlogik |
-| `08-entwurf-naechster-schritt.docx` | Entwurf für Memo, Antrag, Klausel oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
-
+| --- | --- |
+| `01_archivauskunft_falkenau_rosenthal.docx` | Grundstück Marktstraße 11 in Falkenau, Familie Rosenthal |
+| `02_liegenschaften_grundbuch_und_archivfunde.xlsx` | Tabellarische Rohdaten Fundstellen mit 6 Datensätzen |
+| `03_email_morgenstern_einschreibebeleg.eml` | E-Mail mit vollständigem Header: Familienvorgang Rosenthal / Einschreibebeleg und Termin am 24. April |
+| `04_grundbuchauszug_marktstrasse_11.docx` | Unbeglaubigter Grundbuchauszug, Gemarkung Falkenau, Blatt 1884 |
+| `05_archivsignaturen_und_namensvarianten_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
+| `06_email_wohnbau_besichtigung_wohnung.eml` | E-Mail mit vollständigem Header: Marktstraße 11 / Ihre Anfrage zum Besichtigungstermin |
+| `07_gespraechsvermerk_cousine_ruth.docx` | Besprechung Dr. Morgenstern und Ruth Rosen, Originalunterlagen |
 ## Passende Plugins
 
 `deutsche-rechtsgeschichte`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_archivfund_wiedergutmachungsakte_grundstueck.docx`](12_archivfund_wiedergutmachungsakte_grundstueck.docx) | Archivschreiben zu erhaltenen und fehlenden Primärakten |
+| [`13_email_enkelin_familienunterlagen.eml`](13_email_enkelin_familienunterlagen.eml) | Familienmail zu Fotos, Brief und Namensvarianten |
+| [`14_archivsignaturen_und_namensvarianten.csv`](14_archivsignaturen_und_namensvarianten.csv) | Signaturen und Fehlstellen ohne rechtliche Schlussfolgerung |
+
+<!-- END nachgereichte-originalunterlagen -->

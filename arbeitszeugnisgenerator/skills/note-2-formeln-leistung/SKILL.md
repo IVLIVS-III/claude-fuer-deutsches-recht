@@ -1,6 +1,6 @@
 ---
 name: note-2-formeln-leistung
-description: "Wenn es um Note 2 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert eine gute Leistungsbeurteilung mit konsistenter Zufriedenheitsformel und konkreten Belegen für überdurchschnittliche Arbeit. Prüft, ob einzelne Spitzen- oder Durchschnittssätze die Gesamtnote verzerren, und liefert eine ausgewogene Gesamtfassung."
 ---
 
 # Note 2 — Formeln Leistung
@@ -14,10 +14,7 @@ Formulierungen für Note 2 generieren, die klar und positiv sind, dabei aber nic
 **Standardformel Note 2:**
 > Alle ihr/ihm übertragenen Aufgaben erledigte sie/er stets zu unserer vollen Zufriedenheit.
 
-**Variante ohne Hauptformel-Adverb (Note 2, leicht abgeschwächt):**
-> Ihre/Seine Leistungen entsprachen zu unserer vollsten Zufriedenheit.
-
-Achtung: „zur vollen Zufriedenheit" ohne „stets" ergibt Note 3 — das Adverb ist das entscheidende Unterscheidungsmerkmal.
+Ungebräuchliche Mischformen werden nicht als vermeintliche Zwischenstufe angeboten. „Zur vollen Zufriedenheit" ohne „stets" entspricht in der etablierten Zufriedenheitsskala einer durchschnittlichen Bewertung.
 
 ## Einzelsatz-Formeln Note 2
 
@@ -56,12 +53,12 @@ Achtung: „zur vollen Zufriedenheit" ohne „stets" ergibt Note 3 — das Adver
 ## Qualitätscheck vor Ausgabe
 
 - Enthält die Hauptformel zwingend „stets" vor „vollen Zufriedenheit"?
-- Kein Maximalsteigerer (vollsten, außerordentlich, uneingeschränkt) in den Einzelsätzen, der Note 1 suggeriert?
-- Konsistenz: alle Einzelsätze im Note-2-Bereich, kein Drift nach Note 3?
+- Tragen konkrete Tatsachen die überdurchschnittliche Bewertung?
+- Sind einzelne stärkere oder schwächere Merkmale sachlich erklärbar und belegt?
 
 ## Stolpersteine
 
-- „zu unserer vollsten Zufriedenheit" ohne „stets" erzeugt eine Mischform (Note 2, leicht abgeschwächt) — kann zu Missinterpretationen führen.
+- „zu unserer vollsten Zufriedenheit" ohne „stets" als rechtssichere Zwischenstufe behandeln.
 - Ein Note-2-Zeugnis mit vereinzelten „außerordentlich"-Formulierungen liest sich wie Note 1 in Teilen und Note 2 im Kern — das ist Drift.
 - Standardsteigerer „regelmäßig" klingt nach Note 2, ist aber ein Scheinsteigerer (Note 3) — nicht verwenden.
 
@@ -70,6 +67,14 @@ Achtung: „zur vollen Zufriedenheit" ohne „stets" ergibt Note 3 — das Adver
 - „zur vollen Zufriedenheit" ohne „stets" und trotzdem als Note 2 ausweisen.
 - Scheinsteigerer „im Allgemeinen", „zumeist", „regelmäßig" verwenden, die Note 3 signalisieren.
 - Nur die Hauptformel auf Note 2 setzen, alle Einzelsätze aber im Note-3-Bereich belassen.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 13 und 19 bis 24: „stets zur vollen Zufriedenheit" steht für eine gute Bewertung. Der Arbeitnehmer trägt für die überdurchschnittliche Leistung die Darlegungs- und Beweislast; Branchenstatistiken ändern das nicht.
+- BAG, Urteil vom 14.10.2003 - 9 AZR 12/03: Die durchschnittliche Bewertung bildet den Ausgangspunkt der abgestuften Darlegungs- und Beweislast.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Die Einzelleistungen sind individuell zu gewichten und nicht mechanisch einer einheitlichen Schulnote zu unterwerfen.
+
+Liefere eine Belegmatrix und danach eine ausformulierte gute Gesamtfassung. Wenn die Belege nur Durchschnitt tragen, benenne die konkrete Lücke statt die Formel unbemerkt aufzuwerten.
 
 ## Ausgabeformat
 

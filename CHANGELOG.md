@@ -1,3 +1,17 @@
+# v434.0.0 - Aktenausgabe, Rechtsstand und Marketplace konsolidiert
+
+- Die 301 zentralen Aktenarchive und die gesonderte Formatvorlagensammlung wurden vollständig neu gebaut. Jedes Akten-ZIP ist flach, enthält keine Markdown-Dateien und liefert ausschließlich belastbare Originalformate sowie das zugehörige Gesamt-PDF; lösungsverratende interne Auswertungen, Strategiepapiere und Prüfraster bleiben außerhalb der Arbeitsmaterialpakete.
+- Alle 302 Einzel-PDF-ZIPs mit insgesamt 7194 Dokumenten wurden neu gerendert. Fremde Letter- und Sonderformate werden proportional auf A4 oder A4 quer normalisiert; neue Regressionstests und Release-Validatoren prüfen Seitenformat, PDF-Integrität, Dateizuordnung, flache Archivstruktur und vollständige Zentralpakete.
+- Pluginlokale Aktenpakete werden nur noch für tatsächlich exportfähige Originalunterlagen erzeugt. Drei belastbare Akten erhalten eigene Gesamt-PDF-, Originaldatei- und Einzel-PDF-Assets; rein redaktionelle Markdown-Ordner erzeugen keine leeren oder irreführenden Downloads mehr und werden in Plugin-Übersichten durch die zentrale Aktenbibliothek ersetzt.
+- Die Aktenfilterung trennt Sachverhaltsunterlagen jetzt konsequent von Musterlösungen, Rechtsgutachten, Prozessstrategien, internen Berechnungen, Gerichtsroutern und Zieloutput-Checklisten. Native und PDF-basierte Exporte verwenden dieselbe Auswahl und werden transaktional mit reproduzierbaren Archivmetadaten gebaut.
+- Insolvenz- und Restrukturierungsrecht wurden auf den geltenden Normaufbau zurückgeführt: Eigenverwaltungsplanung, vorläufige Eigenverwaltung, Schutzschirm und eröffnete Eigenverwaltung sind nach den Paragrafen 270a, 270b, 270d und 270f InsO getrennt; Anfechtungsfristen, Restrukturierungsgericht, Stabilisierung, Planbestätigung und Insolvenzgeld sind korrekt zugeordnet.
+- Der Arbeitszeugnisgenerator wurde fachlich vertieft. Seine Skills sowie Werkstatt- und Schnellstart-Prompts führen von Tätigkeitsbild, Leistungs- und Verhaltensstufe über Beweislast und Zeugnisklarheit bis zur formgerechten Endfassung; die elektronischen Formmöglichkeiten des geltenden Gewerberechts und die einschlägigen BAG-Linien sind präzise eingeordnet.
+- README-Navigation, Skilldetailseiten, Downloadindex und Testaktenzuordnung wurden aus dem aktuellen Bestand neu erzeugt. Marketplace-Import, 235 Plugin-Manifeste, 26226 Skillaktivierungen, Prompt-Routing, Markdown-Direktdownloads und Cloud-Arbeitsumgebungen werden in einer einheitlichen Prüfstrecke kontrolliert.
+- Werkstatt- und Schnellstart-Prompts bleiben ausschließlich einzeln als Markdown direkt herunterladbar. Der Release-Workflow erzeugt dafür keine widersprüchlichen Sammel-ZIPs; auch die reine Hilfsmaterialsammlung der Mega-Prompts verweist nur noch auf die tatsächlich bereitgestellten Direktdownloads.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v434.0.0 synchronisiert.
+
+---
+
 # v433.0.2 - Plattformstabile Downloadsektionen für Testakten
 
 - Die Downloadsektionen aller 301 zentralen Testakten verwenden keine lokal berechneten PDF-Dateigrößen mehr. Ihre Inhalte bleiben dadurch nach einem vollständigen Linux-Neubau bytegleich zum eingecheckten Stand, obwohl Office- und PDF-Renderer plattformbedingt geringfügig andere Binärgrößen erzeugen können.

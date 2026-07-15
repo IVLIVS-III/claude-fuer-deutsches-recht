@@ -1,6 +1,6 @@
 ---
 name: bag-leitentscheidungen-beweislast
-description: "Wenn es um BAG-Leitentscheidungen zur Beweislast in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertungen, Tätigkeitsangaben und behauptete Tatsachen. Liefert eine Beweismittelmatrix mit Anspruchsziel, Ausgangsniveau, Gegenbehauptung und Prozessrisiko."
 ---
 
 # BAG-Leitentscheidungen zur Beweislast

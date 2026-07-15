@@ -1,0 +1,29 @@
+From: Lin Wei <lin.wei@lanhai-electronics.cn>
+To: Vera Morgenstern <vera.morgenstern@rheinwerk-sensorik.de>
+Cc: Daniel Ufer <daniel.ufer@rheinwerk-sensorik.de>
+Date: Tue, 12 May 2026 18:46:09 +0800
+Subject: TGHU7712049 / R6 module and revised documents
+X-Attachments: BOM_RS440_Rev6_2026-05-12.xlsx; Module_LHR6E_Test_Summary.pdf
+Message-ID: <8ec4fcfa897f4d42e7bd@lanhai-electronics.cn>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Dear Ms. Morgenstern,
+
+the R6 module was installed because the approved controller IC was unavailabl=
+e in March. It remains disabled in the firmware delivered to Rheinwerk, but o=
+ur production team used the R6 housing label for the affected batch. The atta=
+ched bill of material was generated today; it has not yet been signed by our =
+certification manager.
+
+We understand that customs has retained three samples. Please do not power th=
+e module with the engineering service application because this would activate=
+ a diagnostic radio mode. We are checking the duplicated serial number and wi=
+ll send the final packing list tomorrow. The additional payment for tool rele=
+ase is a separate commercial matter.
+
+Best regards
+Lin Wei
+International Sales Manager =C2=B7 Shenzhen Lanhai Electronics Co., Ltd.
+Tel. +86 755 8821 4470

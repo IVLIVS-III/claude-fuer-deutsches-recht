@@ -160,13 +160,6 @@ jobs:
       - name: Release-ZIPs validieren
         run: python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json
 
-      - name: Werkstatt- und Schnellstart-Markdownassets bauen
-        run: |
-          python3 scripts/build-werkstatt-schnellstart-sammelzips.py dist
-          test -s dist/alle-werkstatt-prompts.zip
-          test -s dist/alle-schnellstart-prompts.zip
-          ls -lh dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip
-
       - name: Beispielakten separat verpacken (kein Teil der Plugins, testakte-Prefix)
         run: |
           # Beispielakten werden mit testakte-Prefix gepackt, damit sie sich im
@@ -242,8 +235,6 @@ jobs:
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
           cp dist/alle-pluginlokalen-testakten.zip dist/komplettpaket/alle-pluginlokalen-testakten.zip
           cp dist/alle-pluginlokalen-testakten-einzelpdfs.zip dist/komplettpaket/alle-pluginlokalen-testakten-einzelpdfs.zip
-          cp dist/alle-werkstatt-prompts.zip dist/komplettpaket/alle-werkstatt-prompts.zip
-          cp dist/alle-schnellstart-prompts.zip dist/komplettpaket/alle-schnellstart-prompts.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
           done
@@ -298,10 +289,8 @@ jobs:
           test -s dist/alle-skills-markdown.zip
           test -s dist/alle-pluginlokalen-testakten.zip
           test -s dist/alle-pluginlokalen-testakten-einzelpdfs.zip
-          test -s dist/alle-werkstatt-prompts.zip
-          test -s dist/alle-schnellstart-prompts.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-pluginlokalen-testakten.zip dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alle-pluginlokalen-testakten.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: python3 scripts/build-release-checksums.py dist

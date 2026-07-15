@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen` (Akte) | [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 Arbeitsakte für eine Mittelstadt (Stadt Friedrichshöfe, ca. 220.000 Einwohner) mit komplexem Verkehrsinfrastrukturvorhaben: Verlängerung der Straßenbahnlinie 7 (Westast), Einrichtung von Ladezonen für Wirtschaftsverkehr und E-Mobilität, Anpassung der Parkraumbewirtschaftung sowie verkehrsberuhigende Maßnahmen zur Schulwegsicherheit.
 
@@ -109,7 +108,7 @@ Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzi
 | Datei | Inhalt |
 |---|---|
 | [README.md](README.md) | Diese Übersicht |
-| [01_intake/email_kommune.txt](01_intake/email_kommune.txt) | Erstanfrage der Stadtverwaltung zur Projektstruktur |
+| [01_intake/email_kommune.eml](01_intake/email_kommune.eml) | Erstanfrage der Stadtverwaltung zum Westast und zu den Ladezonen |
 | [02_planung/ratsbeschluss_entwurf.docx](02_planung/ratsbeschluss_entwurf.docx) | Entwurf Ratsbeschluss mit Tenor und Begründung |
 | [02_planung/ratsbeschluss_entwurf.docx](02_planung/ratsbeschluss_entwurf.docx) | DOCX-Fassung des Ratsbeschlussentwurfs |
 | [03_strassenbahn/linienfuehrung_betroffene.docx](03_strassenbahn/linienfuehrung_betroffene.docx) | Stellungnahme VBF zu Linienführung und Betroffenen |

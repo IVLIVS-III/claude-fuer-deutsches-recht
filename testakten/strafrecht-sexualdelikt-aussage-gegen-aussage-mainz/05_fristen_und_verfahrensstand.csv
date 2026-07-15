@@ -1,8 +1,8 @@
 Datum;Ereignis;Friststatus;Bearbeitungsvermerk
-31.03.2026;gemeinsamer Besuch einer privaten Geburtstagsfeier;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-01.04.2026;erste Nachricht der Geschädigten an Freundin mit Schilderung;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-03.04.2026;ärztliche Untersuchung und psychosoziale Beratung;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-14.04.2026;polizeiliche Vernehmung der Geschädigten;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-22.05.2026;Beschuldigtenvernehmung über Verteidigung abgelehnt;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-09.09.2026;"Hauptverhandlung noch nicht terminiert; Schutzanträge vorzubereiten";sofort prüfen;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-laufend;Akteneinsicht und Nachlieferungen;offen;jede neue Datei mit Blattzahl und Beweisrichtung erfassen
+31.03.2026;gemeinsamer Besuch einer privaten Geburtstagsfeier;aktenkundig;Gästeliste und Abfahrtszeiten aus drei Nachrichtenverläufen getrennt erfasst
+01.04.2026;erste Nachricht der Geschädigten an Freundin mit Schilderung;aktenkundig;Originalexport 08:14 Uhr und Screenshot 08:19 Uhr weisen unterschiedliche Ausschnitte auf
+03.04.2026;ärztliche Untersuchung und psychosoziale Beratung;aktenkundig;Behandlungsbogen liegt vor, Einwilligung zur Anforderung weiterer Unterlagen noch offen
+14.04.2026;polizeiliche Vernehmung der Geschädigten;aktenkundig;Videoaufzeichnung dauert 2:18 Stunden, Wortprotokoll umfasst 37 Seiten
+22.05.2026;Beschuldigtenvernehmung über Verteidigung abgelehnt;aktenkundig;Schreiben der Verteidigung am 23.05. eingegangen, spätere Einlassung vorbehalten
+09.09.2026;"Hauptverhandlung noch nicht terminiert; Schutzanträge vorzubereiten";sofort prüfen;Zeugenbetreuung um räumlich getrennten Wartebereich gebeten, gerichtliche Antwort ausstehend
+laufend;Akteneinsicht und Nachlieferungen;offen;Jede neue Aussage mit Entstehungszeit, Adressat und Originalmedium in die Aussagechronologie aufnehmen

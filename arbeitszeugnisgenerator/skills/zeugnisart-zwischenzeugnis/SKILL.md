@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-zwischenzeugnis
-description: "Wenn es um Zeugnisart: Zwischenzeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbeurteilung ohne Ausscheidensformel. Berücksichtigt Vorgesetztenwechsel, Aufgabenänderung, Betriebsübergang, Elternzeit und spätere Bindungswirkung."
 ---
 
 # Zeugnisart: Zwischenzeugnis
@@ -19,7 +19,9 @@ Das Zwischenzeugnis wird erteilt, während das Arbeitsverhältnis noch läuft. E
 - Beförderung oder Positionswechsel
 - Beginn einer Bewerbungsphase
 - Beginn von Elternzeit oder Pflegezeit
-- Auf Verlangen des Arbeitnehmers ohne spezifischen Anlass (analog Paragraf 109 GewO)
+- bevorstehende Beendigung, wenn das Zwischenzeugnis für Bewerbungen benötigt wird
+
+Ohne tarifliche Regelung setzt der Anspruch einen triftigen Grund voraus. Ein bloßer Wunsch ohne nachvollziehbares Interesse genügt nicht automatisch.
 
 ## Formunterschiede zum Endzeugnis
 
@@ -54,6 +56,12 @@ Oder bei Elternzeit:
 - Vergangenheitsformen im Zwischenzeugnis verwenden — das klingt wie ein Endzeugnis und suggeriert Beendigung.
 - Beendigungssatz hinzufügen, der das laufende Verhältnis konterkariert.
 - Schlussformel mit Bedauern über das Ausscheiden — das Arbeitsverhältnis läuft noch.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 20.05.2020 - 7 AZR 100/19, Rn. 42: Ein Zwischenzeugnis ist gesetzlich nicht allgemein geregelt; als vertragliche Nebenpflicht setzt es einen triftigen Grund voraus, etwa bevorstehende Beendigung, Vorgesetztenwechsel oder Tätigkeitsänderung.
+- BAG, Urteil vom 21.06.2005 - 9 AZR 352/04, bestätigt in BAG, Urteil vom 06.06.2023 - 9 AZR 272/22, Rn. 35: Frühere Wissenserklärungen können eine Selbstbindung begründen; Abweichungen brauchen neue sachliche Umstände.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 16 bis 20: Auch eine Zwischenbeurteilung soll individuell gewichten und nicht auf ein Notenraster reduziert werden.
 
 ## Qualitätscheck vor Ausgabe
 

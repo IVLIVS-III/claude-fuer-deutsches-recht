@@ -1,0 +1,6 @@
+﻿Fallkennung;Buchung;Datum;Betrag_EUR;Zahlweg;Kündigungsversuch;Belegstatus
+ABO-771;FitPlan;2026-03-26;89.90;PayPort Karte;2026-03-28;Kontoauszug und E-Mail
+ABO-771;FitPlan;2026-06-26;89.90;PayPort Karte;2026-07-02;Kontoauszug
+ABO-804;MealSprint;2026-04-03;119.00;Lastschrift;2026-04-04;Rücklastschrift
+ABO-822;FitPlan;2026-05-19;89.90;PayPort Karte;2026-05-20;Screenshots fehlen
+ABO-846;FitPlan;2026-06-02;89.90;PayPort Karte;2026-06-11;Bestätigungsmail vorhanden

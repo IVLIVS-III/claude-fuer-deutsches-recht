@@ -1,6 +1,6 @@
 ---
 name: bag-leitentscheidungen-notenstufen
-description: "Wenn es um BAG-Leitentscheidungen zu Notenstufen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Übersetzt belegte Leistungstatsachen in eine konsistente Zeugnisnote und prüft Zufriedenheitsformel, Einzelmerkmale und Gesamtnote an der Rechtsprechung. Liefert eine Notenmatrix mit Tatsachengrundlage, Formulierung, Beweislast und Abweichungsrisiko."
 ---
 
 # BAG-Leitentscheidungen zu Notenstufen

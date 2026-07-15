@@ -1,11 +1,11 @@
-# Patentrecht — Erfindungsakten Ravenstein & Moll
+# Patentrecht: fünf Mandatsakten der Kanzlei Ravenstein & Moll
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -17,42 +17,55 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte bündelt sechs patentrechtliche Mandatslagen aus einer Patentanwalts- und Rechtsanwaltskanzlei. Sie ist bewusst unordentlich: Erfinder erzählen technisch zu knapp, Anspruchsentwürfe sind noch roh, Abmahnfristen laufen, Lizenzverträge widersprechen sich, Recherchen enthalten Treffer mit unterschiedlicher Relevanz und Bestandsverfahren müssen strategisch gegen Verletzungsrisiken gespiegelt werden.
+## Aktenbestand
 
-**Passende Plugins:** `patentrecht`, `patentrecherche`, `gewerblicher-rechtsschutz`, `fachanwalt-gewerblicher-rechtsschutz`; für saubere Mandantenbriefe zusätzlich das Word-Schreibplugin.
+Der Bestand enthält fünf voneinander unabhängige Mandatsvorgänge aus einer Patent- und Rechtsanwaltskanzlei. Jeder Vorgang besteht aus einer umfangreichen PDF-Akte und der dazugehörigen eingegangenen E-Mail. Interne Lösungsskizzen, ausgefüllte Bewertungsmatrizen und Lehrunterlagen gehören nicht zum Aktenpaket.
 
-## Arbeitsszenarien
+### Akte A: Hühnerstall-Dämmerungstorheber
 
-| Akte | Kernproblem | Erwarteter Skillpfad |
-| --- | --- | --- |
-| A Hühnerstall-Dämmerungstorheber | Erfindung ist anschaulich, aber Anspruchsentwurf und Offenbarungsrisiko sind ungeklärt. | `erfindungsmeldung-aufnahme-und-rueckfragen` → `patentanmeldung-anspruchsentwurf` → `stand-der-technik-recherche-workflow` |
-| B Laserdüse Flow-Edge | Abmahnung mit enger Frist, unvollständiger Claim Chart und möglichem Vorbenutzungsrecht. | `abmahnung-patentverletzung-verteidigung` → `patentverletzung-claim-chart` → `vorbenutzungsrecht-paragraph-12-patg` |
-| C selbstnivellierender Getränkehalter | Crowdfunding-Launch vor Recherche; mehrere nahe Treffer in unterschiedlichen Datenbanken. | `stand-der-technik-recherche-workflow` → `neuheit-und-erfinderische-taetigkeit` → `patentrecherche/agentische-datenbank-recherche` |
-| D Patentlizenz VitaPhotonics | Vertragsentwurf enthält widersprüchliche Lizenz-, Territory-, Inhaberschafts- und Improvement-Regeln. | `patentlizenzvertrag-review` → `patentlizenzvertrag-de-en-drafting` → `erfinderbenennung-und-arbeitnehmererfindung` |
-| E DE/EN-Term-Sheet Aerotech | Deutsches und englisches Lizenzmuster muss aus Term Sheet-Informationen konsistent gefüllt werden. | `patentlizenzvertrag-de-en-drafting` → `patentlizenzvertrag-review` |
-| F Frosthaus-Fassadenelement | EPA-Einspruchsfrist und alternative deutsche Nichtigkeitsroute; technische Prior-Art-Auswertung erforderlich. | `einspruch-epa-und-nichtigkeit-bpatg` → `neuheit-und-erfinderische-taetigkeit` → `rechtsstand-register-und-fristen` |
+Alois Buchensteiner beschreibt eine mechanisch-elektronische Torsteuerung für einen mobilen Hühnerstall. Zu prüfen sind insbesondere Erfindereigenschaft, Offenbarung, technische Merkmale, frühere Vorführungen und der für eine Anmeldung benötigte Tatsachenstoff.
 
-## Dateien
-
-| Pfad | Inhalt |
+| Datei | Dokument |
 | --- | --- |
-| `pdfs/originale/` | Eingereichte Original-PDFs zu den sechs Akten und interne Auswertungsmaterialien |
-| `01-aktenuebersicht-und-soforttriage.md` | Kanzleiinterner Überblick, Fristen, Risiken, Skillrouting |
-| `02-akte-a-erfindungsaufnahme-huehnerstall.docx` | Erfindungsaufnahme, Merkmale, Offenbarungsrisiken, Rückfragen |
-| `03-akte-a-anspruchsentwurf-v0-3.docx` | Arbeitsentwurf Anspruch 1 und Unteransprüche |
-| `04-akte-b-abmahnung-laserduese-claim-chart.docx` | Claim Chart Verteidigung und Abmahnreaktion |
-| `05-akte-c-rechercheplan-getraenkehalter.docx` | Recherchestrategie, Suchstrings, Prior-Art-Bewertung |
-| `06-akte-d-lizenzvertrag-reviewmatrix.docx` | Reviewmatrix Patentlizenz VitaPhotonics/Luminos |
-| `07-akte-e-termsheet-variablenmapping-de-en.docx` | Variablenmapping und Klauselcheck DE/EN |
-| `08-akte-f-einspruch-nichtigkeit-fristen.docx` | Einspruchs-/Nichtigkeitsstrategie Frosthaus |
-| `emails/` | echte EML-Dateien mit Mandantenkommunikation und Fristdruck |
-| `tabellen/` | CSV-Arbeitstabellen für Fristen, Prior Art, Lizenzfehler und Term-Sheet-Variablen |
-| `docx/` | Arbeitsentwürfe für Anspruch und Mandantenkommunikation |
-| `xlsx/` | Claim-Chart- und Variablenmapping-Arbeitsmappen |
+| [`pdfs/originale/Patent_Akte_A_Erfinder_Huehnerstall.pdf`](pdfs/originale/Patent_Akte_A_Erfinder_Huehnerstall.pdf) | Mandatsakte mit Erfinderschilderung, Skizzen, Gesprächsnotizen und Anmeldeunterlagen |
+| [`emails/2026-02-05_buchensteiner_erfindung_huehnerstall.eml`](emails/2026-02-05_buchensteiner_erfindung_huehnerstall.eml) | Erste Mandanten-E-Mail mit Anlagenbezug und Termindruck |
 
-## Nutzung
+### Akte B: Abmahnung wegen einer Laserdüse
 
-1. Zuerst mit `patentrecht/allgemein` oder `patentrecht-kaltstart-interview` die Akte einordnen.
-2. Für Akte A bis F jeweils den passenden Spezialskill starten.
-3. Bei Recherchefragen an `patentrecherche` übergeben und Treffer dokumentieren.
-4. Am Ende immer `patentrecht-redteam-qualitygate` verwenden: Fristen, Registerstand, Anspruchsfassung, Quellen und offene technische Tatsachen prüfen.
+Die Timmermann Präzisionstechnik GmbH erhält wegen der Düse „Flow-Edge“ eine patentbezogene Abmahnung. Die Unterlagen enthalten die angegriffene Ausführungsform, die geltend gemachten Ansprüche, frühere Entwicklungsunterlagen und Korrespondenz zur Reaktionsfrist.
+
+| Datei | Dokument |
+| --- | --- |
+| [`pdfs/originale/Patent_Akte_B_Abmahnung_Laserduese.pdf`](pdfs/originale/Patent_Akte_B_Abmahnung_Laserduese.pdf) | Abmahnung, Patentunterlagen, Produktbeschreibung und interne Entwicklungsbelege |
+| [`emails/2026-04-23_timmermann_abmahnung_laserduese.eml`](emails/2026-04-23_timmermann_abmahnung_laserduese.eml) | Weiterleitung der Abmahnung durch die Mandantin |
+
+### Akte C: Prior-Art-Recherche zu einem Getränkehalter
+
+Mara Koebe plant den Marktstart eines selbstnivellierenden Getränkehalters. Die Akte dokumentiert den Entwicklungsstand, eine bevorstehende Veröffentlichung und mehrere Recherchetreffer mit unterschiedlicher technischer Nähe.
+
+| Datei | Dokument |
+| --- | --- |
+| [`pdfs/originale/Patent_Akte_C_PriorArt_Getraenkehalter.pdf`](pdfs/originale/Patent_Akte_C_PriorArt_Getraenkehalter.pdf) | Produktunterlagen, Recherchetreffer, Zeitablauf und Korrespondenz |
+| [`emails/2026-03-12_koebe_kickstarter_getraenkehalter.eml`](emails/2026-03-12_koebe_kickstarter_getraenkehalter.eml) | Nachricht zum geplanten Kampagnenstart und zu bereits gezeigten Prototypen |
+
+### Akte D: Lizenzvertragsentwurf VitaPhotonics
+
+VitaPhotonics übersendet einen Vertragsentwurf für eine patentbezogene Lizenz. Die Dokumente enthalten widersprüchliche Angaben zu Lizenzgebiet, Verbesserungen, Unterlizenzen, Vergütung und Inhaberschaft; welche Fassung gelten soll, ist aus den Originalunterlagen zu ermitteln.
+
+| Datei | Dokument |
+| --- | --- |
+| [`pdfs/originale/Patent_Akte_D_Lizenzvertrag_mit_Fehlern.pdf`](pdfs/originale/Patent_Akte_D_Lizenzvertrag_mit_Fehlern.pdf) | Vertragsentwurf, Begleitschreiben und technische Anlagen |
+| [`emails/2026-03-03_bartholomae_luminos_lizenzentwurf.eml`](emails/2026-03-03_bartholomae_luminos_lizenzentwurf.eml) | E-Mail zum übersandten Entwurf und zur Verhandlungsfrist |
+
+### Akte F: Einspruch und Nichtigkeitsrisiko bei einem Fassadenelement
+
+Die Frosthaus Systeme GmbH erwägt ein Vorgehen gegen das europäische Patent EP 3 102 554 B1. Die Akte enthält Patent, Prior-Art-Unterlagen, Fristdaten und die geschäftlichen Gründe für ein Vorgehen in mehreren Verfahrenswegen.
+
+| Datei | Dokument |
+| --- | --- |
+| [`pdfs/originale/Patent_Akte_F_Einspruch_und_Nichtigkeit.pdf`](pdfs/originale/Patent_Akte_F_Einspruch_und_Nichtigkeit.pdf) | Patentakte mit Registerstand, Prior Art, Eingangsnachweis und Unternehmensunterlagen |
+| [`emails/2026-04-03_strzelecki_frosthaus_einspruch.eml`](emails/2026-04-03_strzelecki_frosthaus_einspruch.eml) | Mandanten-E-Mail zu Frist, Wettbewerbsprodukt und Unterlagenbestand |
+
+## Arbeitsweise
+
+Die fünf Vorgänge sind getrennt zu bearbeiten. Namen, Patentnummern, Fristen und technische Merkmale dürfen nicht zwischen den Akten vermischt werden. Fehlende Informationen sind als offene Tatsachen auszuweisen; die PDFs und E-Mails enthalten keine vorgefertigte rechtliche Lösung.

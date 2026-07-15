@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -20,3 +20,18 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 Arbeitsakte für ein Statusfeststellungsverfahren und eine laufende Betriebsprüfung bei einer regionalen Kurierplattform. Die Unterlagen betreffen die RuhrKurier GmbH, mehrere Kurierfahrer und den Auftragnehmer Selim Özkan. Die Akte ist für `rentenpruefer`, `sozialversicherungsstatus-prüfer` und `fachanwalt-sozialrecht` gedacht.
 
 Enthalten sind Mandatsnotiz, DRV-Anhörung, Vertragsmaterial, Einsatzpläne, Chat- und Mailauszüge, Honorar- und Tourendaten, Indizienmatrix, Entwurf einer Stellungnahme und ein Klageraster für den Fall eines belastenden Statusbescheids.
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`13_plattform_export_tourzuweisungen.docx`](13_plattform_export_tourzuweisungen.docx) | Plattformauskunft zu Angeboten, Sperrzeiten und Fahrzeugen |
+| [`14_email_kurier_schichttausch.eml`](14_email_kurier_schichttausch.eml) | Kuriermail zur tatsächlich gelebten Toursteuerung |
+| [`15_tourenlog_app_roh.csv`](15_tourenlog_app_roh.csv) | Unbereinigte Tour- und Systemdaten |
+
+<!-- END nachgereichte-originalunterlagen -->

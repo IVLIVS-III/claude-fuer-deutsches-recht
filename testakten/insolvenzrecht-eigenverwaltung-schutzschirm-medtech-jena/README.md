@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Ein Medizintechnikzulieferer mit öffentlichem Förderdarlehen, FDA-Delay und Li
 | `01_geschaeftsfuehrer_vermerk_krisensitzung_2026-06-29.docx` | Vermerk zur Krisensitzung, Deckungslücke KW30 |
 | `02_liquiditaetsstatus_13_wochen_erlaeuterung_2026-07-03.docx` | Erläuterung 13-Wochen-Status |
 | `03_lieferant_vorkasse_und_liefersperre_2026-06-26.docx` | Lieferantenkorrespondenz Vorkasse/Liefersperre |
-| `04_bankmail_covenant_und_stillhaltebitte_2026-06-30.docx` | Bank-Mail zu Covenant und Stillhaltebitte |
+| `04_bankmail_covenant_und_stillhaltebitte_2026-06-30.eml` | Original-E-Mail der Hausbank zu Covenant, Unterlagen und Kreditgespräch |
 | `05_rangruecktritt_entwurf_gesellschafter_2026-07-04.docx` | Rangrücktritt-Entwurf Gesellschafterdarlehen |
 | `06_schutzschirm_antrag_arbeitsfassung_2026-07-05.docx` | Schutzschirmantrag, Arbeitsfassung |
 | `07_bank_dashboard_auszug_2026-07-03.pdf` | Bank-Dashboard-Auszug |

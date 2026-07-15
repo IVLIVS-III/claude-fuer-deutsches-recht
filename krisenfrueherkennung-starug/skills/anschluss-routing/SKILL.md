@@ -32,7 +32,7 @@ Dieses Anschluss-Routing für **Krisenfrueherkennung Starug** wählt nach dem er
 - Ergebnis sichten: Welche Krisenfrüherkennung und StaRUG-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
 - Anschlussweichen identifizieren: drohende Frist (§ 1 StaRUG fortlaufend, § 15a InsO 3 Wochen / 6 Wochen, § 102 StaRUG Hinweispflicht Steuerberater 14 Tage), notwendige Dokumente (Frühwarnsystem-Bericht, Restrukturierungsanzeige, Restrukturierungsplan, Sanierungsmoderation-Antrag, Stabilisierungsanordnung), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG) oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Eskalation an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragten, das nach Paragrafen 34 und 35 StaRUG zuständige Restrukturierungsgericht oder einen Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
 ## Qualitätsanker

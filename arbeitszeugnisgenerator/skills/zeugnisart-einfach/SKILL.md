@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-einfach
-description: "Wenn es um Zeugnisart: Einfaches Arbeitszeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt ein einfaches Arbeitszeugnis mit wahrheitsgemäßen Angaben zu Art und Dauer der Tätigkeit, ohne Leistungs- oder Verhaltensbewertung einzuschmuggeln. Prüft, ob stattdessen rechtzeitig ein qualifiziertes Zeugnis verlangt werden soll."
 ---
 
 # Zeugnisart: Einfaches Arbeitszeugnis
@@ -17,17 +17,17 @@ Paragraf 109 Abs. 1 S. 1 und 2 GewO: Bei Beendigung eines Arbeitsverhältnisses 
 
 | Element | Pflicht |
 |---|---|
-| Name und Geburtsdatum | ja |
+| Eindeutige Identität | ja; Geburtsdatum nur bei sachlichem Bedarf |
 | Beschäftigungszeitraum | ja |
 | Positionsbezeichnung | ja |
 | Aufgabenbeschreibung | ja (Art der Tätigkeit) |
 | Leistungs- und Verhaltensaussage | nein — nur auf Verlangen (dann qualifiziert) |
-| Beendigungssatz | ja |
+| Beendigungsgrund oder Schlussformel | nein; nur freiwillig und wahrheitsgemäß |
 | Datum und Unterschrift | ja |
 
-## Hinweis-Pflicht des Generators
+## Hinweis des Arbeitsmodus
 
-> **Hinweis:** Nach Paragraf 109 Abs. 1 S. 3 GewO hat der Arbeitnehmer jederzeit das Recht, ein qualifiziertes Zeugnis mit Aussagen zu Leistung und Verhalten zu verlangen. Ein einfaches Zeugnis ohne Bewertung kann im Bewerbungsverkehr als Signal gewertet werden, dass der Arbeitnehmer keine bessere Bewertung erwünscht oder erhalten kann.
+> Hinweis: Bei Beendigung des Arbeitsverhältnisses kann der Arbeitnehmer nach Paragraf 109 Abs. 1 S. 3 GewO ein qualifiziertes Zeugnis mit Aussagen zu Leistung und Verhalten verlangen. Ob ein einfaches Zeugnis dem Bewerbungszweck genügt, ist mit dem Nutzer zu klären; aus seiner Wahl folgt keine automatische negative Bewertung.
 
 ## Vollständiges Musterzeugnis (einfach)
 
@@ -52,7 +52,7 @@ Paragraf 109 Abs. 1 S. 1 und 2 GewO: Bei Beendigung eines Arbeitsverhältnisses 
 ## Wann ist das einfache Zeugnis angemessen?
 
 - Der Arbeitnehmer verlangt ausdrücklich nur ein einfaches Zeugnis.
-- Kurzfristige Beschäftigung unter einem Monat (Tendenz in der Praxis).
+- Kurze Beschäftigung, wenn der Nutzer bewusst nur Art und Dauer dokumentieren will.
 - Praktika, bei denen nur Tätigkeitsnachweis benötigt wird.
 - Ausbildungsverhältnis nach Paragraf 16 BBiG, wenn kein qualifiziertes Zeugnis verlangt wurde.
 
@@ -67,6 +67,12 @@ Paragraf 109 Abs. 1 S. 1 und 2 GewO: Bei Beendigung eines Arbeitsverhältnisses 
 - Einfaches Zeugnis mit versteckten Bewertungssignalen (implizit positiv oder negativ).
 - Aufgabenbeschreibung so dünn gestalten, dass die Tätigkeit nicht erkennbar ist.
 - Kein Hinweis auf den Anspruch auf das qualifizierte Zeugnis geben.
+
+## Normen- und Rechtsprechungsanker
+
+- Paragraf 109 Abs. 1 S. 1 und 2 GewO: Das einfache Zeugnis dokumentiert Art und Dauer der Tätigkeit.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 10 bis 12: Inhalt und äußere Form richten sich nach dem Zeugniszweck; bei einer qualifizierten Beurteilung gelten Wahrheit und Klarheit.
+- BAG, Urteil vom 14.06.2016 - 9 AZR 8/15, Rn. 12 bis 16: Auch Datums- und Zeitangaben unterliegen der Wahrheitspflicht; ein gewünschtes Datum wird nicht automatisch geschuldet.
 
 ## Ausgabeformat
 

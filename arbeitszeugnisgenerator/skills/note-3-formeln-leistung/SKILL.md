@@ -1,6 +1,6 @@
 ---
 name: note-3-formeln-leistung
-description: "Wenn es um Note 3 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert eine durchschnittliche Leistungsbeurteilung klar und ohne verdeckte Abwertung. Ordnet die Formel zur vollen Zufriedenheit als Ausgangsniveau der BAG-Beweislast ein und hält Einzelmerkmale, Sozialverhalten und Schlussabschnitt widerspruchsfrei."
 ---
 
 # Note 3 — Formeln Leistung

@@ -1,8 +1,8 @@
 Datum;Ereignis;Friststatus;Bearbeitungsvermerk
-22.05.2026;Unfall an der Landsberger Allee kurz nach 23 Uhr;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-23.05.2026;Fahrzeug BMW 440i in Tiefgarage gesichert;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-26.05.2026;vorläufige Entziehung der Fahrerlaubnis beantragt;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-05.06.2026;EDR-Auslesung und Dashcam-Auswertung;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-24.06.2026;Beschwerdefrist gegen Beschluss geprüft;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-11.08.2026;Hauptverhandlungstermin angefragt;sofort prüfen;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-laufend;Akteneinsicht und Nachlieferungen;offen;jede neue Datei mit Blattzahl und Beweisrichtung erfassen
+22.05.2026;Unfall an der Landsberger Allee kurz nach 23 Uhr;aktenkundig;Notruf 23:08 Uhr, erste Streife 23:14 Uhr und Lichtzeichenphase aus Einsatzakte übernommen
+23.05.2026;Fahrzeug BMW 440i in Tiefgarage gesichert;aktenkundig;Sicherstellung um 02:36 Uhr, Kilometerstand 68412 und Schlüsselübergabe protokolliert
+26.05.2026;vorläufige Entziehung der Fahrerlaubnis beantragt;aktenkundig;Antrag der Staatsanwaltschaft und Verteidigerstellungnahme in Beschlussmappe abgelegt
+05.06.2026;EDR-Auslesung und Dashcam-Auswertung;aktenkundig;"EDR-Zeiten in UTC, Dashcam in Sommerzeit; Umrechnung im Technikvermerk festgehalten"
+24.06.2026;Beschwerdefrist gegen Beschluss geprüft;aktenkundig;Beschluss am 17.06. um 10:22 Uhr zugestellt, Gegenkontrolle durch Frau Lenz erfolgt
+11.08.2026;Hauptverhandlungstermin angefragt;sofort prüfen;Sachverständiger Reuter am 04. und 11.08. verhindert, Gericht um Alternativen gebeten
+laufend;Akteneinsicht und Nachlieferungen;offen;Neue Geschwindigkeitswerte stets mit Quelle, Zeitzone und Messunsicherheit in die Zeitachse eintragen

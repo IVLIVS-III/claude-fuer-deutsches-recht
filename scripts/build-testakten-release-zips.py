@@ -2,8 +2,8 @@
 """Baut die Testakten-ZIPs fuer Releases.
 
 Die ZIPs enthalten die Arbeitsdateien und das Gesamt-PDF, aber keine
-repo-internen README-, Download- oder Vorfuehrseiten. Damit entspricht der
-Download eher einem echten Aktenordner als einer Demo-Mappe.
+Markdown-, README-, Download- oder Vorfuehrseiten. Alle Dateien liegen ohne
+Unterordner unmittelbar auf der Wurzelebene des jeweiligen ZIPs.
 
 Aufruf:
   python3 scripts/build-testakten-release-zips.py [dist]            # alle Testakten
@@ -17,7 +17,7 @@ import shutil
 import zipfile
 from pathlib import Path
 
-from testakte_file_filter import include_in_working_dump
+from testakte_zip_common import working_dump_flat_pairs
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -25,12 +25,6 @@ SKIP_DIRS = {
     "megaprompts",
 }
 ZIP_TIMESTAMP = (1980, 1, 1, 0, 0, 0)
-
-
-def iter_export_files(testakte_dir: Path):
-    for path in sorted(testakte_dir.rglob("*"), key=lambda p: str(p.relative_to(testakte_dir)).lower()):
-        if include_in_working_dump(path, testakte_dir, include_gesamt_pdf=True):
-            yield path
 
 
 def write_file(zipf: zipfile.ZipFile, path: Path, arcname: str) -> None:
@@ -44,9 +38,11 @@ def write_file(zipf: zipfile.ZipFile, path: Path, arcname: str) -> None:
 
 def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
     count = 0
-    for path in iter_export_files(testakte_dir):
-        arcname = Path(testakte_dir.name) / path.relative_to(testakte_dir)
-        write_file(zipf, path, arcname.as_posix())
+    for path, arcname in working_dump_flat_pairs(
+        testakte_dir,
+        include_gesamt_pdf=True,
+    ):
+        write_file(zipf, path, arcname)
         count += 1
     return count
 
@@ -86,7 +82,8 @@ def main() -> None:
         else:
             targets.append(arg)
     dist.mkdir(parents=True, exist_ok=True)
-    dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
+    all_dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
+    dirs = all_dirs
     if targets:
         unknown = sorted(set(targets) - {d.name for d in dirs})
         if unknown:
@@ -97,12 +94,22 @@ def main() -> None:
         return
 
     total_files = 0
+    built: list[Path] = []
     for d in dirs:
         out, count = build_single(d, dist)
         if count == 0:
             raise SystemExit(f"{d}: keine exportfaehigen Dateien")
         total_files += count
+        built.append(out)
         print(f"Baue {out.name}: {count} Dateien")
+
+    bundle_archives = [dist / f"testakte-{d.name}.zip" for d in all_dirs]
+    missing_archives = [path.name for path in bundle_archives if not path.is_file()]
+    if missing_archives:
+        raise SystemExit(
+            "Zentralarchiv unvollstaendig; zuerst fehlende Einzelarchive bauen: "
+            + ", ".join(missing_archives[:10])
+        )
 
     all_out = dist / "alle-testakten.zip"
     all_temporary = all_out.with_name(f".{all_out.name}.tmp")
@@ -110,14 +117,13 @@ def main() -> None:
         with zipfile.ZipFile(
             all_temporary, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=1
         ) as zipf:
-            all_count = 0
-            for d in dirs:
-                all_count += add_testakte(zipf, d)
+            for archive in bundle_archives:
+                write_file(zipf, archive, archive.name)
         all_temporary.replace(all_out)
     except Exception:
         all_temporary.unlink(missing_ok=True)
         raise
-    print(f"Baue {all_out.name}: {all_count} Dateien aus {len(dirs)} Testakten")
+    print(f"Baue {all_out.name}: {len(bundle_archives)} flache Einzel-ZIPs")
     print(f"Fertig: {len(dirs)} Einzel-ZIPs, {total_files} Dateien")
 
 

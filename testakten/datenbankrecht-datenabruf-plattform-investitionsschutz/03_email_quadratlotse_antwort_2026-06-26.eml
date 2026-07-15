@@ -1,0 +1,34 @@
+From: Dr. Lars =?utf-8?q?Maa=C3=9F?= <l.maass@quadratlotse.de>
+To: Nele =?utf-8?q?E=C3=9Fwein?= <e.esswein@alter-markt.de>
+Cc: legal@quadratlotse.de
+Date: Fri, 26 Jun 2026 18:21:44 +0200
+Subject: AM-26/441 / technische Sicherung und Kontenzuordnung
+X-Attachments: Kontenabgleich_vorlaeufig.csv; Systemuebersicht_QL.pdf
+Message-ID: <4a27e901ac36c77b8763@quadratlotse.de>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Sehr geehrte Frau E=C3=9Fwein,
+
+wir haben die in Ihrem Schreiben genannten Konten vorl=C3=A4ufig abgeglichen.=
+ 18 E-Mail-Adressen lassen sich keinem Besch=C3=A4ftigten oder Dienstleister =
+zuordnen. Bei neun Adressen bestehen =C3=9Cberschneidungen mit einem externen=
+ Preisbeobachtungsprojekt; vier Konten wurden offenbar von einem fr=C3=BChere=
+n Praktikanten angelegt.
+
+Das Client-Merkmal ql-fetch/4.8 stammt aus einer =C3=B6ffentlich verf=C3=BCgb=
+aren Bibliothek, die wir angepasst haben. Wir k=C3=B6nnen daraus allein keine=
+ Zuordnung der Abrufe best=C3=A4tigen. Die relevanten Container-Images und Ga=
+teway-Protokolle wurden gesichert. Eine automatische L=C3=B6schroutine f=C3=
+=BCr Logs ist ausgesetzt.
+
+Zu CRM-Kontakten pr=C3=BCfen wir einen Import vom 4. M=C3=A4rz. Die importier=
+te Datei hatte 7128 Zeilen. Herkunft und Feldumfang sind noch Gegenstand der =
+internen Pr=C3=BCfung. F=C3=BCr eine gemeinsame technische Bestandsaufnahme s=
+chlagen wir den 30. Juni vor.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Dr. Lars Maa=C3=9F
+Gesch=C3=A4ftsf=C3=BChrer
+QuadratLotse GmbH

@@ -13,6 +13,8 @@ import re
 from os.path import relpath
 from pathlib import Path
 
+from testakte_zip_common import working_dump_flat_pairs
+
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
@@ -78,12 +80,14 @@ PROSE_REPLACEMENTS = {
     "Suedafrika": "Südafrika",
     "Syndikus-Anwaelten": "Syndikus-Anwälten",
     "Taetigkeiten": "Tätigkeiten",
+    "Taetigkeitsbild": "Tätigkeitsbild",
     "Teilungserklaerung": "Teilungserklärung",
     "Umstaende": "Umstände",
     "Universitaetsstaedte": "Universitätsstädte",
     "UrhG-Bezuege": "UrhG-Bezüge",
     "VVG-Bezuege": "VVG-Bezüge",
     "Veraenderungen": "Veränderungen",
+    "Verknuepft": "Verknüpft",
     "Versaeumnisurteil": "Versäumnisurteil",
     "Verspaetung": "Verspätung",
     "Verstoessen": "Verstößen",
@@ -229,8 +233,15 @@ def navigation(plugin_name: str, directory: Path) -> str:
     )
 
 
+def has_plugin_local_testakte(directory: Path) -> bool:
+    testakte = directory / "testakte"
+    return testakte.is_dir() and bool(
+        working_dump_flat_pairs(testakte, include_gesamt_pdf=False)
+    )
+
+
 def testakte_count(directory: Path, akten_slugs: list[str]) -> int:
-    return len(akten_slugs) + int((directory / "testakte").is_dir())
+    return len(akten_slugs) + int(has_plugin_local_testakte(directory))
 
 
 def testakte_download_cell(directory: Path, akten_slugs: list[str]) -> str:
@@ -257,7 +268,7 @@ def testakten_section(plugin_name: str, directory: Path, akten_slugs: list[str])
         "| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |",
         "| --- | --- | --- | --- |",
     ]
-    if (directory / "testakte").is_dir():
+    if has_plugin_local_testakte(directory):
         pdf = directory / "testakte" / "gesamt-pdf" / "testakte_gesamt.pdf"
         pdf_link = "[Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf)" if pdf.is_file() else "nicht vorhanden"
         lines.append(

@@ -1,8 +1,8 @@
 Datum;Ereignis;Friststatus;Bearbeitungsvermerk
-15.01.2026;interne Kassenprüfung stellt Lücke fest;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-02.02.2026;Sondervorstandssitzung und Abwahl Schatzmeister;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-20.02.2026;Strafanzeige und Herausgabeverlangen;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-18.04.2026;Durchsuchung Privatwohnung Schulte;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-03.06.2026;Bankunterlagen der Vereinskonten vollständig;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-12.08.2026;zivilrechtliche Klagefrist im Vorstand beschlossen;aktenkundig;Dokument zuordnen, Belegfundstelle eintragen, Wiedervorlage setzen
-laufend;Akteneinsicht und Nachlieferungen;offen;jede neue Datei mit Blattzahl und Beweisrichtung erfassen
+15.01.2026;interne Kassenprüfung stellt Lücke fest;aktenkundig;Differenz von 28460 EUR zwischen Kassenbuch und Bankexport im Prüfprotokoll vermerkt
+02.02.2026;Sondervorstandssitzung und Abwahl Schatzmeister;aktenkundig;Originalprotokoll von Vorsitzender und Schriftführer unterzeichnet, Teilnehmerliste beigefügt
+20.02.2026;Strafanzeige und Herausgabeverlangen;aktenkundig;Anlagen 1 bis 12 laut Eingangsstempel vollständig, USB-Datenträger separat verwahrt
+18.04.2026;Durchsuchung Privatwohnung Schulte;aktenkundig;Laptop und Ordner 2019 bis 2025 sichergestellt, Vereinskassenbelege 2022 fehlen laut Liste
+03.06.2026;Bankunterlagen der Vereinskonten vollständig;aktenkundig;CSV-Export und Papierauszüge enden beide am 31.12.2025, Unterkonto Jugend fehlt
+12.08.2026;zivilrechtliche Klagefrist im Vorstand beschlossen;aktenkundig;Beschluss nennt Höchstbetrag 32000 EUR, Beauftragungsschreiben noch nicht unterzeichnet
+laufend;Akteneinsicht und Nachlieferungen;offen;Neue Buchungen mit Belegnummer, Empfänger, Freigabe und Gegenkonto in die Zahlungsübersicht übernehmen

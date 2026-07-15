@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-grosskanzlei-corporate-ma-datenraum` (Akte) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 **Startprompt:**
 
@@ -76,7 +75,7 @@ Dieser Abschnitt dokumentiert den Aufbau der Akte für die Phasen 00 bis 09 der 
 | [00_kommandocenter/statuskarte_erwartung.docx](00_kommandocenter/statuskarte_erwartung.docx) | Statusampel-Karte aller Themenblöcke; offene Punkte mit Deadlines und Eskalationspfaden |
 | [00_kommandocenter/engagement_letter.docx](00_kommandocenter/engagement_letter.docx) | **DOCX** — Engagement Letter: Mandatsumfang, Honorar, Teambesetzung, anwendbares Recht |
 | [01_intake_conflicts/conflict_sanctions_rohdaten.docx](01_intake_conflicts/conflict_sanctions_rohdaten.docx) | Aktenvermerk Conflict-Check und Sanctions-Screening: alle Parteien, UBO-Analyse, GwG-Sorgfaltspflichten; offener Punkt Harald Grünwald-Konrad |
-| [01_intake_conflicts/email_mandant.txt](01_intake_conflicts/email_mandant.txt) | Erste Mandanten-E-Mail (Ausgangsimpuls für das Mandat) |
+| [01_intake_conflicts/email_mandant.eml](01_intake_conflicts/email_mandant.eml) | Erste Mandanten-E-Mail mit Konfliktprüfung, NDA und Datenraumauftrag |
 | [02_target_screening/outside_in_quellenliste.docx](02_target_screening/outside_in_quellenliste.docx) | Außen-Screening Solaris Industries AG: Bundesanzeiger, Creditreform, Pressearchiv, DPMA-Patente, Gerichtsrecherche; Risikoampeln je Bereich |
 | [02_target_screening/target_pipeline.csv](02_target_screening/target_pipeline.csv) | Target-Pipeline: 7 Unternehmen mit Umsatz, EBITDA, Marge, Mitarbeitern, Risiko, Synergie, Bieter-Status und EV-Indikation |
 | [03_teaser_processdocs/process_letter_draft.docx](03_teaser_processdocs/process_letter_draft.docx) | Vollständiger Process Letter Phase 1+2+3: Fristen, Anforderungen NBO/BO, Vertraulichkeit, Prozessregeln, Kontakt |

@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-ausbildungszeugnis-16-bbig
-description: "Wenn es um Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Erstellt Ausbildungszeugnisse nach Paragraf 16 BBiG mit Art, Dauer, Ziel sowie erworbenen Fertigkeiten, Kenntnissen und Fähigkeiten; Leistung und Verhalten nur auf Verlangen. Prüft Mitunterzeichnung, elektronische Form und unbelegte Berufsschulangaben."
 ---
 
 # Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG
@@ -13,25 +13,24 @@ Ein vollständiges Ausbildungszeugnis nach BBiG generieren, das die Besonderheit
 
 - Paragraf 16 Abs. 1 BBiG: Anspruch auf einfaches Zeugnis bei Beendigung des Berufsausbildungsverhältnisses.
 - Paragraf 16 Abs. 2 BBiG: Qualifiziertes Zeugnis mit Angaben zu Verhalten und Leistung nur auf Verlangen.
-- Elektronische Form nur mit Einwilligung der Auszubildenden und qualifizierter elektronischer Signatur (Paragraf 16 Abs. 1 BBiG seit 1.8.2024).
+- Elektronische Form nur mit Einwilligung der Auszubildenden; für die elektronische Form gilt Paragraf 126a BGB.
 
 ## Pflichtinhalt (einfaches Ausbildungszeugnis)
 
 | Element | Pflicht |
 |---|---|
-| Name und Geburtsdatum | ja |
-| Ausbildungsberuf | ja |
-| Ausbildungszeitraum | ja |
-| Wesentliche Ausbildungsinhalte/Fertigkeiten | ja |
-| Beendigungssatz | ja |
-| Unterschrift des Ausbildenden | ja |
+| Identität des Auszubildenden | zur eindeutigen Zuordnung erforderlich; Geburtsdatum nur bei sachlichem Bedarf |
+| Art, Dauer und Ziel der Berufsausbildung | gesetzlicher Pflichtinhalt |
+| Erworbene berufliche Fertigkeiten, Kenntnisse und Fähigkeiten | gesetzlicher Pflichtinhalt |
+| Mitwirkung des Ausbilders | soll mitunterzeichnen, wenn der Ausbildende die Ausbildung nicht selbst durchgeführt hat |
+| Leistung und Verhalten | nur auf Verlangen des Auszubildenden |
 
 ## Zusätzlicher Inhalt (qualifiziertes Ausbildungszeugnis, auf Verlangen)
 
 | Element |
 |---|
 | Lernfortschritt und fachliche Entwicklung |
-| Berufsschulleistungen (bei dualer Ausbildung) |
+| Berufsschulleistungen nur auf Wunsch und nur mit verifizierter Tatsachengrundlage |
 | Verhalten gegenüber Ausbildern, Kollegen, Kunden |
 | Engagement und Lernbereitschaft |
 
@@ -55,7 +54,7 @@ Ein vollständiges Ausbildungszeugnis nach BBiG generieren, das die Besonderheit
 
 „War bereit zu erlernen" ist ein doppeltes Negativsignal — unterdurchschnittlicher Fortschritt.
 
-## Azubi-Codes (Achtung beim Generieren)
+## Formulierungswirkung im Kontext
 
 | Formulierung | Bedeutung | Bewertung |
 |---|---|---|
@@ -63,13 +62,13 @@ Ein vollständiges Ausbildungszeugnis nach BBiG generieren, das die Besonderheit
 | „zuverlässig die Ausbildungsinhalte angeeignet" | guter Lernfortschritt | gruen |
 | „hat sich die Inhalte erarbeitet" | befriedigender Fortschritt | orange |
 | „war bereit zu erlernen" | unterdurchschnittlicher Fortschritt | rot |
-| fehlender Berufsschulabschnitt (duale Ausbildung) | Schulprobleme möglich | orange |
-| fehlende Pünktlichkeitsaussage | Fehlzeiten oder Verspätungen | orange |
+| fehlender Berufsschulabschnitt | kein gesetzlicher Pflichtinhalt; keine negative Deutung ohne weitere Anhaltspunkte | neutral |
+| fehlende Pünktlichkeitsaussage | keine automatische Aussage zu Fehlzeiten | neutral |
 
 ## Triage-Checkliste
 
 1. Abschlusszeugnis oder Zwischenzeugnis?
-2. Duale Ausbildung — Berufsschulbewertung erforderlich?
+2. Wünscht der Auszubildende eine Leistungs- und Verhaltensbeurteilung und sollen belegte Berufsschulergebnisse aufgenommen werden?
 3. Ausbildung abgebrochen — auch dann Anspruch auf Leistungs-/Verhaltensaussage auf Verlangen.
 4. Beendigungsgrund: bestandene Prüfung oder Kündigung/Aufhebung?
 
@@ -79,9 +78,14 @@ Auch bei abgebrochener Ausbildung besteht Anspruch auf ein einfaches Zeugnis; qu
 
 ## Stolpersteine
 
-- Berufsschulleistungen weglassen bei dualer Ausbildung — deren Fehlen ist ein Negativsignal.
+- Berufsschulleistungen ohne Zeugnis, Einwilligung oder verifizierte Angaben erfinden.
 - Azubi-Zeugnis mit demselben Template wie Führungskräfte-Zeugnis generieren — andere Terminologie, andere Maßstäbe.
-- „positiv entwickelt" weglassen, obwohl es ein standardisierter Positivcode im Azubi-Bereich ist.
+- Lernfortschritt aus bloßen Standardfloskeln statt aus Ausbildungsnachweisen ableiten.
+
+## Normen- und Rechtsprechungsanker
+
+- Paragraf 16 BBiG bestimmt den Pflichtinhalt und stellt Leistung sowie Verhalten unter ein Verlangen des Auszubildenden.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 16 bis 20, betrifft Paragraf 109 GewO, gibt aber für eine freiwillig ausformulierte Bewertung den belastbaren Orientierungsgrundsatz vor: individuell gewichten und nicht bloß Schulnoten tabellarisch aneinanderreihen.
 
 ## Anti-Muster
 

@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -32,3 +32,18 @@ Ein deutsches Sneakerlabel widerspricht einer Unionsmarkenanmeldung aus Spanien.
 ## Sachverhaltskern
 
 Kapselwerk GmbH aus Köln vertreibt limitierte Sneaker unter der älteren Unionswortmarke KAPSEL 42. Eine spanische Anmeldung CAPSULA42 erscheint für Klasse 25 und 35. Die Widerspruchsfrist läuft drei Monate ab Veröffentlichung. Die Anmelderin signalisiert Koexistenz für Taschen, will aber Sneaker und Online-Retail behalten. Die ältere Marke ist über fünf Jahre eingetragen; Benutzungsnachweis ist daher zentral. Die Belege sind stark für Deutschland und Österreich, schwächer für Frankreich und Spanien.
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_vertreterpost_zustellung_benutzungsnachweise.docx`](12_vertreterpost_zustellung_benutzungsnachweise.docx) | Kanzleischreiben zum Eingang der Rechnungs- und Verpackungsbelege |
+| [`13_email_vertrieb_archivkarton_und_spanienbeleg.eml`](13_email_vertrieb_archivkarton_und_spanienbeleg.eml) | Vertriebsmail zu Spaniengeschäft, Retouren und Archivfund |
+| [`14_rohverkaufsliste_kapsel42_2021_2026.csv`](14_rohverkaufsliste_kapsel42_2021_2026.csv) | Unbereinigte Verkaufsbelege mit Fundstellen |
+
+<!-- END nachgereichte-originalunterlagen -->

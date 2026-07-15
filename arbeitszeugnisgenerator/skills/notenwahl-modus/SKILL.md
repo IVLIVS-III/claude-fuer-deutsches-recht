@@ -1,6 +1,6 @@
 ---
 name: notenwahl-modus
-description: "Wenn es um Notenwahl-Modus in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt eine Wunschziffer ungeprüft zu übernehmen. Liefert eine Achsenbewertung mit Quellenstatus, Unsicherheiten und konsistenter Formulierungsstufe."
 ---
 
 # Notenwahl-Modus

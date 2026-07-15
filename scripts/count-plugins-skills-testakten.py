@@ -6,6 +6,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+from testakte_zip_common import working_dump_flat_pairs
+
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
@@ -30,8 +32,9 @@ def main() -> int:
     for plugin in plugins:
         directory = plugin_dir(plugin)
         skill_files.extend(sorted((directory / "skills").glob("*/SKILL.md")))
-        if (directory / "testakte").is_dir():
-            pluginlocal_testakten.append(directory / "testakte")
+        testakte = directory / "testakte"
+        if testakte.is_dir() and working_dump_flat_pairs(testakte, include_gesamt_pdf=False):
+            pluginlocal_testakten.append(testakte)
 
     central_testakten = []
     root = REPO / "testakten"

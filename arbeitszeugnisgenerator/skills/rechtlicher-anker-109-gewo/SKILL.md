@@ -1,6 +1,6 @@
 ---
 name: rechtlicher-anker-109-gewo
-description: "Wenn es um Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Anspruch, Inhalt, Klarheit, Form, Berichtigung, Vergleich und Vollstreckung eines Arbeitszeugnisses nach GewO, BGB, ArbGG und ZPO. Liefert eine aktuelle Normen- und Rechtsprechungskarte mit Anspruchsziel und Verfahrensweg."
 ---
 
 # Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen

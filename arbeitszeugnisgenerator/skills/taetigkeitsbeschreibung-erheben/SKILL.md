@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung-erheben
-description: "Wenn es um Tätigkeitsbeschreibung erheben in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldungen und gewichtet sie nach Verantwortung. Liefert einen vollständigen, individualisierten Tätigkeitsblock mit Fundstellen und offenen Tatsachenfragen."
 ---
 
 # Tätigkeitsbeschreibung erheben

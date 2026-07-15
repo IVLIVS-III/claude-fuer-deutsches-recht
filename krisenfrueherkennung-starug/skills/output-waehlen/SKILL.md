@@ -29,7 +29,7 @@ Diese Output-Weiche für **Krisenfrueherkennung Starug** entscheidet, ob Memo, A
 
 ## Arbeitsweg
 
-- Ergebnistyp bestimmen: Schriftsatz an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG), Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Ergebnistyp bestimmen: Schriftsatz an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragten oder das nach Paragrafen 34 und 35 StaRUG zuständige Restrukturierungsgericht, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage oder Behördenstellungnahme. Welches Arbeitsprodukt wird wirklich gebraucht?
 - Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Krisenfrüherkennung und StaRUG (StaRUG §§ 1, 29, 31, 39, 49–55, 84, 102, InsO §§ 15a, 17, 18, 19, HGB § 252, IDW S 11) einarbeiten.
 - Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.

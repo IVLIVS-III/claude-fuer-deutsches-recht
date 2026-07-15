@@ -1,0 +1,6 @@
+﻿Fälligkeit;Soll_EUR;Zahlungstag;Zahlung_EUR;Buchungstext;Rest_EUR;Beleg
+2025-10-01;9200.00;2026-01-14;9200.00;Sammelzahlung Vertrag 77;0.00;Kontoauszug 14.01
+2026-01-01;9200.00;2026-01-14;9200.00;Sammelzahlung Vertrag 77;0.00;Kontoauszug 14.01
+2026-04-01;9308.00;2026-06-22;5000.00;Teilzahlung Kita;4308.00;Kontoauszug 22.06
+2026-06-10;48.00;;;Mahnkosten;48.00;Mahnlauf 06/26
+2026-07-01;9308.00;;;Quartalsrate;9308.00;Sollstellung 01.07

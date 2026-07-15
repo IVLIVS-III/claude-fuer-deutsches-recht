@@ -1,13 +1,13 @@
 ---
 name: drift-und-schaufenster-vermeiden
-description: "Wenn es um Drift und Schaufenster vermeiden in Arbeitszeugnisgenerator geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Prüft einen Zeugnisentwurf als einheitliches Ganzes auf Notendrift, widersprüchliche Adverbien, überladene Spitzenformulierungen und eine unpassende Schlussformel. Liefert eine Satz-für-Satz-Konsistenzmatrix und eine bereinigte Gesamtfassung."
 ---
 
 # Drift und Schaufenster vermeiden
 
 ## Ziel
 
-Konsistente Zeugnisse generieren, in denen alle Abschnitte dieselbe Notenstufe tragen und keine versteckten Abwertungen durch Drift eingebaut werden.
+Konsistente Zeugnisse generieren, in denen unterschiedliche Bewertungsachsen sachlich erklärbar bleiben und unbeabsichtigte Widersprüche beseitigt werden. Nicht jede Abweichung ist ein Geheimcode: Fachleistung, Führung, Verhalten und einzelne Zeiträume dürfen verschieden bewertet sein, wenn die Akte das trägt.
 
 ## Was ist Drift?
 
@@ -31,23 +31,21 @@ Eine Achse (Leistung oder Verhalten) ist deutlich stärker als die andere, ohne 
 
 | Drift-Befund | Signalwirkung | Bewertung |
 |---|---|---|
-| Note 1 und Note 3 zum selben Thema direkt aufeinanderfolgend | Schaufenster mit kodierter Korrektur | rot |
-| Spreizung zwei Stufen innerhalb eines Bereichs | systematische Abwertung | rot |
-| Spreizung eine Stufe innerhalb eines Bereichs | bewusste Vorsicht | orange |
-| Drift bei Lernbereitschaft trotz starker Fachkenntnisse | Stagnationssignal | rot |
-| Drift bei Sozialverhalten trotz starker Leistungsteile | Konfliktsignal | rot |
-| Leistung Note 1, Schlussformel Note 3 | Widerspruch, nicht konsistent | orange bis rot |
-| Konstante Note auf allen Achsen | konsistent, kein Drift | gruen |
+| Stark verschiedene Aussagen zum selben Merkmal und Zeitraum | möglicher Widerspruch | Belege und Wortlaut prüfen |
+| Unterschied zwischen Fachleistung und Führung | kann sachlich richtig sein | Achsen getrennt begründen |
+| Schwächere Lernbereitschaft trotz hoher Fachkenntnisse | nicht automatisch negativ codiert | tatsächliche Entwicklung prüfen |
+| Starkes Leistungsbild und knappe Schlussformel | kein Anspruch auf Gleichlauf | Freiwilligkeit und Gesamtwirkung trennen |
+| Einheitliche Superlative ohne Tatsachenbelege | Schaufensterrisiko | auf belegte Aussagen zurückführen |
 
 ## Konsistenzregel beim Generieren
 
 Vor dem Ausgeben des vollständigen Zeugnisses:
 
 1. Welche Note ist für Leistung festgelegt?
-2. Ist jeder Leistungssatz auf dieser Notenstufe?
+2. Sind Abweichungen zwischen Leistungsmerkmalen durch konkrete Tatsachen erklärbar?
 3. Welche Note ist für Verhalten festgelegt?
-4. Ist jeder Verhaltenssatz auf dieser Notenstufe?
-5. Passt die Schlussformel zur Hauptnote?
+4. Sind Unterschiede zwischen Vorgesetzten-, Kollegen- und Kundenkontakt sachlich belegt?
+5. Ist die freiwillige Schlussformel vom gesetzlichen Beurteilungsteil getrennt bewertet?
 
 ## Beispiel Schaufenster-Drift (aus dem Quellmaterial)
 
@@ -60,7 +58,7 @@ Der erste Eindruck (schöne Spitzensätze) verdeckt die systematische Absenkung 
 Ein direkt widersprüchliches Satzpaar:
 > „Herr Braun arbeitete stets eigenverantwortlich" + „Er erledigte die nach Anweisung zugewiesenen Aufgaben zuverlässig."
 
-→ Eigenverantwortlichkeit und Auftragserfüllung nach Anweisung stehen im Widerspruch.
+→ Die Aussagen widersprechen sich nicht zwingend: Auch eigenverantwortliche Arbeit kann auf übertragenen Aufgaben beruhen. Zu prüfen ist, ob „nach Anweisung" unnötig verengt oder den tatsächlichen Entscheidungsspielraum korrekt beschreibt.
 
 Der Generator muss solche Kombinationen ausschließen.
 
@@ -75,10 +73,17 @@ Der Generator muss solche Kombinationen ausschließen.
 
 - Musterzitate aus verschiedenen Notenstufen kombinieren, weil sie „gut klingen".
 - Spitzensätze aus Note-1-Zeugnissen mit einer Note-3-Hauptformel kombinieren.
-- Verhaltensabschnitt auf Note 3, Leistungsabschnitt auf Note 1 — das ist ein Konfliktsignal.
+- Unterschiedliche Bewertungsachsen ohne Tatsachenprüfung automatisch angleichen.
 
 ## Anti-Muster
 
 - Aufgabenbeschreibung sehr umfangreich und beeindruckend gestalten, um eine schwache Note zu kompensieren.
 - Einzelnen Satz aus einem Musterbaustein übernehmen, ohne zu prüfen, ob er zur gewählten Note passt.
 - Schlussformel-Niveau beliebig von der Leistungsnote abkoppeln.
+
+## Rechtsprechungsanker und Output
+
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20 und 27: Das Zeugnis ist individuell zu gewichten und als einheitliches Ganzes zu lesen; ein schematischer Notenkatalog genügt nicht.
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Maßgeblich ist der objektive Empfängerhorizont im konkreten Gesamtzusammenhang, nicht ein isoliertes Codelexikon.
+
+Liefere eine Satzmatrix mit Merkmal, Zeitraum, Tatsachenbeleg, möglicher Lesart und Änderungsvorschlag. Markiere nur echte Widersprüche als Fehler; sachlich begründete Differenzierungen bleiben erhalten.

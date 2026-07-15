@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Fuegt in jede testakten/<name>/README.md prominent ganz oben eine
-Akte-komplett-Sektion ein mit zwei Downloads:
+Akte-komplett-Sektion mit drei getrennten Downloadfassungen ein:
 
 1. Gesamt-PDF (im Repo unter gesamt-pdf/<slug>_gesamt.pdf eingecheckt)
-2. Akten-ZIP mit allen Einzeldateien (aus dem GitHub-Release,
-   stabile URL releases/latest/download/testakte-<slug>.zip).
+2. Akten-ZIP mit flachen nativen Originaldateien ohne Markdown.
+3. Einzel-PDF-ZIP mit flach abgelegten, getrennten PDFs.
 
 Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor allen
 weiteren Sektionen (insbesondere vor dem Direkt-Download-Block).
@@ -48,7 +48,7 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
         else ""
     )
     einzel_intro = (
-        " Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden."
+        " Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene."
         if has_einzelpdf
         else ""
     )
@@ -59,7 +59,7 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             f"{einzel_row}"
         )
         intro = (
-            "Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            "Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
             + einzel_intro
         )
         trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten."
@@ -69,7 +69,7 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             f"{einzel_row}"
         )
         intro = (
-            "Dieses Aktenpaket gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            "Dieses Aktenpaket gibt es als Akten-ZIP zum Direkt-Download. Es enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs, aber kein Markdown. Sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
             + einzel_intro
         )
         trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version."

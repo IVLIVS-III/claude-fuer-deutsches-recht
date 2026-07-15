@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-mandantenanliegen
-description: "Wenn es um Einführung und Mandantenanliegen in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt und dringende Lücken und liefert sofort einen ersten Entwurf oder Berichtigungsvermerk. Fragt nur den nächsten entscheidenden fehlenden Punkt nach."
 ---
 
 # Einführung und Mandantenanliegen
@@ -14,7 +14,7 @@ Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst un
 - tragende Tatsachen aus dem Material.
 - bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+Frage höchstens einen blockierenden Punkt nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
@@ -26,17 +26,17 @@ Den Auftrag klären, bevor das erste Wort generiert wird. Falsche Rollenannahmen
 
 ## Eingang — was wird abgefragt
 
-Der Generator stellt zu Beginn maximal drei gezielte Fragen:
+Wenn die Antwort nicht aus den Unterlagen hervorgeht, bündelt der Generator die folgenden Punkte in einer einzigen kurzen Rückfrage:
 
 1. **Rolle:** Stellt der Fragesteller das Zeugnis aus (Arbeitgeber, HR, Ausbildungsbetrieb) oder beantragt er es (Arbeitnehmer, Auszubildender, Praktikant)?
 2. **Anlass:** Beendigung des Arbeitsverhältnisses, laufendes Verhältnis (Zwischenzeugnis), Ausbildungsende, Praktikumsende, Beförderung, eigener Wunsch?
 3. **Ziel:** Nur generieren, oder auch auf notenrelevante Formulierungen hinweisen?
 
-Ohne anderslautende Angabe gilt: Arbeitgeberseite stellt das Zeugnis aus, Note wird im nächsten Schritt festgelegt.
+Ohne erkennbare Rolle wird nicht stillschweigend für eine Partei entschieden. Der erste Zwischenstand trennt neutral zwischen Ausstellerfassung und Berichtigungsziel; nur die eine blockierende Rollenfrage bleibt offen.
 
 ## Fünf Pflichtweichen vor dem ersten Entwurf
 
-Wenn der Nutzer nur "mach ein Zeugnis" sagt, führe nicht durch einen langen Fragebogen, sondern kläre diese fünf Punkte in einem Zug und liefere danach sofort eine erste Struktur:
+Wenn der Nutzer nur "mach ein Zeugnis" sagt und keine Unterlagen erkennbar sind, bündele diese fünf Punkte in einer kompakten Eingabezeile und liefere zugleich eine erste Struktur:
 
 | Weiche | Warum sie zählt | Mindestantwort |
 | --- | --- | --- |
@@ -65,10 +65,16 @@ Ein Buchhaltungsleiter, der nach zehn Jahren aus eigenem Antrieb ausscheidet, be
 
 - Arbeitnehmer reicht einen „Wunschentwurf" ein, der objektiv zu positiv ist und gegen die Zeugniswahrheit verstoßen würde. Der Generator muss auf dieses Risiko hinweisen.
 - Die Rollenklärung darf nicht als langer Fragebogen umgesetzt werden — maximal eine Bildschirmseite, dann beginnt die Arbeit.
-- Wird keine Rolle angegeben, nicht spekulieren: Arbeitgeberseite als Standard annehmen und als Annahme kennzeichnen.
+- Wird keine Rolle angegeben, nicht spekulieren: beide denkbaren Zielrichtungen knapp trennen und nur bei unterschiedlicher Rechtsfolge nachfragen.
 
 ## Anti-Muster
 
 - Ohne Rollenklärung direkt mit Formulierungen beginnen.
 - Arbeitnehmer und Arbeitgeber im selben Durchlauf beraten (Interessenkonflikt).
 - Nach dem Anlass fragen, obwohl er aus den Stammdaten (Austrittsdatum vorhanden) eindeutig ablesbar ist.
+
+## Rechtsprechungsanker für die erste Weiche
+
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Eine bessere als durchschnittliche Bewertung verlangt konkrete Leistungstatsachen; deshalb werden Belege vor Wunschformulierungen ausgewertet.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20: Das qualifizierte Zeugnis muss individuell und zusammenhängend formuliert sein; deshalb startet der Workflow mit Funktion, prägenden Aufgaben und persönlicher Leistung statt mit einer Notentabelle.
+- BAG, Urteil vom 25.01.2022 - 9 AZR 146/21: Dank, Bedauern und Zukunftswünsche sind kein zwingender Inhalt; ein Wunsch nach Schlussformel blockiert den ersten Entwurf nicht.

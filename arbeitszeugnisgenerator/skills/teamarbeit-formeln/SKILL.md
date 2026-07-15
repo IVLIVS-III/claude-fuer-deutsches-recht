@@ -1,6 +1,6 @@
 ---
 name: teamarbeit-formeln
-description: "Wenn es um Teamarbeit-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert Zusammenarbeit, Konfliktlösung, Wissenstransfer und Schnittstellenverhalten aus konkreten Beispielen. Trennt Teamleistung vom allgemeinen Sozialverhalten und liefert eine zur Funktion und Gesamtnote passende, nicht formelhafte Passage."
 ---
 
 # Teamarbeit-Formeln
@@ -58,15 +58,21 @@ Bei Führungskräften gehört Teamarbeit in den Führungsabschnitt (wie führt s
 
 ## Stolpersteine
 
-- „trug zur Verbesserung des Betriebsklimas bei" klingt positiv und harmlos, wird aber als Suchtmittel-Code gelesen.
+- „trug zur Verbesserung des Betriebsklimas bei" ist ohne konkreten Tätigkeitsbezug missverständlich und wird durch eine belegte Aussage zu Zusammenarbeit oder Konfliktlösung ersetzt.
 - „integrierte sich gut" klingt schwach — stärker ist „war ein geschätztes Mitglied des Teams".
 - Bei reinen Einzelkämpfer-Positionen (z.B. externer Berater) eine Teamaussage erzwingen, die sachlich nicht passt.
 
 ## Anti-Muster
 
 - Geselligkeits-Formulierungen als freundliche Geste einbauen.
-- Teamaussage weglassen, wenn die Position eindeutig Teamarbeit beinhaltet — Schweigen ist ein Negativsignal.
+- Eine Teamaussage aus bloßer Branchenzugehörigkeit erzwingen, ohne Zusammenarbeit oder Schnittstellen aus den Unterlagen zu belegen.
 - Teamaussage in Note 1 und Verhaltensaussage in Note 3 — das ist Drift.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Vermeintliche Codebedeutungen dürfen nicht aus Übersetzungslisten übernommen werden; entscheidend sind objektiver Empfängerhorizont und Kontext.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20 und 27: Prägende Eigenschaften sind individuell hervorzuheben und das Zeugnis ist als einheitliches Ganzes zu prüfen.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19: Auch positive Teamaussagen müssen wahr und tatsachengestützt sein.
 
 ## Ausgabeformat
 

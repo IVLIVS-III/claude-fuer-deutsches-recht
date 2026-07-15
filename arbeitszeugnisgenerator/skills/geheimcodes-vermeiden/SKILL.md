@@ -1,19 +1,25 @@
 ---
 name: geheimcodes-vermeiden
-description: "Wenn es um Geheimcodes vermeiden in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Wortwahl, Reihenfolge, Auslassungen und äußere Merkmale am objektiven Empfängerhorizont auf verdeckte Abwertung. Unterscheidet belegte Rechtsprechungsgrundsätze von Internet-Codelegenden und liefert klare, wahrheitsgemäße Ersatzformulierungen."
 ---
 
 # Geheimcodes vermeiden
 
 ## Ziel
 
-Sicherstellen, dass der Generator keine Formulierungen erzeugt, die von kundigen Lesern als Negativcodes verstanden werden — auch wenn der Nutzer sie für neutral hält.
+Sicherstellen, dass der Entwurf klar und wahr ist und sich nicht durch Wortwahl, Reihenfolge oder äußere Form vom offen erklärten Inhalt distanziert. Vermeintliche Codewörter werden nicht isoliert übersetzt, sondern im Gesamtzeugnis geprüft.
 
 ## Grundregel
 
 Paragraf 109 Abs. 2 S. 2 GewO verbietet Formulierungen, die etwas anderes aussagen, als aus dem Wortlaut ersichtlich ist. Der Generator darf keine solchen Codes erzeugen.
 
-Wenn ein Nutzer ausdrücklich eine Code-Formulierung verlangt: Ablehnen und neutrale Alternative anbieten.
+Wenn ein Nutzer ausdrücklich eine verdeckte Abwertung verlangt, wird keine Verschlüsselung erzeugt. Stattdessen ist eine klare, tatsachengestützte und rechtlich zulässige Formulierung anzubieten.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 15.11.2011 - 9 AZR 386/10, Rn. 15 bis 21: Maßgeblich ist der objektive Empfängerhorizont. Die Wendung „kennen gelernt" ist nicht allein deshalb ein Geheimcode, weil einzelne Übersetzungslisten dies behaupten.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 11 und 27: Klarheit und Wahrheit sind am gesamten, einheitlichen Zeugnis zu prüfen.
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Auch Auslassungen sind nur dann erheblich, wenn sie im konkreten Kontext einen unzutreffenden Eindruck erzeugen.
 
 ## Suchtmittel-Lesarten
 
@@ -58,7 +64,7 @@ Wenn ein Nutzer ausdrücklich eine Code-Formulierung verlangt: Ablehnen und neut
 | „achtete auf die Vertraulichkeit (auffällig betont)" | riskantes Verschwiegenheitssignal | weglassen oder ohne Betonung |
 | „war im Rahmen seiner Fähigkeiten loyal" | eingeschränkte Loyalität | „handelte stets loyal und vertrauenswürdig" |
 
-## Betriebsratstätigkeit — generell verboten im Zeugnis
+## Interessenvertretung und private Umstände
 
 | Code-Formulierung | Lesart |
 |---|---|
@@ -66,7 +72,7 @@ Wenn ein Nutzer ausdrücklich eine Code-Formulierung verlangt: Ablehnen und neut
 | „brachte sich in Mitarbeiterfragen aktiv ein" | riskanter Gewerkschaftshinweis |
 | „nahm seine Mitwirkungsrechte umfassend wahr" | aktives Betriebsratsamt |
 
-Diese Formulierungen sind verboten — Betriebsratstätigkeit darf nicht erwähnt werden.
+Tätigkeiten in einer Interessenvertretung gehören regelmäßig nicht zur geschuldeten Arbeitsleistung und werden deshalb nicht ohne dokumentierten Anlass in die Leistungsbeurteilung aufgenommen. Eine Erwähnung ist nicht schematisch als stets verboten zu behandeln. Vor jeder Aufnahme sind Zweck, Einverständnis, Benachteiligungsrisiko und die konkrete Rechtsgrundlage gesondert zu prüfen; im Zweifel bleibt die Angabe außerhalb des Zeugnisses.
 
 ## Grenzverletzungs-Lesarten
 
@@ -78,7 +84,7 @@ Diese Formulierungen sind verboten — Betriebsratstätigkeit darf nicht erwähn
 
 ## Ironie-Code
 
-Erkennbar überzogenes Lob ist ebenfalls ein unzulässiger Code (LAG Hamm, Beschluss v. 14.11.2016 – 12 Ta 475/16):
+Erkennbar überzogenes Lob kann im Gesamtzusammenhang eine Distanzierung nahelegen. Es wird deshalb auf Tatsachenkern, Gleichlauf mit den übrigen Bewertungsachsen und geschäftsübliche Sprache geprüft:
 
 | Signal | Bedeutung |
 |---|---|
@@ -95,9 +101,13 @@ Erkennbar überzogenes Lob ist ebenfalls ein unzulässiger Code (LAG Hamm, Besch
 ## Anti-Muster
 
 - Code-Formulierungen als „ehrliche" Einschätzung durchlassen.
-- Betriebsratstätigkeit in irgendeiner Form im Zeugnis erwähnen.
+- Tätigkeiten in einer Interessenvertretung ohne Anlass, Einverständnis und gesonderte rechtliche Prüfung aufnehmen.
 - Ironie-Überlob als Bestnote ausgeben.
 
 ## v392 Generatorregel
 
 Wenn eine riskante Formulierung auftaucht, wird nicht geraten, welcher Vorwurf versteckt gemeint sein könnte. Es wird zuerst geprüft, ob die Formulierung aus Sicht eines objektiven Zeugnislesers vom Wortlaut abweicht. Dann wird eine klare Ersatzformulierung angeboten. Beispiel: Statt gesellig oder Betriebsklima wird bei echter Teamstärke formuliert: arbeitete kollegial und konstruktiv mit seinen Kollegen zusammen.
+
+## Ausgabeformat
+
+Liefere je Fundstelle Wortlaut, Kontext, mögliche objektive Lesart, Quellenstatus und klare Ersatzformulierung. Kennzeichne bloße Codelegenden ausdrücklich als nicht tragfähige Begründung. Das bereinigte Zeugnis wird anschließend als zusammenhängender Fließtext ausgegeben.

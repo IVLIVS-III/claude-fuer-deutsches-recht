@@ -39,6 +39,33 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    letter_page = G.PageObject.create_blank_page(width=612, height=792)
+    normalized_letter = G.a4_normalized_page(letter_page)
+    require(
+        abs(float(normalized_letter.mediabox.width) - float(G.A4[0])) < 0.5
+        and abs(float(normalized_letter.mediabox.height) - float(G.A4[1])) < 0.5,
+        "fremde Hochformat-Seiten muessen im Gesamt-PDF auf A4 normalisiert werden",
+    )
+    landscape_letter = G.PageObject.create_blank_page(width=792, height=612)
+    normalized_landscape = G.a4_normalized_page(landscape_letter)
+    require(
+        abs(float(normalized_landscape.mediabox.width) - float(G.A4[1])) < 0.5
+        and abs(float(normalized_landscape.mediabox.height) - float(G.A4[0])) < 0.5,
+        "fremde Querformat-Seiten muessen im Gesamt-PDF auf A4 quer normalisiert werden",
+    )
+
+    letter_writer = G.PdfWriter()
+    letter_writer.add_blank_page(width=612, height=792)
+    letter_bytes = io.BytesIO()
+    letter_writer.write(letter_bytes)
+    normalized_bytes = E.normalize_pdf_to_a4(letter_bytes.getvalue(), "letter.pdf")
+    normalized_page = G.PdfReader(io.BytesIO(normalized_bytes)).pages[0]
+    require(
+        abs(float(normalized_page.mediabox.width) - float(G.A4[0])) < 0.5
+        and abs(float(normalized_page.mediabox.height) - float(G.A4[1])) < 0.5,
+        "Einzel-PDFs muessen fremde Hochformat-Seiten auf A4 normalisieren",
+    )
+
     with tempfile.TemporaryDirectory(prefix="testakte-pdf-") as tmp:
         root = Path(tmp)
         odt = root / "akte.odt"
@@ -81,10 +108,44 @@ def main() -> int:
         require(pdf_data is not None and pdf_data.startswith(b"%PDF-"), "ODT muss ein PDF ergeben")
         require(len(list(G.PdfReader(io.BytesIO(pdf_data)).pages)) >= 1, "PDF braucht mindestens eine Seite")
 
+        raw_json = root / "messwerte.json"
+        raw_json.write_text(
+            '{"geraet": "Prüfstand Süd", "werte": [12, 17], "freigabe": false}\n',
+            encoding="utf-8",
+        )
+        calendar = root / "frist.ics"
+        calendar.write_text(
+            "BEGIN:VCALENDAR\nVERSION:2.0\nBEGIN:VEVENT\n"
+            "DTSTART:20260721T083000\nSUMMARY:Fristablauf Widerspruch\n"
+            "END:VEVENT\nEND:VCALENDAR\n",
+            encoding="utf-8",
+        )
+        html_mail = root / "eingang-html.eml"
+        html_mail.write_text(
+            "From: poststelle@example.invalid\nTo: kanzlei@example.invalid\n"
+            "Date: Wed, 15 Jul 2026 11:24:00 +0200\nSubject: Bescheid und Straße\n"
+            "MIME-Version: 1.0\nContent-Type: text/html; charset=utf-8\n\n"
+            "<html><head><style>p{color:red}</style></head><body>"
+            "<h1>Bescheid</h1><p>Die Behörde übersendet den Bescheid für die Südstraße.</p>"
+            "</body></html>\n",
+            encoding="utf-8",
+        )
+        json_pdf = E.render_document_pdf(raw_json, root)
+        ics_pdf = E.render_document_pdf(calendar, root)
+        html_mail_pdf = E.render_document_pdf(html_mail, root)
+        require(json_pdf is not None and json_pdf.startswith(b"%PDF-"), "JSON muss ein PDF ergeben")
+        require(ics_pdf is not None and ics_pdf.startswith(b"%PDF-"), "ICS muss ein PDF ergeben")
+        require(html_mail_pdf is not None, "HTML-E-Mail muss ein PDF ergeben")
+        html_mail_text = "\n".join(
+            page.extract_text() or "" for page in G.PdfReader(io.BytesIO(html_mail_pdf)).pages
+        )
+        require("Südstraße" in html_mail_text, "HTML-E-Mail muss sichtbaren Text statt Quellcode rendern")
+        require("<style>" not in html_mail_text, "HTML-Styles dürfen nicht im E-Mail-PDF erscheinen")
+
         dist = root / "dist"
         dist.mkdir()
         archive, count = E.build_single(root, dist)
-        require(count == 2, "ODT und DOCX müssen jeweils als Einzel-PDF im ZIP landen")
+        require(count == 5, "Office-, E-Mail- und strukturierte Dateien müssen jeweils als Einzel-PDF im ZIP landen")
         first_hash = hashlib.sha256(archive.read_bytes()).hexdigest()
         archive, _ = E.build_single(root, dist)
         second_hash = hashlib.sha256(archive.read_bytes()).hexdigest()
@@ -94,16 +155,59 @@ def main() -> int:
                 all(info.date_time == E.ZIP_TIMESTAMP for info in built.infolist()),
                 "ZIP-Eintraege brauchen stabile Zeitstempel",
             )
+            require(
+                all("/" not in info.filename for info in built.infolist()),
+                "Einzel-PDF-ZIPs duerfen keine Unterordner enthalten",
+            )
+            require("messwerte.pdf" in built.namelist(), "JSON braucht eine eigene flache PDF")
+            require("frist.pdf" in built.namelist(), "ICS braucht eine eigene flache PDF")
 
         working_case = root / "arbeitsakte"
         working_case.mkdir()
         (working_case / "01_sachstand.txt").write_text(
             "Antrag und Bescheid liegen vor.\n", encoding="utf-8"
         )
+        nested = working_case / "eingang"
+        nested.mkdir()
+        (nested / "02_nachricht.eml").write_text(
+            "From: mandant@example.invalid\nTo: kanzlei@example.invalid\n"
+            "Date: Tue, 14 Jul 2026 10:20:00 +0200\n"
+            "Subject: Unterlagen\n\nAnbei die Unterlagen.\n",
+            encoding="utf-8",
+        )
+        (nested / "nicht_exportieren.md").write_text(
+            "# Interne Vorschau\n",
+            encoding="utf-8",
+        )
+        placeholder_docx = working_case / "03_unfertiger_entwurf.docx"
+        placeholder = Document()
+        placeholder.add_paragraph("Schreiben vom [Datum einsetzen]")
+        placeholder.save(placeholder_docx)
+        solution_docx = working_case / "04_interne_auswertung.docx"
+        solution = Document()
+        solution.add_paragraph("Musterlösung und Erwartungshorizont")
+        solution.save(solution_docx)
+        for filename in (
+            "05_rechtsprechungsanalyse.docx",
+            "06_klageraster_sozialgericht.docx",
+            "07_plan_quality_gate.docx",
+            "08_phase_i_pruefraster.docx",
+            "09_rechtsgutachten.docx",
+            "10_chronologie_arbeitsstand.docx",
+            "11_prozessstrategie.docx",
+            "12_kanzleinotizen_intern.docx",
+            "13_gerichtliche_route.docx",
+            "14_zieloutput_checkliste.docx",
+            "15_schutzschirmantrag_vorbereitung.docx",
+            "16_sachwalter_eigenverwaltung_notiz.docx",
+        ):
+            meta = Document()
+            meta.add_paragraph("Interne fachliche Auswertung mit abschließendem Ergebnis.")
+            meta.save(working_case / filename)
         working_dist = root / "working-dist"
         working_dist.mkdir()
         working_archive, working_count = W.build_single(working_case, working_dist)
-        require(working_count == 1, "Arbeitsakten-ZIP muss die Unterlage enthalten")
+        require(working_count == 2, "Arbeitsakten-ZIP muss beide nativen Unterlagen enthalten")
         first_working_hash = hashlib.sha256(working_archive.read_bytes()).hexdigest()
         working_archive, _ = W.build_single(working_case, working_dist)
         second_working_hash = hashlib.sha256(working_archive.read_bytes()).hexdigest()
@@ -115,6 +219,39 @@ def main() -> int:
             require(
                 all(info.date_time == W.ZIP_TIMESTAMP for info in built.infolist()),
                 "Arbeitsakten-ZIPs brauchen stabile Zeitstempel",
+            )
+            names = built.namelist()
+            require(all("/" not in name for name in names), "Arbeitsakten-ZIP muss flach sein")
+            require(not any(name.endswith(".md") for name in names), "Markdown darf nicht ins Akten-ZIP")
+            require("eingang__02_nachricht.eml" in names, "Pfadbestandteile muessen im flachen Namen erhalten bleiben")
+            require(
+                not any("unfertiger_entwurf" in name for name in names),
+                "Dokumente mit Datumsplatzhaltern duerfen nicht ins Akten-ZIP",
+            )
+            require(
+                not any("interne_auswertung" in name for name in names),
+                "Musterloesungen duerfen nicht ins Akten-ZIP",
+            )
+            require(
+                not any(
+                    marker in name
+                    for name in names
+                    for marker in (
+                        "rechtsprechungsanalyse",
+                        "klageraster",
+                        "quality_gate",
+                        "pruefraster",
+                        "rechtsgutachten",
+                        "chronologie_arbeitsstand",
+                        "prozessstrategie",
+                        "kanzleinotizen_intern",
+                        "gerichtliche_route",
+                        "zieloutput_checkliste",
+                        "schutzschirmantrag_vorbereitung",
+                        "sachwalter_eigenverwaltung_notiz",
+                    )
+                ),
+                "interne Rechtsanalysen und Pruefraster duerfen nicht ins Akten-ZIP",
             )
 
     print("test-testakte-pdf-build OK")

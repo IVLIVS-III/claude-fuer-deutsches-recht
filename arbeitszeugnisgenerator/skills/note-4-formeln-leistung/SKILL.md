@@ -1,6 +1,6 @@
 ---
 name: note-4-formeln-leistung
-description: "Wenn es um Note 4 — Formeln Leistung in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert eine unterdurchschnittliche, noch ausreichende Leistungsbeurteilung wahr, klar und anhand dokumentierter Defizite. Prüft Beweisrisiko, sachfremde Motive und Widersprüche und liefert eine nüchterne Fassung ohne Häme oder Verschlüsselung."
 ---
 
 # Note 4 — Formeln Leistung

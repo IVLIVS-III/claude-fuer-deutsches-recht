@@ -1,6 +1,6 @@
 ---
 name: revision-und-aenderungswuensche
-description: "Wenn es um Revision und Änderungswünsche in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründung gegenüber. Prüft Maßregelungsverbot, Wahrheit, Belege, Schlussformel und Folgewirkungen jeder Änderung und liefert eine konsolidierte Fassung."
 ---
 
 # Revision und Änderungswünsche

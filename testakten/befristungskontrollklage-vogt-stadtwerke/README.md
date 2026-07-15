@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -24,7 +24,6 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `testakte-befristungskontrollklage-vogt-stadtwerke` (Akte) | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
 
 Arbeitsakte für die `entfristung-*`-Skills im Plugin `arbeitsrecht`.
 
@@ -118,11 +117,11 @@ zeitgleiche Neuausschreibung derselben Aufgaben als unbefristete Regelstelle bes
 | `mandantennotiz_erstgespraech_09-03-2026.txt` | Rohabschrift der handschriftlichen Notiz (Original) |
 | `vollmacht_vogt.docx` | Vollmacht Lena Vogt (DOCX-Fassung) |
 | `vollmacht_vogt.txt` | Vollmacht Lena Vogt (Rohabschrift) |
-| `arbeitsvertrag_vogt_2024_per_email.txt` | Arbeitsvertrag 2024 (Abschrift des per E-Mail übersandten PDF) |
+| `arbeitsvertrag_vogt_2024.docx` | Arbeitsvertrag 2024 in der per E-Mail übermittelten Vertragsfassung |
 | `arbeitsvertrag_vogt_2024_befristung.docx` | Arbeitsvertrag 2024 als vollständiges DOCX mit allen Klauseln |
 | `arbeitsvertrag_ferienaushilfe_2021_auszug.txt` | Personalaktenabschrift Ferienaushilfe-Vertrag 2021 mit Kanzleivermerk zur Vorbeschäftigung |
-| `email_uebermittlung_vertrag_feb_2024.txt` | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
-| `email_schoenfeld_kein_folgevertrag_jan_2026.txt` | E-Mail-Verlauf: Mitteilung kein Anschlussvertrag (Jan. 2026) |
+| `email_uebermittlung_vertrag_feb_2024.eml` | E-Mail-Verlauf: Übermittlung und Rücksendung des Arbeitsvertrags (Februar 2024) |
+| `email_schoenfeld_kein_folgevertrag_jan_2026.eml` | E-Mail-Verlauf: Mitteilung über den ausbleibenden Anschlussvertrag (Januar 2026) |
 | `vertragskette_beschaeftigungsverlauf.csv` | Datenauswertungs-Kern: Vertragskette mit Dauer, Rechtsgrundlage, interner Begründung und tatsächlichem Aufgabentyp (24 Monate, null Verlängerungen, Abstand 2 Jahre 5 Monate) |
 | `personalakten_auszug_beschaeftigungszeiten_vogt.md` | Volltext-Personalakten-Auszug beider Beschäftigungszeiten mit ableitbaren Kennzahlen |
 | `aktenvermerk_dauerarbeitsplatz_vogt.md` | Volltext-Aktenvermerk RAin Dressel: Vertragsketten-Auswertung und Diskrepanz Projektstelle vs. Daueraufgabe |

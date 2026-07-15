@@ -1,6 +1,6 @@
 ---
 name: compliance-integritaet-formeln
-description: "Wenn es um Compliance- und Integritäts-Formeln in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen. Prüft Kassen-, Finanz-, Personal- und Vertrauenspositionen auf sachgerechte Hervorhebung und vermeidet verdächtig isolierte Ehrlichkeitscodes."
 ---
 
 # Compliance- und Integritäts-Formeln
@@ -9,9 +9,9 @@ description: "Wenn es um Compliance- und Integritäts-Formeln in Arbeitszeugnisg
 
 Integrität und Compliance korrekt formulieren und riskante Codes vermeiden, die Vertrauensbrüche oder Loyalitätsprobleme suggerieren.
 
-## Wann ist Integrität Pflicht?
+## Wann ist Integrität ein prägender Bewertungsaspekt?
 
-| Position | Pflichtaussage |
+| Position | Sachgerechter Prüfpunkt |
 |---|---|
 | Kassierer/in, Zahlungsverkehr | Zuverlässigkeit und Ehrlichkeit bei Kassenführung |
 | Buchhaltung, Controlling | Genauigkeit, Vertrauen, Zuverlässigkeit |
@@ -19,7 +19,7 @@ Integrität und Compliance korrekt formulieren und riskante Codes vermeiden, die
 | Personalverantwortung | Diskretion und Vertrauenswürdigkeit |
 | IT-Administration, Datenzugang | Vertrauenswürdigkeit im Umgang mit Daten |
 
-Fehlt eine Integritätsaussage bei diesen Positionen, wird das als Negativsignal gelesen.
+Das Fehlen einer isolierten Integritätsformel ist kein automatischer Negativcode. Zu prüfen ist, ob das Zeugnis die prägende Vermögens-, Daten- oder Vertrauensverantwortung insgesamt wahr und aussagekräftig abbildet.
 
 ## Formeln nach Note
 
@@ -58,7 +58,7 @@ Fehlt eine Integritätsaussage bei diesen Positionen, wird das als Negativsignal
 
 ## Betriebsratstätigkeit
 
-Betriebsratstätigkeit darf nicht im Zeugnis vermerkt werden — weder explizit noch durch kodierte Andeutungen. Folgende Formulierungen sind zu vermeiden:
+Tätigkeiten in einer Interessenvertretung gehören regelmäßig nicht zur geschuldeten Arbeitsleistung. Sie werden nicht ohne dokumentierten Anlass und gesonderte Prüfung von Zweck, Einverständnis und Benachteiligungsrisiko in die Leistungsbeurteilung aufgenommen. Folgende Andeutungen sind jedenfalls zu vermeiden:
 
 | Formulierung | Riskante Lesart |
 |---|---|
@@ -68,14 +68,14 @@ Betriebsratstätigkeit darf nicht im Zeugnis vermerkt werden — weder explizit 
 
 ## Qualitätscheck vor Ausgabe
 
-1. Ist die Integritätsaussage für diese Position Pflicht?
+1. Ist Vermögens-, Daten- oder Vertrauensverantwortung für diese Position prägend und belegt?
 2. Keine riskanten Vertrauens- oder Eigentumsformulierungen?
 3. Keine versteckten Betriebsratstätigkeits-Hinweise?
-4. Loyalitätsaussage bei Führungskraft vorhanden?
+4. Bildet der Gesamttext die tatsächlich getragene Verantwortung klar ab?
 
 ## Stolpersteine
 
-- Integritätsaussage weglassen bei Buchhalter — Schweigen zu Zuverlässigkeit und Vertrauen ist ein Negativsignal.
+- Bei Buchhaltern ohne Prüfung des konkreten Aufgabenbilds automatisch eine Ehrlichkeitsformel einsetzen.
 - „loyal und verantwortungsbewusst" formulieren und gleichzeitig keinen Kontext dazu bieten — klingt nach einer Pflichtformulierung ohne Überzeugung.
 - Diskretion betonen, obwohl die Person keine vertraulichen Informationen hatte.
 
@@ -84,6 +84,12 @@ Betriebsratstätigkeit darf nicht im Zeugnis vermerkt werden — weder explizit 
 - Kassenposition ohne Integritätsaussage.
 - „hat zur Erfüllung der Aufgaben beigetragen" als Integritätssignal verwenden — das ist nur eine schwache Leistungsaussage.
 - Formulierungen einbauen, die indirekt auf Betriebsratstätigkeit hinweisen.
+
+## Rechtsprechungsanker
+
+- BAG, Urteil vom 12.08.2008 - 9 AZR 632/07, Rn. 18 bis 21: Ob eine Hervorhebung erwartet wird, richtet sich nach Funktion und objektivem Empfängerhorizont, nicht nach einer starren Pflichtwortliste.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Prägende Eigenschaften sind individuell zu gewichten; gleichförmige Kriterienkataloge reichen nicht.
+- BAG, Urteil vom 18.11.2014 - 9 AZR 584/13, Rn. 19: Wahrheit ist der bestimmende Grundsatz; eine positive Integritätsaussage benötigt Tatsachengrundlage.
 
 ## Ausgabeformat
 

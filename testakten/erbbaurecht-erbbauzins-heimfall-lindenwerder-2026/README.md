@@ -5,7 +5,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -35,7 +35,6 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 | `06-entwurf-zustimmungsantrag.docx` | Word-Entwurf |
 | `07-baustellenfoto-dach-pv.jpg` | Bildanlage |
 | `08-heimfall-und-vergleichsmatrix.pdf` | PDF-Anlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Gesamt-PDF
 
@@ -44,3 +43,18 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 ## Zugeordnetes Plugin
 
 - `erbbaurecht-praxis`
+
+---
+
+<!-- BEGIN nachgereichte-originalunterlagen -->
+## Nachgereichte Originalunterlagen
+
+Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
+
+| Datei | Herkunft und Inhalt |
+| --- | --- |
+| [`12_gemeindekasse_erbbauzins_zahlungsverlauf.docx`](12_gemeindekasse_erbbauzins_zahlungsverlauf.docx) | Gemeindekassen-Schreiben zum realen Buchungsverlauf |
+| [`13_email_finanzierende_bank_zustimmung.eml`](13_email_finanzierende_bank_zustimmung.eml) | Bankmail mit konkreten fehlenden Originalunterlagen |
+| [`14_erbbauzins_kassenkonto_roh.csv`](14_erbbauzins_kassenkonto_roh.csv) | Unbereinigtes Erbbauzinskonto mit Teilzahlungen |
+
+<!-- END nachgereichte-originalunterlagen -->

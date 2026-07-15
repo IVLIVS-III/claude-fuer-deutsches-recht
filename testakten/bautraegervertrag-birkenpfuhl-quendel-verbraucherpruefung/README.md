@@ -1,11 +1,11 @@
-# Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer
+# Bauträgervertrag Birkenpfuhl - Wohnung 4.27
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (DOCX-Aktenstücke mit Briefkopf, Tabellen, E-Mails, Fotos, PDFs, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in drei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -17,14 +17,22 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte enthält einen vollständigen Bauträgervertrag über die Wohnung 4.27 im Quartiersprojekt Birkenpfuhl/Hohenwartshofen mit Stellplatz TG-127. Der Vertragsstoff liegt parallel als Markdown, PDF und Word-Dokument vor; zusätzlich gibt es eine kurze Mandanten-E-Mail als Einstieg in die Prüfung.
+## Akteninhalt
 
-| Datei | Inhalt |
+Dr. Eberwein Übelacker-Strohmeyer hat am 14. März 2026 den Vertrag über Wohnung 4.27 und Stellplatz TG-127 im Quartier Birkenpfuhl beurkunden lassen. Nach der Beurkundung legt er seiner Rechtsanwältin unterschiedliche Vertragsfassungen, Portalunterlagen, Nachrichten des Vertriebs, die vorläufige Finanzierungszusage und eigene Zahlungsdaten vor. Die Unterlagen enthalten offene Punkte zur Baugenehmigung, zum Reservierungsentgelt, zu Anlagen der Urkunde und zu Sonderwünschen, ohne deren rechtliche Bewertung vorwegzunehmen.
+
+| Datei | Herkunft |
 | --- | --- |
-| `01-bautraegervertrag-ur-188-2026-kq.docx` | Vollständiger Vertragsstoff mit Baubeschreibung als Markdown |
-| `pdfs/01-bautraegervertrag-ur-188-2026-kq.pdf` | PDF-Fassung des Vertrags |
-| `docx/01-bautraegervertrag-ur-188-2026-kq.docx` | Word-Fassung des Vertrags |
-| `emails/00-mandant-mail-notarentwurf-pruefen.eml` | Mandanten-E-Mail zur schnellen Einordnung |
-| `gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf` | Gesamt-PDF der Vertragsakte |
+| `01-bautraegervertrag-ur-188-2026-kq.docx` | vom Mandanten übersandte Vertragsfassung |
+| `docx/01-bautraegervertrag-ur-188-2026-kq.docx` | aus dem Portal gespeicherte Word-Fassung |
+| `pdfs/01-bautraegervertrag-ur-188-2026-kq.pdf` | vom Notariat übermittelte PDF-Fassung |
+| `emails/00-mandant-mail-notarentwurf-pruefen.eml` | erste Nachricht des Käufers an die Kanzlei |
+| `02_kaufpreis_nebenkosten_roh.csv` | private Zahlungs- und Finanzierungsliste |
+| `03_bauzeitenplan_vertrieb.csv` | aus dem Vertriebsportal übertragene Terminstände |
+| `04_bank_finanzierungszusage_2026-03-10.eml` | Nachricht der finanzierenden Bank |
+| `05_notariat_bedenkzeit_2026-03-12.eml` | Nachricht des Notariats vor dem Termin |
+| `06_vertrieb_reservierung_2026-03-13.eml` | Nachricht der Vertriebsleitung |
+| `07_sonderwunschliste_wohnung_4_27.csv` | offene Sonderwünsche und Angebote |
+| `08_kanzlei_rueckfrage_teilungsnachtrag_2026-03-17.eml` | erste Rückmeldung der Rechtsanwältin |
 
-Passende Plugins: `bautraegervertrag-pruefer`, `fachanwalt-bau-architektenrecht`, `immobilienrechtspraxis`, `weg-hausverwaltung`.
+Passende Plugins: `bautraegervertrag-pruefer`, `fachanwalt-bau-architektenrecht`, `immobilienrechtspraxis` und `weg-hausverwaltung`.

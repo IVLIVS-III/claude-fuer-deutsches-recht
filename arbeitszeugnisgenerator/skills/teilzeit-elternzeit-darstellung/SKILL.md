@@ -1,6 +1,6 @@
 ---
 name: teilzeit-elternzeit-darstellung
-description: "Wenn es um Teilzeit und Elternzeit im Zeugnis in Arbeitszeugnisgenerator geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft, ob und wie Teilzeit, Elternzeit oder längere Unterbrechungen sachlich erwähnt werden dürfen und für Art oder Dauer der Tätigkeit relevant sind. Liefert eine neutrale Zeitdarstellung ohne Benachteiligung oder verdeckte Abwertung."
 ---
 
 # Teilzeit und Elternzeit im Zeugnis
@@ -12,11 +12,11 @@ Zeugnisse für Teilzeitbeschäftigte und Personen mit Elternzeit korrekt und dis
 ## Teilzeitarbeit
 
 ### Grundregel
-Teilzeitarbeit darf im Zeugnis nicht negativ erwähnt werden. Die Bewertungsmaßstäbe (Leistung, Verhalten) gelten unabhängig davon, ob die Person in Vollzeit oder Teilzeit beschäftigt war.
+Teilzeitarbeit darf nicht als Grund für eine ungünstigere Bewertung dienen. Die Leistung ist an der vereinbarten Tätigkeit und Arbeitszeit zu messen. Ob der Umfang genannt wird, richtet sich nach Wahrheit, Zeugniszweck, Relevanz und einem erkennbaren Wunsch des Arbeitnehmers.
 
 ### Darf Teilzeit erwähnt werden?
-- Nein, wenn es keine sachliche Relevanz hat.
-- Ja, wenn die Teilzeit-Konstellation für das Zeugnis sachlich relevant ist (z.B. ausdrücklicher Wunsch des Arbeitnehmers, um den Beschäftigungsumfang für zukünftige Arbeitgeber zu erklären).
+- In der Regel nicht, wenn der Umfang für Tätigkeitsbild und zeitliche Einordnung ohne Bedeutung ist.
+- Ja, wenn der Umfang für Verantwortung, Schichtmodell oder Zeitraum sachlich relevant ist oder der Arbeitnehmer seine Aufnahme wünscht.
 
 **Neutrale Formulierung (wenn gewünscht):**
 > Frau/Herr [Name] war in der Zeit vom [Datum] bis [Datum] in Teilzeit (20 Stunden wöchentlich) als [Position] tätig.
@@ -27,7 +27,7 @@ Leistung und Verhalten werden am Maßstab der vereinbarten Tätigkeit gemessen �
 ## Elternzeit
 
 ### Grundregel
-Elternzeit ist im Beschäftigungszeitraum zu berücksichtigen. Bei erheblichen Elternzeit-Perioden kann eine Erläuterung sinnvoll sein, die erklärt, warum sich die effektive Beschäftigungszeit von der nominellen unterscheidet.
+Elternzeit wird nur genannt, wenn die zeitliche Einordnung sonst wesentlich irreführend wäre oder der Arbeitnehmer die Angabe wünscht. Dauer, Verhältnis zur Gesamtbeschäftigung und Beurteilungsgrundlage sind gegeneinander abzuwägen; eine automatische Erwähnung gibt es nicht.
 
 ### Formulierung mit Elternzeit-Unterbrechung
 
@@ -52,7 +52,16 @@ Wenn die Person nach Elternzeit weiterbeschäftigt und dann das Arbeitsverhältn
 
 ## Diskriminierungsverbot
 
-Formulierungen, die einen Bezug zu Schwangerschaft, Elternzeit oder Familienplanung als impliziten Negativ-Code einbauen, sind verboten. Das gilt sowohl für direkte als auch für kodierte Hinweise.
+Formulierungen dürfen Schwangerschaft, Elternzeit oder Familienplanung nicht als verdeckte Abwertung einsetzen. Persönliche Angaben werden nicht allein deshalb aufgenommen, weil sie bekannt sind.
+
+## Normen- und Rechtsprechungsanker
+
+- Paragraf 4 Absatz 1 TzBfG: Teilzeitbeschäftigte dürfen wegen der Teilzeitarbeit nicht schlechter behandelt werden, sofern nicht sachliche Gründe eine unterschiedliche Behandlung rechtfertigen.
+- Paragraf 7 Absatz 1 AGG: Benachteiligungen wegen eines geschützten Merkmals sind unzulässig; bei familienbezogenen Formulierungen sind insbesondere mittelbare geschlechtsbezogene Nachteile zu prüfen.
+- Paragraf 109 Absatz 2 GewO: Das Zeugnis muss klar sein und darf keine verdeckten Aussagen enthalten.
+- BAG, Urteil vom 27.04.2021 - 9 AZR 262/20, Rn. 17 bis 20: Die Beurteilung muss die individuellen prägenden Merkmale abbilden; Beschäftigungsumfang und Unterbrechungen werden nicht als schematische Bewertungskriterien verwendet.
+
+Liefere eine Zeitachse mit Vertragszeit, tatsächlicher Tätigkeit, Teilzeitumfang und Unterbrechungen. Danach folgen eine Fassung ohne sensible Angabe und, nur bei sachlichem Bedarf oder Wunsch, eine neutrale Fassung mit Angabe.
 
 ## Qualitätscheck vor Ausgabe
 

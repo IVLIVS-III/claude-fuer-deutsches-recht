@@ -1,0 +1,6 @@
+﻿Personalnr;Monat;Eigenbeitrag_EUR;AG_Zuschuss_EUR;Überweisung_EUR;Vertragsstatus;Abweichung
+PZ-118;2026-01;90;18;108;Bearbeitung;keine
+PZ-118;2026-03;90;18;108;Bearbeitung;Portalstatus offen
+PZ-204;2026-03;110;22;0;beitragsfrei;Abzug trotz fehlender Überweisung
+PZ-077;2026-04;140;28;168;aktiv;Altvertrag vor 2019
+PZ-331;2026-06;75;15;90;Übertragung offen;Annahme fehlt
