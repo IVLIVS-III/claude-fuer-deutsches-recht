@@ -30,7 +30,7 @@ Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu
 ## Arbeitsweg
 
 - Rolle und Ziel klären: Welche Partei vertritt der Mandant, welcher Ergebnistyp wird gebraucht (Schriftsatz, Bescheidprüfung, Vertragsentwurf, Stellungnahme), welches Verfahren oder Dokument liegt vor?
-- Eilfristen isolieren: § 1 StaRUG fortlaufend, § 15a InsO 3 Wochen / 6 Wochen, § 102 StaRUG Hinweispflicht Steuerberater 14 Tage.
+- Eilrisiken isolieren: Paragraf 1 StaRUG gilt fortlaufend; ein Antrag nach Paragraf 15a InsO ist ohne schuldhaftes Zögern zu stellen, höchstens binnen drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung. Paragraf 102 StaRUG enthält keine feste 14-Tage-Frist und greift nur bei der Jahresabschlusserstellung unter seinen weiteren Voraussetzungen.
 - Fachpfad wählen: zentrale Anker im Krisenfrüherkennung und StaRUG sind StaRUG §§ 1, 29, 31, 39, 49–55, 84, 102, InsO §§ 15a, 17, 18, 19, HGB § 252, IDW S 11. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter oder Restrukturierungsgericht. Nach Paragraf 34 StaRUG ist dies grundsätzlich das Amtsgericht am Sitz eines Oberlandesgerichts; Landesverordnung und örtliche Zuständigkeit nach Paragraf 35 StaRUG aktuell prüfen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.

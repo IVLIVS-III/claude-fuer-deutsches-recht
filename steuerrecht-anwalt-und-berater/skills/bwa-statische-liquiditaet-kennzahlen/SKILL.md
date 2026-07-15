@@ -35,7 +35,7 @@ Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkei
 
 **§ 252 HGB** — Going-concern.
 
-**§ 102 StaRUG** — Hinweispflicht.
+Paragraf 102 StaRUG: Kennzahlen sind nur Belegquellen; die gesetzliche Hinweispflicht setzt einen Jahresabschlussauftrag und die weiteren Tatbestandsmerkmale voraus.
 
 **§ 91 Abs. 2 AktG / analog GmbH** — Risikofrueherkennung.
 

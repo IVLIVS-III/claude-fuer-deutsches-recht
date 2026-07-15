@@ -75,7 +75,7 @@ Wenn die Prognose **negativ** ist, ist die **drohende Zahlungsunfähigkeit § 18
 
 ## Empfehlung für den Geschäftsleiter
 
-- **Bei der Fortbestehensprognose** beide Prognosezeiträume parallel betrachten: 12 Monate (§ 19 Abs. 2 InsO) und 24 Monate (§ 18 InsO).
+- **Prognosen trennen:** zwölf Monate für die Fortführungsprognose nach Paragraf 19 Absatz 2 InsO; in aller Regel 24 Monate für die eigenständige Prüfung drohender Zahlungsunfähigkeit nach Paragraf 18 Absatz 2 InsO.
 - Bei drohender Zahlungsunfähigkeit ohne aktuelle Zahlungsunfähigkeit oder Überschuldung: **StaRUG-Anwalt** konsultieren.
 - StaRUG ist ein **mächtiges** Werkzeug — Eingriffe in Gläubigerrechte möglich; erfordert aber professionelle Begleitung und Bescheinigung (IDW S 9).
 

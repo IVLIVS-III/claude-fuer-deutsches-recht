@@ -48,7 +48,7 @@ description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Ges
 | § 93 Abs. 2 S. 3 AktG | D&O-Selbstbehalt: zwingend 10 % des Schadens, mindestens bis 1,5-faches der Festvergütung |
 | § 93 Abs. 3 AktG | Qualifizierte Sonderhaftungstatbestände: verbotene Kapitalrückzahlung, Bezahlung eigener Aktien, verbotene Kreditgewährung |
 | § 46 Nr. 8 GmbHG | Gesellschafterbeschluss zur Geltendmachung von Schadensersatz gegen Geschäftsführer |
-| § 15a InsO | Insolvenzantragspflicht: spätestens 6 Wochen nach Zahlungsunfähigkeit; 8 Wochen nach Überschuldung |
+| Paragraf 15a InsO | Insolvenzantrag ohne schuldhaftes Zögern; höchstens drei Wochen nach Zahlungsunfähigkeit und sechs Wochen nach Überschuldung |
 | § 15b InsO | Zahlungsverbot bei Insolvenzreife (seit 1.1.2021 rechtsformneutral; ersetzt § 64 GmbHG und § 92 Abs. 2 AktG aF) |
 | § 30 GmbHG | Kapitalerhaltung: Verbot der Auszahlung von Stammkapital |
 | § 69 AO | Haftung des Vertreters für Steuerschulden der Gesellschaft; vorsätzliche oder grob fahrlässige Pflichtverletzung |
@@ -82,8 +82,8 @@ description: "Wenn es um Geschaeftsfuehrerhaftung in Fachanwalt Handels- und Ges
 
 | Tatbestand | Frist | Sanktion |
 |-----------|-------|---------|
-| Zahlungsunfähigkeit | Spätestens 6 Wochen nach Eintritt | § 15a InsO: Strafbarkeit; Schadensersatz (Massedifferenzschaden) |
-| Überschuldung (§ 19 InsO) | Spätestens 8 Wochen nach Eintritt | Gleiches wie Zahlungsunfähigkeit |
+| Zahlungsunfähigkeit | Antrag ohne schuldhaftes Zögern, höchstens drei Wochen nach Eintritt | Strafbarkeit nach Paragraf 15a InsO und weitere Haftungsrisiken prüfen |
+| Überschuldung nach Paragraf 19 InsO | Antrag ohne schuldhaftes Zögern, höchstens sechs Wochen nach Eintritt | Strafbarkeit nach Paragraf 15a InsO und weitere Haftungsrisiken prüfen |
 | Zahlungen nach Insolvenzreife | Verboten nach § 15b InsO | Erstattungspflicht: jede Zahlung, die Insolvenzmasse mindert (Ausnahme: zur Aufrechterhaltung des Geschäftsbetriebs erforderlich) |
 
 ### § 69 AO — Steuerhaftung
@@ -234,8 +234,8 @@ Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
 |-------|--------|------|
 | 5 Jahre | Verjährung Innenhaftung GmbH-Geschäftsführer | § 43 Abs. 4 GmbHG |
 | 5 / 10 Jahre | Verjährung Vorstandshaftung AG (10 Jahre bei börsennotierter AG) | § 93 Abs. 6 AktG |
-| 6 Wochen | Insolvenzantragspflicht nach Zahlungsunfähigkeit | § 15a Abs. 1 InsO |
-| 8 Wochen | Insolvenzantragspflicht nach Überschuldung | § 15a Abs. 1 InsO |
+| Ohne schuldhaftes Zögern, höchstens drei Wochen | Insolvenzantrag nach Zahlungsunfähigkeit | Paragraf 15a Absatz 1 InsO |
+| Ohne schuldhaftes Zögern, höchstens sechs Wochen | Insolvenzantrag nach Überschuldung | Paragraf 15a Absatz 1 InsO |
 | 3 Monate | Berichtspflicht D&O-Versicherung nach Kenntnis des Versicherungsfalls | D&O-Vertrag (Claims-made) |
 
 ## Gegenargumente und Reaktion

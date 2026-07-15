@@ -1,6 +1,6 @@
 # ecommerce-recht
 
-**72 Skills** · Stand `v434.0.1`
+**72 Skills** · Stand `v434.0.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ecommerce-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

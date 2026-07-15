@@ -130,7 +130,8 @@ SENTINELS = (
         "materielle Überdehnung der VARTA-Nichtannahmeentscheidung",
         re.compile(
             r"1\s+BvR\s+418/25.{0,260}"
-            r"(?:bestätigt|grundsätzliche\s+Verfassungsmäßigkeit|"
+            r"(?:bestätigt\s+(?!weder|nicht|keine)|"
+            r"grundsätzliche\s+Verfassungsmäßigkeit|"
             r"verfassungsrechtlich\s+(?:grundsätzlich\s+)?zulässig|"
             r"Tragfähigkeit\s+des\s+StaRUG)",
             re.IGNORECASE,
@@ -1436,6 +1437,227 @@ SENTINELS = (
             re.IGNORECASE,
         ),
     ),
+    Sentinel(
+        "Paragraf 1 StaRUG fälschlich als Quelle einer festen 24-Monats-Pflicht bezeichnet",
+        re.compile(
+            r"(?:Pflicht\s+(?:zum|zu\s+einem)\s+24[- ]Monats[- ](?:Frühwarnsystem|"
+            r"Planung).{0,100}(?:§|Paragraf)\s*1\s+StaRUG)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 1 StaRUG fälschlich als Zugangsnorm gerichtlicher Instrumente bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*1\s+StaRUG\s+"
+            r"(?:ist|bildet|dient\s+als)\s+(?:die|das|ein)?\s*"
+            r"(?:Zugang(?:snorm|stor)|Tor\s+zu\s+gerichtlichen\s+Instrumenten)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "StaRUG-Anzeige oder -Antrag fälschlich Paragraf 29 zugeordnet",
+        re.compile(
+            r"(?:Anzeige|Antrag|Meldung)\s+(?:nach|gemäß)\s+"
+            r"(?:§|Paragraf)\s*29\s+StaRUG|"
+            r"(?:§|Paragraf)\s*29\s+StaRUG\s+(?:regelt|ist)\s+"
+            r"(?:die|der|eine|ein)?\s*(?:Anzeige|Antrag|Meldung)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 30 StaRUG fälschlich dem Minderheitenschutz oder Schlechterstellungsverbot zugeordnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*30\s+StaRUG.{0,120}"
+            r"(?:Minderheitenschutz|Schlechterstell|no[- ]worse)|"
+            r"(?:Minderheitenschutz|Schlechterstell|no[- ]worse).{0,120}"
+            r"(?:§|Paragraf)\s*30\s+StaRUG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 27 StaRUG fälschlich als Cram-down-Norm bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*27\s+StaRUG.{0,80}(?:Cram[- ]?down|"
+            r"gruppenübergreifende\s+Mehrheitsentscheidung)|"
+            r"(?:Cram[- ]?down|gruppenübergreifende\s+Mehrheitsentscheidung)"
+            r".{0,80}(?:§|Paragraf)\s*27\s+StaRUG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 28 StaRUG fälschlich als allgemeiner Minderheiten- oder Schlechterstellungsschutz bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*28\s+StaRUG\s+(?:ist|regelt|enthält)\s+"
+            r"(?:den|die|das|einen)?\s*(?:allgemeinen\s+)?"
+            r"(?:Minderheitenschutz|Schlechterstellungstest|no[- ]worse[- ]test)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 245a InsO fälschlich als allgemeine Absolute-Priority- oder Cram-down-Norm bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*245a\s+InsO"
+            r"(?!\s+(?:(?:ist\s+)?keine?|nicht)\b)"
+            r".{0,140}"
+            r"(?:absolute\s+priority|Cram[- ]?down|Obstruktionsverbot)|"
+            r"(?:absolute\s+priority|Cram[- ]?down|Obstruktionsverbot)"
+            r"(?!.{0,45}\b(?:keine?|nicht)\b.{0,45}(?:§|Paragraf)\s*245a\s+InsO)"
+            r".{0,140}(?:§|Paragraf)\s*245a\s+InsO",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "falsche Höchstfristen nach Paragraf 15a InsO",
+        re.compile(
+            r"(?:(?:sechs|6)\s+Wochen\s+(?:bei|nach\s+Eintritt\s+der)\s+"
+            r"Zahlungsunfähigkeit|Zahlungsunfähigkeit\s*\|[^|\n]{0,50}"
+            r"(?:sechs|6)\s+Wochen|(?:acht|8)\s+Wochen\s+(?:bei|nach\s+"
+            r"Eintritt\s+der)\s+Überschuldung|Überschuldung\s*\|[^|\n]{0,50}"
+            r"(?:acht|8)\s+Wochen)",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "überholter 24-Monats-Zeitraum für die Fortführungsprognose nach Paragraf 19 InsO",
+        re.compile(
+            r"(?:§|Paragraf)\s*19\s+InsO.{0,180}"
+            r"(?:24|vierundzwanzig)\s+Monate.{0,100}(?:2026|SanInsKG|"
+            r"Fortführungsprognose)|"
+            r"(?:Fortführungsprognose|SanInsKG).{0,180}(?:24|vierundzwanzig)"
+            r"\s+Monate.{0,100}(?:§|Paragraf)\s*19\s+InsO",
+            re.IGNORECASE | re.DOTALL,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 102 StaRUG fälschlich als Krisenfrüherkennungspflicht der Geschäftsleitung bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*102\s+StaRUG.{0,120}"
+            r"(?:Krisenfrühwarnsystem|Krisenfrüherkennungssystem|"
+            r"Krisenfrüherkennungspflicht).{0,60}(?:GF|Geschäftsführer|"
+            r"Geschäftsleitung)|(?:GF|Geschäftsführer|Geschäftsleitung)"
+            r".{0,80}(?:Krisenfrühwarnsystem|Krisenfrüherkennungssystem|"
+            r"Krisenfrüherkennungspflicht).{0,120}(?:§|Paragraf)\s*102\s+StaRUG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 102 StaRUG fälschlich allein aus Monats-BWA oder Buchführung ausgelöst",
+        re.compile(
+            r"(?:Monats[- ]?BWA|laufende\s+Buchführung|monatlich.{0,30}BWA)"
+            r"[^\n]{0,120}(?:löst|begründet)\s+(?:die|eine)?\s*"
+            r"(?:Pflicht|Hinweispflicht)\s+(?:nach\s+)?"
+            r"(?:§|Paragraf)\s*102\s+StaRUG|"
+            r"(?:§|Paragraf)\s*102\s+StaRUG[^\n]{0,120}"
+            r"(?:in\s+jedem|aus\s+jeder)\s+(?:BWA|Buchführung)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "feste 14-Tage-Frist fälschlich Paragraf 102 StaRUG zugeschrieben",
+        re.compile(
+            r"(?:§|Paragraf)\s*102\s+StaRUG[^\n]{0,100}"
+            r"(?:Frist\s*(?:beträgt|:)|binnen|innerhalb)\s*(?:von\s*)?"
+            r"(?:14|vierzehn)\s+Tage|(?:Frist\s*(?:beträgt|:)|binnen|"
+            r"innerhalb)\s*(?:von\s*)?(?:14|vierzehn)\s+Tage[^\n]{0,100}"
+            r"(?:§|Paragraf)\s*102\s+StaRUG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH II ZR 139/23 fälschlich als Urteil bezeichnet",
+        re.compile(
+            r"(?:BGH[-, ]+)?Urteil\s+(?:vom\s+[^,;]{0,30}[,;]?\s*)?"
+            r"(?:[-–]\s*)?II\s+ZR\s+139/23|"
+            r"II\s+ZR\s+139/23\s*[-–,]\s*(?:BGH[-, ]+)?Urteil",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "BGH II ZR 139/23 als Grundsatzurteil überdehnt",
+        re.compile(
+            r"II\s+ZR\s+139/23[^\n]{0,120}"
+            r"(?:ist|gilt\s+als|bildet)\s+(?:ein\s+)?Grundsatzurteil|"
+            r"Grundsatzurteil\s+(?:des\s+BGH\s+)?(?:vom\s+[^,;]{0,30}\s*)?"
+            r"II\s+ZR\s+139/23",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "vertauschte StaRUG-Planbestandteile Paragrafen 8 bis 11",
+        re.compile(
+            r"(?:§|Paragraf)\s*8\s+StaRUG[^\n]{0,60}"
+            r"(?:regelt|enthält|:)\s+(?:den\s+)?erläuternden|"
+            r"(?:§|Paragraf)\s*9\s+StaRUG[^\n]{0,60}"
+            r"(?:regelt|enthält|:)\s+(?:den\s+)?gestaltenden|"
+            r"(?:§|Paragraf)\s*10\s+StaRUG[^\n]{0,60}"
+            r"(?:regelt|enthält|:)\s+(?:die\s+)?Gruppenbildung|"
+            r"(?:§|Paragraf)\s*11\s+StaRUG[^\n]{0,60}"
+            r"(?:regelt|enthält|:)\s+(?:die\s+)?(?:Anlagen|Erklärungen)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "falsche Pauschalkette Paragrafen 7 bis 39 StaRUG für die Planarchitektur",
+        re.compile(
+            r"(?:§§|Paragrafen)\s*7\s*(?:bis|[-–])\s*39\s+StaRUG"
+            r".{0,100}(?:Plan|Architektur|Restrukturierungsplan)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "24-Monats-Zeitraum fälschlich als Fortführungsprognose bezeichnet",
+        re.compile(
+            r"24[- ]Monats[- ]Vorschau\s*\(\s*Fort(?:bestehens|führungs)prognose|"
+            r"12\s*[-–]\s*24\s+Monate\s*\(\s*Fort(?:bestehens|führungs)prognose|"
+            r"Fort(?:bestehens|führungs)prognose\s*,\s*"
+            r"integrierte\s+Planung\s+24\s+Monate",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 102 StaRUG unzulässig auf bloße Bestandsgefährdung erweitert",
+        re.compile(
+            r"(?:§|Paragraf)\s*102\s+StaRUG[^\n]{0,160}"
+            r"möglichen\s+Insolvenzgrund\s+oder\s+eine\s+Bestandsgefährdung",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 102 StaRUG fälschlich als Hinweispflicht der Geschäftsleiter bezeichnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*102\s+StaRUG[^\n]{0,100}"
+            r"Hinweispflichten?\s+der\s+Geschäftsleiter|"
+            r"Hinweispflichten?\s+der\s+Geschäftsleiter[^\n]{0,100}"
+            r"(?:§|Paragraf)\s*102\s+StaRUG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 102 StaRUG pauschal an drohende Insolvenz geknüpft",
+        re.compile(
+            r"(?:§|Paragraf)\s*102\s+StaRUG[^\n]{0,100}"
+            r"(?:bei|für)\s+(?:einer\s+)?drohende[rmn]?\s+Insolvenz|"
+            r"(?:bei|für)\s+(?:einer\s+)?drohende[rmn]?\s+Insolvenz"
+            r"[^\n]{0,100}(?:§|Paragraf)\s*102\s+StaRUG",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "Buchungsbelege pauschal mit zehn Jahren Aufbewahrung angegeben",
+        re.compile(
+            r"Handelsbücher\s+und\s+Buchungsbelege\s*:\s*"
+            r"(?:10|zehn)\s+Jahre",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "notarielle Beglaubigung pauschal für Insolvenzantrag empfohlen",
+        re.compile(
+            r"Insolvenzantrag[^\n]{0,120}notarielle\s+Beglaubigung"
+            r"[^\n]{0,60}empfohlen",
+            re.IGNORECASE,
+        ),
+    ),
 )
 
 # Ein kurzer Textanker verhindert unnötige Volltext-RegEx-Läufe pro Datei. Die
@@ -1633,6 +1855,28 @@ SENTINEL_HINTS = (
     ("iv zr 32/24",),
     ("vi zr 183/22",),
     ("12 k 1413/25",),
+    ("24-monats-frühwarnsystem", "24-monats-planung"),
+    ("zugangsnorm", "zugangstor", "gerichtliche instrumente eröffnet"),
+    ("29 starug",),
+    ("30 starug",),
+    ("27 starug",),
+    ("28 starug",),
+    ("245a inso",),
+    ("15a inso",),
+    ("19 inso", "saninskg"),
+    ("102 starug",),
+    ("monats-bwa", "monatlich", "laufende buchführung"),
+    ("14 tage", "vierzehn tage"),
+    ("ii zr 139/23",),
+    ("ii zr 139/23", "grundsatzurteil"),
+    ("8 starug", "9 starug", "10 starug", "11 starug"),
+    ("7 bis 39 starug", "7-39 starug", "7–39 starug"),
+    ("24-monats-vorschau", "12-24 monate", "fortbestehensprognose, integrierte planung"),
+    ("bestandsgefährdung",),
+    ("hinweispflicht der geschäftsleiter", "hinweispflichten der geschäftsleiter"),
+    ("bei drohender insolvenz", "für drohende insolvenz"),
+    ("handelsbücher und buchungsbelege",),
+    ("notarielle beglaubigung",),
 )
 
 if len(SENTINEL_HINTS) != len(SENTINELS):

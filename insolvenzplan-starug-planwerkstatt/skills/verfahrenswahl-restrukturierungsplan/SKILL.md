@@ -44,7 +44,7 @@ description: "Wenn es um Verfahrenswahl und Routenentscheidung in Insolvenzplan-
 | Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert in Drei-Wochen-Liquiditätsstatus einstellen | Vollstreckungsdruck kann Paragraf 17 auslösen |
 | Vollstreckung aus Titel vorläufig eingestellt | Gesondert würdigen | Belegwirkung kann entfallen |
 
-Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025 zum vollstreckbaren Titel und zur objektiven Rechtslage, BGH II ZR 139/23 vom 11.03.2025 zum materiellen Bestand der Verbindlichkeit sowie BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung eines Titels beim Gläubigerantrag nach eingestellter Vollstreckung. Keine prozentuale Kürzung streitiger Passiva allein nach Prozessrisiko.
+Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025 zum vollstreckbaren Titel und zur objektiven Rechtslage; BGH, Beschluss vom 11.03.2025 - II ZR 139/23 ergänzend zum materiellen Bestand, ohne Grundsatzurteilswirkung; BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung eines Titels beim Gläubigerantrag nach eingestellter Vollstreckung. Keine prozentuale Kürzung streitiger Passiva allein nach Prozessrisiko.
 
 ## Ausgabe
 
@@ -72,19 +72,19 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 - Eröffnungsgründe: § 17 InsO (ZU; Antragspflicht), § 18 InsO (drohende ZU; StaRUG-Zugang; Prognose 24 Monate), § 19 InsO (Überschuldung; Antragspflicht; Prognose 12 Monate seit 01.01.2024).
 - **BGH IX ZR 229/22 vom 23.01.2025** — titulierte und vollstreckte fällige Forderung mit Nennwert im Liquiditätsstatus; keine Prozessrisikoquote.
-- **BGH II ZR 139/23 vom 11.03.2025** — materieller Bestand und Fälligkeit der Forderung bestimmen die Passivierung.
+- **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — materieller Bestand als Maßstab im Nichtzulassungsbeschwerdeverfahren; keine eigenständige Grundsatzentscheidung.
 - **BGH IX ZB 38/24 vom 22.05.2025** — vorläufige Einstellung der Vollstreckung kann die Belegwirkung des Titels für den Insolvenzantrag entfallen lassen.
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers; bei Verfahrenswahl Haftungsrisiken sorgfältig dokumentieren. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 
-§ 217 InsO (Plan-Option) → § 218 InsO (Plan-Vorlage) → §§ 220-221 InsO (darstellender und gestaltender Teil) → § 222 InsO (Gruppen) → §§ 235-244 InsO (Abstimmung) → § 245 InsO (Obstruktionsverbot) → § 248 InsO (Planbestaetigung) → § 254 InsO (Planwirkung) → §§ 7-39 StaRUG (StaRUG-Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown)
+Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
 
 ## Triage — Plan-Vorarbeiten
 
 Bevor losgelegt wird, klaere:
-1. **Verfahrensart?** InsO-Plan (§§ 217 ff. InsO) oder StaRUG-Restrukturierungsplan (§§ 7-39 StaRUG)?
-2. **Klassenbildung schluessig?** § 222 InsO / § 10 StaRUG — gleiche Rechte und Interessen je Gruppe.
+1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
+2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
 3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
 4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
 5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?

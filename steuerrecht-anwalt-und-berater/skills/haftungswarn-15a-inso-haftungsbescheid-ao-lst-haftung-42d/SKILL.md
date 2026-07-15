@@ -28,7 +28,7 @@ Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestel
 - Mandant (GmbH/UG, vollständige Firma, HRB, Stammkapital, GF mit Vertretungsbefugnis)
 - Anlass (Steuerberater-Hinweis, eigener Anstoß, Gesellschafterbeschluss)
 - Datenlage: Bilanz, BWA, Liquidität — vom Steuerberater oder GF übergeben
-- Bisherige interne Krisenmaßnahmen (§ 102 StaRUG-Dokumentation)
+- Bisherige interne Krisenmaßnahmen nach Paragraf 1 StaRUG sowie gegebenenfalls ein tatbestandsgebundener Beraterhinweis nach Paragraf 102 StaRUG
 - Rangrücktritte, Patronate, Bürgschaften bekannt?
 - Mandatsumfang: nur Beratung Antragspflicht oder Vollmandat Sanierung/Antrag?
 - Vergütungsvereinbarung (Stundenhonorar, Pauschale, RVG nach Wert)
@@ -42,7 +42,7 @@ Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestel
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife. Geschäftsführerhaftung gegen die Gesellschaft (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
 - **§ 19 InsO** — Überschuldung (zweistufig: rechnerisch und Fortbestehensprognose; vgl. `stb-ueberschuldungspruefung-19-inso`).
 - **§ 18 InsO** — Drohende Zahlungsunfähigkeit (24-Monats-Horizont; Antragsrecht, keine Pflicht — Zugangstor StaRUG).
-- **§ 102 StaRUG** — Krisenfrüherkennungspflicht GF; ergänzt § 91 Abs. 2 AktG analog auf alle haftungsbeschränkten Gesellschaften.
+- Paragraf 1 StaRUG: fortlaufende Überwachungs-, Gegenmaßnahmen- und Berichtspflicht der Geschäftsleiter haftungsbeschränkter Rechtsträger. Paragraf 102 StaRUG betrifft demgegenüber nur den Hinweis bestimmter Berufsträger bei der Jahresabschlusserstellung unter seinen weiteren Voraussetzungen.
 - **§ 64 StBerG / § 43a Abs. 5 BRAO** — bei Honorarrückständen Berücksichtigung; keine Beratung ohne Vergütungsvereinbarung in Hochrisikofällen.
 - **§ 826 BGB / § 823 Abs. 2 BGB i.V.m. § 15a InsO** — Außenhaftung GF gegenüber Neugläubigern bei Insolvenzverschleppung.
 
@@ -165,6 +165,6 @@ Rechtsanwalt/-anwaeltin
 
 ## Quellen und Updates
 
-Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanInsKG (24-Monats-Prognose § 19 InsO bis 31.12.2026) berücksichtigt. § 11 BORA-Schriftformpflicht zentral. Bei Änderung InsO/BORA aktualisieren.
+Rechtsstand vor Versand prüfen. Paragraf 15b InsO ersetzt die früheren rechtsformspezifischen Zahlungsverbote. Für Paragraf 19 Absatz 2 InsO gilt seit 01.01.2024 wieder der regelmäßige Zwölfmonatszeitraum; die SanInsKG-Sonderregelung ist ausgelaufen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

@@ -28,7 +28,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Beleglage Liquiditätsplanung nach deutschem Recht
 - **Stichtag § 17 InsO Liquiditätsbilanz:** Aktiva I (verfügbare liquide Mittel) + Aktiva II (innerhalb 3 Wochen liquidierbar) vs. Passiva I (fällige Verbindlichkeiten) + Passiva II (innerhalb 3 Wochen fällig).
 - **BGH-Schwelle (ständige Rspr.):** Deckungslücke < 10 % regelmäßig nur Zahlungsstockung; ≥ 10 % grds. Zahlungsunfähigkeit i. S. d. § 17 InsO, sofern nicht binnen kurzer Zeit Schließung absehbar.
-- **24-Monats-Liquiditätsplan § 18 InsO drohende Zahlungsunfähigkeit:** Monatliche Vorschau, plausible Annahmen, Sensitivitätsbetrachtung — Grundlage für StaRUG-Zugang § 29 StaRUG.
+- **24-Monats-Liquiditätsplan nach Paragraf 18 Absatz 2 InsO:** Monatliche Vorschau, plausible Annahmen und Sensitivitätsbetrachtung; Instrumentenkatalog, Restrukturierungsfähigkeit und Anzeige nach Paragrafen 29 bis 31 StaRUG getrennt prüfen.
 - **13-Wochen-Forecast operative Planung:** Standard für aktive Sanierungsfälle; rollierend, mit Annahmen-Memo und Stresstest (Base/Stress/Worst).
 - **Belege:** Saldenlisten OPOS-Debitoren/-Kreditoren mit Fälligkeit, Kontoauszüge mind. 3 Monate, Steuerkonto (FA-Mitteilung), Beitragskonto SV (Krankenkasse), Personalkostenliste, Tilgungsplan Bankverbindlichkeiten.
 - **Beweispflicht:** Im Anfechtungs- und Haftungsprozess trägt grds. der Verwalter die Darlegungslast für Zahlungsunfähigkeit und Kenntnis (§§ 130 ff. InsO); im Strafprozess § 15a InsO ist die Staatsanwaltschaft beweispflichtig.

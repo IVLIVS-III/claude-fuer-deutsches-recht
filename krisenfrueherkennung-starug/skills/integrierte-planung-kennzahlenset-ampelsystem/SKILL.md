@@ -118,7 +118,7 @@ FINANZIERUNG
 
 ## Paragrafenkette Integrierte Planung
 
-§ 19 Abs. 2 InsO (Fortbestehensprognose auf Basis integrierter Planung) → IDW S 6 (Sanierungskonzept-Standard) → IDW S 11 (Beurteilung Insolvenzgruende) → § 1 StaRUG (24-Monats-Horizont) → § 43 GmbHG (Sorgfaltspflicht bei Planung)
+Paragraf 19 Absatz 2 InsO (Fortbestehensprognose) → IDW S 6 (Sanierungskonzept) → IDW S 11 (Beurteilung der Insolvenzeröffnungsgründe) → Paragraf 18 Absatz 2 InsO (regelmäßige 24-Monats-Prognose) → Paragraf 1 StaRUG (fortlaufende Überwachung, Gegenmaßnahmen und Organbericht) → Paragraf 43 GmbHG (Sorgfaltspflicht)
 
 ## Triage — Integrierte Planung
 

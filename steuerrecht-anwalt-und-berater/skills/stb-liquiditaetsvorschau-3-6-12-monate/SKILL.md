@@ -11,7 +11,7 @@ Dieser Skill erstellt eine rollierende Liquiditaetsplanung fuer Krisenmandate. E
 
 - §§ 17, 18, 19 InsO fuer Liquiditaets- und Fortbestehensbezug.
 - § 15a InsO fuer Eskalation bei Insolvenzreife.
-- § 102 StaRUG fuer Hinweispflichten.
+- Paragraf 102 StaRUG nur bei Jahresabschlusserstellung, offenkundigen Anhaltspunkten für einen möglichen Insolvenzgrund und vermuteter Unkenntnis des Mandanten.
 - §§ 34, 69 AO fuer Steuerzahlungs- und Haftungsrisiken.
 - § 43 GmbHG fuer Geschaeftsfuehrerpflichten.
 

@@ -32,7 +32,7 @@ description: "Wenn es um Erste 100 Tage Geschäftsführer-Pflichten in gesellsch
 ## Zentrale Normen
 
 - **Paragraf 43 GmbHG** — Sorgfaltspflicht des GF: Sorgfalt eines ordentlichen Geschäftsmannes; Haftung gegenüber Gesellschaft.
-- **Paragraf 15a InsO** — Insolvenzantragspflicht: 6 Wochen (Überschuldung) / 3 Wochen (Zahlungsunfähigkeit).
+- **Paragraf 15a InsO** — Insolvenzantrag ohne schuldhaftes Zögern; höchstens sechs Wochen bei Überschuldung und drei Wochen bei Zahlungsunfähigkeit.
 - **Paragraf 15b InsO** — Zahlungsverbot nach Insolvenzreife; persönliche Haftung des GF.
 - **Paragraf 238 HGB** — Buchführungspflicht; doppelte Buchführung für GmbH zwingend.
 - **Paragraf 264, 325 HGB** — Jahresabschluss aufstellen (3 Monate) und offenlegen (12 Monate).

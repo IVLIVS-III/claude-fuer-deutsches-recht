@@ -16,7 +16,7 @@ description: "Wenn es um Liquiditätsvorschau als insolvenzrechtliches Beweismit
 Vor Ausgabe BGH-Aktenzeichen zu Liquiditätsbilanz, Stundungen und Zahlungseinstellung über dejure.org / openjur.de / bundesgerichtshof.de mit Datum, Aktenzeichen und Randnummer verifizieren. Aktuelle Linie:
 - **BGH IX ZR 129/22 vom 18.04.2024** — Liquiditätsstatus und Liquiditätsbilanz müssen gegenüber außenstehenden Dritten einzelpostenfähig belegt werden; fehlen Einzelheiten, Rechnungen, Kontoauszüge oder sonstige Unterlagen, kann einfaches Bestreiten genügen.
 - **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: objektive Rechtslage und objektiver Zahlungsmittelmangel; vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung mit dem Nennwert einzustellen; keine Kürzung nach Prozessrisiko. Randnummer 27: Irrtum nur bei ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-- **BGH II ZR 139/23 vom 11.03.2025** — für die Passivseite zählt die materielle Rechtslage: bestehende und fällige Verbindlichkeiten gehören hinein, nicht bestehende oder nicht fällige Forderungen nicht.
+- **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; kein eigenständiges Grundsatzurteil.
 - **BGH IX ZB 38/24 vom 22.05.2025** — die Belegwirkung eines Titels für einen Insolvenzantrag kann entfallen, wenn die Vollstreckung vorläufig eingestellt ist.
 - Grundlegende Linie zum 10-%-/3-Wochen-Schema vor Ausgabe verifizieren.
 
@@ -177,14 +177,15 @@ zu dokumentieren.
 | GELB | Lücke ≥ 10 %, aber Beseitigung binnen 3 Wochen überwiegend wahrscheinlich | Zahlungsstockung; Überwachungspflicht; Maßnahmen dokumentieren |
 | ROT | Lücke ≥ 10 % und keine Beseitigung binnen 3 Wochen | Zahlungsunfähigkeit nach § 17 InsO; Antragspflicht § 15a InsO ausgelöst |
 
-**Schritt 5 — 24-Monats-Vorschau (Fortbestehensprognose)**
-Aufbauend auf der 13-Wochen-Vorschau wird die integrierte Finanzplanung auf 24 Monate
-verlängert. Die Prämissen sind schriftlich zu fixieren und durch unabhängige Belege
-(Auftragsbestand, Vertragskonditionen, Finanzierungszusagen) zu unterlegen. Das Ergebnis
-ist ein monatlicher Cashflow-Plan mit expliziter Darstellung der
-Mindestliquiditätsreserve. Für die Fortbestehensprognose nach § 19 Abs. 2 InsO muss
-die Liquiditätsplanung zeigen, dass der Schuldner mit überwiegender Wahrscheinlichkeit
-in der Lage sein wird, seine Verbindlichkeiten laufend zu erfüllen.
+**Schritt 5 — Zwölf- und 24-Monats-Prognose getrennt rechnen**
+Aufbauend auf der 13-Wochen-Vorschau wird die integrierte Finanzplanung monatlich
+fortgeführt. Für die Fortführungsprognose nach Paragraf 19 Absatz 2 InsO sind die
+nächsten zwölf Monate zu beurteilen. Soll zugleich drohende Zahlungsunfähigkeit
+geprüft werden, ist die Planung für Paragraf 18 Absatz 2 InsO in aller Regel auf
+24 Monate zu verlängern. Beide Ergebnisse, Zeitachsen und Rechtsfolgen bleiben
+getrennt. Die Prämissen sind schriftlich zu fixieren und durch unabhängige Belege
+wie Auftragsbestand, Vertragskonditionen und belastbare Finanzierungszusagen zu
+unterlegen.
 
 Wenn daraus ein Sanierungskonzept werden soll, ergänze:
 
@@ -216,8 +217,9 @@ Das Ausgabedokument ist eine **juristische Stellungnahme im Gutachtenstil** und 
  (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
 4. **Ampel-Ergebnis** je Woche mit rechtlicher Bewertung (GRÜN/GELB/ROT + Begründung)
 5. **Stundungsabzüge und Streitforderungen** — Einzelauflistung aller herausgerechneten Verbindlichkeiten, aller streitigen Passiva und aller Titel mit Bestand, Fälligkeit, Vollstreckungsstand und Begründung
-6. **24-Monats-Vorschau** (sofern Fortbestehensprognose zu beurteilen) — monatlicher
- Cashflow, Prämissenblatt, Szenarioanalyse
+6. **Monatliche integrierte Planung** — zwölf Monate für Paragraf 19 Absatz 2 InsO;
+ bei zusätzlicher Prüfung des Paragrafen 18 Absatz 2 InsO in aller Regel 24 Monate;
+ jeweils mit Prämissenblatt und Szenarioanalyse
 7. **Rechtliche Subsumtion** — Abschließende Einordnung: liegt § 17 InsO vor, wenn ja
  seit wann?; liegt § 19 InsO vor?
 8. **Hinweis auf Antragspflicht** — soweit Tatbestand des § 15a InsO ausgelöst
@@ -362,7 +364,7 @@ Bevor losgelegt wird, klaere:
 
 1. **Zweck?** ZU-Test § 17 InsO (3-Wochen-Fenster) oder Fortbestehensprognose § 19 Abs. 2 InsO (12 Monate)?
 2. **Methode?** Direkte Methode (Cash In / Cash Out) bevorzugt für InsO-Beurteilung.
-3. **Zeitraum?** 3 Wochen (akute ZU-Prüfung), 13 Wochen (operativer Forecast), 12-24 Monate (Fortbestehensprognose).
+3. **Zeitraum?** Drei Wochen für die akute Prüfung, 13 Wochen für die operative Steuerung, zwölf Monate für Paragraf 19 Absatz 2 InsO und gesondert in aller Regel 24 Monate für Paragraf 18 Absatz 2 InsO.
 4. **Eingabedaten?** Offene Posten (OPOS), Bankkontoauszuege, Steuer- und SV-Verbindlichkeiten.
 5. **Stichtag?** Für InsO-Verfahren muss Stichtag tag-genau sein.
 

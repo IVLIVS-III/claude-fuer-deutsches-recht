@@ -1,6 +1,6 @@
 # europaeisches-prozessrecht
 
-**21 Skills** · Stand `v434.0.1`
+**21 Skills** · Stand `v434.0.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../europaeisches-prozessrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -128,7 +128,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **§ 15a InsO** — Insolvenzantragspflicht; Frist 6 Wochen (Überschuldung) / 3 Wochen (Zahlungsunfähigkeit).
+- **Paragraf 15a InsO** — Insolvenzantrag ohne schuldhaftes Zögern; höchstens sechs Wochen bei Überschuldung und drei Wochen bei Zahlungsunfähigkeit.
 - **§§ 17-19 InsO** — Insolvenztatbestände; Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit, Überschuldung.
 - **Art. 7 ECMR / § 36 GWB** — Fusionskontrolle; Vollzugsverbot vor Freigabe.
 - **§ 40 AWG / §§ 55 ff. AWV** — Außenwirtschaftsrechtliche Investitionsprüfung (FDI); Vollzugsverbote.

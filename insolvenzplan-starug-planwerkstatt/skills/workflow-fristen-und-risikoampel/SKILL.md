@@ -41,12 +41,12 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **insolvenzplan
 - **GELB — Fristen laufen:**
  - Forderungsanmeldung § 174 InsO Anmeldefrist beachten — Plan baut auf Tabelle auf.
  - Planvorlagepflicht § 218 Abs. 2 InsO bei Auftrag durch Gläubigerversammlung.
- - StaRUG-Anzeige § 31 StaRUG: 6 Monate ohne Plan → Rücknahme-Pflicht.
+ - Anzeige nach Paragraf 31 StaRUG: Wirkungsverlust grundsätzlich nach sechs Monaten, nach vorheriger Erneuerung nach zwölf Monaten; Long-Stop rechtzeitig kalendrieren.
 - **GRÜN — Vorbereitung:**
  - IDW S6-Sanierungskonzept als Basis für darstellenden Teil.
  - Klassenbildung § 222 InsO / § 9 StaRUG sauber dokumentieren.
 
 ## Plan-spezifische Risiken
 - **Minderheitenschutz:** Insolvenzplan § 251 InsO (Schlechterstellungstest gegenüber Regelverfahren), StaRUG § 64 StaRUG (Schlechterstellungstest gegenüber Best-Alternative-to-Negotiated-Agreement / Nicht-Plan-Szenario).
-- **Cross-Class Cram-Down:** StaRUG §§ 26–28 StaRUG verlangt absolute Vorrangregel (§ 27 StaRUG) — Eigenkapital nur, wenn Gläubiger voll bedient oder zustimmen.
+- Cross-Class-Cram-Down: Paragrafen 26 bis 28 StaRUG verlangen Ohne-Plan-Test, angemessene Planwertbeteiligung, Gruppenmehrheit und Rangprüfung; Ausnahmen nur nach Paragraf 28 StaRUG.
 - **Steuerlich:** Sanierungsgewinn § 3a EStG (gerichtsbestätigter Insolvenzplan, gerichtsbestätigter Restrukturierungsplan oder vergleichbare Sanierung) — frühzeitig Lohnsteuerhilfe/Steuerberater einbinden.

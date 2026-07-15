@@ -99,12 +99,12 @@ Bei Rot: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` un
 - **§ 18 InsO** drohende Zahlungsunfähigkeit (24-Monats-Prognose, Hinweisfunktion).
 - **Paragraf 15a InsO** Antragspflicht ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
 - **§ 1 StaRUG** Krisenfrüherkennungspflicht der Geschäftsleitung.
-- **§ 102 StaRUG** Hinweispflicht beratender Berufe.
+- Paragraf 102 StaRUG: begrenzter Hinweis der genannten Berufsträger bei der Jahresabschlusserstellung, wenn Anhaltspunkte offenkundig sind und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist.
 
 ### Leitentscheidungen (Volltexte im Plugin: `references/rechtsprechung/`)
 
-1. **BGH II ZR 139/23 vom 11.03.2025** — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; auf den materiellen Bestand der Verbindlichkeit kommt es an. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf`; online über die BGH-Rechtsprechungsdatenbank (Aktenzeichensuche II ZR 139/23) verifizieren.
-2. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Objektive Zahlungsunfähigkeit; objektive Rechtslage bei nicht titulierten streitigen Verbindlichkeiten; titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
+1. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Objektive Zahlungsunfähigkeit; objektive Rechtslage bei nicht titulierten streitigen Verbindlichkeiten; titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
+2. **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — Der Nichtzulassungsbeschwerde-Beschluss verweist auf den materiellen Bestand als Maßstab; er ist kein eigenständiges Grundsatzurteil. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf`.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — Beweiswirkung eines vollstreckbaren Endurteils für einen Gläubigerantrag entfällt, wenn der Schuldner die Einstellung der Zwangsvollstreckung erreicht und die Voraussetzungen erfüllt.
 4. **BGH IX ZR 129/22 vom 18.04.2024** (ZIP 2024 S. 1407) — Liquiditätsstatus gegenüber außenstehenden Dritten einzelpostenfähig darlegen; ohne Einzelheiten und Belege kann einfaches Bestreiten genügen. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_129-22_vom_2024-04-18.pdf`.
 5. **BGH II ZR 112/21 vom 28.06.2022** (ZIP 2022 S. 1606; NZI 2022 S. 787; GmbHR 2022 S. 1036) — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus (Bugwellenrechtsprechung); Liquiditätsbilanz nicht zwingend. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf`.
@@ -139,7 +139,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Liquiditätslücke absolut = 46.700 €. Quote = 46,2 %.
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
 
-**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei einschlägigem Beratermandat Hinweis nach Paragraf 102 StaRUG dokumentieren. Antragspflicht ohne schuldhaftes Zögern ab objektivem Eintritt; Dreiwochenfrist nur als Höchstfrist bei Zahlungsunfähigkeit.
+Handlung: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag, offenkundigen Anhaltspunkten und vermuteter Unkenntnis des Mandanten anwenden. Antragspflicht ohne schuldhaftes Zögern ab objektivem Eintritt; Dreiwochenfrist nur als Höchstfrist bei Zahlungsunfähigkeit.
 
 ## Typische Fehler
 

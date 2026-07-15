@@ -100,7 +100,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten |
 | BGH, Urteil vom 18.04.2024 - IX ZR 129/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein außenstehender Dritter darf einen nicht aufgeschlüsselten und unbelegten Liquiditätsstatus zunächst einfach |
 | BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ob eine streitige Verbindlichkeit einzustellen ist, richtet sich nach der objektiven Rechtslage |
-| BGH, Beschluss vom 11.03.2025 - II ZR 139/23 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Für streitige Verbindlichkeiten entscheidet der materielle Bestand, nicht ein prozentualer Abschlag nach Prozessrisiko |
+| BGH, Beschluss vom 11.03.2025 - II ZR 139/23 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Im Verfahren über eine Nichtzulassungsbeschwerde bestätigt der Senat den materiellen Bestand der Verbindlichkeit |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -127,7 +127,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nicht aufgeschlüsselten und unbelegten Liquiditätsstatus zunächst einfach bestreiten; der Insolvenzverwalter muss seine Positionen nachvollziehbar belegen.
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Ob eine streitige Verbindlichkeit einzustellen ist, richtet sich nach der objektiven Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu passivieren.
-- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Für streitige Verbindlichkeiten entscheidet der materielle Bestand, nicht ein prozentualer Abschlag nach Prozessrisiko; die Aussage steht in einem Beschluss über eine Nichtzulassungsbeschwerde.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Im Verfahren über eine Nichtzulassungsbeschwerde bestätigt der Senat den materiellen Bestand der Verbindlichkeit als Maßstab; die Entscheidung ist kein eigenständiges Grundsatzurteil.
 
 ## 9. Prüfraster
 

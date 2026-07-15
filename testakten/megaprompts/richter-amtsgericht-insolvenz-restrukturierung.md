@@ -412,7 +412,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die innerhalb von drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; buchhalterisch ausgewiesene Passiva dürfen nicht pauschal bestritten werden.
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Bei streitigen Verbindlichkeiten entscheidet die objektive Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu berücksichtigen.
-- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Für streitige Verbindlichkeiten gibt es keinen prozentualen Abschlag nach Prozessrisiko; den begrenzten Aussagewert des Nichtzulassungsbeschwerdebeschlusses im Vermerk offenlegen.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Im Verfahren über die Nichtzulassungsbeschwerde bestätigt der Senat den materiellen Bestand als Maßstab; die Entscheidung nicht als eigenständiges Grundsatzurteil behandeln.
 
 ## Prüfungsschema in Stufen
 

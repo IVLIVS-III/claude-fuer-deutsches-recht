@@ -90,7 +90,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 | InsO Paragraf 129 bis Paragraf 147 | Insolvenzanfechtung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | InsO Paragraf 174 | Forderungsanmeldung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | StaRUG Paragraf 1 | Krisenfrüherkennungspflichten | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen | Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen 220-221 InsO | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
+| Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen | Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -112,7 +112,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
-- Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen 220-221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235-244; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestätigung, Vollzug); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 244 und 245 InsO — Abstimmungsmehrheiten und Obstruktionsverbot (Cramdown); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 251 InsO — Minderheitenschutz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.

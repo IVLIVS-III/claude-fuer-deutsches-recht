@@ -45,7 +45,7 @@ Dieser Skill stellt die Zeitachse 12 Monate vor dem geplanten Antrag dar und zei
 | M-11 | Verlustvortrag-Sanity-Check ESt/KSt/GewSt (siehe Skill `stb-sanierungsgewinn-verlustvortrag-sanity-check`) | StB | Verlustvortrags-Tabelle |
 | M-10 | Erstdiagnose: unternehmensbezogene vs. personenbezogene Sanierung (siehe Skill `stb-sanierungsgewinn-3a-unternehmens-vs-person-person`) | Anwalt | Memo |
 | M-9 | Sanierungsbedürftigkeit dokumentieren — BWA, Liquiditätsplan, Krisenursachenanalyse | StB + Anwalt | Sanierungskonzept Entwurf |
-| M-8 | Sanierungsfähigkeit dokumentieren — Fortbestehensprognose, integrierte Planung 24 Monate | Sanierungsberater + StB | IDW S 6 / S 11 Entwurf |
+| M-8 | Sanierungsfähigkeit dokumentieren — zwölfmonatige Fortführungsprognose; integrierte Planung für Paragraf 18 InsO in aller Regel auf 24 Monate erweitern | Sanierungsberater und Steuerberater | aktuelle bereitgestellte oder lizenzierte Standards |
 | M-7 | Sanierungseignung dokumentieren — Maßnahmenkatalog, Quote, Realisierbarkeit | Anwalt + Sanierungsberater | Maßnahmenplan |
 | M-6 | Sanierungsabsicht der Gläubiger dokumentieren — schriftliche Verzichtsangebote einholen | Anwalt | Gläubigerverhandlungs-Protokoll |
 | M-5 | Bilanzielle Vorbereitung — Auswirkungen Forderungsverzicht modellieren (siehe Skill `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`) | StB | Plan-Bilanz |

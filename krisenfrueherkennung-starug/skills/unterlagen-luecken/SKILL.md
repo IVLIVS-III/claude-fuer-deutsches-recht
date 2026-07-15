@@ -31,7 +31,7 @@ Diese Unterlagenprüfung für **Krisenfrueherkennung Starug** benennt fehlende D
 
 - Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Krisenfrüherkennung und StaRUG-Frage zwingend (Frühwarnsystem-Bericht, Restrukturierungsanzeige, Restrukturierungsplan, Sanierungsmoderation-Antrag, Stabilisierungsanordnung)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (§ 1 StaRUG fortlaufend, § 15a InsO 3 Wochen / 6 Wochen, § 102 StaRUG Hinweispflicht Steuerberater 14 Tage), beweisrelevant, formerheblich.
+- Lückenliste priorisieren nach: sofort insolvenzrelevant, beweisrelevant und formerheblich. Paragraf 1 StaRUG gilt fortlaufend. Paragraf 15a InsO verlangt den Antrag ohne schuldhaftes Zögern und nennt nur Höchstzeiträume. Paragraf 102 StaRUG enthält keine feste Antwortfrist und ist zunächst auf Jahresabschlussauftrag, Offenkundigkeit und vermutete Unkenntnis zu prüfen.
 - Rückfrageschreiben an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragten oder das nach Paragrafen 34 und 35 StaRUG zuständige Restrukturierungsgericht entwerfen: Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 

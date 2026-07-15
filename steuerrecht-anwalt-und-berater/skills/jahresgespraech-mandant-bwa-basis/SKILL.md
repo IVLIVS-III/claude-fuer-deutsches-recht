@@ -34,7 +34,7 @@ Das Jahresgespraech ist die wichtigste Mandantenkommunikation des Jahres: Nach A
 
 **§ 57 StBerG** — Gewissenhaftigkeit.
 
-**§ 102 StaRUG** — Hinweispflicht.
+Paragraf 102 StaRUG: Im Jahresgespräch nur bei einem Auftrag zur Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen als gesetzlichen Hinweis behandeln.
 
 **§ 5 RDG** — Abgrenzung Rechtsberatung.
 

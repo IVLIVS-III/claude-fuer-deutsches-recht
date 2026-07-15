@@ -111,7 +111,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `annahmen-belastbarkeit-plausibilisieren` | Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz… |
 | `annahmen-sammeln-fortfuehrung` | Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand… |
-| `ausloesendes-ereignis-erfassen` | Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK… |
+| `ausloesendes-ereignis-erfassen` | Erfasst den Anlass der Fortbestehensprognose: tatbestandsgebundener Hinweis bei Jahresabschlusserstellung, Prüferhinweis, negatives Eigenkapital, Liquiditätsengpass oder eigenes Krisensignal der Geschäftsleitung. |
 | `bilanzieller-status-aufnehmen` | Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten… |
 | `comfortletter-weich-erzeugen` | Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklärung ist der Comfortletter nicht… |
 | `forderungsverzicht-besserungsschein` | Erzeugt eine Forderungsverzichtsvereinbarung mit Besserungsschein. Gläubiger verzichtet auf Forderung — bei Wiedererstarken der Zahlungsfähigkeit der Schuldnerin lebt die Forderung wieder auf. Effekt im… |
@@ -132,7 +132,7 @@ Das Plugin richtet sich an Eigenverantwortliche: Geschäftsführer, Vorstande un
 
 ## Wann brauchen Sie diese Skill?
 
-- Der Steuerberater oder Wirtschaftspruefer weist auf negatives Eigenkapital oder bilanziellen Ueberschuldungsverdacht hin (§ 102 StaRUG).
+- Ein Berufsträger weist bei der Jahresabschlusserstellung unter den Voraussetzungen des Paragrafen 102 StaRUG auf einen möglichen Insolvenzgrund hin; daneben kommen vertragliche Hinweise aus anderen Mandaten in Betracht.
 - Das Unternehmen zeigt Liquiditaetsengpaesse und Sie als Geschäftsführer müssen dokumentieren, dass Sie aktiv gehandelt haben.
 - Gesellschafter oder Banken verlangen eine Fortbestehensprognose als Voraussetzung für Unterstuetzungsmassnahmen.
 - Sie prüfe Sanierungsbausteine (Gesellschafterdarlehen, Rangrücktritt, Patronatserklaerung) und wollen die insolvenzrechtliche Wirkung verstehen.

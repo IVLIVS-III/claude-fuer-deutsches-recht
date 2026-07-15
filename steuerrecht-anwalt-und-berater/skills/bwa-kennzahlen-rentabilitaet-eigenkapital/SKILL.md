@@ -106,7 +106,7 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 
 - Mandant in Branchenkontext einordnen.
 - Bei unterdurchschnittlicher EK-Rendite: Maßnahmen (Preisgestaltung, Kostenstruktur, Bilanzpolitik).
-- Bei langfristig negativen Renditen: Hinweispflicht § 102 StaRUG aufgrund Eigenkapitalverzehr.
+- Bei nachhaltigem Eigenkapitalverzehr Fortführungs- und Insolvenzindizien belegen. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag und erfüllten weiteren Voraussetzungen anwenden.
 
 ## Strategie und Praxis-Tipps
 

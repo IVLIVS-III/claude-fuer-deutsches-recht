@@ -35,7 +35,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Beweislast/Darlegungslast Fortbestehensprognose und StaRUG
 - **Positive Fortbestehensprognose:** Schuldner trägt die Darlegungslast im Anfechtungs- und Haftungsprozess. Sie ist substantiiert mit Zahlen, Annahmen, Belegen und Plausibilisierung darzulegen (BGH ständige Rspr.).
 - **§ 1 StaRUG:** Geschäftsleiter müssen Krisenfrüherkennung dokumentieren; Verstoß löst Haftung nach §§ 43 GmbHG, 93 AktG aus. Die Dokumentation ist gerichtsfest aufzubewahren (Akten, Protokolle, Beschlüsse).
-- **§ 18 InsO drohende Zahlungsunfähigkeit:** Schwelle für StaRUG-Zugang (§ 29 StaRUG); Liquiditätsplan über idR 24 Monate, der zeigt, dass mehr Verbindlichkeiten als Mittel anfallen.
+- **Paragraf 18 InsO drohende Zahlungsunfähigkeit:** regelmäßig 24-monatige Prognose bestehender Zahlungspflichten; gerichtliche Instrumente nach Paragraf 29 StaRUG, Restrukturierungsfähigkeit nach Paragraf 30 und Anzeige nach Paragraf 31 gesondert prüfen.
 - **Maßstab "überwiegende Wahrscheinlichkeit":** Für die positive Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO gilt die "überwiegende Wahrscheinlichkeit" der Fortführung als Bewertungsmaßstab (BGH ständige Rspr.).
 - **Sekundäre Darlegungslast:** Trägt der Insolvenzverwalter im Anfechtungsprozess Anhaltspunkte für Insolvenzreife vor, muss der Anfechtungsgegner substantiiert zu Annahmen und Quellen der Prognose vortragen.
 - **Praxis:** Annahmenkatalog mit Datum, Quelle, Schwankungsbreite und Sensitivitätsanalyse ist die belastbarste Form der Substantiierung. Lose Behauptungen ("Wir hatten genug Auftragsbestand") reichen nicht.

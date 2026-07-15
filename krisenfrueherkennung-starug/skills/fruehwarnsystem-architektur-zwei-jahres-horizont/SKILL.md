@@ -114,7 +114,7 @@ Die Geschäftsführung beschließt:
 
 ## Paragrafenkette Fruehwarnsystem
 
-§ 1 StaRUG (Pflicht zur Fruehwarnung) → § 102 StaRUG (Rechtsberater-Warnpflicht) → § 43 GmbHG (Sorgfaltspflicht GF) → § 93 AktG (Vorstandshaftung) → § 91 Abs. 2 AktG (Fruehwarnsystem-Pflicht AG) → § 15a InsO (Antragspflicht bei erkannter ZU/Ueberschuldung)
+Paragraf 1 StaRUG: fortlaufende Pflicht der Geschäftsleitung. Paragraf 18 Absatz 2 InsO: regelmäßige 24-Monats-Prognose für drohende Zahlungsunfähigkeit. Paragraf 102 StaRUG: begrenzter Berufsträgerhinweis bei Jahresabschlusserstellung. Paragraf 15a InsO: objektiv an Insolvenzreife anknüpfender Antrag ohne schuldhaftes Zögern.
 
 ## Triage — Fruehwarnsystem
 

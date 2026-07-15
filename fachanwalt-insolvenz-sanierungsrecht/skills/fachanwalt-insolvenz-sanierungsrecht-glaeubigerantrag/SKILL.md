@@ -37,7 +37,7 @@ description: "Wenn es um Fachanwalt Insolvenz Sanierungsrecht Glaeubigerantrag i
 |---------|----|-------|-------------|
 | BGH | IX ZR 229/22 | 23.01.2025 | Zahlungsunfähigkeit objektiv; streitige nicht titulierte Forderung nach objektiver Rechtslage; vorläufig vollstreckbare fällige Forderung bei eingeleiteter Vollstreckung nominal in die Liquiditätsbilanz; keine Prozessrisikoquote |
 | BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss gegenüber außenstehenden Dritten einzelpostenfähig belegt sein; pauschale Summen können einfach bestritten werden |
-| BGH | II ZR 139/23 | 11.03.2025 | Bestand und Fälligkeit der Forderung richten sich nach materieller Rechtslage |
+| BGH | II ZR 139/23 | 11.03.2025 | Beschluss über eine Nichtzulassungsbeschwerde: materieller Bestand der Verbindlichkeit ist maßgeblich; kein eigenständiges Grundsatzurteil |
 | BGH | IX ZB 38/24 | 22.05.2025 | Vorläufige Einstellung der Vollstreckung kann die Belegwirkung eines Titels für den Insolvenzantrag entkräften |
 
 ## Prüfschema

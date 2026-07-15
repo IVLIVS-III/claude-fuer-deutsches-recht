@@ -34,7 +34,7 @@ Das Quartalsgespraech ist Standard für mittelstaendische Mandanten: BWA-Besprec
 
 **§ 57 StBerG** — Gewissenhaftigkeit.
 
-**§ 102 StaRUG** — Hinweispflicht.
+Paragraf 102 StaRUG: Die Quartals-BWA ist nur Belegquelle; die gesetzliche Hinweispflicht setzt einen Jahresabschlussauftrag und die weiteren Tatbestandsmerkmale voraus.
 
 **§ 5 RDG** — Abgrenzung Rechtsberatung.
 
@@ -129,7 +129,7 @@ Termin: [Datum, Uhrzeit]
 ### Phase 4 — Krisengespraech (Sonderfall)
 
 - Bei Krisensignalen: BWA mit Hervorhebung der negativen Kennzahlen vorbereiten (drohende Zahlungsunfaehigkeit, Ueberschuldung, sinkendes Eigenkapital).
-- § 102 StaRUG-Hinweispflicht ausdruecklich ansprechen und schriftlich dokumentieren — der Mandant ist auf das Risiko der Insolvenzantragspflicht (§ 15a InsO) und auf die Notwendigkeit anwaltlicher / insolvenzrechtlicher Beratung hinzuweisen.
+- Bei konkreten Insolvenzindizien den Warnbedarf schriftlich dokumentieren. Nur bei erfülltem Tatbestand als Hinweis nach Paragraf 102 StaRUG bezeichnen; Antragspflicht und spezialisierte Prüfung sachgerecht ansprechen.
 - Anwalt (Insolvenz- bzw. Sanierungsspezialist) empfehlen — die StB-Hinweispflicht erfuellt keine insolvenzrechtliche Beratung iSv § 5 RDG.
 - Dokumentation: Aktenvermerk mit Datum, Inhalt des Hinweises, anwesende Personen; ggf. zusaetzliches Bestaetigungsschreiben an Mandant.
 

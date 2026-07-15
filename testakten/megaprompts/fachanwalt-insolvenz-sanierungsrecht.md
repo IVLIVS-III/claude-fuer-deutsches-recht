@@ -12,8 +12,8 @@ Diese Vollprüfung enthält top-8 von 506 Skills (gekürzt für das Arbeitsfenst
 4. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zu…
 5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigk…
 6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unt…
-7. **zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen** — Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderun…
-8. **restschuldbefreiung-dreijahresfrist-obliegenheiten** — Steuert Restschuldbefreiung nach aktuellem Recht vom Antrag bis zur Entscheidung. Prüft Antragsdatum, Abtretungsfrist, W…
+7. **inso-p245a-schlechterstellung-bei-naturlichen-personen** — Prüft Paragraf 245a InsO als besondere Vergleichsannahme bei Insolvenzplänen natürlicher Personen. Ermittelt Einkommens-…
+8. **restrukturierungsplan** — Führt ein StaRUG-Mandat vom Insolvenzreifetest über Planbetroffenenauswahl, Gruppen, Vergleichsrechnung und Abstimmung b…
 
 ---
 
@@ -669,105 +669,270 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen`
+## Skill: `inso-p245a-schlechterstellung-bei-naturlichen-personen`
 
-_Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderungen. Trennt objektiven Bestand, Fälligkeit, Einfordern, Vollstreckung und Beweislast und liefert Status, Haftungsvermerk, Antragspflichtentscheidung und gerichtsfesten Vortrag._
+_Prüft Paragraf 245a InsO als besondere Vergleichsannahme bei Insolvenzplänen natürlicher Personen. Ermittelt Einkommens-, Vermögens- und Familienverhältnisse am Abstimmungstag, bildet das Ohne-Plan-Szenario mit oder ohne zulässigen Restschuldbefreiungsantrag und liefert Schlechterstellungsrechnung, Belegmatrix und gerichtsfesten Planbaustein._
 
-# Zahlungsunfähigkeit und streitige Forderungen prüfen
+# 1. Schlechterstellung bei natürlichen Personen
 
-## 1. Einsatzlage
+## 1.1 Direktstart
 
-Eine Liquiditätslücke, Organhaftung, Insolvenzanfechtung, ein Gläubigerantrag oder ein Sanierungsfenster verlangt eine stichtagsbezogene Prüfung nach Paragraf 17 InsO. Forderungen werden nicht nach gefühltem Prozessrisiko quotiert, sondern nach objektivem Bestand, Fälligkeit und den besonderen Beweiswirkungen eines Titels behandelt.
+Lies Insolvenzplan, Gruppenübersicht, Vergleichsrechnung, Abstimmungsunterlagen, Antrag auf Restschuldbefreiung, Einkommensnachweise, Vermögensverzeichnis, Unterhaltspflichten und Verfahrenschronologie. Beginne mit einer Vergleichsrechnung; frage nur nach fehlenden Werten, die das Ergebnis verändern können.
 
-## 2. Normenanker
+## 1.2 Normfunktion
 
-- Paragraf 17 InsO: Zahlungsunfähigkeit und Zahlungseinstellung.
-- Paragrafen 14, 15a und 15b InsO: Gläubigerantrag, Antragspflicht und Zahlungen nach Insolvenzreife.
-- Paragrafen 18 und 19 InsO: drohende Zahlungsunfähigkeit und Überschuldung als getrennte Tatbestände.
-- Paragrafen 271 und 286 BGB: Fälligkeit und Verzug; ernsthaftes Einfordern ist insolvenzrechtlich eigenständig zu würdigen.
-- Paragrafen 707, 719, 769 und 775 ZPO: Vollstreckungseinstellung und Vollstreckungshindernisse, soweit ein Titel die Forderungsbehandlung beeinflusst.
+Paragraf 245a InsO ist keine allgemeine Absolute-Priority-Regel und kein eigener Cram-down-Tatbestand. Die Norm konkretisiert bei einem Schuldner, der eine natürliche Person ist, die voraussichtliche Schlechterstellung nach Paragraf 245 Absatz 1 Nummer 1 InsO. Über Paragraf 251 Absatz 2 Satz 2 InsO gilt sie auch beim individuellen Minderheitenschutz entsprechend.
 
-## 3. Rechtsprechungsanker
+Im Zweifel sind zwei Annahmen zu verwenden:
 
-- BGH, Urteil vom 23. Januar 2025 - IX ZR 229/22: Zahlungsunfähigkeit ist ein objektiver Zustand. Bei nicht titulierten streitigen Forderungen kommt es auf objektiven Bestand und Fälligkeit an. Ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in Höhe des Nennwerts zu berücksichtigen; eine Prozessrisikoquote gibt es dafür nicht.
-- BGH, Urteil vom 18. April 2024 - IX ZR 129/22: Legt der Insolvenzverwalter gegenüber einem außenstehenden Dritten nur einen nicht einzelpostenfähig erläuterten Liquiditätsstatus vor, kann einfaches Bestreiten genügen. Status und Belege müssen deshalb Gläubiger, Grund, Fälligkeit und Betrag nachvollziehbar machen.
-- BGH, Urteil vom 28. Juni 2022 - II ZR 112/21: Zahlungsunfähigkeit kann anhand mehrerer aussagekräftiger, tagesgenauer Liquiditätsstatus dargelegt werden.
-- BGH, Urteil vom 19. Dezember 2017 - II ZR 88/16: Im Dreiwochenzeitraum fällig werdende Verbindlichkeiten sind in die Betrachtung einzubeziehen; eine fortgeschobene Bugwelle darf nicht ausgeblendet werden.
-- BGH, Urteil vom 24. Mai 2005 - IX ZR 123/04: Grundlinie zur Abgrenzung einer bloßen Zahlungsstockung anhand Lücke, Zeitraum und begründeter Erwartung der Schließung.
-- BGH, Beschluss vom 22. Mai 2025 - IX ZB 38/24: Nur für den Gläubigerantrag nach Paragraf 14 InsO gilt die besondere Aussage, dass die Beweiswirkung eines vollstreckbaren Endurteils nach gerichtlicher Einstellung der Vollstreckung entfallen kann. Das ersetzt nicht die objektive Prüfung nach Paragraf 17 InsO.
+1. Die Einkommens-, Vermögens- und Familienverhältnisse am Tag der Abstimmung bleiben für die Verfahrensdauer und den anschließenden Zeitraum maßgeblich, in dem Insolvenzgläubiger ihre Restforderungen unbeschränkt geltend machen können.
+2. Hat der Schuldner einen zulässigen Antrag auf Restschuldbefreiung gestellt, wird im Zweifel angenommen, dass die Restschuldbefreiung mit Ablauf der Abtretungsfrist des Paragrafen 287 Absatz 2 InsO erteilt wird.
 
-## 4. Prüfprogramm
+## 1.3 Eingangstore
 
-1. Prüfzweck und Stichtag festlegen. Organhaftung, Anfechtung, Eröffnungsantrag und Sanierungsentscheidung dürfen nicht in einem unscharfen Zeitraum zusammenfallen.
-2. Aktiva I erfassen: freie Kontoguthaben, Kasse und sofort ziehbare, rechtlich gesicherte Kreditlinien.
-3. Aktiva II erfassen: nur innerhalb von drei Wochen mit belastbarem Zuflussnachweis realisierbare Mittel. Eigene streitige Forderungen nicht ohne Realisierungsbeleg ansetzen.
-4. Passiva I und II einzelpostenfähig bilden: Gläubiger, Rechtsgrund, Nennwert, Fälligkeit, Einfordern, Stundung, Bestreiten, Titel und Vollstreckungsstand.
-5. Streitige Verbindlichkeit entscheiden: objektiv nicht bestehend oder nicht fällig gleich nicht passivieren; objektiv bestehend und fällig gleich Nennwert passivieren. Keine prozentuale Abwertung nach Prozesschance.
-6. Titulierte Forderung nach IX ZR 229/22 behandeln. Titel, Vollstreckbarkeit, Sicherheitsleistung, Zustellung, Vollstreckungsbeginn und gerichtliche Einstellung vollständig prüfen.
-7. Wer eine Forderung herausnimmt, dokumentiert Tatsachen, Rechtsgrund und Belege. Ein Rechtsgutachten kann den subjektiven Kenntnisstand stützen, beseitigt aber nicht das objektive Haftungsrisiko, wenn die Forderung tatsächlich besteht.
-8. Zahlungseinstellung zusätzlich anhand Indizien prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen und Vollstreckungsdruck.
-9. Ergebnis mit Antragspflicht, Zahlungsverbot, Sanierungsschritten und täglicher Aktualisierung verbinden.
+| Frage | Ergebnis | Beleg |
+| --- | --- | --- |
+| Ist der Schuldner eine natürliche Person? | [ja/nein] | [Eröffnungsbeschluss oder Stammdaten] |
+| Wird die Zustimmungsfiktion nach Paragraf 245 InsO geprüft? | [ja/nein] | [Abstimmungsergebnis] |
+| Oder liegt ein Antrag nach Paragraf 251 InsO vor? | [ja/nein] | [Widerspruch, Antrag und Protokoll] |
+| Ist ein Antrag auf Restschuldbefreiung gestellt und zulässig? | [ja/nein/offen] | [Antrag und gerichtliche Verfügung] |
+| Welcher Zeitpunkt war für die Abstimmung maßgeblich? | [Datum] | [Protokoll] |
 
-## 5. Arbeitsergebnis
+Ohne natürliche Person oder ohne Schlechterstellungsprüfung nach Paragraf 245 beziehungsweise 251 InsO ist Paragraf 245a InsO nicht das richtige Werkzeug.
 
-Liefere tagesgenauen Liquiditätsstatus, Dreiwochenfortschreibung, Forderungs- und Titelmatrix, Belegindex, Organhaftungsvermerk und klare Entscheidung zu Antragspflicht oder weiterem Prüfbedarf. Jede Herausnahme einer streitigen Forderung erhält eine beweisfähige Begründung.
+## 1.4 Tatsachenmatrix am Abstimmungstag
 
-## 6. Belege und Aktenlücken
+| Bereich | Ist-Zustand | Monatlicher oder einmaliger Wert | Beleg | Streitpunkt |
+| --- | --- | ---: | --- | --- |
+| Nettoeinkommen und variable Bezüge | [Angabe] | [EUR] | [Abrechnung] | [offen] |
+| Selbständige Einkünfte | [Angabe] | [EUR] | [Auswertung und Bescheid] | [offen] |
+| Pfändbarer Betrag | [Berechnung] | [EUR] | [Berechnungsblatt] | [offen] |
+| Unterhaltsberechtigte Personen | [Angabe] | [Auswirkung] | [Urkunde und Zahlung] | [offen] |
+| Verwertbares Vermögen | [Gegenstand] | [EUR] | [Bewertung] | [offen] |
+| Absonderungsrechte und Kosten | [Angabe] | [EUR] | [Vertrag und Abrechnung] | [offen] |
+| Neuerwerb und erwartbare Änderungen | [Angabe] | [EUR] | [Vertrag oder Prognose] | [offen] |
 
-- Kontoauszüge, Kasse und verbindliche Kreditlinien
-- OPOS-Listen mit Einzelbelegen und Fälligkeiten
-- Verträge, Rechnungen, Mahnungen, Stundungen und Einwendungen
-- Titel, Klausel, Zustellung, Sicherheitsleistung und Vollstreckungsakte
-- Zahlungspläne, Organbeschlüsse und Beratervermerke
+Änderungen gegenüber dem Abstimmungstag nicht frei erfinden. Wer von den gesetzlichen Zweifelsannahmen abweichen will, muss die konkrete Entwicklung und ihre belastbare Grundlage offenlegen.
+
+## 1.5 Vergleichsrechnung
+
+Rechne mindestens:
+
+1. Planleistung je betroffener Gruppe und je widersprechendem Beteiligten.
+2. Ohne-Plan-Erlös aus vorhandener Masse nach Kosten und Absonderung.
+3. Erwartete pfändbare Bezüge während des maßgeblichen Zeitraums.
+4. Wirkung eines zulässigen Restschuldbefreiungsantrags auf die Durchsetzbarkeit restlicher Forderungen.
+5. Sensitivität für nachweisbar absehbare Änderungen von Einkommen, Vermögen oder Unterhalt.
+6. Differenz aus Planwert und Ohne-Plan-Wert ohne Saldierung ungleichartiger Vorteile.
+
+```text
+Planwert des Beteiligten                         [EUR]
+Ohne-Plan-Verteilung aus vorhandener Masse       [EUR]
+Pfändbare Bezüge im Vergleichszeitraum            [EUR]
+Sonstige belegte Erlöse                           [EUR]
+Abzüglich Kosten und vorrangige Belastungen       [EUR]
+Ohne-Plan-Wert gesamt                             [EUR]
+Differenz Planwert minus Ohne-Plan-Wert            [EUR]
+Ergebnis                                          [nicht schlechter/schlechter/offen]
+```
+
+## 1.6 Plan- und Gerichtsbaustein
+
+```text
+Der Schuldner ist eine natürliche Person. Für die Prüfung nach
+Paragraf [245 Absatz 1 Nummer 1 / 251] InsO wird gemäß Paragraf 245a
+InsO im Zweifel von den Einkommens-, Vermögens- und
+Familienverhältnissen am Abstimmungstag [Datum] ausgegangen.
+
+Ein zulässiger Antrag auf Restschuldbefreiung [liegt vor/liegt nicht
+vor/ist aus folgenden Gründen noch offen]. [Bei zulässigem Antrag: Für
+die Vergleichsrechnung wird im Zweifel die Erteilung mit Ablauf der
+Abtretungsfrist nach Paragraf 287 Absatz 2 InsO zugrunde gelegt.]
+
+Die Planleistung beträgt [EUR]. Der ohne Plan voraussichtlich
+erreichbare Wert beträgt nach Abzug von [Kosten und Belastungen] [EUR].
+Die Berechnung beruht auf den Anlagen [Bezeichnungen]. Offene
+Sensitivitäten bestehen bei [Punkte].
+```
+
+## 1.7 Fehlerbremsen
+
+1. Paragraf 245a InsO nicht als allgemeines Obstruktionsverbot bezeichnen; dieses steht in Paragraf 245 InsO.
+2. Restschuldbefreiung nur bei zulässigem Antrag in die gesetzliche Zweifelsannahme einbeziehen.
+3. Abtretungsfrist, Verfahrensdauer und Zeitraum unbeschränkter Restforderungsdurchsetzung nicht vermischen.
+4. Pfändbares Einkommen nicht aus Bruttoeinkommen oder pauschalen Quoten ableiten.
+5. Familienverhältnisse und Unterhaltspflichten am Abstimmungstag belegen.
+6. Gruppen-Cram-down nach Paragraf 245 InsO und individuellen Minderheitenschutz nach Paragraf 251 InsO getrennt prüfen.
+7. Vergleichsannahme und tatsächlich bewiesene abweichende Entwicklung kenntlich machen.
+
+## 1.8 Quelle
+
+- [Paragraf 245a InsO](https://www.gesetze-im-internet.de/inso/__245a.html)
+- [Paragraf 245 InsO](https://www.gesetze-im-internet.de/inso/__245.html)
+- [Paragraf 251 InsO](https://www.gesetze-im-internet.de/inso/__251.html)
 
 ---
 
-## Skill: `restschuldbefreiung-dreijahresfrist-obliegenheiten`
+## Skill: `restrukturierungsplan`
 
-_Steuert Restschuldbefreiung nach aktuellem Recht vom Antrag bis zur Entscheidung. Prüft Antragsdatum, Abtretungsfrist, Wiederholungsfall, Erwerbs- und Auskunftsobliegenheiten, Versagungsanträge, ausgenommene Forderungen und Nachtragsverteilung und liefert Fristenplan und vollständige Anträge._
+_Führt ein StaRUG-Mandat vom Insolvenzreifetest über Planbetroffenenauswahl, Gruppen, Vergleichsrechnung und Abstimmung bis zu Anzeige, Stabilisierung, Bestätigung und Vollzug. Liefert Verfahrensentscheidung, Planstruktur, Gruppen- und Mehrheitsmatrix, gerichtliche Anträge sowie einen belastbaren Fristenplan._
 
-# Restschuldbefreiung nach aktuellem Recht steuern
+# 1. Restrukturierungsplan im Fachanwaltsmandat
 
-## 1. Einsatzlage
+## 1.1. Arbeitsstart
 
-Eine natürliche Person beantragt Restschuldbefreiung oder muss einen Versagungsantrag abwehren. Der Workflow unterscheidet Verfahren nach Antragsdatum, laufendes Insolvenzverfahren, Abtretungszeit und bereits früher erteilte Restschuldbefreiung.
+Lies zuerst Liquiditätsplanung, OPOS, Finanzierungsverträge, Sicherheiten, Planentwurf, Verhandlungsstand und Organbeschlüsse. Liefere aus dem vorhandenen Material eine Krisenampel, eine Gruppen- und Mehrheitsvorschau und den nächsten antrags- oder verhandlungsreifen Baustein. Frage nur nach Tatsachen, die Verfahrensweg, Planinhalt oder Frist ändern.
 
-## 2. Normenanker
+## 1.2. Erste Entscheidungsweichen
 
-- Paragrafen 286, 287 und 287a InsO: Grundsatz, Antrag, Abtretung und Zulässigkeitsentscheidung.
-- Paragraf 287 Absatz 2 InsO: grundsätzlich drei Jahre Abtretungsfrist ab Eröffnung; fünf Jahre im gesetzlich bezeichneten Wiederholungsfall.
-- Paragrafen 287b, 290, 295, 295a, 296 bis 298 und 300 InsO: Erwerbsobliegenheit, Versagungsgründe, Obliegenheiten und Entscheidung.
-- Paragrafen 301 und 302 InsO: Wirkung und ausgenommene Forderungen.
-- Artikel 103k EGInsO: Übergangsrecht für vor dem 1. Oktober 2020 beantragte Verfahren.
+1. Liegt heute Zahlungsunfähigkeit nach Paragraf 17 InsO oder Überschuldung nach Paragraf 19 InsO vor?
+2. Besteht nur drohende Zahlungsunfähigkeit nach Paragraf 18 InsO?
+3. Reicht eine einvernehmliche außergerichtliche Sanierung oder ein privates Planangebot?
+4. Welches gerichtliche Instrument nach Paragraf 29 Absatz 2 StaRUG wird benötigt?
+5. Welche Rechte sind gestaltbar und welche Gläubiger müssen geschäftlich weiter vollständig bedient werden?
+6. Ist eine Gruppenmehrheit nach Paragraf 25 StaRUG erreichbar oder muss Paragraf 26 StaRUG vorbereitet werden?
 
-## 3. Rechtsprechungsanker
+## 2. Normenkarte
 
-- BGH, Beschluss vom 7. März 2024 - IX ZB 47/22: Ein Versagungsantrag nach Paragraf 290 InsO muss bis zum maßgeblichen Zeitpunkt schlüssig dargelegt und erforderlichenfalls glaubhaft gemacht sein; erst dann greift die Amtsermittlung. Ein geringer Einkommensunterschied begründete im konkreten Fall keine unangemessene Erwerbstätigkeit.
-- BGH, Beschluss vom 26. September 2024 - IX ZB 5/24: Die erteilte Restschuldbefreiung hindert eine Nachtragsverteilung nicht, wenn der Gegenstand zur Insolvenzmasse gehört. Abtretung, Massezugehörigkeit und Wirkung der Restschuldbefreiung sind deshalb getrennt zu prüfen.
-- Die frühere Sechsjahres- und Quotenrechtsprechung darf nicht ohne Übergangsprüfung auf einen nach dem 30. September 2020 gestellten Antrag übertragen werden.
+| Station | Norm | Praxisfrage |
+| --- | --- | --- |
+| Insolvenzreife | Paragrafen 17 bis 19 und 15a InsO | Ist der präventive Weg noch offen und läuft eine Antragspflicht? |
+| Gestaltbare Rechte | Paragrafen 2 bis 4 StaRUG | Was darf der Plan verändern? |
+| Planinhalt | Paragrafen 5 bis 15 StaRUG | Sind Darstellung, Gestaltung und Anlagen vollständig? |
+| Auswahl und Gruppen | Paragrafen 8 bis 10 StaRUG | Sind Auswahl, Rechtsstellung und Gleichbehandlung sachgerecht? |
+| Planangebot | Paragrafen 17 bis 22 StaRUG | Sind Hinweise, Frist, Erörterung und Dokumentation ordnungsgemäß? |
+| Stimmrecht und Mehrheiten | Paragrafen 24 bis 28 StaRUG | Stimmen Wertansätze, Gruppenmehrheit und Cram-down? |
+| Instrumente und Anzeige | Paragrafen 29 bis 31 StaRUG | Welches Instrument wird genutzt und ist das Vorhaben angezeigt? |
+| Stabilisierung | Paragrafen 49 bis 59 StaRUG | Welche Vollstreckung oder Verwertung muss gesperrt werden? |
+| Bestätigung | Paragrafen 60 bis 67 StaRUG | Bestehen Versagungs-, Minderheiten- oder Beschwerderisiken? |
+| Überwachung | Paragraf 72 StaRUG | Soll die Planerfüllung überwacht werden? |
+| Beauftragter | Paragrafen 73 bis 79 StaRUG | Ist Bestellung zwingend oder wird sie beantragt? |
 
-## 4. Prüfprogramm
+## 3. Verfahrensworkflow
 
-1. Datum des Insolvenzantrags, Eröffnungsdatum, Verfahrensart und frühere Restschuldbefreiungen feststellen. Daraus Rechtsfassung und Frist berechnen.
-2. Antrag nach Paragraf 287 InsO, Abtretungserklärung und Erklärung zu Sperrgründen auf Vollständigkeit prüfen; bei Verbraucherinsolvenz Paragraf 305 InsO mitbearbeiten.
-3. Drei- oder Fünfjahresfrist kalendarisch führen. Die aktuelle Dreijahresfrist verlangt keine Mindestbefriedigungsquote.
-4. Pflichten phasenbezogen ordnen: Auskunft und Mitwirkung im eröffneten Verfahren, Erwerbsobliegenheit, Herausgabe- und Anzeigepflichten sowie Zahlungen nur an den Treuhänder.
-5. Selbständige Tätigkeit nach Paragraf 295a InsO mit fiktivem angemessenem Dienstverhältnis und Zahlungsplan dokumentieren.
-6. Jeden Versagungsantrag nach Norm, Tatsachen, Verschulden, Gläubigerbeeinträchtigung, Antragsberechtigung, Frist und Glaubhaftmachung prüfen. Tatbestände nicht vermischen.
-7. Wirkungen der Restschuldbefreiung gläubigerbezogen bestimmen. Forderungen nach Paragraf 302 InsO, Rechte gegen Mitschuldner und Massegegenstände gesondert ausweisen.
-8. Vor Entscheidung offene Masse, Nachtragsverteilung, Steuererstattung und noch nicht abgeschlossene Feststellungsprozesse kontrollieren.
+### 3.1. Insolvenzreifetest
 
-## 5. Arbeitsergebnis
+Erstelle zuerst den Liquiditätsstatus nach Paragraf 17 InsO, die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO und die Überschuldungsprüfung nach Paragraf 19 InsO. Die Insolvenzantragspflicht ist ohne schuldhaftes Zögern zu erfüllen; die Höchstfristen betragen drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
 
-Erstelle Rechtsstands- und Fristenblatt, Obliegenheitenkalender, Einkommens- und Herausgabematrix, Stellungnahme zu Versagungsanträgen, Entscheidungsvorschlag und Liste fortbestehender Forderungen. Alt- und Neurecht werden sichtbar getrennt.
+Eine Stabilisierungsanordnung oder die Rechtshängigkeit der Restrukturierungssache setzt Paragraf 15a InsO nicht außer Kraft.
 
-## 6. Belege und Aktenlücken
+### 3.2. Planbetroffene auswählen
 
-- Insolvenzantrag, Eröffnungsbeschluss und Abtretungserklärung
-- frühere Verfahren und Entscheidungen zur Restschuldbefreiung
-- Einkommens-, Bewerbungs- und Tätigkeitsnachweise
-- Vermögenszugänge, Erbschaften, Schenkungen und Steuererstattungen
-- Forderungsanmeldungen, Widersprüche und Versagungsanträge
+Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung sowie die weiteren Forderungen nach Paragraf 4 StaRUG sind nicht gestaltbar. Steuer- und Sozialversicherungsforderungen sind nicht pauschal ausgeschlossen; ihre Einbeziehung ist rechtsverhältnisbezogen zu prüfen.
+
+Dokumentiere für jede Ein- und Nichteinbeziehung die sachgerechten Kriterien des Paragrafen 8 StaRUG. Operative Bedeutung allein ersetzt die gesetzliche Begründung nicht.
+
+### 3.3. Plan und Anlagen erstellen
+
+1. Planstruktur nach Paragraf 5 StaRUG.
+2. Darstellender Teil einschließlich Vergleichsrechnung nach Paragraf 6 StaRUG.
+3. Gestaltender Teil mit eindeutiger Rechtsänderung nach Paragraf 7 StaRUG.
+4. Gruppenbildung nach Paragraf 9 StaRUG.
+5. Gleichbehandlung innerhalb der Gruppe nach Paragraf 10 StaRUG.
+6. Bestandsfähigkeits-, Vermögens- und Finanzunterlagen nach Paragraf 14 StaRUG.
+7. Erklärungen von Gesellschaftern, Gläubigern, Dritten oder Sicherungsgebern nach Paragraf 15 StaRUG.
+
+Ein Debt-to-Equity-Swap gegen den Willen des betroffenen Gläubigers ist nach Paragraf 7 Absatz 4 StaRUG ausgeschlossen.
+
+### 3.4. Abstimmung und Cram-down
+
+Nach Paragraf 25 StaRUG müssen mindestens drei Viertel der Stimmrechte jeder Gruppe zustimmen. Bei einer ablehnenden Gruppe prüfe Paragrafen 26 bis 28 StaRUG: keine Schlechterstellung ohne Plan, angemessene Beteiligung am Planwert, gesetzliche Gruppenmehrheit und Rangfolge mit den engen Ausnahmen des Paragrafen 28 StaRUG.
+
+Der individuelle Minderheitenschutz nach Paragraf 64 StaRUG ist gesondert zu prüfen. Er setzt rechtzeitige Ablehnung, Widerspruch und Geltendmachung beziehungsweise Glaubhaftmachung der Schlechterstellung voraus.
+
+### 3.5. Gerichtliche Instrumente
+
+Ein privater Plan kann ohne gerichtliches Instrument vorbereitet und angeboten werden. Soll eine gerichtliche Planabstimmung, Vorprüfung, Stabilisierung oder Planbestätigung genutzt werden, ist das Vorhaben vorher nach Paragraf 31 StaRUG anzuzeigen. Mit der Anzeige wird die Restrukturierungssache rechtshängig.
+
+Die Anzeige verliert grundsätzlich nach sechs Monaten ihre Wirkung; wurde sie vorher erneuert, nach zwölf Monaten. Das ist keine allgemeine 24-Monats-Verfahrensdauer.
+
+## 4. Gruppen- und Mehrheitsmatrix
+
+| Gläubiger | Recht | Betrag oder Wert | Sicherheit | Gestaltbar | Auswahlgrund | Gruppe | Stimmrecht | Zustimmung |
+| --- | --- | ---: | --- | --- | --- | --- | ---: | --- |
+| [Name] | [Recht] | [EUR] | [Sicherheit] | [ja/nein] | [Paragraf 8] | [Gruppe] | [EUR] | [ja/nein/offen] |
+
+## 5. Anzeige nach Paragraf 31 StaRUG
+
+```text
+An das Amtsgericht [Ort] als Restrukturierungsgericht
+
+1. Anzeige
+Die Schuldnerin zeigt ihr Restrukturierungsvorhaben nach Paragraf 31
+Absatz 1 StaRUG an.
+
+2. Restrukturierungsziel
+[Ziel, Planbetroffene, vorgesehene Maßnahmen und Instrumente]
+
+3. Krise
+[Art, Ausmaß und Ursachen; Paragrafen 17 bis 19 InsO mit Stichtag]
+
+4. Planentwurf oder Restrukturierungskonzept
+[Anlage A]
+
+5. Verhandlungsstand
+[Gläubiger, Anteilsinhaber, Dritte, Zustimmungsprognose]
+
+6. Vorkehrungen zur Pflichterfüllung
+[Organisation, Liquiditätsüberwachung, Berichtsweg]
+
+7. Pflichtangaben
+[Verbraucher sowie kleine und mittlere Unternehmen, erwarteter
+Gruppenwiderstand, frühere Restrukturierungssachen]
+```
+
+## 6. Antrag auf Planbestätigung
+
+```text
+Antrag nach Paragraf 60 StaRUG
+
+1. Plan und Anlagen
+[Fassung, Datum, Anlagenverzeichnis]
+
+2. Abstimmungsweg und Dokumentation
+[außergerichtlich oder gerichtlicher Termin; Nachweise]
+
+3. Gruppen und Stimmrechte
+[Tabelle nach Paragrafen 9, 24 und 25 StaRUG]
+
+4. Gruppenübergreifende Mehrheitsentscheidung
+[nur falls erforderlich: Prüfung Paragrafen 26 bis 28 StaRUG]
+
+5. Versagungsgründe
+[Prüfung Paragraf 63 StaRUG]
+
+6. Minderheitenschutz
+[Widersprüche, Glaubhaftmachung, Ausgleichsmittel nach Paragraf 64]
+
+7. Antrag
+Der Restrukturierungsplan vom [Datum] wird bestätigt.
+```
+
+## 7. Fristen- und Wirkungsplan
+
+| Vorgang | Regel | Arbeitsfolge |
+| --- | --- | --- |
+| Insolvenzantrag | unverzüglich; höchstens drei beziehungsweise sechs Wochen nach Paragraf 15a InsO | Fristbeginn und Sanierungsaussicht täglich prüfen |
+| Außergerichtliches Planangebot | Annahmefrist grundsätzlich mindestens 14 Tage nach Paragraf 19 StaRUG | vollständigen Plan und Hinweise rechtzeitig zustellen |
+| Gerichtlicher Abstimmungstermin | Ladungsfrist mindestens 14 Tage nach Paragraf 45 StaRUG | Zustellung und elektronischen Dokumentzugang sichern |
+| Anzeige | Wirkungsverlust grundsätzlich nach sechs Monaten, nach Erneuerung nach zwölf Monaten | Long-Stop und Erneuerungsentscheidung kalendrieren |
+| Stabilisierungsanordnung | zunächst bis drei Monate; Erweiterungen nur nach Paragraf 53 StaRUG | Planangebot und Bestätigungsantrag rechtzeitig vorbereiten |
+| Planwirkungen | mit Bestätigung nach Paragraf 67 Absatz 1 StaRUG | Vollzugsvoraussetzungen und Rechtsmittelrisiko prüfen |
+
+## 8. Rechtsprechungsanker
+
+1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine Aussage zur generellen Verfassungsmäßigkeit oder materiellen Planrichtigkeit. Eine Beschwerde nach Paragraf 66 Absatz 2 Nummer 3 StaRUG verlangt konkrete Darlegung einer wesentlichen Schlechterstellung und des Ohne-Plan-Szenarios.
+2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Darlegung für ein ausnahmsweises Absehen von der Aufhebung nach Paragraf 33 Absatz 2 StaRUG; freiwillige, rechtlich nicht gesicherte Drittbeiträge tragen die Fortführungsprognose des Vorhabens nicht zuverlässig.
+
+## 9. Fehlerbremse
+
+1. Paragraf 29 StaRUG nicht als Anzeigevorschrift verwenden.
+2. Arbeitnehmer- und Betriebsrentenforderungen nicht in den Plan aufnehmen.
+3. Paragraf 64 StaRUG nicht als allgemeinen Gruppen-Cram-down behandeln.
+4. Keine allgemeine Prüferbescheinigung als gesetzliche Voraussetzung behaupten.
+5. Restrukturierungsbeauftragten nicht pauschal als immer erforderlich darstellen; Paragrafen 73 und 77 getrennt prüfen.
+6. Keine Kostenwerte oder Verfahrensdauer ohne aktenbezogene Grundlage versprechen.
+7. Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle verwenden.
 
 ---
 

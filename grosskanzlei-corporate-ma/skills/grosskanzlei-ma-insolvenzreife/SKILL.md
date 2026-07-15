@@ -53,7 +53,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 |---|---|---|---|
 | BGH | IX ZR 229/22 | 23.01.2025 | Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbare titulierte Forderung nominal, wenn fällig, Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt |
 | BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss mit Einzelposten und Belegen prüfbar sein; sonst droht einfaches Bestreiten durch außenstehende Gegner |
-| BGH | II ZR 139/23 | 11.03.2025 | Ob eine Verbindlichkeit in die Zahlungsfähigkeitsprüfung einzustellen ist, richtet sich nach der materiellen Rechtslage |
+| BGH | II ZR 139/23 | 11.03.2025 | Nichtzulassungsbeschwerde-Beschluss: materieller Bestand entscheidet; Reichweite auf diese Bestätigung der bestehenden Rechtsprechung begrenzen |
 | BGH | IX ZB 38/24 | 22.05.2025 | Die Belegwirkung eines Titels kann für einen Insolvenzantrag entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
 | BGH | IX ZR 133/14 | 05.03.2015 | Qualifizierter Rangrücktritt wirkt als schuldrechtliche Rang- und Durchsetzungssperre zugunsten der Gläubigergesamtheit |
 | BGH | IX ZR 143/17 | 06.12.2018 | Vorinsolvenzliche Durchsetzungssperre muss Eröffnungsgründe klar verhindern; unklare Klauseln lösen Passivierungs- und Anfechtungsrisiken aus |

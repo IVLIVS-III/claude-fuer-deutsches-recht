@@ -10,12 +10,12 @@ Diese Vollprüfung enthält top-10 von 87 Skills des Plugins `corporate-kanzlei`
 2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
 3. **agio-und-kapitalerhoehungsstruktur** — Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden E…
 4. **npl-distressed-outside-target** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
-5. **npl-distressed-loan** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
-6. **schuldschein-darlehen-signing-closing** — Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweisla…
-7. **translations-multijurisdictional** — Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücke…
-8. **datenqualitaet-xai-qualitaetskontrolle** — Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zustän…
-9. **agio** — Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden E…
-10. **schuldschein-darlehen** — Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweisla…
+5. **restructuring-starug** — Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Fin…
+6. **npl-distressed-loan** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
+7. **schuldschein-darlehen-signing-closing** — Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweisla…
+8. **translations-multijurisdictional** — Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücke…
+9. **restructuring-starug-insolvenzplan** — Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Pla…
+10. **datenqualitaet-xai-qualitaetskontrolle** — Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zustän…
 
 ---
 
@@ -603,6 +603,128 @@ Kreditzweitmarktgesetz, BGB Abtretung, DSGVO, Sicherheiten, InsO/StaRUG, ZVG.
 
 ---
 
+## Skill: `restructuring-starug`
+
+_Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Finanzierungs- und Sicherheitenstruktur, Planbetroffenheit, Gruppenmehrheiten, Organbeschlüsse, Kapitalmaßnahmen, M&A-Vollzug und Haftungsdokumentation zu einem Board-Paper und umsetzbaren Transaktionsfahrplan._
+
+# 1. Corporate Restructuring mit StaRUG und Insolvenzplan
+
+## 1.1. Arbeitsstart
+
+Lies Finanzmodell, Kredit- und Intercreditor-Verträge, Sicherheiten, Gesellschaftervereinbarung, Organprotokolle und Transaktionsentwurf. Liefere zuerst ein Board-Paper mit Verfahrensroute, Insolvenzampel, erforderlichen Beschlüssen, Gläubigermehrheiten und Long-Stop-Datum.
+
+## 1.2. Drei Verfahrensrouten
+
+| Route | Voraussetzung | Bindungswirkung | Corporate-Schwerpunkt |
+| --- | --- | --- | --- |
+| freie Einigung | Zustimmung aller betroffenen Vertragspartner | nur vertraglich | Waiver, Standstill, neue Finanzierung |
+| StaRUG-Plan | drohende Zahlungsunfähigkeit für gerichtliche Instrumente | nach Bestätigung auch gegenüber ordnungsgemäß beteiligten Ablehnenden | selektive Finanzrestrukturierung, Kapitalmaßnahmen |
+| Insolvenzplan | eröffnetes Insolvenzverfahren | mit Rechtskraft der Bestätigung für Beteiligte | umfassende Entschuldung, Eigenverwaltung, M&A |
+
+Öffentliche Bekanntmachungen in der Restrukturierungssache erfolgen nach Paragraf 84 StaRUG nur auf Antrag des Schuldners. Vertraulichkeit ist daher möglich, aber nicht als absolut oder für jeden grenzüberschreitenden Anerkennungsbedarf zu versprechen.
+
+## 2. Krisen- und Organprüfung
+
+1. Paragraf 17 InsO: aktueller Liquiditätsstatus und Drei-Wochen-Sicht.
+2. Paragraf 18 Absatz 2 InsO: regelmäßige 24-Monats-Prognose.
+3. Paragraf 19 InsO: Überschuldung und Fortführungsprognose.
+4. Paragraf 15a InsO: Antrag ohne schuldhaftes Zögern, höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
+5. Paragraf 15b InsO: Zahlungen nach Insolvenzreife.
+6. Paragraf 1 StaRUG: Krisenüberwachung, Gegenmaßnahmen und Organbericht.
+
+Das Board-Paper trennt Erkenntnisdatum, Beschlussdatum, Maßnahme, Verantwortlichen und Beleg. Dokumentation ersetzt keine tragfähige Statusprüfung.
+
+## 3. StaRUG-Transaktionsarchitektur
+
+### 3.1. Planreichweite
+
+Gestaltbare Forderungen, Sicherheiten, mehrseitige Finanzierungsbedingungen, Beteiligungsrechte und gruppeninterne Drittsicherheiten richten sich nach Paragrafen 2 und 3 StaRUG. Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung und die weiteren Rechte nach Paragraf 4 StaRUG sind ausgeschlossen.
+
+### 3.2. Plan und Gruppen
+
+1. Planstruktur nach Paragraf 5 StaRUG.
+2. Vergleichsrechnung und Maßnahmen nach Paragraf 6 StaRUG.
+3. Rechtsänderungen nach Paragraf 7 StaRUG.
+4. Auswahl nach Paragraf 8 StaRUG.
+5. Gruppen nach Paragraf 9 StaRUG.
+6. Gleichbehandlung nach Paragraf 10 StaRUG.
+7. Stimmrechte und Mehrheit nach Paragrafen 24 und 25 StaRUG.
+8. Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG.
+
+Ein Debt-to-Equity-Swap gegen den Willen des betroffenen Gläubigers ist ausgeschlossen. Eingriffe in Anteilsrechte und Kapitalmaßnahmen sind mit Register-, Bewertungs-, Governance- und Steuerfolgen zu einem Closing-Paket zu verbinden.
+
+### 3.3. Gerichtliche Instrumente
+
+Paragraf 29 Absatz 2 StaRUG bezeichnet gerichtliche Planabstimmung, Vorprüfung, Stabilisierung und Bestätigung. Vor ihrer Nutzung ist das Vorhaben nach Paragraf 31 StaRUG anzuzeigen. Die Anzeige ist kein allgemeiner Eröffnungsantrag.
+
+Stabilisierungsdauer und Erweiterungen folgen Paragraf 53 StaRUG. Der Antrag benötigt nach Paragraf 50 StaRUG einen sechsmonatigen Finanzplan.
+
+## 4. Insolvenzplanvergleich
+
+| Thema | StaRUG | Insolvenzplan |
+| --- | --- | --- |
+| Planinhalt | Paragrafen 5 bis 15 StaRUG | Paragrafen 220 bis 230 InsO |
+| Gruppen | Paragraf 9 StaRUG | Paragraf 222 InsO |
+| Mehrheit | drei Viertel der Stimmrechte je Gruppe nach Paragraf 25 StaRUG | Kopf- und Summenmehrheit der Abstimmenden nach Paragraf 244 InsO |
+| Gruppenüberstimmung | Paragrafen 26 bis 28 StaRUG | Paragraf 245 InsO |
+| individueller Minderheitenschutz | Paragraf 64 StaRUG | Paragraf 251 InsO |
+| Bestätigung | Paragrafen 60 bis 67 StaRUG | Paragrafen 248 bis 253 InsO |
+| Wirkungszeitpunkt | mit Bestätigung nach Paragraf 67 Absatz 1 StaRUG | mit Rechtskraft nach Paragraf 254 InsO |
+
+## 5. Board-Paper
+
+```text
+1. Entscheidung
+[Route und beantragter Beschluss]
+
+2. Insolvenzstatus
+[Paragrafen 17 bis 19 InsO, Stichtag, Gutachten, offene Positionen]
+
+3. Finanzierung
+[Liquiditätsbedarf, Bridge, neue Finanzierung, Sicherheiten, Bedingungen]
+
+4. Planbetroffene und Gruppen
+[Beträge, Rang, Stimmrecht, Zustimmungsprognose]
+
+5. Corporate-Maßnahmen
+[Kapitalherabsetzung, Kapitalerhöhung, Übertragung, Register, Zustimmungen]
+
+6. M&A-Pfad
+[Share Deal, Asset Deal, Planvollzug, Freigaben, Long-Stop]
+
+7. Risiken
+[Antragspflicht, Bewertungsangriff, Minderheitenschutz, Steuer, Vollzug]
+
+8. Beschlussvorschlag
+[Maßnahme, Verantwortlicher, Termin, Rückfallroute]
+```
+
+## 6. Beweis- und Vollzugsmatrix
+
+| Thema | Beleg | Verantwortlicher | Fällig | Gegenposition |
+| --- | --- | --- | --- | --- |
+| drohende Zahlungsunfähigkeit | integrierte Liquiditätsplanung | [Name] | [Datum] | Finanzierung nicht gesichert |
+| Planwert | Unternehmensbewertung | [Name] | [Datum] | Ohne-Plan-Wert zu niedrig |
+| Gruppen | Rechts- und Rangmatrix | [Name] | [Datum] | taktische Zersplitterung |
+| Kapitalmaßnahme | Plantext und Registerpaket | [Name] | [Datum] | Form oder Bewertung fehlerhaft |
+| Drittbeitrag | unterzeichnete Verpflichtung und Finanzierungsnachweis | [Name] | [Datum] | freiwillig oder nicht werthaltig |
+
+## 7. Rechtsprechungsanker
+
+1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine materielle Billigung eines Restrukturierungsplans. Eine Beschwerde verlangt konkrete Darlegung wesentlicher Schlechterstellung und des Alternativverlaufs.
+2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Umstände für ein ausnahmsweises Absehen von der Aufhebung; rechtlich nicht gesicherte Drittbeiträge sind kein belastbarer Planbaustein.
+
+## 8. Fehlerbremse
+
+1. Keine automatische Nichtöffentlichkeit behaupten.
+2. Arbeitnehmer- und Betriebsrentenforderungen nicht in einen StaRUG-Plan aufnehmen.
+3. Paragraf 31 StaRUG als Anzeigevorschrift und Paragraf 29 StaRUG als Instrumentenkatalog verwenden.
+4. Paragraf 251 InsO als Antragsrecht auf Versagung bei Schlechterstellung, nicht als freie Ablehnung bezeichnen.
+5. Keine allgemeine Freistellung von Altverbindlichkeiten bei einem Asset Deal behaupten; Übernahme, Haftung und Arbeitsverhältnisse gesondert prüfen.
+6. Rechtsprechung und Steuerfolgen nur mit verifizierter Quelle verwenden.
+
+---
+
 ## Skill: `npl-distressed-loan`
 
 _Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Npl Distressed Loan; Arbeitsfeld: Corporate-Kanzlei._
@@ -895,6 +1017,115 @@ purposes only. In case of doubt, the German version shall prevail.
 
 ---
 
+## Skill: `restructuring-starug-insolvenzplan`
+
+_Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Planreichweite, Gruppen, Mehrheiten, Minderheitenschutz, Organ- und Registermaßnahmen, Finanzierung, M&A-Schnittstellen und Vollzug. Liefert Route-Memo, Term Sheet, Closing- und Rückfallplan._
+
+# 1. StaRUG- oder Insolvenzplan als Transaktionsroute
+
+## 1.1. Arbeitsauftrag
+
+Ordne das vorhandene Restrukturierungs- oder M&A-Projekt einer belastbaren Route zu. Beginne mit Route-Memo und Closing-Kritikalität, nicht mit einer allgemeinen Krisenabfrage. Bei vorhandenen Dokumenten werden Finanzierungsbedingungen, Sicherheiten, Zustimmungen und Planmehrheiten unmittelbar ausgewertet.
+
+## 1.2. Route-Matrix
+
+| Kriterium | Freie Einigung | StaRUG-Plan | Insolvenzplan |
+| --- | --- | --- | --- |
+| Krisenstadium | jedes Stadium ohne entgegenstehende Antragspflicht | gerichtliche Instrumente bei drohender Zahlungsunfähigkeit | nach Eröffnung des Insolvenzverfahrens |
+| Beteiligtenkreis | vertraglich frei | sachgerecht ausgewählte gestaltbare Rechte | Beteiligte des Insolvenzverfahrens |
+| Mehrheitsbindung | nein | Paragrafen 25 bis 28 StaRUG | Paragrafen 244 und 245 InsO |
+| Minderheitenschutz | Vertragsrecht | Paragraf 64 StaRUG | Paragraf 251 InsO |
+| Corporate-Maßnahmen | reguläre Form und Beschlüsse | Planregeln einschließlich Paragraf 68 StaRUG | Insolvenzplanregeln |
+| Publizität | nach Vereinbarung | öffentliche Bekanntmachung nur auf Antrag nach Paragraf 84 StaRUG | insolvenzrechtliche Öffentlichkeit |
+
+## 2. Status- und Haftungsgate
+
+1. Paragraf 17 InsO mit Einzelposten und Drei-Wochen-Sicht.
+2. Paragraf 18 Absatz 2 InsO mit regelmäßiger 24-Monats-Prognose.
+3. Paragraf 19 InsO mit Vermögensstatus und Fortführungsprognose.
+4. Paragraf 15a InsO unverzüglich; maximal drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
+5. Paragraf 15b InsO für Zahlungen nach Insolvenzreife.
+
+Eine Restrukturierungsanzeige oder Stabilisierung hemmt die Antragspflicht nicht.
+
+## 3. StaRUG-Route
+
+### 3.1. Plan und Abstimmung
+
+1. Gestaltbarkeit nach Paragrafen 2 bis 4 StaRUG.
+2. Planaufbau nach Paragrafen 5 bis 7 StaRUG.
+3. Auswahl, Gruppen und Gleichbehandlung nach Paragrafen 8 bis 10 StaRUG.
+4. Anlagen und verbindliche Drittbeiträge nach Paragrafen 14 und 15 StaRUG.
+5. Planangebot und Dokumentation nach Paragrafen 17 bis 22 StaRUG.
+6. Stimmrechte und Mehrheiten nach Paragrafen 24 und 25 StaRUG.
+7. Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG.
+
+Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung sind ausgeschlossen. Ein Debt-to-Equity-Swap gegen den Willen des Gläubigers ist nicht zulässig.
+
+### 3.2. Gerichtliche Route
+
+Paragraf 29 StaRUG bezeichnet die Instrumente. Paragraf 31 StaRUG verlangt vor ihrer Nutzung die Anzeige. Stabilisierung richtet sich nach Paragrafen 49 bis 59 StaRUG, Bestätigung nach Paragrafen 60 bis 67 StaRUG.
+
+## 4. Insolvenzplanroute
+
+1. Vorlageberechtigung und Zeitpunkt nach Paragraf 218 InsO.
+2. Darstellender Teil nach Paragraf 220 InsO.
+3. Gestaltender Teil nach Paragraf 221 InsO.
+4. Gruppen nach Paragraf 222 InsO.
+5. Kopf- und Summenmehrheit der Abstimmenden nach Paragraf 244 InsO.
+6. Gruppenüberstimmung nach Paragraf 245 InsO.
+7. Minderheitenschutz nach Paragraf 251 InsO.
+8. Bestätigung nach Paragraf 248 InsO und Wirkungen mit Rechtskraft nach Paragraf 254 InsO.
+
+Paragraf 245a InsO enthält eine besondere Vergleichsannahme für natürliche Personen mit beantragter Restschuldbefreiung. Er ist keine allgemeine absolute Prioritätsregel.
+
+## 5. Transaktions- und Closing-Plan
+
+| Arbeitspaket | StaRUG oder InsO-Norm | Corporate-Dokument | Closing-Bedingung |
+| --- | --- | --- | --- |
+| Finanzierung | [Norm] | Commitment und Sicherheitenvertrag | Mittel verfügbar |
+| Forderungsgestaltung | [Norm] | Plan und Forderungsliste | Bestätigung oder Rechtskraft |
+| Kapitalmaßnahme | Paragrafen 7 und 68 StaRUG oder Insolvenzplan | Beschluss- und Registerpaket | Eintragung oder Planwirkung |
+| M&A-Vollzug | Plan und Kaufvertrag | SPA oder APA | Freigaben und Finanzierung |
+| Drittbeitrag | Paragraf 15 StaRUG | Verpflichtungserklärung | rechtsverbindlich und werthaltig |
+| Rückfallroute | Paragrafen 15a InsO und 33 StaRUG | Board-Beschluss | Statusverschlechterung |
+
+## 6. Term-Sheet-Kern
+
+```text
+1. Verfahrensroute und Long-Stop
+2. Planbetroffene oder Insolvenzplanbeteiligte
+3. Gruppen, Rang und Stimmrechte
+4. Haircut, Stundung, Zins und Sicherheiten
+5. Neue Finanzierung und Drittbeiträge
+6. Beteiligungs- und Kontrollrechte
+7. Bedingungen der Bestätigung und Rechtskraft
+8. Register- und Vollzugsmaßnahmen
+9. Kündigungs-, Rückfall- und Insolvenzklauseln
+10. Kosten, Steuern und Verantwortlichkeiten
+```
+
+## 7. Minderheiten- und Gegenpositionsprüfung
+
+Für StaRUG: Gruppen-Cram-down nach Paragrafen 26 bis 28 und individuellen Antrag nach Paragraf 64 getrennt prüfen. Für den Insolvenzplan: Paragraf 245 und Paragraf 251 InsO trennen. In beiden Routen ist die realistische Stellung ohne Plan anhand Fortführung, Verkauf oder Regelverfahren zu berechnen; eine Zerschlagung ist nicht automatisch die Vergleichsbasis.
+
+## 8. Rechtsprechungsanker
+
+1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; verlangt für die Beschwerde eine konkrete wesentliche Schlechterstellung und ein belastbares Alternativszenario, ohne den Plan materiell zu bestätigen.
+2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife trägt der Schuldner die Voraussetzungen für ein ausnahmsweises Fortführen der Restrukturierung; unverbindliche Drittmittel reichen nicht.
+
+## 9. Fehlerbremse
+
+1. Anzeige nicht Paragraf 29 StaRUG zuordnen.
+2. Anzeigezeitraum nicht mit 12 oder 24 Monaten als Grundlaufzeit angeben; Paragraf 31 Absatz 4 StaRUG prüfen.
+3. Arbeitnehmer- und Betriebsrentenforderungen nicht als StaRUG-Planmasse behandeln.
+4. Paragraf 245a InsO nicht als allgemeine Rangregel verwenden.
+5. Wirkung des StaRUG-Plans mit Bestätigung und des Insolvenzplans mit Rechtskraft unterscheiden.
+6. Asset Deal, Paragraf 613a BGB, öffentlich-rechtliche Haftung und Altverbindlichkeiten einzeln prüfen.
+7. Entscheidungen nur mit verifizierter Quelle verwenden.
+
+---
+
 ## Skill: `datenqualitaet-xai-qualitaetskontrolle`
 
 _Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenqualitaet Xai Qualitaetskontrolle; Arbeitsfeld: Corporate-Kanzlei._
@@ -1039,243 +1270,6 @@ OFFENE PUNKTE
 - `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `agio`
-
-_Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Agio; Arbeitsfeld: Corporate-Kanzlei._
-
-# Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Triage zu Beginn
-
-Vor dem ersten Term-Sheet-Markup klären:
-
-1. **Dealtyp:** Erste VC-Runde Folgerunde Bridge Convertible-Wandlung Anteilstausch nach § 21 UmwStG oder Sekundärtransaktion mit Kapitalmaßnahme?
-2. **Beteiligungsstruktur des Lead Investors:** Deutsche GmbH KG US-LP Luxemburg-SCS oder andere Auslandsstruktur? Beeinflusst Beurkundungsbedarf und Steuerlogik.
-3. **Stammkapital aktuell und post-money:** Wie viel zusätzliches Stammkapital wird ausgegeben wie viel Agio? Standardmuster bei VC-Runden 99 Prozent Agio.
-4. **Agio-Charakter:** Echtes (korporatives) oder unechtes (schuldrechtliches) Agio? Beim qualifizierten Anteilstausch § 21 UmwStG ist echtes Agio Voraussetzung für Buchwertfortführung.
-5. **Fälligkeit des Agios:** Bei Closing in voller Höhe (Fall 1) oder gestaffelt (Fall 2)? Bei Fall 2 muss das Agio in den aktualisierten Satzungstext sonst Eintragungshindernis.
-6. **Liquidation Preference:** Bezugsgröße Ausgabebetrag (Nennbetrag plus Agio) oder fälschlich nur Nennbetrag?
-7. **Steuerliche Strukturierung:** Soll das Agio in das steuerliche Einlagekonto § 27 KStG fließen für spätere steuerneutrale Rückgewähr?
-
-## Zentrale Schnittstellen
-
-- **Notar** (Beurkundung Kapitalerhöhungsbeschluss Übernahmeerklärung Satzungsneufassung).
-- **Steuerberater** (UmwStG-Konformität § 27 KStG-Erfassung Buchwertfortführung).
-- **Investor Counsel** (oft US- oder UK-Kanzlei mit Delaware-Denke).
-- **CFO und Tax** der Mandantin (Cashflow-Planung Bilanzaufstellung).
-- **Handelsregister** (Anmeldung neue Anteilsstruktur Gesellschafterliste § 40 GmbHG).
-
-## Standardmuster Series-A-Runde
-
-| Komponente | Typische Größenordnung |
-|---|---|
-| Stammkapital vor Runde | EUR 25.000 bis 50.000 |
-| Investitionsvolumen | EUR 3 bis 20 Mio |
-| Nennbetrag je neuem Geschäftsanteil | EUR 1,00 |
-| Anzahl neuer Geschäftsanteile | 5.000 bis 30.000 |
-| Ausgabebetrag je Anteil | abhängig von Pre-Money und Cap Table |
-| Agio je Anteil | Ausgabebetrag minus EUR 1,00 |
-| Agio-Anteil an Investition | typisch 99 bis 99,9 Prozent |
-| Stammkapital nach Runde | EUR 35.000 bis 75.000 |
-
-Das ist nicht atypisch sondern Standard. Wer mit einem Lead Investor verhandelt der das Agio vermeiden will hat in den meisten Fällen einen Atypiker am Tisch oder einen Investor der die deutsche GmbH-Struktur nicht versteht.
-
-## Übersetzungstabelle US-Term-Sheet zu deutscher Satzung
-
-| US-Begriff | Deutsche Entsprechung | Häufige Fehler |
-|---|---|---|
-| Original Purchase Price (OPP) | Ausgabebetrag je Geschäftsanteil | wird mit Kaufpreis übersetzt — falsch |
-| Original Issue Price (OIP) | Ausgabebetrag je Geschäftsanteil | wie OPP |
-| Par Value | Nennbetrag § 5 Abs. 2 GmbHG | wird mit Nennwert übersetzt — akzeptabel aber nicht juristisch präzise |
-| Additional Paid-In Capital (APIC) | Kapitalrücklage § 272 Abs. 2 Nr. 1 HGB | wörtlich Zusätzliches eingezahltes Kapital — falsche Bilanzposition |
-| Premium over par | Agio Aufgeld | wird mit Aufpreis übersetzt — umgangssprachlich nicht falsch aber unpräzise |
-| Stated Capital | Gezeichnetes Kapital Stammkapital | manchmal mit Grundkapital verwechselt (das ist AG-Begriff § 6 AktG) |
-| Issued Shares | Ausgegebene Geschäftsanteile | bei der GmbH gibt es keine Shares im US-Sinne |
-| Outstanding Shares | Ausgegebene und nicht eingezogene Geschäftsanteile | dasselbe wie Issued Shares minus Treasury Shares (in DE selten relevant) |
-| Authorized Capital | Genehmigtes Kapital — bei der AG § 202 AktG, bei der GmbH seit MoMiG ausdrücklich § 55a GmbHG (für VC-Runden zunehmend genutzt; eigener Skill gesellschaftsgruender-genehmigtes-kapital im Repo) | gelegentlich mit Stammkapital verwechselt; früher verbreiteter Irrtum, GmbH kenne kein genehmigtes Kapital |
-| Pre-Money Valuation | Pre-Money-Bewertung Vor-Investitionsbewertung | unkritisch |
-| Post-Money Valuation | Post-Money-Bewertung | unkritisch |
-| Liquidation Preference 1x OPP | Einfache Liquidationspräferenz auf den Ausgabebetrag | wird oft als 1x Nennbetrag interpretiert — katastrophal für den Investor |
-| Anti-Dilution Adjustment | Anti-Dilution-Anpassung des Ausgabebetrags | wird oft als Anpassung der Nennbeträge missverstanden — § 5 Abs. 2 GmbHG verbietet das |
-| Conversion Price | Wandlungspreis | unkritisch |
-| Conversion Ratio | Wandlungsverhältnis | unkritisch |
-
-## Strukturierungsentscheidungen mit Kostenrelevanz
-
-### Wieviel Stammkapital wird ausgegeben?
-
-Die Versuchung des unerfahrenen Berators ist groß, das Stammkapital möglichst hoch anzusetzen — etwa weil der Investor mehr Stammkapital als ehrenhafter ansieht. Das ist ein Fehler:
-
-- Hohes Stammkapital = dauerhafte Kapitalbindung § 30 GmbHG.
-- Kapitalherabsetzung später nur über §§ 58 ff. GmbHG mit Sperrjahr Gläubigeraufruf und 6-Monats-Frist.
-- Geschäftsführerhaftung steigt mit der Stammkapitalhöhe wegen § 43 Abs. 3 GmbHG in Verbindung mit § 30 GmbHG.
-
-Praxismuster: Nennbetrag je Anteil bei EUR 1,00 belassen Stammkapital nur um Anzahl der neuen Anteile erhöhen — der Rest als Agio in die Kapitalrücklage.
-
-### Echtes oder unechtes Agio?
-
-| Anwendungsfall | Empfehlung |
-|---|---|
-| VC-Runde mit Lead Investor | Echtes Agio |
-| Bridge-Finanzierung durch Altgesellschafter | Echtes Agio einfacher zu erklären |
-| Convertible-Wandlung | Echtes Agio (Wandlungspreis als Ausgabebetrag) |
-| Quersubventionierung zwischen Gesellschaftern | Unechtes Agio (schuldrechtliche Nebenabrede) |
-| Holding-Strukturierung § 21 UmwStG | Echtes Sachagio zwingend für Buchwertfortführung |
-| Mitarbeiterbeteiligung (ESOP) | Hängt vom Modell ab — bei echter Anteilsausgabe echtes Agio bei virtueller Beteiligung kein Agio |
-
-### Fälligkeit des Agios
-
-Standardmuster: Fälligkeit bei Eintragung der Kapitalerhöhung in das Handelsregister. Damit greift Fall 1 — keine Aufnahme des Agios in den Satzungstext erforderlich Kapitalerhöhungsbeschluss und Übernahmeerklärung genügen.
-
-Abweichende Konstellationen bei denen Fall 2 (Aufnahme in Satzungstext) angezeigt ist:
-
-- Staged Closings (z.B. Tranche bei Closing Tranche bei Erreichen von Milestones).
-- Earn-out-ähnliche Strukturen mit nachgelagertem Agio.
-- Bridge-to-Series-A-Strukturen mit Wandlungsverzögerung.
-- Sachagio mit nachgelagerter Werthaltigkeitsprüfung.
-
-Bei Fall 2 unbedingt in den neuen § 3a oder § 4 der Satzung aufnehmen sonst Eintragungshindernis und doppelter Notartermin.
-
-## Schnittstellenmanagement im Deal
-
-### Notar
-
-- Notar verlangt deutsche Beurkundungssprache § 5 BeurkG. Term Sheet bleibt englisch Satzung wird zweisprachig oder deutsch.
-- Notar muss Agio in Kapitalerhöhungsbeschluss und Übernahmeerklärung sauber wiederfinden — sonst Beanstandung.
-- Bei Sachagio: Sachgründungsbericht analog § 5 Abs. 4 GmbHG mit Werthaltigkeitsbeleg.
-- Vor dem Notartermin: Liste der zu beurkundenden Dokumente mit dem Notariat abstimmen.
-
-### Steuerberater
-
-- Bestätigung dass Buchwertfortführung nach § 21 UmwStG möglich ist (qualifizierter Anteilstausch).
-- Bestätigung dass das Agio korrekt in das steuerliche Einlagekonto § 27 KStG fließt.
-- Bei Verlustvorträgen Prüfung des § 8c KStG (schädlicher Beteiligungserwerb bei mehr als 50 Prozent Übergang).
-- Bei US-Investoren mit LP-Struktur: Quellensteuerprüfung DBA-Anwendung.
-
-### Investor Counsel
-
-- US- oder UK-Kanzlei denkt in Delaware-Kategorien — Par Value 0,0001 USD APIC selbstverständlich.
-- Erklärungsbedarf für deutsche Spezialitäten: notarielle Beurkundung Vinkulierung § 15 Abs. 5 GmbHG keine echten Anteilsklassen Sonderrechte über Satzungsautonomie und § 35 BGB analog.
-- Investor Counsel will oft Liquidation Preference 1x non-participating preferred. Das ist sauber zu übersetzen als einfache Liquidationspräferenz auf den Ausgabebetrag mit Catch-up oder ohne.
-
-### CFO der Mandantin
-
-- Cashflow-Planung: wann fließt das Agio? Voll bei Closing oder gestaffelt?
-- Bilanzielle Behandlung: Erhöhung Kapitalrücklage § 272 Abs. 2 Nr. 1 HGB nicht Stammkapital.
-- Reporting an Bestandsgesellschafter: wie wird die Verwässerung kommuniziert?
-
-## Häufige Streitpunkte und ihre Lösung
-
-### Liquidation Preference auf Nennbetrag oder Ausgabebetrag
-
-Standard: **Ausgabebetrag** (Nennbetrag plus Agio). Eine Liquidation Preference 1x Nennbetrag wäre für den Investor wirtschaftlich katastrophal — bei einem 99 Prozent Agio bleiben dem Investor 1 Prozent seiner Investition als Vorrecht. Das ist kein Markt.
-
-### Anti-Dilution mit Folgewirkung auf Liquidation Preference
-
-Wenn der Anti-Dilution-Mechanismus den Conversion Price (deutsch: Wandlungspreis) anpasst muss die Liquidation Preference darauf reagieren. Häufig anzutreffen: Weighted Average broad-based oder narrow-based oder Full Ratchet. Bei der GmbH wird das technisch über Anpassung des wirtschaftlichen Bezugswertes umgesetzt nicht über Anpassung des Nennbetrags (§ 5 Abs. 2 GmbHG verbietet Nennbeträge unter EUR 1).
-
-### Pari-passu oder Senior bei mehreren Series
-
-In Series-B-Runden stellt sich die Frage ob die Series-B-Liquidation-Preference pari passu mit Series A oder senior dazu ist. Pari passu ist Markt für Bestandsinvestoren senior typisch für Lead-getriebene B-Runden. Die Satzung muss das eindeutig formulieren — andernfalls Auslegungsstreit.
-
-### Bezugsrechtsausschluss bei Down-Rounds
-
-Bei Down-Rounds (Pre-Money unter letztem Post-Money) ist ein Bezugsrechtsausschluss zugunsten des Lead Investors oft notwendig. Sachliche Rechtfertigung nach Kali+Salz-Grundsatz (BGHZ 71, 40) erforderlich. Das Agio in der Down-Round ist niedriger als in der Vorrunde oder Null — ein **negatives Agio ist rechtlich ausgeschlossen**, weil eine Ausgabe unter pari (Ausgabebetrag unter Nennbetrag) gegen § 9 Abs. 1 GmbHG / § 5 Abs. 2 GmbHG verstößt (Verbot der Unter-pari-Emission). Wirtschaftlich erreicht man die Verwässerung in einer Down-Round durch (i) sehr niedriges oder Null-Agio bei gleichem Nennbetrag, (ii) Ausgabe einer größeren Stückzahl neuer Geschäftsanteile zum reduzierten Preis je Anteil oder (iii) flankierende Instrumente (Wandeldarlehen, Anti-Dilution-Anpassung der bestehenden Series). Wer einem Mandanten ein negatives Agio vorschlägt, beschließt eine nichtige Kapitalerhöhung.
-
-## Anfängerfehler im Corporate-Kontext
-
-- Annahme Lead Investor will hohes Stammkapital. Falsch — Lead Investor will hohe Liquidation Preference und niedriges Stammkapital um spätere Rückgewähr zu erleichtern.
-- Annahme das Agio ist ein steuerlicher Trick. Falsch — Agio ist zivilrechtlich begründet steuerlich nur die Erfassung folgt automatisch.
-- Annahme jeder Kapitalerhöhungsbeschluss muss das Agio in der Satzung verankern. Falsch — Differenzierung nach Fälligkeit (Fall 1 nein Fall 2 ja).
-- Übersetzung der Liquidation Preference auf Nennbetrag. Falsch — Bezugsgröße Ausgabebetrag.
-- Versuch das Agio durch Sondervergünstigungen an einzelne Gesellschafter zu umgehen. Riskant — meist kapitalerhaltungswidrig (§ 30 GmbHG) und steuerlich als verdeckte Gewinnausschüttung qualifizierbar.
-
-## Aktuelle Rechtsprechung
-
-- BGH Urt. v. 15.10.2007 — II ZR 216/06 GmbHR 2008, 147 (Sachagio bei Gründung § 3 Abs. 2 GmbHG zwingend).
-- BGH Urt. v. 16.02.1981 — II ZR 168/79 BGHZ 80, 129 (Sachkapitalerhöhung Beschluss mit satzungsändernder Wirkung).
-- BGH Urt. v. 13.03.1978 — II ZR 142/76 BGHZ 71, 40 (Kali+Salz Bezugsrechtsausschluss).
-- BFH Urt. v. 27.05.2009 — I R 53/08 BFHE 226, 500 BStBl II 2010, 1004 (Aufgeld als Anschaffungskosten).
-- BFH Urt. v. 03.05.2023 — IX R 12/22 (Überpari-Emission kein § 42 AO-Missbrauch).
-- Rechtsprechung: keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht Entscheidungsform Datum Aktenzeichen und tragender Aussage verifizieren.
-
-## Verwaltungspraxis
-
-- UmwSt-Erlass v. 11.11.2011 BStBl. I 2011, 1314 Rn. 21.09 ff. (qualifizierter Anteilstausch und Sachagio).
-
-## Outputs
-
-- Term-Sheet-Markup mit Übersetzungstabelle Original Purchase Price etc.
-- Memo zur Strukturierung der Kapitalerhöhung mit Empfehlung Stammkapitalhöhe und Agio-Aufteilung.
-- Kapitalerhöhungsbeschluss-Entwurf für den Notar.
-- Übernahmeerklärung-Entwurf je neuem Gesellschafter.
-- Satzungsneufassung mit oder ohne Aufnahme des Agios je nach Fall 1 oder Fall 2.
-- Steuerliche Stellungnahme zur Erfassung im Einlagekonto und zur Buchwertfortführung.
-- Cap-Table-Update mit Pre-Money Post-Money und Verwässerungsrechnung.
-- Closing-Checkliste mit allen Conditions Precedent (siehe corporate-kanzlei-signing-closing-conditions).
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Abgrenzung
-
-- Gesellschaftsrechtliche Dogmatik des Agios siehe Skill agio-und-kapitalruecklage.
-- Bewertung des Sachagio-Gegenstands siehe Skill mittelstand-corporate-ma-transaktionsstruktur.
-- Steuerliche Vertiefung siehe Plugin steuerrecht-anwalt-und-berater.
-- Signing- und Closing-Mechanik siehe Skill corporate-kanzlei-signing-closing-conditions.
-
-## Senior-Review-Gate
-
-Kein Term-Sheet-Markup geht an den Investor Counsel bevor der Senior das Agio-Konzept abgezeichnet hat. Bei Holding-Strukturierung und qualifiziertem Anteilstausch ist ein gemeinsamer Termin mit Steuerberater Notar und Investor Counsel obligatorisch — die Schnittstellen zwischen Gesellschaftsrecht Steuerrecht Bilanzrecht und Notariat sind hier eng und fehleranfällig.
-
----
-
-## Skill: `schuldschein-darlehen`
-
-_Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Schuldschein Darlehen; Arbeitsfeld: Corporate-Kanzlei._
-
-# Corporate: Schuldscheindarlehen und Übertragung
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Wofür dieser Arbeitsgang da ist
-
-Schuldschein ist kein dekoratives Treasury-Label, sondern ein übertragbarer Finanzierungsbaustein mit Dokumenten-, Vertraulichkeits- und Sicherheitenlogik.
-
-## Rechts- und Praxisanker
-
-BGB §§ 398 ff., § 399, Darlehensrecht, Schuldscheinbedingungen Upload, Sicherheitenrecht, Datenschutz/Bankgeheimnis.
-
-## Workflow
-
-1. Hochgeladenes Finanzierungsdokument, Schuldschein, Transfer Notice, LMA Facility Agreement oder NPL-Portfolio zuerst identifizieren.
-2. Parteiperspektive, Deal-Ziel, Fristen, Consent-Erfordernisse, Sicherheiten und Datenschutzfragen klären.
-3. Übertragungsweg, Rechtswirkung, offene Dokumente und Risiken in einer Closing-/Verfahrensmatrix darstellen.
-4. Bei Insolvenz-/Krisenbezug Rang, Anfechtung, Planrechte, Enforcement und Geschäftsleiterpflichten gesondert prüfen.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
 
 ---
 

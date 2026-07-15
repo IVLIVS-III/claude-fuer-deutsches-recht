@@ -99,6 +99,11 @@ for (const entry of marketplace.plugins) {
   assert(fs.existsSync(readme), `${entry.name}: README.md fehlt`);
   if (fs.existsSync(readme)) {
     const text = readText(readme);
+    const visibleVersion = text.match(/\*\*Version:\*\*\s*`?(\d+\.\d+\.\d+)`?/);
+    assert(
+      !visibleVersion || visibleVersion[1] === marketplace.version,
+      `${rel(readme)}: sichtbare Version ${visibleVersion?.[1]} passt nicht zu ${marketplace.version}`,
+    );
     const begin = '<!-- BEGIN direkt-loslegen (autogen) -->';
     const end = '<!-- END direkt-loslegen (autogen) -->';
     assert(count(text, begin) === 1 && count(text, end) === 1, `${rel(readme)}: Direkt-loslegen-Block nicht eindeutig`);

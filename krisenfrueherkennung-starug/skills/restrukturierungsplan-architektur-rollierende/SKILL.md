@@ -1,218 +1,143 @@
 ---
 name: restrukturierungsplan-architektur-rollierende
-description: "Wenn es um Restrukturierungsplan — Architektur nach Paragrafen 7 ff. StaRUG in Krisenfrüherkennung und StaRUG-Management geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestaltender Teil, Auswahl, Gruppen, Gleichbehandlung, Anlagen, Abstimmung, Cram-Down und Bestätigung. Liefert Planstruktur, Gruppenmatrix, Vergleichsrechnung, Zeitachse und Qualitätsgate."
 ---
 
-# Restrukturierungsplan — Architektur nach §§ 7 ff. StaRUG
+# 1. Restrukturierungsplan-Architektur
 
-## Arbeitsbereich
+## 1.1. Arbeitsauftrag
 
-StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfordernisse), § 60 StaRUG (gerichtliche Planbestätigung). Prüfraster: Planbestandteile vollständig, Gruppenbildung nach Gläubiger-Rang, Mehrheitserfordernisse, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf-Geruest, Gruppen-Matrix, Zeitplan. Abgrenzung: Cram-Down siehe cross-class-cram-down-und-absolute-priority; Stabilisierungsanordnung siehe stabilisierungsanordnung-und-vollstreckungssperre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Beginne mit dem vorhandenen Plan, Datenraum und Finanzmodell. Liefere zuerst die Planlücken, die Gruppen- und Stimmrechtslage sowie den nächsten entscheidungsreifen Baustein; frage nicht erneut nach Unterlagen, die bereits im Ordner liegen.
 
-## Arbeitsweg
+## 1.2. Normenkarte
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Station | Norm | Kernfrage |
+| --- | --- | --- |
+| Gestaltbarkeit | Paragrafen 2 bis 4 StaRUG | Welche Forderungen, Sicherheiten, Drittsicherheiten und Beteiligungsrechte dürfen gestaltet werden? |
+| Planstruktur | Paragraf 5 StaRUG | Sind darstellender und gestaltender Teil sowie Anlagen vollständig? |
+| Darstellender Teil | Paragraf 6 StaRUG | Sind Krise, Maßnahmen, Auswirkungen und Vergleichsrechnung nachvollziehbar? |
+| Gestaltender Teil | Paragraf 7 StaRUG | Welche Rechtsänderung trifft welchen Planbetroffenen? |
+| Auswahl | Paragraf 8 StaRUG | Ist die Einbeziehung oder Nichteinbeziehung sachgerecht begründet? |
+| Gruppen | Paragraf 9 StaRUG | Sind unterschiedliche Rechtsstellungen getrennt und wirtschaftliche Untergruppen sachgerecht? |
+| Gleichbehandlung | Paragraf 10 StaRUG | Erhält jedes Mitglied einer Gruppe das gleiche Angebot oder liegt wirksame Zustimmung vor? |
+| Anlagen | Paragrafen 14 und 15 StaRUG | Liegen Bestandsfähigkeitsprognose, Vermögensübersicht, Finanzplan und Erklärungen vor? |
+| Planangebot | Paragrafen 17 bis 22 StaRUG | Sind Hinweise, Fristen, Erörterung und Dokumentation ordnungsgemäß? |
+| Stimmrecht und Mehrheit | Paragrafen 24 und 25 StaRUG | Sind Wertansatz und drei Viertel der Stimmrechte je Gruppe richtig berechnet? |
+| Gruppen-Cram-down | Paragrafen 26 bis 28 StaRUG | Sind Ohne-Plan-Test, Planwertbeteiligung, Rangfolge und Gruppenmehrheit erfüllt? |
+| Gerichtliche Instrumente | Paragrafen 29 bis 31 StaRUG | Welches Instrument wird benötigt und ist das Vorhaben vorher angezeigt? |
+| Bestätigung und Wirkung | Paragrafen 60 bis 67 StaRUG | Liegen Versagungsgründe, Minderheitenschutz oder Beschwerderisiken vor? |
 
-## Spezialwissen
+## 2. Planfähigkeit und Auswahl
 
-Der Restrukturierungsplan ist das Herzstück des StaRUG-Verfahrens. Er ist das Instrument, mit dem Gläubigerforderungen gestundet, herabgesetzt und umstrukturiert werden können — ohne Insolvenzverfahren, ohne Publizität, ohne öffentliche Schande. Die Voraussetzungen für einen wirksamen Plan sind anspruchsvoll. Wer den Plan schlecht strukturiert, scheitert spätestens an der Abstimmung oder der gerichtlichen Bestätigung. Ein handwerklich sauberer Plan erfordert die enge Verzahnung von betriebswirtschaftlichem Sanierungskonzept und juristischer Planarchitektur.
+### 2.1. Gestaltbare Rechte
 
----
+Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. Gestaltbar sind insbesondere Restrukturierungsforderungen, Absonderungsanwartschaften, bestimmte Bedingungen mehrseitiger Finanzierungsverhältnisse, Beteiligungsrechte und unter den Voraussetzungen des Gesetzes gruppeninterne Drittsicherheiten. Bei gegenseitigen Verträgen ist eine Forderung nur insoweit gestaltbar, als die Gegenleistung bereits erbracht ist.
 
-## Rechtsgrundlagen
+Nicht gestaltbar sind nach Paragraf 4 StaRUG insbesondere Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung, Forderungen aus vorsätzlich begangenen unerlaubten Handlungen und Forderungen nach Paragraf 39 Absatz 1 Nummer 3 InsO. Bei natürlichen Personen bleiben außerdem nichtunternehmerische Forderungen und Absonderungsanwartschaften außerhalb des Plans.
 
-- §§ 7-14 StaRUG (Inhalt des Restrukturierungsplans)
-- § 9 StaRUG (Gruppenbildung)
-- §§ 17-24 StaRUG (Planabstimmung)
-- § 25 StaRUG (Mehrheitserfordernisse)
-- § 26 StaRUG (gerichtliche Planbestätigung — Cross-Class-Cram-Down)
-- §§ 27-29 StaRUG (Bestätigungsvoraussetzungen)
-- § 30 StaRUG (Schlechterstellungsverbot)
-- § 31 StaRUG (Obstruktionsverbot)
-- IDW S 6 (Sanierungskonzept als Plangrundlage)
+Steuer- und Sozialversicherungsforderungen sind nicht pauschal allein wegen ihres öffentlich-rechtlichen Charakters ausgeschlossen. Prüfe ihre konkrete Gestaltbarkeit, die Auswahl nach Paragraf 8 StaRUG und die Vollzugsfolgen.
 
----
+### 2.2. Auswahl der Planbetroffenen
 
-## Pflichten
+Dokumentiere für jedes einbezogene und nicht einbezogene Rechtsverhältnis:
 
-### 1. Planbestandteile — §§ 7-14 StaRUG
+1. Rechtsgrund, Inhaber, Betrag, Fälligkeit und Sicherheit.
+2. Gestaltbarkeit nach Paragrafen 2 bis 4 StaRUG.
+3. Auswahlkriterium nach Paragraf 8 StaRUG.
+4. Sachlicher Bezug zur Krisenursache und zum Restrukturierungsziel.
+5. Auswirkung auf Gleichbehandlung, Finanzierung und Vergleichsrechnung.
 
-Der Restrukturierungsplan besteht aus zwei zwingenden Teilen:
+## 3. Planaufbau
 
-**Darstellender Teil (§ 7 StaRUG):**
-- Beschreibung der wirtschaftlichen Lage des Schuldners
-- Ursachen der Krise
-- Maßnahmen zur Restrukturierung
-- Auswirkungen auf die Beteiligten
-- Angaben zur Finanzierung des Plans
+### 3.1. Darstellender Teil nach Paragraf 6 StaRUG
 
-**Gestaltender Teil (§ 8 StaRUG):**
-- Konkrete Gestaltung der Rechte der Planbetroffenen (Stundung, Erlass, Umwandlung)
-- Gruppenbildung (§ 9 StaRUG)
-- Regelungen für jeden Beteiligten
+Der darstellende Teil muss die für Zustimmung und gerichtliche Bestätigung erheblichen Informationen enthalten:
 
-**Plananlagen (§ 14 StaRUG):**
-- Vergleichsrechnung (Besserstellung gegenüber Insolvenz)
-- Fortführungsprognose / integrierter Finanzplan (mind. 24 Monate)
-- Erklärungen nach § 14 Abs. 1 StaRUG
+1. Ausgangslage und Krisenursachen.
+2. Bereits ergriffene und noch erforderliche Maßnahmen.
+3. Restrukturierungsziel und Umsetzungslogik.
+4. Auswirkungen auf alle Planbetroffenen.
+5. Vergleichsrechnung nach Paragraf 6 Absatz 2 StaRUG.
+6. Maßnahmen außerhalb des gestaltenden Teils.
 
-### 2. Gruppenbildung — § 9 StaRUG
+Sieht der Plan die Fortführung vor, ist auch im Ohne-Plan-Szenario grundsätzlich Fortführung zu unterstellen. Eine Liquidation darf nur angesetzt werden, wenn Verkauf oder anderweitige Fortführung aussichtslos sind.
 
-Die Gruppenbildung ist das rechtliche Grundgerüst des Plans:
+### 3.2. Gestaltender Teil nach Paragraf 7 StaRUG
 
-**Pflichtgruppen:**
-- Gruppe der gesicherten Gläubiger (Absonderungsrechte)
-- Gruppe der nicht nachrangigen ungesicherten Gläubiger
-- Gruppe der Anteilsinhaber (Gesellschafter)
+Ordne jede Rechtsänderung einer Gruppe und einem konkreten Recht zu. Bestimme mindestens Kürzung, Stundung, Verzinsung, Sicherung, Bedingungen, Fälligkeit, Vollzugsdatum und Rückfallregel. Bei einem Debt-to-Equity-Swap darf ein Gläubiger nicht gegen seinen Willen zur Übernahme von Anteilen gezwungen werden.
 
-**Fakultative Gruppen** (nach Interessenlage sinnvoll):
-- Arbeitnehmer (wenn ihre Forderungen gestaltet werden)
-- Kleingläubiger (Vereinfachungsgruppe, Grenzwert frei wählbar)
-- Operationelle Gläubiger (strategisch wichtige Lieferanten)
-- Nachrangige Verbindlichkeiten
+### 3.3. Anlagen nach Paragrafen 14 und 15 StaRUG
 
-**Kriterien für Gruppenbildung (§ 9 Abs. 1 StaRUG):**
-- Gläubiger mit gleichartigem wirtschaftlichen Interesse in einer Gruppe
-- Keine willkürliche Zersplitterung zur Mehrheitsbeschaffung
-- Transparenz gegenüber Gericht
+Füge bei Bedarf bei:
 
-### 3. Mehrheitserfordernisse — § 25 StaRUG
+1. Begründete Erklärung zur Beseitigung der drohenden Zahlungsunfähigkeit und zur Bestandsfähigkeit.
+2. Vermögensübersicht bei Wirksamwerden des Plans.
+3. Aufwands-, Ertrags- und Zahlungsplanung für den vorgesehenen Befriedigungszeitraum.
+4. Erklärung persönlich haftender Gesellschafter zur Fortführung.
+5. Zustimmung eines Gläubigers zur Übernahme von Anteilen.
+6. Verpflichtungserklärung eines Dritten zu einem Planbeitrag.
+7. Zustimmung des sicherungsgebenden verbundenen Unternehmens bei Eingriffen in gruppeninterne Drittsicherheiten.
 
-In jeder Gruppe muss die Abstimmung eine **Dreiviertelmehrheit der Stimmrechte** erreichen:
+Der Planungszeitraum nach Paragraf 14 richtet sich nach dem Befriedigungszeitraum des Plans. Die regelmäßige 24-Monats-Prognose für drohende Zahlungsunfähigkeit folgt dagegen aus Paragraf 18 Absatz 2 InsO.
 
-```
-ABSTIMMUNGSQUORUM:
- Erforderlich: ≥ 75 % der Stimmrechte in jeder Gruppe
- Stimmrechte: i.d.R. nach Forderungshöhe
- Anwesende: Kein Quorum für Anwesenheit (anders als § 76 InsO)
+## 4. Gruppen und Mehrheiten
 
-MEHRHEIT NICHT ERREICHT:
- → Gruppe gilt als ablehnend
- → Cross-Class-Cram-Down prüfen (§ 26 StaRUG)
-```
+### 4.1. Gruppenbildung nach Paragraf 9 StaRUG
 
-### 4. Schlechterstellungsverbot — § 30 StaRUG
+Trenne zwingend nach Rechtsstellung: Absonderungsanwartschaften, einfache Restrukturierungsgläubiger, jede betroffene Nachrangklasse, Anteilsinhaber und gegebenenfalls Rechte aus gruppeninternen Drittsicherheiten. Weitere Untergruppen sind nur nach sachgerechten wirtschaftlichen Interessen zulässig. Kleingläubiger sind innerhalb der jeweiligen gesetzlichen Gruppe in einer eigenen Gruppe zusammenzufassen.
 
-Kein Planbetroffener darf durch den Plan schlechter gestellt werden als im nächstbesten Alternativszenario (i.d.R. Regelinsolvenzverfahren oder geordnete Liquidation):
+### 4.2. Gleichbehandlung nach Paragraf 10 StaRUG
 
-```
-VERGLEICHSRECHNUNG (Plananlagen):
- Spalte A: Stellung im Plan (Zahlungen, Quoten, Besicherungen)
- Spalte B: Stellung im hypothetischen Insolvenzverfahren
- Ergebnis: Plan darf Spalte B nicht unterschreiten
+Innerhalb jeder Gruppe sind gleiche Rechte anzubieten. Eine Belastungsabweichung verlangt die Zustimmung jedes benachteiligten Gruppenmitglieds. Nebenabreden über nicht im Plan vorgesehene Abstimmungsvorteile sind nichtig.
 
- Ausnahme: Einzelner Gläubiger stimmt freiwillig zu trotz Schlechterstellung
- (§ 26 Abs. 1 S. 2 StaRUG)
-```
+### 4.3. Stimmrechte und Mehrheiten
 
----
+Stimmrechte sind nach Paragraf 24 StaRUG zu bewerten. Bedingte, unbestimmte, fremdwährungsbezogene, wiederkehrende oder teilweise besicherte Rechte benötigen einen nachvollziehbaren Wertansatz. Nach Paragraf 25 StaRUG müssen auf die Zustimmenden mindestens drei Viertel der Stimmrechte der Gruppe entfallen.
 
-## Vorgehen
+Erreicht eine Gruppe diese Mehrheit nicht, prüfe Paragrafen 26 bis 28 StaRUG. Eine einzige zustimmende Gruppe genügt nur bei insgesamt zwei Gruppen; ansonsten ist die Mehrheit der abstimmenden Gruppen erforderlich. Zustimmende Gruppen dürfen nicht ausschließlich aus Anteilsinhabern oder nachrangigen Restrukturierungsgläubigern bestehen.
 
-### Schritt 1: Planungsphase
+## 5. Abstimmungs- und Gerichtsweg
 
-1. **Gläubigeranalyse:** Alle Planbetroffenen identifizieren, Forderungshöhen klären
-2. **Sanierungskonzept** nach IDW S 6 als Grundlage
-3. **Integrierter Finanzplan** (24 Monate) erstellen und validieren
-4. **Gruppenbildung** konzipieren — Interessengleichheit prüfen
-5. **Szenarien** durchrechnen: Wie viel Erlass/Stundung braucht der Plan?
+### 5.1. Außergerichtliches Planangebot
 
-### Schritt 2: Plangestaltung
+Das Planangebot nach Paragraf 17 StaRUG muss Plan, Anlagen, Kosteninformation, Einbeziehung, Gruppenzuordnung und Stimmrecht offenlegen. Die Annahmefrist beträgt nach Paragraf 19 StaRUG grundsätzlich mindestens 14 Tage. Der Schuldner dokumentiert Ablauf und Ergebnis nach Paragraf 22 StaRUG.
 
-**Typische Gestaltungselemente:**
+Ein nur von Zustimmenden angenommener Plan kann im vereinbarten Umfang vertraglich wirken. Die gesetzlichen Wirkungen gegenüber ablehnenden oder nicht teilnehmenden Planbetroffenen treten erst mit gerichtlicher Bestätigung nach Paragraf 67 StaRUG ein.
 
-| Instrument | Wirkung | Anwendungsfall |
-|---|---|---|
-| Stundung | Verschiebung von Fälligkeiten | Liquiditätsengpass kurzfristig |
-| Teilerlass | Reduktion der Forderungshöhe | Überschuldungssituation |
-| Zinssatz-Reduktion | Senkung des Schuldendienstes | Covenant-Problem |
-| Umwandlung in EK | Debt-to-Equity-Swap | Eigenkapitalstärkung |
-| Sicherheitentausch | Neue Sicherheiten gegen alte | Sicherheitenkonflikte |
-| Anteilsübertragung | Neuer Gesellschafter | Gesellschafterwechsel als Teil der Sanierung |
+### 5.2. Gerichtliche Planabstimmung
 
-### Schritt 3: Abstimmungsverfahren
+Paragraf 23 StaRUG eröffnet die gerichtliche Abstimmung nach Paragrafen 45 und 46 StaRUG. Vor der Inanspruchnahme eines gerichtlichen Instruments muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG angezeigt sein.
 
-Zwei Optionen:
+### 5.3. Gerichtliche Bestätigung
 
-**Option A — Außergerichtliche Abstimmung:**
-- Plan wird Planbetroffenen mit Annahmefrist übermittelt
-- Dreiviertelmehrheit je Gruppe erforderlich
-- Bei Einigkeit: Keine gerichtliche Bestätigung nötig (aber empfehlenswert)
+1. Antrag und Nachweise nach Paragraf 60 StaRUG.
+2. Anhörung nach Paragraf 61 StaRUG.
+3. Versagungsgründe nach Paragraf 63 StaRUG.
+4. Individueller Minderheitenschutz nach Paragraf 64 StaRUG.
+5. Sofortige Beschwerde nach Paragraf 66 StaRUG.
+6. Wirkungen der Bestätigung nach Paragraf 67 StaRUG.
 
-**Option B — Gerichtliches Abstimmungsverfahren (§§ 45 ff. StaRUG):**
-- Gericht setzt Abstimmungstermin an
-- Strukturiertes Verfahren mit Protokoll
-- Cross-Class-Cram-Down bei ablehnenden Gruppen möglich (§ 26 StaRUG)
+## 6. Arbeitsprodukte
 
-### Schritt 4: Gerichtliche Planbestätigung
+### 6.1. Gruppenmatrix
 
-Voraussetzungen für Bestätigung (§ 29 StaRUG):
+| Planbetroffener | Recht und Rang | Sicherheit | Auswahlgrund | Gruppe | Stimmrecht | Planleistung | Ohne-Plan-Wert |
+| --- | --- | --- | --- | --- | ---: | ---: | ---: |
+| [Name] | [Recht] | [Sicherheit] | [Paragraf 8] | [Gruppe] | [EUR] | [EUR] | [EUR] |
 
-- Dreiviertelmehrheit in jeder abstimmenden Gruppe (oder Cross-Class-Cram-Down)
-- Kein Verstoß gegen Schlechterstellungsverbot (§ 30 StaRUG)
-- Plan ist nicht offensichtlich ungeeignet zur nachhaltigen Restrukturierung
-- Keine Stimmrechtsmissbrauch oder sittenwidrige Gruppenbildung
+### 6.2. Qualitätsgate
 
----
+1. Sind alle ausgeschlossenen Rechte nach Paragraf 4 StaRUG aus dem Plan entfernt?
+2. Ist jede Auswahlentscheidung nach Paragraf 8 StaRUG begründet?
+3. Stimmen Gruppenmatrix, Gläubigerliste, Finanzmodell und gestaltender Teil betragsgenau überein?
+4. Bildet die Vergleichsrechnung die realistische beste Alternative ohne Plan ab?
+5. Sind Drittbeiträge rechtlich gesichert und als Anlage dokumentiert?
+6. Sind Stimmrechtsstreit, Widerspruch und Schlechterstellungsrüge protokolliert?
+7. Sind Versagungsgründe und Beschwerderisiken als Gegenposition geprüft?
 
-## Templates
+## 7. Rechtsprechungsanker
 
-### Muster: Planstruktur-Übersicht (Inhaltsverzeichnis)
+1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine materielle Bestätigung des Plans. Für Paragraf 66 Absatz 2 Nummer 3 StaRUG müssen wesentliche Schlechterstellung und Alternativszenario substantiiert werden.
+2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Tatsachen für ein ausnahmsweises Absehen von der Aufhebung nach Paragraf 33 Absatz 2 StaRUG; ungesicherte freiwillige Drittbeiträge reichen nicht als belastbare Planfinanzierung.
 
-```
-RESTRUKTURIERUNGSPLAN — [FIRMA GMBH]
-
-DARSTELLENDER TEIL
- § 1 Wirtschaftliche Lage und Krisenursachen
- § 2 Bisherige Sanierungsmaßnahmen
- § 3 Restrukturierungskonzept und Maßnahmen
- § 4 Auswirkungen auf Planbetroffene
- § 5 Finanzierung des Plans
-
-GESTALTENDER TEIL
- § 6 Planbetroffene Gläubiger und Gruppenbildung
- § 7 Gestaltung der Rechte Gruppe 1 — Gesicherte Gläubiger
- § 8 Gestaltung der Rechte Gruppe 2 — Ungesicherte Gläubiger
- § 9 Gestaltung der Rechte Gruppe 3 — Gesellschafter
- § 10 Planbedingungen und Inkrafttreten
-
-ANLAGEN
- Anlage 1: Vergleichsrechnung (Insolvenz vs. Plan)
- Anlage 2: Integrierter Finanzplan (24 Monate)
- Anlage 3: Fortführungsprognose
- Anlage 4: Gläubigerliste
- Anlage 5: Sanierungsgutachten [IDW S 6]
-```
-
----
-
-## Fallstricke
-
-1. **Willkürliche Gruppenbildung** — Gericht prüft, ob die Gruppen nach § 9 StaRUG wirtschaftlich homogen sind. Taktische Gruppenbildung zur Mehrheitsbeschaffung ist ein Versagungsgrund.
-
-2. **Vergleichsrechnung zu optimistisch** — unterschätzte Insolvenzquote erleichtert zwar das Schlechterstellungsverbot, ist aber angreifbar, wenn Gläubiger widersprechen.
-
-3. **Fehlende IDW S 6-Grundlage** — ohne valides Sanierungskonzept als Basis fehlt dem darstellenden Teil die Substanz. Das Gericht und widersprechende Gläubiger werden die Pläne kritisch prüfen.
-
-4. **Plan zu spät eingebracht** — bei eingetretener ZU ist das Verfahren nicht mehr zulässig. Plan muss bei drohender ZU gestellt werden.
-
-5. **Kleingläubiger vergessen** — faktische Kleingläubiger, die nicht in den Plan einbezogen wurden, können außerhalb des Plans weiterhin vollstrecken.
-
----
-
-## Paragrafenkette Plan-Architektur
-
-§ 7 StaRUG (Planinhalt allgemein) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 11 StaRUG (Anlagen) → §§ 14-19 StaRUG (Planbetroffene) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
-
-## Triage — Plan-Architektur Check
-
-1. **Darstellender Teil vollstaendig?** Ausgangslage, Krisenursachen, Sanierungskonzept, Maßnahmen, Vergleichsrechnung.
-2. **Gestaltender Teil praezise?** Forderungstabelle, Quoten, Stundungen, Sicherheiten klar bezeichnen.
-3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
-4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Weitere Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verwenden.

@@ -52,7 +52,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 |---|---|---|---|
 | BGH | IX ZR 229/22 | 23.01.2025 | Objektive Zahlungsunfähigkeit und objektive Rechtslage; vorläufig vollstreckbar titulierte und fällige Forderung ist im Liquiditätsstatus mit dem Nennwert anzusetzen, wenn die Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt; kein Abschlag nach Prozessrisiko |
 | BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss für außenstehende Dritte einzelpostenfähig und belegbar sein; pauschale Summen sind im Streit angreifbar |
-| BGH | II ZR 139/23 | 11.03.2025 | Für die Zahlungsfähigkeitsprüfung kommt es auf die materielle Rechtslage an; bestehende und fällige Verbindlichkeiten werden nicht wegen Bestreitens ausgeblendet |
+| BGH | II ZR 139/23 | 11.03.2025 | Nichtzulassungsbeschwerde-Beschluss: materieller Bestand der Verbindlichkeit ist maßgeblich; nicht als Grundsatzurteil überhöhen |
 | BGH | IX ZB 38/24 | 22.05.2025 | Stützt sich ein Insolvenzantrag allein auf einen titulierten Anspruch, kann die Belegwirkung entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
 | IDW S 11 | — | 2022 | IDW-Standard zur Beurteilung des Vorliegens von Insolvenzeröffnungsgründen; Methodik Liquiditätsstatus und Fortbestehensprognose |
 

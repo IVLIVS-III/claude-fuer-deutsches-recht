@@ -41,31 +41,31 @@ STADIUM 1: STAKEHOLDERKRISE
  Definition: Vertrauensverlust bei wesentlichen Stakeholdern
  (Gesellschafter, Banken, Schlüsselkunden, Lieferanten, Mitarbeiter)
  Zeitlicher Vorlauf vor Insolvenz: typisch 3-8 Jahre
- StaRUG-Relevanz: § 1 StaRUG grundsätzlich schon auslösbar
+ StaRUG-Relevanz: bestandsgefährdende Entwicklung nach Paragraf 1 StaRUG anhand konkreter Tatsachen prüfen
 
 STADIUM 2: STRATEGIEKRISE
  Definition: Erosion des strategischen Wettbewerbsvorteils
  (Marktposition, Technologievorsprung, Kundenloyalität)
  Zeitlicher Vorlauf: typisch 2-6 Jahre
- StaRUG-Relevanz: § 1 StaRUG-Pflicht klar ausgelöst, wenn existenzgefährdend
+ StaRUG-Relevanz: bei konkreter Bestandsgefährdung Überwachung, Gegenmaßnahmen und Organbericht nach Paragraf 1 StaRUG dokumentieren
 
 STADIUM 3: PRODUKT-/ABSATZKRISE
  Definition: Nachfragerückgang, Marktanteilsverlust, Preisverfall
  ohne korrigierende strategische Reaktion
  Zeitlicher Vorlauf: typisch 1-4 Jahre
- StaRUG-Relevanz: Erhöhte Eskalationspflicht, § 102 StaRUG für Berater
+ StaRUG-Relevanz: Krisensignal vertiefen; Paragraf 102 StaRUG nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen prüfen
 
 STADIUM 4: ERTRAGSKRISE
  Definition: Nachhaltig negatives EBIT/EBITDA, Verlustakkumulation,
  Eigenkapitalverzehr
  Zeitlicher Vorlauf: typisch 6-24 Monate
- StaRUG-Relevanz: Drohende ZU oft in Sichtweite, StaRUG-Zugang prüfen
+ StaRUG-Relevanz: drohende Zahlungsunfähigkeit nach Paragraf 18 InsO und Eignung einzelner StaRUG-Instrumente getrennt prüfen
 
 STADIUM 5: LIQUIDITÄTSKRISE
  Definition: Zahlungsunfähigkeit droht oder ist eingetreten;
  Kreditlinien erschöpft, Zulieferer auf Vorkasse
  Zeitlicher Vorlauf: Wochen bis Monate
- StaRUG-Relevanz: Letztes Fenster für StaRUG; danach InsO-Pflicht
+ StaRUG-Relevanz: Zahlungsstatus sofort feststellen; bei eingetretener Insolvenzreife Antragspflicht nach Paragraf 15a InsO ohne schuldhaftes Zögern prüfen
 ```
 
 ### 2. Die kritische Schwelle: Wann wird aus Krise ein Insolvenzgrund?

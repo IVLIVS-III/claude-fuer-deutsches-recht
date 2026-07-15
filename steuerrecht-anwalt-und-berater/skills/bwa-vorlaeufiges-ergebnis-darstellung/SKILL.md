@@ -101,7 +101,7 @@ Freigegeben: [Berufstraeger]
 ### Phase 6 — Krisen-Eskalation
 
 - Bei drohenden Verlusten oder negativem Eigenkapital: Eskalation an Berufstraeger.
-- Querverweis stb-bwa-sus-bilanz-pruefung und § 102 StaRUG-Prüfung.
+- Querverweis auf `stb-bwa-sus-bilanz-pruefung`; Paragraf 102 StaRUG nur bei Jahresabschlussauftrag und erfüllten weiteren Tatbestandsmerkmalen prüfen.
 
 ## Strategie und Praxis-Tipps
 

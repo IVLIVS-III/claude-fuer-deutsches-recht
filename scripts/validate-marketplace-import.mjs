@@ -170,6 +170,10 @@ for (const entry of marketplace.plugins || []) {
   } else {
     readmeCount += 1;
     const text = readText(readme);
+    const visibleVersion = text.match(/\*\*Version:\*\*\s*`?(\d+\.\d+\.\d+)`?/);
+    if (visibleVersion && visibleVersion[1] !== marketplace.version) {
+      errors.push(`${rel(readme)}: sichtbare Version ${visibleVersion[1]} passt nicht zu ${marketplace.version}`);
+    }
     const sourceRel = String(entry.source || `./${entry.name}`).replace(/^\.\//, '');
     const werkstattRaw = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${sourceRel}/${entry.name}-werkstatt.md`;
     const schnellstartRaw = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${sourceRel}/${entry.name}-schnellstart.md`;

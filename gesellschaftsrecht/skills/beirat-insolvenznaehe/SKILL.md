@@ -52,7 +52,7 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 | Geschäftsleiterpflichten | Antragspflicht, Zahlungsverbot und Dokumentationsschutz in die Agenda nehmen | Beirat darf Geschäftsleitung nicht in Fristversäumnis drängen |
 | Interessenkonflikt | Bank-, Investor- oder Gesellschaftervertreter offenlegen lassen | Sonderwissen nicht zum Nachteil der Gesellschaft nutzen |
 
-Leitanker: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025, BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018 und BGH II ZR 84/20 vom 13.07.2021.
+Leitanker: BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Zahlungsunfähigkeit und zu streitigen Forderungen; ergänzend BGH, Beschluss vom 11.03.2025 - II ZR 139/23 zum materiellen Bestand, ausdrücklich nur als Nichtzulassungsbeschwerde-Beschluss. BGH IX ZR 133/14 vom 05.03.2015 und BGH IX ZR 143/17 vom 06.12.2018 betreffen den qualifizierten Rangrücktritt, BGH II ZR 84/20 vom 13.07.2021 die Patronatserklärung.
 
 ## Arbeitsmodus
 

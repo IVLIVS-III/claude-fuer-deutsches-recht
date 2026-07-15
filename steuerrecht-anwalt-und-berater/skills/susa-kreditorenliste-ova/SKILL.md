@@ -38,7 +38,7 @@ Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. 
 
 **§ 266a StGB** — Vorenthaltung SV-Beitraege (Strafbarkeit GF).
 
-**§ 102 StaRUG** — Hinweispflicht.
+Paragraf 102 StaRUG: Überfällige Verbindlichkeiten können ein Indiz sein; die Norm greift aber nur bei Jahresabschlusserstellung, Offenkundigkeit und vermuteter Unkenntnis des Mandanten.
 
 ### Standards
 
@@ -102,7 +102,7 @@ SUMME [X]
 - Skonti sind oft die guenstigste Finanzierungsform — Verzinsung 36-72 Prozent p.a. Äquivalent.
 - Bei knapper Liquiditaet trotzdem Kernlieferanten zuerst (Lieferkette nicht abreissen lassen).
 - SV-Beitraege haben absolute Prioritaet — § 266a StGB-Risiko.
-- Bei über 90 Tage ueberfaelligen Lieferantenrechnungen: § 17 InsO-Indiz; Hinweispflicht § 102 StaRUG ausgeloest.
+- Bei länger überfälligen Lieferantenrechnungen Fälligkeit, ernsthaftes Einfordern und Liquiditätsdeckung prüfen. Das Alter allein löst Paragraf 102 StaRUG nicht aus; dessen vollständigen Tatbestand gesondert prüfen.
 - StBVV: OPOS-Auswertung in Buchfuehrungspauschale; Zahlungsdisposition optional Zusatzauftrag.
 - DATEV-Tipp: DATEV-Zahlungstrager mit Skonti-Faelligkeitspruefung.
 

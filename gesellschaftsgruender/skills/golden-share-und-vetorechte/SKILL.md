@@ -37,7 +37,7 @@ Klaere vor Gestaltung von Vetorechten:
 - **Paragraf 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung möglich
 - **Paragraf 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch für Vetorechts-Inhaber
 - **Paragraf 15a InsO** — Insolvenzantragspflicht des GF; wird durch Gesellschafter-Veto nicht beseitigt
-- **Paragraf 31 StaRUG** — Antrag auf Restrukturierungsverfahren; freiwillig; Veto-Klausel hier wirksam
+- **Paragraf 31 StaRUG** — Anzeige des Restrukturierungsvorhabens durch den Schuldner; ein internes Veto ändert weder die gesetzlichen Organpflichten noch die gerichtlichen Voraussetzungen
 - **Paragraf 133, 157 BGB** — Auslegung von Satzungs-Vetoklauseln bei Streit
 - **Paragraf 138 BGB** — Sittenwidrigkeit: Veto über alle Beschlüsse kann nichtig sein
 
@@ -53,7 +53,7 @@ Klaere vor Gestaltung von Vetorechten:
 | 2 | Umfang sachlich begrenzt? | Paragraf 138 BGB | Kein Pauschal-Veto; selektive Themen |
 | 3 | Stimmverbot bei Eigeninteresse beachtet? | Paragraf 47 IV GmbHG | Veto-Inhaber bei Eigen-Sache: kein Stimmrecht |
 | 4 | Insolvenzantragspflicht gecheckt? | Paragraf 15a InsO | GF muss bei Insolvenzreife stellen; Veto greift nicht |
-| 5 | StaRUG-Veto sinnvoll? | Paragraf 31 StaRUG | Freiwilliges Verfahren; Veto hier wirksam |
+| 5 | Interne Zustimmung für gerichtliche Instrumente sinnvoll? | Paragraf 31 StaRUG und Gesellschaftsvertrag | Innenrechtliche Kompetenz klären; Organpflichten und Außenwirkung bleiben unberührt |
 | 7 | SHA-Stimmverpflichtung ergaenzend? | Paragraf 242 BGB | Schuldrechtliche Sicherung bei Verstoss |
 
 ## Schritt-für-Schritt-Workflow
@@ -83,15 +83,15 @@ a) Aenderung der Satzung;
 b) Wesentliche Aenderung des Unternehmensgegenstands;
 c) Veraeusserung von mehr als 20 % des
  Bilanzvermoegens;
-d) Stellung eines Antrags auf Restrukturierungs-
- verfahren nach Paragraf 31 StaRUG;
+d) Anzeige eines Restrukturierungsvorhabens und
+ Inanspruchnahme gerichtlicher Instrumente nach dem StaRUG;
 e) Aufloesung der Gesellschaft;
 f) Aufnahme neuer Gesellschafter mit Sonderrechten.
 
 (2) Die Insolvenzantragspflicht der Geschaeftsfuehrung
 nach Paragraf 15a InsO bleibt von Abs. 1 lit. d) unberuehrt.
-Das Sondervetorecht entbindet die Geschaeftsfuehrung
-nicht von der gesetzlichen Antragspflicht.
+Das Sondervetorecht entbindet die Geschäftsführung weder
+von gesetzlichen Organpflichten noch von der Insolvenzantragspflicht.
 
 (3) Das Sondervetorecht ist personenbezogen und
 nicht uebertragbar. Es erlischt mit dem Tod oder

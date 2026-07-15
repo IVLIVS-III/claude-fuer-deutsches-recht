@@ -22,8 +22,8 @@ Impulsvorträge zu § 1 StaRUG und Krisenfrüherkennung sind mehr als akademisch
 ## Rechtsgrundlagen (Vortragsreferenzen)
 
 - § 1 StaRUG (Krisenfrüherkennungspflicht)
-- § 102 StaRUG (Warnpflicht der Berater)
-- §§ 7 ff. StaRUG (Restrukturierungsplan)
+- Paragraf 102 StaRUG (begrenzter Hinweis bei der Jahresabschlusserstellung)
+- Paragrafen 5 bis 28 StaRUG (Restrukturierungsplan und Abstimmung)
 - §§ 49-59 StaRUG (Stabilisierungsanordnung)
 - §§ 15a, 15b InsO (Insolvenzantragspflicht und Zahlungsverbot)
 - § 43 GmbHG, § 93 AktG (GF-Haftung)
@@ -53,8 +53,8 @@ FOLIE 1 — TITELFOLIE (0:00 — 0:30)
  [Name des Vortragenden, Datum, Veranstaltungsname]
 
 FOLIE 2 — KERNBOTSCHAFT (0:30 — 1:30)
- "§ 1 StaRUG verlangt den 24-Monats-Horizont.
- Wer die Datenlage nicht im Griff hat, verliert das Heft des Handelns."
+ "Paragraf 1 StaRUG verlangt fortlaufende Überwachung und Reaktion.
+ Die regelmäßige 24-Monats-Prognose folgt aus Paragraf 18 Absatz 2 InsO."
  [Visuell: Timeline — 24 Monate, 12 Monate, 3 Monate, Insolvenzantrag]
 
 FOLIE 3 — DAS PROBLEM (1:30 — 3:00)
@@ -83,10 +83,12 @@ FOLIE 6 — DIE HAFTUNG (7:00 — 9:30)
  Beweislastumkehr: GF muss beweisen, dass er richtig gehandelt hat
  Kernbotschaft: "Ohne Protokoll kein Beweis. Ohne Beweis: Haftung."
 
-FOLIE 7 — § 102 StaRUG — DIE BERATER-PFLICHT (9:30 — 11:00)
- Steuerberater, WP, RA: unaufgeforderter Warnhinweis bei Krisensignalen
- Dokumentationspflicht beider Seiten
- Talking Point: "Jede BWA, die der StB ausliest und schweigt — potenzielle Haftung."
+FOLIE 7 — PARAGRAF 102 StaRUG — DER BEGRENZTE HINWEIS (9:30 — 11:00)
+ Jahresabschlusserstellung, offenkundige Anhaltspunkte und vermutete
+ Unkenntnis des Mandanten als drei Kernvoraussetzungen
+ Talking Point: "Nicht jede BWA löst Paragraf 102 StaRUG aus. Beim
+ Jahresabschluss müssen offenkundige Insolvenzindizien aber konkret
+ angesprochen werden."
 
 FOLIE 8 — StaRUG-WERKZEUGKASTEN (11:00 — 13:00)
  Restrukturierungsplan §§ 7 ff.
@@ -130,8 +132,8 @@ FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
 ### Point 3 — Das StaRUG als Versicherungspolice
 "Das StaRUG ist keine Krisensanierungsmaschine für hoffnungslose Fälle. Es ist eine Versicherungspolice für das rechtzeitige Handeln. Wer früh genug einzahlt — mit valider Planung, mit Krisendiagnose, mit Beratereinbindung — der kann im Ernstfall auf moderne Instrumente zugreifen. Wer nicht einzahlt, steht im Regen."
 
-### Point 4 — § 102 StaRUG als Doppelschneid
-"§ 102 StaRUG schützt den Berater, der warnt. Und er schadet dem Berater, der schweigt. Es gibt keine sichere Mitte. Wer als Steuerberater monatlich die BWA liest und krisenrelevante Signale ignoriert, sitzt auf einer Zeitbombe."
+### Point 4 — Paragraf 102 StaRUG tatbestandsgebunden erklären
+"Paragraf 102 StaRUG ist keine allgemeine Dauerwarnpflicht aus jeder Monats-BWA. Die Norm greift bei der Jahresabschlusserstellung, wenn Insolvenzindizien offenkundig sind und der Mandant die mögliche Insolvenzreife vermutlich nicht erkennt. Daneben können vertragliche Pflichten bestehen; beide Ebenen müssen sauber getrennt werden."
 
 ### Point 5 — Die Kornhaas-Entscheidung als Warnung für Gesellschaftsform-Optimierer
 
@@ -143,16 +145,16 @@ FOLIE 11 — Q&A VORBEREITUNG (17:00 — 20:00)
 Antwort: "Konkret genug, um im Ernstfall vor dem Insolvenzgericht und dem Insolvenzverwalter zu bestehen. Das bedeutet: dokumentierte Planprämissen, wöchentliche Granularität für die ersten dreizehn Wochen, integrierter Cashflow — und vor allem: aktuell. Eine Planung, die sechs Monate alt ist, hilft im Krisenfall nicht."
 
 **Frage: "Wir haben einen Steuerberater — reicht das?"**
-Antwort: "Ihr Steuerberater ist nach § 102 StaRUG verpflichtet zu warnen, wenn er Krisensignale sieht. Aber er ist nicht der Krisenmanager. Die Krisenfrüherkennung bleibt Aufgabe der Geschäftsführung. Der Steuerberater liefert Daten — Sie müssen handeln. Delegation schützt nicht vor persönlicher Haftung."
+Antwort: "Die Krisenfrüherkennung bleibt Aufgabe der Geschäftsführung. Paragraf 102 StaRUG verpflichtet den Steuerberater nur unter den gesetzlichen Voraussetzungen bei der Jahresabschlusserstellung zum Hinweis. Aus anderen Mandaten können zusätzliche Vertragspflichten folgen; der Steuerberater ersetzt aber weder Organentscheidung noch Insolvenzreifeprüfung."
 
 **Frage: "Was kostet ein StaRUG-Verfahren?"**
 Antwort: "Das hängt von der Komplexität ab. Für eine typische mittelständische Restrukturierung mit zwei bis vier Gläubigergruppen sind sechsstellige Beraterkosten realistisch. Das klingt viel — aber verglichen mit den Alternativkosten eines Insolvenzverfahrens (Reputation, Betriebsunterbrechung, Anfechtungsrisiken) ist es oft erheblich günstiger."
 
 **Frage: "Können wir das StaRUG-Verfahren geheim halten?"**
-Antwort: "Teilweise ja. Das StaRUG ist grundsätzlich nichtöffentlich. Die Restrukturierungssache wird im Restrukturierungsregister eingetragen — das ist öffentlich. Aber kein Insolvenzbekanntmachungsportal, keine Pressemitteilung des Gerichts. Für viele Mittelständler ist das ein erheblicher Vorteil."
+Antwort: "Das Verfahren ist nicht mit einer allgemeinen Insolvenzbekanntmachung gleichzusetzen. Eine öffentliche Bekanntmachung nach Paragraf 84 StaRUG erfolgt nur auf Antrag des Schuldners. Ob andere Register-, Beteiligten- oder Veröffentlichungspflichten im konkreten Fall eingreifen, muss für das gewählte Instrument gesondert geprüft werden."
 
 **Frage: "Was passiert, wenn ich zu spät war und § 15a InsO gilt?"**
-Antwort: "Dann sind Sie in einer der gefährlichsten Situationen des deutschen Rechts. Drei Wochen Frist. Strafbarkeit bei Verspätung. Persönliche Haftung für alle Zahlungen nach Insolvenzreife. Mein dringender Rat: Sofort einen Spezialisten für Insolvenz- und Sanierungsrecht einschalten — und das Datum der Erkenntnis des Insolvenzgrundes sofort protokollieren."
+Antwort: "Dann ist unverzügliches Handeln erforderlich. Paragraf 15a InsO verlangt den Antrag ohne schuldhaftes Zögern und nennt Höchstzeiträume von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung. Zusätzlich sind Zahlungen an Paragraf 15b InsO zu prüfen. Insolvenzgrund, Eintrittsdatum, Maßnahmen und Entscheidungsgrundlagen müssen sofort fachkundig geklärt und dokumentiert werden."
 
 ---
 

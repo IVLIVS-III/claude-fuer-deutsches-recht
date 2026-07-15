@@ -46,7 +46,7 @@ Der formale Jahresabschluss (Bilanz + GuV + Anhang + ggf. Lagebericht) ist juris
 
 **§ 5b EStG** — E-Bilanz (Pflicht zur elektronischen Uebermittlung).
 
-**§ 102 StaRUG** — Hinweispflicht bei Krisensignalen, im Jahresgespraech zu praesentieren.
+Paragraf 102 StaRUG: Nur bei einem Auftrag zur Jahresabschlusserstellung den gesetzlichen Tatbestand aus Offenkundigkeit und vermuteter Unkenntnis prüfen; die BWA ist lediglich eine mögliche Belegquelle.
 
 ### Standards
 
@@ -127,7 +127,7 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 
 - Jahresgespraech mit Mandant: 1 Stunde mit Jahres-BWA-Praesentation.
 - Im Anschluss schriftliche Bestaetigung der besprochenen Punkte.
-- Bei Krisensignalen: § 102 StaRUG-Eskalation in den Bericht aufnehmen.
+- Bei Krisensignalen den Mandatsumfang prüfen. Nur bei erfülltem Tatbestand einen Hinweis nach Paragraf 102 StaRUG aufnehmen; sonst vertragliche Warnpflichten gesondert bezeichnen.
 
 ## Strategie und Praxis-Tipps
 

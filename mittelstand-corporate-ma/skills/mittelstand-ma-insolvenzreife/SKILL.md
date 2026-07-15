@@ -239,7 +239,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - § 15b InsO (Zahlungsverbot bei Insolvenzreife; rechtsformneutral seit 01.01.2021): https://www.gesetze-im-internet.de/inso/__15b.html
 - §§ 17, 18, 19 InsO (Zahlungsunfaehigkeit, drohende ZU, Ueberschuldung): https://www.gesetze-im-internet.de/inso/__17.html
 - StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz; in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
-- §§ 1-93 StaRUG (insbesondere § 29 StaRUG-Plan, § 49 StaRUG-Vollstreckungssperre): https://www.gesetze-im-internet.de/starug/__1.html
+- StaRUG, insbesondere Paragrafen 2 bis 28 für Restrukturierungsplan und Annahme, Paragraf 31 für die Anzeige sowie Paragrafen 49 bis 59 für Stabilisierung: https://www.gesetze-im-internet.de/starug/
 - § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
 - §§ 823, 826 BGB (Insolvenzverschleppungs-Haftung gegenueber Gläubigern als Schutzgesetz iVm § 15a InsO): https://www.gesetze-im-internet.de/bgb/__823.html
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -319,7 +319,7 @@ Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanal
 - **§ 19 InsO – Überschuldung**: Vermögen deckt Verbindlichkeiten nicht, **es sei denn** Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (positive Fortbestehensprognose). **Prognosehorizont 12 Monate** — die SanInsKG-Verkürzung auf 4 Monate galt nur bis 31.12.2023; seit 01.01.2024 wieder Regelfall 12 Monate. Eine erneute Verkürzung ist Stand Mai 2026 nicht in Kraft.
 - **§ 15a InsO – Insolvenzantragspflicht**: 3 Wochen ab Eintritt der Zahlungsunfähigkeit, 6 Wochen ab Eintritt der Überschuldung.
 - **§ 15b InsO – Zahlungsverbote nach Insolvenzreife**.
-- **§ 1 StaRUG – Krisenfrüherkennung**: Pflicht der Geschäftsleitung zur fortlaufenden Krisenüberwachung; Frühwarnsystem mit 24-Monats-Horizont.
+- **Paragraf 1 StaRUG – Krisenfrüherkennung**: fortlaufende Überwachung bestandsgefährdender Entwicklungen, geeignete Gegenmaßnahmen und Bericht an das Überwachungsorgan; kein eigener fester Prognosezeitraum.
 
 ### Leitentscheidungen (Stand Mai 2026, vor Verwendung über amtliche/freie Quelle live verifizieren)
 
@@ -405,7 +405,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle a
 2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, live rechnend, localStorage-Speicher, JSON-Export/-Import.
 3. **Markdown-Artefakt** (auf Wunsch): `assets/markdown/liquiditaets-artefakt-vorlage.md` als Vorlage; bei jeder Folgemeldung neu geschrieben.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
-5. **Hinweispflicht § 102 StaRUG** wenn nicht-Geschäftsleiter beauftragt (z. B. Steuerberatermandat) — Textbaustein anbieten.
+5. Hinweis nach Paragraf 102 StaRUG nur prüfen, wenn ein genannter Berufsträger mit der Jahresabschlusserstellung beauftragt ist, offenkundige Anhaltspunkte vorliegen und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist. Die Liquiditätsvorschau ist Beleg, aber kein eigener Auslöser.
 
 ## Beispiel
 
@@ -415,7 +415,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle a
 
 Die Prüfung stützt sich auf die BGH-Linie zur Liquiditätslücke, zum Drei-Wochen-Zeitraum und zu Passiva II; konkrete Zitate werden erst nach Livecheck ausgegeben.
 
-*Handlungsempfehlung*: Antragspflicht 3 Wochen ab Eintritt § 17 InsO (KW 22) bzw. 6 Wochen ab § 19 InsO. Parallel Prüfung StaRUG-Restrukturierungsrahmen nur möglich bei rein **drohender** Zahlungsunfähigkeit – nicht mehr eröffnet, wenn § 17 InsO bereits eingetreten ist. Hinweis nach § 102 StaRUG durch beauftragten Steuerberater zu erteilen.
+Handlungsempfehlung: Ein Antrag nach Paragraf 15a InsO ist ohne schuldhaftes Zögern zu stellen; drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung sind nur Höchstzeiträume. Gerichtliche StaRUG-Instrumente setzen Restrukturierungsfähigkeit voraus. Einen Hinweis nach Paragraf 102 StaRUG nur bei Jahresabschlussauftrag und erfüllten weiteren Voraussetzungen ausgeben.
 
 ## Risiken und typische Fehler
 
@@ -583,7 +583,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 
 - Excel-Datei aus der Vorlage befüllen (zwingend).
 - HTML-Padlet oder Markdown-Artefakt nur, wenn so gewählt.
-- Bei Quote ≥ 10 % und fehlender Schließbarkeit: Übergabe an `antragspflicht-15a-inso`; bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren.
+- Bei einer erheblichen, nicht kurzfristig schließbaren Lücke an `antragspflicht-15a-inso` übergeben. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag, offenkundigen Anhaltspunkten und vermuteter Unkenntnis des Mandanten anwenden; andere Mandatspflichten getrennt prüfen.
 - Wenn die Vorschau für Bank, StaRUG, Schutzschirm, Eigenverwaltung oder Insolvenzplan genutzt werden soll: ausdrücklich festhalten, dass die Liquiditätsbilanz nur die Cash-Seite liefert. Danach an `idw-s6-integrierte-sanierungsplanung` übergeben, um GuV, Planbilanz, Maßnahmenwirkung, Leitbild und nachhaltige Sanierungsfähigkeit zu prüfen.
 - Memo nur auf Anfrage.
 
@@ -596,7 +596,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 ### Leitentscheidungen (Stand Juni 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
 
 1. **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert; keine anteilige Bewertung nach Prozessrisiko. Randnummer 27: Irrtum nur bei seit langem ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-2. **BGH II ZR 139/23 vom 11.03.2025** — Verbindlichkeit zählt nach materiellem Bestand; Zahlungsunfähigkeit ist objektiv zu bestimmen.
+2. **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil verwenden.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
 5. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft nach Paragraf 142 Absatz 1 Halbsatz 2 InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23
@@ -776,12 +776,12 @@ Bei Rot: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` un
 - **§ 18 InsO** drohende Zahlungsunfähigkeit (24-Monats-Prognose, Hinweisfunktion).
 - **Paragraf 15a InsO** Antragspflicht ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
 - **§ 1 StaRUG** Krisenfrüherkennungspflicht der Geschäftsleitung.
-- **§ 102 StaRUG** Hinweispflicht beratender Berufe.
+- Paragraf 102 StaRUG: begrenzter Hinweis der genannten Berufsträger bei der Jahresabschlusserstellung, wenn Anhaltspunkte offenkundig sind und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist.
 
 ### Leitentscheidungen (Volltexte im Plugin: `references/rechtsprechung/`)
 
-1. **BGH II ZR 139/23 vom 11.03.2025** — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; auf den materiellen Bestand der Verbindlichkeit kommt es an. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf`; online über die BGH-Rechtsprechungsdatenbank (Aktenzeichensuche II ZR 139/23) verifizieren.
-2. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Objektive Zahlungsunfähigkeit; objektive Rechtslage bei nicht titulierten streitigen Verbindlichkeiten; titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
+1. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Objektive Zahlungsunfähigkeit; objektive Rechtslage bei nicht titulierten streitigen Verbindlichkeiten; titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
+2. **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — Der Nichtzulassungsbeschwerde-Beschluss verweist auf den materiellen Bestand als Maßstab; er ist kein eigenständiges Grundsatzurteil. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf`.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — Beweiswirkung eines vollstreckbaren Endurteils für einen Gläubigerantrag entfällt, wenn der Schuldner die Einstellung der Zwangsvollstreckung erreicht und die Voraussetzungen erfüllt.
 4. **BGH IX ZR 129/22 vom 18.04.2024** (ZIP 2024 S. 1407) — Liquiditätsstatus gegenüber außenstehenden Dritten einzelpostenfähig darlegen; ohne Einzelheiten und Belege kann einfaches Bestreiten genügen. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_129-22_vom_2024-04-18.pdf`.
 5. **BGH II ZR 112/21 vom 28.06.2022** (ZIP 2022 S. 1606; NZI 2022 S. 787; GmbHR 2022 S. 1036) — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus (Bugwellenrechtsprechung); Liquiditätsbilanz nicht zwingend. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf`.
@@ -816,7 +816,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Liquiditätslücke absolut = 46.700 €. Quote = 46,2 %.
 - Liquidität Wochenende KW 23: Start 30.500 € − Σ CF (− 61.500 + 14.400 − 21.500 + 9.500 − 17.600) = −46.200 €.
 
-**Handlung**: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Bei einschlägigem Beratermandat Hinweis nach Paragraf 102 StaRUG dokumentieren. Antragspflicht ohne schuldhaftes Zögern ab objektivem Eintritt; Dreiwochenfrist nur als Höchstfrist bei Zahlungsunfähigkeit.
+Handlung: Übergabe an `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso`. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag, offenkundigen Anhaltspunkten und vermuteter Unkenntnis des Mandanten anwenden. Antragspflicht ohne schuldhaftes Zögern ab objektivem Eintritt; Dreiwochenfrist nur als Höchstfrist bei Zahlungsunfähigkeit.
 
 ## Typische Fehler
 

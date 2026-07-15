@@ -30,7 +30,7 @@ In der Krise entscheidet oft nicht das Handeln über die Haftung, sondern der Be
 - § 1 StaRUG (Früherkennungspflicht — Nachweis der Erfüllung)
 - § 15a InsO (Insolvenzantragspflicht — Nachweis der Kenntnis und des Handelns)
 - § 15b InsO (Zahlungsverbot — Nachweis erlaubter Zahlungen)
-- § 102 StaRUG (Dokumentation der Warnung)
+- Paragraf 102 StaRUG (Inhalt eines möglichen Hinweises bei Jahresabschlusserstellung; Dokumentation dient der Beweissicherung)
 - IDW PS 340 n.F. (Systemdokumentation als Anforderung)
 
 ---
@@ -61,17 +61,17 @@ In der Krise entscheidet oft nicht das Handeln über die Haftung, sondern der Be
 
 ### 2. Formale Anforderungen
 
-**Schriftform vs. Textform:**
-- GmbH-Gesellschafterbeschlüsse: § 48 GmbHG lässt Textform (E-Mail) zu, Notarform nur bei Satzungsänderung
-- GF-Sitzungsbeschlüsse: Textform ausreichend, aber physische Unterschriften empfohlen
-- Vertragsänderungen mit Banken: Schriftform erforderlich (§ 126 BGB) oder notarielle Form
-- Insolvenzantrag: Schriftform, notarielle Beglaubigung der Unterschrift empfohlen
+**Formprüfung statt Pauschalregel:**
+- GmbH-Gesellschafterbeschlüsse werden grundsätzlich in Versammlungen gefasst. Telefon- oder Videoversammlung sowie Beschlüsse ohne Versammlung setzen die Einverständnisse nach Paragraf 48 GmbHG voraus; Satzung und besondere Beurkundungspflichten bleiben gesondert zu prüfen.
+- Für Geschäftsführungsbeschlüsse zuerst Satzung, Geschäftsordnung, Kompetenzordnung und den konkreten Gegenstand prüfen. Es gibt keine allgemeine Empfehlung, die eine erforderliche Form ersetzt.
+- Änderungen von Bankverträgen folgen der gesetzlichen oder vertraglich vereinbarten Form des konkreten Geschäfts; Paragraf 126 BGB begründet nicht selbst für jede Änderung Schriftform.
+- Für Insolvenzanträge gelten Insolvenzordnung, Verfahrensrecht, gerichtliche Formulare und Übermittlungsweg. Eine notarielle Beglaubigung ist keine allgemeine Standardvoraussetzung.
 
-**Aufbewahrungspflichten:**
-- Handelsbücher und Buchungsbelege: 10 Jahre (§ 257 HGB)
-- Handels- und Geschäftsbriefe: 6 Jahre (§ 257 HGB)
-- GF-Protokolle und Beschlüsse: 10 Jahre (analog)
-- § 102 StaRUG-Korrespondenz: mind. 10 Jahre (Verjährungsrisiko)
+**Aufbewahrungsmatrix:**
+- Unterlagen nach Paragraf 257 Absatz 1 Nummer 1 HGB: zehn Jahre.
+- Buchungsbelege nach Paragraf 257 Absatz 1 Nummer 4 HGB: grundsätzlich acht Jahre; Sonderregeln für bestimmte beaufsichtigte Unternehmen gesondert prüfen.
+- Empfangene und abgesandte Handelsbriefe: sechs Jahre.
+- Organprotokolle, Beschlüsse und Beraterkorrespondenz nach ihrem Inhalt einordnen. Keine pauschale Analogfrist behaupten; gesetzliche Frist, Verjährungsrisiko, Berufsrecht, laufende Verfahren und Beweissicherungsbedarf in einem Löschstopp- und Aufbewahrungsvermerk dokumentieren.
 
 ### 3. Beweissicherung im Haftungsfall
 

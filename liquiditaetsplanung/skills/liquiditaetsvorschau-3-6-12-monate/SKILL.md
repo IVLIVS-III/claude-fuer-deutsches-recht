@@ -76,7 +76,7 @@ Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanal
 - **§ 19 InsO – Überschuldung**: Vermögen deckt Verbindlichkeiten nicht, **es sei denn** Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (positive Fortbestehensprognose). **Prognosehorizont 12 Monate** — die SanInsKG-Verkürzung auf 4 Monate galt nur bis 31.12.2023; seit 01.01.2024 wieder Regelfall 12 Monate. Eine erneute Verkürzung ist Stand Mai 2026 nicht in Kraft.
 - **§ 15a InsO – Insolvenzantragspflicht**: 3 Wochen ab Eintritt der Zahlungsunfähigkeit, 6 Wochen ab Eintritt der Überschuldung.
 - **§ 15b InsO – Zahlungsverbote nach Insolvenzreife**.
-- **§ 1 StaRUG – Krisenfrüherkennung**: Pflicht der Geschäftsleitung zur fortlaufenden Krisenüberwachung; Frühwarnsystem mit 24-Monats-Horizont.
+- **Paragraf 1 StaRUG – Krisenfrüherkennung**: fortlaufende Überwachung bestandsgefährdender Entwicklungen, geeignete Gegenmaßnahmen und Bericht an das Überwachungsorgan; kein eigener fester Prognosezeitraum.
 
 ### Leitentscheidungen (Stand Mai 2026, vor Verwendung über amtliche/freie Quelle live verifizieren)
 
@@ -162,7 +162,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle a
 2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, live rechnend, localStorage-Speicher, JSON-Export/-Import.
 3. **Markdown-Artefakt** (auf Wunsch): `assets/markdown/liquiditaets-artefakt-vorlage.md` als Vorlage; bei jeder Folgemeldung neu geschrieben.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
-5. **Hinweispflicht § 102 StaRUG** wenn nicht-Geschäftsleiter beauftragt (z. B. Steuerberatermandat) — Textbaustein anbieten.
+5. Hinweis nach Paragraf 102 StaRUG nur prüfen, wenn ein genannter Berufsträger mit der Jahresabschlusserstellung beauftragt ist, offenkundige Anhaltspunkte vorliegen und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist. Die Liquiditätsvorschau ist Beleg, aber kein eigener Auslöser.
 
 ## Beispiel
 
@@ -172,7 +172,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle a
 
 Die Prüfung stützt sich auf die BGH-Linie zur Liquiditätslücke, zum Drei-Wochen-Zeitraum und zu Passiva II; konkrete Zitate werden erst nach Livecheck ausgegeben.
 
-*Handlungsempfehlung*: Antragspflicht 3 Wochen ab Eintritt § 17 InsO (KW 22) bzw. 6 Wochen ab § 19 InsO. Parallel Prüfung StaRUG-Restrukturierungsrahmen nur möglich bei rein **drohender** Zahlungsunfähigkeit – nicht mehr eröffnet, wenn § 17 InsO bereits eingetreten ist. Hinweis nach § 102 StaRUG durch beauftragten Steuerberater zu erteilen.
+Handlungsempfehlung: Ein Antrag nach Paragraf 15a InsO ist ohne schuldhaftes Zögern zu stellen; drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung sind nur Höchstzeiträume. Gerichtliche StaRUG-Instrumente setzen Restrukturierungsfähigkeit voraus. Einen Hinweis nach Paragraf 102 StaRUG nur bei Jahresabschlussauftrag und erfüllten weiteren Voraussetzungen ausgeben.
 
 ## Risiken und typische Fehler
 

@@ -32,8 +32,8 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **StBerG** § 3 (Befugnis), § 57 (Verschwiegenheit), § 64 (Vergütung)
 - **AO** §§ 149 ff. (Erklärungspflichten), § 153 (Berichtigungspflicht), § 371 (Selbstanzeige)
 - **HGB** §§ 238 ff. (Buchführungspflicht), §§ 264 ff. (Jahresabschluss)
-- **InsO** §§ 17 19 (Insolvenzgründe), § 15a (Antragspflicht)
-- **StaRUG** § 102 (Hinweispflichten bei drohender Insolvenz)
+- **InsO** Paragrafen 17 bis 19 (Insolvenzgründe), Paragraf 15a (Antragspflicht)
+- **StaRUG** Paragraf 102 (begrenzter Hinweis bestimmter Berufsträger bei Jahresabschlusserstellung)
 
 ### Quellenregel
 
@@ -50,7 +50,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 Prüft die Konnektoren-Verfügbarkeit (DATEV-Schnittstelle, Dokumentenspeicher, Mandanten-Portal, E-Mail). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
 
-Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war. Konfigurierte-aber-ungetestete Konnektoren als `⚪` markieren.
+Beim Prüfen nur „verfügbar“ melden, wenn ein Werkzeugaufruf tatsächlich erfolgreich war. Konfigurierte, aber ungetestete Verbindungen als „nicht verifiziert“ markieren.
 
 ---
 
@@ -78,7 +78,7 @@ Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreic
 
 ### 4. Liquiditätsplanung
 
-- **Standard-Horizonte:** 3 / 6 / 12 Monate (Standard für Mandantenberatung) / 13-Wochen-Planung (Krise) / 21-Tage-Planung (drohende Zahlungsunfähigkeit, § 17 InsO)
+- **Standard-Horizonte:** drei, sechs oder zwölf Monate für die Beratung; 13 Wochen für die operative Krisensteuerung; Drei-Wochen-Status für die Prüfung eingetretener Zahlungsunfähigkeit nach Paragraf 17 InsO; in aller Regel 24 Monate für drohende Zahlungsunfähigkeit nach Paragraf 18 Absatz 2 InsO
 - **Schwellenwert für Warnungen:** Liquiditätsgrad I, II, III nach Bilanz-Kennzahlen
 - **Eskalation an Insolvenzberater / Sanierungsberater:** ab wann (z. B. < 7 Tage Liquidität)?
 
@@ -86,10 +86,11 @@ Beim Prüfen: nur `✓` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreic
 
 - **Hauptverpflichtungen:**
  - Umsatzsteuer-Voranmeldung (§ 18 UStG): monatlich / quartalsweise
- - Jahresabschluss (§ 264 HGB, § 325 HGB): 12 Monate nach GJ-Ende für mittelgroße/große, 6 Monate für kleine GmbH
+ - Aufstellung des Jahresabschlusses nach Paragraf 264 Absatz 1 HGB grundsätzlich in den ersten drei Monaten; kleine Kapitalgesellschaften dürfen bei ordnungsgemäßem Geschäftsgang bis zu sechs Monate nutzen
+ - Offenlegung nach Paragraf 325 HGB grundsätzlich spätestens ein Jahr nach dem Abschlussstichtag; Sonderfristen gesondert prüfen
  - Lohnsteueranmeldung
  - E-Bilanz nach § 5b EStG
-- **Hinweispflichten gegenüber Mandanten** (§ 102 StaRUG): bei drohender Insolvenz
+- **Hinweis nach Paragraf 102 StaRUG:** nur bei Jahresabschlusserstellung, offenkundigen Anhaltspunkten für einen möglichen Insolvenzgrund und vermuteter Unkenntnis des Mandanten
 
 ### 6. Beratungstiefe
 
@@ -122,11 +123,11 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/s
 - **UStG** — § 18 (Voranmeldung, Jahreserklärung)
 - **EStG** — § 5b (E-Bilanz)
 - **HGB** — §§ 238 ff. (Buchführungspflicht), §§ 264 ff. (Jahresabschluss), § 325 (Offenlegung)
-- **InsO** — §§ 17, 18, 19, 15a (für Hinweispflicht bei Mandantenkrise)
-- **StaRUG** — § 102 (Hinweispflichten der Geschäftsleiter)
+- **InsO** — Paragrafen 17 bis 19 und 15a für Insolvenzgründe und Antragspflicht
+- **StaRUG** — Paragraf 102 für den tatbestandsgebundenen Hinweis der dort genannten Berufsträger bei Jahresabschlusserstellung; die Pflicht der Geschäftsleitung steht in Paragraf 1 StaRUG
 
 ## Hinweise
 
-Dieses Plugin ist kein Ersatz für die individuelle Mandantenberatung durch einen Steuerberater. Es liefert Werkzeuge und Vorlagen zur Strukturierung der Arbeit. Zitate aus Trainingsdaten sind vor Verwendung gegen Primärquellen zu prüfen.
+Dieses Plugin ist kein Ersatz für die individuelle Mandantenberatung durch einen Steuerberater. Es liefert Werkzeuge und Vorlagen zur Strukturierung der Arbeit. Tragende Zitate und Rechtsstände sind vor Verwendung anhand amtlicher oder frei zugänglicher Primärquellen zu prüfen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

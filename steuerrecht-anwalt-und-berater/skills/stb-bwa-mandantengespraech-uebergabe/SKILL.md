@@ -28,7 +28,7 @@ Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem M
 
 **§ 57 Abs. 1 StBerG** — Gewissenhaftigkeit; auch in der Beratung.
 
-**§ 102 StaRUG** — Hinweispflicht bei Krisensignalen; im Gespraech persoenlich auszusprechen.
+Paragraf 102 StaRUG: Persönlicher Hinweis nur bei Jahresabschlussauftrag und erfüllten Tatbestandsmerkmalen; andere Krisenwarnungen aus dem Mandat gesondert begründen.
 
 **§ 31 StBerG** — Selbstaendigkeit; eigenverantwortliche Beurteilung.
 
@@ -71,13 +71,13 @@ Teilnehmer: [GF Mandant, StB, ggf. Sachbearbeiter]
 
 - Top-down: zuerst Gesamtergebnis, dann Einzelpositionen.
 - Mandant aktiv einbinden: "Sehen Sie das auch so?", "Welche Ursachen vermuten Sie?".
-- Bei Krisensignalen direkt ansprechen: "Ich muss Sie auf folgendes ausdruecklich hinweisen ..." (§ 102 StaRUG).
+- Krisensignale konkret ansprechen. Den Hinweis nur bei erfülltem Tatbestand auf Paragraf 102 StaRUG stützen; andernfalls den vertraglichen Anlass benennen.
 - Empfehlungen klar formulieren, mit Verantwortlichkeit und Zeitleiste.
 - Keine Rechtsberatung — bei rechtlichen Fragen Verweis auf Anwalt.
 
 ### Phase 4 — Krisengespraech (Sonderfall)
 
-- Bei Hinweispflicht-Auslosung (§ 102 StaRUG): Persoenliches Gespraech mit GF.
+- Bei erfülltem Tatbestand des Paragrafen 102 StaRUG: Geschäftsleitung konkret warnen, Zugang und Gespräch dokumentieren.
 - Klare Aussage zu Krisenursachen: Eigenkapital, Liquiditaet, SV-Rueckstaende.
 - Empfehlung zur Anwaltskonsultation (Insolvenzrecht, Sanierungsrecht).
 - Mandant moeglichen Wegfall der Mandatsbasis (§ 627 BGB) signalisieren.
@@ -117,7 +117,7 @@ ANSCHLUSS-TERMIN: [Datum]
 
 - Gespraechsnotiz mit Massnahmenliste.
 - Wiedervorlage-Eintrag fuer Folgetermin.
-- Ggf. Warnschreiben § 102 StaRUG.
+- Gegebenenfalls ein tatbestandsgebundenes Warnschreiben nach Paragraf 102 StaRUG oder einen gesondert begründeten vertraglichen Warnhinweis erstellen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

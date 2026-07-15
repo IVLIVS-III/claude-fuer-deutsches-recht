@@ -1,51 +1,50 @@
-# Insolvenzreife-Checkliste für BWA-/SuSa-/Bilanz-Review
+# 1. Prüfcheckliste für BWA, SuSa und Bilanz
 
-> Dokumentationsfeste Indikatorenliste zur Anwendung neben dem Skill `stb-bwa-sus-bilanz-pruefung`.
-> Stand: 2026. Bei Gesetzesaenderungen (insb. SanInsKG-Verlaengerungen, StaRUG-Novellen) den aktuellen Rechtsstand pruefen.
+## 1.1 Mandat und Stichtag
 
-## A. Quantitative Indikatoren – Bilanz/SuSa
+| Prüfung | Feststellung | Beleg | Offen |
+| --- | --- | --- | --- |
+| Mandatsumfang | [Jahresabschlusserstellung, Buchführung oder anderer Auftrag] | [Auftrag] | [Frage] |
+| Prüf- und Erkenntnisstichtag | [Datum] | [Unterlage] | [Frage] |
+| verantwortlicher Geschäftsleiter | [Name] | [Register oder Organunterlage] | [Frage] |
+| bisherige Krisenkenntnis | [bekannt, unbekannt oder offen] | [Protokoll oder Korrespondenz] | [Frage] |
 
-| Indikator | Schwellenwert/Norm | Quelle |
-|---|---|---|
-| Eigenkapital negativ | EK < 0 → Verdacht § 19 InsO; Überschuldungsstatus erstellen | § 19 Abs. 2 InsO |
-| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
-| Liquidität 1. Grades | < 50 % → starke Krisenindikation | K. Schmidt/Herchen, § 17 InsO Rn. 12 |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Verhältnis kurzfr. Verb. zu Umsatz | > 50 % | IDW S 11 Rn. 35 |
-| Rückgang Working Capital | YoY > 30 % | IDW S 11 Rn. 36 |
+## 1.2 Zahlungsstatus nach Paragraf 17 InsO
 
-## B. Qualitative Indikatoren – Beweisanzeichen (BGH-Indizienkatalog)
+1. Fällige Zahlungspflichten einzelpostengenau mit Fälligkeit und Beleg erfassen.
+2. Ernsthaftes Einfordern, Stundungen und Stillhalteabreden rechtlich einordnen.
+3. Frei verfügbare Zahlungsmittel und sicher abrufbare Linien gegenüberstellen.
+4. Drei-Wochen-Entwicklung rechnen und Schließbarkeit jeder Maßnahme belegen.
+5. Rücklastschriften, Vollstreckungen, Steuern, Sozialversicherung, Löhne und Zahlungseinstellungen als Indizien würdigen.
+6. Keine einzelne Kennzahl oder starre Altersgrenze als alleinigen Insolvenzbeweis verwenden.
 
-| Indiz | Bewertung | Quelle |
-|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Quellenregel | Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden. |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Kontokorrent dauerhaft ausgeschöpft | Indiz Zahlungsstockung → § 17 InsO | K. Schmidt/Herchen, § 17 InsO Rn. 18 |
-| Gesellschafterdarlehen ohne qualifizierten Rangrücktritt | Im Überschuldungsstatus zu passivieren | § 39 Abs. 2 InsO |
-| Anhängige Prozesse mit Schadens-Risiko > EK | Stille Last → Überschuldungsstatus | K. Schmidt/Herchen, § 19 InsO Rn. 60 |
+## 1.3 Überschuldung nach Paragraf 19 InsO
 
-## C. § 102 StaRUG – Trigger-Liste "offenkundige Anhaltspunkte"
+1. Überschuldungsstatus und Fortführungsprognose getrennt erstellen.
+2. Für die Fortführung regelmäßig zwölf Monate ab Prognosestichtag betrachten.
+3. Finanzierung, Ergebnis, Bilanz und Liquidität integrieren.
+4. Rangrücktritte anhand des vollständigen Klauseltexts prüfen.
+5. Stille Reserven, stille Lasten, Bürgschaften, Prozesse und Verwertungskosten belegen.
+6. Negatives bilanzielles Eigenkapital nur als Indiz, nicht als fertiges Ergebnis behandeln.
 
-Die Hinweispflicht ist regelmäßig ausgelöst, wenn **mindestens eines** der folgenden Merkmale erkennbar ist (Pape/Schaltke, § 102 StaRUG Rn. 19 ff.):
+## 1.4 Hinweis nach Paragraf 102 StaRUG
 
-1. Negatives Eigenkapital in Handelsbilanz/Bilanzentwurf
-2. Erhebliche und anhaltende Rückstände bei Sozialversicherungsbeiträgen oder Lohnsteuer
-3. Beauskunftung durch Mandant über Stundungen, Mahnungen, gerichtliche Verfahren
-4. Außerordentlich starker Anstieg der Lieferverbindlichkeiten oder Zahlungsverhalten > 60 Tage
-5. Kreditkündigung oder eingestellte Linien
-6. Mehrere fortgesetzte Verlustjahre und EK-Verzehr
-7. Bestandsgefährdende Ereignisse (Großkunden-Insolvenz, Umsatzeinbruch > 30 %)
+Der gesetzliche Hinweis setzt kumulativ voraus:
 
-## D. Dokumentation
+1. einen genannten Berufsträger,
+2. einen Auftrag zur Jahresabschlusserstellung,
+3. offenkundige Anhaltspunkte für einen möglichen Insolvenzgrund und
+4. die anzunehmende Unkenntnis des Mandanten über die mögliche Insolvenzreife.
 
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Mandantenquittung oder nachweisbare Übermittlung (E-Mail-Eingangsbestätigung, Einschreiben).
-- Vorhalten in der Handakte für mindestens 10 Jahre (§ 66 StBerG, § 50 BRAO analog).
+Mögliche Belegsignale sind ein nicht gedeckter Fehlbetrag, erhebliche fällige Rückstände, Vollstreckungsdruck, gekündigte Finanzierung oder eine unbelegte Fortführungsannahme. Kein Signal löst die Norm für sich allein aus.
 
-## E. Verweise
+## 1.5 Dokumentation
 
-- `references/hinweisschreiben-102-starug.md` – Mustertext
-- IDW S 11 (Stand 22.08.2016 + Updates) – berufsständische Verlautbarung
+Dokumentiere Datenquelle, Fundstelle, Bearbeiter, Erkenntnisdatum, abweichende Angaben, Berechnungsstand, Mandantenkenntnis, Hinweistext, Anlagen, Zugang und Wiedervorlage. Rechtsstand und Rechtsprechungsanker vor Ausgabe in amtlichen Quellen prüfen.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## 1.6 Quellen
+
+- [Paragraf 102 StaRUG](https://www.gesetze-im-internet.de/starug/__102.html)
+- [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html)
+- [Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html)
+- [BGH, Urteil vom 26. Januar 2017, IX ZR 285/14](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2017-1&Gericht=bgh&Seite=1&anz=231&pos=35)

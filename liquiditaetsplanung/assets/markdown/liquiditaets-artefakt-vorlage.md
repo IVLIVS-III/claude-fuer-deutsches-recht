@@ -86,7 +86,7 @@ Ab zwei aktiv gesetzten Indizien wird auf 🔴 eskaliert, auch wenn die Quote re
 
 ## Handlungsempfehlung
 
-{Bei 🟢 Routine fortsetzen; bei 🟡 Engpassmaßnahmen benennen; bei 🔴 § 15a InsO-Antragspflicht prüfen und § 102 StaRUG-Hinweis dokumentieren. Wenn die Vorschau als Grundlage für Bank, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept dienen soll, zusätzlich GuV, Planbilanz, Maßnahmenlog, Leitbild, Szenarien und Dokumentation nachziehen.}
+{Bei Grün Routine fortsetzen; bei Gelb Engpassmaßnahmen benennen; bei Rot die Antragspflicht nach Paragraf 15a InsO unverzüglich prüfen. Einen Hinweis nach Paragraf 102 StaRUG nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen dokumentieren. Soll die Vorschau als Grundlage für Bank, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept dienen, zusätzlich Gewinn-und-Verlust-Rechnung, Planbilanz, Maßnahmenlog, Leitbild, Szenarien und Dokumentation nachziehen.}
 
 ---
 

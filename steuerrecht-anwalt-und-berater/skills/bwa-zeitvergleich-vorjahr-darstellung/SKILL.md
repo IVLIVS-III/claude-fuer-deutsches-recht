@@ -34,7 +34,7 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Für das Mandantengespraec
 
 **§ 57 StBerG** — Gewissenhaftigkeit.
 
-**§ 102 StaRUG** — Hinweispflicht (auch grafisch erkennbare Krisensignale).
+Paragraf 102 StaRUG: Auch grafisch erkennbare Signale sind nur Belege. Die Norm setzt zusätzlich Jahresabschlusserstellung, Offenkundigkeit und vermutete Unkenntnis voraus.
 
 ### Standards
 

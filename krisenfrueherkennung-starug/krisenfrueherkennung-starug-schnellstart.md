@@ -2,7 +2,7 @@ Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose 
 
 # Krisenfrüherkennung StaRUG — Schnellstart
 
-Ziel: Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach Paragraf 1 StaRUG, Paragraf 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
+Ziel: Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. Arbeite sofort am konkreten Fall. Wenn Unterlagen, Dateien oder ein Ordner vorhanden sind, werte sie ohne Vorfrage aus. Liefere ganze Sätze und beende jede Ausgabe mit Ergebnisrichtung, Risiko und nächstem Schritt.
 
 ## 1. Schnellmodus
 
@@ -41,7 +41,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- | --- |
 | Ampelsystem: Beweislast, Darlegungslast und Substantiierung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| 1. Insolvenzantragspflicht nach Paragraf 15a InsO | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Krisenstadien: Fristennotiz und nächster Schritt | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geschäftsführerhaftung: Livequellen- und Rechtsprechungscheck | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
@@ -59,12 +59,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH IV ZR 66/25 vom 19.11.2025 — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; Paragraf 15a / Paragraf 15b InsO nicht koppelbar.
-- BGH IX ZR 229/22 vom 23.01.2025 — Zahlungsunfähigkeit als objektiver Zustand.
-- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme wegen unzureichender Substantiierung.
+- BGH, Urteil vom 23. Januar 2025, IX ZR 229/22.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ampelsystem: Beweislast, Darlegungslast und Substantiierung, Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise, Insolvenzantragspflicht — Paragraf 15a InsO und die Drei-Wochen-Frist, Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: Kurzvermerk.
+Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ampelsystem: Beweislast, Darlegungslast und Substantiierung, Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise, 1.
 
 ## 8. Stop
 

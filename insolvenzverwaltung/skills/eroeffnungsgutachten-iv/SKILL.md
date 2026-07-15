@@ -91,7 +91,7 @@ description: "Wenn es um Eröffnungsgutachten in Insolvenzverwaltung - IV-Cockpi
 
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
 - **BGH IX ZR 229/22 vom 23.01.2025** — Objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung zum Nennwert in den Liquiditätsstatus einzustellen; keine Kürzung nach Prozessrisiko. Irrtum nur eng bei ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-- **BGH II ZR 139/23 vom 11.03.2025** — Für die Passivseite zählt die materielle Rechtslage; bestehende fällige Forderungen werden nicht wegen Bestreitens ausgeblendet.
+- **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil behandeln.
 - **BGH IX ZB 38/24 vom 22.05.2025** — Bei vorläufig eingestellter Vollstreckung kann der Titel seine Belegwirkung für den Insolvenzantrag verlieren.
 - **BGH II ZR 206/22 vom 23.07.2024** — Bei Sachverhaltsaufnahme mit Wechsel der Geschäftsleitung: fortwirkende Haftung des ausgeschiedenen GF in Anfechtungs- und Haftungsprüfungen berücksichtigen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - IDW S 11 als Methodik-Standard für Liquiditätsstatus und Fortbestehensprognose (Prognosezeitraum 12 Monate seit 01.01.2024).

@@ -127,7 +127,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
 - BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Bei streitigen Verbindlichkeiten entscheidet die objektive Rechtslage.
-- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Für streitige Verbindlichkeiten gibt es keinen prozentualen Abschlag nach Prozessrisiko.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: Im Verfahren über die Nichtzulassungsbeschwerde bestätigt der Senat den materiellen Bestand als Maßstab.
 - BGH, Beschluss vom 01.12.2005 - IX ZB 208/05: Das Insolvenzgericht prüft von Amts wegen anhand des Einzelfalls, ob und welche Sicherungsmaßnahmen erforderlich sind, um gläubigernachteilige.
 
 ## 9. Prüfraster

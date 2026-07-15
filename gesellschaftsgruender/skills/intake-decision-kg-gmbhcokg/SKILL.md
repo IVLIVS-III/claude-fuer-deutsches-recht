@@ -352,7 +352,7 @@ flowchart TD
 | Geschäftsjahresende | + 3 Monate | Jahresabschluss aufstellen (Paragraf 264 Abs. 1 HGB) | Paragraf 264 HGB |
 | Jahresabschluss aufgestellt | + 9 Monate | Bundesanzeiger-Offenlegung (GmbH) | Paragraf 325 HGB |
 | GV-Beschluss | + 1 Monat | Anfechtungsfrist | Paragraf 246 AktG analog |
-| Krisenfrüherkennung-Trigger (Paragraf 102 StaRUG) | + sofort | StaRUG-Prüfung oder Paragraf 49 Abs. 3 GmbHG-Gesellschafterversammlung | Paragraf 102, 49 StaRUG; Paragraf 49 Abs. 3 GmbHG |
+| Krisensignal der Geschäftsleitung | + sofort | Pflichten nach Paragraf 1 StaRUG und Paragraf 49 Absatz 3 GmbHG prüfen; Paragraf 102 StaRUG nur bei Jahresabschlusserstellung und erfülltem Tatbestand | Paragraf 1 und 102 StaRUG; Paragraf 49 Absatz 3 GmbHG |
 | Insolvenzreife (Paragraf 17, 19 InsO) | + 3 Wochen | Paragraf 15a InsO-Antragspflicht | Paragraf 15a InsO |
 | Gesellschafterwechsel | + sofort (HR) / + 2 Wochen (TraFinG) | Gesellschafterliste Paragraf 40 GmbHG + TraFinG-Meldung Paragraf 20 GwG | Paragraf 40 GmbHG, 20 GwG |
 

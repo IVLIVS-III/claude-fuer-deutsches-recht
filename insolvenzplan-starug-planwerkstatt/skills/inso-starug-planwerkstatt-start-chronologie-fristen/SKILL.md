@@ -118,7 +118,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `ips-abstimmung-mehrheiten` | Abstimmungsmehrheiten für Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit.… |
 | `ips-anlagenpaket` | Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen… |
 | `ips-asset-deals-im-plan-grundstuecke-marken-kundendaten` | Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch… |
-| `ips-cramdown-obstruktion` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene… |
+| `ips-cramdown-obstruktion` | Obstruktionsverbot nach Paragraf 245 InsO und gruppenübergreifende Mehrheitsentscheidung nach Paragraf 26 StaRUG prüfen; Schlechterstellung, Planwert, Rang und Gruppenmehrheit getrennt belegen. |
 | `ips-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Finanzplanung Vergleichsrechnung Sonderaktiva… |
 | `ips-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS… |
 | `ips-gerichtliche-schritte` | Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestätigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichung Vorprüfung… |
@@ -153,7 +153,7 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - Sie stehen am Beginn eines Restrukturierungsmandats und müssen zwischen Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG und aussergerichtlicher Einigung auswaehlen.
 - Sie erstellen oder prüfe den darstellenden und gestaltenden Teil eines Insolvenzplans oder StaRUG-Plans.
 - Sie müssen Gruppen und Klassen nach §§ 222 f. InsO oder §§ 9 f. StaRUG sachgerecht bilden.
-- Sie simulieren Abstimmungsmehrheiten oder prüfen Cramdown-Szenarien nach § 245 InsO oder § 27 StaRUG.
+- Sie simulieren Abstimmungsmehrheiten oder prüfen Cramdown-Szenarien nach Paragraf 245 InsO oder Paragraf 26 StaRUG.
 - Sie begleiten den Planvollzug und müssen Abweichungen von Quoten und Covenants dokumentieren.
 
 ## Fachbegriffe (kurz erklaert)
@@ -161,7 +161,7 @@ Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und
 - **Insolvenzplan** — Gestaltendes Instrument nach §§ 217 ff. InsO, mit dem Gläubiger abweichend vom Regelverfahren befriedigt werden; besteht aus darstellendem und gestaltendem Teil plus Anlagen.
 - **StaRUG-Plan** — Restrukturierungsplan nach dem StaRUG; ermoeglicht Eingriffe in Gläubigerpositionen ausserhalb des Insolvenzverfahrens bei bloss drohender Zahlungsunfaehigkeit.
 - **Vergleichsrechnung** — Kernbestandteil des Plans; zeigt je Gruppe, dass kein Beteiligter im Plan schlechter steht als ohne Plan (Schlechterstellungsverbot).
-- **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung, die eine ablehnende Gruppe ueberstimmt (§ 245 InsO, § 27 StaRUG); setzt absolute Prioritaet oder angemessene Beteiligung voraus.
+- **Cramdown** — Gruppenübergreifende Mehrheitsentscheidung nach Paragraf 245 InsO beziehungsweise Paragraf 26 StaRUG; im StaRUG sind Vergleichsrechnung, angemessene Beteiligung und Gruppenmehrheit gesondert zu prüfen.
 - **Planbetroffene** — Im StaRUG-Verfahren ausdrucklich ausgewaehlte Inhaber gestaltbarer Rechtsverhaeltnisse (§§ 2 ff. StaRUG).
 - **Sanierungsmoderation** — Aussergerichtliches Verfahren nach §§ 94 ff. StaRUG mit gerichtlich bestelltem Moderator.
 - **Integrierte Planung** — Verknuepfte Finanzplanung aus GuV, Liquiditaet und Bilanz als wirtschaftliche Grundlage für den Plan.

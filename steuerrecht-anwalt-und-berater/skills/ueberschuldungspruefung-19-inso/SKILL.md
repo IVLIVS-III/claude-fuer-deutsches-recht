@@ -26,11 +26,11 @@ description: "Wenn es um Überschuldungsprüfung Paragraf 19 InsO (Steuerberater
 ### Primärnormen
 
 - **§ 19 Abs. 2 InsO** — Überschuldung = Vermögen deckt bestehende Verbindlichkeiten nicht, **es sei denn** Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (positive Fortbestehensprognose).
-- **§ 19 Abs. 2 Satz 1 InsO i.V.m. SanInsKG** — Prognosezeitraum: **24 Monate** für Eröffnungsanträge bis 31.12.2026 (SanInsKG-Verlängerung 12/2023, verlängert durch JStG 2024). Ab 1.1.2027 voraussichtlich Rückkehr zu 12 Monaten — Stichtagsprüfung pflichtig.
-- **§ 15a Abs. 1 Satz 1 InsO** — Insolvenzantragspflicht bei Überschuldung: spätestens **sechs Wochen** ab Eintritt (bei Zahlungsunfähigkeit drei Wochen).
+- **Paragraf 19 Absatz 2 InsO** — Für die Fortführungsprognose ist in aller Regel ein Zeitraum von zwölf Monaten zugrunde zu legen. Die viermonatige SanInsKG-Sonderregelung galt nur bis 31.12.2023.
+- **Paragraf 15a Absatz 1 InsO** — Antrag ohne schuldhaftes Zögern; höchstens sechs Wochen ab Überschuldung und drei Wochen ab Zahlungsunfähigkeit.
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
 - **§ 17 InsO** — Zahlungsunfähigkeit als Parallel-Tatbestand.
-- **§ 102 StaRUG** — Krisenfrüherkennungspflicht der Geschäftsleitung; Hinweisrecht/-pflicht des Steuerberaters bei wesentlichen Krisensignalen.
+- **Paragraf 102 StaRUG** — Hinweis bei einem Auftrag zur Jahresabschlusserstellung, wenn Anhaltspunkte für einen möglichen Insolvenzgrund offenkundig sind und anzunehmen ist, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist. Die Pflicht der Geschäftsleitung steht in Paragraf 1 StaRUG.
 
 ### Berufsständischer Hintergrund
 
@@ -117,7 +117,7 @@ Nur erforderlich, wenn Stufe 1 negativ ist. Bilanz wird zu **Liquidationswerten*
 
 ### Schritt 2 — Fortbestehensprognose (Stufe 1)
 
-Anhand IDW S 6 prüfen. Bei Unklarheit oder negativer Tendenz: Mandant darauf hinweisen, dass Stufe 2 zwingend wird und anwaltliche Beratung empfohlen ist.
+Die Fortführungsfähigkeit anhand einer integrierten Liquiditätsplanung und belastbarer Prämissen prüfen. Einen berufsständischen Standard nur verwenden, wenn seine aktuelle Fassung bereitgestellt oder lizenziert zugänglich ist. Bei negativer Prognose den rechnerischen Überschuldungsstatus und die Antragspflicht unverzüglich prüfen.
 
 ### Schritt 3 — Rechnerischer Status (Stufe 2)
 
@@ -127,23 +127,23 @@ Nur bei negativer Stufe-1-Prognose. Liquidationswerte ansetzen — stille Reserv
 
 - Aktennotiz Steuerberater (intern): Ergebnis Stufe 1, ggf. Stufe 2, Datum, Datengrundlage.
 - Ampel-Klassifikation.
-- Bei 🟡/🔴: Mandantenwarnschreiben über `stb-warnschreiben-krisensignale` erzeugen — datiert, mit Eingangsbestätigung, archiviert.
+- Bei gelbem oder rotem Befund: Mandatsumfang und Warnanlass prüfen. Den Skill `stb-warnschreiben-krisensignale` verwenden, aber einen gesetzlichen Hinweis nach Paragraf 102 StaRUG nur bei erfülltem Tatbestand ausgeben.
 
 ### Schritt 5 — Wiedervorlage
 
-- 🟢 grün: bei nächster turnusmäßiger Bilanz/BWA-Auswertung.
-- 🟡 gelb: monatlich.
-- 🔴 rot: wöchentlich, bis anwaltliche Beratung erfolgt oder Insolvenzantrag gestellt ist.
+- Grün: Termin nach konkreter Risikolage und Datenaktualität bestimmen.
+- Gelb: kurzfristige Wiedervorlage mit benanntem Datenereignis festlegen.
+- Rot: sofortige spezialisierte Prüfung; keine routinemäßige Wochenfrist abwarten.
 
 ## Eigene Haftungsvermeidung Steuerberater
 
-- **Form des Hinweises** schriftlich, mit Eingangsbeleg (Einschreiben oder beA an Mandantenvertretung; **kein ELSTER**, da nicht Empfänger Finanzbehörde).
-- **Inhalt** klar: konkrete Krisensignale benennen, Empfehlung anwaltlicher Beratung, Hinweis auf § 15a InsO und § 102 StaRUG. Keine eigene rechtliche Beurteilung (§ 5 RDG).
+- **Form des Hinweises:** Paragraf 102 StaRUG schreibt keine bestimmte Form vor. Aus Beweisgründen einen klaren, datierten Text mit belastbarem Zugangsbeleg wählen und den sicheren Adressaten bestimmen.
+- **Inhalt:** Jahresabschlussauftrag, offenkundige Anhaltspunkte, vermutete Unkenntnis, möglicher Insolvenzgrund und anknüpfende Organpflichten konkret benennen; keine abschließende Insolvenzdiagnose ohne belastbare Prüfung behaupten.
 - **Wiedervorlage und erneuter Hinweis** dokumentieren, wenn die Krise fortbesteht.
-- **Ohne Hinweis** droht eigene Haftung des Steuerberaters für die Verschleppungsschäden — typische Schadenshöhe sechs- bis siebenstellig.
+- **Haftung:** Pflichtverletzung, Schutzbereich, Kausalität, Verschulden und Schaden anhand Mandat und Einzelfall prüfen; keine pauschale Schadenshöhe ansetzen.
 
 ## Quellen und Updates
 
-Stand: 05/2026. Maßgebliche Reformen berücksichtigt: SanInsKG (24-Monats-Prognose bis 31.12.2026), SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.), § 102 StaRUG. Bei Verlängerung/Auslaufen des SanInsKG ab 1.1.2027 Prognosezeitraum-Default zurück auf 12 Monate — bitte Stichtag prüfen.
+Rechtsstand vor Verwendung prüfen. Seit 01.01.2024 gilt für Paragraf 19 Absatz 2 InsO wieder der regelmäßige Zwölfmonatszeitraum; die SanInsKG-Verkürzung auf vier Monate ist ausgelaufen. Paragraf 15b InsO hat die rechtsformspezifischen Zahlungsverbote abgelöst.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

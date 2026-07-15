@@ -34,7 +34,7 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 
 **§ 57 StBerG** — Gewissenhaftigkeit (Datenqualitaet).
 
-**§ 102 StaRUG** — Hinweispflicht; Branchenvergleich kann Krisensignal verstaerken oder relativieren.
+Paragraf 102 StaRUG: Ein Branchenvergleich kann ein Signal erläutern, ersetzt aber weder den Jahresabschlussauftrag noch die Prüfung von Offenkundigkeit und vermuteter Unkenntnis.
 
 **§ 4 BDSG / DSGVO** — Datenschutz; BBE-Daten sind anonymisiert.
 

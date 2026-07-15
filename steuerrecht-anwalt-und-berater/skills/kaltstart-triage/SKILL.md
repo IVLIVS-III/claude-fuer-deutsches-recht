@@ -320,7 +320,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `stb-susa-saldennullstellung-jahresende` | Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output… |
 | `stb-susa-vorperiode-vergleich` | SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa… |
 | `stb-ueberschuldungspruefung-19-inso` | Stichtagsbezogene Überschuldungsprüfung einer GmbH nach § 19 Abs. 2 InsO durch den Steuerberater. Anwendungsfall Jahresabschluss oder BWA zeigt Krisensignale Steuerberater muss Überschuldung rechtssicher prüfen.… |
-| `stb-warnschreiben-krisensignale` | Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschäftsführung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Anwendungsfall Steuerberater erkennt Krisensignale und muss Hinweispflicht nach § 102 StaRUG… |
+| `stb-warnschreiben-krisensignale` | Prüft zuerst Jahresabschlussauftrag, Offenkundigkeit und vermutete Unkenntnis. Liefert bei erfülltem Tatbestand den Hinweis nach Paragraf 102 StaRUG, sonst einen gesondert begründeten vertraglichen Warnhinweis. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Steuerstreit und Steuerprozess entwickeln. Anwendungsfall Mandant will Steuerstreit durch Einigung beenden ohne Urteil oder Verfahren steht vor Schlussbesprechung oder… |
 
 ## Qualitätsversprechen

@@ -52,7 +52,7 @@ StaRUG beginnt nicht mit der Wunschroute, sondern mit dem Ausschluss der bereits
 | Bloßes Prozessrisiko | Keine prozentuale Prozessrisikoquote |
 | Liquiditätsstatus nur als Summenliste | Einzelposten, Beleg, Fälligkeit und Rechtsgrund nachfordern |
 
-Leitanker: BGH IX ZR 129/22 vom 18.04.2024 zur Darlegungstiefe des Liquiditätsstatus, BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Rechtslage bei streitigen Forderungen und zur engen Irrtumsgrenze sowie BGH II ZR 139/23 vom 11.03.2025 zum materiellen Bestand der Verbindlichkeit. BGH IX ZB 38/24 vom 22.05.2025 betrifft dagegen eng die Belegwirkung eines Titels beim Gläubigerantrag, wenn die Vollstreckung eingestellt ist. Wenn der Paragraf-17-Test rot ist, ist der StaRUG-Zugang nicht der Hauptweg; dann Antragspflicht, Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen.
+Leitanker: BGH IX ZR 129/22 vom 18.04.2024 zur Darlegungstiefe des Liquiditätsstatus und BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Rechtslage bei streitigen Forderungen, zur Titelpassivierung und zur engen Irrtumsgrenze. BGH, Beschluss vom 11.03.2025 - II ZR 139/23 bestätigt im Verfahren über die Nichtzulassungsbeschwerde den materiellen Bestand als Maßstab; er ist kein eigenständiges Grundsatzurteil. BGH IX ZB 38/24 vom 22.05.2025 betrifft eng die Belegwirkung eines Titels beim Gläubigerantrag, wenn die Vollstreckung eingestellt ist. Wenn der Paragraf-17-Test rot ist, ist der StaRUG-Zugang nicht der Hauptweg; dann Antragspflicht, Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen.
 
 ## Liquiditätsplan 24 Monate — Methodik
 

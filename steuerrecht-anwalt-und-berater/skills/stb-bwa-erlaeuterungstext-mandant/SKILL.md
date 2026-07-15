@@ -28,7 +28,7 @@ Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bil
 
 **§ 57 Abs. 1 StBerG** — Gewissenhaftigkeit; auch in der Mandantenkommunikation.
 
-**§ 102 StaRUG** — Hinweis- und Warnpflicht bei Krisensignalen; im Erlaeuterungstext zu beruecksichtigen.
+Paragraf 102 StaRUG: Krisensignale aus der BWA nur dann als gesetzlichen Hinweis behandeln, wenn daneben ein Jahresabschlussauftrag besteht und Offenkundigkeit sowie vermutete Unkenntnis des Mandanten belegt sind.
 
 **§ 5 RDG** — Abgrenzung Rechts- vs. Wirtschaftsberatung; rein wirtschaftliche Erlaeuterung ist StB-Aufgabe.
 

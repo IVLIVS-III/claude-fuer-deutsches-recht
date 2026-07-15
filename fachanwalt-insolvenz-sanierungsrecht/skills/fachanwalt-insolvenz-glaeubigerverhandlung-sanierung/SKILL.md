@@ -24,7 +24,7 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 - **§ 270d InsO** — Schutzschirm
 - **§ 217 InsO** — Insolvenz-Plan
 - **§ 245 InsO** — Mehrheitserfordernisse
-- **§ 245a InsO** — Cross-Class Cramdown (StaRUG § 26-28)
+- **Paragraf 245 InsO** — Obstruktionsverbot im Insolvenzplan; davon getrennt Paragrafen 26 bis 28 StaRUG für die gruppenübergreifende Mehrheitsentscheidung
 - **IDW S 6** — Sanierungskonzept-Standard
 - **INSOL Practice Statement** Mediation in Insolvency
 
@@ -116,7 +116,7 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 
 ## Quellen und Updates
 
-Stand: 05/2026. StaRUG 1.1.2021. IDW S 6 / S 11. INSOL-Standards. Bei SanInsKG-Verlängerung 31.12.2026 aktualisieren.
+Vor Verwendung aktuellen Rechtsstand und berufsständische Standards prüfen. Für Paragraf 19 Absatz 2 InsO gilt seit 01.01.2024 wieder der regelmäßige Zwölfmonatszeitraum; die SanInsKG-Sonderregelung ist ausgelaufen.
 
 ## Triage — Verhandlungs-Einstieg
 
@@ -139,7 +139,7 @@ Bevor losgelegt wird, klaere:
 
 ## Paragrafenkette Glaeubigerverhandlung
 
-§ 18 InsO (drohende ZU) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 142 InsO (Bargeschaeft) → § 133 InsO (Vorsatzanfechtung) → § 165 SGB III (Insolvenzgeld)
+Paragraf 18 InsO (drohende Zahlungsunfähigkeit) → Paragrafen 29 bis 31 StaRUG (Instrument, Restrukturierungsfähigkeit, Anzeige) → Paragrafen 2 bis 28 StaRUG (Plan und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragrafen 26 bis 28 StaRUG (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 39 Absatz 4 InsO (Sanierungsprivileg) → Paragraf 142 InsO (Bargeschäft) → Paragraf 133 InsO (Vorsatzanfechtung) → Paragraf 165 SGB III (Insolvenzgeld)
 
 ## Quellenregel
 

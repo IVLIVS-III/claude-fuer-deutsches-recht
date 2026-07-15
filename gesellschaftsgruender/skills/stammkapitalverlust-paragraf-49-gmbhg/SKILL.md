@@ -41,7 +41,7 @@ Hälftiger Stammkapitalverlust nach Paragraf 49 Abs. 3 GmbHG: Einberufungspflich
 - **Paragraf 17 InsO** — Zahlungsunfähigkeit; fällige Verbindlichkeiten können nicht erfüllt werden.
 - **Paragraf 18 InsO** — Drohende Zahlungsunfähigkeit; Prognosezeitraum 24 Monate; ermöglicht StaRUG.
 - **Paragraf 19 InsO** — Überschuldung; Vermögen deckt Verbindlichkeiten nicht ohne positive Fortführungsprognose.
-- **Paragraf 15a InsO** — Insolvenzantragspflicht: 6 Wochen (Überschuldung) / 3 Wochen (Zahlungsunfähigkeit).
+- **Paragraf 15a InsO** — Insolvenzantrag ohne schuldhaftes Zögern; höchstens sechs Wochen bei Überschuldung und drei Wochen bei Zahlungsunfähigkeit.
 - **Paragraf 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung für masseschmälernde Zahlungen.
 - **Paragraf 1-9 StaRUG** — vorinsolvenzliches Restrukturierungsverfahren bei drohender Zahlungsunfähigkeit.
 

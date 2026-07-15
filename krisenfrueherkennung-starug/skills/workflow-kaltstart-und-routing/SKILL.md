@@ -35,18 +35,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## Routing-Weichen Krisenfrüherkennung
-- **Rechtspflicht:** § 1 StaRUG verpflichtet die Geschäftsleiter von haftungsbeschränkten Unternehmen (GmbH, AG, UG, SE, ggf. GmbH & Co. KG bei Haftungsbeschränkung), Entwicklungen, die den Fortbestand der juristischen Person gefährden könnten, fortlaufend zu überwachen und geeignete Gegenmaßnahmen zu ergreifen.
-- **Beobachtungszeitraum:** Es gilt ein **rollierender 24-Monats-Horizont** (parallel zu § 18 InsO drohende Zahlungsunfähigkeit) — sobald in diesem Horizont eine Liquiditätslücke droht, ist die Pflicht ausgelöst.
+- **Rechtspflicht:** Paragraf 1 StaRUG verpflichtet die Geschäftsleiter der dort erfassten Rechtsträger, fortlaufend über bestandsgefährdende Entwicklungen zu wachen, geeignete Gegenmaßnahmen zu ergreifen und das Überwachungsorgan unverzüglich zu unterrichten.
+- **Beobachtungszeitraum:** Paragraf 1 StaRUG nennt keinen festen Zeitraum. Für die drohende Zahlungsunfähigkeit ist nach Paragraf 18 Absatz 2 InsO in aller Regel eine gesonderte 24-Monats-Prognose zu rechnen. Eine Lücke in dieser Prognose ist ein Krisensignal, ersetzt aber weder Tatbestandsprüfung noch Stichtagsabgrenzung.
 - **Mandantenrolle?**
-  - Geschäftsleitung selbst (haftungsrelevant): persönliche Pflicht nach § 1 StaRUG, kein Delegationsausschluss.
+  - Geschäftsleitung selbst (haftungsrelevant): eigene Pflicht nach Paragraf 1 StaRUG; Aufgabenverteilung und Delegation entlasten nur bei ordnungsgemäßer Auswahl, Instruktion und Überwachung.
   - Berater (RA, StB, Sanierungsberater): Plausibilisieren des Frühwarnsystems.
-  - Aufsichtsrat/Beirat: Überwachungspflicht (§ 111 AktG, § 52 GmbHG bei Beirat mit Aufsichtsfunktion).
+  - Aufsichtsrat oder Beirat: konkrete Organstellung und Überwachungspflicht nach Paragraf 111 AktG, Paragraf 52 GmbHG, Satzung und Geschäftsordnung prüfen.
 - **Welcher Skill als Nächstes?**
   - Liquiditätsplanung (13-Wochen oder 24-Monate) → liquiditaetsplanung-Plugin.
   - Fortbestehensprognose → fortbestehensprognose-Plugin.
   - StaRUG-Plan oder Insolvenzplan → insolvenzplan-starug-planwerkstatt-Plugin.
 
 ## Eilige Trigger
-- Hinweise auf drohende ZU → § 18 InsO greift, StaRUG-Anzeige § 31 StaRUG möglich.
-- Eingetretene ZU/Überschuldung → § 15a InsO Antragspflicht, § 1 StaRUG tritt zurück.
-- § 15b InsO Zahlungsverbot ist ab dem Zeitpunkt der materiellen Insolvenz zu beachten — Geschäftsführer haftet persönlich.
+- Hinweise auf drohende Zahlungsunfähigkeit: Prognose nach Paragraf 18 InsO erstellen, Eignung der StaRUG-Instrumente gesondert prüfen und eine beabsichtigte Inanspruchnahme nach Paragraf 31 StaRUG anzeigen.
+- Eingetretene Zahlungsunfähigkeit oder Überschuldung: Antragspflicht nach Paragraf 15a InsO ohne schuldhaftes Zögern prüfen; die StaRUG-Route nicht ungeprüft fortsetzen.
+- Ab Eintritt materieller Insolvenz Zahlungen anhand Paragraf 15b InsO einzeln prüfen und dokumentieren.

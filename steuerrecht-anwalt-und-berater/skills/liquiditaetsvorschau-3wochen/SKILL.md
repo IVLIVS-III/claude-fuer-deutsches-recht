@@ -13,13 +13,13 @@ description: "Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO Vorp
 
 ## Fachkern: Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)
 
-- **Spezialfrage (Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)):** Steuerberaternahe Drei-Wochen-Liquiditaetsvorschau für § 17 InsO und § 102 StaRUG mit Wochenraster, Dokumentation und Quellenhygiene. Rechtsprechung nur nach Live-Prüfung.
+- **Spezialfrage:** Drei-Wochen-Liquiditätsstatus zur Vorprüfung des Paragrafen 17 InsO mit Wochenraster, Fälligkeits- und Belegmatrix. Paragraf 102 StaRUG ist nur ein gesondertes Eingangstor bei Jahresabschlusserstellung und erfüllten weiteren Voraussetzungen. Rechtsprechung nur nach Quellenprüfung einsetzen.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
 ## Powerplugin-Hinweis
 
 
-Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende ausdrücklich die Hinweispflicht nach § 102 StaRUG dokumentieren.
+Wenn nicht installiert, nach dem steuerberaterspezifischen Schema arbeiten. Paragraf 102 StaRUG nur bei einem Auftrag zur Jahresabschlusserstellung und erfüllten weiteren Voraussetzungen dokumentieren; sonst einen möglichen vertraglichen Warnbedarf getrennt ausweisen.
 
 ## Zweck
 
@@ -52,7 +52,7 @@ Wenn Daten fehlen: Annahmen explizit dokumentieren und im Worst Case rechnen.
 - **§ 18 InsO** – drohende Zahlungsunfähigkeit (24-Monats-Prognose, hier nur Hinweisfunktion).
 - **§ 15a InsO** – Insolvenzantragspflicht: 3 Wochen ab Eintritt § 17 InsO.
 - **§ 1 StaRUG** – fortlaufende Krisenüberwachungspflicht der Geschäftsleitung.
-- **§ 102 StaRUG** – Hinweispflicht beratender Berufe (Steuerberater, Wirtschaftsprüfer, Rechtsanwälte).
+- Paragraf 102 StaRUG: begrenzter Hinweis der genannten Berufsträger bei der Jahresabschlusserstellung, wenn Anhaltspunkte offenkundig sind und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist.
 
 ### Leitentscheidungen
 
@@ -86,7 +86,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Schritt 5 – Ergebnis und Eskalation**
 - 🟢: Routine dokumentieren, nächste Woche erneut.
 - 🟡: Engpasswoche identifizieren, Maßnahmen (Skontofinanzierung, Stundungsverhandlung, Avalziehung, Forderungsbeschleunigung); Dokumentation in Geschäftsleiter-Protokoll nach § 1 StaRUG.
-- 🔴: **Hinweispflicht § 102 StaRUG** prüfen (bei Mandant). Übergabe an Skill `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus Plugin `insolvenzrecht`. Frist § 15a InsO (3 Wochen) läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit — nicht ab Erstellung des Plans.
+- Rot: Sofort an `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` übergeben. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag und erfüllten weiteren Voraussetzungen anwenden. Der Antrag nach Paragraf 15a InsO ist ohne schuldhaftes Zögern zu stellen; drei Wochen sind nur der Höchstzeitraum bei Zahlungsunfähigkeit.
 
 ## Beispiel
 

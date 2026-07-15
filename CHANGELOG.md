@@ -1,3 +1,15 @@
+# v434.0.2 - StaRUG- und Insolvenzrechtsanker präzisiert
+
+- Die StaRUG-Planarchitektur ist durchgängig auf die richtigen Normketten zurückgeführt: Planinhalt und Gruppen nach den Paragrafen 5 bis 10, Anlagen nach den Paragrafen 14 und 15, gruppenübergreifende Mehrheitsentscheidung nach den Paragrafen 26 bis 28, Instrumente und Anzeige nach den Paragrafen 29 bis 31 sowie Bestätigung und Minderheitenschutz nach den Paragrafen 60 bis 67 StaRUG.
+- Krisenfrüherkennung nach Paragraf 1 StaRUG und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO sind sauber getrennt. Die Fortführungsprognose nach Paragraf 19 InsO verwendet den geltenden regelmäßigen Zwölfmonatszeitraum.
+- Die Antragspflicht nach Paragraf 15a InsO knüpft nun durchgängig an den objektiven Eintritt der Insolvenzreife an. Drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung werden als Höchstzeiträume, nicht als Warte- oder Verlängerungsfristen, behandelt.
+- Der Hinweis nach Paragraf 102 StaRUG ist in Krisen- und Steuerberater-Skills tatbestandsgebunden: Jahresabschlusserstellung, offenkundige Anhaltspunkte und vermutete Unkenntnis des Mandanten. Monats-BWA, Buchführung und sonstige Mandate werden nicht mehr pauschal als gesetzliche Auslöser bezeichnet.
+- Die aktuelle Rechtsprechung zu streitigen und titulierten Forderungen im Liquiditätsstatus, zur Belegbarkeit gegenüber außenstehenden Dritten und zum ersten höchstrichterlichen StaRUG-Verfahren ist mit Entscheidungsform und Aussagegrenzen eingeordnet. Paragraf 245a InsO steht nun als besondere Vergleichsannahme für natürliche Personen statt als allgemeine Rangregel bereit.
+- Neue Rechtsstandssperren verhindern das Wiederauftreten der korrigierten Normvertauschungen. Marketplace- und Release-Prüfung gleichen zusätzlich sichtbare README-Versionen mit den Manifesten ab.
+- Marketplace, sämtliche Plugin-Manifeste, Werkstatt- und Schnellstart-Prompts sowie die zentralen Übersichten wurden auf v434.0.2 synchronisiert.
+
+---
+
 # v434.0.1 - Aktenrubriken und Releaseprüfung vervollständigt
 
 - Die Aktenrubriken für den grenzüberschreitenden Vertragsfall und die Kanzleiorganisationsakte verwenden ausschließlich unterstützte Prüftypen und bilden den tatsächlich exportierbaren Bestand korrekt ab. Der vollständige Evaluationslauf bewertet damit alle 301 fachlichen Akten ohne Fehler.

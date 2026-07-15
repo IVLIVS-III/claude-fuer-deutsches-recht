@@ -134,7 +134,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-masseunzulaenglichkeit-208` | Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht für alle ausreichen. § 208 InsO §§ 53 54 InsO Massekosten. Prüfraster: Ist- oder Prognoseunzulaenglichkeit Alt- und… |
 | `iv-plan-abstimmung-mehrheiten` | Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte… |
 | `iv-plan-anlagenpaket` | Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen… |
-| `iv-plan-cramdown-obstruktion` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung… |
+| `iv-plan-cramdown-obstruktion` | Obstruktionsverbot nach Paragraf 245 InsO und gruppenübergreifende Mehrheitsentscheidung nach Paragraf 26 StaRUG prüfen; Vergleichsrechnung, Planwert, Rang und Gruppenmehrheit belegen. |
 | `iv-plan-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Maßnahmen Vergleichsrechnung Sonderaktiva… |
 | `iv-plan-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein müssen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS… |
 | `iv-plan-gerichtliche-schritte` | Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. §§ 231 232 248 InsO Vorprüfung Bestätigung §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichungsantrag… |
@@ -187,7 +187,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - **Schutzschirm** — Besondere Form der Eigenverwaltung bei drohender Zahlungsunfaehigkeit (§ 270d InsO).
 - **Masseunzulaenglichkeit** — Situation, in der Masseverbindlichkeiten die Masse uebersteigen; Anzeige nach § 208 InsO.
 - **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; vorinsolvenzliches Sanierungsverfahren.
-- **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung nach § 245 InsO / § 27 StaRUG; Plan kann über ablehnende Klassen hinweggesetzt werden.
+- **Cramdown** — Gruppenübergreifende Mehrheitsentscheidung nach Paragraf 245 InsO beziehungsweise Paragraf 26 StaRUG; die Voraussetzungen beider Regelungsmodelle dürfen nicht vermischt werden.
 - **Vergleichsrechnung** — Gegenueberstellen von Plan-Fall und Liquidationsszenario zur Demonstration des Planmehrwerts.
 - **PSV** — Pensionssicherungsverein; sichert Pensionsansprueche der Arbeitnehmer bei Insolvenz des Arbeitgebers.
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschäftsleiters für nicht privilegierte Zahlungen.

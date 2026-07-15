@@ -34,7 +34,7 @@ Ein Mandantenreport ist die kuratierte Aufbereitung aller Auswertungen eines Mon
 
 **§ 57 StBerG** — Gewissenhaftigkeit.
 
-**§ 102 StaRUG** — Hinweispflicht; im Monatsreport zu kommunizieren.
+Paragraf 102 StaRUG: Der Monatsreport löst die Norm nicht selbst aus. Nur bei zusätzlichem Jahresabschlussauftrag und erfüllten weiteren Tatbestandsmerkmalen einen gesetzlichen Hinweis ausgeben; sonst vertraglichen Warnbedarf getrennt behandeln.
 
 **§ 90 AO** — Mitwirkungspflicht Mandant; im Report Maßnahmen-Plan.
 

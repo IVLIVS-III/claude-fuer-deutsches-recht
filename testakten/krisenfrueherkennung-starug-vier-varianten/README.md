@@ -294,7 +294,7 @@ Vier Instrumente, vier Anwendungssituationen:
 
 ### 3. Berater- und Überwachungspflichten erfüllen
 
-- **§ 102 StaRUG Warnschreiben:** Pflicht des Rechtsanwalts bei drohender ZU; muss fristgerecht und schriftlich erfolgen; vier Warnschreiben in dieser Akte (Varianten A–D)
+- **Hinweisschreiben:** In den vier Varianten ist zu prüfen, ob ein Rechtsanwalt oder anderer genannter Berufsträger einen Jahresabschluss erstellt, Anhaltspunkte für einen möglichen Insolvenzgrund offenkundig sind und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist. Paragraf 102 StaRUG schreibt weder eine feste Frist noch eine bestimmte Form vor.
 - **§ 1 StaRUG Frühwarnsystem:** AR und Vorstand sind zur Einrichtung verpflichtet; AR-Protokoll Variante A belegt ordnungsgemäße Erfüllung
 - **§ 91 Abs. 2 AktG / § 52 GmbHG:** Parallelvorschriften zu § 1 StaRUG für AG und GmbH/gGmbH
 - **§ 15a InsO Antragspflicht:** Dreiwochen-Frist bei GF-Kenntnis der Insolvenzreife; Variante D läuft aktiv

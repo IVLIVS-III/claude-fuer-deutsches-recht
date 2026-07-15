@@ -38,7 +38,7 @@ Die Debitoren-Saldenliste zeigt alle Forderungen gegen Kunden mit Saldo, Faellig
 
 **§ 17 InsO** — Zahlungsunfaehigkeit; Faelligkeitsstruktur ist Indikator.
 
-**§ 102 StaRUG** — Hinweispflicht.
+Paragraf 102 StaRUG: Forderungsausfälle können ein Indiz sein; die Norm greift aber nur bei Jahresabschlusserstellung, Offenkundigkeit und vermuteter Unkenntnis des Mandanten.
 
 ### Standards
 
@@ -102,7 +102,7 @@ SUMME [X]
 
 - Bei Bilanzstichtag detaillierte Forderungsbewertung — Einzel- und Pauschalwertberichtigung dokumentieren.
 - Top-Schuldner mit groesseren Forderungen einzeln prüfen (z.B. Top-10).
-- Bei Forderungsausfall-Risiko über 10 Prozent der Bilanzsumme: Hinweispflicht § 102 StaRUG ausgeloest.
+- Bei erheblichem Forderungsausfallrisiko die Liquiditäts- und Fortführungsfolgen belegen. Keine starre Zehn-Prozent-Schwelle als Auslöser des Paragrafen 102 StaRUG verwenden; dessen vollständigen Tatbestand gesondert prüfen.
 - Mahnwesen frueh ansetzen — je laenger gewartet wird, desto schwieriger ist Durchsetzung.
 - StBVV: OPOS in Buchfuehrungspauschale; separates Mahnwesen-Honorar.
 - DATEV-Tipp: DATEV-OPOS-Auswertung mit Faelligkeitsstaffeln und Mahn-Bewegungs-Eingabe.

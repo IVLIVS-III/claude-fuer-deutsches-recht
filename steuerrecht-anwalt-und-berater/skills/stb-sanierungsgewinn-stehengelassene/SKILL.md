@@ -65,7 +65,7 @@ Der Mandantenbrief in der Frühphase ist das wichtigste Steuerungsinstrument. Er
 - **Schreiben Sie verständlich, ohne juristischen Jargon.** Der Mandant muss die Konsequenz greifen: "Wenn Sie heute auf Forderungen verzichten lassen, ohne dass die Sanierung nach § 3a EStG vorbereitet wurde, kann es eine Steuerlast geben, die die Liquidität wieder belastet."
 - **Nennen Sie Zahlen.** Ein Verzichtsbetrag von 500.000 EUR kann bei voller Steuerpflicht 150.000 EUR KSt + GewSt auslösen. Das verstehen Unternehmerinnen sofort.
 - **Bauen Sie die Empfehlung "Sanierungsgewinn-Frühprüfung" ein.** Lassen Sie sich diese Frühprüfung honoraren — sonst macht der Mandant es nicht.
-- **Bezug zu § 102 StaRUG nicht vergessen.** Wenn der Steuerberater die Krise erkennt, hat er Hinweispflichten. Das wirkt vom Mandanten in dieselbe Richtung.
+- Paragraf 102 StaRUG nur bei einem Auftrag zur Jahresabschlusserstellung und erfüllten weiteren Voraussetzungen anwenden. Bei einem anderen Mandat den vertraglichen Warnbedarf eigenständig prüfen und nicht als gesetzlichen Paragraf-102-Hinweis bezeichnen.
 
 ## Mustertexte / Berechnungsbeispiele
 
@@ -197,7 +197,7 @@ Mit freundlichen Grüßen
 - § 3a Abs. 4 EStG (Antrag, Bindungswirkung).
 - § 3c Abs. 4 EStG (Verlustreihenfolge).
 - § 7b GewStG.
-- § 102 StaRUG (Hinweispflichten Steuerberater).
+- Paragraf 102 StaRUG nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen.
 - § 43a Abs. 2 BRAO, § 203 StGB.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 

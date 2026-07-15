@@ -62,13 +62,13 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 ## Paragrafenkette (Insolvenzplan / StaRUG)
 
-§ 217 InsO (Plan-Option) → § 218 InsO (Plan-Vorlage) → §§ 220-221 InsO (darstellender und gestaltender Teil) → § 222 InsO (Gruppen) → §§ 235-244 InsO (Abstimmung) → § 245 InsO (Obstruktionsverbot) → § 248 InsO (Planbestaetigung) → § 254 InsO (Planwirkung) → §§ 7-39 StaRUG (StaRUG-Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown)
+Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
 
 ## Triage — Plan-Vorarbeiten
 
 Bevor losgelegt wird, klaere:
-1. **Verfahrensart?** InsO-Plan (§§ 217 ff. InsO) oder StaRUG-Restrukturierungsplan (§§ 7-39 StaRUG)?
-2. **Klassenbildung schluessig?** § 222 InsO / § 10 StaRUG — gleiche Rechte und Interessen je Gruppe.
+1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
+2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
 3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
 4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
 5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?

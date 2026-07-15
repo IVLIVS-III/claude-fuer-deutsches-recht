@@ -32,8 +32,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Beraterhaftung und Warnpflichten § 102 StaRUG
-- **§ 102 StaRUG:** Wirtschaftsprüfer, Steuerberater, Rechtsanwälte und vereidigte Buchprüfer sind verpflichtet, ihre Mandantin auf das Vorliegen eines möglichen Insolvenzgrunds und auf die Pflichten der Geschäftsleiter hinzuweisen, wenn ihnen entsprechende Anhaltspunkte erkennbar werden (Stand prüfen).
+## Beraterhaftung und Hinweis nach Paragraf 102 StaRUG
+- Paragraf 102 StaRUG: Bei der Erstellung eines Jahresabschlusses müssen die dort genannten Berufsträger auf einen möglichen Insolvenzgrund und die Pflichten der Geschäftsleiter und Überwachungsorgane hinweisen, wenn entsprechende Anhaltspunkte offenkundig sind und sie annehmen müssen, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist. Andere Mandate lösen die Norm nicht allein aus; vertragliche Pflichten sind gesondert zu prüfen.
 - **Adressat der Warnung:** Geschäftsführung; bei führungsloser Gesellschaft Gesellschafter.
 - **Inhalt der Warnung:** Hinweis auf möglichen Eröffnungsgrund (§§ 17, 18, 19 InsO), Antragspflicht § 15a InsO, Zahlungsverbot § 15b InsO und § 1 StaRUG-Pflichten.
 - **Dokumentation:** Schriftlich, zeitnah, mit Empfangsbestätigung; Warnung erst nach erkennbaren Anhaltspunkten, nicht vorsorglich (Mandatsverlust-Risiko).

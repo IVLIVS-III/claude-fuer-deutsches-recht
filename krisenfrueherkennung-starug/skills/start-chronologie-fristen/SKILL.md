@@ -1,218 +1,110 @@
 ---
 name: start-chronologie-fristen
-description: "Wenn es um Krisenfrueherkennung und StaRUG-Management — Allgemein in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlungsunfähigkeit, Überschuldung, drohende Zahlungsunfähigkeit, Frühwarnpflicht und gerichtliche Instrumente. Liefert Chronologie, Liquiditäts- und Fristenampel, Beleglücken, Organmaßnahmen und den passenden nächsten Fachpfad."
 ---
 
-# Krisenfrueherkennung und StaRUG-Management — Allgemein
+# 1. Krisenmandat sofort belastbar starten
 
-## Arbeitsweg
+## 1.1 Direktstart aus der Akte
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies zuerst alle bereitgestellten Dateien, Tabellen, Nachrichten und Metadaten. Beginne nicht mit einer Inventarliste und frage keine Angaben erneut ab, die sich aus dem Material ergeben.
 
-## Schnellstart-Workflow
+Arbeite in dieser Reihenfolge:
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Krisenfrueherkennung Starug**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
+1. Sichere sichtbare Fristen, Kontostände, Fälligkeiten, Vollstreckungen und Organtermine.
+2. Bestimme den Stichtag und trenne sichere Tatsachen, streitige Positionen, Annahmen und fehlende Belege.
+3. Ordne den Fall getrennt nach Zahlungsunfähigkeit, Überschuldung, drohender Zahlungsunfähigkeit und bestandsgefährdender Entwicklung ein.
+4. Liefere sofort ein vorläufiges Arbeitsprodukt und kennzeichne jede offene Weiche.
+5. Frage höchstens zwei Punkte nach, wenn deren Antwort den nächsten rechtlichen Schritt tatsächlich ändert.
 
-**Plugin-Fokus:** Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.
+Bei einem stummen Upload lautet die erste Ausgabe:
 
-### 0. Stummer Upload — Material ohne Begleittext
+| Feld | Inhalt |
+| --- | --- |
+| Erkannt | Dokumentart, Absender, Datum, Aktenzeichen und Stichtag |
+| Frist zuerst | konkretes Datum und Sicherungsmaßnahme oder keine Frist erkennbar |
+| Vorläufige Lage | Insolvenzreife, drohende Zahlungsunfähigkeit, Frühwarnsignal oder noch offen |
+| Beleglücke | genau das fehlende Stück, das die Einordnung ändern kann |
+| Nächster Schritt | unmittelbar begonnener Fachpfad und erwarteter Output |
 
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
+## 1.2 Normenlandkarte ohne Kurzschluss
 
-**Pflicht-Reihenfolge bei stummem Upload:**
+| Prüfung | Tragende Regel | Arbeitsfolge |
+| --- | --- | --- |
+| Bestandsgefährdende Entwicklung | Paragraf 1 StaRUG | fortlaufend überwachen, geeignete Gegenmaßnahmen ergreifen und dem Überwachungsorgan berichten |
+| Hinweis bei Jahresabschlusserstellung | Paragraf 102 StaRUG | bei offenkundigen Anhaltspunkten für einen möglichen Insolvenzgrund und vermuteter Unkenntnis des Mandanten auf Insolvenzgrund und Organpflichten hinweisen |
+| Zahlungsunfähigkeit | Paragraf 17 InsO | stichtagsbezogenen Liquiditätsstatus und Drei-Wochen-Entwicklung erstellen |
+| Drohende Zahlungsunfähigkeit | Paragraf 18 Absatz 2 InsO | bestehende Zahlungspflichten bis zur Fälligkeit prognostizieren; regelmäßig 24 Monate |
+| Überschuldung | Paragraf 19 Absatz 2 InsO | Vermögensdeckung und regelmäßig zwölfmonatige Fortführungsprognose getrennt prüfen |
+| Insolvenzantrag | Paragraf 15a InsO | ohne schuldhaftes Zögern; höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung |
+| Gerichtliche Restrukturierungsinstrumente | Paragrafen 29 bis 31 StaRUG | Instrument auswählen, Restrukturierungsfähigkeit prüfen und Vorhaben beim Restrukturierungsgericht anzeigen |
+| Stabilisierung | Paragrafen 49 bis 59 StaRUG | Ziel, Adressaten, Erforderlichkeit, sechsmonatigen Finanzplan, Dauer und Aufhebungsrisiken prüfen |
+| Planbestätigung | Paragrafen 60 bis 67 StaRUG | Bestätigungsvoraussetzungen, Versagungsgründe, individuellen Minderheitenschutz, Beschwerde und Wirkungen trennen |
 
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
+Paragraf 1 StaRUG enthält keinen festen 24-Monats-Zeitraum und ist keine Zugangsnorm für gerichtliche Instrumente. Der regelmäßige 24-Monats-Prognosezeitraum folgt aus Paragraf 18 Absatz 2 InsO. Die Höchstfristen des Paragrafen 15a InsO sind keine erlaubten Wartefristen.
 
-**Was du bei stummem Upload nicht machst:**
+## 1.3 Chronologie und Entscheidungspunkte
 
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
+Erstelle eine Tabelle mit mindestens diesen Spalten:
 
-**Antwortformat bei stummem Upload:**
+| Zeitpunkt | Ereignis | Quelle | rechtliche Bedeutung | Kenntnis des Organs | Maßnahme | Frist oder Kontrolltermin |
+| --- | --- | --- | --- | --- | --- | --- |
+| Stichtag | Bankstände und fällige Verpflichtungen | Konto, OPOS, Titel | Status nach Paragraf 17 InsO | belegt oder offen | Status rechnen | täglich aktualisieren |
+| Prognosetag | spätere Fälligkeiten und Maßnahmen | Verträge, Planung | Paragrafen 18 und 19 InsO | belegt oder offen | Szenarien rechnen | rollierend aktualisieren |
+| Warnsignal | Covenant, Ausfall, Kündigung oder Verlust | Vertrag, Nachricht | Paragraf 1 StaRUG | Datum festhalten | Gegenmaßnahme und Organbericht | konkreter Termin |
+| Verfahrensschritt | Anzeige oder Instrumentenantrag | Entwurf, Gerichtseingang | Paragrafen 31 oder 49 StaRUG | beschlossen | Voraussetzungen nachhalten | gerichtliche Frist |
 
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
+Zeitangaben nie aus dem Dateinamen allein ableiten. Bei widersprüchlichen Daten beide Fundstellen nennen und die Auswirkung auf Insolvenzreife, Antragspflicht oder Verfahrenszugang ausweisen.
 
-### 1. Intake in 60 Sekunden
+## 1.4 Liquiditäts- und Forderungsprüfung
 
-Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
+1. Konten, freie und kündbare Linien, Kassenbestände und kurzfristig sicher verfügbare Mittel stichtagsbezogen erfassen.
+2. Jede Zahlungspflicht nach Rechtsgrund, Betrag, Fälligkeit, ernsthaftem Einfordern, Titel, Vollstreckung, Einwendung und Beleg aufnehmen.
+3. Eine streitige, nicht titulierte Verbindlichkeit nach ihrem objektiven rechtlichen Bestand beurteilen. Keine frei gewählte Prozessrisikoquote abziehen.
+4. Einen vollstreckbaren Titel bei eingeleiteter Vollstreckung grundsätzlich in Nennhöhe berücksichtigen; Einwendungen und Gegenrechte gesondert dokumentieren.
+5. Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung, regelmäßige 24-Monats-Prognose und zwölfmonatige Fortführungsprognose als verschiedene Rechenwerke führen.
+6. Nur Maßnahmen einrechnen, deren Betrag, Zeitpunkt, rechtliche Durchsetzbarkeit und tatsächliche Umsetzbarkeit belegt sind.
 
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+## 1.5 Rechtsprechungsanker und Quellenstatus
 
-### 2. Sofort-Triage
+| Entscheidung | Tragende Verwendung | Grenze |
+| --- | --- | --- |
+| BGH, Urteil vom 18.04.2024 - IX ZR 129/22 | Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht belegten Liquiditätsstatus zunächst einfach bestreiten | kein Ersatz für eine positionsbezogene Liquiditätsprüfung |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | objektiver Bestand streitiger nicht titulierter Verbindlichkeiten; vollstreckbarer Titel mit eingeleiteter Vollstreckung grundsätzlich zum Nennbetrag | Tatsachen, Titelinhalt und Verfahrensstand stets aktenbezogen prüfen |
+| BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25 | Darlegung einer behaupteten Schlechterstellung und realistischer Alternativszenarien | Nichtannahmeentscheidung; keine Sachentscheidung zur Verfassungsmäßigkeit des StaRUG |
+| BGH, Beschluss vom 23.04.2026 - IX ZB 18/25 | Darlegungslast für die ausnahmsweise Fortführung der Restrukturierungssache nach Paragraf 33 Absatz 2 StaRUG | Aussage auf den konkreten Aufhebungs- und Beschwerdekontext begrenzen |
 
-Arbeite danach in dieser Reihenfolge:
+Vor jeder externen Verwendung Gericht, Entscheidungsform, Datum, Aktenzeichen, maßgebliche Randnummer und Fortgeltung über eine amtliche Quelle prüfen. Quellenstatus als `amtlich geprüft`, `durch Akte belegt` oder `noch zu verifizieren` kennzeichnen.
 
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Fachmodule vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
+## 1.6 Fachrouting
 
-### 3. Routing-Regeln
+| Aktenlage | Primärer Skill | Unmittelbarer Output |
+| --- | --- | --- |
+| Frühwarnsystem oder Organbericht | `paragraph-1-starug-pflichten-und-24-monats-horizont` | Pflichtenmemo, Eskalations- und Organmatrix |
+| Status oder Prognose unklar | `drohende-zahlungsunfaehigkeit` und `rollierende-liquiditaetsplanung-24-monate-template` | positionsbezogener Status, Szenarien und Belegliste |
+| Antragspflicht möglich | `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` | Insolvenzreife- und Fristenvermerk mit Sofortmaßnahmen |
+| Restrukturierungsplan beabsichtigt | `restrukturierungsplan-architektur-rollierende` | Planlandkarte, Gruppen-, Anlagen- und Abstimmungsmatrix |
+| Ablehnende Gruppe | `cross-class-cram-down-und-absolute-priority` | Vergleichsrechnung, Planwert- und Rangprüfung |
+| Vollstreckungsdruck | `stabilisierungsanordnung-und-vollstreckungssperre` | Antrags- und Evidenzpaket mit Dauer- und Aufhebungsrisiko |
+| Beraterwarnung | `paragraph-102-starug-warnpflicht-bei-rechtsberatern` | adressatengerechter Warnvermerk mit Zustellnachweis |
 
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
+Wenn ein Treffer eindeutig ist, arbeite ohne Auswahlmenü weiter. Nenne Alternativen nur, wenn sie rechtlich unterschiedliche Verfahrenswege eröffnen.
 
-### 4. Antwortformat für den Einstieg
+## 1.7 Mindestoutput
 
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
+Jede Bearbeitung endet mit:
 
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
+1. einer Ergebnisrichtung mit Stichtag und Sicherheitsgrad;
+2. einer Fristen- und Insolvenzreifeampel;
+3. einer Belegmatrix für jede tragende Annahme;
+4. einer Organ- und Maßnahmenliste mit Verantwortlichem und Termin;
+5. dem nächsten fertigen Arbeitsprodukt, etwa Vermerk, Beschlussvorlage, Warnschreiben, Planstruktur oder Instrumentenantrag.
 
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
+## 1.8 Fehlerbremse
 
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
-
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
-
-### 5. Fachmodule in diesem Plugin
-
-| Skill | Wann vorschlagen? |
-|---|---|
-| `cross-class-cram-down-und-absolute-priority` | Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG… |
-| `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` | Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2… |
-| `drohende-zahlungsunfaehigkeit-paragraph-18-inso` | Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG… |
-| `fortbestehensprognose-zweistufig` | Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11… |
-| `fruehwarnsystem-architektur-zwei-jahres-horizont` | StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS… |
-| `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` | Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG… |
-| `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` | Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als… |
-| `integrierte-planung-guv-bilanz-cashflow` | Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB… |
-| `kennzahlenset-und-ampelsystem-starug-konform` | StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F.… |
-| `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` | IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Maßnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-,… |
-| `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als… |
-| `restructuring-lounge-impulsvortrag-toolkit` | Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate. |
-| `restrukturierungsbeauftragter-und-sachwalter` | Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Gläubigervertreter prüft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76… |
-| `restrukturierungsplan-architektur-paragraph-7ff-starug` | StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25… |
-| `rollierende-liquiditaetsplanung-24-monate-template` | Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), IDW S 11 (Fortbestehensprognose), IDW S 6… |
-| `stabilisierungsanordnung-und-vollstreckungssperre` | Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51… |
-
-## Worum geht es?
-
-Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) verpflichtet Geschäftsführer und Vorstande, ein Fruehwarnsystem mit 24-Monats-Horizont zu unterhalten (§ 1 StaRUG). Daneben trifft Rechtsberater (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte) bei Anzeichen einer Unternehmenskrise eine eigenstaendige Hinweis- und Warnpflicht nach § 102 StaRUG.
-
-Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem und der Krisenstadien-Diagnose über Insolvenzantragspflicht und Fortbestehensprognose bis hin zur Restrukturierungsplan-Architektur, dem Cross-Class-Cram-Down und der Stabilisierungsanordnung. Zielgruppe sind Restrukturierungsberater, Steuerberater, Wirtschaftspruefer und Unternehmensjuristen.
-
-## Wann brauchen Sie diese Skill?
-
-- Ein Mandant zeigt erste Krisenzeichen (sinkende Liquiditaetsreichweite, Covenant-Verletzung, Umsatzeinbruch) und Sie wollen das Krisenstadium nach IDW S 6 einordnen.
-- Ein Geschäftsführer fragt, ob und bis wann er Insolvenz anmelden muss (§ 15a InsO, Drei-Wochen-Frist).
-- Als Steuerberater oder Anwalt wollen Sie Ihre Warnpflicht nach § 102 StaRUG dokumentieren, um eigene Haftungsrisiken zu begrenzen.
-- Ein Restrukturierungsplan soll nach §§ 7 ff. StaRUG aufgestellt werden und das Gericht soll den Plan gegen ablehnende Gläubiger bestaetigen.
-- Ein Schuldner benoetigt eine Stabilisierungsanordnung nach §§ 49 ff. StaRUG, um Vollstreckungsversuche zu stoppen.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Drohende Zahlungsunfaehigkeit** — Zugangsberechtigung zum StaRUG: Wahrscheinlichkeit, dass das Unternehmen kuenftig nicht mehr zahlen kann (§ 18 InsO), abzugrenzen von der aktuellen ZU nach § 17 InsO.
-- **Fortbestehensprognose** — zweistufige Prüfung nach IDW S 11 (Fortfuehrungswille + Fortfuehrungsfaehigkeit), die bei Ueberschuldung (§ 19 InsO) die Insolvenzantragspflicht ausloesen oder verhindern kann.
-- **Cram-Down** — gerichtliche Planbestaetigung gegen ablehnende Gläubiger-Gruppen nach § 26 StaRUG (Cross-Class-Cram-Down).
-- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentümer-Interesse zum Gläubiger-Interesse bei drohender Insolvenz.
-- **Restrukturierungsbeauftragter** — vom Gericht bestellter Sachwalter nach § 73 StaRUG; Pflicht-Bestellung bei bestimmten Plantypen.
-- **DSCR** — Debt Service Coverage Ratio; einer der zentralen Krisenfruehindikator-KPIs.
-- **IDW S 6** — Standard des Instituts der Wirtschaftspruefer für Sanierungskonzepte.
-
-## Rechtsgrundlagen
-
-- § 1 StaRUG — Krisenfrueherkennung und -management (24-Monats-Pflicht)
-- § 18 InsO — drohende Zahlungsunfaehigkeit (Zugangstatbestand StaRUG)
-- § 19 InsO — Ueberschuldung
-- § 15a InsO — Insolvenzantragspflicht (Drei-Wochen-Frist)
-- §§ 7 ff. StaRUG — Restrukturierungsplan
-- §§ 49-59 StaRUG — Stabilisierungsanordnung
-- § 73 StaRUG — Restrukturierungsbeauftragter
-- § 102 StaRUG — Warnpflicht bei Rechtsberatern
-- § 43 GmbHG — Sorgfaltspflicht und Haftung des GmbH-Geschäftsführers
-- § 93 AktG — Vorstandshaftung
-
-## Schritt-für-Schritt: Einstieg ins Plugin
-
-1. Mandantenkonstellation klären: Geschäftsführer/Vorstand, Rechtsberater, Gläubiger oder Restrukturierungsberater?
-2. Phase des Mandats bestimmen: Fruehwarnung (Krisenstadium Eins bis Drei), drohende ZU/StaRUG-Zugangsberechtigung, Restrukturierungsplan oder Insolvenznaehe (§ 15a InsO)?
-3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
-4. Eilfristen prüfen: § 15a InsO — maximale Antragsfrist drei Wochen bei ZU oder Ueberschuldung; kein Aufschub möglich.
-5. Anschluss-Skill bestimmen: Nach Krisenstadium-Diagnose zu Liquiditaetsplanung und ggf. Warnbrief; bei StaRUG-Zugang zu Planarchitektur.
-
-## Skill-Tour (was gibt es hier?)
-
-- `paragraph-1-starug-pflichten-und-24-monats-horizont` — Erklaert § 1 StaRUG: Adressatenkreis, Planungshorizont und Haftungsfolgen bei Pflichtverletzung.
-- `fruehwarnsystem-architektur-zwei-jahres-horizont` — StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont, KPI-Kaskade und Eskalationsstufen aufbauen.
-- `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Dashboard-Template mit numerischen Schwellenwerten und gruen/gelb/rot-Ampel.
-- `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Maßnahmenkorridore bestimmen.
-- `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO prüfen und dokumentieren.
-- `fortbestehensprognose-zweistufig` — Zweistufige Fortbestehensprognose nach IDW S 11 (Fortfuehrungswille + Faehigkeit) erstellen.
-- `integrierte-planung-guv-bilanz-cashflow` — Konsistentes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen.
-- `rollierende-liquiditaetsplanung-24-monate-template` — 24-Monats-Liquiditaets-Forecast mit woechentlicher Granularitaet und Stresstests.
-- `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Triggerlogik § 15a InsO, Maximalfrist drei Wochen, Handlungsoptionen.
-- `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsrisiken des GF bei Krisenversagen und Enthaftungsstrategien.
-- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Krisenprotokoll-Templates und Sitzungsvorlagen für Haftungsschutz.
-- `pflichtenkollision-und-shift-of-fiduciary-duties` — Shift of Fiduciary Duties: wann Gläubigerinteressen Vorrang haben.
-- `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Eigene Haftungsrisiken des Beraters bei Krisenmandat und Warnpflicht-Ausloeser.
-- `mandantenbrief-warnung-paragraph-102-starug-template` — Warnbrief-Templates für alle drei Eskalationsstufen nach § 102 StaRUG.
-- `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG-Restrukturierungsplan aufbauen: Planbestandteile, Gruppenbildung, Mehrheiten.
-- `cross-class-cram-down-und-absolute-priority` — Gerichtliche Planbestaetigung gegen ablehnende Gläubiger-Gruppen nach § 26 StaRUG.
-- `stabilisierungsanordnung-und-vollstreckungssperre` — Vollstreckungsschutz nach §§ 49-59 StaRUG beantragen.
-- `restrukturierungsbeauftragter-und-sachwalter` — Bestellung, Aufgaben und Honorar des Restrukturierungsbeauftragten nach § 73 StaRUG.
-- `restructuring-lounge-impulsvortrag-toolkit` — Toolkit für Impulsvortraege zu Krisenfrueherkennung und StaRUG.
-
-## Worauf besonders achten
-
-- **Drei-Wochen-Frist ist absolut**: Bei eingetretener ZU oder Ueberschuldung laeuft die Insolvenzantragspflicht nach § 15a InsO unabhaengig davon, ob Sanierungsverhandlungen laufen. Kein Aufschub durch blosse Hoffnung.
-- **StaRUG setzt drohende ZU voraus**: Der Zugang zum StaRUG-Verfahren benoetigt § 18 InsO als Tatbestand; bei bereits eingetretener ZU ist § 17 InsO gegeben und nur InsO anwendbar.
-- **Beraterneutralitaet vs. Berater-Warnpflicht**: § 102 StaRUG verpflichtet den Berater zur eigenen Warnung; Schweigen aus Mandantenruecksicht ist eine Pflichtverletzung.
-- **Business Judgment Rule in der Krise eingeschraenkt**: Die BJR (§ 93 AktG) schuetzt den Vorstand nur bei informierter Entscheidung auf Basis vollstaendiger Dokumentation.
-- **Absolute-Priority-Rule beim Cram-Down**: Das Gericht bestaetigt den Plan nur, wenn kein Gläubiger schlechter gestellt ist als bei der besten Alternativentscheidung (§ 30 StaRUG).
-
-## Typische Fehler
-
-- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Maßnahmenkonzept; Gerichte und Gläubigerausschuesse erwarten die Stadien-Einordnung.
-- Fruehwarnsystem nur auf dem Papier: § 1 StaRUG verlangt ein funktionierendes System, nicht nur ein Dokument; fehlende Protokolle belegen die Pflichtverletzung.
-- Warnbrief ohne Quittung: Ohne Empfangsbestaetigung lässt sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
-- Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt für die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.
-- Cram-Down ohne Schlechterstellungsverbot-Nachweis beantragt: Das Gericht wird den Antrag zurueckweisen, wenn der Schlechterstellungstest nicht dokumentiert ist.
-
-## Quellen und Aktualitaet
-
-- Stand: 05/2026
-- StaRUG in geltender Fassung
-- InsO §§ 15a, 17, 18, 19 in geltender Fassung
-- GmbHG § 43, AktG § 93 in geltender Fassung
-- IDW S 6 (Sanierungskonzept), IDW S 11 (Fortbestehensprognose), IDW PS 340 n.F.
+1. Paragraf 1 StaRUG nicht als gesetzliche 24-Monats-Pflicht darstellen.
+2. Paragraf 29 StaRUG nicht als Anzeige oder Eröffnungsantrag bezeichnen; die Anzeige steht in Paragraf 31 StaRUG.
+3. Paragraf 26 StaRUG als gruppenübergreifende Mehrheitsentscheidung, Paragraf 27 als absolute Priorität und Paragraf 64 als individuellen Minderheitenschutz behandeln.
+4. Den Hinweis nach Paragraf 102 StaRUG nicht zu einer allgemeinen Warnpflicht jedes Beraters in jedem Mandat ausweiten.
+5. Die Höchstfristen nach Paragraf 15a InsO nie als Schonfrist behandeln.
+6. Keine Entscheidung aus dem Gedächtnis ergänzen und keine Nichtannahmeentscheidung als materielle Bestätigung verwenden.

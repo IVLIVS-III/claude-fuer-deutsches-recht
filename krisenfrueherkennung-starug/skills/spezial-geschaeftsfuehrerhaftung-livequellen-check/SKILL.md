@@ -6,7 +6,7 @@ description: "Wenn es um Geschaeftsfuehrerhaftung: Livequellen- und Rechtsprechu
 # Geschaeftsfuehrerhaftung: Livequellen- und Rechtsprechungscheck
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `krisenfrueherkennung-starug`. Ausgangspunkt ist: Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.
+Dieser Skill prüft die Haftung der Geschäftsleitung bei Krisensignalen. Er trennt die fortlaufende Überwachungs-, Gegenmaßnahmen- und Berichtspflicht nach Paragraf 1 StaRUG von der regelmäßigen 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO, der Antragspflicht nach Paragraf 15a InsO und der Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG.
 
 Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Geschaeftsfuehrerhaftung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
@@ -15,7 +15,7 @@ Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Gescha
 
 - **Thema:** Geschaeftsfuehrerhaftung.
 - **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
-- **Plugin-Rahmen:** Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschä....
+- **Plugin-Rahmen:** Frühwarnsystem, Insolvenzreife, Organentscheidung, Dokumentation und gerichtliche Restrukturierungsinstrumente werden als getrennte Prüfstationen behandelt.
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 

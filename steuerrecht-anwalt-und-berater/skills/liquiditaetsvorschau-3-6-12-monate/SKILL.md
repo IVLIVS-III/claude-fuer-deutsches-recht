@@ -32,13 +32,13 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 ### Primärnormen
 
 
-**§ 18 InsO** — Drohende Zahlungsunfähigkeit: voraussichtliche Unfähigkeit im 24-Monats-Horizont; Grundlage Eigenantragsoption.
+**Paragraf 18 InsO** — Drohende Zahlungsunfähigkeit: voraussichtliche Unfähigkeit zur Erfüllung bestehender Zahlungspflichten bei Fälligkeit; in aller Regel gilt ein Prognosezeitraum von 24 Monaten.
 
-**§ 19 InsO** — Überschuldung: Fortbestehensprognose primär; bei negativer Prognose Liquidationswerte-Status. Prognosezeitraum nach SanInsKG 24 Monate (für Anträge bis 31.12.2026).
+**Paragraf 19 InsO** — Überschuldung: Fortführungsprognose für regelmäßig zwölf Monate; bei negativer Prognose Überschuldungsstatus zu Liquidationswerten.
 
-**§ 15a InsO** — Antragspflicht: 3 Wochen (§ 17), 6 Wochen (§ 19).
+**Paragraf 15a InsO** — Antrag ohne schuldhaftes Zögern; drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung sind nur Höchstzeiträume.
 
-**§ 102 StaRUG** — Hinweispflicht des Steuerberaters; Liquiditätsvorschau als technisches Instrument der Krisenfrüherkennung.
+**Paragraf 102 StaRUG** — Bei einem Auftrag zur Jahresabschlusserstellung prüfen, ob Anhaltspunkte für einen möglichen Insolvenzgrund offenkundig sind und die mögliche Insolvenzreife dem Mandanten vermutlich nicht bewusst ist. Die Liquiditätsvorschau ist nur eine mögliche Belegquelle und kein eigener Auslöser der Norm.
 
 ### Leitentscheidungen
 
@@ -62,7 +62,7 @@ Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollie
 | 10 | Mittel- und Langfristhorizont | 26 Wochen (monatlich aggregiert ab Monat 4), 52 Wochen; Fortführungsprognose-Grundlage | § 18 und § 19 InsO |
 | 11 | Fortführungsprognose IDW S 6 | Krisenstadium; Konzept; integrierte Planung; überwiegende Wahrscheinlichkeit | § 19 InsO Stufe 1 |
 | 13 | Indizienkatalog prüfen | SV-Rückstände, Stundungsanträge, Lastschriftrückläufer, eingestellte Lieferantenzahlungen | Zahlungseinstellung ohne Deckungslücke möglich |
-| 14 | Ergebnis-Memo | Ampel-Zusammenfassung; frühester Rot-Eintritt (KW-Angabe); Handlungsempfehlung; § 102 StaRUG | Mandantenkommunikation |
+| 14 | Ergebnis-Memo | Ampel-Zusammenfassung; frühester Rot-Eintritt mit Kalenderwoche; Handlungsempfehlung; Tatbestand des Paragrafen 102 StaRUG bejaht, verneint oder offen | Mandantenkommunikation |
 | 15 | Excel-Export | Sheets: 13W, 26W, 52W, Fortführungsprognose, Annahmen; Ampel bedingte Formatierung | Arbeitsunterlage |
 
 ## Wochenraster-Struktur (Excel-Vorlage)
@@ -97,7 +97,7 @@ Stand: [Datum]
 | Woche 0–13 | Zahlungsunfähigkeit; 3-Wochen-Test wöchentlich rollierend | Wöchentliche Aktualisierung |
 | Woche 0–26 | Mittelfristhorizont; Finanzierungsbedarf | Bankgespräch; Gesellschafterdarlehen |
 | Woche 0–52 | Fortbestehensprognose § 19 InsO; IDW S 6-Grundlage | Sanierungskonzept |
-| Monate 0–24 | § 18 InsO drohende ZU; SanInsKG | Eigenantragsoption; StaRUG |
+| Monate 0–24 | Paragraf 18 Absatz 2 InsO, drohende Zahlungsunfähigkeit | Eigenantrag und gerichtliche StaRUG-Instrumente gesondert prüfen |
 
 ## Typische Fehler
 
@@ -212,9 +212,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Situation | Empfehlung |
 |---|---|
-| Grüne Ampeln, kein § 17-Risiko | Monatliche Aktualisierung; § 102 StaRUG-Hinweispflicht dokumentiert erfüllt |
+| Grüne Ampeln, kein Paragraf-17-Risiko | Monatliche Aktualisierung; Tatbestand des Paragrafen 102 StaRUG nur bei Jahresabschlussauftrag prüfen und Ergebnis dokumentieren |
 | Gelbe Ampeln — Zahlungsstockung absehbar lösbar | Bankgespräch; Gesellschafterdarlehen; Debitoren-Beschleunigung; wöchentliche Aktualisierung |
-| Rote Ampele — § 17 InsO-Schwelle | Sofortige anwaltliche Beratung; Antragspflicht-Check; § 102 StaRUG-Warnschreiben |
+| Rote Ampel — Schwelle des Paragrafen 17 InsO | Sofortige anwaltliche Prüfung der Antragspflicht; Hinweis nach Paragraf 102 StaRUG nur bei Jahresabschlussauftrag und vollständig erfülltem Tatbestand |
 | Großauftrag als einziger Ausweg | Worst-Case-Szenario ohne Auftrag ausarbeiten; nicht auf Eingang vertrauen ohne Vertrag |
 | Kreditlinien ausgeschöpft | Neue Finanzierungsquellen (Factoring, Gesellschafter, Sale-and-Lease-back) prüfen |
 
@@ -222,16 +222,17 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - `anw-insolvenzreife-pruefung-17-19-inso` — anwaltliche Insolvenzreife-Prüfung mit Datenbasis aus Liquiditätsvorschau
 - `stb-bwa-sus-bilanz-pruefung` — vorgelagerte BWA/SuSa-Prüfung
-- `stb-warnschreiben-krisensignale` — § 102 StaRUG-Pflichthinweis an GF
+- `stb-warnschreiben-krisensignale` - tatbestandsgebundener Hinweis nach Paragraf 102 StaRUG oder gesonderter vertraglicher Warnhinweis
 
 ## Quellen
 
-- InsO §§ 17, 18, 19, 15a, 15b
-- StaRUG §§ 1, 102
-- SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
+- [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html)
+- [Paragraf 18 InsO](https://www.gesetze-im-internet.de/inso/__18.html)
+- [Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html)
+- [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html)
+- [Paragraf 102 StaRUG](https://www.gesetze-im-internet.de/starug/__102.html)
+- Paragraf 19 Absatz 2 InsO: regelmäßiger Zwölfmonatszeitraum seit 01.01.2024; SanInsKG-Sonderregelung ausgelaufen
 - IDW S 6 (Sanierungskonzept); IDW S 11 (Insolvenzeröffnungsgründe)
-- K. Schmidt/Herchen, InsO § 17 Rn. 5–35
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Pape/Schaltke, StaRUG § 102 Rn. 8–35
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

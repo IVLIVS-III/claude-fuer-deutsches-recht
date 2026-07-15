@@ -1,63 +1,102 @@
 ---
 name: inso-p245a-schlechterstellung-bei-naturlichen-personen
-description: "Wenn es um Inso P245a Schlechterstellung Bei Naturlichen Personen in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Prüft Paragraf 245a InsO als besondere Vergleichsannahme bei Insolvenzplänen natürlicher Personen. Ermittelt Einkommens-, Vermögens- und Familienverhältnisse am Abstimmungstag, bildet das Ohne-Plan-Szenario mit oder ohne zulässigen Restschuldbefreiungsantrag und liefert Schlechterstellungsrechnung, Belegmatrix und gerichtsfesten Planbaustein."
 ---
 
-# § 245a InsO (Schlechterstellung bei natürlichen Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+# 1. Schlechterstellung bei natürlichen Personen
 
+## 1.1 Direktstart
 
-## Arbeitsbereich
+Lies Insolvenzplan, Gruppenübersicht, Vergleichsrechnung, Abstimmungsunterlagen, Antrag auf Restschuldbefreiung, Einkommensnachweise, Vermögensverzeichnis, Unterhaltspflichten und Verfahrenschronologie. Beginne mit einer Vergleichsrechnung; frage nur nach fehlenden Werten, die das Ergebnis verändern können.
 
-**Inso P242 Schriftliche P243 Abstimmung P244** ordnet den Fall über die tragenden Prüfungslinien: § 242 InsO (Schriftliche Abstimmung) im Mandat prüfen, § 243 InsO (Abstimmung in Gruppen) im Mandat prüfen, § 244 InsO (Erforderliche Mehrheiten) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+## 1.2 Normfunktion
 
-## Arbeitsweg
+Paragraf 245a InsO ist keine allgemeine Absolute-Priority-Regel und kein eigener Cram-down-Tatbestand. Die Norm konkretisiert bei einem Schuldner, der eine natürliche Person ist, die voraussichtliche Schlechterstellung nach Paragraf 245 Absatz 1 Nummer 1 InsO. Über Paragraf 251 Absatz 2 Satz 2 InsO gilt sie auch beim individuellen Minderheitenschutz entsprechend.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Im Zweifel sind zwei Annahmen zu verwenden:
 
-**Fokus:** § 245a InsO (Schlechterstellung bei natürlichen Personen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+1. Die Einkommens-, Vermögens- und Familienverhältnisse am Tag der Abstimmung bleiben für die Verfahrensdauer und den anschließenden Zeitraum maßgeblich, in dem Insolvenzgläubiger ihre Restforderungen unbeschränkt geltend machen können.
+2. Hat der Schuldner einen zulässigen Antrag auf Restschuldbefreiung gestellt, wird im Zweifel angenommen, dass die Restschuldbefreiung mit Ablauf der Abtretungsfrist des Paragrafen 287 Absatz 2 InsO erteilt wird.
 
-### § 245a InsO — Schlechterstellung bei natürlichen Personen
+## 1.3 Eingangstore
 
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `§ 245a InsO — Schlechterstellung bei natürlichen Personen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+| Frage | Ergebnis | Beleg |
+| --- | --- | --- |
+| Ist der Schuldner eine natürliche Person? | [ja/nein] | [Eröffnungsbeschluss oder Stammdaten] |
+| Wird die Zustimmungsfiktion nach Paragraf 245 InsO geprüft? | [ja/nein] | [Abstimmungsergebnis] |
+| Oder liegt ein Antrag nach Paragraf 251 InsO vor? | [ja/nein] | [Widerspruch, Antrag und Protokoll] |
+| Ist ein Antrag auf Restschuldbefreiung gestellt und zulässig? | [ja/nein/offen] | [Antrag und gerichtliche Verfügung] |
+| Welcher Zeitpunkt war für die Abstimmung maßgeblich? | [Datum] | [Protokoll] |
 
-## Normkontext
-- Paragraph: **§ 245a InsO**
-- Überschrift: **Schlechterstellung bei natürlichen Personen**
-- Systematische Umgebung: Sechster Teil Insolvenzplan / Erster Abschnitt Aufstellung des Plans / Zweiter Abschnitt Annahme und Bestätigung des Plans
-- Amtlicher Ausgangspunkt: aktueller Wortlaut der InsO; vor verbindlicher Ausgabe live gegen `gesetze-im-internet.de` prüfen.
-- Praxisverdichtung: Planinhalt, Gruppenbildung, Vergleichsrechnung, Abstimmung, Bestätigung, Minderheitenschutz
+Ohne natürliche Person oder ohne Schlechterstellungsprüfung nach Paragraf 245 beziehungsweise 251 InsO ist Paragraf 245a InsO nicht das richtige Werkzeug.
 
-## Prüfprogramm
-- Planstruktur, Gruppenbildung, Vergleichsrechnung und Mehrheiten zusammenführen
-- Eingriffe in Rechte präzise beschreiben
-- Bestätigungshindernisse und Minderheitenschutz vorweg prüfen
+## 1.4 Tatsachenmatrix am Abstimmungstag
 
-## Paragraphenspezifische Leitfragen
-- Welche Gläubigergruppe wird wie wirtschaftlich betroffen?
-- Ist die Vergleichsrechnung belastbar und nachvollziehbar?
-- Welche Einwendungen gegen Gruppenbildung, Information oder Abstimmung sind zu erwarten?
-- Den Begriff „Schlechterstellung bei natürlichen Personen“ nicht isoliert auslegen, sondern in Ablauf, Beteiligtenrolle und wirtschaftliche Insolvenzfolge übersetzen.
-- Bei streitiger Auslegung zuerst den aktuellen Gesetzeswortlaut und frei zugängliche Rechtsprechung prüfen; keine Fundstelle aus Erinnerung erfinden.
+| Bereich | Ist-Zustand | Monatlicher oder einmaliger Wert | Beleg | Streitpunkt |
+| --- | --- | ---: | --- | --- |
+| Nettoeinkommen und variable Bezüge | [Angabe] | [EUR] | [Abrechnung] | [offen] |
+| Selbständige Einkünfte | [Angabe] | [EUR] | [Auswertung und Bescheid] | [offen] |
+| Pfändbarer Betrag | [Berechnung] | [EUR] | [Berechnungsblatt] | [offen] |
+| Unterhaltsberechtigte Personen | [Angabe] | [Auswirkung] | [Urkunde und Zahlung] | [offen] |
+| Verwertbares Vermögen | [Gegenstand] | [EUR] | [Bewertung] | [offen] |
+| Absonderungsrechte und Kosten | [Angabe] | [EUR] | [Vertrag und Abrechnung] | [offen] |
+| Neuerwerb und erwartbare Änderungen | [Angabe] | [EUR] | [Vertrag oder Prognose] | [offen] |
 
-## Akten- und Belegarbeit
-Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die § 245a InsO tragen oder widerlegen können:
-- Insolvenzplan
-- Vergleichsrechnung
-- Gruppenmatrix
-- Finanzplanung
-- Abstimmungsprotokoll
-- Gerichtsbeschluss
+Änderungen gegenüber dem Abstimmungstag nicht frei erfinden. Wer von den gesetzlichen Zweifelsannahmen abweichen will, muss die konkrete Entwicklung und ihre belastbare Grundlage offenlegen.
 
-## Arbeitsausgabe
-- **Kurzvermerk:** Normzweck, Tatbestand, fehlende Tatsachen, Rechtsfolge, Risikoampel.
-- **Mandantenfassung:** klare Handlungsempfehlung mit Fristen, Belegen und nächstem Schritt.
-- **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
-- **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
+## 1.5 Vergleichsrechnung
+
+Rechne mindestens:
+
+1. Planleistung je betroffener Gruppe und je widersprechendem Beteiligten.
+2. Ohne-Plan-Erlös aus vorhandener Masse nach Kosten und Absonderung.
+3. Erwartete pfändbare Bezüge während des maßgeblichen Zeitraums.
+4. Wirkung eines zulässigen Restschuldbefreiungsantrags auf die Durchsetzbarkeit restlicher Forderungen.
+5. Sensitivität für nachweisbar absehbare Änderungen von Einkommen, Vermögen oder Unterhalt.
+6. Differenz aus Planwert und Ohne-Plan-Wert ohne Saldierung ungleichartiger Vorteile.
+
+```text
+Planwert des Beteiligten                         [EUR]
+Ohne-Plan-Verteilung aus vorhandener Masse       [EUR]
+Pfändbare Bezüge im Vergleichszeitraum            [EUR]
+Sonstige belegte Erlöse                           [EUR]
+Abzüglich Kosten und vorrangige Belastungen       [EUR]
+Ohne-Plan-Wert gesamt                             [EUR]
+Differenz Planwert minus Ohne-Plan-Wert            [EUR]
+Ergebnis                                          [nicht schlechter/schlechter/offen]
+```
+
+## 1.6 Plan- und Gerichtsbaustein
+
+```text
+Der Schuldner ist eine natürliche Person. Für die Prüfung nach
+Paragraf [245 Absatz 1 Nummer 1 / 251] InsO wird gemäß Paragraf 245a
+InsO im Zweifel von den Einkommens-, Vermögens- und
+Familienverhältnissen am Abstimmungstag [Datum] ausgegangen.
+
+Ein zulässiger Antrag auf Restschuldbefreiung [liegt vor/liegt nicht
+vor/ist aus folgenden Gründen noch offen]. [Bei zulässigem Antrag: Für
+die Vergleichsrechnung wird im Zweifel die Erteilung mit Ablauf der
+Abtretungsfrist nach Paragraf 287 Absatz 2 InsO zugrunde gelegt.]
+
+Die Planleistung beträgt [EUR]. Der ohne Plan voraussichtlich
+erreichbare Wert beträgt nach Abzug von [Kosten und Belastungen] [EUR].
+Die Berechnung beruht auf den Anlagen [Bezeichnungen]. Offene
+Sensitivitäten bestehen bei [Punkte].
+```
+
+## 1.7 Fehlerbremsen
+
+1. Paragraf 245a InsO nicht als allgemeines Obstruktionsverbot bezeichnen; dieses steht in Paragraf 245 InsO.
+2. Restschuldbefreiung nur bei zulässigem Antrag in die gesetzliche Zweifelsannahme einbeziehen.
+3. Abtretungsfrist, Verfahrensdauer und Zeitraum unbeschränkter Restforderungsdurchsetzung nicht vermischen.
+4. Pfändbares Einkommen nicht aus Bruttoeinkommen oder pauschalen Quoten ableiten.
+5. Familienverhältnisse und Unterhaltspflichten am Abstimmungstag belegen.
+6. Gruppen-Cram-down nach Paragraf 245 InsO und individuellen Minderheitenschutz nach Paragraf 251 InsO getrennt prüfen.
+7. Vergleichsannahme und tatsächlich bewiesene abweichende Entwicklung kenntlich machen.
+
+## 1.8 Quelle
+
+- [Paragraf 245a InsO](https://www.gesetze-im-internet.de/inso/__245a.html)
+- [Paragraf 245 InsO](https://www.gesetze-im-internet.de/inso/__245.html)
+- [Paragraf 251 InsO](https://www.gesetze-im-internet.de/inso/__251.html)

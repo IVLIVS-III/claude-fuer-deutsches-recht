@@ -52,7 +52,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - InsO Paragraf 18: drohende Zahlungsunfähigkeit.
 - InsO Paragraf 19: Überschuldung.
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
-- Paragraf 217 InsO (Plan-Option) → Paragraf 218 InsO (Plan-Vorlage) → Paragrafen 220-221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235-244; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestätigung, Vollzug); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 244 und 245 InsO — Abstimmungsmehrheiten und Obstruktionsverbot (Cramdown); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 251 InsO — Minderheitenschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

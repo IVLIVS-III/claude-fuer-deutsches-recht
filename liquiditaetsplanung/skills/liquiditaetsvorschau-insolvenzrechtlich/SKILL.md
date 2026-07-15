@@ -107,7 +107,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 
 - Excel-Datei aus der Vorlage befüllen (zwingend).
 - HTML-Padlet oder Markdown-Artefakt nur, wenn so gewählt.
-- Bei Quote ≥ 10 % und fehlender Schließbarkeit: Übergabe an `antragspflicht-15a-inso`; bei Steuerberatermandat Hinweis nach § 102 StaRUG dokumentieren.
+- Bei einer erheblichen, nicht kurzfristig schließbaren Lücke an `antragspflicht-15a-inso` übergeben. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag, offenkundigen Anhaltspunkten und vermuteter Unkenntnis des Mandanten anwenden; andere Mandatspflichten getrennt prüfen.
 - Wenn die Vorschau für Bank, StaRUG, Schutzschirm, Eigenverwaltung oder Insolvenzplan genutzt werden soll: ausdrücklich festhalten, dass die Liquiditätsbilanz nur die Cash-Seite liefert. Danach an `idw-s6-integrierte-sanierungsplanung` übergeben, um GuV, Planbilanz, Maßnahmenwirkung, Leitbild und nachhaltige Sanierungsfähigkeit zu prüfen.
 - Memo nur auf Anfrage.
 
@@ -120,7 +120,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 ### Leitentscheidungen (Stand Juni 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
 
 1. **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert; keine anteilige Bewertung nach Prozessrisiko. Randnummer 27: Irrtum nur bei seit langem ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-2. **BGH II ZR 139/23 vom 11.03.2025** — Verbindlichkeit zählt nach materiellem Bestand; Zahlungsunfähigkeit ist objektiv zu bestimmen.
+2. **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil verwenden.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
 5. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft nach Paragraf 142 Absatz 1 Halbsatz 2 InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23

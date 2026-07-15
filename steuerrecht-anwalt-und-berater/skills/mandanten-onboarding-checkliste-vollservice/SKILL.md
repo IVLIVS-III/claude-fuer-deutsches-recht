@@ -111,7 +111,7 @@ G. STEUERN
 
 H. ESKALATION
 [ ] Krisenmandat-Status?
-[ ] Hinweispflichten § 102 StaRUG
+[ ] Jahresabschlussauftrag und gegebenenfalls vollständiger Tatbestand des Paragrafen 102 StaRUG
 [ ] BHV-Anzeige falls relevant
 ```
 

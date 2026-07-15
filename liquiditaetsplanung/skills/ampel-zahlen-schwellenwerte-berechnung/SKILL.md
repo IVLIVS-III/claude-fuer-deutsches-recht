@@ -45,14 +45,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Cash-Outflows: Lohn/Gehalt mit Auszahlungstag, Lohnsteuer/SV-Abgaben (§ 266a StGB nicht stunden), USt-Vorauszahlung, Miete, Tilgung/Zinsen, Lieferanten nach Fälligkeit, sonstige Betriebsausgaben.
 - Endbestand pro Woche: Anfang + Inflow − Outflow.
 
-### 24-Monats-Liquiditätsplan (§ 18 InsO und § 1 StaRUG)
+### 24-Monats-Liquiditätsplan nach Paragraf 18 Absatz 2 InsO
 - Granularität: monatlich, integriert mit GuV-Forecast und Bilanzplanung.
 - Sensitivität: Base/Best/Worst.
 
 ## Schwellenwerte und Ampel
 
 - **GRÜN:** Liquiditätsdeckung > 110 Prozent in jeder Periode des 24-Monats-Horizonts; 13-Wochen-Cash-Reichweite > 6 Wochen Puffer.
-- **GELB:** Liquiditätsdeckung 100–110 Prozent oder Worst-Case unter 100 Prozent — Frühwarnpflicht § 1 StaRUG, Maßnahmenplan.
+- **GELB:** Liquiditätsdeckung 100–110 Prozent oder Worst-Case unter 100 Prozent — bestandsgefährdende Entwicklung nach Paragraf 1 StaRUG prüfen, Maßnahmen- und Organbericht vorbereiten.
 - **ROT:**
  - Liquiditätslücke ≥ 10 Prozent über 3 Wochen → § 17 InsO Zahlungsunfähigkeit, Antragsfrist § 15a InsO.
  - 24-Monats-Plan zeigt Lücke → § 18 InsO drohende ZU, StaRUG-Tor offen.

@@ -110,7 +110,7 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 - Mandant fruehzeitig auf typische Sondereffekte hinweisen (Sonderabschreibung, Investitionsabzugsbetrag § 7g EStG, Sonderzahlungen).
 - Honorar nach StBVV § 33 (Buchfuehrung) und § 35 (Lohnbuchfuehrung) abrechnen, Zusatzleistung BWA-Auswertung gesondert.
 - Bei wiederholten Buchungsfehlern Mandanten-Belegabgabe disziplinieren — Checkliste an Mandanten verteilen.
-- Bei Krisensignalen aus BWA: Querverweis zu stb-bwa-sus-bilanz-pruefung und Hinweispflicht § 102 StaRUG prüfen.
+- Bei Krisensignalen aus der BWA zum Prüfskill wechseln. Paragraf 102 StaRUG nur bei einem Auftrag zur Jahresabschlusserstellung sowie Offenkundigkeit und vermuteter Unkenntnis anwenden; sonst den vertraglichen Warnbedarf getrennt prüfen.
 
 ## Quellen und Updates
 

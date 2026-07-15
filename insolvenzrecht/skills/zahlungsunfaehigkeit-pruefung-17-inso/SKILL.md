@@ -71,7 +71,7 @@ sofern die Unterdeckung mehr als 3 Wochen andauert. Konkretes Az. der grundlegen
 
 **Aktuelle Entwicklungen (Stand Juni 2026):**
 - **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: Zahlungsunfähigkeit ist objektiv zu bestimmen; bei streitigen nicht titulierten Verbindlichkeiten entscheidet die objektive Rechtslage, bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung der Nennwert; Randnummer 27: Irrtum nur bei seit langem ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-- **BGH II ZR 139/23 vom 11.03.2025** — für die Berücksichtigung einer Verbindlichkeit bei Zahlungsunfähigkeit kommt es auf den materiellen Bestand der Verbindlichkeit an; Zahlungsunfähigkeit bleibt objektiv zu bestimmen.
+- **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — Im Verfahren über die Nichtzulassungsbeschwerde verweist der Senat auf die bestehende Rechtsprechung zum materiellen Bestand; nicht als Grundsatzurteil oder eigene Beweislastregel verwenden.
 - **BGH IX ZB 38/24 vom 22.05.2025** — stützt ein Gläubiger seinen Insolvenzantrag allein auf ein vollstreckbares Endurteil, kann dessen Beweiswirkung entfallen, wenn der Schuldner auf dem Prozessweg die Einstellung der Zwangsvollstreckung erreicht.
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
 - **BGH II ZR 206/22 vom 23.07.2024** — fortwirkende Haftung des ausgeschiedenen Geschäftsführers. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>

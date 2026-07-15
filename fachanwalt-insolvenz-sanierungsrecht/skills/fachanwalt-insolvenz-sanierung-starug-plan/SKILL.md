@@ -1,256 +1,93 @@
 ---
 name: fachanwalt-insolvenz-sanierung-starug-plan
-description: "Wenn es um StaRUG-Restrukturierungsplan in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Bearbeitet den StaRUG-Plan als Fachanwalt: grenzt Insolvenzreife ab, prüft Planbetroffenheit und Ausschlüsse, baut Vergleichsrechnung und Gruppenmehrheiten auf, steuert Anzeige und Stabilisierung und bereitet Bestätigung oder Verfahrenswechsel vor. Liefert Strategiepapier, Plan-Redline und Gerichtsmappe."
 ---
 
-# StaRUG-Restrukturierungsplan
+# 1. Fachanwaltliche StaRUG-Plansteuerung
 
-## Zweck
+## 1.1. Arbeitsauftrag
 
-Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kein Insolvenz-Verfahren, kein Insolvenz-Stigma.
+Prüfe den Plan aus vier Blickwinkeln: Geschäftsleitung, planbetroffener Gläubiger, Restrukturierungsgericht und späterer Insolvenzverwalter. Liefere zuerst die drei gefährlichsten Einwendungen und die jeweils fehlende Urkunde.
 
-## 1) Eingangs-Abfrage
+## 1.2. Fachanwaltliche Kernfragen
 
-1. Liquiditäts-Lage: drohende Zahlungsunfähigkeit § 18 InsO?
-2. Bereits Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO? -> dann nicht StaRUG, sondern InsO
-3. Sanierungs-Aussichts-Prüfung mit Sanierungskonzept-Gate
-4. Gläubiger-Struktur (Bank, Lieferanten, Mitarbeiter)?
-5. Welche Gläubiger sollen vom Plan betroffen sein?
+1. Ist der Schuldner heute zahlungsfähig und nicht überschuldet?
+2. Welche Zahlungspflichten führen in der regelmäßigen 24-Monats-Prognose zur drohenden Zahlungsunfähigkeit?
+3. Welche Rechte dürfen nach Paragrafen 2 bis 4 StaRUG gestaltet werden?
+4. Ist die Auswahl nach Paragraf 8 StaRUG krisenbezogen und sachgerecht?
+5. Sind Gruppen, Stimmrechte und Planwertverteilung gerichtsfest?
+6. Welches Instrument nach Paragraf 29 Absatz 2 StaRUG wird tatsächlich gebraucht?
 
-## 2) Voraussetzungen § 29 StaRUG
+## 2. Verfahrenskette
 
-| Voraussetzung | Inhalt |
-|---|---|
-| Drohende Zahlungsunfähigkeit | § 18 InsO — 24-Monats-Prognose |
-| **Keine** Zahlungsunfähigkeit | § 17 InsO — bei Eintritt: Wechsel ins Insolvenzverfahren |
-| Sanierungs-Aussicht | Bescheinigung Prüfer |
-| Antrag des Schuldners | bei Gesellschaft: Geschäftsführer |
+Paragraf 18 InsO für die regelmäßige 24-Monats-Prognose, dann Paragrafen 2 bis 4 StaRUG für die Planreichweite, Paragrafen 5 bis 15 StaRUG für Plan und Anlagen, Paragrafen 17 bis 28 StaRUG für Angebot und Annahme, Paragraf 31 StaRUG für die Anzeige gerichtlicher Instrumente, Paragrafen 49 bis 59 StaRUG für Stabilisierung und Paragrafen 60 bis 67 StaRUG für Bestätigung und Wirkung.
 
-### Vorteil StaRUG vs. Insolvenz
+Paragraf 29 StaRUG bezeichnet die Instrumente. Paragraf 30 StaRUG regelt die Restrukturierungsfähigkeit. Beide Normen ersetzen die Anzeige nach Paragraf 31 StaRUG nicht.
 
-- Nicht-publik möglich (anders als Insolvenz)
-- Schuldner behaelt volle Verfügungsbefugnis
-- Nur betroffene Gläubiger gebunden (anders als Insolvenz-Plan)
-- Schnellerer Verlauf
+## 3. Plan-Redline
 
-## 3) Plan-Struktur § 8 StaRUG
+### 3.1. Planreichweite
 
-### Pflicht-Inhalte
+Entferne Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung und die übrigen ausgeschlossenen Forderungen des Paragrafen 4 StaRUG. Prüfe Steuer- und Sozialversicherungsforderungen konkret; ein pauschaler Ausschluss ist falsch.
 
-1. Darstellender Teil (Sachverhalt, Gründe)
-2. Gestaltender Teil (Eingriffe in Rechte)
-3. Gruppen-Bildung
+### 3.2. Darstellung
 
-### Gruppen § 9 StaRUG
+Der darstellende Teil nach Paragraf 6 StaRUG muss Krise, Maßnahmen, Auswirkungen und die realistische Stellung ohne Plan erklären. Bei vorgesehener Fortführung ist grundsätzlich auch ohne Plan eine Fortführung zu unterstellen, sofern Verkauf oder anderweitige Fortführung nicht aussichtslos sind.
 
-- Gläubiger mit gleichen Rechten und Interessen
-- Typisch: Bank-Kredite, Lieferanten, gesicherte Gläubiger
+### 3.3. Gestaltung
 
-### Mehrheiten je Gruppe § 25 StaRUG
+Der gestaltende Teil nach Paragraf 7 StaRUG bezeichnet jedes geänderte Recht, Kürzung, Stundung, Zins, Sicherheit und jede Bedingung eindeutig. Eine Umwandlung in Anteilsrechte gegen den Willen des Gläubigers ist ausgeschlossen.
 
-- **75 % der Summe** der Forderungen der abgestimmten Gläubiger einer Gruppe
+### 3.4. Gruppen und Werte
 
-### Cross-class cramdown § 26 StaRUG
+1. Rechtsstellungen nach Paragraf 9 Absatz 1 StaRUG trennen.
+2. Weitere Untergruppen nur nach sachgerechten wirtschaftlichen Interessen.
+3. Gleichbehandlung nach Paragraf 10 StaRUG.
+4. Stimmrechtswerte nach Paragraf 24 StaRUG.
+5. Drei-Viertel-Mehrheit nach Paragraf 25 StaRUG.
+6. Ablehnende Gruppe nach Paragrafen 26 bis 28 StaRUG.
+7. Einzelnen Widerspruch nach Paragraf 64 StaRUG gesondert prüfen.
 
-- Bei Verweigerung einer Klasse: Plan kann trotzdem bestätigt werden, wenn:
-  - Plan-Verhältnis-Prüfung erfüllt
-  - Keine Klasse schlechter gestellt als ohne Plan
-  - Mehrheit der Klassen zustimmt
+## 4. Gerichtsmappe
 
-## 4) Stabilisierungsanordnung § 49 StaRUG
+### 4.1. Anzeige
 
-### Funktion
+Die Anzeige nach Paragraf 31 StaRUG enthält mindestens Planentwurf oder Restrukturierungskonzept, Verhandlungsstand und Vorkehrungen zur Pflichterfüllung. Ergänze Angaben zu Verbraucher- und Unternehmensgläubigern, erwartetem Gruppenwiderstand und früheren Restrukturierungssachen.
 
-- Schutz vor Zwangsvollstreckung
-- Vor Sicherheits-Verwertung
-- Maximal **3 Monate**, Verlängerung möglich
+### 4.2. Stabilisierung
 
-### Antrag
+Für den Antrag nach Paragraf 50 StaRUG werden Adressaten, Inhalt und Dauer bestimmt, ein aktueller Planentwurf oder ein Konzept sowie ein sechsmonatiger Finanzplan beigefügt und die Erklärungen nach Absatz 3 vollständig abgegeben. Die Dauer richtet sich nach Paragraf 53 StaRUG.
 
-- Beim Restrukturierungsgericht
-- Glaubhaftmachung Eilbedürftigkeit
+### 4.3. Bestätigung
 
-## 5) Restrukturierungsbeauftragter § 73 StaRUG
+Der Antrag nach Paragraf 60 StaRUG enthält Plan, Anlagen und Abstimmungsnachweise. Prüfe Versagungsgründe nach Paragraf 63 StaRUG, Minderheitenschutz nach Paragraf 64 StaRUG und Beschwerderisiko nach Paragraf 66 StaRUG. Die gesetzlichen Planwirkungen treten nach Paragraf 67 Absatz 1 StaRUG mit der Bestätigung ein.
 
-### Bestellung
+## 5. Krisenwechsel und Rechtsprechung
 
-- Auf Antrag oder von Amts wegen
-- Bei groesseren Verfahren typisch
+BGH, Beschluss vom 23.04.2026 - IX ZB 18/25:
 
-### Aufgaben
+1. Bei angezeigter Insolvenzreife ist die Aufhebung nach Paragraf 33 Absatz 2 StaRUG der Ausgangspunkt.
+2. Der Schuldner trägt die Umstände, die ausnahmsweise ein Absehen von der Aufhebung rechtfertigen sollen.
+3. Freiwillige, rechtlich nicht gesicherte Drittbeiträge sind keine belastbare Rettungsfinanzierung.
+4. Die sofortige Beschwerde kann trotz Wirkungsverlust der Anzeige zulässig bleiben.
 
-- Aufsicht
-- Berichtspflicht Gericht
-- Schutz Mitarbeiter / Pensionierer
+BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Die Nichtannahme ist keine materielle Bestätigung des StaRUG oder des Plans. Sie schärft die Darlegung einer wesentlichen Schlechterstellung und des Alternativszenarios für Paragraf 66 Absatz 2 Nummer 3 StaRUG.
 
-## 6) Workflow
+## 6. Gerichts- und Gegenpositionsmatrix
 
-### Phase 1 — Krisen-Prüfung
+| Angriff | Norm | Erforderlicher Beleg | Reaktion |
+| --- | --- | --- | --- |
+| keine drohende Zahlungsunfähigkeit | Paragraf 63 Absatz 1 Nummer 1 StaRUG | 24-Monats-Prognose | Prämissen und Fälligkeiten belegen |
+| Auswahl taktisch | Paragraf 8 StaRUG | Auswahlvermerk | Krisenbezug und Vollbefriedigung zeigen |
+| Gruppen fehlerhaft | Paragraf 9 StaRUG | Rechts- und Rangmatrix | Gruppen neu abgrenzen |
+| Planwert falsch | Paragrafen 26 bis 28 StaRUG | Unternehmensbewertung | Sensitivität und Rangbrücke ergänzen |
+| individuelle Schlechterstellung | Paragraf 64 StaRUG | Ohne-Plan-Rechnung | Rüge, Glaubhaftmachung und Ausgleichsfonds prüfen |
 
-- Liquiditäts-Plan 24-Monate
-- Bescheinigung Prüfer
-- Sanierungs-Konzept
+## 7. Fehlerbremse
 
-### Phase 1a — Sanierungskonzept-Gate
-
-Vor Anzeige, Planaufstellung oder Stabilisierungsantrag prüfen:
-
-1. **Fortbestehensprognose:** Kann die Zahlungsfähigkeit im Prognosezeitraum mit überwiegender Wahrscheinlichkeit gehalten werden?
-2. **Nachhaltige Sanierungsfähigkeit:** Wird nur Zeit gekauft oder werden Krisenursachen dauerhaft beseitigt?
-3. **Leitbild:** Ist das sanierte Unternehmen konkret beschrieben: Markt, Produkte, Kostenbasis, Organisation, Finanzierung?
-4. **Maßnahmen:** Hat jede Maßnahme Verantwortlichen, Timing, Kosten, Effekt, Abhängigkeit und Belegstatus?
-5. **Integrierte Planung:** Passen GuV, Bilanz und Liquidität zusammen; sind Steuer-, Zins- und Working-Capital-Effekte enthalten?
-6. **Sensitivität:** Trägt der Plan auch bei plausibler Abweichung oder nur im Wunschfall?
-7. **Dokumentation:** Sind Quellen, Annahmen, Planversionen und offene Punkte für Gericht, Gläubiger und Restrukturierungsbeauftragten nachvollziehbar?
-
-Wenn ein Gate rot ist, kein StaRUG-Versprechen ausgeben, sondern zuerst `fachanwalt-insolvenz-idw-s6-sanierungskonzept` nutzen und eine Datenanforderung erstellen.
-
-### Phase 2 — Anzeige § 31 StaRUG
-
-- Beim Restrukturierungsgericht
-- Plan-Inhalts-Skizze
-- Gläubiger-Verzeichnis
-
-### Phase 3 — Plan-Aufstellung
-
-- Schriftliche Plan-Ausarbeitung
-- Gläubiger-Information
-- Vergleichs-Verhandlungen
-
-### Phase 4 — Abstimmung
-
-- Klassen-Aufteilung
-- Schriftliche oder muendliche Abstimmung
-- Mehrheits-Prüfung
-
-### Phase 5 — Bestätigung
-
-- Gerichts-Bestätigung
-- Plan tritt in Kraft
-
-### Phase 6 — Umsetzung
-
-- Anpassung Forderungen
-- Restrukturierungs-Maßnahmen
-- Aufhebung Stabilisierung
-
-## 7) Geschäftsführer-Pflichten § 32 StaRUG
-
-### Pflicht
-
-- Bei Inanspruchnahme StaRUG: Pflicht zur Wahrung Gläubiger-Interessen
-- Pflicht zur Anzeige bei Misserfolg
-
-### Haftung
-
-- Bei Pflichtverletzung: Schadensersatz gegenüber Gläubigern
-- Strafbarkeit § 15a IV InsO bleibt unberuehrt bei Verschleppung
-
-## 8) Cross-Border (EU-RestrukturierungsRL)
-
-- Eintragung im EU-Insolvenz-Register
-- Anerkennung in anderen EU-Staaten
-- Bei Auslands-Gläubigern: spezielle Konsultations-Verfahren
-
-## 9) Typische Fehler
-
-1. **StaRUG bei Zahlungsunfähigkeit § 17 InsO**: Pflicht zum Wechsel in Insolvenz
-2. **Gruppen-Bildung unzureichend**: Plan-Anfechtung droht
-3. **75 %-Mehrheit knapp verfehlt**: Plan scheitert ohne Cross-Class
-4. **Stabilisierungs-Verlängerung versäumt**: Sicherheits-Verwertung
-5. **Bescheinigungs-Prüfer ungeeignet**: Antrag-Ablehnung
-
-## 10) BVerfG- und Restrukturierungsgerichts-Linien (Stand Mai 2026)
-
-- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme wegen unzureichender Substantiierung. Die Kammer entschied weder über die Verfassungsmäßigkeit des StaRUG noch über die materielle Rechtmäßigkeit des Plans; verwertbar ist der Beschluss für die Darlegung einer wesentlichen Schlechterstellung und realistischer Alternativszenarien nach Paragraf 66 Absatz 2 Nummer 3 StaRUG.
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- Restrukturierungsgerichts-Entscheidungen (insb. AG Köln, AG Düsseldorf) zur Bestätigung von Restrukturierungsplänen vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
-
-## 11) Praxis-Hinweise
-
-- StaRUG seit 1.1.2021
-- Bisherige Verfahren-Anzahl: ~50 pro Jahr (gering, da hohe Eintrittsschwellen)
-- Beratungs-Markt: spezielle StaRUG-Kanzleien
-- Kombination mit M&A: "Distressed M&A" via StaRUG
-
-## Anschluss
-
-- `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` — bei Insolvenz-Wechsel
-- `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
-- `krisenfrueherkennung-starug` — bei Vorbereitung
-
-## Triage — StaRUG-Plan oder Insolvenz?
-
-Bevor losgelegt wird, klaere:
-
-1. **Nur drohende ZU?** § 18 InsO Voraussetzung (StaRUG); bei eingetretener ZU § 17 InsO → sofort InsO-Pflicht § 15a InsO!
-2. **Welche Glaeubiger sollen einbezogen werden?** StaRUG erlaubt selektive Einbeziehung nur betroffener Glaeubiger (anders als InsO-Plan).
-3. **75%-Mehrheit je Klasse erreichbar?** § 25 StaRUG — realistischer Mehrheiten-Check vor Plan-Aufstellung.
-4. **Stabilisierungsanordnung nötig?** § 49 StaRUG — Vollstreckungsschutz bis 3 Monate wenn Glaeubiger bereits vollstrecken.
-5. **Restrukturierungsgericht anzeigen?** Anzeige nach § 31 StaRUG als konstitutiver Akt; ohne Anzeige kein Schutz.
-
-## Aktuelle Leitentscheidungen StaRUG
-
-  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- Weitere LG/OLG-Entscheidungen zur Praxis der gerichtlichen Bestätigung (§§ 60–66 StaRUG), zum Cross-Class-Cramdown (§ 26 StaRUG) und zur Stabilisierungsanordnung (§ 49 StaRUG) vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
-
-## Paragrafenkette StaRUG-Plan
-
-§ 29 StaRUG (Restrukturierungssache) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan-Struktur) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 49 StaRUG (Stabilisierung) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Workflow — 7 Schritte StaRUG-Restrukturierungsplan
-
-1. **Krisenstadium verifizieren:** 24-Monats-Forecast § 29 Abs. 2 StaRUG; bei ZU § 17 InsO Notfallwechsel → InsO.
-2. **Plan-Scope bestimmen:** Welche Glaeubiger werden einbezogen (§ 9 StaRUG)? Finanzglaeubiger, Lieferanten, Pensionsansprueche, FA?
-3. **Klassenbildung § 10 StaRUG:** Glaeubiger mit gleichen Rechten und Interessen pro Klasse; mindestens: gesicherte Glaeubiger, Finanzglaeubiger, Handelsglaeubiger.
-4. **Vergleichsrechnung erstellen:** Gegenueber Liquidationswert (Liquiditaetsszenario ohne Plan) — jede Klasse muss im Plan mindestens so viel erhalten wie ohne Plan.
-5. **Plan aufstellen:** Darstellender Teil (§ 8 StaRUG): Sachverhalt, Krisenursachen, Sanierungs-Massnahmen; Gestaltender Teil (§ 9 StaRUG): konkrete Rechtsaenderungen (Stundung, Erlass, Debt-Equity-Swap).
-6. **Abstimmung:** Anzeige § 31 StaRUG → Ladung Glaeubiger → Abstimmungstermin; 75% Summe je Klasse § 25 StaRUG.
-7. **Gerichtsbestaetigung §§ 60-66 StaRUG:** Bestaetigung, Cramdown, Planwirkung § 67 StaRUG.
-
-## Output-Template Plan-Anzeige
-
-**Adressat:** Restrukturierungsgericht [GERICHT] — Tonfall: sachlich-juristisch
-
-```
-An das Amtsgericht [ORT] — Restrukturierungsgericht —
-
-Anzeige einer Restrukturierungssache nach § 31 StaRUG
-
-Anzeigende: [FIRMA GmbH], [ANSCHRIFT], HRB [XX]
-— vertreten durch Geschaeftsfuehrerin [NAME] —
-
-I. Anzeige
-Die Anzeigende zeigt hiermit die Restrukturierungssache an (§ 31 Abs. 1 StaRUG).
-
-II. Restrukturierungsziel
-[Kurze Beschreibung Sanierungskonzept und angestrebter Plan-Inhalt]
-
-III. Eröffnungsground: Drohende Zahlungsunfaehigkeit § 18 InsO
-[Darlegung 24-Monats-Forecast]
-
-IIIa. Sanierungsgrundlage
-[Krisenursachen, Leitbild des sanierten Unternehmens, tragende Maßnahmen, integrierte Planung, wesentliche Annahmen und offene Punkte knapp darstellen.]
-
-IV. Planbetroffene Glaeubiger (§ 9 Abs. 2 StaRUG)
-1. [KLASSE I — Finanzglaeubiger]: [BETRAG EUR]
-2. [KLASSE II — Lieferantenglaeubiger]: [BETRAG EUR]
-
-V. Begleitende Massnahmen
-[ ] Stabilisierungsanordnung § 49 StaRUG    [ ] Restrukturierungsbeauftragter § 73 StaRUG
-```
-
-
-## Leitentscheidung: BGH zur Aufhebung der Restrukturierungssache — IX ZB 18/25
-
-BGH, Beschluss vom 23.04.2026 — IX ZB 18/25 (ECLI:DE:BGH:2026:230426BIXZB18.25.0; erste höchstrichterliche Entscheidung zum StaRUG; das amtliche Beschluss-PDF liegt im Repo der Testakte starug-aufhebung-holding-duesseldorf-ix-zb-18-25 bei — vor Schriftsatzverwendung an amtlicher Quelle gegenprüfen):
-
-- Zeigt der Schuldner Zahlungsunfähigkeit oder Überschuldung nach Paragraf 32 Abs. 3 StaRUG an, hebt das Restrukturierungsgericht die Restrukturierungssache nach Paragraf 33 Abs. 2 Satz 1 Nr. 1 StaRUG grundsätzlich auf; beim Absehen von der Aufhebung (Halbsatz 2 und 3) hat es Ermessen, und die Darlegungslast für alle Absehens-Umstände trägt der Schuldner.
-- Maßstab des Halbsatzes 2 ist nicht, ob die Insolvenzeröffnung den Gläubigern Vorteile bringt, sondern ob sie offensichtlich nicht im Gesamtinteresse der Gläubiger liegt; bei behaupteten Quotenvorteilen darf das Gericht die Unsicherheit einpreisen, ob die prognostizierte Planquote überhaupt erreichbar ist (im Fall: Planquote 1 Prozent gegen behauptete 0 Prozent, Verteilungsvolumen nur 6.119,51 EUR).
-- Halbsatz 3 scheitert, wenn der Restrukturierungserfolg von einer freiwilligen, rechtlich nicht gesicherten Zuzahlung eines Dritten abhängt (im Fall: nicht einmal unterzeichnete Erklärung über einen Planbeitrag von 42.000 EUR). Planbeiträge Dritter sind deshalb vor der Anzeige verbindlich und werthaltig abzusichern.
-- Die sofortige Beschwerde gegen die Aufhebung bleibt zulässig: Weder der Wirkungsverlust der Anzeige (Paragraf 31 Abs. 4 Nr. 3 StaRUG) noch der Ablauf der Sechs-Monats-Frist (Paragraf 31 Abs. 4 Nr. 4 StaRUG) lassen das Rechtsschutzinteresse entfallen; bei Beschwerdeerfolg erlangt die Anzeige ihre Wirkung wieder, einer erneuten Anzeige bedarf es nicht.
-
-Praxisfolge: Wer den Stabilisierungs- und Restrukturierungsrahmen trotz eingetretener Insolvenzreife halten will, muss Planreife, rechtlich gesicherte Finanzierungsbeiträge und die Quotenlogik der Vergleichsrechnung nach Paragraf 6 Abs. 2 StaRUG konkret dartun — sonst ist der richtige Ort der Krisenbewältigung das Insolvenzverfahren.
+1. Keine allgemeine Prüferbescheinigung als Zugangsvoraussetzung behaupten.
+2. Arbeitnehmer und Betriebsrenten nicht als Planbetroffene führen.
+3. Paragraf 31 StaRUG nur für gerichtliche Instrumente als Anzeigevoraussetzung behandeln.
+4. Restrukturierungsbeauftragten nach Paragraf 73 und fakultativen Beauftragten nach Paragraf 77 unterscheiden.
+5. Bei Zahlungsunfähigkeit drei Wochen, bei Überschuldung sechs Wochen als Höchstfrist nach Paragraf 15a InsO verwenden.
+6. Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle einsetzen.

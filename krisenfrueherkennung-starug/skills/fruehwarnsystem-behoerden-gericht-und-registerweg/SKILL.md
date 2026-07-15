@@ -64,9 +64,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Register:** Restrukturierungssache wird **nicht öffentlich** bekannt gemacht (im Gegensatz zur Insolvenz) — Vertraulichkeit erhalten.
 - **Steuerliche Seite:** § 3a EStG Sanierungsgewinn (Restrukturierungsplan zählt zu „sonstigen Maßnahmen zur Schuldenüberwindung" — Verifikation Stand BMF-Schreiben).
 
-## Beraterwarnpflicht § 102 StaRUG
+## Beraterwarnpflicht nach Paragraf 102 StaRUG
 
-- Steuerberater, Rechtsanwälte, Wirtschaftsprüfer mit Mandatsbezug zu Jahresabschluss oder Rechnungslegung müssen den Mandanten auf erkennbare Insolvenzgründe **hinweisen**.
+- Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer, vereidigte Buchprüfer und Rechtsanwälte müssen bei der Erstellung eines Jahresabschlusses auf einen möglichen Insolvenzgrund hinweisen, wenn die Anhaltspunkte offenkundig sind und sie annehmen müssen, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist. Ein allgemeiner Rechnungslegungs- oder Buchführungsbezug genügt nicht.
 - Hinweis schriftlich, dokumentiert, datiert.
 - Verletzung kann zu Beraterhaftung führen — Schadensersatz § 280 BGB.
 

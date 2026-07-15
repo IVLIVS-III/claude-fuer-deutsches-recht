@@ -24,7 +24,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 5. Sind Rangrücktritte oder Patronatserklärungen vorhanden? Liegen die Klauseltexte vor?
 6. Existieren Steuer- oder SV-Rückstände — Finanzamt, Krankenkassen, Berufsgenossenschaft?
 7. Wurde bereits eine Fortbestehensprognose oder ein Sanierungskonzept IDW S 6 erstellt?
-8. Ist der Steuerberater mit der Erstellung des Jahresabschlusses beauftragt (§ 102 StaRUG-Auslöser)?
+8. Ist der Steuerberater mit der Erstellung des Jahresabschlusses beauftragt, sind Insolvenzindizien offenkundig und ist anzunehmen, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
@@ -32,13 +32,13 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ### Primärnormen
 
 
-**§ 19 InsO** — Überschuldung: Vermögen deckt Verbindlichkeiten nicht, es sei denn positive Fortbestehensprognose. Prognosezeitraum 24 Monate (SanInsKG, gültig bis 31.12.2026).
+**Paragraf 19 InsO** — Überschuldung: Vermögen deckt Verbindlichkeiten nicht, es sei denn, die Fortführung ist nach den Umständen überwiegend wahrscheinlich. Regelmäßiger Prognosezeitraum seit 01.01.2024: zwölf Monate.
 
-**§ 15a InsO** — Insolvenzantragspflicht: 3 Wochen (Zahlungsunfähigkeit), 6 Wochen (Überschuldung).
+Paragraf 15a InsO: Antrag ohne schuldhaftes Zögern, höchstens binnen drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
 
 **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife.
 
-**§ 102 StaRUG** — Hinweis- und Warnpflicht des Steuerberaters bei Erstellung des Jahresabschlusses, wenn offenkundige Anhaltspunkte für Insolvenzgründe vorliegen.
+Paragraf 102 StaRUG: Hinweis des Steuerberaters bei der Erstellung des Jahresabschlusses, wenn Anhaltspunkte für einen möglichen Insolvenzgrund offenkundig sind und anzunehmen ist, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist.
 
 **§ 1 StaRUG** — Krisenfrüherkennung durch Geschäftsleitung haftungsbeschränkter Gesellschaften.
 
@@ -64,11 +64,11 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 | 5 | Stille Lasten | Drohende Verluste, Bürgschaften, Garantien, anhängige Prozesse | Rückstellungsbedarf quantifizieren |
 | 6 | Stille Reserven | Selbstgeschaffene immaterielle WG; Sachanlagen-Marktwert vs. Buchwert; Forderungsabtretung | Aktivierungsoptionen prüfen |
 | 7 | Rangrücktritte | Qualifizierter Rangrücktritt § 39 Abs. 2 InsO → passivseitig herausnehmen; einfacher bleibt | Klauseltext prüfen |
-| 8 | Fortbestehensprognose § 19 Abs. 2 InsO | Integrierte Planung 24 Monate (SanInsKG); tragfähiges Konzept; IDW S 6-Elemente | Positiv/Negativ |
+| 8 | Fortbestehensprognose Paragraf 19 Absatz 2 InsO | Integrierte Zwölfmonatsplanung, tragfähige Finanzierungsannahmen und überwiegende Wahrscheinlichkeit; längere Planung nur als zusätzliche Steuerungsebene | Positiv oder negativ |
 | 9 | Zahlungsunfähigkeitsprüfung § 17 InsO | Liquiditätsstatus: fällige Verbindlichkeiten vs. Aktiva I; Quote ≥ 10 %? | Ampel Rot/Gelb/Grün |
 | 10 | Steuer- und SV-Rückstände | Finanzamt, Krankenkassen, BG; Stundung § 222 AO vs. AdV § 361 AO | Passiva I korrekt eingestellt |
 | 11 | Going concern § 252 HGB | Fortführungsannahme haltbar? Abweichende Annahme bei negativer Prognose | Abweichende Angabe im Abschluss |
-| 12 | § 102 StaRUG — Hinweispflicht ausgelöst? | Erstellungsauftrag Jahresabschluss + offenkundige Anhaltspunkte? | Warnschreiben erforderlich |
+| 12 | Paragraf 102 StaRUG | Jahresabschlussauftrag, offenkundige Anhaltspunkte und vermutete Unkenntnis des Mandanten vollständig prüfen | Tatbestand bejaht, verneint oder offen |
 | 13 | Indizienkatalog § 17 Abs. 2 InsO | SV-Rückstände, Stundungsanträge, Mahnungen, Rücklastschriften, eingestellte Lieferantenzahlungen | Zahlungseinstellung ohne Rechnung möglich |
 | 14 | Abschluss und Dokumentation | Befund-Tabelle; Krisenmatrix; ggf. § 102 StaRUG-Hinweisschreiben; Empfehlungen | Ergebnis mit Zeitstempel und Unterschrift |
 | 15 | Querverweise andere Skills | Schwere Krise → anwaltliche Prüfung; Liquiditätsvorschau; Warnschreiben | Übergabe und Anschluss |
@@ -77,11 +77,11 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 | Beweisthema | Beweislastträger | Beweismittel |
 |---|---|---|
-| Krisensignale erkennbar waren | Steuerberater (muss dokumentieren, dass er gewarnt hat) | Warnschreiben, Aktenvermerk, Eingangsbestätigung |
+| Hinweis erteilt und zugegangen | nach prozessualer Rolle zu prüfen; der Berufsträger muss seine Erfüllung belastbar dokumentieren | Warnschreiben, Aktenvermerk, Eingangsbestätigung |
 | Qualifizierter Rangrücktritt | Gesellschafter | Klauseltext; § 39 Abs. 2 InsO-Kriterien |
 | Fortbestehensprognose positiv | GF / Sachverständiger | Integrierter Finanzplan IDW S 6/S 11 |
 | Stille Reserven und Lasten | GF / Gutachter | Bewertungsgutachten; Wertermittlung |
-| § 102 StaRUG-Schwelle offenkundig | Steuerberater (Abwehrseite) / Haftungskläger | BWA-Befunde, SuSa-Daten, Zeitpunkt der Erkennbarkeit |
+| Tatbestand des Paragrafen 102 StaRUG | Darlegungs- und Beweislast nach Anspruch und Einwendung konkret prüfen | Auftrag, BWA- und SuSa-Fundstellen, Erkenntniszeitpunkt, bisherige Mandantenkommunikation |
 
 ## Typische Gegenargumente
 
@@ -133,9 +133,9 @@ KRISENMATRIX — [Firma] GmbH — Stichtag [Datum]
 | Steuerrückstände | EUR [y] | 0 | ERHÖHT | § 69 AO GF-Haftung |
 | Stundungsanträge | [n] in 3 Mon. | 0 | KRITISCH | Indiz Zahlungseinstellung |
 | Lieferantenzahlungstage | [x] Tage | ≤ 45 Tage | ERHÖHT | Zahlungsstockung |
-| § 17 InsO (Zahlungsunfähigkeit) | Quote [X] % | < 10 % | ROT | Antragsfrist 3 Wochen |
-| § 19 InsO (Überschuldung) | EK negativ, keine Prognose | — | ROT | Antragsfrist 6 Wochen |
-| § 102 StaRUG (Hinweispflicht) | offenkundig | ausgelöst | JA | Warnschreiben sofort |
+| Paragraf 17 InsO | Lücke [X] Prozent, Schließbarkeit [belegt/offen] | Gesamtwürdigung | [offen/erfüllt/nicht erfüllt] | bei Insolvenzreife Antrag ohne schuldhaftes Zögern |
+| Paragraf 19 InsO | Unterdeckung [Betrag], Fortführungsprognose [Stand] | Zwölfmonatsprognose und Überschuldungsstatus | [offen/erfüllt/nicht erfüllt] | bei Insolvenzreife Antrag ohne schuldhaftes Zögern |
+| Paragraf 102 StaRUG | Jahresabschlussauftrag, Offenkundigkeit, vermutete Unkenntnis | alle Merkmale erforderlich | [offen/erfüllt/nicht erfüllt] | bei erfülltem Tatbestand konkreter Hinweis |
 ```
 
 ### Baustein 3: Hinweisschreiben § 102 StaRUG
@@ -151,28 +151,30 @@ Betreff: Hinweis auf erkennbare Krisensituation — § 102 StaRUG
 
 Sehr geehrte/r Herr / Frau [GF-Name],
 
-aus der von uns geführten laufenden Finanzbuchhaltung und der
-betriebswirtschaftlichen Auswertung zum Stichtag [Datum] ergeben sich
-folgende Krisensignale, auf die wir Sie hiermit ausdrücklich hinweisen:
+wir sind mit der Erstellung des Jahresabschlusses zum [Stichtag]
+beauftragt. Aus den hierfür vorliegenden Unterlagen ergeben sich
+folgende offenkundige Anhaltspunkte:
 
 1. Eigenkapital negativ — EUR [x] zum Stichtag [Datum].
 2. Sozialversicherungsbeiträge für [Monat/Monate] nicht abgeführt:
  EUR [y] (Indiz für Zahlungseinstellung; § 266a StGB-Risiko).
 3. Liquiditätslücke von EUR [z] (Quote [X] %) im 3-Wochen-Horizont.
 
-Diese Befunde begründen den begründeten Verdacht einer Krise im Sinne
-von § 102 StaRUG und möglicher Insolvenzgründe nach §§ 17, 19 InsO.
+Diese Befunde können auf einen möglichen Insolvenzgrund nach Paragraf
+17 oder 19 InsO hindeuten. Eine abschließende Feststellung der
+Insolvenzreife ist damit nicht verbunden.
 
-Als Geschäftsführer sind Sie verpflichtet, eine rechtliche Prüfung
-der Antragspflicht nach § 15a InsO einzuholen. Wir empfehlen
-dringend die unverzügliche Konsultation eines Fachanwalts für
-Insolvenz-/Sanierungsrecht oder Steuerrecht.
+Die Geschäftsleitung muss die mögliche Insolvenzreife und die daran
+anknüpfenden Pflichten unverzüglich fachkundig prüfen. Bei
+Zahlungsunfähigkeit oder Überschuldung ist ein Antrag nach Paragraf 15a
+InsO ohne schuldhaftes Zögern zu stellen; die dort genannten Zeiträume
+von drei und sechs Wochen sind nur Höchstzeiträume.
 
-Als Ihr Steuerberater leisten wir mit diesem Schreiben den nach
-Eine rechtliche Beurteilung der Antragspflicht ist uns nach § 5 RDG
-nicht erlaubt.
-
-Bitte bestätigen Sie den Eingang dieses Schreibens binnen sieben Tagen.
+Wir erteilen diesen Hinweis nach Paragraf 102 StaRUG. Eine vollständige
+Insolvenzreifeprüfung ist nicht Gegenstand unseres Erstellungsauftrags.
+Bitte bestätigen Sie den Zugang bis [nach Gefahrenlage bestimmter
+Zeitpunkt] und teilen Sie uns den Ansprechpartner für die sofortige
+Prüfung mit.
 
 Mit freundlichen Grüßen
 [StB]
@@ -201,8 +203,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Situation | Empfehlung |
 |---|---|
-| Alle Krisenampeln grün | Dokumentieren; Wiedervorlage 3 Monate; § 102 StaRUG-Pflicht erfüllt |
-| Gelbe Ampeln ohne sofortige Insolvenzreife | Warnschreiben § 102 StaRUG; Liquiditätsvorschau beauftragen; Sanierungsoptionen besprechen |
+| Alle Krisenampeln grün | Befund dokumentieren; Wiedervorlage nach Mandat und Gefahrenlage |
+| Gelbe Ampeln ohne sofortige Insolvenzreife | Vollständigen Tatbestand des Paragrafen 102 StaRUG prüfen; Liquiditätsvorschau und fachkundige Prüfung anregen |
 | Rote Ampeln — § 17 oder § 19 InsO indiziert | Warnschreiben sofort; Übergabe an Anwalt für Insolvenzreife-Prüfung; keine Abschlusserstellung ohne Warnung |
 | Mandant reagiert nicht auf Warnung | Wiederholung schriftlich; ggf. Mandatsniederlegung § 627 BGB |
 | Rangrücktritt möglich | Qualifizierten Rangrücktritt empfehlen; anwaltliche Klauselfassung notwendig |

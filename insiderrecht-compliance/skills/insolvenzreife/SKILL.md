@@ -43,8 +43,7 @@ eingetretener Insolvenzreife und verhindert die typischen Haftungsfallen.
 
 ### Schritt 2 – Parallele Fristen
 
-- InsO § 15a: Antragspflicht innerhalb von 6 Wochen bei Zahlungsunfähigkeit oder
- Überschuldung (Schnittstelle zum Strafrecht: § 15a Abs. 6 InsO)
+- Paragraf 15a InsO: Antrag ohne schuldhaftes Zögern; höchstens drei Wochen nach Eintritt der Zahlungsunfähigkeit und sechs Wochen nach Eintritt der Überschuldung. Die Strafbarkeit einer unrichtigen Antragstellung setzt nach Absatz 6 eine rechtskräftige Unzulässigkeitsentscheidung voraus.
 - MAR Art. 17: Veröffentlichung „so bald wie möglich" = unverzüglich
 - Praxis: Ad-hoc-Pflicht entsteht i.d.R. früher als InsO-Antrag (schon bei drohender
  Zahlungsunfähigkeit), InsO-Antrag kann später folgen

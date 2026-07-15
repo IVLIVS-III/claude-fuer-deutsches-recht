@@ -52,7 +52,7 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 | Bankbeitrag | Stundung, Waiver, neues Geld oder Stillhalteabrede? | Beirat muss Anfechtung, Organhaftung und Covenants mitprüfen lassen |
 | StaRUG | Liegt nur drohende Zahlungsunfähigkeit vor? | Bei eingetretener Zahlungsunfähigkeit keine Verzögerung durch Beiratsrunde |
 
-Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025 und BGH II ZR 139/23 vom 11.03.2025 zur Liquiditätsbilanz; BGH IX ZR 133/14 und BGH IX ZR 143/17 zum qualifizierten Rangrücktritt; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
+Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025 zur objektiven Zahlungsunfähigkeit, zu streitigen Forderungen und zur Titelpassivierung; ergänzend BGH, Beschluss vom 11.03.2025 - II ZR 139/23 zum materiellen Bestand, ohne ihn als Grundsatzurteil zu behandeln. BGH IX ZR 133/14 und BGH IX ZR 143/17 tragen die Rangrücktrittsprüfung, BGH II ZR 84/20 die begrenzte Wirkung weicher Patronatserklärungen.
 
 ## Arbeitsmodus
 
