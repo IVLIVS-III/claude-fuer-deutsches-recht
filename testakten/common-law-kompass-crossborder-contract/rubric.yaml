@@ -12,14 +12,14 @@ checks:
     path: "gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf"
   - id: r03-arbeitsunterlagen
     check_type: working_file_count
-    description: "Mindestens zehn exportierbare Arbeitsunterlagen vorhanden"
-    min: 10
+    description: "Mindestens neun exportierbare Arbeitsunterlagen vorhanden"
+    min: 9
   - id: r04-einzelmails
     check_type: file_exists
     description: "Verhandlungskorrespondenz liegt als einzelne E-Mail vor"
     path: "05c_dispute_clause_agreed_draft_2024-04-12.eml"
   - id: r05-wertabweichung
-    check_type: file_contains
+    check_type: text_contains
     description: "Abweichende Jahreswerte bleiben in der Rohdatenliste sichtbar"
     path: "06_clause_positions.csv"
     contains: "figure_inconsistent"

@@ -80,8 +80,8 @@ jobs:
           # entfernt, weil es pro Plugin einen skills/<plugin>-schnellstart/SKILL.md
           # erzeugt hat. Diese Wrapper-Skills würden beim Marketplace-Install als
           # zusätzlicher Skill geladen, obwohl sie nur Einstiegsdateien enthalten.
-          # Die Werkstatt- und Schnellstart-Prompts werden als Markdown-Assets
-          # im Release veröffentlicht.
+          # Die Werkstatt- und Schnellstart-Prompts bleiben direkt als Markdown
+          # im Repository erreichbar und liegen zusätzlich in den Plugin-ZIPs.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
           python3 scripts/refine-speed-and-elegance.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py

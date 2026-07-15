@@ -1,3 +1,11 @@
+# v434.0.1 - Aktenrubriken und Releaseprüfung vervollständigt
+
+- Die Aktenrubriken für den grenzüberschreitenden Vertragsfall und die Kanzleiorganisationsakte verwenden ausschließlich unterstützte Prüftypen und bilden den tatsächlich exportierbaren Bestand korrekt ab. Der vollständige Evaluationslauf bewertet damit alle 301 fachlichen Akten ohne Fehler.
+- Gezielte Prüfungen einzelner Akten unterscheiden nun sauber zwischen der ausgewählten Teilmenge und den stets vollständigen zentralen Sammel-ZIPs. Originaldatei- und Einzel-PDF-Archive lassen sich dadurch sowohl vollständig als auch fallbezogen zuverlässig validieren.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v434.0.1 synchronisiert.
+
+---
+
 # v434.0.0 - Aktenausgabe, Rechtsstand und Marketplace konsolidiert
 
 - Die 301 zentralen Aktenarchive und die gesonderte Formatvorlagensammlung wurden vollständig neu gebaut. Jedes Akten-ZIP ist flach, enthält keine Markdown-Dateien und liefert ausschließlich belastbare Originalformate sowie das zugehörige Gesamt-PDF; lösungsverratende interne Auswertungen, Strategiepapiere und Prüfraster bleiben außerhalb der Arbeitsmaterialpakete.

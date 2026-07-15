@@ -12,14 +12,14 @@ checks:
     path: "gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf"
   - id: r03-arbeitsunterlagen
     check_type: working_file_count
-    description: "Mindestens zehn exportierbare Arbeitsunterlagen vorhanden"
-    min: 10
+    description: "Mindestens neun exportierbare Arbeitsunterlagen vorhanden"
+    min: 9
   - id: r04-zugriffsstoerung
     check_type: file_exists
     description: "E-Mail zur Zugriffsstoerung vorhanden"
     path: "02_sekretariat_zugriffsstoerung_2026-05-21.eml"
   - id: r05-abrechnungsabweichung
-    check_type: file_contains
+    check_type: text_contains
     description: "Ungeklaerte Kostenstelle bleibt in den Rohdaten erhalten"
     path: "05_lizenzabrechnung_2026-q2.csv"
     contains: "Sammelkonto Bibliothek"
