@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 302 KB) | PDF | [`gesamt-pdf/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier_gesamt.pdf`](gesamt-pdf/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1253 KB) | PDF | [`gesamt-pdf/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier_gesamt.pdf`](gesamt-pdf/unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unfallversicherung-arbeitsunfall-lagerleiter-sturz-trier-einzelpdfs.zip) |
 
@@ -27,12 +27,8 @@ Enthalten sind ausformulierte Aktenstücke, Formulare, medizinische Verlaufsberi
 | --- | --- |
 | `01_mandatsnotiz_bg_fristsache.docx` | Erste Mandatsnotiz mit Fristenlage |
 | `02_unfallanzeige_arbeitgeber.docx` | Unfallanzeige des Arbeitgebers, Auszug mit internem Nachtrag |
-| `03_durchgangsarztbericht.docx` | Erster Durchgangsarztbericht |
-| `04_mrt_und_vorschaden.docx` | MRT-Befund und Vorschadensstreit |
 | `05_zeugen_und_kamera.docx` | Erste Zeugennotizen und Kameraausfall |
-| `06_bg_ablehnungsbescheid.docx` | Kurzfassung des Ablehnungsbescheids |
 | `07_verletztengeld_und_lohn.csv` | Lohn- und Verletztengeldübersicht |
-| `08_widerspruch_entwurf.docx` | Erster Widerspruchsentwurf |
 | `09_folgepruefung_rente.docx` | Folgeprüfung Verletztengeld, Teilhabe und Rente |
 | `10_unfallschilderung_mandant_ausfuehrlich.docx` | Ausführliche Unfallschilderung des Mandanten mit Chronologie |
 | `11_unfallanzeige_bg_formular_komplett.docx` | Vollständig ausgefülltes BG-Unfallanzeigeformular |

@@ -4,7 +4,8 @@
 The release builder intentionally strips README/download/meta files from
 testakten ZIPs. This validator mirrors that export filter and verifies that the
 single testakte ZIPs and the combined alle-testakten.zip contain exactly the
-files that the working-dump contract promises.
+files that the working-dump contract promises. After the dist directory,
+optional testakte names limit validation to a targeted build.
 """
 
 from __future__ import annotations
@@ -69,10 +70,16 @@ def assert_same(label: str, expected: list[str], actual: list[str]) -> None:
 
 def main() -> None:
     dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
+    targets = set(sys.argv[2:])
     dirs = sorted(
         (d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS),
         key=lambda p: p.name,
     )
+    if targets:
+        missing_targets = sorted(targets - {d.name for d in dirs})
+        if missing_targets:
+            fail(f"unknown testakten: {missing_targets}")
+        dirs = [d for d in dirs if d.name in targets]
     if not dirs:
         fail("no testakten directories found")
 

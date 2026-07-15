@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 70 KB) | PDF | [`gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf`](gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1662 KB) | PDF | [`gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf`](gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag-einzelpdfs.zip) |
 
@@ -17,7 +17,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Arbeitsakte für das Plugin `selbstvertreter-sozialgericht`. Mittlerer bis höherer Schwierigkeitsgrad: KdU-Konzept der Stadt Leipzig, bundesweiter Heizkostenspiegel, kindliches Asthma als individueller Mehrbedarf, Eilantrag § 86b SGG mit Anordnungsanspruch und Anordnungsgrund, Zustellfiktion, Vorschuss § 42 SGB I, Mahnbescheid-Risiko.
+Arbeitsakte für das Plugin `selbstvertreter-sozialgericht`. Mittlerer bis höherer Schwierigkeitsgrad: KdU-Konzept der Stadt Leipzig, bundesweiter Heizkostenspiegel, kindliches Asthma als individueller Mehrbedarf, Eilantrag Paragraf 86b SGG mit Anordnungsanspruch und Anordnungsgrund, Zustellfiktion, Vorschuss Paragraf 42 SGB I, Mahnbescheid-Risiko.
 
 ## Kurzbild
 
@@ -30,22 +30,22 @@ Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 ## Prüffokuse
 
 - Bescheidkette und Fristen im SGG ordnen (Bescheid → Widerspruch → Widerspruchsbescheid → Klage / Eilantrag).
-- Unterschied § 86b Abs. 1 SGG (aufschiebende Wirkung) und § 86b Abs. 2 SGG (einstweilige Anordnung) verstehen und richtig anwenden.
+- Unterschied Paragraf 86b Abs. 1 SGG (aufschiebende Wirkung) und Paragraf 86b Abs. 2 SGG (einstweilige Anordnung) verstehen und richtig anwenden.
 - Anordnungsanspruch und Anordnungsgrund formulieren und glaubhaft machen.
 - Antrag in einfacher Sprache, aber sozialgerichtsfest formulieren.
-- Heizkostenangemessenheit nach § 22 SGB II prüfen: KdU-Konzept Leipzig vs. bundesweiter Heizkostenspiegel, individueller Mehrbedarf wegen Asthma.
-- Zustellfiktion § 37 SGB X und ihre Widerlegung — wie weist man Nichtzugang glaubhaft nach?
-- Vorschuss nach § 42 SGB I prüfen, auch nachträglich.
-- Kostenfreiheit § 183 SGG verstehen; PKH bei Selbstvertretung — wann notwendig, wann irrelevant.
+- Heizkostenangemessenheit nach Paragraf 22 SGB II prüfen: KdU-Konzept Leipzig vs. bundesweiter Heizkostenspiegel, individueller Mehrbedarf wegen Asthma.
+- Zustellfiktion Paragraf 37 SGB X und ihre Widerlegung — wie weist man Nichtzugang glaubhaft nach?
+- Vorschuss nach Paragraf 42 SGB I prüfen, auch nachträglich.
+- Kostenfreiheit Paragraf 183 SGG verstehen; PKH bei Selbstvertretung — wann notwendig, wann irrelevant.
 - Sanity-Check vor Abgabe durchführen.
 
 ## Schwierigkeiten in dieser Akte (zur Erkennung durch das Plugin)
 
 - Heizkostenrechnung übersteigt bundesweiten Heizkostenspiegel — aber 55 % Erdgaspreisanstieg, defekte Fensterdichtung und kindliches Asthma sind plausible individuelle Gründe.
 - Kostensenkungsaufforderung vom 12. Januar 2026: angeblich verschickt, Frau Reuter bestreitet Zugang substantiiert. Krankenhausunterlagen ihres Vaters in Halle als Indizbeweis. Zustellfiktion korrekt anwenden.
-- Eilbedarf: Hausverwaltung droht mit fristloser Kündigung nach § 543 Abs. 2 Satz 1 Nr. 3 BGB. Kündigung noch nicht ausgesprochen. Reicht die konkrete Androhung als Anordnungsgrund?
+- Eilbedarf: Hausverwaltung droht mit fristloser Kündigung nach Paragraf 543 Abs. 2 Satz 1 Nr. 3 BGB. Kündigung noch nicht ausgesprochen. Reicht die konkrete Androhung als Anordnungsgrund?
 - KdU-Absenkung von 690 EUR auf 612 EUR ab Juni 2026: ist die Senkungsfrist sechs Monate ausreichend?
-- Vorschuss § 42 SGB I: nicht beantragt — nachholbar?
+- Vorschuss Paragraf 42 SGB I: nicht beantragt — nachholbar?
 - Attest der Kinderärztin reicht aus Sicht des Jobcenters nicht ("fachärztliches Gutachten" gefordert). Pneumologische Praxis hat 6 Monate Wartezeit. Wie löst das Plugin diesen Konflikt?
 - KdU-Konzept Leipzig nennt sogar niedrigere Werte (487 + 86,50 EUR) als das Jobcenter berücksichtigt (612 EUR). Argument für oder gegen Frau Reuter?
 - Klagefrist 23. Juni 2026 — fällt nicht auf Wochenende, aber knapp.
@@ -57,13 +57,31 @@ Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_bescheid_jobcenter_auszug.docx` | vollständiger Bürgergeldbescheid mit Berechnungsblatt, KdUH-Tabelle, Heizkostenangemessenheits-Rechnung und Rechtsbehelfsbelehrung |
-| `02_widerspruch_und_widerspruchsbescheid.docx` | Widerspruch per Fax mit Sendebericht, zwei Telefonate Jobcenter, Widerspruchsbescheid und Zustellnotiz, Antwortbrief-Entwurf an Hausverwaltung |
-| `03_miete_heizung_und_konto.docx` | Mietvertrag-Auszug, vollständige Heizkostenabrechnung mit Verteilerschlüssel, beide Mahnungen, Kontoauszug, Belege zur Wohnung |
+| `01_bescheid_jobcenter_2026-04-18.docx` | vollständiger Bescheid mit Berechnungsbogen, Gründen und Rechtsbehelfsbelehrung |
+| `01a_zugangsnotiz_bescheid_2026-04-22.docx` | gesonderte Zugangs- und Erinnerungsnotiz von Alma Reuter |
+| `02a_widerspruch_alma_reuter_2026-04-25.docx` | eigenhändiger Widerspruch mit Begründung und Anlagenliste |
+| `02b_fax_sendebericht_2026-04-25.pdf` | technischer Fax-Sendebericht mit Seitenfolge und Ergebnis |
+| `02c_widerspruchsbescheid_2026-05-19.docx` | vollständiger Widerspruchsbescheid der Widerspruchsstelle |
+| `02d_zustellnotiz_widerspruchsbescheid_2026-05-23.docx` | Zugangsnotiz mit Umschlag- und Fristenangaben |
+| `02e_telefonnotiz_sozialverband_2026-05-26.docx` | gesonderter Vermerk zur telefonischen Erstinformation |
+| `02f_entwurf_antwort_hausverwaltung_2026-05-26.docx` | noch nicht versandter Stundungs- und Ratenzahlungsentwurf |
+| `03a_mietvertrag_auszug_wohnung_reuter.docx` | Mietvertragsauszug mit Kosten und Wohnungsbeschaffenheit |
+| `03b_heizkostenabrechnung_2025.docx` | vollständige Heizkostenabrechnung mit Verteilerschlüssel |
+| `03c_mahnung_hausverwaltung_2026-05-26.docx` | erste Zahlungsaufforderung der Hausverwaltung |
+| `03d_zweite_mahnung_datumsabweichung_2026-06-04.docx` | zweite Mahnung mit dokumentierter Datumsabweichung |
+| `03e_kontoauszug_sparkasse_2026-05-27.pdf` | eigener Kontoauszug mit Einzelbuchungen und verfügbarem Betrag |
+| `03f_wohnungsbelege_und_heizprotokoll.docx` | Belegverzeichnis zu Fenstern, Raumtemperatur und Mängelanzeigen |
 | `04_eilantrag_sozialgericht_roh.docx` | roher Eilantrag mit typischen Selbstvertreter-Schwächen und langem Fragenkatalog |
 | `05_fristscan_und_belege.csv` | erweiterte Beleg- und Fristenübersicht mit 25 Einträgen |
-| `06_attest_und_schulbescheinigung.docx` | Attest Kinderärztin, Folgeattest mit Mindesttemperaturangabe, Schulbescheinigung Jonas |
-| `07_telefonnotizen_jobcenter.docx` | vier Telefonate (Jobcenter, Hausverwaltung, Stadtwerke), Entwurf § 42 SGB I-Vorschussantrag |
+| `06a_kinderaerztliches_attest_2026-05-21.docx` | erstes kinderärztliches Attest mit Befund und Wohnklimaempfehlung |
+| `06b_ergaenzendes_attest_2026-05-27.docx` | gesonderte ärztliche Ergänzung nach dem Widerspruchsbescheid |
+| `06c_schulbescheinigung_jonas_reuter_2026-05-22.docx` | Schulbescheinigung mit Schulweg und Übergang in Klasse 7 |
+| `06d_medizinisches_anlagenverzeichnis.docx` | Verzeichnis der medizinischen Originalunterlagen und Fehlstücke |
+| `07a_telefonnotiz_jobcenter_2026-05-04.docx` | erster Anruf zum Eingang des Widerspruchs |
+| `07b_telefonnotiz_jobcenter_2026-05-12.docx` | zweiter Anruf mit Versandvermerk und Vorschusshinweis |
+| `07c_telefonnotiz_hausverwaltung_2026-05-27.docx` | Ratenzahlungsgespräch mit der Mietbuchhaltung |
+| `07d_telefonnotiz_stadtwerke_2026-05-28.docx` | Auskunft zu Preisänderungen und fehlender Verbrauchsaufteilung |
+| `07e_entwurf_vorschussantrag_2026-05-12.docx` | noch nicht versandter Antrag nach Paragraf 42 SGB I |
 | `08_kdu_konzept_und_internetrecherche.docx` | KdU-Konzept-Auszug der Stadt Leipzig mit Tabellen, zehn widersprüchliche Internet-Treffer |
 
 ## Empfohlener Pluginlauf
@@ -73,6 +91,6 @@ Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 3. Zustellfiktion und Fristberechnung (über das Allgemein-Skill anstoßen)
 4. KdU-Angemessenheitsprüfung
 5. `eilantrag-86b-sgg-grundlagen` — Anordnungsanspruch und Anordnungsgrund
-6. § 42 SGB I-Vorschuss prüfen (nachholbar?)
+6. Vorschuss nach Paragraf 42 SGB I prüfen (nachholbar?)
 7. `klage-zusammenstellen-bundle-sozialgericht`
 8. `sanity-check-selbstvertretung-sozialgericht`

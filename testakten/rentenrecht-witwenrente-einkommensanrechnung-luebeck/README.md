@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 737 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip) |
 
@@ -30,15 +30,17 @@ Der Datenauswertungs-Kern liegt in der Anrechnungstabelle (`13_witwenrente_anrec
 ## Aktenstruktur
 
 ```
-rentenrecht-witwenrente-einkommensanrechnung-luebeck/
+rentenrecht-witwenrente-einkommensanrechnung-lübeck/
 ├── 01_mandatsnotiz_fristsache.docx                      # Erstgespräch, Frist, Beteiligte, Beratungsziel
 ├── 02_drv_bescheid_witwenrente.docx                     # DRV-Bewilligungsbescheid mit Berechnung und Rechtsbehelfsbelehrung
 ├── 03_einkommen_und_betriebsrente.docx                  # Vermerk zur Einkommenslage: Lohn, Betriebsrente, Sofortrente
-├── 04_kvdr_und_beitragsabzug.docx                       # Krankenkassenmitteilung zur KVdR und Beitragsdifferenz
+├── 04a_hansekrankenkasse_kvdr_mitteilung_2026-06-25.docx # Eigenständige Krankenkassenmitteilung
+├── 04b_telefonnotiz_personalabteilung_2026-06-27.docx   # Gesonderte Telefonnotiz zur Entgeltabrechnung
 ├── 05_widerspruch_entwurf.docx                          # Ausformulierter Widerspruch gegen Anrechnung und Kontenlücke
 ├── 06_berechnungsmatrix_witwenrente.csv                 # Monatswerte, Anrechnungsbetrag, Zahlbetrag, Prüfvermerke
 ├── 07_daenemark_kontenklaerung.docx                     # Dänische Nachweise und Antrag auf zwischenstaatliche Kontenklärung
-├── 08_arbeitgeberbescheinigung_und_lohnabrechnung.docx  # Entgeltbescheinigung mit Zulagen und Juni-Lohnabrechnung
+├── 08a_arbeitgeberbescheinigung_entgelt_2026.docx       # Eigenständige Arbeitgeberbescheinigung
+├── 08b_lohnabrechnung_juni_2026.docx                    # Gesonderte Juni-Lohnabrechnung
 ├── 09_email_betriebsrente_nachfrage.eml                 # HansePort-Antwort zur Witwenversorgung des Verstorbenen
 ├── 10_kontoauszug_und_fragenliste.txt                   # Kontoumsätze und offene Mandantenfragen
 ├── 11_hzvk_betriebsrentenmitteilung.docx                # HZVK-Schreiben zur eigenen Betriebsrente der Mandantin
@@ -53,8 +55,8 @@ rentenrecht-witwenrente-einkommensanrechnung-luebeck/
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
 ├── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
+├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
+└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
 ```
 
 ## Aktenstücke
@@ -64,11 +66,13 @@ rentenrecht-witwenrente-einkommensanrechnung-luebeck/
 | `01_mandatsnotiz_fristsache.docx` | Erstgespräch, Frist, Beteiligte, Beratungsziel |
 | `02_drv_bescheid_witwenrente.docx` | Bewilligungsbescheid mit Rentenbeginn, Zahlbetrag und Berechnung |
 | `03_einkommen_und_betriebsrente.docx` | Vermerk zu Lohn, Betriebsrente, privater Sofortrente, Pauschalnetto |
-| `04_kvdr_und_beitragsabzug.docx` | Krankenkasse, Kranken- und Pflegeversicherungsbeiträge |
+| `04a_hansekrankenkasse_kvdr_mitteilung_2026-06-25.docx` | Krankenkassenmitteilung zu Beiträgen und Nachweisen |
+| `04b_telefonnotiz_personalabteilung_2026-06-27.docx` | Telefonnotiz zu Steuermerkmalen und Einmalzahlungen |
 | `05_widerspruch_entwurf.docx` | Widerspruch gegen Einkommensanrechnung und Kontenlücken |
 | `06_berechnungsmatrix_witwenrente.csv` | Monatswerte, Freibetrag, Anrechnungsbetrag, Zahlbetrag |
 | `07_daenemark_kontenklaerung.docx` | Auslandszeiten, Nachweise und Auskunftsersuchen |
-| `08_arbeitgeberbescheinigung_und_lohnabrechnung.docx` | Arbeitgeberbescheinigung, Schichtzulagen und Lohnabrechnungswerte |
+| `08a_arbeitgeberbescheinigung_entgelt_2026.docx` | Arbeitgeberbescheinigung mit Monatswerten und Einmalzahlungen |
+| `08b_lohnabrechnung_juni_2026.docx` | Eigenständige Lohnabrechnung mit Abzügen und Nettoauszahlung |
 | `09_email_betriebsrente_nachfrage.eml` | Nachfrage zur Zusatzversorgung und zum Zahlbeginn |
 | `10_kontoauszug_und_fragenliste.txt` | Kontoauszugsausschnitt und Mandantenfragen |
 | `11_hzvk_betriebsrentenmitteilung.docx` | Betriebsrentenmitteilung der Zusatzversorgungskasse |

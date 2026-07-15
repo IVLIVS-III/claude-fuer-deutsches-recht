@@ -1,4 +1,13 @@
-Woche;Ort;Problem;Assistenzbedarf;Dringlichkeit
-2026-09-14;Berufsschule Regensburg;neuer Klassenraum;Begleitung Ankommen und Pausen;hoch
-2026-10-19;Prüfungsvorbereitung;Gruppenarbeit;Kommunikationsbrücke;mittel
-2027-01-11;Zwischenprüfung;Warteraum und Zeitplan;Orientierung vor Prüfung;hoch
+Datum;Unterricht;Übergang;Unterstützungsbedarf Minuten;Ereignis;Folge;Quelle
+2026-03-16;Lagerprozesse;Ankunft und Klassenraum;35;planmäßig;voller Unterricht;Wochenplan
+2026-03-17;Wirtschaft;Pausenhof;40;Lärm und Rückzug;20 Minuten Verspätung;Lehrernotiz
+2026-03-18;Fachrechnen;ungeplanter Raumwechsel;62;47 Minuten im Treppenhaus;erste Stunde versäumt;Schulprotokoll
+2026-03-19;Deutsch;Gruppenarbeit;55;Mutismusphase;Arbeitsblatt zu Hause;Lehrernotiz
+2026-03-20;Praxis;Abreise;30;planmäßig;voller Unterricht;Wochenplan
+2026-04-20;Lagertechnik;Ankunft;25;Bus verspätet;10 Minuten Verspätung;Fahrplan
+2026-04-21;Sozialkunde;Pausenwechsel;45;Rückzug E 012;Rückkehr nach Pause;Schulnotiz
+2026-04-22;Fachrechnen;Raum B 214;20;planmäßig;voller Unterricht;Wochenplan
+2026-04-23;Deutsch;Gruppenarbeit;88;Schulgelände verlassen;Unterricht abgebrochen;Schulprotokoll
+2026-04-24;Praxis;Ankunft;50;Erschöpfung;Fehlzeit erste Stunde;Entschuldigung
+2026-09-14;nächster Block;Ankunft und Plan;90;noch offen;Assistenzbeginn erforderlich;Stundenplan
+2026-09-15;nächster Block;Pausen und Raumwechsel;120;noch offen;Erprobungsprotokoll;Bedarfsplanung

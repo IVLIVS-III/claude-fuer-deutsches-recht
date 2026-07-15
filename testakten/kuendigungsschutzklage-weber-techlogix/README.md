@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 77 KB) | PDF | [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 717 KB) | PDF | [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kuendigungsschutzklage-weber-techlogix-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix-einzelpdfs.zip) |
 
@@ -21,7 +21,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-kuendigungsschutzklage-weber-techlogix` (Akte) | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+| `testakte-kündigungsschutzklage-weber-techlogix` (Akte) | [testakte-kündigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
@@ -33,15 +33,15 @@ Aktenzeichen Arbeitsgericht Berlin: **28 Ca 7314/26**
 
 ## Sachverhalt
 
-Marcus Weber (44 Jahre, verheiratet, zwei Kinder im Alter von 9 und 13 Jahren) war seit dem 1. März 2018 als Senior IT-Administrator bei der TechLogix GmbH in Berlin beschäftigt. Die TechLogix GmbH ist ein mittelständisches IT-Dienstleistungsunternehmen mit zuletzt 23 Arbeitnehmern (Vollzeit- und Teilzeitbeschäftigte, nach § 23 KSchG berechnet: 19,5 Köpfe). Webers zuletzt vereinbartes Bruttogehalt betrug EUR 4.850,00 monatlich — eine Steigerung gegenüber dem ursprünglich im Arbeitsvertrag vereinbarten Betrag von EUR 3.800,00, die allerdings nur mündlich zugesagt und nie schriftlich fixiert wurde.
+Marcus Weber (44 Jahre, verheiratet, zwei Kinder im Alter von 9 und 13 Jahren) war seit dem 1. März 2018 als Senior IT-Administrator bei der TechLogix GmbH in Berlin beschäftigt. Die TechLogix GmbH ist ein mittelständisches IT-Dienstleistungsunternehmen mit zuletzt 23 Arbeitnehmern (Vollzeit- und Teilzeitbeschäftigte, nach Paragraf 23 KSchG berechnet: 19,5 Köpfe). Webers zuletzt vereinbartes Bruttogehalt betrug EUR 4.850,00 monatlich — eine Steigerung gegenüber dem ursprünglich im Arbeitsvertrag vereinbarten Betrag von EUR 3.800,00, die allerdings nur mündlich zugesagt und nie schriftlich fixiert wurde.
 
 Ende März 2026 bestellte Geschäftsführerin Anja Kreutzfeldt Weber ohne vorherige Terminabsprache in ihr Büro. Im Vier-Augen-Gespräch eröffnete sie ihm, das Unternehmen habe strategisch entschieden, den gesamten IT-Betrieb an die DataFlow Solutions GmbH mit Sitz in Frankfurt auszulagern. Die Verhandlungen mit DataFlow seien noch nicht abgeschlossen, die Entscheidung selbst aber gefallen. Weber hielt dieses Gespräch noch am selben Abend in einer handschriftlichen Notiz fest — der einzige zeitnahe Beweis für den Inhalt der Unterredung.
 
-Am 30. April 2026 wurde Weber per Boten eine ordentliche betriebsbedingte Kündigung zum 31. August 2026 zugestellt. Als Zeugin des Einwurfs um ca. 16:42 Uhr stand die Nachbarin Dorothea Koslowski aus dem ersten Obergeschoss bereit. Weber suchte daraufhin Kontakt zum Betriebsratsvorsitzenden Torsten Hähnel, der ihm telefonisch mitteilte, das Betriebsrat-Anhörungsschreiben "zu spät" erhalten zu haben, ohne dies zu präzisieren. Ein Widerspruch des Betriebsrats gegen die Kündigung war nicht eingelegt worden. Weber mandatierte am 6. Mai 2026 einen Rechtsanwalt, der die Klageschrift fristgerecht vor Ablauf der Drei-Wochen-Frist des § 4 KSchG am 20. Mai 2026 beim Arbeitsgericht Berlin einreichte.
+Am 30. April 2026 wurde Weber per Boten eine ordentliche betriebsbedingte Kündigung zum 31. August 2026 zugestellt. Als Zeugin des Einwurfs um ca. 16:42 Uhr stand die Nachbarin Dorothea Koslowski aus dem ersten Obergeschoss bereit. Weber suchte daraufhin Kontakt zum Betriebsratsvorsitzenden Torsten Hähnel, der ihm telefonisch mitteilte, das Betriebsrat-Anhörungsschreiben "zu spät" erhalten zu haben, ohne dies zu präzisieren. Ein Widerspruch des Betriebsrats gegen die Kündigung war nicht eingelegt worden. Weber mandatierte am 6. Mai 2026 einen Rechtsanwalt, der die Klageschrift fristgerecht vor Ablauf der Drei-Wochen-Frist des Paragrafen 4 KSchG am 20. Mai 2026 beim Arbeitsgericht Berlin einreichte.
 
 Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fehlerhafte oder zumindest lückenhafte Betriebsratsanhörung, eine angreifbare Sozialauswahl (Felix Grunewald, IT-Admin, 32 Jahre, ledig, nur 2 Jahre Betriebszugehörigkeit, wurde nicht entlassen), sowie den Umstand, dass die angebliche unternehmerische Entscheidung — der Outsourcing-Vertrag mit DataFlow Solutions — zum Zeitpunkt der Kündigung noch nicht rechtskräftig besiegelt war. Im Gütetermin signalisierte TechLogix Vergleichsbereitschaft. Die Parteien einigten sich am 18. Juni 2026 auf eine Abfindung von EUR 24.250,00 sowie ein qualifiziertes Zeugnis.
 
-Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematrix.csv`) macht die Fehlauswahl nach § 1 Abs. 3 KSchG rechnerisch nachvollziehbar. Aus Lebensalter, Betriebszugehörigkeit, Unterhaltspflichten und Schwerbehinderung ergeben sich die Sozialpunkte: Weber 15, Grunewald 2, Sonnleitner 13. Weber trägt damit den höchsten Sozialschutz, wird aber gekündigt, während der sozial am wenigsten schutzbedürftige Grunewald weiterbeschäftigt wird. Die Diskrepanz wird durch die interne BR-Anhörungsmail (verspätet, ohne Seite 2 zur Sozialauswahl) und den WhatsApp-Verlauf Weber/Grunewald (Grunewald wurde die Weiterbeschäftigung zugesagt) belegt, während das Begleitschreiben der Geschäftsführerin die noch nicht besiegelte Auslagerung an DataFlow offenlegt.
+Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematrix.csv`) macht die Fehlauswahl nach Paragraf 1 Abs. 3 KSchG rechnerisch nachvollziehbar. Aus Lebensalter, Betriebszugehörigkeit, Unterhaltspflichten und Schwerbehinderung ergeben sich die Sozialpunkte: Weber 15, Grunewald 2, Sonnleitner 13. Weber trägt damit den höchsten Sozialschutz, wird aber gekündigt, während der sozial am wenigsten schutzbedürftige Grunewald weiterbeschäftigt wird. Die Diskrepanz wird durch die interne BR-Anhörungsmail (verspätet, ohne Seite 2 zur Sozialauswahl) und den WhatsApp-Verlauf Weber/Grunewald (Grunewald wurde die Weiterbeschäftigung zugesagt) belegt, während das Begleitschreiben der Geschäftsführerin die noch nicht besiegelte Auslagerung an DataFlow offenlegt.
 
 ---
 
@@ -62,7 +62,7 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | **Kündigungsart** | ordentliche betriebsbedingte Kündigung |
 | **Datum Kündigung** | 28.04.2026 (ausgestellt), Zugang 30.04.2026 |
 | **Beendigungsdatum** | 31.08.2026 |
-| **Frist § 4 KSchG** | 20.05.2026 (Mittwoch) |
+| **Frist Paragraf 4 KSchG** | 20.05.2026 (Mittwoch) |
 | **Klageeinreichung** | 14.05.2026 |
 | **Gütetermin** | 04.06.2026, 09:30 Uhr |
 | **Vergleich** | 18.06.2026 |
@@ -76,10 +76,10 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | Datei | Inhalt |
 |---|---|
 | `README.md` | Diese Übersicht: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
-| `arbeitsvertrag_weber_2018.docx` | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle §§) |
+| `arbeitsvertrag_weber_2018.docx` | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle Paragrafen ) |
 | `arbeitsvertrag_weber_2018_auszug.txt` | Rohabschrift-Auszug des Arbeitsvertrags |
 | `kuendigungsschreiben_techlogix_30-04-2026.docx` | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
-| `kuendigungsschreiben_techlogix_30-04-2026.txt` | Rohabschrift des Kündigungsschreibens |
+| `kündigungsschreiben_techlogix_30-04-2026.txt` | Rohabschrift des Kündigungsschreibens |
 | `betriebsrat_anhoerung_entwurf_roh.docx` | BR-Anhörungsschreiben mit spätem Eingangsstempel und dünner Sozialauswahlbegründung |
 | `betriebsrat_anhoerung_entwurf_roh.txt` | Vollständige Abschrift des BR-Anhörungsschreibens mit Kanzleivermerk |
 | `mandantennotiz_erstgespraech_06-05-2026.docx` | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
@@ -97,7 +97,7 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | `vergleichsprotokoll_18-06-2026.docx` | Prozessvergleich vom 18.06.2026 (Protokoll ArbG Berlin) |
 | `zwischenzeugnis_weber_31-08-2026.docx` | Qualifiziertes Zeugnis TechLogix GmbH für Weber |
 | `whatsapp_weber_grunewald.txt` | WhatsApp-Export Weber/Grunewald vom 30.04.2026: Grunewald wurde Weiterbeschäftigung zugesagt (Diskrepanz-Beleg zur Sozialauswahl) |
-| `gespraechsvermerk_haehnel_br_anhoerung.md` | Gesprächsvermerk RA Steinhauer zum Telefonat mit BR-Vorsitzendem Hähnel: verspätete und unvollständige § 102-Anhörung |
+| `gesprächsvermerk_haehnel_br_anhoerung.md` | Gesprächsvermerk RA Steinhauer zum Telefonat mit BR-Vorsitzendem Hähnel: verspätete und unvollständige Paragraf 102-Anhörung |
 | `eml/2026-04-28_kreutzfeldt_an_weber_kuendigung_begleitschreiben.eml` | Begleitschreiben der Geschäftsführerin zur Kündigung; DataFlow-Auslagerung noch in finaler Abstimmung |
 | `eml/2026-04-28_haehnel_an_kreutzfeldt_br_anhoerung_verspaetet.eml` | BR-Vorsitzender rügt verspätete und inhaltlich unzureichende Anhörung zur Sozialauswahl |
 | `eml/2026-05-13_steinhauer_an_weber_gueteterminladung.eml` | RA Steinhauer leitet Ladung zum Gütetermin 04.06.2026 weiter |
@@ -109,14 +109,14 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens — vom Erstgespräch bis zum Vergleich. Im Einzelnen werden folgende Rechtsfragen und Praxissituationen abgedeckt:
 
 **Verfahrensrechtlich**
-- Fristberechnung nach § 4 KSchG: Dreiwochenfrist ab Zugang der Kündigung, Bedeutung des Zugangszeitpunkts bei Botenzustellung
+- Fristberechnung nach Paragraf 4 KSchG: Dreiwochenfrist ab Zugang der Kündigung, Bedeutung des Zugangszeitpunkts bei Botenzustellung
 - Anforderungen an den Zugangsbeweis (Zeugin Koslowski, fehlender Poststempel)
-- Anwendungsbereich des KSchG gem. § 23 Abs. 1 KSchG bei Mischbelegschaft (Vollzeit/Teilzeit, Schwellenwert 10 Arbeitnehmer)
+- Anwendungsbereich des KSchG gem. Paragraf 23 Abs. 1 KSchG bei Mischbelegschaft (Vollzeit/Teilzeit, Schwellenwert 10 Arbeitnehmer)
 
 **Materiell-rechtlich**
 - Betriebsbedingte Kündigung: Anforderungen an die unternehmerische Entscheidung (BAG-Rechtsprechung zu Outsourcing, hier: Vertrag noch nicht unterschrieben)
-- Betriebsratsanhörung § 102 BetrVG: Fehlerfolge bei spätem Zugang, unzureichender Sozialauswahlbegründung und streitigem Fristbeginn
-- Sozialauswahl § 1 Abs. 3 KSchG: Punkteschema, Vergleichsgruppe, Bedeutung von GdB 30 (kein Sonderkündigungsschutz nach § 168 SGB IX, aber Auswahlpunkt strittig)
+- Betriebsratsanhörung Paragraf 102 BetrVG: Fehlerfolge bei spätem Zugang, unzureichender Sozialauswahlbegründung und streitigem Fristbeginn
+- Sozialauswahl Paragraf 1 Abs. 3 KSchG: Punkteschema, Vergleichsgruppe, Bedeutung von GdB 30 (kein Sonderkündigungsschutz nach Paragraf 168 SGB IX, aber Auswahlpunkt strittig)
 - Weiterbeschäftigungsanspruch nach dem Großen Senat BAG, GS 1/84
 
 **Strategisch/taktisch**
@@ -128,9 +128,9 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 
 ## Rechtliche Knackpunkte
 
-1. **Frist § 4 KSchG** — Ablauf 20.05.2026 → Soforthandlungsbedarf
-2. **BR-Anhörung § 102 BetrVG** — Zugang erst 28.04.2026, Sozialauswahl nur behauptet, Vergleichsdaten fehlen → möglicher Formfehler
-3. **Sozialauswahl § 1 Abs. 3 KSchG** — Grunewald (2 J. BZ, ledig, keine Kinder) hätte zuerst entlassen werden müssen
+1. **Frist Paragraf 4 KSchG** — Ablauf 20.05.2026 → Soforthandlungsbedarf
+2. **BR-Anhörung Paragraf 102 BetrVG** — Zugang erst 28.04.2026, Sozialauswahl nur behauptet, Vergleichsdaten fehlen → möglicher Formfehler
+3. **Sozialauswahl Paragraf 1 Abs. 3 KSchG** — Grunewald (2 J. BZ, ledig, keine Kinder) hätte zuerst entlassen werden müssen
 4. **Unternehmerische Entscheidung** — Outsourcing-Vertrag mit DataFlow Solutions bei Kündigungsausspruch noch nicht unterzeichnet
 5. **Annahmeverzug** — bei unberechtigter Kündigung droht AG Lohnnachzahlungspflicht ab Zugang Klage
 6. **Weiterbeschäftigung** — Anspruch nach BAG GS 1/84, hilfsweise Abfindung
@@ -142,13 +142,13 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 | Skill | Was er hier prüft |
 |---|---|
 | `kueschk-triage-laie-oder-anwalt` | Einstieg (Anwalt-Modus) |
-| `kueschk-frist-und-zugang-pruefen` | Fristberechnung, Zugangsbeweis Koslowski |
-| `kueschk-anwendbarkeit-kschg-pruefen` | § 23 KSchG: 19,5 berechnete Köpfe |
-| `kueschk-formfehler-pruefen` | BR-Anhörung: später Zugang, dünne Sozialauswahl, Fristbeginn |
-| `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Betriebsbedingt, DataFlow-Auftrag nicht unterschrieben |
+| `kueschk-frist-und-zugang-prüfen` | Fristberechnung, Zugangsbeweis Koslowski |
+| `kueschk-anwendbarkeit-kschg-prüfen` | Paragraf 23 KSchG: 19,5 berechnete Köpfe |
+| `kueschk-formfehler-prüfen` | BR-Anhörung: später Zugang, dünne Sozialauswahl, Fristbeginn |
+| `kueschk-kündigungsgrund-personen-verhalten-betrieb` | Betriebsbedingt, DataFlow-Auftrag nicht unterschrieben |
 | `kueschk-sonderkuendigungsschutz-checkliste` | GdB 30 Sonnleitner, Weber selbst kein Schutz |
 | `kueschk-klageschrift-anwalt-baustein` | Klageschrift ArbG Berlin |
-| `kueschk-weiterbeschaeftigungsantrag-grosser-senat` | Hilfsantrag Weiterbeschäftigung |
+| `kueschk-weiterbeschäftigungsantrag-großer-senat` | Hilfsantrag Weiterbeschäftigung |
 | `kueschk-abfindung-faustformel-und-spannweite` | 8,2 Jahre × EUR 4.850 |
 | `kueschk-guetetermin-strategie-und-sprechzettel` | Gütertermin 04.06.2026 |
 
@@ -160,6 +160,6 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 /arbeitsrecht:kueschk-triage-laie-oder-anwalt
 ```
 
-Dann weiter mit `kueschk-frist-und-zugang-pruefen` — die Frist ist das erste Thema.
+Dann weiter mit `kueschk-frist-und-zugang-prüfen` — die Frist ist das erste Thema.
 
 ---

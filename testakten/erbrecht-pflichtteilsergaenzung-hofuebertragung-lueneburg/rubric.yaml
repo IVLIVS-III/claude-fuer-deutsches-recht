@@ -9,8 +9,8 @@ checks:
     path: 01_mandatsnotiz_enterbter_sohn.docx
   - id: datei-02-testament-und-nachlassverzeichnis
     check_type: file_exists
-    description: Das Primäraktenstück 02_testament_und_nachlassverzeichnis.docx ist für die Fallauswertung vorhanden.
-    path: 02_testament_und_nachlassverzeichnis.docx
+    description: Die eigenständige Testamentsabschrift ist für die Fallauswertung vorhanden.
+    path: 02_testament_helmut_rieken_2022.docx
   - id: fachpruefung-01
     check_type: human_review
     description: Pflichtteil und Pflichtteilsergänzung getrennt berechnen.

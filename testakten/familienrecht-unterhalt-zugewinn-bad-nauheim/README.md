@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 50 KB) | PDF | [`gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf`](gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1071 KB) | PDF | [`gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf`](gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-unterhalt-zugewinn-bad-nauheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-unterhalt-zugewinn-bad-nauheim.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-unterhalt-zugewinn-bad-nauheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-unterhalt-zugewinn-bad-nauheim-einzelpdfs.zip) |
 
@@ -30,17 +30,21 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 | 01 | `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch, Ziele, Fristen, Trennungsdatum, Beteiligte |
 | 02 | `02_trennungs_und_betreuungschronik.docx` | Alltag, Betreuungsanteile, Schulwege, Streitpunkte |
 | 03 | `03_kinderdaten_mehrbedarf_sonderbedarf.docx` | Kinder, Betreuung, Hort, Musikschule, Brille, Klassenfahrt |
-| 04 | `04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.docx` | Gehalt, Dienstwagenverzicht, Fahrtkosten, Nebentätigkeit |
+| 04a | `04a_arbeitgeberbescheinigung_elena_neumann_2026.docx` | Eigenständige Arbeitgeberbescheinigung zu Gehalt, Sonderzahlungen, Arbeitszeit und Dienstwagenverzicht |
+| 04b | `04b_honoraraufstellung_nebentaetigkeit_elena.docx` | Gesonderte Honoraraufstellung der medizinischen Nebentätigkeit mit Zahlungseingängen und offenen Belegen |
 | 05 | `05_einkommen_martin_gehalt_bonus_nebenerwerb.docx` | Gehalt, Bonus, Firmenbeteiligung, Ingenieurbüro |
-| 06 | `06_selbststaendigkeit_martin_konten_und_rechnungen.docx` | Nebenerwerb, offene Rechnungen, Materialeinkauf |
+| 06a | `06a_gewerbe_und_unternehmensprofil_mn_stroemungstechnik.docx` | Gewerbliche Stammdaten, Leistungsbild, Kontoverbindung und organisatorischer Rahmen des Ingenieurbüros |
+| 06b | `06b_rechnungsjournal_mn_stroemungstechnik_2026.docx` | Rechnungsjournal mit Auftraggebern, Leistungszeiträumen, Fälligkeit und Zahlungseingang |
+| 06c | `06c_betriebsausgaben_und_belegluecken_mn.docx` | Betriebsausgabenübersicht mit Belegquellen, Zuordnungsfragen und noch fehlenden Unterlagen |
 | 07 | `07_wohnwert_familienhaus_lasten_instandhaltung.docx` | Haus, Darlehen, Nebenkosten, Instandhaltung, Nutzungsfragen |
 | 08 | `08_vermoegen_anfangsvermoegen_und_zuwendungen.docx` | Anfangsvermögen, Schenkungen, Erbschaftsanteile |
 | 09 | `09_vermoegen_endvermoegen_depot_lebensversicherung.docx` | Endvermögen, Depot, Versicherung, Fahrzeuge, Konten |
 | 10 | `10_bankbewegungen_und_barabhebungen.docx` | auffällige Bewegungen, Umbuchungen, Barabhebungen |
-| 11 | `11_korrespondenz_gegenseite_auskunft.docx` | Auskunftsverlangen, Reaktionen, fehlende Belege |
+| 11 | `11_korrespondenz_gegenseite_auskunft.docx` | Förmliche Antwort des gegnerischen Anwalts mit Teilunterlagen und offenen Nachreichungen |
 | 12 | `12_fristsachen_und_unterlagenliste.docx` | Fristenblatt, fehlende Dokumente, nächste Schritte |
 | 13 | `13_auskunftsverlangen_anwaltsschreiben_27-05-2026.docx` | Auskunftsverlangen der früheren Anwältin Feldmann mit Belegliste und Frist |
 | 14 | `14_verdienstabrechnung_elena_mai_2026.docx` | Entgeltabrechnung des MVZ Wetterau für Mai 2026 als Abdruck |
+| 99 | `99_nachtrag_depot_bonus_kindesmehrbedarf.docx` | Posteingangs- und Prüfvermerk zu Depot, Bonus und Lerntherapie |
 
 ## Datenanhänge
 
@@ -62,17 +66,21 @@ familienrecht-unterhalt-zugewinn-bad-nauheim/
 ├── 01_mandatsnotiz_erstgespraech.docx            Erstgespräch: Trennung, Ziele, Fristlage
 ├── 02_trennungs_und_betreuungschronik.docx       Betreuungsalltag und Ereignisliste seit Februar 2026
 ├── 03_kinderdaten_mehrbedarf_sonderbedarf.docx   Kinder, laufende Kosten, Einmalpositionen
-├── 04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.docx   Gehalt, Pauschalen, Nebentätigkeit Elena
+├── 04a_arbeitgeberbescheinigung_elena_neumann_2026.docx      Gehalt, Arbeitszeit und Sonderzahlungen Elena
+├── 04b_honoraraufstellung_nebentaetigkeit_elena.docx         Nebentätigkeit Elena mit Zahlungsstand und Belegen
 ├── 05_einkommen_martin_gehalt_bonus_nebenerwerb.docx         Gehalt, Bonusstreit, Firmenwagen Martin
-├── 06_selbststaendigkeit_martin_konten_und_rechnungen.docx   Ingenieurbüro MN: Rechnungen, offene Belege
+├── 06a_gewerbe_und_unternehmensprofil_mn_stroemungstechnik.docx  Stammdaten und Leistungsbild des Ingenieurbüros
+├── 06b_rechnungsjournal_mn_stroemungstechnik_2026.docx       Rechnungen, Fälligkeiten und Zahlungseingänge
+├── 06c_betriebsausgaben_und_belegluecken_mn.docx             Ausgaben, Quellen und fehlende Belege
 ├── 07_wohnwert_familienhaus_lasten_instandhaltung.docx       Haus Hainerweg 18: Darlehen, Lasten, Nutzung
 ├── 08_vermoegen_anfangsvermoegen_und_zuwendungen.docx        Anfangsvermögen, Tantengeld, Elterndarlehen
 ├── 09_vermoegen_endvermoegen_depot_lebensversicherung.docx   Endvermögensrohdaten beider Seiten
 ├── 10_bankbewegungen_und_barabhebungen.docx      Aufzuklärende Kontobewegungen März bis Juni 2026
-├── 11_korrespondenz_gegenseite_auskunft.docx     Auskunftsverlangen und lückenhafte Antwort
+├── 11_korrespondenz_gegenseite_auskunft.docx     Anwaltliche Teilantwort vom 10.06.2026
 ├── 12_fristsachen_und_unterlagenliste.docx       Fristenblatt und fehlende Unterlagen je Seite
 ├── 13_auskunftsverlangen_anwaltsschreiben_27-05-2026.docx    Schreiben RAin Feldmann vom 27.05.2026
 ├── 14_verdienstabrechnung_elena_mai_2026.docx    Entgeltabrechnung MVZ Wetterau Mai 2026
+├── 99_nachtrag_depot_bonus_kindesmehrbedarf.docx Posteingang und fallbezogene Prüfzuordnung
 ├── csv/
 │   ├── einkommen_2025_2026.csv                 Monatswerte Gehalt, Bonus, Nebentätigkeiten
 │   ├── kinder_mehrbedarf_2026.csv              Kinderkosten und offene Belege

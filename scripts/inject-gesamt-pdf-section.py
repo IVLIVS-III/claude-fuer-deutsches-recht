@@ -8,6 +8,9 @@ Akte-komplett-Sektion ein mit zwei Downloads:
 
 Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor allen
 weiteren Sektionen (insbesondere vor dem Direkt-Download-Block).
+
+Ohne Argumente werden alle Akten bearbeitet. Optional koennen konkrete
+Testakten-Namen angegeben werden, um nur deren Groessenangaben zu erneuern.
 """
 from __future__ import annotations
 
@@ -150,9 +153,17 @@ def main() -> int:
     if not TESTAKTEN_DIR.exists():
         print(f"Testakten-Verzeichnis nicht gefunden: {TESTAKTEN_DIR}", file=sys.stderr)
         return 1
+    targets = set(sys.argv[1:])
+    known = {sub.name for sub in TESTAKTEN_DIR.iterdir() if sub.is_dir()}
+    unknown = sorted(targets - known)
+    if unknown:
+        print(f"Unbekannte Testakten: {unknown}", file=sys.stderr)
+        return 1
     stats = {"inserted": 0, "updated": 0, "unchanged": 0, "skip": 0}
     for sub in sorted(TESTAKTEN_DIR.iterdir()):
         if not sub.is_dir():
+            continue
+        if targets and sub.name not in targets:
             continue
         if sub.name in SKIP_DIRS:
             stats["skip"] += 1

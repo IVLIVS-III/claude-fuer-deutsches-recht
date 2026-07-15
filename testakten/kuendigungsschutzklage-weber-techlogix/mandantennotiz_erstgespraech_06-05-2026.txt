@@ -1,4 +1,4 @@
-MANDANTENNOTIZ — VERTRAULICH § 43a BRAO
+MANDANTENNOTIZ — VERTRAULICH Paragraf 43a BRAO
 Datum: 06.05.2026, 14:30–15:45 Uhr, Besprechungsraum 2
 Anwalt: [Kanzlei intern]
 Mandant: Marcus Weber, geb. 12.09.1981, Berliner Str. 42, 10243 Berlin
@@ -33,7 +33,7 @@ Vergleichbare AN im Betrieb (IT-Bereich, laut Mandant):
    Sonnleitner hat laut Weber einen "Behindertenausweis, aber nur GdB 30, sie nutzt ihn nie"
 
 Betriebsgröße: Weber schätzt 22–25 AN. HR-Liste nicht vorgelegt.
-Kein Massenentlassungsverfahren nach § 17 KSchG (unter 10 Entlassungen).
+Kein Massenentlassungsverfahren nach Paragraf 17 KSchG (unter 10 Entlassungen).
 
 MANDATE WUNSCH
 1. Vorrangig: Weiterbeschäftigung, Kündigung angreifen
@@ -41,16 +41,16 @@ MANDATE WUNSCH
 3. Keine Einigung unter EUR 25.000 — das sagte er explizit
 
 RECHTLICHES (erste Einschätzung Kanzlei)
-- Frist § 4 KSchG: läuft 20.05.2026 (Mittwoch) ab → KRITISCH, 14 Tage noch
+- Frist Paragraf 4 KSchG: läuft 20.05.2026 (Mittwoch) ab → KRITISCH, 14 Tage noch
 - KSchG anwendbar: ja (> 10 AN, > 6 Monate BZ)
 - Sozialauswahl: Grunewald klar schutzwürdiger als Weber? Nein — Weber hat längere BZ
-  und 2 Kinder. Sonnleitner: 8 J. BZ, 1 Kind, GdB 30 → evtl. Sonderschutz § 168 SGB IX?
-  → Prüfen ob GdB 30 ausreicht (nein: § 168 SGB IX erst ab GdB 50) aber Auswahlpunkte!
+  und 2 Kinder. Sonnleitner: 8 J. BZ, 1 Kind, GdB 30 → evtl. Sonderschutz Paragraf 168 SGB IX?
+  → Prüfen ob GdB 30 ausreicht (nein: Paragraf 168 SGB IX erst ab GdB 50) aber Auswahlpunkte!
 - BR-Anhörung: Timing prüfen, Vollständigkeit prüfen → Formfehler möglich
 - DataFlow-Auftrag: wenn noch nicht unterschrieben → Wegfall BdB nicht nachgewiesen
 
 WEITERES
-Kostenbelehrung § 12a ArbGG erteilt (kein Kostenerstattungsanspruch 1. Instanz).
+Kostenbelehrung Paragraf 12a ArbGG erteilt (kein Kostenerstattungsanspruch 1. Instanz).
 PKH geprüft: Nettoeinkommen ca. EUR 3.200 + Kindergeld → knapp über Grenze, keine PKH.
 Vollmacht unterschrieben (Anlage).
 Terminvereinbarung Folgegespräch: 13.05.2026, 10:00 Uhr.
@@ -59,5 +59,5 @@ OFFENE PUNKTE KANZLEI
 [ ] Klageschrift vorbereiten bis 14.05.
 [ ] Koslowski als Zeugin nochmal schriftlich anfragen
 [ ] HR-Liste TechLogix (23 AN?) verifizieren
-[ ] BR-Anhörungsunterlagen anfordern (§ 102 Abs. 4 BetrVG?)
+[ ] BR-Anhörungsunterlagen anfordern (Paragraf 102 Abs. 4 BetrVG?)
 [ ] DataFlow-Vertragsstand recherchieren (Handelsregister, Presse?)

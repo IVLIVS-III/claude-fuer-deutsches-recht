@@ -9,8 +9,8 @@ checks:
     path: 01_mandatsnotiz_leibliche_tochter.docx
   - id: datei-02-adoptionsbeschluss-und-beziehung
     check_type: file_exists
-    description: Das Primäraktenstück 02_adoptionsbeschluss_und_beziehung.docx ist für die Fallauswertung vorhanden.
-    path: 02_adoptionsbeschluss_und_beziehung.docx
+    description: Die eigenständige Ausfertigung des Adoptionsbeschlusses ist für die Fallauswertung vorhanden.
+    path: 02_adoptionsbeschluss_amtsgericht_erfurt_2024.docx
   - id: datei-15-adoptionsantrag
     check_type: file_exists
     description: Der vollständige Adoptionsantrag mit Beziehungstatsachen und offengelegten Vermögensfolgen ist vorhanden.

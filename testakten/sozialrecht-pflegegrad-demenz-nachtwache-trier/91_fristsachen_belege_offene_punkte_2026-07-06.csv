@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Bescheidzugang;prüfen;Briefumschlag oder Postvermerk fehlt häufig;Fristkalender
-medizinischer Kernbefund;prüfen;Arztbrief, Gutachten, Pflegeprotokoll;Belegmatrix
-Eilbedürftigkeit;prüfen;Kosten, Gesundheitsrisiko, Versorgungslücke;Eilantrag oder Widerspruchsbegründung
+Vorgang;Zugang;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Ablehnungsbescheid;2026-06-19;2026-07-19;2026-07-12;Bescheid und Umschlag;Widerspruch 25.06.;Eingangsbestätigung anfordern
+MD-Akte;2026-06-17;2026-07-10;2026-07-08;Gutachtenauszug;Punktebogen fehlt;vollständige Akteneinsicht
+Nachtwache;2026-07-01;2026-07-20;2026-07-13;Angebot PN-26-771;nur befristet finanziert;Anschlussversorgung klären
+Herdabschaltung;2026-06-24;2026-07-15;2026-07-10;Angebot Elektro Laux;nicht entschieden;separaten Antrag bestätigen lassen
+Pflegeprotokoll;laufend;2026-07-10;2026-07-08;CSV und Originalnotizen;bis 30.06. erfasst;Pflegedienstberichte beifügen
+erneute Begutachtung;offen;2026-07-24;2026-07-17;Widerspruch;Termin nicht bestimmt;Teilnahme Tochter und Pflegedienst verlangen

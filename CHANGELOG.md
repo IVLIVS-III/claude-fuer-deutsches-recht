@@ -1,3 +1,15 @@
+# v433.0.0 - Einzelakten vollständig und layoutgetreu aufbereitet
+
+- 52 Arbeits-, Familien-, Erb-, Renten- und Sozialrechtsakten wurden dokumentweise geprüft und überarbeitet. 1001 formale Originalunterlagen erfüllen nun verbindliche Mindestanforderungen an Umfang, Briefkopf, Datum, Anrede, Absender, Aktenzeichen, Signatur, Umlaute und scharfes S.
+- Zusammengezogene Sammeldokumente wurden in eigenständige Aktenstücke getrennt. Arbeitsverträge und Nachträge, Bescheide und Prüfvermerke, ärztliche Unterlagen, Widersprüche und Eilanträge, Testamente und Registerunterlagen sowie Jugendamts-, Bank- und Kanzleikorrespondenz stehen dadurch auch im Einzel-PDF-Paket jeweils als eigene PDF zur Verfügung.
+- Die Akten enthalten zusätzliche lebensnahe Sachverhaltsdetails, Nebenpersonen, Telefon- und Postausgangsvermerke, Fristeneinträge, Belegketten und ausformulierte Behörden-, Gerichts-, Kanzlei- und Unternehmensschreiben. Verkürzte Beschreibungen, verräterische Metatexte, Umlautumschriften und unvollständige Auszüge wurden beseitigt.
+- DOCX- und ODT-Aktenstücke werden im Release nun nativ in PDF umgewandelt. Briefköpfe, Kopf- und Fußzeilen, Tabellengeometrie und Seitenumbrüche bleiben in Gesamt-PDFs und Einzel-PDF-ZIPs erhalten; die bisherige strenge Inhaltskonvertierung bleibt als kontrollierter Fallback verfügbar.
+- Eine neue Qualitätsprüfung stoppt den Release bei Stummeln, zusammengezogenen Altstücken, Dubletten, fehlenden Umlauten, verräterischen Testhinweisen, ungeeignetem Seitenformat, fehlerhaften E-Mail-Köpfen und unlesbaren Dokumenten. Die Konvertierung ist isoliert, zeitlich begrenzt und reproduzierbar getestet.
+- Für die 52 überarbeiteten Akten wurden 52 Gesamt-PDFs, 52 Akten-ZIPs mit 1243 Dateien und 52 Einzel-PDF-ZIPs mit 1191 getrennten PDFs neu gebaut und gegeneinander validiert.
+- Marketplace, sämtliche Plugin-Manifeste, Skillübersichten, Asset-Index und Testaktenübersicht wurden auf v433.0.0 synchronisiert.
+
+---
+
 # v432.1.1 - E-Mail-Briefkopf plattformstabil gerendert
 
 - Der Absender des gerichtlichen Terminhinweises in der Berliner Akte verwendet nun einen eindeutig decodierbaren UTF-8-Header. Dadurch bleibt „Geschäftsstelle“ auch beim PDF-Bau auf unterschiedlichen Betriebssystemen ungetrennt.

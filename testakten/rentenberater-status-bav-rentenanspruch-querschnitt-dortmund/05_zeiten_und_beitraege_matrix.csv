@@ -1,7 +1,8 @@
-Zeitraum,Status,Mögliche Wirkung,Offene Unterlagen
-1994-07 bis 2001-12,Angestellt Fricke,Betriebsrente Dienstzeit,Arbeitsvertrag Fricke Lohnkonto
-2002-01 bis 2021-12,Angestellt Harkort,DRV und bAV gespeichert,Versorgungskasse Detailauskunft
-2022-01 bis 2022-12,Freier Projektleiter Harkort,Status streitig,Vertrag Rechnungen Jour fixe
-2023-01 bis 2024-12,Freier Projektleiter mehrere Auftraggeber,Status teilweise offen,Auftraggeberliste Betriebshaftpflicht
-2025-01 bis 2026-02,Selbständig reduziert,Beitragslücken möglich,Einkommensteuer Vorauszahlungen
-2026-02 bis laufend,Krankengeld/Reha,EM-Rente relevant,Krankenkasse Reha DRV
+Von;Bis;Tätigkeit;Status;Auftraggeber;DRV_Wirkung;bAV_Wirkung;Beleg;Offener Punkt
+1994-07-01;2001-12-31;Projektleiter Metallbau;Beschäftigung;Metallbau Fricke GmbH;Pflichtbeiträge im Verlauf;Dienstzeit fehlt;Arbeitsvertrag und Lohnabrechnungen;Versorgungsordnung Fricke
+2002-01-01;2021-12-31;Projektleiter;Beschäftigung;Stahlbau Harkort GmbH;Pflichtbeiträge gespeichert;24 Jahre berücksichtigt;Kontenverlauf und Kassenauskunft;Berechnungsblatt Kasse
+2022-01-01;2022-12-31;Baukoordination;streitig;überwiegend Harkort;mögliche Nachversicherung;keine direkte Wirkung;Vertrag, Rechnungen, Jour fixe;Umsatzanteil und Vertretung
+2023-01-01;2024-12-31;Baukoordination;streitig;Harkort plus zwei Kunden;monatsweise prüfen;keine direkte Wirkung;Auftraggeberliste und Kalender;Weisungsdichte je Projekt
+2025-01-01;2026-02-11;selbstständige Restaufträge;ungeklärt;drei Auftraggeber;Beitragslücken möglich;keine;Steuerunterlagen und Rechnungen;freiwillige Beiträge
+2026-02-12;2026-03-25;Arbeitsunfähigkeit;Krankheit;keiner;Übergangszeit prüfen;keine;AU und Klinikbericht;Entgeltersatzbeginn
+2026-03-26;laufend;Krankengeld;Leistungsbezug;Krankenkasse;Anrechnungszeit und EM-Verfahren;keine;Krankengeldbescheid;Ende und Aufforderungen

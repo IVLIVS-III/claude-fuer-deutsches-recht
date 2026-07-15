@@ -45,6 +45,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 from testakte_file_filter import include_in_working_dump
+from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office_batch
 
 # DOCX
 try:
@@ -125,7 +126,7 @@ s_partlabel = ParagraphStyle(
 )
 
 # Reihenfolge der Datei-Typen im Gesamt-PDF
-TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "image", "pdf"]
+TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "odt", "image", "pdf"]
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
 TYPE_LABEL = {
     "md": "Aktenstücke",
@@ -134,6 +135,7 @@ TYPE_LABEL = {
     "csv": "CSV-Tabellen",
     "xlsx": "Excel-Tabellen",
     "docx": "Word-Dokumente",
+    "odt": "OpenDocument-Textdateien",
     "image": "Bildanlagen und Screenshots",
     "pdf": "PDF-Anhänge (Originaldokumente)",
 }
@@ -505,6 +507,47 @@ def docx_to_flowables(path: Path) -> list:
     return out
 
 
+def odt_to_flowables(path: Path) -> list:
+    """Rendert ODT-Inhalte vollständig, wenn native Konvertierung fehlt."""
+    try:
+        from odf.element import Element
+        from odf.opendocument import load as odf_load
+    except ImportError as exc:
+        raise DocumentRenderError("odfpy ist nicht installiert") from exc
+    try:
+        doc = odf_load(str(path))
+    except Exception as exc:
+        raise DocumentRenderError(f"ODT konnte nicht gelesen werden: {exc}") from exc
+
+    out: list = []
+
+    def text_of(node) -> str:
+        parts: list[str] = []
+        for child in node.childNodes:
+            if child.nodeType == child.TEXT_NODE:
+                parts.append(child.data)
+            elif isinstance(child, Element):
+                parts.append(text_of(child))
+        return "".join(parts)
+
+    def walk(node) -> None:
+        for child in node.childNodes:
+            if not isinstance(child, Element):
+                continue
+            local = child.qname[1]
+            if local in ("p", "h"):
+                text = text_of(child).strip()
+                if text:
+                    out.append(Paragraph(escape(text), s_h3 if local == "h" else s_body))
+            else:
+                walk(child)
+
+    walk(doc.body)
+    if not out:
+        raise DocumentRenderError("ODT enthält keinen lesbaren Text")
+    return out
+
+
 def image_to_flowables(path: Path) -> list:
     out = []
     try:
@@ -613,8 +656,13 @@ def collect_files(testakte_dir: Path) -> dict[str, list[Path]]:
     return files_by_type
 
 
-def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list, tmp_path: Path) -> list[Path]:
-    """Baut den Text-Teil als PDF, sammelt PDF-Anhaenge separat."""
+def build_text_pdf(
+    testakte_dir: Path,
+    files: dict[str, list[Path]],
+    cover: list,
+    tmp_path: Path,
+) -> tuple[list[tuple[str, bytes]], list[Path], bool]:
+    """Baut Textteile und sammelt layoutgetreue Office- sowie Original-PDFs."""
     doc = SimpleDocTemplate(
         str(tmp_path),
         pagesize=A4,
@@ -626,6 +674,11 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
     flow = list(cover)
 
     pdf_attachments: list[Path] = []
+    office_attachments: list[tuple[str, bytes]] = []
+    try:
+        office_cache = render_office_batch(files["docx"] + files["odt"])
+    except OfficeRenderError as exc:
+        raise DocumentRenderError(str(exc)) from exc
     for t in TYPE_ORDER:
         if not files[t]:
             continue
@@ -635,6 +688,9 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
             continue
         for f in files[t]:
             rel = f.relative_to(testakte_dir)
+            if t in OFFICE_EXTS and f in office_cache:
+                office_attachments.append((str(rel), office_cache[f]))
+                continue
             flow.append(Paragraph(f"<b>Datei:</b> {escape(str(rel))}", s_meta))
             flow.append(Spacer(1, 4))
             try:
@@ -650,6 +706,8 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
                     rendered = xlsx_to_flowables(f)
                 elif t == "docx":
                     rendered = docx_to_flowables(f)
+                elif t == "odt":
+                    rendered = odt_to_flowables(f)
                 elif t == "image":
                     rendered = image_to_flowables(f)
                 else:
@@ -664,12 +722,14 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
             # Jedes Aktenstueck beginnt im Gesamt-PDF auf einer neuen Seite
             flow.append(PageBreak())
 
-    if not flow:
-        flow.append(Paragraph("Dateiablage: Original-PDFs folgen.", s_meta))
-
     # Trailing PageBreak entfernen, damit am Ende keine Leerseite entsteht.
     while flow and isinstance(flow[-1], PageBreak):
         flow.pop()
+
+    # Bei reinen Office-/PDF-Akten beginnt die Ausgabe direkt mit dem ersten
+    # Dokumenttrenner. Eine künstliche Füllseite würde nur den Aktenlauf stören.
+    if not flow:
+        return office_attachments, pdf_attachments, False
 
     hf = header_footer_factory(testakte_dir.name)
     try:
@@ -681,7 +741,7 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
         )
     except Exception as exc:
         raise DocumentRenderError(f"Text-PDF konnte nicht gebaut werden: {exc}") from exc
-    return pdf_attachments
+    return office_attachments, pdf_attachments, True
 
 
 def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, testakte_name: str) -> None:
@@ -716,6 +776,43 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
         writer.add_page(page)
 
 
+def append_pdf_bytes_with_separator(
+    writer: PdfWriter,
+    label: str,
+    data: bytes,
+    testakte_name: str,
+) -> None:
+    try:
+        attachment_pages = list(PdfReader(io.BytesIO(data)).pages)
+    except Exception as exc:
+        raise DocumentRenderError(f"{label}: PDF konnte nicht gelesen werden: {exc}") from exc
+    if not attachment_pages:
+        raise DocumentRenderError(f"{label}: PDF enthält keine Seite")
+
+    sep = io.BytesIO()
+    c = canvas.Canvas(sep, pagesize=A4, invariant=1)
+    c.setTitle(label)
+    c.setAuthor("Kanzleiakte")
+    c.setFont(FONT_BOLD, 14)
+    c.setFillColor(TEAL)
+    c.drawString(2 * cm, 25 * cm, "Datei")
+    c.setFont(FONT_REG, 9)
+    c.setFillColor(MUTED)
+    c.drawString(2 * cm, 24.2 * cm, label)
+    c.setStrokeColor(BORDER)
+    c.setLineWidth(0.3)
+    c.line(2 * cm, 1.6 * cm, 19 * cm, 1.6 * cm)
+    c.setFont(FONT_REG, 8)
+    c.drawString(2 * cm, 1.2 * cm, testakte_name)
+    c.showPage()
+    c.save()
+    sep.seek(0)
+    for page in PdfReader(sep).pages:
+        writer.add_page(page)
+    for page in attachment_pages:
+        writer.add_page(page)
+
+
 def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     """Gibt (status, info) zurueck. status in {ok, skip, error}."""
     name = testakte_dir.name
@@ -734,10 +831,15 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
         tmp_text = Path(handle.name)
     tmp_output = out_path.with_name(f".{out_path.name}.tmp")
     try:
-        pdf_attachments = build_text_pdf(testakte_dir, files, cover, tmp_text)
+        office_attachments, pdf_attachments, has_text_pdf = build_text_pdf(
+            testakte_dir, files, cover, tmp_text
+        )
         writer = PdfWriter()
-        for page in PdfReader(str(tmp_text)).pages:
-            writer.add_page(page)
+        if has_text_pdf:
+            for page in PdfReader(str(tmp_text)).pages:
+                writer.add_page(page)
+        for label, data in office_attachments:
+            append_pdf_bytes_with_separator(writer, f"Office-Dokument: {label}", data, name)
         for pdf in pdf_attachments:
             rel = pdf.relative_to(testakte_dir)
             append_pdf_with_separator(writer, f"PDF-Anhang: {rel}", pdf, name)

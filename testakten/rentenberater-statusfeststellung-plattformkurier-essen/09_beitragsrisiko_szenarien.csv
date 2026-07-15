@@ -1,5 +1,6 @@
-Szenario,Personengruppe,Zeitraum,Beitragsrisiko_EUR,Säumnis_EUR,Verteidigungslinie
-A,Alle 18 Fahrer,2024-01 bis 2026-03,248600,39200,zu pauschal und nicht personengetrennt
-B,Nur verdichtete Fahrer ab 2025-10,2025-10 bis 2026-03,64200,6900,Abgrenzung App-Priorisierung gegen Weisung
-C,Nur Selim Özkan ab 2025-10,2025-10 bis 2026-03,18800,2100,Vertretung und eigenes Betriebsmittel betonen
-D,Selim erst ab handschriftlichem Zusatz,2025-10-14 bis 2026-03-31,17100,1900,Zeitraum begrenzen
+Szenario;Personengruppe;Zeitraum;Beitragsbasis_EUR;Beiträge_EUR;Säumnis_Prüfwert_EUR;Belegstand;Offener Rechenschritt
+A;alle 18 Fahrer;2024-01 bis 2026-03;nicht personengeprüft;248600;39200;nur vorläufige DRV-Anlage;Personen und Bemessungsgrundlagen trennen
+B;verdichtete Fahrer;2025-10 bis 2026-03;Gutschriften laut Export;64200;6900;App-Logs teilweise vorhanden;Status je Monat
+C;nur Selim Özkan;2025-10 bis 2026-03;7839.40 Gutschriften;18800;2100;Gutschriften vollständig;Beitragssätze und Hochrechnung prüfen
+D;Selim ab 14.10.2025;2025-10-14 bis 2026-03-31;anteilig noch offen;17100;1900;Startnotiz vorhanden;Oktober taggenau abgrenzen
+E;Gelegenheitsfahrer;je Einzelmonat;offen;offen;offen;Monatslisten fehlen;unter Geringfügigkeitsgrenze und Mehrfachstatus prüfen

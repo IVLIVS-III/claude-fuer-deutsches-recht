@@ -1,7 +1,8 @@
-Frist,Datum,Träger,Aktion
-Stellungnahme Status,2026-07-18,DRV Westfalen,Fristverlängerung beantragen
-Betriebsrente Unterlagen,2026-07-20,Versorgungskasse,Fricke-Unterlagen senden
-Krankenkasse Reha-Rückfrage,2026-07-12,Krankenkasse,Antwort vorbereiten
-EM-Rentenbescheid erwartet,2026-08-15,DRV,Frist notieren
-Steuerberatertermin,2026-07-09,Steuerberater,Umsatzsteuerfolgen Status
-Mandantentermin,2026-07-06,Rentenberatung,Strangmatrix besprechen
+Vorgang;Auslöser;Datum;Vorfrist;Träger;Verantwortlich;Beleg;Status;Aktion
+Stellungnahme Betriebsprüfung;Anhörung;2026-07-18;2026-07-11;DRV Westfalen;Voß;Anhörung und Umschlag;offen;Fristverlängerung und Akteneinsicht
+Steuerfolgetermin;Statusrisiko;2026-07-09;2026-07-07;Steuerkanzlei Radke;Lewe;Terminmail;terminiert;Netto- und Umsatzsteuerfolgen
+Kassenunterlagen;Schreiben 16.06.;2026-07-20;2026-07-13;Harkort Versorgungskasse;Voß;Auskunft;offen;Rechenblatt und Bestandsakte
+Personalakte Fricke;Dienstzeitlücke;2026-07-22;2026-07-15;Stahlbau Harkort;Voß;Arbeitsvertrag 2002;offen;Überleitungsunterlagen anfordern
+Krankenkassenantwort;Reha-Rückfrage;2026-07-12;2026-07-08;BKK Stahl West;Lewe;Schreiben 29.06.;offen;Bericht und Antragstatus mitteilen
+Belastungsprotokoll;Besprechung;2026-08-04;2026-07-28;Mandant;Lewe;Tagesbogen;beginnt 07.07.;vier Wochen abschließen
+EM-Bescheid;Antrag 08.05.;noch offen;bei Zugang;DRV Westfalen;Voß;Antragsbestätigung;Wiedervorlage 15.08.;Zugang und Monatsfrist sichern

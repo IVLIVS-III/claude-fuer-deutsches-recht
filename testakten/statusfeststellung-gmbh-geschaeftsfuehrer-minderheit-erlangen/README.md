@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 474 KB) | PDF | [`gesamt-pdf/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen_gesamt.pdf`](gesamt-pdf/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1512 KB) | PDF | [`gesamt-pdf/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen_gesamt.pdf`](gesamt-pdf/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen-einzelpdfs.zip) |
 
@@ -17,7 +17,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Arbeitsakte zur Statusprüfung eines Minderheits-Gesellschafter-Geschäftsführers einer Medizintechnik-GmbH mit Vetorechten, Bürgschaften, Geschäftsführervertrag und faktischer Gründerautorität. Die Akte ist für `sozialversicherungsstatus-pruefer`, `rentenpruefer`, `fachanwalt-sozialrecht` und `gesellschaftsrecht` gedacht.
+Arbeitsakte zur Statusprüfung eines Minderheits-Gesellschafter-Geschäftsführers einer Medizintechnik-GmbH mit Vetorechten, Bürgschaften, Geschäftsführervertrag und faktischer Gründerautorität. Die Akte ist für `sozialversicherungsstatus-prüfer`, `rentenpruefer`, `fachanwalt-sozialrecht` und `gesellschaftsrecht` gedacht.
 
 Enthalten sind ausformulierte Aktenstücke, Bescheide, Notarurkunden, Handelsregisterauszug, das komplette DRV-Verfahren von Antrag über Anhörung, Bescheid, Widerspruch und Widerspruchsbescheid bis zu Klage, Klageerwiderung und Vergleich, außerdem Betriebsprüfungsbericht, Beitragsberechnung, Gesellschafterprotokolle, ein Chat-Auszug zwischen den Gesellschaftern und Fristenmaterial. Die rechtliche Bewertung bleibt offen: Die Akte liefert Rohbelege wie Vertragsklauseln, Zahlungsflüsse und wörtliche Chat-Zitate, aus denen der sozialversicherungsrechtliche Status selbst abgeleitet werden muss, keine vorgefertigte Indizien-Matrix.
 
@@ -62,5 +62,5 @@ Enthalten sind ausformulierte Aktenstücke, Bescheide, Notarurkunden, Handelsreg
 | `eml/` | E-Mail-Korrespondenz mit der DRV zu Nachbesserung und Vergleich |
 | `csv/` | Urlaubstage und variable Vergütung im Zeitverlauf |
 | `xlsx/` | Zahlungsflüsse aus Bürgschaft und Gesellschafterdarlehen |
-| `pdfs/` | Auszug der Bürgschaftsurkunde |
+| `pdfs/` | Vollständige Bürgschaftsurkunde der finanzierenden Bank mit Sicherungszweck, Höchstbetrag, Laufzeit und Unterschriften |
 | `jpg/` | Chat-Screenshot der Gesellschafter und Handelsregisterportal-Auszug |

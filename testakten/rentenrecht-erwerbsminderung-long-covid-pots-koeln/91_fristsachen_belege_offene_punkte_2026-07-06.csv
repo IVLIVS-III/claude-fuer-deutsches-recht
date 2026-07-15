@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Versicherungszeit;prüfen;Kontenklärung, Arbeitgeber, Ausland;Zeitenmatrix
-Leistungsfall;prüfen;medizinischer Verlauf oder Rentenbeginn;Befundchronologie
-Zahlbetrag;prüfen;Abschlag, KVdR, Hinzuverdienst;Rechentabelle
+Vorgang;Zugang oder Termin;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Ablehnungsbescheid;2026-06-24;2026-07-24;2026-07-17;Bescheid und Umschlag;Widerspruch am 01.07. versandt;Eingangsbestätigung kontrollieren
+Akteneinsicht;2026-07-01;2026-07-15;2026-07-12;Widerspruchsschreiben;offen;sozialmedizinische Stellungnahme nachfassen
+Arbeitsplatzversuch;2026-06-04;2026-07-10;2026-07-08;Arbeitgeberbescheinigung;Zeiterfassung fehlt;Personalservice kontaktieren
+Kipptisch;2026-05-21;2026-07-10;2026-07-08;Kurzbefund;vollständig;Original zur Akte nehmen
+Krankengeld;2026-06-30;2026-07-14;2026-07-10;Kontoauszüge;Bescheinigung März fehlt;Krankenkasse anschreiben
+Widerspruchsbegründung;nach Akteneinsicht;vier Wochen nach Eingang;zwei Wochen vorher;Gesamtakte;noch nicht laufend;mehrtägige Belastbarkeit herausarbeiten

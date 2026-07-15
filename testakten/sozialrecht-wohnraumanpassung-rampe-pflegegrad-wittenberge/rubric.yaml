@@ -1,16 +1,20 @@
 name: sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge
 plugin: "fachanwalt-sozialrecht"
 description: Pflegekassenstreit um eine feste Rampe bei Pflegegrad 3 mit Teilbewilligung, mobiler Alternative, Wohnumfeld,
-  Sturzrisiko und moeglicher Sozialhilfe.
+  Sturzrisiko und möglicher Sozialhilfe.
 checks:
   - id: datei-01-erstgespraech-tochter
     check_type: file_exists
     description: Das Primäraktenstück 01_erstgespraech_tochter.docx ist für die Fallauswertung vorhanden.
     path: 01_erstgespraech_tochter.docx
-  - id: datei-02-pflegegrad-und-md-gutachten
+  - id: datei-02-pflegegradbescheid
     check_type: file_exists
-    description: Das Primäraktenstück 02_pflegegrad_und_md_gutachten.docx ist für die Fallauswertung vorhanden.
-    path: 02_pflegegrad_und_md_gutachten.docx
+    description: Der Pflegegradbescheid ist als eigenes Aktenstück für die Fallauswertung vorhanden.
+    path: 02a_pflegegradbescheid_2024-09-18.docx
+  - id: datei-02-md-pflegegutachten
+    check_type: file_exists
+    description: Das Pflegegutachten des Medizinischen Dienstes ist als eigenes Aktenstück für die Fallauswertung vorhanden.
+    path: 02b_md_pflegegutachten_2024-09-11.docx
   - id: pflegegrad-mobilitaet
     check_type: human_review
     description: Pflegegrad 3 und das Mobilitaetsmodul als Tatsachengrundlage nutzen.

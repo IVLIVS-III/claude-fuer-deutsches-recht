@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 27 KB) | PDF | [`gesamt-pdf/schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock_gesamt.pdf`](gesamt-pdf/schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 294 KB) | PDF | [`gesamt-pdf/schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock_gesamt.pdf`](gesamt-pdf/schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock-einzelpdfs.zip) |
 

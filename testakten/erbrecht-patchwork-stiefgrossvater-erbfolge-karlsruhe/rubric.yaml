@@ -9,16 +9,24 @@ checks:
     path: 01_familienstammbaum_und_zeitstrahl.docx
   - id: datei-02-testamente-und-scheidungen
     check_type: file_exists
-    description: Das Primäraktenstück 02_testamente_und_scheidungen.docx ist für die Fallauswertung vorhanden.
-    path: 02_testamente_und_scheidungen.docx
+    description: Die eigenständige Abschrift des gemeinschaftlichen Testaments ist für die Fallauswertung vorhanden.
+    path: 11_testament_armin_beate_1994_abschrift.docx
   - id: datei-15-nachlassgerichtliche-anhoerung
     check_type: file_exists
-    description: Die nachlassgerichtliche Anhörung mit Einwendungen und Unterlagennachforderung ist vorhanden.
-    path: 15_nachlassgericht_anhaerung_und_verfuegung.docx
+    description: Die nachlassgerichtliche Anhörungsniederschrift mit den Einwendungen ist als eigenes Aktenstück vorhanden.
+    path: 15a_niederschrift_nachlassgericht_2026-07-15.docx
+  - id: datei-15-nachlassgerichtliche-verfuegung
+    check_type: file_exists
+    description: Die nachlassgerichtliche Verfügung mit der Unterlagennachforderung ist als eigenes Aktenstück vorhanden.
+    path: 15b_verfuegung_nachlassgericht_2026-07-15.docx
   - id: datei-16-bankauskunft
     check_type: file_exists
-    description: Die Bankauskunft zu Konten, Vollmacht, Schließfach und Immobilie Armins ist vorhanden.
-    path: 16_grundbuch_und_bankauskunft_armin.docx
+    description: Die Bankauskunft zu Konten, Vollmacht und Schließfach Armins ist als eigenes Aktenstück vorhanden.
+    path: 16b_bankauskunft_armin_vogel_2026-07-11.docx
+  - id: datei-16-grundbuchauszug
+    check_type: file_exists
+    description: Der Grundbuchauszug zur Immobilie Armins ist als eigenes Aktenstück vorhanden.
+    path: 16a_grundbuchauszug_sophienstrasse_41.docx
   - id: datei-17-personenstand
     check_type: file_exists
     description: Die Personenstandsübersicht zu Fionas Abstammung und Ehen ist vorhanden.

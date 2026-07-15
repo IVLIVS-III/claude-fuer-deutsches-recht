@@ -1,4 +1,12 @@
-Datum;Belastung;Puls;Folgetag;Bemerkung
-2026-06-03;45 Minuten Arztweg;138;Bett bis 14 Uhr;Schwindel
-2026-06-10;2 Stunden Büroversuch;151;AU;Brain Fog
-2026-06-19;Einkauf 25 Minuten;129;Ruhe 6 Stunden;Ehemann fuhr zurück
+Datum;Beginn;Belastung;Dauer Minuten;Maximalpuls;unmittelbare Beschwerden;Erholungszeit Stunden;Folgetag;Beleg
+2026-06-01;09:20;Duschen und Haarewaschen;24;116;Beinschwäche;1.5;vormittags eingeschränkt;Kalendernotiz
+2026-06-03;10:10;Arztweg und Wartezeit;78;138;Schwindel und Zittern;5.5;Elternabend abgesagt;Terminzettel
+2026-06-05;11:00;Telefonat Krankenkasse;31;104;Konzentrationsabfall;1.0;keine besondere Verschlechterung;Anrufliste
+2026-06-08;09:35;Wäsche sortieren im Sitzen;38;112;Kopfdruck;2.0;später Start;Notiz Tobias
+2026-06-10;08:40;Untersuchung Rentenversicherung;94;151;Übelkeit und Brain Fog;6.0;überwiegend Bettruhe;Einladung und Pulsuhr
+2026-06-14;14:10;Besuch der Mutter;65;109;Reizüberlastung;3.0;Ruhetag;Familienkalender
+2026-06-19;10:30;Supermarkt mit Ehemann;25;129;zweimaliges Hinsetzen;6.0;vormittags nicht belastbar;Kassenbon
+2026-06-21;12:00;Mittagessen vorbereitet;42;118;Tremor und Wortfindung;2.5;leicht verschlechtert;Notiz
+2026-06-24;09:15;E-Mails in drei Blöcken;52;101;Fehler beim Kochen danach;4.0;Kopfschmerz;Entwürfe gespeichert
+2026-06-27;16:00;Spaziergang 420 Meter;18;134;Kurzatmigkeit;3.5;lange Schlafphase;Pulsuhr
+2026-06-30;10:00;Besprechung Protokoll;47;106;Konzentration lässt nach;1.5;noch offen;Notiz Rentenberatung

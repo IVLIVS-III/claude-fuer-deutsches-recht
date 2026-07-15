@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 41 KB) | PDF | [`gesamt-pdf/sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 721 KB) | PDF | [`gesamt-pdf/sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster-einzelpdfs.zip) |
 
@@ -26,7 +26,7 @@ Helga Bertram, 62, Küchenhilfe in einer Schulkantine in Münster-Hiltrup, hat s
 ## Aktenstruktur
 
 ```
-sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster/
+sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-münster/
 ├── README.md                                          <- diese Übersicht
 ├── rubric.yaml                                        <- Prüfkriterien für die Bearbeitung
 ├── 01_mandatsnotiz_fristsache.docx                      <- Erstgespräch, Frist, Auftrag, Kostenhinweis
@@ -40,7 +40,8 @@ sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster/
 ├── 09_befundanforderung_liste.docx                      <- Interner Arbeitszettel zu Befundanforderungen
 ├── 10_fristen_und_anlagen.csv                         <- Fristenblatt und Eingangsübersicht
 ├── 11_klagestrategie_sg.docx                            <- Interner Vermerk zur Klagestrategie
-├── 12_akteneinsicht_versorgungsaerztliche_stellungnahme.docx <- Übersendungsschreiben und versorgungsärztliche Stellungnahme
+├── 12a_uebersendung_akteneinsicht_stadt_muenster.docx   <- Eigenständiges Übersendungsschreiben zur Akteneinsicht
+├── 12b_versorgungsaerztliche_stellungnahme_2026-06-12.docx <- Gesonderte versorgungsärztliche Stellungnahme
 ├── 13_orthopaedie_befundbericht.docx                    <- Nachgereichter orthopädischer Befund
 └── gesamt-pdf/                                        <- konsolidierte Lesefassung als PDF
 ```

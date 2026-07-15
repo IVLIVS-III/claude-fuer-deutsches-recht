@@ -34,6 +34,11 @@ jobs:
       - name: Python-Abhängigkeiten installieren
         run: python3 -m pip install -r requirements.txt
 
+      - name: Layoutgetreue Office-PDF-Konvertierung bereitstellen
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer fonts-dejavu-core fonts-liberation2
+
       - name: YAML-Frontmatter validieren
         run: python3 scripts/validate-yaml-frontmatter.py
 
@@ -52,6 +57,7 @@ jobs:
 
       - name: Gesamt-PDFs der Testakten reproduzierbar bauen und validieren
         run: |
+          python3 scripts/validate-testakten-dokumentqualitaet.py
           python3 scripts/build-testakte-gesamt-pdf.py
           python3 scripts/validate-testakten-gesamt-pdf.py
 

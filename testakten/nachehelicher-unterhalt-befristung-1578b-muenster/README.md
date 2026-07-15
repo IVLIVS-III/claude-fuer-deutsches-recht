@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 44 KB) | PDF | [`gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf`](gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 570 KB) | PDF | [`gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf`](gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nachehelicher-unterhalt-befristung-1578b-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster-einzelpdfs.zip) |
 
@@ -56,7 +56,7 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 ## Aktenstruktur
 
 ```text
-nachehelicher-unterhalt-befristung-1578b-muenster/
+nachehelicher-unterhalt-befristung-1578b-münster/
 ├── 01_mandatsnotiz_erstgespraech.docx            Erstberatung: Beteiligte, Ziel, offene Punkte
 ├── 02_ehe_und_familienchronik.docx               Eckdaten der Ehe, Umzüge, Rollenverteilung
 ├── 03_einkommen_pflichtiger.docx                 Einkommen und Abzugsposten Dr. Voßkamp (Arbeitswerte)

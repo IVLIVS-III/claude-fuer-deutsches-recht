@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 37 KB) | PDF | [`gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf`](gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 730 KB) | PDF | [`gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf`](gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen-einzelpdfs.zip) |
 
@@ -47,7 +47,8 @@ Eilsache nach Trennung der Eheleute Derya und Cem Aydin in Essen. Es gibt einen 
 | `07_notruf_und_einsatzdisposition.docx` | Zeitgestempeltes Leitstellenprotokoll mit Notrufangaben, Hintergrundwahrnehmungen und Dispositionsverlauf |
 | `08_aerztlicher_befundbericht.docx` | Befundbericht mit klarer Trennung von Anamnese, objektivem Befund, Behandlung und begrenzter Aussagekraft |
 | `09_entwurf_naechstes_schreiben.docx` | Konkreter Eilantragsentwurf zu Schutzanordnung, Wohnung, Umgang, Anhörung, Aufklärung und Glaubhaftmachung |
-| `10_jugendamt_hausbesuch_und_hilfeplan.docx` | Jugendamtsvermerk zu Wohnlage, Kindergesprächen, vorläufiger Einschätzung und terminierten Hilfeschritten |
+| `10a_jugendamt_hausbesuchsvermerk_2026-06-26.docx` | Eigenständiger Jugendamtsvermerk zu Hausbesuch, Wohnlage, Einzelgesprächen mit den Kindern und unmittelbaren Beobachtungen |
+| `10b_jugendamt_vorlaeufiger_hilfeplan_2026-06-27.docx` | Davon getrennter vorläufiger Hilfeplan mit Zielen, Zuständigkeiten, Übergaberegeln und Folgeterminen |
 | `csv/fristen_eilsache.csv` | Fristen- und Terminspur für Wegweisung, Eilantrag, Anhörung und Umgangsbegleitung |
 | `emails/2026-07-03_schule_abholfrage.eml` | Schulmail zur praktischen Abholung und zu fehlenden gerichtlichen Nachweisen |
 | `pdfs/fotoblatt_tuer_und_flur.pdf` | Fotografische Dokumentation von Türzarge, Flur und Wäschekorb mit beschränktem Beweiswert |

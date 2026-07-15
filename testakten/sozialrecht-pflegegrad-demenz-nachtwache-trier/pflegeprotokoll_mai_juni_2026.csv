@@ -1,5 +1,16 @@
-Datum;Uhrzeit;Ereignis;Person;Beleg
-2026-05-07;02:18;Wohnungstür offen, Herr Birk im Hausflur;Mara Birk;Handynotiz
-2026-05-16;03:05;Herdplatte eingeschaltet, Topf leer;Nachbarin K. Lauer;WhatsApp
-2026-06-03;01:42;Sturz im Bad, Hämatom rechte Hüfte;Pflegedienst Porta Nigra;Pflegebericht
-2026-06-21;04:10;Sucht verstorbenen Bruder im Innenhof;Mara Birk;Protokoll
+Datum;Uhrzeit;Ereignis;Dauer Minuten;beobachtet von;Maßnahme;Folge;Beleg
+2026-05-02;23:48;suchte Ehefrau im Wohnzimmer;22;Mara Birk;beruhigt und ins Bett begleitet;schlief ab 00:25;Handynotiz
+2026-05-07;02:18;Wohnungstür offen, im Hausflur;31;Karin Lauer;Tochter angerufen;keine Verletzung;Nachricht 02:21
+2026-05-11;01:06;Wasser im Bad lief;18;Nachtbereitschaft;Hahn geschlossen, Kleidung gewechselt;Boden gewischt;Pflegebericht
+2026-05-16;03:05;Herdplatte an, leerer Topf;27;Karin Lauer;Sicherung ausgeschaltet;Topf verfärbt;Foto und Nachricht
+2026-05-19;04:12;suchte Bruder im Innenhof;38;Mara Birk;zurückgeführt;unruhig bis 05:30;Kalender
+2026-05-24;00:44;Abendmedikation doppelt bereitgelegt;12;Mara Birk;Medikamente gesichert;keine Einnahme;Tablettenbox
+2026-05-29;22:36;Sturz neben Bett;25;Nachtbereitschaft;Aufstehhilfe, Kontrolle;Schürfung Ellenbogen;Pflegebericht
+2026-06-03;01:42;Sturz im Bad;46;Pflegedienst;Tochter und Bereitschaftsarzt;Hämatom Hüfte;Arztvermerk
+2026-06-08;02:57;wollte zur Frühschicht im Steinbruch;35;Mara Birk;beruhigt, Kleidung gewechselt;schlief 04:00;Handynotiz
+2026-06-12;23:21;Wohnungsschlüssel im Kühlschrank;16;Nachtbereitschaft;Schlüssel gesichert;keine;Dienstbuch
+2026-06-17;01:14;Herdregler geöffnet, keine Platte heiß;9;Nachtbereitschaft;Sicherung aus;Elektriker angerufen;Dienstbuch
+2026-06-21;04:10;suchte Bruder im Innenhof;41;Mara Birk;zurückgeführt;stark erschöpft;Kalender
+2026-06-25;00:18;verwechselte Bad und Kellertür;19;Nachtbereitschaft;begleitet;keine;Dienstbuch
+2026-06-28;03:32;Sturz an Teppichkante;34;Karin Lauer;Tochter gerufen, gekühlt;Knieprellung;Foto
+2026-06-30;22:49;Abendmedikation verweigert;28;Mara Birk;Hausarztplan erklärt;Einnahme 23:17;Kalender

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 398 KB) | PDF | [`gesamt-pdf/erbrecht-digitaler-nachlass-passwortsafe-berlin_gesamt.pdf`](gesamt-pdf/erbrecht-digitaler-nachlass-passwortsafe-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1972 KB) | PDF | [`gesamt-pdf/erbrecht-digitaler-nachlass-passwortsafe-berlin_gesamt.pdf`](gesamt-pdf/erbrecht-digitaler-nachlass-passwortsafe-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-digitaler-nachlass-passwortsafe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-digitaler-nachlass-passwortsafe-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-digitaler-nachlass-passwortsafe-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-digitaler-nachlass-passwortsafe-berlin-einzelpdfs.zip) |
 
@@ -42,7 +42,8 @@ Nach dem Tod des Fotografen Armin Lohse streiten Ehefrau, Tochter aus erster Ehe
 | `02_chronologie_arbeitsstand.docx` | Beleggestützte Zeitachse mit Datenbewegungen, Fundkette und offenen Widersprüchen |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Eva Lohses zu Atelier, Testament, Geräten und Aufträgen |
 | `04_gegenseite_standpunkt.docx` | Ralf Lohses Stellungnahme zu Verwahrung, Retuschearbeiten und neutraler Sicherung |
-| `05_testament_und_notizzettel.docx` | Wörtliche Abschriften, äußerer Zustand und Fundkette beider Schriftstücke |
+| `05_testament_armin_lohse_2021.docx` | Eigenständige Abschrift des Testaments mit Original- und Ablieferungsvermerk |
+| `05a_notizzettel_fundprotokoll.docx` | Gesondertes Fund- und Sicherungsprotokoll zum losen Zettel |
 | `06_bildagentur_rolle_rechte.docx` | Agenturauskunft zu Verträgen, Honoraren, Releases und Kundenanfrage |
 | `07_rechtsgutachten_digitaler_nachlass_bgh.docx` | Quellengeprüfter Recherchevermerk mit BGH III ZR 183/17 und III ZB 30/20 |
 | `08_erbscheinsantrag_nachlassgericht_berlin_mitte.docx` | Noch nicht eingereichter Antrag mit offen gelegtem Zettel und Anlagenkontrolle |
@@ -53,7 +54,8 @@ Nach dem Tod des Fotografen Armin Lohse streiten Ehefrau, Tochter aus erster Ehe
 | `13_testamentsauslegungs_vermerk.docx` | Offene Form-, Auslegungs- und Beweisfragen ohne Ergebnisvorgabe |
 | `14_kostenuebersicht_kanzlei.docx` | Zeitaufwand, Vorschuss, Auslagen und noch offene Wertfragen |
 | `15_telefonnotiz_eva_aus_dem_auto.docx` | Telefonnotiz zum Zeugenhinweis und neu gefundenen Auftragsbeleg |
-| `16_vollmacht_und_postausgang.docx` | Vollmacht, Identitätsprüfung, Versandwege und Zustellungsnachweise |
+| `16_vollmacht_eva_lohse.docx` | Mandatsvollmacht mit Umfang, Beschränkungen und Identitätsprüfung |
+| `16a_postausgangsnachweis_2026-06.docx` | Eigenständiger Versand-, Zustellungs- und Fristennachweis |
 | `17_stadtsparkasse_nachlassauskunft.docx` | Bankauskunft mit Konten, Lastschriften, Schließfach und Sicherheitsprotokoll |
 | `18_uebergabeprotokoll_it_sicherung.docx` | Vorbefülltes Protokoll für Geräteidentität, Prüfsummen und Verwahrung |
 | `csv/fristen_und_sicherung.csv` | Fristen- und Sicherungstabelle mit Quellen, Status und nächstem Schritt |

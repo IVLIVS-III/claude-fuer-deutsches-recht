@@ -1,93 +1,1358 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
+/Title (Arbeitszeugnis 03\055edelgard\055schwerdtfeger\055mta\055radiologie)
+/Author (Arbeitgeberzeugnis)
+/Subject (Arbeitszeugnis)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Type /Page
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 5 0 R
+/F2 6 0 R
+/F2-0 6 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/MediaBox [ 0.0 0.0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Contents 8 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (Radiologische Gemeinschaftspraxis Dres. med. P\374rckhauer / Hagedorn) /CreationDate (D:20260528100314+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260528100314+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Arbeitszeugnis) /Trapped /False
+/Length 7205
 >>
+stream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+0.86 0.0 0.0 0.86 41.669292 117.864572 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 56.69291 718.8661 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14.97638 cm
+q
+0.960784 0.960784 0.960784 rg
+n
+0 51.02362 113.3858 -51.02362 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 3.511811 cm
+q
+BT
+1 0 0 1 0 35 Tm
+22.18991 0 Td
+11 TL
+/F2 9 Tf
+0.333333 0.333333 0.333333 rg
+(RADIOLOGIE) Tj
+T*
+19.0035 0 Td
+(HOF) Tj
+T*
+-24.9975 0 Td
+(P\334RCKHAUER \267) Tj
+T*
+8.248503 0 Td
+(HAGEDORN) Tj
+T*
+-24.44441 0 Td
+ET
+Q
+Q
+q
+1 J
+1 j
+0.533333 0.533333 0.533333 RG
+0.8 w
+n
+0 51.02362 m
+113.3858 51.02362 l
+S
+n
+0 0 m
+113.3858 0 l
+S
+n
+0 0 m
+0 51.02362 l
+S
+n
+113.3858 0 m
+113.3858 51.02362 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 141.7323 40 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15 Tm
+/F2 11 Tf
+13 TL
+(Radiologische Gemeinschaftspraxis Dres\056 med\056 P\374rckhauer \057) Tj
+T*
+(Hagedorn) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 30 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Fach\344rzte f\374r diagnostische Radiologie) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 20 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Bahnhofstra\337e 28 \267 95028 Hof) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 10 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Telefon 09281 \057 14 06 70 \267 Telefax 09281 \057 14 06 79) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 0 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(praxis\100radiologie\055hof\055puerckhauer\056de) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 68.3622 712.8661 cm
+Q
+q
+1 0 0 1 56.69291 711.4488 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 5 Tm
+T*
+ET
+q
+1 J
+1 j
+0.333333 0.333333 0.333333 RG
+0.6 w
+n
+0 1.417323 m
+481.8898 1.417323 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 68.3622 703.4488 cm
+Q
+q
+1 0 0 1 68.3622 691.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+356.2712 0 Td
+(Hof\054 den 30\056 April 2025) Tj
+T*
+-356.2712 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 655.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 15 Tf
+18 TL
+175.5156 0 Td
+(Arbeitszeugnis) Tj
+T*
+-175.5156 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 600.9488 cm
+q
+BT
+1 0 0 1 0 30.5 Tm
+0.077412 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Frau ) Tj
+/F2 10 Tf
+(Edelgard Schwerdtfeger) Tj
+/F1 10 Tf
+(\054 geboren am 7\056 Juni 1978 in Marktredwitz\054 war vom 1\056 Februar 2014 bis) Tj
+T*
+0 Tw
+0.614653 Tw
+(zum 30\056 April 2025 als ) Tj
+/F2 10 Tf
+(medizinisch\055technische Radiologieassistentin \050MTRA\051) Tj
+/F1 10 Tf
+( in Vollzeit in unserer) Tj
+T*
+0 Tw
+(Gemeinschaftspraxis besch\344ftigt\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 590.9488 cm
+Q
+q
+1 0 0 1 68.3622 567.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Aufgabenbereich) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 550.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 10 Tf
+13.5 TL
+(Frau Schwerdtfeger geh\366rten folgende Aufgabenbereiche an\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 517.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 17 Tm
+/F1 10 Tf
+13.5 TL
+14.73224 Tw
+<7f2073656c627374e46e6469676520447572636866fc6872756e67206b6f6e76656e74696f6e656c6c65722052f66e7467656e756e74657273756368756e67656e2065696e7363686c6965df6c696368> Tj
+T*
+0 Tw
+(Mammographien) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 501.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 3.5 Tm
+/F1 10 Tf
+13.5 TL
+<7f20417373697374656e7a206265692043542d556e74657273756368756e67656e206d697420756e64206f686e65204b6f6e74726173746d697474656c> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 472.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 17 Tm
+/F1 10 Tf
+13.5 TL
+0.32738 Tw
+<7f20566f72626572656974756e6720756e64204c61676572756e67206465722050617469656e74696e6e656e20756e642050617469656e74656e20626569204d52542d556e74657273756368756e67656e20616e20756e736572656d> Tj
+T*
+0 Tw
+(1\0545\055Tesla\055Ger\344t) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 443.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 17 Tm
+/F1 10 Tf
+13.5 TL
+3.547909 Tw
+<7f2042656469656e756e6720756e6420416e77656e64657277617274756e67206465722062696c64676562656e64656e20476572e4746520736f776965204b6f6e7374616e7a7072fc66756e67656e206e616368> Tj
+T*
+0 Tw
+(Strahlenschutzverordnung) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 428.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 3.5 Tm
+/F1 10 Tf
+13.5 TL
+<7f20457266617373756e67206465722050617469656e74656e646174656e20696d20507261786973696e666f726d6174696f6e7373797374656d205249532f50414353> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 412.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 3.5 Tm
+/F1 10 Tf
+13.5 TL
+<7f20566f72626572656974756e672064657220426566756e64756e677364696b746174652066fc72206469652046616368e4727a74696e6e656e20756e642046616368e4727a7465> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 389.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Fachkenntnisse und Arbeitsweise) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 345.4488 cm
+q
+BT
+1 0 0 1 0 30.5 Tm
+1.440098 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Frau Schwerdtfeger verf\374gt \374ber die f\374r ihre T\344tigkeit erforderlichen ) Tj
+/F2 10 Tf
+(guten Fachkenntnisse) Tj
+/F1 10 Tf
+(\054 die sie) Tj
+T*
+0 Tw
+2.373744 Tw
+(sachgerecht in der Praxis anwendet\056 Ihre Auffassungsgabe ist ) Tj
+/F2 10 Tf
+(gut) Tj
+/F1 10 Tf
+(\073 neue Ger\344teeinstellungen und) Tj
+T*
+0 Tw
+(Untersuchungsprotokolle erfasst sie nach Einweisung sicher\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 285.4488 cm
+q
+BT
+1 0 0 1 0 44 Tm
+0.563744 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Ihre Arbeitsweise ist ) Tj
+/F2 10 Tf
+(sorgf\344ltig und ordnungsgem\344\337) Tj
+/F1 10 Tf
+(\056 Die Untersuchungen f\374hrt sie zuverl\344ssig nach) Tj
+T*
+0 Tw
+2.52902 Tw
+(den vorgegebenen Standards durch\056 Bei besonderen oder anspruchsvollen Untersuchungen\054 etwa) Tj
+T*
+0 Tw
+3.505118 Tw
+(interventionellen Vorbereitungen\054 stimmt sie sich regelm\344\337ig mit den \344rztlichen Kolleginnen und) Tj
+T*
+0 Tw
+(Kollegen ab\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 262.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Belastbarkeit und Engagement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 217.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.5 Tm
+/F1 10 Tf
+13.5 TL
+0.086245 Tw
+(Frau Schwerdtfeger zeigte Interesse an ihren Aufgaben und war im \374blichen Rahmen einsatzbereit\056 Sie) Tj
+T*
+0 Tw
+0.960107 Tw
+(nahm an den verpflichtenden Fortbildungen im Strahlenschutz teil\056 \334ber die regul\344ren Anforderungen) Tj
+T*
+0 Tw
+(hinausgehende Eigeninitiative entwickelte sie in einzelnen Bereichen\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 184.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 10 Tf
+13.5 TL
+3.73738 Tw
+(Ihre Belastbarkeit ist gut\056 In zeitlich angespannten Untersuchungstagen arbeitete sie ruhig und) Tj
+T*
+0 Tw
+(kontrolliert\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 161.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Arbeitserfolg) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 130.9488 cm
+q
+BT
+1 0 0 1 0 17 Tm
+0.713744 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Die Arbeitsergebnisse von Frau Schwerdtfeger waren ) Tj
+/F2 10 Tf
+(zur vollen Zufriedenheit) Tj
+/F1 10 Tf
+( der Praxisleitung\056 Die) Tj
+T*
+0 Tw
+(ihr \374bertragenen Aufgaben erledigte sie ordnungsgem\344\337 und in der erwarteten Qualit\344t\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 107.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Verhalten) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 76.94882 cm
+q
+BT
+1 0 0 1 0 17 Tm
+2.996245 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Frau Schwerdtfeger ) Tj
+/F2 10 Tf
+(hat sich in das Team integriert) Tj
+/F1 10 Tf
+(\056 Im Umgang mit den Praxisinhabern\054 den) Tj
+T*
+0 Tw
+(Kolleginnen und den Patientinnen und Patienten verhielt sie sich freundlich\056) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+endstream
 endobj
 8 0 obj
-<<
-/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
->>
+[ 9 0 R 10 0 R ]
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2671
+/Length 7210
 >>
 stream
-GatU4bBDW"'&EF8C8pW2dsOAl2C$7ci_D7#A0m-ohEW8QZ;#ol&@B%Aohu#X,Z7OhPIBLB!^P[EeZE$Z=^^6mV>jm=!&mQ\^:1n`@CZE^2-a74K"L-`IkRmHV<8eHA4IC<<bR0#DrGasD<bi'>]`&pH3a?2H'>[r!oF<R#E?e`K@#>B.rHYPZ"FrOmJ&SAQ=DnJ(W'0:,WT[iIJ_,M3/2'KU")KLom9Mq#Km0bgT\OCU4Hm78(&I1pGPFHV;^X1UK<l!Cb`\Qq"![mqhMdj@/2n"nlN%>__c@;^")JeQhu6ob!ln05r\K0a`6+T]8n&rhsV?MAG^paM$l\gG!jSt\io3Emr#lkrnU;t4tciAE7*<Vpe(hkL4?sF(g[SloX]9s@>(j*qR>+(\0&oQ;(j[8B?e8s3F7-<mbF,cHCTuh/_;`Za*,6UO3)LZ)]^+0#6b<!lqhq=$PmAd?7&g_:-#uM"j[=cAK+X_8G5PS_6)d`!<nMn5[Oc!>X,-fjq=gY:X2/.KZBo'h8"Rp7i7d4UL?O]D[b*4:g+EFOJW5-cdq?Ej199/OL,o/`#239=fDUMD[)iR@/gpq)jZAggf-m$A6cpd%Q2u`nk=H.U"i>6D#Ml*9:k`LM3Nk`d"6&g%SRrGZT2@<Z9Q@8d57;a!n37j?aBG#'ftIA"o6Nn_MF7?0W(on)TZM07F:HknCqZBZnP"fn4bBX!8[t*p(kS4:7i+Ab%\W8Bfsekr[GVl/L(\!E'JLq!IJTUV[%Q`hN,r"F2I*q[Q3O^)h$6C=h2(rQjZS7"6M6lbE:5]fB_.0q,.':31`&8a6>J!dr7X*@g*oS!mbfDbiO^pWnQu(&R!YZ(p5o\_DI7N7km-]1isE@1C.7V`"ke"L-?W&W5FT=+^#9NGR[d$cL,/5-VVPL\5'M<`bNC)0&'C^*j\L1po9SB;H?%j^i-X%YQ=tOA-+qNq5bj&\!brU_Nmc</Q%uH\E>AFj%%kBS6PAT2[QJB>H[EToQI[DMc$R+jjarDPh9f=#njTq`Rh(+9,jq3XAW:O7.iD6]Ni[QIMnVALjtY7^;H>bqcZs([MF)>AuB0g`N)I=2_%IbEE597^j4<kE$siIi#o7:fP^&6Oq)YBQKIie@4Ns2#X2IjdqCjbR`sT%I<N#7C8`pr#SI30iVO8D%@]+K\;3/(:iTn&+4JT<?ih7p`sPR/_ep!-a*)UXSua&bMW_$4;4p=I,ogf<\P@9A9P#dgGV6rc;5=mgcd@gXR3<7_:^b6R<Nf>+L/p/?a>6TQ/3e)o_i`9H.*=r`QSdac$[ZffBh^u7NBA9_D:uRupC=a$_7SgZpEAGr)-r.;b#E?T=:2.JQ,5i+o1==I?r,fE(BhX\")PLE&H!rQAq2(T';A:Ts(LT9kjYcLANE<b(OEM1^e\LmkJ`QlX@q#O(]s$O]3=bTB34Q4Ukl'c4'h%4mDKf"Ls0ONkm^5t&Z7@)0"-uK&iEL.eul;@7e*9o!?FiD<Op@rO=J5fmR7aQ2iY4sNN)W-O\BgkFKF$\Q-3(FFQg*>FuZ$r'<Jg0)q<D8nB`.E!QtiFWoYrKRo1#\d]0>H7$\UmG^-n#3e-l`NRE+TpEi]H-q?O@34^oc:K<oJ.sBP]F#`BMpG>!KU*hZW@IuM.RuVgW67=Bn'lUV2F9u0C<GskQ4`!hf2?hT&R:[/IW@JfX3tb6a.T&GakZ@/Yepgh[(ZV?hEL&^c'uf9*81mIYd?in!S^bTBTuk=a#+\TXD^V"K[c%@6Ag?^YDLgrTmd%Hdak0R)eteili.8+@&S`1f;)&.%bYsnK&H2uff6j3b,lag5H'=I0U1$e<8ee]>V(/+BX5N%I4C""#3g8MT',4F*AOR)le#e6CSdd>5"$8]mn,2`XZ#/995cg0`W(NIoaQ=HEg(]W<?E/Yp1f!^^ln&<WdD1l>[oKjkITIbTEdAeM<cY9VQlU?\lE58!gA$OZ\5l6"n;+(]@p<,&9]b$EFO$fe.nO&e^816SJW@dgX&nl)(nnJCY-r.c,eD-oYA!Qr)6H*d"N3Pmk]sg&(I_gB71LT[bBo;C9iQ'<HE.r9s$%-bUt:kTD44%rBra2^^pg3p6t\sNL?D\==4j)8[P>9*#o;M%D4WrFRdNp4WB&?;R%\H1T!nEI^gQW%THHHq"?6]1(3kuWd5R.*/mTd-^h=0lICim$dC*X\m@%]+n2Si*qNB/["+@ht-YS!(0eQfk[$,7InU2i$e`V\#GgrtEK&TpN!.B@JBcp<Hest<!7AG5+nR7g69X#H,-e3)(*VQ0.0.n`l!r7]l+k/DS5P&,obp,59Mfq31b1sA;Z^Bm1'tTSp3oA,R['i\ueqkPU817:[;,RRO962'.R.0Bp$/MWk"AghtBe;3T[7]"aUF/F\4B#aI=cdY!L0Ko(:\Dt^GtVnZNs\iMh(;dTfrK;V73f%n,.jY0rQ2!O9p'oWO`8@OJ0[?V1Nt_4U9uKLVr#LR,@+7'nE;dB08"Np>[!MM*lldq$9@Z=d/r&M)JV,&YXoe?'?[LWYq<I[CWe1)heJHiqO7)C.%5YKY5<jpP[U^ghm*;j+(Lq&+?#ZcVbI,'=#:Cab#D:Ta>^2P-"dBX;+W$1qm^#t'_&e,0SfM9dC%7K7R@I\S^j]SZ#<M46g(XKW,Hnubn!Ft7WMa#aZBtF>l5*<F3u?~>endstream
+q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+0.86 0.0 0.0 0.86 41.669292 117.864572 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 56.69291 718.8661 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 14.97638 cm
+q
+0.960784 0.960784 0.960784 rg
+n
+0 51.02362 113.3858 -51.02362 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 3.511811 cm
+q
+BT
+1 0 0 1 0 35 Tm
+22.18991 0 Td
+11 TL
+/F2 9 Tf
+0.333333 0.333333 0.333333 rg
+(RADIOLOGIE) Tj
+T*
+19.0035 0 Td
+(HOF) Tj
+T*
+-24.9975 0 Td
+(P\334RCKHAUER \267) Tj
+T*
+8.248503 0 Td
+(HAGEDORN) Tj
+T*
+-24.44441 0 Td
+ET
+Q
+Q
+q
+1 J
+1 j
+0.533333 0.533333 0.533333 RG
+0.8 w
+n
+0 51.02362 m
+113.3858 51.02362 l
+S
+n
+0 0 m
+113.3858 0 l
+S
+n
+0 0 m
+0 51.02362 l
+S
+n
+113.3858 0 m
+113.3858 51.02362 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 141.7323 40 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15 Tm
+/F2 11 Tf
+13 TL
+(Radiologische Gemeinschaftspraxis Dres\056 med\056 P\374rckhauer \057) Tj
+T*
+(Hagedorn) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 30 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Fach\344rzte f\374r diagnostische Radiologie) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 20 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Bahnhofstra\337e 28 \267 95028 Hof) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 10 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Telefon 09281 \057 14 06 70 \267 Telefax 09281 \057 14 06 79) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 141.7323 0 cm
+q
+0.2 0.2 0.2 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(praxis\100radiologie\055hof\055puerckhauer\056de) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 68.3622 712.8661 cm
+Q
+q
+1 0 0 1 56.69291 711.4488 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 5 Tm
+T*
+ET
+q
+1 J
+1 j
+0.333333 0.333333 0.333333 RG
+0.6 w
+n
+0 1.417323 m
+481.8898 1.417323 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 68.3622 703.4488 cm
+Q
+q
+1 0 0 1 68.3622 691.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+356.2712 0 Td
+(Hof\054 den 30\056 April 2025) Tj
+T*
+-356.2712 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 655.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 15 Tf
+18 TL
+175.5156 0 Td
+(Arbeitszeugnis) Tj
+T*
+-175.5156 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 600.9488 cm
+q
+BT
+1 0 0 1 0 30.5 Tm
+0.077412 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Frau ) Tj
+/F2 10 Tf
+(Edelgard Schwerdtfeger) Tj
+/F1 10 Tf
+(\054 geboren am 7\056 Juni 1978 in Marktredwitz\054 war vom 1\056 Februar 2014 bis) Tj
+T*
+0 Tw
+0.614653 Tw
+(zum 30\056 April 2025 als ) Tj
+/F2 10 Tf
+(medizinisch\055technische Radiologieassistentin \050MTRA\051) Tj
+/F1 10 Tf
+( in Vollzeit in unserer) Tj
+T*
+0 Tw
+(Gemeinschaftspraxis besch\344ftigt\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 590.9488 cm
+Q
+q
+1 0 0 1 68.3622 567.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Aufgabenbereich) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 550.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 10 Tf
+13.5 TL
+(Frau Schwerdtfeger geh\366rten folgende Aufgabenbereiche an\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 517.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 17 Tm
+/F1 10 Tf
+13.5 TL
+14.73224 Tw
+<7f2073656c627374e46e6469676520447572636866fc6872756e67206b6f6e76656e74696f6e656c6c65722052f66e7467656e756e74657273756368756e67656e2065696e7363686c6965df6c696368> Tj
+T*
+0 Tw
+(Mammographien) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 501.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 3.5 Tm
+/F1 10 Tf
+13.5 TL
+<7f20417373697374656e7a206265692043542d556e74657273756368756e67656e206d697420756e64206f686e65204b6f6e74726173746d697474656c> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 472.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 17 Tm
+/F1 10 Tf
+13.5 TL
+0.32738 Tw
+<7f20566f72626572656974756e6720756e64204c61676572756e67206465722050617469656e74696e6e656e20756e642050617469656e74656e20626569204d52542d556e74657273756368756e67656e20616e20756e736572656d> Tj
+T*
+0 Tw
+(1\0545\055Tesla\055Ger\344t) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 443.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 17 Tm
+/F1 10 Tf
+13.5 TL
+3.547909 Tw
+<7f2042656469656e756e6720756e6420416e77656e64657277617274756e67206465722062696c64676562656e64656e20476572e4746520736f776965204b6f6e7374616e7a7072fc66756e67656e206e616368> Tj
+T*
+0 Tw
+(Strahlenschutzverordnung) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 428.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 3.5 Tm
+/F1 10 Tf
+13.5 TL
+<7f20457266617373756e67206465722050617469656e74656e646174656e20696d20507261786973696e666f726d6174696f6e7373797374656d205249532f50414353> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 412.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 14 3.5 Tm
+/F1 10 Tf
+13.5 TL
+<7f20566f72626572656974756e672064657220426566756e64756e677364696b746174652066fc72206469652046616368e4727a74696e6e656e20756e642046616368e4727a7465> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 389.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Fachkenntnisse und Arbeitsweise) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 345.4488 cm
+q
+BT
+1 0 0 1 0 30.5 Tm
+1.440098 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Frau Schwerdtfeger verf\374gt \374ber die f\374r ihre T\344tigkeit erforderlichen ) Tj
+/F2 10 Tf
+(guten Fachkenntnisse) Tj
+/F1 10 Tf
+(\054 die sie) Tj
+T*
+0 Tw
+2.373744 Tw
+(sachgerecht in der Praxis anwendet\056 Ihre Auffassungsgabe ist ) Tj
+/F2 10 Tf
+(gut) Tj
+/F1 10 Tf
+(\073 neue Ger\344teeinstellungen und) Tj
+T*
+0 Tw
+(Untersuchungsprotokolle erfasst sie nach Einweisung sicher\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 285.4488 cm
+q
+BT
+1 0 0 1 0 44 Tm
+0.563744 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Ihre Arbeitsweise ist ) Tj
+/F2 10 Tf
+(sorgf\344ltig und ordnungsgem\344\337) Tj
+/F1 10 Tf
+(\056 Die Untersuchungen f\374hrt sie zuverl\344ssig nach) Tj
+T*
+0 Tw
+2.52902 Tw
+(den vorgegebenen Standards durch\056 Bei besonderen oder anspruchsvollen Untersuchungen\054 etwa) Tj
+T*
+0 Tw
+3.505118 Tw
+(interventionellen Vorbereitungen\054 stimmt sie sich regelm\344\337ig mit den \344rztlichen Kolleginnen und) Tj
+T*
+0 Tw
+(Kollegen ab\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 262.4488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Belastbarkeit und Engagement) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 217.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 30.5 Tm
+/F1 10 Tf
+13.5 TL
+0.086245 Tw
+(Frau Schwerdtfeger zeigte Interesse an ihren Aufgaben und war im \374blichen Rahmen einsatzbereit\056 Sie) Tj
+T*
+0 Tw
+0.960107 Tw
+(nahm an den verpflichtenden Fortbildungen im Strahlenschutz teil\056 \334ber die regul\344ren Anforderungen) Tj
+T*
+0 Tw
+(hinausgehende Eigeninitiative entwickelte sie in einzelnen Bereichen\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 184.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 10 Tf
+13.5 TL
+3.73738 Tw
+(Ihre Belastbarkeit ist gut\056 In zeitlich angespannten Untersuchungstagen arbeitete sie ruhig und) Tj
+T*
+0 Tw
+(kontrolliert\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 161.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Arbeitserfolg) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 130.9488 cm
+q
+BT
+1 0 0 1 0 17 Tm
+0.713744 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Die Arbeitsergebnisse von Frau Schwerdtfeger waren ) Tj
+/F2 10 Tf
+(zur vollen Zufriedenheit) Tj
+/F1 10 Tf
+( der Praxisleitung\056 Die) Tj
+T*
+0 Tw
+(ihr \374bertragenen Aufgaben erledigte sie ordnungsgem\344\337 und in der erwarteten Qualit\344t\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 107.9488 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Verhalten) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 76.94882 cm
+q
+BT
+1 0 0 1 0 17 Tm
+2.996245 Tw
+13.5 TL
+/F1 10 Tf
+0 0 0 rg
+(Frau Schwerdtfeger ) Tj
+/F2 10 Tf
+(hat sich in das Team integriert) Tj
+/F1 10 Tf
+(\056 Im Umgang mit den Praxisinhabern\054 den) Tj
+T*
+0 Tw
+(Kolleginnen und den Patientinnen und Patienten verhielt sie sich freundlich\056) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+Q
+
+endstream
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 552
+/Length 1487
 >>
 stream
-Gatm892F=s&AIV:pl<^RnKXOZjT_HD6`WP1KN,'QRE[!s2sX9fL8r#&Nn[",NrTe6.BtYgmkGkPJ;4^+\QAm1)32uGKLAj+,V27T)'?34YEATeR80/BV8QmgfJH;k3#8e^AmID(!9+ShZ8&Xb5a2hmhZlj*,9E?fg"_hKQH6&EM7Y(_[J/a^\Or$rZ_hT=4[euWfnWnL<JVY>`_"ekMbn1$_&!%uU&P`nSE\kR#hl50p'&O%ABEiNgNHHQ^9KYAg>dKV4cmk!JkC(Yj&]'IiT/:P)Nr8uHWdpP?L6Qukr6U*f60_Iob;I)8K:Fc#[^9'UITQuj.Xfk<l2\7?<?9DnD,b2/V<B$%QEt#GOu4U4FK'V1d=`<3g6mH./-HX'2rpea>hW$?t2+L&t=KdH?i?Z^3GK\45Q$HCOeqF=7F;o4D0[_76/9;Y%s?WiA09\@TdD@DLbDShJVW,l//?q[aMY&fP5IuHGi@p<*\('DuEG^!iD*P8,i>#F[rJoWfQ[EkGG5J1(<bC;`o8`,@'Gqo#BAYiKh]g(`<2T)%&Ba~>endstream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+1 0.0 0.0 1 0.0 -605.2098 cm
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 68.3622 771.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2-0 10.5 Tf
+13 TL
+(Beendigung des Arbeitsverh\344ltnisses) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 754.3661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1-0 10 Tf
+13.5 TL
+(Das Arbeitsverh\344ltnis endet auf eigenen Wunsch von Frau Schwerdtfeger zum 30\056 April 2025\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 734.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1-0 10 Tf
+13.5 TL
+(Wir danken Frau Schwerdtfeger f\374r ihre Mitarbeit und w\374nschen ihr f\374r die Zukunft alles Gute\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 68.3622 706.8661 cm
+Q
+q
+1 0 0 1 56.69291 621.8661 cm
+q
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 69 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1-0 10 Tf
+13 TL
+( ) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 56 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1-0 10 Tf
+13 TL
+( ) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 43 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1-0 10 Tf
+13 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 30 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-0 10 Tf
+13 TL
+(Dr\056 med\056 Ottokar P\374rckhauer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 17 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1-0 10 Tf
+13 TL
+(Praxisinhaber) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 0 13 cm
+Q
+q
+1 0 0 1 0 3 cm
+q
+0.333333 0.333333 0.333333 rg
+BT
+1 0 0 1 0 2 Tm
+/F1-0 8 Tf
+10 TL
+(\050Stempel\072 Radiologie Hof P\374rckhauer \057 Hagedorn\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+Q
+Q
+Q
+
+endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000728 00000 n 
-0000000796 00000 n 
-0000001133 00000 n 
-0000001198 00000 n 
-0000003960 00000 n 
+0000000015 00000 n 
+0000000186 00000 n 
+0000000245 00000 n 
+0000000294 00000 n 
+0000000518 00000 n 
+0000000625 00000 n 
+0000000737 00000 n 
+0000007994 00000 n 
+0000008026 00000 n 
+0000015288 00000 n 
 trailer
 <<
-/ID 
-[<e47fdedd7f10a7a4f959a131fbf05fbe><e47fdedd7f10a7a4f959a131fbf05fbe>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
 /Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-4603
+16828
 %%EOF

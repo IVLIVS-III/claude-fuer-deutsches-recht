@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1760 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip) |
 
@@ -28,9 +28,16 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Mitarb
 | Datei | Inhalt |
 | --- | --- |
 | `01_mandatsnotiz_leibliche_tochter.docx` | Erstkontakt, Beteiligte, Ziel |
-| `02_adoptionsbeschluss_und_beziehung.docx` | Beschluss, Beziehungstatsachen, wirtschaftliche Umstände und fehlende Kinderbeteiligung |
-| `03_testament_und_gesellschaft.docx` | Unternehmertestament, GmbH-Anteile, Nachfolge |
-| `04_pflichtteil_und_auskunft.docx` | Pflichtteil, Auskunft, Bewertung |
+| `02_adoptionsbeschluss_amtsgericht_erfurt_2024.docx` | Ausfertigung des Adoptionsbeschlusses mit Gründen und Rechtskraft |
+| `02a_beziehungsdarstellung_adoptionsakte.docx` | Gesonderter Quellenvermerk zu Beziehungstatsachen und Aktenstand |
+| `02b_email_steuerberater_nachfolgeplanung_2025.eml` | Zeitnahe Korrespondenz zur getrennten gesellschaftlichen Nachfolgeplanung |
+| `03_testament_ralf_sander_2025.docx` | Eigenständige Abschrift des Unternehmertestaments |
+| `03a_gesellschaftsvertrag_auszug_sander.docx` | Gesellschaftsvertraglicher Auszug zu Beteiligung, Vinkulierung und Erbfall |
+| `03b_unternehmenszahlen_steuerberater_2026.docx` | Betriebswirtschaftliche Übersicht, offene Positionen und Bewertungsband |
+| `04a_auskunftsverlangen_nele_sander_2026-06-22.docx` | Privates Auskunftsverlangen mit konkreter Belegliste und Zugangsnachweis |
+| `04b_antwort_jonas_kretzschmar_2026-06-25.docx` | Gesonderte Antwort des eingesetzten Erben |
+| `04c_vorlaeufige_nachlassaufstellung_jonas.docx` | Vorläufige Gegenstands- und Wertaufstellung mit offenen Positionen |
+| `04d_zugangs_und_belegvermerk_auskunft.docx` | Kanzleivermerk zu Zugang, Originalen, Lücken und Fristen |
 | `05_erbschein_streit.docx` | Erbscheinantrag, Einwendungen, gerichtlicher Hinweis und offene Verfahrensoptionen |
 | `06_quoten_und_vermoegen.csv` | Parteibehauptungen, Wertbänder, Quellen und noch offene Quotenprüfung |
 | `07_vergleichsvorschlag_pflichtteil.docx` | Neutrale Bausteine für eine mögliche Zwischenvereinbarung |

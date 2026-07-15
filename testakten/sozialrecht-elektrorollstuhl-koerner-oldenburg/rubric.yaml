@@ -9,9 +9,8 @@ checks:
     path: 01_mandatsnotiz_und_fristsache.docx
   - id: datei-02-ueberweisung-und-hilfsmittelverordnung
     check_type: file_exists
-    description: Das Primäraktenstück 02_ueberweisung_und_hilfsmittelverordnung.docx ist für die Fallauswertung
-      vorhanden.
-    path: 02_ueberweisung_und_hilfsmittelverordnung.docx
+    description: Die eigenständige fachärztliche Überweisung ist für die Fallauswertung vorhanden.
+    path: 02_ueberweisung_facharzt_2026-05-08.docx
   - id: fachpruefung-01
     check_type: human_review
     description: Klagefrist aus dem Widerspruchsbescheid korrekt erkennen.

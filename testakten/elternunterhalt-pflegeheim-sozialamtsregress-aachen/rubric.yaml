@@ -29,13 +29,13 @@ checks:
   - id: r04-sozialamtsregress-94-sgb-xii
     check_type: text_contains
     description: "Überleitung des Anspruchs nach Paragraf 94 SGB XII erkannt"
-    path: "01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.docx"
+    path: "03_einkommen_mandant_jahresbruttogrenze.docx"
     contains: "94 SGB XII"
 
   - id: r05-entlastungsgesetz-grenze
     check_type: text_contains
     description: "Jahresbruttogrenze 100.000 EUR (Angehörigen-Entlastungsgesetz) berücksichtigt"
-    path: "01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.docx"
+    path: "03_einkommen_mandant_jahresbruttogrenze.docx"
     contains: "100.000"
 
   - id: r06-schenkungsrueckforderung-528

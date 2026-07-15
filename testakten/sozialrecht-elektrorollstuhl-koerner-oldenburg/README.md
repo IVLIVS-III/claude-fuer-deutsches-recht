@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 523 KB) | PDF | [`gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf`](gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1999 KB) | PDF | [`gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf`](gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip) |
 
@@ -32,11 +32,12 @@ Aktenstand ist der 25.09.2026. Der Widerspruchsbescheid vom 24.06.2026 wurde am 
 ## Aktenstruktur
 
 ```
-sozialrecht-elektrorollstuhl-koerner-oldenburg/
+sozialrecht-elektrorollstuhl-körner-oldenburg/
 ├── README.md                                            <- diese Übersicht
 ├── rubric.yaml                                          <- Prüfkriterien für die Bearbeitung
 ├── 01_mandatsnotiz_und_fristsache.docx                    <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
-├── 02_ueberweisung_und_hilfsmittelverordnung.docx         <- Hausärztliche Überweisung, Verordnung, medizinischer Kern
+├── 02_ueberweisung_facharzt_2026-05-08.docx               <- Eigenständige hausärztliche Überweisung mit konkreter Fragestellung
+├── 02a_hilfsmittelverordnung_elektrorollstuhl_2026-05-16.docx <- Gesonderte Hilfsmittelverordnung mit Untersuchung und Versorgungsziel
 ├── 03_facharztbericht_mobilitaet.docx                     <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko
 ├── 04_eigenschilderung_alltag_und_wege.docx               <- Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe
 ├── 05_wohnungsumfeld_barrierefreiheit.docx                <- Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen
@@ -107,4 +108,4 @@ Die Akte ist so angelegt, dass mit ihr drei Rollen sofort arbeiten können:
 
 ## Hinweis zur Bearbeitung
 
-Die Akte enthält bewusst keine fertige Antwortmatrix und keinen vorgefertigten Urteilsentwurf. Die Bewertung von Gehfähigkeit, Eignung der Alternativen und Erfolgsaussichten ist anhand der medizinischen Befunde, des gerichtlichen Gutachtens und der zitierten BSG-Rechtsprechung selbst zu entwickeln.
+Die Bewertung von Gehfähigkeit, Eignung der Alternativen und Erfolgsaussichten ist anhand der medizinischen Befunde, des gerichtlichen Gutachtens und der angeführten Rechtsprechung vorzunehmen. Parteivortrag, medizinische Feststellungen und gerichtliche Beweisaufnahme bleiben in den Aktenstücken nachvollziehbar getrennt.

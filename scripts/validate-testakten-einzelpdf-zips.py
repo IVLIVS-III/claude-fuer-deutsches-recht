@@ -4,7 +4,8 @@
 Spiegelt die Auswahl- und Benennungslogik des Builders (testakte_einzelpdf_common)
 und prueft fuer jede Testakte mit renderbaren Unterlagen, dass das ZIP existiert,
 intakt ist und genau die erwarteten PDF-Eintraege enthaelt. Zusaetzlich wird das
-Sammel-ZIP geprueft.
+Sammel-ZIP geprueft. Nach dem Dist-Verzeichnis koennen optional konkrete
+Testakten-Namen angegeben werden; dann wird ein gezielter Teilbestand geprueft.
 """
 
 from __future__ import annotations
@@ -70,7 +71,13 @@ def assert_same(label: str, expected: list[str], actual: list[str]) -> None:
 
 def main() -> None:
     dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
+    targets = set(sys.argv[2:])
     dirs = sorted((d for d in TESTAKTEN.iterdir() if d.is_dir()), key=lambda p: p.name)
+    if targets:
+        missing_targets = sorted(targets - {d.name for d in dirs})
+        if missing_targets:
+            fail(f"unknown testakten: {missing_targets}")
+        dirs = [d for d in dirs if d.name in targets]
     if not dirs:
         fail("no testakten directories found")
 

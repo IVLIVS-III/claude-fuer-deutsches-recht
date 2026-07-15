@@ -1,4 +1,13 @@
-Monat;Zahlbetrag alt;Zahlbetrag neu;Differenz;Quelle
-2026-07;486.70;486.70;0.00;Mitteilung Mai
-2026-08;486.70;445.80;40.90;Kürzungsschreiben
-2026-09;486.70;445.80;40.90;Prognose
+Zahlmonat;Soll laut Mitteilung alt EUR;Ist Kasse EUR;Differenz EUR;Kontoeingang;Beleg;Bemerkung
+2026-01;486.70;486.70;0.00;2026-01-30;Kontoauszug 01/2026;vollständig
+2026-02;486.70;486.70;0.00;2026-02-27;Kontoauszug 02/2026;vollständig
+2026-03;486.70;486.70;0.00;2026-03-31;Kontoauszug 03/2026;vollständig
+2026-04;486.70;486.70;0.00;2026-04-30;Kontoauszug 04/2026;vollständig
+2026-05;486.70;486.70;0.00;2026-05-29;Kontoauszug 05/2026;vollständig
+2026-06;486.70;486.70;0.00;2026-06-30;Kontoauszug 06/2026;vollständig
+2026-07;486.70;486.70;0.00;offen;Mitteilung 07.06.2026;vor Fälligkeit
+2026-08;486.70;445.80;40.90;offen;Mitteilung 07.06.2026;angekündigte Kürzung
+2026-09;486.70;445.80;40.90;offen;Mitteilung 07.06.2026;Prognose
+2026-10;486.70;445.80;40.90;offen;Mitteilung 07.06.2026;Prognose
+2026-11;486.70;445.80;40.90;offen;Mitteilung 07.06.2026;Prognose
+2026-12;486.70;445.80;40.90;offen;Mitteilung 07.06.2026;Prognose

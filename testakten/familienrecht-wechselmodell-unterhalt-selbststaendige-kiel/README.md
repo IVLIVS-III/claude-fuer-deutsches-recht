@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 37 KB) | PDF | [`gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf`](gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 675 KB) | PDF | [`gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf`](gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel-einzelpdfs.zip) |
 
@@ -50,9 +50,10 @@ Trennung von Rieke und Malte Henning in Kiel mit zwei Kindern, praktiziertem Wec
 | `10_schulische_stellungnahme.docx` | Gemeinsame Auskunft von Gymnasium und Grundschule zu Abholungen, Krankheit, Kinderäußerungen und Portalregel |
 | `csv/fristen_und_zahlungen.csv` | Monatliche Zahlungs- und Fristenübersicht für Auskunft, Rückstand und Zwischenregelung |
 | `emails/2026-07-02_rieke_an_kanzlei.eml` | Mandantenmail zu Kalenderabweichungen, Bonus und ausstehenden Kosten |
-| `pdfs/schulbescheinigung_und_kostenblatt.pdf` | Schul- und Kostenbeleg für Klassenfahrt, Hort und regelmäßige Betreuung |
+| `pdfs/schulbescheinigung_nora_henning.pdf` | Eigenständige Schulbescheinigung zu Schulbesuch, Musikprofil und Klassenfahrt |
+| `pdfs/kostenmitteilung_nora_henning.pdf` | Gesonderte Zahlungsmitteilung der Schulkasse mit Fälligkeiten und Kontoverbindung |
 | `tabellen/betreuungstage_und_einkommen.xlsx` | Rechenmappe mit Betreuungstagen, Mehrjahreseinkommen und getrennten Kinderbedarfen |
 
 ## Arbeitsnotiz
 
-Die Akte eignet sich für Unterhaltsberechnung, Betreuungsmodell, Mehrbedarf, Auskunft und gerichtliche Vergleichsvorbereitung. Sie enthält bewusst mehrere Zahlenstände und widersprüchliche Betreuungsnotizen.
+Die Unterlagen erfassen Unterhaltsberechnung, Betreuungsmodell, Mehrbedarf, Auskunft und gerichtliche Vergleichsvorbereitung. Abweichende Zahlenstände und Betreuungsnotizen lassen sich jeweils auf ihre Quelle zurückführen.

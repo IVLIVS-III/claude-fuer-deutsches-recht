@@ -6,7 +6,7 @@ Konto: Helga Bruns, IBAN DE44 2905 0101 0008 3312 07
 Buchungstag  Vorgang / Verwendungszweck                 Betrag
 --------------------------------------------------------------
 01.06.2026   GUTSCHRIFT ÜBERWEISUNG                  + 164,80
-             UNTERSTUETZUNGSKASSE D. BREMER
+             UNTERSTÜTZUNGSKASSE D. BREMER
              KAFFEEHANDELS E.V.
              LEISTUNG 05/2026 UK-1999-0347
 
@@ -26,7 +26,7 @@ Buchungstag  Vorgang / Verwendungszweck                 Betrag
              VSNR 15 120855 B 508
 
 30.06.2026   GUTSCHRIFT ÜBERWEISUNG                  + 132,37
-             UNTERSTUETZUNGSKASSE D. BREMER
+             UNTERSTÜTZUNGSKASSE D. BREMER
              KAFFEEHANDELS E.V.
              LEISTUNG 06/2026 UK-1999-0347
              ABZGL. KV/PV LT. MITTEILUNG

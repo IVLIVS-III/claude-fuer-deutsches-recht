@@ -4,6 +4,10 @@
 Die ZIPs enthalten die Arbeitsdateien und das Gesamt-PDF, aber keine
 repo-internen README-, Download- oder Vorfuehrseiten. Damit entspricht der
 Download eher einem echten Aktenordner als einer Demo-Mappe.
+
+Aufruf:
+  python3 scripts/build-testakten-release-zips.py [dist]            # alle Testakten
+  python3 scripts/build-testakten-release-zips.py [dist] <name> ... # gezielt
 """
 
 from __future__ import annotations
@@ -66,10 +70,28 @@ def build_single(testakte_dir: Path, dist: Path) -> tuple[Path, int]:
     return out, count
 
 
+def _is_testakte_name(arg: str) -> bool:
+    return "/" not in arg and "\\" not in arg and (TESTAKTEN / arg).is_dir()
+
+
 def main() -> None:
-    dist = Path(sys.argv[1]) if len(sys.argv) > 1 else REPO_ROOT / "dist"
+    argv = sys.argv[1:]
+    dist = REPO_ROOT / "dist"
+    targets: list[str] = []
+    for arg in argv:
+        if _is_testakte_name(arg):
+            targets.append(arg)
+        elif dist == REPO_ROOT / "dist":
+            dist = Path(arg)
+        else:
+            targets.append(arg)
     dist.mkdir(parents=True, exist_ok=True)
     dirs = sorted(d for d in TESTAKTEN.iterdir() if d.is_dir() and d.name not in SKIP_DIRS)
+    if targets:
+        unknown = sorted(set(targets) - {d.name for d in dirs})
+        if unknown:
+            raise SystemExit(f"Unbekannte Testakten: {unknown}")
+        dirs = [d for d in dirs if d.name in targets]
     if not dirs:
         print("Keine Testakten gefunden.")
         return

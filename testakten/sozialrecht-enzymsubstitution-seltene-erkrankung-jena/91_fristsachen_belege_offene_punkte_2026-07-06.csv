@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Bescheidzugang;prüfen;Briefumschlag oder Postvermerk fehlt häufig;Fristkalender
-medizinischer Kernbefund;prüfen;Arztbrief, Gutachten, Pflegeprotokoll;Belegmatrix
-Eilbedürftigkeit;prüfen;Kosten, Gesundheitsrisiko, Versorgungslücke;Eilantrag oder Widerspruchsbegründung
+Vorgang;Auslöser;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Widerspruch;Zugang 22.06.2026;2026-07-22;2026-07-15;Bescheid und Widerspruch;eingelegt;Eingang bestätigen
+Therapiebeginn;Klinik plant August;2026-07-15;2026-07-08;Therapieplan;offen;konkretes Zeitfenster
+Genetik;Variante c.884G>A;2026-07-08;2026-07-07;vollständiger Befund;vorhanden;Klassifikation und Vergleich
+Verlauf;Feinmotorik und Gang;2026-07-10;2026-07-08;Neuropädiatrie und Tagebuch;teilweise;Messwerte chronologisch
+Evidenz;VELO-Teen;2026-07-10;2026-07-08;Publikation und Register;Klinik angefragt;Übertragbarkeit erläutern
+Schule;verkürzte Schultage;2026-07-10;2026-07-08;Fehlzeiten und Nachteilsausgleich;offen;tatsächliche Teilhabefolge

@@ -55,12 +55,12 @@ def build_versorgungsausgleich():
         style_header(c)
 
     rows = [
-        ("Bayerische Aerzteversorgung (Mitgl-Nr. 14-072 184/1958)", "Dr. M. Schaefer", "4.127,42 EUR/Monat", 412853.20, "2.063,71 EUR/Monat", "interne Teilung § 10"),
-        ("DRV Nordbayern (Vers-Nr. 65 030258 S 010)", "Dr. M. Schaefer", "2,1834 EP", 16842.11, "1,0917 EP", "interne Teilung § 10"),
-        ("Allianz Riester (Vertr. 0817 4118 22)", "Dr. M. Schaefer", "DK 18.473,42 EUR", 18473.42, "8.736,71 EUR (Kapital)", "externe Teilung § 14"),
-        ("Wuerttembergische Direktvers (4471 9982 73)", "Dr. M. Schaefer", "DK 44.831,77 EUR", 44831.77, "22.165,89 EUR (Kapital)", "externe Teilung § 14"),
-        ("BayLfF Beamtenversorgung Bayern", "Frau L. Schaefer", "1.850,00 EUR/Monat", 185000.00, "925,00 EUR/Monat", "interne Teilung § 10"),
-        ("DRV Bund", "Frau L. Schaefer", "5,2000 EP (ehezeitlich; 12,5000 EP gesamt)", 40118.00, "2,6000 EP", "interne Teilung § 10"),
+        ("Bayerische Aerzteversorgung (Mitgl-Nr. 14-072 184/1958)", "Dr. M. Schaefer", "4.127,42 EUR/Monat", 412853.20, "2.063,71 EUR/Monat", "interne Teilung Paragraf  10"),
+        ("DRV Nordbayern (Vers-Nr. 65 030258 S 010)", "Dr. M. Schaefer", "2,1834 EP", 16842.11, "1,0917 EP", "interne Teilung Paragraf  10"),
+        ("Allianz Riester (Vertr. 0817 4118 22)", "Dr. M. Schaefer", "DK 18.473,42 EUR", 18473.42, "8.736,71 EUR (Kapital)", "externe Teilung Paragraf  14"),
+        ("Wuerttembergische Direktvers (4471 9982 73)", "Dr. M. Schaefer", "DK 44.831,77 EUR", 44831.77, "22.165,89 EUR (Kapital)", "externe Teilung Paragraf  14"),
+        ("BayLfF Beamtenversorgung Bayern", "Frau L. Schaefer", "1.850,00 EUR/Monat", 185000.00, "925,00 EUR/Monat", "interne Teilung Paragraf  10"),
+        ("DRV Bund", "Frau L. Schaefer", "5,2000 EP (ehezeitlich; 12,5000 EP gesamt)", 40118.00, "2,6000 EP", "interne Teilung Paragraf  10"),
     ]
     for i, r in enumerate(rows, start=5):
         for j, val in enumerate(r, start=1):
@@ -76,7 +76,7 @@ def build_versorgungsausgleich():
     ws.cell(row=last + 4, column=4, value=412853.20/2 + 16842.11/2 + 8736.71 + 22165.89).number_format = "#,##0.00 [$EUR]"
     ws.cell(row=last + 5, column=1, value="Ausgleichssumme (Kapital), Anteile Frau L. Schaefer:")
     ws.cell(row=last + 5, column=4, value=185000.00/2 + 40118.00/2).number_format = "#,##0.00 [$EUR]"
-    ws.cell(row=last + 7, column=1, value="Bei Ausschluss nach § 27 VersAusglG").font = Font(name="Calibri", size=10, bold=True, color="01696F")
+    ws.cell(row=last + 7, column=1, value="Bei Ausschluss nach Paragraf  27 VersAusglG").font = Font(name="Calibri", size=10, bold=True, color="01696F")
     ws.cell(row=last + 8, column=1, value="Beide Anrechte bleiben in voller Hoehe beim urspruenglichen Inhaber.")
 
     auto_width(ws, [42, 22, 26, 22, 26, 26])
@@ -112,7 +112,7 @@ def build_versorgungsausgleich():
     ws2.cell(row=bottom + 3, column=1, value="Lesehilfe").font = Font(name="Calibri", size=10, bold=True, color="01696F")
     ws2.cell(row=bottom + 4, column=1, value="Negative Werte bedeuten Reduktion bei Dr. M. Schaefer.")
     ws2.cell(row=bottom + 5, column=1, value="Positive Werte bei Frau L. Schaefer bedeuten Zugewinn an Anwartschaft.")
-    ws2.cell(row=bottom + 7, column=1, value="Wenn § 27 VersAusglG angewendet wird, entfaellt diese Tabelle (kein VA).").font = Font(name="Calibri", size=10, italic=True, color="7A7974")
+    ws2.cell(row=bottom + 7, column=1, value="Wenn Paragraf  27 VersAusglG angewendet wird, entfaellt diese Tabelle (kein VA).").font = Font(name="Calibri", size=10, italic=True, color="7A7974")
 
     auto_width(ws2, [32, 22, 26, 18, 18])
 

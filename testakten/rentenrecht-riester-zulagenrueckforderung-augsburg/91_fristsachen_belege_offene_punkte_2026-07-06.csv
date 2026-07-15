@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Versicherungszeit;prüfen;Kontenklärung, Arbeitgeber, Ausland;Zeitenmatrix
-Leistungsfall;prüfen;medizinischer Verlauf oder Rentenbeginn;Befundchronologie
-Zahlbetrag;prüfen;Abschlag, KVdR, Hinzuverdienst;Rechentabelle
+Vorgang;Auslöser;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Widerspruch Zulage;Bescheidzugang 29.06.2026;2026-07-29;2026-07-22;Bescheid und gelber Umschlag;offen;Begründung vorbereiten
+Entgelt 2023;41820 EUR;2026-07-10;2026-07-08;Jahresmeldung Arbeitgeber;teilweise;Mindesteigenbeitrag
+Entgelt 2024;36450 EUR;2026-07-10;2026-07-08;Lohnsteuerbescheinigung;vorhanden;Folgejahr zuordnen
+Kinderzulage Jonas;Kindergeldwechsel 03-08/2024;2026-07-10;2026-07-08;Familienkassenbescheide;unvollständig;Bezugsmonate klären
+Kinderzulage Mira;durchgehend Mandantin;2026-07-10;2026-07-08;Kindergeldnachweis;vorhanden;Datenabgleich
+Anbieterberatung;Telefonhinweis 300 EUR;2026-07-13;2026-07-09;Gedächtnisnotiz und Kontoauszug;offen;Beratungsverlauf sichern

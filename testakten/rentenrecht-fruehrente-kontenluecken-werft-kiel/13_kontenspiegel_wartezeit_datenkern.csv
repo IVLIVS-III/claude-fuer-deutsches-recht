@@ -1,11 +1,11 @@
-zeitraum_von,zeitraum_bis,art_der_zeit,monate,zaehlt_wartezeit_35,zaehlt_wartezeit_45,entgeltpunkte_modell,beleglage,streitpunkt
-1982-09,1990-06,Pflichtbeitrag Beschaeftigung,94,ja,ja,7.05,Howaldt-Werft; vollstaendig gemeldet,keiner
-1990-07,1992-08,Beschaeftigung Nordstahl (Luecke im Konto),26,belegbar,belegbar,1.95,AG-Bescheinigung 12.07.1992; 3 Lohnabrechnungen; AOK-Mitgliedsbescheinigung,AG-Meldung fehlt; Firma 1994 liquidiert; Einzugsstellenanfrage
-1992-09,2000-12,Pflichtbeitrag Beschaeftigung,100,ja,ja,7.90,Foerdewerft; vollstaendig gemeldet,keiner
-2001-01,2001-10,Minijob Baeckerei Petersen (Luecke),10,belegbar,zweifelhaft,0.30,8 Kontoauszuege je 610 DM; Weihnachtskarte; Zeugin Clausen,Entgeltmeldung fehlt; Versicherungspflicht offen
-2001-11,2009-10,Pflichtbeitrag Beschaeftigung,96,ja,ja,7.55,Foerdewerft; vollstaendig gemeldet,keiner
-2009-11,2010-02,Pflege Vater (Kasse zahlte nicht),4,belegbar,streitig,0.18,Pflegekassenbescheinigung 03.05.2011,Kasse zahlte Beitraege erst ab 03/2010
-2010-03,2011-04,Pflege Vater (Beitraege abgefuehrt),14,belegbar,belegbar,0.64,Pflegekassenbescheinigung 03.05.2011,abgefuehrt laut Kasse aber nicht im Konto; Zuordnungsfehler
-2011-05,2014-07,Pflichtbeitrag Beschaeftigung,39,ja,ja,3.05,Foerdewerft bis Betriebsschliessung,keiner
+zeitraum_von,zeitraum_bis,art_der_zeit,monate,zählt_wartezeit_35,zählt_wartezeit_45,entgeltpunkte_modell,beleglage,streitpunkt
+1982-09,1990-06,Pflichtbeitrag Beschäftigung,94,ja,ja,7.05,Howaldt-Werft; vollständig gemeldet,keiner
+1990-07,1992-08,Beschäftigung Nordstahl (Lücke im Konto),26,belegbar,belegbar,1.95,AG-Bescheinigung 12.07.1992; 3 Lohnabrechnungen; AOK-Mitgliedsbescheinigung,AG-Meldung fehlt; Firma 1994 liquidiert; Einzugsstellenanfrage
+1992-09,2000-12,Pflichtbeitrag Beschäftigung,100,ja,ja,7.90,Fördewerft; vollständig gemeldet,keiner
+2001-01,2001-10,Minijob Bäckerei Petersen (Lücke),10,belegbar,zweifelhaft,0.30,8 Kontoauszüge je 610 DM; Weihnachtskarte; Zeugin Clausen,Entgeltmeldung fehlt; Versicherungspflicht offen
+2001-11,2009-10,Pflichtbeitrag Beschäftigung,96,ja,ja,7.55,Fördewerft; vollständig gemeldet,keiner
+2009-11,2010-02,Pflege Vater (Kasse zahlte nicht),4,belegbar,streitig,0.18,Pflegekassenbescheinigung 03.05.2011,Kasse zahlte Beiträge erst ab 03/2010
+2010-03,2011-04,Pflege Vater (Beiträge abgeführt),14,belegbar,belegbar,0.64,Pflegekassenbescheinigung 03.05.2011,abgeführt laut Kasse aber nicht im Konto; Zuordnungsfehler
+2011-05,2014-07,Pflichtbeitrag Beschäftigung,39,ja,ja,3.05,Fördewerft bis Betriebsschließung,keiner
 2014-08,2015-03,Arbeitslosengeldbezug,8,ja,streitig,0.50,Alg-Bescheid 21.08.2014; Abmeldung 02.04.2015,als Anrechnungszeit statt Pflichtbeitragszeit gespeichert
-2015-04,2026-04,Pflichtbeitrag Beschaeftigung,133,ja,ja,10.40,Nordische Schiffstechnik; laufend gemeldet,keiner
+2015-04,2026-04,Pflichtbeitrag Beschäftigung,133,ja,ja,10.40,Nordische Schiffstechnik; laufend gemeldet,keiner

@@ -1,8 +1,8 @@
-kind;position;betrag;rhythmus;beleg
-Paula;Mathe-Nachhilfe;160.00;monatlich;Rechnung Lernstudio angefordert
-Paula;Musikschule Klavier;86.00;monatlich;Lastschrift vorhanden
-Paula;Klassenfahrt;395.00;einmalig;Elternbrief liegt vor
-Jakob;Handballverein;21.00;monatlich;Jahresbeitrag anteilig
-Jakob;Kieferorthopaedie Eigenanteil;42.00;monatlich;Behandlungsplan angefordert
-Clara;Hort Stadtschule;174.00;monatlich;Gebuehrenbescheid vorhanden
-Clara;Brille;318.40;einmalig;Rechnung Optik Leiser vorhanden
+Kind;Geburtsjahr;Position;Zeitraum;Betrag_EUR;Zahlungspflicht;Bezahlt_von;Beleg;Status
+Paula;2012;Mathematik-Lerntherapie Diagnostik;Juli 2026;84;offen;Elena geplant;Rechnung 28.06.;noch nicht begonnen
+Paula;2012;Mathematik-Lerntherapie 12 Einheiten;Juli-September 2026;696;offen;Elena geplant;Rechnung und Lehrer-E-Mail;Teilnahme offen
+Paula;2012;Klassenfahrt;Oktober 2026;410;beide zu klären;Anzahlung Elena;Schulbrief;Rest offen
+Jakob;2015;Kieferorthopädie Eigenanteil;2026-2027;1260;offen;noch niemand;Kostenschätzung;Behandlungsplan fehlt
+Jakob;2015;Handball;jährlich;168;laufend;Martin;Vereinsbeleg;bezahlt
+Clara;2018;Brille;Juni 2026;286;offen;Elena;Anzahlung 100 EUR;Endrechnung fehlt
+Clara;2018;Hort;monatlich;174;laufend;Elena;Gebührenbescheid;seit März allein

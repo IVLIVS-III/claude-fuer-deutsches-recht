@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 48 KB) | PDF | [`gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf`](gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 668 KB) | PDF | [`gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf`](gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen-einzelpdfs.zip) |
 
@@ -33,7 +33,8 @@ Die Akte enthält Arbeitswerte zur Grenze von 100.000 Euro, zum Elternunterhalt 
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.docx` | Erstgespräch, Schreiben des Sozialamts, Rechtswahrungsanzeige und Überleitung Paragraf 94 SGB XII |
+| 01a | `01a_mandatsnotiz_markus_reinhold_2026-01-19.docx` | Eigenständiger Kanzleivermerk zum Erstgespräch, Familienlage, Einkommensfragen und Unterlagenstand |
+| 01b | `01b_rechtswahrungsanzeige_staedteregion_aachen_2026-01-12.docx` | Förmliche Rechtswahrungsanzeige der StädteRegion Aachen mit Auskunftsverlangen und Frist |
 | 02 | `02_familien_und_vermoegenslage_mandant.docx` | Familienstand, Haushalt, Vermögensübersicht des pflichtigen Kindes |
 | 03 | `03_einkommen_mandant_jahresbruttogrenze.docx` | Einkommen, Bonus, Jahresbrutto und die 100.000-EUR-Grenze |
 | 04 | `04_heimkosten_und_sozialhilfeleistung.docx` | Heimentgelt, Rente und Pflegeanteil der Mutter, ungedeckter Bedarf |
@@ -44,5 +45,6 @@ Die Akte enthält Arbeitswerte zur Grenze von 100.000 Euro, zum Elternunterhalt 
 | 09 | `09_auskunftsverlangen_und_auskunftspflicht.docx` | Auskunftsverlangen des Sozialamts, Umfang der Auskunftspflicht |
 | 10 | `10_berechnung_einsetzbares_einkommen.docx` | Bereinigung und Berechnung des einzusetzenden Einkommens |
 | 11 | `11_einwendungen_verwirkung_leistungsunfaehigkeit.docx` | Kontaktabbruch/Verwirkung Paragraf 1611 BGB, Leistungsunfähigkeit |
-| 12 | `12_strategie_und_antwortschreiben_sozialamt.docx` | Strategie und Entwurf des Antwortschreibens an das Sozialamt |
+| 12a | `12a_kanzleivermerk_antwortstrategie_sozialamt.docx` | Interner Kanzleivermerk zu Tatsachen, Beleglage, Auskunftsumfang und Verhandlungsweg |
+| 12b | `12b_antwortschreiben_sozialamt_2026-02-12.docx` | Davon getrenntes ausgehendes Antwortschreiben an die StädteRegion mit Anlagenverzeichnis |
 | 13 | `13_vergleichs_und_ratenangebot.docx` | Vergleichs- und Ratenangebot |

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 833 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip) |
 
@@ -30,13 +30,18 @@ sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
 ├── README.md                              <- diese Übersicht
 ├── rubric.yaml                            <- Prüfkriterien für die Bearbeitung
 ├── 01_erstgespraech_tochter.docx            <- Erstberatung, Wohnsituation, Frist, Ziel
-├── 02_pflegegrad_und_md_gutachten.docx      <- Pflegegrad 3, Mobilitätsmodul, Hausarzt-Nachtrag
+├── 02a_pflegegradbescheid_2024-09-18.docx   <- Eigenständiger Pflegegradbescheid
+├── 02b_md_pflegegutachten_2024-09-11.docx   <- Gesondertes MD-Gutachten mit Mobilitätsmodul
+├── 02c_hausaerztliche_stellungnahme_rampe_2026-06-15.docx <- Eigenständige ärztliche Stellungnahme
 ├── 03_bauangebot_rampe.docx                 <- Angebot der Fachfirma mit Maßen und Alternativen
-├── 04_pflegekasse_bescheid.docx             <- Teilbewilligung mit Rechtsbehelfsbelehrung und Telefonnotiz
-├── 05_widerspruch_und_sozialhilfe.docx      <- Anwaltlicher Widerspruch, Prüfvermerk, Finanzlage
+├── 04a_pflegekassenbescheid_rampe_2026-06-24.docx <- Eigenständiger Teilbewilligungsbescheid
+├── 04b_telefonnotiz_tochter_pflegekasse_2026-06-28.docx <- Gesonderte Telefonnotiz der Tochter
+├── 05a_widerspruch_feste_rampe_2026-07-06.docx <- Eigenständiger anwaltlicher Widerspruch
+├── 05b_pruefvermerk_ergaenzende_kostentraeger.docx <- Getrennter Prüfvermerk zu weiteren Kostenträgern
 ├── 06_wohnumfeld_fotos_beschreibung.docx    <- Eingang, Maße, Fotobeschreibungen, Winterrisiko
 ├── 07_kosten_traeger_matrix.csv           <- Datenkern: Kostenpositionen, Höchstzuschuss, Eigenanteil, Finanzierungslücke
-├── 08_eilrechtsschutz_und_ortstermin.docx   <- Vermerk zu Eilbedürftigkeit, Beweisfragen, Vergleich
+├── 08a_kanzleivermerk_eilbeduerftigkeit_rampe.docx <- Getrennter Eilbedürftigkeits- und Belegvermerk
+├── 08b_anregung_ortstermin_pflegekasse.docx <- Eigenständiges Schreiben zur Anregung eines Ortstermins
 ├── 09_bauamt_ortstermin_und_skizzenmass.docx <- Protokoll des Ortstermins mit dem Bauamt
 ├── 10_email_nachbarin_zugang.eml          <- Nachbarin zu Stürzen, Winter und Rampenakzeptanz
 ├── 11_pflegetagebuch_sturzliste.txt       <- Sturzliste und Pflegetagebuch der Tochter
@@ -46,8 +51,8 @@ sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
 │   ├── 02_teschner_angebotsklarstellung.eml    <- Fachfirma schlüsselt die 7920 EUR auf, mobile nicht selbst nutzbar
 │   └── 03_md_stellungnahme_selbstnutzbarkeit.eml <- Medizinischer Dienst zur Selbstnutzbarkeit der mobilen Rampe
 ├── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
+├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
+└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
 ```
 
 ## Bearbeitungsziel

@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 562 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel-einzelpdfs.zip) |
 
@@ -24,7 +24,7 @@ Der Fall ist bewusst mehrdeutig: Die Reha sieht noch leichte Tätigkeiten über 
 ## Aktenstruktur
 
 ```
-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel/
+rentenrecht-erwerbsminderung-orthopädie-psyche-kassel/
 ├── 01_mandatsnotiz_fristsache.docx          # Erstaufnahme, Fristen, Gesundheitsthemen, Arbeitsauftrag
 ├── 02_drv_ablehnungsbescheid.docx           # Ablehnungsbescheid der DRV Hessen mit Rechtsbehelfsbelehrung
 ├── 03_reha_entlassungsbericht_auszug.docx   # Entlassungsbericht Bad Zwesten mit Leistungsbeurteilung

@@ -1,17 +1,13 @@
-person;monat;grundlohn_netto;bonus_netto;nebentaetigkeit_netto;bemerkung
-Elena;2025-10;4218.10;0;0;MVZ-Gehalt
-Elena;2025-11;4194.80;0;600;Honorar Zeitschrift
-Elena;2025-12;4388.20;0;0;Bereitschaftsdienst
-Elena;2026-01;4132.40;0;0;MVZ-Gehalt
-Elena;2026-02;4219.70;0;0;MVZ-Gehalt
-Elena;2026-03;4861.90;640;300;Nachzahlung Bereitschaftsdienst
-Elena;2026-04;4167.20;0;0;MVZ-Gehalt
-Elena;2026-05;4111.80;0;600;Honorar Zeitschrift
-Martin;2025-10;5140.00;0;0;Gehaltsabrechnung fehlt im Original
-Martin;2025-11;5140.00;0;0;Schätzung Elena
-Martin;2025-12;5168.00;0;0;Screenshot Steuerordner
-Martin;2026-01;5122.60;0;0;Gehaltsabrechnung
-Martin;2026-02;5122.60;0;0;Gehaltsabrechnung
-Martin;2026-03;5122.60;0;0;Gehaltsabrechnung
-Martin;2026-04;unbekannt;unbekannt;0;Screenshot unvollständig
-Martin;2026-05;unbekannt;unbekannt;4500;Rechnung MN-2026-016 behauptet bezahlt
+Person;Monat_Jahr;Quelle;Brutto_EUR;Netto_EUR;Einmalzahlung_EUR;Betrieblich_EUR;Beleg;Offener Punkt
+Elena;2026-01;MVZ Wetterau;6820;4124.18;0;0;Abrechnung Januar;Bereitschaftsdienst
+Elena;2026-02;MVZ Wetterau;6940;4197.64;0;0;Abrechnung Februar;keiner
+Elena;2026-03;MVZ Wetterau;7890;4748.22;640 netto Nachzahlung;0;Abrechnung März;Periodenzuordnung
+Elena;2026-04;MVZ Wetterau;7010;4231.47;0;0;Abrechnung April;keiner
+Elena;2026-05;MVZ Wetterau;6630;3791.49;0;0;Abrechnung Mai;geringe Dienste
+Elena;2025;Kinderpraxis aktuell;2400;offen;Honorar;offen;E-Mail-Vertrag;Kosten und Steuer
+Martin;2026-01;HydroMotion;8950;offen;0;0;Abrechnung Januar;Firmenwagen
+Martin;2026-02;HydroMotion;8950;offen;0;0;Abrechnung Februar;Firmenwagen
+Martin;2026-03;HydroMotion;27550;offen;18600;0;Bonusmitteilung;Abrechnung fehlt
+Martin;2026-04;HydroMotion;8950;offen;0;0;Screenshot;Originalabrechnung
+Martin;2026-04;MN Strömungstechnik;10400;offen;0;Kosten offen;Rechnungen 014-015;Zahlungseingänge
+Martin;2026-05;MN Strömungstechnik;8500;offen;0;Kosten offen;Rechnung 016;Geschäftskonto

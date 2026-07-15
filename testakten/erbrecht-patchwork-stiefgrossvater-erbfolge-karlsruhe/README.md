@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1697 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip) |
 
@@ -28,7 +28,9 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | Datei | Inhalt |
 | --- | --- |
 | `01_familienstammbaum_und_zeitstrahl.docx` | Beziehungen, Ehen, Scheidungen, Todesfälle |
-| `02_testamente_und_scheidungen.docx` | Frühere Verfügungen und Scheidungsklauseln |
+| `02a_scheidungsbeschluss_armin_beate_1998.docx` | Eigenständiger Scheidungsbeschluss mit Rechtskraft- und Testamentshinweis |
+| `02b_scheidungsbeschluss_clemens_dana_2001.docx` | Eigenständiger Scheidungsbeschluss mit Kind- und Unterhaltsangaben |
+| `02c_scheidungsvergleich_armin_dana_2012.docx` | Gesondertes Protokoll zu Zugewinnausgleich und fehlendem Erbverzicht |
 | `03_nachlass_armin.docx` | Vermögen Armin, Ehe mit Fiona, Streit um Ehegattenerbrecht |
 | `04_nachlass_clemens.docx` | Vermögen Clemens, Tochter Fiona, frühere Ehe mit Dana |
 | `05_erbscheinantrag_fiona.docx` | Antrag, Parteipositionen und noch einzureichende Unterlagen |
@@ -40,9 +42,12 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `11_testament_armin_beate_1994_abschrift.docx` | Gemeinschaftliches Testament 1994 mit Schlusserbenklausel und Eröffnungsvermerk |
 | `12_testament_armin_2014_abschrift.docx` | Testament Armins von 2014 mit Zuwendungen an Dana und Fiona |
 | `13_testament_clemens_2018_abschrift.docx` | Testament Clemens' von 2018: Fiona Alleinerbin, Ausschluss Danas |
-| `14_sterbeurkunden_abschriften.docx` | Sterbeurkunden beider Erblasser mit urkundlicher Reihenfolge der Erbfälle |
-| `15_nachlassgericht_anhaerung_und_verfuegung.docx` | Nachlassgerichtliche Anhörung mit Anträgen, Einwendungen und konkreter Nachforderung von Personenstands- und Testamentsunterlagen |
-| `16_grundbuch_und_bankauskunft_armin.docx` | Bankauskunft zu Konten, Depot, Vollmacht, Schließfach, Immobilie und Verfügungen nach dem Tod |
+| `14a_sterbeurkunde_armin_vogel.docx` | Eigenständige Sterbeurkunde des Armin Vogel |
+| `14b_sterbeurkunde_clemens_radtke.docx` | Eigenständige Sterbeurkunde des Clemens Radtke |
+| `15a_niederschrift_nachlassgericht_2026-07-15.docx` | Eigenständige gerichtliche Anhörungsniederschrift mit Aussagen und Zeugenaussage |
+| `15b_verfuegung_nachlassgericht_2026-07-15.docx` | Davon getrennte Verfügung mit Nachforderungen, Fristen und Wiedervorlage |
+| `16a_grundbuchauszug_sophienstrasse_41.docx` | Eigenständiger Grundbuchauszug mit Bestandsverzeichnis und drei Abteilungen |
+| `16b_bankauskunft_armin_vogel_2026-07-11.docx` | Gesonderte Bankauskunft zu Konten, Depot, Vollmacht und Schließfach |
 | `17_personenstandsunterlagen_fiona.docx` | Beglaubigte Personenstandsübersicht zu Abstammung, Ehen der Eltern, früherem Stiefverhältnis und Ehe mit Armin |
 | `18_telefonnotiz_fiona_nach_gericht.docx` | Telefonnotiz zu möglichem Ehevertrag und Fundfotos nach dem Gerichtstermin |
 | `19_fristkalender_und_postausgang.docx` | Getrennte Fristen und Versandnachweise für beide Nachlassverfahren |

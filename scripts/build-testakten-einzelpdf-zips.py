@@ -34,6 +34,7 @@ from testakte_einzelpdf_common import (
     document_arcname_pairs,
     ext_of,
 )
+from testakte_office_pdf import OFFICE_EXTS, OfficeRenderError, render_office, render_office_batch
 
 SCRIPTS = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPTS.parent
@@ -64,51 +65,15 @@ def write_pdf(zipf: zipfile.ZipFile, arcname: str, data: bytes) -> None:
 
 
 def odt_to_flowables(path: Path) -> list:
-    """Rendert ODT-Text in Flowables oder bricht nachvollziehbar ab."""
-    out: list = []
-    try:
-        from odf.opendocument import load as odf_load
-        from odf.element import Element
-    except ImportError:
-        raise G.DocumentRenderError("odfpy ist nicht installiert")
-    try:
-        doc = odf_load(str(path))
-    except Exception as exc:  # pragma: no cover - defekte Datei
-        raise G.DocumentRenderError(f"ODT konnte nicht gelesen werden: {exc}") from exc
-
-    def text_of(node) -> str:
-        parts: list[str] = []
-        for child in node.childNodes:
-            if child.nodeType == child.TEXT_NODE:
-                parts.append(child.data)
-            elif isinstance(child, Element):
-                parts.append(text_of(child))
-        return "".join(parts)
-
-    def walk(node) -> None:
-        """Durchlaeuft den Baum in Dokumentreihenfolge und gibt Absaetze/
-        Ueberschriften aus, sobald sie auftreten (erhaelt die Reihenfolge)."""
-        for child in node.childNodes:
-            if not isinstance(child, Element):
-                continue
-            local = child.qname[1]
-            if local in ("p", "h"):
-                txt = text_of(child).strip()
-                if txt:
-                    out.append(Paragraph(G.escape(txt), G.s_h3 if local == "h" else G.s_body))
-            else:
-                walk(child)
-
-    # doc.text kann bei odfpy auf einen Whitespace-Textknoten zeigen. Der
-    # Dokumentkoerper enthaelt dagegen das office:text-Element und damit auch
-    # Tabellen, Listen, Absaetze und Ueberschriften in richtiger Reihenfolge.
-    walk(doc.body)
-    if not out:
-        raise G.DocumentRenderError("ODT enthält keinen lesbaren Text")
-    return out
+    """Kompatibilitätswrapper für den gemeinsamen strengen ODT-Fallback."""
+    return G.odt_to_flowables(path)
 
 
-def render_document_pdf(path: Path, testakte_dir: Path) -> bytes | None:
+def render_document_pdf(
+    path: Path,
+    testakte_dir: Path,
+    office_cache: dict[Path, bytes] | None = None,
+) -> bytes | None:
     """Rendert eine Einzeldatei in eine PDF und liefert die Bytes.
 
     Original-PDFs werden unveraendert zurueckgegeben.
@@ -123,6 +88,14 @@ def render_document_pdf(path: Path, testakte_dir: Path) -> bytes | None:
         if not pages:
             raise G.DocumentRenderError(f"{path.name}: PDF enthält keine Seite")
         return data
+
+    if ext in OFFICE_EXTS:
+        try:
+            native = office_cache.get(path) if office_cache is not None else render_office(path)
+        except OfficeRenderError as exc:
+            raise G.DocumentRenderError(f"{path.name}: {exc}") from exc
+        if native is not None:
+            return native
 
     rel = path.relative_to(testakte_dir)
     flow: list = [Paragraph(f"<b>Datei:</b> {G.escape(str(rel))}", G.s_meta), Spacer(1, 6)]
@@ -179,8 +152,13 @@ def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
 def add_testakte_many(zipfiles: list[zipfile.ZipFile], testakte_dir: Path) -> int:
     """Rendert jede Quelle einmal und schreibt sie in mehrere Zielarchive."""
     count = 0
-    for path, arcname in document_arcname_pairs(testakte_dir):
-        data = render_document_pdf(path, testakte_dir)
+    pairs = document_arcname_pairs(testakte_dir)
+    try:
+        office_cache = render_office_batch([path for path, _ in pairs])
+    except OfficeRenderError as exc:
+        raise G.DocumentRenderError(f"{testakte_dir.name}: {exc}") from exc
+    for path, arcname in pairs:
+        data = render_document_pdf(path, testakte_dir, office_cache)
         if data is None:
             continue
         for zipf in zipfiles:

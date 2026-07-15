@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Bescheidzugang;prüfen;Briefumschlag oder Postvermerk fehlt häufig;Fristkalender
-medizinischer Kernbefund;prüfen;Arztbrief, Gutachten, Pflegeprotokoll;Belegmatrix
-Eilbedürftigkeit;prüfen;Kosten, Gesundheitsrisiko, Versorgungslücke;Eilantrag oder Widerspruchsbegründung
+Vorgang;Auslöser;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Klagefrist;Widerspruchsbescheid Zugang 26.06.;2026-07-27;2026-07-13;Bescheid und Umschlag;offen;Klageentwurf prüfen
+Eilantrag;fortdauernde Immobilität;2026-07-06;2026-07-03;Stürze und ausgefallene Wege;in Arbeit;Anordnungsgrund belegen
+MD-Akte;keine persönliche Untersuchung;2026-07-08;2026-07-06;Verwaltungsakte;angefordert;Beurteilungsgrundlage prüfen
+Fahrprobe;Privatgutachten;2026-07-03;2026-07-02;Protokoll mit Strecke;teilweise;Beobachter ergänzen
+Wohnungsmaße;Tür und Aufzug;2026-07-03;2026-07-02;Sanitätshausbogen;offen;Modelltauglichkeit
+Anlagen;Klage und Eilakte;2026-07-06;2026-07-03;Belegliste;offen;K1 bis K12 zuordnen

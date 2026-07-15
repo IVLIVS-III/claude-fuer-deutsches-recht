@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Bescheidzugang;prüfen;Briefumschlag oder Postvermerk fehlt häufig;Fristkalender
-medizinischer Kernbefund;prüfen;Arztbrief, Gutachten, Pflegeprotokoll;Belegmatrix
-Eilbedürftigkeit;prüfen;Kosten, Gesundheitsrisiko, Versorgungslücke;Eilantrag oder Widerspruchsbegründung
+Vorgang;Auslöser;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Olaf / Hilfsmittel;Kassenbescheid;2026-06-30;sofort prüfen;Verordnung und Angebot;Widerspruch offen;Frist und Eilbedarf
+Olaf / Fahr- und Wohnprobe;Elektrorollstuhl;2026-07-08;2026-07-06;Maße und Fahrprotokoll;offen;Sanitätshaus ergänzen
+Lena / Schulbegleitung;Jugendamtsbescheid;2026-04-12;Fristakte prüfen;Bescheid und Schulgutachten;Widerspruch läuft;Block- und Stundenbedarf
+Margarete / Pflegegrad;Bescheid 05.04.2026;Fristakte prüfen;sofort;MD-Gutachten;Widerspruchslage offen;Zugang und Pflegeprotokoll
+Bodo / EM-Rente;Bescheid 15.04.2026;Fristakte prüfen;sofort;Reha und Gutachten;unklar;Rechtsbehelfsstand
+Haushaltsunterlagen;vier Teilakten;2026-07-08;2026-07-06;Stammbaum und Kosten;vorhanden;je Person Fundstelle zuordnen

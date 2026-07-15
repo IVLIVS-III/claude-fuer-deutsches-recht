@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 42 KB) | PDF | [`gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf`](gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 551 KB) | PDF | [`gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf`](gesamt-pdf/rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld-einzelpdfs.zip) |
 
@@ -42,11 +42,11 @@ rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld/
 ├── 14_whatsapp_tochter_archiv.txt                        # Chat Tochter/Rentenberater zu Apostille, Archiv und Namensfrage
 ├── eml/
 │   ├── 01_drv_westfalen_mitwirkung_erklaerung.eml        # DRV Westfalen: Mitwirkungsfrist, Fonds R-2214/R-2298, Sechstel
-│   ├── 02_landsmannschaft_uebersetzung_transliteration.eml # Landsmannschaft: Transliteration Klassen/Klasssen, Fondswechsel
+│   ├── 02_landsmannschaft_uebersetzung_transliteration.eml # Landsmannschaft: Transliteration Klassen/Klassen, Fondswechsel
 │   └── 03_wittkamp_intern_berechnung_qualifikationsgruppe.eml # Interner Rechenweg QG3 gegen QG2 (Grundlage der Tabelle)
 ├── README.md                                             # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
 ├── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
+├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
+└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
 ```

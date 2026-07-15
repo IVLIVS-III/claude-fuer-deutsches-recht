@@ -1,6 +1,6 @@
 # corporate-kanzlei
 
-**87 Skills** · Stand `v432.1.1`
+**87 Skills** · Stand `v433.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../corporate-kanzlei/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

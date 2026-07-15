@@ -8,7 +8,7 @@ Vollmacht:    Erteilt! Vollmacht liegt vor, unterschrieben, liegt in Akte
 
 !!! FRIST: Widerspruchsfrist läuft ab 21.05.2026 !!!
 Bescheid vom 18.04.2026 zugestellt laut Mandant am 21.04.2026
-§ 84 SGG: 1 Monat = Frist bis 21.05.2026
+Paragraf 84 SGG: 1 Monat = Frist bis 21.05.2026
 SOFORT WIDERSPRUCH EINLEGEN – morgen ist letzter Tag!
 (Per Fax + Einschreiben, Fax-Sendebericht sichern!)
 
@@ -41,14 +41,14 @@ BESONDERHEITEN / AUFGABEN:
 2. Widerspruchsbegründung (kann innerhalb normaler Frist nachgereicht werden):
    - BSG B 3 KR 17/01 R (Behinderungsausgleich, Grundbedürfnis Mobilität)
    - BSG B 3 KR 25/06 R (Leichtgewicht-RsT auch ohne Beruf berechtigt)
-   - § 33 SGB IX (Teilhabe, Selbstbestimmung)
+   - Paragraf 33 SGB IX (Teilhabe, Selbstbestimmung)
    - MDK-Gutachten angreifen: kein persönliches Erscheinen, Handkraft nicht gemessen
    - Attest Wallenstein + Reha-Bericht Damp als neue Tatsachen einführen
 
 3. PKH-Antrag mitbedenken:
    - Mandant erhält EU-Rente (Höhe nicht mitgeteilt, nachfragen!)
    - Vermögensverhältnisse noch unklar -> PKH-Formular mitgeben
-   - Sozialrecht: Prozesskostenhilfe nach § 73a SGG, § 114 ZPO analog
+   - Sozialrecht: Prozesskostenhilfe nach Paragraf 73a SGG, Paragraf 114 ZPO analog
    - Prozesskostenrisiko gering (keine GKG-Gebühren im Sozialrecht)
 
 4. Heilmittelverordnung (Nebenthema!):
@@ -56,7 +56,7 @@ BESONDERHEITEN / AUFGABEN:
    - Folgerezept bei Dr. Wallenstein anfordern -> Notiz an Mandanten
    - NICHT Gegenstand des Widerspruchs, aber aufnehmen für Vollständigkeit
 
-5. Eilantrag § 86b SGG?:
+5. Eilantrag Paragraf 86b SGG?:
    - Falls Widerspruch verschleppt wird oder KK sich weigert -> vorbereiten
    - Argument: Sturzgefahr = aktuelle Gesundheitsgefährdung = Dringlichkeit
    - Erstmal regulärer Widerspruch, Eilantrag erst wenn KK nicht innerhalb
@@ -64,8 +64,8 @@ BESONDERHEITEN / AUFGABEN:
 
 6. Klage Sozialgericht Schleswig (ggf. nach Widerspruchsablehnung):
    - Sozialgericht Schleswig, Dänische Str. 1-3, 24103 Kiel (zuständig)
-   - Klagefrist: 1 Monat nach Widerspruchsbescheid (§ 87 SGG)
-   - Streitwert: max. 5.847 EUR -> keine GKG-Gebühren nach § 183 SGG
+   - Klagefrist: 1 Monat nach Widerspruchsbescheid (Paragraf 87 SGG)
+   - Streitwert: max. 5.847 EUR -> keine GKG-Gebühren nach Paragraf 183 SGG
 
 7. Beweismittel sichern:
    - Handkraftmessung (Jamar-Dynamometer) – Dr. Wallenstein soll das dokumentieren

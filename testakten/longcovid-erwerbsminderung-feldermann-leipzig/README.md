@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 670 KB) | PDF | [`gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf`](gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 2719 KB) | PDF | [`gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf`](gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-longcovid-erwerbsminderung-feldermann-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig-einzelpdfs.zip) |
 
@@ -17,10 +17,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-**Plugin:** `fachanwalt-sozialrecht`
-**Branch:** `feat/v51.0.0-testakten-vollbestand`
-**Erstellt:** Mai 2026
-**Kanzlei-AZ:** SON-2026-0047-FEL
+Kanzlei-AZ: `SON-2026-0047-FEL`
 
 ---
 
@@ -41,7 +38,7 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 
 | Verfahren | Ext. Aktenzeichen |
 |---|---|
-| BK 3101 (BGW Hannover) | BK 3101 / 261/26 |
+| BK 3101 (BGW, Bezirksverwaltung Leipzig) | BK 3101 / 261/26 |
 | Erwerbsminderungsrente (DRV) | xx 060379 41 W 077 |
 | GdB-Festsetzung (LASOV Sachsen) | SBH-L-23-0047892 |
 | SGB II (Jobcenter Leipzig) | BG-L-2025-88-44123 |
@@ -51,40 +48,46 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 
 ## Verfahrenslage (Stand März 2026)
 
-1. **BK 3101 (BGW):** Ablehnung 28.01.2026 → Widerspruch 26.02.2026. Kern: fehlende adäquate PSA, Zeugenaussage Stationsleitung in BGW-Akte nicht berücksichtigt.
-2. **EM-Rente (DRV):** Ablehnung 14.02.2026 → Widerspruch 12.03.2026. Kern: DRV-Gutachten diagnostiziert falsch F43.2 statt G93.3/F33.1; PEM und POTS ignoriert.
-3. **GdB (LASOV):** GdB 30 (09/2023) → Widerspruch (10/2023, übernommen 19.02.2026). Korrekter Gesamt-GdB: mind. 60–70. Schwerbehinderung angestrebt.
-4. **SGB II (Jobcenter):** Ablehnung 11/2025 + KdU-Kürzung → Widerspruch. Einkommensanrechnung Ehemann fehlerhaft; KdU-Richtlinie veraltet.
-5. **Eilantrag KdU (SG Leipzig):** Eingereicht 19.02.2026. Erörterungstermin 12.03.2026. Räumungsklage Vermieter droht.
-6. **Akteneinsichten:** DRV 04.03.2026 (3 Bände, 340 S.), BGW 05.03.2026 – ausgewertet.
+1. BK 3101: ablehnender Bescheid der BGW vom 28. Januar 2026; Widerspruch vom 26. Februar 2026; Dienstplan, Expositionsumstände und Akteninhalt sind gegeneinander abzugleichen.
+2. Erwerbsminderungsrente: ablehnender Bescheid vom 14. Februar 2026; Widerspruch vom 12. März 2026; streitig sind insbesondere das zeitlich verlässliche Leistungsvermögen und die Würdigung der Belastungsverschlechterungen.
+3. GdB: Feststellung eines GdB von 30 im September 2023; eigenhändiger Widerspruch im Oktober 2023; Eingang und weiterer Verfahrensstand müssen anhand der Behördenakte geklärt werden.
+4. SGB II: Ablehnung vom 14. November 2025; zu prüfen sind Monatsberechnung, Absetzbeträge, Kindergeld und die Begrenzung der Unterkunftskosten.
+5. Eilverfahren: Antrag beim Sozialgericht Leipzig mit dem Aktenzeichen S 7 AS 188/26 ER; Erörterungstermin am 12. März 2026.
+6. Akteneinsicht: Rentenversicherungsakte mit drei Bänden sowie die Akte der BGW sind im März 2026 eingegangen und in gesonderten Vermerken erschlossen.
 
 ---
 
 ## Akteninhalt
 
-### Markdown-Aktenstücke (22)
+### DOCX-Aktenstücke (28)
 
 | Nr. | Dateiname | Inhalt |
 |---|---|---|
 | 01 | `01_aktenvorblatt_sonnemann.docx` | Aktenvorblatt, Mandantendaten, Verfahrensübersicht |
 | 02 | `02_kanzleinotiz_erstgespraech_feldermann.docx` | Protokoll Erstgespräch 17.02.2026 |
 | 03 | `03_anamnese_chronologie_2021_2026.docx` | Vollständige Erkrankungs- und Verfahrenschronologie |
-| 04 | `04_bescheid_ukbw_bk3101_28_01_2026.docx` | Bescheid BGW/UKBW BK 3101 + Kanzleibewertung |
-| 05 | `05_widerspruch_bk3101_ukbw.docx` | Widerspruchsschriftsatz BGW BK 3101 (Entwurf) |
-| 06 | `06_bescheid_drv_em_rente.docx` | Bescheid DRV EM-Rente + Kanzleibewertung |
+| 04a | `04a_bgw_bescheid_bk3101_2026-01-28.docx` | Vollständiger ablehnender Bescheid der BGW mit Ermittlungsergebnis und Rechtsbehelfsbelehrung |
+| 04b | `04b_kanzleivermerk_bgw_bescheid_bk3101.docx` | Davon getrennter Prüfvermerk zu Zugang, Expositionsbelegen, Zeugen und Akteneinsicht |
+| 05 | `05_widerspruch_bk3101_bgw.docx` | Widerspruchsschriftsatz zur BK 3101 |
+| 06a | `06a_drv_bescheid_erwerbsminderungsrente_2026-02-14.docx` | Vollständiger Bescheid der Rentenversicherung mit medizinischer Begründung |
+| 06b | `06b_kanzleivermerk_drv_bescheid_erwerbsminderung.docx` | Gesonderter Prüfvermerk zu Befundlage, Gutachten und Beweisplan |
 | 07 | `07_widerspruch_drv_em_rente.docx` | Widerspruchsschriftsatz DRV EM-Rente (Entwurf) |
-| 08 | `08_bescheid_lasov_gdb30.docx` | Bescheid LASOV GdB 30 + Kanzleibewertung |
+| 08a | `08a_lasov_bescheid_gdb_2023-09-19.docx` | Vollständiger Feststellungsbescheid mit Funktionsbewertung und Rechtsbehelfsbelehrung |
+| 08b | `08b_kanzleivermerk_gdb_bescheid_befundluecken.docx` | Gesonderter Vermerk zu Verfahrensstand, Befundlücken und Beweisplan |
 | 09 | `09_widerspruch_lasov_gdb_erhoehung.docx` | Widerspruchsbegründung LASOV GdB-Erhöhung |
-| 10 | `10_bescheid_jobcenter_sgbii.docx` | Bescheid Jobcenter SGB II + Einkommensberechnung |
+| 10a | `10a_jobcenter_leipzig_ablehnungsbescheid_2025-11-14.docx` | Vollständiger Leistungsbescheid mit Bedarfs- und Einkommensberechnung |
+| 10b | `10b_kanzleivermerk_jobcenter_berechnung_und_kdu.docx` | Davon getrennter Prüfvermerk zu Absetzungen, Kindergeld, Unterkunftskosten und Belegen |
 | 11 | `11_widerspruch_jobcenter_sgbii.docx` | Widerspruchsschriftsatz Jobcenter |
 | 12 | `12_eilantrag_sg_leipzig_kdu.docx` | Eilantrag SG Leipzig KdU (Az. S 7 AS 188/26 ER) |
 | 13 | `13_akteneinsicht_drv_auswertungsbericht.docx` | Auswertung DRV-Akte (3 Bände, 340 S.) |
-| 14 | `14_akteneinsicht_ukbw_auswertungsbericht.docx` | Auswertung BGW/UKBW-Akte |
-| 15 | `15_befund_charite_longcovid_ambulanz.docx` | Befundbericht Prof. Scheibenbogen (Charité, 11/2025) |
-| 16 | `16_befund_skh_psychiatrie.docx` | Entlassungsbericht SKH Leipzig Psychiatrie (02/2026) |
+| 14 | `14_akteneinsicht_bgw_auswertungsbericht.docx` | Auswertung der Verwaltungsakte der BGW |
+| 15a | `15a_befundbericht_post_covid_ambulanz_2025-11-12.docx` | Eigenständiger fachärztlicher Befundbericht mit Untersuchungswerten und Funktionsbeschreibung |
+| 16a | `16a_entlassungsbericht_psychiatrie_2024-11-07.docx` | Eigenständiger psychiatrischer Entlassungsbericht zu Aufnahme, Verlauf und Weiterbehandlung |
 | 17 | `17_pem_tagebuch_auszug.docx` | PEM-Tagebuch Auszug (Aug 2025 – Jan 2026, 6 Monate) |
-| 18 | `18_email_kette_sonnemann_traeger.docx` | E-Mail-Kette Kanzlei / DRV / BGW (Akteneinsicht) |
-| 19 | `19_mandantenkommunikation.docx` | Mandantenkommunikation Feb–März 2026 |
+| 18a | `18a_kanzleivermerk_akteneinsichtstermine_2026-02-23.docx` | Gesonderter Termin- und Arbeitsvermerk nach den beiden Akteneinsichtsbestätigungen |
+| 19a | `19a_telefonnotiz_mandantin_2026-02-19.docx` | Eigenständige Telefonnotiz zum Eilantrag, Mietrückstand und zur Belastung der Mandantin |
+| 19d | `19d_telefonnotiz_akteneinsicht_2026-03-05.docx` | Eigenständige Telefonnotiz nach den Einsichten bei Rentenversicherung und BGW |
+| 19g | `19g_kanzleivermerk_barrierearme_kommunikation_2026-03-05.docx` | Interner Ablaufvermerk zur abgestimmten belastungsarmen Kommunikation |
 | 20 | `20_strategie_priorisierung_verfahren.docx` | Strategiepapier (vertraulich) |
 | 21 | `21_kostenrisiko_pkh_antrag.docx` | PKH-Berechnung und Kostenrisiko |
 | 22 | `22_fristenuebersicht.docx` | Fristenübersicht und -kalender |
@@ -95,7 +98,7 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 |---|---|
 | `docx/widerspruch_drv_em_rente_feldermann.docx` | Widerspruch DRV EM-Rente |
 | `docx/eilantrag_sg_leipzig_kdu_feldermann.docx` | Eilantrag SG Leipzig KdU (S 7 AS 188/26 ER) |
-| `docx/widerspruch_ukbw_bk3101_feldermann.docx` | Widerspruch BGW BK 3101 |
+| `docx/widerspruch_bgw_bk3101_feldermann.docx` | Widerspruch BGW BK 3101 |
 
 ### XLSX-Tabellen (2)
 
@@ -104,7 +107,7 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 | `xlsx/pem_score_uebersicht.xlsx` | PEM-Score-Übersicht (6 Monate, Tagesprotokoll Aug 2025, Diagramme) |
 | `xlsx/bedarfsberechnung_jobcenter_feldermann.xlsx` | Bedarfs-/Einkommensberechnung SGB II (Jobcenter vs. Kanzlei, KdU-Vergleich) |
 
-### E-Mails (4, EML-Format)
+### E-Mails (8, EML-Format)
 
 | Datei | Inhalt |
 |---|---|
@@ -112,13 +115,10 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 | `eml/02_akteneinsicht_drv_bestaetigung.eml` | Bestätigung DRV Akteneinsichtstermin (20.02.2026) |
 | `eml/03_mandantin_jobcenter_schweigen.eml` | Mandantin fragt wegen Jobcenter-Schweigen (10.03.2026) |
 | `eml/04_kanzlei_antwort_eilantrag_update.eml` | Kanzlei-Antwort mit Update Eilantrag (10.03.2026) |
-
-### PDFs (2, redacted)
-
-| Datei | Inhalt |
-|---|---|
-| `pdfs/bescheid_drv_em_rente_redacted.pdf` | Bescheid DRV EM-Rente (personenbezogene Daten geschwärzt) |
-| `pdfs/befund_charite_longcovid_redacted.pdf` | Befundbericht Charité Long-Covid-Ambulanz (personenbezogene Daten geschwärzt) |
+| `eml/05_akteneinsicht_bgw_anforderung.eml` | Gesonderte Anforderung der vollständigen BGW-Akte (18.02.2026) |
+| `eml/06_akteneinsicht_bgw_bestaetigung.eml` | Terminbestätigung der BGW mit Blattumfang und Scanregel (21.02.2026) |
+| `eml/07_mandantin_bgw_eingang_und_unterlagen.eml` | Mandantin übersendet die BGW-Eingangsbestätigung und vier Anlagen (28.02.2026) |
+| `eml/08_kanzlei_antwort_bgw_eingang.eml` | Kanzlei ordnet Eingang, Originale und nächsten Schritt ein (01.03.2026) |
 
 ### JPG-Grafiken (3)
 
@@ -130,14 +130,14 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 
 ---
 
-## Normen und Rechtsprechung (Testakte)
+## Rechtlicher Arbeitsrahmen
 
-- § 9 Abs. 1 SGB VII i. V. m. Nr. 3101 Anlage 1 BKV (Berufskrankheit Infektionskrankheiten)
-- § 43 SGB VI (Rente wegen Erwerbsminderung)
-- §§ 2, 69 SGB IX i. V. m. VersMedV (GdB-Festsetzung, Schwerbehinderung)
-- §§ 11, 11b, 22 SGB II (Einkommensanrechnung, KdU)
-- § 86b Abs. 2 SGG (Einstweiliger Rechtsschutz Sozialgerichtsbarkeit)
-- §§ 20, 25 SGB X (Amtsermittlung, Akteneinsicht)
+- Paragraf 9 Absatz 1 SGB VII in Verbindung mit Nummer 3101 der Anlage 1 BKV (Berufskrankheit Infektionskrankheiten)
+- Paragraf 43 SGB VI (Rente wegen Erwerbsminderung)
+- Paragrafen 2 und 152 SGB IX in Verbindung mit der Versorgungsmedizin-Verordnung (GdB-Feststellung und Schwerbehinderung)
+- Paragrafen 11, 11b und 22 SGB II (Einkommensanrechnung und Unterkunftskosten)
+- Paragraf 86b Absatz 2 SGG (einstweiliger Rechtsschutz)
+- Paragrafen 20 und 25 SGB X (Amtsermittlung und Akteneinsicht)
 - BSG, Urt. v. 27.06.2006 – B 2 U 13/05 R (BK-Kausalität)
 - BSG, Urt. v. 12.12.2011 – B 13 R 21/10 R (EM-Rente, Leistungsvermögen)
 - BSG, Urt. v. 22.09.2009 – B 4 AS 18/09 R (KdU-Angemessenheit, schlüssiges Konzept)
@@ -146,13 +146,4 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 
 ---
 
-## Technische Hinweise
-
-- Alle Aktenstücke in UTF-8 / Markdown; deutsche Umlaute vollständig.
-- Keine Symlinks, keine Build-Scripts im Aktenordner.
-- Branch: `feat/v51.0.0-testakten-vollbestand` (kein Commit durch Agenten).
-- Aktenstand: Personen- und Verfahrensdaten sind anonymisiert und dienen der geschlossenen Fallbearbeitung.
-
----
-
-*Testakte erstellt für `fachanwalt-sozialrecht` Plugin-Testing.*
+Die Akte führt unterschiedliche Tatsachendarstellungen und lückenhafte Belegketten zusammen. Bescheide, medizinische Originalunterlagen und interne Prüfvermerke bleiben als eigenständige Dokumente getrennt.

@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Versicherungszeit;prüfen;Kontenklärung, Arbeitgeber, Ausland;Zeitenmatrix
-Leistungsfall;prüfen;medizinischer Verlauf oder Rentenbeginn;Befundchronologie
-Zahlbetrag;prüfen;Abschlag, KVdR, Hinzuverdienst;Rechentabelle
+Vorgang;Zugang;Frist;Vorfrist;Beleg;Verantwortlich;Status;Nächster Schritt
+DRV-Anhörung;2026-06-26;2026-07-17;2026-07-10;Posteingangsbuch und Schreiben;Kappes;Fristverlängerung offen;telefonisch nachfassen
+Akteneinsicht;Antrag 30.06.;2026-07-10;2026-07-08;Versandnachweis;Kappes;keine Antwort;Prüferin kontaktieren
+App-Export;Bestellung offen;2026-07-09;2026-07-08;Feldliste;Breuer;offen;Touren, Ablehnung, Ranking, Login exportieren
+Selim-Unterlagen;Besprechung 07.07.;2026-07-13;2026-07-10;Rechnungen und Reparaturbelege;Kappes;teilweise;Vertreterzahlung und Fremdumsatz
+Fallgruppenmatrix;18 Fahrer;2026-07-14;2026-07-11;Monatslisten;Kappes;vier Gruppen angelegt;jede Person zuordnen
+Steuerrechnung;Statusszenarien;2026-07-15;2026-07-13;Beitragsbasis;Mertens;wartet auf Matrix;Nettofolgen je Szenario

@@ -1,4 +1,7 @@
-Punkt;Status;Warum wichtig;Nächster Output
-Versicherungszeit;prüfen;Kontenklärung, Arbeitgeber, Ausland;Zeitenmatrix
-Leistungsfall;prüfen;medizinischer Verlauf oder Rentenbeginn;Befundchronologie
-Zahlbetrag;prüfen;Abschlag, KVdR, Hinzuverdienst;Rechentabelle
+Vorgang;Auslöser;Frist;Vorfrist;Beleg;Status;Nächster Schritt
+Zusatzversorgungszeit;1999 bis 06/2004 fehlt;2026-07-13;2026-07-09;Lohnabrechnungen und Ausgründung;offen;Klinikum und Kasse anschreiben
+Rentenbeginn 01.12.2027;14,4 Prozent Abschlag;2026-07-20;2026-07-13;DRV-Auskunft;Modell;Netto berechnen
+Rentenbeginn 01.04.2028;13,2 Prozent Abschlag;2026-07-20;2026-07-13;DRV-Auskunft;Modell;Netto berechnen
+Direktversicherung;Kapital oder 213,40 EUR;2027-05-31;2027-04-30;Standmitteilung;offen;Kosten und Beiträge aufschlüsseln
+Dachsanierung;Angebot 28000 EUR;2026-07-15;2026-07-13;Handwerkerangebot;vorhanden;Finanzierungsalternativen
+KV/PV;vier Leistungsarten;2026-07-20;2026-07-13;Kassenstatus;offen;jede Säule getrennt rechnen

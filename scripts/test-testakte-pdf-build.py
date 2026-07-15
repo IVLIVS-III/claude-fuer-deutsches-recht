@@ -13,6 +13,7 @@ import zipfile
 
 from odf.opendocument import OpenDocumentText
 from odf.text import H, P
+from docx import Document
 
 
 SCRIPTS = Path(__file__).resolve().parent
@@ -59,6 +60,23 @@ def main() -> int:
             raise AssertionError("Defekte DOCX-Datei darf kein Platzhalter-PDF erzeugen")
         broken.unlink()
 
+        styled = root / "brief.docx"
+        styled_doc = Document()
+        styled_doc.sections[0].header.paragraphs[0].text = "Kanzlei am Markt - Aktenzeichen 26/184"
+        styled_doc.add_paragraph("Vollständiger Briefkopf mit Straße und Rückrufnummer.")
+        styled_doc.add_page_break()
+        styled_doc.add_paragraph("Zweite Seite mit gesonderter Anlage.")
+        styled_doc.sections[0].footer.paragraphs[0].text = "Seite und Vertraulichkeitsvermerk"
+        styled_doc.save(styled)
+        styled_pdf = E.render_document_pdf(styled, root)
+        require(styled_pdf is not None, "DOCX muss ein PDF ergeben")
+        styled_reader = G.PdfReader(io.BytesIO(styled_pdf))
+        if E.render_office(styled) is not None:
+            require(len(styled_reader.pages) == 2, "native DOCX-PDF muss Seitenumbrüche erhalten")
+            styled_text = "\n".join(page.extract_text() or "" for page in styled_reader.pages)
+            require("Kanzlei am Markt" in styled_text, "native DOCX-PDF muss Kopfzeile erhalten")
+            require("Vertraulichkeitsvermerk" in styled_text, "native DOCX-PDF muss Fußzeile erhalten")
+
         pdf_data = E.render_document_pdf(odt, root)
         require(pdf_data is not None and pdf_data.startswith(b"%PDF-"), "ODT muss ein PDF ergeben")
         require(len(list(G.PdfReader(io.BytesIO(pdf_data)).pages)) >= 1, "PDF braucht mindestens eine Seite")
@@ -66,7 +84,7 @@ def main() -> int:
         dist = root / "dist"
         dist.mkdir()
         archive, count = E.build_single(root, dist)
-        require(count == 1, "die ODT-Datei muss als Einzel-PDF im ZIP landen")
+        require(count == 2, "ODT und DOCX müssen jeweils als Einzel-PDF im ZIP landen")
         first_hash = hashlib.sha256(archive.read_bytes()).hexdigest()
         archive, _ = E.build_single(root, dist)
         second_hash = hashlib.sha256(archive.read_bytes()).hexdigest()

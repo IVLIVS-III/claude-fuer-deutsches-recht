@@ -1,8 +1,8 @@
-monat,brutto_witwenrente,abzug_kv_pv,einkommen_arbeitsentgelt_brutto,betriebsrente_brutto,private_sofortrente,sterbevierteljahr,einkommensanrechnung_bescheid,zahlbetrag_bescheid,pruefvermerk
+monat,brutto_witwenrente,abzug_kv_pv,einkommen_arbeitsentgelt_brutto,betriebsrente_brutto,private_sofortrente,sterbevierteljahr,einkommensanrechnung_bescheid,zahlbetrag_bescheid,prüfvermerk
 2026-05,1404.78,117.16,2240.00,146.80,238.44,ja,0.00,1287.62,Sterbevierteljahr ohne Einkommensanrechnung
 2026-06,1404.78,117.16,2240.00,146.80,238.44,ja,0.00,1287.62,Sterbevierteljahr ohne Einkommensanrechnung
 2026-07,1404.78,117.16,2240.00,146.80,238.44,ja,0.00,1287.62,Sterbevierteljahr ohne Einkommensanrechnung
 2026-08,1404.78,117.16,2240.00,146.80,238.44,nein,458.44,829.18,Bescheid legt Zwischenschritte nicht offen
 2026-09,1404.78,117.16,2240.00,146.80,238.44,nein,458.44,829.18,Freibetrag und Pauschalnetto nachfordern
-2026-11,1404.78,117.16,3390.00,146.80,238.44,nein,unbekannt,unbekannt,Jahressonderzahlung gesondert pruefen
+2026-11,1404.78,117.16,3390.00,146.80,238.44,nein,unbekannt,unbekannt,Jahressonderzahlung gesondert prüfen
 

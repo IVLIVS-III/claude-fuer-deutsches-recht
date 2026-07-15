@@ -11,7 +11,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf`](gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 506 KB) | PDF | [`gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf`](gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg-einzelpdfs.zip) |
 

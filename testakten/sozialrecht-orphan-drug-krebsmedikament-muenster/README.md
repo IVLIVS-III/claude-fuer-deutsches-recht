@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 701 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip) |
 
@@ -26,15 +26,18 @@ Gregor Lütke, 46, hat ein metastasiertes alveoläres Weichteilsarkom. Die Unive
 ## Aktenstruktur
 
 ```
-sozialrecht-orphan-drug-krebsmedikament-muenster/
+sozialrecht-orphan-drug-krebsmedikament-münster/
 ├── README.md                                <- diese Übersicht
 ├── rubric.yaml                              <- Prüfkriterien für die Bearbeitung
 ├── 01_mandatsnotiz_eilfall.docx               <- Erstkontakt, Frist, Erste Einschätzung, Auftrag
 ├── 02_onkologischer_antrag.docx               <- Kostenübernahmeantrag der Universitätsklinik
-├── 03_tumorboard_und_nutzenblatt.docx         <- Tumorboardprotokoll, Optionen, Nutzenblatt
+├── 03a_tumorboardprotokoll_2026-05-29.docx    <- Eigenständiges interdisziplinäres Tumorboardprotokoll
+├── 03b_nutzen_risiko_stellungnahme_telvuranib_2026-06-02.docx <- Gesonderte ärztliche Nutzen-Risiko-Stellungnahme
 ├── 04_md_stellungnahme_ablehnung.docx         <- MD-Stellungnahme nach Aktenlage mit Ablehnungsempfehlung
-├── 05_kassenbescheid.docx                     <- Ablehnungsbescheid mit Rechtsbehelfsbelehrung und Telefonnotiz
-├── 06_widerspruch_und_eilantrag.docx          <- Anwaltlicher Widerspruch und Eilantragsentwurf
+├── 05a_kassenbescheid_lunazimerab_2026-06-21.docx <- Eigenständiger Ablehnungsbescheid
+├── 05b_telefonnotiz_ehefrau_kasse_2026-06-25.docx <- Gesonderte Telefonnotiz zum Kassengespräch
+├── 06a_widerspruch_vitalis_bkk_2026-06-29.docx <- Eigenständiger anwaltlicher Widerspruch
+├── 06b_eilantrag_sozialgericht_muenster_2026-06-30.docx <- Gesonderter Eilantragsentwurf
 ├── 07_therapie_kostenmatrix.csv             <- Dosen, Termine, Kosten, Streitpunkte
 ├── 08_gerichtliche_beweisfragen.docx          <- Antizipierte Beweisfragen und Vergleichsfenster
 ├── 09_apotheke_kostenvoranschlag_herstellung.docx <- Kostenvoranschlag der Klinikapotheke mit Lieferrisiken

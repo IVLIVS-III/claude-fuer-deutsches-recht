@@ -1,9 +1,11 @@
-Personalnummer,Name,Eintritt,Umwandlung_EUR,AG_Zuschuss_Gezahlt_EUR,AG_Zuschuss_Erwartet_EUR,Besonderheit
-1021,Karin Menzel,2013-06-01,0,80,100,Altzusage Leitung
-1088,Cem Aydin,2017-09-01,120,18,18,stellvertretende Leitung
-1094,Ilona Hase,2017-11-15,120,0,18,stellvertretende Leitung ohne Zuschuss
-1140,Lena Prager,2020-02-01,80,12,12,Teilzeit 30 Stunden
-1166,Mustafa Kilic,2021-05-01,150,0,22.50,Entgeltumwandlung ohne Zuschuss
-1202,Rita Olschewski,2022-03-01,60,9,9,Elternzeit ab 2026-04
-1218,Sven Berger,2023-01-01,250,37.50,37.50,volle Automatik
-1250,Nadja Wolf,2024-08-15,40,0,6,Minijob mit Aufstockung
+Personalnummer;Name;Eintritt;Vertrag;Monat;Umwandlung_EUR;AG_Zuschuss_Gezahlt_EUR;AG_Zuschuss_Prüfwert_EUR;Differenz_EUR;Beleg;Offener Punkt
+1021;Karin Menzel;2013-06-01;Leitung Plus;2026-06;0;80;100;20;Personalakte Schreiben 18.11.2014;Änderungsvereinbarung ab 2018 suchen
+1088;Cem Aydin;2017-09-01;DV-77182;2026-06;120;18;18;0;Abrechnung 06/2026;Rufbereitschaft als Differenzierungsgrund belegen
+1094;Ilona Hase;2017-11-15;DV-77401;2026-06;120;0;18;18;Abrechnung 06/2026;Zuschussbeginn und Vergleichsgruppe klären
+1140;Lena Prager;2020-02-01;PK-20884;2026-03;80;12;12;0;Abrechnung 03/2026;letzter Monat vor Elternzeit
+1140;Lena Prager;2020-02-01;PK-20884;2026-04;0;0;0;0;Elternzeitbescheid;Ruhensmitteilung fehlt
+1166;Mustafa Kilic;2021-05-01;PK-21409;2026-06;150;0;22.50;22.50;Abrechnung und Vereinbarung;Lohnart 904 nicht aktiviert
+1202;Rita Olschewski;2022-03-01;PK-22918;2026-03;60;9;9;0;Abrechnung 03/2026;Wiederaufnahme nach Elternzeit vormerken
+1218;Sven Berger;2023-01-01;PK-24116;2026-06;250;37.50;37.50;0;Abrechnung 06/2026;kein Befund
+1250;Nadja Wolf;2024-08-15;PK-25802;2026-06;40;0;6;6;Abrechnung und RV-Aufstockung;Sozialversicherungsersparnis monatsgenau prüfen
+1274;Torsten Lenk;2025-04-01;PK-26377;2026-06;90;13.50;13.50;0;Abrechnung 06/2026;Kontrollfall neue Automatik

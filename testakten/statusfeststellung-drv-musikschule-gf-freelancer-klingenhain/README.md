@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 371 KB) | PDF | [`gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf`](gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 750 KB) | PDF | [`gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf`](gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-einzelpdfs.zip) |
 
@@ -17,7 +17,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen Musikschule mit Honorarkräften, Geschäftsführerstatus, freiem anwaltlichem Mitarbeiter, IT-Freelancer, Unterrichtsplänen, gelebter Praxis, DRV-Anhörung und Beitragsrisiko. Sie passt zu `sozialversicherungsstatus-pruefer`, daneben zu `fachanwalt-sozialrecht`, `arbeitsrecht`, `steuerrecht-anwalt-und-berater`, `fachanwalt-arbeitsrecht` und `kanzlei-allgemein`.
+Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen Musikschule mit Honorarkräften, Geschäftsführerstatus, freiem anwaltlichem Mitarbeiter, IT-Freelancer, Unterrichtsplänen, gelebter Praxis, DRV-Anhörung und Beitragsrisiko. Sie passt zu `sozialversicherungsstatus-prüfer`, daneben zu `fachanwalt-sozialrecht`, `arbeitsrecht`, `steuerrecht-anwalt-und-berater`, `fachanwalt-arbeitsrecht` und `kanzlei-allgemein`.
 
 ## Aktenstücke
 
@@ -25,7 +25,7 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 | --- | --- |
 | `01-mandatsnotiz-und-risiko.docx` | Erstnotiz mit Beteiligten, Ausgangslage, betroffenen Gruppen und Verfahrensstand |
 | `02-personen-und-rollen.docx` | Rollenübersicht: GF, Honorarkräfte, Anwalt, IT-Freelancer, Lehrbeauftragte |
-| `03-drv-anhoerung-betriebspruefung.pdf` | Anhörungsschreiben zur Betriebsprüfung nach § 28p SGB IV |
+| `03-drv-anhoerung-betriebspruefung.pdf` | Anhörungsschreiben zur Betriebsprüfung nach Paragraf 28p SGB IV |
 | `04-honorarvertrag-musiklehrer-auszug.docx` | Honorarvertrag mit Freiheitsklauseln und gelebter Planbindung |
 | `05-satzung-und-gf-regelung.docx` | Vollständige Satzung der gGmbH mit Geschäftsführerregelung, 50-Prozent-Patt und Gründerbrief-Nebenabrede |
 | `06-status-indizienmatrix.xlsx` | Matrix zur Statusgewichtung über mehrere Personengruppen |
@@ -40,7 +40,7 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 | `15-musikschullehrer-herrenberg-notiz.docx` | Didaktische Einordnung Musikschullehrer und Übergangsregelung |
 | `16-gf-50-prozent-patt-und-nebenabrede.docx` | Gesellschafter-GF-Frage bei genau 50%, Sperre und Stimmbindung |
 | `17-widerspruchsentwurf-drv.docx` | Rohentwurf einer Erwiderung/Widerspruchslinie |
-| `18-risikorechnung-und-szenarien.docx` | Beitragsvolumen, Säumniszuschläge, § 266a-StGB-Trigger |
+| `18-risikorechnung-und-szenarien.docx` | Beitragsvolumen, Säumniszuschläge, Paragraf 266a-StGB-Trigger |
 | `19-beitragsvolumen.xlsx` | Beitrags- und Szenarienrechnung nach Personengruppen |
 | `20-fragen-an-mandantin.docx` | Rückfragenliste für tatsächliche Durchführung |
 | `21-bescheid-entwurf-status.pdf` | Auszug eines Status-/Beitragsbescheidentwurfs |

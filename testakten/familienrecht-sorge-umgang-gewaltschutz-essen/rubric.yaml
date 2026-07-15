@@ -20,8 +20,12 @@ checks:
     path: 08_aerztlicher_befundbericht.docx
   - id: datei-10-jugendamt
     check_type: file_exists
-    description: Der Jugendamtsvermerk zu Hausbesuch, Kindergesprächen und Hilfeplanung ist vorhanden.
-    path: 10_jugendamt_hausbesuch_und_hilfeplan.docx
+    description: Der Jugendamtsvermerk zu Hausbesuch und Kindergesprächen ist als eigenes Aktenstück vorhanden.
+    path: 10a_jugendamt_hausbesuchsvermerk_2026-06-26.docx
+  - id: datei-10-jugendamt-hilfeplan
+    check_type: file_exists
+    description: Der vorläufige Hilfeplan des Jugendamts ist als eigenes Aktenstück vorhanden.
+    path: 10b_jugendamt_vorlaeufiger_hilfeplan_2026-06-27.docx
   - id: fachpruefung-01
     check_type: human_review
     description: Gewaltschutz, elterliche Sorge, Umgang und Kindeswohl als getrennte Verfahrensgegenstände mit jeweils
